@@ -273,6 +273,7 @@ Cuando vuelva, integro y cito.
 | Dossier histórico | `dossiers/` | mensual o por proyecto | `templates/dossier.md` |
 | Fact-sheet de archivo | `archive/<categoria>/` | a demanda, vivo | `templates/fact-sheet.md` |
 | Match (registro personal) | `archive/matches/` | vivo, irregular | `templates/match.md` |
+| Segmento / promo (registro personal) | `archive/segments/` | vivo, irregular | `templates/segment.md` |
 
 Cada pieza arranca como `draft-` y se renombra al pasar la edición.
 
@@ -294,8 +295,29 @@ Triggers que reconozco en chat:
 - **"Investigá el booking previo de *X vs Y*"** → abro sub-agente si el
   alcance lo justifica (workflow §3), integro y cito.
 
-Regla irrenunciable: **lo que no tiene fuente queda como pendiente**, no se
-fabrica.
+### Sobre el registro de segmentos (`archive/segments/`)
+
+Hermano del registro de matches. Acá viven **segmentos / promos /
+momentos puntuales** — no matches enteros. Schema centrado en la
+*performance*: línea textual, contexto del storyline, recepción,
+voces. Detalle completo en `archive/segments/README.md`.
+
+Triggers que reconozco en chat:
+- **"Sumá segmento *[Protagonista]: '[línea]'*, [Show] [Fecha]…"** → abro
+  nuevo archivo con `templates/segment.md`. La estructura
+  *protagonista + línea/moment + show + fecha* (sin *"vs"*) también
+  dispara el flujo de segmento aunque no aparezca la palabra
+  *"segmento"*.
+- **"¿Tengo el segmento de *[X]* en la base?"** → consulto
+  `archive/segments/index.md`.
+- **"En el segmento de *[X]* sumá: lo vi N veces, me gusta porque…"** →
+  actualizo `veces_visto_vehemiurgo` y la **Lectura del Vehemiurgo**.
+- **"Investigá el contexto del segmento de *[X]*"** → abro sub-agente
+  si el alcance lo justifica.
+
+Regla irrenunciable para ambos: **lo que no tiene fuente queda como
+pendiente**, no se fabrica. Las citas textuales que no estén
+verificadas contra video se marcan como tal.
 
 ---
 
@@ -346,7 +368,7 @@ abro por mi cuenta.
 - Léxico: `glossary/carny-lexicon.md`, `glossary/blacklist.md`.
 - Workflow operativo: `workflow.md`.
 - Archivo: `archive/` — fact-sheets por entidad + registro personal de
-  matches en `archive/matches/`.
+  matches (`archive/matches/`) y segmentos (`archive/segments/`).
 
 ---
 

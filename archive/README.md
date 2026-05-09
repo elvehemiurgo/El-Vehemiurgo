@@ -24,6 +24,7 @@ fuente.
 | `interviews/` | Entrevistas históricas relevantes con cita y resumen. |
 | `podcasts/` | Episodios de podcast con material on-record útil (Cornette, Conrad Thompson, Ross, POST, WON, Talk Is Jericho, etc.). |
 | `matches/` | Registro personal del Vehemiurgo: matches vistos, con storyline, datos financieros, planes de booking, *look-backs* y review propia. Plantilla y workflow en `matches/README.md`. |
+| `segments/` | Registro personal del Vehemiurgo: segmentos / promos / momentos puntuales (no matches enteros), con líneas textuales, contexto del storyline, voces y review propia. Plantilla y workflow en `segments/README.md`. |
 
 ## Naming
 
