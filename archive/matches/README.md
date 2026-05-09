@@ -109,10 +109,53 @@ Definido en `templates/match.md`. Campos clave:
    canceló.
 7. **Impacto en carrera**.
 8. **Datos curiosos**.
-9. **Entrevistas y look-backs**.
+9. **Voces** — testimonio diverso atribuido, en cinco rangos:
+   protagonistas, bookers/creative, comentaristas/referees, historiadores
+   y periodistas, fans y foros.
 10. **Lectura del Vehemiurgo** — review personal, rewatch count, por qué.
 11. **Fuentes**.
 12. **Pendientes de investigación**.
+
+### Doctrina de la sección Voces
+
+Todas las afirmaciones que vienen de boca de alguien — sea protagonista,
+booker, historiador o forista — entran acá con atribución completa:
+
+- **Quién** lo dijo.
+- **Dónde** lo dijo (podcast con episodio, libro con capítulo, foro con
+  link, entrevista con publicación y fecha).
+- **Cuándo** lo dijo.
+- **Cita textual** entre comillas si es exacta; **paráfrasis marcada**
+  como tal si no es palabra por palabra.
+
+Usamos voces de fans / foros / boca a boca como **opinión documentada**,
+nunca como hecho. Sirven para registrar recepción, abrir pistas y
+mantener viva la memoria informal del oficio. El Vehemiurgo juzga el peso
+de cada voz por su criterio.
+
+### Sobre Meltzer y la escuela WON (importante)
+
+La escuela Meltzer / *Wrestling Observer* — *workrate first*, match
+como arte independiente del draw, star ratings como veredicto — **no
+es nuestra escuela**. Nuestro norte editorial es Cornette: booking,
+draw, heat, gimmicks, intención y consecuencia.
+
+Por eso, en cada entrada de match:
+
+- El **reporte factual de WON** (gates, attendance, ratings, buys,
+  noticias documentadas) entra en el cuerpo del archivo como dato
+  fiable.
+- Las **opiniones y star ratings de Meltzer** entran en la sub-sección
+  "Historiadores y periodistas" de **Voces** como **contexto
+  histórico** (*"WON le dio N estrellas"*, *"Meltzer en su review
+  destacó X"*), pero **no son nuestro veredicto**. El veredicto del
+  Vehemiurgo se construye desde la escuela Cornette y se declara en
+  la sección **Lectura del Vehemiurgo**.
+- Cuando un match tenga voces de **Cornette, Bruce Prichard,
+  Pollock/Wai Ting, Conrad Thompson, JR, Apter, Schiavone, Bischoff**,
+  esas voces tienen **peso editorial superior** al rating de Meltzer
+  para nuestro juicio. La star rating es dato de archivo; la lectura
+  Cornette-school es lectura editorial.
 
 Cuando un match esté `stub` o `en-investigacion`, las secciones que faltan
 se dejan con el header pero sin contenido. Esto hace explícito qué falta y

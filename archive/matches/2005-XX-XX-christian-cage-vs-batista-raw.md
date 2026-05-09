@@ -105,18 +105,51 @@ Líneas a perseguir:
 
 (Pendiente)
 
-## Entrevistas y look-backs
+## Voces
 
-(Pendiente — buscar:)
-- Christian en *Edge and Christian's Pod of Awesomeness* / *Talk Is
-  Jericho* / *Something to Wrestle*: episodios donde habla del periodo
-  Raw 2005 y de la decisión de irse a TNA.
-- Batista en autobiografía *Batista Unleashed* (2007) y entrevistas
-  posteriores en *Steve Austin Show*, *Talk Is Jericho*.
-- Bruce Prichard en *Something to Wrestle* sobre el booking del periodo
-  Royal Rumble–WrestleMania XXI.
-- Comentaristas de Raw 2005: Jim Ross y Jerry Lawler. ¿Algún episodio
-  *Grilling JR* sobre este tramo?
+### Protagonistas
+
+(Pendiente — research en curso. Pistas a chequear:)
+- **Christian (Jay Reso)** — buscar en *Edge & Christian's Pod of
+  Awesomeness*, *Talk Is Jericho*, *Insight with Chris Van Vliet*
+  episodios donde discute Raw 2005 y la decisión de salir a TNA en
+  noviembre 2005.
+- **Batista (Dave Bautista)** — autobiografía *Batista Unleashed*
+  (Pocket Books, 2007). Entrevistas posteriores en *Steve Austin Show*,
+  *Talk Is Jericho*, prensa mainstream durante la era cine.
+
+### Bookers, road agents, creative
+
+(Pendiente — pistas:)
+- **Bruce Prichard** — *Something to Wrestle* episodios sobre Royal
+  Rumble 2005 y Road to WrestleMania XXI.
+- **Vince Russo / Court Bauer / quien estuviera en creative** del periodo.
+- **Pat Patterson** — figura de booking de la era. Buscar entrevistas
+  archivadas.
+
+### Comentaristas, referees, staff
+
+(Pendiente — pistas:)
+- **Jim Ross** — *Grilling JR* con Conrad Thompson, posibles episodios
+  cubriendo Raw 2005.
+- **Jerry Lawler** — entrevistas y *Dinner with the King*.
+
+### Historiadores y periodistas
+
+(Pendiente — pistas:)
+- **Dave Meltzer / WON** — review del Raw correspondiente, *star rating*
+  del match si Meltzer lo cubrió. Paywalleado en F4WOnline; buscar citas
+  públicas.
+- **POST Wrestling (Pollock & Wai Ting)** — retrospectivas sobre el
+  periodo Christian / TNA exit.
+- **Cornette** — *Jim Cornette Experience* / *Drive-Thru* episodios
+  donde discute el periodo.
+
+### Fans, foros, boca a boca
+
+(Pendiente — research por hacer:)
+- Threads de `/r/SquaredCircle`, F4W forums, WrestlingClassics,
+  Cagematch user comments.
 
 ## Lectura del Vehemiurgo
 

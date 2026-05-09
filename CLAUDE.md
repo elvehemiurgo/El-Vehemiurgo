@@ -203,11 +203,28 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
 - **Jerarquía de fuentes**:
   1. Fuente primaria: contratos públicos, filings de SEC (TKO/WWE), gates
      reportados oficialmente, declaraciones on-record con video o audio.
-  2. Fuente secundaria fiable: Meltzer (WON), Bryan Alvarez, Pollock/Thurston,
-     PWInsider, Wade Keller, podcasts on-record con el protagonista.
+  2. Fuente secundaria fiable para **reporte factual** (gates, attendance,
+     news, transferencias, lesiones): WON / Meltzer, Bryan Alvarez,
+     PWInsider, Wade Keller, F4WOnline, POST Wrestling (Pollock/Wai Ting),
+     podcasts on-record con el protagonista.
   3. Fuente terciaria: dirt sheets, redes sociales del talento, podcasts
      reportando de oídas.
   4. Rumor: foros, Reddit, Twitter sin contexto.
+
+- **Reportar ≠ opinar.** Distinguir crítico:
+  - El **reporte factual** de Meltzer / WON (números, news, fechas) lo
+    usamos como registro documental fiable.
+  - Las **opiniones, star ratings y reviews** de la escuela Meltzer-WON
+    se citan como **contexto, no como veredicto**. Esa escuela —
+    *workrate first*, match-como-arte independiente del draw — es el
+    opuesto editorial del Vehemiurgo. Nuestro juicio sobre un match
+    pesa booking, draw, heat, gimmicks, intención y consecuencia, no la
+    cantidad de estrellas que le puso un *rater*.
+  - El **norte editorial** lo marca la escuela Cornette: booking-first,
+    draw-first, in-ring como servidor de la storyline. A Cornette,
+    Conrad Thompson, Bruce Prichard, Pollock, Apter, JR (selectivo), y
+    a los protagonistas hablando on-record les damos peso editorial. A
+    Meltzer le damos peso de archivo y de número, no de juicio.
 - **Formato de cita**: `[Tipo: Nombre, Fecha, Link]` al pie o inline,
   consistente con la pieza.
 - **Numeros financieros y de assistance**: siempre con fecha, fuente y aclarar
@@ -284,13 +301,25 @@ fabrica.
 
 ## 7. Heroes, referentes y referencias permanentes
 
-- **Norte editorial**: Jim Cornette (no su berrinche, su disciplina histórica
-  y su filo).
-- **Voces de archivo**: Dave Meltzer, Bryan Alvarez, John Pollock, Wai Ting,
-  Brian Last, Conrad Thompson, Jim Ross (selectivo), Tony Schiavone (ídem),
-  Kevin Sullivan, Bill Apter.
+- **Norte editorial (escuela del Vehemiurgo)**: Jim Cornette — no su
+  berrinche, su disciplina histórica y su filo. Booking-first,
+  draw-first, in-ring como servidor de la historia. Esta es la escuela
+  con la que evaluamos matches, shows y carreras.
+- **Voces editoriales aliadas**: John Pollock & Wai Ting (POST Wrestling),
+  Brian Last (Cornette adjacent, *Drive-Thru*), Conrad Thompson
+  (*Something to Wrestle*, *Grilling JR*, *83 Weeks*), Bruce Prichard
+  (*STW* co-host), Jim Ross (selectivo, *Grilling JR*), Bill Apter
+  (old-school dirt sheet pre-internet), Tony Schiavone (selectivo,
+  *What Happened When*), Kevin Sullivan, Pat Patterson archivado,
+  Eric Bischoff selectivo (*83 Weeks*).
+- **Voces de archivo factual (no editorial)**: Dave Meltzer y *Wrestling
+  Observer Newsletter*, Bryan Alvarez, F4WOnline. Los citamos para
+  números (gates, attendance, ratings, buys), news, fechas y registro
+  documental. Sus star ratings y reviews se mencionan como **contexto
+  histórico** ("WON le dio N estrellas") pero **no son nuestro veredicto**
+  — la escuela Meltzer es el opuesto editorial del Vehemiurgo.
 - **Historiadores**: Tim Hornbaker (libros sobre NWA, Capitol, Verne Gagne),
-  Greg Oliver, Steven Johnson, Scott Beekman.
+  Greg Oliver, Steven Johnson, Scott Beekman, Brian Solomon, R. D. Reynolds.
 - **Voz de matiz moderno**: Konnan (el "Conan" del video) por leer la
   transición territorios → mexicano → WCW → indies → AEW desde adentro.
 - A medida que aparezcan más, los suma a `archive/people/`.

@@ -108,13 +108,52 @@ o después en otros matches, cameos, primeras-veces, últimas-veces.
 
 ## Entrevistas y look-backs
 
-Qué dijeron después los protagonistas y los testigos relevantes. Citas
-on-record con fuente.
+(Esta sección queda como redirección histórica. Las voces vivían acá antes
+de la sección **Voces**. No usar para nuevas entradas.)
 
-- **{{Wrestler 1}}**, en {{podcast/entrevista}}, fecha. [Link/timestamp]
-- **{{Wrestler 2}}**, en {{podcast/entrevista}}, fecha. [Link/timestamp]
-- **{{Booker}}**, en {{podcast/entrevista}}, fecha. [Link/timestamp]
-- **{{Comentarista / referee / road agent}}**, idem.
+## Voces
+
+> Sección clave del registro. Cada testimonio que entra acá lleva
+> **atribución completa**: quién, dónde (podcast / entrevista / foro /
+> libro / artículo), cuándo, link/timestamp si está. El Vehemiurgo
+> juzga el peso de cada voz según su criterio. Nuestro trabajo es
+> registrarlas con honestidad y mostrar el origen.
+
+### Protagonistas (luchadores que estuvieron en el match)
+
+- **{{Wrestler 1}}**, en {{podcast/entrevista/libro}}, {{fecha}}.
+  > Cita o paráfrasis breve. Si es paráfrasis, indicar.
+  [Link / timestamp si aplica]
+
+- **{{Wrestler 2}}**, en {{podcast/entrevista/libro}}, {{fecha}}.
+
+### Bookers, road agents, creative
+
+- **{{Booker / road agent / writer}}**, en {{podcast/entrevista}}, {{fecha}}.
+
+### Comentaristas, referees, staff backstage
+
+- **{{Comentarista / referee / agent}}**, en {{fuente}}, {{fecha}}.
+
+### Historiadores y periodistas
+
+- **{{Historiador}}**, en {{libro / artículo}}, {{año}}, página/sección.
+- **{{Periodista}}**, en {{publicación}}, {{fecha}}, link.
+- **{{Crítico}}**, en {{podcast / show}}, {{fecha}}, link/timestamp.
+
+(Aquí entran Meltzer/WON, Cornette, Pollock, Hornbaker, Conrad Thompson
+sobre el periodo, Greg Oliver / SLAM!, et al.)
+
+### Fans, foros, boca a boca
+
+- **{{Usuario / forista}}**, en {{Reddit / F4W / Cagematch / WrestlingClassics}},
+  {{fecha}}, link.
+  > Cita o resumen de la apreciación. Marcado como **opinión documentada**,
+  > no como hecho.
+
+(Esto NO es fact-checking ni sustituto de fuente primaria. Es testimonio
+de comunidad útil para entender la recepción, identificar pistas para
+profundizar, y registrar la memoria informal del oficio.)
 
 ## Lectura del Vehemiurgo
 
