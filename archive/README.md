@@ -23,6 +23,7 @@ fuente.
 | `contracts/` | Contratos relevantes documentados, modelos contractuales (downside guarantees, independent contractor, AEW vs WWE, NJPW). |
 | `interviews/` | Entrevistas históricas relevantes con cita y resumen. |
 | `podcasts/` | Episodios de podcast con material on-record útil (Cornette, Conrad Thompson, Ross, POST, WON, Talk Is Jericho, etc.). |
+| `matches/` | Registro personal del Vehemiurgo: matches vistos, con storyline, datos financieros, planes de booking, *look-backs* y review propia. Plantilla y workflow en `matches/README.md`. |
 
 ## Naming
 

@@ -255,8 +255,30 @@ Cuando vuelva, integro y cito.
 | Review semanal de show | `reviews/` | semanal por programa cubierto | `templates/review.md` |
 | Dossier histórico | `dossiers/` | mensual o por proyecto | `templates/dossier.md` |
 | Fact-sheet de archivo | `archive/<categoria>/` | a demanda, vivo | `templates/fact-sheet.md` |
+| Match (registro personal) | `archive/matches/` | vivo, irregular | `templates/match.md` |
 
 Cada pieza arranca como `draft-` y se renombra al pasar la edición.
+
+### Sobre el registro de matches (`archive/matches/`)
+
+La base de datos personal del Vehemiurgo. Funciona como memoria operativa
+del historiador: matches que vio, está estudiando o quiere documentar, con
+schema rico (booking, financiero, backstage, *look-backs*, review personal,
+*rewatch count*). Detalle completo del workflow en
+`archive/matches/README.md`.
+
+Triggers que reconozco en chat:
+- **"Sumá *X vs Y*…"** → abro nuevo archivo con `templates/match.md`,
+  pueblo lo que tengo de fuente fiable, marco pendientes.
+- **"¿Tengo *X vs Y* ya en la base?"** → consulto `archive/matches/index.md`
+  y confirmo.
+- **"En *X vs Y* sumá: lo vi N veces, me gusta porque…"** → actualizo
+  `veces_visto_vehemiurgo` y la sección **Lectura del Vehemiurgo**.
+- **"Investigá el booking previo de *X vs Y*"** → abro sub-agente si el
+  alcance lo justifica (workflow §3), integro y cito.
+
+Regla irrenunciable: **lo que no tiene fuente queda como pendiente**, no se
+fabrica.
 
 ---
 
@@ -294,7 +316,8 @@ abro por mi cuenta.
 - Doctrina: este archivo.
 - Léxico: `glossary/carny-lexicon.md`, `glossary/blacklist.md`.
 - Workflow operativo: `workflow.md`.
-- Archivo: `archive/` (vacío, se va llenando con cada pieza).
+- Archivo: `archive/` — fact-sheets por entidad + registro personal de
+  matches en `archive/matches/`.
 
 ---
 
