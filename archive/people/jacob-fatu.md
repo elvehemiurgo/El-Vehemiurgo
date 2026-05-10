@@ -21,8 +21,10 @@ fuentes_principales:
   Fatu (Tama original / The Tonga Kid). **Cousin de los Usos
   (Jey/Jimmy), Solo Sikoa, Roman Reigns**.
 - **Promoción actual (mayo 2026)**: WWE main roster, miembro de los
-  **MFTs** (faction Solo Sikoa) — con angle propio en curso vs Solo.
-  Detalle en [`promotions/mfts.md`](../promotions/mfts.md).
+  **MFTs** = **"My Family Tree"** (faction Solo Sikoa, branding
+  kayfabe post-Roman feud, ambiguo on-screen) — con angle propio en
+  curso vs Solo. Detalle en
+  [`promotions/mfts.md`](../promotions/mfts.md).
 
 ## Datos duros
 

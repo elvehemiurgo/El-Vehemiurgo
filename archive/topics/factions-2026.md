@@ -34,14 +34,17 @@ analizar las facciones vigentes desde ese criterio.
 - **Bloodline** (estado 2026 a verificar) — Roman Reigns y
   derivados.
 
-- **MFTs / Solo's Bloodline** — facción derivada del Bloodline
-  liderada por **Solo Sikoa** (Tama Tonga + Tonga Loa + Jacob
-  Fatu). Detalle en
+- **MFTs** = **"My Family Tree"** (Solo's branding) — facción
+  derivada del Bloodline liderada por **Solo Sikoa** (Tama Tonga +
+  Tonga Loa + Jacob Fatu). Detalle en
   [`promotions/mfts.md`](../promotions/mfts.md). **Lectura del
   Vehemiurgo**: *víctimas narrativas* del feud forzado con los
   Wyatt Sicks paranormales — stable con draw real subordinado a
   un gimmick paranormal que no rindió. Composición reduciéndose
-  (Tonga Loa released 2 may 2026).
+  (Tonga Loa released 2 may 2026). **Nota editorial**: WWE
+  programming deja el brand *"My Family Tree"* deliberadamente
+  ambiguo on-screen pese a que Solo lo verbaliza en promos —
+  síntoma del push subordinado al stable.
 
 - **Imperium** (estado 2026 a verificar).
 

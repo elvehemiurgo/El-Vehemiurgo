@@ -21,8 +21,9 @@ fuentes_principales:
   Anoa'i / Polinesio extendido. Hermano de **Tonga Loa**, **Hikuleo**,
   Camacho (también de la familia).
 - **Promoción actual (mayo 2026)**: WWE main roster, miembro de la
-  facción **MFTs** (también referenciada como *Solo's Bloodline* /
-  *The New Bloodline*) liderada por Solo Sikoa. Detalle en
+  facción **MFTs** = **"My Family Tree"** (branding kayfabe de
+  Solo Sikoa post-Roman feud, verbalizado en promos pero
+  deliberadamente ambiguo en programming WWE). Detalle en
   [`promotions/mfts.md`](../promotions/mfts.md).
 
 ## Datos duros

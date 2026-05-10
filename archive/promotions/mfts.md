@@ -22,14 +22,23 @@ fuentes_principales:
 > **Origen del nombre MFT** (Vehemiurgo, 2026-05-09): *"el nombre
 > que Solo le puso a su versión del Bloodline después de su
 > rivalidad con Roman y todo eso"*. Es **branding propio de Solo**,
-> no continuación literal del Bloodline de Roman. Pendiente menor:
-> qué expande exactamente la sigla M-F-T en kayfabe / on-screen.
+> no continuación literal del Bloodline de Roman.
+>
+> **Sigla M-F-T** (resuelta, 2026-05-09): **"My Family Tree"**
+> (Solo, en distintas promos). WWE en programación **lo deja
+> deliberadamente ambiguo** — el brand no se vende agresivamente
+> on-screen — pero Solo lo ha verbalizado en varias ocasiones.
+> Lectura editorial: la **media-canonicidad** del nombre
+> (talent lo dice, oficina no lo amplifica) es síntoma del mismo
+> push subordinado documentado en este archivo.
 
 ## Identificación
 
-- **Nombre**: **MFTs** (branding kayfabe que Solo le puso al stable
-  post-Roman feud). También referenciado en cobertura como
-  *Solo's Bloodline* / *The New Bloodline*.
+- **Nombre**: **MFTs** = **"My Family Tree"** (branding kayfabe
+  que Solo le puso al stable post-Roman feud). WWE programming lo
+  deja ambiguo on-screen; Solo lo ha verbalizado en distintas
+  promos. También referenciado en cobertura como *Solo's
+  Bloodline* / *The New Bloodline*.
 - **Promoción**: WWE.
 - **Líder**: **Solo Sikoa** — branding y autoridad kayfabe.
 - **Periodo activo**: 2024 – presente (mayo 2026).
@@ -129,8 +138,15 @@ sección 11 (addendum) + clarificaciones posteriores
   agotó capital narrativo de talents con draw real para sostener
   un gimmick paranormal sin tracción.
 
-**Pendiente operativo**: confirmar **qué expande la sigla M-F-T**
-con el Vehemiurgo. Hipótesis fan / kayfabe a chequear contra fuente.
+**Sigla resuelta** (2026-05-09): **MFT = "My Family Tree"** —
+branding kayfabe de Solo, verbalizado por él en varias promos pese
+a que WWE programming lo deja ambiguo on-screen. La
+*media-canonicidad* del nombre **es lectura editorial en sí
+misma**: cuando un talent verbaliza un brand y la oficina no lo
+amplifica con paquetes de video, intros, theme y graphics
+dedicados, la oficina **no está vendiendo el stable como entidad
+con identidad propia**. Es coherente con el push subordinado de
+Solo documentado en la sección posterior.
 
 ### Sesión 2026-05-09 (clarificación posterior) — Trayectoria MFT y push fallido de Solo
 
@@ -191,8 +207,10 @@ paranormal-en-WWE"*.)
 
 ## Pendientes / huecos
 
-- [ ] **Confirmar la expansión de la sigla M-F-T** (kayfabe / fan /
-      interno).
+- [x] ~~Confirmar la expansión de la sigla M-F-T~~ → **RESUELTO
+      (2026-05-09)**: **My Family Tree**. Branding kayfabe de Solo,
+      verbalizado en promos, deliberadamente ambiguo en programming
+      WWE.
 - [ ] Cronología detallada de altas y bajas con fechas exactas.
 - [ ] Title runs por miembro.
 - [ ] Inventario de feuds principales 2024–2026, con foco en el

@@ -19,12 +19,12 @@ fuentes_principales:
 - **Familia**: cousin de **Roman Reigns**, hermano de **Jey Uso** y
   **Jimmy Uso**, parte del linaje **Anoa'i**. Hijo de Rikishi.
 - **Promoción actual (mayo 2026)**: WWE main roster, **líder de
-  los MFTs** (faction Bloodline-derivada — *Solo's Bloodline* /
-  *The New Bloodline* / **MFTs**, según conformación
-  2024–2026: Solo + Tama Tonga + Tonga Loa + Jacob Fatu). Detalle
-  en [`promotions/mfts.md`](../promotions/mfts.md). **Composición
-  actual mayo 2026** se redujo tras release de Tonga Loa el 2 may
-  2026.
+  los MFTs** = **"My Family Tree"** (branding kayfabe que él mismo
+  acuñó post-feud Roman; verbalizado en varias promos aunque WWE
+  programming lo deja ambiguo on-screen). Composición 2024–2026:
+  Solo + Tama Tonga + Tonga Loa + Jacob Fatu; reducida tras release
+  de Tonga Loa el 2 may 2026. Detalle en
+  [`promotions/mfts.md`](../promotions/mfts.md).
 
 ## Datos duros
 

@@ -551,8 +551,9 @@ tag team SmackDown 2024-2025.
       eran candidatos naturales a top guys propios. La rivalidad
       paranormal los mantuvo subordinados al gimmick Wyatt en lugar
       de empujarlos en su propio ritmo.
-      **Pendiente menor**: confirmar qué **expande la sigla M-F-T**
-      (kayfabe on-screen, fan shorthand, término interno).
+      **Sigla resuelta (2026-05-09)**: **MFT = "My Family Tree"**.
+      Branding kayfabe de Solo, verbalizado por él en varias promos
+      pese a que WWE programming lo deja ambiguo on-screen.
       Distribuido a:
       [`promotions/mfts.md`](../archive/promotions/mfts.md) (nuevo
       faction file),

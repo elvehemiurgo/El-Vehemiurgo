@@ -103,9 +103,11 @@ sección 11 (addendum).
 - [ ] Declaraciones post-despido (Bo / Erick Rowan / Joe Gacy /
       Nikki Cross / Dexter Lumis).
 - [ ] Destinos free agent post-non-compete.
-- [ ] **Identificar a los MFTs** que el Vehemiurgo cita como
-      *víctimas* de la rivalidad con Wyatt Sicks — pendiente
-      confirmación de sigla y miembros.
+- [x] ~~Identificar a los MFTs que el Vehemiurgo cita como
+      víctimas de la rivalidad con Wyatt Sicks~~ → **RESUELTO
+      (2026-05-09)**: **MFT = "My Family Tree"**, faction de Solo
+      Sikoa (Solo + Tama Tonga + Tonga Loa + Jacob Fatu). Detalle
+      en [`../promotions/mfts.md`](../promotions/mfts.md).
 
 ## Piezas relacionadas
 

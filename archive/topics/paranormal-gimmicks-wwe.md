@@ -78,13 +78,13 @@ ecosistema entero alrededor**. Mecanismo:
   TV"*.
 - **División tag team SmackDown 2024-2025** — habría brillado más
   con el TV time que se llevaron los Wyatts.
-- **MFTs** = **la facción de Solo Sikoa** (Solo + Tama Tonga +
-  Tonga Loa + Jacob Fatu). *"Se vieron limitados por su rivalidad
-  con los Wyatt Sicks."* La rivalidad paranormal **agotó capital
-  narrativo de un stable con draw real potencial**. Detalle de la
-  faction en [`promotions/mfts.md`](../promotions/mfts.md).
-  *Pendiente menor: confirmar qué expande la sigla M-F-T (kayfabe
-  on-screen / fan shorthand / interno).*
+- **MFTs** = **"My Family Tree"** — branding kayfabe de Solo
+  Sikoa para su versión del Bloodline post-feud Roman (Solo + Tama
+  Tonga + Tonga Loa + Jacob Fatu). *"Se vieron limitados por su
+  rivalidad con los Wyatt Sicks."* La rivalidad paranormal **agotó
+  capital narrativo de un stable con draw real potencial**.
+  Detalle de la faction en
+  [`promotions/mfts.md`](../promotions/mfts.md).
 
 **Reforzamiento de la tesis editorial principal**: el ensayo *"El
 paranormal-en-WWE como freno generacional"* gana un eje argumentativo
@@ -150,11 +150,11 @@ freno generacional"*. Estructura propuesta:
 ## Pendientes / huecos
 
 - [x] ~~Identificar exacta sigla **"MFTs"** y la facción detrás~~
-      → **RESUELTO (2026-05-09)**: MFT = la facción de Solo
-      Sikoa (Solo + Tama Tonga + Tonga Loa + Jacob Fatu). Faction
-      file:
-      [`promotions/mfts.md`](../promotions/mfts.md). *Sigla
-      expandida pendiente de menor importancia.*
+      → **RESUELTO (2026-05-09)**: **MFT = "My Family Tree"** —
+      branding kayfabe de Solo Sikoa para su versión del Bloodline
+      post-feud Roman (Solo + Tama Tonga + Tonga Loa + Jacob Fatu).
+      Faction file:
+      [`promotions/mfts.md`](../promotions/mfts.md).
 - [ ] Cronología detallada de cada caso paranormal con duración,
       ratio éxito/fracaso, eventos clave.
 - [ ] Catálogo de matches paranormal vs no-paranormal de un mismo
