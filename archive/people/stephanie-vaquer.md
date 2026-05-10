@@ -1,0 +1,129 @@
+---
+nombre: "Stephanie Vaquer"
+tipo: fact-sheet
+categoria: people
+slug: stephanie-vaquer
+estado: vivo
+ultima_actualizacion: 2026-05-09
+fuentes_principales:
+  - "Wikipedia — Stephanie Vaquer"
+  - "Cobertura NJPW STARDOM 2022–2024 (IWGP Women's Champion run)"
+  - "Cobertura WWE 2024–2026 (Royal Rumble debut, NXT, main roster, road to Mania 42)"
+  - "El Vehemiurgo, notebook 2026-05-09 (takes editoriales)"
+---
+
+# Stephanie Vaquer
+
+## Identificación
+
+- **Nombres de gimmick**: Stephanie Vaquer.
+- **Origen**: Chile. Una de las primeras top-tier femeninas chilenas
+  del oficio moderno.
+- **Promoción actual (mayo 2026)**: WWE main roster.
+
+## Datos duros
+
+- **NJPW STARDOM**: pieza central del roster pre-WWE. **IWGP Women's
+  Champion**.
+- **WWE Royal Rumble 2025**: **debut sorpresa** en el match femenino.
+- **WWE NXT**: pasaje breve.
+- **WWE main roster**: salto rápido por momentum.
+- **WrestleMania 42 (abr 2026)**: programa con **Liv Morgan** por el
+  Women's World Title — **feud importante del año femenino WWE**.
+
+## Contexto financiero / contractual conocido
+
+- Pendiente — esperar
+  [`tko-contracts-2025-2026`](../../research/pending.md). Llegada
+  desde STARDOM con buzz internacional, probable contrato negociado
+  bajo nuevas condiciones TKO.
+
+## Backstage documentado
+
+- Pendiente.
+
+## Entrevistas / podcasts clave
+
+- Varias en prensa hispana / chilena (debut Royal Rumble 2025
+  generó cobertura).
+- *Out of Character with Ryan Satin*.
+- *WWE After the Bell*.
+- Pendiente: episodios específicos del road to Mania 42.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-05-09 (1) — Performer sí, promo todavía no
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 8.
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Stephanie sigue muy atrás en cuanto a promo, tuvo momentos
+> brillantes con Liv provocándola, pero ni de lejos es un babyface
+> como Cody o CM Punk, y debería apuntar a eso."
+
+**Lectura**:
+- **Diagnóstico editorial específico**: Vaquer es **fuerte en
+  performance, débil en promo**. Distancia precisa al estándar
+  contemporáneo (Cody, Punk como referentes top-tier babyface
+  promo).
+- **"Momentos brillantes con Liv provocándola"** — el promo de
+  Vaquer **mejora cuando Liv la empuja**. Implicación carny: el
+  micrófono no se construye solo, se construye en la liturgia con
+  el oponente. Liv funciona como heel-foil que activa a Vaquer.
+- **"Debería apuntar a eso"** — el Vehemiurgo le pide ascenso a
+  top-tier promo. Eso es **prescripción editorial**, no descripción.
+
+### Sesión 2026-05-09 (2) — Road to Mania bien ejecutado pese a debilidad de promo
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 9.
+
+**Cita verbatim del Vehemiurgo**:
+
+> "WWE les dio todos los segmentos y escenarios para crear algo
+> genial y épico, y lo hicieron muy bien […] así que por esa parte
+> Vaquer quedó a deber, pero en cuanto a performance y kayfabe y
+> wrestling old-school sí me gustó mucho todo el road to
+> WrestleMania y la lucha en el PPV y la continuación que le están
+> dando a Liv ahora."
+
+**Lectura**:
+- El feud Liv vs Vaquer **se aprueba en performance, kayfabe,
+  wrestling old-school**. Vaquer **queda a deber en promo** pero
+  **no en lo demás**.
+- **Distinción importante**: el Vehemiurgo no descarta a Vaquer
+  globalmente. La señala como **incompleta**, no como mala. La
+  prescripción es ascenso de mic, no replanteo de carrera.
+
+**Distribución cruzada**: ver [`liv-morgan.md`](./liv-morgan.md),
+[`raquel-rodriguez.md`](./raquel-rodriguez.md) (Vehemiurgo cita a
+Raquel como capaz de pasarla por la derecha si le dan lugar),
+[`zaria.md`](./zaria.md) (Zaria opacada por Giulia y Vaquer en
+debut).
+
+## Lectura consolidada del Vehemiurgo
+
+(Pendiente. Material para una pieza editorial específica sobre
+*"La distancia al promo Cody/Punk: lo que falta entre la
+performance y el micrófono"* usando a Vaquer como caso central.)
+
+## Pendientes / huecos
+
+- [ ] Cronología precisa del run NJPW STARDOM (fechas, IWGP Women's
+      Title runs).
+- [ ] Identificación de promos suyas WWE 2025–2026 con análisis
+      crítico (catálogo para sostener o matizar la tesis del
+      Vehemiurgo).
+- [ ] Datos contractuales — esperar
+      [`tko-contracts-2025-2026`](../../research/pending.md).
+- [ ] Cobertura de prensa chilena / hispana sobre su run WWE.
+- [ ] Match Liv vs Vaquer en WrestleMania 42 — sumar a
+      `archive/matches/`.
+
+## Piezas del Vehemiurgo donde aparece
+
+- (Pendiente: match Liv vs Vaquer Mania 42.)

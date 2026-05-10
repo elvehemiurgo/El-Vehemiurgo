@@ -1,0 +1,121 @@
+---
+nombre: "JD McDonagh"
+tipo: fact-sheet
+categoria: people
+slug: jd-mcdonagh
+estado: vivo
+ultima_actualizacion: 2026-05-09
+fuentes_principales:
+  - "Wikipedia — JD McDonagh"
+  - "Insight with Chris Van Vliet — entrevista 13 mar 2025 (lesión pulmón perforado)"
+  - "Cobertura Cageside Seats / Newsweek / Ringside News / Fightful — lesión enero 2025"
+  - "Cobertura Wrestling Inc / Yahoo Sports / Slam Wrestling — traición Bálor (mar 2026)"
+  - "El Vehemiurgo, notebook 2026-05-09 (takes editoriales)"
+---
+
+# JD McDonagh
+
+## Identificación
+
+- **Nombre real**: Jordan Devlin.
+- **Nombres de gimmick** (cronológico):
+  - **Jordan Devlin** — circuit europeo, NXT UK.
+  - **JD McDonagh** — desde llegada a NXT US y main roster WWE.
+    *McDonagh* es apellido de soltera de la madre, adoptado al pasar
+    a NXT US.
+- **Origen**: Bray, condado de Wicklow, Irlanda. **Mismo gimnasio
+  origen que Finn Bálor** — factor narrativo del feud 2026.
+- **Promoción actual (mayo 2026)**: WWE Raw, miembro activo de
+  Judgment Day post-expulsión de Bálor.
+- **Pronunciación**: el apellido suena aproximadamente *"McDon-uh"*
+  en inglés. **El Vehemiurgo lo registra fonéticamente como
+  "McDonna"** — la transcripción es exacta como sonido.
+
+## Datos duros
+
+- **Nacimiento**: 15 de marzo de 1990, Bray, Irlanda.
+- **Debut profesional**: pendiente confirmar.
+- **NXT UK**: NXT UK Cruiserweight Champion.
+- **WWE NXT (US)**: incorporación.
+- **WWE main roster**: subido como aliado de The Judgment Day (2023);
+  miembro full-time desde entonces.
+- **Tag team con Finn Bálor**: **2× World Tag Team Champions juntos**.
+  Linaje real on-screen del feud 2026.
+
+## Contexto financiero / contractual conocido
+
+- Pendiente — esperar retorno
+  [`tko-contracts-2025-2026`](../../research/pending.md).
+
+## Backstage documentado
+
+- **Lesión enero 2025**: costillas rotas + **pulmón perforado** en
+  match de tag (con Dominik vs War Raiders). Springboard moonsault
+  contra borde de mesa de comentaristas. Termina el match. Out
+  varios meses, regreso pautado para entorno WrestleMania 42.
+- **Diciembre 2025**: cirugía adicional de mano.
+- **WrestleMania 42 (abr 2026)**: en IC Title Ladder Match, recibe
+  Destroyer de Penta sobre puente de escalera. **Rib tape visible**
+  en Raw del 20/4.
+- **Mensaje social post-traición a Bálor (mar 2026)**: *"You lied to
+  all of us for months."* + acusaciones de ego, lust de liderazgo,
+  *"playing games"*.
+
+## Entrevistas / podcasts clave
+
+- **Insight with Chris Van Vliet**, 13 mar 2025 — entrevista sobre
+  lesión de pulmón perforado, recovery, gym de Bray, **Sheamus
+  como primer irlandés que abrió camino**, **Bálor como segundo y
+  referente directo**. Background biográfico clave.
+- Pendiente: episodios posteriores al 20 abr 2026 donde discuta el
+  video promo dual.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-05-09 — McDonagh vs Bálor como peldaño a Mania
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 3.
+
+**Cita verbatim del Vehemiurgo**:
+
+> "En WWE siento que McDonna vs Finn debió ser más importante, pero
+> lo tomaron como un peldaño para WrestleMania."
+
+**Lectura**:
+- El feud McDonagh vs Bálor — **a pesar de la calidad del video
+  promo dual del 20/4** que se documenta en
+  [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
+  — fue tratado por la oficina como **peldaño al match Mania
+  (Bálor vs Dominik)**, no como pieza propia.
+- El Vehemiurgo lee que **el feud entre dos irlandeses con 20 años
+  de historia y 2× WTTC merecía espacio mayor**.
+- Tesis para editorial: la calidad del segmento puntual no rescata
+  el booking subordinado del feud completo.
+
+**Distribución cruzada**: ver
+[`finn-balor.md`](./finn-balor.md),
+[`promotions/judgment-day.md`](../promotions/judgment-day.md),
+[`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md).
+
+## Lectura consolidada del Vehemiurgo
+
+(Pendiente.)
+
+## Pendientes / huecos
+
+- [ ] Fecha exacta del debut profesional.
+- [ ] Run completo NXT UK Cruiserweight Champion (fechas).
+- [ ] Datos contractuales — esperar
+      [`tko-contracts-2025-2026`](../../research/pending.md).
+- [ ] Episodios on-record post-20 abr 2026.
+- [ ] Cobertura de prensa irlandesa (*Sun*, *Mirror*, *Irish
+      Examiner*, *RTÉ*).
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
+  — vignette dual con Bálor.
+- (Pendiente: matches Bálor vs McDonagh del 4/20 y rematch del 4/5
+  en Omaha.)

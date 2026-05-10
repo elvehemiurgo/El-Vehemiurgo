@@ -1,0 +1,129 @@
+---
+nombre: "Raquel Rodriguez"
+tipo: fact-sheet
+categoria: people
+slug: raquel-rodriguez
+estado: vivo
+ultima_actualizacion: 2026-05-09
+fuentes_principales:
+  - "Wikipedia — Raquel Rodriguez"
+  - "Cobertura WWE 2021–2026 (NXT, SmackDown, Raw, Judgment Day affiliation 2025–2026)"
+  - "El Vehemiurgo, notebook 2026-05-09 (takes editoriales)"
+---
+
+# Raquel Rodriguez
+
+## Identificación
+
+- **Nombres de gimmick** previos: **Raquel González** (NXT),
+  **Raquel Rodriguez** (main roster).
+- **Promoción actual (mayo 2026)**: WWE Raw, **afiliada / aliada de
+  Judgment Day** vía conexión con Liv Morgan.
+
+## Datos duros
+
+- **Debut WWE NXT**: 2018.
+- **NXT Women's Champion**.
+- **Pasaje main roster**: 2022 (con cambio de nombre).
+- **Tag with Liv Morgan**: WWE Women's Tag Team Champions (2024,
+  fechas pendientes).
+- **WrestleMania 42 (abr 2026)**: ausente del card. *(El Vehemiurgo
+  lo lamenta — ver Notas editoriales.)*
+
+## Contexto financiero / contractual conocido
+
+- **Lectura editorial del Vehemiurgo (2026-05-09)**:
+  - Está **entre los talentos que no cobran mucho en su contrato**
+    → la ola de recortes TKO **probablemente no la afecta
+    directamente**.
+  - **Vende merchandising con Judgment Day** → su valor económico
+    está fuera del cinturón.
+  - **Conclusión**: contrato **seguro pese al reset**.
+- **Verificación post-dossier `tko-contracts-2025-2026`
+  (2026-05-09)**: la lectura del Vehemiurgo **encaja con la
+  mecánica documentada**:
+  - Las pay cut requests TKO 2025–2026 se concentraron en
+    **upper-midcard** con guarantee alto y rate of production
+    reducido (~media docena de talents, máximo 50% individual).
+  - **Top-tier** (Reigns, Punk, Cody, Rollins, Liv Morgan) **NO
+    fueron tocados**.
+  - Talents **bajos / mid-card establecidos con guarantee
+    proporcional a producción** **no entraron en la ola**.
+  - Raquel encaja en la zona protegida por mecánica.
+  - *Cifras específicas del contrato y participación en
+    merchandising* — siguen pendientes de verificación primaria
+    (no son públicas individualmente).
+- Detalle completo en
+  [`topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md).
+
+## Backstage documentado
+
+- Pendiente.
+
+## Entrevistas / podcasts clave
+
+- Varias en prensa USA y bilingüe USA-México.
+- Pendiente: episodios específicos del run 2025–2026.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-05-09 — La subestimada del 2025
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 10.
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Para mí, Raquel Rodriguez tuvo un super 2025 y hubiera querido
+> verla en WrestleMania, siento que es muy completa y podría pasar
+> a Vaquer por la derecha rápidamente si le dan un lugar
+> prominente, se encuentra entre los talentos que no cobran mucho
+> en su contrato así que la ola de descuentos quizá no le afecte,
+> además que el merchandising que vende con el Judgment Day seguro
+> le asegura su contrato."
+
+**Lectura**:
+- **Veredicto editorial**: Raquel Rodriguez es **la subestimada del
+  2025**.
+- **Material que respalda**: pendiente catalogar matches y
+  segmentos suyos del 2025 para sostener la lectura "super 2025".
+- **Comparación clave**: el Vehemiurgo cree que **Raquel pasa a
+  Vaquer por la derecha rápidamente si le dan un lugar
+  prominente**. Más completa, lo que falta es lugar.
+- **Lectura financiera fina** del Vehemiurgo (3 nodos):
+  1. Bajo costo contractual → menos exposición a recortes TKO.
+  2. Merchandising con Judgment Day → valor económico off-belt.
+  3. → Contrato seguro pese al reset.
+  Esta lectura **conecta directo con la delegación de research
+  sobre contratos TKO** y se confirmará / matizará cuando vuelva.
+- **Línea editorial pendiente**: pieza dedicada sobre Raquel como
+  caso de talento subestimado por la oficina pese a producción
+  consistente y valor merchandising.
+
+**Distribución cruzada**: ver
+[`stephanie-vaquer.md`](./stephanie-vaquer.md),
+[`liv-morgan.md`](./liv-morgan.md),
+[`promotions/judgment-day.md`](../promotions/judgment-day.md),
+[`topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md).
+
+## Lectura consolidada del Vehemiurgo
+
+(Pendiente. Material para una pieza editorial específica:
+*"Raquel Rodriguez, la subestimada del 2025"*.)
+
+## Pendientes / huecos
+
+- [ ] Catalogar matches y segmentos del 2025 que sustentan la
+      lectura "super 2025" del Vehemiurgo.
+- [ ] Datos contractuales y de merchandising — esperar
+      [`tko-contracts-2025-2026`](../../research/pending.md).
+- [ ] Comparación in-ring documentada vs Vaquer (matches comunes si
+      los hay; análisis de moveset).
+- [ ] WWE Women's Tag Team Champions con Liv Morgan — fechas y
+      duración exacta del run.
+- [ ] Razón documentada de la ausencia del card de WrestleMania 42.
+
+## Piezas del Vehemiurgo donde aparece
+
+- (Pendiente — primer registro editorial es esta entrada.)

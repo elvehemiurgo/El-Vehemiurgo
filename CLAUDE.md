@@ -274,6 +274,8 @@ Cuando vuelva, integro y cito.
 | Fact-sheet de archivo | `archive/<categoria>/` | a demanda, vivo | `templates/fact-sheet.md` |
 | Match (registro personal) | `archive/matches/` | vivo, irregular | `templates/match.md` |
 | Segmento / promo (registro personal) | `archive/segments/` | vivo, irregular | `templates/segment.md` |
+| Bitácora cronológica del Vehemiurgo | `notebook/` | por sesión de volcado | descrito en `notebook/README.md` |
+| Dashboard de research delegado | `research/pending.md` + `research/closed.md` | actualizado por evento | descrito en `research/README.md` |
 
 Cada pieza arranca como `draft-` y se renombra al pasar la edición.
 
@@ -318,6 +320,45 @@ Triggers que reconozco en chat:
 Regla irrenunciable para ambos: **lo que no tiene fuente queda como
 pendiente**, no se fabrica. Las citas textuales que no estén
 verificadas contra video se marcan como tal.
+
+### Sobre la bitácora del Vehemiurgo (`notebook/`)
+
+Cuando el Vehemiurgo suelta un volcado de takes editoriales, opiniones
+sobre rivalidades, observaciones de show, comparaciones de booking, o
+cualquier material editorial crudo — **lo capturo verbatim** en
+`notebook/YYYY-MM-DD-<slug>.md`. Cada entry organiza el volcado por
+tópico, cita verbatim al Vehemiurgo entre comillas donde corresponde, y
+declara distribuciones sugeridas a fact-sheets de personas / temas y
+delegaciones de research.
+
+Triggers que reconozco en chat:
+- **Volcado largo de takes mezclando temas** → abro entry nueva en
+  `notebook/`, organizo por tópicos, distribuyo a fact-sheets cuando
+  corresponda.
+- **"Quisiera escribir sobre [X]"** + take editorial sobre el tema → lo
+  capturo en notebook + distribuyo a `archive/people/<x>.md` o
+  `archive/topics/<x>.md`.
+
+El notebook **no se reescribe** después de la distribución — es
+registro cronológico fiel. Detalle del workflow en `notebook/README.md`.
+
+### Sobre el dashboard de research (`research/pending.md` y `research/closed.md`)
+
+Toda investigación delegada a sub-agente lleva una entrada en
+`research/pending.md`. La entrada incluye id, estado, alcance, origen
+(con cross-link al notebook si aplica), y dónde irá el material cuando
+vuelva. Cuando se integra, la entrada se mueve a `research/closed.md`
+con cross-link al archivo destino.
+
+Triggers que reconozco en chat:
+- **"Quiero delegar una investigación sobre [X]"** → sumo entrada a
+  `research/pending.md`, lanzo sub-agente con prompt self-contained y
+  briefing Cornette-school si está claro el alcance, o queda en
+  `pendiente` si necesita aprobación previa del Vehemiurgo.
+- **"¿Qué tengo abierto en research?"** → consulto
+  `research/pending.md` y respondo con el dashboard.
+
+Detalle en `research/README.md`.
 
 ---
 
