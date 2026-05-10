@@ -363,21 +363,21 @@ mantiene visible qué queda.
 
 ### Bloque Christian / Jericho / 2004–2005 Raw
 
-- CHRISTIAN VS RIC FLAIR WWE Raw 16.05.2005
+- (✓) **CHRISTIAN VS RIC FLAIR WWE Raw 16.05.2005** → [`archive/matches/2005-05-16-christian-vs-ric-flair-wwe-raw.md`](../archive/matches/2005-05-16-christian-vs-ric-flair-wwe-raw.md) (tail-end CLB heel run vs leyenda Evolution)
 - CHRIS BENOIT VS TAJIRI WWE Raw 16.05.2004
 - MATT HARDY & CHRISTIAN VS BOOKER T & RVD WWE Raw 12.01.2004
-- CHRISTIAN VS CHRIS JERICHO WWE Unforgiven 2004
+- (✓) **CHRISTIAN VS CHRIS JERICHO WWE Unforgiven 2004** → [`archive/matches/2004-09-12-christian-vs-jericho-wwe-unforgiven.md`](../archive/matches/2004-09-12-christian-vs-jericho-wwe-unforgiven.md) (resurgimiento del feud post-blow-off, fecha presunción 12 sep)
 - CHRISTIAN VS SHAWN MICHAELS WWE Raw 04.10.2004
 - CHRISTIAN VS SHELTON BENJAMIN VS CHRIS JERICHO WWE Raw 04.04.2005
 - CHRISTIAN & JERICHO VS HURRICANE & ROSEY WWE Raw 05.01.2004
 - CHRIS JERICHO VS MARK HENRY WWE Raw 12.01.2004
 - CHRISTIAN & MATT HARDY VS RVD & BOOKER T WWE Raw 19.01.2004
 - CHRISTIAN & JERICHO VS RIC FLAIR & BATISTA WWE Raw 02.02.2004
-- CHRISTIAN VS CHRIS JERICHO WrestleMania XX
+- (✓) **CHRISTIAN VS CHRIS JERICHO WrestleMania XX** → [`archive/matches/2004-03-14-christian-vs-jericho-wrestlemania-xx.md`](../archive/matches/2004-03-14-christian-vs-jericho-wrestlemania-xx.md) (detonante del triángulo Trish heel turn, MSG)
 - CHRIS JERICHO VS MATT HARDY WWE Raw 05.04.2004
-- CHRISTIAN & TRISH STRATUS VS CHRIS JERICHO WWE Backlash 18.04.2004
+- (✓) **CHRISTIAN & TRISH STRATUS VS CHRIS JERICHO WWE Backlash 18.04.2004** → [`archive/matches/2004-04-18-christian-trish-vs-jericho-wwe-backlash.md`](../archive/matches/2004-04-18-christian-trish-vs-jericho-wwe-backlash.md) (handicap match peak del triangle, Edmonton home crowd)
 - CHRISTIAN VS CHRIS JERICHO WWE Raw 19.04.2004
-- CHRISTIAN VS CHRIS JERICHO WWE Raw 10.05.2004 (steel cage)
+- (✓) **CHRISTIAN VS CHRIS JERICHO WWE Raw 10.05.2004 (steel cage)** → [`archive/matches/2004-05-10-christian-vs-jericho-steel-cage-wwe-raw.md`](../archive/matches/2004-05-10-christian-vs-jericho-steel-cage-wwe-raw.md) (blow-off territorial puro en TV semanal)
 - CHRISTIAN & TOMKO VS JERICHO & HBK WWE Raw 14.06.2004
 - HBK VS CHRIS JERICHO WWE Raw 20.09.2004
 - CHRISTIAN & TOMKO VS JERICHO & HBK WWE Raw 20.09.2004
@@ -393,8 +393,8 @@ mantiene visible qué queda.
 - HBK & ORTON VS EDGE & CHRISTIAN WWE Raw 21.02.2005
 - CHRISTIAN VS KANE WWE Raw 07.03.2005
 - EDGE & CHRISTIAN VS JERICHO & SHELTON BENJAMIN WWE Raw 21.03.2005
-- CHRISTIAN VS JERICHO VS BENJAMIN WWE Raw 04.04.2005
-- CHRISTIAN VS SHELTON BENJAMIN WWE Survivor Series 2004
+- (✓) **CHRISTIAN VS JERICHO VS BENJAMIN WWE Raw 04.04.2005** → [`archive/matches/2005-04-04-christian-vs-jericho-vs-benjamin-triple-threat-wwe-raw.md`](../archive/matches/2005-04-04-christian-vs-jericho-vs-benjamin-triple-threat-wwe-raw.md) (triple threat — graduación final del cluster, registrado dos veces en la lista)
+- (✓) **CHRISTIAN VS SHELTON BENJAMIN WWE Survivor Series 2004** → [`archive/matches/2004-11-14-christian-vs-shelton-benjamin-wwe-survivor-series.md`](../archive/matches/2004-11-14-christian-vs-shelton-benjamin-wwe-survivor-series.md) (mid-card spotlight oficio puro)
 - CHRISTIAN VS JERICHO WWE Raw 27.12.2004
 
 ### Bloque WWE 2026 actual (NXT/Raw/SmackDown/AAA/AEW recientes)
@@ -1222,6 +1222,64 @@ Wigan reference triple capa), Lexis King (hijo Pillman),
 Dominik Mysterio (hijo Rey), McDonagh/Bálor (linaje irlandés).
 Material para pieza posible: *"El apellido prestado — Kali
 Armstrong y el cobro gratuito de equity simbólico"*.
+
+---
+
+## Update 2026-05-10 — Cluster 2: WWE Raw 2004-2005 Christian-Jericho era
+
+**Cluster *"WWE 2004-2005 Raw como era de oficio"*** (sec. 3 del
+notebook) procesado siguiendo orden confirmado por el Vehemiurgo
+(*"Está bien ese orden, continúa"*):
+
+1. **Dossier central** abierto en
+   [`dossiers/draft-wwe-raw-2004-2005-christian-jericho-era.md`](../dossiers/draft-wwe-raw-2004-2005-christian-jericho-era.md)
+   — 5 hilos narrativos (triangle Christian-Jericho-Trish +
+   Christian/Benjamin oficio puro + HBK rub + triple threat tail
+   + CLB en flor), cronología de 33+ entradas ene 2004 → may
+   2005 casi semana a semana, tesis sobre Raw 2004-2005 como
+   *era de oficio mid-card pre-Cena monolítico*, contraste
+   explícito con TNA Coalition 2007 como segunda fase del
+   modelo Christian-as-leader.
+2. **7 centerpieces** abiertos como entries individuales:
+   - Christian vs Jericho — WrestleMania XX (detonante triangle
+     Trish heel turn, MSG).
+   - Christian & Trish vs Jericho — Backlash 2004 (handicap
+     match peak, Edmonton home crowd dynamic).
+   - Christian vs Jericho — Raw steel cage 10 may 2004
+     (blow-off territorial en TV semanal).
+   - Christian vs Jericho — Unforgiven 2004 (resurgimiento del
+     feud post-blow-off, fecha presunción 12 sep).
+   - Christian vs Shelton Benjamin — Survivor Series 2004
+     (mid-card spotlight oficio puro).
+   - Christian vs Jericho vs Benjamin — Raw triple threat 4 abr
+     2005 (graduación final, registrado dos veces en la lista
+     personal).
+   - Christian vs Ric Flair — Raw 16 may 2005 (tail-end CLB
+     heel run vs leyenda Evolution).
+
+**Estrategia de cluster** confirmada como template operativo:
+**dossier central + centerpieces individuales + matches
+no-centrales a demanda + cross-refs densos**. Ejecutado igual
+que cluster TNA 2007 Christian Coalition era. Modelo
+escalable.
+
+**Linaje editorial Christian Cage consolidado** entre los dos
+dossieres:
+
+- **WWE Raw 2004-2005**: Christian + Tomko prototipo de
+  faction reducida (Christian-as-leader emerge).
+- **TNA 2007 Coalition**: Christian + Tomko + AJ Styles + Scott
+  Steiner ejecución completa de los 4 arquetipos carny
+  (líder/muscle/worker/monster).
+- **Doctrina vehículo vs facción**
+  ([`archive/topics/factions-2026.md`](../archive/topics/factions-2026.md))
+  cruzada en ambos dossieres.
+
+**Pendiente residual**: fact-sheets dedicados de Christian Cage
+(héroe fundamental del Vehemiurgo, eje editorial de gran parte
+de la lista), Chris Jericho, Trish Stratus, Tyson Tomko,
+Shelton Benjamin, Ric Flair. Los abrimos cuando el material
+editorial los demande o cuando el Vehemiurgo dispare.
 
 ---
 
