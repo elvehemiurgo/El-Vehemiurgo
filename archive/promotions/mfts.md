@@ -49,7 +49,21 @@ fuentes_principales:
 |---|---|
 | 2024 (formación) | Solo Sikoa (líder, Tribal Chief interim post-ausencia Roman) + Tama Tonga + Tonga Loa |
 | 2024–2025 | + **Jacob Fatu** (incorporación de alto impacto, monster heel) |
-| 2025–2026 | Variantes según altas/bajas — verificar Wikipedia y Cagematch |
+| 2025–2026 | Solo Sikoa + Tama Tonga + Tonga Loa + Jacob Fatu + **JC Mateo** + **Talla Tonga** |
+| 2 may 2026 → presente | Tonga Loa released en la ola "New Day exit"; composición reduciéndose |
+
+**Nuevos miembros confirmados (2026-05-09)** vía la entrada del
+WWE SmackDown 13.02.2026 en la lista personal del Vehemiurgo
+([`notebook/2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md)),
+match 5v5: *"Shinsuke Nakamura, Carmelo Hayes, Ilja Dragunov, Matt
+Cardona & Apollo Crews vs. Solo Sikoa, Tama Tonga, Tanga Loa, JC
+Mateo & Talla Tonga (MFTs)"*:
+
+- **JC Mateo** — afiliado del stable, confirmado como miembro
+  pleno para SD 13.02.2026. Despedido en la ola del 2 may 2026
+  según [`topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md).
+- **Talla Tonga** — hijo de Tama Tonga, parte del clan Tonga
+  extendido. Suma a la facción como músculo / generación nueva.
 
 (Cronología precisa de altas/bajas, title runs y mecánica narrativa
 pendiente de detalle.)
