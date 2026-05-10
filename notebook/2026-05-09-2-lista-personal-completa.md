@@ -1107,16 +1107,16 @@ mantiene visible qué queda.
   Cita verbatim preservada en archivo: — *"McDona started really stiff, he's really cool; also the styles clash sequence was just phenomenal"*
 - ROMAN REIGNS PROMO VIDEO WWE SmackDown 17.04.2026
 - JACOB FATU SEGMENT WWE SmackDown 17.04.2026
-- LIV MORGAN VS STEPHANIE VAQUER WWE WrestleMania 42 Día 1 (18.04.2026)
-- JACOB FATU VS DREW MCINTYRE WWE WrestleMania 42 Día 1
-- CODY RHODES VS RANDY ORTON WWE WrestleMania 42 Día 1
-- LESNAR VS FEMI WWE WrestleMania 42 Día 2 (19.04.2026)
+- (✓) **LIV MORGAN VS STEPHANIE VAQUER WWE WrestleMania 42 Día 1 (18.04.2026)** → [`archive/matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md`](../archive/matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md) (women's main event Día 1)
+- (✓) **JACOB FATU VS DREW MCINTYRE WWE WrestleMania 42 Día 1** → [`archive/matches/2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md`](../archive/matches/2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md) (payoff monster heel arc Fatu)
+- (✓) **CODY RHODES VS RANDY ORTON WWE WrestleMania 42 Día 1** → [`archive/matches/2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md`](../archive/matches/2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md) (probable main event Día 1, Legacy era retomada)
+- (✓) **LESNAR VS FEMI WWE WrestleMania 42 Día 2 (19.04.2026)** → [`archive/matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md`](../archive/matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md) (Brock return + pass-over rub a Femi)
 - JD MCDONA IN WWE WrestleMania 42 Día 2
 - TRICK WILLIAMS VS SAMI ZAYN WWE WrestleMania 42 Día 2
 - DOMINIK MYSTERIO VS FINN BÁLOR WWE WrestleMania 42 Día 2
-- RHEA RIPLEY VS JADE CARGILL WWE WrestleMania 42 Día 2
+- (✓) **RHEA RIPLEY VS JADE CARGILL WWE WrestleMania 42 Día 2** → [`archive/matches/2026-04-19-rhea-ripley-vs-jade-cargill-wrestlemania-42.md`](../archive/matches/2026-04-19-rhea-ripley-vs-jade-cargill-wrestlemania-42.md) (power-vs-power women's MOTY candidate)
 - CM PUNK VS ROMAN REIGNS PROMO VIDEO WWE WrestleMania 42 Día 2
-- CM PUNK VS ROMAN REIGNS WWE WrestleMania 42 Día 2
+- (✓) **CM PUNK VS ROMAN REIGNS WWE WrestleMania 42 Día 2** → [`archive/matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../archive/matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) (**main event máximo + payoff meta-storyline real wrestlers vs play wrestlers**)
 - CM PUNK MISERIA CANTARE PROMO VIDEO WWE WrestleMania 42 Día 2
 - CM PUNK AND CODY RHODES SEGMENT WWE Raw 20.04.2026
 - ETHAN PAGE DEBUT BACKSTAGE WWE Raw 20.04.2026
@@ -1411,6 +1411,79 @@ Santana, Mustafa Ali, Joe Hendry, Trey Miguel + Rascalz, The
 System, Heather + M By Elegance, Indy Hartwell, Bear Bronson,
 Mickey James, Eddie Edwards, Jeff Hardy. Trabajable a demanda
 del Vehemiurgo.
+
+---
+
+## Update 2026-05-10 — Cluster 5: WrestleMania 42 cluster (build + evento + post-Mania)
+
+**Cluster *"WrestleMania 42 + Raw post-Mania + annotations"***
+procesado siguiendo orden confirmado por el Vehemiurgo
+(*"Está bien ese orden, continúa! Ya quiero que completemos
+esto"*):
+
+1. **Dossier central** abierto en
+   [`dossiers/draft-wrestlemania-42-cluster.md`](../dossiers/draft-wrestlemania-42-cluster.md)
+   — 5 hilos narrativos (CM Punk + Cody vs TKO meta-storyline
+   *"real wrestlers vs play wrestlers"* / Cody vs Orton +
+   Stephanie como obstáculo / Liv vs Vaquer + Rhea vs Jade
+   women's hilo / Brock return + Femi pass-over rub / Jacob
+   Fatu monster heel arc), tesis sobre WM42 como primer
+   WrestleMania de la era TKO post-Endeavor donde el
+   **booking-first se impone visiblemente sobre spectacle-first**.
+2. **6 centerpieces** abiertos como entries individuales:
+   - **CM Punk vs Roman Reigns Día 2** (main event máximo +
+     payoff meta-storyline).
+   - Cody Rhodes vs Randy Orton Día 1 (probable main event
+     Día 1, Legacy era retomada).
+   - Liv Morgan vs Stephanie Vaquer Día 1 (women's main event).
+   - Rhea Ripley vs Jade Cargill Día 2 (power-vs-power MOTY
+     candidate).
+   - Jacob Fatu vs Drew McIntyre Día 1 (payoff monster heel
+     arc).
+   - Brock Lesnar vs Oba Femi Día 2 (return + pass-over rub).
+
+**Cluster integrado con Batch 1 annotations** (commit cd25cdb):
+los 13 archivos de annotations editoriales ya preservaban voz
+verbatim del Vehemiurgo durante el build + post-Mania. El
+dossier los cross-linkea exhaustivamente.
+
+**Meta-storyline editorial al horno**: *"real wrestlers vs
+play wrestlers"* (CM Punk + Cody vs TKO management) es **uno
+de los arcs más editorialmente fértiles del periodo moderno**.
+Pieza para columna editorial futura sobre cómo TKO bajo
+Triple H + Bruce Prichard + Michael Hayes integra el meta-
+backstage al kayfabe in-show — algo que Vince-era WWE habría
+evitado.
+
+---
+
+## 5 grandes clusters cerrados — estado del proyecto
+
+Sesión 2026-05-10 cerró los **5 clusters densos identificados
+en sec. Lectura editorial del notebook**:
+
+1. **TNA 2007 Christian Coalition era** → *"tierra sagrada"* —
+   dossier + 7 centerpieces (commit 608a94c).
+2. **WWE Raw 2004-2005 Christian/Jericho era** → era de oficio
+   mid-card — dossier + 7 centerpieces (commit afd8bd5).
+3. **WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga**
+   → *"otra tierra sagrada"* — dossier + 8 centerpieces (commit
+   521ada5).
+4. **TNA 2025-2026 Kazarian King era + NXT invasion** →
+   cobertura semanal contemporánea TNA — dossier + 7
+   centerpieces (commit 4f396c4).
+5. **WrestleMania 42 cluster** → gran evento WWE 2026 —
+   dossier + 6 centerpieces (este commit).
+
+**Total batch sesión 2026-05-10**: **5 dossieres + 35
+centerpieces + 11 archivos Kali/Stone/Christian-Coalition-
+backstage + 14 annotations Batch 1 = 65 archivos nuevos / mes
+de cobertura editorial densa**.
+
+**Modelo operativo consolidado**: dossier + 6-8 centerpieces
++ cross-refs densos + integración Batch annotations + mark
+notebook entries (✓) + commit/push por cluster. Modelo
+escalable para futuros clusters cuando el Vehemiurgo dispare.
 
 ---
 
