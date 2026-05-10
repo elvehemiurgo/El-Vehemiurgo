@@ -135,10 +135,29 @@ abr 2026):
   Cornette-school**: las facciones que respetan al territorio
   cuando se van están bien bookeadas; las que se van quemando
   todo no.
-- **WrenQCC over**: la facción rival NXT (composición pendiente
-  identificar — ver pendientes) recibió el push estructural en la
-  despedida. Material para abrir
-  `archive/promotions/wrenqcc.md` cuando se confirme composición.
+- **WrenQCC over** *(composición confirmada vía sub-agente
+  nqcc-charlie-dempsey-2026)*: tag team **Wren Sinclair + Kendal
+  Grey** (continuidad ideológica de NQCC post-disolución del 10
+  mar 2026). Detalle en
+  [`wrenqcc.md`](./wrenqcc.md). Verificación cronológica del
+  rub:
+  - **17 mar 2026**: Wren ganó Speed Title vs Fallon Henley (con
+    *Final Wrench / Cattle Mutilation* — submission catch
+    ortodoxa). **Primer título WWE de Wren.**
+  - **24 mar 2026**: WrenQCC venció a Fatal Influence (Henley +
+    Reid).
+  - **4 abr 2026 — Stand & Deliver**: Lola Vice ganó NXT Women's
+    Title vs Jacy + Kendal Grey en Triple Threat. Moonsault de
+    Kendal destacado por cobertura editorial (Last Word,
+    411mania) como spot técnico de la noche.
+  - **14 abr 2026 — Revenge Night 1**: último match Fatal
+    Influence en NXT (vs Lola Vice por título; Lola retiene).
+  El take del Vehemiurgo **se sostiene con matiz cronológico**:
+  el rub no fue una despedida puntual, fue arc distribuido
+  mar-abr 2026. Fatal Influence se va con **cinturón perdido**
+  (Lola), **Speed Title perdido** (Wren), y **derrotas tag claras**
+  (WrenQCC). **Booking funcional old-school confirmado** — el
+  stable saliente *jobs* y deja over a quienes se quedan.
 - **Lola Vice over**: elevación específica del nuevo personaje
   babyface NXT — ver
   [`people/lola-vice.md`](../people/lola-vice.md) para detalle.
@@ -167,16 +186,15 @@ Influence vs MFTs como dos modelos de call-up TKO"*.)
 
 ## Pendientes / huecos
 
-- [ ] **Identificar composición exacta de WrenQCC** — el
-      Vehemiurgo lo nombra como facción rival NXT que recibió
-      push en la despedida Fatal Influence. La sigla "QCC" no
-      está clara (¿Queens of Catch Carrera? ¿Wren + dos talents
-      con apellidos QC?). Posible que **Wren Sinclair** sea
-      pieza, junto con otros 1-2 talents. Notebook list registra:
-      "FALLON HENLEY & LAINEY REID VS SOL RUCA VS WREN QCC NXT
-      20.01.2026", "WREN QCC SEGMENT WITH KELANI JORDAN NXT
-      24.02.2026", "WREN QCC SEGMENT WITH HENDRY AND BORNE NXT
-      10.03.2026", "FATAL INFLUENCE VS WRN QCC NXT 24.03.2026".
+- [x] ~~Identificar composición exacta de WrenQCC~~ → **RESUELTO
+      (2026-05-10)** vía sub-agente
+      [`nqcc-charlie-dempsey-2026`](../../research/closed.md):
+      WrenQCC = tag team **Wren Sinclair + Kendal Grey**, no
+      faction. Es continuidad ideológica de **NQCC (No Quarter
+      Catch Crew)** — disuelta el 10 mar 2026. Pun explícito
+      sobre NQCC reconocido por WWE.com en titulares oficiales.
+      Detalle en [`wrenqcc.md`](./wrenqcc.md) y
+      [`nqcc.md`](./nqcc.md).
 - [ ] Fechas exactas de title runs por miembro (Jacy Jayne NXT
       Women's Champion x N).
 - [ ] Cronología completa con todas las altas, bajas, feuds.
