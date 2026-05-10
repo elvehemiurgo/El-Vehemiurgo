@@ -8,7 +8,7 @@ ultima_actualizacion: 2026-05-09
 fuentes_principales:
   - "Wikipedia — Saquon Shugars"
   - "Cobertura WWE NXT 2025-2026"
-  - "Visionado directo del Vehemiurgo, NXT Vengeance Day 2026-03-07"
+  - "Visionado directo del Vehemiurgo, NXT TV semanal 2026-04-07 (corregido desde 2026-03-07 Vengeance Day)"
   - "El Vehemiurgo, notebook 2026-05-09 (take editorial central)"
 ---
 
@@ -35,8 +35,10 @@ fuentes_principales:
 - **Debut WWE NXT**: pendiente fecha exacta.
 - **Match notable noviembre 2025**: vs Jevon Evans, NXT.
 - **Match notable mar 2026**: 8-man tag con Dark State vs equipo
-  Hendry/Page/Saints/D'Angelo en NXT Vengeance Day. Detalle en
-  [`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md).
+  Hendry/Page/Saints/D'Angelo en NXT TV semanal del 07 abr 2026
+  *(corrección 2026-05-10: registrado originalmente como Vengeance
+  Day)*. Detalle en
+  [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 
 ## Contexto financiero / contractual conocido
 
@@ -61,7 +63,7 @@ fuentes_principales:
 **Contexto**: notebook entry
 [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md),
 take en match
-[`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md).
+[`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 
 **Cita verbatim del Vehemiurgo**:
 
@@ -119,7 +121,7 @@ era IG"*.)
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md)
+- [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md)
   — 8-man tag, primer registro editorial dedicado.
 - (Pendiente: vs Jevon Evans NXT noviembre 2025, ya en notebook
   pero sin archivo abierto.)

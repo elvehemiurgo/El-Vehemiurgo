@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
 |---|---|---|---|---|---|
-| `charlie-chazz-starboy-2026` | en-curso | 2026-05-09 | Charlie Starboy (indies) → Chazz Starboy (WWE NXT 2026): nombre real, debut, recorrido indie, gimmick, fecha de incorporación a WWE NXT, run en NXT Speed, voces editoriales (escuela Cornette priorizada). | Visionado del Vehemiurgo NXT Vengeance Day 07.03.2026 + clarificación 2026-05-09 sobre identidad indie / WWE. | [`archive/people/chazz-starboy.md`](../archive/people/chazz-starboy.md) (principal). Posibles cross-links a [`matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md`](../archive/matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md) y `topics/tko-contracts-2025-2026.md` si hay info contractual. |
+| _(vacío)_ | | | | | |
 
 ## En cola (declaradas, no lanzadas)
 

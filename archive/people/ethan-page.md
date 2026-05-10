@@ -35,8 +35,8 @@ fuentes_principales:
   [`notebook/2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).
 - **Faction NXT**: parte del *Vanity Project* en NXT 2026.
 - **Match notable mar 2026**: 8-man tag con Hendry/Saints/D'Angelo
-  vs Dark State en NXT Vengeance Day. Detalle en
-  [`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md).
+  vs Dark State en NXT TV semanal del 07 abr 2026 *(corrección 2026-05-10: registrado originalmente como Vengeance Day)*. Detalle en
+  [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 
 ## Contexto financiero / contractual conocido
 
@@ -58,7 +58,7 @@ fuentes_principales:
 
 **Contexto**: notebook entry
 [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md),
-take en match 8-man tag NXT Vengeance Day.
+take en match 8-man tag NXT TV 07 abr 2026.
 
 **Cita verbatim del Vehemiurgo**:
 
@@ -110,6 +110,6 @@ top guys distintos a la vez"*.)
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md).
+- [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - (Pendiente: matches y segmentos de la lista — Ethan tiene
   presencia recurrente en NXT 2025-2026 y Raw post-WM42.)

@@ -36,7 +36,7 @@ fuentes_principales:
   - *THE CULLING ATTACKS DARK STATE POST MATCH NXT 27.01.2026*
   - *THE VANITY PROJECT VS DARK STATE NXT 24.02.2026*
   - *OTM & MIKE SANTANA VS DARK STATE NXT 24.03.2026*
-  - 8-man tag NXT Vengeance Day 07.03.2026 vs Hendry / Page /
+  - 8-man tag NXT TV semanal 07.04.2026 *(corrección 2026-05-10: registrado originalmente como Vengeance Day 07.03)* vs Hendry / Page /
     Saints / D'Angelo.
 
 (Cronología precisa de altas y bajas pendiente de verificación.)
@@ -64,7 +64,7 @@ fuentes_principales:
 
 **Contexto**: notebook entry
 [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md),
-take editorial en match 8-man tag NXT Vengeance Day.
+take editorial en match 8-man tag NXT TV semanal 07 abr 2026.
 
 El take del Vehemiurgo se centra en **Saquon Shugars** como
 **pieza diferencial del stable**:
@@ -117,7 +117,7 @@ narrativo: pieza cruzada con
 
 - [`people/saquon-shugars.md`](../people/saquon-shugars.md) —
   pieza editorial central documentada.
-- [`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md)
+- [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md)
   — primer match registrado.
 - [`promotions/mfts.md`](./mfts.md) — paralelismo estructural de
   faction con pieza diferencial individual en oficio.

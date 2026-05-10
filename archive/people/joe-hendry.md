@@ -42,8 +42,8 @@ fuentes_principales:
   attacked by The Vision), según
   [`topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md).
 - **Match notable mar 2026**: 8-man tag con Page/Saints/D'Angelo
-  vs Dark State en NXT Vengeance Day. Detalle en
-  [`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md).
+  vs Dark State en NXT TV semanal del 07 abr 2026 *(corrección 2026-05-10: registrado originalmente como Vengeance Day)*. Detalle en
+  [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 
 ## Contexto financiero / contractual conocido
 
@@ -69,7 +69,7 @@ fuentes_principales:
 
 **Contexto**: notebook entry
 [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md),
-take en match 8-man tag NXT Vengeance Day.
+take en match 8-man tag NXT TV 07 abr 2026.
 
 **Cita verbatim del Vehemiurgo**:
 
@@ -127,7 +127,7 @@ canta sobrevivió al call-up WWE"*.)
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md).
+- [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - (Pendiente: Joe Hendry & Jeff Hardy concert TNA Impact 2025;
   Booker T singing his entrance NXT 10.02.2026; main event NXT
   Stand & Deliver 4-way; debut Raw 27 abr 2026 attacked by The

@@ -112,7 +112,8 @@ matches a sumar.)
   Spirit Class** asignada por el Vehemiurgo.
 - [`segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md)
   — promo in-ring confrontacional post-turn.
-- [`matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md`](../matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md)
+- [`matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md)
   — interferencia que ayuda a Izzi Dame a vencer a Sol en NXT
-  Vengeance Day.
+  NXT TV semanal del 07 abr 2026 *(corrección 2026-05-10:
+  registrado originalmente como Vengeance Day)*.
 - (Pendiente: matches Stand & Deliver 2026 y NXT Revenge 2026.)

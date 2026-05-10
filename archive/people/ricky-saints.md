@@ -43,8 +43,8 @@ fuentes_principales:
 - **WWE main roster (SmackDown)**: call-up post-WM42 según dossier
   TKO.
 - **Match notable mar 2026**: 8-man tag con Hendry/Page/D'Angelo
-  vs Dark State en NXT Vengeance Day. Detalle en
-  [`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md).
+  vs Dark State en NXT TV semanal del 07 abr 2026 *(corrección 2026-05-10: registrado originalmente como Vengeance Day)*. Detalle en
+  [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 
 ## Contexto financiero / contractual conocido
 
@@ -66,7 +66,7 @@ fuentes_principales:
 
 **Contexto**: notebook entry
 [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md),
-take en match 8-man tag NXT Vengeance Day.
+take en match 8-man tag NXT TV 07 abr 2026.
 
 **Cita verbatim del Vehemiurgo**:
 
@@ -115,6 +115,6 @@ tres top guys distintos a la vez"*.
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md).
+- [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - (Pendiente: matches y segmentos NXT 2025-2026 + main roster
   post-WM42.)

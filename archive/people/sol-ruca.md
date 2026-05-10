@@ -122,7 +122,7 @@ notebook 2026-05-09; el segmento del 24/3/2026; los matches de Stand
   Vehemiurgo.
 - [`segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md)
   — segmento promo in-ring confrontacional con Zaria post-turn.
-- [`matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md`](../matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md)
-  — match en NXT Vengeance Day, derrota con asistencia de Zaria.
+- [`matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md)
+  — match en NXT TV semanal del 07 abr 2026 *(corrección 2026-05-10: registrado originalmente como Vengeance Day)*, derrota con asistencia de Zaria.
 - (Pendiente sumar a `archive/matches/`: Stand & Deliver 2026 vs
   Zaria, NXT Revenge 2026 LWS vs Zaria.)

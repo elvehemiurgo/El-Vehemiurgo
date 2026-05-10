@@ -8,7 +8,7 @@ ultima_actualizacion: 2026-05-09
 fuentes_principales:
   - "Wikipedia — Brian Pillman Jr. / Lexis King"
   - "Cobertura MLW (~2018-2023), WWE NXT (2023-2026)"
-  - "Visionado directo del Vehemiurgo, NXT Vengeance Day 2026-03-07"
+  - "Visionado directo del Vehemiurgo, NXT TV semanal 2026-04-07 (corregido desde 2026-03-07 Vengeance Day)"
   - "El Vehemiurgo, notebook 2026-05-09 (take editorial cruzado)"
 ---
 
@@ -31,9 +31,17 @@ fuentes_principales:
 - **MLW**: pieza de la división con ese roster, varios runs.
 - **WWE NXT**: incorporación 2023 ish, rebrand a Lexis King con
   gimmick heel-aristocrático.
-- **Match notable mar 2026**: vs Chazz Starboy en NXT Speed
-  Match, NXT Vengeance Day. Detalle en
-  [`matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md`](../matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md).
+- **Match notable abr 2026**: vs Chazz "Starboy" Hall (Charlie
+  Hilder) en NXT Speed Match, **NXT TV semanal del 7 abr 2026**
+  *(corrección: el Vehemiurgo registró originalmente como
+  Vengeance Day 7 mar; sub-agente confirmó fecha real abril)*.
+  Primera ronda del torneo por el vacante WWE Men's Speed
+  Championship. **Lexis King ganó** en 2:06–2:09 con The
+  Coronation (swinging neckbreaker) tras Hall fallar Shooting
+  Star Press contra rodillas levantadas. **Lexis King eventualmente
+  ganó el torneo entero** y el WWE Men's Speed Championship,
+  derrotando a EK Prosper en final. Detalle en
+  [`matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md`](../matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md).
 
 ## Contexto financiero / contractual conocido
 
@@ -54,7 +62,7 @@ fuentes_principales:
 **Contexto**: notebook entry
 [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md),
 take en match
-[`matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md`](../matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md).
+[`matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md`](../matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md).
 
 **Cita verbatim del Vehemiurgo** (segmento donde aparece Lexis):
 
@@ -98,5 +106,5 @@ actual.)
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md`](../matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md)
+- [`matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md`](../matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md)
   — primer registro editorial dedicado, multi-class doble.

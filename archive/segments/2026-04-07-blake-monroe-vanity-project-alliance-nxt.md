@@ -1,13 +1,13 @@
 ---
 segmento: "Blake Monroe y el Vanity Project — alianza heel por conveniencia"
-slug: "blake-monroe-vanity-project-alliance-nxt-vengeance-day-2026-03-07"
+slug: "blake-monroe-vanity-project-alliance-nxt-2026-04-07"
 tipo_segmento: "in-ring confrontation / alliance segment"
 protagonistas:
   - "Blake Monroe"
   - "The Vanity Project (Ethan Page + Ricky Saints u otros — confirmar)"
 empresa: "WWE"
-programa: "NXT Vengeance Day"
-fecha: 2026-03-07
+programa: "NXT TV (semanal)"
+fecha: 2026-04-07
 ciudad: ""
 recinto: ""
 ubicacion_en_show: ""
@@ -24,13 +24,22 @@ calificacion_vehemiurgo: "Cero cringe y muy efectivo para nivel NXT"
 clases_vehemiurgo:
   - wrestling-entertainment
 estado: en-investigacion
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-05-10
 fuentes_principales:
-  - "Visionado directo del Vehemiurgo, NXT Vengeance Day 2026-03-07"
-tags: [wwe-2026, nxt, nxt-vengeance-day-2026, blake-monroe, vanity-project, heel-alliance, wrestling-entertainment-class]
+  - "Visionado directo del Vehemiurgo, NXT TV semanal 2026-04-07"
+tags: [wwe-2026, nxt, nxt-tv, blake-monroe, vanity-project, heel-alliance, wrestling-entertainment-class]
 ---
 
-# Blake Monroe y el Vanity Project: alianza heel por conveniencia — NXT Vengeance Day (07 mar 2026)
+# Blake Monroe y el Vanity Project: alianza heel por conveniencia — NXT TV (07 abr 2026)
+
+> **CORRECCIÓN DE FECHA Y SHOW (2026-05-10)**: el Vehemiurgo
+> registró originalmente este segmento como **NXT Vengeance Day
+> del 7 mar 2026**. **Es incorrecto.** El segmento es **NXT TV
+> semanal del 7 abril 2026** — confusión sistemática 03/07 ↔
+> 04/07 confirmada por el Vehemiurgo al revisar la corrección
+> del match Charlie Hilder. Las lecturas editoriales y la
+> asignación Wrestling Entertainment Class se mantienen porque
+> corresponden al segmento que efectivamente vio.
 
 > Segmento registrado el 2026-05-09. **Wrestling Entertainment
 > Class asignada por el Vehemiurgo** como ejemplo canónico de la
@@ -41,17 +50,18 @@ tags: [wwe-2026, nxt, nxt-vengeance-day-2026, blake-monroe, vanity-project, heel
 ## Resumen
 
 Segmento de alianza heel por conveniencia entre **Blake Monroe** y
-**The Vanity Project** en NXT Vengeance Day. Construcción mutua de
-gimmicks: Blake gana legibilidad heel vía la asociación; The
-Vanity Project amplía su rango aliándose por fuera del stable
-nuclear.
+**The Vanity Project** en NXT TV semanal del 7 abr 2026.
+Construcción mutua de gimmicks: Blake gana legibilidad heel vía
+la asociación; The Vanity Project amplía su rango aliándose por
+fuera del stable nuclear.
 
 ## Lectura del Vehemiurgo
 
 **Cita verbatim del Vehemiurgo (2026-05-09)**, en contexto de la
 definición canónica de **Wrestling Entertainment Class**:
 
-> "El reciente segmento en NXT 7 de marzo 2026, Blake Monroe y el
+> "El reciente segmento en NXT 7 de marzo 2026 *(corregido por
+> el propio Vehemiurgo: 7 de abril 2026)*, Blake Monroe y el
 > Vanity Project, buenos gimmicks, buenas frases, interacción
 > ágil, buen timing y duración, construyeron sus gimmicks
 > mutuamente y la dinámica de heels aliándose por conveniencia y

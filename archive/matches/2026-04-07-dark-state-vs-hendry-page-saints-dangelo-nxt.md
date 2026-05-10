@@ -1,6 +1,6 @@
 ---
 match: "Dark State vs Joe Hendry, Ethan Page, Ricky Saints & Tony D'Angelo"
-slug: "dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day-2026-03-07"
+slug: "dark-state-vs-hendry-page-saints-dangelo-nxt-2026-04-07"
 participantes:
   - "Dark State (Saquon Shugars + miembros — composición pendiente confirmar)"
   - "Joe Hendry"
@@ -8,10 +8,10 @@ participantes:
   - "Ricky Saints"
   - "Tony D'Angelo"
 empresa: "WWE"
-programa: "NXT Vengeance Day"
-fecha: 2026-03-07
+programa: "NXT TV (semanal)"
+fecha: 2026-04-07
 ciudad: ""
-recinto: ""
+recinto: "WWE Performance Center, Orlando (presunción — verificar)"
 tipo_match: "8-man tag (4v4) — confirmar exacta"
 estipulacion: ""
 duracion: ""
@@ -28,13 +28,22 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buen wrestling, buenas secuencias, muy buen selling"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-05-10
 fuentes_principales:
-  - "Visionado directo del Vehemiurgo, NXT Vengeance Day 2026-03-07"
-tags: [wwe-2026, nxt, nxt-vengeance-day-2026, dark-state, joe-hendry, ethan-page, ricky-saints, tony-dangelo, saquon-shugars, 8-man-tag]
+  - "Visionado directo del Vehemiurgo, NXT TV semanal 2026-04-07"
+tags: [wwe-2026, nxt, nxt-tv, dark-state, joe-hendry, ethan-page, ricky-saints, tony-dangelo, saquon-shugars, 8-man-tag]
 ---
 
-# Dark State vs Hendry, Page, Saints & D'Angelo — WWE NXT Vengeance Day (07 mar 2026)
+# Dark State vs Hendry, Page, Saints & D'Angelo — WWE NXT TV (07 abr 2026)
+
+> **CORRECCIÓN DE FECHA Y SHOW (2026-05-10)**: el Vehemiurgo
+> registró originalmente este match como **NXT Vengeance Day del
+> 7 mar 2026**. **Es incorrecto.** El match es **NXT TV semanal
+> del 7 abril 2026** — confusión sistemática 03/07 ↔ 04/07
+> confirmada por el Vehemiurgo al revisar la corrección del
+> match Charlie Hilder. Las lecturas editoriales se mantienen
+> porque corresponden al match que efectivamente vio (solo
+> cambia fecha y show de contexto).
 
 > Match registrado el 2026-05-09 a partir del visionado directo
 > del Vehemiurgo. Take editorial verbatim preservado. Pieza
@@ -45,10 +54,10 @@ tags: [wwe-2026, nxt, nxt-vengeance-day-2026, dark-state, joe-hendry, ethan-page
 ## Resumen
 
 Multi-man tag entre **Dark State** y el equipo de **Joe Hendry,
-Ethan Page, Ricky Saints y Tony D'Angelo** en NXT Vengeance Day.
-Victoria del equipo Hendry/Page/Saints/D'Angelo. Finish con
-**spear de Tony D'Angelo** + intervención decisiva de **Ethan
-Page**.
+Ethan Page, Ricky Saints y Tony D'Angelo** en NXT TV semanal del
+7 abr 2026. Victoria del equipo Hendry/Page/Saints/D'Angelo.
+Finish con **spear de Tony D'Angelo** + intervención decisiva de
+**Ethan Page**.
 
 ## Lectura del Vehemiurgo
 

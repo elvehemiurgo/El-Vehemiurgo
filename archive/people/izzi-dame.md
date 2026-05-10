@@ -34,9 +34,12 @@ fuentes_principales:
   otro).
 - **Stable**: **The Culling** — el Vehemiurgo lo confirma como
   stable around her: *"todo The Culling gira alrededor de ella"*.
-- **Match notable mayo 2026**: derrotó a Sol Ruca en NXT Vengeance
-  Day (07 mar 2026) con asistencia de Zaria. Detalle en
-  [`matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md`](../matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md).
+- **Match notable abr 2026**: derrotó a Sol Ruca en **NXT TV
+  semanal del 07 abr 2026** *(corrección 2026-05-10: el Vehemiurgo
+  registró originalmente como Vengeance Day 07 mar; sub-agente y
+  el propio Vehemiurgo confirmaron fecha real 07 abr — confusión
+  sistemática 03/07 ↔ 04/07)* con asistencia de Zaria. Detalle en
+  [`matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md).
 
 ## Contexto financiero / contractual conocido
 
@@ -84,8 +87,9 @@ fuentes_principales:
   botches**: ejecución impecable. El moveset es legible y se
   ejecuta limpio.
 - **Crecimiento genial**.
-- **Victoria sobre Sol Ruca en NXT Vengeance Day** (07 mar 2026)
-  con asistencia de Zaria — pieza estructural de elevación.
+- **Victoria sobre Sol Ruca en NXT TV semanal** (07 abr 2026 —
+  ver corrección de fecha arriba) con asistencia de Zaria —
+  pieza estructural de elevación.
 - **Centro narrativo de The Culling**: el stable existe en
   función de ella.
 - **Niko Vance como contrastes**: *"puro potencial todavía"* —
@@ -94,7 +98,7 @@ fuentes_principales:
 ### Sesión 2026-05-09 (2) — Take en match Sol Ruca vs Izzi Dame
 
 **Cita verbatim del Vehemiurgo** (en match
-[`matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md`](../matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md)):
+[`matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md)):
 
 > "Izzi sí sabe de old-school y al igual que Raquel Rodríguez,
 > sí aprecia ser heavyweight y lo usa a su favor […] Lindo
@@ -139,8 +143,8 @@ caiga en la misma situación cuando salte a main roster?)
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md`](../matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md)
-  — match con Sol Ruca, Vengeance Day.
+- [`matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md)
+  — match con Sol Ruca, NXT TV semanal 07 abr 2026.
 - (Pendiente: matches y segmentos del notebook
   [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md)
   donde Izzi aparece — sesiones siguientes irán abriendo
