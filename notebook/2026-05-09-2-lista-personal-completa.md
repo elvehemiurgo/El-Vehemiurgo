@@ -343,7 +343,7 @@ mantiene visible qué queda.
 
 - JEVON EVANS VS SAQUON SHUGARS WWE NXT NOVEMBER 2025
 - JEFF JARRETT VS SHAWN MICHAELS WWF 1995 In Your House 2
-- OWEN HART VS BRET HART WRESTLEMANIA 10 WWF
+- (✓) **OWEN HART VS BRET HART WRESTLEMANIA 10 WWF** → [`archive/matches/1994-03-20-owen-hart-vs-bret-hart-wrestlemania-x.md`](../archive/matches/1994-03-20-owen-hart-vs-bret-hart-wrestlemania-x.md) (opener legendario MSG, pin limpio del menor)
 - BRET HART VS JEAN PIERRE LEFIT WWF 1995 In Your House 2
 - LION SLATER VS JEVON EVANS TNA 2025 Bound for Glory
 - Ikuto Hidaka & Minoru Fujita (C) vs MCMG (Alex Shelley & Chris Sabin) — ZERO1-MAX Tenka-Ichi Junior 2006, Tag 2 (25.08.2006)
@@ -351,7 +351,7 @@ mantiene visible qué queda.
 - LA KNIGHT VS SHEAMUS VS TREVOR LEE VS REY MISTERYIO WWE SmackDown 21.07.2023
 - DOMINIK MYSTERIO VS JOHN CENA Survivor Series 2025
 - NWA World Wide Wrestling 31.12.1983 — hermanos Youngblood (Jay & Mark) vs Hans Schroeder & Joe Russo
-- MONEY IN THE BANK MATCH WrestleMania 21 (2005)
+- (✓) **MONEY IN THE BANK MATCH WrestleMania 21 (2005)** → [`archive/matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md`](../archive/matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md) (inaugural MITB, Edge wins, 4 talents cluster Raw 2004-2005)
 - Bob Orton Jr. vs. Ben Alexander — NWA World Wide 06.08.1983
 - CHRIS BENOIT VS HHH WWE Raw 02.05.2005
 - SHELTON BENJAMIN VS SHAWN MICHAELS WWE Raw 02.05.2005
@@ -417,7 +417,7 @@ mantiene visible qué queda.
 - RHEA RIPLEY & IYO SKY VS ASUKA & KAIRI SANE WWE Raw 05.01.2026
 - CM PUNK VS BRON BREAKKER WWE Raw 05.01.2026
 - TRICK WILLIAMS VS REY FENIX WWE SmackDown 09.01.2026
-- CHRISTIAN & LANCE STORM VS THE ROCK & HULK HOGAN WWE SmackDown 25.07.2002
+- (✓) **CHRISTIAN & LANCE STORM VS THE ROCK & HULK HOGAN WWE SmackDown 25.07.2002** → [`archive/matches/2002-07-25-christian-lance-storm-vs-rock-hogan-wwe-smackdown.md`](../archive/matches/2002-07-25-christian-lance-storm-vs-rock-hogan-wwe-smackdown.md) (Christian eje fase 1 — Un-Americans linaje)
 - JEFF JARRETT VS BOB BACKLUND WWF Sunday Night Slam 3 (1995)
 - BRET HART VS OWEN HART WWF Raw before WrestleMania XI
 
@@ -439,7 +439,7 @@ mantiene visible qué queda.
 - STEPHANIE VAQUER, IYO SKY & RHEA RIPLEY VS LIV MORGAN, ROXANNE PEREZ & RAQUEL RODRIGUEZ WWE Raw 26.01.2026
 - AUSTIN THEORY VS REY MYSTERIO WWE Raw 26.01.2026
 - TOZAWA & OTIS VS RAYO & BRAVO VS NEW DAY WWE Raw 26.01.2026
-- Eddie Guerrero vs CM Punk — IWA Mid-South 02.03.2002
+- (✓) **Eddie Guerrero vs CM Punk — IWA Mid-South 02.03.2002** → [`archive/matches/2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md`](../archive/matches/2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md) (indie classic dos íconos pre-fame)
 - REY FENIX VS CARMELO HAYES WWE SmackDown 30.01.2026
 - CODY, JEY, SAMI & ORTON VS THE VISION WWE SmackDown 30.01.2026
 - AJ STYLES VS GUNTHER WWE Royal Rumble 31.01.2026
@@ -468,7 +468,7 @@ mantiene visible qué queda.
 - STING VS CACTUS JACK WCW Beach Blast 20.06.1992
 - CHRIS HERO VS ZACK SABRE JR Limitless Wrestling 2016
 - ROB VAN DAM VS AMAZING RED HOG 23.11.2015
-- RANDY SAVAGE VS DDP WCW The Great American Bash 15.06.1997
+- (✓) **RANDY SAVAGE VS DDP WCW The Great American Bash 15.06.1997** → [`archive/matches/1997-06-15-randy-savage-vs-ddp-wcw-great-american-bash.md`](../archive/matches/1997-06-15-randy-savage-vs-ddp-wcw-great-american-bash.md) (candidato canónico Wrestling Entertainment Class, Kimberly Page storyline)
 - BRET HART VS OWEN HART WWF 1994 dark Coliseum Video Exclusive No Holds Barred Match
 - BRYAN DANIELSON VS KENTA ROH Glory By Honor
 - STEVE AUSTIN VS BRET HART WWF Live Event Germany abr 1996
@@ -504,7 +504,7 @@ mantiene visible qué queda.
 - JEFF HARDY VS THE ROCK WWE Raw 04.07.2003
 - SHAWN MICHAELS VS MARTY JANNETTY WWF 11.05.1996
 - BRET HART VS TED DIBIASE WWF
-- CM PUNK VS MJF AEW Revolution Dog Collar Match
+- (✓) **CM PUNK VS MJF AEW Revolution Dog Collar Match** → [`archive/matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../archive/matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md) (modern classic, Valentine/Piper Starrcade 1983 tribute)
 - ABISMO NEGRO VS HIJO DEL PERRO AGUAYO WWF Superstars 02.02.1997
 - MCMG VS RAYO & BRAVO WWE Main Event 02.02.2026
 - EL GRANDE AMERICANO VS REY FENIX VS OCTAGON JR VS DRAGON LEE WWE AAA 07.02.2026
@@ -1001,7 +1001,7 @@ mantiene visible qué queda.
 - MJF VS HANGMAN REVOLUTION PROMO VIDEO AEW Dynamite 11.03.2026
 - MJF AND HANGMAN PRESS CONFERENCE PRE REVOLUTION AEW Dynamite 11.03.2026
 - YOUNG BUCKS VS FTR AEW Revolution 15.03.2026
-- CHRISTIAN KILLSWITCHES AEW Revolution 15.03.2026
+- (✓) **CHRISTIAN KILLSWITCHES AEW Revolution 15.03.2026** → [`archive/segments/2026-03-15-christian-killswitches-aew-revolution.md`](../archive/segments/2026-03-15-christian-killswitches-aew-revolution.md) (cierre fase 4 linaje Christian eje Vehemiurgia)
 - TONI STORM ENTRANCE AEW Revolution 15.03.2026
 - WILL OSPREAY RETURNS AEW Revolution 15.03.2026
 - KRIS STATLANDER AND TEKLAH VIDEO PROMO AEW Revolution 15.03.2026
@@ -1023,7 +1023,7 @@ mantiene visible qué queda.
 ### Bloque WWE Money in the Bank 2013 (Wyatt Family debut, Christian/Kane)
 
 - CHRISTIAN VS KANE WWE Raw 08.07.2013
-- BRAY WYATT PROMO WWE Raw 08.07.2013
+- (✓) **BRAY WYATT PROMO + WYATT FAMILY ATTACK KANE WWE Raw 08.07.2013** → [`archive/segments/2013-07-08-bray-wyatt-debut-promo-wwe-raw.md`](../archive/segments/2013-07-08-bray-wyatt-debut-promo-wwe-raw.md) (foundation gimmick paranormal moderno + legacy Wyatt Sicks)
 - THE WYATT FAMILY ATTACK KANE WWE Raw 08.07.2013
 - MITB MARK HENRY PROMO VIDEO WWE Raw 08.07.2013
 - CM PUNK PROMO WWE Raw 08.07.2013
@@ -1484,6 +1484,69 @@ de cobertura editorial densa**.
 + cross-refs densos + integración Batch annotations + mark
 notebook entries (✓) + commit/push por cluster. Modelo
 escalable para futuros clusters cuando el Vehemiurgo dispare.
+
+---
+
+## Update 2026-05-10 — Batch 6: Entradas no-cluster de mayor peso editorial
+
+**Procesadas individualmente** (sin dossier, ya que no forman
+cluster) las **8 entradas no-cluster de mayor peso editorial**
+identificadas en la lista personal. Estrategia: standalone
+fact-sheets de matches/segmentos landmark que sirven como
+piezas de archivo + cross-link a clusters existentes.
+
+1. **Owen Hart vs Bret Hart — WrestleMania X (1994)** —
+   opener legendario MSG, pin limpio del menor. Pieza histórica
+   obligatoria New Generation era WWF.
+2. **Money in the Bank ladder match — WrestleMania 21 (2005)**
+   — inaugural MITB. 4 de los 6 talents (Edge + Benoit +
+   Jericho + Christian + Benjamin) son cluster Raw 2004-2005
+   directo.
+3. **Christian & Lance Storm vs Rock & Hogan — SmackDown
+   25.07.2002** — **fase 1 del linaje Christian eje Vehemiurgia**
+   (Un-Americans stable). Citada explícitamente en sec. 1 del
+   notebook *"Christian Cage como héroe fundamental"*.
+4. **Christian Killswitches — AEW Revolution 15.03.2026** —
+   **fase 4 del linaje Christian eje Vehemiurgia** (cierre
+   moderno AEW). Citada explícitamente en sec. 1 del notebook.
+5. **Bray Wyatt debut promo + Wyatt Family attack Kane — Raw
+   08.07.2013** — foundation moment del gimmick paranormal
+   moderno + legacy 2023+ Wyatt Sicks. Citada en sec. *Bray
+   Wyatt 2013 era* del notebook.
+6. **CM Punk vs MJF Dog Collar Match — AEW Revolution 2022**
+   — modern classic con tributo Starrcade 1983 Valentine/Piper.
+   Linaje CM Punk cross-link con WM42 2026.
+7. **Randy Savage vs DDP — WCW Great American Bash 15.06.1997**
+   — **candidato canónico Wrestling Entertainment Class**
+   identificado en sec. *Hipótesis Wrestling Entertainment
+   Class* del notebook.
+8. **Eddie Guerrero vs CM Punk — IWA Mid-South 02.03.2002**
+   — indie classic dos íconos pre-fame. Linaje verificable a
+   Eddie regreso WWE jul 2002 (SmackDown 2002 cluster) + Punk
+   WM42 2026 (WrestleMania 42 cluster).
+
+**Linaje editorial Christian Cage como héroe fundamental
+cerrado completo en 4 fases**:
+
+1. **WWE SmackDown 2002 con Un-Americans** (Christian heel en
+   faction colectiva con Lance Storm vs Rock & Hogan).
+2. **WWE Raw 2004-2005 CLB + Tomko** (Christian heel solo con
+   muscle, prototipo de faction reducida — dossier WWE Raw
+   2004-2005).
+3. **TNA 2007 Coalition** (Christian como líder completo de
+   faction 4 arquetipos carny — dossier TNA 2007).
+4. **AEW Revolution 2026 con Killswitch** (cierre moderno del
+   linaje, finisher signature 25+ años consistente).
+
+**Linaje editorial CM Punk como talent de oficio** cerrado en
+3 fases: IWA Mid-South 2002 con Eddie → AEW Revolution 2022
+Dog Collar vs MJF → WM42 2026 vs Roman Reigns. Verificable
+end-to-end.
+
+**Pieza editorial al horno**: el **linaje Christian Cage como
+héroe fundamental Vehemiurgia** tiene los 4 paradas
+cross-linkeadas y la doctrina vehículo vs facción evolucionando
+a través del talent. Listo para columna dedicada.
 
 ---
 
