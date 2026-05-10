@@ -7,7 +7,7 @@ participantes:
   - "Shyloh (presunción — confirmar)"
   - "Tatum Paxley (presunción — confirmar)"
 empresa: "WWE"
-programa: "NXT (TV semanal — fecha exacta a confirmar)"
+programa: "NXT (TV semanal)"
 fecha: 2026-04-07
 ciudad: ""
 recinto: "WWE Performance Center, Orlando (presunción — verificar)"
@@ -28,37 +28,35 @@ calificacion_vehemiurgo: "Perfect match + Wrestling Entertainment — Blake Monr
 clases_vehemiurgo:
   - perfect-wrestling
   - wrestling-entertainment
-estado: stub
+estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:
-  - "Visionado directo del Vehemiurgo, NXT TV 2026-04-07 (asunción operativa — fecha exacta pendiente)"
+  - "Visionado directo del Vehemiurgo, NXT TV semanal 2026-04-07 (fecha confirmada por el Vehemiurgo 2026-05-10)"
 tags: [wwe-2026, nxt, nxt-tv, blake-monroe, jackson-drake, shyloh, tatum-paxley, perfect-wrestling-class, wrestling-entertainment-class, multi-classification, mixed-tag]
 ---
 
-# Drake & Monroe vs Shyloh & Paxley — WWE NXT TV (07 abr 2026 — fecha y composición a confirmar)
+# Drake & Monroe vs Shyloh & Paxley — WWE NXT TV (07 abr 2026)
 
-> **STUB con asunciones operativas — pendiente confirmación del
-> Vehemiurgo**:
+> **Fecha confirmada por el Vehemiurgo (2026-05-10)**: NXT TV
+> semanal del 7 abril 2026.
 >
-> 1. **Fecha**: asumo NXT TV semanal del **7 abr 2026** porque el
->    Vehemiurgo está procesando ese show en la sesión actual y
->    no especificó otra fecha. Si fue otro NXT TV, corregir.
-> 2. **Composición exacta** (presunción a partir de cobertura
->    NXT 2025-2026 + notebook list):
->    - **"Drake"** → **Jackson Drake** (a.k.a. *Doctor Thirst
->      Jackson Drake*, registrado en notebook list:
->      *"CHARLIE DEMPSEY VS DOCTOR THIRST JACKSON DRAKE VS SHYLO
->      VS JOHNNY GARGANO WWE 2026 03 24 NXT"*).
->    - **"Monroe"** → **Blake Monroe** (heel reciente NXT,
->      múltiples entries del notebook).
->    - **"Shilo / Shillo"** → **Shyloh** (segmentos backstage con
->      Robert Stone, Miles Borne, Ethan Page en notebook). El
->      mismo "SHYLO" del fatal four way del 24 mar 2026.
->    - **"Paxkey / Paxley"** → **Tatum Paxley**.
-> 3. **Tipo de match**: si Drake y Shyloh son hombres y Monroe y
->    Paxley mujeres, esto sería **mixed tag intergender** —
->    formato atípico en WWE NXT pero posible. Confirmar.
-> 4. **Finish, duración, ganador**: pendientes contra video.
+> **Composición exacta** (presunción a partir de cobertura
+> NXT 2025-2026 + notebook list):
+> - **"Drake"** → **Jackson Drake** (a.k.a. *Doctor Thirst
+>   Jackson Drake*, registrado en notebook list:
+>   *"CHARLIE DEMPSEY VS DOCTOR THIRST JACKSON DRAKE VS SHYLO
+>   VS JOHNNY GARGANO WWE 2026 03 24 NXT"*).
+> - **"Monroe"** → **Blake Monroe**.
+> - **"Shilo / Shillo"** → **Shyloh** (segmentos backstage con
+>   Robert Stone, Miles Borne, Ethan Page en notebook). El
+>   mismo "SHYLO" del fatal four way del 24 mar 2026.
+> - **"Paxkey / Paxley"** → **Tatum Paxley**.
+>
+> **Tipo de match**: si Drake y Shyloh son hombres y Monroe y
+> Paxley mujeres, esto sería **mixed tag intergender** — formato
+> atípico WWE pero posible. Pendiente confirmar contra video.
+>
+> **Finish, duración, ganador**: pendientes contra video.
 
 > **Multi-clase asignada por el Vehemiurgo**: **Perfect Wrestling
 > + Wrestling Entertainment**. Segunda multi-clase de la base
@@ -133,8 +131,8 @@ editorial: episodio de NXT excepcionalmente rico en oficio.
 
 ## Pendientes / huecos
 
-- [ ] **Confirmar fecha exacta del match** (NXT TV 7 abr o
-      siguiente).
+- [x] ~~Confirmar fecha exacta del match~~ → **CONFIRMADA
+      (2026-05-10)**: NXT TV semanal del 7 abr 2026.
 - [ ] **Confirmar composición exacta** de los 4 participantes y
       partnership (Drake + Monroe vs Shyloh + Paxley vs alguna
       variante).

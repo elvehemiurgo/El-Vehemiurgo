@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
 |---|---|---|---|---|---|
-| _(vacío)_ | | | | | |
+| `nqcc-charlie-dempsey-2026` | en-curso | 2026-05-10 | No Quarter Catch Club (NQCC) — origen, fundación, liderazgo de Charlie Dempsey, evolución de composición hasta los miembros actuales (Wren Sinclair + Kendal Grey). Historia específica de Wren + Kendal con Charlie Dempsey. Lectura editorial Cornette-school sobre la facción catch wrestling. | Vehemiurgo, 2026-05-10 (post-take Fatal Influence "dejaron over a WrenQCC"). | `archive/promotions/nqcc.md` (nuevo). Cross-links a `archive/people/wren-sinclair.md`, `archive/people/kendal-grey.md`, `archive/people/charlie-dempsey.md` (nuevos cuando se procesen). |
 
 ## En cola (declaradas, no lanzadas)
 
