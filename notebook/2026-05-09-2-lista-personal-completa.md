@@ -573,7 +573,7 @@ mantiene visible qué queda.
 - FALLON HENLEY & LAINEY REID VS SOL RUCA VS WREN QCC NXT 20.01.2026
 - THE CULLING ATTACKS DARK STATE POST MATCH NXT 27.01.2026
 - CHARLIE DEMPSEY VS ELIO LEFLOIRE NXT 03.02.2026
-- THE ELEGANCE BRAND (M & HEATHER) VS SOL RUCA NXT 03.02.2026
+- (✓) **THE ELEGANCE BRAND (M & HEATHER) VS ZARUCA (SOL RUCA & ZARIA) NXT 03.02.2026** *(corrección — match 2v2 por TNA Knockouts Tag Titles, no 1v2; ejemplo canónico Fighting Spirit Class)* → [`archive/matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../archive/matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
 - WREN SINCLAIR & KENDAL GREY VS SOL RUCA NXT 10.02.2026
 - KELANI JORDAN VS LOLA VICE NXT 27.02.2026 [verificar fecha exacta — NXT no necesariamente sale 27]
 - M & HEATHER BY ELEGANCE VS SOL RUCA NXT 03.02.2026
@@ -613,6 +613,8 @@ mantiene visible qué queda.
 - BLAKE MONROE PROMO NXT 03.03.2026
 - JAYDA PARKER VS BLAKE MONROE NXT Vengeance Day 07.03.2026
 - IZZI DAME VS TATUM PAXLEY NXT Vengeance Day 07.03.2026
+- (✓) **SOL RUCA VS IZZI DAME NXT Vengeance Day 07.03.2026** *(añadido por sesión 2026-05-09 visionado, take + cita verbatim integrada)* → [`archive/matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md`](../archive/matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md)
+- (✓) **BLAKE MONROE Y EL VANITY PROJECT — ALIANZA HEEL POR CONVENIENCIA NXT Vengeance Day 07.03.2026** *(ejemplo canónico Wrestling Entertainment Class)* → [`archive/segments/2026-03-07-blake-monroe-vanity-project-alliance-nxt-vengeance-day.md`](../archive/segments/2026-03-07-blake-monroe-vanity-project-alliance-nxt-vengeance-day.md)
 - FATAL INFLUENCE SEGMENT NXT Vengeance Day 07.03.2026
 - KELANI JORDAN VS LOLA VICE PROMO VIDEO NXT Vengeance Day 07.03.2026
 - OPENING VIDEO NXT 10.03.2026

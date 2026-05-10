@@ -116,7 +116,13 @@ notebook 2026-05-09; el segmento del 24/3/2026; los matches de Stand
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
+  — última pieza on-screen de ZaRuca (tag con Zaria) vs The
+  Elegance Brand. **Fighting Spirit Class** asignada por el
+  Vehemiurgo.
 - [`segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md)
-  — segmento promo in-ring confrontacional con Zaria.
+  — segmento promo in-ring confrontacional con Zaria post-turn.
+- [`matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md`](../matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md)
+  — match en NXT Vengeance Day, derrota con asistencia de Zaria.
 - (Pendiente sumar a `archive/matches/`: Stand & Deliver 2026 vs
   Zaria, NXT Revenge 2026 LWS vs Zaria.)

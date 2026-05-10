@@ -20,95 +20,160 @@ calificación numérica.
 
 ## Las tres clases
 
-> **NOTA EDITORIAL — borrador en discusión 2026-05-09**: las
-> definiciones siguientes son **propuestas iniciales**. El
-> Vehemiurgo eligió "discutamos matiz por clase" — las
-> definiciones se refinarán en sesiones siguientes. Cuando se
-> cierre el canon de una clase, se removerá esta nota para esa
-> sección.
-
 ### 1. Perfect Wrestling Class
 
-**Borrador de definición** *(en discusión)*:
+> *"Es la perfección en ring y también en booking, en resultados,
+> en coherencia, en booking, en caos, en naturaleza, en fluidez,
+> en ritmo, en comentarios, en predecir reacciones, en satisfacer
+> el booking, en recompensar a los fans, en vender merchandising,
+> en construir estrellas, en definir luchadores, definir carreras,
+> definir temporadas y compañías enteras, realmente empujar el
+> wrestling hacia adelante."* — El Vehemiurgo, definición canónica
+> 2026-05-09.
 
-Matches o segmentos donde **todos los ejes del oficio funcionan al
-unísono**. Booking con causa, draw construido, heat genuino,
-gimmicks coherentes, intención clara, consecuencia respetada,
-ejecución in-ring solo cuando sirve a la historia. Es la clase de
-**liturgia completa cumplida** — la trinidad promotor / luchador /
-fan opera sin fricción.
+Perfect Wrestling es **la clase del techo absoluto**. Una pieza
+solo califica cuando opera bien en **todos** los ejes
+simultáneamente:
 
-**Criterios tentativos** que un Perfect Wrestling cumple:
-- Causa narrativa visible (no es match dream sin sustancia).
-- Heat o draw demostrable.
-- Gimmick coherente con el rol (face / heel / tweener vehemiurgia).
-- Finish con peso.
-- Consecuencia post-match — el match dejó algo encendido.
-- Ejecución in-ring al servicio de la historia.
+- **Ejecución**: in-ring craft impecable.
+- **Booking**: causa, motivo, escalada, payoff, consecuencia.
+- **Resultados**: el outcome es el correcto y se respeta.
+- **Coherencia**: la pieza encaja con la storyline larga.
+- **Caos**: hay riesgo controlado, vida — no es robot ejecutado.
+- **Naturaleza**: se siente real, no script visible.
+- **Fluidez**: secuencias que respiran.
+- **Ritmo**: tempo que el público sigue sin esfuerzo.
+- **Comentarios**: la mesa vende lo que la pieza hace.
+- **Predicción de reacciones**: el booker leyó al público.
+- **Satisfacer el booking**: lo prometido por la storyline se
+  paga.
+- **Recompensar a los fans**: el público se va con algo ganado.
+- **Vender merchandising**: la pieza mueve unidades.
+- **Construir estrellas**: alguien sale más arriba que como
+  entró.
+- **Definir luchadores / carreras / temporadas / compañías
+  enteras**: la pieza es un **antes y un después**.
+- **Empujar el wrestling hacia adelante**: la industria no es la
+  misma post-pieza.
 
-**Candidatos tentativos desde la lista personal** (a confirmar):
-- Christian vs Chris Jericho — WrestleMania XX.
-- AJ Styles vs Gunther — WWE Royal Rumble 31.01.2026.
-- CM Punk vs Roman Reigns — WrestleMania 42 Día 2.
+**Implicación operativa**: Perfect Wrestling es **una clase
+exigente**. Pocas piezas califican por año. La asignación es
+**evento**, no rutina. Match-de-la-semana ≠ Perfect Wrestling.
+Un Perfect Wrestling **define la conversación** del oficio por un
+periodo.
 
 ### 2. Fighting Spirit Class
 
-**Borrador de definición** *(en discusión)*:
+> *"Son luchas no necesariamente perfectas, sino que son realmente
+> luchas. Todas las partes están tratando de vender una lucha, no
+> un show, ni algo safe. Una match clásica y cruda de toda la
+> vida, donde se ve el esfuerzo, el dolor. Como Terry Funk como
+> babyface cuando hacía que [el oponente] empatara con él, esa
+> lucha. O como M y Heather by Elegance vs Sol Ruca y Zaria en
+> WWE NXT 2026 02 03: estuvo increíble y cerca de ser perfecta,
+> pero fue una batalla. Fue buen wrestling, fue real, actuaron
+> como wrestlers y estuvieron old-school."* — El Vehemiurgo,
+> definición canónica 2026-05-09.
 
-Matches o segmentos donde el eje **combate-intensidad-corazón** es
-el motor. La rama strong style / king's road / catch puro. Stiff
-strikes, struggle, near-falls ganados con sufrimiento, finishers
-que escalan. Se mide más por **la guerra que por la coreografía**.
+Fighting Spirit es **la clase del wrestling-como-pelea-real**. La
+pieza no necesita ser perfecta — necesita ser **una lucha** en su
+sentido carny crudo:
 
-**Criterios tentativos** que un Fighting Spirit cumple:
-- Stiff work documentable (golpes con contacto real).
-- Struggle por encima de spotfest — la pelea se siente ganada,
-  no coreografiada.
-- Drama de near-falls construido sobre escalada de daño, no
-  sobre cantidad.
-- Heart / corazón visible — el wrestler vende que la pelea le
-  cuesta.
-- El match honra la tradición catch, strong style, king's road,
-  o equivalente.
+- **Todas las partes venden la pelea, no el show**. Nadie en el
+  ring está performando para luces, todos están luchando.
+- **No es safe**. Hay riesgo, hay dureza, hay daño visible.
+- **Esfuerzo y dolor son visibles**. El wrestler vende que la
+  pieza le cuesta.
+- **Old-school combat realism**. Stiff strikes, struggle, near-
+  falls ganados con sufrimiento, finishers que escalan en daño.
+- **Como wrestlers, no como entertainers**. La pieza honra la
+  tradición catch / strong style / king's road / lucha cruda.
 
-**Candidatos tentativos desde la lista personal** (a confirmar):
-- Bret Hart vs Steve Austin — WWF Live Event Germany abril 1996.
-- MCMG vs Ikuto Hidaka & Minoru Fujita — ZERO1-MAX 25.08.2006.
-- Bradshaw & Barry Windham vs Steve Williams & Gary Albright —
-  AJPW 23.11.1997.
-- Owen Hart vs Bret Hart — WrestleMania X.
-- Dragon Lee vs Taiji Ishimori — NJPW Wrestling Dontaku 2019.
+**Ejemplo canónico fundacional**: **Terry Funk como babyface
+veterano** que hacía que sus oponentes pelearan con él, no contra
+un acto.
+
+**Ejemplo canónico contemporáneo**: ***ZaRuca (Sol Ruca + Zaria)
+vs The Elegance Brand (M & Heather), NXT 2026-02-03*** —
+*"increíble y cerca de ser perfecta, pero fue una batalla, fue
+buen wrestling, fue real."*
+
+**Relación con Perfect Wrestling**: una pieza puede ser **Fighting
+Spirit y NO Perfect** (cerca de la perfección pero no define era).
+También puede ser **Fighting Spirit y Perfect** (real fight + define
+era — material de Misawa-Kawada AJPW 90s, por ejemplo).
 
 ### 3. Wrestling Entertainment Class
 
-**Borrador de definición** *(en discusión)*:
+> *"Es el lado de espectáculo y show necesario para que exista
+> wrestling. Por ejemplo el reciente segmento en NXT 7 de marzo
+> 2026, Blake Monroe y el Vanity Project: buenos gimmicks, buenas
+> frases, interacción ágil, buen timing y duración, construyeron
+> sus gimmicks mutuamente y la dinámica de heels aliándose por
+> conveniencia y todo eso está muy bien vendido. Para el nivel de
+> NXT, es cero cringe y muy efectivo. También toma como ejemplo
+> todas las promos y segmentos de Christian que están en mi
+> lista."* — El Vehemiurgo, definición canónica 2026-05-09.
 
-Matches o segmentos donde el eje
-**performance-character-promo-spectacle** es el motor. Carny puro,
-gimmick ejecutado bien, charisma sobre execution, theatricality
-old-school o moderna que respeta la liturgia. Sports entertainment
-**cuando se hace con oficio** (no cuando se hace por reflejo
-corporativo).
+Wrestling Entertainment es **la clase del espectáculo y show
+necesario para que exista wrestling**. La pieza se sostiene por
+el lado **performance / character / promo / gimmick**, no por el
+combate ni por el peso de booking-define-era:
 
-**Criterios tentativos** que un Wrestling Entertainment cumple:
-- Performance / character work al frente — la pieza se sostiene
-  por la presencia, no por la mecánica.
-- Promo o segmento con carga editorial real (heel justificado,
-  babyface con causa, comedy carny no chistecito).
-- Theatricality que respeta la liturgia carny — no rompe el rito,
-  lo amplifica.
-- Charisma sobre execution — el público responde al gimmick antes
-  que al moveset.
+- **Buenos gimmicks**: los personajes son legibles, vendidos
+  con coherencia.
+- **Buenas frases**: el material verbal mueve la pieza.
+- **Interacción ágil**: el ida y vuelta tiene química.
+- **Timing y duración**: el segmento sabe cuándo termina.
+- **Construir gimmicks mutuamente**: cada participante hace
+  ganar al otro su personaje.
+- **Dinámicas de stable / alianza** (heels que se alían por
+  conveniencia, faces que se confrontan honestamente, etc.) bien
+  vendidas.
+- **Cero cringe**. La pieza respeta la liturgia carny — no
+  rompe el rito con chistecito moderno o break-character.
 
-**Candidatos tentativos desde la lista personal** (a confirmar):
-- Fatal Influence debut — WWE SmackDown 24.04.2026 *("the
-  greatest act in WWE now in the big leagues, the whole act is
-  here")*.
-- Kazarian Elvis "Bear with me" promo — TNA Impact 18.12.2025.
-- Kit Wilson Poetry Slam — WWE SmackDown 20.03.2026.
-- Christian Coalition backstage segments — TNA 2007.
-- Steve Austin vs The Rock — WWF In Your House 12.07.1997.
-- Randy Savage vs DDP — WCW Great American Bash 15.06.1997.
+**Ejemplo canónico contemporáneo**: ***Blake Monroe y el Vanity
+Project, NXT Vengeance Day 2026-03-07*** — alianza heel por
+conveniencia bien vendida, gimmicks mutuamente construidos.
+
+**Ejemplo canónico clásico**: **todas las promos y segmentos de
+Christian** en la lista personal del Vehemiurgo (especialmente
+TNA 2007 Christian Coalition era + WWE 2004–2005 Raw rivalry con
+Jericho).
+
+**Relación con las otras clases**: una promo o segmento puro
+**vive en Wrestling Entertainment**. Un match con gran trabajo
+de character / promo en mesa puede ser **Wrestling Entertainment
++ Fighting Spirit** (entretenido + real). El raro combo
+**Wrestling Entertainment + Fighting Spirit + Perfect Wrestling**
+es el techo absoluto del oficio.
+
+---
+
+## Multi-clasificación
+
+**Decisión editorial del Vehemiurgo (2026-05-09)**: una entrada
+**puede pertenecer a más de una clase**. No son mutuamente
+excluyentes.
+
+Esto refleja la realidad del oficio. Las **siete combinaciones
+posibles** dicen distintas cosas:
+
+| Clase(s) | Lectura |
+|---|---|
+| `[]` (sin clasificar) | Estado por defecto. La mayoría de la lista vive acá. |
+| `[wrestling-entertainment]` | Promo o segmento puro de gran character work. |
+| `[fighting-spirit]` | Pelea real y old-school, no llegó a definir era. |
+| `[perfect-wrestling]` | Define era / carrera / temporada. *(Raro encontrar Perfect sin alguna de las otras dos en compañía.)* |
+| `[fighting-spirit, wrestling-entertainment]` | Pelea real + great character work. |
+| `[perfect-wrestling, fighting-spirit]` | Real fight + define era. Tipo Misawa-Kawada. |
+| `[perfect-wrestling, wrestling-entertainment]` | Spectacle excepcional + define era. Tipo Hogan-Andre WMIII (lectura tentativa). |
+| `[perfect-wrestling, fighting-spirit, wrestling-entertainment]` | Las tres. **Techo absoluto del oficio**. Casi unicornio. |
+
+**Una entrada sin clasificar** lleva el campo vacío (`[]`). **No
+es defecto**: es estado. La asignación ocurre cuando el
+Vehemiurgo revisa con voluntad editorial, no por barrido bulk.
 
 ---
 

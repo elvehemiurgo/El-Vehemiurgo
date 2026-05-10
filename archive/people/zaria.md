@@ -107,5 +107,12 @@ matches a sumar.)
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md).
+- [`matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
+  — última pieza on-screen como tag con Sol (ZaRuca). **Fighting
+  Spirit Class** asignada por el Vehemiurgo.
+- [`segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md)
+  — promo in-ring confrontacional post-turn.
+- [`matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md`](../matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md)
+  — interferencia que ayuda a Izzi Dame a vencer a Sol en NXT
+  Vengeance Day.
 - (Pendiente: matches Stand & Deliver 2026 y NXT Revenge 2026.)
