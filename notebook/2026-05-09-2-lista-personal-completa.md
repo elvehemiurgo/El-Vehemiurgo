@@ -522,32 +522,32 @@ mantiene visible qué queda.
 - REY MYSTERIO VS RICO WWE SmackDown 29.08.2002
 - UNDERTAKER VS CHRIS BENOIT VS KURT ANGLE WWE SmackDown 29.08.2002
 - BILLY GUNN VS REY MYSTERIO WWE SmackDown 05.09.2002
-- REY MYSTERIO VS KURT ANGLE WWE SummerSlam 2002
+- (✓) **REY MYSTERIO VS KURT ANGLE WWE SummerSlam 2002** → [`archive/matches/2002-08-25-rey-mysterio-vs-kurt-angle-wwe-summerslam.md`](../archive/matches/2002-08-25-rey-mysterio-vs-kurt-angle-wwe-summerslam.md) (primer PPV singles WWE de Rey, landmark cultural)
 - REY MYSTERIO VS KURT ANGLE WWE SmackDown 12.09.2002
-- REY MYSTERIO VS KURT ANGLE VS CHRIS BENOIT WWE SmackDown 26.09.2002
+- (✓) **REY MYSTERIO VS KURT ANGLE VS CHRIS BENOIT WWE SmackDown 26.09.2002** → [`archive/matches/2002-09-26-mysterio-vs-angle-vs-benoit-wwe-smackdown.md`](../archive/matches/2002-09-26-mysterio-vs-angle-vs-benoit-wwe-smackdown.md) (triple threat post-SummerSlam, formación SmackDown Six)
 - CHRIS BENOIT VS REY MYSTERIO 03.10.2002
 - BROCK LESNAR & TAJIRI VS EDGE & MYSTERIO WWE SmackDown 10.10.2002
 - KURT ANGLE & CHRIS BENOIT VS LOS GUERREROS (EDDIE & CHAVO) WWE SmackDown 17.10.2002
 - RIC FLAIR VS RVD WWE No Mercy 2002
-- KURT ANGLE & CHRIS BENOIT VS EDGE & REY MYSTERIO WWE No Mercy 2002
+- (✓) **KURT ANGLE & CHRIS BENOIT VS EDGE & REY MYSTERIO WWE No Mercy 2002** → [`archive/matches/2002-10-20-angle-benoit-vs-edge-mysterio-wwe-no-mercy.md`](../archive/matches/2002-10-20-angle-benoit-vs-edge-mysterio-wwe-no-mercy.md) (peak PPV tag SmackDown Six, semifinal tournament)
 - JAMIE NOBLE VS TAJIRI WWE SmackDown 24.10.2002
 - LOS GUERREROS VS EDGE & REY MYSTERIO WWE SmackDown 24.10.2002
 - CHRIS BENOIT VS KURT ANGLE WWE SmackDown 24.10.2002
 - CHRIS BENOIT VS EDGE WWE SmackDown 31.10.2002
 - MATT HARDY VS TAJIRI WWE SmackDown 31.10.2002
 - EDDIE GUERRERO VS KURT ANGLE WWE SmackDown 31.10.2002
-- BROCK LESNAR VS REY MYSTERIO WWE SmackDown 31.10.2002
+- (✓) **BROCK LESNAR VS REY MYSTERIO WWE SmackDown 31.10.2002** → [`archive/matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md`](../archive/matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md) (David vs Goliath puro, peak monster-vs-cruiserweight)
 - REY MYSTERIO & EDGE VS ANGLE & BENOIT WWE SmackDown 07.11.2002
-- BROCK LESNAR VS EDDIE GUERRERO WWE SmackDown 07.11.2002
+- (✓) **BROCK LESNAR VS EDDIE GUERRERO WWE SmackDown 07.11.2002** → [`archive/matches/2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md`](../archive/matches/2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md) (pre-build remoto WMXX, seed editorial)
 - CHAVO GUERRERO VS EDGE WWE SmackDown 14.11.2002
-- EDDIE GUERRERO VS REY MYSTERIO WWE SmackDown 14.11.2002
+- (✓) **EDDIE GUERRERO VS REY MYSTERIO WWE SmackDown 14.11.2002** → [`archive/matches/2002-11-14-eddie-guerrero-vs-rey-mysterio-wwe-smackdown.md`](../archive/matches/2002-11-14-eddie-guerrero-vs-rey-mysterio-wwe-smackdown.md) (peak lucha-libre revival singles, reunión ECW/WCW-era)
 - CHRIS BENOIT VS KURT ANGLE WWE SmackDown 14.11.2002
-- REY MYSTERIO & EDGE VS LOS GUERREROS VS ANGLE & BENOIT WWE Survivor Series 2002
+- (✓) **REY MYSTERIO & EDGE VS LOS GUERREROS VS ANGLE & BENOIT WWE Survivor Series 2002** → [`archive/matches/2002-11-17-mysterio-edge-vs-guerreros-vs-angle-benoit-wwe-survivor-series.md`](../archive/matches/2002-11-17-mysterio-edge-vs-guerreros-vs-angle-benoit-wwe-survivor-series.md) (consagración SmackDown Six, inaugural WWE Tag Champs Los Guerreros, MSG)
 - REY MYSTERIO VS JAMIE NOBLE WWE SmackDown 21.11.2002
 - CHAVO GUERRERO VS CHRIS BENOIT WWE SmackDown 21.11.2002
 - MATT HARDY & JOHN CENA VS REY MYSTERIO & EDGE WWE SmackDown 28.11.2002
 - LOS GUERREROS VS BENOIT & ANGLE WWE SmackDown 28.11.2002
-- KURT ANGLE VS CHRIS BENOIT VS EDDIE GUERRERO VS EDGE WWE SmackDown 05.12.2002
+- (✓) **KURT ANGLE VS CHRIS BENOIT VS EDDIE GUERRERO VS EDGE WWE SmackDown 05.12.2002** → [`archive/matches/2002-12-05-angle-vs-benoit-vs-eddie-vs-edge-fatal-4way-wwe-smackdown.md`](../archive/matches/2002-12-05-angle-vs-benoit-vs-eddie-vs-edge-fatal-4way-wwe-smackdown.md) (fatal 4-way peak rotation, los 4 SmackDown Six masculinos)
 - KURT ANGLE & EDGE VS BIG SHOW & ALBERT WWE SmackDown 12.12.2002
 - CHRIS BENOIT VS KURT ANGLE WWE SmackDown 19.12.2002
 
@@ -1280,6 +1280,83 @@ dossieres:
 de la lista), Chris Jericho, Trish Stratus, Tyson Tomko,
 Shelton Benjamin, Ric Flair. Los abrimos cuando el material
 editorial los demande o cuando el Vehemiurgo dispare.
+
+---
+
+## Update 2026-05-10 — Cluster 3: WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga
+
+**Cluster *"WWE 2002 SmackDown como otra tierra sagrada"***
+(sec. 4 del notebook) procesado siguiendo orden confirmado por
+el Vehemiurgo (*"Está bien ese orden, continúa"* + *"Ya quiero
+que completemos esto"*):
+
+1. **Dossier central** abierto en
+   [`dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md`](../dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md)
+   — 5 hilos narrativos (Rey Mysterio debut WWE landmark + Brock
+   Lesnar consolidado monster + **SmackDown Six concept** +
+   Los Guerreros tag inaugural + Edge-Mysterio partnership),
+   cronología de 30+ entradas ago-dic 2002 casi episodio por
+   episodio, tesis sobre SmackDown 2002 como ejemplo más
+   completo de *mid-card-as-main-event funcionando como modelo
+   sostenible*, era **Paul Heyman GM**.
+2. **8 centerpieces** abiertos como entries individuales:
+   - Rey Mysterio vs Kurt Angle — SummerSlam 2002 (primer PPV
+     singles WWE de Rey, landmark cultural).
+   - Mysterio vs Angle vs Benoit — SmackDown 26 sep 2002
+     (triple threat post-SummerSlam, formación SmackDown Six).
+   - Angle & Benoit vs Edge & Mysterio — No Mercy 2002 (peak
+     PPV tag SmackDown Six, semifinal tournament).
+   - Brock Lesnar vs Rey Mysterio — SmackDown 31 oct 2002
+     (David vs Goliath puro icónico).
+   - Brock Lesnar vs Eddie Guerrero — SmackDown 7 nov 2002
+     (pre-build remoto WMXX 2004, seed editorial).
+   - Eddie Guerrero vs Rey Mysterio — SmackDown 14 nov 2002
+     (peak lucha-libre revival singles, reunión ECW/WCW-era).
+   - Mysterio & Edge vs Los Guerreros vs Angle & Benoit —
+     Survivor Series 2002 (consagración SmackDown Six, MSG,
+     Los Guerreros inaugural WWE Tag Champs).
+   - Angle vs Benoit vs Eddie vs Edge — SmackDown 5 dic 2002
+     fatal 4-way (peak rotation singles, los 4 SmackDown Six
+     masculinos sin lateral).
+
+**Concepto editorial nuevo emergente del cluster — categoría
+"roster cohesionado"**: el **SmackDown Six** (Angle/Benoit/Edge/
+Mysterio/Eddie/Chavo) **no es facción** (no tiene identidad
+colectiva, no son aliados storyline) sino **roster cohesionado
+de calidad** — categoría editorial distinta y propia, no
+contemplada en la doctrina actual de **vehículo vs facción** en
+[`archive/topics/factions-2026.md`](../archive/topics/factions-2026.md).
+**Lectura editorial fértil**: ampliar la doctrina para incluir
+esta tercera categoría (vehículo / facción / roster
+cohesionado). Modelo replicado con éxito mixto por AEW + NJPW
+G1 en años posteriores. **Pieza para columna editorial futura**.
+
+**Linaje editorial consolidado entre los 3 clusters
+procesados**:
+
+- **WWE SmackDown 2002** (este cluster): semillero técnico del
+  lucha revival + monster heel run de Brock + Eddie/Rey peak
+  WWE + Edge en construcción + Heyman como GM-booker.
+- **WWE Raw 2004-2005** (cluster previo): era de oficio
+  mid-card pre-Cena monolítico + Christian + Tomko prototipo
+  faction reducida + Christian-Jericho-Trish triangle peak.
+- **TNA 2007 Coalition** (primer cluster): ejecución completa
+  4 arquetipos carny faction multiplicadora + Joe-Angle arc +
+  AMW split → Beer Money + King of the Mountain microcosmos.
+
+Cada cluster construye sobre el anterior. **El Christian Cage
+arc completo** se ve ahora como **tres fases**: SmackDown 2002
+con Lance Storm (cluster lateral aún por procesar — Christian
+aparece en entradas separadas) → Raw 2004-2005 CLB + Tomko →
+TNA 2007 Coalition completa. **Linaje carny old-school visible
+en formato moderno**.
+
+**Pendiente residual de los 3 clusters**: fact-sheets de
+Christian Cage, Chris Jericho, Trish Stratus, Tomko, Eddie
+Guerrero, Rey Mysterio, Kurt Angle, Brock Lesnar, Edge, Paul
+Heyman, Los Guerreros tag-team file, Samoa Joe, Chris Harris,
+James Storm. Volumen denso — los abrimos cuando el material
+editorial los demande o el Vehemiurgo dispare.
 
 ---
 
