@@ -346,7 +346,7 @@ mantiene visible qué queda.
 - (✓) **OWEN HART VS BRET HART WRESTLEMANIA 10 WWF** → [`archive/matches/1994-03-20-owen-hart-vs-bret-hart-wrestlemania-x.md`](../archive/matches/1994-03-20-owen-hart-vs-bret-hart-wrestlemania-x.md) (opener legendario MSG, pin limpio del menor)
 - BRET HART VS JEAN PIERRE LEFIT WWF 1995 In Your House 2
 - LION SLATER VS JEVON EVANS TNA 2025 Bound for Glory
-- Ikuto Hidaka & Minoru Fujita (C) vs MCMG (Alex Shelley & Chris Sabin) — ZERO1-MAX Tenka-Ichi Junior 2006, Tag 2 (25.08.2006)
+- (✓) **Ikuto Hidaka & Minoru Fujita (C) vs MCMG (Alex Shelley & Chris Sabin) — ZERO1-MAX Tenka-Ichi Junior 2006, Tag 2 (25.08.2006)** → [`archive/matches/2006-08-25-mcmg-vs-hidaka-fujita-zero1-max.md`](../archive/matches/2006-08-25-mcmg-vs-hidaka-fujita-zero1-max.md) (candidato canónico Fighting Spirit Class, junior tag classic)
 - Alex Shelley vs Chris Sabin — ZERO1-MAX Tenka Ichi Jr 2006, Tag 1 (24.08.2006)
 - LA KNIGHT VS SHEAMUS VS TREVOR LEE VS REY MISTERYIO WWE SmackDown 21.07.2023
 - DOMINIK MYSTERIO VS JOHN CENA Survivor Series 2025
@@ -464,18 +464,18 @@ mantiene visible qué queda.
 
 - RANDY SAVAGE VS HEADSHRINKER FATU WWF Raw 13.12.1993
 - AJ STYLES VS KEVIN OWENS WWE MSG 07.07.2017
-- AJ STYLES VS HOMICIDE IWC 2004
+- (✓) **AJ STYLES VS HOMICIDE IWC 2004** → [`archive/matches/2004-aj-styles-vs-homicide-iwc.md`](../archive/matches/2004-aj-styles-vs-homicide-iwc.md) (AJ Styles arc indie-a-WWE pieza intermedia)
 - STING VS CACTUS JACK WCW Beach Blast 20.06.1992
 - CHRIS HERO VS ZACK SABRE JR Limitless Wrestling 2016
 - ROB VAN DAM VS AMAZING RED HOG 23.11.2015
 - (✓) **RANDY SAVAGE VS DDP WCW The Great American Bash 15.06.1997** → [`archive/matches/1997-06-15-randy-savage-vs-ddp-wcw-great-american-bash.md`](../archive/matches/1997-06-15-randy-savage-vs-ddp-wcw-great-american-bash.md) (candidato canónico Wrestling Entertainment Class, Kimberly Page storyline)
 - BRET HART VS OWEN HART WWF 1994 dark Coliseum Video Exclusive No Holds Barred Match
 - BRYAN DANIELSON VS KENTA ROH Glory By Honor
-- STEVE AUSTIN VS BRET HART WWF Live Event Germany abr 1996
+- (✓) **STEVE AUSTIN VS BRET HART WWF Live Event Germany abr 1996** → [`archive/matches/1996-04-25-steve-austin-vs-bret-hart-wwf-live-event-germany.md`](../archive/matches/1996-04-25-steve-austin-vs-bret-hart-wwf-live-event-germany.md) (candidato canónico Fighting Spirit Class, pre-King of the Ring)
 - THE HARDYS VS THE DUDLEY BOYZ VS EDGE & CHRISTIAN VS JERICHO & BENOIT WWF SmackDown 24.05.2001
 - JEFF JARRETT VS CHRIS BENOIT WCW Starrcade 1999 (ladder match)
 - BRET HART & SHAWN MICHAELS VS JACOB & ELI BLU WWF 24.07.1995
-- DRAGON LEE VS TAIJI ISHIMORI NJPW Wrestling Dontaku 2019
+- (✓) **DRAGON LEE VS TAIJI ISHIMORI NJPW Wrestling Dontaku 2019** → [`archive/matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md`](../archive/matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) (candidato canónico Fighting Spirit Class, IWGP Junior Heavyweight)
 - LANCE STORM VS MASAAKI MOCHIZUKI 06.06.1997
 - SABU VS RUCKUS 3PW Splintered 19.06.2004
 - KEVIN STEEN VS CHRISTOPHER DANIELS ROH Civil War 07.05.2010
@@ -489,11 +489,11 @@ mantiene visible qué queda.
 - AJ STYLES VS COREY HOLLIS GPW 05.02.2016
 - SHAWN MICHAELS VS UNDERTAKER WWF Royal Rumble 18.01.1998
 - KURT ANGLE VS HHH MCW 03.03.2001
-- BRADSHAW & BARRY WINDHAM VS STEVE WILLIAMS & GARY ALBRIGHT AJPW 23.11.1997
+- (✓) **BRADSHAW & BARRY WINDHAM VS STEVE WILLIAMS & GARY ALBRIGHT AJPW 23.11.1997** → [`archive/matches/1997-11-23-bradshaw-windham-vs-williams-albright-ajpw.md`](../archive/matches/1997-11-23-bradshaw-windham-vs-williams-albright-ajpw.md) (candidato canónico Fighting Spirit Class, gaijin heavyweight tag)
 - JACOB FATU VS ALEX HAMMERSTONE MLW Fightland 2021
 - SUPER DRAGON VS KEVIN STEEN VS RUCKUS CZW Seven Years Strong 11.02.2006
 - THE HART FOUNDATION VS THE ROCKERS WWF
-- STEVE AUSTIN VS THE ROCK WWF In Your House 12.07.1997
+- (✓) **STEVE AUSTIN VS THE ROCK WWF In Your House 07.12.1997** → [`archive/matches/1997-12-07-steve-austin-vs-the-rock-wwf-in-your-house.md`](../archive/matches/1997-12-07-steve-austin-vs-the-rock-wwf-in-your-house.md) (candidato canónico Wrestling Entertainment Class, Attitude Era emerging)
 - REY MYSTERIO JR VS ULTIMO DRAGON WAR King Tier 13.12.1996
 - RAZOR RAMON VS OWEN HART WWF Raw 09.01.1995
 - PAUL ORNDORFF VS JIMMY JACKSON 01.04.1984
@@ -1547,6 +1547,62 @@ end-to-end.
 héroe fundamental Vehemiurgia** tiene los 4 paradas
 cross-linkeadas y la doctrina vehículo vs facción evolucionando
 a través del talent. Listo para columna dedicada.
+
+---
+
+## Update 2026-05-10 — Batch 7: Candidatos canónicos de clases + AJ Styles arc
+
+**Procesadas individualmente** las **6 entradas no-cluster
+candidatas canónicas a las clases del Vehemiurgo** identificadas
+en sec. *Hipótesis Fighting Spirit Class* + *Hipótesis Wrestling
+Entertainment Class* del notebook, más una pieza fundacional
+del AJ Styles arc indie-a-WWE.
+
+**Candidatos canónicos Fighting Spirit Class** (4 matches —
+estabiliza la clase con anchor pieces):
+
+1. **Steve Austin vs Bret Hart — WWF Live Event Germany abr
+   1996** — live event European tour pre-Stone Cold completo.
+2. **Bradshaw & Windham vs Williams & Albright — AJPW 23 nov
+   1997** — gaijin heavyweight tag World's Strongest Tag
+   Determination League.
+3. **Dragon Lee vs Taiji Ishimori — NJPW Wrestling Dontaku
+   2019** — IWGP Junior Heavyweight Championship match.
+4. **MCMG vs Hidaka & Fujita — ZERO1-MAX Tenka-Ichi Junior
+   2006** — junior tag classic, MCMG peak indie + Japan tour.
+
+**Candidato canónico Wrestling Entertainment Class** (1 match —
+anchor piece de la clase):
+
+5. **Steve Austin vs The Rock — WWF In Your House 7 dic 1997**
+   — Intercontinental Title match, Attitude Era emerging,
+   character work clash entre dos talents que definirán la era.
+
+**Pieza fundacional AJ Styles arc** (sec. 9 del notebook):
+
+6. **AJ Styles vs Homicide — IWC 2004** — pieza intermedia
+   del arc indie-a-WWE, AJ ya consolidado en TNA pero working
+   indies USA northeast post-ECW collapse.
+
+**Cobertura editorial del estado de la clase**: con los 4
+matches Fighting Spirit Class + 1 Wrestling Entertainment
+Class candidatos canónicos abiertos, los **3 ejes editoriales
+de las clases del Vehemiurgo** quedan con anchor pieces
+operativas:
+
+- **Perfect Wrestling Class**: anchors implícitos en cluster
+  Coalition era 2007 + SmackDown 2002 + Raw 2004-2005 (matches
+  como No Mercy 2002, Survivor Series 2002 triple threat tag,
+  MITB ladder match WMXXI). Confirmación operativa pendiente
+  del Vehemiurgo match por match.
+- **Fighting Spirit Class**: 4 anchors operativos + 1 asignación
+  explícita del Vehemiurgo (Kali vs Skylar Rae NXT 14 abr 2026).
+- **Wrestling Entertainment Class**: 1 anchor operativo +
+  asignación explícita Vehemiurgo (Kazarian Elvis "Bear With Me"
+  18 dic 2025).
+
+**AJ Styles arc** (sec. 9 notebook): pieza 1 de 7+ entradas
+indie AJ abiertas. Resto pendiente a demanda.
 
 ---
 
