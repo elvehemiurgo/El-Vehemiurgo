@@ -15,22 +15,23 @@ fuentes_principales:
 # MFTs (facción de Solo Sikoa)
 
 > Faction WWE 2024–presente liderada por **Solo Sikoa**, derivada
-> del linaje Bloodline post-ausencia / disputa con Roman Reigns.
-> Registro como `promotions/` por convención (al igual que
-> `judgment-day.md`, `the-system-tna.md`).
+> del Bloodline post-disputa con Roman Reigns. Registro como
+> `promotions/` por convención (al igual que `judgment-day.md`,
+> `the-system-tna.md`).
 >
-> **Sobre la sigla M-F-T**: el Vehemiurgo identifica al grupo como
-> *"MFTs"*. **Pendiente confirmar qué expande la sigla** (kayfabe
-> on-screen, fan shorthand de la community, término interno
-> WWE/dirt sheet). El nombre operativo on-screen del grupo en TV
-> ha incluido también *"Solo's Bloodline"* / *"The New Bloodline"*.
+> **Origen del nombre MFT** (Vehemiurgo, 2026-05-09): *"el nombre
+> que Solo le puso a su versión del Bloodline después de su
+> rivalidad con Roman y todo eso"*. Es **branding propio de Solo**,
+> no continuación literal del Bloodline de Roman. Pendiente menor:
+> qué expande exactamente la sigla M-F-T en kayfabe / on-screen.
 
 ## Identificación
 
-- **Nombre**: MFTs (también referenciado como *Solo's Bloodline*,
-  *The New Bloodline*).
+- **Nombre**: **MFTs** (branding kayfabe que Solo le puso al stable
+  post-Roman feud). También referenciado en cobertura como
+  *Solo's Bloodline* / *The New Bloodline*.
 - **Promoción**: WWE.
-- **Líder**: **Solo Sikoa**.
+- **Líder**: **Solo Sikoa** — branding y autoridad kayfabe.
 - **Periodo activo**: 2024 – presente (mayo 2026).
 
 ## Composición histórica
@@ -131,6 +132,57 @@ sección 11 (addendum) + clarificaciones posteriores
 **Pendiente operativo**: confirmar **qué expande la sigla M-F-T**
 con el Vehemiurgo. Hipótesis fan / kayfabe a chequear contra fuente.
 
+### Sesión 2026-05-09 (clarificación posterior) — Trayectoria MFT y push fallido de Solo
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 12.
+
+**Cita verbatim del Vehemiurgo**:
+
+> "MFT es el nombre que Solo le puso a su versión del Bloodline
+> después de su rivalidad con Roman y todo eso, Solo claramente
+> fue pusheado para reemplazar a Roman, pero eso no pasó y lo
+> hicieron midcard, luego Jacob inevitablemente se hizo más popular
+> y tuvo su ángulo contra Solo y todo, mientras teaseaban un turn
+> para Tama o algo protagónico para él más recientemente."
+
+**Lectura editorial — la trayectoria completa de los MFTs**:
+
+1. **Origen (post-Roman feud, 2024)**: Solo bautiza la faction.
+   Identidad propia, no continuación del Bloodline original.
+2. **Push fallido a top**: Solo construido como Tribal Chief
+   interim y candidato a reemplazo de Roman. **La transición a top
+   guy no se completó**. Lo midcardearon. Detalle en
+   [`solo-sikoa.md`](../people/solo-sikoa.md).
+3. **Ascenso inevitable de Jacob Fatu**: el carisma físico de
+   Jacob (Samoan Werewolf, ex-MLW World Champion múltiple) **superó
+   al de Solo en TV time** y la oficina tuvo que reconocerlo.
+   Angle Jacob vs Solo — la faction se autoconsume narrativamente.
+   Detalle en [`jacob-fatu.md`](../people/jacob-fatu.md).
+4. **Tama Tonga tease**: la oficina **finalmente está empezando
+   a reconocer** la capacidad de Tama (consistente con su run
+   NJPW Bullet Club Guerrillas) y teasea un turn / *algo
+   protagónico*. Detalle en
+   [`tama-tonga.md`](../people/tama-tonga.md).
+5. **Reducción composicional 2 may 2026**: Tonga Loa released en
+   la ola "New Day exit". Detalle en
+   [`topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md).
+
+**Diagnóstico Cornette-school**: la trayectoria es **manual de
+cómo fracasa un push top**. Solo era candidato → no se cerró → la
+oficina buscó alternativa interna (Jacob, después Tama). El stable
+generó talent value real pero **no logró convertirlo en draw
+sostenido al nivel de Roman**. Cuando una promo construye un talent
+para top y no le da el techo, el costo es **doble**: talent quemado
++ público traicionado en su expectativa.
+
+**Refuerzo del costo de oportunidad** (sección 11 del notebook):
+mientras Solo trabajaba feuds paranormales contra los Wyatt Sicks,
+**no construía promo / presentación de top**. La rivalidad con
+gimmicks paranormales no solo limitó al stable como tal — **bloqueó
+la transición de Solo a top guy**.
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Pieza editorial al horno: la posicion de los MFTs como
@@ -152,8 +204,12 @@ paranormal-en-WWE"*.)
 
 ## Piezas relacionadas
 
-- [`people/solo-sikoa.md`](../people/solo-sikoa.md) — líder.
-- [`people/tama-tonga.md`](../people/tama-tonga.md) — miembro.
+- [`people/solo-sikoa.md`](../people/solo-sikoa.md) — líder, push
+  fallido a top.
+- [`people/jacob-fatu.md`](../people/jacob-fatu.md) — Samoan
+  Werewolf, ascenso inevitable y angle vs Solo.
+- [`people/tama-tonga.md`](../people/tama-tonga.md) — miembro,
+  tease de protagónico.
 - [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)
   — costo de oportunidad.
 - [`topics/factions-2026.md`](../topics/factions-2026.md) —

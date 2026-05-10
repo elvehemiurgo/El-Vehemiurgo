@@ -78,6 +78,32 @@ sección 11 (addendum).
   [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)
   — costo de oportunidad.
 
+### Sesión 2026-05-09 (clarificación posterior) — Tease de protagónico
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 12.
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Mientras teaseaban un turn para Tama o algo protagónico para él
+> más recientemente."
+
+**Lectura**:
+- La oficina **finalmente está empezando a reconocer** la capacidad
+  de Tama (post arco MFT con Solo midcardeado y Jacob ganando
+  popularidad propia).
+- **Tease de turn / algo protagónico** — material que se está
+  construyendo *"más recientemente"*. La trayectoria MFT habilita
+  el espacio: con Solo midcardeado y Jacob en angle propio, Tama
+  queda como tercera vía top heel / sympathetic heel / babyface
+  posible.
+- **Confirmación retroactiva** de la lectura inicial (sesión 11):
+  *"una mejor versión de Tama Tonga"* — la oficina aparentemente
+  está empezando a producirla. Pendiente: **monitorear el tease**
+  y catalogar qué dirección toma (face turn, top heel split de los
+  MFTs, vehículo individual, etc.).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente.)

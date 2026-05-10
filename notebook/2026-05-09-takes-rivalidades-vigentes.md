@@ -562,3 +562,66 @@ tag team SmackDown 2024-2025.
 - [x] ~~Estructura preferida para distribuir el take~~ → **RESUELTO
       (2026-05-09)**: fact-sheets individuales por talento. Hechos
       LA Knight, Tama Tonga, Jeff Cobb, Solo Sikoa, Bo Dallas.
+
+### 12. Trayectoria de los MFTs y de Solo Sikoa (clarificación posterior)
+
+**Cita verbatim del Vehemiurgo** (2026-05-09):
+
+> "MFT es el nombre que Solo le puso a su versión del Bloodline
+> después de su rivalidad con Roman y todo eso, Solo claramente fue
+> pusheado para reemplazar a Roman, pero eso no pasó y lo hicieron
+> midcard, luego Jacob inevitablemente se hizo más popular y tuvo
+> su ángulo contra Solo y todo, mientras teaseaban un turn para
+> Tama o algo protagónico para él más recientemente."
+
+**Notas mías**:
+
+- **Origen del nombre MFT**: Solo Sikoa lo bautiza **post-Roman
+  feud**. Es el branding de **su** versión del Bloodline. La
+  faction es identidad propia de Solo, no continuación literal del
+  Bloodline de Roman.
+- **Push fallido de Solo**: el Vehemiurgo lo lee con claridad.
+  *"Solo claramente fue pusheado para reemplazar a Roman, pero
+  eso no pasó."* La oficina lo construyó como **Tribal Chief
+  interim** y candidato a top guy → la transición no se completó →
+  *"lo hicieron midcard"*. Esto es **diagnóstico de oficina,
+  Cornette-school**: cuando una promo construye un talent para top
+  y después no le da el techo, el costo es doble (talent quemado +
+  público traicionado en su expectativa).
+- **Ascenso de Jacob Fatu**: *"inevitablemente se hizo más popular"*
+  — la palabra clave es **inevitable**. El Vehemiurgo lee que el
+  carisma físico de Jacob (Samoan Werewolf, ex-MLW World Champion
+  multiple) **superaba al de Solo en TV time** y la oficina
+  eventualmente tuvo que reconocerlo bookeando angle Jacob vs Solo.
+- **Tama Tonga tease**: *"tease de turn para Tama o algo
+  protagónico para él más recientemente"*. La oficina **detectó la
+  capacidad de Tama** y empezó a teasear movimiento. Confirma la
+  lectura de
+  [`tama-tonga.md`](../archive/people/tama-tonga.md) — talent ya
+  construido por NJPW que la oficina **finalmente está empezando a
+  reconocer**.
+
+**Lectura editorial cruzada**:
+
+- **Cornette-school**: la trayectoria MFT es manual de cómo
+  *fracasa* un push top. Solo era candidato → no se cerró → se
+  buscó alternativa interna (Jacob, después Tama). El stable
+  generó talent value real pero la oficina **no logró convertirlo
+  en draw sostenido al nivel de Roman**.
+- **Refuerzo del costo de oportunidad** documentado en sección 11
+  (addendum): la rivalidad con Wyatt Sicks no solo limitó al
+  stable — **bloqueó la transición de Solo a top guy**. Mientras
+  Solo trabajaba feuds paranormales, no construía promo /
+  presentación de top.
+
+**Distribución de este addendum**:
+- [`promotions/mfts.md`](../archive/promotions/mfts.md) —
+  trayectoria completa con origen (Solo brand post-Roman) y arcos
+  internos (Jacob over Solo, Tama tease).
+- [`solo-sikoa.md`](../archive/people/solo-sikoa.md) — push
+  fallido a top guy.
+- [`tama-tonga.md`](../archive/people/tama-tonga.md) — tease de
+  protagónico.
+- [`jacob-fatu.md`](../archive/people/jacob-fatu.md) — **fact-sheet
+  nuevo** (talent suficientemente central para merecer file
+  propio, según trayectoria del Vehemiurgo).

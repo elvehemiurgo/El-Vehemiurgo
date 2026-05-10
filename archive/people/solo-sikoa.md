@@ -111,6 +111,52 @@ sección 11 (addendum) + clarificaciones chat.
   socios ni al adversario paranormal (que terminó disuelto el 24
   abr 2026).
 
+### Sesión 2026-05-09 (clarificación posterior) — El push fallido a top guy
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 12.
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Solo claramente fue pusheado para reemplazar a Roman, pero eso
+> no pasó y lo hicieron midcard, luego Jacob inevitablemente se
+> hizo más popular y tuvo su ángulo contra Solo y todo."
+
+**Lectura**:
+- **Diagnóstico frontal del Vehemiurgo**: Solo fue **claramente
+  pusheado para reemplazar a Roman** durante la ausencia. La
+  oficina lo construyó como Tribal Chief interim y candidato a
+  top guy. **La transición no se completó**. Lo *midcardearon*.
+- **Mecanismo del fracaso** (cruzar con sección anterior):
+  mientras la transición top estaba abierta, Solo trabajó feuds
+  paranormales contra Wyatt Sicks que **no construyeron su promo
+  ni su presentación de top**. La oficina y el feud forzado
+  bloquearon mutuamente la transición.
+- **Consecuencia inevitable**: el carisma físico de **Jacob Fatu**
+  (ver [`jacob-fatu.md`](./jacob-fatu.md)) lo superó en TV time. El
+  Vehemiurgo lo lee como *"inevitable"*. La oficina tuvo que
+  reconocerlo bookeando angle Jacob vs Solo.
+- **Diagnóstico Cornette-school**: cuando una promo construye un
+  talent para top y no le da el techo, el costo es **doble**:
+  talent quemado + público traicionado en su expectativa. Solo es
+  caso de manual.
+
+### Resumen del arco editorial sobre Solo (sesión 2026-05-09 completa)
+
+Tres lecturas convergentes del Vehemiurgo en la misma sesión, que
+juntas trazan el arco:
+
+1. **Cláusula condicional**: *"Si quiere ser un entertaining
+   importante en TV"* — el ascenso depende de su propio empuje.
+2. **Subordinación a feud paranormal**: líder de stable arrastrado
+   a rivalidad que no rinde.
+3. **Push fallido a top**: candidato a Roman replacement →
+   midcardeado → superado por Jacob.
+
+Material para una pieza editorial específica: *"Solo Sikoa: el
+top guy que no terminó de cerrarse"*.
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente.)
