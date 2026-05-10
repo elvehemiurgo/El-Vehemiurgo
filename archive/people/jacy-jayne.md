@@ -1,0 +1,155 @@
+---
+nombre: "Jacy Jayne"
+tipo: fact-sheet
+categoria: people
+slug: jacy-jayne
+estado: vivo
+ultima_actualizacion: 2026-05-10
+fuentes_principales:
+  - "Wikipedia — Jacy Jayne"
+  - "Cobertura WWE NXT 2021-2026"
+  - "Cobertura WWE SmackDown 24.04.2026 (debut Fatal Influence main roster)"
+  - "El Vehemiurgo, notebook 2026-05-09 (sección 1) + take 2026-05-10 sobre salvar segmento Lola Vice"
+---
+
+# Jacy Jayne
+
+## Identificación
+
+- **Nombres de gimmick**: Jacy Jayne.
+- **Promoción actual (mayo 2026)**: WWE SmackDown, **líder de
+  Fatal Influence** post-call-up (debut 24 abr 2026). Detalle de
+  la facción en
+  [`promotions/fatal-influence.md`](../promotions/fatal-influence.md).
+
+## Datos duros
+
+- **Debut WWE**: 2021 ish (Toxic Attraction era con Mandy Rose +
+  Gigi Dolin), pendiente confirmar fecha exacta.
+- **Stables NXT**:
+  - **Toxic Attraction** (2021-2023, con Mandy Rose y Gigi
+    Dolin).
+  - **Fatal Influence** (2024-presente, líder con Fallon Henley
+    + Lainey Reid).
+- **Title runs**:
+  - **NXT Women's Tag Team Champion** (con Gigi Dolin, Toxic
+    Attraction era).
+  - **NXT Women's Champion** múltiples reinados (verificar
+    fechas; a 17 feb 2026 figuraba como champion según notebook
+    list, pero a 7 abr 2026 el título lo tiene **Lola Vice**).
+- **Match notable abr 2026**:
+  - **04 abr 2026 — Stand & Deliver**: triple threat Jacy vs
+    Kendal Grey vs Lola Vice por NXT Women's Title.
+  - **24 abr 2026 — SmackDown**: vs Rhea Ripley (debut main
+    roster).
+- **Centro narrativo del NXT 2026**: el Vehemiurgo lo identifica
+  en el notebook
+  [`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md)
+  sección 1 — *"un año dominado por Jacy Jayne y Fatal
+  Influence"*.
+
+## Contexto financiero / contractual conocido
+
+- Pendiente — esperar coverage TKO específico para call-up
+  post-WM42 SmackDown. Líder de la primera faction call-up del
+  periodo TKO 2025-2026 según
+  [`topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md).
+
+## Backstage documentado
+
+- Pendiente.
+
+## Entrevistas / podcasts clave
+
+- Múltiples en su run NXT (*WWE After the Bell*, *Out of
+  Character with Ryan Satin*). Pendiente catalogar.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-05-09 — Dominio del NXT 2026 + presente del wrestling
+
+**Cita verbatim del Vehemiurgo** (notebook 2026-05-09 sección 1):
+
+> "Un año dominado por Jacy Jayne y Fatal Influence."
+
+> *(Sobre el debut SmackDown del 24 abr 2026)*: "FATAL INFLUENCE
+> DEBUT WWE 2026 04 24 SmackDown — THE GREATEST ACT IN WWE NOW
+> IN THE BIG LEAGUES, THE WHOLE ACT IS HERE."
+
+**Lectura**:
+
+- Jacy Jayne como **figura central del año NXT 2026** según el
+  marco editorial inicial del proyecto.
+- Líder de la faction que el Vehemiurgo declara *"the greatest
+  act in WWE now in the big leagues"* tras debut SmackDown.
+
+### Sesión 2026-05-10 — Salvó el segmento de Lola Vice + babyface aún en camino
+
+**Cita verbatim del Vehemiurgo** (2026-05-10):
+
+> "Definitivamente Jacy salvó el segmento que le dieron a Lola
+> como celebración después de ganar el título."
+
+**Lectura sintética**:
+
+- **"Salvó el segmento"** — la pieza no funcionó por sí sola, se
+  apoyó en Jacy. **Lectura editorial old-school sobre el oficio
+  del heel**: el heel veterano que sostiene el segmento del nuevo
+  babyface campeón es **arquetipo carny puro**. Jacy ejerciendo
+  ese rol en NXT confirma que tiene **veteranía in-character**
+  pese a la edad relativa.
+- **Implicación cruzada con Lola Vice**: el babyface nuevo
+  (Lola) **necesitó** que el heel veterano (Jacy) sostuviera el
+  segmento de celebración. Esto sirve para evaluar a ambos:
+  Lola está en camino pero no llegó (ver
+  [`lola-vice.md`](./lola-vice.md)); Jacy ya está en el techo del
+  oficio.
+- Detalle del segmento en
+  [`segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md`](../segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md).
+
+### Sesión 2026-05-10 — Despedida NXT y promo work pre-call-up
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Fatal Influence en su despedida de NXT, dejaron over al
+> WrenQCC y a Lola Vice, y para el 7 de abril ya practicaban
+> para promos más largas en SmackDown / RAW, lo que sería
+> inevitable, con buen heat."
+
+**Lectura sobre Jacy específicamente**:
+
+- Como líder de Fatal Influence, **Jacy ejecuta la despedida
+  ortodoxa** — pone over a los que se quedan en el territorio
+  (WrenQCC, Lola Vice).
+- **Calibró promo work pre-call-up**: ya en NXT TV del 7 abr
+  practicaba promos de duración main-roster con buen heat. Eso
+  es **anticipación deliberada del salto**, no improvisación
+  reactiva. Lectura Cornette-school: la facción / talent que
+  prepara la transición on-screen llega al main roster lista,
+  no haciendo prueba en vivo en SmackDown.
+
+## Lectura consolidada del Vehemiurgo
+
+(Pendiente. Material editorial al horno: pieza específica sobre
+*"Jacy Jayne como heel veterana NXT que ejecuta la despedida
+ortodoxa"* — caso paradigmático de la doctrina old-school.)
+
+## Pendientes / huecos
+
+- [ ] Fechas exactas NXT Women's Championship runs.
+- [ ] Trayectoria Toxic Attraction completa con fechas.
+- [ ] Run main roster post-24 abr 2026 — matches y angles.
+- [ ] Datos contractuales call-up.
+- [ ] Catalogar promos NXT 2026 que el Vehemiurgo identifica
+      como "calibración main-roster" — material para análisis
+      comparativo de mic work pre/post call-up.
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`promotions/fatal-influence.md`](../promotions/fatal-influence.md)
+  — líder de la faction.
+- [`segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md`](../segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md)
+  — segmento donde "salvó" el promo de Lola.
+- (Pendientes: matches y segmentos NXT 2026 + main roster
+  post-WM42; muchos en notebook
+  [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).)
