@@ -661,11 +661,11 @@ mantiene visible qué queda.
 - MIKE SANTANA VS CEDRIC ALEXANDER TNA Impact 06.11.2025
 - HEATHER BY ELEGANCE VS KELANY JORDAN TNA Impact 13.11.2025
 - JASON HOTCH VS CEDRIC ALEXANDER TNA Impact 13.11.2025
-- NXT STARS INVADE IMPACT AND KAZ CASHES IN HIS TROPHY WINNING THE TNA WORLD TITLE — TNA Impact 13.11.2025
+- (✓) **NXT STARS INVADE IMPACT AND KAZ CASHES IN HIS TROPHY WINNING THE TNA WORLD TITLE — TNA Impact 13.11.2025** → [`archive/segments/2025-11-13-nxt-invasion-kazarian-cash-in-tna-impact.md`](../archive/segments/2025-11-13-nxt-invasion-kazarian-cash-in-tna-impact.md) (pieza fundacional del cluster TNA 2025-2026)
 - KELANY JORDAN CHECKS THE KOS DIVISION BACKSTAGE — TNA Impact 13.11.2025
 - M BY ELEGANCE VS KELANY JORDAN TNA Turning Point 14.11.2025
 - DANI LUNA VS INDY HARTWELL TNA Turning Point 14.11.2025
-- THE SYSTEM VS THE RASCALZ TNA Turning Point 14.11.2025
+- (✓) **THE SYSTEM VS THE RASCALZ TNA Turning Point 14.11.2025** → [`archive/matches/2025-11-14-the-system-vs-the-rascalz-tna-turning-point.md`](../archive/matches/2025-11-14-the-system-vs-the-rascalz-tna-turning-point.md) (tag feature, faction vs tag)
 - LEON SLATER VS RICH SWANN TNA Turning Point 14.11.2025
 - KAZARIAN & NIC NEMETH VS SANTANA & MACLIN TNA Turning Point 14.11.2025
 - MYRON REED VS JOHN SKYLER TNA Impact 20.11.2025
@@ -681,13 +681,13 @@ mantiene visible qué queda.
 - AJ FRANCIS' FIRST CLASS PENTHOUSE SEGMENT WITH LEON SLATER — TNA Impact 04.12.2025
 - FRANKIE KAZARIAN'S PROMO — TNA Impact 04.12.2025
 - TREY MIGUEL VS MUSTAFA ALI TNA Impact 04.12.2025
-- CHARLIE DEMPSEY VS MIKE SANTANA TNA Final Resolution 05.12.2025
+- (✓) **CHARLIE DEMPSEY VS MIKE SANTANA TNA Final Resolution 05.12.2025** → [`archive/matches/2025-12-05-charlie-dempsey-vs-mike-santana-tna-final-resolution.md`](../archive/matches/2025-12-05-charlie-dempsey-vs-mike-santana-tna-final-resolution.md) (peak cross-promotion NXT × TNA)
 - STACKS VS STEVE MACLIN TNA Final Resolution 05.12.2025
 - XIA BROOKSIDE VS LEI YING LEE TNA Final Resolution 05.12.2025
 - ORDER 4 VS THE RASCALZ TNA Final Resolution 05.12.2025
 - LION SLATER VS AJ FRANCIS TNA Final Resolution 05.12.2025
 - KAZARIAN VS JDC TNA Final Resolution 05.12.2025
-- KAZARIAN'S "I AM YOUR KING" PROMO OPENING THE SHOW — TNA Impact 11.12.2025
+- (✓) **KAZARIAN'S "I AM YOUR KING" PROMO OPENING THE SHOW — TNA Impact 11.12.2025** → [`archive/segments/2025-12-11-kazarian-i-am-your-king-promo-tna-impact.md`](../archive/segments/2025-12-11-kazarian-i-am-your-king-promo-tna-impact.md) (declaración del King reign)
 - NXT GUYS PROMO AGAINST TNA BEFORE THEIR STEEL CAGE MATCH — TNA Impact 11.12.2025
 - HEATHER & M BY ELEGANCE VS MYLA GRACE & HARLEY HUDSON TNA Impact 11.12.2025
 - BDE VS SOMETHING VS CEDRIC ALEXANDER VS DEZMOND XAVIER VS JASON HOTCH VS RYAN NEMETH — X Division match TNA Impact 11.12.2025
@@ -697,14 +697,14 @@ mantiene visible qué queda.
 - BEAR BRONSON PROMO AFTER WINNING THE #1 CONTENDER'S GAUNTLET FOR THE TNA WORLD CHAMPIONSHIP — TNA Impact 18.12.2025
 - TOM CALLING BEAR "A BERSERKER IS GUNNING FOR THE WORLD TITLE" — TNA Impact 18.12.2025
 - TESSA BLANCHARD & MOORE VS XIA BROOKSIDE & LEE TNA Impact 18.12.2025
-- KAZARIAN ELVIS "BEAR WITH ME" PROMO — TNA Impact 18.12.2025
+- (✓) **KAZARIAN ELVIS "BEAR WITH ME" PROMO — TNA Impact 18.12.2025** → [`archive/segments/2025-12-18-kazarian-elvis-bear-with-me-promo-tna-impact.md`](../archive/segments/2025-12-18-kazarian-elvis-bear-with-me-promo-tna-impact.md) (**Wrestling Entertainment Class asignada explícitamente** por el Vehemiurgo)
 - HEATHER & M BY ELEGANCE VS XIA BROOKSIDE & LEE TNA Impact 01.01.2026
 - KAZARIAN VS BEAR BRONSON TNA Impact 01.01.2026
 - MUSTAFA ALI IN-RING SEGMENT TNA Impact 08.01.2026
 - THE SYSTEM VS THE HARDYS, LEON SLATER & CEDRIC ALEXANDER TNA Impact 08.01.2026
 - ORDER 4 VS THE HARDYS & ELIAS TNA Impact 15.01.2026
 - KAZARIAN VS SANTANA TNA 15.01.2026
-- MUSTAFA ALI VS ELIAS TNA Genesis 17.01.2026
+- (✓) **MUSTAFA ALI VS ELIAS TNA Genesis 17.01.2026** → [`archive/matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md`](../archive/matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) (PPV debut TNA de Ali post-WWE release)
 - JDC VS EDDIE EDWARDS TNA Genesis 17.01.2026
 - LEI YING LEE VS SARIA TNA Genesis 17.01.2026
 - MOOSE VS JOE HENDRY VS CEDRIC ALEXANDER TNA Genesis 17.01.2026
@@ -730,7 +730,7 @@ mantiene visible qué queda.
 - THE SYSTEM VS SANTANA, HARDYS & MOOSE TNA Impact 12.02.2026
 - JODY THREAT WINNING THE BATTLE ROYAL TNA No Surrender 13.02.2026
 - M & HEATHER BY ELEGANCE VS INDY HARTWELL & XIA BROOKSIDE TNA No Surrender 13.02.2026
-- MICKEY JAMES RETURN TNA No Surrender 13.02.2026
+- (✓) **MICKEY JAMES RETURN TNA No Surrender 13.02.2026** → [`archive/segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../archive/segments/2026-02-13-mickey-james-return-tna-no-surrender.md) (legacy return moment)
 - ERIC YOUNG VS BDE TNA No Surrender 13.02.2026
 - JODY THREAT AND TESSA BLANCHARD BACKSTAGE PROMOS TNA No Surrender 13.02.2026
 - ARIANA GRACE VS LEI YING LEE TNA No Surrender 13.02.2026
@@ -1357,6 +1357,60 @@ Guerrero, Rey Mysterio, Kurt Angle, Brock Lesnar, Edge, Paul
 Heyman, Los Guerreros tag-team file, Samoa Joe, Chris Harris,
 James Storm. Volumen denso — los abrimos cuando el material
 editorial los demande o el Vehemiurgo dispare.
+
+---
+
+## Update 2026-05-10 — Cluster 4: TNA 2025-2026 Kazarian King era + NXT invasion
+
+**Cluster TNA 2025-2026** (sec. *Bloque TNA 2025–2026*, 100+
+entradas cobertura semanal completa nov 2025 → mar 2026)
+procesado:
+
+1. **Dossier central** abierto en
+   [`dossiers/draft-tna-2025-2026-kazarian-king-era.md`](../dossiers/draft-tna-2025-2026-kazarian-king-era.md)
+   — 6 hilos narrativos (NXT invasion + Kazarian cash-in / The
+   System como heel stable central / Joe Hendry + Jeff Hardy
+   concert + Hardys arc / Mustafa Ali post-WWE arc / Knockouts
+   arc Heather-M-Indy-Mickey / cross-promotion NXT-TNA), tesis
+   sobre TNA contemporáneo como **primer periodo TNA donde el
+   booking funciona como TNA propia, no sombra de WWE**.
+2. **7 centerpieces** abiertos como entries individuales:
+   - NXT Stars Invade Impact + Kazarian cash-in (13 nov 2025)
+     — pieza fundacional del cluster.
+   - The System vs The Rascalz Turning Point (14 nov 2025).
+   - Charlie Dempsey vs Mike Santana Final Resolution
+     (5 dic 2025) — peak cross-promotion NXT × TNA.
+   - Kazarian "I Am Your King" opening promo (11 dic 2025).
+   - **Kazarian Elvis "Bear With Me" promo (18 dic 2025) —
+     Wrestling Entertainment Class asignada explícitamente**
+     (segunda asignación operativa de clase tras Kali vs
+     Skylar Rae Fighting Spirit Class).
+   - Mustafa Ali vs Elias Genesis (17 ene 2026) — PPV debut
+     TNA de Ali post-WWE.
+   - Mickey James return No Surrender (13 feb 2026) — legacy
+     return moment.
+
+**Kazarian King reign documentado como arc serializado**: cash-in
+13 nov → "I Am Your King" 11 dic → "Bear With Me" Elvis 18 dic
+→ King's Speech 5 mar 2026. Tres segmentos centerpieces + un
+segmento residual sin centerpiece todavía. **Modelo
+champion-as-monarch carny puro**.
+
+**4 clusters procesados — estrategia consolidada**: cada
+cluster densa cobertura semanal del Vehemiurgo se procesa con
+**dossier central + 6-8 centerpieces individuales + matches/
+segmentos no-centrales a demanda**. Modelo escalable y
+operativo. TNA 2007 Coalition → WWE Raw 2004-2005 → WWE
+SmackDown 2002 → TNA 2025-2026 — los **4 grandes clusters
+identificados en sec. Lectura editorial del notebook**
+cerrados.
+
+**Pendiente residual cluster TNA 2025-2026**: fact-sheets de
+Frankie Kazarian (figura central + run completo), Mike
+Santana, Mustafa Ali, Joe Hendry, Trey Miguel + Rascalz, The
+System, Heather + M By Elegance, Indy Hartwell, Bear Bronson,
+Mickey James, Eddie Edwards, Jeff Hardy. Trabajable a demanda
+del Vehemiurgo.
 
 ---
 
