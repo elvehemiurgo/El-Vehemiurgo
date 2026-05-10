@@ -445,8 +445,10 @@ Confirma:
 - Lectura financiera del Vehemiurgo sobre **Raquel Rodriguez**
   (talent bajo costo no afectada por ola de pay cuts) — encaja con
   mecánica documentada (concentración en upper-midcard).
-- Hipótesis **MFTs = Wyatt Sicks** (5 miembros despedidos 24 abr
-  2026, facción paranormal disuelta).
+- Hipótesis **MFTs = Wyatt Sicks**: **DESCARTADA** (ver §Addendum).
+  La hipótesis se basaba en la similitud de "facción paranormal
+  despedida". El Vehemiurgo aclara que los MFTs son **rivales** de
+  los Wyatt Sicks, no los Wyatts mismos.
 - Cláusulas TKO endurecidas: non-compete 12 meses, matching 6
   meses, lockout 9 meses, *worldwide* (caso Andrade).
 - Contraste comp ejecutivo (+272% Emanuel, +304% Khan, +33%
@@ -456,3 +458,89 @@ Confirma:
 
 Entrada de research movida de `research/pending.md` a
 [`research/closed.md`](../research/closed.md).
+
+---
+
+## Addendum 2026-05-09 — Aclaración MFTs + Wyatts y costo de oportunidad
+
+### 11. Los MFTs son rivales de los Wyatt Sicks (no son los Wyatts)
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Me refería a los MFTs que se vieron limitados por su rivalidad
+> con los Wyatt Sicks que son los personajes paranormales, pero si
+> hablamos de los Wyatts, pues nunca me gustó la idea de Bo Dallas
+> continuando lo de Bray de esa forma, fue un desperdicio de
+> recursos y podrían haber construido a LA Knight y una mejor
+> versión de Tama Tonga o Jeff Cobb o incluso Solo que si quiere
+> ser un entertaining importante en TV; si no hubieran dedicado
+> tanto tiempo a los Wyatts, la división tag team de SmackDown de
+> esa era hubiera brillado más también."
+
+**Notas mías**:
+
+- **Identificación pendiente**: el Vehemiurgo confirma que **MFTs ≠
+  Wyatt Sicks**. Los MFTs **eran víctimas** de la rivalidad con los
+  Wyatts, no los Wyatts en sí. **Pendiente confirmar la sigla y
+  composición exacta del grupo MFT** — pregunta abierta para la
+  próxima sesión.
+
+- **Tesis editorial central que abre el take**: **el costo de
+  oportunidad del booking paranormal Wyatt Sicks**. Lo que no se
+  hizo con los recursos invertidos en los Wyatts:
+  1. Construir a **LA Knight** (top guy frustrado por techos de
+     creative).
+  2. Construir **una mejor versión de Tama Tonga** (capacidad
+     desperdiciada en WWE respecto a su run NJPW Bullet Club Guerrillas).
+  3. Construir a **Jeff Cobb** (talento de oficio, descuidado en su
+     run WWE actual).
+  4. Construir a **Solo Sikoa** (*"si quiere ser un entertaining
+     importante en TV"* — la frase del Vehemiurgo).
+  5. **Hacer brillar la división tag team de SmackDown de esa era**
+     (2024-2025). El time slot dedicado a feuds Wyatt Sicks se
+     comió oxígeno tag.
+
+- **Tesis cruzada con sección 5** del notebook (Demon gimmick): el
+  argumento del Vehemiurgo se refuerza. **Los gimmicks paranormales
+  no solo arruinan al protagonista** (Bálor con Demon, según
+  sección 5) **sino que limitan a los rivales y al ecosistema
+  alrededor**. El paranormal aísla y el aislamiento se contagia
+  hacia afuera del personaje paranormal.
+
+- **Crítica al continuum Bray → Bo Dallas / Uncle Howdy**:
+  *"Nunca me gustó la idea de Bo Dallas continuando lo de Bray de
+  esa forma, fue un desperdicio de recursos."* Lectura editorial
+  fuerte: la decisión de hacer continuar el universo Wyatt sin Bray
+  es **falta de imaginación de booking**, no homenaje sustantivo.
+  Los recursos (creative, TV time, merchandising attention) podrían
+  haber ido a otros talents que el Vehemiurgo nombra.
+
+**Línea editorial al horno (refuerzo del ensayo paranormal)**:
+*"El costo de oportunidad del paranormal-en-WWE: a quién no
+construimos por darle TV time a los Wyatt Sicks"*. Casos
+específicos: LA Knight, Tama Tonga, Jeff Cobb, Solo Sikoa, división
+tag team SmackDown 2024-2025.
+
+**Distribución sugerida de este addendum**:
+- [`archive/topics/paranormal-gimmicks-wwe.md`](../archive/topics/paranormal-gimmicks-wwe.md)
+  — sumar argumento de costo de oportunidad.
+- [`archive/people/bray-wyatt.md`](../archive/people/bray-wyatt.md)
+  — sumar nota editorial sobre el continuum Bo Dallas / Uncle Howdy.
+- (Pendiente decisión del Vehemiurgo sobre estructura) Posibles
+  fact-sheets nuevos:
+  - `archive/people/la-knight.md`
+  - `archive/people/tama-tonga.md`
+  - `archive/people/jeff-cobb.md`
+  - `archive/people/solo-sikoa.md`
+  - `archive/people/bo-dallas.md` (Uncle Howdy)
+  - `archive/topics/smackdown-tag-division-2024-2025.md`
+  - `archive/promotions/wyatt-sicks.md` (faction)
+- O alternativamente, agregar todos como notas en el topic
+  `paranormal-gimmicks-wwe.md` y/o un topic nuevo
+  `talentos-subutilizados-2024-2026.md`.
+
+**Pendiente confirmar con el Vehemiurgo**:
+- [ ] **Sigla y composición exacta de MFTs**.
+- [ ] Estructura preferida para distribuir el take: fact-sheets
+      individuales por talento mencionado, o topic file
+      consolidado.

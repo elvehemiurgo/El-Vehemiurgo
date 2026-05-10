@@ -76,6 +76,38 @@ fuentes_principales:
 
 ## Notas editoriales del Vehemiurgo
 
+### Sesión 2026-05-09 (addendum) — Crítica al continuum Bo Dallas / Uncle Howdy
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 11 (addendum).
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Nunca me gustó la idea de Bo Dallas continuando lo de Bray de
+> esa forma, fue un desperdicio de recursos."
+
+**Lectura**:
+
+- **Veredicto editorial frontal**: el continuum Bray → Bo Dallas /
+  Uncle Howdy → Wyatt Sicks **no le pareció homenaje sustantivo al
+  Vehemiurgo, le pareció desperdicio de recursos**.
+- **Implicación**: el universo Wyatt era **inseparable de la
+  performance de Windham Rotunda**. No es transferible. Bo Dallas /
+  Uncle Howdy no podía cargarlo (ni nadie más) sin convertirlo en
+  cosplay de un acto que ya tenía dueño.
+- **Costo de oportunidad documentado**: si los recursos
+  (creative, TV time, merchandising) que se invirtieron en mantener
+  vivo el universo Wyatt sin Bray hubiesen ido a otros talents
+  (LA Knight, Tama Tonga, Jeff Cobb, Solo Sikoa) o a la división
+  tag SmackDown 2024-2025, el roster habría salido fortalecido.
+  Detalle en
+  [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
+- **Confirmación retroactiva**: la **disolución entera de Wyatt
+  Sicks el 24 abr 2026** (los 5 miembros despedidos) **valida la
+  lectura del Vehemiurgo** — la apuesta no funcionó y la oficina
+  terminó cortando inventario.
+
 ### Sesión 2026-05-09 — Único caso de paranormal-en-WWE que funcionó (limitado)
 
 **Contexto**: notebook entry

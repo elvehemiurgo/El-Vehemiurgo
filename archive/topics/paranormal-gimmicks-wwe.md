@@ -36,6 +36,65 @@ Casos relevantes históricos (a expandir):
 
 ## Notas editoriales del Vehemiurgo
 
+### Sesión 2026-05-09 (addendum) — Costo de oportunidad del paranormal Wyatt Sicks
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 11 (addendum).
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Nunca me gustó la idea de Bo Dallas continuando lo de Bray de
+> esa forma, fue un desperdicio de recursos y podrían haber
+> construido a LA Knight y una mejor versión de Tama Tonga o Jeff
+> Cobb o incluso Solo que si quiere ser un entertaining importante
+> en TV; si no hubieran dedicado tanto tiempo a los Wyatts, la
+> división tag team de SmackDown de esa era hubiera brillado más
+> también."
+
+**Lectura — ampliación de la tesis principal**:
+
+El paranormal-en-WWE no solo **arruina al protagonista** (caso Demon
+Bálor, sección 5 del notebook) sino que **limita a los rivales y al
+ecosistema entero alrededor**. Mecanismo:
+
+1. **TV time se canaliza a feuds con paranormal** que solo encajan
+   dentro del universo paranormal.
+2. **Talents rivales quedan atrapados en angles que no les
+   construyen carrera**, porque trabajar contra un personaje
+   paranormal **no produce kayfabe transferible** al resto del
+   roster.
+3. **El oxígeno booking se chupa** y otras storylines pierden
+   espacio.
+
+**Costo de oportunidad documentado por el Vehemiurgo** (Wyatt Sicks
+2024–2026):
+
+- **LA Knight** — top guy frustrado por techos creative.
+- **Tama Tonga** — *"una mejor versión"* respecto a su run NJPW
+  Bullet Club Guerrillas. Capacidad desperdiciada.
+- **Jeff Cobb** — talento de oficio, descuidado en run WWE actual.
+- **Solo Sikoa** — *"si quiere ser un entertaining importante en
+  TV"*.
+- **División tag team SmackDown 2024-2025** — habría brillado más
+  con el TV time que se llevaron los Wyatts.
+- **MFTs** (rivales directos de los Wyatts) — *"se vieron limitados
+  por su rivalidad con los Wyatt Sicks"*. **Sigla y composición
+  exacta pendiente de confirmar con el Vehemiurgo.**
+
+**Reforzamiento de la tesis editorial principal**: el ensayo *"El
+paranormal-en-WWE como freno generacional"* gana un eje argumentativo
+nuevo: no solo el ratio de éxito sostenido es bajo, sino que **cada
+fracaso paranormal arrastra ecosistema**. Los Wyatt Sicks no solo
+fracasaron como faction — **fracasaron a costa de carreras
+adyacentes**.
+
+**Crítica al continuum Bray → Bo Dallas / Uncle Howdy**: la decisión
+de hacer continuar el universo Wyatt sin Bray es leída por el
+Vehemiurgo como **falta de imaginación de booking**, no homenaje
+sustantivo. Implicación: **el universo Wyatt era inseparable de la
+performance de Windham Rotunda** y no es transferible.
+
 ### Sesión 2026-05-09 — Lectura crítica de la categoría
 
 **Contexto**: notebook entry
@@ -87,6 +146,9 @@ freno generacional"*. Estructura propuesta:
 ## Pendientes / huecos
 
 - [ ] Identificar exacta sigla **"MFTs"** y la facción detrás.
+      *(Aclaración 2026-05-09: el Vehemiurgo confirmó que MFTs son
+      **rivales** de los Wyatt Sicks, no los Wyatts mismos.
+      Composición exacta pendiente.)*
 - [ ] Cronología detallada de cada caso paranormal con duración,
       ratio éxito/fracaso, eventos clave.
 - [ ] Catálogo de matches paranormal vs no-paranormal de un mismo
