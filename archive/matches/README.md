@@ -93,8 +93,27 @@ Definido en `templates/match.md`. Campos clave:
   rating TV, buy rate.
 - **Match en sí**: tipo, estipulación, duración, finish, ganador, referee.
 - **Histórico**: encuentros_previos.
-- **Personal**: veces_visto_vehemiurgo, calificacion_vehemiurgo.
+- **Personal**: veces_visto_vehemiurgo, calificacion_vehemiurgo,
+  **clases_vehemiurgo** (multi).
 - **Operativo**: estado, ultima_actualizacion, fuentes_principales, tags.
+
+### Sobre `clases_vehemiurgo` — sistema de clases del Vehemiurgo
+
+Lista (multi-clasificación permitida) de las clases editoriales del
+Vehemiurgo. Valores válidos: `perfect-wrestling`, `fighting-spirit`,
+`wrestling-entertainment`, o `[]` si la entrada está sin clasificar.
+Doctrina canónica en
+[`glossary/clases-vehemiurgo.md`](../../glossary/clases-vehemiurgo.md).
+
+**No es estrellas** — es categoría doctrinal Cornette-school. Una
+entrada **puede pertenecer a más de una clase**. La asignación
+ocurre cuando el Vehemiurgo revisa con voluntad editorial, no por
+barrido bulk.
+
+Triggers de chat (extracto):
+- *"Esto es Perfect Wrestling"* → agrego clase al match.
+- *"Es Perfect Wrestling y Fighting Spirit"* → agrego ambas.
+- *"¿Qué tengo en Fighting Spirit?"* → grepo y devuelvo lista.
 
 ---
 

@@ -21,6 +21,7 @@ buy_rate: ""                    # solo si fue PPV
 encuentros_previos: 0           # cantidad documentada
 veces_visto_vehemiurgo: 0
 calificacion_vehemiurgo: ""     # frase, no estrellas
+clases_vehemiurgo: []           # lista — perfect-wrestling | fighting-spirit | wrestling-entertainment | [] sin clasificar. Multi-clasificación permitida. Doctrina en glossary/clases-vehemiurgo.md
 estado: stub                    # stub | en-investigacion | verificado | vivo
 ultima_actualizacion: YYYY-MM-DD
 fuentes_principales: []

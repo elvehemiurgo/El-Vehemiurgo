@@ -19,6 +19,7 @@ gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 0
 calificacion_vehemiurgo: ""
+clases_vehemiurgo: []          # lista — perfect-wrestling | fighting-spirit | wrestling-entertainment | [] sin clasificar. Multi-clasificación permitida. Doctrina en glossary/clases-vehemiurgo.md
 estado: stub                   # stub | en-investigacion | verificado | vivo
 ultima_actualizacion: YYYY-MM-DD
 fuentes_principales: []

@@ -139,9 +139,29 @@ Definido en `templates/segment.md`. Campos clave:
 - **Datos del show**: ciudad, recinto, attendance, gate, rating TV,
   ubicación en el show, duración del segmento.
 - **Performativo**: linea_textual, gimmick_momento, storyline.
-- **Personal**: veces_visto_vehemiurgo, calificacion_vehemiurgo.
+- **Personal**: veces_visto_vehemiurgo, calificacion_vehemiurgo,
+  **clases_vehemiurgo** (multi).
 - **Operativo**: estado, ultima_actualizacion, fuentes_principales,
   tags.
+
+### Sobre `clases_vehemiurgo` — sistema de clases del Vehemiurgo
+
+Lista (multi-clasificación permitida) de las clases editoriales del
+Vehemiurgo. Valores válidos: `perfect-wrestling`, `fighting-spirit`,
+`wrestling-entertainment`, o `[]` si el segmento está sin clasificar.
+Doctrina canónica en
+[`glossary/clases-vehemiurgo.md`](../../glossary/clases-vehemiurgo.md).
+
+**No es estrellas** — es categoría doctrinal Cornette-school. Una
+entrada **puede pertenecer a más de una clase**. La asignación
+ocurre cuando el Vehemiurgo revisa con voluntad editorial, no por
+barrido bulk.
+
+Triggers de chat (extracto):
+- *"Esto es Wrestling Entertainment"* → agrego clase al segmento.
+- *"Es Fighting Spirit y Wrestling Entertainment"* → agrego ambas.
+- *"¿Qué segmentos tengo en Wrestling Entertainment?"* → grepo y
+  devuelvo lista.
 
 ---
 

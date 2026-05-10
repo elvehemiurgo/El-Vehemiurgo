@@ -185,6 +185,13 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   léxico old-school al lector hispano.
 - Lista negra completa en `glossary/blacklist.md`.
 - Léxico canónico en `glossary/carny-lexicon.md`.
+- **Sistema de clases del Vehemiurgo** (no estrellas):
+  `glossary/clases-vehemiurgo.md`. Tres clases —
+  *Perfect Wrestling Class*, *Fighting Spirit Class*,
+  *Wrestling Entertainment Class* — con multi-clasificación
+  permitida. Aplicable a entradas en `archive/matches/` y
+  `archive/segments/` vía campo `clases_vehemiurgo`. Triggers de
+  chat documentados en el archivo de doctrina.
 
 ---
 
