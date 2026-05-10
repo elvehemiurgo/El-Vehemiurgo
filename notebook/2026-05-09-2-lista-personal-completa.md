@@ -770,16 +770,16 @@ mantiene visible qué queda.
 - COLD OPEN TNA Sacrifice 13.05.2007
 - CHRIS SABIN VS SONJAY DUTT VS JAY LETHAL TNA Sacrifice 13.05.2007
 - BOBBY ROODE VS JEFF JARRETT TNA Sacrifice 13.05.2007
-- CHRISTIAN COALITION BACKSTAGE SEGMENT WITH SCOTT STEINER & AJ STYLES TNA Sacrifice 13.05.2007
+- (✓) **CHRISTIAN COALITION BACKSTAGE SEGMENT WITH SCOTT STEINER & AJ STYLES TNA Sacrifice 13.05.2007** → [`archive/segments/2007-05-13-christian-coalition-backstage-aj-tomko-steiner-tna-sacrifice.md`](../archive/segments/2007-05-13-christian-coalition-backstage-aj-tomko-steiner-tna-sacrifice.md)
 - CHRIS DANIELS VS RHINO TNA Sacrifice 13.05.2007
 - AMW RIVALRY VIDEOPACKAGE TNA Sacrifice 13.05.2007
-- JAMES STORM VS CHRIS HARRIS TNA Sacrifice 13.05.2007
+- (✓) **JAMES STORM VS CHRIS HARRIS TNA Sacrifice 13.05.2007** → [`archive/matches/2007-05-13-james-storm-vs-chris-harris-tna-sacrifice.md`](../archive/matches/2007-05-13-james-storm-vs-chris-harris-tna-sacrifice.md) (AMW split blow-off)
 - LAX VS TEAM 3D VS TOMKO & SCOTT STEINER TNA Sacrifice 13.05.2007
 - MCMG VS TIGER MASK & JERRY LYNN TNA Impact 17.05.2007
 - ERIC YOUNG "FREE AT LAST" IN-RING SEGMENT WITH ROBERT ROODE TNA Impact 17.05.2007
 - KURT ANGLE VS RHINO TNA Impact 17.05.2007
-- SAMOA JOE VS AJ STYLES TNA Sacrifice 13.05.2007
-- CHRISTIAN VS ANGLE VS STING TNA Sacrifice 13.05.2007
+- (✓) **SAMOA JOE VS AJ STYLES TNA Sacrifice 13.05.2007** → [`archive/matches/2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md`](../archive/matches/2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md)
+- (✓) **CHRISTIAN VS ANGLE VS STING TNA Sacrifice 13.05.2007** → [`archive/matches/2007-05-13-christian-vs-angle-vs-sting-tna-sacrifice.md`](../archive/matches/2007-05-13-christian-vs-angle-vs-sting-tna-sacrifice.md) (main event TNA Title triple threat)
 - STEINER BROTHERS AND JIM CORNETTE SEGMENT TO END IMPACT TNA Impact 17.05.2007
 - STEINER BROTHERS AND TEAM 3D IN-RING SEGMENT TNA Impact 24.05.2007
 - CHRISTIAN & TOMKO BACKSTAGE SEGMENT TNA Impact 24.05.2007
@@ -812,9 +812,9 @@ mantiene visible qué queda.
 - CHRIS DANIELS VS STING TNA Slammiversary 17.06.2007
 - CHRISTIAN COALITION BACKSTAGE SEGMENT TNA Slammiversary 17.06.2007
 - TOMKO VS ABYSS CRAZY SPOTS TNA Slammiversary 17.06.2007
-- KING OF THE MOUNTAIN MATCH STYLES VS JOE VS CHRISTIAN VS HARRIS VS ANGLE TNA Slammiversary 17.06.2007
+- (✓) **KING OF THE MOUNTAIN MATCH STYLES VS JOE VS CHRISTIAN VS HARRIS VS ANGLE TNA Slammiversary 17.06.2007** → [`archive/matches/2007-06-17-king-of-the-mountain-tna-slammiversary.md`](../archive/matches/2007-06-17-king-of-the-mountain-tna-slammiversary.md) (TNA innovation multi-talent ladder)
 - JAMES STORM & BOBBY ROODE VS ERIC YOUNG & RHINO TNA Impact 21.06.2007
-- BEER MONEY FORMATION POST TAG TEAM MATCH TNA Impact 21.06.2007
+- (✓) **BEER MONEY FORMATION POST TAG TEAM MATCH TNA Impact 21.06.2007** → [`archive/segments/2007-06-21-beer-money-formation-tna-impact.md`](../archive/segments/2007-06-21-beer-money-formation-tna-impact.md) (faction foundation moment)
 - TNA VICTORY ROAD 2007 AD TNA Impact 21.06.2007
 - TNA LIVE AD TNA Impact 21.06.2007
 - RAVEN VS CHRIS HARRIS TNA Impact 21.06.2007
@@ -835,7 +835,7 @@ mantiene visible qué queda.
 - KURT ANGLE AND SONJAY DUTT SEGMENT WITH CHRISTIAN COALITION TNA Victory Road 15.07.2007
 - ERIC YOUNG & GAIL KIM VS BOBBY ROODE & MISS BROOKS TNA Victory Road 15.07.2007
 - CHRISTIAN VS CHRIS HARRIS TNA Victory Road 15.07.2007
-- SAMOA JOE & KURT ANGLE VS TEAM 3D TNA Victory Road 15.07.2007
+- (✓) **SAMOA JOE & KURT ANGLE VS TEAM 3D TNA Victory Road 15.07.2007** → [`archive/matches/2007-07-15-joe-angle-vs-team-3d-tna-victory-road.md`](../archive/matches/2007-07-15-joe-angle-vs-team-3d-tna-victory-road.md) (forced alliance arc Joe-Angle)
 - MCMG VS JERRY LYNN & BOB BACKLUND TNA Victory Road 15.07.2007
 - XXX VS RAVEN'S FLOCK TNA Impact 19.07.2007
 - KURT ANGLE AND JB "TANNING" SEGMENTS TNA Impact 19.07.2007
@@ -1141,6 +1141,87 @@ mantiene visible qué queda.
 - BROCK LESNAR PROMO VIDEO WWE SmackDown 24.04.2026
 - JACOB FATU VS SOLO SIKOA WWE SmackDown 24.04.2026
 - JACOB FATU DESTROYS EVERYONE WWE SmackDown 24.04.2026
+
+---
+
+## Update 2026-05-10 — TNA 2007 Christian Coalition era + Kali Armstrong + Robert Stone
+
+**Cluster TNA 2007 Christian Coalition era** procesado (orden
+elegido por el Vehemiurgo: *"el orden que elegiste está bien,
+dale"*):
+
+1. **Dossier central** abierto en
+   [`dossiers/draft-tna-2007-christian-coalition-era.md`](../dossiers/draft-tna-2007-christian-coalition-era.md)
+   — *"tierra sagrada"* del Vehemiurgo. 5 hilos narrativos
+   (Coalition + Joe-Angle + AMW split → Beer Money + Christian
+   solo eje + King of the Mountain como microcosmos), cronología
+   may-ago 2007, tesis editorial sobre la doctrina vehículo vs
+   facción multiplicadora.
+2. **7 centerpieces** abiertos como entries individuales:
+   - Christian vs Angle vs Sting (Sacrifice, main event TNA Title).
+   - Samoa Joe vs AJ Styles (Sacrifice).
+   - James Storm vs Chris Harris (Sacrifice, AMW split blow-off).
+   - King of the Mountain (Slammiversary, multi-talent TNA
+     innovation).
+   - Joe & Angle vs Team 3D (Victory Road, forced alliance).
+   - Beer Money formation (Impact 21 jun, post-match faction
+     foundation moment).
+   - Christian Coalition backstage segment con AJ + Tomko + Steiner
+     (Sacrifice, definición de gimmick de la faction).
+
+**Estrategia de cluster confirmada como operativa**: dossier
+central + centerpieces individuales + cross-refs densos, dejando
+los matches/segments no-centrales del cluster para distribución a
+demanda.
+
+**Material adicional procesado** (drops del Vehemiurgo mid-cluster,
+no listados originalmente en la lista personal — agregados desde
+visionado directo NXT Revenge Week 1):
+
+- **Kali Armstrong vs Skylar Rae** (NXT Revenge Week 1, 14 abr
+  2026) — **Fighting Spirit Class asignada explícitamente** por
+  el Vehemiurgo (*"trae el gimmick, body guy clásico, babyface
+  natural… muy buen proyecto, esta Kali definitivamente viene
+  preparada"*). Match en
+  [`archive/matches/2026-04-14-kali-armstrong-vs-skylar-rae-nxt-revenge-week-1.md`](../archive/matches/2026-04-14-kali-armstrong-vs-skylar-rae-nxt-revenge-week-1.md).
+- **Fact-sheet Kali Armstrong** abierto con request de research
+  delegado al sub-agente `kali-armstrong-family-2026` para
+  averiguar relación con la familia Armstrong (*"que son realeza
+  en el wrestling"*).
+- **VEREDICTO DEL RESEARCH (2026-05-10)**: **DESMENTIDA**. Kali
+  Armstrong **NO es Armstrong de sangre**, nombre real **Destinee
+  Brown**, n. 6 jul 1994 Inglewood CA, sprinter NCAA D1 USC,
+  World Record Penn Relays 2018. Inspirador documentado:
+  rapero **Wale**, no la familia Armstrong. Apellido = **ring
+  name corporativo WWE** adoptado oct 2023. Trainer Sara Amato,
+  cero Armstrong en cadena de coaches. **Lectura Vehemiurgia**:
+  pickup gratuito de equity simbólico sureño sin acreditar,
+  *false flag carny* — envase invoca legado, contenido no lo
+  cita. WWE eligió el apellido por sonoridad, no por linaje;
+  para la escuela Cornette esto es trabajo perezoso. Material
+  denso recuperado sobre la familia Armstrong real (Bob, Brad,
+  Steve, Scott, Brian *Road Dogg* James) listo para abrir
+  `archive/families/armstrong.md` cuando se justifique pieza
+  dedicada. Detalle integrado en
+  [`archive/people/kali-armstrong.md`](../archive/people/kali-armstrong.md)
+  + entrada movida a
+  [`research/closed.md`](../research/closed.md).
+- **Vanity Project & Blake Monroe segment con Robert Stone** (NXT
+  Revenge Week 1, 14 abr 2026) — segmento abierto en
+  [`archive/segments/2026-04-14-vanity-project-blake-monroe-robert-stone-segment-nxt-revenge-week-1.md`](../archive/segments/2026-04-14-vanity-project-blake-monroe-robert-stone-segment-nxt-revenge-week-1.md).
+- **Fact-sheet Robert Stone** abierto en
+  [`archive/people/robert-stone.md`](../archive/people/robert-stone.md)
+  con take editorial denso del Vehemiurgo preservado verbatim —
+  Stone como worker-entertainer híbrido que cumple rol manager
+  + ocasional in-ring + storyline glue del NXT 2026.
+
+**Hallazgo doctrinal del update**: el caso Kali Armstrong genera
+**línea editorial fértil** sobre el **uso de apellidos cargados
+sin honrar el linaje** — contraste con Charlie Dempsey (Snake Pit
+Wigan reference triple capa), Lexis King (hijo Pillman),
+Dominik Mysterio (hijo Rey), McDonagh/Bálor (linaje irlandés).
+Material para pieza posible: *"El apellido prestado — Kali
+Armstrong y el cobro gratuito de equity simbólico"*.
 
 ---
 
