@@ -615,6 +615,8 @@ mantiene visible qué queda.
 - IZZI DAME VS TATUM PAXLEY NXT Vengeance Day 07.03.2026
 - (✓) **SOL RUCA VS IZZI DAME NXT Vengeance Day 07.03.2026** *(añadido por sesión 2026-05-09 visionado, take + cita verbatim integrada)* → [`archive/matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md`](../archive/matches/2026-03-07-sol-ruca-vs-izzi-dame-nxt-vengeance-day.md)
 - (✓) **BLAKE MONROE Y EL VANITY PROJECT — ALIANZA HEEL POR CONVENIENCIA NXT Vengeance Day 07.03.2026** *(ejemplo canónico Wrestling Entertainment Class)* → [`archive/segments/2026-03-07-blake-monroe-vanity-project-alliance-nxt-vengeance-day.md`](../archive/segments/2026-03-07-blake-monroe-vanity-project-alliance-nxt-vengeance-day.md)
+- (✓) **DARK STATE VS HENDRY, ETHAN PAGE, RICKY SAINTS & TONY D'ANGELO — 8-MAN TAG NXT Vengeance Day 07.03.2026** *(añadido por sesión 2026-05-09; take central sobre Saquon Shugars + triángulo Ethan/Ricky/Joe)* → [`archive/matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md`](../archive/matches/2026-03-07-dark-state-vs-hendry-page-saints-dangelo-nxt-vengeance-day.md)
+- (✓) **CHAZZ STARBOY VS LEXIS KING — NXT SPEED MATCH NXT Vengeance Day 07.03.2026** *(añadido por sesión 2026-05-09; PRIMER REGISTRO MULTI-CLASE OPERATIVA: Perfect Wrestling + Fighting Spirit)* → [`archive/matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md`](../archive/matches/2026-03-07-chazz-starboy-vs-lexis-king-speed-match-nxt-vengeance-day.md)
 - FATAL INFLUENCE SEGMENT NXT Vengeance Day 07.03.2026
 - KELANI JORDAN VS LOLA VICE PROMO VIDEO NXT Vengeance Day 07.03.2026
 - OPENING VIDEO NXT 10.03.2026

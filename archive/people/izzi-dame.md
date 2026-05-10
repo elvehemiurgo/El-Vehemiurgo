@@ -26,9 +26,12 @@ fuentes_principales:
 ## Datos duros
 
 - **Debut WWE NXT**: pendiente confirmar fecha.
-- **Title runs**: midcard title (NXT Heritage Cup u otro —
-  pendiente verificar exactamente cuál) confirmado por la lectura
-  editorial *"la retaron mucho dándole un título midcard"*.
+- **Title runs**: **midcard title en el pasado** — ya lo perdió,
+  pero **vivió ese periodo como campeona** (clarificación del
+  Vehemiurgo, 2026-05-09). El reinado fue parte del ciclo de
+  desarrollo del personaje. **Identificar qué título exacto es
+  pendiente** (NXT Heritage Cup, NXT Women's North American, u
+  otro).
 - **Stable**: **The Culling** — el Vehemiurgo lo confirma como
   stable around her: *"todo The Culling gira alrededor de ella"*.
 - **Match notable mayo 2026**: derrotó a Sol Ruca en NXT Vengeance
