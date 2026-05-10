@@ -1055,34 +1055,56 @@ mantiene visible qué queda.
 - TRICK WILLIAMS AND NICK ALDIS SEGMENT WWE SmackDown 27.03.2026
 - RANDY ORTON SEGMENT BACKSTAGE WITH NICK ALDIS WWE SmackDown 27.03.2026
 - EVERYTHING KIT WILSON DOES HERE WWE SmackDown 27.03.2026
-- **CARMELO HAYES VS SAMI ZAYN WWE SmackDown 27.03.2026** — *"la verdad no quería que gane Sami, la lucha empieza con tropiezos pero la segunda mitad es de verdad increíble, the helluva kick into a first 48 was awesome"*
-- **GIULIA VS STRATTON WWE SmackDown 27.03.2026** — *"the match is nice, it has a couple horrible botches, but is a cool Giulia match, also appreciate the stiffness, is good for Tiffany, and that swanton looked insane"*
-- **JACOB FATU AND DREW MCINTYRE SEGMENT WWE SmackDown 27.03.2026** — *"it was cool and fun, and personal, nice shot at babyface Fatu"*
-- **CODY TELLS STEPHANIE SHE IS NOT HER FATHER WWE SmackDown 03.04.2026** — *"it was a cool moment, and the Cody promo is actually great, and this is the only thing Stephanie is good for on WWE programming really, Cody was brilliant and Stephanie was cringe"*
-- **LA KNIGHT WWE SmackDown 03.04.2026** — *"his whole participation with speed and in commentary, also the fact they used Logan's mom in a spot, the Usos vs Vision match was meh, but those moments were cool"*
+- (✓) **CARMELO HAYES VS SAMI ZAYN WWE SmackDown 27.03.2026** → [`archive/matches/2026-03-27-carmelo-hayes-vs-sami-zayn-smackdown.md`](../archive/matches/2026-03-27-carmelo-hayes-vs-sami-zayn-smackdown.md)
+
+  Cita verbatim preservada en archivo: — *"la verdad no quería que gane Sami, la lucha empieza con tropiezos pero la segunda mitad es de verdad increíble, the helluva kick into a first 48 was awesome"*
+- (✓) **GIULIA VS STRATTON WWE SmackDown 27.03.2026** → [`archive/matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md`](../archive/matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md)
+
+  Cita verbatim preservada en archivo: — *"the match is nice, it has a couple horrible botches, but is a cool Giulia match, also appreciate the stiffness, is good for Tiffany, and that swanton looked insane"*
+- (✓) **JACOB FATU AND DREW MCINTYRE SEGMENT WWE SmackDown 27.03.2026** → [`archive/segments/2026-03-27-jacob-fatu-drew-mcintyre-segment-smackdown.md`](../archive/segments/2026-03-27-jacob-fatu-drew-mcintyre-segment-smackdown.md)
+
+  Cita verbatim preservada en archivo: — *"it was cool and fun, and personal, nice shot at babyface Fatu"*
+- (✓) **CODY TELLS STEPHANIE SHE IS NOT HER FATHER WWE SmackDown 03.04.2026** → [`archive/segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md`](../archive/segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md)
+
+  Cita verbatim preservada en archivo: — *"it was a cool moment, and the Cody promo is actually great, and this is the only thing Stephanie is good for on WWE programming really, Cody was brilliant and Stephanie was cringe"*
+- (✓) **LA KNIGHT WWE SmackDown 03.04.2026** → [`archive/segments/2026-04-03-la-knight-speed-commentary-smackdown.md`](../archive/segments/2026-04-03-la-knight-speed-commentary-smackdown.md)
+
+  Cita verbatim preservada en archivo: — *"his whole participation with speed and in commentary, also the fact they used Logan's mom in a spot, the Usos vs Vision match was meh, but those moments were cool"*
 - BROCK LESNAR AND PAUL HEYMAN SEGMENT WWE Raw 30.03.2026
 - IYO SKY VS RAQUEL RODRIGUEZ WWE Raw 30.03.2026
 - CM PUNK VS ROMAN REIGNS BRAWL WWE Raw 30.03.2026
-- **CM PUNK PROMO OPENING WWE Raw 06.04.2026** — *"the old CM Punk, kind of heelish CM Punk, but really over and really great promo, promo of the year"*
+- (✓) **CM PUNK PROMO OPENING WWE Raw 06.04.2026** → [`archive/segments/2026-04-06-cm-punk-promo-opening-raw.md`](../archive/segments/2026-04-06-cm-punk-promo-opening-raw.md) — *"promo of the year"* (declaración categórica)
+
+  Cita verbatim preservada en archivo: — *"the old CM Punk, kind of heelish CM Punk, but really over and really great promo, promo of the year"*
 - THE VISION SEGMENT BACKSTAGE WITH SPEED AND THE SCRAPDADDY ADAM PIERCE WWE Raw 06.04.2026
-- **LA KNIGHT VS AUSTIN THEORY WWE Raw 06.04.2026** — *"what a show"*
+- (✓) **LA KNIGHT VS AUSTIN THEORY WWE Raw 06.04.2026** → [`archive/matches/2026-04-06-la-knight-vs-austin-theory-raw.md`](../archive/matches/2026-04-06-la-knight-vs-austin-theory-raw.md)
+
+  Cita verbatim preservada en archivo: — *"what a show"*
 - LOS AMERICANOS VS JEVON EVANS, DRAGON LEE & PENTA WWE Raw 06.04.2026
 - LESNAR AND FEMI CONTRACT SIGNING WWE Raw 06.04.2026
 - OPENING VIDEO WITH CODY, RANDY AND PAT WWE SmackDown 10.04.2026
 - FINN BÁLOR VIDEO PROMO WWE Raw 06.04.2026
 - DREW MCINTYRE VIDEO PROMO WWE SmackDown 10.04.2026
 - TRICK AND MELO SEGMENT BACKSTAGE WWE SmackDown 10.04.2026
-- **PAT MCAFEE PROMO AGAINST CM PUNK WWE SmackDown 10.04.2026** — *"just brilliant"*
-- **CODY RHODES'S PROMO AGAINST PAT AND TKO WWE SmackDown 10.04.2026** — *"this whole CM Punk and Cody vs TKO story of real wrestlers and play wrestlers, is great"*
+- (✓) **PAT MCAFEE PROMO AGAINST CM PUNK WWE SmackDown 10.04.2026** → [`archive/segments/2026-04-10-pat-mcafee-promo-against-cm-punk-smackdown.md`](../archive/segments/2026-04-10-pat-mcafee-promo-against-cm-punk-smackdown.md)
+
+  Cita verbatim preservada en archivo: — *"just brilliant"*
+- (✓) **CODY RHODES'S PROMO AGAINST PAT AND TKO WWE SmackDown 10.04.2026** → [`archive/segments/2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md`](../archive/segments/2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md) — *storyline 'real wrestlers vs play wrestlers'*
+
+  Cita verbatim preservada en archivo: — *"this whole CM Punk and Cody vs TKO story of real wrestlers and play wrestlers, is great"*
 - JACOB FATU VS TAMA TONGA WWE SmackDown 10.04.2026
 - LESNAR VS FEMI PROMO VIDEO WWE SmackDown 10.04.2026
 - KIT WILSON VS DANHAUSEN WWE SmackDown 10.04.2026
 - LA KNIGHT AND THE USOS SEGMENT BACKSTAGE WWE Raw 13.04.2026
 - LIV MORGAN AND STEPHANIE VAQUER IN-RING SEGMENT WWE Raw 13.04.2026
-- **LA KNIGHT HOT TAG WWE Raw 13.04.2026** — *"his performance and everything was incredible"*
+- (✓) **LA KNIGHT HOT TAG WWE Raw 13.04.2026** → [`archive/segments/2026-04-13-la-knight-hot-tag-raw.md`](../archive/segments/2026-04-13-la-knight-hot-tag-raw.md)
+
+  Cita verbatim preservada en archivo: — *"his performance and everything was incredible"*
 - IYO SKY VS KAIRI SANE WWE Raw 13.04.2026
 - OBA FEMI AND PAUL HEYMAN SEGMENT WWE Raw 13.04.2026
-- **JD MCDONA & RUSEV VS DRAGON LEE & JEVON EVANS WWE Raw 13.04.2026** — *"McDona started really stiff, he's really cool; also the styles clash sequence was just phenomenal"*
+- (✓) **JD MCDONA & RUSEV VS DRAGON LEE & JEVON EVANS WWE Raw 13.04.2026** → [`archive/matches/2026-04-13-jd-mcdonagh-rusev-vs-dragon-lee-jevon-evans-raw.md`](../archive/matches/2026-04-13-jd-mcdonagh-rusev-vs-dragon-lee-jevon-evans-raw.md)
+
+  Cita verbatim preservada en archivo: — *"McDona started really stiff, he's really cool; also the styles clash sequence was just phenomenal"*
 - ROMAN REIGNS PROMO VIDEO WWE SmackDown 17.04.2026
 - JACOB FATU SEGMENT WWE SmackDown 17.04.2026
 - LIV MORGAN VS STEPHANIE VAQUER WWE WrestleMania 42 Día 1 (18.04.2026)
@@ -1106,9 +1128,13 @@ mantiene visible qué queda.
 - LA KNIGHT PROMO WITH GUNTHER WWE Raw 20.04.2026
 - RHEA RIPLEY AND LIV MORGAN MOMENT BACKSTAGE WWE Raw 20.04.2026
 - ROMAN REIGNS AND JACOB FATU SEGMENT WWE Raw 20.04.2026
-- **JACOB FATU IN HIS SEGMENT WWE SmackDown 24.04.2026** — *"great promos by Jimmy and Fatu, also cool Tama Tonga with a chance"*
+- (✓) **JACOB FATU IN HIS SEGMENT WWE SmackDown 24.04.2026** → [`archive/segments/2026-04-24-jacob-fatu-segment-smackdown.md`](../archive/segments/2026-04-24-jacob-fatu-segment-smackdown.md)
+
+  Cita verbatim preservada en archivo: — *"great promos by Jimmy and Fatu, also cool Tama Tonga with a chance"*
 - TIFFANY STRATTON VS GIULIA WWE SmackDown 24.04.2026
-- **FATAL INFLUENCE DEBUT WWE SmackDown 24.04.2026** — *"THE GREATEST ACT IN WWE NOW IN THE BIG LEAGUES, THE WHOLE ACT IS HERE"*
+- (✓) **FATAL INFLUENCE DEBUT WWE SmackDown 24.04.2026** → [`archive/segments/2026-04-24-fatal-influence-debut-smackdown.md`](../archive/segments/2026-04-24-fatal-influence-debut-smackdown.md) — *"THE GREATEST ACT IN WWE NOW"*
+
+  Cita verbatim preservada en archivo: — *"THE GREATEST ACT IN WWE NOW IN THE BIG LEAGUES, THE WHOLE ACT IS HERE"*
 - FATAL INFLUENCE CRASH RHEA'S SEGMENT WWE SmackDown 24.04.2026
 - JACY JAYNE VS RHEA RIPLEY WWE SmackDown 24.04.2026
 - CODY RHODES POST MANIA PROMO WWE SmackDown 24.04.2026
