@@ -19,9 +19,12 @@ fuentes_principales:
 - **Familia**: cousin de **Roman Reigns**, hermano de **Jey Uso** y
   **Jimmy Uso**, parte del linaje **Anoa'i**. Hijo de Rikishi.
 - **Promoción actual (mayo 2026)**: WWE main roster, **líder de
-  Bloodline-faction** (con Tama Tonga, Tonga Loa, Jacob Fatu — al
-  menos en su pico 2024–2025; composición actual mayo 2026
-  pendiente verificar).
+  los MFTs** (faction Bloodline-derivada — *Solo's Bloodline* /
+  *The New Bloodline* / **MFTs**, según conformación
+  2024–2026: Solo + Tama Tonga + Tonga Loa + Jacob Fatu). Detalle
+  en [`promotions/mfts.md`](../promotions/mfts.md). **Composición
+  actual mayo 2026** se redujo tras release de Tonga Loa el 2 may
+  2026.
 
 ## Datos duros
 
@@ -78,6 +81,35 @@ sección 11 (addendum).
   [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)
   — costo de oportunidad: el TV time invertido en Wyatt Sicks
   habría servido para que Solo desarrollara la presentación.
+
+### Sesión 2026-05-09 (clarificación) — Solo como líder de los MFTs víctimas del feud Wyatt
+
+**Contexto**: notebook entry
+[`2026-05-09-takes-rivalidades-vigentes`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md),
+sección 11 (addendum) + clarificaciones chat.
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Los MFTs son la facción de Solo Sikoa."
+
+> "Los MFTs como víctimas de esta limitación de tener una rivalidad
+> con gimmicks como los Wyatt Sicks."
+
+**Lectura**:
+- **Doble lectura del Vehemiurgo sobre Solo**: simultáneamente
+  (a) candidato a *entertaining importante en TV* si quiere serlo
+  (sección anterior), **y** (b) **líder de stable subordinado a un
+  feud paranormal que no lo construye**.
+- El take se cruza con
+  [`promotions/mfts.md`](../promotions/mfts.md) — los MFTs eran
+  *stable con draw real potencial*, no necesitaban talents de
+  afuera, necesitaban un feud que les rindiera. El feud Wyatt
+  Sicks no rindió.
+- **Implicación editorial**: la oficina puso a Solo como líder de
+  un grupo con potencial, y **agotó el capital narrativo del grupo
+  en una rivalidad que no construyó a nadie** ni a Solo ni a sus
+  socios ni al adversario paranormal (que terminó disuelto el 24
+  abr 2026).
 
 ## Lectura consolidada del Vehemiurgo
 

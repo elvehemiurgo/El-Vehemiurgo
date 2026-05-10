@@ -540,7 +540,25 @@ tag team SmackDown 2024-2025.
   `talentos-subutilizados-2024-2026.md`.
 
 **Pendiente confirmar con el Vehemiurgo**:
-- [ ] **Sigla y composición exacta de MFTs**.
-- [ ] Estructura preferida para distribuir el take: fact-sheets
-      individuales por talento mencionado, o topic file
-      consolidado.
+- [x] ~~Sigla y composición exacta de MFTs~~ → **RESUELTO
+      (2026-05-09)**: MFT = **la facción de Solo Sikoa** (Solo +
+      Tama Tonga + Tonga Loa + Jacob Fatu, según conformación
+      2024–2026). Tama Tonga y Solo Sikoa, mencionados en este
+      mismo addendum como talents que *"podrían haber sido
+      construidos mejor"*, **son** miembros de los MFTs — la
+      lectura del Vehemiurgo se completa: eran víctimas
+      narrativas del feud con Wyatt Sicks **al mismo tiempo que**
+      eran candidatos naturales a top guys propios. La rivalidad
+      paranormal los mantuvo subordinados al gimmick Wyatt en lugar
+      de empujarlos en su propio ritmo.
+      **Pendiente menor**: confirmar qué **expande la sigla M-F-T**
+      (kayfabe on-screen, fan shorthand, término interno).
+      Distribuido a:
+      [`promotions/mfts.md`](../archive/promotions/mfts.md) (nuevo
+      faction file),
+      [`solo-sikoa.md`](../archive/people/solo-sikoa.md),
+      [`tama-tonga.md`](../archive/people/tama-tonga.md),
+      [`topics/paranormal-gimmicks-wwe.md`](../archive/topics/paranormal-gimmicks-wwe.md).
+- [x] ~~Estructura preferida para distribuir el take~~ → **RESUELTO
+      (2026-05-09)**: fact-sheets individuales por talento. Hechos
+      LA Knight, Tama Tonga, Jeff Cobb, Solo Sikoa, Bo Dallas.

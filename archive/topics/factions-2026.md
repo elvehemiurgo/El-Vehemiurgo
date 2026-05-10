@@ -34,6 +34,15 @@ analizar las facciones vigentes desde ese criterio.
 - **Bloodline** (estado 2026 a verificar) — Roman Reigns y
   derivados.
 
+- **MFTs / Solo's Bloodline** — facción derivada del Bloodline
+  liderada por **Solo Sikoa** (Tama Tonga + Tonga Loa + Jacob
+  Fatu). Detalle en
+  [`promotions/mfts.md`](../promotions/mfts.md). **Lectura del
+  Vehemiurgo**: *víctimas narrativas* del feud forzado con los
+  Wyatt Sicks paranormales — stable con draw real subordinado a
+  un gimmick paranormal que no rindió. Composición reduciéndose
+  (Tonga Loa released 2 may 2026).
+
 - **Imperium** (estado 2026 a verificar).
 
 - **Kabuki Warriors / Damage CTRL / iteraciones** (a verificar).
