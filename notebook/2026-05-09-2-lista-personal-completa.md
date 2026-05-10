@@ -350,7 +350,7 @@ mantiene visible qué queda.
 - Alex Shelley vs Chris Sabin — ZERO1-MAX Tenka Ichi Jr 2006, Tag 1 (24.08.2006)
 - LA KNIGHT VS SHEAMUS VS TREVOR LEE VS REY MISTERYIO WWE SmackDown 21.07.2023
 - DOMINIK MYSTERIO VS JOHN CENA Survivor Series 2025
-- NWA World Wide Wrestling 31.12.1983 — hermanos Youngblood (Jay & Mark) vs Hans Schroeder & Joe Russo
+- (✓) **NWA World Wide Wrestling 31.12.1983 — hermanos Youngblood (Jay & Mark) vs Hans Schroeder & Joe Russo** → [`archive/matches/1983-12-31-hermanos-youngblood-vs-schroeder-russo-nwa-world-wide.md`](../archive/matches/1983-12-31-hermanos-youngblood-vs-schroeder-russo-nwa-world-wide.md) (territorial deep dive NWA Crockett 1983, Native American gimmick)
 - (✓) **MONEY IN THE BANK MATCH WrestleMania 21 (2005)** → [`archive/matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md`](../archive/matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md) (inaugural MITB, Edge wins, 4 talents cluster Raw 2004-2005)
 - Bob Orton Jr. vs. Ben Alexander — NWA World Wide 06.08.1983
 - CHRIS BENOIT VS HHH WWE Raw 02.05.2005
@@ -419,7 +419,7 @@ mantiene visible qué queda.
 - TRICK WILLIAMS VS REY FENIX WWE SmackDown 09.01.2026
 - (✓) **CHRISTIAN & LANCE STORM VS THE ROCK & HULK HOGAN WWE SmackDown 25.07.2002** → [`archive/matches/2002-07-25-christian-lance-storm-vs-rock-hogan-wwe-smackdown.md`](../archive/matches/2002-07-25-christian-lance-storm-vs-rock-hogan-wwe-smackdown.md) (Christian eje fase 1 — Un-Americans linaje)
 - JEFF JARRETT VS BOB BACKLUND WWF Sunday Night Slam 3 (1995)
-- BRET HART VS OWEN HART WWF Raw before WrestleMania XI
+- (✓) **BRET HART VS OWEN HART WWF Raw before WrestleMania XI** → [`archive/matches/1995-bret-hart-vs-owen-hart-wwf-raw-pre-wmxi.md`](../archive/matches/1995-bret-hart-vs-owen-hart-wwf-raw-pre-wmxi.md) (Bret deep cut, Hart brothers feud TV semanal)
 
 ### Bloque enero–febrero 2026 (programación corriente)
 
@@ -487,14 +487,14 @@ mantiene visible qué queda.
 - CHRISTOPHER DANIELS VS AMAZING RED ROH Retribution 26.04.2003
 - AJ STYLES VS RICK MICHAELS WWF 09.07.2001
 - AJ STYLES VS COREY HOLLIS GPW 05.02.2016
-- SHAWN MICHAELS VS UNDERTAKER WWF Royal Rumble 18.01.1998
+- (✓) **SHAWN MICHAELS VS UNDERTAKER WWF Royal Rumble 18.01.1998** → [`archive/matches/1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md`](../archive/matches/1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md) (Casket Match, Kane debut storyline + HBK back injury catastrófico)
 - KURT ANGLE VS HHH MCW 03.03.2001
 - (✓) **BRADSHAW & BARRY WINDHAM VS STEVE WILLIAMS & GARY ALBRIGHT AJPW 23.11.1997** → [`archive/matches/1997-11-23-bradshaw-windham-vs-williams-albright-ajpw.md`](../archive/matches/1997-11-23-bradshaw-windham-vs-williams-albright-ajpw.md) (candidato canónico Fighting Spirit Class, gaijin heavyweight tag)
 - JACOB FATU VS ALEX HAMMERSTONE MLW Fightland 2021
 - SUPER DRAGON VS KEVIN STEEN VS RUCKUS CZW Seven Years Strong 11.02.2006
 - THE HART FOUNDATION VS THE ROCKERS WWF
 - (✓) **STEVE AUSTIN VS THE ROCK WWF In Your House 07.12.1997** → [`archive/matches/1997-12-07-steve-austin-vs-the-rock-wwf-in-your-house.md`](../archive/matches/1997-12-07-steve-austin-vs-the-rock-wwf-in-your-house.md) (candidato canónico Wrestling Entertainment Class, Attitude Era emerging)
-- REY MYSTERIO JR VS ULTIMO DRAGON WAR King Tier 13.12.1996
+- (✓) **REY MYSTERIO JR VS ULTIMO DRAGON WAR King Tier 13.12.1996** → [`archive/matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md`](../archive/matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md) (junior heavyweight cross-tradition Tenryu promo)
 - RAZOR RAMON VS OWEN HART WWF Raw 09.01.1995
 - PAUL ORNDORFF VS JIMMY JACKSON 01.04.1984
 - BRET HART VS THE MOUNTIE WWF 26.10.1992
@@ -874,7 +874,7 @@ mantiene visible qué queda.
 - CW ANDERSON VS CM PUNK ROH One Year Anniversary Show 08.02.2003
 - SAMOA JOE VS BRYAN DANIELSON ROH One Year Anniversary Show 08.02.2003
 - SAMOA JOE VS EZ MONEY VS HOMICIDE VS WHITMER ROH One Year Anniversary Show 08.02.2003
-- CODY RHODES VS KENNY OMEGA NJPW G1 Special in San Francisco 2018
+- (✓) **CODY RHODES VS KENNY OMEGA NJPW G1 Special in San Francisco 2018** → [`archive/matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](../archive/matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) (pre-AEW foundation, Cody arc fase 1)
 
 ### Bloque WWE 2026 03–04 (post Mania, Brock returns, Cody/Stephanie, anotaciones)
 
@@ -1603,6 +1603,63 @@ operativas:
 
 **AJ Styles arc** (sec. 9 notebook): pieza 1 de 7+ entradas
 indie AJ abiertas. Resto pendiente a demanda.
+
+---
+
+## Update 2026-05-10 — Batch 8: Deep cuts históricos no-cluster restantes
+
+**Procesadas individualmente** 5 entradas más de deep cuts
+históricos no-cluster:
+
+1. **Shawn Michaels vs Undertaker — WWF Royal Rumble 18 ene
+   1998** — Casket Match icónico, Kane debut storyline + HBK
+   back injury catastrófico.
+2. **Rey Mysterio Jr vs Ultimo Dragon — WAR King Tier 13 dic
+   1996** — junior heavyweight cross-tradition, sec. 8
+   *Tradición lucha libre*.
+3. **Cody Rhodes vs Kenny Omega — NJPW G1 Special San
+   Francisco 30 jun 2018** — pre-AEW foundation, Cody arc
+   fase 1.
+4. **Hermanos Youngblood vs Schroeder & Russo — NWA World
+   Wide Wrestling 31 dic 1983** — territorial deep dive
+   obligatorio, Native American gimmick tradition.
+5. **Bret Hart vs Owen Hart — WWF Raw pre-WrestleMania XI
+   abr 1995** — Bret deep cut, Hart brothers feud TV semanal,
+   sec. 5 *Bret Hart deep cuts*.
+
+**Cody Rhodes arc completo documentado en 4 fases**:
+1. **NJPW G1 Special San Francisco 30 jun 2018 vs Kenny
+   Omega** — Bullet Club period pre-AEW (Batch 8, este commit).
+2. **AEW co-founder & EVP 2019-2022** — pendiente apertura
+   fact-sheet faction file The Elite.
+3. **WWE return Royal Rumble 2022 → "I'm Cody Rhodes"
+   trajectory** — pendiente apertura.
+4. **WrestleMania 42 Día 1 vs Randy Orton 18 abr 2026** —
+   WWE WM42 cluster (commit dcaa03d).
+
+**Estado de procesamiento de la lista personal completa**:
+- **5 clusters densos** cerrados (sesión 2026-05-10 5
+  commits: 608a94c → afd8bd5 → 521ada5 → 4f396c4 → dcaa03d).
+- **Batch 1 annotations** ya integrado (commit cd25cdb,
+  pre-sesión).
+- **Batch 6 + Batch 7 + Batch 8 no-cluster** = 19 entradas
+  individuales adicionales con cross-links a clusters
+  existentes + linaje editorial (Christian fase 1-4, CM Punk
+  3 fases, Cody 4 fases).
+- **3 clases del Vehemiurgo** con anchor pieces operativas.
+
+**Pendientes residuales no-cluster** (volumen denso, a
+demanda):
+- Bret Hart deep cuts restantes (3 entradas).
+- AJ Styles arc restantes (6+ entradas indie).
+- Territorial deep dives restantes (4+ entradas 1983-1984).
+- Tradición lucha-libre restantes (3 entradas Mysterio + Negro
+  Casas + Abismo Negro).
+- Tradición japonesa restantes (varias).
+- Bloque enero-febrero 2026 programación corriente.
+- Bloque WWE 2026 03-04 pre-Mania no-annotation.
+- Bloque AAA + AEW 2026 segmentos.
+- Bloque WWE MITB 2013 mini-cluster.
 
 ---
 
