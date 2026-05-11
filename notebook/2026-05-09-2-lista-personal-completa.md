@@ -352,7 +352,7 @@ mantiene visible qué queda.
 - DOMINIK MYSTERIO VS JOHN CENA Survivor Series 2025
 - (✓) **NWA World Wide Wrestling 31.12.1983 — hermanos Youngblood (Jay & Mark) vs Hans Schroeder & Joe Russo** → [`archive/matches/1983-12-31-hermanos-youngblood-vs-schroeder-russo-nwa-world-wide.md`](../archive/matches/1983-12-31-hermanos-youngblood-vs-schroeder-russo-nwa-world-wide.md) (territorial deep dive NWA Crockett 1983, Native American gimmick)
 - (✓) **MONEY IN THE BANK MATCH WrestleMania 21 (2005)** → [`archive/matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md`](../archive/matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md) (inaugural MITB, Edge wins, 4 talents cluster Raw 2004-2005)
-- Bob Orton Jr. vs. Ben Alexander — NWA World Wide 06.08.1983
+- (✓) **Bob Orton Jr. vs. Ben Alexander — NWA World Wide 06.08.1983** → [`archive/matches/1983-08-06-bob-orton-jr-vs-ben-alexander-nwa-world-wide.md`](../archive/matches/1983-08-06-bob-orton-jr-vs-ben-alexander-nwa-world-wide.md) (territorial deep dive, padre de Randy Orton, cross-link WM42 Día 1)
 - CHRIS BENOIT VS HHH WWE Raw 02.05.2005
 - SHELTON BENJAMIN VS SHAWN MICHAELS WWE Raw 02.05.2005
 - PERRY SATURN VS CHRIS JERICHO WCW Nitro 04.01.1999
@@ -430,7 +430,7 @@ mantiene visible qué queda.
 - ILJA DRAGUNOV VS CARMELO HAYES SmackDown 23.01.2026
 - LIV MORGAN & ROXANNE PEREZ VS RHEA RIPLEY & IYO SKY SNME 24.01.2026
 - AJ STYLES VS NAKAMURA WWE SNME 24.01.2026
-- AJ STYLES VS CODY RHODES WWE Backlash 2024
+- (✓) **AJ STYLES VS CODY RHODES WWE Backlash 2024** → [`archive/matches/2024-aj-styles-vs-cody-rhodes-wwe-backlash.md`](../archive/matches/2024-aj-styles-vs-cody-rhodes-wwe-backlash.md) (post-WMXL Cody first defense europea Backlash France)
 - AJ Styles vs. Kurt Angle TNA 02.06.2013
 - CM PUNK VS AJ STYLES WWE Raw 26.01.2026
 - AJ Styles vs. Kurt Angle TNA Impact 06.10.2009
@@ -463,7 +463,7 @@ mantiene visible qué queda.
 ### Bloque WWE SmackDown 2002–2003 (Mysterio / Angle / Eddie / Edge / Brock era)
 
 - RANDY SAVAGE VS HEADSHRINKER FATU WWF Raw 13.12.1993
-- AJ STYLES VS KEVIN OWENS WWE MSG 07.07.2017
+- (✓) **AJ STYLES VS KEVIN OWENS WWE MSG 07.07.2017** → [`archive/matches/2017-07-07-aj-styles-vs-kevin-owens-wwe-msg.md`](../archive/matches/2017-07-07-aj-styles-vs-kevin-owens-wwe-msg.md) (WWE early run AJ arc, MSG live event)
 - (✓) **AJ STYLES VS HOMICIDE IWC 2004** → [`archive/matches/2004-aj-styles-vs-homicide-iwc.md`](../archive/matches/2004-aj-styles-vs-homicide-iwc.md) (AJ Styles arc indie-a-WWE pieza intermedia)
 - STING VS CACTUS JACK WCW Beach Blast 20.06.1992
 - CHRIS HERO VS ZACK SABRE JR Limitless Wrestling 2016
@@ -485,7 +485,7 @@ mantiene visible qué queda.
 - SHAWN MICHAELS VS REY MYSTERIO WWE SmackDown 29.01.2010
 - SHANE MCMAHON VS KURT ANGLE WWE King of the Ring street fight
 - CHRISTOPHER DANIELS VS AMAZING RED ROH Retribution 26.04.2003
-- AJ STYLES VS RICK MICHAELS WWF 09.07.2001
+- (✓) **AJ STYLES VS RICK MICHAELS WWF 09.07.2001** → [`archive/matches/2001-07-09-aj-styles-vs-rick-michaels-wwf.md`](../archive/matches/2001-07-09-aj-styles-vs-rick-michaels-wwf.md) (AJ early indie, sec. 9 arc)
 - AJ STYLES VS COREY HOLLIS GPW 05.02.2016
 - (✓) **SHAWN MICHAELS VS UNDERTAKER WWF Royal Rumble 18.01.1998** → [`archive/matches/1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md`](../archive/matches/1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md) (Casket Match, Kane debut storyline + HBK back injury catastrófico)
 - KURT ANGLE VS HHH MCW 03.03.2001
@@ -496,7 +496,7 @@ mantiene visible qué queda.
 - (✓) **STEVE AUSTIN VS THE ROCK WWF In Your House 07.12.1997** → [`archive/matches/1997-12-07-steve-austin-vs-the-rock-wwf-in-your-house.md`](../archive/matches/1997-12-07-steve-austin-vs-the-rock-wwf-in-your-house.md) (candidato canónico Wrestling Entertainment Class, Attitude Era emerging)
 - (✓) **REY MYSTERIO JR VS ULTIMO DRAGON WAR King Tier 13.12.1996** → [`archive/matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md`](../archive/matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md) (junior heavyweight cross-tradition Tenryu promo)
 - RAZOR RAMON VS OWEN HART WWF Raw 09.01.1995
-- PAUL ORNDORFF VS JIMMY JACKSON 01.04.1984
+- (✓) **PAUL ORNDORFF VS JIMMY JACKSON 01.04.1984** → [`archive/matches/1984-04-01-paul-orndorff-vs-jimmy-jackson.md`](../archive/matches/1984-04-01-paul-orndorff-vs-jimmy-jackson.md) (territorial deep dive WWF pre-WrestleMania I expansion)
 - (✓) **BRET HART VS THE MOUNTIE WWF 26.10.1992** → [`archive/matches/1992-10-26-bret-hart-vs-the-mountie-wwf.md`](../archive/matches/1992-10-26-bret-hart-vs-the-mountie-wwf.md) (Bret deep cut sec. 5, WWF Title defense early reign)
 - EDDIE GUERRERO VS LA PARKA WCW Thunder 07.01.1999
 - EDDIE GUERRERO VS TERRY FUNK WCW mayo 1989
@@ -870,7 +870,7 @@ mantiene visible qué queda.
 
 ### Bloque misceláneo histórico
 
-- AJ STYLES & LOW KI VS CHRIS DANIELS & XAVIER (THE PROPHECY) ROH Revenge On The Prophecy 11.01.2003
+- (✓) **AJ STYLES & LOW KI VS CHRIS DANIELS & XAVIER (THE PROPHECY) ROH Revenge On The Prophecy 11.01.2003** → [`archive/matches/2003-01-11-aj-styles-low-ki-vs-daniels-xavier-roh.md`](../archive/matches/2003-01-11-aj-styles-low-ki-vs-daniels-xavier-roh.md) (ROH founding generation tag)
 - CW ANDERSON VS CM PUNK ROH One Year Anniversary Show 08.02.2003
 - SAMOA JOE VS BRYAN DANIELSON ROH One Year Anniversary Show 08.02.2003
 - SAMOA JOE VS EZ MONEY VS HOMICIDE VS WHITMER ROH One Year Anniversary Show 08.02.2003
@@ -1822,6 +1822,109 @@ proyecto):
 - **Linajes editoriales verificables completos** sostenidos
   por fact-sheets centrales con cross-links a clusters +
   centerpieces + segmentos.
+
+---
+
+## Update 2026-05-10 — Batch 10: Wave masivo fact-sheets people + deep cuts + pieces obligatorias
+
+**30 min trabajo continuo** ("continua completando todo en ese
+orden, trabaja continuamente por 30min" — Vehemiurgo).
+
+### 8 fact-sheets people centrales nuevos
+
+1. **Bret Hart** —
+   [`archive/people/bret-hart.md`](../archive/people/bret-hart.md)
+   — Hitman + Hart family patriarch contemporary + Montreal
+   Screwjob víctima.
+2. **Chris Jericho** —
+   [`archive/people/chris-jericho.md`](../archive/people/chris-jericho.md)
+   — Y2J + creador MITB + AEW founding generation.
+3. **Trish Stratus** —
+   [`archive/people/trish-stratus.md`](../archive/people/trish-stratus.md)
+   — Womens Champion 7× + WMXX heel turn + cluster Raw 2004-2005.
+4. **Roman Reigns** —
+   [`archive/people/roman-reigns.md`](../archive/people/roman-reigns.md)
+   — Tribal Chief + Bloodline architect + 1316 días reign.
+5. **Brock Lesnar** —
+   [`archive/people/brock-lesnar.md`](../archive/people/brock-lesnar.md)
+   — Beast Incarnate + monster heel archetype + Streak breaker.
+6. **Will Ospreay** —
+   [`archive/people/will-ospreay.md`](../archive/people/will-ospreay.md)
+   — pieza diagnóstica Vehemiurgia matiz vs Cornette-school.
+7. **MJF** —
+   [`archive/people/mjf.md`](../archive/people/mjf.md)
+   — modern heel old-school + AEW Champion + Hangman feud 2026.
+8. **Hangman Adam Page** —
+   [`archive/people/hangman-adam-page.md`](../archive/people/hangman-adam-page.md)
+   — cowboy babyface + AEW founding + redemption arc 2021.
+9. **Hijo del Vikingo** —
+   [`archive/people/hijo-del-vikingo.md`](../archive/people/hijo-del-vikingo.md)
+   — AAA Mega Champion + cluster AAA + AEW 2026.
+10. **Dragon Lee** —
+    [`archive/people/dragon-lee.md`](../archive/people/dragon-lee.md)
+    — Casas family lineage + Fighting Spirit Class anchor.
+11. **Oba Femi** —
+    [`archive/people/oba-femi.md`](../archive/people/oba-femi.md)
+    — monster heel emergente + Brock pass-over rub WM42.
+12. **Pat McAfee** —
+    [`archive/people/pat-mcafee.md`](../archive/people/pat-mcafee.md)
+    — meta-storyline antagonista + diagnóstica cross-promotion.
+13. **Owen Hart** —
+    [`archive/people/owen-hart.md`](../archive/people/owen-hart.md)
+    — Hart family + WMX opener + tragedia 1999.
+
+### Deep cuts AJ Styles arc — 5 piezas
+
+1. AJ vs Rick Michaels WWF 09.07.2001 (early indie).
+2. AJ & Low Ki vs Daniels & Xavier ROH 11.01.2003 (ROH founding
+   generation tag classic).
+3. AJ vs Corey Hollis GPW 05.02.2016 (late indie pre/post-WWE
+   debut).
+4. AJ vs Kevin Owens WWE MSG 07.07.2017 (WWE early run).
+5. AJ vs Cody Rhodes WWE Backlash France 2024 (post-WMXL Cody
+   reign defense).
+
+### Deep cuts territorial — 2 piezas
+
+1. Bob Orton Jr. vs Ben Alexander NWA World Wide 06.08.1983
+   (territorial deep dive padre Randy Orton).
+2. Paul Orndorff vs Jimmy Jackson WWF 01.04.1984 (territorial
+   WWF pre-WrestleMania I).
+
+### Pieces editoriales obligatorias — 2 piezas anchor
+
+1. **Eddie Guerrero vs Rey Mysterio Jr. — WCW Halloween Havoc
+   1997 Title vs Mask** —
+   [`archive/matches/1997-10-26-eddie-guerrero-vs-rey-mysterio-wcw-halloween-havoc-mask-match.md`](../archive/matches/1997-10-26-eddie-guerrero-vs-rey-mysterio-wcw-halloween-havoc-mask-match.md)
+   — modern classic anchor pieza Eddie/Rey rivalry cumbre WCW.
+2. **Brock Lesnar vs Eddie Guerrero — WrestleMania XX 2004
+   coronation** —
+   [`archive/matches/2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md`](../archive/matches/2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md)
+   — coronation cumbre carrera Eddie + payoff seed editorial
+   SmackDown 7 nov 2002.
+
+### Total Batch 10
+**~22 archivos nuevos**: 13 fact-sheets + 7 deep cuts +
+2 pieces obligatorias + notebook update.
+
+### Estado del proyecto post-Batch 10
+
+- **45+ fact-sheets people activos** en `archive/people/`.
+- **Linajes editoriales completos** verificables: Christian
+  Cage (5 fases) + CM Punk (3) + Cody Rhodes (4) + Eddie
+  Guerrero (carrera completa con cumbre WMXX 2004) + Rey
+  Mysterio (carrera completa con anchor HH 1997 mask) + AJ
+  Styles (arc indie-a-WWE completo) + Bret Hart + Owen Hart
+  Hart family + Roman Reigns / Bloodline + Brock Lesnar.
+- **Pendientes residuales menores**: fact-sheets adicionales
+  (Stephanie McMahon, Kurt Angle, The Rock, Steve Austin
+  fact-sheets pendientes), pieces editoriales remaining
+  (WrestleMania XII Iron Man, WMXIII Submission Match,
+  Pipebomb 2011, Tribal Chief heel turn 2020, AEW Full Gear
+  2021 Hangman wins title, Brock vs Undertaker WMXXX Streak
+  breaker, etc.), columnas editoriales al horno (linaje
+  Christian, real wrestlers vs play wrestlers, doctrina matiz
+  Cornette-school, monster heel renaissance 2026).
 
 ---
 

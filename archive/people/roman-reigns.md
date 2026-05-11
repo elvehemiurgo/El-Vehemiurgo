@@ -1,0 +1,96 @@
+---
+nombre: "Roman Reigns"
+tipo: fact-sheet
+categoria: people
+slug: roman-reigns
+estado: vivo
+ultima_actualizacion: 2026-05-10
+fuentes_principales:
+  - "Notebook del Vehemiurgo, cluster WrestleMania 42 + Bloodline arc"
+  - "Múltiples retrospectivas WWE media + Pat McAfee Show"
+tags: [roman-reigns, the-tribal-chief, head-of-the-table, bloodline, the-shield, anoaʻi-family-legacy, wm42-main-event, undisputed-wwe-universal-champion-1316-days, paul-heyman-special-counsel]
+---
+
+# Roman Reigns
+
+> **The Tribal Chief — Head of the Table**. Talent definitorio
+> WWE 2014-2026 + Bloodline architect + Undisputed WWE Universal
+> Champion **1,316 días** (record longest single reign WWE
+> moderno post-Hogan). Pieza central del cluster **WrestleMania
+> 42** vs CM Punk main event.
+
+## Identificación
+
+- **Nombre real**: Leati Joseph "Joe" Anoaʻi.
+- **Origen**: Pensacola, FL. 25 may 1985.
+- **Edad activo**: 41 años (mayo 2026).
+- **Familia wrestling royalty**: **Anoaʻi family** = Wild
+  Samoans + Yokozuna + Rikishi + Umaga + The Usos (primos) +
+  Solo Sikoa (primo) + Tama Tonga (primo) + Sika & Afa
+  (great uncles) + Peter Maivia (grand-uncle) + The Rock
+  (cousin via marriage). **Linaje wrestling 4+ generaciones**.
+- **Pre-wrestling**: Georgia Tech football + brief NFL career
+  (Vikings/Jaguars practice squads).
+- **Status actual**: WWE main eventer, Tribal Chief storyline
+  with Bloodline split arc.
+- **Finisher signature**: ***Spear***, ***Superman Punch***,
+  ***Guillotine choke***.
+- **Apodo**: *The Tribal Chief*, *The Big Dog*, *Head of the
+  Table*.
+
+## Trayectoria condensada
+
+- **WWE FCW developmental** 2010-2012.
+- **The Shield debut Survivor Series 2012** — con Seth Rollins
+  + Dean Ambrose. **Faction definitiva era 2012-2014**.
+- **Solo run 2014-2020**: Royal Rumble winner 2015, multi-time
+  WWE Champion + Universal Champion, **fan rejection arc 2014-
+  2018** (booked babyface vs internal heel reactions).
+- **Leukemia diagnosis oct 2018** — relinquishes Universal
+  Title, hiatus.
+- **Recovery + return SummerSlam 2019**.
+- **THE TRIBAL CHIEF heel turn SummerSlam 2020** (post-
+  pandemic return). Paul Heyman como **Special Counsel** + Solo
+  Sikoa + Usos como Bloodline original. **Pieza editorial
+  central WWE moderno**.
+- **Universal Champion 1,316 días** (ago 2020 → abr 2024,
+  WMXL Day 2 vs Cody Rhodes). Record longest reign modern era.
+- **Post-WMXL hiatus + Bloodline civil war 2024-2025**: Solo
+  takeover + Roman return + multi-faction split.
+- **Cluster WrestleMania 42 2026 vs CM Punk Día 2** — main
+  event máximo + payoff meta-storyline *"real wrestlers vs
+  play wrestlers"*.
+
+## Notas Vehemiurgia (cluster WM42)
+
+> *Quote del Cody Rhodes promo 10 abr 2026: "this whole CM
+> Punk and Cody vs TKO story of real wrestlers and play
+> wrestlers, is great"*.
+
+- Roman como **anchor de la Bloodline** = pieza central de
+  doctrina **vehículo vs facción** ([`../topics/factions-2026.md`](../topics/factions-2026.md)).
+  Bloodline original (Roman + Heyman + Solo + Usos) = **faction
+  multiplicadora completa** que eleva a 5 talents
+  simultáneamente.
+- **The Tribal Chief gimmick** = booking carny ortodoxo
+  aplicado a la Anoaʻi family legacy real. **Carny puro**:
+  el gimmick se sostiene por el legacy familiar verificable +
+  character work serio + Heyman managerial classic.
+- **Anoaʻi family linaje** cross-link con Solo Sikoa fact-sheet
+  + Jacob Fatu fact-sheet + Tama Tonga fact-sheet +
+  faction-file MFTs.
+
+## Piezas relacionadas
+
+- [`../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md)
+- [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
+- [`./solo-sikoa.md`](./solo-sikoa.md), [`./jacob-fatu.md`](./jacob-fatu.md), [`./tama-tonga.md`](./tama-tonga.md)
+
+## Pendientes
+
+- [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)
+      — pieza editorial obligatoria.
+- [ ] The Shield trifecta-debut Survivor Series 2012 — segment.
+- [ ] Tribal Chief heel turn SummerSlam 2020 — segment.
+- [ ] Bloodline civil war 2024-2025 — pieza editorial
+      multi-segment.
