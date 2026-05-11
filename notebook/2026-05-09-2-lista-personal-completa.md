@@ -403,7 +403,7 @@ mantiene visible qué queda.
 - KYLE FLETCHER VS PAC AEW Dynamite 17.12.2025
 - ARN ANDERSON VS STEVE AUSTIN NJPW G1 Climax 1992
 - DOMINIK MYSTERIO & GRANDE AMERICANO VS HIJO DEL VIKINGO Y DRAGON LEE AAA
-- HIJO DEL VIKINGO VS DRAGON LEE AAA Guerra de Titanes 20.12.2025
+- (✓) **HIJO DEL VIKINGO VS DRAGON LEE AAA Guerra de Titanes 20.12.2025** → [`archive/matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md`](../archive/matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md) (match cumbre lucha mexicana, pre-Vikingo injury arc)
 - DOMINIK MYSTERIO VS HIJO DEL VIKINGO AAA
 - SHAWN MICHAELS VS BRITISH BULLDOG WWF King of the Ring 1996
 - NEGRO CASAS VS ULTIMO DRAGON 1992 WAR
@@ -646,12 +646,12 @@ mantiene visible qué queda.
 - JAYDA PARKER VS KELANI JORDAN NXT 31.03.2026
 - WHC CONTRACT SIGNING WITH ETHAN PAGE, RICKY, JOE & GABAGOOL NXT 31.03.2026
 - LOLA VICE VS KENDAL GREY NXT 31.03.2026
-- JACY JAYNE VS KENDAL GRAY VS LOLA VICE NXT Stand & Deliver 04.04.2026
+- (✓) **JACY JAYNE VS KENDAL GRAY VS LOLA VICE NXT Stand & Deliver 04.04.2026** → [`archive/matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../archive/matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) (Women's Title triple threat, intra-faction dynamic)
 - LOS AMERICANOS VS VANITY PROJECT NXT Stand & Deliver 04.04.2026
-- SOL RUCA VS SARIA NXT Stand & Deliver 04.04.2026
+- (✓) **SOL RUCA VS SARIA NXT Stand & Deliver 04.04.2026** → [`archive/matches/2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md`](../archive/matches/2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) (blow-off traición Saria)
 - MILES BORNE VS JOHNNY GARGANO NXT Stand & Deliver 04.04.2026
 - TATUM PAXLEY VS BLAKE MONROE NXT Stand & Deliver 04.04.2026
-- ETHAN PAGE VS RICKY SAINTS VS JOE HENDRY VS D'ANGELO NXT Stand & Deliver 04.04.2026
+- (✓) **ETHAN PAGE VS RICKY SAINTS VS JOE HENDRY VS D'ANGELO NXT Stand & Deliver 04.04.2026** → [`archive/matches/2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md`](../archive/matches/2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) (WHC fatal 4-way, triángulo expandido payoff)
 - BECKY LYNCH VS IYO SKY WWE Monday Night Raw 27.04.2026
 - ETHAN PAGE DURING PENTA VS RUSEV WWE Monday Night Raw 27.04.2026
 
@@ -1000,10 +1000,10 @@ mantiene visible qué queda.
 - YOUNG BUCKS & MARK BRISCOE VS FTR & CIAMPA AEW Dynamite 11.03.2026
 - MJF VS HANGMAN REVOLUTION PROMO VIDEO AEW Dynamite 11.03.2026
 - MJF AND HANGMAN PRESS CONFERENCE PRE REVOLUTION AEW Dynamite 11.03.2026
-- YOUNG BUCKS VS FTR AEW Revolution 15.03.2026
+- (✓) **YOUNG BUCKS VS FTR AEW Revolution 15.03.2026** → [`archive/matches/2026-03-15-young-bucks-vs-ftr-aew-revolution.md`](../archive/matches/2026-03-15-young-bucks-vs-ftr-aew-revolution.md) (tag feud histórico cierre, choque filosofías tag old-school vs indie-modern)
 - (✓) **CHRISTIAN KILLSWITCHES AEW Revolution 15.03.2026** → [`archive/segments/2026-03-15-christian-killswitches-aew-revolution.md`](../archive/segments/2026-03-15-christian-killswitches-aew-revolution.md) (cierre fase 4 linaje Christian eje Vehemiurgia)
 - TONI STORM ENTRANCE AEW Revolution 15.03.2026
-- WILL OSPREAY RETURNS AEW Revolution 15.03.2026
+- (✓) **WILL OSPREAY RETURNS AEW Revolution 15.03.2026** → [`archive/segments/2026-03-15-will-ospreay-returns-aew-revolution.md`](../archive/segments/2026-03-15-will-ospreay-returns-aew-revolution.md) (return moment, pieza diagnóstica Vehemiurgia matiz Cornette-school)
 - KRIS STATLANDER AND TEKLAH VIDEO PROMO AEW Revolution 15.03.2026
 - KRIS STATLANDER VS TEKLAH AEW Revolution 15.03.2026
 - ANDRADE VS BANDIDO AEW Revolution 15.03.2026
@@ -1022,7 +1022,7 @@ mantiene visible qué queda.
 
 ### Bloque WWE Money in the Bank 2013 (Wyatt Family debut, Christian/Kane)
 
-- CHRISTIAN VS KANE WWE Raw 08.07.2013
+- (✓) **CHRISTIAN VS KANE WWE Raw 08.07.2013** → [`archive/matches/2013-07-08-christian-vs-kane-wwe-raw.md`](../archive/matches/2013-07-08-christian-vs-kane-wwe-raw.md) (setup directo Wyatt Family debut attack, Christian fase 3.5 linaje)
 - (✓) **BRAY WYATT PROMO + WYATT FAMILY ATTACK KANE WWE Raw 08.07.2013** → [`archive/segments/2013-07-08-bray-wyatt-debut-promo-wwe-raw.md`](../archive/segments/2013-07-08-bray-wyatt-debut-promo-wwe-raw.md) (foundation gimmick paranormal moderno + legacy Wyatt Sicks)
 - THE WYATT FAMILY ATTACK KANE WWE Raw 08.07.2013
 - MITB MARK HENRY PROMO VIDEO WWE Raw 08.07.2013
@@ -1038,7 +1038,7 @@ mantiene visible qué queda.
 - ALBERTO DEL RIO VS DOLPH ZIGGLER WWE MITB 2013
 - MITB PROMO VIDEO FOR ALBERTO DEL RIO VS DOLPH ZIGGLER WWE MITB 2013
 - WYATT FAMILY PROMO VIDEO WWE MITB 2013
-- MITB MATCH CHRISTIAN VS RVD VS CM PUNK VS DANIEL BRYAN VS SHEAMUS VS RANDY ORTON WWE MITB 2013
+- (✓) **MITB MATCH CHRISTIAN VS RVD VS CM PUNK VS DANIEL BRYAN VS SHEAMUS VS RANDY ORTON WWE MITB 2013** → [`archive/matches/2013-07-14-mitb-ladder-christian-rvd-punk-bryan-sheamus-orton-wwe.md`](../archive/matches/2013-07-14-mitb-ladder-christian-rvd-punk-bryan-sheamus-orton-wwe.md) (MITB classic, Orton wins, SummerSlam cash-in build)
 
 ### Bloque cierres editoriales con annotations
 
@@ -1660,6 +1660,106 @@ demanda):
 - Bloque WWE 2026 03-04 pre-Mania no-annotation.
 - Bloque AAA + AEW 2026 segmentos.
 - Bloque WWE MITB 2013 mini-cluster.
+
+---
+
+## Update 2026-05-10 — Clusters 6, 7, 8: Cerrando todos los clusters restantes
+
+**Sesión 2026-05-10 cierra los 3 clusters restantes identificados
+en la lista personal** (orden Vehemiurgo: *"Termina todo lo
+Cluster"*):
+
+### Cluster 6 — NXT 2025-2026 Stand & Deliver + call-ups
+
+Dossier consolidando 7 hilos narrativos del periodo nov 2025 →
+abr 2026 cobertura semanal NXT. **100+ entradas, infraestructura
+ya consolidada en sesión** (Robert Stone + Kali Armstrong +
+Charlie Dempsey fact-sheets, NQCC + WrenQCC + Fatal Influence
++ Vanity Project faction files, 13 archivos Batch 1
+annotations, research kali-armstrong cerrado).
+
+- Dossier:
+  [`dossiers/draft-nxt-2025-2026-stand-deliver-callups.md`](../dossiers/draft-nxt-2025-2026-stand-deliver-callups.md).
+- **3 centerpieces nuevos Stand & Deliver 2026**:
+  - Ethan Page vs Ricky Saints vs Joe Hendry vs D'Angelo —
+    WHC fatal 4-way.
+  - Jacy Jayne vs Kendal Grey vs Lola Vice — Women's Title
+    triple threat.
+  - Sol Ruca vs Saria — blow-off traición.
+
+### Cluster 7 — AAA + AEW 2026 cross-promotion
+
+Dossier sobre **ecosistema lucha internacional contemporáneo**
+— AAA bajo working agreement WWE + AEW como brand
+independiente + CMLL Persephone arc. 5 hilos narrativos.
+
+- Dossier:
+  [`dossiers/draft-aaa-aew-2026-cluster.md`](../dossiers/draft-aaa-aew-2026-cluster.md).
+- **3 centerpieces nuevos**:
+  - Hijo del Vikingo vs Dragon Lee — AAA Guerra de Titanes
+    20 dic 2025 (match cumbre lucha mexicana).
+  - Young Bucks vs FTR — AEW Revolution 15 mar 2026 (tag
+    feud histórico, choque filosofías).
+  - Will Ospreay returns — AEW Revolution 15 mar 2026 (pieza
+    diagnóstica Vehemiurgia matiz Cornette-school).
+
+### Cluster 8 — WWE Money in the Bank 2013 mini-cluster
+
+Dossier sobre el periodo 8-14 jul 2013 (Raw + MITB PPV +
+SmackDown). 17 entradas. Wyatt Family debut + MITB classic +
+Christian arc intermedio (fase 3.5 linaje Vehemiurgia).
+
+- Dossier:
+  [`dossiers/draft-wwe-money-in-the-bank-2013-cluster.md`](../dossiers/draft-wwe-money-in-the-bank-2013-cluster.md).
+- **2 centerpieces nuevos**:
+  - MITB ladder Christian/RVD/Punk/Bryan/Sheamus/Orton —
+    WHC contract classic.
+  - Christian vs Kane — Raw 8 jul 2013 (setup directo Wyatt
+    Family debut attack, fase 3.5 linaje).
+
+### Estado final del proyecto post sesión 2026-05-10
+
+**8 clusters identificados en la lista personal — 8 cerrados**:
+
+1. ✓ TNA 2007 Christian Coalition era (commit 608a94c).
+2. ✓ WWE Raw 2004-2005 Christian/Jericho era (commit afd8bd5).
+3. ✓ WWE SmackDown 2002 SmackDown Six saga (commit 521ada5).
+4. ✓ TNA 2025-2026 Kazarian King era (commit 4f396c4).
+5. ✓ WrestleMania 42 cluster (commit dcaa03d).
+6. ✓ NXT 2025-2026 Stand & Deliver + callups (este commit).
+7. ✓ AAA + AEW 2026 cross-promotion (este commit).
+8. ✓ WWE Money in the Bank 2013 mini-cluster (este commit).
+
+**+ 19 entradas no-cluster individuales** (Batch 6 + 7 + 8
+commits dfa260e + da6498b + 85d5a72).
+
+**+ Linajes editoriales completos documentados**:
+- Christian Cage 4 fases (SmackDown 2002 Un-Americans → Raw
+  2004-2005 CLB+Tomko → TNA 2007 Coalition → WWE 2013 Raw
+  fase 3.5 → AEW 2026 Killswitches fase 4).
+- CM Punk 3 fases (IWA Mid-South 2002 → AEW Revolution 2022
+  Dog Collar → WM42 2026 vs Roman).
+- Cody Rhodes 4 fases (NJPW G1 SF 2018 → AEW co-founder →
+  WWE return → WM42 2026 vs Orton).
+
+**Sistema de 3 clases del Vehemiurgo con anchors operativos
+expandidos**:
+- Fighting Spirit Class: 4 anchors canónicos + asignaciones
+  explícitas (Kali vs Skylar Rae).
+- Wrestling Entertainment Class: 1 anchor canónico +
+  asignaciones explícitas (Kazarian "Bear With Me", Blake
+  Monroe Vanity Project alliance).
+- Perfect Wrestling Class: anchors implícitos en clusters.
+
+**Pendientes residuales** (a demanda del Vehemiurgo):
+- Fact-sheets de talents centrales pendientes (Christian Cage,
+  CM Punk, Cody Rhodes, Eddie Guerrero, Rey Mysterio, AJ
+  Styles, Kazarian, etc.).
+- Bret Hart deep cuts restantes (3 entradas).
+- AJ Styles arc indie-a-WWE restantes (6+ entradas).
+- Territorial deep dives restantes (4+ entradas).
+- Tradición lucha-libre restantes (3 entradas).
+- Programación corriente WWE 2026 ene-feb + 03-04 no-cluster.
 
 ---
 
