@@ -406,9 +406,9 @@ mantiene visible qué queda.
 - (✓) **HIJO DEL VIKINGO VS DRAGON LEE AAA Guerra de Titanes 20.12.2025** → [`archive/matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md`](../archive/matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md) (match cumbre lucha mexicana, pre-Vikingo injury arc)
 - DOMINIK MYSTERIO VS HIJO DEL VIKINGO AAA
 - SHAWN MICHAELS VS BRITISH BULLDOG WWF King of the Ring 1996
-- NEGRO CASAS VS ULTIMO DRAGON 1992 WAR
-- GREG VALENTINE VS SALVATORE BELLOMO Capital Center 09.06.1984
-- ARN ANDERSON VS MR WRESTLING 2 Mid-South Wrestling 1983
+- (✓) **NEGRO CASAS VS ULTIMO DRAGON 1992 WAR** → [`archive/matches/1992-negro-casas-vs-ultimo-dragon-war.md`](../archive/matches/1992-negro-casas-vs-ultimo-dragon-war.md) (lucha-libre cross-tradition Japan-Mexico, sec. 8 notebook)
+- (✓) **GREG VALENTINE VS SALVATORE BELLOMO Capital Center 09.06.1984** → [`archive/matches/1984-06-09-greg-valentine-vs-salvatore-bellomo-capital-center.md`](../archive/matches/1984-06-09-greg-valentine-vs-salvatore-bellomo-capital-center.md) (territorial deep dive WWF pre-WrestleMania I, IC Title defense)
+- (✓) **ARN ANDERSON VS MR WRESTLING 2 Mid-South Wrestling 1983** → [`archive/matches/1983-arn-anderson-vs-mr-wrestling-2-mid-south.md`](../archive/matches/1983-arn-anderson-vs-mr-wrestling-2-mid-south.md) (territorial deep dive Mid-South Bill Watts era, pre-Four Horsemen Arn)
 - LASH LEGEND VS CHARLOTTE FLAIR WWE SmackDown 26.12.2025
 - CARMELO HAYES VS ILJA DRAGUNOV WWE SmackDown 26.12.2025
 - NIKKI BELLA VS STEPHANIE VAQUER VS RAQUEL RODRIGUEZ WWE Raw 29.12.2025
@@ -469,7 +469,7 @@ mantiene visible qué queda.
 - CHRIS HERO VS ZACK SABRE JR Limitless Wrestling 2016
 - ROB VAN DAM VS AMAZING RED HOG 23.11.2015
 - (✓) **RANDY SAVAGE VS DDP WCW The Great American Bash 15.06.1997** → [`archive/matches/1997-06-15-randy-savage-vs-ddp-wcw-great-american-bash.md`](../archive/matches/1997-06-15-randy-savage-vs-ddp-wcw-great-american-bash.md) (candidato canónico Wrestling Entertainment Class, Kimberly Page storyline)
-- BRET HART VS OWEN HART WWF 1994 dark Coliseum Video Exclusive No Holds Barred Match
+- (✓) **BRET HART VS OWEN HART WWF 1994 dark Coliseum Video Exclusive No Holds Barred Match** → [`archive/matches/1994-bret-hart-vs-owen-hart-coliseum-video-no-holds-barred.md`](../archive/matches/1994-bret-hart-vs-owen-hart-coliseum-video-no-holds-barred.md) (Bret deep cut sec. 5, Coliseum Video distribution carny canal)
 - BRYAN DANIELSON VS KENTA ROH Glory By Honor
 - (✓) **STEVE AUSTIN VS BRET HART WWF Live Event Germany abr 1996** → [`archive/matches/1996-04-25-steve-austin-vs-bret-hart-wwf-live-event-germany.md`](../archive/matches/1996-04-25-steve-austin-vs-bret-hart-wwf-live-event-germany.md) (candidato canónico Fighting Spirit Class, pre-King of the Ring)
 - THE HARDYS VS THE DUDLEY BOYZ VS EDGE & CHRISTIAN VS JERICHO & BENOIT WWF SmackDown 24.05.2001
@@ -497,7 +497,7 @@ mantiene visible qué queda.
 - (✓) **REY MYSTERIO JR VS ULTIMO DRAGON WAR King Tier 13.12.1996** → [`archive/matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md`](../archive/matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md) (junior heavyweight cross-tradition Tenryu promo)
 - RAZOR RAMON VS OWEN HART WWF Raw 09.01.1995
 - PAUL ORNDORFF VS JIMMY JACKSON 01.04.1984
-- BRET HART VS THE MOUNTIE WWF 26.10.1992
+- (✓) **BRET HART VS THE MOUNTIE WWF 26.10.1992** → [`archive/matches/1992-10-26-bret-hart-vs-the-mountie-wwf.md`](../archive/matches/1992-10-26-bret-hart-vs-the-mountie-wwf.md) (Bret deep cut sec. 5, WWF Title defense early reign)
 - EDDIE GUERRERO VS LA PARKA WCW Thunder 07.01.1999
 - EDDIE GUERRERO VS TERRY FUNK WCW mayo 1989
 - RICKY STEAMBOAT VS DUSTIN RHODES WCW Saturday Night 16.01.1993
@@ -1760,6 +1760,68 @@ expandidos**:
 - Territorial deep dives restantes (4+ entradas).
 - Tradición lucha-libre restantes (3 entradas).
 - Programación corriente WWE 2026 ene-feb + 03-04 no-cluster.
+
+---
+
+## Update 2026-05-10 — Batch 9: Fact-sheets centrales + deep cuts
+
+**6 fact-sheets centrales nuevos** (ejes editoriales del
+proyecto):
+
+1. **Christian Cage** —
+   [`archive/people/christian-cage.md`](../archive/people/christian-cage.md)
+   — **héroe fundamental Vehemiurgia**, 5 fases documentadas
+   con linaje completo (SmackDown 2002 Un-Americans → Raw
+   2004-2005 CLB+Tomko → TNA 2007 Coalition → WWE 2013 fase
+   3.5 → AEW 2026 Killswitches).
+2. **CM Punk** —
+   [`archive/people/cm-punk.md`](../archive/people/cm-punk.md)
+   — 3 fases (IWA Mid-South 2002 → AEW Revolution 2022 →
+   WM42 2026), meta-storyline *"real wrestlers vs play
+   wrestlers"*.
+3. **Cody Rhodes** —
+   [`archive/people/cody-rhodes.md`](../archive/people/cody-rhodes.md)
+   — 4 fases (NJPW G1 SF 2018 → AEW co-founder → WWE return
+   *"finishing the story"* → WM42 2026 vs Orton).
+4. **Eddie Guerrero** —
+   [`archive/people/eddie-guerrero.md`](../archive/people/eddie-guerrero.md)
+   — cluster SmackDown 2002 + WMXX 2004 coronation cumbre +
+   †2005.
+5. **Rey Mysterio** —
+   [`archive/people/rey-mysterio.md`](../archive/people/rey-mysterio.md)
+   — traductor lucha-libre WWE mainstream + cluster SmackDown
+   2002 + cluster AAA-AEW 2026 + Dominik padre.
+6. **AJ Styles** —
+   [`archive/people/aj-styles.md`](../archive/people/aj-styles.md)
+   — arc indie-a-WWE completo sec. 9 notebook.
+7. **Frankie Kazarian** —
+   [`archive/people/frankie-kazarian.md`](../archive/people/frankie-kazarian.md)
+   — King reign anchor TNA 2025-2026 cluster.
+
+**5 deep cuts nuevos**:
+
+1. **Bret Hart vs The Mountie WWF 26.10.1992** — Bret deep
+   cut sec. 5, WWF Title defense early reign.
+2. **Bret vs Owen WWF 1994 Coliseum Video Exclusive No Holds
+   Barred** — Bret deep cut, canal distribution carny
+   pre-internet era.
+3. **Arn Anderson vs Mr. Wrestling 2 Mid-South 1983** —
+   territorial deep dive Bill Watts era.
+4. **Greg Valentine vs Salvatore Bellomo Capital Center
+   09.06.1984** — territorial WWF pre-WrestleMania I expansion.
+5. **Negro Casas vs Ultimo Dragon WAR 1992** — lucha-libre
+   cross-tradition Japan-Mexico sec. 8.
+
+**Estado fact-sheets people sesión 2026-05-10**:
+- **30+ fact-sheets people** activos en
+  `archive/people/`.
+- **Ejes editoriales centrales documentados completos** —
+  Christian Cage (eje editorial #1 del proyecto) + CM Punk +
+  Cody Rhodes + Eddie Guerrero + Rey Mysterio + AJ Styles +
+  Kazarian.
+- **Linajes editoriales verificables completos** sostenidos
+  por fact-sheets centrales con cross-links a clusters +
+  centerpieces + segmentos.
 
 ---
 
