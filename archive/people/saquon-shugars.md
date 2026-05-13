@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: saquon-shugars
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-05-10
 fuentes_principales:
   - "Wikipedia — Saquon Shugars"
   - "Cobertura WWE NXT 2025-2026"
@@ -57,6 +57,36 @@ fuentes_principales:
   al público en esa plataforma.
 
 ## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-05-10 — *"Brillante, a otro nivel"* en NXT Revenge Week 1
+
+**Contexto**: segment compartido con Miles Borne + Dark State,
+NXT Revenge Week 1 14 abr 2026. Detalle en
+[`../segments/2026-04-14-saquon-shugars-brillante-miles-dark-state-nxt-revenge-week-1.md`](../segments/2026-04-14-saquon-shugars-brillante-miles-dark-state-nxt-revenge-week-1.md).
+
+**Cita verbatim**:
+
+> "Saquoan Suggars [sic — canónica Saquon Shugars] en NXT
+> 2026 04 14 estuvo brillante, realmente a otro nivel por
+> encima de miles y Darkstate, fue lo mejor de ese segmento,
+> realmente quiero ver más de él."
+
+**Lectura sintética**:
+
+- **"Brillante"** + **"a otro nivel"** + **"lo mejor de ese
+  segmento"** = consolidación status Saquon como **talent
+  ace emergente NXT 2026**.
+- **"Por encima de Miles y Dark State"** — Saquon outperforming
+  dos referencias del periodo (Miles Borne cross-faction +
+  Dark State su propio stable). **Pieza editorial sobre talent
+  individual que supera el contexto factional**.
+- **"Quiero ver más de él"** = **prioridad de tracking
+  Vehemiurgia** futura. Match Saquon próximo merece apertura
+  individual.
+- **Segundo take Vehemiurgia consecutivo sobre Saquon en 7
+  días** (7 abr 2026 8-man tag + 14 abr 2026 segment).
+  Consolida la trayectoria ascendente acelerada identificada
+  notebook 2026-05-09.
 
 ### Sesión 2026-05-09 — Proyecto Dark State con gimmick de oficio
 
