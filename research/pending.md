@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
 |---|---|---|---|---|---|
-| `kira-cmll-trayectoria-rivalidades-2026` | en-curso | 2026-05-10 | Kira (CMLL women's): nombre real + origen + background pre-CMLL + championships/reigns + **rivalidades icónicas** (3-5 con detalle storyline) + matches signature (Súper Luchas + Box y Lucha + MasKedReplays + Cagematch) + cross-promotion (Stardom? AEW? AAA?) + status contractual + material redes sociales. | Vehemiurgo, 2026-05-10 take editorial Kira vs Persephone Arena Tony Arellano 21 ene 2025 — request explícito *"quiero saber más de ella y sus rivalidades icónicas para seguirla"*. | [`archive/people/kira.md`](../archive/people/kira.md) (principal). Cross-links a [`matches/2025-01-21-kira-vs-persephone-arena-tony-arellano.md`](../archive/matches/2025-01-21-kira-vs-persephone-arena-tony-arellano.md). Si material justifica, columna editorial *"Kira: la heredera natural del CMLL women's local hero post-Catalina"*. |
+| _(vacío)_ | | | | | |
 
 ## En cola (declaradas, no lanzadas)
 

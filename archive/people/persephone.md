@@ -56,12 +56,17 @@ tags: [persephone, cmll-talent, aew-cross-promotion, mercedes-mone-feud-cmll, in
     vs Mone (Mercedes Moné)** — peak feud internacional.
   - 11.03.2026 AEW Dynamite: Persephone vs Willow.
 - **Cluster Vehemiurgia centerpiece**:
-  - **Kira vs Persephone Arena Tony Arellano 21 ene 2025** —
+  - **Kira vs Persephone Arena Coliseo Tony Arellano (Torreón)
+    21 sept 2025** *(corrección de fecha 2026-05-10 por
+    sub-agente — original Vehemiurgo dictó 21-ene-2025,
+    mainstream documentada 21-sept-2025)* —
     **PRIMER MATCH TRIPLE-CLASE OPERATIVA** del proyecto
     Vehemiurgia. *"Una de mis luchas favoritas de toda la
-    vida"* (Vehemiurgo).
+    vida"* (Vehemiurgo). **Persephone pierde en plaza local
+    Kira (Torreón)** — local hero clava al heel internacional
+    en casa. Pieza editorial carny puro del territorial moderno.
     Pieza editorial anchor obligatoria
-    ([`../matches/2025-01-21-kira-vs-persephone-arena-tony-arellano.md`](../matches/2025-01-21-kira-vs-persephone-arena-tony-arellano.md)).
+    ([`../matches/2025-09-21-kira-vs-persephone-arena-coliseo-tony-arellano-torreon.md`](../matches/2025-09-21-kira-vs-persephone-arena-coliseo-tony-arellano-torreon.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -115,7 +120,7 @@ tags: [persephone, cmll-talent, aew-cross-promotion, mercedes-mone-feud-cmll, in
 ## Piezas del Vehemiurgo donde aparece
 
 ### Match centerpiece anchor
-- [`../matches/2025-01-21-kira-vs-persephone-arena-tony-arellano.md`](../matches/2025-01-21-kira-vs-persephone-arena-tony-arellano.md)
+- [`../matches/2025-09-21-kira-vs-persephone-arena-coliseo-tony-arellano-torreon.md`](../matches/2025-09-21-kira-vs-persephone-arena-coliseo-tony-arellano-torreon.md)
   — **PRIMER MATCH TRIPLE-CLASE OPERATIVA** del proyecto.
 
 ### Notebook references (cluster AAA + AEW 2026)
