@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
 |---|---|---|---|---|---|
-| `hazuki-fuera-de-stardom-2026` | en-curso | 2026-05-10 | Mapear todas las luchas de **Hazuki** (Stardom pillar contemporary) **fuera de Stardom** — Marvelous, Sendai Girls, Pro Wrestling Wave, TJPW, OZ Academy, Pure-J, Diana, SEAdLINNNG, DDT, BJW, AEW (Forbidden Door, Wrestle Dream), NJPW, indies USA, indies Japan + CMLL Mexico tour 2026 post-partnership. Identificación completa (probable nombre real Eri Hatakeyama), retiro brief 2019-2020 context + razón documentada, tag con Koguma signature stable / faction, championships completos. | Request directo Vehemiurgo 2026-05-10 *"me gustaría saber más de sus luchas fuera de stardom, Hazuki is god"* — declaración categórica máxima Vehemiurgia. | [`archive/people/hazuki.md`](../archive/people/hazuki.md) (sección Trayectoria + Luchas fuera Stardom expandida) + posibles match-files individuales por fecha signature + pieza editorial al horno *"Hazuki is god — héroes fundamentales Vehemiurgia: Christian + CM Punk + Cody + Hayabusa + Hazuki"*. |
+| _(vacío)_ | | | | | |
 
 ## En cola (declaradas, no lanzadas)
 
