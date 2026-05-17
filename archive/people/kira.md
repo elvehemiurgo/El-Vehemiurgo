@@ -167,18 +167,84 @@ Detalle completo: [`./keyra.md`](./keyra.md).
   Skadi & Kira derrotan a Metálica & Candela.
 - **20 feb 2026 Arena México**: tag — Dark Silueta, Olympia y
   Persephone vs Akari, **Kira** y La Catalina.
-- **28 feb 2026 Stardom debut**: equipo con India Sioux y
-  Tabata vs Ami Sourei, Lady C, Ranna Yagami. Entrevista
-  on-record Fightful: *"Kira On STARDOM Debut: I Had A Lot Of
-  Weight On My Shoulders"*. Encaja en partnership oficial
-  CMLL-STARDOM anunciado oct 2025. **Fighting Spirit Class
-  asignada explícitamente** por el Vehemiurgo
+- **28 feb 2026 Stardom debut Korakuen**: equipo con India
+  Sioux y Tabata vs **God's Eye (Ami Sourei + Lady C + Ranna
+  Yagami)**. **10:36, Kira's team WIN** (gaijin/outsider booking
+  típico). Entrevista on-record Fightful: *"Kira On STARDOM
+  Debut: I Had A Lot Of Weight On My Shoulders"* + *"Kira On
+  Being Grateful For Rocky Romero: He Opens Doors For Us"* +
+  *"Kira Declares That She Wants To Face IYO SKY"*. **Fighting
+  Spirit Class asignada explícitamente** por el Vehemiurgo
   (*"de verdad es fighting spirit, se merece la clase"*).
   Detalle:
   [`../matches/2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md`](../matches/2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md).
-- **6 mar 2026 La Noche de las Amazonas**: Defensa #5 anunciada
-  Skadi & Kira vs Metálica & Candela (fecha 2 años aniversario
-  reinado).
+- **6 mar 2026 La Noche de las Amazonas**: Defensa Skadi & Kira
+  vs Metálica & Candela retienen Nacional Femenil de Parejas
+  (regreso CMLL México 6 días post-debut Stardom).
+- **8 may 2026 Viernes Espectacular Arena México**: six-man
+  tag 2/3 falls — **Kira + La Jarochita + Tessa Blanchard
+  derrotan a Keyra + Reyna Isis + Zeuxis 2-0**. **Primer match
+  documentado Kira vs Keyra** (cluster post debut Keyra CMLL
+  6 mar 2026). Cross-link [`./keyra.md`](./keyra.md).
+- **15 may 2026 Viernes Espectacular**: Skadi & Kira vs
+  Zeuxis & Keyra programadas.
+
+## Japan tour 2026 — research closed
+
+**Sub-agente `kira-japan-tour-2026-completo` cerrado
+2026-05-10**. Veredicto crítico:
+
+- **UNA SOLA FECHA Kira en Japón**: el debut Stardom 28 feb
+  2026 Korakuen. **NO fue tour, fue one-shot showcase**. El
+  "tour de ensueño" del Vehemiurgo **queda pendiente sin
+  anuncio**.
+- **NO apareció en otras empresas japonesas** (Marvelous,
+  Sendai Girls, TJPW, Pro Wrestling Wave, Pure-J, OZ Academy,
+  Diana, SEAdLINNNG, DDT, Big Japan, NJPW). Cero apariciones
+  pre-partnership oct 2025 también.
+- **Status mayo 2026**: activa CMLL Arena México. **No en
+  card Stardom Cinderella Tournament 2026 ni Golden Week Tour
+  ni All Star Grand Queendom ni Queens Dynasty mayo 2026**.
+- **Dream match calls Kira en Fightful**: **IYO SKY** (WWE),
+  **Starlight Kid** (Stardom), **Stephanie Vaquer** (WWE — ya
+  cruzó pre-WWE 22 jun 2024 CMLL Sábados Arena Coliseo tag con
+  Tessa Blanchard + Skadi).
+- **Rocky Romero como liaison NJPW/CMLL/STARDOM** identificado
+  por Kira on-record — pieza editorial cornette-school: *el
+  booker behind-the-scenes vale más que el showrunner*.
+
+### Crítica editorial vehemiurgia post-research
+
+**Pieza editorial al horno declarada**: *"El partnership
+CMLL-STARDOM women's a 7 meses del anuncio — inbound
+funcional, outbound parado"*. Mientras **Hazuki y Koguma
+viajaron a México inbound** (Cinderella + Grand Queendom +
+Noche de las Amazonas + 23 abr Korakuen four-way tag), del
+lado **CMLL women's outbound solo Kira tuvo una fecha**.
+India Sioux y Tabata sí siguieron (Cinderella + CMLL Japan
+Women's Title para Sioux) pero **ninguna es del nicho CMLL
+women's roster tradicional**. El partnership está
+**subutilizado del lado mexicano outbound**.
+
+## FLAG DESAMBIGUACIÓN — Kira ≠ Kira Summer (TJPW)
+
+**ALERT IDENTITARIO crítico** identificado por sub-agente
+Japan tour:
+
+**"Kira Summer" (キラ・サマー)** existe en **Tokyo Joshi Pro
+Wrestling (TJPW)** — **NO es la Kira CMLL**:
+- **Kira Summer**: australiana, nacida 18 dic 1996, primera
+  foreigner contratada por TJPW, ex-animadora. Handle:
+  @kira_tjpw.
+- **Kira (CMLL)**: mexicana, nacida 30 jul 2003 (22 años),
+  Torreón Coahuila, hija Gran Jefe III. Handle:
+  @kira_luchadora.
+
+**Paralelo al flag anterior Keyra ≠ Kira**. Pieza editorial:
+*"Tres talents con nombre Kira en wrestling moderno: Kira CMLL
+(joven Torreón), Keyra CMLL (Reina del Strong Style ex-AAA),
+Kira Summer TJPW (australiana). Disciplina identitaria carny
+es prioridad editorial."*
 
 ### Status championships
 

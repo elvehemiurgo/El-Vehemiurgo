@@ -1,10 +1,10 @@
 ---
-match: "Ami Sourei, Lady C & Ranna Yagami vs India Sioux, Tabata & Kira"
+match: "God's Eye (Ami Sourei, Lady C & Ranna Yagami) vs India Sioux, Tabata & Kira"
 slug: "kira-stardom-debut-six-woman-tag-2026-02-28"
 participantes:
-  - "Ami Sourei (Stardom)"
-  - "Lady C (Stardom)"
-  - "Ranna Yagami (Stardom)"
+  - "Ami Sourei (Stardom — God's Eye)"
+  - "Lady C (Stardom — God's Eye)"
+  - "Ranna Yagami (Stardom — God's Eye)"
   - "India Sioux (outsider / gaijin team)"
   - "Tabata (outsider / gaijin team)"
   - "Kira (CMLL — debut Stardom)"
@@ -13,11 +13,11 @@ programa: "Stardom in KORAKUEN"
 fecha: 2026-02-28
 ciudad: "Tokyo, Japón"
 recinto: "Korakuen Hall"
-tipo_match: "six-woman tag — Kira's Stardom debut (gaijin/outsider booking)"
+tipo_match: "six-woman tag — Kira's Stardom debut (gaijin/outsider booking — Stardom faction God's Eye vs outsider team)"
 estipulacion: "Standard six-woman tag"
-duracion: ""
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "10:36"
+finish: "[verif — quién toma el pin pendiente]"
+ganador: "Kira's team (India Sioux + Tabata + Kira) — gaijin/outsider team WIN"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -99,7 +99,7 @@ cross + Stephanie Vaquer pre-WWE) **activan el ecosistema
 cross-promotion 2025-2026** identificado en cluster AAA + AEW
 2026.
 
-### Request implícito Vehemiurgia: tour completo Kira Japón
+### Request explícito Vehemiurgia: tour completo Kira Japón — RESEARCH CERRADO
 
 Verbatim:
 > *"Me queda pendiente ver todas las fechas de Kira en Japón,
@@ -107,10 +107,40 @@ Verbatim:
 > japón, pero es perfecto un tour de Kira en Japón, de ensueño
 > simplemente."*
 
-**Sub-agente research delegado lanzado en background**
-`kira-japan-tour-2026-completo` — mapear todas las fechas
-Kira en Japón (Stardom + otras empresas si aplica) +
-identificar si hubo apariciones pre-partnership oct 2025.
+**Sub-agente `kira-japan-tour-2026-completo` cerrado
+2026-05-10 — VEREDICTO**:
+
+- **UNA SOLA FECHA** Kira en Japón: el debut 28 feb 2026
+  Korakuen *(este match)*. **NO fue tour, fue one-shot
+  showcase**.
+- **NO apareció en otras empresas japonesas** (Marvelous,
+  Sendai Girls, TJPW, Pro Wrestling Wave, Pure-J, OZ
+  Academy, Diana, SEAdLINNNG, DDT, Big Japan, NJPW). **Cero
+  apariciones pre-partnership oct 2025 también**.
+- **Post-debut regresó a México inmediatamente** — 6 mar 2026
+  defiende Nacional Femenil de Parejas vs Metálica & Candela
+  en La Noche de las Amazonas Arena México.
+- **Status mayo 2026**: activa CMLL Arena México (8 may + 15
+  may 2026 cards confirmadas).
+- **"Tour de ensueño" queda pendiente sin anuncio**.
+
+**FLAG IMPORTANTE — desambiguación**: existe **"Kira Summer"**
+(キラ・サマー) en TJPW — **australiana, nacida 18 dic 1996,
+primera foreigner contratada por TJPW, ex-animadora**. **NO
+confundir con Kira CMLL** (paralelo al flag previo Keyra ≠
+Kira).
+
+**Pieza editorial al horno declarada por el sub-agente**:
+*"El partnership CMLL-STARDOM women's a 7 meses del anuncio —
+inbound funcional, outbound parado"*. **Crítica editorial
+vehemiurgia**: mientras **Hazuki y Koguma viajaron a México
+inbound** (Cinderella + Grand Queendom + Noche de las
+Amazonas + 23 abr Korakuen four-way tag), del lado **CMLL
+women's outbound solo Kira tuvo una fecha**. India Sioux y
+Tabata sí siguieron (Cinderella + CMLL Japan Women's Title
+para Sioux) pero **ninguna es del nicho CMLL women's roster
+tradicional**. El partnership está **subutilizado del lado
+mexicano outbound**.
 
 ### *"Más Tabata, más India y obvio más Kira"*
 
@@ -144,17 +174,23 @@ Lady C (towering character) + Ranna Yagami.
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración exactos.
-- [ ] **Star rating WON Meltzer / Voices of Wrestling
-      Stardom Watch Guide feb 2026** (contexto, no veredicto).
-- [ ] **Identidad exacta "Tabata"** — verificar (probable
-      gaijin tag partner — Mei Suruga? Tabby Daddy? otra).
-- [ ] **Identidad "India Sioux"** — verificar background.
-- [ ] **Sub-agente research delegado `kira-japan-tour-2026-
-      completo`** (lanzado background) — mapear todas las
-      fechas Kira Japón + empresas paralelas si aplica.
-- [ ] Cobertura *Fightful* + *Voices of Wrestling Stardom
-      Watch Guide* + *Monthly Puroresu* del show.
+- [x] ~~Duración~~ **CONFIRMADO 10:36**.
+- [x] ~~Ganador~~ **CONFIRMADO Kira's team WIN (gaijin/outsider
+      team)**.
+- [ ] **Pin/finish exacto + quién toma el fall** — pendiente
+      visionado directo (cagematch 403). Rating cagematch
+      7.82/65 votos.
+- [ ] **Star rating WON Meltzer** — no localizado en research.
+- [ ] **Identidad "Tabata"** — confirmada como roster Stardom
+      2026 (no gaijin one-shot — participó en Cinderella Round 1
+      eliminada vs Natsupoi 6 mar 2026). Pendiente fact-sheet.
+- [ ] **Identidad "India Sioux"** — confirmada como roster
+      contemporary, **ganó CMLL Japan Women's Title** vs Hazuki
+      (155 días reign). Pendiente fact-sheet.
+- [x] ~~Sub-agente `kira-japan-tour-2026-completo`~~ **CERRADO
+      2026-05-10** — research integrado.
+- [ ] Pantoja STARDOM in Korakuen 2.28.26 review 411mania
+      (403 WebFetch).
 
 ## Piezas relacionadas
 
