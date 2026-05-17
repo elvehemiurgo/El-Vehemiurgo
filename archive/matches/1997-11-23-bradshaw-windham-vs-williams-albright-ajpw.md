@@ -82,7 +82,23 @@ Spirit Class* del notebook como candidato canónico**.)
 
 ## Piezas relacionadas
 
+### Cross-link directo MISMO CARD — hallazgo editorial 2026-05-10
+
+- [`./1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](./1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md)
+  — **MISMO show RWTL '97 Day 7 Miyagi Sports Center Sendai**
+  (confirmado por sub-agente
+  `ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue-fecha-2026`).
+  **Doble anchor Vehemiurgia mismo edificio mismo noche**. Match
+  anchor triple-clase del Vehemiurgo +
+  **Stan Hansen luchó también esa noche** (six-man con Baba +
+  Duncum Jr. vs Kimala/Izumida/Honda) — los **tres talents del
+  linaje Lariat top-tier (Hansen + Bradshaw + Kawada) en el
+  mismo show**. Pieza editorial al horno: *"23 nov 1997 Miyagi
+  Sports Center: la noche signature del Stan Hansen lariat
+  lineage AJPW"*.
+
+### Doctrinas
 - [`../../glossary/clases-vehemiurgo.md`](../../glossary/clases-vehemiurgo.md)
-  — doctrina de clases, candidato canónico.
+  — doctrina de clases, candidato canónico Fighting Spirit Class.
 - (Pendiente Steve Williams + Gary Albright + Bradshaw + Barry
   Windham fact-sheets.)

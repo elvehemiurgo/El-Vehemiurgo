@@ -51,8 +51,23 @@ tags: [cmll-2025, arena-coliseo-tony-arellano, torreon-coahuila, kira, persephon
 > Página oficial Arena Coliseo Tony Arellano + YouTube
 > *"Persephone vs. Kira | Arena Tony Arellano 9/21/25"* +
 > Cageside Seats CMLL Roundup oct 2025). **Slug + filename
-> corregidos**. Posible match menor en enero, pero el
-> documentado editorialmente como signature es **septiembre**.
+> corregidos**.
+>
+> **VERIFICACIÓN IDENTIDAD KIRA vs KEYRA — sub-agente
+> `keyra-vs-kira-cmll-verificacion-2026` (cerrado 2026-05-10)**:
+> el match es **100% Kira (joven, hija Gran Jefe III, ex-
+> Andrómeda)** — confirmado por (a) plaza Torreón = ciudad
+> natal Kira, (b) **bloqueo cronológico**: Keyra debutó en
+> CMLL recién el **6 mar 2026**, en sept 2025 todavía era
+> Reina de Reinas AAA. **PERO**: parte del retrato editorial
+> del take Vehemiurgo (cluster *"hardcore + rudas y duras +
+> strikes old-school"*) contaminó atributos de **Keyra (La
+> Reina del Strong Style)** con Kira. Detalle en
+> [`../people/keyra.md`](../people/keyra.md). El match + booking
+> forecast Vehemiurgia (Kira heredera local hero CMLL
+> post-Catalina) + springboards/aerial/Stardom debut son
+> verificables a Kira; cross-contaminación menor pero
+> documentada.
 
 ## Significancia editorial
 

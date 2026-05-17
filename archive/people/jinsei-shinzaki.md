@@ -47,7 +47,7 @@ tags: [jinsei-shinzaki, hakushi-wwf-1995, fmw-pillar, michinoku-pro-wrestling, h
 - **Match anchor Vehemiurgia**:
   Hayabusa & Jinsei Shinzaki vs Kawada & Taue cross-promotion
   AJPW
-  ([`../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md`](../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md))
+  ([`../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md))
   — **SEGUNDO ANCHOR triple-clase operativa**.
 - **Post-FMW collapse 2002**: Michinoku Pro + indies +
   ocasional NOAH/AJPW.
@@ -76,7 +76,7 @@ tags: [jinsei-shinzaki, hakushi-wwf-1995, fmw-pillar, michinoku-pro-wrestling, h
 
 ## Piezas relacionadas
 
-- [`../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md`](../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md)
+- [`../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md)
   — anchor triple-clase.
 - [`./hayabusa.md`](./hayabusa.md) — tag partner signature.
 - [`./toshiaki-kawada.md`](./toshiaki-kawada.md),

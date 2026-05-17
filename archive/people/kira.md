@@ -49,13 +49,45 @@ tags: [kira, andromeda-ex, estrellita-lagunera-indie, cmll-talent, lucha-mexican
   cross-promotion + Campeona Nacional Femenil de Parejas vigente
   con Skadi.
 
+## CAVEAT EDITORIAL CRÍTICO — cross-contaminación con Keyra
+
+**Sub-agente `keyra-vs-kira-cmll-verificacion-2026` (cerrado
+2026-05-10) confirmó**: el match Arena Coliseo Tony Arellano
+21 sept 2025 es **100% Kira (esta talent — hija Gran Jefe III,
+joven 22 años)** — verificación doble por (a) plaza Torreón =
+ciudad natal Kira, (b) bloqueo cronológico: **Keyra debutó
+en CMLL el 6 mar 2026**, en sept 2025 todavía era talent AAA.
+
+**PERO**: parte del retrato editorial del Vehemiurgo
+contaminó atributos de **Keyra** (*"La Reina del Strong Style"*,
+formada en DTU 2009, hardcore brawler) con Kira:
+
+| Atributo Vehemiurgo | ¿Aplica a Kira? |
+|---|---|
+| *"Hardcore + rudas y duras + strikes old-school"* | **NO — son firma Keyra** (cross-contaminación) |
+| *"Mejores springboards de la escena actual"* | **SÍ confirmado** (450 splash signature Kira) |
+| *"Talentaso + cool + pulido"* | SÍ |
+| *"Main local hero CMLL post-Catalina"* | **SÍ confirmed** |
+| *"Amaría verla en TV en América"* | **SÍ** (Stardom debut feb 2026) |
+| *"Crecí viendo su trabajo"* | parcial (indies laguneros 2011+) |
+
+**No invalida el take editorial** — el match es Kira + el booking
+forecast (heredera local hero CMLL post-Catalina) es correcto +
+los springboards/aerial/Stardom debut son atributos verificables
+de Kira. La **cross-contaminación de atributos hardcore/strong-
+style con Keyra** es **menor** pero documentada.
+
+Detalle completo: [`./keyra.md`](./keyra.md).
+
 ## Características editoriales identificadas por el Vehemiurgo
 
-### Estilo in-ring (verbatim Vehemiurgo)
+### Estilo in-ring (verbatim Vehemiurgo — con caveat sub-agente)
 
 - **"Hardcore, ruda, dura"** — *"de las más rudas y duras que
-  he visto"*. Trabaja como **técnica actualmente en CMLL** pero
-  el carácter ruda persiste.
+  he visto"*. **CAVEAT**: estos atributos **aplican mejor a
+  Keyra (Reina del Strong Style, DTU hardcore formación 2009)**
+  que a Kira (aerial daredevil con 450 splash + springboards).
+  Posible cross-contaminación editorial del Vehemiurgo.
 - **"Mejores springboards de la escena actual"** — declaración
   categórica Vehemiurgo. **450 splash** como finisher signature
   en indies (poco visto en women's lucha mexicana). Springboards

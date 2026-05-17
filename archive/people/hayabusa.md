@@ -48,7 +48,7 @@ tags: [hayabusa, eiji-ezaki, fmw-pillar-tecnico, high-flying-experimentación, l
 - **Cross-promotion AJPW tours 1997-1999**: matches signature
   vs Four Pillars. **Match anchor Vehemiurgia**:
   Hayabusa & Jinsei Shinzaki vs Kawada & Taue
-  ([`../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md`](../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md)).
+  ([`../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md)).
 - **2000-2001 FMW peak final** — múltiples títulos FMW + tour
   internacionales + ECW one-off (vs Jerry Lynn September 2000).
 
@@ -123,7 +123,7 @@ Bailey, etc.) hace **es heredero técnico de Hayabusa pero
 
 ## Piezas relacionadas
 
-- [`../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md`](../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md)
+- [`../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md)
   — **SEGUNDO ANCHOR triple-clase operativa** del proyecto.
 - [`./jinsei-shinzaki.md`](./jinsei-shinzaki.md) — tag partner
   signature FMW.

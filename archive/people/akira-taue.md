@@ -45,7 +45,7 @@ fuentes_principales:
 - **Match anchor Vehemiurgia**:
   Hayabusa & Jinsei Shinzaki vs Kawada & Taue cross-promotion
   FMW
-  ([`../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md`](../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md))
+  ([`../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md))
   — **SEGUNDO ANCHOR triple-clase operativa**.
 - **NOAH founding 2000** — sale con Misawa + Kobashi + others
   post-AJPW split. Eventually pillar NOAH.
@@ -70,7 +70,7 @@ fuentes_principales:
 
 ## Piezas relacionadas
 
-- [`../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md`](../matches/ajpw-fmw-hayabusa-shinzaki-vs-kawada-taue.md)
+- [`../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md)
   — anchor triple-clase.
 - [`./toshiaki-kawada.md`](./toshiaki-kawada.md) — Holy Demon
   Army tag partner.
