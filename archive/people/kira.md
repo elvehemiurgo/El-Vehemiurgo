@@ -171,7 +171,11 @@ Detalle completo: [`./keyra.md`](./keyra.md).
   Tabata vs Ami Sourei, Lady C, Ranna Yagami. Entrevista
   on-record Fightful: *"Kira On STARDOM Debut: I Had A Lot Of
   Weight On My Shoulders"*. Encaja en partnership oficial
-  CMLL-STARDOM anunciado oct 2025.
+  CMLL-STARDOM anunciado oct 2025. **Fighting Spirit Class
+  asignada explícitamente** por el Vehemiurgo
+  (*"de verdad es fighting spirit, se merece la clase"*).
+  Detalle:
+  [`../matches/2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md`](../matches/2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md).
 - **6 mar 2026 La Noche de las Amazonas**: Defensa #5 anunciada
   Skadi & Kira vs Metálica & Candela (fecha 2 años aniversario
   reinado).

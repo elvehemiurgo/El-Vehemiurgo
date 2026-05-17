@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
 |---|---|---|---|---|---|
-| _(vacío)_ | | | | | |
+| `kira-japan-tour-2026-completo` | en-curso | 2026-05-10 | Mapear todas las fechas Kira en Japón post-debut Stardom 28 feb 2026 + identificar si hubo otras empresas japonesas además de Stardom (Marvelous, Sendai Girls, TJPW, Pro Wrestling Wave, etc.) + apariciones pre-partnership oct 2025 si las hubo + cobertura editorial Stardom Watch Guide / Monthly Puroresu / Fightful + status tour mayo 2026 (sigue activa o regresó CMLL). | Request directo Vehemiurgo 2026-05-10 *"me queda pendiente ver todas las fechas de Kira en japón, no sé si estuvo en otras empresas además de stardom en japón"*. | [`archive/people/kira.md`](../archive/people/kira.md) (sección Stardom + Japan tour expandida) + posibles match-files individuales por fecha + posible columna editorial *"Kira tour Japón 2026 — partnership CMLL-STARDOM activado"*. |
 
 ## En cola (declaradas, no lanzadas)
 
