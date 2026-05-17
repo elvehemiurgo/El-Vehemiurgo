@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
 |---|---|---|---|---|---|
-| `takumi-iroha-tag-matches-2026-lista-pendiente-ver` | en-curso | 2026-05-10 | Mapear **TODAS las tag team matches Takumi Iroha durante 2026** — Marvelous home + cross-promotion (Stardom, Sendai Girls, WAVE, Pure-J, OZ Academy, Spark Joshi USA, AEW Owen Cup, etc.). Output formato lista cronológica accesible (fecha + show + recinto + tag partner + opponents + finish + title). Identificar tag teams signature 2026 + championships tag + tournaments tag participados. | Request directo Vehemiurgo 2026-05-10 *"Quiero una lista de todas las tag team matches que tuvo Takumi en 2026 y tenerla como pendiente de ver"*. | [`archive/people/takumi-iroha.md`](../archive/people/takumi-iroha.md) — sección nueva *"Tag matches 2026 — lista pendiente de visionado Vehemiurgo"* + posible match-files individuales cuando el Vehemiurgo dispare visionado específico. |
+| _(vacío)_ | | | | | |
 
 ## En cola (declaradas, no lanzadas)
 
