@@ -212,11 +212,17 @@ tags: [kira, andromeda-ex, estrellita-lagunera-indie, cmll-talent, lucha-mexican
   Catalina* no es porque hayan feudeado, sino porque **ocupan
   el mismo nicho técnico/local hero y comparten ring como
   aliadas**.
-- **Status real La Catalina**: el Vehemiurgo afirma "salida",
+- **Status real La Catalina**: ~~el Vehemiurgo afirma "salida",
   research no confirma. Catalina aparece en cards hasta
   20-feb-2026 al menos. **Posible release post-fecha, posible
   status sporadic, posible rumor backstage no confirmado**.
-  Pendiente verificación dirt sheet primario.
+  Pendiente verificación dirt sheet primario.~~
+  **CONFIRMADO 2026-05-10 (Vehemiurgo verbatim directo)**:
+  *"La Catalina ya firmó con WWE y AAA"*. Pendiente del
+  sub-agente cerrado. Doctrina booking forecast Vehemiurgia
+  confirmada — espacio main local hero CMLL women's
+  efectivamente abierto post-Catalina outflow. Detalle en
+  [`./la-catalina.md`](./la-catalina.md).
 
 ## Cross-promotion
 

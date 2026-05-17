@@ -124,16 +124,15 @@ Verbatim Vehemiurgo:
   cobertura viral previa.
 - **Propuesta editorial Kira como next CMLL local hero**:
   
-  **Caveat del research**: el *"salida de La Catalina"*
-  citada por el Vehemiurgo **no está confirmada en cobertura
-  mainstream consultada**. Catalina aparece en cards CMLL
-  hasta el **20-feb-2026 al menos**. Posible release
-  post-fecha, posible status sporadic, posible rumor backstage
-  no confirmado. **Pendiente verificación dirt sheet
-  primario**. La doctrina del booking forecast del
-  Vehemiurgo sigue siendo válida — Kira como heredera local
-  hero post-Persephone outflow internacional es **lectura
-  legítima** independiente del status real de Catalina.
+  **Caveat del research → CERRADO 2026-05-10**: el *"salida
+  de La Catalina"* citada por el Vehemiurgo originalmente no
+  estaba confirmada en cobertura mainstream consultada por
+  el sub-agente. **Vehemiurgo confirmó directamente 2026-05-10
+  post-research**: *"La Catalina ya firmó con WWE y AAA"*.
+  Doctrina booking forecast Vehemiurgia **plenamente
+  confirmada** — Kira como heredera local hero CMLL women's
+  post-Catalina outflow + Persephone internacionalización. Ver
+  [`../people/la-catalina.md`](../people/la-catalina.md).
 
 ### Persephone como heel internacionalizándose
 
