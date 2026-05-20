@@ -238,9 +238,19 @@ lanzado background mapeando.
 
 ### Cluster linaje técnico Wigan
 - [`./charlie-dempsey.md`](./charlie-dempsey.md) — ring name
-  Snake Pit Wigan reference.
-- (Pendientes fact-sheets: Mark Rocco + Tommy Billington +
-  Chris Benoit cluster.)
+  referencia **Jack Dempsey (Tommy Moore) del Snake Pit Wigan
+  original entrenado por Billy Riley** (alumno directo
+  confirmed sub-agente 2026-05-10).
+- [`./mark-rocco.md`](./mark-rocco.md) — rival signature 80s
+  + **puente Wigan-Japan vía Black Tiger NJPW 1981-1990**.
+- [`./tommy-billington.md`](./tommy-billington.md) — **sobrino
+  Dynamite**, AEW/ROH 2024+ continuando legado (entrenado
+  Marty Jones + Davey Boy Smith Jr + Bret Hart).
+- [`../topics/mountevans-rounds-rules.md`](../topics/mountevans-rounds-rules.md)
+  — **doctrina técnica codificada 1947** del cluster British
+  wrestling.
+- (Pendientes fact-sheets: Marty Jones + Johnny Saint + Jim
+  Breaks + Chris Benoit cluster.)
 
 ### Cluster héroes fundamentales Vehemiurgia
 - [`./christian-cage.md`](./christian-cage.md) — #1.
