@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
 |---|---|---|---|---|---|
-| _(vacío)_ | | | | | |
+| `terry-funk-vs-stan-hansen-ajpw-1982-research-2026` | `en-curso` | 2026-05-22 | Terry Funk popularidad AJPW 1982 + "Let's Hustle Terry" + "Bitter Ender" + **obsesión hardcore vs patrón Flair** | Take Vehemiurgo match 11 sept 1982 Terry Funk vs Stan Hansen AJPW | `archive/matches/1982-09-11-terry-funk-vs-stan-hansen-ajpw.md` + `archive/people/terry-funk.md` (a crear) + posible dossier hardcore-obsession |
 
 ## En cola (declaradas, no lanzadas)
 
@@ -91,3 +91,78 @@ actualiza con cada alta, lanzamiento, retorno e integración.
   PWInsider Elite. El sub-agente trabaja con citas públicas que
   circulan + reporting libre de Wrestlenomics + comentarios de
   Cornette en YouTube. No transcribe audio.
+
+### `terry-funk-vs-stan-hansen-ajpw-1982-research-2026`
+
+- **Estado**: `en-curso` (background agent `ad7e43f6bfcd0740c`).
+- **Lanzada**: 2026-05-22.
+- **Origen**: take editorial del Vehemiurgo viendo match
+  [`../archive/matches/1982-09-11-terry-funk-vs-stan-hansen-ajpw.md`](../archive/matches/1982-09-11-terry-funk-vs-stan-hansen-ajpw.md).
+- **Cita verbatim del Vehemiurgo**:
+
+  > *"ahora estoy viendo AJPW - Terry Funk vs Stan Hansen
+  > 1982.9.11 [...] de verdad quiero saber la historia de la
+  > popularidad de Terry Funk en esta época, la historia del
+  > Let's Hustle Terry y porque le llaman bitter ender [...]
+  > Quiero saber porque Terry terminó enfocando toda el ocaso
+  > de su carrera al hardcore, pudiendo ser algo parecido a Ric
+  > Flair, porque se obsesionó con el ultra violento y no
+  > siguió con su trabajo de babyface siendo tan legendario"*
+
+- **Tópicos**:
+  1. **Terry Funk popularidad Japón AJPW 1982** — Baba booking,
+     run NWA World Title 1975-1976, Texas brand traducido al
+     puroresu, factor Dory Jr. vs solo brand de Terry.
+  2. **"Let's Hustle Terry" chant origen** — fecha primera
+     documentación, contexto storyline, traducción cultural del
+     chant americano "Let's go" al kotodama japonés.
+  3. **"Bitter Ender" apodo origen** — múltiples retirement
+     matches (1983 first retirement, comebacks, ECW 1997,
+     definitive 2017), reading editorial vs nostalgic.
+  4. **CRÍTICO — Obsesión hardcore Terry Funk vs patrón Ric
+     Flair**: por qué Terry no replicó el modelo babyface
+     legendario en el ocaso. Hipótesis a explorar:
+     - Factor físico (rodillas destruidas 80s+).
+     - Factor económico (territorios colapsan, ECW paga cash).
+     - Factor temperamental Texas brand vs Carolina brand.
+     - Factor familiar (Dory Sr. legacy + Double Cross Ranch).
+     - Factor Paul Heyman ECW como catalizador final.
+  5. **Stan Hansen 1982 status cross-link** — coronación NWA
+     United National Championship 1982, gaijin top heel AJPW.
+  6. **Material visionado AJPW 1982** — cards específicas,
+     gates, attendance, NTV ratings.
+
+- **Destino del material cuando vuelva**:
+  - Principal: integración a
+    [`../archive/matches/1982-09-11-terry-funk-vs-stan-hansen-ajpw.md`](../archive/matches/1982-09-11-terry-funk-vs-stan-hansen-ajpw.md).
+  - **Fact-sheet a crear**: `archive/people/terry-funk.md`
+    (preliminar abierto en commit asociado).
+  - **Posible dossier**: `dossiers/terry-funk-hardcore-vs-flair-pattern.md`
+    si el material justifica pieza editorial densa.
+  - Cross-link cluster Lariat top-tier triad (Hansen → Bradshaw
+    → Kawada).
+  - Cross-link cluster talent health pre-Wellness Policy.
+
+- **Fuentes prioritarias para el sub-agente**:
+  - **Terry Funk autobiografía** *Terry Funk: More Than Just
+    Hardcore* (Sports Publishing 2005, co-escrita Scott Williams).
+  - **Jim Cornette** *Drive-Thru* / *Experience* episodios Terry
+    Funk specifically.
+  - **Conrad Thompson / Bruce Prichard** *Something to Wrestle*
+    episodios Funk + ECW.
+  - **Dave Meltzer** *Wrestling Observer* archivo 1982 + obituario
+    cuando aplique.
+  - **AJPW NTV** archive material 1982 — *Pro Wrestling Love*
+    documentales históricos.
+  - **Mick Foley** autobiografías + podcasts (Funk influence
+    documentado).
+  - **Paul Heyman** podcasts + entrevistas Funk ECW era.
+  - **Wrestling Observer Hall of Fame** Funk entry.
+  - **Cagematch.net** match record AJPW 1982 + Funk retirement
+    matches índice.
+  - **Strong Style Saint** y otros archivistas puroresu
+    YouTube.
+
+- **Limitaciones esperadas**: archivo NTV japonés acceso
+  limitado, autobiografía Funk paywall Kindle/físico (citas
+  públicas que circulan), Meltzer WON archive paywall.
