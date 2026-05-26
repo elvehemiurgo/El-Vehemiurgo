@@ -8,6 +8,7 @@ topicos:
   - cope-and-cage-acto
   - ftr-angle-recalentado-booking-lesiones-cuello
   - ftr-orange-cassidy-roderick-strong-interaccion-entertainment
+  - roderick-strong-heroe-fundamental
 research_delegado: []
 ultima_actualizacion: 2026-05-26
 ---
@@ -206,6 +207,51 @@ Vehemiurgo).
 - **Orange Cassidy + Roderick Strong** no tienen fact-sheet — evaluar
   apertura si reaparecen.
 
+### 6. Roderick Strong — héroe fundamental (panteón con CM Punk, Christian Cage y Mark Rocco)
+
+**Distribución sugerida**: `archive/people/roderick-strong.md`
+(a crear).
+
+**Cita verbatim del Vehemiurgo**:
+
+> "obviamente Roderick Strong es imperdible, es un lujo tenerlo en TV y
+> activo, pero el Booking no se me hace cool, creo que está ok para
+> alguien como Roderick y lo mantiene ocupado ahora que no es joven
+> promesa, y es mejor que tenerlo en roh como a matt taven o Mike
+> Bennet. Roderick es mi héroe, está ahí arriba con CM Punk y Christian
+> Cage y Marc Rocko. Es un genio."
+
+**Notas mías**:
+- **DECLARACIÓN DE HÉROE FUNDAMENTAL**: *"Roderick es mi héroe, está
+  ahí arriba con CM Punk y Christian Cage y Marc Rocko. Es un genio."*
+  Esto **eleva a Roderick Strong al panteón personal del Vehemiurgo**
+  junto a tres fact-sheets ya existentes y centrales:
+  - [`../archive/people/cm-punk.md`](../archive/people/cm-punk.md).
+  - [`../archive/people/christian-cage.md`](../archive/people/christian-cage.md)
+    (héroe fundamental ya consolidado, lente de la era 2002-2007).
+  - [`../archive/people/mark-rocco.md`](../archive/people/mark-rocco.md)
+    (pillar British World of Sport, mentor de Regal).
+  - **El hilo común del panteón**: workers de oficio denso,
+    *technical-but-carny*, no productos de marketing. Punk, Christian,
+    Rocco y Roderick comparten **disciplina in-ring + character work +
+    longevidad de oficio**.
+- **"El booking no se me hace cool, pero está ok para alguien como
+  Roderick"**: matiz Vehemiurgia — el booking actual es **funcional,
+  no épico**. *"Lo mantiene ocupado ahora que no es joven promesa"* =
+  lectura honesta del **veterano-as-utility**, parecida a la lectura
+  de Christian veterano-as-anchor.
+- **"Es mejor que tenerlo en ROH como a Matt Taven o Mike Bennett"**:
+  jerarquía de exposición — Dynamite (TV nacional) > ROH (marca
+  streaming menor de Tony Khan). El temor implícito es la relegación,
+  igual que con Cope & Cage *"espero que no los manden a Collision"*.
+  Nota: Taven + Bennett (The Kingdom) son justamente el entourage de
+  Roderick en AEW — la pulla es que ellos sí quedan relegados a ROH.
+- **"Imperdible, un lujo tenerlo en TV y activo"** + **"es un genio"**
+  = el afecto Vehemiurgo trasciende el booking puntual (mismo patrón
+  que con Christian).
+- **MASA CRÍTICA**: este take justifica **abrir el fact-sheet de
+  Roderick Strong** con el estatus de héroe fundamental.
+
 ---
 
 ## Research a delegar
@@ -227,6 +273,8 @@ publicable, no requiere sub-agente todavía.)_
       polarizante).
 - [x] Crear segmento FTR / Orange Cassidy / Roderick Strong (clase
       Wrestling Entertainment).
+- [x] Crear `archive/people/roderick-strong.md` (héroe fundamental
+      declarado — panteón con CM Punk, Christian Cage, Mark Rocco).
 - [ ] **Verificar cita Kenny Omega** *"no soy fan del wrestling / se
       cree artista"* contra fuente real antes de pieza publicable.
 - [ ] Evaluar apertura `archive/people/ftr.md` (o Dax Harwood + Cash

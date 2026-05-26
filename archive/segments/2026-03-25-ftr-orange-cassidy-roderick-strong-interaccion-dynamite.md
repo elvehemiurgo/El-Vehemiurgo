@@ -128,6 +128,8 @@ Roderick Strong.)_
 - [ ] Mapear la relación FTR ↔ Orange Cassidy + Roderick
       Strong en marzo 2026 (¿feud?, ¿tag division?).
 - [ ] Confirmar ciudad + recinto del Dynamite 25 mar 2026.
+- [x] Roderick Strong fact-sheet abierto (héroe fundamental
+      declarado) → [`../people/roderick-strong.md`](../people/roderick-strong.md).
 - [ ] Evaluar apertura de fact-sheets: FTR (o Dax Harwood +
-      Cash Wheeler), Orange Cassidy, Roderick Strong.
+      Cash Wheeler), Orange Cassidy.
 - [ ] Registrar línea textual si hubo quip destacable.
