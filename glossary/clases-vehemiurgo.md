@@ -103,6 +103,17 @@ Spirit y NO Perfect** (cerca de la perfección pero no define era).
 También puede ser **Fighting Spirit y Perfect** (real fight + define
 era — material de Misawa-Kawada AJPW 90s, por ejemplo).
 
+**Refinación 2026-05-26 — "old-school" = Fighting Spirit, y aplica a
+segmentos/promos**: el Vehemiurgo confirmó que cuando llama a una pieza
+**"old-school"** la está ubicando en **Fighting Spirit**. La clase **no
+es exclusiva de matches**: una **promo cruda y auténtica** —oficio de
+micrófono sin pose, realness old-school— **también califica Fighting
+Spirit**. El eje de Fighting Spirit es la **autenticidad cruda del
+oficio**, sea en el ring (pelea real) o en el micrófono (promo
+old-school real). Ejemplo fundacional segmento: **Windsor & Hayter promo,
+AEW Collision 2026-04-11** (Fighting Spirit + Wrestling Entertainment) —
+[`../archive/segments/2026-04-11-windsor-hayter-promo-aew-collision.md`](../archive/segments/2026-04-11-windsor-hayter-promo-aew-collision.md).
+
 ### 3. Wrestling Entertainment Class
 
 > *"Es el lado de espectáculo y show necesario para que exista
