@@ -9,6 +9,8 @@ topicos:
   - hope-mjf-vs-ospreay-2026-no-forzar-moxley-strickland-hangman
   - six-man-tag-takeshita-andrade-davis-heels-geniales
   - mjf-video-package-narrador-old-school-vibra-2000s
+  - united-empire-lucha-showcase-tibio
+  - mjf-promo-vs-kenny-wrestling-entertainment-class
 research_delegado: []
 ultima_actualizacion: 2026-05-26
 ---
@@ -140,6 +142,35 @@ interesa pero sirve de combustible para Ospreay.
   herramientas de producción old-school.
 - **SIN clase asignada** (elogio de producción). Candidata latente a
   Wrestling Entertainment si el Vehemiurgo decide clasificarla.
+
+### 7. Lucha de United Empire — showcase tibio
+
+**Distribución**: `archive/matches/2026-04-08-united-empire-showcase-aew-dynamite.md`
+(stub, sin clase).
+
+> "la lucha del United Empire también tuvo sus momentos, no es que me
+> guste mucho, pero lindo showcase."
+
+- *"Tuvo sus momentos"* + *"lindo showcase"* pero *"no es que me guste
+  mucho"* — tibieza honesta. SIN clase. Probable vehículo de Callum Newman
+  [verif], en línea con el opener.
+
+### 8. Promo de MJF contra Kenny Omega — Wrestling Entertainment Class
+
+**Distribución**: `archive/segments/2026-04-08-mjf-promo-vs-kenny-omega-aew-dynamite.md`
+(clase asignada) + `archive/people/mjf.md` + `archive/people/kenny-omega.md`.
+
+> "la promo de mjf contra Kenny fue muy cool, yo le daría una clase de
+> wrestling Entertainment a esta promo y participación de mjf, y Kenny
+> estuvo ok."
+
+- **Wrestling Entertainment Class** asignada por **la promo y
+  participación de MJF**.
+- **MJF carga el segmento**: la clase se la gana MJF; **Kenny "estuvo
+  ok"** — consistente con el take del 25 mar (promos de Omega aburridas).
+- **Build MJF vs Kenny Omega** (retador polarizante). Tensión con el hope
+  del Vehemiurgo (preferiría MJF vs Ospreay) — pero la promo **funciona
+  por MJF**.
 
 ---
 

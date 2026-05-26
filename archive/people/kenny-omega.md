@@ -110,6 +110,20 @@ veredicto** (CLAUDE.md sec. 5 + sec. 7). La cosmovisión
 **la misma que la escuela Meltzer premia** — por eso el
 choque es doctrinal, no de gusto.
 
+### Promo vs MJF (Dynamite 8 abr 2026) — "Kenny estuvo ok"
+
+> *"la promo de mjf contra Kenny fue muy cool, yo le daría una
+> clase de wrestling Entertainment a esta promo y participación
+> de mjf, y Kenny estuvo ok."*
+
+- **Confirma el patrón**: en el cara a cara, **la clase
+  (Wrestling Entertainment) se la gana MJF**; Omega *"estuvo
+  ok"*. Coherente con el take del 25 mar (*"sus promos son
+  super aburridas, no recuerdo una sola vez donde tuviera una
+  promo decente"*).
+- Build del feud **MJF vs Kenny Omega**. Segmento:
+  [`../segments/2026-04-08-mjf-promo-vs-kenny-omega-aew-dynamite.md`](../segments/2026-04-08-mjf-promo-vs-kenny-omega-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] **VERIFICAR CITA**: la atribución *"dijo que no es fan

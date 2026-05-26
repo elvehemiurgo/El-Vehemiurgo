@@ -132,6 +132,19 @@ tags: [mjf, maxwell-jacob-friedman, aew-world-champion, cm-punk-feud-2022, dog-c
 - Segmento:
   [`../segments/2026-04-08-mjf-video-package-old-school-narrator-aew-dynamite.md`](../segments/2026-04-08-mjf-video-package-old-school-narrator-aew-dynamite.md).
 
+### Promo vs Kenny Omega — Wrestling Entertainment Class (8 abr 2026)
+
+> *"la promo de mjf contra Kenny fue muy cool, yo le daría una
+> clase de wrestling Entertainment a esta promo y participación
+> de mjf, y Kenny estuvo ok."*
+
+- **Wrestling Entertainment Class** — asignada por **la promo y
+  participación de MJF**. MJF **carga el segmento**; Kenny
+  *"estuvo ok"*. Ratifica a MJF como **character work / promo
+  de primer nivel** (modern heel old-school).
+- Build **MJF vs Kenny Omega**. Segmento:
+  [`../segments/2026-04-08-mjf-promo-vs-kenny-omega-aew-dynamite.md`](../segments/2026-04-08-mjf-promo-vs-kenny-omega-aew-dynamite.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)
