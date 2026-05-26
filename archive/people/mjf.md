@@ -119,6 +119,19 @@ tags: [mjf, maxwell-jacob-friedman, aew-world-champion, cm-punk-feud-2022, dog-c
   — MJF en forma de Perfect Match refuerza el deseo de un MJF
   vs Ospreay de peso.
 
+### Video package old-school (Dynamite 8 abr 2026)
+
+> *"Me gustó mucho el vídeo package para mjf, con narrador
+> old-school y todo, muy se [ve] TV de los 2000s muy cool."*
+
+- **Coherencia forma/fondo**: el **modern heel old-school**
+  presentado con **producción old-school** (narrador protocolar
+  + estética TV 2000s). El Vehemiurgo valora la **forma de
+  producción** clásica como parte de la liturgia carny — eleva
+  al talent mejor que el corte moderno hiper-editado.
+- Segmento:
+  [`../segments/2026-04-08-mjf-video-package-old-school-narrator-aew-dynamite.md`](../segments/2026-04-08-mjf-video-package-old-school-narrator-aew-dynamite.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

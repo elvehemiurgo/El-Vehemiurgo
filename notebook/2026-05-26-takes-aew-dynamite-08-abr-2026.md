@@ -8,6 +8,7 @@ topicos:
   - will-ospreay-polemico-pone-buenas-luchas
   - hope-mjf-vs-ospreay-2026-no-forzar-moxley-strickland-hangman
   - six-man-tag-takeshita-andrade-davis-heels-geniales
+  - mjf-video-package-narrador-old-school-vibra-2000s
 research_delegado: []
 ultima_actualizacion: 2026-05-26
 ---
@@ -119,6 +120,26 @@ interesa pero sirve de combustible para Ospreay.
   Davis vs FTR 28 ene).
 - **SIN clase asignada**: el Vehemiurgo elogió pero no clasificó (a
   diferencia de las del 1 abr). Queda `[]` — candidata latente.
+
+### 6. Video package de MJF — narrador old-school, vibra TV 2000s
+
+**Distribución**: `archive/segments/2026-04-08-mjf-video-package-old-school-narrator-aew-dynamite.md`
+(stub, sin clase) + `archive/people/mjf.md` (nota agregada).
+
+**Cita verbatim del Vehemiurgo**:
+
+> "en el mismo episodio, me gustó mucho el vídeo package para mjf, con
+> narrador old-school y todo, muy se TV de los 2000s muy cool."
+
+**Notas mías**:
+- **Producción old-school como valor Vehemiurgia**: lo que rescata es la
+  **forma** — narrador old-school + estética TV 2000s. Memoria histórica
+  + liturgia carny: la presentación clásica **eleva al talent** mejor que
+  el corte moderno hiper-editado.
+- **Coherencia forma/fondo en MJF**: modern heel old-school presentado con
+  herramientas de producción old-school.
+- **SIN clase asignada** (elogio de producción). Candidata latente a
+  Wrestling Entertainment si el Vehemiurgo decide clasificarla.
 
 ---
 
