@@ -20,6 +20,7 @@ cada alta y con cada cambio de estado.
 | 2026-04-13 | LA Knight — hot tag | WWE / Monday Night Raw | spot aislado | — | en-investigacion | 1 | [→](2026-04-13-la-knight-hot-tag-raw.md) |
 | 2026-04-10 | Pat McAfee — promo contra CM Punk | WWE / SmackDown | in-ring promo / commentary booth confrontation | — | en-investigacion | 1 | [→](2026-04-10-pat-mcafee-promo-against-cm-punk-smackdown.md) |
 | 2026-04-10 | Cody Rhodes — promo contra Pat McAfee y TKO | WWE / SmackDown | in-ring promo | — | en-investigacion | 1 | [→](2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md) |
+| 2026-04-08 | United Empire embosca a los Death Riders (opener) | AEW / Dynamite | ambush / angle de apertura (faction vs faction) | — | stub | 1 | [→](2026-04-08-united-empire-ambush-death-riders-aew-dynamite.md) |
 | 2026-04-07 | Lola Vice celebración post-título — Jacy Jayne salva el segmento | WWE / NXT (TV semanal) | in-ring celebration / promo + interruption | — | en-investigacion | 1 | [→](2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md) |
 | 2026-04-07 | Blake Monroe y el Vanity Project — alianza heel por conveniencia | WWE / NXT TV (semanal) | in-ring confrontation / alliance segment | WE | en-investigacion | 1 | [→](2026-04-07-blake-monroe-vanity-project-alliance-nxt.md) |
 | 2026-04-06 | CM Punk — promo de apertura | WWE / Monday Night Raw | in-ring promo | — | en-investigacion | 1 | [→](2026-04-06-cm-punk-promo-opening-raw.md) |

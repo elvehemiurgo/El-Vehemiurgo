@@ -69,6 +69,31 @@ Cluster AAA + AEW 2026
 contextualiza Ospreay como pieza editorial central AEW del
 periodo + diagnostic talent del modelo workrate-first.
 
+### Notebook 2026-05-26 — rivalidad Moxley + hope MJF vs Ospreay
+
+**Volcado AEW Dynamite 8 abr 2026**:
+
+> *"Ospreay [...] para mí es polémico, pero tiene lo suyo,
+> definitivamente pone buenas luchas, y este setup está cool, es
+> una buena rivalidad [con Moxley] [...] Espero que el resto de
+> 2026 sea mjf vs Ospreay por fin y no de arruinen el Booking
+> otra vez, forzando a Moxley o Strickland o Hangman otra vez."*
+
+- **"Polémico pero pone buenas luchas"** = ratifica la lectura
+  diagnóstica: el Vehemiurgo **no lo descarta** (no es Cornette
+  berrinche), lo tiene en revisión como caso test.
+- **Rivalidad vs Moxley/Death Riders 2026**: Ospreay/United
+  Empire vs Moxley/Death Riders. Ospreay como **babyface/rival**,
+  Moxley como combustible heel (ver
+  [`./jon-moxley.md`](./jon-moxley.md) +
+  [`../segments/2026-04-08-united-empire-ambush-death-riders-aew-dynamite.md`](../segments/2026-04-08-united-empire-ambush-death-riders-aew-dynamite.md)).
+  El Vehemiurgo quiere que **Moxley ponga over a Ospreay y se
+  cierre**.
+- **Hope booking eje 2026 — MJF vs Ospreay**: el Vehemiurgo lo
+  quiere como rivalidad del año (top heel amado vs workrate
+  polémico) y teme el **booking reciclado** (Moxley/Strickland/
+  Hangman forzados otra vez). Cross-link [`./mjf.md`](./mjf.md).
+
 ## Piezas relacionadas
 
 - [`../segments/2026-03-15-will-ospreay-returns-aew-revolution.md`](../segments/2026-03-15-will-ospreay-returns-aew-revolution.md)

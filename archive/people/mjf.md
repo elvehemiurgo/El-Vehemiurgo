@@ -97,6 +97,28 @@ tags: [mjf, maxwell-jacob-friedman, aew-world-champion, cm-punk-feud-2022, dog-c
   Omega-retador que no le emociona (ver
   [`./kenny-omega.md`](./kenny-omega.md)).
 
+### Hope booking 2026 — MJF vs Ospreay (notebook 2026-05-26)
+
+**Volcado AEW Dynamite 8 abr 2026**:
+
+> *"Espero que el resto de 2026 sea mjf vs Ospreay por fin y no
+> de arruinen el Booking otra vez, forzando a Moxley o Strickland
+> o Hangman otra vez."*
+
+- El Vehemiurgo quiere **MJF vs Ospreay como eje del año** — top
+  heel amado vs el workrate polémico
+  ([`./will-ospreay.md`](./will-ospreay.md)).
+- **Teme el booking reciclado**: Moxley + Swerve Strickland +
+  Hangman Page como contendientes forzados otra vez.
+- Cruza con el arco de retadores MJF 2026: Kenny Omega planteado
+  (polarizante, ver [`./kenny-omega.md`](./kenny-omega.md)) →
+  preferencia Vehemiurgo por **Ospreay**.
+- **Perfect Match reciente**: MJF vs Speedball Mike Bailey
+  (Dynamite 1 abr 2026) = las tres clases
+  ([`../matches/2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md`](../matches/2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md))
+  — MJF en forma de Perfect Match refuerza el deseo de un MJF
+  vs Ospreay de peso.
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)
