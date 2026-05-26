@@ -9,6 +9,7 @@ topicos:
   - ftr-angle-recalentado-booking-lesiones-cuello
   - ftr-orange-cassidy-roderick-strong-interaccion-entertainment
   - roderick-strong-heroe-fundamental
+  - thekla-vs-mina-lucha-de-verdad-posicionamiento-fake
 research_delegado: []
 ultima_actualizacion: 2026-05-26
 ---
@@ -251,6 +252,43 @@ Vehemiurgo).
   que con Christian).
 - **MASA CRÍTICA**: este take justifica **abrir el fact-sheet de
   Roderick Strong** con el estatus de héroe fundamental.
+
+### 7. Thekla vs Mina — luchan de verdad, el posicionamiento es donde se nota el fake
+
+**Distribución sugerida**: `archive/matches/2026-03-25-thekla-vs-mina-aew-dynamite.md`
+(stub abierto — clase pendiente de asignación del Vehemiurgo).
+
+**Cita verbatim del Vehemiurgo**:
+
+> "tehkla va mina, y esta lucha si está buena, estas dos si luchan de
+> verdad, solo que hay trucos old-school y selling oldschywue [old-school]
+> podrían ayudarles con el posicionamiento que es donde más se nota Fake,
+> y sería el único punto débil de ambos actos, pero fuera de eso, yo le
+> daría alguna clase, si se dieron duro. Recuérdame cuáles son las 3
+> clases"
+
+**Notas mías**:
+- **"Estas dos sí luchan de verdad" + "se dieron duro"** = señal clara
+  hacia **Fighting Spirit Class** (la clase del wrestling-como-pelea-real:
+  esfuerzo, dolor, dureza visible, old-school combat realism). El
+  Vehemiurgo lo deja pendiente — *"yo le daría alguna clase"* — y pide el
+  recordatorio de las 3 para decidir.
+- **Observación de oficio fina — "el posicionamiento es donde más se nota
+  el fake"**: el **único punto débil** de ambos actos es el
+  *positioning* (cómo se ubican/colocan para los spots, el telegrafiar la
+  cooperación). El take Vehemiurgia: **trucos old-school + selling
+  old-school enmascararían eso**. Doctrina pura — el oficio viejo sabía
+  esconder la mecánica; el wrestling moderno a veces deja ver el andamiaje.
+- **IDENTIDAD / CONTEXTO PENDIENTE VERIFICAR**: "Thekla" (probable la
+  luchadora austríaca de STARDOM, God's Eye/Oedo Tai) vs "Mina" (probable
+  **Mina Shirakawa**, STARDOM/Club Venus, con apariciones AEW). Match en
+  **AEW Dynamite 25 mar 2026** — posible parte del **Owen Hart Foundation
+  Tournament women's 2026** (cluster ya tocado en research closed:
+  Hazuki vs Persephone first round, final Forbidden Door). **No asentar
+  identidades ni stipulation sin confirmar contra cobertura.**
+- **MASA CRÍTICA**: take detallado de un match que el Vehemiurgo pone en
+  su base → match stub abierto, clase a asignar cuando el Vehemiurgo
+  confirme.
 
 ---
 

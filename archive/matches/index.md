@@ -6,6 +6,7 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Estado | Veces visto | Archivo |
 |---|---|---|---|---|---|
+| 2026-03-25 | Thekla vs Mina | AEW / Dynamite | stub | 1 | [→](2026-03-25-thekla-vs-mina-aew-dynamite.md) |
 | 2005-04-25 | Christian (w/ Triple H) vs Batista | WWE / Raw (NEC Birmingham) | en-investigacion | — | [→](2005-04-25-christian-cage-vs-batista-raw.md) |
 | 1995-07-23 | 1-2-3 Kid vs The Roadie | WWF / In Your House 2 (Nashville) | en-investigacion | — | [→](1995-07-23-123-kid-vs-the-roadie-in-your-house-2.md) |
 
