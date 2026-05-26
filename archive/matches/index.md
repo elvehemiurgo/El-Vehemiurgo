@@ -23,6 +23,7 @@ con cada cambio de estado.
 | 2026-04-14 | Jacy Jayne vs Lola Vice | WWE NXT / NXT Revenge Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md) |
 | 2026-04-14 | Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance | WWE NXT / NXT Revenge Week 1 | — | en-investigacion | 1 | [→](2026-04-14-dorian-van-dux-loss-nxt-revenge-week-1.md) |
 | 2026-04-13 | JD McDonagh & Rusev vs Dragon Lee & Jevon Evans | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-13-jd-mcdonagh-rusev-vs-dragon-lee-jevon-evans-raw.md) |
+| 2026-04-08 | Takeshita, Andrade & Mark Davis vs [trío rival] — six-man tag | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md) |
 | 2026-04-07 | Sol Ruca vs Izzi Dame | WWE / NXT (TV semanal) | — | en-investigacion | 1 | [→](2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |
 | 2026-04-07 | Chazz 'Starboy' Hall vs Lexis King — WWE Speed (1ra ronda) | WWE / NXT (TV semanal) | PW·FS | verificado | 1 | [→](2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md) |
 | 2026-04-07 | Jackson Drake & Blake Monroe vs Shyloh & Tatum Paxley | WWE / NXT (TV semanal) | PW·WE | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md) |
@@ -31,6 +32,7 @@ con cada cambio de estado.
 | 2026-04-04 | Sol Ruca vs Saria | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
 | 2026-04-04 | Jacy Jayne vs Kendal Grey vs Lola Vice — triple threat | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
 | 2026-04-04 | Ethan Page vs Ricky Saints vs Joe Hendry vs Tony D'Angelo — fatal 4-way | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
+| 2026-04-01 | MJF vs Speedball Mike Bailey | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
 | 2026-04-01 | MJF vs Speedball Mike Bailey | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
 | 2026-04-01 | PAC vs Will Ospreay | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-04-01-pac-vs-ospreay-aew-dynamite.md) |
 | 2026-03-28 | Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana | WWE AAA / AAA Rey de Reyes Week 2 | — | en-investigacion | 1 | [→](2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md) |

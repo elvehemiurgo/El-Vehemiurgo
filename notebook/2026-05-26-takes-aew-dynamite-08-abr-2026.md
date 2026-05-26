@@ -7,6 +7,7 @@ topicos:
   - jon-moxley-acto-que-no-interesa-combustible-ospreay
   - will-ospreay-polemico-pone-buenas-luchas
   - hope-mjf-vs-ospreay-2026-no-forzar-moxley-strickland-hangman
+  - six-man-tag-takeshita-andrade-davis-heels-geniales
 research_delegado: []
 ultima_actualizacion: 2026-05-26
 ---
@@ -94,6 +95,30 @@ interesa pero sirve de combustible para Ospreay.
   emociona). El Vehemiurgo preferiría **MJF vs Ospreay**.
 - **Posible topic/dossier al horno**: *"El miedo al booking reciclado AEW
   2026 — Moxley/Strickland/Hangman como contendientes forzados"*.
+
+### 5. Six-man tag (3 vs 3) — Takeshita, Andrade & Mark Davis geniales como heels
+
+**Distribución**: `archive/matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md`
+(stub, sin clase) + `archive/people/mark-davis.md` (stub creado).
+
+**Cita verbatim del Vehemiurgo**:
+
+> "de este mismo episodio, la 3 contra 3 también estuvo buena, Takeshita,
+> Andrade y Mark Davis lucieron geniales como heels, me gustó mucho toda
+> la acción y la dinámica. Está buena, y Mark Davis se ve genial, es muy
+> cool."
+
+**Notas mías**:
+- **Trío heel** Takeshita + Andrade + Mark Davis = probable **Don Callis
+  Family** [verif] — la facción que el CLAUDE.md sec. 3 cita como **"grey
+  booking" bien hecho**. Si se confirma, refuerza esa doctrina.
+- *"Acción y dinámica"* elogiadas — el flujo del six-man con trío heel
+  coordinado.
+- **Mark Davis singled out** (*"se ve genial, es muy cool"*) → stub
+  abierto. Recurrente en la lista personal (vs Adam Page 4 feb, Doyle &
+  Davis vs FTR 28 ene).
+- **SIN clase asignada**: el Vehemiurgo elogió pero no clasificó (a
+  diferencia de las del 1 abr). Queda `[]` — candidata latente.
 
 ---
 
