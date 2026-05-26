@@ -75,6 +75,24 @@ tags: [edge, adam-copeland, rated-r-superstar, edge-and-christian, smackdown-six
   Cena (vulnerable post Elimination Chamber match) define el
   formato MITB cash-in para los siguientes 20 años.
 
+### Cope como complemento de Christian — notebook 2026-05-26
+
+**Volcado AEW Dynamite 25 mar 2026** (Cope & Cage vs FTR):
+
+> *"soy muy fan de Christian, es el mejor [...] Cope es
+> complementario para mí [...]"*
+
+- **Jerarquía Vehemiurgia del dúo**: en Cope & Cage / E&C,
+  **el protagonista del afecto es Christian; Edge/Cope es el
+  complemento**. Matiz importante — el Vehemiurgo no los lee
+  como iguales pese a la hermandad on/off-screen.
+- **Angle FTR 2026 "recalentado"**: el feud Cope & Cage vs
+  FTR *"revive lo personal con Adam"* (Copeland) pero los
+  *"stakes no son tan emocionantes"*. Cross-link
+  [`./christian-cage.md`](./christian-cage.md) + notebook
+  2026-05-26 para la crítica de booking completa (lesiones de
+  cuello devaluadas + Beth Phoenix).
+
 ## Piezas relacionadas
 
 - [`./christian-cage.md`](./christian-cage.md) — hermandad

@@ -73,6 +73,30 @@ tags: [mjf, maxwell-jacob-friedman, aew-world-champion, cm-punk-feud-2022, dog-c
 - **Hangman feud 2026** = peak feud editorial AEW del periodo
   (cluster AAA + AEW 2026).
 
+### Promo post-Revolution 25 mar 2026 — pivot a Kenny Omega
+
+**Notebook 2026-05-26** (volcado AEW Dynamite 25 mar 2026):
+
+> *"La promo de mjf estuvo genial! Dejando atrás al Hangman
+> [...] felizmente el protagonista es big Hebrew mjf, y como
+> este top heel amado por la gente, es una posición muy cool
+> para él."*
+
+- **Feud Hangman cerrado** post-Revolution (blow-off 15 mar
+  2026) → la promo **pivotea al siguiente capítulo** con
+  Kenny Omega como retador planteado.
+- **"Top heel amado por la gente"** = lectura carny ortodoxa
+  Vehemiurgia: el heel que cobra heat pero al que la gente
+  quiere ver igual = **draw real, no heat vacío**. Ratifica
+  la lectura *"modern heel old-school carny puro"*.
+- **"Big Hebrew"** = el Vehemiurgo usa con afecto el
+  gimmick-self judío que MJF explota como combustible heel
+  desde sus inicios.
+- **Contraste editorial**: el Vehemiurgo lee a MJF como el
+  **protagonista que salva el segmento**, frente a un Kenny
+  Omega-retador que no le emociona (ver
+  [`./kenny-omega.md`](./kenny-omega.md)).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

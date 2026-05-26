@@ -175,6 +175,34 @@ héroe fundamental documentado verificablemente:
 > favorito — es el lente a través del cual el Vehemiurgo lee
 > gran parte de la era 2002–2007 y el linaje hasta AEW hoy."*
 
+### Cope & Cage vs FTR 2026 — notebook 2026-05-26
+
+**Volcado AEW Dynamite 25 mar 2026** (post-Revolution):
+
+> *"Cope & Cage tienen una promo Backstage [...] soy muy fan
+> de Christian, es el mejor, pero este ángulo con ftr, está
+> recalentado, siento que lo dejaron enfriar, pero sigue
+> siendo genial ver a Christian en TV. Cope es complementario
+> para mí [...]"*
+
+- **"Christian es el mejor"** — ratifica el estatus de **héroe
+  fundamental Vehemiurgia**. El afecto trasciende la calidad
+  del booking puntual (*"sigue siendo genial ver a Christian
+  en TV"* pese al angle frío).
+- **Jerarquía del dúo**: *"Cope es complementario para mí"* —
+  en Cope & Cage / E&C, **Christian es el protagonista del
+  afecto Vehemiurgo, Edge/Cope el complemento**. No los lee
+  como iguales (cross-link [`./edge.md`](./edge.md)).
+- **Angle FTR "recalentado, lo dejaron enfriar"**: lectura de
+  booking — el feud perdió temperatura por mal timing.
+  *"Momentos brillantes como heels"* de FTR pero *"no hay
+  stakes reales"*. Crítica adicional al **booking de lesiones
+  de cuello devaluado por sobreuso** + **Beth Phoenix como
+  generadora de empatía que no mueve la aguja** (detalle en
+  notebook 2026-05-26).
+- **"Espero que no los manden a Collision"** = miedo a que el
+  acto Christian quede relegado al segundo escalón de show.
+
 ## Lectura consolidada del Vehemiurgo
 
 **Christian Cage es el caso paradigmático de carny ortodoxo
