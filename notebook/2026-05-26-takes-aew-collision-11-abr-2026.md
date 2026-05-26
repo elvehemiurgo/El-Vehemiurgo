@@ -5,6 +5,9 @@ topicos:
   - windsor-hayter-promo-fighting-spirit-wrestling-entertainment
   - doctrina-old-school-igual-fighting-spirit-aplica-promos
   - young-bucks-vs-hechicero-clon-perfect-match-todas-las-clases
+  - brawling-birds-vs-thekla-shafir-fighting-spirit
+  - proyecto-thekla-nivel-fatal-influence
+  - grupo-moxley-meh-nepotismo-windsor
 research_delegado: []
 ultima_actualizacion: 2026-05-26
 ---
@@ -73,6 +76,50 @@ agregada a la sección Fighting Spirit).
   por eso conviven las tres clases.
 - **"El clon" [verif]** — identidad del compañero de Hechicero a
   confirmar. No asentar sin fuente.
+
+### 4. Brawling Birds vs Thekla & Marina Shafir — Fighting Spirit ("clásico")
+
+**Distribución**: `archive/matches/2026-04-11-brawling-birds-vs-thekla-shafir-aew-collision.md`
+(stub, Fighting Spirit) + `archive/people/thekla.md` (stub creado) +
+`archive/people/jon-moxley.md` (nota grupo meh).
+
+> "las brawling birds estuvieron geniales, igual que tekhla, y shafir
+> estuvo ok [...] si ganan un Fighting Spirit class, aunque me pese darle
+> una clase a Marina, pero las otras 3 si pusieron un clásico."
+
+**Notas mías**:
+- **Fighting Spirit Class** — *"pusieron un clásico"*. Brawling Birds
+  geniales + Thekla genial + Shafir ok.
+- **Marina Shafir "me pese darle una clase"**: no la ratea, pero la clase
+  del match la cubre. (Tensión: Marina es pareja de Roderick Strong, héroe
+  fundamental — registrado.)
+- **Brawling Birds**: brawlers old-school, *"golpean duro y ponen el
+  Fighting Spirit"* + *"la promo que cortaron antes"* (probable conexión
+  con la promo Windsor & Hayter del mismo show [verif]).
+
+### 5. "Proyecto Thekla" — al nivel de Fatal Influence
+
+**Distribución**: `archive/people/thekla.md` (stub creado).
+
+> "todo el proyecto tekhla me parece genial, al nivel de fatal influence
+> en WWE."
+
+- **Elogio fuerte**: ubica el proyecto/facción de Thekla al **nivel de
+  Fatal Influence** (la facción top femenina WWE 2026). Pieza al horno:
+  comparación proyecto Thekla (AEW) vs Fatal Influence (WWE).
+- Thekla = STARDOM (austríaca) [verif], recurrente Fighting Spirit.
+
+### 6. Grupo de Moxley "meh" + nepotismo de Windsor
+
+**Distribución**: `archive/people/jon-moxley.md` (nota agregada).
+
+> "por lo menos el nepotismo de Windsor puede tener Backup in ring pero,
+> todo el grupo de Moxley es meh ahora mismo."
+
+- **Death Riders meh ahora mismo** — la facción no conecta, pese al buen
+  oficio in-ring en su órbita.
+- **Nepotismo de Windsor**: figurehead por nepotismo *"que al menos puede
+  tener backup in ring"* — sostenida por el oficio de las que la rodean.
 
 ---
 

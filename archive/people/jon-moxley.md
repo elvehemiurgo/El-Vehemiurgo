@@ -72,6 +72,18 @@ tags: [jon-moxley, dean-ambrose, the-shield, death-riders-lider, aew-world-champ
 - **"Ojalá ponga over a Ospreay y ya"**: la lectura de booking
   preferida — **Moxley pone over a Ospreay y cierra el run**.
 
+### Notebook 2026-05-26 (Collision 11 abr) — "el grupo meh ahora mismo"
+
+> *"todo el grupo de Moxley es meh ahora mismo."*
+
+- Juicio sobre el **estado de los Death Riders** al 11 abr 2026:
+  la facción **no está conectando**. Incluso con buen oficio
+  in-ring en su órbita (Thekla, Marina Shafir, Brawling Birds en
+  el match femenino — ver
+  [`../matches/2026-04-11-brawling-birds-vs-thekla-shafir-aew-collision.md`](../matches/2026-04-11-brawling-birds-vs-thekla-shafir-aew-collision.md)),
+  **el grupo de Moxley se siente meh**. Refuerza el deseo
+  Vehemiurgo de cerrar el run (Moxley pone over a Ospreay y ya).
+
 ### Cruce con la doctrina
 
 El rechazo a Moxley es **coherente con el rechazo a las "promos
