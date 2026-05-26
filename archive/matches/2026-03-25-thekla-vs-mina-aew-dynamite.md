@@ -22,14 +22,14 @@ rating_tv: ""
 buy_rate: ""
 encuentros_previos: "[verif — posible historia STARDOM previa entre ambas]"
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "El Vehemiurgo declara que le daría 'alguna clase' — 'se dieron duro', 'luchan de verdad' (señal hacia Fighting Spirit). PENDIENTE asignación explícita del Vehemiurgo."
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Fighting Spirit Class — 'estas dos sí luchan de verdad', 'se dieron duro'. El único punto débil es el posicionamiento (donde se nota el fake), que la mantiene por debajo de Perfect."
+clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
 ultima_actualizacion: 2026-05-26
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
   - "Visionado directo del Vehemiurgo"
-tags: [aew-dynamite-2026, thekla, mina-shirakawa-verif, lucha-de-verdad, se-dieron-duro, fighting-spirit-candidata, posicionamiento-donde-se-nota-fake, trucos-selling-oldschool-enmascararian, clase-pendiente-asignacion, identidad-contexto-pendiente-verif]
+tags: [aew-dynamite-2026, thekla, mina-shirakawa-verif, lucha-de-verdad, se-dieron-duro, fighting-spirit-class, posicionamiento-donde-se-nota-fake, trucos-selling-oldschool-enmascararian, identidad-contexto-pendiente-verif]
 ---
 
 # Thekla vs Mina — AEW Dynamite (25 mar 2026)
@@ -52,10 +52,12 @@ tags: [aew-dynamite-2026, thekla, mina-shirakawa-verif, lucha-de-verdad, se-dier
 
 ## Significancia editorial
 
-- **"Luchan de verdad" + "se dieron duro"** = candidata fuerte
-  a **Fighting Spirit Class** (wrestling-como-pelea-real:
-  esfuerzo, dolor, dureza visible). Clase **pendiente** de la
-  decisión explícita del Vehemiurgo.
+- **"Luchan de verdad" + "se dieron duro"** = **Fighting Spirit
+  Class** asignada por el Vehemiurgo 2026-05-26
+  (wrestling-como-pelea-real: esfuerzo, dolor, dureza visible).
+  Va sola, sin las otras dos: el posicionamiento débil la
+  mantiene por debajo de Perfect, y no es una pieza de
+  character work/show (no Entertainment).
 - **Punto débil único — el posicionamiento**: el Vehemiurgo
   identifica el *positioning* (cómo se colocan para los spots)
   como **el lugar donde más se nota el fake** en ambos actos.
@@ -70,8 +72,8 @@ tags: [aew-dynamite-2026, thekla, mina-shirakawa-verif, lucha-de-verdad, se-dier
 
 ## Pendientes / huecos
 
-- [ ] **ASIGNAR CLASE** — el Vehemiurgo pidió el recordatorio de
-      las 3 clases para decidir (señal hacia Fighting Spirit).
+- [x] **CLASE ASIGNADA** — Fighting Spirit Class (Vehemiurgo
+      2026-05-26).
 - [ ] **Verificar identidades**: ¿Thekla STARDOM (austríaca)?
       ¿Mina = Mina Shirakawa?
 - [ ] **Verificar contexto**: ¿parte del Owen Hart Foundation

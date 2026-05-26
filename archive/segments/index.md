@@ -4,11 +4,41 @@ Tabla viva. Una fila por segmento registrado en `archive/segments/`. Se
 ordena por fecha del segmento (más reciente arriba). Se actualiza con
 cada alta y con cada cambio de estado.
 
-| Fecha | Segmento | Empresa / Programa | Tipo | Estado | Veces visto | Archivo |
-|---|---|---|---|---|---|---|
-| 2026-04-20 | JD McDonagh & Finn Bálor: video promo dual | WWE / Raw After WM42 (T-Mobile Las Vegas) | vignette dual pre-grabada | en-investigacion | — | [→](2026-04-20-jd-mcdonagh-video-promo-raw.md) |
-| 2026-03-25 | FTR vs Orange Cassidy & Roderick Strong: interacción | AEW / Dynamite | in-ring confrontation / interacción | stub | 1 | [→](2026-03-25-ftr-orange-cassidy-roderick-strong-interaccion-dynamite.md) |
-| 2026-03-24 | Sol Ruca vs Zaria: *"You didn't want a team, you wanted a moment"* | WWE / NXT (Performance Center Orlando) | promo in-ring confrontacional | en-investigacion | — | [→](2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md) |
+> **Reconstrucción completa 2026-05-26**: índice backfilleado con todos los
+> segmentos registrados a la fecha. La **lista personal maestra** del
+> Vehemiurgo (con cientos de entradas aún sin archivo individual) vive
+> verbatim en
+> [`../../notebook/2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).
+
+| Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
+|---|---|---|---|---|---|---|---|
+| 2026-04-24 | Jacob Fatu — segmento (con promos Jimmy y Fatu + Tama Tonga) | WWE / SmackDown | in-ring promo / multi-protagonist segment | — | en-investigacion | 1 | [→](2026-04-24-jacob-fatu-segment-smackdown.md) |
+| 2026-04-24 | Fatal Influence — debut WWE SmackDown (call-up post-WrestleMania 42) | WWE / SmackDown | faction debut / multi-segment | — | en-investigacion | 1 | [→](2026-04-24-fatal-influence-debut-smackdown.md) |
+| 2026-04-20 | JD McDonagh & Finn Bálor: video promo dual (build pre-match) | WWE / Monday Night Raw — Raw After | vignette dual pre-grabada | — | en-investigacion | 0 | [→](2026-04-20-jd-mcdonagh-video-promo-raw.md) |
+| 2026-04-14 | Vanity Project & Blake Monroe segment con Robert Stone — 'Listen buddy' | WWE / NXT Revenge — Week 1 | in-ring / backstage segment con GM interino | — | en-investigacion | 1 | [→](2026-04-14-vanity-project-blake-monroe-robert-stone-segment-nxt-revenge-week-1.md) |
+| 2026-04-14 | Saquon Shugars brillante por encima de Miles + Dark State | WWE NXT / NXT Revenge Week 1 | in-ring showcase / character work moment | — | en-investigacion | 1 | [→](2026-04-14-saquon-shugars-brillante-miles-dark-state-nxt-revenge-week-1.md) |
+| 2026-04-13 | LA Knight — hot tag | WWE / Monday Night Raw | spot aislado | — | en-investigacion | 1 | [→](2026-04-13-la-knight-hot-tag-raw.md) |
+| 2026-04-10 | Pat McAfee — promo contra CM Punk | WWE / SmackDown | in-ring promo / commentary booth confrontation | — | en-investigacion | 1 | [→](2026-04-10-pat-mcafee-promo-against-cm-punk-smackdown.md) |
+| 2026-04-10 | Cody Rhodes — promo contra Pat McAfee y TKO | WWE / SmackDown | in-ring promo | — | en-investigacion | 1 | [→](2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md) |
+| 2026-04-07 | Lola Vice celebración post-título — Jacy Jayne salva el segmento | WWE / NXT (TV semanal) | in-ring celebration / promo + interruption | — | en-investigacion | 1 | [→](2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md) |
+| 2026-04-07 | Blake Monroe y el Vanity Project — alianza heel por conveniencia | WWE / NXT TV (semanal) | in-ring confrontation / alliance segment | WE | en-investigacion | 1 | [→](2026-04-07-blake-monroe-vanity-project-alliance-nxt.md) |
+| 2026-04-06 | CM Punk — promo de apertura | WWE / Monday Night Raw | in-ring promo | — | en-investigacion | 1 | [→](2026-04-06-cm-punk-promo-opening-raw.md) |
+| 2026-04-03 | LA Knight — participación en Speed y commentary | WWE / SmackDown | multi-role participation | — | en-investigacion | 1 | [→](2026-04-03-la-knight-speed-commentary-smackdown.md) |
+| 2026-04-03 | Cody Rhodes le dice a Stephanie McMahon que no es su padre | WWE / SmackDown | in-ring promo / confrontation | — | en-investigacion | 1 | [→](2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md) |
+| 2026-03-27 | Jacob Fatu y Drew McIntyre — segment | WWE / SmackDown | in-ring confrontation / promo segment | — | en-investigacion | 1 | [→](2026-03-27-jacob-fatu-drew-mcintyre-segment-smackdown.md) |
+| 2026-03-25 | FTR vs Orange Cassidy & Roderick Strong: interacción | AEW / Dynamite | in-ring confrontation / interacción | WE | stub | 1 | [→](2026-03-25-ftr-orange-cassidy-roderick-strong-interaccion-dynamite.md) |
+| 2026-03-24 | Sol Ruca vs Zaria: 'You didn't want a team, you wanted a moment' | WWE / NXT | promo in-ring confrontacional | — | en-investigacion | 0 | [→](2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md) |
+| 2026-03-15 | Will Ospreay Returns | AEW / Revolution 2026 | return appearance / character work moment | — | en-investigacion | 1 | [→](2026-03-15-will-ospreay-returns-aew-revolution.md) |
+| 2026-03-15 | Christian Killswitches en AEW Revolution | AEW / Revolution 2026 | in-ring spot / character work moment | — | en-investigacion | 1 | [→](2026-03-15-christian-killswitches-aew-revolution.md) |
+| 2026-02-13 | Mickey James Return | TNA / No Surrender 2026 | return appearance / legacy moment | — | en-investigacion | 1 | [→](2026-02-13-mickey-james-return-tna-no-surrender.md) |
+| 2025-12-18 | Kazarian Elvis 'Bear With Me' Promo | TNA / Impact | in-ring promo / character spectacle | WE | en-investigacion | 1 | [→](2025-12-18-kazarian-elvis-bear-with-me-promo-tna-impact.md) |
+| 2025-12-11 | Kazarian's 'I Am Your King' Opening Promo | TNA / Impact | opening promo | — | en-investigacion | 1 | [→](2025-12-11-kazarian-i-am-your-king-promo-tna-impact.md) |
+| 2025-11-13 | NXT Stars Invade Impact + Kazarian cashes in trophy winning TNA World Title | TNA / Impact | invasion + title change | — | en-investigacion | 1 | [→](2025-11-13-nxt-invasion-kazarian-cash-in-tna-impact.md) |
+| 2020-08-23 | Roman Reigns Tribal Chief heel turn | WWE / SummerSlam 2020 | heel turn moment + character work reset | — | en-investigacion | 1 | [→](2020-08-23-roman-reigns-tribal-chief-heel-turn-summerslam.md) |
+| 2013-07-08 | Bray Wyatt debut promo + Wyatt Family attack Kane | WWE / Raw | character debut + in-ring attack | — | en-investigacion | 1 | [→](2013-07-08-bray-wyatt-debut-promo-wwe-raw.md) |
+| 2011-06-27 | CM Punk Pipebomb Promo | WWE / Raw | in-ring promo / shoot-style worked promo | — | en-investigacion | 1 | [→](2011-06-27-cm-punk-pipebomb-promo-wwe-raw.md) |
+| 2007-06-21 | Beer Money Formation — post tag team match | TNA / Impact | post-match alliance / faction formation moment | — | en-investigacion | 1 | [→](2007-06-21-beer-money-formation-tna-impact.md) |
+| 2007-05-13 | Christian Coalition backstage segment con AJ Styles & Tomko & Scott Steiner | TNA / Sacrifice 2007 | backstage segment | — | en-investigacion | 1 | [→](2007-05-13-christian-coalition-backstage-aj-tomko-steiner-tna-sacrifice.md) |
 
 ---
 
@@ -17,16 +47,17 @@ cada alta y con cada cambio de estado.
 - **Tipo**: promo, backstage, in-ring confrontation, post-match angle,
   sketch, interview, vignette, entrance, celebration, turn, run-in,
   spot-aislado.
-- **Estado**: `stub` (recién creado), `en-investigacion`, `verificado`,
-  `vivo`.
-- **Veces visto**: campo `veces_visto_vehemiurgo` del frontmatter. `—`
-  si no se ha registrado todavía.
+- **Clase**: sistema del Vehemiurgo (`glossary/clases-vehemiurgo.md`).
+  **PW** = Perfect Wrestling · **FS** = Fighting Spirit · **WE** =
+  Wrestling Entertainment · **—** = sin clasificar.
+- **Estado**: `stub`, `en-investigacion`, `verificado`, `vivo`.
+- **Veces**: campo `veces_visto_vehemiurgo`. `—` si no se ha registrado.
 
 ## Cómo se mantiene
 
 - Cada alta de segmento agrega una fila.
-- Cuando cambia el estado o el rewatch count, se actualiza la fila
-  correspondiente.
+- Cuando cambia el estado, la clase o el rewatch count, se actualiza la
+  fila.
 - Ordenado por fecha del segmento, no por fecha de alta.
-- Si la fecha está pendiente (`YYYY-XX-XX`), va al lugar aproximado del
-  año o se agrupa al final del año.
+- La lista personal maestra (source of truth en crecimiento) vive en
+  [`../../notebook/2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).

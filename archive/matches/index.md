@@ -4,25 +4,130 @@ Tabla viva. Una fila por match registrado en `archive/matches/`. Se ordena
 por fecha del match (más reciente arriba). Se actualiza con cada alta y
 con cada cambio de estado.
 
-| Fecha | Match | Empresa / Programa | Estado | Veces visto | Archivo |
-|---|---|---|---|---|---|
-| 2026-03-25 | Thekla vs Mina | AEW / Dynamite | stub | 1 | [→](2026-03-25-thekla-vs-mina-aew-dynamite.md) |
-| 2005-04-25 | Christian (w/ Triple H) vs Batista | WWE / Raw (NEC Birmingham) | en-investigacion | — | [→](2005-04-25-christian-cage-vs-batista-raw.md) |
-| 1995-07-23 | 1-2-3 Kid vs The Roadie | WWF / In Your House 2 (Nashville) | en-investigacion | — | [→](1995-07-23-123-kid-vs-the-roadie-in-your-house-2.md) |
+> **Reconstrucción completa 2026-05-26**: índice backfilleado con todos los
+> matches registrados a la fecha. La **lista personal maestra** del
+> Vehemiurgo (en crecimiento, con cientos de entradas aún sin archivo
+> individual) vive verbatim en
+> [`../../notebook/2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md)
+> — esta tabla solo lista lo que ya tiene fact-sheet propio.
+
+| Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
+|---|---|---|---|---|---|---|
+| 2026-04-19 | Rhea Ripley vs Jade Cargill | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-rhea-ripley-vs-jade-cargill-wrestlemania-42.md) |
+| 2026-04-19 | CM Punk vs Roman Reigns | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) |
+| 2026-04-19 | Brock Lesnar vs Oba Femi | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md) |
+| 2026-04-18 | Liv Morgan vs Stephanie Vaquer | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md) |
+| 2026-04-18 | Jacob Fatu vs Drew McIntyre | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md) |
+| 2026-04-18 | Cody Rhodes vs Randy Orton | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md) |
+| 2026-04-14 | Kali Armstrong vs Skylar Rae | WWE / NXT Revenge — Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-kali-armstrong-vs-skylar-rae-nxt-revenge-week-1.md) |
+| 2026-04-14 | Jacy Jayne vs Lola Vice | WWE NXT / NXT Revenge Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md) |
+| 2026-04-14 | Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance | WWE NXT / NXT Revenge Week 1 | — | en-investigacion | 1 | [→](2026-04-14-dorian-van-dux-loss-nxt-revenge-week-1.md) |
+| 2026-04-13 | JD McDonagh & Rusev vs Dragon Lee & Jevon Evans | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-13-jd-mcdonagh-rusev-vs-dragon-lee-jevon-evans-raw.md) |
+| 2026-04-07 | Sol Ruca vs Izzi Dame | WWE / NXT (TV semanal) | — | en-investigacion | 1 | [→](2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |
+| 2026-04-07 | Chazz 'Starboy' Hall vs Lexis King — WWE Speed (1ra ronda) | WWE / NXT (TV semanal) | PW·FS | verificado | 1 | [→](2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md) |
+| 2026-04-07 | Jackson Drake & Blake Monroe vs Shyloh & Tatum Paxley | WWE / NXT (TV semanal) | PW·WE | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md) |
+| 2026-04-07 | Dark State vs Joe Hendry, Ethan Page, Ricky Saints & Tony D'Angelo | WWE / NXT TV (semanal) | — | en-investigacion | 1 | [→](2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md) |
+| 2026-04-06 | LA Knight vs Austin Theory | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-06-la-knight-vs-austin-theory-raw.md) |
+| 2026-04-04 | Sol Ruca vs Saria | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
+| 2026-04-04 | Jacy Jayne vs Kendal Grey vs Lola Vice — triple threat | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
+| 2026-04-04 | Ethan Page vs Ricky Saints vs Joe Hendry vs Tony D'Angelo — fatal 4-way | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
+| 2026-03-28 | Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana | WWE AAA / AAA Rey de Reyes Week 2 | — | en-investigacion | 1 | [→](2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md) |
+| 2026-03-27 | Giulia vs Tiffany Stratton | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-03-27-giulia-vs-tiffany-stratton-smackdown.md) |
+| 2026-03-27 | Carmelo Hayes vs Sami Zayn | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-03-27-carmelo-hayes-vs-sami-zayn-smackdown.md) |
+| 2026-03-25 | Thekla vs Mina | AEW (All Elite Wrestling) / Dynamite | FS | stub | 1 | [→](2026-03-25-thekla-vs-mina-aew-dynamite.md) |
+| 2026-03-15 | Young Bucks vs FTR | AEW / Revolution 2026 | — | en-investigacion | 1 | [→](2026-03-15-young-bucks-vs-ftr-aew-revolution.md) |
+| 2026-02-28 | Sareee & Takumi Iroha vs Hazuki & Fuwa-chan | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-sareee-iroha-vs-hazuki-fuwa-chan-stardom-korakuen.md) |
+| 2026-02-28 | God's Eye (Ami Sourei, Lady C & Ranna Yagami) vs India Sioux, Tabata & Kira | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md) |
+| 2026-02-03 | ZaRuca (Sol Ruca & Zaria) vs The Elegance Brand (M by Elegance & Heather by Elegance) | WWE / TNA / NXT (taping; cross-promotional con TNA) | FS | en-investigacion | 1 | [→](2026-02-03-zaruca-vs-elegance-brand-nxt.md) |
+| 2026-01-17 | Mustafa Ali vs Elias | TNA / Genesis 2026 | — | en-investigacion | 1 | [→](2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) |
+| 2025-12-20 | Hijo del Vikingo vs Dragon Lee | WWE AAA / Guerra de Titanes 2025 | — | en-investigacion | 1 | [→](2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md) |
+| 2025-12-05 | Charlie Dempsey vs Mike Santana | TNA / Final Resolution 2025 | — | en-investigacion | 1 | [→](2025-12-05-charlie-dempsey-vs-mike-santana-tna-final-resolution.md) |
+| 2025-11-14 | The System vs The Rascalz | TNA / Turning Point 2025 | — | en-investigacion | 1 | [→](2025-11-14-the-system-vs-the-rascalz-tna-turning-point.md) |
+| 2025-09-21 | Kira vs Persephone — Arena Coliseo Tony Arellano (Torreón) | CMLL / Arena Coliseo Tony Arellano (Torreón) | PW·FS·WE | en-investigacion | múltiples | [→](2025-09-21-kira-vs-persephone-arena-coliseo-tony-arellano-torreon.md) |
+| 2024-05-04 | AJ Styles vs Cody Rhodes | WWE / Backlash France 2024 | — | en-investigacion | 1 | [→](2024-aj-styles-vs-cody-rhodes-wwe-backlash.md) |
+| 2024-04-07 | Cody Rhodes vs Roman Reigns — finishing the story | WWE / WrestleMania XL Día 2 | — | en-investigacion | 1 | [→](2024-04-07-cody-rhodes-vs-roman-reigns-wrestlemania-xl-day-2.md) |
+| 2022-03-06 | CM Punk vs MJF — Dog Collar Match | AEW / Revolution 2022 | — | en-investigacion | 1 | [→](2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md) |
+| 2021-11-13 | Hangman Adam Page vs Kenny Omega — AEW World Heavyweight Championship | AEW / Full Gear 2021 | — | en-investigacion | 1 | [→](2021-11-13-hangman-adam-page-vs-kenny-omega-aew-full-gear-2021.md) |
+| 2019-05-03 | Dragon Lee vs Taiji Ishimori | NJPW (New Japan Pro Wrestling) / Wrestling Dontaku 2019 | — | en-investigacion | 1 | [→](2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) |
+| 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
+| 2017-07-07 | AJ Styles vs Kevin Owens | WWE / Live event MSG | — | en-investigacion | 1 | [→](2017-07-07-aj-styles-vs-kevin-owens-wwe-msg.md) |
+| 2016-02-05 | AJ Styles vs Corey Hollis | GPW / indie show 2016 | — | en-investigacion | 1 | [→](2016-02-05-aj-styles-vs-corey-hollis-gpw.md) |
+| 2014-04-06 | Brock Lesnar vs The Undertaker — Streak Match | WWE / WrestleMania XXX | — | en-investigacion | 1 | [→](2014-04-06-brock-lesnar-vs-undertaker-wrestlemania-xxx-streak-breaker.md) |
+| 2013-07-14 | Money in the Bank ladder match — Christian vs RVD vs CM Punk vs Daniel Bryan vs Sheamus vs Randy Orton | WWE / Money in the Bank 2013 | — | en-investigacion | 1 | [→](2013-07-14-mitb-ladder-christian-rvd-punk-bryan-sheamus-orton-wwe.md) |
+| 2013-07-08 | Christian vs Kane | WWE / Raw | — | en-investigacion | 1 | [→](2013-07-08-christian-vs-kane-wwe-raw.md) |
+| 2007-07-15 | Samoa Joe & Kurt Angle vs Team 3D | TNA / Victory Road 2007 | — | en-investigacion | 1 | [→](2007-07-15-joe-angle-vs-team-3d-tna-victory-road.md) |
+| 2007-06-17 | King of the Mountain Match — Styles vs Joe vs Christian vs Harris vs Angle | TNA / Slammiversary 2007 | — | en-investigacion | 1 | [→](2007-06-17-king-of-the-mountain-tna-slammiversary.md) |
+| 2007-05-13 | Samoa Joe vs AJ Styles | TNA / Sacrifice 2007 | — | en-investigacion | 1 | [→](2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md) |
+| 2007-05-13 | James Storm vs Chris Harris — AMW split blow-off | TNA / Sacrifice 2007 | — | en-investigacion | 1 | [→](2007-05-13-james-storm-vs-chris-harris-tna-sacrifice.md) |
+| 2007-05-13 | Christian Cage vs Kurt Angle vs Sting | TNA / Sacrifice 2007 | — | en-investigacion | 1 | [→](2007-05-13-christian-vs-angle-vs-sting-tna-sacrifice.md) |
+| 2006-08-25 | Ikuto Hidaka & Minoru Fujita (c) vs MCMG (Alex Shelley & Chris Sabin) | ZERO1-MAX / Tenka-Ichi Junior 2006 Tag 2 | — | en-investigacion | 1 | [→](2006-08-25-mcmg-vs-hidaka-fujita-zero1-max.md) |
+| 2005-05-16 | Christian vs Ric Flair | WWE / Raw | — | en-investigacion | 1 | [→](2005-05-16-christian-vs-ric-flair-wwe-raw.md) |
+| 2005-04-25 | Christian (w/ Triple H) vs Batista | WWE / Monday Night Raw | — | en-investigacion | 0 | [→](2005-04-25-christian-cage-vs-batista-raw.md) |
+| 2005-04-04 | Christian vs Chris Jericho vs Shelton Benjamin — triple threat | WWE / Raw | — | en-investigacion | 1 | [→](2005-04-04-christian-vs-jericho-vs-benjamin-triple-threat-wwe-raw.md) |
+| 2005-04-03 | Money in the Bank ladder match — inaugural | WWE / WrestleMania 21 | — | en-investigacion | 1 | [→](2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md) |
+| 2004-11-14 | Christian vs Shelton Benjamin | WWE / Survivor Series 2004 | — | en-investigacion | 1 | [→](2004-11-14-christian-vs-shelton-benjamin-wwe-survivor-series.md) |
+| 2004-09-12 | Christian vs Chris Jericho | WWE / Unforgiven 2004 | — | en-investigacion | 1 | [→](2004-09-12-christian-vs-jericho-wwe-unforgiven.md) |
+| 2004-05-10 | Christian vs Chris Jericho — steel cage match | WWE / Raw | — | en-investigacion | 1 | [→](2004-05-10-christian-vs-jericho-steel-cage-wwe-raw.md) |
+| 2004-04-18 | Christian & Trish Stratus vs Chris Jericho — handicap match | WWE / Backlash 2004 | — | en-investigacion | 1 | [→](2004-04-18-christian-trish-vs-jericho-wwe-backlash.md) |
+| 2004-03-14 | Christian vs Chris Jericho | WWE / WrestleMania XX | — | en-investigacion | 1 | [→](2004-03-14-christian-vs-jericho-wrestlemania-xx.md) |
+| 2004-03-14 | Brock Lesnar vs Eddie Guerrero — WWE Championship | WWE / WrestleMania XX | — | en-investigacion | 1 | [→](2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md) |
+| 2004-01-01 | AJ Styles vs Homicide | IWC (International Wrestling Cartel) / IWC indie 2004 (fecha exacta pendiente) | — | en-investigacion | 1 | [→](2004-aj-styles-vs-homicide-iwc.md) |
+| 2003-01-11 | AJ Styles & Low Ki vs Christopher Daniels & Xavier (The Prophecy) | ROH (Ring of Honor) / ROH Revenge On The Prophecy | — | en-investigacion | 1 | [→](2003-01-11-aj-styles-low-ki-vs-daniels-xavier-roh.md) |
+| 2002-12-05 | Kurt Angle vs Chris Benoit vs Eddie Guerrero vs Edge — fatal 4-way | WWE / SmackDown | — | en-investigacion | 1 | [→](2002-12-05-angle-vs-benoit-vs-eddie-vs-edge-fatal-4way-wwe-smackdown.md) |
+| 2002-11-17 | Rey Mysterio & Edge vs Los Guerreros vs Kurt Angle & Chris Benoit — triple threat tag | WWE / Survivor Series 2002 | — | en-investigacion | 1 | [→](2002-11-17-mysterio-edge-vs-guerreros-vs-angle-benoit-wwe-survivor-series.md) |
+| 2002-11-14 | Eddie Guerrero vs Rey Mysterio | WWE / SmackDown | — | en-investigacion | 1 | [→](2002-11-14-eddie-guerrero-vs-rey-mysterio-wwe-smackdown.md) |
+| 2002-11-07 | Brock Lesnar vs Eddie Guerrero | WWE / SmackDown | — | en-investigacion | 1 | [→](2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md) |
+| 2002-10-31 | Brock Lesnar vs Rey Mysterio | WWE / SmackDown | — | en-investigacion | 1 | [→](2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md) |
+| 2002-10-20 | Kurt Angle & Chris Benoit vs Edge & Rey Mysterio | WWE / No Mercy 2002 | — | en-investigacion | 1 | [→](2002-10-20-angle-benoit-vs-edge-mysterio-wwe-no-mercy.md) |
+| 2002-09-26 | Rey Mysterio vs Kurt Angle vs Chris Benoit — triple threat | WWE / SmackDown | — | en-investigacion | 1 | [→](2002-09-26-mysterio-vs-angle-vs-benoit-wwe-smackdown.md) |
+| 2002-08-25 | Rey Mysterio vs Kurt Angle | WWE / SummerSlam 2002 | — | en-investigacion | 1 | [→](2002-08-25-rey-mysterio-vs-kurt-angle-wwe-summerslam.md) |
+| 2002-07-25 | Christian & Lance Storm vs The Rock & Hulk Hogan | WWE / SmackDown | — | en-investigacion | 1 | [→](2002-07-25-christian-lance-storm-vs-rock-hogan-wwe-smackdown.md) |
+| 2002-03-02 | Eddie Guerrero vs CM Punk | IWA Mid-South / Revolution Strong Style | — | en-investigacion | 1 | [→](2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md) |
+| 2001-07-09 | AJ Styles vs Rick Michaels | WWF developmental / [verif] | — | en-investigacion | 1 | [→](2001-07-09-aj-styles-vs-rick-michaels-wwf.md) |
+| 1998-01-18 | Shawn Michaels vs Undertaker — Casket Match | WWF / Royal Rumble 1998 | — | en-investigacion | 1 | [→](1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md) |
+| 1997-12-07 | Steve Austin vs The Rock | WWF / In Your House 19: D-Generation X | — | en-investigacion | 1 | [→](1997-12-07-steve-austin-vs-the-rock-wwf-in-your-house.md) |
+| 1997-11-23 | Holy Demon Army (Toshiaki Kawada & Akira Taue) vs Hayabusa & Jinsei Shinzaki | AJPW (cross-promo FMW) / Real World Tag League 1997 Day 7 | PW·FS·WE | en-investigacion | múltiples | [→](1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md) |
+| 1997-11-23 | Bradshaw & Barry Windham vs Steve Williams & Gary Albright | AJPW / World's Strongest Tag League 1997 | — | en-investigacion | 1 | [→](1997-11-23-bradshaw-windham-vs-williams-albright-ajpw.md) |
+| 1997-10-26 | Eddie Guerrero vs Rey Mysterio Jr. — Title vs Mask | WCW / Halloween Havoc 1997 | — | en-investigacion | 1 | [→](1997-10-26-eddie-guerrero-vs-rey-mysterio-wcw-halloween-havoc-mask-match.md) |
+| 1997-06-15 | Randy 'Macho Man' Savage vs Diamond Dallas Page (DDP) | WCW / The Great American Bash 1997 | — | en-investigacion | 1 | [→](1997-06-15-randy-savage-vs-ddp-wcw-great-american-bash.md) |
+| 1997-03-23 | Bret 'The Hitman' Hart vs Steve Austin — Submission Match | WWF / WrestleMania 13 | — | en-investigacion | 1 | [→](1997-03-23-bret-hart-vs-steve-austin-submission-match-wrestlemania-13.md) |
+| 1996-12-13 | Rey Mysterio Jr vs Ultimo Dragon | WAR (Wrestle Association R) / WAR King Tier 1996 | — | en-investigacion | 1 | [→](1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md) |
+| 1996-04-25 | Steve Austin vs Bret 'The Hitman' Hart | WWF / European Tour 1996 (Germany) | — | en-investigacion | 1 | [→](1996-04-25-steve-austin-vs-bret-hart-wwf-live-event-germany.md) |
+| 1996-03-31 | Bret 'The Hitman' Hart vs Shawn Michaels — 60-minute Iron Man Match | WWF / WrestleMania XII | — | en-investigacion | 1 | [→](1996-03-31-bret-hart-vs-shawn-michaels-iron-man-wrestlemania-12.md) |
+| 1995-07-23 | 1-2-3 Kid vs The Roadie | WWF / In Your House 2: The Lumberjacks | — | en-investigacion | 0 | [→](1995-07-23-123-kid-vs-the-roadie-in-your-house-2.md) |
+| 1995-04-01 | Bret Hart vs Owen Hart — WWF Raw pre-WrestleMania XI | WWF / Raw | — | en-investigacion | 1 | [→](1995-bret-hart-vs-owen-hart-wwf-raw-pre-wmxi.md) |
+| 1994-03-20 | Owen Hart vs Bret Hart | WWF / WrestleMania X | — | en-investigacion | 1 | [→](1994-03-20-owen-hart-vs-bret-hart-wrestlemania-x.md) |
+| 1994-01-01 | Bret Hart vs Owen Hart — No Holds Barred (Coliseum Video Exclusive) | WWF / Coliseum Video Exclusive (dark match) | — | en-investigacion | 1 | [→](1994-bret-hart-vs-owen-hart-coliseum-video-no-holds-barred.md) |
+| 1992-10-26 | Bret 'The Hitman' Hart vs The Mountie | WWF / TV taping / live event Saskatoon | — | en-investigacion | 1 | [→](1992-10-26-bret-hart-vs-the-mountie-wwf.md) |
+| 1992-01-01 | Negro Casas vs Ultimo Dragon | WAR (Wrestle Association R) / WAR tour 1992 | — | en-investigacion | 1 | [→](1992-negro-casas-vs-ultimo-dragon-war.md) |
+| 1984-06-09 | Greg 'The Hammer' Valentine vs Salvatore Bellomo | WWF / house show Capital Center | — | en-investigacion | 1 | [→](1984-06-09-greg-valentine-vs-salvatore-bellomo-capital-center.md) |
+| 1984-04-01 | Paul Orndorff vs Jimmy Jackson | WWF / house show + TV taping | — | en-investigacion | 1 | [→](1984-04-01-paul-orndorff-vs-jimmy-jackson.md) |
+| 1983-12-31 | Jay & Mark Youngblood vs Hans Schroeder & Joe Russo | NWA Jim Crockett Promotions / NWA World Wide Wrestling | — | en-investigacion | 1 | [→](1983-12-31-hermanos-youngblood-vs-schroeder-russo-nwa-world-wide.md) |
+| 1983-08-06 | Bob Orton Jr. vs Ben Alexander | NWA Jim Crockett Promotions / NWA World Wide Wrestling | — | en-investigacion | 1 | [→](1983-08-06-bob-orton-jr-vs-ben-alexander-nwa-world-wide.md) |
+| 1983-01-01 | Arn Anderson vs Mr. Wrestling 2 | Mid-South Wrestling (Bill Watts) / Mid-South Wrestling TV | — | en-investigacion | 1 | [→](1983-arn-anderson-vs-mr-wrestling-2-mid-south.md) |
+| 1982-09-11 | Terry Funk vs Stan Hansen | AJPW / Excite Series 1982 [verif] | PW·FS·WE | integrado-sub-agente-2026-05-22 | 1 | [→](1982-09-11-terry-funk-vs-stan-hansen-ajpw.md) |
+| 1981-12-19 | Dynamite Kid vs Mark 'Rollerball' Rocco | Joint Promotions–Dale Martin / ITV World of Sport | PW·FS·WE | en-investigacion | 1 | [→](1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md) |
+| 1975-10-30 | Stan Hansen vs The Destroyer | AJPW [verif] / Giant Series 1975 [verif] | PW·FS·WE | en-investigacion | 1 | [→](1975-10-30-stan-hansen-vs-the-destroyer-ajpw.md) |
+| 1963-12-02 | Rikidōzan vs The Destroyer — NWA International Heavyweight Championship | JWA / tour Tokyo (NTV) | PW·FS·WE | en-investigacion | 1 | [→](1963-12-02-rikidozan-vs-the-destroyer-jwa.md) |
 
 ---
 
 ## Leyenda
 
-- **Estado**: `stub` (recién creado), `en-investigacion`, `verificado`, `vivo`.
-- **Veces visto**: campo `veces_visto_vehemiurgo` del frontmatter. `—` si no
-  se ha registrado todavía.
+- **Clase**: sistema del Vehemiurgo (`glossary/clases-vehemiurgo.md`).
+  **PW** = Perfect Wrestling · **FS** = Fighting Spirit · **WE** =
+  Wrestling Entertainment · **—** = sin clasificar. Multi-clase separada
+  por `·`.
+- **Estado**: `stub` (recién creado), `en-investigacion`, `verificado`,
+  `vivo`, `integrado-sub-agente-*`.
+- **Veces**: campo `veces_visto_vehemiurgo`. `—` si no se ha registrado.
 
 ## Cómo se mantiene
 
 - Cada alta de match agrega una fila.
-- Cuando cambia el estado o el rewatch count, se actualiza la fila
-  correspondiente.
+- Cuando cambia el estado, la clase o el rewatch count, se actualiza la
+  fila.
 - Ordenado por fecha del match, no por fecha de alta.
-- Si la fecha está pendiente (`YYYY-XX-XX`), va al lugar aproximado del
-  año o se agrupa al final del año.
+- Fechas aproximadas (placeholder `YYYY-01-01`) van al lugar del año.
+- La lista personal maestra (source of truth en crecimiento) vive en
+  [`../../notebook/2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).
