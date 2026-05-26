@@ -4,6 +4,7 @@ sesion: "Volcado de takes poniéndose al día con AEW — Collision 11 abr 2026.
 topicos:
   - windsor-hayter-promo-fighting-spirit-wrestling-entertainment
   - doctrina-old-school-igual-fighting-spirit-aplica-promos
+  - young-bucks-vs-hechicero-clon-perfect-match-todas-las-clases
 research_delegado: []
 ultima_actualizacion: 2026-05-26
 ---
@@ -53,6 +54,25 @@ agregada a la sección Fighting Spirit).
      micrófono (promo old-school real).
 - **Primera promo clasificada Fighting Spirit** del archivo → ejemplo
   fundacional de la refinación.
+
+### 3. Young Bucks vs Hechicero & el clon — PERFECT MATCH (todas las clases)
+
+**Distribución**: `archive/matches/2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md`
+(stub, las tres clases).
+
+> "de ese mismo show, young bucks vs hechicero y el clon, se merece todas
+> las clases, simplemente genial, top tier wrestling."
+
+**Notas mías**:
+- Clases: **`[perfect-wrestling, fighting-spirit, wrestling-entertainment]`**
+  — el combo "techo absoluto, casi unicornio".
+- **SEGUNDO Perfect Match contemporáneo de la sesión** (tras MJF vs
+  Speedball, 1 abr). Dos Perfect Match en menos de dos semanas de AEW.
+- **Cruce de escuelas**: Young Bucks (tandem indie/AEW) vs Hechicero
+  (lucha técnica CMLL) + compañero — spectacle + lucha real old-school,
+  por eso conviven las tres clases.
+- **"El clon" [verif]** — identidad del compañero de Hechicero a
+  confirmar. No asentar sin fuente.
 
 ---
 
