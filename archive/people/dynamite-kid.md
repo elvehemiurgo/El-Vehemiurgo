@@ -14,7 +14,7 @@ tags: [dynamite-kid, tom-billington, british-wrestling-pillar, joint-promotions-
 
 # Dynamite Kid (Tom Billington)
 
-> **HÉROE FUNDAMENTAL VEHEMIURGIA #6**. Declaración categórica
+> **HÉROE FUNDAMENTAL VEHEMIURGIA #6** ([panteón](../topics/heroes-fundamentales-vehemiurgia.md)). Declaración categórica
 > Vehemiurgo (2026-05-10): ***"el Dynamite Kid es wrestling
 > puro"***. British wrestling pillar pre-Calgary + Calgary
 > Stampede pillar + NJPW Junior Heavyweight revolution con

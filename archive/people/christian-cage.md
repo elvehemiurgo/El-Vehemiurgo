@@ -14,7 +14,7 @@ tags: [christian-cage, captain-charisma, clb, killswitch, edge-and-christian, un
 
 # Christian Cage
 
-> **Héroe fundamental del Vehemiurgo**. La sec. 1 del notebook
+> **Héroe fundamental del Vehemiurgo #1** ([panteón](../topics/heroes-fundamentales-vehemiurgia.md)). La sec. 1 del notebook
 > *"Christian Cage como héroe fundamental"* lo identifica como
 > *"el lente a través del cual el Vehemiurgo lee gran parte de
 > la era 2002-2007 y el linaje hasta AEW hoy"*. **Eje editorial

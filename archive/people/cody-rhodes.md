@@ -19,6 +19,11 @@ tags: [cody-rhodes, american-nightmare, dusty-rhodes-son, stardust, aew-co-found
 > arc cross-promotion verificable a través de 4 ecosistemas
 > (WWE → NJPW → AEW co-founder → WWE return). **WM42 Día 1
 > main event** vs Randy Orton retoma Legacy era 2008-2010.
+>
+> **Héroe fundamental del Vehemiurgo #3** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
+> rama narrativa/legacy. (Cluster identificado en sesiones
+> previas; número de la consolidación 2026-05-26 a confirmar.)
 
 ## Identificación
 

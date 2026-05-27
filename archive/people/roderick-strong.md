@@ -12,9 +12,11 @@ tags: [roderick-strong, messiah-of-the-backbreaker, mr-roh, generation-next, roh
 
 # Roderick Strong
 
-> **Héroe fundamental del Vehemiurgo** — declarado en notebook
-> 2026-05-26: *"Roderick es mi héroe, está ahí arriba con CM
-> Punk y Christian Cage y Marc Rocko. Es un genio."* Worker de
+> **Héroe fundamental del Vehemiurgo #7**
+> ([panteón](../topics/heroes-fundamentales-vehemiurgia.md)) —
+> declarado en notebook 2026-05-26: *"Roderick es mi héroe,
+> está ahí arriba con CM Punk y Christian Cage y Marc Rocko. Es
+> un genio."* Worker de
 > **oficio technical-but-carny denso**, *Messiah of the
 > Backbreaker*, pillar ROH/PWG → NXT Undisputed Era → AEW.
 > Stub abierto con datos duros conservadores; expandir con

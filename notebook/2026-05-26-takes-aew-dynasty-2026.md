@@ -31,7 +31,7 @@ héroes fundamentales**.
 
 ### 1. Young Bucks vs Okada & Takeshita — PERFECT MATCH (todas las clases)
 
-**Distribución**: `archive/matches/2026-aew-dynasty-young-bucks-vs-okada-takeshita.md`
+**Distribución**: `archive/matches/2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md`
 (stub, las tres clases).
 
 - Clases: **`[perfect-wrestling, fighting-spirit, wrestling-entertainment]`**.

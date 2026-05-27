@@ -13,7 +13,6 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
-| 2026-04-26 [verif] | Young Bucks vs Okada & Takeshita | AEW / Dynasty 2026 (PPV) | PW·FS·WE | stub | 1 | [→](2026-aew-dynasty-young-bucks-vs-okada-takeshita.md) |
 | 2026-04-19 | Rhea Ripley vs Jade Cargill | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-rhea-ripley-vs-jade-cargill-wrestlemania-42.md) |
 | 2026-04-19 | CM Punk vs Roman Reigns | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) |
 | 2026-04-19 | Brock Lesnar vs Oba Femi | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md) |
@@ -24,6 +23,7 @@ con cada cambio de estado.
 | 2026-04-14 | Jacy Jayne vs Lola Vice | WWE NXT / NXT Revenge Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md) |
 | 2026-04-14 | Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance | WWE NXT / NXT Revenge Week 1 | — | en-investigacion | 1 | [→](2026-04-14-dorian-van-dux-loss-nxt-revenge-week-1.md) |
 | 2026-04-13 | JD McDonagh & Rusev vs Dragon Lee & Jevon Evans | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-13-jd-mcdonagh-rusev-vs-dragon-lee-jevon-evans-raw.md) |
+| 2026-04-12 | Young Bucks vs Okada & Takeshita | AEW / Dynasty 2026 (PPV) | PW·FS·WE | stub | 1 | [→](2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md) |
 | 2026-04-11 | Young Bucks vs Hechicero & el clon | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md) |
 | 2026-04-11 | Brawling Birds vs Thekla & Marina Shafir | AEW / Collision | FS | stub | 1 | [→](2026-04-11-brawling-birds-vs-thekla-shafir-aew-collision.md) |
 | 2026-04-08 | Takeshita, Andrade & Mark Davis vs [trío rival] — six-man tag | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md) |

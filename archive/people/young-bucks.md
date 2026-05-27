@@ -12,9 +12,10 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
 
 # Young Bucks (Matt & Nick Jackson)
 
-> **Héroes fundamentales del Vehemiurgo** — declarados en
-> notebook 2026-05-26: *"amo a los young bucks, son mis héroes
-> también"*. Tandem moderno por excelencia (superkick-era) +
+> **Héroes fundamentales del Vehemiurgo #8** (cuentan como uno;
+> [panteón](../topics/heroes-fundamentales-vehemiurgia.md)) —
+> declarados en notebook 2026-05-26: *"amo a los young bucks,
+> son mis héroes también"*. Tandem moderno por excelencia (superkick-era) +
 > fundadores/EVP de AEW + The Elite. **Dos Perfect Match en la
 > sesión 2026**. Stub con datos mínimos; expandir.
 
@@ -45,7 +46,7 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
   - vs Hechicero & el clon (Collision 11 abr)
     ([`../matches/2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md`](../matches/2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md)).
   - vs Okada & Takeshita (Dynasty 2026)
-    ([`../matches/2026-aew-dynasty-young-bucks-vs-okada-takeshita.md`](../matches/2026-aew-dynasty-young-bucks-vs-okada-takeshita.md)).
+    ([`../matches/2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md`](../matches/2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md)).
   - vs FTR (Revolution 15 mar)
     ([`../matches/2026-03-15-young-bucks-vs-ftr-aew-revolution.md`](../matches/2026-03-15-young-bucks-vs-ftr-aew-revolution.md)).
 
@@ -83,16 +84,16 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
       derivó en AEW.
 - [ ] Rol EVP + booking power (worker-as-booker, paralelo a
       Kenny Omega).
-- [ ] **Consolidar el panteón de héroes fundamentales** del
-      Vehemiurgo en un topic file (roster + numeración a
-      ordenar — ver nota en notebook).
+- [x] **Panteón consolidado** en
+      [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)
+      (Young Bucks = #8, cuentan como uno).
 - [ ] Finishers vigentes + verificar datos duros.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynasty-2026.md`](../../notebook/2026-05-26-takes-aew-dynasty-2026.md)
   — declaración de héroes fundamentales.
-- [`../matches/2026-aew-dynasty-young-bucks-vs-okada-takeshita.md`](../matches/2026-aew-dynasty-young-bucks-vs-okada-takeshita.md)
+- [`../matches/2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md`](../matches/2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md)
   — Perfect Match (las tres clases).
 - [`../matches/2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md`](../matches/2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md)
   — Perfect Match (las tres clases).

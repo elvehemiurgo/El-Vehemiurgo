@@ -14,9 +14,10 @@ tags: [hazuki, reo-hazuki-real-name, stardom-pillar-2014, hzk-era-2017-2018, que
 
 # Hazuki
 
-> **HÉROE FUNDAMENTAL VEHEMIURGIA + favorita ever**. Declaración
-> categórica máxima del Vehemiurgo (2026-05-10): ***"Hazuki is
-> god"***. Stardom pillar contemporary desde 6 jul 2014 (~12
+> **HÉROE FUNDAMENTAL VEHEMIURGIA #5 + favorita ever**
+> ([panteón](../topics/heroes-fundamentales-vehemiurgia.md)).
+> Declaración categórica máxima del Vehemiurgo (2026-05-10):
+> ***"Hazuki is god"***. Stardom pillar contemporary desde 6 jul 2014 (~12
 > años de carrera). Multi-time champion + **Spark Joshi World
 > Championship inaugural 2025** + **AEW debut confirmado mayo
 > 2026 — Owen Hart Foundation Tournament vs Persephone**.

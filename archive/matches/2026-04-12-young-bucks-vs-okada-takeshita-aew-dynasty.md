@@ -7,7 +7,7 @@ participantes:
   - "Konosuke Takeshita (Don Callis Family [verif])"
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynasty 2026 (PPV)"
-fecha: 2026-04-26
+fecha: 2026-04-12
 ciudad: "[verif]"
 recinto: "[verif]"
 tipo_match: "tag team (2 vs 2)"
@@ -30,7 +30,7 @@ ultima_actualizacion: 2026-05-26
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynasty 2026)"
   - "Visionado directo del Vehemiurgo"
-tags: [aew-dynasty-2026, young-bucks, matt-jackson, nick-jackson, kazuchika-okada, konosuke-takeshita, perfect-match-las-tres-clases, obra-maestra, booking-atrayente, tercer-triple-clase-contemporaneo-2026, young-bucks-heroes-fundamentales, fecha-exacta-dynasty-2026-verif]
+tags: [aew-dynasty-2026, young-bucks, matt-jackson, nick-jackson, kazuchika-okada, konosuke-takeshita, perfect-match-las-tres-clases, obra-maestra, booking-atrayente, tercer-triple-clase-contemporaneo-2026, young-bucks-heroes-fundamentales, dynasty-2026-12-abr]
 ---
 
 # Young Bucks vs Okada & Takeshita — AEW Dynasty 2026
@@ -41,8 +41,8 @@ tags: [aew-dynasty-2026, young-bucks, matt-jackson, nick-jackson, kazuchika-okad
 > increíble, y el Booking es realmente atrayente"*. **TERCER
 > Perfect Match contemporáneo de la sesión** + **declaración de
 > los Young Bucks como héroes fundamentales del Vehemiurgo**.
-> **Stub** — fecha exacta de Dynasty 2026, mecánica y contexto
-> pendientes de verificación.
+> **Stub** — mecánica y contexto pendientes de verificación.
+> Fecha confirmada: **12 abr 2026**.
 
 ## Lectura del Vehemiurgo (verbatim)
 
@@ -76,8 +76,7 @@ tags: [aew-dynasty-2026, young-bucks, matt-jackson, nick-jackson, kazuchika-okad
 ## Pendientes / huecos
 
 - [x] **CLASES ASIGNADAS** — las tres (Vehemiurgo 2026-05-26).
-- [ ] **Fecha exacta de AEW Dynasty 2026** (placeholder
-      2026-04-26 — confirmar y renombrar/reubicar si difiere).
+- [x] **Fecha confirmada**: 12 abr 2026 (Vehemiurgo 2026-05-26).
 - [ ] **Ciudad, recinto, finish, ganador, duración**.
 - [ ] **Estipulación / contexto del feud** (¿títulos?, ¿Don
       Callis Family storyline?).

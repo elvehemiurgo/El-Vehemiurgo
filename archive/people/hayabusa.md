@@ -19,6 +19,10 @@ tags: [hayabusa, eiji-ezaki, fmw-pillar-tecnico, high-flying-experimentación, l
 > ever"* (Vehemiurgo). Pieza editorial del cluster **sec. 7
 > *Tradición japonesa*** del notebook + **anchor triple-clase
 > operativa** (match vs Kawada/Taue cross-promotion).
+>
+> **Héroe fundamental del Vehemiurgo #4** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
+> rama puroresu/joshi-high-flying.
 
 ## Identificación
 

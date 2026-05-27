@@ -20,6 +20,11 @@ tags: [cm-punk, second-city-saint, pipebomb, real-wrestler, anti-tko, indy-2000s
 > fases del proyecto Vehemiurgia. Talent central del
 > **meta-storyline *"real wrestlers vs play wrestlers"***
 > identificado por el Vehemiurgo en WrestleMania 42 cluster.
+>
+> **Héroe fundamental del Vehemiurgo #2** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
+> rama *workers de oficio*. Nombrado entre los héroes por el
+> Vehemiurgo al declarar a Roderick Strong.
 
 ## Identificación
 
