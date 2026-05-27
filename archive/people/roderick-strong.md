@@ -132,6 +132,15 @@ Vehemiurgia de workers de oficio** (Punk + Christian + Rocco +
 Roderick) — qué los une y por qué son el contramodelo del
 acto *friky* moderno.
 
+**Nota panteón (2026-05-26)**: el Vehemiurgo sumó a los
+**Young Bucks** a sus héroes (*"son mis héroes también"*, ver
+[`./young-bucks.md`](./young-bucks.md)) — pero los Bucks son
+**tandem moderno**, no workers old-school. Es decir: el
+**panteón de héroes** del Vehemiurgo es **más amplio** que el
+sub-grupo *workers de oficio* (donde encaja Roderick). Roderick
+pertenece al **núcleo old-school**; los Bucks, a la rama
+moderna-con-sustancia.
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + fecha/lugar de nacimiento exactos** —
