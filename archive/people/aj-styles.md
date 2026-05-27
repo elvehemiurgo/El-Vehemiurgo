@@ -20,6 +20,10 @@ tags: [aj-styles, phenomenal-one, tna-original-pillar, christian-coalition-worke
 > identifica el interés sostenido en AJ a través de **5
 > compañías + 7+ entradas indie + TNA pillar + NJPW Bullet
 > Club + WWE 2016+**.
+>
+> **Héroe fundamental del Vehemiurgo #9** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
+> rama worker de oficio (declarado 2026-05-26).
 
 ## Identificación
 

@@ -12,10 +12,11 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
 
 # Young Bucks (Matt & Nick Jackson)
 
-> **Héroes fundamentales del Vehemiurgo #8** (cuentan como uno;
-> [panteón](../topics/heroes-fundamentales-vehemiurgia.md)) —
-> declarados en notebook 2026-05-26: *"amo a los young bucks,
-> son mis héroes también"*. Tandem moderno por excelencia (superkick-era) +
+> **Héroes fundamentales del Vehemiurgo #15** (cuentan como uno;
+> [panteón](../topics/heroes-fundamentales-vehemiurgia.md);
+> reorganización 2026-05-26: de #8 a #15) — declarados en
+> notebook 2026-05-26: *"amo a los young bucks, son mis héroes
+> también"*. Tandem moderno por excelencia (superkick-era) +
 > fundadores/EVP de AEW + The Elite. **Dos Perfect Match en la
 > sesión 2026**. Stub con datos mínimos; expandir.
 

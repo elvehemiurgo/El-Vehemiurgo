@@ -22,6 +22,11 @@ tags: [mark-rocco, jonathan-mark-hussey, rollerball-apodo-1975-film, manchester-
 > **mentor directo de William Regal** (citado *Walking a
 > Golden Mile* + *Gentleman Villain podcast*). Pieza editorial
 > del cluster sec. 2 CLAUDE.md *"British World of Sport ITV"*.
+>
+> **Héroe fundamental del Vehemiurgo #10** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
+> rama British/Wigan. (El Vehemiurgo lo nombró entre sus héroes
+> al declarar a Roderick Strong; numerado #10 el 2026-05-26.)
 
 ## Identificación
 

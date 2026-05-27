@@ -20,6 +20,10 @@ tags: [steve-austin, stone-cold, the-texas-rattlesnake, attitude-era-pillar, aus
 > centerpiece **cluster Austin/Bret Live Event Germany 1996**
 > (Fighting Spirit Class anchor) + **Austin/Rock IYH 1997**
 > (Wrestling Entertainment Class anchor).
+>
+> **Héroe fundamental del Vehemiurgo #3** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
+> rama carny/draw histórico (declarado 2026-05-26).
 
 ## Identificación
 

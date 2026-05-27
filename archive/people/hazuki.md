@@ -14,8 +14,9 @@ tags: [hazuki, reo-hazuki-real-name, stardom-pillar-2014, hzk-era-2017-2018, que
 
 # Hazuki
 
-> **HÉROE FUNDAMENTAL VEHEMIURGIA #5 + favorita ever**
-> ([panteón](../topics/heroes-fundamentales-vehemiurgia.md)).
+> **HÉROE FUNDAMENTAL VEHEMIURGIA #16 + favorita ever**
+> ([panteón](../topics/heroes-fundamentales-vehemiurgia.md);
+> reorganización 2026-05-26: de #5 a #16).
 > Declaración categórica máxima del Vehemiurgo (2026-05-10):
 > ***"Hazuki is god"***. Stardom pillar contemporary desde 6 jul 2014 (~12
 > años de carrera). Multi-time champion + **Spark Joshi World

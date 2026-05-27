@@ -17,6 +17,10 @@ tags: [mjf, maxwell-jacob-friedman, aew-world-champion, cm-punk-feud-2022, dog-c
 > villain "wrestling's biggest superstar of tomorrow" gimmick.
 > AEW founding generation talent + AEW World Champion múltiples
 > runs + feud Hangman Adam Page peak 2026 cluster.
+>
+> **Héroe fundamental del Vehemiurgo #14** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
+> rama modern heel old-school (declarado 2026-05-26).
 
 ## Identificación
 

@@ -20,6 +20,10 @@ tags: [bret-hart, the-hitman, the-best-there-is, hart-foundation, hart-family, w
 > victim + víctima de injury Goldberg WCW 1999. Pieza de
 > sec. 5 del notebook *"Bret Hart deep cuts — carny
 > tradition"*.
+>
+> **Héroe fundamental del Vehemiurgo #8** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
+> rama worker de oficio (declarado 2026-05-26, #8).
 
 ## Identificación
 

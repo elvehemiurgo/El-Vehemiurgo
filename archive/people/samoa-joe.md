@@ -17,6 +17,11 @@ tags: [samoa-joe, the-samoan-submission-machine, roh-pillar-2003-2007, tna-pilla
 > TNA 2007 cluster + WWE NXT/main + AEW**. Pieza centerpiece
 > cluster **TNA 2007 Joe-Angle arc** + ROH founding generation
 > con AJ + Punk + Bryan + Daniels.
+>
+> **Héroe fundamental del Vehemiurgo #4** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)).
+> Declarado 2026-05-26: *"realmente creo que Samoa Joe es el más
+> influyente de los 2000s"*.
 
 ## Identificación
 

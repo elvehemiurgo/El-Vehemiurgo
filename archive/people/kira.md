@@ -22,6 +22,11 @@ tags: [kira, andromeda-ex, estrellita-lagunera-indie, cmll-talent, lucha-mexican
 > Pieza editorial del cluster **lucha mexicana tradition** +
 > anchor del **primer match triple-clase operativa** del sistema
 > Vehemiurgia.
+>
+> **Héroe fundamental del Vehemiurgo #17** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
+> rama lucha libre (declarada 2026-05-26). Es la **Kira mexicana
+> (CMLL)**, no la Kira de TJPW ni Keyra (desambiguación en ficha).
 
 ## Identificación
 
