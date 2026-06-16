@@ -87,7 +87,11 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
       Kenny Omega).
 - [x] **Panteón consolidado** en
       [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)
-      (Young Bucks = #8, cuentan como uno).
+      (Young Bucks = #15, cuentan como uno).
+- [ ] **PENDIENTE DE VER SÍ O SÍ — rivalidad vs reDRagon
+      (ROH/NJPW 2014-2016)**: 9 matches directos +
+      contexto, ver
+      [`../topics/young-bucks-vs-redragon-roh-njpw.md`](../topics/young-bucks-vs-redragon-roh-njpw.md).
 - [ ] Finishers vigentes + verificar datos duros.
 
 ## Piezas del Vehemiurgo donde aparece
