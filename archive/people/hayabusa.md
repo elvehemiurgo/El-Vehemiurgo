@@ -16,7 +16,8 @@ tags: [hayabusa, eiji-ezaki, fmw-pillar-tecnico, high-flying-experimentación, l
 
 > **Pillar técnico FMW + experimentación high-flying influyente
 > + tragedia 2001 + fallecimiento 2016**. *"Una de mis favoritas
-> ever"* (Vehemiurgo). Pieza editorial del cluster **sec. 7
+> ever"* (Vehemiurgo, 2026-05-10). ***"El cristo del wrestling"***
+> (Vehemiurgo, 2026-06-17). Pieza editorial del cluster **sec. 7
 > *Tradición japonesa*** del notebook + **anchor triple-clase
 > operativa** (match vs Kawada/Taue cross-promotion).
 >
@@ -114,6 +115,38 @@ Hart 1999 ([`./owen-hart.md`](./owen-hart.md)).
   *contiene* la posibilidad de la tragedia.
 - **"Es un lujo poder ver una lucha de Hayabusa"** —
   declaración categórica.
+
+### Sesión 2026-06-17 — *"El cristo del wrestling"*
+
+**Cita verbatim (extracto sobre Hayabusa, dentro de un volcado sobre
+la generación 90s japonesa)**:
+
+> *"pero esos luchadores legendarios, el mismo Hayabusa que es el
+> cristo del wrestling"*
+
+**Lectura sintética**:
+
+- **Declaración categórica** que va más allá del *"una de mis
+  favoritas ever"* del 2026-05-10. **Cristo del wrestling** = figura
+  **sacrificial** del oficio.
+- **Hayabusa pagó con el cuerpo la liturgia** del high-flying
+  experimental — el injury de 22 oct 2001 le partió las cervicales,
+  la recovery limitada lo siguió diezmando, y las complicaciones
+  cerebrales lo mataron 15 años después (3 mar 2016, edad 47). El
+  arco completo es **martirio del oficio**.
+- **Conecta con la doctrina vehemiurgia del riesgo carny real**: el
+  high-flying experimental tiene sustancia **cuando el riesgo es
+  real**. Hayabusa lo encarna en su forma más extrema — la
+  performance contenía la posibilidad de la tragedia, y la tragedia
+  llegó.
+- **Refuerza el lugar #23 en el panteón** desde otro ángulo: no es
+  solo el influyente, es el **mártir**. Encaja con el linaje
+  editorial paralelo de **Owen Hart** (tragedia stunt-spot pre-safety
+  standards).
+- **Pendiente editorial confirmado**: la pieza *"Hayabusa: el primer
+  animal del high-flying experimental"* ahora tiene un segundo
+  ángulo cristológico. Probable título: *"Hayabusa, el cristo del
+  wrestling — el animal que pagó con el cuerpo"*.
 
 ### Linaje editorial — el influyente sin que el indie moderno lo sepa
 
