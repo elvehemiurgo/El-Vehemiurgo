@@ -74,9 +74,13 @@ tags: [kiyoshi-tamura, uwf-i, uwf-newborn, rings, fighting-network-rings, shoot-
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/1996-09-25-volk-han-vs-kiyoshi-tamura-rings.md`](../matches/1996-09-25-volk-han-vs-kiyoshi-tamura-rings.md)
-  — match 1 de la trilogía, triple clase.
+- **Serie vs Volk Han — los 4 singles, todos triple clase** (vistos,
+  decisión 2026-06-17). Tamura gana los dos últimos (clímax 26/9/97):
+  - [match 1 — 25/9/96 Maelstrom VII](../matches/1996-09-25-volk-han-vs-kiyoshi-tamura-rings.md)
+  - [match 2 — 22/1/97 Mega Battle Final](../matches/1997-01-22-volk-han-vs-kiyoshi-tamura-rings-mega-battle-final.md)
+  - [match 3 — 26/9/97 Fighting Extension VII](../matches/1997-09-26-volk-han-vs-kiyoshi-tamura-rings-fighting-extension-vii.md) (su victoria signature)
+  - [match 4 — 21/9/98 Fighting Integration VI](../matches/1998-09-21-volk-han-vs-kiyoshi-tamura-rings-fighting-integration-vi.md)
 - [`../topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md`](../topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md)
-  — watch-list de la trilogía completa.
+  — la serie completa (Han 2 – Tamura 2).
 - [`../topics/junior-heavyweight-highspeed-1990s.md`](../topics/junior-heavyweight-highspeed-1990s.md)
   — rama vecina del mismo paquete temporal 90s.

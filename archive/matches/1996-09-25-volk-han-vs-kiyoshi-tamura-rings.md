@@ -98,20 +98,20 @@ formato shoot-style RINGS.
   Tamura en su año debut RINGS** (venía invicto).
 - **Duración**: [verif — no aparece en snippets fiables].
 
-## Nota crítica — cuál match es
+## Nota — lugar en la serie
 
-Este es el **match 1 de 4** y **lo gana Han**. El Vehemiurgo lo citó
-como *"obra maestra"*, pero el match más aclamado de la serie es el
-**26/9/1997 (Fighting Extension VII), que gana Tamura por
-cross-armbreaker** (~★★★★¾). **Pendiente confirmar** con el
-Vehemiurgo cuál vio realmente. Detalle en el
-[topic file de la serie](../topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md).
+Este es el **match 1 de 4** y **lo gana Han** por submission. El
+Vehemiurgo **vio los cuatro matches** de la serie y declaró las **3
+clases para los cuatro** (2026-06-17). El clímax / más aclamado de la
+serie es el **26/9/1997 (Fighting Extension VII)**, donde Tamura por
+fin vence. Serie completa y decisión en el
+[topic file](../topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md).
 
 ## Pendientes de investigación
 
 - [x] Show / ciudad / recinto / ganador / finish (sub-agente 2026-06-17).
+- [x] Clase + visionado confirmados (Vehemiurgo 2026-06-17: los 4,
+      triple clase).
 - [ ] Duración exacta (snippets no la dan).
 - [ ] Card completa del Maelstrom VII.
-- [ ] **Decisión del Vehemiurgo**: cuál match vio + clase de los otros
-      tres de la serie.
 - [ ] Posición editorial WON sobre el match (contexto, no veredicto).

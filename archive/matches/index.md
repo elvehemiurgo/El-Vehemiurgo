@@ -92,13 +92,16 @@ con cada cambio de estado.
 | 2002-07-25 | Christian & Lance Storm vs The Rock & Hulk Hogan | WWE / SmackDown | — | en-investigacion | 1 | [→](2002-07-25-christian-lance-storm-vs-rock-hogan-wwe-smackdown.md) |
 | 2002-03-02 | Eddie Guerrero vs CM Punk | IWA Mid-South / Revolution Strong Style | — | en-investigacion | 1 | [→](2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md) |
 | 2001-07-09 | AJ Styles vs Rick Michaels | WWF developmental / [verif] | — | en-investigacion | 1 | [→](2001-07-09-aj-styles-vs-rick-michaels-wwf.md) |
+| 1998-09-21 | Volk Han vs Kiyoshi Tamura | Fighting Network RINGS / Fighting Integration VI | PW·FS·WE | stub | 1 | [→](1998-09-21-volk-han-vs-kiyoshi-tamura-rings-fighting-integration-vi.md) |
 | 1998-01-18 | Shawn Michaels vs Undertaker — Casket Match | WWF / Royal Rumble 1998 | — | en-investigacion | 1 | [→](1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md) |
 | 1997-12-07 | Steve Austin vs The Rock | WWF / In Your House 19: D-Generation X | — | en-investigacion | 1 | [→](1997-12-07-steve-austin-vs-the-rock-wwf-in-your-house.md) |
 | 1997-11-23 | Holy Demon Army (Toshiaki Kawada & Akira Taue) vs Hayabusa & Jinsei Shinzaki | AJPW (cross-promo FMW) / Real World Tag League 1997 Day 7 | PW·FS·WE | en-investigacion | múltiples | [→](1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md) |
 | 1997-11-23 | Bradshaw & Barry Windham vs Steve Williams & Gary Albright | AJPW / World's Strongest Tag League 1997 | — | en-investigacion | 1 | [→](1997-11-23-bradshaw-windham-vs-williams-albright-ajpw.md) |
 | 1997-10-26 | Eddie Guerrero vs Rey Mysterio Jr. — Title vs Mask | WCW / Halloween Havoc 1997 | — | en-investigacion | 1 | [→](1997-10-26-eddie-guerrero-vs-rey-mysterio-wcw-halloween-havoc-mask-match.md) |
+| 1997-09-26 | Volk Han vs Kiyoshi Tamura — clímax de la serie | Fighting Network RINGS / Fighting Extension VII | PW·FS·WE | stub | 1 | [→](1997-09-26-volk-han-vs-kiyoshi-tamura-rings-fighting-extension-vii.md) |
 | 1997-06-15 | Randy 'Macho Man' Savage vs Diamond Dallas Page (DDP) | WCW / The Great American Bash 1997 | — | en-investigacion | 1 | [→](1997-06-15-randy-savage-vs-ddp-wcw-great-american-bash.md) |
 | 1997-03-23 | Bret 'The Hitman' Hart vs Steve Austin — Submission Match | WWF / WrestleMania 13 | — | en-investigacion | 1 | [→](1997-03-23-bret-hart-vs-steve-austin-submission-match-wrestlemania-13.md) |
+| 1997-01-22 | Volk Han vs Kiyoshi Tamura — Mega Battle Final | Fighting Network RINGS / Mega Battle Tournament 1996 Final | PW·FS·WE | stub | 1 | [→](1997-01-22-volk-han-vs-kiyoshi-tamura-rings-mega-battle-final.md) |
 | 1996-12-13 | Rey Mysterio Jr vs Ultimo Dragon | WAR (Wrestle Association R) / WAR King Tier 1996 | — | en-investigacion | 1 | [→](1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md) |
 | 1996-10-10 | Johnny Saint vs Naohiro Hoshikawa — World of Sport Rules Match | Michinoku Pro / 3rd Anniversary — These Days | PW·FS·WE | stub | 1 | [→](1996-10-10-johnny-saint-vs-naohiro-hoshikawa-michinoku-pro.md) |
 | 1996-10-10 | Daisuke Ikeda & Satoshi Yoneyama vs Alexander Otsuka & Yuki Ishikawa | Michinoku Pro / 3rd Anniversary — These Days | FS | stub | 1 | [→](1996-10-10-ikeda-yoneyama-vs-otsuka-ishikawa-michinoku-pro.md) |

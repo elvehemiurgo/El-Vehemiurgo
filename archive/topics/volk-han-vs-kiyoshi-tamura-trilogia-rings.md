@@ -38,53 +38,31 @@ tags: [volk-han, kiyoshi-tamura, rings, fighting-network-rings, akira-maeda-prom
   arco de "Tamura alcanzando lentamente a Han hasta por fin
   vencerlo", con el **9/26/97 como clímax** y mejor match de la serie.
 
-## Tabla cronológica — los CUATRO singles (confirmados por sub-agente)
+## Tabla cronológica — los CUATRO singles (todos triple clase)
 
-| # | Fecha | Show RINGS | Recinto / Ciudad | Ganador / Finish | Dur. | Notas |
+> **DECISIÓN DEL VEHEMIURGO (2026-06-17)**: *"Las 3 clases a los 4"* +
+> *"vi todos, los 4"*. Los cuatro matches son **triple clase**
+> (`perfect-wrestling` · `fighting-spirit` · `wrestling-entertainment`)
+> y **vistos** (veces_visto: 1 cada uno). La serie completa es Perfect
+> Match.
+
+| # | Fecha | Show RINGS | Recinto / Ciudad | Ganador / Finish | Dur. | Archivo |
 |---|---|---|---|---|---|---|
-| 1 | **1996-09-25** | **Maelstrom VII** | Nakajima Sports Center, Sapporo | **Volk Han** por submission (atrapa piernas + armhold/double-wristlock) | [verif] | **El que citó el Vehemiurgo.** Primer encuentro; única derrota de Tamura en su año debut RINGS. |
-| 2 | **1997-01-22** | **Mega Battle Tournament 1996 — Grand Final** | Nippon Budokan, Tokio | **Volk Han** por kata-ashi-hishigi (leglock) | [verif] | Han **gana el Mega Battle Tournament 1996**. El "más funcional, menos memorable" de la serie según reviewers. |
-| 3 | **1997-09-26** | **Fighting Extension VII** | Nakajima Sports Center, Sapporo | **Kiyoshi Tamura** por cross-armbreaker (juji-gatame) | **12:48** | **EL MÁS ACLAMADO.** Scott's Blog of Doom ~★★★★¾, *"uno de los mejores matches de RINGS de la historia"*. Tamura por fin vence a Han. |
-| 4 | **1998-09-21** | **Fighting Integration VI** | Yokohama Bunka Gymnasium, Yokohama | **Kiyoshi Tamura** por armbar | [verif] | Epílogo. Algunos reviewers lo llaman *"el último de la trilogía"* (canon ambiguo). |
+| 1 | **1996-09-25** | **Maelstrom VII** | Nakajima Sports Center, Sapporo | **Volk Han** por submission (atrapa piernas + armhold/double-wristlock) | [verif] | [→](../matches/1996-09-25-volk-han-vs-kiyoshi-tamura-rings.md) |
+| 2 | **1997-01-22** | **Mega Battle Tournament 1996 — Grand Final** | Nippon Budokan, Tokio | **Volk Han** por kata-ashi-hishigi (leglock); gana el torneo | [verif] | [→](../matches/1997-01-22-volk-han-vs-kiyoshi-tamura-rings-mega-battle-final.md) |
+| 3 | **1997-09-26** | **Fighting Extension VII** | Nakajima Sports Center, Sapporo | **Kiyoshi Tamura** por cross-armbreaker (juji-gatame) | **12:48** | [→](../matches/1997-09-26-volk-han-vs-kiyoshi-tamura-rings-fighting-extension-vii.md) |
+| 4 | **1998-09-21** | **Fighting Integration VI** | Yokohama Bunka Gymnasium, Yokohama | **Kiyoshi Tamura** por armbar | [verif] | [→](../matches/1998-09-21-volk-han-vs-kiyoshi-tamura-rings-fighting-integration-vi.md) |
 
-**Serie final: Han 2 – Tamura 2.**
+**Serie final: Han 2 – Tamura 2.** **Clímax / más aclamado: el #3
+(26/9/97)**, donde Tamura por fin vence (Scott's Blog of Doom ~★★★★¾).
 
-## Conflicto de canon — ¿cuáles son "los tres"?
+## Nota de canon (resuelta)
 
-El sub-agente reporta **dos lecturas** en la prensa fan:
-
-- **Lectura A (mayoritaria)**: la trilogía = **1996-09-25 + 1997-01-22
-  + 1997-09-26** (arco 96-97, clímax en el 9/26/97).
-- **Lectura B (minoritaria)**: incluye el **1998-09-21** como cierre,
-  descartando uno de los del 97.
-
-**Recomendación documental**: hablar de **"los cuatro singles"** o
-**"la serie"**, aclarando que la prensa fan dice "trilogía". No
-fabricar un canon de tres que las fuentes no sostienen unánimemente.
-
-## ⚠️ Decisión pendiente del Vehemiurgo (clasificación)
-
-Dos cosas que solo el Vehemiurgo decide:
-
-1. **¿Las 3 clases a los 4 matches, o solo a tres?** El Vehemiurgo
-   declaró *"toda la trilogía merece las 3 clases"* creyendo que eran
-   tres. Ahora son cuatro. ¿Triple clase para los cuatro, o reservar
-   para tres específicos?
-2. **¿Cuál vio como obra maestra?** El Vehemiurgo citó el **25/9/1996**
-   — que **gana Han** por submission. Pero el match más aclamado de la
-   serie es el **26/9/1997** (que **gana Tamura** por armbar). Si lo
-   que recuerda es a Tamura ganando, el match que vio podría ser el del
-   97 (o el del 98). **Pendiente confirmar.**
-
-> Hasta que el Vehemiurgo decida, el match anchor con clase asignada
-> es el **25/9/1996** (el que citó), con triple clase. Los otros tres
-> quedan en la watch-list **sin clase asignada** (no se pre-asigna
-> clase sin que el Vehemiurgo la dé).
-
-## Match anchor confirmado (con clase)
-
-- [`../matches/1996-09-25-volk-han-vs-kiyoshi-tamura-rings.md`](../matches/1996-09-25-volk-han-vs-kiyoshi-tamura-rings.md)
-  — Maelstrom VII, triple clase (declarado por el Vehemiurgo), stub.
+La prensa fan habla de *"trilogía"*, pero **son cuatro singles** y el
+canon de "tres" no es unánime. El Vehemiurgo zanja el punto tratando
+**la serie de cuatro como una unidad** — los cuatro triple clase. El
+título del archivo conserva "trilogía" por SEO/memoria, pero el cuerpo
+documenta los cuatro.
 
 ## Contexto RINGS
 
