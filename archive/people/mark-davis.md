@@ -7,11 +7,16 @@ estado: stub
 ultima_actualizacion: 2026-05-26
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
-tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-verif, heel-genial-vehemiurgo, recurrente-lista-personal]
+tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-verif, heel-genial-vehemiurgo, recurrente-lista-personal, heroes-fundamentales-vehemiurgia, panteon-vehemiurgo-42]
 ---
 
 # Mark Davis
 
+> **Héroe fundamental del Vehemiurgo #42** (panteón
+> [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md);
+> alta 2026-06-17 en la expansión a 42; rama tag moderno / heel —
+> el número 8+ no es ranking, todos pesan igual).
+>
 > **Stub abierto desde notebook 2026-05-26**. El Vehemiurgo lo
 > singled out: *"Mark Davis se ve genial, es muy cool"* + lució
 > *"genial como heel"* en el six-man del Dynamite 8 abr 2026.
