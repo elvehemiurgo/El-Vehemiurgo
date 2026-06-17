@@ -101,9 +101,9 @@ con cada cambio de estado.
 | 1997-03-23 | Bret 'The Hitman' Hart vs Steve Austin — Submission Match | WWF / WrestleMania 13 | — | en-investigacion | 1 | [→](1997-03-23-bret-hart-vs-steve-austin-submission-match-wrestlemania-13.md) |
 | 1996-12-13 | Rey Mysterio Jr vs Ultimo Dragon | WAR (Wrestle Association R) / WAR King Tier 1996 | — | en-investigacion | 1 | [→](1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md) |
 | 1996-10-10 | Johnny Saint vs Naohiro Hoshikawa — World of Sport Rules Match | Michinoku Pro / 3rd Anniversary — These Days | PW·FS·WE | stub | 1 | [→](1996-10-10-johnny-saint-vs-naohiro-hoshikawa-michinoku-pro.md) |
-| 1996-09-25 | Volk Han vs Kiyoshi Tamura | Fighting Network RINGS / [verif show] | PW·FS·WE | stub | 1 | [→](1996-09-25-volk-han-vs-kiyoshi-tamura-rings.md) |
+| 1996-10-10 | Daisuke Ikeda & Satoshi Yoneyama vs Alexander Otsuka & Yuki Ishikawa | Michinoku Pro / 3rd Anniversary — These Days | FS | stub | 1 | [→](1996-10-10-ikeda-yoneyama-vs-otsuka-ishikawa-michinoku-pro.md) |
+| 1996-09-25 | Volk Han vs Kiyoshi Tamura | Fighting Network RINGS / Maelstrom VII | PW·FS·WE | stub | 1 | [→](1996-09-25-volk-han-vs-kiyoshi-tamura-rings.md) |
 | 1996-04-25 | Steve Austin vs Bret 'The Hitman' Hart | WWF / European Tour 1996 (Germany) | — | en-investigacion | 1 | [→](1996-04-25-steve-austin-vs-bret-hart-wwf-live-event-germany.md) |
-| 1996-XX-XX | Daisuke Ikeda & Satoshi Yoneyama vs Alexander Otsuka & Yuki Ishikawa | [verif — probable BattlARTS] | FS | stub | 1 | [→](1996-XX-XX-ikeda-yoneyama-vs-otsuka-ishikawa.md) |
 | 1996-03-31 | Bret 'The Hitman' Hart vs Shawn Michaels — 60-minute Iron Man Match | WWF / WrestleMania XII | — | en-investigacion | 1 | [→](1996-03-31-bret-hart-vs-shawn-michaels-iron-man-wrestlemania-12.md) |
 | 1995-07-23 | 1-2-3 Kid vs The Roadie | WWF / In Your House 2: The Lumberjacks | — | en-investigacion | 0 | [→](1995-07-23-123-kid-vs-the-roadie-in-your-house-2.md) |
 | 1995-04-01 | Bret Hart vs Owen Hart — WWF Raw pre-WrestleMania XI | WWF / Raw | — | en-investigacion | 1 | [→](1995-bret-hart-vs-owen-hart-wwf-raw-pre-wmxi.md) |

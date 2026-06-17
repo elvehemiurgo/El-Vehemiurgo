@@ -20,24 +20,26 @@ tags: [volk-han, magomedkhan-amanulayevich-gamzatkhanov, rings, fighting-network
 
 ## Identificación
 
-- **Nombre real**: **Magomedkhan Amanulayevich Gamzatkhanov** [verif
-  ortografía exacta] — daguestani, URSS / Rusia.
+- **Nombre real**: **Magomedkhan Amanulayevich Gamzatkhanov**.
+- **Nacimiento**: **15 abr 1961**, Daguestán (URSS / Rusia).
 - **Gimmick**: **Volk Han** (lit. *"Khan Lobo"*).
-- **Origen**: Daguestán, URSS.
-- **Background**: campeón soviético de **Combat SAMBO** [verif años].
-  Background atlético genuino — no formado en wrestling profesional.
+- **Background**: wrestling amateur libre (campeón junior URSS dos años
+  seguidos) → **Combat SAMBO** en el ejército soviético (subcampeón
+  nacional 1984, campeón en 3 de los 4 años siguientes). Atleta
+  genuino, no formado en wrestling profesional.
 
-## Datos duros (preliminar — verificar)
+## Datos duros (confirmados por sub-agente 2026-06-17)
 
-- **Debut RINGS**: 1992 [verif fecha exacta — primeros shows de Maeda
-  invitando talento ruso].
-- **RINGS roster signature**: parte del **núcleo extranjero** de RINGS
-  junto a Andrei Kopylov, Nikolai Zouev, Mikhail Ilyukhin.
+- **Debut RINGS**: scouteado por **Akira Maeda** en 1991; debut en
+  Japón en el cuarto torneo RINGS, **7 dic 1991**.
+- **RINGS roster signature**: núcleo extranjero de RINGS junto a
+  Andrei Kopylov, Nikolai Zouev, Mikhail Ilyukhin (Ilioukhine).
 - **Estilo**: shoot-style worked con **vena SAMBO**. Llaves de pierna
-  improbables, transiciones que no aparecían en el vocabulario
-  shoot-style japonés ortodoxo. **Creatividad técnica** como firma —
-  no improvisación spot-a-spot sino **flow técnico**.
-- **Carrera post-RINGS**: [verif retiro o continuación].
+  improbables (rolling kneebars), transiciones que no aparecían en el
+  vocabulario shoot-style japonés ortodoxo. Reviewers lo apodan
+  *"genio"*. **Creatividad técnica** como firma.
+- **Logros RINGS**: **Mega Battle Tournament 1994 y 1996** (campeón en
+  ambos — el de 1996 lo cerró venciendo a Tamura el 22 ene 1997).
 
 ## Lectura editorial del Vehemiurgo
 
@@ -54,13 +56,14 @@ tags: [volk-han, magomedkhan-amanulayevich-gamzatkhanov, rings, fighting-network
 
 ## Pendientes / huecos
 
-- [ ] Nombre real completo y ortografía verificada.
-- [ ] Fechas exactas de carrera RINGS (debut, peak, último match).
-- [ ] Títulos SAMBO + título Mega Battle Tournament RINGS [verif].
-- [ ] Trilogía Han-Tamura: composición exacta de los 3 matches.
-- [ ] Historial vs el resto del roster RINGS (Tamura, Tsuyoshi
-      Kohsaka, Yoshihisa Yamamoto, Tariel Bitsadze).
-- [ ] **Confirmar con el Vehemiurgo**: ¿entra al panteón?
+- [x] Nombre real, nacimiento (15 abr 1961), debut RINGS (7 dic 1991),
+      Mega Battle 1994+1996 — sub-agente 2026-06-17.
+- [x] **Panteón**: el Vehemiurgo lo **descartó** (2026-06-17: *"No"*).
+      Figura de archivo de primer peso, no héroe.
+- [ ] Fecha de último match / retiro RINGS.
+- [ ] Historial vs el resto del roster RINGS (Tsuyoshi Kohsaka,
+      Yoshihisa Yamamoto, Tariel Bitsadze, Ilioukhine).
+- [ ] Serie Han-Tamura: duraciones de 3 de los 4 matches.
 - [ ] Entrevistas / podcasts / documentales con Han on-record.
 
 ## Piezas del Vehemiurgo donde aparece

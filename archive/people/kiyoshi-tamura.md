@@ -28,16 +28,22 @@ tags: [kiyoshi-tamura, uwf-i, uwf-newborn, rings, fighting-network-rings, shoot-
   Considerado dentro del nicho como **el ejecutor puro** de la
   doctrina UWF.
 
-## Datos duros (preliminar — verificar)
+## Datos duros (confirmados por sub-agente 2026-06-17)
 
-- **Debut**: **Newborn UWF (1988-1990)** [verif fecha].
+- **Debut**: **1989** en **UWF Newborn** — derrota ante **Minoru
+  Suzuki**.
 - **Trayectoria post-UWF**:
-  - **UWF-i (1991-1996)**: bajo Nobuhiko Takada. Cohorte con Yoji
+  - **UWF-i (1991-1996)**: bajo **Nobuhiko Takada**. Cohorte con Yoji
     Anjo, Masahito Kakihara.
-  - **RINGS (1996-2002)**: pasa al espacio de Maeda. Su periodo de
-    peak técnico.
-  - **U-Style / Hero's / Pancrase / etc.** [verif] — carrera post-RINGS
-    con presencia en MMA real (Hero's, post-PRIDE).
+  - **RINGS (mediados 1996-2002)**: pasa al espacio de Maeda. Su
+    periodo de peak técnico (5-1 en su año debut, única derrota vs
+    Volk Han el 25/9/96). Campeón del **Mega Battle Tournament**
+    (final 21 ene 1998 vs Mikhail Ilioukhine) [nomenclatura exacta
+    del título a verificar].
+  - **King of Kings 2000** (oct 2000): elimina a Tkeshelashvili pero
+    cae por armbar ante **Antônio Rodrigo Nogueira**.
+  - **U-Style / Hero's / etc.** — carrera post-RINGS con presencia en
+    MMA real.
 - **Versus background atlético**: a diferencia de Han, Tamura es
   formación shoot-style worked pura — pero con técnica de submission
   legítima.
@@ -56,12 +62,14 @@ tags: [kiyoshi-tamura, uwf-i, uwf-newborn, rings, fighting-network-rings, shoot-
 
 ## Pendientes / huecos
 
+- [x] Debut 1989 vs Minoru Suzuki + cronología UWF→UWF-i→RINGS
+      (sub-agente 2026-06-17).
+- [x] **Panteón**: el Vehemiurgo lo **descartó** (2026-06-17: *"No"*).
+      Figura de archivo de primer peso, no héroe.
 - [ ] Fecha y lugar de nacimiento.
-- [ ] Cronología debut UWF → UWF-i → RINGS → post-RINGS.
-- [ ] Títulos RINGS reigns con fechas.
+- [ ] Nomenclatura exacta de los títulos RINGS.
 - [ ] Historial MMA real post-2000s (Hero's, etc.).
-- [ ] Trilogía Han-Tamura: composición exacta de los 3 matches.
-- [ ] **Confirmar con el Vehemiurgo**: ¿entra al panteón?
+- [ ] Serie Han-Tamura: duraciones de 3 de los 4 matches.
 - [ ] Entrevistas / podcasts / documentales con Tamura on-record.
 
 ## Piezas del Vehemiurgo donde aparece

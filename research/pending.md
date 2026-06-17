@@ -5,10 +5,12 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 ## Activas
 
-| ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
-|---|---|---|---|---|---|
-| `trilogia-volk-han-tamura-rings-2026` | `en-curso` | 2026-06-17 | Composición exacta de la trilogía Han vs Tamura en RINGS (3 matches: fechas, shows, recintos, resultados, finishes, duraciones) | Volcado 2026-06-17, [`notebook/2026-06-17-takes-generacion-90s-rings-junior-heavyweight.md`](../notebook/2026-06-17-takes-generacion-90s-rings-junior-heavyweight.md) | [`archive/topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md`](../archive/topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md) + match stubs |
-| `cluster-junior-heavyweight-highspeed-90s-2026` | `en-curso` | 2026-06-17 | Mapeo cluster junior heavyweight highspeed japonés 90s + BattlARTS; identificar match Ikeda/Yoneyama vs Otsuka/Ishikawa; cobertura conocer-más (Sayama, TAKA, Sasuke, Shinzaki) | Volcado 2026-06-17, mismo notebook + lista conocer-más | [`archive/topics/junior-heavyweight-highspeed-1990s.md`](../archive/topics/junior-heavyweight-highspeed-1990s.md) + fact-sheets |
+| _(vacío)_ | | | | | |
+
+> Las dos investigaciones lanzadas el 2026-06-17
+> (`trilogia-volk-han-tamura-rings-2026` y
+> `cluster-junior-heavyweight-highspeed-90s-2026`) **volvieron e
+> integraron el mismo día** — ver [`closed.md`](./closed.md).
 
 ## En cola (declaradas, no lanzadas)
 

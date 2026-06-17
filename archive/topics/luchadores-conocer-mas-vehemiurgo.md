@@ -55,6 +55,45 @@ tags: [conocer-mas, lista-de-estudio, watchlist-personal, satoru-sayama, perro-a
   libre — el linaje que CLAUDE.md sec. 2 marca como *"dramaturgia
   trágica"*.
 
+## Datos confirmados (sub-agente 2026-06-17) — 4 perfiles
+
+Investigación delegada que volvió con bio factual de cuatro de la
+lista (los del eje japonés). El resto queda a demanda.
+
+### #1 Satoru Sayama (Tiger Mask original)
+- **Nacido** 27 nov 1957. Primer **Tiger Mask** de NJPW — debut del
+  personaje **23 abr 1981, Kuramae Kokugikan**.
+- Revolucionó la división junior heavyweight con velocidad y aéreos
+  nunca vistos en Japón. **Dejó NJPW en 1983 en la cima** por hartazgo
+  de la política backstage — **la "rebelión"** que cita el Vehemiurgo.
+- Fundó la **UWF** (shoot-style). Tras retirarse del pro-wrestling
+  (1985), fundó **Shooto** — una de las primeras organizaciones de MMA
+  del mundo. **Figura puente** junior puro → shoot-style → MMA.
+
+### #4 TAKA Michinoku (Takao Yoshida)
+- **Nacido** 26 oct 1973. Debut **1992** en Michinoku Pro (tomó el
+  nombre en respeto a su mentor The Great Sasuke).
+- Debut WWF **6 jul 1997 (Canadian Stampede)**. **Primer WWF Light
+  Heavyweight Champion** (7 dic 1997 vs Brian Christopher; reinó +10
+  meses). Líder de **Kaientai** (*"Indeed!"*). Traductor del estilo
+  Michinoku al público de USA.
+
+### #6 Jinsei Shinzaki (Kensuke Shinzaki)
+- **Nacido** 2 dic 1966. En USA fue **Hakushi** en WWF (1994-1996),
+  gimmick de monje budista con sutras tatuados.
+- 1993 → Michinoku Pro (adopta "Jinsei"); **presidente de Michinoku
+  Pro desde 2003**. Tag signature con **Hayabusa** (FMW, 1997-1999):
+  ECW vs RVD & Sabu (Heat Wave 1998), **All Asia Tag en AJPW (ene
+  1999)**.
+
+### #8 The Great Sasuke (Masanori Murakawa)
+- **Nacido** 18 jul 1969. Debut **1 mar 1990**; en México recibió la
+  máscara y el gimmick.
+- **Fundó Michinoku Pro Wrestling el 1 oct 1992** — la primera
+  promoción indie japonesa basada **fuera de Tokio** (Morioka, Iwate).
+  Difundió el **lucharesu** (lucha libre + puroresu). Llegó a tener el
+  **J-Crown** (que perdió ante Ultimo Dragon el 11 oct 1996).
+
 ## Cómo se trabaja esta lista
 
 - Cada luchador se profundiza **a demanda** — cuando el Vehemiurgo

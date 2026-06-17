@@ -25,13 +25,19 @@ tags: [yuki-ishikawa, battlarts-co-founder, fujiwara-gumi-lineage, shoot-style-i
   manipulation, transitions, control de ritmo). Considerado uno de
   los **ejes técnicos** de BattlARTS.
 
-## Datos duros (preliminar — investigar)
+## Datos duros (confirmados por sub-agente 2026-06-17)
 
-- **Debut**: [verif — formación bajo Yoshiaki Fujiwara en Pro
-  Wrestling Fujiwara Gumi (PWFG), 1991-1995].
-- **BattlARTS founding 1995** [verif rol exacto en la fundación].
-- **Post-BattlARTS**: **Futen** (su propia promoción shoot-style indie)
-  [verif años / shows].
+- **Formación**: bajo **Yoshiaki Fujiwara** en PWFG (tras regresar a
+  Japón en 1991).
+- **Fundador de BattlARTS (1996)**: lideró el **éxodo masivo de
+  PWFG** — el 19 nov 1995, al saber que los sponsors de Fujiwara Gumi
+  reestructurarían el roster, se llevó a casi toda la plantilla (salvo
+  Fujiwara mismo); los que no fueron a Pancrase formaron BattlARTS.
+- **Estilo**: definidor del **"bati-bati style"** — golpes reales,
+  sumisiones, stiffness extremo (sangre y lesiones frecuentes).
+- **Títulos**: former **NWA Intercontinental Tag Team Champion**.
+  Freelancer extenso (Zero1, AJPW, IGF).
+- *(Corrección: **Futen es de Daisuke Ikeda**, no de Ishikawa.)*
 
 ## Lectura editorial del Vehemiurgo
 

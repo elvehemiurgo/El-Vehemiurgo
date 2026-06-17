@@ -25,12 +25,19 @@ tags: [daisuke-ikeda, battlarts, fujiwara-gumi-lineage, shoot-style-indie-japone
   striking duro, selling físico, herencia Fujiwara Gumi (Yoshiaki
   Fujiwara, ex-UWF).
 
-## Datos duros (preliminar — investigar)
+## Datos duros (confirmados por sub-agente 2026-06-17)
 
-- **Debut**: [verif].
-- **Empresas principales**: **BattlARTS** (1995-2011), apariciones
-  cross-promotion con NOAH, ZERO1, FMW, otros [verif].
-- **Tag teams signature**: con **Mohammed Yone** [verif] y otros.
+- **Debut**: **5 dic 1993**, entrenado por **Yoshiaki Fujiwara** en
+  Pro Wrestling Fujiwara Gumi (PWFG).
+- **Rol en BattlARTS**: uno de los **pocos heavyweights** en una
+  compañía de juniors — lo que lo empujó a buscar retos afuera
+  (AJPW, NOAH, FMW).
+- **Empresas**: BattlARTS, AJPW, Pro Wrestling NOAH, FMW.
+- **Títulos**: WLW Heavyweight Championship (1 jun 2004, venció a
+  Takeshi Morishima).
+- **Promoción propia**: dirige **Fu-Ten (Futen)** — su propia
+  promoción shoot-style indie. *(Corrección: Futen es de Ikeda, NO de
+  Ishikawa como decía el stub previo.)*
 
 ## Lectura editorial del Vehemiurgo
 

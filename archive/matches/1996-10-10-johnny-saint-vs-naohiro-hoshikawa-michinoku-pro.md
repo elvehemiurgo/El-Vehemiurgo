@@ -5,8 +5,8 @@ participantes: ["Johnny Saint", "Naohiro Hoshikawa"]
 empresa: "Michinoku Pro Wrestling"
 programa: "Michinoku Pro 3rd Anniversary — These Days"
 fecha: 1996-10-10
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tokio, Japón"
+recinto: "Ryōgoku Kokugikan (New Sumo Hall)"
 tipo_match: "singles"
 estipulacion: "World of Sport Rules (Mountevans rounds rules)"
 duracion: "[verif]"
@@ -98,9 +98,12 @@ de dejarla a la improvisación spot-a-spot.
 ## Datos del show
 
 - **Empresa**: Michinoku Pro Wrestling
-- **Evento**: 3rd Anniversary — These Days
+- **Evento**: Takewaki "These Days" — 3rd Anniversary
 - **Fecha**: 10 de octubre de 1996
-- **Ciudad / Recinto**: [verif]
+- **Recinto**: **Ryōgoku Kokugikan (New Sumo Hall)**, Tokio
+  (confirmado por sub-agente — mismo show que el tag
+  [Ikeda & Yoneyama vs Otsuka & Ishikawa](1996-10-10-ikeda-yoneyama-vs-otsuka-ishikawa-michinoku-pro.md)).
+- **Attendance**: 7.980 [verif]
 - **Estipulación**: World of Sport Rules (Mountevans rounds rules)
 - **Lugar en la card**: [verif]
 
@@ -112,4 +115,6 @@ de dejarla a la improvisación spot-a-spot.
       relación con Taka Michinoku u otra dirección.
 - [ ] Star rating WON si fue calificado (contexto, no veredicto).
 - [ ] Historial previo Saint vs Hoshikawa (probable primero documentado).
-- [ ] Card completa del Michinoku Pro 3rd Anniversary 1996.
+- [ ] Card completa del Michinoku Pro 3rd Anniversary 1996 (ya
+      cruzado con el tag Ikeda/Yoneyama vs Otsuka/Ishikawa).
+- [x] Recinto confirmado: Ryōgoku Kokugikan (sub-agente 2026-06-17).

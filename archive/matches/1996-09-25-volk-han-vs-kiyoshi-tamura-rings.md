@@ -3,20 +3,20 @@ match: "Volk Han vs Kiyoshi Tamura"
 slug: "1996-09-25-volk-han-vs-kiyoshi-tamura-rings"
 participantes: ["Volk Han", "Kiyoshi Tamura"]
 empresa: "Fighting Network RINGS"
-programa: "[verif show name — RINGS Mega-Battle Tournament 1996 round? Battle Genesis?]"
+programa: "RINGS Maelstrom VII"
 fecha: 1996-09-25
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Sapporo, Hokkaido, Japón"
+recinto: "Nakajima Sports Center"
 tipo_match: "singles"
 estipulacion: "RINGS shoot-style rules (rounds, rope escapes, KO/submission)"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Volk Han por submission (atrapa las piernas + armhold/double-wristlock sobre el brazo)"
+ganador: "Volk Han"
 referee: "[verif]"
-attendance_anunciada: "[verif]"
+attendance_anunciada: "3.853 [verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Obra maestra — las 3 clases con creces (1 de 3 de la trilogía)"
+calificacion_vehemiurgo: "Obra maestra — las 3 clases con creces (match 1 de la serie de 4)"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
 ultima_actualizacion: 2026-06-17
@@ -29,10 +29,14 @@ tags: [volk-han, kiyoshi-tamura, rings, fighting-network-rings, akira-maeda-prom
 
 > **Obra maestra — las 3 clases con creces**
 > (`perfect-wrestling` · `fighting-spirit` · `wrestling-entertainment`).
-> Match **1 de 3** de la **trilogía Volk Han vs Kiyoshi Tamura**, declarada
-> en bloque por el Vehemiurgo como triple clase para los tres encuentros.
-> Ver topic file
-> [`../topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md`](../topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md).
+> Match **1 de 4** de la **serie Volk Han vs Kiyoshi Tamura** en RINGS
+> (la prensa fan dice "trilogía"; son cuatro singles). **Este lo gana
+> Han por submission** — es el que citó el Vehemiurgo. El más aclamado
+> de la serie por la crítica es el del **26/9/1997** (gana Tamura). Ver
+> topic file
+> [`../topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md`](../topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md)
+> — incluye **decisión pendiente** sobre cuál match vio y la clase de
+> los otros tres.
 
 ## Resumen
 
@@ -81,20 +85,33 @@ formato shoot-style RINGS.
   *"strong style llevado al límite del realismo"*. UWF-i, PWFG y RINGS
   son las tres ramas post-UWF.
 
-## Datos del match
+## Datos del match (confirmados por sub-agente 2026-06-17)
 
 - **Fecha**: 25 de septiembre de 1996.
-- **Ciudad / Recinto**: [verif].
-- **Show**: [verif — probable RINGS Battle Genesis o Mega-Battle Tournament round].
-- **Duración**: [verif].
-- **Finish**: [verif].
-- **Ganador**: [verif].
+- **Show**: **RINGS Maelstrom VII**.
+- **Recinto**: **Nakajima Sports Center, Sapporo** (Hokkaido).
+- **Attendance**: 3.853 [verif].
+- **Ganador / Finish**: **Volk Han** por submission — atrapa las
+  piernas de Tamura y aplica un armhold/double-wristlock retorcido
+  sobre el brazo cercano.
+- **Contexto**: **primer encuentro** de la serie; **única derrota de
+  Tamura en su año debut RINGS** (venía invicto).
+- **Duración**: [verif — no aparece en snippets fiables].
+
+## Nota crítica — cuál match es
+
+Este es el **match 1 de 4** y **lo gana Han**. El Vehemiurgo lo citó
+como *"obra maestra"*, pero el match más aclamado de la serie es el
+**26/9/1997 (Fighting Extension VII), que gana Tamura por
+cross-armbreaker** (~★★★★¾). **Pendiente confirmar** con el
+Vehemiurgo cuál vio realmente. Detalle en el
+[topic file de la serie](../topics/volk-han-vs-kiyoshi-tamura-trilogia-rings.md).
 
 ## Pendientes de investigación
 
-- [ ] Show exacto, ciudad, recinto.
-- [ ] Duración y finish (probable submission técnica, dado el formato).
-- [ ] Card completa del show.
-- [ ] Match 2 y match 3 de la trilogía — fechas, shows, resultados.
-- [ ] Historial Han vs Tamura (probable este es el primero, verificar).
+- [x] Show / ciudad / recinto / ganador / finish (sub-agente 2026-06-17).
+- [ ] Duración exacta (snippets no la dan).
+- [ ] Card completa del Maelstrom VII.
+- [ ] **Decisión del Vehemiurgo**: cuál match vio + clase de los otros
+      tres de la serie.
 - [ ] Posición editorial WON sobre el match (contexto, no veredicto).

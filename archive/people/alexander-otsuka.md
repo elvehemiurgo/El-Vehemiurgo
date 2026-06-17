@@ -20,23 +20,24 @@ tags: [alexander-otsuka, battlarts, fujiwara-gumi-lineage, shoot-style-indie-jap
 
 ## Identificación
 
-- **Nombre**: **Alexander Otsuka** (nombre real = gimmick, "Alexander"
-  como homenaje atlético [verif]).
-- **Origen**: Japón.
-- **Background atlético**: **amateur wrestling** (catch-as-catch-can /
-  estilo japonés universitario) [verif años / nivel].
+- **Nombre**: **Alexander Otsuka** (nombre real **Takashi Otsuka**;
+  "Alexander" en homenaje a **Aleksandr Karelín**).
+- **Nacimiento**: **17 jul 1971**, Tokushima, Japón.
+- **Background atlético**: **lucha amateur** en el club del Tokushima
+  Higashi Technical High School (donde fue *kohai* de **Jinsei
+  Shinzaki**).
 - **Estilo**: shoot-style worked + amateur takedowns + powerbombs
-  legítimos. **Versatilidad** — puede correr highspeed o ralentizar a
-  grappling puro.
+  legítimos. **Versatilidad** — highspeed o grappling puro.
 
-## Datos duros (preliminar — investigar)
+## Datos duros (confirmados por sub-agente 2026-06-17)
 
-- **Debut**: [verif].
-- **Empresas principales**: **BattlARTS** (1995-2011 core),
-  cross-promotion con FMW, NJPW, NOAH, ZERO1 [verif].
-- **MMA real**: peleas en PRIDE / RINGS [verif récord].
-- **Tag team signature**: con Yuki Ishikawa, Daisuke Ikeda — núcleo
-  BattlARTS rotativo.
+- **Debut**: **18 ago 1995** en PWFG (mismo día que Yoneyama).
+- **Founding member de BattlARTS** (abril 1996).
+- **Tag signature**: **LOVE Warriors** con Yoneyama; feudos violentos
+  con Ishikawa e Ikeda.
+- **MMA real**: debutó en **PRIDE.4 (1998) venciendo a Marco Ruas**
+  en pelea sangrienta; en 1999 entró en **UFO** (la promoción híbrida
+  de Sayama), donde **venció a Satoru Sayama dos veces**.
 
 ## Lectura editorial del Vehemiurgo
 
