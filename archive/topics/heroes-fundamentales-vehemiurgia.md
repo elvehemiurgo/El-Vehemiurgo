@@ -4,13 +4,13 @@ slug: heroes-fundamentales-vehemiurgia
 tipo: topic
 categoria: doctrina-tradicion
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-06-17-2
 fuentes_principales:
   - "Notebooks del Vehemiurgo (declaraciones dispersas 2026-05-09 → 2026-06-17)"
   - "Reorganización completa del panteón 2026-05-26"
   - "Expansión a 42 + doctrina top-7 dioses, dictada por el Vehemiurgo 2026-06-17"
   - "Fact-sheets individuales de cada héroe"
-tags: [heroes-fundamentales-vehemiurgia, panteon-vehemiurgo, dioses-del-wrestling-top-7, christian-cage, cm-punk, stone-cold-steve-austin, samoa-joe, jeff-hardy, dynamite-kid, roderick-strong, bret-hart, aj-styles, kurt-angle, american-wolves, kyle-oreilly, ric-flair, mjf, young-bucks, hazuki, kira, arn-anderson, matt-hardy, mark-rocco, shawn-michaels, hhh, hayabusa, rvd, zack-gibson, filthy-generation, la-knight, psicosis, jt-dunn, david-starr, chris-benoit, kay-lee-ray, hana-kimura, mei-seira, myron-reed, fallon-henley, lainey-reid, scott-hall, randy-savage, hulk-hogan, british-bulldogs, mark-davis, claudemd-sec-7-referentes]
+tags: [heroes-fundamentales-vehemiurgia, panteon-vehemiurgo, dioses-del-wrestling-top-7, christian-cage, cm-punk, stone-cold-steve-austin, samoa-joe, jeff-hardy, dynamite-kid, roderick-strong, bret-hart, aj-styles, kurt-angle, american-wolves, kyle-oreilly, ric-flair, mjf, young-bucks, hazuki, kira, arn-anderson, matt-hardy, mark-rocco, shawn-michaels, hhh, hayabusa, rvd, zack-gibson, filthy-generation, la-knight, psicosis, jt-dunn, david-starr, chris-benoit, kay-lee-ray, hana-kimura, mei-seira, myron-reed, fallon-henley, lainey-reid, scott-hall, randy-savage, hulk-hogan, british-bulldogs, mark-davis, redragon, bobby-fish, kazarian, christopher-daniels, bad-influence, the-addiction, claudemd-sec-7-referentes]
 ---
 
 # Héroes fundamentales del Vehemiurgo — el panteón
@@ -81,6 +81,8 @@ panteón ya es la declaración; del 8 en adelante todos pesan lo mismo.
 | 40 | **Hulk Hogan** | Carny / draw histórico (el máximo draw) | _(ficha pendiente)_ |
 | 41 | **The British Bulldogs (Dynamite Kid & Davey Boy Smith)** | British / Wigan-tag | _(ficha pendiente)_ |
 | 42 | **Mark Davis** | Tag moderno (Aussie Open) / heel | [→](../people/mark-davis.md) |
+| 43 | **reDRagon (Bobby Fish & Kyle O'Reilly)** | Tag / strong style ROH-NJPW (cuentan como uno) | _(ficha pendiente)_ |
+| 44 | **Kazarian & Daniels** (Bad Influence / The Addiction) | Tag / TNA-ROH (cuentan como uno) | _(ficha pendiente)_ |
 
 ## Notas de la expansión 2026-06-17
 
@@ -97,6 +99,12 @@ panteón ya es la declaración; del 8 en adelante todos pesan lo mismo.
   Benoit, Kay Lee Ray (individual), Hana Kimura, Mei Seira, Myron
   Reed, Fallon Henley, Lainey Reid, Scott Hall, Macho Man, Hulk
   Hogan, The British Bulldogs, Mark Davis.
+- **Altas tag team posteriores (2026-06-17 segunda ronda)**:
+  **reDRagon #43** (Bobby Fish & Kyle O'Reilly, cuentan como uno) y
+  **Kazarian & Daniels #44** (Bad Influence / The Addiction, cuentan
+  como uno). **Doble presencia confirmada**: Kyle O'Reilly individual
+  #12 + reDRagon #43 — mismo patrón que Dynamite Kid #6 + British
+  Bulldogs #41.
 - **Doble presencia de Kay Lee Ray**: aparece **dentro de The
   Filthy Generation (#26)** Y como **entrada individual (#32)** —
   decisión explícita del Vehemiurgo.
@@ -144,7 +152,7 @@ El panteón no es monolítico. Conviven varias ramas:
   Hall, Macho Man, Hulk Hogan, LA Knight, RVD.
 - **Daredevil / Hardys**: Jeff Hardy, Matt Hardy.
 - **Tag / rama moderna con sustancia**: Young Bucks, American
-  Wolves, Mark Davis.
+  Wolves, Mark Davis, **reDRagon**, **Kazarian & Daniels**.
 - **Puroresu / joshi / lucha**: Hayabusa, Hazuki, Kira, Psicosis,
   Hana Kimura, Mei Seira.
 - **Indie americano (highspeed / deathmatch)**: JT Dunn, Myron Reed.
@@ -152,8 +160,10 @@ El panteón no es monolítico. Conviven varias ramas:
 
 ## Pendientes
 
-- [ ] **Abrir fichas pendientes** (la mayoría del #8-42). Se crean
-      a demanda cuando el Vehemiurgo profundice en cada uno.
+- [ ] **Abrir fichas pendientes** (la mayoría del #8-44). Se crean
+      a demanda cuando el Vehemiurgo profundice en cada uno. Para
+      reDRagon (#43) ya hay material doctrinal denso en
+      [`./young-bucks-vs-redragon-roh-njpw.md`](./young-bucks-vs-redragon-roh-njpw.md).
 - [ ] **The Filthy Generation**: confirmar nombre, line-up,
       ortografías (Steve Boy, Aspen Faith, Lewis Girvan), empresa,
       periodo — **sub-agente autorizado 2026-06-17**.
