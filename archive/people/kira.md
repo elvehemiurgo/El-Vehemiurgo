@@ -23,10 +23,12 @@ tags: [kira, andromeda-ex, estrellita-lagunera-indie, cmll-talent, lucha-mexican
 > anchor del **primer match triple-clase operativa** del sistema
 > Vehemiurgia.
 >
-> **Héroe fundamental del Vehemiurgo #17** — panteón
+> **Dios del Wrestling Tier 2 #25** — panteón
 > ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
-> rama lucha libre (declarada 2026-05-26). Es la **Kira mexicana
-> (CMLL)**, no la Kira de TJPW ni Keyra (desambiguación en ficha).
+> rama lucha libre (declarada 2026-05-26 en #17; **movida al #25
+> dentro del Tier 2 el 2026-06-17 R2** para abrir espacio a Austin
+> Aries). Es la **Kira mexicana (CMLL)**, no la Kira de TJPW ni
+> Keyra (desambiguación en ficha).
 
 ## Identificación
 

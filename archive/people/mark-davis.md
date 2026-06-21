@@ -12,10 +12,12 @@ tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-
 
 # Mark Davis
 
-> **Héroe fundamental del Vehemiurgo #42** (panteón
+> **Héroe fundamental del Vehemiurgo #43** (panteón
 > [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md);
-> alta 2026-06-17 en la expansión a 42; rama tag moderno / heel —
-> el número 8+ no es ranking, todos pesan igual).
+> alta 2026-06-17 en la expansión a 42 — #42 originalmente; **movido
+> a #43 el 2026-06-17 R2** por el corrimiento que abrió Austin Aries
+> en el Tier 2. Rama tag moderno / heel; está en los **Fundamentales
+> (#26-45), sin orden interno** — todos pesan igual).
 >
 > **Stub abierto desde notebook 2026-05-26**. El Vehemiurgo lo
 > singled out: *"Mark Davis se ve genial, es muy cool"* + lució
