@@ -163,8 +163,8 @@ Knockouts division tenga arc claro (chasers vs la heel champ).
       autoridad funcional"*.
 - [ ] **Apertura Stacks fact-sheet** — Channing Lorenzo (NXT) /
       Stacks (TNA), verificar identidad y arco.
-- [ ] **Apertura Lei Ying Lee fact-sheet** — campeona derrotada en
-      No Surrender + chaser previa.
+- [x] **Apertura Lei Ying Lee fact-sheet** — campeona derrotada en
+      No Surrender (abierta 2026-06-17 #9 — ver [→](./lei-ying-lee.md)).
 - [ ] Cross-link con Mickey James si la storyline post-Mickey
       return atraviesa a Arianna.
 - [ ] Match anchors posteriores: defensas titulares 2026.
