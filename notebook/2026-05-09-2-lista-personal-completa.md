@@ -880,7 +880,7 @@ mantiene visible qué queda.
 
 - CODY RHODES VS DREW MCINTYRE WWE SmackDown 06.03.2026
 - KELANY JORDAN VS LOLA VICE WWE NXT 17.02.2026
-- AJ STYLES & LOW KI VS CHRIS DANIELS & XAVIER ROH Revenge On The Prophecy 11.01.2003 *(repetido en lista)*
+- (✓) **AJ STYLES & LOW KI VS CHRIS DANIELS & XAVIER ROH Revenge On The Prophecy 11.01.2003** → [`archive/matches/2003-01-11-aj-styles-low-ki-vs-daniels-xavier-roh.md`](../archive/matches/2003-01-11-aj-styles-low-ki-vs-daniels-xavier-roh.md) *(repetido en lista — marcado como integrado por orden del Vehemiurgo 2026-06-17)*
 - TAG TEAM DIVISION GAUNTLET MATCH WWE SmackDown 06.03.2026
 - MCMG TALKING ABOUT THEIR LOSS BACKSTAGE WWE SmackDown 06.03.2026
 - NICK ALDIS ORDERS MIZ TO MENTOR DANHAUSEN WWE SmackDown 06.03.2026
