@@ -5,12 +5,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 ## Activas
 
-| _(vacío)_ | | | | | |
-
-> Las dos investigaciones lanzadas el 2026-06-17
-> (`trilogia-volk-han-tamura-rings-2026` y
-> `cluster-junior-heavyweight-highspeed-90s-2026`) **volvieron e
-> integraron el mismo día** — ver [`closed.md`](./closed.md).
+| ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
+|---|---|---|---|---|---|
+| `lista-personal-maestra-indice-2026` | `en-curso` | 2026-06-17 | Parsear las 865 entradas de la lista personal maestra del notebook 2026-05-09-2 + reconciliar (✓) con el archive actual + producir 3 vistas operativas (índice estructurado, ranking luchadores, watch-list eventos cronológica moderna→histórica) | Volcado Vehemiurgo 2026-06-17: *"necesito que esta lista esté considerada para ir viendo qué luchador tiene más luchas registradas y también saber qué eventos quiero ver y en qué orden"* | `archive/topics/lista-personal-maestra-indice.md` + `archive/topics/luchadores-conteo-personal.md` + `archive/topics/eventos-watch-list-vehemiurgo.md` |
 
 ## En cola (declaradas, no lanzadas)
 
