@@ -486,7 +486,7 @@ mantiene visible qué queda.
 - SHANE MCMAHON VS KURT ANGLE WWE King of the Ring street fight
 - CHRISTOPHER DANIELS VS AMAZING RED ROH Retribution 26.04.2003
 - (✓) **AJ STYLES VS RICK MICHAELS WWF 09.07.2001** → [`archive/matches/2001-07-09-aj-styles-vs-rick-michaels-wwf.md`](../archive/matches/2001-07-09-aj-styles-vs-rick-michaels-wwf.md) (AJ early indie, sec. 9 arc)
-- AJ STYLES VS COREY HOLLIS GPW 05.02.2016
+- (✓) **AJ STYLES VS COREY HOLLIS GPW 05.02.2016** → [`archive/matches/2016-02-05-aj-styles-vs-corey-hollis-gpw.md`](../archive/matches/2016-02-05-aj-styles-vs-corey-hollis-gpw.md) (reconciliación 2026-06-17)
 - (✓) **SHAWN MICHAELS VS UNDERTAKER WWF Royal Rumble 18.01.1998** → [`archive/matches/1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md`](../archive/matches/1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md) (Casket Match, Kane debut storyline + HBK back injury catastrófico)
 - KURT ANGLE VS HHH MCW 03.03.2001
 - (✓) **BRADSHAW & BARRY WINDHAM VS STEVE WILLIAMS & GARY ALBRIGHT AJPW 23.11.1997** → [`archive/matches/1997-11-23-bradshaw-windham-vs-williams-albright-ajpw.md`](../archive/matches/1997-11-23-bradshaw-windham-vs-williams-albright-ajpw.md) (candidato canónico Fighting Spirit Class, gaijin heavyweight tag)
@@ -576,7 +576,7 @@ mantiene visible qué queda.
 - (✓) **THE ELEGANCE BRAND (M & HEATHER) VS ZARUCA (SOL RUCA & ZARIA) NXT 03.02.2026** *(corrección — match 2v2 por TNA Knockouts Tag Titles, no 1v2; ejemplo canónico Fighting Spirit Class)* → [`archive/matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../archive/matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
 - WREN SINCLAIR & KENDAL GREY VS SOL RUCA NXT 10.02.2026
 - KELANI JORDAN VS LOLA VICE NXT 27.02.2026 [verificar fecha exacta — NXT no necesariamente sale 27]
-- M & HEATHER BY ELEGANCE VS SOL RUCA NXT 03.02.2026
+- (✓) **M & HEATHER BY ELEGANCE VS SOL RUCA NXT 03.02.2026** → [`archive/matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../archive/matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md) (reconciliación 2026-06-17 — ZaRuca tag, cross-promo TNA/NXT)
 - BAD INFLUENCE SEGMENT NXT 03.02.2026
 - BOOKER T SINGING JOE HENDRY'S ENTRANCE NXT 10.02.2026
 - ROBERT STONE SEGMENT BACKSTAGE NXT 10.02.2026
@@ -642,7 +642,7 @@ mantiene visible qué queda.
 - JOSH BRIGGS IN HIS SEGMENT BACKSTAGE NXT 24.03.2026
 - OTM & MIKE SANTANA VS DARK STATE NXT 24.03.2026
 - LOS AMERICANOS VS THE BIRTHRIGHT NXT 24.03.2026
-- SOL RUCA VS SARIA PROMO VIDEO NXT 24.03.2026
+- (✓) **SOL RUCA VS SARIA PROMO VIDEO NXT 24.03.2026** → [`archive/segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../archive/segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md) (reconciliación 2026-06-17)
 - JAYDA PARKER VS KELANI JORDAN NXT 31.03.2026
 - WHC CONTRACT SIGNING WITH ETHAN PAGE, RICKY, JOE & GABAGOOL NXT 31.03.2026
 - LOLA VICE VS KENDAL GREY NXT 31.03.2026
