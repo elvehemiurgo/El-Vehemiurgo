@@ -5,11 +5,11 @@ tipo_segmento: "return appearance / legacy moment"
 protagonistas:
   - "Mickey James"
 empresa: "TNA"
-programa: "No Surrender 2026"
+programa: "No Surrender 2026 (special TNA+/TrillerTV, no PPV tradicional)"
 fecha: 2026-02-13
-ciudad: ""
-recinto: "[verif]"
-ubicacion_en_show: "[verif]"
+ciudad: "Nashville, Tennessee, USA"
+recinto: "The Pinnacle"
+ubicacion_en_show: "post-match del Knockouts World Tag Title (Elegance Brand vs Brookside & Hartwell)"
 duracion: ""
 linea_textual: ""
 gimmick_momento: "Return de Mickey James como legacy talent TNA. Mickey con extenso historial WWE (Trish era 2005-2006) + TNA (Knockouts Champion era 2010s) en TNA contemporáneo."
@@ -55,16 +55,30 @@ tags: [tna-2026, no-surrender-2026, mickey-james, legacy-return, knockouts-histo
 
 (Pendiente verbatim.)
 
+## Secuencia confirmada (sub-agente 2026-06-17)
+
+Post-match del Knockouts World Tag Title (Elegance Brand retiene
+con screwjob). **Mickie James entra como "Hardcore Country"** y
+**ataca directamente a Ash by Elegance**. Brawl con la faction
+entera (Heather, M, Mr. Elegance, Personal Concierge). **Brookside
+y Hartwell se suman desde el ring** y juntas limpian la zona
+haciendo retreat al Elegance Brand. **Sembrado claro para feud
+James/Elegance** post-No Surrender.
+
 ## Pendientes / huecos
 
-- [ ] Secuencia exacta del segmento de return (entrada, mic,
-      target storyline).
+- [x] Recinto y secuencia general (sub-agente 2026-06-17).
+- [ ] Mic / promo si la hubo.
 - [ ] ¿Single appearance o stay extended? Términos del deal.
-- [ ] Cobertura POST Wrestling.
 - [ ] **Asignación de clase del Vehemiurgo**.
+- [ ] Tracking del feud James/Elegance Brand post-No Surrender.
 
 ## Piezas relacionadas
 
+- [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
+  — match anchor previo al return.
+- [`../promotions/the-elegance-brand.md`](../promotions/the-elegance-brand.md)
+  — la faction atacada.
 - [`../../dossiers/draft-tna-2025-2026-kazarian-king-era.md`](../../dossiers/draft-tna-2025-2026-kazarian-king-era.md).
 - (Pendiente Mickey James fact-sheet — figura cross-promotion
   + legacy.)

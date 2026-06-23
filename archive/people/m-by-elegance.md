@@ -24,24 +24,41 @@ tags: [m-by-elegance, the-elegance-brand, tna-knockouts, oldschool-veterana-emer
 
 - **Nombre de gimmick**: **M by Elegance** (formato compartido con
   *Ash by Elegance* + *Heather by Elegance*, propietarias del brand).
-- **Nombre real**: [verif].
+- **Nombre real**: **Maggie Lee** (Cagematch tag canónico) o
+  **Maggie Peters** (snippet WebSearch) — verificación pendiente
+  sobre cuál es legal vs ring name.
 - **Empresa actual (2026)**: **TNA Wrestling** — Knockouts division.
 - **Facción / brand**: ***The Elegance Brand*** (con **Ash by
-  Elegance** y **Heather by Elegance**).
+  Elegance** y **Heather by Elegance** + Personal Concierge + Mr.
+  Elegance). Profile completo:
+  [`../promotions/the-elegance-brand.md`](../promotions/the-elegance-brand.md).
+- **Finisher**: ***Elegant Moonsault***.
 
-## Datos duros (preliminar — investigar)
+## Datos duros (confirmados sub-agente 2026-06-17)
 
-- **Debut TNA**: [verif].
-- **Background pre-TNA**: [verif — circuit indie / training].
-- **Championships**: [verif — vigentes / pasados]. **Predicción
-  Vehemiurgo**: futura campeona Knockouts.
+- **Background pre-TNA**: ex-volleyball NCAA (Kirkwood Community
+  College + Mount Mercy University). Entrenada en **Black and Brave
+  Wrestling Academy** (Seth Rollins / Marek Brave) — misma escuela
+  que Heather Reckless.
+- **Debut in-ring**: **13 ago 2022**.
+- **Firma con TNA**: **marzo 2025**.
+- **Debut on-screen como M by Elegance**: **29 may 2025 (Impact!)**.
+- **TNA Knockouts World Tag Team Championship × 2** (con Heather by
+  Elegance). Segunda coronación: **15 ene 2026 (Impact! AMC
+  premiere)** venciendo a The IInspiration.
 - **Matches signature 2026 documentados**:
   - **3 feb 2026** — Elegance Brand (M & Heather) vs **ZaRuca** (Sol
     Ruca & Zaria) en WWE NXT (cross-promo TNA/NXT) → ficha
     [`../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md).
     Clase: **FS** asignada al match.
-  - **13 feb 2026** — TNA **No Surrender 2026** [verif match
-    exacto / oponente]. **Anchor de la declaración prospecto**.
+  - **13 feb 2026** — **No Surrender 2026** (The Pinnacle,
+    Nashville). **Defensa del KO World Tag Title vs Xia Brookside &
+    Indi Hartwell**, retienen 11:10 con screwjob por interferencia
+    Ash + Mr. Elegance. **Heather pina a Hartwell** tras *Nip and
+    Tuck*. **Post-match return de Mickie James** ataca al brand.
+    Ficha del match:
+    [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md).
+    **Anchor de la declaración prospecto.**
 
 ## Notas editoriales del Vehemiurgo
 
@@ -132,15 +149,13 @@ in 2026* es lista **anti-desperdicio de talento**.
 
 ## Pendientes / huecos
 
-- [ ] Nombre real + edad + origen.
-- [ ] Debut profesional + background indie pre-Elegance.
-- [ ] Historial completo en TNA: debut, evolución, championships.
-- [ ] Match exacto de M en No Surrender 13 feb 2026 (oponente,
-      finish, lugar en card).
-- [ ] **Apertura promotion file** `archive/promotions/the-elegance-brand.md`
-      — faction roster + storyline arc + cross-promo NXT/TNA.
-- [ ] Fact-sheets pendientes complementarias: Ash by Elegance,
-      Heather by Elegance.
+- [x] Background indie pre-Elegance (Black and Brave + ex-volleyball NCAA).
+- [x] Match exacto No Surrender (KO World Tag vs Brookside/Hartwell).
+- [x] Promotion file Elegance Brand abierto.
+- [x] Fact-sheets Ash y Heather abiertas.
+- [ ] **Nombre real definitivo** — Maggie Lee vs Maggie Peters
+      (verificar legal vs ring name).
+- [ ] Edad y lugar de nacimiento exactos.
 - [ ] Cross-link con Mike Santana cuando se abra su ficha (caso
       testigo del paralelo editorial).
 - [ ] Cobertura social media — IG, TikTok — si extiende el gimmick
@@ -148,10 +163,12 @@ in 2026* es lista **anti-desperdicio de talento**.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
+  — **anchor de la declaración prospecto** (KO World Tag defense).
 - [`../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
   — match cross-promo TNA/NXT (Elegance Brand vs ZaRuca), FS class.
-- *(Pendiente: match en TNA No Surrender 13 feb 2026 — anchor de la
-  declaración prospecto.)*
+- [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md)
+  — return post-match en el mismo show.
 
 ## Cross-links
 

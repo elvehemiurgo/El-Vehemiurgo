@@ -5,12 +5,12 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 ## Activas
 
-| ID | Estado | Lanzada | Alcance breve | Origen | Destino del material |
-|---|---|---|---|---|---|
-| `m-by-elegance-no-surrender-2026-elegance-brand-roster` | `en-curso` | 2026-06-17 | Identificar match exacto de M by Elegance en TNA No Surrender 13 feb 2026 (oponente, finish, lugar en card) + profile completo de The Elegance Brand (Ash + Heather + M; origen, roster, storyline arc 2024-2026, championships) | Volcado Vehemiurgo 2026-06-17 (declaración THE FUTURE in 2026 #1) + autorización explícita post-lanzamiento de la lista | [`archive/people/m-by-elegance.md`](../archive/people/m-by-elegance.md) (datos del match + bio) + nueva ficha pendiente [`archive/promotions/the-elegance-brand.md`](../archive/promotions/the-elegance-brand.md) + fichas pendientes Ash by Elegance + Heather by Elegance |
+| _(vacío)_ | | | | | |
 
-> `lista-personal-maestra-indice-2026` cerrada el 2026-06-17 — ver
-> [`closed.md`](./closed.md).
+> Dos investigaciones cerradas el 2026-06-17:
+> `lista-personal-maestra-indice-2026` y
+> `m-by-elegance-no-surrender-2026-elegance-brand-roster` —
+> ver [`closed.md`](./closed.md).
 
 ## En cola (declaradas, no lanzadas)
 
