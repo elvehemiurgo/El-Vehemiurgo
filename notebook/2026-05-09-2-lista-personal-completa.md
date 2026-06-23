@@ -745,7 +745,7 @@ mantiene visible qué queda.
 - SINNER & SAINT VS SWANN & BDE TNA Impact 19.02.2026
 - AJ FRANCIS FIGHTS MANCER BACKSTAGE TNA Impact 19.02.2026
 - (✓) **MUSTAFA ALI VS ELIJAH CASKET MATCH TNA Impact 19.02.2026** → [`archive/matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md`](../archive/matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md) (Perfect Match triple clase, Nashville Music City, anchor declaración Ali run generacional 2026-06-17)
-- LION SLATHER & SANTANA VS NIC & RYAN NEMETH TNA Impact 26.02.2026
+- (✓) **LION SLATHER & SANTANA VS NIC & RYAN NEMETH TNA Impact 26.02.2026** → [`archive/matches/2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md`](../archive/matches/2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md) (Perfect Match triple clase, X-Division representada, anchor declaración Slater "presente no futuro" 2026-06-17)
 - MICKEY JAMES SAVING THE SEGMENT WITH ASH TNA Impact 26.02.2026
 - ODB RETURN SEGMENT WITH HEATHER & M BY ELEGANCE (FIRST HALF) TNA Impact 05.03.2026
 - SINNER & SAINT VS THE SYSTEM'S MYERS & BRONSON VS THE RIGHTEOUS VS SWANN & BDE TNA Impact 05.03.2026

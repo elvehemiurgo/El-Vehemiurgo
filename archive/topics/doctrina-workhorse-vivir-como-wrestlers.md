@@ -100,12 +100,14 @@ tiempo real 2026**.
 |---|---|---|
 | **Mustafa Ali** *(ficha [→](../people/mustafa-ali.md))* | *"Está abrazando sus vulnerabilidades y usándolas para storytelling de calidad"*. Madurez de carrera + aprecia oldschool + spots con intención. **Run generacional TNA 2025-2026**. *"Uno de los mejores"*. Selling **al nivel AJ Styles y Nic Nemeth**. | Notebook 2026-06-17 #7 |
 | **Dutch** *(ficha [→](../people/dutch.md))* | Abraza naturaleza super-heavyweight oldschool (estilo Big Bossman). No finge ser otra cosa. *"Talentazo"* The Righteous TNA 2026. | Notebook 2026-06-17 #6 |
+| **Leon Slater** *(ficha [→](../people/leon-slater.md))* | Juventud + workhorse pulido desde la primera oportunidad TV (no desde indie largo). Booking quirúrgico TNA + dinero TKO + rubs main event sostenidos. *"Ya no es el futuro, es el presente"*. Modelo de cómo se construye un workhorse cuando la empresa tiene paciencia. | Notebook 2026-06-17 #8 |
 
 **Lectura clave**: la doctrina formulada en sesión 6 (derivada de
 The Righteous + casos clásicos Bret/Goldberg/Benoit) **se valida
-inmediatamente** en sesión 7 con Mustafa Ali como **caso vivo 2026
-declarado explícito**. *"Está abrazando sus vulnerabilidades"* =
-literal de la doctrina.
+inmediatamente** en sesiones 7 y 8 con Mustafa Ali y Leon Slater
+como **casos vivos 2026 declarados explícitos**. La Categoría C
+**se autopobló en una sola jornada con tres entradas** — la
+doctrina opera viva en TNA 2026.
 
 ## El criterio negativo implícito
 

@@ -1,0 +1,197 @@
+---
+nombre: "Leon Slater"
+tipo: fact-sheet
+categoria: people
+slug: leon-slater
+estado: vivo
+ultima_actualizacion: 2026-06-17
+fuentes_principales:
+  - "Volcado Vehemiurgo 2026-06-17 (declaración 'bookeo quirúrgico + dinero TKO + presente no futuro + X-Division representada')"
+  - "Lista personal verbatim: 11 entradas Slater 2025-2026 (top 10 del ranking)"
+tags: [leon-slater, lion-slater-variante, british-young-talent, tna-x-division-protagonist-2025-2026, booking-quirurgico-tna, dinero-tko-en-slater, derrotas-calibradas-circunstancias-especificas, rubs-constantes-main-event, presente-no-futuro-vehemiurgo, booking-excepcional, doctrina-workhorse-caso-vivo-2026, cluster-tna-bien-bookeada-2026]
+---
+
+# Leon Slater
+
+> **Talento británico bookeado quirúrgicamente** en TNA desde su
+> debut TV (declaración Vehemiurgo 2026-06-17). *"Ya no es el
+> futuro, es el presente"*. **WWE y TNA se aseguran de que solo
+> escogidos lo derroten** + **rubs constantes con el main event**.
+> *"Todo el booking de Lion es excepcional"*. **Top 10 del ranking
+> de presencia personal del Vehemiurgo** (11 menciones).
+
+## Identificación
+
+- **Nombre de gimmick canónico**: **Leon Slater** (británico).
+- **Variantes en lista personal del Vehemiurgo**: *"Lion Slater"*
+  (variante con *Lion*) y *"Lion/Leon Slather"* (typos con H
+  extra). **El canónico es Leon Slater** — talento de Liverpool [verif].
+- **Empresa actual (2026)**: **TNA Wrestling** — main scene X-Division
+  + tag rotativo + rubs main event.
+- **Cross-promotion 2026**: apariciones en **WWE NXT** (vs Oba Femi
+  6 ene 2026) y **WWE SmackDown** (vs Carmelo Hayes 16 ene 2026) —
+  partnership TNA-WWE.
+- **Edad**: muy joven (~20-22) [verif].
+
+## Trayectoria condensada
+
+- **Indies British** (origen).
+- **TNA Wrestling** — debut TV con booking calibrado desde el
+  primer día (lectura del Vehemiurgo 2026-06-17).
+- **2025-2026 — temporada de consolidación**:
+  - **2025 Bound for Glory** — vs Jevon Evans (cross-promo TNA-NXT).
+  - **14 nov 2025 (Turning Point)** — vs Rich Swann [pendiente].
+  - **Septiembre 2025 (Impact)** — Ali & Trick Williams vs Slater
+    & Mike Santana [pendiente].
+  - **27 nov 2025 (Impact)** — The System & Slater vs AJ Francis,
+    Jake Something, Ryan Nemeth & Rich Swann [pendiente].
+  - **4 dic 2025 (Impact)** — AJ Francis' First Class Penthouse
+    segment con Slater [pendiente].
+  - **5 dic 2025 (Final Resolution)** — vs AJ Francis [pendiente].
+  - **6 ene 2026 (WWE NXT)** — vs **Oba Femi** [pendiente].
+  - **8 ene 2026 (Impact)** — The System vs The Hardys, Slater &
+    Cedric Alexander [pendiente].
+  - **16 ene 2026 (WWE SmackDown)** — vs **Carmelo Hayes**
+    [pendiente].
+  - **13 feb 2026 (No Surrender)** — **MAIN EVENT** del show:
+    **Eddie Edwards & Nic Nemeth vs Slater & Mike Santana**
+    [confirmado por sub-agente Elegance Brand dossier, pendiente
+    apertura match file].
+  - **19 feb 2026 (Impact)** — segment Slater/Santana/Nemeths
+    [pendiente].
+  - **26 feb 2026 (Impact)** — **vs The Nemeths con Santana**
+    ([→](../matches/2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md))
+    — **Perfect Match triple clase**, anchor de la declaración
+    Vehemiurgo.
+  - **5 mar 2026 (Impact)** — singles vs **Nic Nemeth** [pendiente].
+
+## Datos contractuales / business
+
+> *"se ve que hay dinero de TKO en este proyecto"*
+
+- **El Vehemiurgo identifica inversión TKO** en el proyecto Slater
+  específicamente. **No es solo lectura editorial — es lectura de
+  business**.
+- **Cross-promotion WWE NXT + SmackDown enero 2026**: confirma que
+  el partnership TNA-WWE-TKO se mueve **alrededor de Slater como
+  pieza compartida**. Cross-link con
+  [`../topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md)
+  — Slater entraría en el cluster *"talents jóvenes con paquete
+  contractual privilegiado bajo TKO 2025-2026"*.
+- **Backing financiero TKO + booking quirúrgico TNA = patrón
+  combinado** que pocas figuras tienen. **Pieza editorial al
+  horno**: *"Leon Slater como pieza compartida TKO 2026 — el
+  modelo TNA-NXT-SmackDown"*.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-06-17 — *"bookeado quirúrgicamente + presente, no futuro"*
+
+**Cita verbatim**:
+
+> *"Otro que está siendo bookeado quirúrgicamente desde su debut
+> en tv es Lion Slater, se ve que hay dinero de TKO en este
+> proyecto, WWE y TNA se aseguran de que solo unos escogidos
+> derroten a Lion en circunstancias super específicas, cuando
+> realmente vale la pena y tiene impacto en todo el producto; y
+> los rubs constantes con el main event siempre le quedan genial
+> a TNA; cada lucha es emocionante, es un talento realmente
+> especial, pero ya no es el futuro, es el presente; quiero darle
+> todas las clases a su lucha tag team con Santana contra los
+> Nemeths en TNA 2026 02 26 iMPACT; de verdad saben dar un show,
+> me encanta ver así de representada la X-Division, todo el
+> booking de Lion es excepcional"*
+>
+> — El Vehemiurgo, 2026-06-17 (verbatim)
+
+**Lectura sintética — los ocho ejes**:
+
+1. ***"Bookeado quirúrgicamente desde su debut TV"*** — paralelo
+   directo con la declaración sobre **Mustafa Ali** (sesión 7
+   misma jornada): *"booking calibrado milimétricamente"*. **Patrón
+   consolidado**: TNA 2026 tiene **dos pilares heel/face**
+   bookeados con disciplina old-school.
+2. ***"Hay dinero de TKO en este proyecto"*** — observación de
+   business + reconocimiento al backing. Pieza compartida
+   TNA-NXT-SmackDown (cross-promotions enero 2026 con Oba Femi y
+   Carmelo Hayes).
+3. ***"WWE y TNA se aseguran de que solo unos escogidos derroten
+   a Lion en circunstancias super específicas"*** — **protección
+   de talent calibrada**. Doctrina Cornette-school 101:
+   victorias-derrotas dosificadas para construir, no para llenar
+   tiempo.
+4. ***"Cuando realmente vale la pena y tiene impacto en todo el
+   producto"*** — derrotas como **eventos**, no como rutina.
+5. ***"Los rubs constantes con el main event siempre le quedan
+   genial a TNA"*** — los rubs **funcionan** porque están
+   calibrados. Cross-link tesis Hardys-plataforma (sesión 6
+   misma jornada): el rub corona cuando el talent ya está
+   construido. Slater ya está construido.
+6. ***"Cada lucha es emocionante, talento realmente especial"*** —
+   sustainability + ceiling alto.
+7. ***"Ya no es el futuro, es el presente"*** — **lectura clave**.
+   Slater **NO entra a THE FUTURE in 2026** (lista prospectiva).
+   **Está más allá**, igual que Mustafa Ali (sesión 7). El patrón
+   de la jornada: **dos talents declarados PRESENTE, no futuro**.
+8. ***"Todo el booking de Lion es excepcional"*** + ***"así de
+   representada la X-Division"*** — declaración cumbre + lectura
+   doctrinal sobre la X-Division.
+
+### El cluster X-Division — pieza editorial al horno
+
+> *"me encanta ver así de representada la X-Division"*
+
+- **La X-Division TNA original (2002-2008)** fue el cluster
+  Vehemiurgia por excelencia: AJ Styles, Samoa Joe, Christopher
+  Daniels, Low Ki, Sonjay Dutt, Petey Williams, Chris Sabin,
+  Alex Shelley. **High-spot con storytelling + booking-first**.
+- **La X-Division 2026 con Slater como vehículo central** =
+  el Vehemiurgo aprueba que TNA **recupera la liturgia
+  X-Division** después de años de inconsistencia.
+- **Pieza editorial al horno**: *"La X-Division 2026 recuperada
+  — Slater como heredero del estandarte TNA 2002-2008"*.
+
+### Cross-link doctrina workhorse — Caso Vivo 2026 #3
+
+Slater se suma a **Mustafa Ali (#1 Caso Vivo) y Dutch (#2)** como
+**tercer caso vivo 2026** en la doctrina formalizada en sesión 6.
+Encarna distinto:
+
+- **Ali**: madurez, abraza vulnerabilidades.
+- **Dutch**: super-heavyweight oldschool, abraza naturaleza física.
+- **Slater**: **juventud + booking quirúrgico + rubs sostenidos**
+  — el workhorse pulido **desde la primera oportunidad TV** (no
+  desde el indie). Modelo de cómo construir un workhorse cuando
+  hay backing TKO + paciencia de empresa.
+
+## Pendientes / huecos
+
+- [ ] Nombre real + edad exacta + ciudad de origen británico.
+- [ ] Background indie pre-TNA.
+- [ ] Llegada a TNA — fecha exacta.
+- [ ] Championships TNA (X-Division Title actual o pasado?).
+- [ ] Confirmación detalles del contrato TKO (pieza compartida
+      WWE-TNA confirmada por dirt sheets?).
+- [ ] **Apertura matches del cluster** — 11 entradas pendientes
+      en la lista personal solo Slater 2025-2026.
+- [ ] **Pregunta abierta al Vehemiurgo**: ¿panteón? Está más allá
+      de THE FUTURE — *"presente, no futuro"*. Candidato fuerte a
+      Fundamental.
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`../matches/2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md`](../matches/2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md)
+  — **Perfect Match triple clase**, anchor de la declaración 2026-06-17.
+
+## Cross-links
+
+- [`../topics/doctrina-workhorse-vivir-como-wrestlers.md`](../topics/doctrina-workhorse-vivir-como-wrestlers.md)
+  — **Caso Vivo 2026 #3** de la doctrina.
+- [`../people/mustafa-ali.md`](../people/mustafa-ali.md) — el
+  **otro pilar TNA** bookeado con disciplina old-school 2026.
+- [`../topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md)
+  — pieza compartida TKO.
+- [`../people/mike-santana.md`](../people/mike-santana.md) —
+  tag partner constante en 2026.
+- [`../people/nic-nemeth.md`](../people/nic-nemeth.md) — oponente
+  signature 2026.
