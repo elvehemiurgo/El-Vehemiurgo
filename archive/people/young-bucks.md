@@ -94,6 +94,42 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
       [`../topics/young-bucks-vs-redragon-roh-njpw.md`](../topics/young-bucks-vs-redragon-roh-njpw.md).
 - [ ] Finishers vigentes + verificar datos duros.
 
+## Lectura editorial — rivalidad vs Hardys (caso C de la tesis 2026-06-17)
+
+El Vehemiurgo (notebook 2026-06-17 #6) lee la rivalidad **Young
+Bucks vs Hardys** (ROH 2017 Ladder War + AEW posterior) como el
+**caso éxito** del rub Hardys → talent — el ÚNICO de los tres
+casos testigo que **sí consolidó**.
+
+> *"los Young Bucks por ejemplo, su rivalidad con los Hardys sí
+> fue la gran cosa y de hecho ellos ya estaban establecidos antes
+> de que ROH quisiera propiciar esta dream match, porque el rub
+> con los Hardys venía de más antes, desde Twitter y YouTube, el
+> acercamiento a esta dream match o casi pase de antorcha
+> simbólico fue puro storytelling, puro booking orgánico fuera
+> del ring"*
+>
+> — El Vehemiurgo, 2026-06-17 (verbatim)
+
+**Lectura sintética**:
+
+- **Ya eran estrellas antes del rub**: el rub vino **DESPUÉS** de
+  que ya estaban consolidados (Bullet Club / NJPW Jr Tag /
+  trayectoria propia). **El rub coronó, no construyó**.
+- **El acto orgánico fuera del ring**: Twitter + YouTube +
+  **Being The Elite (BTE)** = el rub se construyó **antes de la
+  dream match** y orgánicamente. Booking sin booker — los
+  protagonistas lo armaron solos.
+- **Pase de antorcha simbólico**: el match ROH 2017 (Death Before
+  Dishonor XV) operó como **rito de pase**, no como nacimiento.
+- **Cumplen doctrina workhorse**
+  ([→](../topics/doctrina-workhorse-vivir-como-wrestlers.md)):
+  abrazaron su naturaleza (tandem moderno superkick-era +
+  branding propio + EVP-as-talent) sin fingir ser otra cosa.
+
+Ver tesis completa:
+[`../topics/hardys-como-plataforma-mentor.md`](../topics/hardys-como-plataforma-mentor.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynasty-2026.md`](../../notebook/2026-05-26-takes-aew-dynasty-2026.md)

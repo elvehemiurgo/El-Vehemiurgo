@@ -7,10 +7,11 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | _(vacío)_ | | | | | |
 
-> Dos investigaciones cerradas el 2026-06-17:
-> `lista-personal-maestra-indice-2026` y
-> `m-by-elegance-no-surrender-2026-elegance-brand-roster` —
-> ver [`closed.md`](./closed.md).
+> Tres investigaciones cerradas el 2026-06-17:
+> `lista-personal-maestra-indice-2026`,
+> `m-by-elegance-no-surrender-2026-elegance-brand-roster` y
+> `dutch-bill-carr-carrera-completa-2026` — ver
+> [`closed.md`](./closed.md).
 
 ## En cola (declaradas, no lanzadas)
 
