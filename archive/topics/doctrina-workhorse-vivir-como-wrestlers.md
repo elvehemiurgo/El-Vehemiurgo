@@ -91,6 +91,22 @@ ya formado** desde la naturaleza. La categoría B son talents
 **Ambas categorías comparten el mismo principio**: vivir como
 wrestler + abrazar la naturaleza.
 
+### Categoría C — Casos vivos 2026 (la doctrina operando ahora)
+
+Talents que el Vehemiurgo identifica **encarnando la doctrina en
+tiempo real 2026**.
+
+| Wrestler | Cómo encarna la doctrina | Sesión |
+|---|---|---|
+| **Mustafa Ali** *(ficha [→](../people/mustafa-ali.md))* | *"Está abrazando sus vulnerabilidades y usándolas para storytelling de calidad"*. Madurez de carrera + aprecia oldschool + spots con intención. **Run generacional TNA 2025-2026**. *"Uno de los mejores"*. Selling **al nivel AJ Styles y Nic Nemeth**. | Notebook 2026-06-17 #7 |
+| **Dutch** *(ficha [→](../people/dutch.md))* | Abraza naturaleza super-heavyweight oldschool (estilo Big Bossman). No finge ser otra cosa. *"Talentazo"* The Righteous TNA 2026. | Notebook 2026-06-17 #6 |
+
+**Lectura clave**: la doctrina formulada en sesión 6 (derivada de
+The Righteous + casos clásicos Bret/Goldberg/Benoit) **se valida
+inmediatamente** en sesión 7 con Mustafa Ali como **caso vivo 2026
+declarado explícito**. *"Está abrazando sus vulnerabilidades"* =
+literal de la doctrina.
+
 ## El criterio negativo implícito
 
 El acto que **no abraza** su naturaleza muere. Cosplay carny. El

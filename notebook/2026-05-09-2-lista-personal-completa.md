@@ -744,7 +744,7 @@ mantiene visible qué queda.
 - TESSA BLANCHARD VS JODY THREAT TNA Impact 19.02.2026
 - SINNER & SAINT VS SWANN & BDE TNA Impact 19.02.2026
 - AJ FRANCIS FIGHTS MANCER BACKSTAGE TNA Impact 19.02.2026
-- MUSTAFA ALI VS ELIJAH CASKET MATCH TNA Impact 19.02.2026
+- (✓) **MUSTAFA ALI VS ELIJAH CASKET MATCH TNA Impact 19.02.2026** → [`archive/matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md`](../archive/matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md) (Perfect Match triple clase, Nashville Music City, anchor declaración Ali run generacional 2026-06-17)
 - LION SLATHER & SANTANA VS NIC & RYAN NEMETH TNA Impact 26.02.2026
 - MICKEY JAMES SAVING THE SEGMENT WITH ASH TNA Impact 26.02.2026
 - ODB RETURN SEGMENT WITH HEATHER & M BY ELEGANCE (FIRST HALF) TNA Impact 05.03.2026

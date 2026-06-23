@@ -46,6 +46,7 @@ con cada cambio de estado.
 | 2026-03-15 | Young Bucks vs FTR | AEW / Revolution 2026 | — | en-investigacion | 1 | [→](2026-03-15-young-bucks-vs-ftr-aew-revolution.md) |
 | 2026-02-28 | Sareee & Takumi Iroha vs Hazuki & Fuwa-chan | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-sareee-iroha-vs-hazuki-fuwa-chan-stardom-korakuen.md) |
 | 2026-02-28 | God's Eye (Ami Sourei, Lady C & Ranna Yagami) vs India Sioux, Tabata & Kira | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md) |
+| 2026-02-19 | Mustafa Ali vs Elijah (Elias) — Guitar Casket Match | TNA / Thursday Night iMPACT (Nashville, Music City) | PW·FS·WE | stub | 1 | [→](2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md) |
 | 2026-02-13 | The Elegance Brand (Heather & M by Elegance) (c) vs Xia Brookside & Indi Hartwell — KO World Tag | TNA / No Surrender 2026 | — | stub | 1 | [→](2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md) |
 | 2026-02-13 | Lei Ying Lee (c) vs Arianna Grace — TNA Knockouts World Championship | TNA / No Surrender 2026 | — | stub | 1 | [→](2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md) |
 | 2026-02-03 | ZaRuca (Sol Ruca & Zaria) vs The Elegance Brand (M by Elegance & Heather by Elegance) | WWE / TNA / NXT (taping; cross-promotional con TNA) | FS | en-investigacion | 1 | [→](2026-02-03-zaruca-vs-elegance-brand-nxt.md) |
