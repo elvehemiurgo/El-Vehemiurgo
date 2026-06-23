@@ -14,6 +14,11 @@ fuentes_principales:
 
 # Saquon Shugars
 
+> **THE FUTURE IN 2026 #2** — segundo nombre de la lista anual
+> declarada el 2026-06-17 ([`../topics/the-future-in-2026.md`](../topics/the-future-in-2026.md)),
+> en bloque con M by Elegance (#1). Prospecto innegable de la
+> generación oldschool en cuerpo joven.
+>
 > Nombre confirmado por la lista personal del Vehemiurgo:
 > *"JEVON EVANS VS SAQUON SHUGARS WWE NXT NOVEMBER 2025"*. El
 > Vehemiurgo a veces lo escribe *"Saquan Sugars"* — la grafía
