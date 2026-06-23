@@ -76,9 +76,13 @@ James/Elegance** post-No Surrender.
 ## Piezas relacionadas
 
 - [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
-  — match anchor previo al return.
+  — match anchor previo al return (KO World Tag, Elegance retiene).
+- [`../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md`](../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md)
+  — title change KO World mismo show (Arianna nueva campeona).
 - [`../promotions/the-elegance-brand.md`](../promotions/the-elegance-brand.md)
   — la faction atacada.
+- [`../people/arianna-grace.md`](../people/arianna-grace.md) —
+  THE FUTURE in 2026 #3, anchor mismo show.
 - [`../../dossiers/draft-tna-2025-2026-kazarian-king-era.md`](../../dossiers/draft-tna-2025-2026-kazarian-king-era.md).
 - (Pendiente Mickey James fact-sheet — figura cross-promotion
   + legacy.)

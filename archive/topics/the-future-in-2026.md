@@ -69,6 +69,26 @@ Tres ejes del criterio:
 - **Match anchor**: vs Jevon Evans NXT noviembre 2025 + 8-man tag
   Dark State NXT 7 abr 2026 + segment NXT Revenge Week 1 (14 abr).
 
+### #3 — Arianna Grace ⭐ *(declarada 2026-06-17, segundo bloque)*
+
+- **Empresa**: TNA Wrestling — Knockouts division.
+- **Linaje familiar kayfabe**: hija de **Santino Marella** (autoridad
+  TNA) + pareja kayfabe de **Stacks**.
+- **Por qué entra**: el caso testigo del **entertainer puro >
+  workrate**. *"No es necesariamente fuerte in-ring, pero se mueve
+  como entertainer"*. **Doble contramodelo explícito**: *"no utiliza
+  patadas innecesarias como la mayoría, ni corta promos mediocres de
+  babyface genérico"*. Heel chickenshit clásico ejecutado bien —
+  huye, hace trampas, **gana el título**.
+- **Match anchor de la declaración**: vs **Lei Ying Lee** en TNA
+  **No Surrender 2026 (13 feb)** — **gana el KO World Title**.
+  Mismo show que el anchor del #1.
+- **Ficha**: [`../people/arianna-grace.md`](../people/arianna-grace.md).
+- **Storyline declarada cautivante**: arc completo
+  *manipulación-Santino → ultimátum-Stacks → match titular →
+  cheats → título*. *"La manera correcta de usar a Stacks y Santino
+  para crear algo con potencial"* — **nepo-baby kayfabe bien usado**.
+
 ## El advertencia editorial — *"no como Santana"*
 
 El Vehemiurgo encuadra la lista con una **advertencia comparativa**
@@ -132,6 +152,11 @@ explícitamente *encabeza la lista*).
 
 - [`../people/m-by-elegance.md`](../people/m-by-elegance.md) — #1.
 - [`../people/saquon-shugars.md`](../people/saquon-shugars.md) — #2.
+- [`../people/arianna-grace.md`](../people/arianna-grace.md) — #3.
+- [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
+  — anchor del #1 (mismo show que el del #3).
+- [`../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md`](../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md)
+  — anchor del #3.
 - [`./heroes-fundamentales-vehemiurgia.md`](./heroes-fundamentales-vehemiurgia.md)
   — el panteón consolidado (a dónde podrían entrar estos prospectos
   con el tiempo).

@@ -47,6 +47,7 @@ con cada cambio de estado.
 | 2026-02-28 | Sareee & Takumi Iroha vs Hazuki & Fuwa-chan | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-sareee-iroha-vs-hazuki-fuwa-chan-stardom-korakuen.md) |
 | 2026-02-28 | God's Eye (Ami Sourei, Lady C & Ranna Yagami) vs India Sioux, Tabata & Kira | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md) |
 | 2026-02-13 | The Elegance Brand (Heather & M by Elegance) (c) vs Xia Brookside & Indi Hartwell — KO World Tag | TNA / No Surrender 2026 | — | stub | 1 | [→](2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md) |
+| 2026-02-13 | Lei Ying Lee (c) vs Arianna Grace — TNA Knockouts World Championship | TNA / No Surrender 2026 | — | stub | 1 | [→](2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md) |
 | 2026-02-03 | ZaRuca (Sol Ruca & Zaria) vs The Elegance Brand (M by Elegance & Heather by Elegance) | WWE / TNA / NXT (taping; cross-promotional con TNA) | FS | en-investigacion | 1 | [→](2026-02-03-zaruca-vs-elegance-brand-nxt.md) |
 | 2026-01-17 | Mustafa Ali vs Elias | TNA / Genesis 2026 | — | en-investigacion | 1 | [→](2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) |
 | 2025-12-20 | Hijo del Vikingo vs Dragon Lee | WWE AAA / Guerra de Titanes 2025 | — | en-investigacion | 1 | [→](2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md) |
