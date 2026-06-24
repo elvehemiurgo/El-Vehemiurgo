@@ -1,0 +1,103 @@
+---
+nombre: "Cedric Alexander"
+tipo: fact-sheet
+categoria: people
+slug: cedric-alexander
+estado: vivo
+ultima_actualizacion: 2026-06-17
+fuentes_principales:
+  - "Volcado Vehemiurgo 2026-06-17 #15 (*'Cedric también lo mantiene real'* — estabilizador técnico del match anchor FS)"
+  - "Lista personal verbatim: 6 entradas Cedric Alexander 2025-2026"
+tags: [cedric-alexander, ex-wwe-205-live-cruiserweight-champion, ex-the-hurt-business, tna-2025-2026-x-division-main-scene, estabilizador-tecnico, mantiene-el-match-real, doctrina-workhorse-cumple-ejes]
+---
+
+# Cedric Alexander
+
+> Ex-**WWE Cruiserweight Champion** (205 Live era) + ex-**The Hurt
+> Business** (con MVP, Bobby Lashley, Shelton Benjamin). En TNA
+> 2025-2026: main scene X-Division + cruces signature con Moose
+> (3 encuentros documentados). Reconocido por el Vehemiurgo
+> (2026-06-17 #15) como **estabilizador técnico**: *"Cedric también
+> lo mantiene real"* — el oficio in-ring que contrarresta los
+> vicios contemporáneos. Top 50 del ranking de presencia personal.
+
+## Identificación
+
+- **Nombre real**: **Cedric Johnson** [verif].
+- **Nacimiento**: 22 mar 1989, Charlotte, North Carolina [verif].
+- **Empresa actual (2026)**: TNA Wrestling — X-Division + main
+  scene rotativa.
+
+## Trayectoria condensada
+
+- **Indies USA (2009-2016)** — ROH + EVOLVE + CZW.
+- **WWE Cruiserweight Classic 2016** — runner-up vs TJ Perkins
+  [verif].
+- **WWE 205 Live (2016-2019)** — Cruiserweight Champion (2018,
+  vs Mustafa Ali en WrestleMania 34 Kickoff [verif]).
+- **WWE main roster (2019-2024)** — **The Hurt Business** con
+  MVP + Bobby Lashley + Shelton Benjamin (faction signature
+  era 2020-2021).
+- **Salida WWE 2024** [verif fecha].
+- **TNA Wrestling 2025-presente** — main scene X-Division:
+  - **6 nov 2025 (Impact)** — Mike Santana vs Cedric.
+  - **13 nov 2025 (Impact)** — Jason Hotch vs Cedric.
+  - **11 dic 2025 (Impact)** — X-Division gauntlet (vs BDE,
+    Something, Dezmond Xavier, Jason Hotch, Ryan Nemeth).
+  - **8 ene 2026 (Impact)** — The System vs The Hardys, Slater
+    & Cedric.
+  - **17 ene 2026 (Genesis)** — Moose vs Joe Hendry vs Cedric
+    (3-way).
+  - **22 ene 2026 (Impact)** — Moose vs Cedric.
+  - **12 mar 2026 (Impact)** — **vs Moose, FS class**
+    ([→](../matches/2026-03-12-moose-vs-cedric-alexander-tna-impact.md)).
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-06-17 #15 — *"Cedric lo mantiene real"*
+
+> *"y Cedric también lo mantiene real, buena lucha, se merece un
+> fighting spirit"*
+>
+> — El Vehemiurgo, 2026-06-17 #15 (verbatim)
+
+**Lectura sintética**:
+
+- ***"Lo mantiene real"*** = **estabilizador técnico del match**.
+  Cedric contrarresta los vicios contemporáneos de Moose (pumpkick
+  repetitivo + thighslap) con **oficio in-ring sólido**.
+- **Cross-link doctrina workhorse** ([→](../topics/doctrina-workhorse-vivir-como-wrestlers.md)):
+  Cedric **abraza su naturaleza técnica** (cruiserweight pulido
+  + base catch). No finge ser otra cosa.
+- **Rol estructural**: Cedric es **uno de los talents
+  estabilizadores** del X-Division TNA 2026 — sostiene la
+  calidad del producto incluso cuando los oponentes traen
+  vicios.
+- **Cumple ejes doctrina**: vive como wrestler + oficio
+  sostenible + sin showman vacío.
+
+## Pendientes / huecos
+
+- [ ] Nombre real confirmado + fecha de nacimiento exacta.
+- [ ] Cronología completa (indies → CWC 2016 → 205 Live →
+      Hurt Business → main roster post-2021 → salida → TNA).
+- [ ] **WWE Cruiserweight Champion 2018** — fechas + WrestleMania
+      34 Kickoff vs Mustafa Ali (anchor histórico cross-link
+      con take Ali 2026-06-17 #7).
+- [ ] **The Hurt Business arc** completo — pieza editorial al
+      horno (faction signature WWE pandemia era).
+- [ ] Apertura matches del cluster TNA 2025-2026 (6 entradas
+      lista personal).
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`../matches/2026-03-12-moose-vs-cedric-alexander-tna-impact.md`](../matches/2026-03-12-moose-vs-cedric-alexander-tna-impact.md)
+  — anchor estabilizador técnico + FS class.
+
+## Cross-links
+
+- [`../people/moose.md`](../people/moose.md) — oponente recurrente.
+- [`../people/mustafa-ali.md`](../people/mustafa-ali.md) —
+  rival WrestleMania 34 Kickoff CW Title (cross-link histórico).
+- [`../topics/doctrina-workhorse-vivir-como-wrestlers.md`](../topics/doctrina-workhorse-vivir-como-wrestlers.md)
+  — cumple ejes (vivir como wrestler + abrazar oficio).
