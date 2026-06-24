@@ -758,7 +758,7 @@ mantiene visible qué queda.
 - SANTANA AND MACLIN BACKSTAGE SEGMENT TNA Impact 12.03.2026
 - ARIANA GRACE AND STACKS ATTACK HARTWELL BACKSTAGE TNA Impact 12.03.2026
 - STEVE MACLIN IN-RING COMEBACK SEGMENT TNA Impact 12.03.2026
-- AJ FRANCIS VS ELIJAH TNA Impact 12.03.2026
+- (✓) **AJ FRANCIS VS ELIJAH TNA Impact 12.03.2026** → [`archive/matches/2026-03-12-elijah-vs-aj-francis-tna-impact.md`](../archive/matches/2026-03-12-elijah-vs-aj-francis-tna-impact.md) (TV ready, actúan como wrestlers, irish whip correcto — pieza editorial al horno sesión 2026-06-17 #14)
 - ROSEMARY AND SWINGER'S "SWINGER'S PALACE" SEGMENT TNA Impact 12.03.2026
 
 ### Bloque TNA 2007 (Christian Coalition era — la **tierra sagrada**)

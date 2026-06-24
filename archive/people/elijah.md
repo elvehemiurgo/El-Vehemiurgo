@@ -1,0 +1,122 @@
+---
+nombre: "Elijah"
+tipo: fact-sheet
+categoria: people
+slug: elijah
+estado: vivo
+ultima_actualizacion: 2026-06-17
+fuentes_principales:
+  - "Volcado Vehemiurgo 2026-06-17 #7 (Guitar Casket Match Nashville vs Ali = Perfect Match)"
+  - "Volcado Vehemiurgo 2026-06-17 #14 (vs AJ Francis — TV ready, irish whip correcto)"
+  - "Lista personal verbatim: 4+ entradas Elijah/Elias 2026"
+tags: [elijah, ex-elias-wwe, gimmick-musical-guitarra, music-city-nashville-home-turf, tna-2026-mid-card-alto, oponente-ali-feud-anchor, oficio-basico-irish-whip-correcto]
+---
+
+# Elijah
+
+> Ex-**Elias** en WWE (2017-2023 — gimmick *Drifter* musical con
+> guitarra). En TNA 2026 adopta el ring name **Elijah** + mantiene
+> el gimmick musical. **Rival signature de Mustafa Ali** en su feud
+> arco Genesis-Casket Match Nashville (Perfect Match anchor sesión
+> #7). En sesión #14 (vs AJ Francis 12/3/2026): *"actúan como
+> wrestlers + saben hacer un irish whip correctamente"*.
+
+## Identificación
+
+- **Nombre real**: **Logan Wade Allgood** [verif].
+- **Nombres de gimmick**:
+  - **Elias** (WWE 2017-2023) — *The Drifter*, guitarra firma,
+    *"Walk With Elias"*.
+  - **Elijah** (TNA 2025-2026 + brief WWE 2023) — variación
+    musical post-vuelta-a-WWE.
+- **Empresa actual (2026)**: TNA Wrestling — mid-card alto.
+
+## Trayectoria condensada
+
+- **WWE main roster (2017-2023)** como Elias:
+  - Gimmick musical signature (guitarra firma, *"Walk With
+    Elias"*, segments cantados con la audiencia).
+  - WWE 24/7 Champion múltiple.
+  - Tag con brother Ezekiel (kayfabe) — gimmick "I'm not Elias,
+    I'm Ezekiel" running joke.
+  - Salida 2023.
+- **TNA 2025-2026** — debut + adoptación del ring name **Elijah**.
+- **2026 — feud signature con Mustafa Ali (Genesis → Casket
+  Nashville)**:
+  - **17 ene 2026 (Genesis)** — vs Ali, debut PPV TNA del feud
+    ([→](../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)).
+    Tag `casket-build`.
+  - **29 ene 2026 (Impact)** — Jason Hotch vs Elias [pendiente].
+  - **12 feb 2026 (Impact)** — Ali and Elijah promo video
+    [pendiente].
+  - **19 feb 2026 (Impact)** — **Ali vs Elijah Guitar Casket
+    Match Nashville** = **Perfect Match triple clase**
+    ([→](../matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md)).
+  - **12 mar 2026 (Impact)** — vs AJ Francis (este)
+    ([→](../matches/2026-03-12-elijah-vs-aj-francis-tna-impact.md)).
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-06-17 #7 — anchor del Perfect Match Music City
+
+En el take Mustafa Ali run generacional, el Vehemiurgo destaca:
+
+> *"es muy cool como Ali puede poner over cualquier acto babyface
+> y aquí con Elias en Music City, produjo algo memorable"*
+
+**Lectura**:
+
+- **Elijah como babyface anchor del feud** — su home turf (Music
+  City) + gimmick musical = ideal para que Ali (heel) lo ponga
+  over en una estipulación combinada (Guitar + Casket).
+- **Pieza estructural** del Perfect Match: sin Elijah dispuesto,
+  Ali no tiene contra quién brillar.
+
+### Sesión 2026-06-17 #14 — *"actúan como wrestlers + irish whip correcto"*
+
+**Cita verbatim**:
+
+> *"Elijah y AJ Francis tuvieron una muy buena lucha, TV ready,
+> lucieron muy cool, buen material y sí actúan como wrestlers,
+> rescato que se alejan de los vicios del wrestling actual y de
+> hecho sí saben hacer un irish whip correctamente"*
+
+**Lectura sintética**:
+
+- **"Actúan como wrestlers"** = doctrina workhorse aplicada.
+  Elijah no finge ser un *Drifter* — ES un wrestler que canta.
+  Cross-link [→](../topics/doctrina-workhorse-vivir-como-wrestlers.md).
+- **"Saben hacer un irish whip correctamente"** = competencia
+  básica del oficio reconocida. Pieza editorial al horno
+  específica (ver match anchor).
+- **"Se alejan de los vicios del wrestling actual"** —
+  contramodelo de spotfest sin intención + no-selling +
+  kickout inflación + indie cosplay.
+
+## Pendientes / huecos
+
+- [ ] Nombre real confirmado.
+- [ ] Fecha y lugar de nacimiento.
+- [ ] Cronología WWE 2017-2023 completa (debut, gimmick origen,
+      Ezekiel arc, salida).
+- [ ] Llegada exacta TNA + diferencia Elias vs Elijah.
+- [ ] Tracking post-12/3/2026 — ¿feud con AJ Francis continúa?
+      ¿siguiente rival?
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`../matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md`](../matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md)
+  — **Perfect Match** Casket Music City.
+- [`../matches/2026-03-12-elijah-vs-aj-francis-tna-impact.md`](../matches/2026-03-12-elijah-vs-aj-francis-tna-impact.md)
+  — anchor doctrina oficio básico.
+- [`../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md`](../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)
+  — PPV debut del feud.
+
+## Cross-links
+
+- [`../people/mustafa-ali.md`](../people/mustafa-ali.md) —
+  rival signature feud Genesis-Casket Nashville.
+- [`../people/aj-francis.md`](../people/aj-francis.md) —
+  oponente 12/3/2026.
+- [`../topics/doctrina-workhorse-vivir-como-wrestlers.md`](../topics/doctrina-workhorse-vivir-como-wrestlers.md)
+  — encaja como talent que *"actúa como wrestler"*.
