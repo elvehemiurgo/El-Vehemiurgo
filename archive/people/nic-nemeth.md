@@ -88,6 +88,31 @@ del lado heel. **El selling cumbre de Nic** es parte de por qué el
 match es triple clase: vender para Slater + para Santana en cuatro
 hombres es **oficio Cornette-school** puro.
 
+### Sesión 2026-06-17 #13 — retador #1 Slammiversary + dream rematch Perfect Match
+
+**Cita verbatim (en el take Slater)**:
+
+> *"tuvimos la dream rematch, Nemeth vs Slater, Nemeth ya tenía
+> una victoria, y el booking perfecto de Slater aquí le da su
+> revancha, retiene contra Nemeth en un clásico instantáneo que
+> se merece todas las clases, y ahora en Slammiversary Nemeth es
+> el retador número 1, todo calculado para hacer más histórico
+> el reinado de Slater"*
+
+**Lectura sintética**:
+
+- **Dream rematch como Perfect Match** ([→](../matches/2026-03-05-leon-slater-vs-nic-nemeth-tna-impact-dream-rematch.md))
+  — Nic Nemeth pierde pero **queda retador #1 para Slammiversary**.
+  Booking calibrado: la derrota no descarta, eleva el feud.
+- **Crítica técnica menor**: *"los setups para el fameasser se ven
+  incómodos"* — diagnóstico técnico específico del finisher
+  signature Nemeth (originalmente Dolph Ziggler). El resto del
+  match magistral.
+- **Rivalidad central de Slater 2026 confirmada**: dos Perfect
+  Match consecutivos cara a cara (tag 26/2 vs Nemeths + singles
+  5/3 vs Nemeth) consolidan a Nic Nemeth como **oponente
+  signature** del run Slater.
+
 ## Cluster doctrinal — el cumbre que ya no necesita panteón
 
 - **Nic NO está en el panteón** (a junio 2026). Tampoco en THE

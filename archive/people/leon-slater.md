@@ -85,6 +85,38 @@ tags: [leon-slater, lion-slater-variante, british-young-talent, tna-x-division-p
 
 ## Notas editoriales del Vehemiurgo
 
+### Sesión 2026-06-17 #13 — comparación cumbre Jeff Hardy + AJ Styles + segunda Perfect Match en 8 días
+
+**Cita verbatim**:
+
+> *"en TNA 2026 03 05 iMPACT tuvimos la dream rematch, Nemeth vs
+> Slater [...] retiene contra Nemeth en un clásico instantáneo
+> que se merece todas las clases [...] Leon todavía no tiene ese
+> feeling de Jeff Hardy cuando hace sus poses, pero se está
+> redondeando como babyface realmente especial, todos estamos
+> esperando que explote a lo AJ Styles o Jeff Hardy"*
+
+**Lectura sintética — comparación cumbre**:
+
+- **Segundo Perfect Match en 8 días** (tag con Santana vs Nemeths
+  26/2 + singles dream rematch vs Nemeth 5/3) — **patrón
+  consolidado de Slater entregando Perfect Match consecutivos**.
+- **Doble comparación con panteón Top 7 / Tier 2**:
+  - **Jeff Hardy (Dios #5)** — modelo de **poses + visualidad
+    babyface carny**. Slater *"todavía no tiene ese feeling"* —
+    diagnóstico técnico específico, pulible.
+  - **AJ Styles (Tier 2 #9)** — modelo de **explosión al main
+    event desde indie/TNA**. *"Todos estamos esperando que
+    explote a lo AJ Styles o Jeff Hardy"*.
+- ***"Babyface realmente especial"*** — confirmación sostenida
+  del techo.
+- **Pieza editorial al horno**: *"Leon Slater y la explosión
+  pendiente — el modelo Jeff Hardy y el modelo AJ Styles"*.
+- **Crítica técnica menor**: *"los setups para el fameasser se
+  ven incómodos"* — diagnóstico técnico específico del finisher
+  signature de Nemeth en el match vs Nemeth. **No descalifica el
+  Perfect Match**.
+
 ### Sesión 2026-06-17 — *"bookeado quirúrgicamente + presente, no futuro"*
 
 **Cita verbatim**:

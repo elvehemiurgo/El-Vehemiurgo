@@ -753,7 +753,7 @@ mantiene visible qué queda.
 - MARA SADE VS ELAYNA BLACK TNA Impact 05.03.2026
 - AJ FRANCIS PROMO IN ATLANTA TNA Impact 05.03.2026
 - KAZARIAN KING'S SPEECH SEGMENT TNA Impact 05.03.2026
-- LEON SLATHER VS NIC NEMETH TNA Impact 05.03.2026
+- (✓) **LEON SLATHER VS NIC NEMETH TNA Impact 05.03.2026** → [`archive/matches/2026-03-05-leon-slater-vs-nic-nemeth-tna-impact-dream-rematch.md`](../archive/matches/2026-03-05-leon-slater-vs-nic-nemeth-tna-impact-dream-rematch.md) (dream rematch, Perfect Match triple clase, Slater retiene, Nemeth retador #1 Slammiversary, comparación cumbre Jeff Hardy + AJ Styles sesión 2026-06-17 #13)
 - THE HARDYS VS SINNER & SAINT TNA Impact 12.03.2026
 - SANTANA AND MACLIN BACKSTAGE SEGMENT TNA Impact 12.03.2026
 - ARIANA GRACE AND STACKS ATTACK HARTWELL BACKSTAGE TNA Impact 12.03.2026
