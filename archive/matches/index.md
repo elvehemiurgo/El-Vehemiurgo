@@ -45,6 +45,7 @@ con cada cambio de estado.
 | 2026-03-25 | Thekla vs Mina | AEW (All Elite Wrestling) / Dynamite | FS | stub | 1 | [→](2026-03-25-thekla-vs-mina-aew-dynamite.md) |
 | 2026-03-15 | Young Bucks vs FTR | AEW / Revolution 2026 | — | en-investigacion | 1 | [→](2026-03-15-young-bucks-vs-ftr-aew-revolution.md) |
 | 2026-02-28 | Sareee & Takumi Iroha vs Hazuki & Fuwa-chan | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-sareee-iroha-vs-hazuki-fuwa-chan-stardom-korakuen.md) |
+| 2026-03-05 | Arianna Grace (c) vs Jodi Threat — TNA Knockouts World Title (primera defensa) | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-03-05-arianna-grace-vs-jodi-threat-tna-impact-primera-defensa.md) |
 | 2026-02-28 | God's Eye (Ami Sourei, Lady C & Ranna Yagami) vs India Sioux, Tabata & Kira | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md) |
 | 2026-02-26 | Leon Slater & Mike Santana vs The Nemeths (Nic & Ryan Nemeth) | TNA / Thursday Night iMPACT | PW·FS·WE | stub | 1 | [→](2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md) |
 | 2026-02-26 | Dani Luna vs Lei Ying Lee | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-02-26-dani-luna-vs-lei-ying-lee-tna-impact.md) |

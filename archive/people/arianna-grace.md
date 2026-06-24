@@ -42,10 +42,64 @@ tags: [arianna-grace, gabriella-marella, santino-marella-hija, stacks-pareja-kay
     13 feb 2026** vs **Lei Ying Lee** [verif finish exacto + lugar
     en card]. Ver
     [`../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md`](../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md).
+  - **Primera defensa exitosa**: **5 mar 2026 vs Jodi Threat**
+    (TNA Impact) — retiene con cluster de protección documentado
+    (Luna/Indi ringside + Tessa comentarios + Stacks). *"Final muy
+    accidentado"* pero proyecto continúa. Ver
+    [`../matches/2026-03-05-arianna-grace-vs-jodi-threat-tna-impact-primera-defensa.md`](../matches/2026-03-05-arianna-grace-vs-jodi-threat-tna-impact-primera-defensa.md).
 
 ## Notas editoriales del Vehemiurgo
 
-### Sesión 2026-06-17 — declaración THE FUTURE in 2026 #3
+### Sesión 2026-06-17 #10 — primera defensa + cluster de protección + *"lo único que le falta"*
+
+**Cita verbatim**:
+
+> *"Arianna Grace tuvo su primera defensa en TNA 2026 03 05 iMPACT
+> contra Jodi Threat, están cuidándole, Jodi es una veterana,
+> tienes a Luna y Indi en ringside, Tessa en comentarios, todo
+> para proteger debilidades en el acto de la campeona, que de
+> hecho se movió muy bien, su selling sólido le ayuda a navegar
+> la lucha, tiene el gimmick y el kayfabe bien integrados, eso le
+> permite seguir luciendo como wrestler incluso cuando no sea una
+> veterana experta, de hecho es brillante como usa a Stacks para
+> complementar [...] se está puliendo en tiempo real, realmente
+> rindiendo para el spot que tiene; TNA necesita alguien así de
+> mediática, lista para tv; y aunque esta primera defensa tuvo
+> un final muy accidentado, sigo creyendo en el proyecto, se
+> puede sacar un gran heel de aquí, la premisa oldschool me
+> encanta y espero que siga evolucionando, eventualmente tendrá
+> que elevar su juego in ring, es lo único que le falta"*
+
+**Lectura sintética — ejes de continuidad sobre la sesión #5**:
+
+- **Selling sólido confirmado** — la lectura de sesión #5 sobre
+  *"vende muy bien"* se sostiene operativamente: en una lucha de
+  10+ minutos contra una veterana, el selling es lo que la mantiene
+  on-track.
+- **Gimmick + kayfabe bien integrados → compensa inexperiencia
+  técnica**. Pieza editorial al horno: *"Cómo un gimmick coherente
+  protege al talent novato — el caso Arianna Grace"*.
+- **Stacks como asset narrativo + in-ring** — confirma la lectura
+  sesión #5 sobre el cluster Santino + Stacks + Arianna como uso
+  correcto de pieces secundarias.
+- **Booking quirúrgico TNA aplicado** — cluster de protección
+  (Jodi veterana + Luna ringside + Indi ringside + Tessa
+  comentarios + Stacks) = empresa que sabe lo que tiene. Cross-link
+  con declaración Ali/Slater *"booking calibrado milimétricamente"*
+  (sesiones #7 y #8).
+- ***"Pulida en tiempo real, rindiendo para el spot que tiene"*** —
+  modelo Leon Slater: workhorse pulido desde la primera oportunidad
+  TV, no desde indie largo.
+- **CRÍTICA HONESTA — *"lo único que le falta"***: *"eventualmente
+  tendrá que elevar su juego in-ring"*. El Vehemiurgo identifica
+  el **techo del proyecto** sin descartarlo. El *"final muy
+  accidentado"* es síntoma del techo actual; **el proyecto sigue
+  vivo porque el resto del paquete (carisma, selling, gimmick,
+  booking) está**.
+
+### Sesión 2026-06-17 #5 — declaración THE FUTURE in 2026 #3
+
+
 
 **Contexto**: el Vehemiurgo continúa el catch-up de TNA No Surrender
 13 feb 2026 (mismo show que el take de M by Elegance #1). Esta vez el
