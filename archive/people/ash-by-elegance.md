@@ -77,6 +77,37 @@ El Vehemiurgo, al declarar a M by Elegance como **THE FUTURE in
   angle**. Quote de Ash en POST/Fightful: *"casi me retiro antes del
   debut en TNA"*. Confirma autenticidad del arc.
 
+### Sesión 2026-06-17 #11 — diagnóstico mic-work crítico honesto
+
+**Cita verbatim (sobre Ash)**:
+
+> *"Ash, por más talentosa in-ring y en cuanto a storytelling con
+> su gimmick, la verdad no es la mejor cortando promos, deberían
+> protegerla más, ha tenido buenos momentos en el micrófono
+> cuando la blindan más"*
+
+**Lectura sintética — diagnóstico operativo**:
+
+- **Reconoce los assets**: in-ring + storytelling gimmick +
+  presencia líder del brand.
+- **Diagnostica el techo**: **mic-work no es fortaleza**. Contexto
+  del diagnóstico: el segment del **26 feb 2026 con Mickey James**
+  (*"Ash se ahogó"* / *"Mickey salvó el segmento"* según lista
+  personal). Mano-a-mano con veterana en mic = exposición del
+  límite.
+- **Recomendación operativa Vehemiurgo**: ***"deberían protegerla
+  más, ha tenido buenos momentos cuando la blindan más"***. Ash
+  funciona en mic **dentro de cluster controlado**, no en
+  mano-a-mano abierto. **Modelo igual al cluster de protección
+  in-ring** aplicado al mic-work — pieza editorial al horno.
+- **Cross-link doctrina workhorse** ([→](../topics/doctrina-workhorse-vivir-como-wrestlers.md)):
+  *"abrazar debilidades + jugar con fortalezas"*. El take es la
+  doctrina aplicada: Ash **no finge** ser fuerte en mic; el
+  booking debe **protegerla en ese eje**.
+- **División de labor en el Elegance Brand consolidada**: M
+  lidera promos, Heather complementa, Ash es la in-ring +
+  storytelling. **Tres talents, tres especializaciones**.
+
 ## Backstage documentado on-record
 
 - **Cirugía / step-away 2025**: confirmado real por Fightful, POST

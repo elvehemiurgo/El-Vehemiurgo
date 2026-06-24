@@ -67,6 +67,28 @@ tags: [heather-by-elegance, heather-reckless, jaime-catherine-chambers, black-an
   de continuidad formativa que probablemente facilita la química
   tag.
 
+### Sesión 2026-06-17 #11 — entertainer real, dúo con M
+
+**Cita verbatim (sobre Heather, dentro del take del Elegance Brand
+en mic)**:
+
+> *"con Heather son entertainers de verdad, realmente fuertes,
+> merecen más éxitos y más exposición"*
+
+**Lectura sintética**:
+
+- **Sin diagnóstico negativo** en este take — Heather sale del
+  segment limpia, sin las reservas que el Vehemiurgo plantea para
+  Ash (mic-work) o para M (singles aún no lista).
+- **"Entertainer real" + dúo con M** = el corazón performativo del
+  Elegance Brand. Heather es la veterana técnica que sostiene a
+  M y juntas hacen el dúo entertainer.
+- **"Merecen más éxitos y más exposición"** = pedido editorial
+  directo. Cross-link tracking: el Vehemiurgo está sembrando
+  expectativa que el booking TNA debería honrar.
+- Anchor segment:
+  [`../segments/2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md`](../segments/2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar de nacimiento.

@@ -147,6 +147,34 @@ in 2026* es lista **anti-desperdicio de talento**.
   Vehemiurgo espera ocurre, M es candidata natural a panteón
   futuro.
 
+### Sesión 2026-06-17 #11 — líder en mic del Elegance Brand
+
+**Cita verbatim (sobre M)**:
+
+> *"M es la que debe hacer las promos, no quieren jalar el gatillo
+> con ella en singles todavía [...] M casi se ahoga también, pero
+> es buen ejercicio rudo para de una vez ir evolucionando ese
+> lado de su acto, M frente a ODB lució muy bien, realmente se
+> puede trabajar, su promo fue mucho mejor que la de Ash, mucho
+> más corta, y con Heather son entertainers de verdad, realmente
+> fuertes, merecen más éxitos y más exposición"*
+
+**Lectura sintética**:
+
+- **M es la voz del brand en mic** — declaración explícita del
+  Vehemiurgo. Lidera promos del Elegance Brand.
+- **Timing de booking calibrado**: *"no quieren jalar el gatillo
+  con ella en singles todavía"* — mismo modelo Slater/Arianna
+  (pulir antes de coronar). Confirmación del booking quirúrgico
+  TNA aplicado al cluster Elegance.
+- **Pulida en tiempo real**: *"casi se ahoga, pero buen ejercicio
+  rudo"*. Errores como herramienta de evolución, no descarte.
+- **M + Heather entertainers reales** — declaración cumbre del
+  dúo. *"Merecen más éxitos y más exposición"* = pedido editorial
+  directo al booking TNA.
+- Anchor segment:
+  [`../segments/2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md`](../segments/2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [x] Background indie pre-Elegance (Black and Brave + ex-volleyball NCAA).
