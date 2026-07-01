@@ -93,10 +93,37 @@ En el take Mustafa Ali run generacional, el Vehemiurgo destaca:
   contramodelo de spotfest sin intención + no-selling +
   kickout inflación + indie cosplay.
 
+### Sesión 2026-06-17 #17 — repositioning: héroe con entrada a lo Undertaker
+
+**Cita verbatim (en take booking Hometown Man vs Kazarian)**:
+
+> *"la secuencia enredada al final para conectar a Elijah en todo
+> esto [...] proveer escenarios donde Elijah pueda ser el héroe
+> del día y que su entrada a lo Undertaker tenga peso, está muy
+> bien pensado"*
+>
+> — El Vehemiurgo, 2026-06-17 #17 (verbatim)
+
+**Lectura sintética — el giro de trayectoria**:
+
+- **Elijah repositionado como héroe épico**: de rival musical de
+  Ali (Casket Match #7) → wrestler de oficio (irish whip #14) →
+  **héroe babyface con entrada a lo Undertaker** (#17).
+- ***"Entrada a lo Undertaker tenga peso"*** — el booking
+  **construye el aura ANTES del payoff**. La entrada como
+  storytelling (modelo carny clásico: la presentación precede y
+  sostiene el over).
+- **Conectado al feud Kazarian** vía secuencia enredada (finish
+  con causa que siembra tag match futuro).
+- **Pieza editorial al horno**: *"La construcción del aura — cómo
+  TNA 2026 repositiona a Elijah de rival musical a héroe épico"*.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado.
 - [ ] Fecha y lugar de nacimiento.
+- [ ] **Tracking del repositioning héroe/Undertaker-entrance** —
+      confirmar el tag match sembrado + el payoff del aura.
 - [ ] Cronología WWE 2017-2023 completa (debut, gimmick origen,
       Ezekiel arc, salida).
 - [ ] Llegada exacta TNA + diferencia Elias vs Elijah.

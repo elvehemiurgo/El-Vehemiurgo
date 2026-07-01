@@ -9,7 +9,7 @@ fuentes_principales:
   - "Notebook del Vehemiurgo, sec. Bloque TNA 2025-2026"
   - "Dossier TNA 2025-2026 Kazarian King era"
   - "Múltiples retrospectivas TNA + ROH + AEW + WWE NXT"
-tags: [frankie-kazarian, kazarian, kaz, king-reign, tna-2025-2026, christopher-daniels-tag, bad-influence, addiction-of-feedback, elvis-impression, wrestling-entertainment-class]
+tags: [frankie-kazarian, kazarian, kaz, king-reign, tna-2025-2026, christopher-daniels-tag, bad-influence, addiction-of-feedback, elvis-impression, wrestling-entertainment-class, panteon-fund-45-con-daniels, hometown-man-feud-2026, elijah-feud-conexion]
 ---
 
 # Frankie Kazarian
