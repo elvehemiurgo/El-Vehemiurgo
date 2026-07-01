@@ -8,30 +8,38 @@ fecha: 2026-03-12
 ciudad: "[verif]"
 recinto: "[verif]"
 tipo_match: "singles"
-estipulacion: "standard"
+estipulacion: "Street Fight"
 duracion: "[verif]"
 finish: "[verif]"
 ganador: "[verif]"
 referee: "[verif]"
 encuentros_previos: 2
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Buena lucha — Fighting Spirit. Cedric mantiene el match real; Moose cae en repetir pumpkick + vicios del thighslap pero es bueno"
+calificacion_vehemiurgo: "Street Fight muy buena — Fighting Spirit. Muy oldschool + muy física + legítimamente entretenida. Cedric mantiene real; Moose repite pumpkick + vicios thighslap pero es bueno. Booking Moose babyface (cazar a The System) se ve muy cool"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
 ultima_actualizacion: 2026-06-17
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #15 (visión directa — Fighting Spirit class + crítica thighslap como vicio actual)"
-tags: [moose, cedric-alexander, tna-impact-12-mar-2026, fighting-spirit, moose-pumpkick-repetitivo-critica, thighslap-vicio-escena-actual-pieza-editorial, cedric-lo-mantiene-real, encuentros-previos-genesis-2026-impact-22-ene]
+  - "Volcado Vehemiurgo 2026-06-17 #16 (estipulación Street Fight confirmada + lectura Moose babyface cazando a The System)"
+tags: [moose, cedric-alexander, tna-impact-12-mar-2026, street-fight, fighting-spirit, oldschool-fisico, moose-pumpkick-repetitivo-critica, thighslap-vicio-escena-actual-pieza-editorial, cedric-lo-mantiene-real, moose-babyface-turn-cazar-the-system-booking, encuentros-previos-genesis-2026-impact-22-ene]
 ---
 
-# Moose vs Cedric Alexander — TNA Impact (12 mar 2026)
+# Moose vs Cedric Alexander — Street Fight — TNA Impact (12 mar 2026)
 
-> **Fighting Spirit Class**. *"Buena lucha"* con **crítica
-> específica al pumpkick repetitivo de Moose + vicios del
-> thighslap de la escena actual**. *"Cedric lo mantiene real"*.
+> **Street Fight — Fighting Spirit Class**. *"Muy oldschool, muy
+> física, legítimamente entretenida"*. Crítica específica al
+> pumpkick repetitivo de Moose + vicios del thighslap; **Cedric
+> lo mantiene real**. **Lectura de booking clave**: si TNA prueba
+> con **Moose babyface cazando a The System**, *"se ve muy cool"*.
 > Tercer encuentro documentado del par (post-Genesis 3-way 17 ene
 > + Impact singles 22 ene). Mismo show que Elijah vs AJ Francis
 > (sesión #14).
+
+> **Nota de registro**: la estipulación **Street Fight** se
+> confirmó en la sesión #16 (elaboración del mismo match visto en
+> sesión #15). No es un segundo match — es el mismo, ahora con
+> estipulación y lectura de booking añadidas.
 
 ## Resumen
 
@@ -53,7 +61,7 @@ Class**.
   a las críticas técnicas. La FS es plenamente compatible con
   reservas específicas mientras el eje combate-corazón funcione.
 
-## Cita verbatim del Vehemiurgo
+## Cita verbatim del Vehemiurgo — sesión #15 (primer take)
 
 > *"también en TNA 2026 03 12 iMPACT Moose y Cedric pusieron una
 > buena lucha, Moose cae en repetir mucho su pumpkick y muchos
@@ -62,6 +70,42 @@ Class**.
 > fighting spirit"*
 >
 > — El Vehemiurgo, 2026-06-17 #15 (verbatim)
+
+## Cita verbatim del Vehemiurgo — sesión #16 (estipulación + booking Moose babyface)
+
+> *"la street fight entre Moose y Cedric en TNA 2026 03 12 iMPACT
+> estuvo muy buena, muy oldschool y muy física, legítimamente
+> entretenida y me parece que el booking está bueno, si quieren
+> probar con Moose babyface, ponerlo a cazar a The System es una
+> buena opción, me falta ver cómo continúa el booking y si todo
+> fue prolífico para Moose como babyface, pero como face confiable
+> local en TNA se ve muy cool"*
+>
+> — El Vehemiurgo, 2026-06-17 #16 (verbatim)
+
+**Lectura sintética sesión #16 — cuatro ejes nuevos**:
+
+1. **Estipulación confirmada: STREET FIGHT** — el match era un
+   Street Fight, no singles standard. Esto **refuerza la FS
+   class**: la estipulación hardcore + física alimenta el eje
+   combate-corazón. *"Muy oldschool, muy física, legítimamente
+   entretenida"*.
+2. ***"El booking está bueno"*** — aprobación del booking del
+   match/arc. Cross-link con el patrón TNA bien bookeada
+   (jornada completa 2026-06-17).
+3. ***"Si quieren probar con Moose babyface, ponerlo a cazar a
+   The System es una buena opción"*** — **RECOMENDACIÓN DE
+   BOOKING**: Moose face turn cazando a The System (con quien
+   ya tiene tensión documentada desde 5 feb 2026). *"Como face
+   confiable local en TNA se ve muy cool"*. El Vehemiurgo lee a
+   Moose como **hometown/company babyface** natural.
+4. ***"Me falta ver cómo continúa el booking y si todo fue
+   prolífico para Moose como babyface"*** — **juicio en
+   suspenso**: el Vehemiurgo no cierra el veredicto sobre el
+   face turn hasta ver el payoff. Disciplina crítica — la
+   promesa del arc depende de la ejecución posterior.
+
+**Lectura sintética — los cuatro ejes (sesión #15)**:
 
 **Lectura sintética — los cuatro ejes**:
 

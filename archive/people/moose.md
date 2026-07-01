@@ -79,6 +79,32 @@ tags: [moose, quinn-ojinnaka, ex-nfl-player, ex-impact-world-champion-2022, tna-
   intensidad + presencia heel funcionan. El cluster The System
   tension sostiene su valor de booking.
 
+### Sesión 2026-06-17 #16 — lectura de booking: Moose babyface cazando a The System
+
+**Cita verbatim**:
+
+> *"si quieren probar con Moose babyface, ponerlo a cazar a The
+> System es una buena opción [...] pero como face confiable local
+> en TNA se ve muy cool"*
+>
+> — El Vehemiurgo, 2026-06-17 #16 (verbatim)
+
+**Lectura sintética**:
+
+- **Recomendación de booking**: Moose **face turn** cazando a The
+  System (tensión ya sembrada desde 5 feb 2026 *"Moose shocks The
+  System"*). El Street Fight vs Cedric 12/3 = physical showcase
+  del Moose babyface potencial.
+- ***"Face confiable local"*** — el Vehemiurgo lee a Moose como
+  **hometown/company babyface** natural: veterano de la casa,
+  presencia grande, cazador creíble de la faction dominante.
+- **Juicio en suspenso**: *"me falta ver cómo continúa el booking
+  y si todo fue prolífico para Moose como babyface"*. **Disciplina
+  crítica** — el veredicto sobre el face turn depende del payoff.
+- **Cross-link**: el arc Moose vs The System (segments 5/2, 12/2,
+  19/2, 5/3 + Street Fight 12/3) es el **vehículo del posible
+  face turn**. Tracking activo pendiente.
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).
