@@ -72,6 +72,37 @@ tags: [tessa-blanchard, tully-blanchard-hija, four-horsemen-legacy, tna-knockout
 - **Pieza editorial al horno**: *"El comentarista como pieza
   activa del booking — Tessa Blanchard como caso TNA 2026"*.
 
+### Sesión 2026-06-17 #20 — protagonista interesante con matiz crítico
+
+**Cita verbatim**:
+
+> *"Tessa es un protagonista interesante, un poco cringe, todavía
+> no habla como wrestler totalmente, pero aprecio la intensidad, y
+> que haya apostado por la polémica y el heat"*
+>
+> — El Vehemiurgo, 2026-06-17 #20 (verbatim, sobre el six-woman
+> tag 26/3/2026)
+
+**Lectura sintética — diagnóstico mezclado**:
+
+- ***"Protagonista interesante"*** — Tessa **carga el match** como
+  figura central. Su presencia estructura el 3 vs 3.
+- ***"Un poco cringe, todavía no habla como wrestler
+  totalmente"*** — **crítica honesta**. Tessa aún no domina la
+  cadencia verbal del oficio (habla "como personaje", no "como
+  wrestler"). Cross-link con el diagnóstico babyface genérico
+  (contramodelo) — Tessa está en proceso.
+- ***"Aprecio la intensidad + que haya apostado por la polémica
+  y el heat"*** — **reconocimiento clave**. Tessa **elige el
+  heat** (posición incómoda, controvertida) en vez del camino
+  seguro. El Vehemiurgo valora la **apuesta por el heat** como
+  decisión de oficio carny (el heat es capital; buscarlo es
+  valiente). Su historia real controversial (salida WWE/AEW 2020)
+  alimenta el heat kayfabe.
+- **Pieza editorial al horno**: *"Apostar por el heat — cuando la
+  polémica real y la kayfabe se retroalimentan (el caso Tessa
+  Blanchard)"*.
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar exacto de nacimiento.

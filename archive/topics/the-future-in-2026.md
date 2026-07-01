@@ -89,6 +89,22 @@ Tres ejes del criterio:
   cheats → título*. *"La manera correcta de usar a Stacks y Santino
   para crear algo con potencial"* — **nepo-baby kayfabe bien usado**.
 
+### #4 — Myla Grace *(declarada 2026-06-17, en bloque con Mila Moore)*
+
+- **Empresa**: TNA Wrestling — Knockouts division.
+- **Por qué entra**: *"Grace & Hudson lucieron geniales"* en el
+  six-woman tag del 26/3/2026. Prospecto emergente con dúo
+  (Harley Hudson) + evidencia in-ring.
+- **Ficha**: [`../people/myla-grace.md`](../people/myla-grace.md).
+
+### #5 — Mila Moore *(declarada 2026-06-17, en bloque con Myla Grace)*
+
+- **Empresa**: TNA Wrestling — Knockouts division [verif].
+- **Por qué entra**: alta en bloque con Myla Grace. Prospecto
+  emergente. Stub mínimo — datos e identidad pendientes.
+- **Ficha**: [`../people/mila-moore.md`](../people/mila-moore.md).
+- **Nota**: no confundir con Myla Grace (#4, nombre similar).
+
 ## El advertencia editorial — *"no como Santana"*
 
 El Vehemiurgo encuadra la lista con una **advertencia comparativa**
@@ -153,6 +169,13 @@ explícitamente *encabeza la lista*).
 - [`../people/m-by-elegance.md`](../people/m-by-elegance.md) — #1.
 - [`../people/saquon-shugars.md`](../people/saquon-shugars.md) — #2.
 - [`../people/arianna-grace.md`](../people/arianna-grace.md) — #3.
+- [`../people/myla-grace.md`](../people/myla-grace.md) — #4.
+- [`../people/mila-moore.md`](../people/mila-moore.md) — #5.
+- **Nota de composición**: 4 de las 5 altas son **TNA Knockouts**
+  (M by Elegance, Arianna Grace, Myla Grace, Mila Moore) + 1 WWE
+  NXT (Saquon Shugars). *The Future in 2026* se está volviendo un
+  **cluster mayoritariamente TNA** — coherente con el catch-up
+  intensivo de TNA 2025-2026.
 - [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
   — anchor del #1 (mismo show que el del #3).
 - [`../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md`](../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md)
