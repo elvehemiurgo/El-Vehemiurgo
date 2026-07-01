@@ -1,0 +1,99 @@
+---
+nombre: "Brian Myers"
+tipo: fact-sheet
+categoria: people
+slug: brian-myers
+estado: vivo
+ultima_actualizacion: 2026-06-17
+fuentes_principales:
+  - "Volcado Vehemiurgo 2026-06-17 #18 (Perfect Match vs Moose first time ever + losing streak referencia)"
+  - "Lista personal verbatim: entradas The System 2025-2026"
+tags: [brian-myers, ex-curt-hawkins-wwe, ex-major-brothers-edgeheads, losing-streak-gimmick-callback, the-system-tna, ko-world-tag-champion-rebellion-2026-con-bronson, top-tier-entertainer-vehemiurgo, moose-first-time-ever-perfect-match]
+---
+
+# Brian Myers
+
+> Ex-**Curt Hawkins** en WWE (2007-2020). Miembro de **The System**
+> (TNA). **KO World Tag Team Champion** con Bear Bronson desde
+> Rebellion 2026. En sesión #18 el Vehemiurgo lo declara **top tier
+> entertainer** tras el Perfect Match first-time-ever vs Moose,
+> con **callback a su racha de pérdidas** (herencia del legendario
+> losing streak de Curt Hawkins).
+
+## Identificación
+
+- **Nombre real**: **Brian Myers** (nombre real ≈ ring name).
+- **Nacimiento**: ~1985, Long Island, NY [verif].
+- **Nombres de gimmick**:
+  - **Curt Hawkins** (WWE 2007-2020) — Major Brothers / Edgeheads
+    (con Zack Ryder), luego singles.
+  - **Brian Myers** (TNA / indies 2020-presente).
+- **Empresa actual (2026)**: TNA Wrestling — **The System**.
+
+## Trayectoria condensada
+
+- **WWE (2007-2020)** como Curt Hawkins:
+  - **Edgeheads** con Zack Ryder (aliados de Edge) — tag titles.
+  - **Losing streak gimmick (2018-2019)**: **269 matches
+    perdidos consecutivos** — storyline cómico que **culminó
+    rompiéndose en WrestleMania 35** (ganó tag titles con Zack
+    Ryder). Uno de los angles de longevidad más recordados.
+- **Indies + TNA (2020-presente)**:
+  - Reinvención como **Brian Myers**, *"most professional
+    wrestler"* gimmick heel.
+  - **The System** (faction TNA con Eddie Edwards + Bear Bronson
+    + Alisha).
+  - **TNA World Tag Team Champion** con Bear Bronson (ganado a
+    The Hardys en **Rebellion 2026**).
+- **2026 — arc vs Moose**:
+  - **19 feb (Impact)** — **first time ever vs Moose** = Perfect
+    Match ([→](../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md))
+    + promo backstage con The System (setup insuperable).
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-06-17 #18 — top tier entertainer + losing streak callback
+
+> *"la promo de Myers con The System backstage, fue un setup
+> genial, insuperable para algo tan de psychos [...] la referencia
+> a la racha de pérdidas de Myers, top tier entertainers"*
+>
+> — El Vehemiurgo, 2026-06-17 #18 (verbatim)
+
+**Lectura sintética**:
+
+- ***"Top tier entertainer"*** — declaración cumbre para Myers.
+  Su fuerte: **promo + character work + memoria del oficio**.
+- ***"La referencia a la racha de pérdidas"*** — **storytelling
+  con memoria histórica**. El TNA storyline **usa el losing
+  streak de Curt Hawkins** (WWE 2018-2019) como capa de kayfabe.
+  Modelo Vehemiurgia: el gimmick **carga su propia historia**.
+  Pieza editorial al horno: *"El callback como oficio — cómo un
+  gimmick que recuerda su pasado gana profundidad"*.
+- ***"Setup insuperable para algo tan de psychos"*** — Myers
+  como **arquitecto vocal** del setup hardcore. Su promo
+  backstage construye el match.
+
+## Pendientes / huecos
+
+- [ ] Fecha exacta de nacimiento + confirmación Long Island.
+- [ ] WWE Curt Hawkins arc completo (Edgeheads + losing streak
+      + WrestleMania 35 payoff).
+- [ ] TNA Brian Myers reinvención — fechas + títulos.
+- [ ] The System membership timeline + reign tag con Bronson
+      (Rebellion 2026 fechas + defensas).
+- [ ] Detalle del arc vs Moose (¿continúa post-19/2?).
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md)
+  — **Perfect Match** first time ever.
+
+## Cross-links
+
+- [`../promotions/the-system.md`](../promotions/the-system.md) —
+  faction (tag champion con Bronson).
+- [`../people/moose.md`](../people/moose.md) — oponente first
+  time ever.
+- [`../people/santino-marella.md`](../people/santino-marella.md) —
+  aparición en el match.

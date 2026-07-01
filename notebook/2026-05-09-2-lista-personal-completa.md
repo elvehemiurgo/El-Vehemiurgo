@@ -739,7 +739,7 @@ mantiene visible qué queda.
 - EDDIE EDWARDS & NIC NEMETH VS LION SLATHER & MIKE SANTANA TNA No Surrender 13.02.2026
 - HEATHER BY ELEGANCE VS INDY HARTWELL TNA Impact 19.02.2026
 - LEON SLATHER, MIKE SANTANA, NICK AND RYAN NEMETH SEGMENT TNA Impact 19.02.2026
-- THE SYSTEM PROMO AGAINST MOOSE TNA Impact 19.02.2026
+- (✓) **THE SYSTEM PROMO AGAINST MOOSE TNA Impact 19.02.2026** → setup backstage integrado en [`archive/matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../archive/matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md) (promo de Myers con The System = setup insuperable del Perfect Match first time ever, sesión 2026-06-17 #18)
 - ARIANA GRACE PROMO AS NEW KOS CHAMPION TNA Impact 19.02.2026
 - TESSA BLANCHARD VS JODY THREAT TNA Impact 19.02.2026
 - SINNER & SAINT VS SWANN & BDE TNA Impact 19.02.2026

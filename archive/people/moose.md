@@ -105,6 +105,27 @@ tags: [moose, quinn-ojinnaka, ex-nfl-player, ex-impact-world-champion-2022, tna-
   19/2, 5/3 + Street Fight 12/3) es el **vehículo del posible
   face turn**. Tracking activo pendiente.
 
+### Sesión 2026-06-17 #18 — Perfect Match first time ever vs Brian Myers
+
+En el take Myers vs Moose (19/2/2026), Moose es co-protagonista
+del **Perfect Match first time ever** del arc vs The System:
+
+> *"Myers VS Moose [...] tiene que ser de lo más genial del año
+> [...] muy hardcore y obvio se merece todas las clases"*
+
+**Lectura**:
+
+- Moose en un **Perfect Match** (triple clase) — su mejor
+  registro del archivo. El arc vs The System **paga** en calidad.
+- **Contraste con el diagnóstico #15**: Moose criticado por
+  pumpkick repetitivo + thighslap en el Street Fight vs Cedric,
+  pero en el **first time ever vs Myers** el paquete completo
+  (setup + historia + hardcore + entertainers) lo eleva a triple
+  clase. **El booking correcto maximiza a Moose**.
+- Refuerza la lectura babyface (#16): el arc vs The System es su
+  mejor vehículo.
+- Match: [`../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).

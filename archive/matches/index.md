@@ -54,6 +54,7 @@ con cada cambio de estado.
 | 2026-02-26 | Leon Slater & Mike Santana vs The Nemeths (Nic & Ryan Nemeth) | TNA / Thursday Night iMPACT | PW·FS·WE | stub | 1 | [→](2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md) |
 | 2026-02-26 | Dani Luna vs Lei Ying Lee | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-02-26-dani-luna-vs-lei-ying-lee-tna-impact.md) |
 | 2026-02-19 | Mustafa Ali vs Elijah (Elias) — Guitar Casket Match | TNA / Thursday Night iMPACT (Nashville, Music City) | PW·FS·WE | stub | 1 | [→](2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md) |
+| 2026-02-19 | Brian Myers vs Moose — First Time Ever | TNA / Thursday Night iMPACT | PW·FS·WE | stub | 1 | [→](2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md) |
 | 2026-02-13 | The Elegance Brand (Heather & M by Elegance) (c) vs Xia Brookside & Indi Hartwell — KO World Tag | TNA / No Surrender 2026 | — | stub | 1 | [→](2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md) |
 | 2026-02-13 | Lei Ying Lee (c) vs Arianna Grace — TNA Knockouts World Championship | TNA / No Surrender 2026 | — | stub | 1 | [→](2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md) |
 | 2026-02-03 | ZaRuca (Sol Ruca & Zaria) vs The Elegance Brand (M by Elegance & Heather by Elegance) | WWE / TNA / NXT (taping; cross-promotional con TNA) | FS | en-investigacion | 1 | [→](2026-02-03-zaruca-vs-elegance-brand-nxt.md) |

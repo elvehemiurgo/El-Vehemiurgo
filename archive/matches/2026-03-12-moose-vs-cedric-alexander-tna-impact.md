@@ -40,6 +40,12 @@ tags: [moose, cedric-alexander, tna-impact-12-mar-2026, street-fight, fighting-s
 > confirmó en la sesión #16 (elaboración del mismo match visto en
 > sesión #15). No es un segundo match — es el mismo, ahora con
 > estipulación y lectura de booking añadidas.
+>
+> **FS CLASS CONFIRMADA EXPLÍCITAMENTE** por el Vehemiurgo en
+> sesión #18 (2026-06-17): *"a la de Cedric vs Moose, la
+> streetfight del 12 de marzo, ponle la clase fighting spirit"*.
+> La clase que yo había asignado (sesión #15) es ahora **llamado
+> explícito del Vehemiurgo**.
 
 ## Resumen
 
