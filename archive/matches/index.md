@@ -45,6 +45,8 @@ con cada cambio de estado.
 | 2026-03-25 | Thekla vs Mina | AEW (All Elite Wrestling) / Dynamite | FS | stub | 1 | [→](2026-03-25-thekla-vs-mina-aew-dynamite.md) |
 | 2026-03-15 | Young Bucks vs FTR | AEW / Revolution 2026 | — | en-investigacion | 1 | [→](2026-03-15-young-bucks-vs-ftr-aew-revolution.md) |
 | 2026-02-28 | Sareee & Takumi Iroha vs Hazuki & Fuwa-chan | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-sareee-iroha-vs-hazuki-fuwa-chan-stardom-korakuen.md) |
+| 2026-03-26 | Brian Myers vs Jeff Hardy | TNA / Thursday Night iMPACT | FS | stub | 1 | [→](2026-03-26-brian-myers-vs-jeff-hardy-tna-impact.md) |
+| 2026-03-26 | Bear Bronson vs Moose | TNA / Thursday Night iMPACT | FS | stub | 1 | [→](2026-03-26-bear-bronson-vs-moose-tna-impact.md) |
 | 2026-03-19 | The Hometown Man vs Kazarian | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-03-19-hometown-man-vs-kazarian-tna-impact.md) |
 | 2026-03-12 | Elijah (ex-Elias) vs AJ Francis | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-03-12-elijah-vs-aj-francis-tna-impact.md) |
 | 2026-03-12 | Moose vs Cedric Alexander — Street Fight | TNA / Thursday Night iMPACT | FS | stub | 1 | [→](2026-03-12-moose-vs-cedric-alexander-tna-impact.md) |

@@ -45,7 +45,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 2 | **CM Punk** | Worker de oficio (indie→WWE→AEW→WWE) | [→](../people/cm-punk.md) |
 | 3 | **Stone Cold Steve Austin** | Carny / draw histórico | [→](../people/steve-austin.md) |
 | 4 | **Samoa Joe** | Worker de oficio — *"el más influyente de los 2000s"* (Vehemiurgo) | [→](../people/samoa-joe.md) |
-| 5 | **Jeff Hardy** | Daredevil / conexión carny | _(ficha pendiente)_ |
+| 5 | **Jeff Hardy** | Daredevil / conexión carny | [→](../people/jeff-hardy.md) |
 | 6 | **Dynamite Kid** | British / Wigan (wrestling puro) | [→](../people/dynamite-kid.md) |
 | 7 | **Roderick Strong** | Worker de oficio (ROH/PWG) | [→](../people/roderick-strong.md) |
 
