@@ -195,7 +195,7 @@ in 2026* es lista **anti-desperdicio de talento**.
   — **anchor de la declaración prospecto** (KO World Tag defense).
 - [`../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
   — match cross-promo TNA/NXT (Elegance Brand vs ZaRuca), FS class.
-- [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md)
+- [`../segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickie-james-return-tna-no-surrender.md)
   — return post-match en el mismo show.
 
 ## Cross-links
@@ -204,5 +204,5 @@ in 2026* es lista **anti-desperdicio de talento**.
   — **THE FUTURE IN 2026 #1**, lista anual donde encabeza.
 - [`./saquon-shugars.md`](./saquon-shugars.md) — #2 de la misma
   lista, declarado en bloque el mismo día.
-- [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md)
+- [`../segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickie-james-return-tna-no-surrender.md)
   — mismo show de la declaración.

@@ -111,7 +111,7 @@ sección 6.
 - **Ranking del Vehemiurgo**: la **traición The System (TNA) >
   expulsión Bálor (WWE)** como ejecución de booking carny.
 - Detalle en
-  [`promotions/the-system-tna.md`](./the-system-tna.md).
+  [`promotions/the-system.md`](./the-system.md).
 
 ## Lectura consolidada del Vehemiurgo
 
@@ -143,4 +143,4 @@ sección 6.
 - [`people/liv-morgan.md`](../people/liv-morgan.md).
 - [`people/raquel-rodriguez.md`](../people/raquel-rodriguez.md).
 - [`topics/factions-2026.md`](../topics/factions-2026.md).
-- [`promotions/the-system-tna.md`](./the-system-tna.md).
+- [`promotions/the-system.md`](./the-system.md).

@@ -14,7 +14,7 @@ tags: [hazuki, reo-hazuki-real-name, stardom-pillar-2014, hzk-era-2017-2018, que
 
 # Hazuki
 
-> **HÉROE FUNDAMENTAL VEHEMIURGIA #16 + favorita ever**
+> **Dios del Wrestling Tier 2 #16 del Vehemiurgo + favorita ever**
 > ([panteón](../topics/heroes-fundamentales-vehemiurgia.md);
 > reorganización 2026-05-26: de #5 a #16).
 > Declaración categórica máxima del Vehemiurgo (2026-05-10):

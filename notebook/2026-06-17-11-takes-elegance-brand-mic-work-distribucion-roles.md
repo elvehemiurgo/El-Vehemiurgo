@@ -64,7 +64,7 @@ adaptarse a la distribución real de skills.
 ### 2. Diagnóstico Ash honesto — *"no es la mejor cortando promos"*
 
 **Distribución**: update `archive/people/ash-by-elegance.md` con
-sección sesión #11 + crear `archive/segments/2026-02-26-mickey-james-saves-segment-with-ash-tna-impact.md`
+sección sesión #11 + crear `archive/segments/2026-02-26-mickie-james-saves-segment-with-ash-tna-impact.md`
 como anchor.
 
 - ***"Por más talentosa in-ring y storytelling con su gimmick, la
@@ -157,7 +157,7 @@ Cumulativo de la jornada (sesiones #4 a #11):
 
 - [x] Segment anchor: `archive/segments/2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md`
       (denso con take editorial + tabla división de roles).
-- [x] Segment cross-link: `archive/segments/2026-02-26-mickey-james-saves-segment-with-ash-tna-impact.md`
+- [x] Segment cross-link: `archive/segments/2026-02-26-mickie-james-saves-segment-with-ash-tna-impact.md`
       (anchor diagnóstico Ash).
 - [x] Stub `archive/people/odb.md` (legacy TNA return).
 - [x] Update `archive/people/m-by-elegance.md` con sesión #11.

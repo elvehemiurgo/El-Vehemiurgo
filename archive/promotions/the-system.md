@@ -8,7 +8,7 @@ ultima_actualizacion: 2026-06-17
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #12 (declaración árbol de aprendizaje — *'todo The System'*)"
   - "Lista personal verbatim: 8+ entradas The System 2025-2026"
-tags: [the-system-tna, eddie-edwards-leader, brian-myers, bear-bronson, alisha-edwards, tna-2024-2026-faction-central, ko-world-tag-champions-rebellion-2026, arbol-aprendizaje-mic-rama-mentores]
+tags: [the-system, eddie-edwards-leader, brian-myers, bear-bronson, alisha-edwards, tna-2024-2026-faction-central, ko-world-tag-champions-rebellion-2026, arbol-aprendizaje-mic-rama-mentores]
 ---
 
 # The System
@@ -73,8 +73,59 @@ tags: [the-system-tna, eddie-edwards-leader, brian-myers, bear-bronson, alisha-e
   [`../topics/hardys-como-plataforma-mentor.md`](../topics/hardys-como-plataforma-mentor.md)
   — The System opera en el mismo cluster mentor.
 
+## Composición histórica (2024-2025) — merge de la ficha previa
+
+*(Contenido integrado desde `the-system-tna.md`, ficha del
+2026-05-09, hoy fusionada acá — una sola ficha viva por facción.)*
+
+- **Moose** — top heel TNA, pieza central de la formación original
+  2024. En 2026: tensión cross-faction / posible face turn (ver
+  [`../people/moose.md`](../people/moose.md)).
+- **JDC** — miembro de la formación original. **Identidad [verif]**:
+  la ficha previa lo equiparaba a *"JDC (Frankie Kazarian)"*, dato
+  **dudoso** — Kazarian corre el arc *King* paralelo como acto
+  propio ([`../people/frankie-kazarian.md`](../people/frankie-kazarian.md)).
+  Verificar identidad real de JDC antes de afirmar.
+- **Eddie Edwards** — miembro fundador.
+- **Brian Myers** — veterano del oficio.
+- **Alisha Edwards** — manager / interferencia.
+
+### El reset 2026 — lectura editorial (sesión 2026-05-09)
+
+**Cita verbatim del Vehemiurgo**:
+
+> "Con el fin de Finn Bálor con el Judgement Day, se me hizo cool,
+> pero no más cool que The System en su reset este año en TNA por
+> ejemplo, siento que ahí se sintió más la traición a Moose y JDC."
+
+- **Ranking del Vehemiurgo, mayo 2026**: la traición The System
+  (TNA) **por encima** de la expulsión de Bálor del Judgment Day
+  (WWE) como ejecución de booking carny. *"Se sintió más la
+  traición"* — la liturgia del quiebre con más causa visible.
+- **Pieza comparativa al horno**: *"Cómo se bookea una traición en
+  2026: TNA (The System) vs WWE (Judgment Day)"*. Material en
+  [`../people/finn-balor.md`](../people/finn-balor.md) +
+  [`./judgment-day.md`](./judgment-day.md).
+- **Conexión con el arc 2026**: el *"Moose shocks The System"*
+  (5 feb 2026) y la tensión posterior **son la continuación del
+  reset** — el arco que el Vehemiurgo viene siguiendo.
+
+### Datos contractuales (contexto TNA)
+
+- TNA opera con modelo contractual distinto a TKO/WWE — no aplican
+  las cláusulas TKO 2024-2026 documentadas en
+  [`../topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md).
+- Tradicionalmente TNA permite *outside dates* (NJPW, AEW, indies)
+  — cláusula histórica del modelo Anthem.
+
 ## Pendientes / huecos
 
+- [ ] **Identidad real de JDC** — la ficha previa decía "Frankie
+      Kazarian", dudoso. Verificar.
+- [ ] **Mecánica y fechas exactas del reset 2026** — quién
+      traicionó a quién, cómo se ejecutó sobre Moose y JDC, en qué
+      TV/PPV. Material clave para la pieza comparativa vs
+      Judgment Day.
 - [ ] Confirmar identidad Bear Bronson (real Marcus Bronson? Bear
       Country origin).
 - [ ] **Cronología completa** de la faction (debut + lineup

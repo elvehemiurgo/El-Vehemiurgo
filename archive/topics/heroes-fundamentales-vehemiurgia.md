@@ -4,7 +4,7 @@ slug: heroes-fundamentales-vehemiurgia
 tipo: topic
 categoria: doctrina-tradicion
 estado: vivo
-ultima_actualizacion: 2026-06-17-2
+ultima_actualizacion: 2026-06-17
 fuentes_principales:
   - "Notebooks del Vehemiurgo (declaraciones dispersas 2026-05-09 → 2026-06-17)"
   - "Reorganización completa del panteón 2026-05-26"
@@ -55,7 +55,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 |---|---|---|---|
 | 8 | **Bret Hart** | Worker de oficio (excelencia técnica) | [→](../people/bret-hart.md) |
 | 9 | **AJ Styles** | Worker de oficio (indie→TNA→NJPW→WWE) | [→](../people/aj-styles.md) |
-| 10 | **Kurt Angle** | Worker de oficio (amateur olímpico → WWE/TNA) | _(ficha pendiente)_ |
+| 10 | **Kurt Angle** | Worker de oficio (amateur olímpico → WWE/TNA) | [→](../people/kurt-angle.md) |
 | 11 | **The American Wolves (Davey Richards & Eddie Edwards)** | Tag / strong style americano | _(ficha pendiente)_ |
 | 12 | **Kyle O'Reilly** | Worker de oficio (strong style / ROH) | _(ficha pendiente)_ |
 | 13 | **Ric Flair** | Carny / Nature Boy histórico | _(ficha pendiente)_ |
@@ -78,7 +78,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 |---|---|---|---|
 | 26 | **Zack Gibson** | British indie moderno (Liverpool) | _(ficha pendiente)_ |
 | 27 | **The Filthy Generation** (facción) | British indie moderno (facción) | _(ficha pendiente)_ |
-| 28 | **LA Knight** | Carny / promo-driven moderno | _(ficha pendiente)_ |
+| 28 | **LA Knight** | Carny / promo-driven moderno | [→](../people/la-knight.md) |
 | 29 | **Psicosis** | Lucha libre / cruiser 90s | _(ficha pendiente)_ |
 | 30 | **JT Dunn** | Indie americano (deathmatch / tag) | _(ficha pendiente)_ |
 | 31 | **David Starr** | Indie americano/British | _(ficha pendiente)_ |
@@ -95,7 +95,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 42 | **The British Bulldogs (Dynamite Kid & Davey Boy Smith)** | British / Wigan-tag | _(ficha pendiente)_ |
 | 43 | **Mark Davis** | Tag moderno (Aussie Open) / heel | [→](../people/mark-davis.md) |
 | 44 | **reDRagon (Bobby Fish & Kyle O'Reilly)** | Tag / strong style ROH-NJPW (cuentan como uno) | _(ficha pendiente)_ |
-| 45 | **Kazarian & Daniels** (Bad Influence / The Addiction) | Tag / TNA-ROH (cuentan como uno) | _(ficha pendiente)_ |
+| 45 | **Kazarian & Daniels** (Bad Influence / The Addiction) | Tag / TNA-ROH (cuentan como uno) | [→](../people/frankie-kazarian.md) *(Daniels pendiente)* |
 
 ## Notas de la expansión 2026-06-17
 
@@ -205,9 +205,12 @@ El panteón no es monolítico. Conviven varias ramas:
 - [ ] **The Filthy Generation**: confirmar nombre, line-up,
       ortografías (Steve Boy, Aspen Faith, Lewis Girvan), empresa,
       periodo — **sub-agente autorizado 2026-06-17**.
-- [ ] Sincronizar marcadores de número en cada ficha existente con
-      este registro (source of truth) — Mark Rocco #10→#20, Mark
-      Davis #42, Hayabusa #23.
+- [x] Sincronizar marcadores de número en cada ficha existente con
+      este registro (source of truth) — **hecho 2026-07-05**:
+      etiquetas de tier normalizadas (Tier 1 "Dios del Wrestling
+      #N", Tier 2 "Dios del Wrestling Tier 2 #N", Fundamentales
+      "Héroe Fundamental #N") + marcadores agregados a
+      kurt-angle.md, la-knight.md y frankie-kazarian.md.
 - [ ] **Confirmar / descartar Rikidōzan** (hoy candidato).
 
 ## Piezas relacionadas

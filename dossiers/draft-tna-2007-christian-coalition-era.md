@@ -361,7 +361,7 @@ El Vehemiurgo lee TNA 2007 como **vara editorial**:
 - vs **TNA 2025-2026 The System reset**
   (cita verbatim: *"se sintió más la traición a Moose y JDC"*,
   ver
-  [`../archive/promotions/the-system-tna.md`](../archive/promotions/the-system-tna.md))
+  [`../archive/promotions/the-system.md`](../archive/promotions/the-system.md))
   — continuidad TNA pero en otra clave, comparativo fértil.
 
 ## 6. Conexiones con el resto del archivo

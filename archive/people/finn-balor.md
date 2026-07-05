@@ -139,7 +139,7 @@ sección 5.
 [`dominik-mysterio.md`](./dominik-mysterio.md),
 [`topics/demon-gimmick.md`](../topics/demon-gimmick.md),
 [`promotions/judgment-day.md`](../promotions/judgment-day.md),
-[`promotions/the-system-tna.md`](../promotions/the-system-tna.md),
+[`promotions/the-system.md`](../promotions/the-system.md),
 [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md).
 
 ## Lectura consolidada del Vehemiurgo

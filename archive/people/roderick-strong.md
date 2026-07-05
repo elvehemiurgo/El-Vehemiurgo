@@ -12,7 +12,7 @@ tags: [roderick-strong, messiah-of-the-backbreaker, mr-roh, generation-next, roh
 
 # Roderick Strong
 
-> **Héroe fundamental del Vehemiurgo #7**
+> **DIOS DEL WRESTLING #7 (Tier 1) del Vehemiurgo**
 > ([panteón](../topics/heroes-fundamentales-vehemiurgia.md)) —
 > declarado en notebook 2026-05-26: *"Roderick es mi héroe,
 > está ahí arriba con CM Punk y Christian Cage y Marc Rocko. Es

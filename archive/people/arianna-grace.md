@@ -219,7 +219,7 @@ Knockouts division tenga arc claro (chasers vs la heel champ).
       Stacks (TNA), verificar identidad y arco.
 - [x] **Apertura Lei Ying Lee fact-sheet** — campeona derrotada en
       No Surrender (abierta 2026-06-17 #9 — ver [→](./lei-ying-lee.md)).
-- [ ] Cross-link con Mickey James si la storyline post-Mickey
+- [ ] Cross-link con Mickie James si la storyline post-Mickey
       return atraviesa a Arianna.
 - [ ] Match anchors posteriores: defensas titulares 2026.
 
@@ -234,7 +234,7 @@ Knockouts division tenga arc claro (chasers vs la heel champ).
   — **THE FUTURE in 2026 #3**, declarada 2026-06-17.
 - [`../people/m-by-elegance.md`](../people/m-by-elegance.md) — #1.
 - [`../people/saquon-shugars.md`](../people/saquon-shugars.md) — #2.
-- [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md)
+- [`../segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickie-james-return-tna-no-surrender.md)
   — mismo show del anchor.
 - [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
   — mismo show.

@@ -17,7 +17,7 @@ fuentes_principales:
 > Faction WWE 2024–presente liderada por **Solo Sikoa**, derivada
 > del Bloodline post-disputa con Roman Reigns. Registro como
 > `promotions/` por convención (al igual que `judgment-day.md`,
-> `the-system-tna.md`).
+> `the-system.md`).
 >
 > **Origen del nombre MFT** (Vehemiurgo, 2026-05-09): *"el nombre
 > que Solo le puso a su versión del Bloodline después de su
@@ -250,7 +250,7 @@ paranormal-en-WWE"*.)
   — contexto Tonga Loa release.
 - [`promotions/judgment-day.md`](./judgment-day.md) — faction
   comparativa WWE.
-- [`promotions/the-system-tna.md`](./the-system-tna.md) — faction
+- [`promotions/the-system.md`](./the-system.md) — faction
   TNA referencia.
 - [`people/bo-dallas.md`](../people/bo-dallas.md) — antagonista
   Wyatt Sicks.

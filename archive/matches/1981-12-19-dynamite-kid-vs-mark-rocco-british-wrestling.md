@@ -23,7 +23,7 @@ buy_rate: ""
 encuentros_previos: "≥2 documentados: **26 nov 1980 Walthamstow** (★★★★ Cagematch) + **6 dic 1980 World of Sport broadcast**. Múltiples matches rivalidad 80s mapeados por sub-agente."
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "TRIPLE-CLASE OPERATIVA: Perfect Wrestling Class + Fighting Spirit Class + Wrestling Entertainment Class (asignada explícitamente — 'se merece todas las clases con creces')"
-clases_vehemiurgo: ["Perfect Wrestling Class", "Fighting Spirit Class", "Wrestling Entertainment Class"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:

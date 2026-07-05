@@ -23,7 +23,7 @@ buy_rate: ""
 encuentros_previos: "[verif — probable Stan Hansen + Destroyer cruces previos Japan tours]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "TRIPLE-CLASE OPERATIVA: Perfect Wrestling Class + Fighting Spirit Class + Wrestling Entertainment Class (asignada explícitamente — 'se merece todas las clases')"
-clases_vehemiurgo: ["Perfect Wrestling Class", "Fighting Spirit Class", "Wrestling Entertainment Class"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:
@@ -262,7 +262,7 @@ ejecución es perfecta.
   Stan Hansen → Bradshaw → Kawada"*.
 
 ### People centrales (a abrir / actualizar)
-- [`../people/stan-hansen.md`](../people/stan-hansen.md) —
+- `archive/people/stan-hansen.md` —
   pendiente apertura (Western Lariat arquetipo + AJPW gaijin
   pillar + Bradshaw lineage source).
 - [`../people/the-destroyer-dick-beyer.md`](../people/the-destroyer-dick-beyer.md)

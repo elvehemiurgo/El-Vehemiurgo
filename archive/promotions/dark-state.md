@@ -14,7 +14,7 @@ fuentes_principales:
 
 > Faction WWE NXT 2025-2026 registrada como `promotions/` por
 > convención (al igual que `judgment-day.md`, `mfts.md`,
-> `the-system-tna.md`).
+> `the-system.md`).
 
 ## Identificación
 

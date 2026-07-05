@@ -108,14 +108,14 @@ modelo histórico**:
 ### Pendientes fact-sheets clave
 - [`../people/stephanie-vaquer.md`](../people/stephanie-vaquer.md)
   — actualizar con doctrina.
-- [`../people/penta.md`](../people/penta.md) — pendiente
+- `archive/people/penta.md` — pendiente
   abrir (caso éxito progreso).
-- [`../people/rey-fenix.md`](../people/rey-fenix.md) —
+- `archive/people/rey-fenix.md` —
   pendiente abrir.
-- [`../people/chad-gable.md`](../people/chad-gable.md) (=
+- `archive/people/chad-gable.md` (=
   El Grande Americano) — pendiente abrir (modelo carny puro
   cross-lingual).
-- [`../people/ludwig-kaiser.md`](../people/ludwig-kaiser.md)
+- `archive/people/ludwig-kaiser.md`
   — pendiente abrir (multi-lingual top tier).
 
 ### Match anchor doctrina

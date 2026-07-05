@@ -23,7 +23,7 @@ buy_rate: ""
 encuentros_previos: "**1 anterior crítico**: 24 may 1963 Tokyo Metropolitan Gymnasium, **WWA World Heavyweight Championship 60-min time limit draw**, rating 67.0, ~70 millones televidentes (audiencia comercial más grande historia japonesa hasta ese momento)"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "TRIPLE-CLASE OPERATIVA: Perfect Wrestling Class + Fighting Spirit Class + Wrestling Entertainment Class (asignada explícitamente — 'se merece todas las clases')"
-clases_vehemiurgo: ["Perfect Wrestling Class", "Fighting Spirit Class", "Wrestling Entertainment Class"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:

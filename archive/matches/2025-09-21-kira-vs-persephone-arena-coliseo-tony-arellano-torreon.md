@@ -23,7 +23,7 @@ buy_rate: ""
 encuentros_previos: "≥1 (primer cruce Arena México 8 oct 2023 — Persephone-side; múltiples atómicos/tags 2024-2025)"
 veces_visto_vehemiurgo: "múltiples (declaración categórica Vehemiurgo: 'una de mis luchas favoritas de toda la vida')"
 calificacion_vehemiurgo: "TRIPLE-CLASE OPERATIVA: Perfect Wrestling Class + Fighting Spirit Class + Wrestling Entertainment Class (asignada explícitamente — 'Se merece todas las clases')"
-clases_vehemiurgo: ["Perfect Wrestling Class", "Fighting Spirit Class", "Wrestling Entertainment Class"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:

@@ -8,7 +8,7 @@ ultima_actualizacion: 2026-06-17
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #19 (match vs Moose FS)"
   - "The System roster (KO Tag Champion con Brian Myers, Rebellion 2026)"
-tags: [bear-bronson, ex-bear-country-bear-boulder, the-system-tna, ko-world-tag-champion-rebellion-2026, big-man-heavyweight, moose-fs-match]
+tags: [bear-bronson, ex-bear-country-bear-boulder, the-system, ko-world-tag-champion-rebellion-2026, big-man-heavyweight, moose-fs-match]
 ---
 
 # Bear Bronson

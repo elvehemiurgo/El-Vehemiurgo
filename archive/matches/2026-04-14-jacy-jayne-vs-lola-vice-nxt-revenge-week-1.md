@@ -19,7 +19,7 @@ referee: ""
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit Class (asignada explícitamente por el Vehemiurgo)"
-clases_vehemiurgo: ["Fighting Spirit Class"]
+clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:

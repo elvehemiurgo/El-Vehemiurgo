@@ -91,7 +91,7 @@ El Vehemiurgo, al declarar a M by Elegance como **THE FUTURE in
 - **Reconoce los assets**: in-ring + storytelling gimmick +
   presencia líder del brand.
 - **Diagnostica el techo**: **mic-work no es fortaleza**. Contexto
-  del diagnóstico: el segment del **26 feb 2026 con Mickey James**
+  del diagnóstico: el segment del **26 feb 2026 con Mickie James**
   (*"Ash se ahogó"* / *"Mickey salvó el segmento"* según lista
   personal). Mano-a-mano con veterana en mic = exposición del
   límite.

@@ -23,9 +23,9 @@ buy_rate: ""
 encuentros_previos: "Múltiples singles tour matches 70s-80s pre-jump Hansen — Hansen jumpea AJPW exclusive dic 1981 desde NJPW (Baba persigue Hansen + Singh tras jump previo Abdullah). **Este match 11 sept 1982 = primer choque consagrado en singles bajo Hansen ya bajo bandera AJPW exclusive**. Rematches signature: 14 abr 1983 Sumo Hall + 23 ago 1985"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Triple-clase implícita (declaración 'real wrestling oldschool' + Vehemiurgo lectura 'Terry vende como un dios' + 'kayfabe cuidado al milímetro')"
-clases_vehemiurgo: ["Perfect Wrestling Class", "Fighting Spirit Class", "Wrestling Entertainment Class"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 won_star_rating: "Reviewer rating consenso ★★★★+ / ★★★★¼ — WON Meltzer específico 11 sept 1982 pendiente"
-estado: integrado-sub-agente-2026-05-22
+estado: verificado
 ultima_actualizacion: 2026-05-22
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial extenso 2026-05-10"

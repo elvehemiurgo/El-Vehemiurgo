@@ -95,7 +95,7 @@ manipulación + ejecución oportunista. Old-school cien por ciento.
 - Misma noche, en otro segmento: **return de Mickie James** (ataque
   a The Elegance Brand post-match tag titular).
   Ver
-  [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md).
+  [`../segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickie-james-return-tna-no-surrender.md).
 - [verif] cualquier follow-up directo sobre Arianna en Impact!
   inmediato post-No Surrender.
 
@@ -129,5 +129,5 @@ manipulación + ejecución oportunista. Old-school cien por ciento.
   — lista anual.
 - [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
   — anchor del #1, mismo show.
-- [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md)
+- [`../segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickie-james-return-tna-no-surrender.md)
   — mismo show.

@@ -21,7 +21,7 @@ tags: [hayabusa, eiji-ezaki, fmw-pillar-tecnico, high-flying-experimentación, l
 > *Tradición japonesa*** del notebook + **anchor triple-clase
 > operativa** (match vs Kawada/Taue cross-promotion).
 >
-> **Héroe fundamental del Vehemiurgo #23** — panteón
+> **Dios del Wrestling Tier 2 #23 del Vehemiurgo** — panteón
 > ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
 > rama puroresu/joshi-high-flying. (Reorganización 2026-05-26:
 > bajó de #4 a #23.)

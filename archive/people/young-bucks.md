@@ -12,7 +12,7 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
 
 # Young Bucks (Matt & Nick Jackson)
 
-> **Héroes fundamentales del Vehemiurgo #15** (cuentan como uno;
+> **Dioses del Wrestling Tier 2 #15 del Vehemiurgo** (cuentan como uno;
 > [panteón](../topics/heroes-fundamentales-vehemiurgia.md);
 > reorganización 2026-05-26: de #8 a #15) — declarados en
 > notebook 2026-05-26: *"amo a los young bucks, son mis héroes

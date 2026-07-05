@@ -21,7 +21,7 @@ gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class (identificada por el Vehemiurgo en notebook)"
-clases_vehemiurgo: ["Wrestling Entertainment Class"]
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:

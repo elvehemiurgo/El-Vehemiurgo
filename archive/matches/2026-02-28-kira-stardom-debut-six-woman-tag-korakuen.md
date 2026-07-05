@@ -27,7 +27,7 @@ buy_rate: ""
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit Class (asignada explícitamente por el Vehemiurgo — 'es fighting spirit, se merece la clase')"
-clases_vehemiurgo: ["Fighting Spirit Class"]
+clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:

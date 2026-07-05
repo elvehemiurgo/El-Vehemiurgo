@@ -7,7 +7,7 @@ estado: stub
 ultima_actualizacion: 2026-05-26
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
-tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-verif, heel-genial-vehemiurgo, recurrente-lista-personal, heroes-fundamentales-vehemiurgia, panteon-vehemiurgo-42]
+tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-verif, heel-genial-vehemiurgo, recurrente-lista-personal, heroes-fundamentales-vehemiurgia, panteon-vehemiurgo-43]
 ---
 
 # Mark Davis

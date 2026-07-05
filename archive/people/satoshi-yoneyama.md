@@ -51,7 +51,7 @@ encarnación shoot-style joven.
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/1996-XX-XX-ikeda-yoneyama-vs-otsuka-ishikawa.md`](../matches/1996-XX-XX-ikeda-yoneyama-vs-otsuka-ishikawa.md)
+- [`../matches/1996-10-10-ikeda-yoneyama-vs-otsuka-ishikawa-michinoku-pro.md`](../matches/1996-10-10-ikeda-yoneyama-vs-otsuka-ishikawa-michinoku-pro.md)
   — tag match Fighting Spirit Class.
 - [`../topics/junior-heavyweight-highspeed-1990s.md`](../topics/junior-heavyweight-highspeed-1990s.md)
   — cluster doctrinal (rama vecina shoot-style).

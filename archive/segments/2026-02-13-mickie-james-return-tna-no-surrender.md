@@ -1,9 +1,9 @@
 ---
-segmento: "Mickey James Return"
-slug: "mickey-james-return-tna-no-surrender-2026-02-13"
+segmento: "Mickie James Return"
+slug: "mickie-james-return-tna-no-surrender-2026-02-13"
 tipo_segmento: "return appearance / legacy moment"
 protagonistas:
-  - "Mickey James"
+  - "Mickie James"
 empresa: "TNA"
 programa: "No Surrender 2026 (special TNA+/TrillerTV, no PPV tradicional)"
 fecha: 2026-02-13
@@ -12,8 +12,8 @@ recinto: "The Pinnacle"
 ubicacion_en_show: "post-match del Knockouts World Tag Title (Elegance Brand vs Brookside & Hartwell)"
 duracion: ""
 linea_textual: ""
-gimmick_momento: "Return de Mickey James como legacy talent TNA. Mickey con extenso historial WWE (Trish era 2005-2006) + TNA (Knockouts Champion era 2010s) en TNA contemporáneo."
-storyline: "Legacy return moment — Mickey James como pieza institucional de la Knockouts division histórica TNA + crossover WWE legacy."
+gimmick_momento: "Return de Mickie James como legacy talent TNA. Mickey con extenso historial WWE (Trish era 2005-2006) + TNA (Knockouts Champion era 2010s) en TNA contemporáneo."
+storyline: "Legacy return moment — Mickie James como pieza institucional de la Knockouts division histórica TNA + crossover WWE legacy."
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
@@ -25,10 +25,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2025-2026 Kazarian King era"
-tags: [tna-2026, no-surrender-2026, mickey-james, legacy-return, knockouts-history, wwe-tna-legacy-talent]
+tags: [tna-2026, no-surrender-2026, mickie-james, legacy-return, knockouts-history, wwe-tna-legacy-talent]
 ---
 
-# Mickey James Return — TNA No Surrender (13 feb 2026)
+# Mickie James Return — TNA No Surrender (13 feb 2026)
 
 > **Legacy return moment**. Mickey James, pieza institucional
 > tanto del WWE (Trish era 2005-2006) como TNA (Knockouts
@@ -84,5 +84,5 @@ James/Elegance** post-No Surrender.
 - [`../people/arianna-grace.md`](../people/arianna-grace.md) —
   THE FUTURE in 2026 #3, anchor mismo show.
 - [`../../dossiers/draft-tna-2025-2026-kazarian-king-era.md`](../../dossiers/draft-tna-2025-2026-kazarian-king-era.md).
-- (Pendiente Mickey James fact-sheet — figura cross-promotion
+- (Pendiente Mickie James fact-sheet — figura cross-promotion
   + legacy.)

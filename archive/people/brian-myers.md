@@ -8,7 +8,7 @@ ultima_actualizacion: 2026-06-17
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #18 (Perfect Match vs Moose first time ever + losing streak referencia)"
   - "Lista personal verbatim: entradas The System 2025-2026"
-tags: [brian-myers, ex-curt-hawkins-wwe, ex-major-brothers-edgeheads, losing-streak-gimmick-callback, the-system-tna, ko-world-tag-champion-rebellion-2026-con-bronson, top-tier-entertainer-vehemiurgo, moose-first-time-ever-perfect-match]
+tags: [brian-myers, ex-curt-hawkins-wwe, ex-major-brothers-edgeheads, losing-streak-gimmick-callback, the-system, ko-world-tag-champion-rebellion-2026-con-bronson, top-tier-entertainer-vehemiurgo, moose-first-time-ever-perfect-match]
 ---
 
 # Brian Myers

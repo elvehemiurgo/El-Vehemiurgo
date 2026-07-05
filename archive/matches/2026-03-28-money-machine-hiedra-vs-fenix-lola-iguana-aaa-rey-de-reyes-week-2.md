@@ -231,20 +231,20 @@ para columna comparativa:
   — cluster cross-promotion contemporary.
 
 ### People centrales (a abrir / actualizar)
-- [`../people/rey-fenix.md`](../people/rey-fenix.md) — pendiente
+- `archive/people/rey-fenix.md` — pendiente
   fact-sheet (showcase babyface AAA contemporary).
-- [`../people/penta.md`](../people/penta.md) — pendiente
+- `archive/people/penta.md` — pendiente
   fact-sheet (caso éxito promos inglés progreso).
 - [`../people/stephanie-vaquer.md`](../people/stephanie-vaquer.md)
   — actualizar con doctrina English promo limitation.
-- [`../people/chad-gable.md`](../people/chad-gable.md) (=
+- `archive/people/chad-gable.md` (=
   El Grande Americano) — pendiente fact-sheet (barra alta
   cross-lingual).
-- [`../people/ludwig-kaiser.md`](../people/ludwig-kaiser.md) —
+- `archive/people/ludwig-kaiser.md` —
   pendiente fact-sheet (barra alta multi-lingual).
-- [`../people/money-machine.md`](../people/money-machine.md) —
+- `archive/people/money-machine.md` —
   pendiente fact-sheet tag team file.
-- [`../people/la-hiedra.md`](../people/la-hiedra.md) — pendiente
+- `archive/people/la-hiedra.md` — pendiente
   fact-sheet (Las Tóxicas faction member).
 
 ### Pieces editoriales al horno

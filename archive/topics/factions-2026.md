@@ -54,7 +54,7 @@ analizar las facciones vigentes desde ese criterio.
 
 - **The System** (post-reset 2026): Moose, JDC (Frankie Kazarian),
   Eddie Edwards, Brian Myers, Alisha Edwards. Detalle pendiente en
-  [`promotions/the-system-tna.md`](../promotions/the-system-tna.md).
+  [`promotions/the-system.md`](../promotions/the-system.md).
 
 ### AEW
 
@@ -153,7 +153,7 @@ Estructura propuesta:
 ## Piezas relacionadas
 
 - [`promotions/judgment-day.md`](../promotions/judgment-day.md).
-- [`promotions/the-system-tna.md`](../promotions/the-system-tna.md).
+- [`promotions/the-system.md`](../promotions/the-system.md).
 - [`people/liv-morgan.md`](../people/liv-morgan.md).
 - [`people/dominik-mysterio.md`](../people/dominik-mysterio.md).
 - [`people/raquel-rodriguez.md`](../people/raquel-rodriguez.md).

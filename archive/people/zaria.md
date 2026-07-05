@@ -85,7 +85,7 @@ sección 1.
 **Distribución cruzada**: ver
 [`sol-ruca.md`](./sol-ruca.md),
 [`segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md),
-[`giulia.md`](./giulia.md) (a crear cuando haya material),
+`archive/people/giulia.md` (a crear cuando haya material),
 [`stephanie-vaquer.md`](./stephanie-vaquer.md).
 
 ## Lectura consolidada del Vehemiurgo

@@ -90,7 +90,7 @@ más en **lectura individual de cada talent**:
 - [ ] Finish exacto + duración.
 - [ ] Recinto.
 - [ ] Card completa (mismo show del Perfect Match Slater & Santana
-      vs Nemeths + segment Mickey James si aplica).
+      vs Nemeths + segment Mickie James si aplica).
 - [ ] Apertura matches del cluster Dani Luna 2025-2026 (5 entradas
       pendientes en lista personal: vs Jodi Threat 6/11/2025, vs
       Indy Hartwell 14/11/2025 y 11/12/2025, vs Xia Brookside

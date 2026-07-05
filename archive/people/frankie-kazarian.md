@@ -14,6 +14,11 @@ tags: [frankie-kazarian, kazarian, kaz, king-reign, tna-2025-2026, christopher-d
 
 # Frankie Kazarian
 
+> **Héroe Fundamental #45 del Vehemiurgo** (como tag **Kazarian &
+> Daniels** — Bad Influence / The Addiction, cuentan como uno;
+> panteón: [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md);
+> ficha de Christopher Daniels pendiente).
+>
 > **King reign anchor del cluster TNA 2025-2026**. Veterano
 > 25+ años indies + TNA founding generation + ROH + AEW +
 > WWE NXT short run. Pieza central del **Kazarian King era**

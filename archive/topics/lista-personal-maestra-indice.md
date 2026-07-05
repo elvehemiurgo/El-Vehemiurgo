@@ -323,7 +323,7 @@ como solicitó el Vehemiurgo.
 | 296 | 2026-02-13 | match | Trick Williams · Rey Fenix | WWE |  | pendiente |  |
 | 297 | 2026-02-13 | match | JODY THREAT WINNING THE BATTLE ROYAL | TNA |  | pendiente |  |
 | 298 | 2026-02-13 | match | M by Elegance · Heather by Elegance · Indy Hartwell · Xia Brookside | TNA |  | pendiente |  |
-| 299 | 2026-02-13 | segment | MICKEY JAMES RETURN TNA No Surrender 13.02.2026 | TNA |  | integrado | [→](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md) |
+| 299 | 2026-02-13 | segment | MICKEY JAMES RETURN TNA No Surrender 13.02.2026 | TNA |  | integrado | [→](../segments/2026-02-13-mickie-james-return-tna-no-surrender.md) |
 | 300 | 2026-02-13 | match | Eric Young · BDE | TNA |  | pendiente |  |
 | 301 | 2026-02-13 | segment | JODY THREAT AND TESSA BLANCHARD BACKSTAGE PROMOS TNA No Surrender 13.02.2026 | TNA |  | pendiente |  |
 | 302 | 2026-02-13 | match | Ariana Grace · Lei Ying Lee | TNA |  | pendiente |  |

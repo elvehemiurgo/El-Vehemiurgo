@@ -33,10 +33,10 @@ cada alta y con cada cambio de estado.
 | 2026-03-25 | FTR vs Orange Cassidy & Roderick Strong: interacción | AEW / Dynamite | in-ring confrontation / interacción | WE | stub | 1 | [→](2026-03-25-ftr-orange-cassidy-roderick-strong-interaccion-dynamite.md) |
 | 2026-03-24 | Sol Ruca vs Zaria: 'You didn't want a team, you wanted a moment' | WWE / NXT | promo in-ring confrontacional | — | en-investigacion | 0 | [→](2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md) |
 | 2026-03-15 | Will Ospreay Returns | AEW / Revolution 2026 | return appearance / character work moment | — | en-investigacion | 1 | [→](2026-03-15-will-ospreay-returns-aew-revolution.md) |
-| 2026-03-05 | ODB Return Segment con Heather & M by Elegance (First Half) | TNA / Impact | in-ring promo / legacy return | — | stub | 1 | [→](2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md) |
-| 2026-02-26 | Mickie James Saving the Segment with Ash | TNA / Impact | in-ring promo / veteran rescues novice | — | stub | 1 | [→](2026-02-26-mickey-james-saves-segment-with-ash-tna-impact.md) |
 | 2026-03-15 | Christian Killswitches en AEW Revolution | AEW / Revolution 2026 | in-ring spot / character work moment | — | en-investigacion | 1 | [→](2026-03-15-christian-killswitches-aew-revolution.md) |
-| 2026-02-13 | Mickey James Return | TNA / No Surrender 2026 | return appearance / legacy moment | — | en-investigacion | 1 | [→](2026-02-13-mickey-james-return-tna-no-surrender.md) |
+| 2026-03-05 | ODB Return Segment con Heather & M by Elegance (First Half) | TNA / Impact | in-ring promo / legacy return | — | stub | 1 | [→](2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md) |
+| 2026-02-26 | Mickie James Saving the Segment with Ash | TNA / Impact | in-ring promo / veteran rescues novice | — | stub | 1 | [→](2026-02-26-mickie-james-saves-segment-with-ash-tna-impact.md) |
+| 2026-02-13 | Mickie James Return | TNA / No Surrender 2026 | return appearance / legacy moment | — | en-investigacion | 1 | [→](2026-02-13-mickie-james-return-tna-no-surrender.md) |
 | 2025-12-18 | Kazarian Elvis 'Bear With Me' Promo | TNA / Impact | in-ring promo / character spectacle | WE | en-investigacion | 1 | [→](2025-12-18-kazarian-elvis-bear-with-me-promo-tna-impact.md) |
 | 2025-12-11 | Kazarian's 'I Am Your King' Opening Promo | TNA / Impact | opening promo | — | en-investigacion | 1 | [→](2025-12-11-kazarian-i-am-your-king-promo-tna-impact.md) |
 | 2025-11-13 | NXT Stars Invade Impact + Kazarian cashes in trophy winning TNA World Title | TNA / Impact | invasion + title change | — | en-investigacion | 1 | [→](2025-11-13-nxt-invasion-kazarian-cash-in-tna-impact.md) |

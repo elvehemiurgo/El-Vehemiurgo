@@ -15,7 +15,7 @@ talents_centrales:
   - "Joe Hendry"
   - "Jeff Hardy"
   - "Bear Bronson"
-  - "Mickey James (return)"
+  - "Mickie James (return)"
   - "Charlie Dempsey (NXT cross-promotion)"
   - "Leon Slater"
   - "Heather By Elegance + M By Elegance"
@@ -23,7 +23,7 @@ talents_centrales:
   - "Jordynne Grace adjacents (Knockouts arc)"
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal completa (2026-05-09), sec. Bloque TNA 2025–2026"
-tags: [tna-2025, tna-2026, kazarian-king-era, nxt-invasion, tna-on-amc, mustafa-ali-tna-debut, mickey-james-return, joe-hendry-jeff-hardy, the-system, the-rascalz, knockouts-arc, cross-promotion]
+tags: [tna-2025, tna-2026, kazarian-king-era, nxt-invasion, tna-on-amc, mustafa-ali-tna-debut, mickie-james-return, joe-hendry-jeff-hardy, the-system, the-rascalz, knockouts-arc, cross-promotion]
 ---
 
 # Dossier TNA 2025-2026 — Kazarian King era + NXT invasion + TNA on AMC
@@ -90,11 +90,11 @@ Ali debuta en TNA post-WWE release con **promo backstage 8 ene**
 contender legítimo. La oficina TNA usa la veteranía Ali sin
 diluir el roster propio.
 
-### 5. Knockouts arc — Heather By Elegance + M + Indy Hartwell + Mickey James return
+### 5. Knockouts arc — Heather By Elegance + M + Indy Hartwell + Mickie James return
 
 **Heather By Elegance + M By Elegance** como heel sisters con
 push consistente noviembre-marzo. **Indy Hartwell** como
-underdog babyface con storyline propia. **Mickey James return**
+underdog babyface con storyline propia. **Mickie James return**
 en No Surrender (13 feb 2026) — legacy moment. **Tessa
 Blanchard + Jody Threat backstage promos** No Surrender
 construyen feud paralelo. **Jordynne Grace adjacents** rotando
@@ -143,7 +143,7 @@ Marcador (★) = pieza abierta como entry individual centerpiece.
 5. **Kazarian Elvis "Bear With Me" promo** — Impact 18 dic 2025
    (Wrestling Entertainment Class identificada explícitamente).
 6. **Mustafa Ali vs Elias** — Genesis 17 ene 2026.
-7. **Mickey James return** — No Surrender 13 feb 2026.
+7. **Mickie James return** — No Surrender 13 feb 2026.
 8. **Joe Hendry & Jeff Hardy concert** — fecha pendiente,
    pieza performance.
 
@@ -173,7 +173,7 @@ Marcador (★) = pieza abierta como entry individual centerpiece.
       working agreement TKO-Anthem (?).
 - [ ] **Mustafa Ali release WWE → debut TNA** — fechas exactas
       + términos.
-- [ ] **Mickey James return** — single appearance o stay?
+- [ ] **Mickie James return** — single appearance o stay?
 - [ ] **Asignación de clase del Vehemiurgo** match por match.
 - [ ] Fact-sheets dedicados: **Frankie Kazarian**, **Mike
       Santana**, **Mustafa Ali**, **Joe Hendry**, **Trey

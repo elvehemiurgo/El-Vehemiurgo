@@ -26,7 +26,7 @@ star_rating_won_meltzer: "★★★★¼ (contexto histórico, no veredicto vehe
 encuentros_previos: 0
 veces_visto_vehemiurgo: "múltiples (declaración: 'una de mis favoritas ever')"
 calificacion_vehemiurgo: "TRIPLE-CLASE OPERATIVA: Perfect Wrestling Class + Fighting Spirit Class + Wrestling Entertainment Class"
-clases_vehemiurgo: ["Perfect Wrestling Class", "Fighting Spirit Class", "Wrestling Entertainment Class"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
 ultima_actualizacion: 2026-05-10
 fuentes_principales:

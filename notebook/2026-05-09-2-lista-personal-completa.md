@@ -730,7 +730,7 @@ mantiene visible qué queda.
 - THE SYSTEM VS SANTANA, HARDYS & MOOSE TNA Impact 12.02.2026
 - JODY THREAT WINNING THE BATTLE ROYAL TNA No Surrender 13.02.2026
 - M & HEATHER BY ELEGANCE VS INDY HARTWELL & XIA BROOKSIDE TNA No Surrender 13.02.2026
-- (✓) **MICKEY JAMES RETURN TNA No Surrender 13.02.2026** → [`archive/segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../archive/segments/2026-02-13-mickey-james-return-tna-no-surrender.md) (legacy return moment)
+- (✓) **MICKEY JAMES RETURN TNA No Surrender 13.02.2026** → [`archive/segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../archive/segments/2026-02-13-mickie-james-return-tna-no-surrender.md) (legacy return moment)
 - ERIC YOUNG VS BDE TNA No Surrender 13.02.2026
 - JODY THREAT AND TESSA BLANCHARD BACKSTAGE PROMOS TNA No Surrender 13.02.2026
 - ARIANA GRACE VS LEI YING LEE TNA No Surrender 13.02.2026
@@ -746,7 +746,7 @@ mantiene visible qué queda.
 - AJ FRANCIS FIGHTS MANCER BACKSTAGE TNA Impact 19.02.2026
 - (✓) **MUSTAFA ALI VS ELIJAH CASKET MATCH TNA Impact 19.02.2026** → [`archive/matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md`](../archive/matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md) (Perfect Match triple clase, Nashville Music City, anchor declaración Ali run generacional 2026-06-17)
 - (✓) **LION SLATHER & SANTANA VS NIC & RYAN NEMETH TNA Impact 26.02.2026** → [`archive/matches/2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md`](../archive/matches/2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md) (Perfect Match triple clase, X-Division representada, anchor declaración Slater "presente no futuro" 2026-06-17)
-- (✓) **MICKEY JAMES SAVING THE SEGMENT WITH ASH TNA Impact 26.02.2026** → [`archive/segments/2026-02-26-mickey-james-saves-segment-with-ash-tna-impact.md`](../archive/segments/2026-02-26-mickey-james-saves-segment-with-ash-tna-impact.md) (veterana rescata novata en mic, anchor diagnóstico Ash mic-work sesión 2026-06-17 #11)
+- (✓) **MICKEY JAMES SAVING THE SEGMENT WITH ASH TNA Impact 26.02.2026** → [`archive/segments/2026-02-26-mickie-james-saves-segment-with-ash-tna-impact.md`](../archive/segments/2026-02-26-mickie-james-saves-segment-with-ash-tna-impact.md) (veterana rescata novata en mic, anchor diagnóstico Ash mic-work sesión 2026-06-17 #11)
 - (✓) **ODB RETURN SEGMENT WITH HEATHER & M BY ELEGANCE (FIRST HALF) TNA Impact 05.03.2026** → [`archive/segments/2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md`](../archive/segments/2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md) (M lidera promos del brand, M+Heather entertainers reales, anchor sesión 2026-06-17 #11)
 - SINNER & SAINT VS THE SYSTEM'S MYERS & BRONSON VS THE RIGHTEOUS VS SWANN & BDE TNA Impact 05.03.2026
 - MOOSE PROMO IN-RING AGAINST THE SYSTEM TNA Impact 05.03.2026

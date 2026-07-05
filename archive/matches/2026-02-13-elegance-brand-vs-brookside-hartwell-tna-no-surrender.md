@@ -25,7 +25,7 @@ ultima_actualizacion: 2026-06-17
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — anchor declaración M by Elegance prospecto)"
   - "Sub-agente m-by-elegance-no-surrender-2026-elegance-brand-roster (research 2026-06-17, closed)"
-tags: [m-by-elegance, heather-by-elegance, the-elegance-brand, xia-brookside, indi-hartwell, ash-by-elegance, mr-elegance, tna-no-surrender-2026, tna-knockouts-world-tag-team-championship, nashville-the-pinnacle, screwjob-finish, faction-interference, mickey-james-return-post-match, the-future-in-2026-anchor]
+tags: [m-by-elegance, heather-by-elegance, the-elegance-brand, xia-brookside, indi-hartwell, ash-by-elegance, mr-elegance, tna-no-surrender-2026, tna-knockouts-world-tag-team-championship, nashville-the-pinnacle, screwjob-finish, faction-interference, mickie-james-return-post-match, the-future-in-2026-anchor]
 ---
 
 # The Elegance Brand vs Brookside & Hartwell — TNA No Surrender 2026 (13 feb)
@@ -79,7 +79,7 @@ siempre pendiente del referee"**.
   con la faction entera. Brookside y Hartwell se sumaron desde el
   ring y juntas limpiaron la zona haciendo retreat a The Elegance
   Brand. Sembrado claro para feud James/Elegance. Cross-link directo:
-  [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md).
+  [`../segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickie-james-return-tna-no-surrender.md).
 
 ## Datos del show
 
@@ -121,7 +121,7 @@ siempre pendiente del referee"**.
   líder del brand + interferencia en finish.
 - [`../promotions/the-elegance-brand.md`](../promotions/the-elegance-brand.md)
   — promoción/faction completa.
-- [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md)
+- [`../segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickie-james-return-tna-no-surrender.md)
   — return post-match.
 - [`../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
   — defensa previa cross-promo NXT.

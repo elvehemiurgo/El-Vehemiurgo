@@ -84,7 +84,7 @@ Wolves)? **Caso testigo en construcción** dentro del archivo.
 - **Cluster TNA 2026** — junto con Mustafa Ali vs Elias (Genesis
   mismo show), ZaRuca vs Elegance Brand NXT, Elegance vs
   Brookside/Hartwell No Surrender, Lei Ying Lee vs Arianna Grace
-  No Surrender, Mickey James return. **Cinco ingresos del show
+  No Surrender, Mickie James return. **Cinco ingresos del show
   Genesis si se incluye este**.
 - **Cluster tesis Hardys-plataforma**: anchor TNA 2026 de la
   tesis.

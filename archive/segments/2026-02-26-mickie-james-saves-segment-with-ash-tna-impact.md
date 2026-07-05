@@ -1,6 +1,6 @@
 ---
-segmento: "Mickey James Saving the Segment with Ash"
-slug: "2026-02-26-mickey-james-saves-segment-with-ash-tna-impact"
+segmento: "Mickie James Saving the Segment with Ash"
+slug: "2026-02-26-mickie-james-saves-segment-with-ash-tna-impact"
 tipo_segmento: "in-ring promo / veteran rescues novice"
 protagonistas:
   - "Mickie James"
@@ -73,7 +73,7 @@ a Ash (ver
 
 ## Cross-links
 
-- [`./2026-02-13-mickey-james-return-tna-no-surrender.md`](2026-02-13-mickey-james-return-tna-no-surrender.md)
+- [`./2026-02-13-mickie-james-return-tna-no-surrender.md`](2026-02-13-mickie-james-return-tna-no-surrender.md)
   — origen del feud (Mickie ataca Ash post-match Elegance).
 - [`./2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md`](2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md)
   — semana siguiente: el brand rota a M y Heather en mic.

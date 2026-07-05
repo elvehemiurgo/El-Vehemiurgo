@@ -134,5 +134,5 @@ tags: [the-elegance-brand, tna-faction, knockouts-tag-champions, ash-by-elegance
   — anchor de la declaración del Vehemiurgo.
 - [`../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
   — cross-promo NXT.
-- [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickey-james-return-tna-no-surrender.md)
+- [`../segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../segments/2026-02-13-mickie-james-return-tna-no-surrender.md)
   — return post-match en mismo show.

@@ -15,7 +15,7 @@ ubicacion_en_show: "in-ring promo segment, primera mitad"
 duracion: "[verif]"
 linea_textual: "[verif]"
 gimmick_momento: "Elegance Brand (Heather + M) en mic-work + return sorpresa de ODB (legacy TNA Knockouts)"
-storyline: "Heather + M en mic post-No Surrender (KO Tag champs vigentes). Continuidad del cluster Elegance pos-coronación Arianna + post-fallido segmento Ash + Mickey James la semana previa (26 feb)."
+storyline: "Heather + M en mic post-No Surrender (KO Tag champs vigentes). Continuidad del cluster Elegance pos-coronación Arianna + post-fallido segmento Ash + Mickie James la semana previa (26 feb)."
 attendance_anunciada: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buen ejercicio rudo para M en mic — promo mejor que la de Ash, más corta. M + Heather entertainers reales."
@@ -40,8 +40,8 @@ tags: [m-by-elegance, heather-by-elegance, odb-return-tna-2026, mic-work-eleganc
 ## Resumen
 
 Segmento de continuidad del cluster Elegance Brand post-No
-Surrender (donde Mickey James retornó atacando a Ash). La semana
-previa (26 feb), Ash tuvo un segmento con Mickey James donde **se
+Surrender (donde Mickie James retornó atacando a Ash). La semana
+previa (26 feb), Ash tuvo un segmento con Mickie James donde **se
 ahogó en mic** — Mickey terminó *"salvando el segmento"*. El
 Elegance Brand responde la siguiente semana con **Heather y M en
 in-ring promo**. Aparición sorpresa de **ODB** (legacy TNA
@@ -96,7 +96,7 @@ ODB. Promo mucho mejor que la de Ash, mucho más corta.**
 4. ***"Deberían protegerla más, ha tenido buenos momentos cuando
    la blindan más"*** — **recomendación operativa**: Ash funciona
    en mic **dentro de un setup controlado**, no en mano-a-mano
-   con un veterano (como Mickey James). El cluster de protección
+   con un veterano (como Mickie James). El cluster de protección
    aplicado al mic-work.
 5. ***"M casi se ahoga también, pero buen ejercicio rudo para
    evolucionar"*** — **enfoque pulido en tiempo real** (mismo
@@ -117,7 +117,7 @@ El take cristaliza una **división de labor** explícita:
 | **Heather by Elegance** | Entertainer real, dúo con M | (sin diagnóstico negativo en este take) | Más éxitos + más exposición |
 | **M by Elegance** | Mic + selling + gimmick | Singles aún no lista (timing) | Lidera promos del brand; pulir en TV con ejercicios rudos |
 
-## Contexto — el segmento Ash + Mickey James (26 feb 2026)
+## Contexto — el segmento Ash + Mickie James (26 feb 2026)
 
 Cross-link al segmento previo:
 
@@ -125,7 +125,7 @@ Cross-link al segmento previo:
 >
 > — Lista personal verbatim línea 749
 
-- **Ash se ahogó en mic** vs Mickey James (la legend que retornó
+- **Ash se ahogó en mic** vs Mickie James (la legend que retornó
   en No Surrender atacando al brand).
 - **Mickey "salvó el segmento"** — recuperó el ritmo del talent
   novato en mic.
@@ -157,7 +157,7 @@ Cross-link al segmento previo:
 - [`../people/odb.md`](../people/odb.md) — legacy TNA return.
 - [`../promotions/the-elegance-brand.md`](../promotions/the-elegance-brand.md)
   — faction.
-- [`../segments/2026-02-13-mickey-james-return-tna-no-surrender.md`](2026-02-13-mickey-james-return-tna-no-surrender.md)
+- [`../segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](2026-02-13-mickie-james-return-tna-no-surrender.md)
   — origen del feud Mickey vs Elegance.
 - [`../topics/doctrina-workhorse-vivir-como-wrestlers.md`](../topics/doctrina-workhorse-vivir-como-wrestlers.md)
   — doctrina aplicada al diagnóstico Ash (abrazar debilidad).

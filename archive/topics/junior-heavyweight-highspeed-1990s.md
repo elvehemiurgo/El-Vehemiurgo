@@ -121,7 +121,7 @@ USA y pre-UFC/Internet).
   — junior signature.
 - [`../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md)
   — cross-promo FMW × AJPW Pillars, Perfect Match.
-- [`../matches/1996-XX-XX-ikeda-yoneyama-vs-otsuka-ishikawa.md`](../matches/1996-XX-XX-ikeda-yoneyama-vs-otsuka-ishikawa.md)
+- [`../matches/1996-10-10-ikeda-yoneyama-vs-otsuka-ishikawa-michinoku-pro.md`](../matches/1996-10-10-ikeda-yoneyama-vs-otsuka-ishikawa-michinoku-pro.md)
   — BattlARTS, Fighting Spirit.
 - [`../matches/1992-negro-casas-vs-ultimo-dragon-war.md`](../matches/1992-negro-casas-vs-ultimo-dragon-war.md)
   — WAR, lucha-libre influence early.

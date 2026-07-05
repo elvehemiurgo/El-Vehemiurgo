@@ -12,6 +12,11 @@ fuentes_principales:
 
 # LA Knight
 
+> **Héroe Fundamental #28 del Vehemiurgo** — panteón
+> ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md);
+> alta 2026-06-17, rama carny / promo-driven moderno. Los
+> Fundamentales #26-45 no llevan orden interno).
+
 ## Identificación
 
 - **Nombre real**: Shaun Ricker.
