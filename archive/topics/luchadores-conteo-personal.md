@@ -4,12 +4,15 @@ slug: luchadores-conteo-personal
 tipo: topic
 categoria: ranking-presencia
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Lista personal verbatim: notebook/2026-05-09-2-lista-personal-completa.md"
-  - "Tabulado vía archive/topics/lista-personal-maestra-indice.md"
+  - "Registro canónico: glossary/nombres-canonicos.md"
+  - "Panteón SoT: archive/topics/heroes-fundamentales-vehemiurgia.md"
 tags: [ranking-presencia, luchadores, lista-personal-maestra, conteo-editorial]
 ---
+
+> **VISTA GENERADA — no editar a mano.** Regenerar con sub-agente o `/regen-vistas` tras integrar fichas. Última regeneración: 2026-07-05.
 
 # Luchadores en la lista personal — conteo por presencia
 
@@ -24,244 +27,308 @@ tags: [ranking-presencia, luchadores, lista-personal-maestra, conteo-editorial]
 Conteo: cada participante de cada entrada suma 1. Un tag-team match a 4
 suma 4 individuales; un 6-man suma 6. La métrica honra la doctrina
 old-school de que **cada nombre en el cartel importa**, no solo los
-top-billed.
+top-billed. Los **segmentos también cuentan** — el segmento es pieza de
+oficio, no relleno.
+
+**Snapshot 2026-07-05**: 732 entradas parseadas · 1618
+apariciones individuales · 445 talents/entidades distintos.
+Nombres normalizados al canon (`glossary/nombres-canonicos.md`)
+**antes** de contar: las grafías variantes del notebook (Slater,
+McDonagh, Thekla, Arianna Grace, Jodi Threat, Mickie James, Indi
+Hartwell, Kelani Jordan, Carmelo Hayes…) se funden en su forma
+canónica; el verbatim con typos vive solo en el notebook.
 
 ## Top 50
 
 | # | Luchador | Total | Integrados | Pendientes | Notas |
 |---|---|---|---|---|---|
-| 1 | Christian Cage | 39 | 11 | 28 | **panteón Dios #1** (top 7); ficha [→](../people/christian-cage.md) |
-| 2 | Kurt Angle | 26 | 8 | 18 | **panteón Tier 2 #10**; cluster TNA 2007 |
-| 3 | AJ Styles | 22 | 8 | 14 | **panteón Tier 2 #9**; arc indie-a-WWE; ficha [→](../people/aj-styles.md) |
-| 4 | Rey Mysterio | 20 | 7 | 13 | cluster SmackDown 2002; ficha [→](../people/rey-mysterio.md) |
-| 5 | Chris Benoit | 20 | 4 | 16 | **panteón Fundamental #32** |
-| 6 | Chris Jericho | 20 | 4 | 16 | cluster Raw 2004-2005; ficha [→](../people/chris-jericho.md) |
-| 7 | Shawn Michaels | 16 | 1 | 15 | **panteón Tier 2 #21** |
-| 8 | Edge | 14 | 3 | 11 | ficha [→](../people/edge.md) |
-| 9 | CM Punk | 13 | 3 | 10 | **panteón Dios #2** (top 7); 3 fases; ficha [→](../people/cm-punk.md) |
-| 9= | **Sol Ruca** *(merged 2026-06-17)* | **13** (6+7) | 4 | 9 | **THE FUTURE in 2026 indirecta** (cluster ZaRuca); ficha [→](../people/sol-ruca.md) |
-| 10 | Lion Slater | 11 | 0 | 11 |  |
-| 11 | Rhino | 11 | 0 | 11 |  |
-| 12 | Mike Santana | 9 | 1 | 8 | caso testigo *"breakout tardío"* (cross-link [`./the-future-in-2026.md`](./the-future-in-2026.md)); apertura ficha pendiente |
-| 13 | Samoa Joe | 9 | 2 | 7 | **panteón Dios #4** (top 7); cluster TNA 2007; ficha [→](../people/samoa-joe.md) |
-| 14 | Iyo Sky | 8 | 0 | 8 |  |
-| 15 | Rhea Ripley | 8 | 1 | 7 | women's MOTY candidate WM42 |
-| 16 | Jevon Evans | 8 | 1 | 7 |  |
-| 17 | Randy Orton | 8 | 2 | 6 |  |
-| 18 | Dragon Lee | 8 | 3 | 5 | FS Class anchor; ficha [→](../people/dragon-lee.md) |
-| 19 | Carmelo Hayes | 8 | 1 | 7 | WWE main roster spotlight |
-| 20 | Dominik Mysterio | 8 | 0 | 8 | ficha [→](../people/dominik-mysterio.md) |
-| 21 | Christopher Daniels | 8 | 2 | 6 | **panteón Fundamental #45** (como tag Kazarian & Daniels, cuenta como uno) |
-| 22 | James Storm | 8 | 1 | 7 |  |
-| 23 | Tyson Tomko | 8 | 0 | 8 | Christian Coalition muscle; ficha [→](../people/tyson-tomko.md) |
-| 24 | Shelton Benjamin | 8 | 2 | 6 |  |
-| 25 | Bret Hart | 8 | 4 | 4 | **panteón Tier 2 #8**; deep cuts; ficha [→](../people/bret-hart.md) |
-| 26 | Jacy Jayne | 7 | 1 | 6 | ficha [→](../people/jacy-jayne.md) |
-| 27 | Ethan Page | 7 | 2 | 5 | ficha [→](../people/ethan-page.md) |
-| 28 | MCMG | 7 | 0 | 7 |  |
-| 29 | Heather by Elegance | 7 | 2 | 5 | The Elegance Brand (mentora M by Elegance, ver [`./the-future-in-2026.md`](./the-future-in-2026.md)) |
-| 30 | Bobby Roode | 7 | 0 | 7 |  |
-| 31 | Chris Harris | 7 | 1 | 6 |  |
-| 32 | Sting | 7 | 1 | 6 |  |
-| 33 | Team 3D | 7 | 1 | 6 |  |
-| 34 | Eddie Guerrero | 7 | 4 | 3 | cluster SmackDown 2002; ficha [→](../people/eddie-guerrero.md) |
-| 35 | Giulia | 6 | 1 | 5 |  |
-| 36 | Jacob Fatu | 6 | 1 | 5 | monster heel renaissance 2026; ficha [→](../people/jacob-fatu.md) |
-| 37 | Cody Rhodes | 6 | 3 | 3 | **borrado del panteón 2026-05-26** (orden del Vehemiurgo); ficha [→](../people/cody-rhodes.md) |
-| 38 | Raquel Rodriguez | 6 | 0 | 6 | ficha [→](../people/raquel-rodriguez.md) |
-| 39 | The Hardys | 6 | 0 | 6 | cruza con panteón (Jeff #5 Dios + Matt #19 Tier 2) |
-| 40 | Kelani Jordan | 6 | 0 | 6 |  |
-| 41 | Cedric Alexander | 6 | 0 | 6 |  |
-| 42 | Frankie Kazarian | 6 | 0 | 6 | **panteón Fundamental #45** (como tag Kazarian & Daniels, cuenta como uno); King reign TNA 2025-2026; ficha [→](../people/frankie-kazarian.md) |
-| 43 | Rob Van Dam | 6 | 1 | 5 | **panteón Tier 2 #24** |
-| 44 | Liv Morgan | 5 | 1 | 4 | women's main event WM42; ficha [→](../people/liv-morgan.md) |
-| 45 | Brock Lesnar | 5 | 3 | 2 | cluster SmackDown 2002; ficha [→](../people/brock-lesnar.md) |
-| 46 | Stephanie Vaquer | 5 | 1 | 4 | women's main event WM42; ficha [→](../people/stephanie-vaquer.md) |
-| 47 | Thekla | 5 | 0 | 5 | ficha [→](../people/thekla.md) |
+| 1 | Christian Cage | 48 | 13 | 35 | **panteón Dios #1 (Tier 1, top 7)**; eje editorial del proyecto (sec. 1 del notebook); ficha [→](../people/christian-cage.md) |
+| 2 | Kurt Angle | 46 | 8 | 38 | **panteón Tier 2 #10**; sube por conteo de segmentos del cluster TNA 2007; ficha [→](../people/kurt-angle.md) |
+| 3 | AJ Styles | 28 | 10 | 18 | **panteón Tier 2 #9**; arc indie-a-WWE completo; ficha [→](../people/aj-styles.md) |
+| 4 | CM Punk | 22 | 6 | 16 | **panteón Dios #2 (Tier 1, top 7)**; ficha [→](../people/cm-punk.md) |
+| 5 | Chris Jericho | 21 | 5 | 16 | cluster Raw 2004-2005; ficha [→](../people/chris-jericho.md) |
+| 6 | Rey Mysterio | 21 | 7 | 14 | cluster SmackDown 2002; ficha [→](../people/rey-mysterio.md) |
+| 7 | Chris Benoit | 20 | 4 | 16 | **panteón Fundamental #32** |
+| 8 | Samoa Joe | 20 | 3 | 17 | **panteón Dios #4 (Tier 1, top 7)**; ficha [→](../people/samoa-joe.md) |
+| 9 | Shawn Michaels | 16 | 1 | 15 | **panteón Tier 2 #21** |
+| 10 | Sol Ruca | 15 | 5 | 10 | cluster ZaRuca + NXT semanal; ficha [→](../people/sol-ruca.md) |
+| 11 | Cody Rhodes | 14 | 5 | 9 | **borrado del panteón 2026-05-26** (orden del Vehemiurgo); ficha [→](../people/cody-rhodes.md) |
+| 12 | Edge | 14 | 3 | 11 | ficha [→](../people/edge.md) |
+| 13 | Ethan Page | 14 | 2 | 12 | ficha [→](../people/ethan-page.md) |
+| 14 | Jacob Fatu | 14 | 3 | 11 | monster heel renaissance 2026; ficha [→](../people/jacob-fatu.md) |
+| 15 | Kelani Jordan | 14 | 0 | 14 |  |
+| 16 | Leon Slater | 13 | 2 | 11 | declarado *"presente, no futuro"* (2026-06-17); ficha [→](../people/leon-slater.md) |
+| 17 | Bobby Roode | 12 | 0 | 12 |  |
+| 18 | Mike Santana | 12 | 2 | 10 | caso testigo *breakout tardío* ([→](./the-future-in-2026.md)); ficha [→](../people/mike-santana.md) |
+| 19 | Rhea Ripley | 12 | 1 | 11 |  |
+| 20 | Team 3D | 12 | 1 | 11 |  |
+| 21 | Brock Lesnar | 11 | 3 | 8 | ficha [→](../people/brock-lesnar.md) |
+| 22 | Lola Vice | 11 | 2 | 9 | ficha [→](../people/lola-vice.md) |
+| 23 | Randy Orton | 11 | 2 | 9 |  |
+| 24 | Rhino | 11 | 0 | 11 |  |
+| 25 | Tyson Tomko | 11 | 0 | 11 | Christian Coalition muscle; ficha [→](../people/tyson-tomko.md) |
+| 26 | Wren Sinclair | 11 | 0 | 11 | ficha [→](../people/wren-sinclair.md) |
+| 27 | Carmelo Hayes | 10 | 1 | 9 |  |
+| 28 | James Storm | 10 | 1 | 9 |  |
+| 29 | Joe Hendry | 10 | 2 | 8 | ficha [→](../people/joe-hendry.md) |
+| 30 | Liv Morgan | 10 | 1 | 9 | ficha [→](../people/liv-morgan.md) |
+| 31 | MJF | 10 | 1 | 9 | **panteón Tier 2 #14**; ficha [→](../people/mjf.md) |
+| 32 | Sting | 10 | 1 | 9 |  |
+| 33 | Trick Williams | 10 | 0 | 10 |  |
+| 34 | Bret Hart | 9 | 5 | 4 | **panteón Tier 2 #8**; ficha [→](../people/bret-hart.md) |
+| 35 | Christopher Daniels | 9 | 2 | 7 | **panteón Fundamental #45** (Kazarian & Daniels, cuentan como uno) |
+| 36 | Frankie Kazarian | 9 | 2 | 7 | **panteón Fundamental #45** (Kazarian & Daniels, cuentan como uno); King reign TNA 2025-2026; ficha [→](../people/frankie-kazarian.md) |
+| 37 | Iyo Sky | 9 | 0 | 9 |  |
+| 38 | Jacy Jayne | 9 | 2 | 7 | ficha [→](../people/jacy-jayne.md) |
+| 39 | MCMG | 9 | 1 | 8 |  |
+| 40 | Tatum Paxley | 9 | 1 | 8 |  |
+| 41 | The System | 9 | 2 | 7 |  |
+| 42 | Vanity Project | 9 | 1 | 8 |  |
+| 43 | Blake Monroe | 8 | 2 | 6 | ficha [→](../people/blake-monroe.md) |
+| 44 | Chris Harris | 8 | 2 | 6 |  |
+| 45 | Christian Coalition | 8 | 1 | 7 | entidad faction (Christian + Tomko + AJ + Steiner) |
+| 46 | Dominik Mysterio | 8 | 0 | 8 | ficha [→](../people/dominik-mysterio.md) |
+| 47 | Dragon Lee | 8 | 3 | 5 | ficha [→](../people/dragon-lee.md) |
+| 48 | Drew McIntyre | 8 | 2 | 6 |  |
+| 49 | Eric Young | 8 | 0 | 8 | ficha [→](../people/eric-young.md) |
+| 50 | Heather by Elegance | 8 | 4 | 4 | The Elegance Brand (mentora de M by Elegance); ficha [→](../people/heather-by-elegance.md) |
 
-## Cola larga — 3 a 9 menciones
+## Cola — 3+ menciones (fuera del top 50)
 
-| # | Luchador | Total | Integrados | Pendientes |
-|---|---|---|---|---|
-| 51 | Vanity Project | 5 | 0 | 5 |
-| 52 | Wren Sinclair | 5 | 0 | 5 |
-| 53 | Grande Americano | 5 | 0 | 5 |
-| 54 | Trick Williams | 5 | 0 | 5 |
-| 55 | BDE | 5 | 0 | 5 |
-| 56 | Mustafa Ali | 5 | 1 | 4 |
-| 57 | M by Elegance ⭐ | 5 | 1 | 4 |
-| 58 | Xia Brookside | 5 | 0 | 5 |
-| 59 | Eric Young | 5 | 0 | 5 |
-| 60 | LAX | 5 | 0 | 5 |
-| 61 | Matt Hardy | 5 | 0 | 5 |
-| 62 | Finn Bálor | 4 | 0 | 4 |
-| 63 | Drew McIntyre | 4 | 1 | 3 |
-| 64 | Joe Hendry | 4 | 2 | 2 |
-| 65 | LA Knight | 4 | 2 | 2 |
-| 66 | Austin Theory | 4 | 1 | 3 |
-| 67 | Los Americanos | 4 | 0 | 4 |
-| 68 | Penta | 4 | 0 | 4 |
-| 69 | Mike Bailey | 4 | 0 | 4 |
-| 70 | Ilja Dragunov | 4 | 0 | 4 |
-| 71 | Mark Davis | 4 | 0 | 4 |
-| 72 | Andrade | 4 | 0 | 4 |
-| 73 | Hijo del Vikingo | 4 | 1 | 3 |
-| 74 | SINNER | 4 | 0 | 4 |
-| 75 | SAINT | 4 | 0 | 4 |
-| 76 | AJ Francis | 4 | 0 | 4 |
-| 77 | Persephone | 4 | 0 | 4 |
-| 78 | MJF | 4 | 1 | 3 |
-| 79 | Nic Nemeth | 4 | 0 | 4 |
-| 80 | LOLA VICE NXT | 4 | 0 | 4 |
-| 81 | El Fiscal | 4 | 0 | 4 |
-| 82 | Abismo Negro | 4 | 0 | 4 |
-| 83 | Indy Hartwell | 4 | 0 | 4 |
-| 84 | Rayo | 4 | 0 | 4 |
-| 85 | Bravo | 4 | 0 | 4 |
-| 86 | Rey Fenix | 4 | 0 | 4 |
-| 87 | The System | 4 | 1 | 3 |
-| 88 | Chelsea Green | 4 | 0 | 4 |
-| 89 | Dani Luna | 4 | 0 | 4 |
-| 90 | Jerry Lynn | 4 | 0 | 4 |
-| 91 | Homicide | 4 | 1 | 3 |
-| 92 | Jeff Jarrett | 4 | 0 | 4 |
-| 93 | Ric Flair | 4 | 1 | 3 |
-| 94 | Tajiri | 4 | 0 | 4 |
-| 95 | Owen Hart | 4 | 3 | 1 |
-| 96 | Tiffany Stratton | 3 | 0 | 3 |
-| 97 | Tama Tonga | 3 | 0 | 3 |
-| 98 | Blake Monroe | 3 | 2 | 1 |
-| 99 | Ricky Saints | 3 | 2 | 1 |
-| 100 | Kendal Grey | 3 | 1 | 2 |
-| 101 | Jayda Parker | 3 | 0 | 3 |
-| 102 | Sami Zayn | 3 | 1 | 2 |
-| 103 | Clark Connors | 3 | 0 | 3 |
-| 104 | Orange Cassidy | 3 | 0 | 3 |
-| 105 | Mina Shirakawa | 3 | 0 | 3 |
-| 106 | Charlie Dempsey | 3 | 1 | 2 |
-| 107 | Original Grande Americano | 3 | 0 | 3 |
-| 108 | FTR | 3 | 1 | 2 |
-| 109 | Kris Statlander | 3 | 0 | 3 |
-| 110 | Lainey Reid | 3 | 0 | 3 |
-| 111 | Izzi Dame | 3 | 0 | 3 |
-| 112 | La Parka | 3 | 0 | 3 |
-| 113 | Hank Walker | 3 | 0 | 3 |
-| 114 | TANK NXT | 3 | 0 | 3 |
-| 115 | Gunther | 3 | 0 | 3 |
-| 116 | Lash Legend | 3 | 0 | 3 |
-| 117 | KELANY JORDAN | 3 | 0 | 3 |
-| 118 | Shinsuke Nakamura | 3 | 0 | 3 |
-| 119 | Lei Ying Lee | 3 | 0 | 3 |
-| 120 | Order 4 | 3 | 0 | 3 |
-| 121 | Moose | 3 | 0 | 3 |
-| 122 | Jordynne Grace | 3 | 0 | 3 |
-| 123 | Jason Hotch | 3 | 0 | 3 |
-| 124 | Elias | 3 | 1 | 2 |
-| 125 | Rich Swann | 3 | 0 | 3 |
-| 126 | Jeff Hardy | 3 | 0 | 3 |
-| 127 | JDC | 3 | 0 | 3 |
-| 128 | Bryan Danielson | 3 | 1 | 2 |
-| 129 | Kane | 3 | 1 | 2 |
-| 130 | Jay Lethal | 3 | 0 | 3 |
-| 131 | Sonjay Dutt | 3 | 0 | 3 |
-| 132 | Abyss | 3 | 0 | 3 |
-| 133 | Bob Backlund | 3 | 0 | 3 |
-| 134 | Chris Sabin | 3 | 0 | 3 |
-| 135 | Low Ki | 3 | 2 | 1 |
-| 136 | Scott Steiner | 3 | 0 | 3 |
-| 137 | The Rock | 3 | 2 | 1 |
-| 138 | Los Guerreros | 3 | 1 | 2 |
-| 139 | Steve Austin | 3 | 2 | 1 |
-| 140 | Asuka *(merged 2026-06-17)* | 3 (2+1) | 0 | 3 |
-| 141 | Kairi Sane *(merged 2026-06-17)* | 3 (2+1) | 0 | 3 |
-| 142 | JD McDonagh *(merged 2026-06-17)* | 3 (2+1) | 0 | 3 |
-| 143 | **Arianna Grace** ⭐ *(THE FUTURE in 2026 #3)* | 1 | 1 | 0 |
+| # | Luchador | Total | Integrados | Pendientes | Notas |
+|---|---|---|---|---|---|
+| 51 | Jevon Evans | 8 | 1 | 7 |  |
+| 52 | M by Elegance | 8 | 4 | 4 | ⭐ **THE FUTURE in 2026 #1** ([→](./the-future-in-2026.md)); ficha [→](../people/m-by-elegance.md) |
+| 53 | Ricky Saints | 8 | 2 | 6 | ficha [→](../people/ricky-saints.md) |
+| 54 | Roman Reigns | 8 | 1 | 7 | ficha [→](../people/roman-reigns.md) |
+| 55 | Shelton Benjamin | 8 | 2 | 6 |  |
+| 56 | AJ Francis | 7 | 1 | 6 | ficha [→](../people/aj-francis.md) |
+| 57 | BDE | 7 | 0 | 7 | ficha [→](../people/bde.md) |
+| 58 | Eddie Guerrero | 7 | 4 | 3 | ficha [→](../people/eddie-guerrero.md) |
+| 59 | Finn Bálor | 7 | 0 | 7 | ficha [→](../people/finn-balor.md) |
+| 60 | Giulia | 7 | 1 | 6 |  |
+| 61 | Grande Americano | 7 | 0 | 7 |  |
+| 62 | Hangman Adam Page | 7 | 0 | 7 | ficha [→](../people/hangman-adam-page.md) |
+| 63 | Hijo del Vikingo | 7 | 1 | 6 | ficha [→](../people/hijo-del-vikingo.md) |
+| 64 | Izzi Dame | 7 | 1 | 6 | ficha [→](../people/izzi-dame.md) |
+| 65 | LA Knight | 7 | 3 | 4 | **panteón Fundamental #28**; ficha [→](../people/la-knight.md) |
+| 66 | Moose | 7 | 1 | 6 | ficha [→](../people/moose.md) |
+| 67 | Mustafa Ali | 7 | 2 | 5 | ficha [→](../people/mustafa-ali.md) |
+| 68 | Nic Nemeth | 7 | 2 | 5 | ficha [→](../people/nic-nemeth.md) |
+| 69 | Oba Femi | 7 | 1 | 6 | ficha [→](../people/oba-femi.md) |
+| 70 | Raquel Rodriguez | 7 | 0 | 7 | ficha [→](../people/raquel-rodriguez.md) |
+| 71 | Robert Stone | 7 | 0 | 7 | ficha [→](../people/robert-stone.md) |
+| 72 | Shiloh | 7 | 1 | 6 |  |
+| 73 | Stephanie Vaquer | 7 | 1 | 6 | ficha [→](../people/stephanie-vaquer.md) |
+| 74 | Thekla | 7 | 1 | 6 | ficha [→](../people/thekla.md) |
+| 75 | Abyss | 6 | 0 | 6 |  |
+| 76 | Cedric Alexander | 6 | 0 | 6 | ficha [→](../people/cedric-alexander.md) |
+| 77 | Dark State | 6 | 1 | 5 |  |
+| 78 | Elijah | 6 | 3 | 3 | ficha [→](../people/elijah.md) |
+| 79 | Fatal Influence | 6 | 1 | 5 |  |
+| 80 | Ilja Dragunov | 6 | 0 | 6 |  |
+| 81 | Jim Cornette | 6 | 0 | 6 |  |
+| 82 | Kris Statlander | 6 | 0 | 6 |  |
+| 83 | LAX | 6 | 0 | 6 |  |
+| 84 | Lei Ying Lee | 6 | 1 | 5 | ficha [→](../people/lei-ying-lee.md) |
+| 85 | Los Americanos | 6 | 0 | 6 |  |
+| 86 | Persephone | 6 | 0 | 6 | ficha [→](../people/persephone.md) |
+| 87 | Rich Swann | 6 | 0 | 6 | ficha [→](../people/rich-swann.md) |
+| 88 | Rob Van Dam | 6 | 1 | 5 | **panteón Tier 2 #24** |
+| 89 | Saria | 6 | 2 | 4 |  |
+| 90 | The Hardys | 6 | 0 | 6 | cruza con panteón (Jeff Hardy Dios #5 + Matt Hardy Tier 2 #19) |
+| 91 | The Miz | 6 | 0 | 6 |  |
+| 92 | Andrade | 5 | 0 | 5 |  |
+| 93 | Bear Bronson | 5 | 1 | 4 | ficha [→](../people/bear-bronson.md) |
+| 94 | Chelsea Green | 5 | 0 | 5 |  |
+| 95 | Danhausen | 5 | 0 | 5 |  |
+| 96 | FTR | 5 | 1 | 4 |  |
+| 97 | Indi Hartwell | 5 | 1 | 4 | ficha [→](../people/indi-hartwell.md) |
+| 98 | Jade Cargill | 5 | 1 | 4 |  |
+| 99 | Jay Lethal | 5 | 0 | 5 |  |
+| 100 | JDC | 5 | 0 | 5 |  |
+| 101 | Jerry Lynn | 5 | 0 | 5 |  |
+| 102 | Kane | 5 | 2 | 3 |  |
+| 103 | Kendal Grey | 5 | 1 | 4 | ficha [→](../people/kendal-grey.md) |
+| 104 | Lash Legend | 5 | 0 | 5 |  |
+| 105 | Mark Davis | 5 | 0 | 5 | **panteón Fundamental #43**; ficha [→](../people/mark-davis.md) |
+| 106 | Matt Hardy | 5 | 0 | 5 | **panteón Tier 2 #19** |
+| 107 | Miles Borne | 5 | 0 | 5 |  |
+| 108 | Nick Aldis | 5 | 0 | 5 |  |
+| 109 | Penta | 5 | 0 | 5 |  |
+| 110 | Scott Steiner | 5 | 1 | 4 |  |
+| 111 | Sonjay Dutt | 5 | 0 | 5 |  |
+| 112 | Steiner Brothers | 5 | 0 | 5 |  |
+| 113 | Tiffany Stratton | 5 | 1 | 4 |  |
+| 114 | Xia Brookside | 5 | 1 | 4 |  |
+| 115 | Abismo Negro | 4 | 0 | 4 |  |
+| 116 | Arianna Grace | 4 | 1 | 3 | ⭐ **THE FUTURE in 2026 #3** ([→](./the-future-in-2026.md)); ficha [→](../people/arianna-grace.md) |
+| 117 | Austin Theory | 4 | 1 | 3 |  |
+| 118 | Bob Backlund | 4 | 0 | 4 |  |
+| 119 | Booker T | 4 | 0 | 4 |  |
+| 120 | Bravo | 4 | 0 | 4 |  |
+| 121 | Chris Sabin | 4 | 0 | 4 |  |
+| 122 | Clark Connors | 4 | 0 | 4 |  |
+| 123 | Dani Luna | 4 | 0 | 4 | ficha [→](../people/dani-luna.md) |
+| 124 | El Fiscal | 4 | 0 | 4 |  |
+| 125 | Fallon Henley | 4 | 0 | 4 | **panteón Fundamental #37** |
+| 126 | Gabe Kidd | 4 | 0 | 4 |  |
+| 127 | Gunther | 4 | 0 | 4 |  |
+| 128 | Homicide | 4 | 1 | 3 |  |
+| 129 | Jeff Hardy | 4 | 0 | 4 | **panteón Dios #5 (Tier 1, top 7)**; ficha [→](../people/jeff-hardy.md) |
+| 130 | Jeff Jarrett | 4 | 0 | 4 |  |
+| 131 | Jodi Threat | 4 | 0 | 4 | ficha [→](../people/jodi-threat.md) |
+| 132 | Jordynne Grace | 4 | 0 | 4 |  |
+| 133 | Kit Wilson | 4 | 0 | 4 |  |
+| 134 | Los Guerreros | 4 | 1 | 3 |  |
+| 135 | Mike Bailey | 4 | 0 | 4 |  |
+| 136 | Orange Cassidy | 4 | 0 | 4 |  |
+| 137 | Original Grande Americano | 4 | 0 | 4 |  |
+| 138 | Owen Hart | 4 | 3 | 1 | ficha [→](../people/owen-hart.md) |
+| 139 | Rayo | 4 | 0 | 4 |  |
+| 140 | Rey Fenix | 4 | 0 | 4 |  |
+| 141 | Ric Flair | 4 | 1 | 3 | **panteón Tier 2 #13** |
+| 142 | Ryan Nemeth | 4 | 1 | 3 | ficha [→](../people/ryan-nemeth.md) |
+| 143 | Sami Zayn | 4 | 1 | 3 |  |
+| 144 | Sinner & Saint | 4 | 0 | 4 |  |
+| 145 | Steve Maclin | 4 | 0 | 4 |  |
+| 146 | Tajiri | 4 | 0 | 4 |  |
+| 147 | Tessa Blanchard | 4 | 0 | 4 | ficha [→](../people/tessa-blanchard.md) |
+| 148 | The Culling | 4 | 0 | 4 |  |
+| 149 | Will Ospreay | 4 | 1 | 3 | ficha [→](../people/will-ospreay.md) |
+| 150 | Asuka | 3 | 0 | 3 |  |
+| 151 | Charlie Dempsey | 3 | 1 | 2 | ficha [→](../people/charlie-dempsey.md) |
+| 152 | Eddie Edwards | 3 | 0 | 3 |  |
+| 153 | Elio Lefleur | 3 | 0 | 3 |  |
+| 154 | Hank Walker | 3 | 0 | 3 |  |
+| 155 | Jason Hotch | 3 | 0 | 3 | ficha [→](../people/jason-hotch.md) |
+| 156 | Jayda Parker | 3 | 0 | 3 |  |
+| 157 | JD McDonagh | 3 | 1 | 2 | ficha [→](../people/jd-mcdonagh.md) |
+| 158 | Kairi Sane | 3 | 0 | 3 |  |
+| 159 | Kevin Knight | 3 | 0 | 3 |  |
+| 160 | Kevin Nash | 3 | 0 | 3 |  |
+| 161 | La Parka | 3 | 0 | 3 |  |
+| 162 | Lainey Reid | 3 | 0 | 3 | **panteón Fundamental #38** |
+| 163 | Low Ki | 3 | 2 | 1 |  |
+| 164 | Mina Shirakawa | 3 | 1 | 2 |  |
+| 165 | Nia Jax | 3 | 0 | 3 |  |
+| 166 | Order 4 | 3 | 0 | 3 |  |
+| 167 | Pat McAfee | 3 | 2 | 1 | ficha [→](../people/pat-mcafee.md) |
+| 168 | Shinsuke Nakamura | 3 | 0 | 3 |  |
+| 169 | Steve Austin | 3 | 2 | 1 | **panteón Dios #3 (Tier 1, top 7)**; ficha [→](../people/steve-austin.md) |
+| 170 | Tama Tonga | 3 | 0 | 3 | ficha [→](../people/tama-tonga.md) |
+| 171 | Tank Ledger | 3 | 0 | 3 |  |
+| 172 | The Rascalz | 3 | 1 | 2 |  |
+| 173 | The Rock | 3 | 2 | 1 | ficha [→](../people/the-rock.md) |
+| 174 | Toni Storm | 3 | 0 | 3 |  |
+| 175 | Tony D'Angelo | 3 | 2 | 1 |  |
+| 176 | Wyatt Family | 3 | 1 | 2 |  |
+| 177 | Young Bucks | 3 | 1 | 2 | **panteón Tier 2 #15**; ficha [→](../people/young-bucks.md) |
 
-## Cola larga — 1 a 2 menciones (397 talents)
+## Cola larga — 2 menciones (67 talents)
 
-Lista densa, sin tabla. Sirve como catálogo de talents que el
-Vehemiurgo registra una o dos veces — typically deep cuts
-(territorial, segments ocasionales, indie crossovers).
+Abismo Negro JR, Adelicious, AJ Lee, Alberto Del Rio, Alex Shelley, Amazing Red, Arn Anderson, Brian Myers, Brody King, Brookes Jensen, Bryan Danielson, Chavo Guerrero, Dolph Ziggler, Don Callis Family, Eli Knight, Fabi Apache, Gail Kim, Jackson Drake, Jake Something, Jamie Noble, Jessy Jackson, John Cena, Johnny Gargano, Jon Moxley, Josh Alexander, Kaitlyn, Kenny Omega, Kevin Steen, Kiana James, Kyle Fletcher, Lance Storm, Laredo Kid, Las Tóxicas, Mark Henry, Matt Cardona, Mickie James, Miss Brooks, Myron Reed, OTM, Paul Heyman, Randy Savage, Raven, Rick Steiner, Roderick Strong, Roxanne Perez, Ruckus, Rusev, Sabu, Sheamus, Solo Sikoa, Stacks, Swerve Strickland, The Birthright, The Bloodline, The IInspiration, The Judgment Day, The Righteous, The Undertaker, The Vision, TJ Perkins, Tommaso Ciampa, Trey Miguel, Triple H, Triple X, Ultimo Dragon, VKM, Xavier
 
-**2 menciones** (66 talents — *Asuka, Kairi Sane y JD McDonagh movidos a 3 menciones por merges aplicados 2026-06-17, ver notas abajo*): Adelicious, Alex Shelley, Arn Anderson, Booker T, Brody King, Brookes Jensen, Chavo Guerrero, DARK STATE NXT, Dark State, Dolph Ziggler, END OF CONTRACT SIGNING VIKINGO, Eddie Edwards, Elio Lefleur, Fabi Apache, Fallon Henley, Gabe Kidd, Gail Kim, Hangman Adam Page, JOE, Jade Cargill, Jamie Noble, Jodi Threat, Josh Alexander, KAITLYN SPEARS AJ LEE, KENDAL GREY NXT, Kenny Omega, Kevin Steen, Kiana James, Kurt Angle —, Kyle Fletcher, LEE, Lance Storm, Laredo Kid, Lola Vice, Matt Cardona, Miles Borne, Miss Brooks, OTM, Oba Femi, Randy 'Macho Man' Savage, Raven, Roxanne Perez, Rusev, Ryan Nemeth, SWANN, Sabu, Sheamus, Shyloh, Solo Sikoa, Steve Maclin, Swerve Strickland, TATUM PAXLEY NXT, THE CULLING NXT, TJ Perkins, Tatum Paxley, Tessa Blanchard, The Miz, The Rascalz, The Righteous, The Undertaker, Trey Miguel, Triple H, WREN SINCLAIR NXT, XXX, Xavier, Young Bucks
+## Cola larga — 1 mención (201 talents)
 
-**1 mención** (329 talents — *KABUKI eliminado y dividido entre Asuka + Kairi Sane (Kabuki Warriors) por orden del Vehemiurgo 2026-06-17; JD MCDONA IN normalizado a JD McDonagh; Ariana Grace normalizado a Arianna Grace (THE FUTURE in 2026 #3)*): ABISMO NEGRO JR PROMO VIDEO, ABYSS CRAZY SPOTS, AJ FRANCIS PEDIGREE ON RICH SWANN, ALEISTER BLACK SmackDown, ALEX HAMMERSTONE, AMAZING RED HOG, Abismo Negro Jr., Adam Priest, Akira Tozawa, Albert, Alberto Del Rio, Alexa Bliss, Amazing Red, Apollo Crews, Audaz, B&D, BACKLUND AND LYNN, BJ Whitmer, BLAKE MONROE NXT, BLAKE MONROE NXT Stand, BLAKE MONROE NXT Vengeance Day, BRET HART WRESTLEMANIA 10, BROCK LESNAR VIDEO PACKAGE, BRONSON, Bandido, Barry Windham, Batista, Bayley, Bear Bronson, Becky Lynch, Ben Alexander —, Big Show, Billy Gunn, Billy Kidman, Bob Orton Jr., Bradshaw, Brawling Birds, Brian Myers, British Bulldog, Bron Breakker, Bubba Ray Dudley, CACTUS JACK, CARMELO HAYES SmackDown, CHAVO), CHRIS JERICHO WrestleMania XX, CHRISTIAN KILLSWITCHES, CM PUNK PROMO SEGMENT IN-RING, CM Punk — IWA Mid-South, CODY COLD OPENING, CODY RHODES VIDEO PROMO, CW Anderson, Candela, Cesaro, Charlotte Flair, Chazz 'Starboy' Hall, Chris Hero, Chris Sabin —, Chris Sabin) —, Christian Blake, Corey Hollis, Curtis Axel, D'ANGELO NXT Stand, DAVIS, DOCTOR THIRST JACKSON DRAKE, DOYLE, Damien Sandow, Danhausen, Darby Allin, Dark Silueta, David Finlay, Devon, Dezmond Xavier, Diamond Dallas Page, Dustin Rhodes, EDWARDS, EL VANITY PROJECT — ALIANZA HEEL POR CONVENIENCIA NXT TV, ELI KNIGHT NXT, ELIJAH CASKET MATCH, ELIO LEFLOIRE NXT, ETHAN PAGE DURING PENTA, ETHAN PAGE NXT, EVERYTHING KIT WILSON DOES HERE, EYE SPY OLD SCHOOL, EZ Money, El Cobarde, Elayna Black, Eli Blu, Eli Knight, Elijah, Escadi, FALLON HENLEY AND BLAKE MONROE NXT, FALLON HENLEY NXT, FEMI PROMO VIDEO, Fatal Influence, Felino Jr., Frank W, Fraxiom, GAUNTLET ULTIMATE X MATCH, GYV, Garra Negra, Gary Albright, Grayson Waller, Greg 'The Hammer' Valentine, Guerrero Maya Jr., HANGMAN REVOLUTION PROMO VIDEO, HARRIS, HEADSHRINKER FATU, HURRICANE, Hakushi, Harley Hudson, Hayabusa, Hijo del Dr. Wagner, Hijo del Pantera, Hijo del Perro Aguayo, Hulk Hogan, IYO SKY SNME, IZZI DAME NXT, IZZI DAME NXT TV, Ikuto Hidaka, J JACKSON, JACOB, JACOB FATU BRAWL, JACOB FATU DESTROYS EVERYONE, JASPER TROY — first ever NXT Speed 3-way match NXT, JC Mateo, JD DRAKE), JODY THREAT WINNING THE BATTLE ROYAL, JOHN CENA Survivor Series 2025, JOHNNY GARGANO NXT, JOHNNY GARGANO NXT Stand, JORDYNNE GRACE NXT, Jack Cartwheel, Jack Swagger, Jackson Drake, Jake Something, Jean-Pierre Lafitte, Jerry Lawler, Jessy Jackson, Jetset Rodeo, Jey Uso, Jimmy Jackson, Joey Janela, John Cena, John Skyler, Johnny Consejo, Juventud Guerrera, KELANI JORDAN NXT, KENTA, KING OF THE MOUNTAIN MATCH STYLES, KURT ANGLE LOOKING FOR HIS STUFF, Kevin Knight, Kevin Owens, Keyra, Kira, Kit Wilson, Konnan, LA KNIGHT HOT TAG, LAS TÓXICAS, LAS TÓXICAS (LA HIEDRA, LEE NXT, LETHAL, LEXIS KING — NXT SPEED MATCH NXT TV, LOLA VICE NXT Stand, LOLA VICE PROMO VIDEO NXT Vengeance Day, LOS AMERICANOS NXT, LOS GUERREROS (EDDIE, La Catalina, La Jarochita, Lady Flamer, Lluvia, Logan Paul, M BY ELEGANCE PUTTING OVER INDY HARTWELL, MCMG (Alex Shelley, MILES BORNE NXT, MITB MATCH CHRISTIAN, MITB MATCH FANDANGO, MITB PROMO VIDEO FOR ALBERTO DEL RIO, MJF AND HANGMAN PRESS CONFERENCE PRE REVOLUTION, MONEY IN THE BANK MATCH WrestleMania 21, MOORE, MOOSE NXT, MR WRESTLING 2 Mid-South Wrestling 1983, MYRON REED AND TOA LIONA IN THE HIGH MILE MADNESS, MYSTERIO, Magia Blanca, Mara Sade, Maravilla, Mark Briscoe, Mark Henry, Marty Jannetty, Masaaki Mochizuki, Mayka, Mei Seira, Mercedes Moné, Metalica, Minoru Fujita (C, Money Machine, Mr. Iguana, Myla Grace, Myron Reed, NEW SCHOOL SEGMENT WITH NASH, NIC, NICK ALDIS ORDERS MIZ TO MENTOR DANHAUSEN, NIKKITA LYONS NXT, NWA World Wide Wrestling, Natalya, Negro Casas, Neon, Nia Jax, Nikki Bella, OBA FEMI NXT, Octagón Jr., Olympia, Omos, Otis, PAC, Paul Orndorff, Perry Saturn, Prince Devitt, Protokada, Psicosis, Psycho Clown, RAVEN'S FLOCK, RAYO AMERICANO, RHEA RIPLEY SmackDown, RICKY SAINTS NXT, RICO, RODERICK STRONG PROTECTS CASSIDY, ROMAN REIGNS "I'M GONNA BURY YOU", ROMAN REIGNS BRAWL, ROMAN REIGNS PROMO VIDEO, ROMAN REIGNS WRESTLEMANIA PROMO, ROSEY, RUCKUS 3PW Splintered, RYAN NEMETH — X Division match, Razor Ramon, Rick Michaels, Rick Steiner, Ricky Steamboat, Ricochet, Road Warrior Animal, Robert Stone, Rocky Romero, Roderick Strong, Roman Reigns, Ron Killings, Ruckus, SALVATORE BELLOMO Capital Center, SANTOS, SARIA NXT, SARIA NXT Stand, SARIA PROMO VIDEO NXT, SHILOH NXT, SHYLO, SOMETHING, STEINER BROTHERS "SCOTT'S RETURN FROM INJURY" IN-RING SEGMENT WITH VKM AND LAX, STING SURPRISES CHRISTIAN AND HELPS ABYSS, STRATTON, Sanely, Saquon Shugars, Sara León, Saria, Shane McMahon, Spike Dudley, Stacks, Starlight Kid, Steiner Brothers, Steve Williams, Super Dragon, TAG TEAM DIVISION GAUNTLET MATCH, TAKA, TATUM PAXLEY NXT TV, TATUM PAXLEY NXT Vengeance Day, THE BIRTHRIGHT NXT, THE BLOODLINE, THE CHRISTIAN COALITION AND BOBBY ROODE, THE DON CALLIS FAMILY RESPOND TO MOXLEY, THE DUDLEY BOYZ, THE ELEGANCE BRAND (M, THE JUDGMENT DAY BETRAY FINN BÁLOR, THE MIZ INSULTS JELLY ROLL ON MIZ TV, THE SYSTEM'S MYERS, THE VISION, THEA NXT, TOM CALLING BEAR "A BERSERKER IS GUNNING FOR THE WORLD TITLE" —, TONY D'ANGELO — 8-MAN TAG NXT TV, TOWN MAN, TRISH STRATUS, Tag 1, Tag 2, Taiji Ishimori, Talla Tonga, Tanga Loa, Ted DiBiase, Terry Funk, The Culling, The Hart Foundation, The IInspiration, The Mountie, The New Day, The Rockers, Thunder Rosa, Tiger Mask, Tommaso Ciampa, Tommy Billington, Tomohiro Ishii, Top Flight, Trevor Lee, ULTIMO DRAGON 1992, Ultimo Dragon, VANITY PROJECT NXT Stand, VKM, Volador Jr., WOMEN'S ELIMINATION CHAMBER, WOMEN'S IRON SURVIVOR MATCH NXT Deadline, WORK HORSEMEN (ANTHONY HENRY, WREN QCC NXT, WRN QCC NXT, Wade Barrett, War Machine, Will Ospreay, Willow Nightingale, ZACK SABRE JR Limitless Wrestling 2016, ZARIA) NXT, ZARUCA (SOL RUCA, Zayda Steel, Zelina Vega, Zeuxis, Ángel de Oro
+Typically deep cuts: territorial, roster CMLL/AAA, one-offs indie,
+jobbers de house show. El Vehemiurgo los registra para tener el dato.
+Los ⭐ marcan miembros de **THE FUTURE in 2026**
+([→](./the-future-in-2026.md)) — presencia baja en la lista no
+contradice la declaración: la lista es archivo, THE FUTURE es
+proyección.
 
+Adam Pearce, Adam Priest, Akira Tozawa, Albert, Aleister Black, Alex Hammerstone, Alexa Bliss, Andrew Martin, Ángel de Oro, Apollo Crews, Ash by Elegance, Audaz, B&D, Bad Influence, Bandido, Barry Windham, Batista, Bayley, Becky Lynch, Ben Alexander, Big Show, Billy Gunn, Billy Kidman, BJ Whitmer, Bob Orton Jr., Bradshaw, Brawling Birds, Bray Wyatt, British Bulldog, Bron Breakker, Bubba Ray Dudley, Buff Bagwell, Cactus Jack, Candela, Candice LeRae, Cash Wheeler, Cesaro, Charlotte Flair, Chazz 'Starboy' Hall, Chris Hero, Christian Blake, Corey Hollis, Curtis Axel, CW Anderson, Damien Sandow, Daniel Bryan, Darby Allin, Dark Silueta, David Finlay, Devon, Dezmond Xavier, Diamond Dallas Page, Don Callis, Doyle, Dustin Rhodes, El Cobarde, Elayna Black, Eli Blu, Escadi, EZ Money, Fandango, Felino Jr., Frank Wycheck, Fraxiom, Garra Negra, Gary Albright, Grayson Waller, Greg Valentine, Guerrero Maya Jr., GYV, Hakushi, Hans Schroeder, Harley Hudson, Hayabusa, Headshrinker Fatu, Hijo del Dr. Wagner, Hijo del Pantera, Hijo del Perro Aguayo, Hulk Hogan, Hurricane, Ikuto Hidaka, Jack Cartwheel, Jack Swagger, Jacob Blu, Jasper Troy, Jay Youngblood, JC Mateo, Jean-Pierre Lafitte, Jerry Lawler, Jetset Rodeo, Jey Uso, Jimmy Jackson, Joe Russo, Joey Janela, John Skyler, Johnny Consejo, Josh Briggs, Juventud Guerrera, KENTA, Kevin Owens, Keyra, Kira, Kofi Kingston, Konnan, La Catalina, La Jarochita, Lady Flamer, Lexis King, Lluvia, Logan Paul, Magia Blanca, Mance Warner, Mara Sade, Mark Briscoe, Mark Youngblood, Marty Jannetty, Masaaki Mochizuki, Mayka, Mei Seira, Mercedes Moné, Metalica, Mila Moore ⭐, Minoru Fujita, Money Machine, Mr. Iguana, Mr. Wrestling 2, Myla Grace ⭐, Natalya, Negro Casas, Neon, Nikki Bella, Nikkita Lyons, Octagón Jr., ODB, Olympia, Omos, Otis, PAC, Paul Orndorff, Perry Saturn, Pimpinela Escarlata, Prince Devitt, Protokada, Psicosis, Psycho Clown, R-Truth, Raven's Flock, Rayo Americano, Razor Ramon, Rick Michaels, Ricky Steamboat, Rico, Ricochet, Road Warrior Animal, Rocky Romero, Ron Killings, Rosemary, Rosey, Salvatore Bellomo, Sanely, Santos, Saquon Shugars ⭐, Sara León, Shane McMahon, Spike Dudley, Starlight Kid, Stephanie McMahon, Steve Williams, Super Dragon, Taiji Ishimori, Taka Michinoku, Talla Tonga, Tanga Loa, Ted DiBiase, Terry Funk, The Dudley Boyz, The Hart Foundation, The Hometown Man, The Mountie, The New Day, The Rockers, The Usos, Thea Hail, Tiger Mask, Toa Liona, Tommy Billington, Tomohiro Ishii, Top Flight, Trevor Lee, Trish Stratus, Volador Jr., Wade Barrett, War Machine, Willow Nightingale, Work Horsemen, Zack Sabre Jr, Zaria, Zayda Steel, Zeb Colter, Zelina Vega, Zeuxis
 
 ---
 
 ## Lectura editorial — qué dice este conteo
 
-- **Christian Cage al tope** confirma la sec. 1 del notebook
-  *"Christian Cage como héroe fundamental"*. El proyecto editorial
-  Vehemiurgia está literalmente construido alrededor de Christian
-  como lente — y el conteo lo demuestra cuantitativamente.
+- **Christian Cage al tope (48 apariciones)** confirma la sec. 1
+  del notebook *"Christian Cage como héroe fundamental"*. El proyecto
+  editorial Vehemiurgia está literalmente construido alrededor de
+  Christian como lente — y el conteo lo demuestra cuantitativamente.
+- **Kurt Angle #2 (46)**: el salto respecto a conteos anteriores no es
+  push — es que ahora los **segmentos del cluster TNA 2007** (donde
+  Angle firma promos y office segments semana a semana) cuentan como
+  presencia, igual que sus matches. Coherente con la doctrina: el
+  segmento es oficio.
 - **Cluster SmackDown Six 2002** (Angle, Benoit, Eddie, Rey, Edge,
   Chavo) y **cluster Raw 2004-2005** (Jericho, Christian, Benjamin,
-  HBK) generan dos picos masivos en el top 15. Patrón documental
-  consistente con los dossiers ya cerrados.
-- **Cluster TNA 2007 Christian Coalition era** aporta Christian,
-  Tomko, AJ Styles, Scott Steiner, Samoa Joe, Kurt Angle. Cuatro
-  de los seis están en el top.
-- **2026 contemporáneo** trae a Carmelo Hayes, Ilja Dragunov, Jacob
-  Fatu, Drew McIntyre, Jacy Jayne, Lola Vice, CM Punk, Cody Rhodes
-  al frente. La cobertura semanal sostiene presencia.
-- **Cola larga de 1-2 menciones** son típicamente: territorial
-  historico (Bob Orton Jr., Ben Alexander), deep cuts puroresu
-  (Bradshaw, Albright), CMLL/AAA ring crew (Sanely, Mayka,
-  Garra Negra), one-off WWE house show jobbers (Jimmy Jackson).
-  El Vehemiurgo los registra para tener el dato, no para volver.
+  HBK) generan dos picos masivos en el top 15.
+- **Cluster TNA 2007 Christian Coalition era** aporta Christian, Tomko,
+  AJ Styles, Samoa Joe, Kurt Angle, Roode, Team 3D, Sting al top 50 —
+  más la entidad **Christian Coalition** contada aparte.
+- **2026 contemporáneo** sostiene presencia semanal: Sol Ruca, Jacob
+  Fatu, Kelani Jordan, Ethan Page, Leon Slater, Carmelo Hayes, Trick
+  Williams, Lola Vice, Wren Sinclair — la cobertura NXT/TNA/SmackDown
+  actual pesa tanto como los clusters históricos.
+- **Cola larga de 1-2 menciones**: territorial histórico (Bob Orton
+  Jr., Ben Alexander), deep cuts puroresu (Bradshaw, Albright), roster
+  CMLL (Sanely, Mayka, Garra Negra), jobbers de house show (Jimmy
+  Jackson). Registro documental, no retorno compulsivo.
 
 ## Notas operativas
 
-- **El conteo NO es veredicto Cornette-school**. Es métrica
-  documental — cuántas veces el Vehemiurgo eligió volver a ese
-  talent. Sirve para identificar **ejes editoriales latentes**
-  (talents con conteo alto sin ficha abierta = trabajo pendiente
-  diagnóstico).
-- **Tag teams se cuentan por componente individual**, no como unidad.
-  Decisión del Vehemiurgo: *"cada participante de un match suma 1"*.
-- **Stables sin nombre explícito** (Christian Coalition, MFTs, The
-  Vision, etc.) se cuentan por sus miembros nombrados en la línea.
-  Cuando el bullet usa solo el nombre del stable (*"The Vision"*),
-  no se descomponen los miembros y se cuenta como entidad genérica.
-- **Match repetidos en lista** (algunos aparecen dos veces, ej.
-  *"AJ Styles & Low Ki vs Daniels & Xavier"* marcado *"repetido
-  en lista"*) suman doble. Eso es fiel a la fuente.
+- **El conteo NO es veredicto Cornette-school**. Es métrica documental —
+  cuántas veces el Vehemiurgo eligió volver a ese talent. Sirve para
+  identificar **ejes editoriales latentes** (talents con conteo alto sin
+  ficha abierta = trabajo pendiente diagnóstico).
+- **Tag teams / stables nombrados colectivamente cuentan como unidad**
+  (MCMG, Team 3D, The Hardys, LAX, FTR, Dark State, The System…);
+  cuando el bullet nombra a los miembros, cuentan los miembros. Esto
+  **subreporta entidades faction-first** — leer ambas filas juntas.
+- **Integrados/Pendientes por luchador** = cuántos de sus bullets
+  tienen `(✓)` en el notebook vs cuántos no.
+- **Matches repetidos en la lista** (ej. ROH Prophecy 11.01.2003,
+  registrado dos veces) suman doble. Fiel a la fuente.
+- **Panteón**: los marcadores de las Notas reflejan el estado ACTUAL de
+  [`./heroes-fundamentales-vehemiurgia.md`](./heroes-fundamentales-vehemiurgia.md)
+  (3 tiers, 45 entradas, doctrina top-7). Links de ficha solo si el
+  archivo existe en `archive/people/`.
 
 ## Resoluciones aplicadas 2026-06-17
 
-Por orden del Vehemiurgo, en revisión del primer parseo:
+Por orden del Vehemiurgo, en revisión del primer parseo — **hoy
+aplicadas nativamente por el regenerador** (ya no como parches
+posteriores):
 
-- **Atribuciones falsas de "panteón"**: limpiadas en el top 50. El sub-agente había etiquetado como "panteón" a varios talents que no están (Rey Mysterio, Mike Santana, Rhea Ripley, Dragon Lee, Carmelo Hayes, Tyson Tomko, Eddie Guerrero, Jacob Fatu, Cody Rhodes, Liv Morgan, Brock Lesnar, Stephanie Vaquer). Las marcas ahora reflejan **el panteón real consolidado** (`./heroes-fundamentales-vehemiurgia.md`) con Tier 1/Tier 2/Fundamental cuando corresponde. **Cody Rhodes** marcado explícitamente como *borrado del panteón 2026-05-26*.
-- **Sol Ruca merge**: la entrada residual *"SOL RUCA NXT"* (7 menciones) se fusionó con *"Sol Ruca"* (6) → **total 13**. Reposicionada como #9 empatada (Sol Ruca arriba CM Punk en presencia). Cluster ZaRuca con presencia muy alta.
-- **Kabuki Warriors split**: la entrada residual *"KABUKI"* (1 mención) se dividió entre **Asuka** y **Kairi Sane** (sus integrantes reales como tag team). Ambas pasan de 2 → 3 menciones, agregadas al final de la cola larga 3-9.
-- **JD McDonagh normalizado**: *"JD MCDONA IN"* (1 mención, typo de la lista) fusionado con la entrada canónica **JD McDonagh** (2) → **total 3**.
-- **"Deliver" eliminado**: era fragmento de *"Stand & Deliver"* (PPV de NXT), no un luchador. Sacado del ranking.
-- **M by Elegance** (cola larga, 5 menciones) marcada con ⭐ por ser **THE FUTURE in 2026 #1** ([→](./the-future-in-2026.md)).
-- **Arianna Grace** agregada con ⭐ como **THE FUTURE in 2026 #3** (entrada #143; normalización de *"Ariana Grace"* — la ortografía canónica TNA es con doble *n*).
+- **Atribuciones falsas de "panteón"**: solo se marca panteón lo que está
+  en el SoT consolidado (`./heroes-fundamentales-vehemiurgia.md`).
+  **Cody Rhodes** marcado explícitamente como *borrado del panteón
+  2026-05-26*.
+- **Sol Ruca merge**: las variantes residuales (*"SOL RUCA NXT"* etc.)
+  se funden en **Sol Ruca** antes de contar.
+- **Kabuki Warriors split**: *"KABUKI"* / *"KABUKI WARRIORS"* se divide
+  entre **Asuka** y **Kairi Sane** (sus integrantes reales).
+- **JD McDonagh normalizado**: las grafías dictadas variantes se funden en la forma canónica **JD McDonagh**.
+- **"Deliver" eliminado**: era fragmento de *"Stand & Deliver"* (PPV de
+  NXT), no un luchador. El parser ya no genera ese artefacto.
+- **M by Elegance** ⭐ **THE FUTURE in 2026 #1**; **Arianna Grace** ⭐
+  **#3** (la ortografía canónica TNA lleva doble *n* — la grafía
+  dictada con una sola se normaliza). Saquon Shugars (#2), Myla Grace
+  (#4) y Mila Moore (#5) también llevan ⭐ donde aparecen.
 
 ## Limitaciones del parseo
 
-- **Sesgo de normalización**: nombres conocidos del archive
-  consolidan (Christian/Christian Cage/CLB → Christian Cage); nombres
-  menores quedan como aparecen en bullets. El conteo del top ~100 es
-  razonablemente confiable; la cola larga tiene **variantes del mismo
-  talent contando como talents distintos** (ej. *Brookes* y *Brookes
-  Jensen*).
-- **Heurística de tipo match/segment**: las entradas mal
-  clasificadas como `match` aportan participantes inventados (texto
-  no-nominal procesado como nombre). Se filtró por longitud y
-  patrones, pero quedan residuos.
-- **Stables sin componentes**: facciones referidas por nombre
-  colectivo (*"Dark State"*, *"The Vision"*, *"Fatal Influence"*)
-  aparecen con conteo bajo aunque sus miembros tengan presencia
-  alta — esto **subreporta entidades faction-first**.
-- **Carmelo Hayes** aparece dos veces en la fuente original — una
-  como *"CARMELO HAYES"* y una como *"CARMELLO HAZE"* (typo). La
-  normalización los une, pero verificar siempre que el conteo de
-  talents WWE 2026 cuadre con la cobertura semanal.
-- **Brookes** (Brookes Jensen) vs **Booker T** vs **Booker & Vic**:
-  la heurística puede confundir tokens cortos. Cuando el conteo de
-  un talent parece sospechosamente alto, revisar las entradas
-  directamente.
+- **Diccionario canónico finito (~440 nombres)**: en los segmentos solo
+  cuentan los nombres reconocidos por el diccionario; un talent que
+  aparezca únicamente en segmentos y fuera del diccionario no suma.
+  En matches, los nombres no reconocidos se cuentan title-caseados tal
+  cual (pueden quedar variantes sin fusionar).
+- **"JOE" es contexto-dependiente**: se resuelve a **Samoa Joe** en
+  bullets TNA 2007 / con Angle-Sting, y a **Joe Hendry** en NXT/TNA
+  2025-2026. Heurística, no infalible.
+- **Saria / Zaria**: el registro canónico no tiene ruling; el archive usa
+  ambas grafías (ZaRuca = Sol Ruca & **Zaria**; los matches del feud usan
+  *Saria*). Se cuentan **separadas** hasta ruling del Vehemiurgo — si son
+  el mismo talent, sumar ambas filas.
+- **Elio Lefleur**: tres grafías en la fuente (*Lefloire/Leflux/Lefleur*)
+  unificadas a *Elio Lefleur* sin fuente canónica confirmada.
+- **Shiloh**: variantes *Shyloh/Shylo/Shiloh* unificadas.
+- **Christian Coalition** cuenta como entidad propia; esas menciones NO
+  suman a Christian Cage individual.
+- **Managers/personalidades** (Robert Stone, Jim Cornette, Nick Aldis,
+  Paul Heyman, Don Callis, Pat McAfee…) cuentan cuando protagonizan la
+  entrada — son parte del rito, doctrina sec. 10 del notebook. Se
+  excluyen celebridades no-wrestler (Jelly Roll).

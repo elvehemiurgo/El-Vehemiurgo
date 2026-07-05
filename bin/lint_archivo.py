@@ -130,7 +130,7 @@ def check_names():
                     continue  # quotes verbatim exentos
                 lnn = norm(ln)
                 for v, canon in variants:
-                    if norm(v) in lnn:
+                    if re.search(rf"\b{re.escape(norm(v))}\b", lnn):
                         warnings.append(f"W2 {f.relative_to(ROOT)}:{i} variante \"{v}\" (canónico: {canon})")
 
 
