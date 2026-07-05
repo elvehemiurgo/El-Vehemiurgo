@@ -185,13 +185,27 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   léxico old-school al lector hispano.
 - Lista negra completa en `glossary/blacklist.md`.
 - Léxico canónico en `glossary/carny-lexicon.md`.
+- **Nombres canónicos**: `glossary/nombres-canonicos.md`. El
+  `notebook/` preserva los typos del Vehemiurgo **verbatim**; todo
+  lo demás (slugs, filenames, prosa, índices, vistas) usa el
+  canónico. Antes de crear ficha o slug, consultar el registro.
+  El lint (`bin/lint_archivo.py`) avisa variantes fuera de notebook.
 - **Sistema de clases del Vehemiurgo** (no estrellas):
   `glossary/clases-vehemiurgo.md`. Tres clases —
   *Perfect Wrestling Class*, *Fighting Spirit Class*,
   *Wrestling Entertainment Class* — con multi-clasificación
   permitida. Aplicable a entradas en `archive/matches/` y
   `archive/segments/` vía campo `clases_vehemiurgo`. Triggers de
-  chat documentados en el archivo de doctrina.
+  chat documentados en el archivo de doctrina. **Reglas operativas
+  (precedentes 2026-06-17)**: (1) vocabulario único en frontmatter
+  — slugs `perfect-wrestling` / `fighting-spirit` /
+  `wrestling-entertainment`; (2) **booking ≠ clase** — elogio al
+  diseño narrativo no asigna clase; (3) triple clase **admite
+  reserva técnica puntual** declarada junto al elogio; (4) clase
+  inferida por lectura se registra como *"asignada por lectura,
+  pendiente de ratificación"* hasta llamado explícito; (5)
+  *old-school class* = fighting-spirit, y FS aplica también a
+  promos. Skill: `/clase`.
 
 ---
 
@@ -260,6 +274,46 @@ Cuando vuelva, integro y cito.
 - Antes de marcar una pieza como lista, verifico: voz, datos, citas, ausencia
   de términos en `blacklist.md`, presencia de glosado para términos nuevos.
 
+### Infraestructura operativa (scripts, hooks, skills)
+
+- **Scripts** (`bin/` — determinísticos, correr en vez de editar a
+  mano):
+  - `bin/index_add.py <ficha>` — fila de índice desde el
+    frontmatter, inserción ordenada. **Las tablas de índice no se
+    editan a mano.**
+  - `bin/reconciliar_lista.py [--apply]` — marcas (✓) en la lista
+    personal derivadas de los índices (dry-run por defecto).
+  - `bin/lint_archivo.py` — validador (sync índices, orden, links,
+    clases, estados, panteón, nombres). Corre solo en cada commit
+    (pre-commit hook, `bin/githooks/`) y en el arranque de sesión
+    (`bin/estado-sesion.sh` vía hook SessionStart).
+- **Skills** (`.claude/skills/`): `/volcado` (pipeline completo de
+  un take), `/clase`, `/panteon`, `/future`, `/research`,
+  `/donde-quede`. Ante un take editorial del Vehemiurgo, el flujo
+  por defecto es `/volcado`.
+- **Notebooks**: `YYYY-MM-DD-sNN-slug.md` con **fecha real de
+  captura** y NN zero-padded por día. La serie legado
+  `2026-06-17-N` (sesiones 1-20) no se renombra.
+- **Renames**: todo `git mv` barre y actualiza inbound links en el
+  mismo commit (el lint detecta los rotos).
+- **Estilo de links**: `./x.md` dentro de la misma carpeta,
+  `../dir/x.md` cruzando carpetas.
+- **Vocabulario `estado`**: `stub | en-investigacion | verificado |
+  vivo | fallecido`. Nada ad-hoc.
+- **Vistas derivadas** (`lista-personal-maestra-indice`,
+  `luchadores-conteo-personal`, `eventos-watch-list-vehemiurgo`):
+  **generadas, no se editan a mano**; se regeneran (sub-agente)
+  al cierre de toda sesión que agregue fichas.
+- **Research**: ciclo único vía skill `/research` — una entrada
+  nunca queda a medias entre `pending.md` y `closed.md`; celdas de
+  closed.md ≤ ~500 caracteres (el dossier íntegro va a `dossiers/`
+  si merece preservarse).
+- **Sub-agentes de research y el muro 403**: en este environment,
+  WebFetch devuelve HTTP 403 en Cagematch/Wikipedia/wikis. Todo
+  briefing de research lo advierte: trabajar con snippets de
+  WebSearch + marcar `[no confirmado]`. (Fix real: ampliar la
+  network policy del environment en claude.ai → environments.)
+
 ### Lo que nunca hago
 - Llenar con generalidades cuando no tengo dato.
 - Inflar con adjetivos cuando falta sustancia.
@@ -268,6 +322,12 @@ Cuando vuelva, integro y cito.
   tienes...").
 - Usar términos de `blacklist.md`.
 - Entregar una pieza sin pasar por el checklist de la sección 5.
+- Editar a mano las tablas de índice o las vistas derivadas
+  (para eso están `bin/index_add.py` y la regeneración).
+- Usar variantes no canónicas de nombres fuera de `notebook/`.
+- Dejar una investigación a medias entre `pending.md` y
+  `closed.md`, o asignar clase no declarada sin marcarla
+  *"por lectura, pendiente de ratificación"*.
 
 ---
 
@@ -285,6 +345,14 @@ Cuando vuelva, integro y cito.
 | Dashboard de research delegado | `research/pending.md` + `research/closed.md` | actualizado por evento | descrito en `research/README.md` |
 
 Cada pieza arranca como `draft-` y se renombra al pasar la edición.
+
+**Templates por defecto para registro diario**:
+`templates/match-stub.md` (visión directa: blockquote-lead + cita
+verbatim + lectura sintética + clases + pendientes + cross-links) y
+`templates/fact-sheet-sesion.md` (ficha nueva stub, o **append** de
+bloque `### Sesión YYYY-MM-DD #N` a ficha existente — nunca
+reescribir lo previo). Los templates largos (`match.md`,
+`fact-sheet.md`) quedan para piezas dossier terminadas.
 
 ### Sobre el registro de matches (`archive/matches/`)
 
