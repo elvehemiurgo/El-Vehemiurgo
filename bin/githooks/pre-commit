@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Pre-commit: lint del archivo (solo errores duros). Bypass: --no-verify.
+cd "$(git rev-parse --show-toplevel)" || exit 0
+python3 bin/lint_archivo.py --pre-commit
+code=$?
+if [ $code -ne 0 ]; then
+  echo ""
+  echo "✗ lint falló — corregir antes de commitear (o git commit --no-verify)"
+fi
+exit $code
