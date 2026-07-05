@@ -729,11 +729,11 @@ mantiene visible qué queda.
 - MUSTAFA ALI AND ELIJAH PROMO VIDEO TNA Impact 12.02.2026
 - THE SYSTEM VS SANTANA, HARDYS & MOOSE TNA Impact 12.02.2026
 - JODY THREAT WINNING THE BATTLE ROYAL TNA No Surrender 13.02.2026
-- M & HEATHER BY ELEGANCE VS INDY HARTWELL & XIA BROOKSIDE TNA No Surrender 13.02.2026
+- (✓) **M & HEATHER BY ELEGANCE VS INDY HARTWELL & XIA BROOKSIDE TNA No Surrender 13.02.2026** → [`archive/matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../archive/matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md) (reconciliación automática)
 - (✓) **MICKEY JAMES RETURN TNA No Surrender 13.02.2026** → [`archive/segments/2026-02-13-mickie-james-return-tna-no-surrender.md`](../archive/segments/2026-02-13-mickie-james-return-tna-no-surrender.md) (legacy return moment)
 - ERIC YOUNG VS BDE TNA No Surrender 13.02.2026
 - JODY THREAT AND TESSA BLANCHARD BACKSTAGE PROMOS TNA No Surrender 13.02.2026
-- ARIANA GRACE VS LEI YING LEE TNA No Surrender 13.02.2026
+- (✓) **ARIANA GRACE VS LEI YING LEE TNA No Surrender 13.02.2026** → [`archive/matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md`](../archive/matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md) (reconciliación automática)
 - ARIANA GRACE PROMO BEFORE HER TITLE MATCH TNA No Surrender 13.02.2026
 - HARDYS & THE RIGHTEOUS VS ORDER 4 TNA No Surrender 13.02.2026
 - EDDIE EDWARDS & NIC NEMETH VS LION SLATHER & MIKE SANTANA TNA No Surrender 13.02.2026
@@ -1018,7 +1018,7 @@ mantiene visible qué queda.
 - RODERICK STRONG PROTECTS CASSIDY
 - CASH WHEELER PROMO AEW Dynamite 25.03.2026
 - DAVID FINLAY & CLARK CONNORS VS RODERICK STRONG & CASSIDY AEW Dynamite 25.03.2026
-- TEKLAH VS MINA SHIRAKAWA AEW Dynamite 25.03.2026
+- (✓) **TEKLAH VS MINA SHIRAKAWA AEW Dynamite 25.03.2026** → [`archive/matches/2026-03-25-thekla-vs-mina-aew-dynamite.md`](../archive/matches/2026-03-25-thekla-vs-mina-aew-dynamite.md) (reconciliación automática)
 
 ### Bloque WWE Money in the Bank 2013 (Wyatt Family debut, Christian/Kane)
 

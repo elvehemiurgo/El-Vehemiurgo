@@ -81,29 +81,49 @@ for d, f in ENTRIES:
     BY_DATE.setdefault(d, []).append(f)
 
 lines = LISTA.read_text().split("\n")
+
+# límites: solo la sección "## La lista" (verbatim), no el análisis posterior
+start = next((i for i, l in enumerate(lines) if l.startswith("## La lista")), 0)
+end = next((i for i in range(start + 1, len(lines)) if lines[i].startswith("## ")), len(lines))
+
+# archivos ya linkeados desde alguna línea (✓) no se vuelven a proponer
+ya_linkeados = set(re.findall(r"archive/(?:matches|segments)/([^)`\s]+\.md)", "\n".join(lines)))
+
+SEG_KEYS = ("PROMO", "SEGMENT", "RETURN", "VIDEO", "PACKAGE", "IN-RING", "BACKSTAGE")
+
 proposals, applied = [], 0
 for i, ln in enumerate(lines):
+    if not (start < i < end):
+        continue
     if not ln.startswith("- ") or ln.startswith("- (✓)"):
         continue
     dm = re.search(r"(\d{2})\.(\d{2})\.(\d{4})", ln)
     if not dm:
         continue
     fecha = f"{dm.group(3)}-{dm.group(2)}-{dm.group(1)}"
-    cands = BY_DATE.get(fecha, [])
+    up = ln.upper()
+    es_segment = any(k in up for k in SEG_KEYS) and " VS " not in up
+    cands = [f for f in BY_DATE.get(fecha, []) if f.name not in ya_linkeados]
+    cands = [f for f in cands
+             if (f.parent.name == "segments") == es_segment or " VS " not in up]
     if not cands:
         continue
     btoks = tokens(ln)
-    best, best_n = None, 0
+    best, best_n, best_cov = None, 0, 0.0
     for f in cands:
-        n = len(btoks & tokens(f.stem))
-        if n > best_n:
-            best, best_n = f, n
-    threshold = 2 if len(cands) > 1 else 1
-    if best and best_n >= threshold:
+        ft = tokens(f.stem)
+        n = len(btoks & ft)
+        cov = n / len(ft) if ft else 0
+        if (n, cov) > (best_n, best_cov):
+            best, best_n, best_cov = f, n, cov
+    ok = best is not None and best_cov >= 0.6 and (
+        best_n >= 2 or (best_n == 1 and len(cands) == 1 and best_cov >= 0.67))
+    if ok:
         rel = f"../archive/{best.parent.name}/{best.name}"
         texto = ln[2:].strip()
         nuevo = f"- (✓) **{texto}** → [`archive/{best.parent.name}/{best.name}`]({rel}) (reconciliación automática)"
-        proposals.append((i + 1, texto[:60], best.name, best_n))
+        proposals.append((i + 1, texto[:60], best.name, f"{best_n}/{best_cov:.2f}"))
+        ya_linkeados.add(best.name)
         if APPLY:
             lines[i] = nuevo
             applied += 1
