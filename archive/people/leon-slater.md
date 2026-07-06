@@ -196,6 +196,16 @@ Encarna distinto:
   desde el indie). Modelo de cómo construir un workhorse cuando
   hay backing TKO + paciencia de empresa.
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): TERCER Perfect Match — vs Eric Young en Sacrifice
+
+- **PW·FS·WE declarado** vs Eric Young
+  ([`../matches/2026-03-27-eric-young-vs-leon-slater-tna-sacrifice.md`](../matches/2026-03-27-eric-young-vs-leon-slater-tna-sacrifice.md))
+  — *"lucha espectacular"*. **Tercer Perfect Match del run** (tag
+  26/2 + dream rematch 5/3 + Sacrifice 27/3): tres triple-clase en
+  30 días. El *"bookeo quirúrgico"* está rindiendo a nivel
+  histórico — refuerza la expectativa de explosión a lo AJ
+  Styles / Jeff Hardy (sesión #13).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.

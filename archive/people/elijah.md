@@ -118,6 +118,18 @@ En el take Mustafa Ali run generacional, el Vehemiurgo destaca:
 - **Pieza editorial al horno**: *"La construcción del aura — cómo
   TNA 2026 repositiona a Elijah de rival musical a héroe épico"*.
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): el payoff del tag sembrado
+
+- **El tag prometido llegó**: Kazarian & AJ Francis vs **Elijah &
+  Cody Deaner** en Sacrifice
+  ([`../matches/2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md`](../matches/2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md))
+  — exactamente lo que el booking del 19/3 sembraba (sesión #17:
+  *"booking clásico para una lucha en parejas en el futuro
+  cercano"*). **La predicción aterrizó en 8 días.**
+- *"Rivales tan buenos como Elijah y Cody Deaner"* — Elijah
+  sostiene el lado babyface del programa que el Vehemiurgo llama
+  *"programación legítimamente buena"*.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado.

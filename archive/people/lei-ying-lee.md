@@ -103,6 +103,28 @@ Lei cumple parcial la doctrina
 **No caso vivo plenamente declarado** (como Ali / Dutch / Slater)
 pero cumple ejes parciales.
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): strikes cumbre + el techo del idioma
+
+> *"Lei Ying Lee ha mejorado mucho sus strikes, nunca se vieron
+> mejor, está muy bueno su acto ahora que quitó algunas cosas
+> innecesarias, y ese low pe es simplemente genial [...] pero
+> apostó por promos en japonés y eso la limita un poco como
+> babyface, porque ya tocó su techo en TNA, pero sí quiero más
+> luchas de ella"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **Progreso confirmado**: strikes al mejor nivel de su carrera +
+  acto depurado (*"quitó cosas innecesarias"* — la doctrina
+  restar-lo-innecesario rindiendo) + el lope signature *"genial"*.
+- **El techo diagnosticado**: **promos en japonés** limitan la
+  conexión babyface — *"ya tocó su techo en TNA"*. Cross-link con
+  `archive/topics/english-promo-limitation.md` (doctrina del
+  idioma como límite del acto).
+- **Demanda editorial**: *"sí quiero más luchas de ella"* — techo
+  de acto ≠ techo in-ring. Triple threat FS·WE en Sacrifice:
+  [`../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md`](../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md).
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad Xia Li WWE** → Lei Ying Lee TNA.

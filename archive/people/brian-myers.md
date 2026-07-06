@@ -74,6 +74,20 @@ tags: [brian-myers, ex-curt-hawkins-wwe, ex-major-brothers-edgeheads, losing-str
   como **arquitecto vocal** del setup hardcore. Su promo
   backstage construye el match.
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): recomendación de push — la imagen de The System
+
+> *"especialmente Brian Myers, que de verdad deberían darle push
+> para que sea la imagen para The System, esto puede ser algo
+> cool, son workhorses muy duros"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **RECOMENDACIÓN DE BOOKING explícita**: push a Myers como **cara
+  de The System**. Escala sobre el *"top tier entertainer"* de la
+  sesión #18.
+- **Workhorse duro** — cross-link doctrina workhorse; candidato a
+  Caso Vivo si el push llega.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de nacimiento + confirmación Long Island.

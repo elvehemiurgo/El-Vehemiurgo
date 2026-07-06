@@ -118,6 +118,33 @@ tags: [the-system, eddie-edwards-leader, brian-myers, bear-bronson, alisha-edwar
 - Tradicionalmente TNA permite *outside dates* (NJPW, AEW, indies)
   — cláusula histórica del modelo Anthem.
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): era corporativa + push Myers + plataforma
+
+> *"Otro booking genial es el de The System, realmente usando a
+> los Hardys a su favor [...] Eddie tiene dinero invertido en TNA
+> así que lo de ser el sistema sí tiene mucha sustancia para el
+> booking, y hacer una era corporativa muy cool [...] es una gran
+> plataforma para Bear y Cedric [...] en Sacrifice en su promo
+> antes de la lucha se vieron full tag team, el outfit la actitud
+> todo estuvo muy bien cuidado, y es una rivalidad de ensueño con
+> The Hardys"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **Tesis "era corporativa"**: si *"Eddie tiene dinero invertido
+  en TNA"* [verif — shoot info, confirmar fuente], el gimmick
+  *"ser el sistema"* tiene **sustancia real** — kayfabe apoyado en
+  hecho. Pieza editorial al horno: *"The System como era
+  corporativa — cuando el gimmick es verdad"*.
+- **Push recomendado**: Brian Myers como imagen de la faction.
+- **Plataforma para Bear (Bronson) y Cedric** [verif relación
+  exacta de Cedric Alexander con la faction].
+- **Presentación cuidada**: promo pre-match en Sacrifice *"full
+  tag team"* — outfit + actitud. El detalle estético como parte
+  del acto.
+- **Rivalidad de ensueño con The Hardys** — invierte la tesis
+  Hardys-plataforma: acá el rub fluye en ambas direcciones.
+
 ## Pendientes / huecos
 
 - [ ] **Identidad real de JDC** — la ficha previa decía "Frankie

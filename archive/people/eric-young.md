@@ -77,6 +77,19 @@ tags: [eric-young, tna-legacy-2004-presente, ex-impact-world-champion, ex-roode-
   como **protagonista**. Apertura prioritaria cuando el Vehemiurgo
   decida.
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): Perfect Match vs Slater
+
+> *"quiero darle a EY vs Lion Slaatter todas las clases, de verdad
+> es una lucha espectacular"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **Perfect Match en Sacrifice** vs Leon Slater
+  ([`../matches/2026-03-27-eric-young-vs-leon-slater-tna-sacrifice.md`](../matches/2026-03-27-eric-young-vs-leon-slater-tna-sacrifice.md))
+  — la **Rama 1 del árbol entrega también in-ring**, no solo en
+  mic: el veterano-mentor elevando al presente de la empresa a
+  triple clase.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).

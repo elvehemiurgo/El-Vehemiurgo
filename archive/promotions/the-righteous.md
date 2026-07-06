@@ -93,6 +93,17 @@ tags: [the-righteous, vincent-marseglia, dutch-bill-carr, bateman-tercero, paran
   Ver
   [`../topics/hardys-como-plataforma-mentor.md`](../topics/hardys-como-plataforma-mentor.md).
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): reconocimiento in-ring
+
+> *"y The Righteous que hay que ser justos y admitir que han
+> estado poniendo luchas muy buenas"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **El test de la tesis Hardys-plataforma avanza bien**: del
+  *"acto cool"* (sesión #6) a *"luchas muy buenas"* sostenidas.
+  La consolidación in-ring está ocurriendo.
+
 ## Pendientes / huecos
 
 - [x] Carrera Dutch + Vincent confirmadas (sub-agente 2026-06-17).

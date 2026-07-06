@@ -115,6 +115,19 @@ triángulo Ethan / Ricky / Joe"* + posible pieza específica
 *"Joe Hendry y el carny musical: cómo el gimmick que la audiencia
 canta sobrevivió al call-up WWE"*.)
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): la transición inicial del crossover
+
+> *"en parte gracias a que Joe Hendry fue la transición inicial y
+> su booking dejó espacio para otro babyface que represente la
+> marca TNA al 100%"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **Rol estructural reconocido**: Hendry abrió el camino del
+  crossover TNA↔NXT y su call-up dejó el slot de babyface-marca
+  a Mike Santana. Booking de transición bien diseñado — pieza que
+  sirve al ecosistema aun al irse.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas TNA World Title run.

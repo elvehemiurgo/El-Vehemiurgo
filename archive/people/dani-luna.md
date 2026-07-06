@@ -122,6 +122,27 @@ tags: [dani-luna, british-power-wrestler, deadlifts-signature, tna-knockouts-202
 | Sadismo gestual (chain) | **Eliminar** | NO Slamovich, NO Killer Kelly |
 | Presencia silenciosa dominante | **Construir** | Samoa Joe (modelo) |
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): ya no promesa — el sweet spot pendiente
+
+> *"Dani Luna, que debe aprovechar este booking para pulir su acto
+> de monster heel, porque es muy buena en el ring, ya no es tanto
+> una joven promesa, pero no ha alcanzado ese sweet spot como
+> monster heel atlético que necesita, pero TNA nos ha dado muy
+> buenas luchas con Dani Luna"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **Cambio de estatus**: *"ya no es tanto una joven promesa"* — la
+  ventana de desarrollo se acorta. El roadmap de la sesión #9
+  (modelo Samoa Joe / Scott Norton, fuera el chain-sadismo) sigue
+  vigente y ahora **con urgencia**.
+- **El objetivo nombrado**: el *"sweet spot como monster heel
+  atlético"* — todavía no alcanzado, pero el in-ring está (*"muy
+  buena en el ring"*, *"TNA nos ha dado muy buenas luchas con
+  ella"*).
+- Triple threat FS·WE en Sacrifice:
+  [`../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md`](../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad británica de origen.

@@ -39,6 +39,9 @@ con cada cambio de estado.
 | 2026-04-01 | MJF vs Speedball Mike Bailey | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
 | 2026-04-01 | PAC vs Will Ospreay | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-04-01-pac-vs-ospreay-aew-dynamite.md) |
 | 2026-03-28 | Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana | WWE AAA / AAA Rey de Reyes Week 2 | — | en-investigacion | 1 | [→](2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md) |
+| 2026-03-27 | Triple threat — TNA Knockouts World Championship (Arianna Grace (c) vs Lei Ying Lee vs Dani Luna [verif lineup]) | TNA Wrestling / Sacrifice 2026 | FS·WE | stub | 1 | [→](2026-03-27-triple-threat-kos-title-tna-sacrifice.md) |
+| 2026-03-27 | Frankie Kazarian & AJ Francis vs Elijah & Cody Deaner | TNA Wrestling / Sacrifice 2026 | — | stub | 1 | [→](2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md) |
+| 2026-03-27 | Eric Young vs Leon Slater | TNA Wrestling / Sacrifice 2026 | PW·FS·WE | stub | 1 | [→](2026-03-27-eric-young-vs-leon-slater-tna-sacrifice.md) |
 | 2026-03-27 | Giulia vs Tiffany Stratton | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-03-27-giulia-vs-tiffany-stratton-smackdown.md) |
 | 2026-03-27 | Carmelo Hayes vs Sami Zayn | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-03-27-carmelo-hayes-vs-sami-zayn-smackdown.md) |
 | 2026-03-26 | Six-Woman Tag — Tessa, Myla Grace & Harley Hudson vs [trío] | TNA / Thursday Night iMPACT | FS·WE | stub | 1 | [→](2026-03-26-six-woman-tag-tessa-myla-grace-hudson-tna-impact.md) |

@@ -85,6 +85,21 @@ tags: [aj-francis, ex-top-dolla-wwe-hit-row, ex-nfl-player, tna-2025-2026-heel-m
   con el talent** (rapper + NFL + lujo) — abraza la naturaleza
   propia.
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): el kayfabe polémico como activo principal
+
+> *"AJ ha tenido segmentos malos y difíciles, pero en general su
+> kayfabe es interesante, polémico y lo usa como su activo más
+> importante y sí le está metiendo a las promos"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **Diagnóstico honesto**: segmentos malos y difíciles registrados
+  — pero el **kayfabe polémico es su activo #1** y está invirtiendo
+  en promos. Trayectoria ascendente con baches.
+- **Dupla heel con Kazarian** — *"dispuestos a romper el techo de
+  TNA este año"*. Tag en Sacrifice:
+  [`../matches/2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md`](../matches/2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha exacta de nacimiento.

@@ -91,6 +91,33 @@ sustancia eventualmente llega**. Cumple doctrina workhorse
 ([→](../topics/doctrina-workhorse-vivir-como-wrestlers.md)) —
 vivió como wrestler, abrazó su naturaleza, esperó.
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): crecimiento completo + arc cerrado
+
+> *"Santana creció como performer en todas las esferas que le
+> faltaban, ahora es un wrestler confiable para cualquier idea,
+> especialmente como babyface, que es el camino difícil, ha logrado
+> llegar al público y salir muy bien parado del crossover con NXT
+> [...] incluso con la decisión de quitarle el título y tenerlo
+> como retador con Trick Williams"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **El arc del caso testigo se cierra del todo**: de *"breakout
+  tardío"* (sesión #5) → main eventer presente (#8) → **"performer
+  completo, confiable para cualquier idea"** (s01). Trilogía
+  editorial completa.
+- **Babyface = el camino difícil, superado** — caso éxito de la
+  pieza al horno *"por qué el babyface es el rol más difícil"*.
+- **Datos de booking nuevos [verif]**: fue TNA World Champion, el
+  título le fue removido, ahora **retador vs Trick Williams**
+  (crossover NXT); Joe Hendry fue la transición inicial que le
+  dejó el espacio de babyface 100% marca TNA. *"El timing estuvo
+  muy bueno"* — el ángulo *"dejó a TNA muy nutrida"*.
+- **Promo en Sacrifice = WE class**:
+  [`../segments/2026-03-27-mike-santana-promo-tna-sacrifice.md`](../segments/2026-03-27-mike-santana-promo-tna-sacrifice.md).
+- **Candidato panteón**: ya excede la lista prospectiva; pregunta
+  abierta al Vehemiurgo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

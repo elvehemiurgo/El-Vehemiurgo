@@ -207,6 +207,30 @@ de pieces secundarias**:
 Arianna como champion crea oportunidad para que el resto de la
 Knockouts division tenga arc claro (chasers vs la heel champ).
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): heel hecha para TV, sin atajos
+
+> *"Arianna Grace, que es un buen heel, está hecha para TV, y de
+> verdad quiere vender una buena lucha, no la veo tomando atajos,
+> y su progreso en TNA ha sido muy rápido, ella ha adquirido un
+> filo in-ring muy bueno en TNA pero todavía falta pulir, igual
+> las KOs que trabajen con ella deben aprender a ser entertainers
+> o a cortar promos, y hacer realidad su booking"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **Progreso sobre el diagnóstico #10**: de *"le falta elevar su
+  juego in-ring, es lo único que le falta"* → **"ha adquirido un
+  filo in-ring muy bueno"** (falta pulir, pero la dirección es
+  correcta). El proyecto avanza como el Vehemiurgo esperaba.
+- ***"No la veo tomando atajos"*** — integridad del oficio pese al
+  gimmick heel-de-atajos (el personaje hace trampa; la performer
+  no).
+- **Requisito para sus rivales**: las KOs que trabajen con ella
+  deben ser entertainers / saber promos — el acto de Arianna exige
+  interlocutoras a la altura del booking.
+- Triple threat FS·WE en Sacrifice:
+  [`../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md`](../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real definitivo + fecha y lugar de nacimiento.

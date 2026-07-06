@@ -181,6 +181,23 @@ a por qué el booking-first sobre workrate-first sostiene
 shows** — el reign vende boletos no por estrellas Meltzer,
 sino por **character + storyline + identidad de brand**.
 
+### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): heel que quiere romper el techo
+
+> *"son heels muy entretenidos [...] siempre aseguran buenos
+> segmentos, especialmente Kaz que sabe lo bueno que es en TV
+> constantemente [...] se ven dispuestos a romper el techo de TNA
+> este año"*
+>
+> — El Vehemiurgo, 2026-07-05 s01 (verbatim)
+
+- **Dupla heel con AJ Francis** — build *"camino a Sacrifice"*
+  elogiado como *"programación legítimamente buena"*; tag vs
+  Elijah & Cody Deaner (payoff del booking sembrado el 19/3):
+  [`../matches/2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md`](../matches/2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md).
+- ***"Sabe lo bueno que es en TV constantemente"*** — la
+  autoconciencia del veterano como asset. Beneficiado además del
+  ángulo del título (Santana/Trick) [verif lineage].
+
 ## Pendientes / huecos
 
 - [ ] **Christopher Daniels + Kaz Bad Influence run TNA** —
