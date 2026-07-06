@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: promotions
 slug: the-righteous
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (declaración acto cool TNA + Dutch talentazo)"
   - "Sub-agente dutch-bill-carr-carrera-completa-2026 (research 2026-06-17, closed)"
@@ -103,6 +103,25 @@ tags: [the-righteous, vincent-marseglia, dutch-bill-carr, bateman-tercero, paran
 - **El test de la tesis Hardys-plataforma avanza bien**: del
   *"acto cool"* (sesión #6) a *"luchas muy buenas"* sostenidas.
   La consolidación in-ring está ocurriendo.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-07-05 s02 (adenda) — El empaque de promo no cierra
+
+**Cita verbatim**:
+
+> *"The Righteous no temrina [sic] de cerrar en promos cool, si
+> tienen su estilo pero no es necesariamente muy cool, podrían
+> hacerlo algo más marketeable"*
+>
+> — El Vehemiurgo, 2026-07-05 s02 adenda (verbatim)
+
+**Lectura sintética**: contraste con el expediente in-ring (s01:
+*"han estado poniendo luchas muy buenas"*). El acto funciona en el
+ring pero el empaque verbal no vende: tienen estilo propio, no
+*cool* marketeable. Diagnóstico de merch/draw, no de oficio — la
+lógica vieja: si el gimmick no conecta, no vende, y la promo es la
+vitrina del gimmick.
 
 ## Pendientes / huecos
 

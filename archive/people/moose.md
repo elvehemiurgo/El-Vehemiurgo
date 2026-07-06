@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: moose
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #15 (diagnóstico pumpkick repetitivo + vicios thighslap)"
   - "Lista personal verbatim: 5+ entradas Moose 2025-2026"
@@ -125,6 +125,21 @@ del **Perfect Match first time ever** del arc vs The System:
 - Refuerza la lectura babyface (#16): el arc vs The System es su
   mejor vehículo.
 - Match: [`../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md).
+
+### Sesión 2026-07-05 s02 — vs Eddie en Sacrifice: corta, cargada por el storyline
+
+**Cita verbatim**:
+
+> *"Luego Moose vs Eddie fue corta y por el storyline pero
+> entretenido [sic]"*
+>
+> — El Vehemiurgo, 2026-07-05 s02 (verbatim)
+
+**Lectura sintética**: cuarto capítulo del arc Moose vs The System
+(Myers 19/2 → Cedric 12/3 → Bear 26/3 → el líder en Sacrifice).
+Match corto que funciona *por* la historia — la escalera se subió
+en orden. Ver
+[`../matches/2026-03-27-moose-vs-eddie-edwards-tna-sacrifice.md`](../matches/2026-03-27-moose-vs-eddie-edwards-tna-sacrifice.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: promotions
 slug: the-system
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #12 (declaración árbol de aprendizaje — *'todo The System'*)"
   - "Lista personal verbatim: 8+ entradas The System 2025-2026"
@@ -72,6 +72,28 @@ tags: [the-system, eddie-edwards-leader, brian-myers, bear-bronson, alisha-edwar
 - **Cross-link**: dialoga con la tesis
   [`../topics/hardys-como-plataforma-mentor.md`](../topics/hardys-como-plataforma-mentor.md)
   — The System opera en el mismo cluster mentor.
+
+### Sesión 2026-07-05 s02 — Sacrifice: el trios masterpiece + Cedric confirmado
+
+**Cita verbatim**:
+
+> *"no Bear, Cedric y Myers ganan su lucha en una muy buena lucha,
+> merece todas las clases, otra masterpiece de Myers y los Hardys;
+> todo esto en Sacrifice"*
+>
+> — El Vehemiurgo, 2026-07-05 s02 (verbatim)
+
+**Lectura sintética**:
+
+1. **Cedric Alexander confirmado del lado System en acción**
+   (resuelve el [verif] de s01; estatus formal pendiente).
+2. La faction sale de Sacrifice con victoria de trios PW·FS·WE
+   sobre los Hardys y con su líder Eddie Edwards absorbiendo el
+   main event roto (lesión de Maclin) y el build a Rebellion
+   (pin doble al campeón, 2/4).
+3. El push de Myers a imagen de la faction ya tiene expediente.
+   Ver
+   [`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md).
 
 ## Composición histórica (2024-2025) — merge de la ficha previa
 

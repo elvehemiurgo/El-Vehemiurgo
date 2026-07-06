@@ -64,7 +64,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 16 | **Hazuki** | Joshi (STARDOM/FWC) | [→](../people/hazuki.md) |
 | 17 | **Austin Aries** *(alta 2026-06-17 R2)* | Worker de oficio (ROH/TNA/WWE — *A Double*) | _(ficha pendiente)_ |
 | 18 | **Arn Anderson** | Worker de oficio (enforcer / Horsemen) | _(ficha pendiente)_ |
-| 19 | **Matt Hardy** | Daredevil / longevidad carny | _(ficha pendiente)_ |
+| 19 | **Matt Hardy** | Daredevil / longevidad carny | [→](../people/matt-hardy.md) |
 | 20 | **Mark "Rollerball" Rocco** | British / Wigan-Japan (Black Tiger) | [→](../people/mark-rocco.md) |
 | 21 | **Shawn Michaels** | Worker de oficio (showman técnico) | _(ficha pendiente)_ |
 | 22 | **HHH (Triple H)** | Carny / booker-talent | _(ficha pendiente)_ |

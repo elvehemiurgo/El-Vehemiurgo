@@ -36,9 +36,14 @@ con cada cambio de estado.
 | 2026-04-04 | Sol Ruca vs Saria | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
 | 2026-04-04 | Jacy Jayne vs Kendal Grey vs Lola Vice — triple threat | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
 | 2026-04-04 | Ethan Page vs Ricky Saints vs Joe Hendry vs Tony D'Angelo — fatal 4-way | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
+| 2026-04-02 | Multi-man opener — Mustafa Ali, Eddie Edwards y más [verif lineup] | TNA Wrestling / iMPACT! | PW·FS·WE | stub | 1 | [→](2026-04-02-multi-man-opener-tna-impact.md) |
 | 2026-04-01 | MJF vs Speedball Mike Bailey | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
 | 2026-04-01 | PAC vs Will Ospreay | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-04-01-pac-vs-ospreay-aew-dynamite.md) |
 | 2026-03-28 | Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana | WWE AAA / AAA Rey de Reyes Week 2 | — | en-investigacion | 1 | [→](2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md) |
+| 2026-03-27 | Main event de Sacrifice — Steve Maclin vs [verif] (lesión de Maclin) | TNA Wrestling / Sacrifice 2026 | — | stub | 1 | [→](2026-03-27-main-event-lesion-steve-maclin-tna-sacrifice.md) |
+| 2026-03-27 | Moose vs Eddie Edwards | TNA Wrestling / Sacrifice 2026 | — | stub | 1 | [→](2026-03-27-moose-vs-eddie-edwards-tna-sacrifice.md) |
+| 2026-03-27 | Bear Bronson, Cedric Alexander & Brian Myers vs The Hardys & [verif tercero] — trios | TNA Wrestling / Sacrifice 2026 | PW·FS·WE | stub | 1 | [→](2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md) |
+| 2026-03-27 | Mustafa Ali & Tasha Steelz vs Trey Miguel & Jada Stone — mixed tag [verif configuración] | TNA Wrestling / Sacrifice 2026 | FS·WE | stub | 1 | [→](2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md) |
 | 2026-03-27 | Triple threat — TNA Knockouts World Championship (Arianna Grace (c) vs Lei Ying Lee vs Dani Luna [verif lineup]) | TNA Wrestling / Sacrifice 2026 | FS·WE | stub | 1 | [→](2026-03-27-triple-threat-kos-title-tna-sacrifice.md) |
 | 2026-03-27 | Frankie Kazarian & AJ Francis vs Elijah & Cody Deaner | TNA Wrestling / Sacrifice 2026 | — | stub | 1 | [→](2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md) |
 | 2026-03-27 | Eric Young vs Leon Slater | TNA Wrestling / Sacrifice 2026 | PW·FS·WE | stub | 1 | [→](2026-03-27-eric-young-vs-leon-slater-tna-sacrifice.md) |

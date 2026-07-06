@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: trey-miguel
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #12 (*'babyface cool, un poco cringe a veces, pero sólido'*)"
   - "Lista personal verbatim: 3 entradas Trey 2025-2026"
@@ -59,6 +59,19 @@ tags: [trey-miguel, ex-rascalz, ex-tna-x-division-champion, tna-2025-2026-babyfa
    bien hecho"*.
 3. ***"Pero es sólido"*** — el saldo final es positivo. **Trey
    está en el árbol** (rama promesas) pese a los cringes.
+
+### Sesión 2026-07-05 s02 — Química con Ali
+
+**Cita verbatim**:
+
+> *"y con Trey Miguel tiene muy buena química"*
+>
+> — El Vehemiurgo, 2026-07-05 s02 (verbatim)
+
+**Lectura sintética**: la química Ali–Trey queda declarada en el
+mixed tag de Sacrifice (FS + WE por lectura) — programa singles
+latente si TNA quiere capitalizarla. Ver
+[`../matches/2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md`](../matches/2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md).
 
 ## Pendientes / huecos
 

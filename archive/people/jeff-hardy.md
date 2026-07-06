@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jeff-hardy
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Panteón de héroes fundamentales del Vehemiurgo (Dios del Wrestling #5)"
   - "Volcado Vehemiurgo 2026-06-17 #13 (modelo de poses babyface para Slater) + #19 (match vs Myers TNA 26/3)"
@@ -91,6 +91,21 @@ carny + daredevil de Jeff pesa más en su criterio.
   vs casos MNM / American Wolves (no consolidaron). Ver
   [`../topics/hardys-como-plataforma-mentor.md`](../topics/hardys-como-plataforma-mentor.md).
 - **Rama mentor del árbol de aprendizaje TNA 2026** (#12).
+
+### Sesión 2026-07-05 s02 (adenda) — Buenas líneas en la promo del 2/4
+
+**Cita verbatim**:
+
+> *"Jeff tuvo una buena participacion ntambine [sic], tiene buenas
+> lineas"*
+>
+> — El Vehemiurgo, 2026-07-05 s02 adenda (verbatim)
+
+**Lectura sintética**: en la promo de Impact 2/4 (donde Matt es el
+techo del mic de TNA), Jeff cumple como complemento verbal — no es
+el orador del equipo pero aporta líneas buenas. El reparto de
+roles del tag veterano aplica también al mic. Ver
+[`../segments/2026-04-02-matt-hardy-promo-tna-impact.md`](../segments/2026-04-02-matt-hardy-promo-tna-impact.md).
 
 ## Pendientes / huecos
 

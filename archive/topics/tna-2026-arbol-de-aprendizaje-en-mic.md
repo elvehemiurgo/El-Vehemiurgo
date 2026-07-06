@@ -53,7 +53,7 @@ Veteranos que **enseñan en tiempo real** dentro del producto TNA.
 | **The Hardys** *(Jeff + Matt)* | Cuatro décadas de presencia. Mentor activo de The Righteous (cross-link [`./hardys-como-plataforma-mentor.md`](./hardys-como-plataforma-mentor.md)). | _(ficha pendiente — panteón Dios #5 + Tier 2 #19)_ |
 | **The Righteous** *(Vincent + Dutch)* | Aprendiendo de los Hardys, también enseñando (Dutch como modelo super-heavyweight oldschool). | [→](../promotions/the-righteous.md) |
 | **The Grizzled Young Veterans (GYV)** *(Zack Gibson + James Drake)* | *"Grizzled hands siempre efectivos"*. Mentoring activo de **Jason Hotch**. Zack Gibson en panteón Fund #26. | _(ficha pendiente)_ |
-| **Tasha Steelz** | *"Siempre efectiva"*. Mentora activa de Jason Hotch. | _(ficha pendiente)_ |
+| **Tasha Steelz** | *"Siempre efectiva"*. Mentora activa de Jason Hotch. | [→](../people/tasha-steelz.md) |
 
 ### Rama 2 — Talents en tránsito (adoptaron el nivel)
 

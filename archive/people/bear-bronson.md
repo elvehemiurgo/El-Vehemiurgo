@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: bear-bronson
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #19 (match vs Moose FS)"
   - "The System roster (KO Tag Champion con Brian Myers, Rebellion 2026)"
@@ -44,6 +44,21 @@ En el take del cross-booking 26/3, Bear vs Moose recibe FS class
 (junto con Myers vs Jeff Hardy). Big men en combate físico —
 cross-link con el gusto declarado del Vehemiurgo por *"big guys
 really going at it"* (sesión Dutch #6).
+
+### Sesión 2026-07-05 s02 — Victoria en el trios Perfect Match de Sacrifice
+
+**Cita verbatim**:
+
+> *"no Bear, Cedric y Myers ganan su lucha en una muy buena lucha,
+> merece todas las clases, otra masterpiece de Myers y los Hardys"*
+>
+> — El Vehemiurgo, 2026-07-05 s02 (verbatim)
+
+**Lectura sintética**: la "plataforma para Bear" declarada en s01
+rinde: victoria en trios PW·FS·WE contra los Hardys en PPV, a un
+día de su singles FS vs Moose (26/3). Semana grande del proyecto
+Bronson. Ver
+[`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md).
 
 ## Pendientes / huecos
 

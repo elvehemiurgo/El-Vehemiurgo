@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mustafa-ali
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (declaración 'run generacional + uno de los mejores + selling legendario nivel AJ Styles y Nic Nemeth')"
   - "Lista personal verbatim: 7 entradas TNA 2025-2026 (Ali post-WWE arc)"
@@ -138,6 +138,35 @@ tags: [mustafa-ali, ex-wwe-204-live, tna-2025-2026-run-generacional, heel-protag
 | **Talents post-WWE con autonomía creativa** | Cody Rhodes (AEW founding) + Christian Cage (AEW resurgence) + ahora Ali TNA. |
 | **Booking calibrado TNA 2025-2026** | Junto con cluster Elegance Brand + Arianna Grace + The Righteous = TNA como **empresa bien bookeada en 2026** (lectura sostenida del Vehemiurgo). |
 | **¿Panteón / The Future in 2026?** | **PENDIENTE declaración del Vehemiurgo.** Está más allá de prospecto (*"uno de los mejores"* = cumbre actual, no proyección futura). Candidato fuerte a panteón si el Vehemiurgo lo declara explícitamente. |
+
+### Sesión 2026-07-05 s02 — Protegido modelo Tessa + el tag corregido
+
+**Cita verbatim**:
+
+> *"obviamente lo están poniendo en storylines donde lo protejan,
+> guardándolo para la oportunidad perfecta para hacer algo en el
+> main event, algo así como Tessa Blanchard; pero siempre pone
+> buenas luchas, siempre [...] estuvo en un spot donde Ali le
+> corrige el tag, y es genial ver a un luchador así hacer respetar
+> lo oldschool y las reglas, ese debería ser el modelo para los
+> nombres nuevos"*
+>
+> — El Vehemiurgo, 2026-07-05 s02 (verbatim)
+
+**Lectura sintética**:
+
+1. **Protección deliberada estilo Tessa Blanchard** — storylines
+   que lo guardan para el momento main event. Booking de activo,
+   no de relleno.
+2. **El enforcer de reglas in-match** — corrige el tag de Tasha en
+   vivo: *"el modelo para los nombres nuevos"*. Doctrina: respetar
+   la regla ES parte del acto (mismo eje que el irish whip
+   correcto). Pieza al horno: *"el veterano como enforcer de las
+   reglas"*.
+3. En el multi-man del 2/4, el booking y posicionamiento de Ali
+   vuelve a ser elogiado — dos shows seguidos.
+   Ver [`../matches/2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md`](../matches/2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md)
+   y [`../matches/2026-04-02-multi-man-opener-tna-impact.md`](../matches/2026-04-02-multi-man-opener-tna-impact.md).
 
 ## Pendientes / huecos
 

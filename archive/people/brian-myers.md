@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: brian-myers
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #18 (Perfect Match vs Moose first time ever + losing streak referencia)"
   - "Lista personal verbatim: entradas The System 2025-2026"
@@ -87,6 +87,22 @@ tags: [brian-myers, ex-curt-hawkins-wwe, ex-major-brothers-edgeheads, losing-str
   sesión #18.
 - **Workhorse duro** — cross-link doctrina workhorse; candidato a
   Caso Vivo si el push llega.
+
+### Sesión 2026-07-05 s02 — "Otra masterpiece" en Sacrifice
+
+**Cita verbatim**:
+
+> *"una muy buena lucha, merece todas las clases, otra masterpiece
+> de Myers y los Hardys"*
+>
+> — El Vehemiurgo, 2026-07-05 s02 (verbatim)
+
+**Lectura sintética**: tercer registro cumbre en seis semanas
+(Perfect Match vs Moose 19/2 → FS vs Jeff Hardy 26/3 → trios
+PW·FS·WE en Sacrifice 27/3, **con victoria**). El expediente
+in-ring para el push a imagen de The System que el Vehemiurgo
+recomendó en s01 ya está completo. Ver
+[`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md).
 
 ## Pendientes / huecos
 

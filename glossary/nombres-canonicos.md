@@ -23,6 +23,7 @@
 | Indi Hartwell | Indy Hartwell |
 | Mark Rocco | Marc Rocko, Mark Rocko |
 | Kelani Jordan | Kelany Jordan |
+| Jada Stone | Jaida Stone |
 
 ## Atención — contexto-dependientes (no linteados)
 

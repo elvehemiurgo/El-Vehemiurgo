@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: cedric-alexander
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #15 (*'Cedric también lo mantiene real'* — estabilizador técnico del match anchor FS)"
   - "Lista personal verbatim: 6 entradas Cedric Alexander 2025-2026"
@@ -75,6 +75,21 @@ tags: [cedric-alexander, ex-wwe-205-live-cruiserweight-champion, ex-the-hurt-bus
   vicios.
 - **Cumple ejes doctrina**: vive como wrestler + oficio
   sostenible + sin showman vacío.
+
+### Sesión 2026-07-05 s02 — Alineación con The System confirmada en acción
+
+**Cita verbatim**:
+
+> *"no Bear, Cedric y Myers ganan su lucha en una muy buena lucha,
+> merece todas las clases"*
+>
+> — El Vehemiurgo, 2026-07-05 s02 (verbatim)
+
+**Lectura sintética**: el [verif] de s01 queda resuelto — Cedric
+trabaja (y gana) el trios de Sacrifice del lado de The System, en
+un Perfect Match. De estabilizador técnico suelto a pieza de la
+faction [estatus formal — verif]. Ver
+[`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md).
 
 ## Pendientes / huecos
 
