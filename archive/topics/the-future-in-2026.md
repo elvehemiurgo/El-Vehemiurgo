@@ -150,6 +150,12 @@ Cuando se sumen más nombres, se agregan secciones #3, #4, etc.
 declaración**, no jerarquía de mérito (excepto que M by Elegance es
 explícitamente *encabeza la lista*).
 
+### Considerados y descartados
+
+| Nombre | Fecha | Veredicto verbatim |
+|---|---|---|
+| **Jada Stone** | 2026-07-09 | *"es buena, pero no tiene ese extra [...] su estilo no me parece el futuro, es muy indie [...] no se me hace un prospecto tan emocionante o tan completo como los otros de la lista"*. Linaje: Candice LeRae / Nixon Newell indies. Pronóstico falsable: *"no creo que destaque mucho"*. [→](../people/jada-stone.md) |
+
 ## Pendientes
 
 - [ ] Confirmar match exacto / segment de M by Elegance en No

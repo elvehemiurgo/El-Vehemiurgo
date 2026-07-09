@@ -1,7 +1,7 @@
 ---
 match: "Multi-man opener — Mustafa Ali, Eddie Edwards y más [verif lineup]"
 slug: "2026-04-02-multi-man-opener-tna-impact"
-participantes: ["Mustafa Ali", "Eddie Edwards", "[verif resto del lineup]"]
+participantes: ["Mustafa Ali", "Eddie Edwards", "Mike Santana", "[verif resto del lineup]"]
 empresa: "TNA Wrestling"
 programa: "iMPACT!"
 fecha: 2026-04-02
@@ -10,7 +10,7 @@ recinto: "[verif]"
 tipo_match: "multi-man [verif formato]"
 estipulacion: "[verif]"
 duracion: "[verif]"
-finish: "[verif — Eddie pinea al campeón]"
+finish: "[verif — Eddie pinea a Mike Santana, el campeón (declarado 2026-07-09)]"
 ganador: "[verif]"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Increíble — todas las clases. 'Todo salió perfecto, cada miembro aquí merece una medalla'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02 (visión directa — TNA Impact 2/4/2026)"
-tags: [mustafa-ali, eddie-edwards, tna-impact-2026, multi-man, opener, perfect-match, fighting-spirit, wrestling-entertainment, pin-al-campeon, build-rebellion, posicionamiento-de-heels]
+tags: [mustafa-ali, eddie-edwards, mike-santana, tna-impact-2026, multi-man, opener, perfect-match, fighting-spirit, wrestling-entertainment, pin-al-campeon, build-rebellion, posicionamiento-de-heels]
 ---
 
 # Multi-man opener — TNA Impact (2 abr 2026)
@@ -48,7 +48,7 @@ tags: [mustafa-ali, eddie-edwards, tna-impact-2026, multi-man, opener, perfect-m
 1. **El pin doble al campeón como build clásico** — el challenger
    pinea al campeón en no-title/multi-man antes del PPV: fórmula
    territorial pura para vender el main event de Rebellion sin
-   quemar el título. [verif campeón — ¿Trick Williams?].
+   quemar el título. **El campeón pineado es Mike Santana** (declarado por el Vehemiurgo, 2026-07-09) [verif cronología del título — research abierto].
 2. **Posicionamiento de heels** — el multi-man como herramienta
    para acomodar a toda la baraja en un solo segmento sin enterrar
    a nadie: *"cada miembro merece una medalla"* = nadie se perdió
@@ -62,12 +62,14 @@ tags: [mustafa-ali, eddie-edwards, tna-impact-2026, multi-man, opener, perfect-m
 ## Pendientes
 
 - [ ] Lineup completo + formato (¿número 1 contender match?).
-- [ ] Campeón pineado [verif — ¿Trick Williams?] + finish exacto.
+- [x] Campeón pineado — **Mike Santana** (declarado 2026-07-09).
+- [ ] Finish exacto + cronología del título de Santana [research abierto].
 - [ ] Resultado de Rebellion 11/4 — tracking del payoff.
 
 ## Cross-links
 
 - [`../people/mustafa-ali.md`](../people/mustafa-ali.md) ·
+  [`../people/mike-santana.md`](../people/mike-santana.md) ·
   [`../people/eddie-edwards.md`](../people/eddie-edwards.md)
 - [`./2026-03-27-main-event-lesion-steve-maclin-tna-sacrifice.md`](./2026-03-27-main-event-lesion-steve-maclin-tna-sacrifice.md)
   — el antecedente inmediato del build de Eddie.

@@ -139,8 +139,8 @@ del Impact 2/4/2026** (Perfect Match declarado).
 
 ## Próximos pasos
 
-- [ ] **Ratificación de la WE del mixed tag** ("world class" →
-      ¿Wrestling Entertainment?) — preguntar al Vehemiurgo.
+- [x] **Ratificación de la WE del mixed tag** — ratificada el
+      2026-07-09 (ver notebook 2026-07-09-s01).
 - [ ] [verif] configuración exacta del mixed tag + tercero de los
       Hardys en el trios + participantes/campeón del main event +
       lineup del multi-man 2/4.

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: "eddie-edwards"
 estado: stub
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 y s02"
   - "Volcado Vehemiurgo 2026-06-17 (panteón Tier 2 #11 — American Wolves)"
@@ -64,6 +64,20 @@ tags: [eddie-edwards, tna, the-system, lider-de-faction, american-wolves, panteo
 3. Con el take de s01 (*"dinero invertido en TNA"*, era
    corporativa), Eddie es hoy el eje heel adulto de TNA: faction
    líder, plataforma de talentos, main events.
+
+### Sesión 2026-07-09 s01 — El pineado es Santana
+
+**Cita verbatim**:
+
+> *"me referia a Eddie haciendole pin a Santana en luchas multi
+> man"*
+>
+> — El Vehemiurgo, 2026-07-09 s01 (verbatim)
+
+**Lectura sintética**: el [verif campeón] del multi-man del 2/4 se
+resuelve por declaración: **Mike Santana** — el build de Rebellion
+es Eddie vs Santana por el título [verif cronología del título;
+research abierto].
 
 ## Pendientes / huecos
 

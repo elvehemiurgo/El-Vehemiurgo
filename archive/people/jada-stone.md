@@ -4,10 +4,10 @@ tipo: fact-sheet
 categoria: people
 slug: "jada-stone"
 estado: stub
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02"
-tags: [jada-stone, tna, performer-revelacion, babyface, candidata-the-future-2026]
+tags: [jada-stone, tna, performer-revelacion, babyface, descartada-the-future-2026, pronostico-falsable]
 ---
 
 # Jada Stone
@@ -52,11 +52,40 @@ tags: [jada-stone, tna, performer-revelacion, babyface, candidata-the-future-202
 2. Del lado receptor del modelo Ali: la nueva generación aprende
    old-school en vivo.
 
+### Sesión 2026-07-09 s01 — Veredicto THE FUTURE: no entra
+
+**Cita verbatim**:
+
+> *"me parece que es buena, pero no tiene ese extra, tal vez porque
+> esta como babyface de turno, honestamente su estilo no me parece
+> el futuro, es muy indie, aunque TNA le ha dado una plataforma y
+> un booking y rivales muy buenos, no se me hace un prospecto tan
+> emocionante o tan completo como los otros de la lista; aunque me
+> recuerda a Candace Lerae [sic — Candice LeRae] y Nixon Newell en
+> sus mejores momentos en las indies, siento que no va a durar en
+> el tiempo, podría equivocarme pero no creo que destaque mucho"*
+>
+> — El Vehemiurgo, 2026-07-09 s01 (verbatim)
+
+**Lectura sintética**:
+
+1. **NO entra a THE FUTURE in 2026** — buena, sin *"ese extra"*;
+   estilo *"muy indie"* (la crítica estructural del Vehemiurgo al
+   indie cosplay: ejecución sin intención de draw); *"babyface de
+   turno"* = acto genérico de rol, no gimmick con identidad.
+2. **Linaje comparativo**: Candice LeRae / Nixon Newell en sus
+   mejores momentos indies — techo de acto querible de plataforma,
+   no de draw.
+3. **Pronóstico falsable registrado**: *"siento que no va a durar
+   en el tiempo [...] no creo que destaque mucho"* (con la reserva
+   *"podría equivocarme"*). Revisar en 6-12 meses.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, edad, debut, trayectoria pre-TNA.
 - [ ] Spelling oficial del nombre [verif Jada vs Jaida].
-- [ ] **¿THE FUTURE in 2026?** — pregunta abierta al Vehemiurgo.
+- [x] **¿THE FUTURE in 2026?** — NO entra (2026-07-09).
+- [ ] Tracking del pronóstico (*"no va a durar"*) — revisar 2027.
 
 ## Piezas del Vehemiurgo donde aparece
 

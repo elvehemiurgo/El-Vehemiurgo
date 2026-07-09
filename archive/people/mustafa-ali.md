@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mustafa-ali
 estado: vivo
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (declaración 'run generacional + uno de los mejores + selling legendario nivel AJ Styles y Nic Nemeth')"
   - "Lista personal verbatim: 7 entradas TNA 2025-2026 (Ali post-WWE arc)"
@@ -167,6 +167,24 @@ tags: [mustafa-ali, ex-wwe-204-live, tna-2025-2026-run-generacional, heel-protag
    vuelve a ser elogiado — dos shows seguidos.
    Ver [`../matches/2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md`](../matches/2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md)
    y [`../matches/2026-04-02-multi-man-opener-tna-impact.md`](../matches/2026-04-02-multi-man-opener-tna-impact.md).
+
+### Sesión 2026-07-09 s01 — Panteón diferido; caso fundante de la lista nueva
+
+**Cita verbatim**:
+
+> *"Todavia, aunque Ali y Santana si están poniendo muy buenas
+> luchas, todavia no me siento confiado; o tal vez necesite una
+> nueva lista, para este tipo de luchadores que se están ganando
+> mi corazón en tiempo real"*
+>
+> — El Vehemiurgo, 2026-07-09 s01 (verbatim)
+
+**Lectura sintética**: el panteón sigue cerrado para Ali — la
+confianza del historiador se gana con años, no con un run
+caliente. Pero el run existe: Ali es **caso fundante** de la lista
+propuesta *"ganándose mi corazón en tiempo real"* (ver
+[`../topics/lista-corazon-en-tiempo-real.md`](../topics/lista-corazon-en-tiempo-real.md),
+pendiente de bautizo).
 
 ## Pendientes / huecos
 

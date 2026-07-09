@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mike-santana
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #5 (caso testigo 'breakout tardío' THE FUTURE in 2026 — advertencia editorial)"
   - "Volcado Vehemiurgo 2026-06-17 #8 (tag partner Leon Slater, main event TNA presente)"
@@ -117,6 +117,28 @@ vivió como wrestler, abrazó su naturaleza, esperó.
   [`../segments/2026-03-27-mike-santana-promo-tna-sacrifice.md`](../segments/2026-03-27-mike-santana-promo-tna-sacrifice.md).
 - **Candidato panteón**: ya excede la lista prospectiva; pregunta
   abierta al Vehemiurgo.
+
+### Sesión 2026-07-09 s01 — Panteón diferido; caso fundante de la lista nueva + campeón rumbo a Rebellion
+
+**Cita verbatim**:
+
+> *"aunque Ali y Santana si están poniendo muy buenas luchas,
+> todavia no me siento confiado [...] 4. SI has research, y me
+> referia a Eddie haciendole pin a Santana en luchas multi man"*
+>
+> — El Vehemiurgo, 2026-07-09 s01 (verbatim)
+
+**Lectura sintética**:
+
+1. **Panteón diferido** — mismo veredicto que Ali: muy buenas
+   luchas, confianza todavía no. Caso fundante de la lista
+   propuesta *"ganándose mi corazón en tiempo real"* (ver
+   [`../topics/lista-corazon-en-tiempo-real.md`](../topics/lista-corazon-en-tiempo-real.md)).
+2. **Aclaración factual**: Santana es **el campeón** que Eddie
+   Edwards pineó dos veces en multi-man antes de Rebellion (2/4)
+   [verif cronología del título vs registro s01 de 2026-07-05
+   ("quitarle el título, retador con Trick Williams") — research
+   abierto]. El build de Rebellion es Eddie vs Santana.
 
 ## Pendientes / huecos
 

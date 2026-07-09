@@ -24,6 +24,7 @@
 | Mark Rocco | Marc Rocko, Mark Rocko |
 | Kelani Jordan | Kelany Jordan |
 | Jada Stone | Jaida Stone |
+| Candice LeRae | Candace Lerae, Candace LeRae |
 
 ## Atención — contexto-dependientes (no linteados)
 

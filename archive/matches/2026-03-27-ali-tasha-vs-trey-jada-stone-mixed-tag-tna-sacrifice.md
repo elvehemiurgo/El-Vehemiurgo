@@ -15,21 +15,22 @@ ganador: "[verif]"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "FS explícita + WE asignada por lectura (el Vehemiurgo dijo 'fighting spirit y world class' — WE pendiente de ratificación)"
+calificacion_vehemiurgo: "FS explícita + WE ratificada explícitamente el 2026-07-09 ('world class' → Wrestling Entertainment: 'ratifico WE')"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02 (visión directa — TNA Sacrifice)"
-tags: [mustafa-ali, tasha-steelz, trey-miguel, jada-stone, tna-sacrifice-2026, mixed-tag, fighting-spirit, we-por-lectura-pendiente-ratificacion, ali-corrige-el-tag-oldschool, jada-stone-revelacion, quimica-ali-trey]
+  - "Ratificación WE: Vehemiurgo 2026-07-09 s01"
+tags: [mustafa-ali, tasha-steelz, trey-miguel, jada-stone, tna-sacrifice-2026, mixed-tag, fighting-spirit, wrestling-entertainment, we-ratificada-2026-07-09, ali-corrige-el-tag-oldschool, jada-stone-revelacion, quimica-ali-trey]
 ---
 
 # Ali & Tasha Steelz vs Trey Miguel & Jada Stone — TNA Sacrifice (27 mar 2026)
 
-> **FS explícita + WE por lectura** (*"la tag team en Sacrifice se
-> merece fighting spirit y world class"* — "world class" no es
-> vocabulario del sistema; se interpreta como Wrestling
-> Entertainment, **pendiente de ratificación**). El match del
+> **FS explícita + WE ratificada** (*"la tag team en Sacrifice se
+> merece fighting spirit y world class"* — "world class" se
+> interpretó como Wrestling Entertainment y el Vehemiurgo la
+> **ratificó explícitamente el 2026-07-09**). El match del
 > **spot doctrinal**: Ali corrige el tag de Tasha en pleno match —
 > *"hacer respetar lo oldschool y las reglas"*.
 
@@ -54,8 +55,8 @@ tags: [mustafa-ali, tasha-steelz, trey-miguel, jada-stone, tna-sacrifice-2026, m
    debería ser el modelo para los nombres nuevos"* → pieza al
    horno: *"el veterano como enforcer de las reglas"*.
 2. **Jada Stone showcase** — *"performer revelación"*, gran acto
-   babyface, trabajo duro. Candidata natural a THE FUTURE si el
-   Vehemiurgo la declara.
+   babyface, trabajo duro. THE FUTURE: **descartada** el
+   2026-07-09 (*"muy indie [...] no creo que destaque mucho"*).
 3. **Química Ali-Trey** — programa singles latente.
 4. **Configuración [verif]** — equipos inferidos del take (Ali
    corrige el tag DE Tasha → mismo equipo).
@@ -63,8 +64,8 @@ tags: [mustafa-ali, tasha-steelz, trey-miguel, jada-stone, tna-sacrifice-2026, m
 ## Pendientes
 
 - [ ] Configuración + finish + duración + título en juego si lo hay.
-- [ ] **Ratificación WE** ("world class") por el Vehemiurgo.
-- [ ] ¿Jada Stone a THE FUTURE in 2026? — pregunta abierta.
+- [x] **Ratificación WE** ("world class") — ratificada 2026-07-09.
+- [x] ¿Jada Stone a THE FUTURE in 2026? — **no entra** (2026-07-09).
 
 ## Cross-links
 
