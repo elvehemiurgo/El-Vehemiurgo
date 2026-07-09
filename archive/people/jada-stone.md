@@ -83,7 +83,8 @@ tags: [jada-stone, tna, performer-revelacion, babyface, descartada-the-future-20
 ## Pendientes / huecos
 
 - [ ] Nombre real, edad, debut, trayectoria pre-TNA.
-- [ ] Spelling oficial del nombre [verif Jada vs Jaida].
+- [x] Spelling oficial confirmado: **Jada Stone** (Fightful,
+      card oficial TNA — research 2026-07-09).
 - [x] **¿THE FUTURE in 2026?** — NO entra (2026-07-09).
 - [ ] Tracking del pronóstico (*"no va a durar"*) — revisar 2027.
 

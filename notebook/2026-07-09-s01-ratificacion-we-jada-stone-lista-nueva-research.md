@@ -102,6 +102,6 @@ aclarando que **el campeón pineado por Eddie es Mike Santana**.
 
 - [ ] **Bautizo de la lista nueva** — el Vehemiurgo le pone nombre
       y ratifica alcance/formato.
-- [ ] Integrar el dossier de research cuando vuelva (cerrar
-      [verif] de Maclin, título, Rebellion).
+- [x] Dossier de research integrado el mismo 2026-07-09 (ver
+      `research/closed.md` + `dossiers/research-2026-07-09-maclin-lesion-rebellion-build.md`).
 - [ ] Tracking del pronóstico Jada Stone (revisar en 6-12 meses).

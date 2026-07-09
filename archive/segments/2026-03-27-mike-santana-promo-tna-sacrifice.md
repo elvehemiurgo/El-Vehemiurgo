@@ -7,8 +7,8 @@ protagonistas:
 empresa: "TNA Wrestling"
 programa: "Sacrifice 2026"
 fecha: 2026-03-27
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Westwego, Louisiana (metro New Orleans)"
+recinto: "Alario Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"

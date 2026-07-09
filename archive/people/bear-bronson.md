@@ -4,10 +4,11 @@ tipo: fact-sheet
 categoria: people
 slug: bear-bronson
 estado: stub
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #19 (match vs Moose FS)"
   - "The System roster (KO Tag Champion con Brian Myers, Rebellion 2026)"
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
 tags: [bear-bronson, ex-bear-country-bear-boulder, the-system, ko-world-tag-champion-rebellion-2026, big-man-heavyweight, moose-fs-match]
 ---
 
@@ -58,7 +59,20 @@ really going at it"* (sesión Dutch #6).
 rinde: victoria en trios PW·FS·WE contra los Hardys en PPV, a un
 día de su singles FS vs Moose (26/3). Semana grande del proyecto
 Bronson. Ver
-[`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md).
+[`../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md`](../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md).
+
+### Research 2026-07-09 — Corrección de registro + TAG CHAMPION en Rebellion
+
+Del dossier `maclin-lesion-y-rebellion-build-2026` (closed):
+
+1. **Corrección**: Bear **no estuvo** en el tag de Sacrifice
+   (registrado originalmente como trios con él; fue Myers &
+   Cedric vs Jeff Hardy & Vincent). Su Sacrifice-week fue el
+   singles FS vs Moose del 26/3.
+2. **El payoff del proyecto**: **Myers & Bronson ganaron los TNA
+   World Tag Team Titles a The Hardys en Rebellion (11/4/2026)**
+   [PWTorch, 13-abr-2026]. La "plataforma para Bear" de s01
+   terminó en oro en dos semanas.
 
 ## Pendientes / huecos
 

@@ -5,22 +5,23 @@ participantes: ["Eric Young", "Leon Slater"]
 empresa: "TNA Wrestling"
 programa: "Sacrifice 2026"
 fecha: 2026-03-27
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Westwego, Louisiana (metro New Orleans)"
+recinto: "Alario Center"
 tipo_match: "singles"
 estipulacion: "[verif — probable defensa del título de Slater]"
 duracion: "[verif]"
 finish: "[verif]"
-ganador: "[verif]"
+ganador: "Leon Slater (retiene el X Division Championship)"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lucha espectacular — todas las clases (declarado explícito)"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
-estado: stub
-ultima_actualizacion: 2026-07-05
+estado: verificado
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 (visión directa — TNA Sacrifice)"
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
 tags: [eric-young, leon-slater, tna-sacrifice-2026, perfect-match, fighting-spirit, wrestling-entertainment, veterano-vs-presente, arbol-aprendizaje-en-accion, tercer-perfect-match-slater]
 ---
 

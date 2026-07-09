@@ -8,6 +8,7 @@ ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 y s02"
   - "Volcado Vehemiurgo 2026-06-17 (panteón Tier 2 #11 — American Wolves)"
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
 tags: [eddie-edwards, tna, the-system, lider-de-faction, american-wolves, panteon-tier-2, build-rebellion-2026]
 ---
 
@@ -35,11 +36,12 @@ tags: [eddie-edwards, tna, the-system, lider-de-faction, american-wolves, panteo
 - TNA desde 2014 [verif]: ex-World Champion [verif reinados].
 - 2026 — líder de The System, figura de la "era corporativa" de
   TNA (take s01): plataforma para Bear Bronson y Cedric Alexander.
-- 27/3/2026 — Sacrifice: vence [verif] / cae ante Moose en match
-  corto, y luego **improvisa el cierre del main event** tras la
-  lesión de Steve Maclin.
-- 2/4/2026 — multi-man opener de Impact: **pinea al campeón dos
-  veces** [verif campeón] antes de su lucha en Rebellion (11/4).
+- 27/3/2026 — Sacrifice: pierde vs Moose por DQ (0:32, run-in de
+  Agent Zero) y luego **improvisa el cierre del main event** tras
+  la lesión de Steve Maclin (bonus de TNA por el audible).
+- 26/3 y 2/4/2026 — pinea al campeón Mike Santana dos semanas
+  seguidas (Boston Knee Party) como build de Rebellion (11/4),
+  donde **cayó ante Santana** (Spin the Block).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -79,12 +81,34 @@ resuelve por declaración: **Mike Santana** — el build de Rebellion
 es Eddie vs Santana por el título [verif cronología del título;
 research abierto].
 
+### Research 2026-07-09 — Resultados confirmados del run marzo-abril
+
+Del dossier `maclin-lesion-y-rebellion-build-2026` (closed):
+
+1. **Sacrifice 27/3**: perdió vs Moose **por DQ en 0:32** (run-in
+   de Agent Zero). Esa misma noche, el **run-in improvisado** en
+   el main event roto — TNA lo honró públicamente y le pagó
+   **bonus** por el audible [POST Wrestling, 28-mar-2026].
+2. **El pin doble a Santana**: dos semanas consecutivas — Impact
+   26/3 (tag con Cedric, 14:03) e Impact 2/4 (eight-man), ambos
+   con **Boston Knee Party**. El match de Rebellion ya estaba
+   anunciado: era heat, no clasificatoria.
+3. **Rebellion 11/4**: **cayó ante Santana** (Spin the Block) —
+   Santana fue el primero en kick out del Boston Knee Party (dos
+   veces). Spot narrativo: la "lesión" de Alisha (muletas) expuesta
+   como ruse por Moose; Alisha de vuelta con The System [PWTorch,
+   13-abr-2026].
+4. Nota de registro: en el eight-man del 2/4 trabajó coordinado
+   con **Order 4** (la faction de Ali) [verif naturaleza de la
+   alianza System/Order 4].
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).
 - [ ] [verif] la naturaleza del "dinero invertido en TNA" —
       ¿ángulo kayfabe o inversión real?
-- [ ] Resultado vs Moose en Sacrifice + resultado en Rebellion.
+- [x] Resultados vs Moose (DQ 0:32) y Rebellion (cayó ante
+      Santana) — research 2026-07-09.
 
 ## Piezas del Vehemiurgo donde aparece
 

@@ -9,6 +9,7 @@ fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #5 (caso testigo 'breakout tardío' THE FUTURE in 2026 — advertencia editorial)"
   - "Volcado Vehemiurgo 2026-06-17 #8 (tag partner Leon Slater, main event TNA presente)"
   - "Lista personal verbatim: 9 entradas Santana"
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
 tags: [mike-santana, lax-tna-2014-2018, alberto-el-patron-eli-drake-encuentros, caso-testigo-breakout-tardio, main-eventer-tna-2025-2026, tag-partner-leon-slater, no-surrender-2026-main-event]
 ---
 
@@ -139,6 +140,28 @@ vivió como wrestler, abrazó su naturaleza, esperó.
    [verif cronología del título vs registro s01 de 2026-07-05
    ("quitarle el título, retador con Trick Williams") — research
    abierto]. El build de Rebellion es Eddie vs Santana.
+
+### Research 2026-07-09 — CORRECCIÓN: campeón ininterrumpido desde BFG 2025
+
+Del dossier `maclin-lesion-y-rebellion-build-2026` (closed) — esto
+**corrige el registro previo** ("le quitaron el título, retador
+con Trick Williams"):
+
+1. A Santana **nunca le quitaron el título**. La línea real:
+   **Slammiversary 20-jul-2025** — Trick Williams (campeón invasor
+   NXT) retiene en three-way **robándole el pin a Santana** (lo
+   saca del cover y cubre él a Hendry) [POST Wrestling,
+   20-jul-2025]. **Bound For Glory 12-oct-2025** — **Santana gana
+   el título a Trick** (dos Spin the Block) [POST; WrestlingInc].
+2. Defensas registradas: **Genesis 17/1/2026** vs Kazarian (Texas
+   Death Match, trilogía; Nic Nemeth special referee — post-match
+   Nemeth intentó cobrar su title shot y Santana lo frustró);
+   **Sacrifice 27/3** no contest vs Maclin (lesión); **Rebellion
+   11/4** retiene vs Eddie Edwards (**Spin the Block**; primer
+   kick out al Boston Knee Party); Impact 23/4 defensa vs Rich
+   Swann [headline PWTorch — verif resultado].
+3. **Campeón ininterrumpido desde el 12-oct-2025** hasta al menos
+   fines de abril 2026. Estado a julio 2026: [no confirmado].
 
 ## Pendientes / huecos
 

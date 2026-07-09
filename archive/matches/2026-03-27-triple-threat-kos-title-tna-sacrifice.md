@@ -1,26 +1,27 @@
 ---
-match: "Triple threat — TNA Knockouts World Championship (Arianna Grace (c) vs Lei Ying Lee vs Dani Luna [verif lineup])"
+match: "Triple threat — TNA Knockouts World Championship (Arianna Grace (c) vs Lei Ying Lee vs Dani Luna)"
 slug: "2026-03-27-triple-threat-kos-title-tna-sacrifice"
 participantes: ["Arianna Grace", "Lei Ying Lee", "Dani Luna"]
 empresa: "TNA Wrestling"
 programa: "Sacrifice 2026"
 fecha: 2026-03-27
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Westwego, Louisiana (metro New Orleans)"
+recinto: "Alario Center"
 tipo_match: "triple threat"
 estipulacion: "TNA Knockouts World Championship"
 duracion: "[verif]"
 finish: "[verif]"
-ganador: "[verif — probable retención Arianna]"
+ganador: "Arianna Grace (retiene)"
 referee: "[verif]"
 encuentros_previos: 2
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena — Fighting Spirit + Wrestling Entertainment (declaradas explícitas)"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
-estado: stub
-ultima_actualizacion: 2026-07-05
+estado: verificado
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 (visión directa — TNA Sacrifice)"
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
 tags: [arianna-grace, lei-ying-lee, dani-luna, tna-sacrifice-2026, knockouts-world-championship, triple-threat, fighting-spirit, wrestling-entertainment, the-future-in-2026-numero-3-anchor, kos-division-2026]
 ---
 
@@ -66,7 +67,10 @@ tags: [arianna-grace, lei-ying-lee, dani-luna, tna-sacrifice-2026, knockouts-wor
 ## Pendientes
 
 - [ ] **Lineup confirmado** (Arianna/Lei/Dani inferido del take).
-- [ ] Finish + ganadora + duración.
+- [x] Ganadora — Arianna Grace retiene (research 2026-07-09;
+      lineup confirmado). Rebellion 11/4: retuvo de nuevo vs Lei
+      Ying Lee.
+- [ ] Finish exacto + duración.
 - [ ] Posición en card.
 
 ## Cross-links

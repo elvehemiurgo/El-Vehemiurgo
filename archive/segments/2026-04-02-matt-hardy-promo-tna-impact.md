@@ -67,4 +67,4 @@ tags: [matt-hardy, jeff-hardy, tna-impact-2026, promo, sin-clase, techo-del-mic-
   [`../people/jeff-hardy.md`](../people/jeff-hardy.md)
 - [`../topics/tna-2026-arbol-de-aprendizaje-en-mic.md`](../topics/tna-2026-arbol-de-aprendizaje-en-mic.md)
   — Matt como copa del árbol.
-- [`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md)
+- [`../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md`](../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md)

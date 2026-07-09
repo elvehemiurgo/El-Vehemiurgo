@@ -89,7 +89,7 @@ tags: [cedric-alexander, ex-wwe-205-live-cruiserweight-champion, ex-the-hurt-bus
 trabaja (y gana) el trios de Sacrifice del lado de The System, en
 un Perfect Match. De estabilizador técnico suelto a pieza de la
 faction [estatus formal — verif]. Ver
-[`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md).
+[`../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md`](../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md).
 
 ## Pendientes / huecos
 

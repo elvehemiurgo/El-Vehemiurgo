@@ -141,10 +141,12 @@ del Impact 2/4/2026** (Perfect Match declarado).
 
 - [x] **Ratificación de la WE del mixed tag** — ratificada el
       2026-07-09 (ver notebook 2026-07-09-s01).
-- [ ] [verif] configuración exacta del mixed tag + tercero de los
-      Hardys en el trios + participantes/campeón del main event +
-      lineup del multi-man 2/4.
-- [ ] Lesión Maclin — naturaleza y gravedad [verif; candidato a
-      `/research` si el Vehemiurgo autoriza].
-- [ ] Rebellion 11/4: Eddie challenger (pins al campeón ×2 como
-      build) — tracking del payoff.
+- [x] [verif] de Sacrifice + multi-man — resueltos por research
+      2026-07-09 (corrección mayor: el "trios" fue tag Myers &
+      Cedric vs Jeff Hardy & Vincent; Matt en el titantron, Bear
+      ausente).
+- [x] Lesión Maclin — resuelta (research 2026-07-09): nervio del
+      cuello, sin concusión; cleared 22/4; release de TNA 7/6.
+- [x] Rebellion 11/4 — Santana retiene vs Eddie (Spin the Block);
+      System gana los tag titles; Ali gana el International a
+      Trey.

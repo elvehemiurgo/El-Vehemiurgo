@@ -4,10 +4,11 @@ tipo: fact-sheet
 categoria: people
 slug: "matt-hardy"
 estado: stub
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02 adenda"
   - "Panteón del Vehemiurgo (Héroe Fundamental #19)"
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
 tags: [matt-hardy, tna, heroe-fundamental-19, mic-work, techo-del-mic-tna, hardys, plataforma-mentor, longevidad-carny]
 ---
 
@@ -34,8 +35,9 @@ tags: [matt-hardy, tna, heroe-fundamental-19, mic-work, techo-del-mic-tna, hardy
   los 40+, la prueba de la *longevidad carny* que lo pone en el
   panteón.
 - 2024–2026 — tercera etapa TNA con Jeff: tag veterano como
-  plataforma de rubs (Genesis 17/1 vs Righteous; Sacrifice 27/3
-  vs System — Perfect Match).
+  plataforma de rubs (Genesis 17/1 vs Righteous; Sacrifice 27/3:
+  ángulo del titantron — no compitió; Rebellion 11/4: los Hardys
+  pierden los tag titles con The System).
 - 2/4/2026 — promo en Impact: el estándar del mic del roster.
 
 ## Notas editoriales del Vehemiurgo
@@ -59,6 +61,16 @@ tags: [matt-hardy, tna, heroe-fundamental-19, mic-work, techo-del-mic-tna, hardy
    solo durar — es seguir siendo el mejor acto verbal del
    territorio a los 51 [verif edad].
 
+### Research 2026-07-09 — Corrección: en Sacrifice no compitió (ángulo del titantron)
+
+Del dossier `maclin-lesion-y-rebellion-build-2026` (closed): en
+Sacrifice 27/3 Matt **no luchó** — apareció **ensangrentado en el
+titantron con Dutch parado sobre él**, la distracción que permitió
+el finish de The System sobre Jeff & Vincent. En **Rebellion
+(11/4)** The Hardys **perdieron los tag titles** con Myers &
+Bronson [PWTorch, 13-abr-2026]. La promo del 2/4 (techo del mic)
+cae en medio de ese programa.
+
 ## Pendientes / huecos
 
 - [ ] Títulos y reinados con fechas (WWE, TNA, ROH, AEW).
@@ -67,7 +79,7 @@ tags: [matt-hardy, tna, heroe-fundamental-19, mic-work, techo-del-mic-tna, hardy
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-04-02-matt-hardy-promo-tna-impact.md`](../segments/2026-04-02-matt-hardy-promo-tna-impact.md)
-- [`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md)
+- [`../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md`](../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md)
 - [`../matches/2026-01-17-hardys-vs-righteous-tna-genesis-tag-title.md`](../matches/2026-01-17-hardys-vs-righteous-tna-genesis-tag-title.md)
 
 ## Cross-links

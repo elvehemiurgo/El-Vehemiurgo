@@ -93,7 +93,7 @@ tags: [the-system, eddie-edwards-leader, brian-myers, bear-bronson, alisha-edwar
    (pin doble al campeón, 2/4).
 3. El push de Myers a imagen de la faction ya tiene expediente.
    Ver
-   [`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md).
+   [`../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md`](../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md).
 
 ## Composición histórica (2024-2025) — merge de la ficha previa
 

@@ -4,10 +4,11 @@ tipo: fact-sheet
 categoria: people
 slug: trey-miguel
 estado: vivo
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #12 (*'babyface cool, un poco cringe a veces, pero sólido'*)"
   - "Lista personal verbatim: 3 entradas Trey 2025-2026"
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
 tags: [trey-miguel, ex-rascalz, ex-tna-x-division-champion, tna-2025-2026-babyface-singles, babyface-cool-cringe-pero-solido, arbol-aprendizaje-mic-rama-promesas]
 ---
 
@@ -72,6 +73,15 @@ tags: [trey-miguel, ex-rascalz, ex-tna-x-division-champion, tna-2025-2026-babyfa
 mixed tag de Sacrifice (FS + WE por lectura) — programa singles
 latente si TNA quiere capitalizarla. Ver
 [`../matches/2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md`](../matches/2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md).
+
+### Research 2026-07-09 — Perdió el International Title con Ali en Rebellion
+
+Del dossier `maclin-lesion-y-rebellion-build-2026` (closed): Trey
+era **TNA International Champion** y **perdió el título con
+Mustafa Ali en Rebellion (11/4/2026)** [PWTorch, 13-abr-2026]. El
+programa con Ali que el mixed tag de Sacrifice cocinaba (zip-ties
+incluidos) era build de título — la "química" declarada por el
+Vehemiurgo tuvo payoff en PPV.
 
 ## Pendientes / huecos
 

@@ -1,28 +1,29 @@
 ---
-match: "Mustafa Ali & Tasha Steelz vs Trey Miguel & Jada Stone — mixed tag [verif configuración]"
+match: "Order 4 (Mustafa Ali & Tasha Steelz) vs Trey Miguel & Jada Stone — mixed tag"
 slug: "2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice"
 participantes: ["Mustafa Ali", "Tasha Steelz", "Trey Miguel", "Jada Stone"]
 empresa: "TNA Wrestling"
 programa: "Sacrifice 2026"
 fecha: 2026-03-27
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Westwego, Louisiana (metro New Orleans)"
+recinto: "Alario Center"
 tipo_match: "mixed tag"
 estipulacion: "standard"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Order 4 amarra a Trey con zip-ties a la cuerda baja; Ali conecta Dance with the Devil sobre Stone, la levanta del cover y remata con 450 splash para el pin"
+ganador: "Order 4 (Ali & Tasha Steelz)"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "FS explícita + WE ratificada explícitamente el 2026-07-09 ('world class' → Wrestling Entertainment: 'ratifico WE')"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
-estado: stub
+estado: verificado
 ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02 (visión directa — TNA Sacrifice)"
   - "Ratificación WE: Vehemiurgo 2026-07-09 s01"
-tags: [mustafa-ali, tasha-steelz, trey-miguel, jada-stone, tna-sacrifice-2026, mixed-tag, fighting-spirit, wrestling-entertainment, we-ratificada-2026-07-09, ali-corrige-el-tag-oldschool, jada-stone-revelacion, quimica-ali-trey]
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+tags: [order-4, mustafa-ali, tasha-steelz, trey-miguel, jada-stone, tna-sacrifice-2026, mixed-tag, fighting-spirit, wrestling-entertainment, we-ratificada-2026-07-09, ali-corrige-el-tag-oldschool, jada-stone-revelacion, quimica-ali-trey]
 ---
 
 # Ali & Tasha Steelz vs Trey Miguel & Jada Stone — TNA Sacrifice (27 mar 2026)
@@ -58,12 +59,17 @@ tags: [mustafa-ali, tasha-steelz, trey-miguel, jada-stone, tna-sacrifice-2026, m
    babyface, trabajo duro. THE FUTURE: **descartada** el
    2026-07-09 (*"muy indie [...] no creo que destaque mucho"*).
 3. **Química Ali-Trey** — programa singles latente.
-4. **Configuración [verif]** — equipos inferidos del take (Ali
-   corrige el tag DE Tasha → mismo equipo).
+4. **Configuración confirmada** (research 2026-07-09): Ali &
+   Tasha trabajan como **Order 4** — la faction de Ali. El finish
+   (zip-ties a Trey + levantar a Stone del cover para castigarla
+   más antes del 450) es heel-craft de manual: crueldad con
+   propósito, heat legítimo.
 
 ## Pendientes
 
-- [ ] Configuración + finish + duración + título en juego si lo hay.
+- [x] Configuración, ganador y finish — resueltos (research
+      2026-07-09). Sin título en juego.
+- [ ] Duración.
 - [x] **Ratificación WE** ("world class") — ratificada 2026-07-09.
 - [x] ¿Jada Stone a THE FUTURE in 2026? — **no entra** (2026-07-09).
 

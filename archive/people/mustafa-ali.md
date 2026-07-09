@@ -8,6 +8,7 @@ ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (declaración 'run generacional + uno de los mejores + selling legendario nivel AJ Styles y Nic Nemeth')"
   - "Lista personal verbatim: 7 entradas TNA 2025-2026 (Ali post-WWE arc)"
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
 tags: [mustafa-ali, ex-wwe-204-live, tna-2025-2026-run-generacional, heel-protagonico-tv, booking-calibrado-milimetricamente, oldschool-en-madurez, spots-con-intencion-cada-riesgo-recompensa, selling-legendario-aj-styles-nic-nemeth-nivel, paquete-completo-2026, abraza-vulnerabilidades-doctrina-workhorse-encarnada, uno-de-los-mejores-vehemiurgo, music-city-casket-match-anchor]
 ---
 
@@ -185,6 +186,19 @@ caliente. Pero el run existe: Ali es **caso fundante** de la lista
 propuesta *"ganándose mi corazón en tiempo real"* (ver
 [`../topics/lista-corazon-en-tiempo-real.md`](../topics/lista-corazon-en-tiempo-real.md),
 pendiente de bautizo).
+
+### Research 2026-07-09 — Order 4 confirmada + el payoff: International Champion
+
+Del dossier `maclin-lesion-y-rebellion-build-2026` (closed):
+
+1. Ali & Tasha trabajan como **Order 4** (su faction, con Agent
+   Zero). El mixed tag de Sacrifice lo ganaron con el finish
+   zip-ties a Trey + Dance with the Devil + 450 sobre Stone.
+2. **El payoff de la protección llegó**: Ali **ganó el TNA
+   International Championship a Trey Miguel en Rebellion
+   (11/4/2026)** [PWTorch, 13-abr-2026] — la lectura del
+   Vehemiurgo ("lo están guardando para la oportunidad perfecta")
+   confirmada por el booking en dos semanas.
 
 ## Pendientes / huecos
 

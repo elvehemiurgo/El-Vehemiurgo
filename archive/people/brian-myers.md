@@ -102,7 +102,7 @@ tags: [brian-myers, ex-curt-hawkins-wwe, ex-major-brothers-edgeheads, losing-str
 PW·FS·WE en Sacrifice 27/3, **con victoria**). El expediente
 in-ring para el push a imagen de The System que el Vehemiurgo
 recomendó en s01 ya está completo. Ver
-[`../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md`](../matches/2026-03-27-bronson-cedric-myers-trios-vs-hardys-tna-sacrifice.md).
+[`../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md`](../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md).
 
 ## Pendientes / huecos
 

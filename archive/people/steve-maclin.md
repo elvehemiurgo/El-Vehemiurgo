@@ -4,10 +4,11 @@ tipo: fact-sheet
 categoria: people
 slug: "steve-maclin"
 estado: stub
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02"
   - "Volcado Vehemiurgo 2026-06-17 #15 (comeback in-ring 12/3)"
+  - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
 tags: [steve-maclin, tna, main-eventer, lesion-sacrifice-2026, comeback]
 ---
 
@@ -17,22 +18,27 @@ tags: [steve-maclin, tna, main-eventer, lesion-sacrifice-2026, comeback]
 > archivo 2026: **lesión en vivo en el main event de Sacrifice
 > (27/3)** — *"un momento terrorífico"*. La ficha abre para
 > trackear la lesión y su regreso. Contexto previo en el archivo:
-> comeback in-ring apenas dos semanas antes (12/3) [verif si venía
-> de otra ausencia].
+> comeback in-ring apenas dos semanas antes (12/3). Epílogo:
+> cleared 22/4, **release de TNA el 7/6/2026** — free agent.
 
 ## Identificación
 
 - **Nombre real**: [verif]
 - **Nombres de gimmick**: Steve Maclin; Steve Cutler (WWE) [verif].
-- **Empresa actual**: TNA Wrestling.
+- **Empresa actual**: **free agent** (release de TNA el
+  7/6/2026, pedido por él tras cinco años).
 
 ## Trayectoria condensada
 
 - Ex-TNA World Champion [verif reinado y fechas].
 - 12/3/2026 — comeback in-ring (registrado en sesión #15, match
   pendiente de apertura).
-- 27/3/2026 — **lesión en el main event de Sacrifice**; Eddie
-  Edwards improvisa el cierre. Naturaleza y gravedad [verif].
+- 27/3/2026 — **lesión en el main event de Sacrifice** (vs
+  Santana por el título): superkick al nervio del cuello, legit
+  KO, no contest. Sin concusión diagnosticada.
+- 22/4/2026 — cleared para volver al ring.
+- 7/6/2026 — **release de TNA** (effective immediately). Free
+  agent; especulación AEW/ROH/WWE.
 
 ## Notas editoriales del Vehemiurgo
 
@@ -53,12 +59,34 @@ tags: [steve-maclin, tna, main-eventer, lesion-sacrifice-2026, comeback]
 2. El timing es cruel: lesionado en el main event de un PPV a dos
    semanas de su regreso [verif cronología exacta].
 
+### Research 2026-07-09 — La lesión, el clearance y el release
+
+Del dossier `maclin-lesion-y-rebellion-build-2026` (closed):
+
+1. **El match**: main event de Sacrifice era **Santana (c) vs
+   Maclin por el TNA World Championship** (build: cláusula de "no
+   contacto"). A segundos, superkick de Santana al **nervio del
+   costado del cuello** → whiplash, cuerpo "apagado" estando
+   consciente, **legit KO**. La referee **Alice Lane** detuvo el
+   match; **Ace Steel (agent)** llamó la parada según Maclin.
+   **Sin diagnóstico de concusión** (Carlos Silva on-record).
+   Resultado oficial: no contest [F4WOnline; PWTorch;
+   WrestlingInc, mar-2026].
+2. **Cleared el 22-abr-2026** (*"AIN'T FOUND A WAY TO KILL ME
+   YET"*) [F4WOnline, 22-abr-2026].
+3. **Release de TNA el 7-jun-2026**, pedido por él, effective
+   immediately, tras cinco años — disputa creativa y de dinero
+   según reportes [POST Wrestling, 7-jun-2026; motivos: rumor].
+   **Free agent a julio 2026** (*"I saw the writing on the
+   wall"*), especulación AEW/ROH/WWE [Fightful; 411mania].
+
 ## Pendientes / huecos
 
-- [ ] Naturaleza y gravedad de la lesión + tiempo fuera
-      [candidato a `/research` si el Vehemiurgo autoriza].
+- [x] Lesión, clearance y release — resueltos (research
+      2026-07-09, ver bloque arriba).
 - [ ] Nombre real, trayectoria (WWE/Cutler → TNA), reinados.
-- [ ] Rival y estipulación del main event de Sacrifice.
+- [x] Rival del main event: Mike Santana (c), por el TNA World
+      Championship.
 
 ## Piezas del Vehemiurgo donde aparece
 

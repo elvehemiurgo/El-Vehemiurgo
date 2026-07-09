@@ -5,10 +5,10 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 ## Activas
 
-| ID | Estado | Fecha | Alcance | Origen | Destino |
-|---|---|---|---|---|---|
-| `maclin-lesion-y-rebellion-build-2026` | en-curso | 2026-07-09 | Lesión de Steve Maclin en el main event de Sacrifice 27/3 (naturaleza, gravedad, tiempo fuera) + build Eddie Edwards vs Mike Santana hacia Rebellion 11/4 (cronología del título, lineup multi-man 2/4, resultado) + [verif] de Sacrifice (config mixed tag, tercero de los Hardys, rival de Maclin) | [notebook 2026-07-09-s01](../notebook/2026-07-09-s01-ratificacion-we-jada-stone-lista-nueva-research.md) | fichas steve-maclin, eddie-edwards, mike-santana + 5 matches Sacrifice/Impact 2-4 |
+| _(vacío)_ | | | | | |
 
+> `maclin-lesion-y-rebellion-build-2026` cerrada e integrada el
+> 2026-07-09 — ver [`closed.md`](./closed.md).
 > Tres investigaciones cerradas el 2026-06-17:
 > `lista-personal-maestra-indice-2026`,
 > `m-by-elegance-no-surrender-2026-elegance-brand-roster` y
