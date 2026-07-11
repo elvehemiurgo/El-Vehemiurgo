@@ -4,11 +4,12 @@ tipo: fact-sheet
 categoria: people
 slug: dani-luna
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #9 (análisis monster heel + recomendaciones operativas Samoa Joe/Scott Norton + crítica chain sadismo trillado)"
   - "Lista personal verbatim: 4 entradas Dani Luna 2025"
-tags: [dani-luna, british-power-wrestler, deadlifts-signature, tna-knockouts-2025-2026, monster-heel-en-formacion, heel-jordynne-grace-que-no-tuvimos-comparacion, ai-recomendado-samoa-joe-scott-norton, chain-sadismo-trillado-critica, anti-slamovich-killer-kelly-patron, lio-rush-2026-excepcion, nuevo-top-heel-tna-2026-esperanza]
+  - "Volcado Vehemiurgo 2026-07-11 (sweet spot alcanzado, alta RUNNER UPS)"
+tags: [dani-luna, british-power-wrestler, deadlifts-signature, tna-knockouts-2025-2026, monster-heel-en-formacion, heel-jordynne-grace-que-no-tuvimos-comparacion, ai-recomendado-samoa-joe-scott-norton, chain-sadismo-trillado-critica, anti-slamovich-killer-kelly-patron, lio-rush-2026-excepcion, nuevo-top-heel-tna-2026-esperanza, runner-ups-numero-3, sweet-spot-alcanzado]
 ---
 
 # Dani Luna
@@ -19,6 +20,9 @@ tags: [dani-luna, british-power-wrestler, deadlifts-signature, tna-knockouts-202
 > Vehemiurgo (2026-06-17 #9). **Pendiente de pulir el acto monster
 > heel** — recomendaciones operativas explícitas del Vehemiurgo:
 > Samoa Joe + Scott Norton, alejarse del chain-sadismo trillado.
+>
+> **RUNNER UPS #3** (2026-07-11) — el sweet spot alcanzado:
+> *"todo estaba en su sitio y balanceado, estoy impresionado"*.
 
 ## Identificación
 
@@ -111,6 +115,26 @@ tags: [dani-luna, british-power-wrestler, deadlifts-signature, tna-knockouts-202
   heel femenino exitoso"* — slot que TNA viene intentando llenar
   desde Slamovich y Kelly sin éxito.
 
+### Sesión 2026-07-11 — El sweet spot, alcanzado: alta a RUNNER UPS
+
+**Cita verbatim**:
+
+> *"en esta fecha de tna 2026 04 09 iMPACT se vió más metodica,
+> más controlada, más centrada, m+aas comoda [sic], más natural
+> como heel monster, todo estaba en su sitio y balanceado, estoy
+> impresionado"*
+>
+> — El Vehemiurgo, 2026-07-11 (verbatim)
+
+**Lectura sintética**: el roadmap de sesión #9 (Samoa Joe + Scott
+Norton, fuera el chain-sadismo) y la urgencia declarada en
+Sacrifice (*"no ha alcanzado ese sweet spot"*) tienen payoff:
+metódica, controlada, centrada, cómoda, natural — el paquete
+completo del monster heel. **Primera alta formal a
+[RUNNER UPS](../topics/runner-ups.md)** (#3 de la lista, la
+categoría "ganándose mi corazón en tiempo real"). Ver
+[`../matches/2026-04-09-dani-luna-tna-impact.md`](../matches/2026-04-09-dani-luna-tna-impact.md).
+
 ## El roadmap doctrinal — qué necesita pulir
 
 | Asset confirmado | Pulir | Modelo |
@@ -118,9 +142,9 @@ tags: [dani-luna, british-power-wrestler, deadlifts-signature, tna-knockouts-202
 | Deadlifts signature | (mantener) | — |
 | Actitud completa | (mantener) | — |
 | Power + brutalidad | (mantener) | — |
-| Acto monster heel coherente | **Redondear** | Samoa Joe + Scott Norton |
+| Acto monster heel coherente | **Alcanzado** (2026-07-11) | Samoa Joe + Scott Norton |
 | Sadismo gestual (chain) | **Eliminar** | NO Slamovich, NO Killer Kelly |
-| Presencia silenciosa dominante | **Construir** | Samoa Joe (modelo) |
+| Presencia silenciosa dominante | **Alcanzada** (2026-07-11: *"impresionado"*) | Samoa Joe (modelo) |
 
 ### Sesión 2026-07-05 s01 — TNA Sacrifice (27/3/2026): ya no promesa — el sweet spot pendiente
 
@@ -160,13 +184,16 @@ tags: [dani-luna, british-power-wrestler, deadlifts-signature, tna-knockouts-202
       del take + 3 entradas en lista personal pendientes.
 - [ ] **Apertura Scott Norton fact-sheet** — referente monster
       heel oldschool NJPW recomendado por el Vehemiurgo.
-- [ ] Tracking activo del arco Dani Luna 2026 — confirmar si
-      *"el año de nacimiento"* se cumple.
+- [x] Tracking del arco 2026 — sweet spot alcanzado 2026-07-11,
+      alta a RUNNER UPS. *"El año de nacimiento"* sigue abierto
+      (¿top heel consolidada de TNA?).
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-02-26-dani-luna-vs-lei-ying-lee-tna-impact.md`](../matches/2026-02-26-dani-luna-vs-lei-ying-lee-tna-impact.md)
   — anchor del take editorial 2026-06-17 #9.
+- [`../matches/2026-04-09-dani-luna-tna-impact.md`](../matches/2026-04-09-dani-luna-tna-impact.md)
+  — el sweet spot alcanzado.
 
 ## Cross-links
 
@@ -174,3 +201,5 @@ tags: [dani-luna, british-power-wrestler, deadlifts-signature, tna-knockouts-202
   recomendado** por el Vehemiurgo (panteón Dios #4).
 - [`../people/lei-ying-lee.md`](../people/lei-ying-lee.md) —
   oponente en el match anchor.
+- [`../topics/runner-ups.md`](../topics/runner-ups.md) — RUNNER
+  UPS #3, alta formal 2026-07-11.

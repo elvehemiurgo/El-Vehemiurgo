@@ -184,7 +184,7 @@ tags: [mustafa-ali, ex-wwe-204-live, tna-2025-2026-run-generacional, heel-protag
 confianza del historiador se gana con años, no con un run
 caliente. Pero el run existe: Ali es **caso fundante** de la lista
 propuesta *"ganándose mi corazón en tiempo real"* (ver
-[`../topics/lista-corazon-en-tiempo-real.md`](../topics/lista-corazon-en-tiempo-real.md),
+[`../topics/runner-ups.md`](../topics/runner-ups.md),
 pendiente de bautizo).
 
 ### Research 2026-07-09 — Order 4 confirmada + el payoff: International Champion

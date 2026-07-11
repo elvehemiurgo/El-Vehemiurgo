@@ -26,6 +26,7 @@ con cada cambio de estado.
 | 2026-04-12 | Young Bucks vs Okada & Takeshita | AEW / Dynasty 2026 (PPV) | PW·FS·WE | stub | 1 | [→](2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md) |
 | 2026-04-11 | Young Bucks vs Hechicero & el clon | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md) |
 | 2026-04-11 | Brawling Birds vs Thekla & Marina Shafir | AEW / Collision | FS | stub | 1 | [→](2026-04-11-brawling-birds-vs-thekla-shafir-aew-collision.md) |
+| 2026-04-09 | Dani Luna vs [verif rival] | TNA Wrestling / iMPACT! | — | stub | 1 | [→](2026-04-09-dani-luna-tna-impact.md) |
 | 2026-04-08 | Takeshita, Andrade & Mark Davis vs [trío rival] — six-man tag | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md) |
 | 2026-04-08 | United Empire en acción (showcase) | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-united-empire-showcase-aew-dynamite.md) |
 | 2026-04-07 | Sol Ruca vs Izzi Dame | WWE / NXT (TV semanal) | — | en-investigacion | 1 | [→](2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |

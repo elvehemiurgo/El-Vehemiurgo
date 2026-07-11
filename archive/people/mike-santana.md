@@ -134,7 +134,7 @@ vivió como wrestler, abrazó su naturaleza, esperó.
 1. **Panteón diferido** — mismo veredicto que Ali: muy buenas
    luchas, confianza todavía no. Caso fundante de la lista
    propuesta *"ganándose mi corazón en tiempo real"* (ver
-   [`../topics/lista-corazon-en-tiempo-real.md`](../topics/lista-corazon-en-tiempo-real.md)).
+   [`../topics/runner-ups.md`](../topics/runner-ups.md)).
 2. **Aclaración factual**: Santana es **el campeón** que Eddie
    Edwards pineó dos veces en multi-man antes de Rebellion (2/4)
    [verif cronología del título vs registro s01 de 2026-07-05
