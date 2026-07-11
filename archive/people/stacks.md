@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: stacks
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #5 (pareja kayfabe Arianna Grace, manipulador en arc coronación)"
   - "Volcado Vehemiurgo 2026-06-17 #10 (complemento brillante en primera defensa Arianna)"
@@ -79,6 +79,24 @@ tags: [stacks, channing-stacks-lorenzo, drew-schulenburg, ex-wwe-nxt-dangelo-fam
   de Arianna) — **trío Santino + Stacks + Arianna** como **nudo
   emocional + heel funcional + autoridad** que **nutre al roster**
   (lectura Vehemiurgo #5).
+
+### Sesión 2026-07-11 s01 — Presente en el rub del campeón mundial
+
+**Cita verbatim**:
+
+> *"esto no es para poner a Stacks en el main event, es para
+> elevar la percepción del KOs championship y darle el rub con el
+> campeón mundial"*
+>
+> — El Vehemiurgo, 2026-07-11 s01 (verbatim)
+
+**Lectura sintética**: el Vehemiurgo declara explícitamente el
+límite de rol de Stacks en este segmento — no es candidato a
+escalar frente al campeón mundial, sigue siendo pieza secundaria
+que complementa a Arianna. Confirma la lectura de sesión #5
+("Cornette-school 101: cada pieza del roster cumple su rol
+exacto"). Ver
+[`../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md`](../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md).
 
 ## Pendientes / huecos
 

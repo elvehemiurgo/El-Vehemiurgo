@@ -29,6 +29,7 @@ cada alta y con cada cambio de estado.
 | 2026-04-06 | CM Punk — promo de apertura | WWE / Monday Night Raw | in-ring promo | — | en-investigacion | 1 | [→](2026-04-06-cm-punk-promo-opening-raw.md) |
 | 2026-04-03 | LA Knight — participación en Speed y commentary | WWE / SmackDown | multi-role participation | — | en-investigacion | 1 | [→](2026-04-03-la-knight-speed-commentary-smackdown.md) |
 | 2026-04-03 | Cody Rhodes le dice a Stephanie McMahon que no es su padre | WWE / SmackDown | in-ring promo / confrontation | — | en-investigacion | 1 | [→](2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md) |
+| 2026-04-02 | Backstage — Mike Santana, Arianna Grace & Stacks | TNA Wrestling / iMPACT! | backstage | — | stub | 1 | [→](2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md) |
 | 2026-04-02 | Matt Hardy — promo en Impact | TNA Wrestling / iMPACT! | promo | — | stub | 1 | [→](2026-04-02-matt-hardy-promo-tna-impact.md) |
 | 2026-03-27 | Mike Santana — promo en Sacrifice | TNA Wrestling / Sacrifice 2026 | promo | WE | stub | 1 | [→](2026-03-27-mike-santana-promo-tna-sacrifice.md) |
 | 2026-03-27 | Jacob Fatu y Drew McIntyre — segment | WWE / SmackDown | in-ring confrontation / promo segment | — | en-investigacion | 1 | [→](2026-03-27-jacob-fatu-drew-mcintyre-segment-smackdown.md) |

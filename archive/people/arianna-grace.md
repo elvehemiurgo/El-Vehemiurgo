@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: arianna-grace
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión TNA No Surrender 13 feb 2026 + arco previo + declaración The Future in 2026 #3)"
   - "Sub-agente m-by-elegance-no-surrender-2026 (2026-06-17): confirma Arianna Grace gana KO World Title en No Surrender"
@@ -230,6 +230,53 @@ Knockouts division tenga arc claro (chasers vs la heel champ).
   interlocutoras a la altura del booking.
 - Triple threat FS·WE en Sacrifice:
   [`../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md`](../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md).
+
+### Sesión 2026-07-11 s01 — "Apostar todo por Arianna Grace"
+
+**Cita verbatim**:
+
+> *"me gusta que Ariana trascienda como enterteiner, y es la heel
+> que ni trabaja aqui, representa a nxt y está robando protagonismo
+> a todas las KOs, es un combo genial para bookear a alguien que
+> además tiene facilidad en las promos [...] esto no es para poner
+> a Stacks en el main event, es para elevar la percepción del KOs
+> championship y darle el rub con el campeón mundial, me parece muy
+> bien apostar todo por Ariana Grace.
+>
+> Y luego de su lucha con Xia Brookside, estuvo ok, un poco
+> anticlimático el final, y accidentado, todavia no son tan pros
+> las dos, in ring [...] Ariana Grace está trayendo algunos fans de
+> NXT y a gente de su fandom, entonces es inteligente poner a tu
+> campeón de alguna forma cerca a ella, al menos en algunos shows"*
+>
+> — El Vehemiurgo, 2026-07-11 s01 (verbatim; canónico Arianna
+> Grace)
+
+**Lectura sintética**:
+
+1. **El respaldo editorial más fuerte hasta ahora**: *"apostar
+   todo por Arianna Grace"* — escalón por encima de "sigo creyendo
+   en el proyecto" (sesión #10).
+2. **Trasciende su propio kayfabe de roster** — leída como *"la
+   heel que ni trabaja aquí, representa a NXT"*: el crossover es
+   parte del personaje, no nota al pie.
+3. **Doctrina del rub sin canibalismo**: el segmento con el
+   campeón mundial es para el título de Arianna, no para escalar a
+   Stacks — Cornette-school 101 aplicado con precisión.
+4. **El techo técnico persiste**: vs Xia Brookside, *"ok, un poco
+   anticlimático, accidentado, todavía no son tan pros las dos"* —
+   continúa el diagnóstico de sesión #10 (*"lo único que le
+   falta"*) y de Sacrifice s01 (*"filo in-ring bueno pero falta
+   pulir"*).
+5. **Argumento de draw cruzado**: trae fans de NXT y de su propio
+   fandom — *"es inteligente poner a tu campeón de alguna forma
+   cerca a ella, al menos en algunos shows"*. El booking del 2/4
+   es la aplicación concreta de esa lógica.
+
+Ver
+[`../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md`](../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md)
+y
+[`../matches/2026-04-02-arianna-grace-vs-xia-brookside-tna-impact.md`](../matches/2026-04-02-arianna-grace-vs-xia-brookside-tna-impact.md).
 
 ## Pendientes / huecos
 

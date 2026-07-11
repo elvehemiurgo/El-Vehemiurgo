@@ -36,6 +36,7 @@ con cada cambio de estado.
 | 2026-04-04 | Sol Ruca vs Saria | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
 | 2026-04-04 | Jacy Jayne vs Kendal Grey vs Lola Vice — triple threat | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
 | 2026-04-04 | Ethan Page vs Ricky Saints vs Joe Hendry vs Tony D'Angelo — fatal 4-way | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
+| 2026-04-02 | Arianna Grace vs Xia Brookside | TNA Wrestling / iMPACT! | — | stub | 1 | [→](2026-04-02-arianna-grace-vs-xia-brookside-tna-impact.md) |
 | 2026-04-02 | Eight-man tag — Ali, Agent Zero, Eddie Edwards & Cedric Alexander vs Santana, Slater, Trey Miguel & Moose | TNA Wrestling / iMPACT! | PW·FS·WE | verificado | 1 | [→](2026-04-02-multi-man-opener-tna-impact.md) |
 | 2026-04-01 | MJF vs Speedball Mike Bailey | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
 | 2026-04-01 | PAC vs Will Ospreay | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-04-01-pac-vs-ospreay-aew-dynamite.md) |

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mike-santana
 estado: vivo
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #5 (caso testigo 'breakout tardío' THE FUTURE in 2026 — advertencia editorial)"
   - "Volcado Vehemiurgo 2026-06-17 #8 (tag partner Leon Slater, main event TNA presente)"
@@ -162,6 +162,25 @@ con Trick Williams"):
    Swann [headline PWTorch — verif resultado].
 3. **Campeón ininterrumpido desde el 12-oct-2025** hasta al menos
    fines de abril 2026. Estado a julio 2026: [no confirmado].
+
+### Sesión 2026-07-11 s01 — El look self-aware a cámara
+
+**Cita verbatim**:
+
+> *"aqui frente al campeón mundial, se vio genial, además Santana
+> luego mira a la cámara de forma self aware, es buena tv y le da
+> una dimensión nueva a la arrogancia y planes y proyección de
+> Ariana Grace [sic]"*
+>
+> — El Vehemiurgo, 2026-07-11 s01 (verbatim)
+
+**Lectura sintética**: como campeón mundial, Santana presta su
+estatus para el rub del KOs Championship (doctrina: elevar
+percepción, no armar main event con Stacks) — y su quiebre de
+cuarta pared, self-aware, suma capa meta al personaje de Arianna
+sin robarle el foco. Coherente con el crecimiento de Santana como
+performer completo declarado en Sacrifice (s01 2026-07-05). Ver
+[`../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md`](../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md).
 
 ## Pendientes / huecos
 
