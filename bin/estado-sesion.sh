@@ -18,4 +18,4 @@ TOTAL=$(grep -c '^- ' notebook/2026-05-09-2-lista-personal-completa.md 2>/dev/nu
 echo "lista personal: ${PEND} de ${TOTAL} bullets reconciliados (✓)"
 LINT=$(python3 bin/lint_archivo.py --pre-commit 2>/dev/null | tail -1)
 echo "lint: ${LINT}"
-echo "skills: /volcado /clase /panteon /future /research /donde-quede — doctrina en CLAUDE.md"
+echo "skills: /volcado /clase /panteon /future /research /donde-quede /pista — doctrina en CLAUDE.md"

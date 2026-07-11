@@ -4,11 +4,12 @@ tipo: fact-sheet
 categoria: people
 slug: myla-grace
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #20 (declaración THE FUTURE in 2026 #4 + 'lucieron geniales')"
   - "Lista personal verbatim: 2 entradas Myla Grace 2025"
-tags: [myla-grace, tna-knockouts-2025-2026, the-future-in-2026-numero-4, dúo-con-harley-hudson, prospecto-emergente]
+  - "Volcado Vehemiurgo 2026-07-11 s03 (vs Elayna Black, tour América, pista)"
+tags: [myla-grace, tna-knockouts-2025-2026, the-future-in-2026-numero-4, dúo-con-harley-hudson, prospecto-emergente, tour-america-riesgo, seguirle-la-pista]
 ---
 
 # Myla Grace
@@ -57,11 +58,36 @@ tags: [myla-grace, tna-knockouts-2025-2026, the-future-in-2026-numero-4, dúo-co
   (Saquon Shugars). **The Future in 2026 se está volviendo un
   cluster mayoritariamente TNA**.
 
+### Sesión 2026-07-11 s03 — Carrying en singles + "seguirle la pista"
+
+**Cita verbatim**:
+
+> *"Myla le sacó una buena lucha a Elayna, me impresiona más cada
+> vez, ojalá este tour en américa no sea su último, espero ver más
+> de ella, me gustaría seguirle la pista"*
+>
+> — El Vehemiurgo, 2026-07-11 s03 (verbatim)
+
+**Lectura sintética**:
+
+1. **De tag a singles en dos semanas**: la alta a THE FUTURE #4
+   fue por brillar en el six-woman (26/3); acá el fraseo le asigna
+   el carrying — *"le sacó una buena lucha a Elayna"*.
+2. **"Me impresiona más cada vez"** — curva ascendente declarada.
+3. **El riesgo del tour**: leída como talent de paso por América
+   (base fuera de USA [verif — ¿UK?]); el deseo editorial es que
+   TNA la retenga.
+4. **Tracking formal**: *"me gustaría seguirle la pista"* — origen
+   del pedido de la skill `/pista` (tracking de THE FUTURE +
+   RUNNER UPS).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + origen.
 - [ ] Background indie pre-TNA.
 - [ ] Llegada a TNA + debut.
+- [ ] **Estatus contractual / naturaleza del "tour en América"**
+      (¿base UK? ¿fechas del tour? ¿opción de contrato TNA?).
 - [ ] Dúo con Harley Hudson — nombre del equipo si tiene.
 - [ ] Lineup completo del six-woman tag 26/3 (su equipo).
 
@@ -69,6 +95,8 @@ tags: [myla-grace, tna-knockouts-2025-2026, the-future-in-2026-numero-4, dúo-co
 
 - [`../matches/2026-03-26-six-woman-tag-tessa-myla-grace-hudson-tna-impact.md`](../matches/2026-03-26-six-woman-tag-tessa-myla-grace-hudson-tna-impact.md)
   — *"lucieron geniales"*, trigger de la alta Future.
+- [`../matches/2026-04-09-myla-grace-vs-elayna-black-tna-impact.md`](../matches/2026-04-09-myla-grace-vs-elayna-black-tna-impact.md)
+  — carrying en singles, *"me impresiona más cada vez"*.
 
 ## Cross-links
 

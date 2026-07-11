@@ -289,8 +289,9 @@ Cuando vuelva, integro y cito.
     (`bin/estado-sesion.sh` vía hook SessionStart).
 - **Skills** (`.claude/skills/`): `/volcado` (pipeline completo de
   un take), `/clase`, `/panteon`, `/future`, `/research`,
-  `/donde-quede`. Ante un take editorial del Vehemiurgo, el flujo
-  por defecto es `/volcado`.
+  `/donde-quede`, `/pista` (tracking de THE FUTURE + RUNNER UPS:
+  luchas registradas y booking). Ante un take editorial del
+  Vehemiurgo, el flujo por defecto es `/volcado`.
 - **Notebooks**: `YYYY-MM-DD-sNN-slug.md` con **fecha real de
   captura** y NN zero-padded por día. La serie legado
   `2026-06-17-N` (sesiones 1-20) no se renombra.
