@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: cedric-alexander
 estado: vivo
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #15 (*'Cedric también lo mantiene real'* — estabilizador técnico del match anchor FS)"
   - "Lista personal verbatim: 6 entradas Cedric Alexander 2025-2026"
@@ -90,6 +90,21 @@ trabaja (y gana) el trios de Sacrifice del lado de The System, en
 un Perfect Match. De estabilizador técnico suelto a pieza de la
 faction [estatus formal — verif]. Ver
 [`../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md`](../matches/2026-03-27-system-myers-cedric-vs-jeff-hardy-vincent-tna-sacrifice.md).
+
+### Sesión 2026-07-11 s02 — Emboscada en el contract signing
+
+**Cita verbatim**:
+
+> *"con emboscada de Cedric y el salve de Lion Slater [sic], fue
+> muy cool ese climax"*
+>
+> — El Vehemiurgo, 2026-07-11 s02 (verbatim)
+
+**Lectura sintética**: Cedric ataca del lado de The System en el
+cierre del contract signing — otra confirmación en acción de su
+alineación con la faction (misma línea abierta desde el trios de
+Sacrifice). Ver
+[`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md).
 
 ## Pendientes / huecos
 

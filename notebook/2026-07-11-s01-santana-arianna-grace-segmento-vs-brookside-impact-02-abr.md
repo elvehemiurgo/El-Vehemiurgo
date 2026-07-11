@@ -102,8 +102,9 @@ Edwards.
 
 ## Próximos pasos
 
-- [ ] Segmento de Eddie Edwards inmediatamente posterior —
-      pendiente de take propio del Vehemiurgo.
+- [x] Segmento de Eddie Edwards — cubierto en notebook
+      2026-07-11-s02 (contract signing, emboscada Cedric, salve
+      Slater).
 - [ ] Finish exacto de Grace vs Brookside + duración.
 - [ ] Pieza al horno: *"El rub del campeón mundial a un título
       secundario — doctrina de percepción, no de main event"*.

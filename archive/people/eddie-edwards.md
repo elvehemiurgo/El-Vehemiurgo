@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: "eddie-edwards"
 estado: stub
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 y s02"
   - "Volcado Vehemiurgo 2026-06-17 (panteón Tier 2 #11 — American Wolves)"
@@ -101,6 +101,23 @@ Del dossier `maclin-lesion-y-rebellion-build-2026` (closed):
 4. Nota de registro: en el eight-man del 2/4 trabajó coordinado
    con **Order 4** (la faction de Ali) [verif naturaleza de la
    alianza System/Order 4].
+
+### Sesión 2026-07-11 s02 — Contract signing: recap del pin + escalada por familia
+
+**Cita verbatim**:
+
+> *"Eddie estuvo ok, tiene buen material con eso de que le hizo el
+> pin dos veces este road, todo es by the book hasta que Eddie
+> menciona a la hija de Santana en la firma de contrato [...] es
+> como TV de los 90s"*
+>
+> — El Vehemiurgo, 2026-07-11 s02 (verbatim)
+
+**Lectura sintética**: Eddie inicia la escalada personal
+(menciona a la hija de Santana) que empuja el contract signing de
+"by the book" a confrontación noventera. Cedric emboscó del lado
+System; Leon Slater hizo el salve. Ver
+[`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md).
 
 ## Pendientes / huecos
 

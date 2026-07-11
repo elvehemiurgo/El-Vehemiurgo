@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: leon-slater
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (declaración 'bookeo quirúrgico + dinero TKO + presente no futuro + X-Division representada')"
   - "Lista personal verbatim: 11 entradas Slater 2025-2026 (top 10 del ranking)"
@@ -205,6 +205,23 @@ Encarna distinto:
   30 días. El *"bookeo quirúrgico"* está rindiendo a nivel
   histórico — refuerza la expectativa de explosión a lo AJ
   Styles / Jeff Hardy (sesión #13).
+
+### Sesión 2026-07-11 s02 — El salve + spot de cierre "increíble"
+
+**Cita verbatim**:
+
+> *"el salve de Lion Slater [sic — Leon Slater], fue muy cool ese
+> climax; lo demás ok, y cierran con el spot de Lion perfecto
+> over the top at the corner, increible"*
+>
+> — El Vehemiurgo, 2026-07-11 s02 (verbatim; canónico Leon Slater)
+
+**Lectura sintética**: Slater hace el salve sobre Santana ante la
+emboscada de Cedric, y cierra el segmento con un spot de esquina
+("over the top at the corner") que el Vehemiurgo destaca por
+encima de todo lo demás del segmento — *"increíble"*. Reactiva el
+tag con Santana ya visto el 26/3 en el build de Rebellion. Ver
+[`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md).
 
 ## Pendientes / huecos
 

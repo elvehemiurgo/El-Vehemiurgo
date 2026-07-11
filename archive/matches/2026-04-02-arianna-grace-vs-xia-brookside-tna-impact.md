@@ -62,8 +62,8 @@ tags: [arianna-grace, xia-brookside, tna-impact-2026, singles, sin-clase, final-
 
 - [ ] Finish exacto + duración + naturaleza del "accidente".
 - [ ] Motivo y forma del salve de Santana.
-- [ ] Contenido del segmento de Eddie Edwards que sigue [pendiente
-      de take propio del Vehemiurgo].
+- [x] Segmento de Eddie Edwards — resuelto (ver
+      [`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md)).
 
 ## Cross-links
 

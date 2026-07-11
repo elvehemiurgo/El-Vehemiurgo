@@ -182,6 +182,20 @@ sin robarle el foco. Coherente con el crecimiento de Santana como
 performer completo declarado en Sacrifice (s01 2026-07-05). Ver
 [`../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md`](../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md).
 
+### Sesión 2026-07-11 s02 — Responde por Alisha en el contract signing
+
+**Cita verbatim**:
+
+> *"luego Santana habla de la esposa de Eddie, y es como TV de
+> los 90s"*
+>
+> — El Vehemiurgo, 2026-07-11 s02 (verbatim)
+
+**Lectura sintética**: Santana devuelve el golpe personal
+mencionando a Alisha — escalada mutua estilo Attitude Era. El
+salve de Slater lo protege cuando Cedric emboscó. Ver
+[`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).
