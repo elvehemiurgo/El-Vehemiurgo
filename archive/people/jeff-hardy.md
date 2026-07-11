@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jeff-hardy
 estado: vivo
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Panteón de héroes fundamentales del Vehemiurgo (Dios del Wrestling #5)"
   - "Volcado Vehemiurgo 2026-06-17 #13 (modelo de poses babyface para Slater) + #19 (match vs Myers TNA 26/3)"
@@ -106,6 +106,21 @@ techo del mic de TNA), Jeff cumple como complemento verbal — no es
 el orador del equipo pero aporta líneas buenas. El reparto de
 roles del tag veterano aplica también al mic. Ver
 [`../segments/2026-04-02-matt-hardy-promo-tna-impact.md`](../segments/2026-04-02-matt-hardy-promo-tna-impact.md).
+
+### Sesión 2026-07-11 s04 — "Sigue siendo el dios del wrestling"
+
+**Cita verbatim**:
+
+> *"Los Hardys tuvieron una buena lucha con Righteous, Jeff Hardy
+> sigue siendo el dios del wrestling"*
+>
+> — El Vehemiurgo, 2026-07-11 s04 (verbatim)
+
+**Lectura sintética**: ratificación en vivo del puesto **DIOS DEL
+WRESTLING #5 (Tier 1)** — a los 48+ [verif edad], en el go-home
+antes de perder los tag titles en Rebellion, la evidencia semanal
+sigue. Ver
+[`../matches/2026-04-09-hardys-vs-righteous-tna-impact.md`](../matches/2026-04-09-hardys-vs-righteous-tna-impact.md).
 
 ## Pendientes / huecos
 

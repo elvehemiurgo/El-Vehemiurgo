@@ -106,6 +106,23 @@ alineación con la faction (misma línea abierta desde el trios de
 Sacrifice). Ver
 [`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md).
 
+### Sesión 2026-07-11 s04 — El registro cumbre individual: opener de Rebellion PW·FS·WE
+
+**Cita verbatim**:
+
+> *"super cardiaco Cedric y Slater, la lucha perfecta,
+> improvisacsión [sic], psicologia [sic], spots, secuencias
+> oldschool, se merece todas las clasesm [sic], fue increible"*
+>
+> — El Vehemiurgo, 2026-07-11 s04 (verbatim)
+
+**Lectura sintética**: tras un año documentado como "estabilizador
+técnico" y pieza de faction, el singles cumbre — Perfect Match en
+el opener de Rebellion (cayó ante Slater, que retuvo el X
+Division Title). La derrota no entierra: el opener de PPV a este
+nivel es plataforma. Ver
+[`../matches/2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md`](../matches/2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento exacta.

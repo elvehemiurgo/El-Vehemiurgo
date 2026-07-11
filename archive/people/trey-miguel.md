@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: trey-miguel
 estado: vivo
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #12 (*'babyface cool, un poco cringe a veces, pero sólido'*)"
   - "Lista personal verbatim: 3 entradas Trey 2025-2026"
@@ -82,6 +82,24 @@ Mustafa Ali en Rebellion (11/4/2026)** [PWTorch, 13-abr-2026]. El
 programa con Ali que el mixed tag de Sacrifice cocinaba (zip-ties
 incluidos) era build de título — la "química" declarada por el
 Vehemiurgo tuvo payoff en PPV.
+
+### Sesión 2026-07-11 s04 — La maduración del babyface
+
+**Cita verbatim**:
+
+> *"Trey tambien estuvo gtenial [sic — genial] como babyface,
+> ahora está más cool, más maduro, con menos peso encima, es un
+> programa muy bueno con Ali"*
+>
+> — El Vehemiurgo, 2026-07-11 s04 (verbatim)
+
+**Lectura sintética**: de "muy buena química con Ali" (s02,
+2026-07-05) a babyface hecho — *"más cool, más maduro, con menos
+peso encima"*: dejó de sobreactuar la responsabilidad. El programa
+completo (Sacrifice → 9/4 → Rebellion, donde perdió el
+International con Ali) lo deja mejor posicionado que antes del
+título: el que pierde bien también sale elevado. Ver
+[`../matches/2026-04-09-mustafa-ali-vs-trey-miguel-tna-impact.md`](../matches/2026-04-09-mustafa-ali-vs-trey-miguel-tna-impact.md).
 
 ## Pendientes / huecos
 

@@ -223,6 +223,24 @@ encima de todo lo demás del segmento — *"increíble"*. Reactiva el
 tag con Santana ya visto el 26/3 en el build de Rebellion. Ver
 [`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md).
 
+### Sesión 2026-07-11 s04 — Segundo Perfect Match: el opener de Rebellion
+
+**Cita verbatim**:
+
+> *"el opener de tna 2026 04 11 TNA Rebellion super cardiaco
+> Cedric y Slater, la lucha perfecta, improvisacsión [sic],
+> psicologia [sic], spots, secuencias oldschool, se merece todas
+> las clasesm [sic], fue increible"*
+>
+> — El Vehemiurgo, 2026-07-11 s04 (verbatim)
+
+**Lectura sintética**: **segundo Perfect Match en el archivo**
+(dream rematch vs Nemeth 5/3 → este). Retiene el X Division Title
+en el opener de PPV con el desglose completo de la doctrina:
+improvisación + psicología + spots + secuencias oldschool. El
+salve del contract signing (2/4) pagó en el ring. Ver
+[`../matches/2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md`](../matches/2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.

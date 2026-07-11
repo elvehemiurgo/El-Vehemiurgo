@@ -24,8 +24,11 @@ con cada cambio de estado.
 | 2026-04-14 | Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance | WWE NXT / NXT Revenge Week 1 | — | en-investigacion | 1 | [→](2026-04-14-dorian-van-dux-loss-nxt-revenge-week-1.md) |
 | 2026-04-13 | JD McDonagh & Rusev vs Dragon Lee & Jevon Evans | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-13-jd-mcdonagh-rusev-vs-dragon-lee-jevon-evans-raw.md) |
 | 2026-04-12 | Young Bucks vs Okada & Takeshita | AEW / Dynasty 2026 (PPV) | PW·FS·WE | stub | 1 | [→](2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md) |
+| 2026-04-11 | Leon Slater (c) vs Cedric Alexander — X Division Championship (opener) | TNA Wrestling / Rebellion 2026 | PW·FS·WE | verificado | 1 | [→](2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md) |
 | 2026-04-11 | Young Bucks vs Hechicero & el clon | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md) |
 | 2026-04-11 | Brawling Birds vs Thekla & Marina Shafir | AEW / Collision | FS | stub | 1 | [→](2026-04-11-brawling-birds-vs-thekla-shafir-aew-collision.md) |
+| 2026-04-09 | The Hardys vs The Righteous [verif lineup exacto] | TNA Wrestling / iMPACT! | — | stub | 1 | [→](2026-04-09-hardys-vs-righteous-tna-impact.md) |
+| 2026-04-09 | Mustafa Ali vs Trey Miguel [verif formato exacto] | TNA Wrestling / iMPACT! | — | stub | 1 | [→](2026-04-09-mustafa-ali-vs-trey-miguel-tna-impact.md) |
 | 2026-04-09 | Myla Grace vs Elayna Black | TNA Wrestling / iMPACT! | — | stub | 1 | [→](2026-04-09-myla-grace-vs-elayna-black-tna-impact.md) |
 | 2026-04-09 | Dani Luna vs [verif rival] | TNA Wrestling / iMPACT! | — | stub | 1 | [→](2026-04-09-dani-luna-tna-impact.md) |
 | 2026-04-08 | Takeshita, Andrade & Mark Davis vs [trío rival] — six-man tag | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md) |

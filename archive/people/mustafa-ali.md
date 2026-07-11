@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mustafa-ali
 estado: vivo
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (declaración 'run generacional + uno de los mejores + selling legendario nivel AJ Styles y Nic Nemeth')"
   - "Lista personal verbatim: 7 entradas TNA 2025-2026 (Ali post-WWE arc)"
@@ -199,6 +199,22 @@ Del dossier `maclin-lesion-y-rebellion-build-2026` (closed):
    (11/4/2026)** [PWTorch, 13-abr-2026] — la lectura del
    Vehemiurgo ("lo están guardando para la oportunidad perfecta")
    confirmada por el booking en dos semanas.
+
+### Sesión 2026-07-11 s04 — "Brillante como siempre" en el go-home con Trey
+
+**Cita verbatim**:
+
+> *"en tna 2026 04 09 iMPACT Ali brillante como siempre, pero Trey
+> tambien estuvo gtenial [sic] como babyface [...] es un programa
+> muy bueno con Ali"*
+>
+> — El Vehemiurgo, 2026-07-11 s04 (verbatim)
+
+**Lectura sintética**: la constancia como rasgo RUNNER UPS — el
+programa con Trey (mixed tag de Sacrifice → go-home 9/4 → título
+International en Rebellion) es el expediente de un heel protegido
+elevando a un babyface en maduración. Ver
+[`../matches/2026-04-09-mustafa-ali-vs-trey-miguel-tna-impact.md`](../matches/2026-04-09-mustafa-ali-vs-trey-miguel-tna-impact.md).
 
 ## Pendientes / huecos
 

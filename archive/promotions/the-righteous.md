@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: promotions
 slug: the-righteous
 estado: vivo
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-07-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (declaración acto cool TNA + Dutch talentazo)"
   - "Sub-agente dutch-bill-carr-carrera-completa-2026 (research 2026-06-17, closed)"
@@ -122,6 +122,22 @@ ring pero el empaque verbal no vende: tienen estilo propio, no
 *cool* marketeable. Diagnóstico de merch/draw, no de oficio — la
 lógica vieja: si el gimmick no conecta, no vende, y la promo es la
 vitrina del gimmick.
+
+### Sesión 2026-07-11 s04 — Otra buena lucha con los Hardys
+
+**Cita verbatim**:
+
+> *"Los Hardys tuvieron una buena lucha con Righteous"*
+>
+> — El Vehemiurgo, 2026-07-11 s04 (verbatim)
+
+**Lectura sintética**: el programa con los Hardys (desde Genesis
+17/1) sigue produciendo — el expediente in-ring de la faction se
+mantiene sólido aun cuando el empaque de promos no cierra (adenda
+s02). [verif dinámica: Vincent hizo tag CON Jeff en Sacrifice
+27/3 y acá vuelven a ser rivales — cronología por reconstruir.]
+Ver
+[`../matches/2026-04-09-hardys-vs-righteous-tna-impact.md`](../matches/2026-04-09-hardys-vs-righteous-tna-impact.md).
 
 ## Pendientes / huecos
 
