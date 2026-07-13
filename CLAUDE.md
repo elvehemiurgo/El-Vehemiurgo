@@ -469,12 +469,23 @@ Detalle en `research/README.md`.
 
 - Stack web (Astro/Hugo/Eleventy). Eso viene cuando haya 8–10 piezas y voz
   consolidada.
-- TikTok, podcast, cualquier canal externo. El repo es la fragua, los canales
-  vienen después.
+- Producción de contenido de canales externos. El repo es la fragua; los
+  canales viven en repos satélite.
 - Branding visual. Texto primero, identidad visual después.
 
 Cualquiera de estos se discute con el Vehemiurgo antes de empezar. No los
 abro por mi cuenta.
+
+### Satélite TikTok (autorizado 2026-07-13)
+
+El canal TikTok existe como **Claude Code satélite** en la PC del
+Vehemiurgo, con repo propio y doctrina de contenido propia. El
+contrato: **VEHEMIURGIA es la fuente de verdad, read-only para el
+satélite** (clona este repo como hermano y hace pull en cada
+arranque); todo conocimiento nuevo entra por ACÁ vía `/volcado` —
+el satélite nunca escribe este repo. Kit de arranque y templates:
+`satelite-tiktok/`. La producción TikTok (estilo, formatos,
+cadencia) NO se maneja en este repo.
 
 ---
 
