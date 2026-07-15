@@ -66,6 +66,7 @@ con cada cambio de estado.
 | 2026-03-12 | Moose vs Cedric Alexander — Street Fight | TNA / Thursday Night iMPACT | FS | stub | 1 | [→](2026-03-12-moose-vs-cedric-alexander-tna-impact.md) |
 | 2026-03-05 | Arianna Grace (c) vs Jodi Threat — TNA Knockouts World Title (primera defensa) | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-03-05-arianna-grace-vs-jodi-threat-tna-impact-primera-defensa.md) |
 | 2026-03-05 | Leon Slater (c) vs Nic Nemeth — Dream Rematch | TNA / Thursday Night iMPACT | PW·FS·WE | stub | 1 | [→](2026-03-05-leon-slater-vs-nic-nemeth-tna-impact-dream-rematch.md) |
+| 2026-03-04 | Main event — trios (3 vs 3) [verif lineup completo] | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-03-04-main-event-trios-aew-dynamite.md) |
 | 2026-02-28 | Sareee & Takumi Iroha vs Hazuki & Fuwa-chan | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-sareee-iroha-vs-hazuki-fuwa-chan-stardom-korakuen.md) |
 | 2026-02-28 | God's Eye (Ami Sourei, Lady C & Ranna Yagami) vs India Sioux, Tabata & Kira | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | en-investigacion | 1 | [→](2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md) |
 | 2026-02-26 | Leon Slater & Mike Santana vs The Nemeths (Nic & Ryan Nemeth) | TNA / Thursday Night iMPACT | PW·FS·WE | stub | 1 | [→](2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md) |

@@ -4,10 +4,10 @@ tipo: fact-sheet
 categoria: people
 slug: mark-davis
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
-tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-verif, heel-genial-vehemiurgo, recurrente-lista-personal, heroes-fundamentales-vehemiurgia, panteon-vehemiurgo-43]
+tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-verif, heel-genial-vehemiurgo, recurrente-lista-personal, heroes-fundamentales-vehemiurgia, panteon-vehemiurgo-43, kyle-fletcher-comparacion, perfect-match-04-marzo]
 ---
 
 # Mark Davis
@@ -58,6 +58,25 @@ tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-
   personal maestra — talent que el Vehemiurgo viene siguiendo,
   no mención aislada.
 
+### Sesión 2026-07-14 s01 — Favorito infravalorado vs Kyle Fletcher
+
+**Cita verbatim**:
+
+> *"el main event 3 contra 3 de aew 2026 03 04 Dynamite se merece
+> las 3 clases, estuvo buenisimo, Mark Davis siempre fue de mis
+> favoritos, infgravalorado [sic] en comparasión [sic] a Kyle,
+> pero AEW le ha dado un protagonismo genial, y está buenisimo el
+> booking y todo lo que hacen en el ring"*
+>
+> — El Vehemiurgo, 2026-07-14 s01 (verbatim)
+
+**Lectura sintética**: primer registro del eje comparativo dentro
+de Aussie Open — Davis leído como **infravalorado frente a Kyle
+Fletcher**, aunque *"siempre fue de mis favoritos"*. AEW le da
+protagonismo dentro de un Perfect Match (PW·FS·WE) en TV semanal,
+no solo en PPV. Ver
+[`../matches/2026-03-04-main-event-trios-aew-dynamite.md`](../matches/2026-03-04-main-event-trios-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen exactos.
@@ -65,12 +84,18 @@ tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-
       RevPro/NJPW/AEW.
 - [ ] Confirmar pertenencia a Don Callis Family + rol 2026.
 - [ ] Apodo Dunkzilla + finisher signature.
-- [ ] Match anchors: vs Adam Page (4 feb 2026), six-man 8 abr
-      2026 — desarrollar cuando haya detalle.
+- [ ] Match anchors: vs Adam Page (4 feb 2026), main event
+      trios 4 mar 2026, six-man 8 abr 2026 — desarrollar cuando
+      haya detalle.
+- [ ] Naturaleza exacta de la comparación con Kyle Fletcher
+      dentro de Aussie Open (¿dinámica de equipo declarada en
+      pantalla o lectura personal del Vehemiurgo?).
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynamite-08-abr-2026.md`](../../notebook/2026-05-26-takes-aew-dynamite-08-abr-2026.md)
   — volcado origen.
+- [`../matches/2026-03-04-main-event-trios-aew-dynamite.md`](../matches/2026-03-04-main-event-trios-aew-dynamite.md)
+  — Perfect Match, favorito infravalorado vs Kyle Fletcher.
 - [`../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md`](../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md)
   — six-man donde es singled out.
