@@ -27,11 +27,14 @@ tags: [mark-davis, will-ospreay, aew-dynamite-2026, singles, perfect-match, figh
 # Mark Davis vs Will Ospreay — AEW Dynamite (22 abr 2026)
 
 > **Perfect Match — las tres clases** (*"merece todas las clases,
-> simplemente increíble"*). El **singles cumbre de Mark Davis**
-> hasta ahora — de comparsa infravalorado frente a Kyle Fletcher
-> (take del 4/3) a protagonista de un Perfect Match contra Will
-> Ospreay. Segundo Perfect Match de Ospreay en pocas semanas (tras
-> vs Hechicero, 15/4).
+> simplemente increíble"*). El **singles cumbre de Mark Davis en
+> TV** — no porque el Vehemiurgo lo descubra recién ahora (le
+> sigue la carrera **desde su etapa indie como "Dunkzilla" en
+> Aussie Open**), sino porque **el booking por fin le da
+> protagonismo de TV en singles a la altura de lo que siempre
+> mereció** (corrección del Vehemiurgo, sesión 2026-07-14 s07).
+> Segundo Perfect Match de Ospreay en pocas semanas (tras vs
+> Hechicero, 15/4).
 
 ## Cita verbatim del Vehemiurgo
 
@@ -43,11 +46,11 @@ tags: [mark-davis, will-ospreay, aew-dynamite-2026, singles, perfect-match, figh
 
 **Lectura sintética**:
 
-1. **La curva de Mark Davis se completa** — de la comparación
-   desfavorable con Fletcher (4/3: *"infravalorado en comparación
-   a Kyle"*) al protagonismo pleno en un Perfect Match singles
-   contra un top act. *"AEW le ha dado un protagonismo genial"*
-   (take del 4/3) queda confirmado con resultado.
+1. **El booking alcanza al aprecio, no al revés** — corrección
+   del Vehemiurgo (s07): su valoración de Davis fue constante
+   desde la etapa indie ("Dunkzilla" en Aussie Open); lo nuevo es
+   que AEW nunca le había dado protagonismo de TV en singles hasta
+   este arco (4/3 → 22/4).
 2. **Reafirmación del panteón** — Mark Davis ya es **Héroe
    Fundamental #43** desde el 2026-06-17; esta declaración es
    entusiasmo reafirmado, no alta nueva.

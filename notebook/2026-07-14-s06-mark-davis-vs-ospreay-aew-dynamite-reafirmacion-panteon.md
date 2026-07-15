@@ -38,11 +38,13 @@ declaración se registra como **reafirmación**, no como alta nueva.
 1. **Segundo Perfect Match de Ospreay en semanas** (tras Ospreay
    vs Hechicero, Spring BreakThru 15/4) — refuerza el patrón de
    gimmick completo + in-ring consistente que ya tiene declarado.
-2. **Singles cumbre para Mark Davis** — de comparsa infravalorado
-   frente a Kyle Fletcher (take del 4/3) a protagonista de un
-   Perfect Match singles contra un top act como Ospreay en menos
-   de dos meses. La curva de "AEW le da protagonismo" (4/3) se
-   confirma con este resultado.
+2. **Singles cumbre para Mark Davis en TV** — protagonista de un
+   Perfect Match singles contra un top act como Ospreay.
+   **Corrección posterior (sesión s07, mismo día)**: no se trata
+   de una curva de opinión del Vehemiurgo — su aprecio por Davis
+   es constante desde la etapa indie ("Dunkzilla" en Aussie Open);
+   lo nuevo es que el booking de TV por fin le da protagonismo en
+   singles.
 3. **"Mark Davis merece estar en el grupo de mis héroes"** — el
    Vehemiurgo ya lo tiene ahí: **Héroe Fundamental #43** desde el
    2026-06-17. Se registra como **reafirmación entusiasta** tras

@@ -19,6 +19,13 @@ tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-
 > en el Tier 2. Rama tag moderno / heel; está en los **Fundamentales
 > (#26-45), sin orden interno** — todos pesan igual).
 >
+> **Favorito de siempre, no descubrimiento reciente** — el
+> Vehemiurgo le sigue la carrera **desde su etapa indie como
+> "Dunkzilla" en Aussie Open**; lo que cambió en 2026 no es su
+> aprecio (constante) sino el **booking**: por primera vez AEW le
+> da protagonismo de TV en singles a la altura de lo que siempre
+> mereció (ver sesión 2026-07-14 s07 abajo).
+>
 > **Stub abierto desde notebook 2026-05-26**. El Vehemiurgo lo
 > singled out: *"Mark Davis se ve genial, es muy cool"* + lució
 > *"genial como heel"* en el six-man del Dynamite 8 abr 2026.
@@ -89,17 +96,49 @@ no solo en PPV. Ver
 
 **Lectura sintética**:
 
-1. **De comparsa infravalorado a protagonista de Perfect Match**
-   — en menos de dos meses, la curva declarada el 4/3
-   (*"infravalorado en comparación a Kyle"* + *"AEW le ha dado un
-   protagonismo genial"*) se confirma con resultado: singles
-   Perfect Match contra Will Ospreay.
+1. **El booking por fin alcanza al aprecio** — no es que el
+   Vehemiurgo "descubriera" a Davis recién en 2026: **corrección
+   en sesión s07** (abajo) — el aprecio viene de su carrera indie.
+   Lo nuevo es el protagonismo de TV: singles Perfect Match contra
+   Will Ospreay.
 2. **Reafirmación del panteón, no alta nueva** — Mark Davis ya es
    **Héroe Fundamental #43** (desde 2026-06-17). El entusiasmo de
    esta sesión ratifica el lugar que ya tiene; no se duplica
    número ni se reordena sin instrucción explícita del
    Vehemiurgo. Ver
    [`../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md`](../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md).
+
+### Sesión 2026-07-14 s07 — Corrección: favorito de siempre, el booking es lo nuevo
+
+**Cita verbatim**:
+
+> *"En realidad Mark Davis siempre me ha parecido genial, pero no
+> ha tenido booking protagonico en tv hasta ahora en singles, así
+> que si he seguido su carrera indie desde que era el dunkzilla de
+> aussie open"*
+>
+> — El Vehemiurgo, 2026-07-14 s07 (verbatim)
+
+**Lectura sintética**:
+
+1. **Corrección de encuadre**: la sesión s01 (4/3) y s06 (22/4) se
+   habían leído en este archivo como una **curva de opinión** del
+   Vehemiurgo hacia Davis ("de infravalorado a protagonista"). El
+   Vehemiurgo aclara que **su aprecio fue constante desde siempre**
+   — lo que faltaba no era convicción personal, era **booking**:
+   AEW nunca le había dado protagonismo de TV en singles hasta
+   este arco (Dynamite 4/3 → Spring BreakThru/Collision → Dynamite
+   22/4).
+2. **Fan de indie desde la era Dunkzilla en Aussie Open** — dato
+   biográfico nuevo: el seguimiento del Vehemiurgo antecede a su
+   etapa AEW/mainstream. Coherente con su patrón de historiador
+   que sigue carreras completas, no solo el momento de exposición
+   masiva (mismo eje que Leon Slater "presente, no futuro" o el
+   run indie de Jada Stone).
+3. **La "infravaloración vs Kyle Fletcher"** (s01, 4/3) se
+   mantiene como lectura válida — es sobre percepción pública /
+   posicionamiento relativo dentro de Aussie Open, no sobre el
+   propio juicio del Vehemiurgo, que siempre fue alto.
 
 ## Pendientes / huecos
 
