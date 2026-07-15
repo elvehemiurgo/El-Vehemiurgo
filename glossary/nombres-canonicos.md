@@ -32,6 +32,7 @@
 |---|---|
 | **Elijah / Elias** | *Elijah* = ring name TNA 2025+ (canónico actual). *Elias* = era WWE 2017-2023. En slugs nuevos usar `elijah`. El slug `...-vs-elias-tna-genesis` quedó como legado. |
 | **Kazarian / Frankie Kazarian** | Ambas formas OK en prosa. Slug único: `frankie-kazarian`. |
+| **"Xia Lee" (dictado)** | Sin correspondencia real — mezcla auditiva de "Lei Ying" + "Xia" (Brookside, mencionada en el mismo take). Resuelve a **Lei Ying Lee** por contexto (gimmick "chinese warrior", crítica de promos en idioma no inglés). NO agregar como variante ciega: "Xia" también refiere legítimamente a Xia Brookside en otros contextos. |
 | **Kira (CMLL) / Kira Summer (TJPW) / Keyra (AAA-CMLL)** | Tres talents distintos. Desambiguación en `archive/people/kira.md` y `keyra.md`. |
 | **Myla Grace / Mila Moore** | Dos talents distintas (TNA Knockouts). No unificar. |
 | **Bear Bronson / Bear Boulder** | Distintos (ex-Bear Country ambos). |

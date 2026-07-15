@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: will-ospreay
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-13
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026"
   - "Multiple retrospectivas Cornette critical + Meltzer favorable"
@@ -93,6 +93,28 @@ periodo + diagnostic talent del modelo workrate-first.
   quiere como rivalidad del año (top heel amado vs workrate
   polémico) y teme el **booking reciclado** (Moxley/Strickland/
   Hangman forzados otra vez). Cross-link [`./mjf.md`](./mjf.md).
+
+### Sesión 2026-07-13 s01 — Modelo positivo: gimmick completo
+
+**Cita verbatim**:
+
+> *"como Will Ospreay que es el babyface revolucionario con cosas
+> polémicas en su pasado pero siempre tiene algo elegante o
+> ridículo que decir para salir de las ruinas, tiene a Tony Khan
+> en el bolsillo y tiene luchas épicas y tiene toda la mitología de
+> su era de Assassin's Creed y sus años en Japón, tiene el acento,
+> tiene los apodos, es un gimmick completo; eso es un wrestler"*
+>
+> — El Vehemiurgo, 2026-07-13 s01 (verbatim)
+
+**Lectura sintética**: citado junto a Low Ki como los dos modelos
+positivos de la doctrina del gimmick como extensión del artista —
+la mitología acumulada (era Assassin's Creed, años en Japón,
+acento, apodos, controversias reales) hace que el personaje sea
+indistinguible del artista. Cruza con la pieza diagnóstica ya
+abierta: el workrate se sostiene *porque* el gimmick es completo,
+no a pesar de él. Ver
+[`../topics/doctrina-gimmick-extension-del-artista.md`](../topics/doctrina-gimmick-extension-del-artista.md).
 
 ## Piezas relacionadas
 

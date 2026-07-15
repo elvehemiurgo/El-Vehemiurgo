@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lei-ying-lee
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-13
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #9 (análisis post-reign + run babyface OK + spots geniales + restando strikes innecesarios)"
   - "Dossier closed m-by-elegance-no-surrender-2026 (campeona desplazada por Arianna Grace en No Surrender 13 feb 2026)"
@@ -124,6 +124,47 @@ pero cumple ejes parciales.
 - **Demanda editorial**: *"sí quiero más luchas de ella"* — techo
   de acto ≠ techo in-ring. Triple threat FS·WE en Sacrifice:
   [`../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md`](../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md).
+
+### Sesión 2026-07-13 s01 — El gimmick diluido: doctrina completa
+
+**Cita verbatim**:
+
+> *"es cool in ring, y el personaje tipo chinese warrior, tipo low
+> ki que quiere vender cuando abraza ese gimmick, es genial, tiene
+> buenos movimientos, mejores strikes que antes, pero cuando corta
+> una promo, vuelve a ser la babyface genérica y agradeciendo por
+> la oportunidad, es como si el significado de gimmick se ha
+> diluido, como si fuera solo el gear que te pones para luchar
+> [...] históricamente encasillarte en un gimmick que no habla
+> inglés en tv wrestling occidental, de por sí es mala idea,
+> además usas el gimmick a medias priorizando tus redes sociales
+> en vez de actuar como wrestler, de verdad planea ser la primera
+> oriental silenciosa en revolucionar esos gimmicks? [...] en el
+> mejor de los casos te convertirías en una especie de Asuka o Iyo
+> Sky, que no necesariamente son cool [...] no veo la visión, la
+> visión de estos talentos es ser hot en instagram [...] pero no
+> son wrestlers 100%"*
+>
+> — El Vehemiurgo, 2026-07-13 s01 (verbatim; dictado como "Xia
+> Lee" — ver nota de identificación en el notebook fuente)
+
+**Lectura sintética**:
+
+1. **El techo se profundiza**: de "el idioma limita el acto"
+   (2026-07-05 s01) a un diagnóstico estructural — el gimmick
+   *"chinese warrior"* funciona en el ring (mejores strikes que
+   nunca) pero se apaga en la promo, donde vuelve a ser babyface
+   genérica agradecida. **El gimmick no vive fuera del ring.**
+2. **La sospecha de prioridad**: usar el gimmick a medias mientras
+   se prioriza redes sociales — la crítica más dura del
+   Vehemiurgo hasta ahora sobre esta talent.
+3. **El techo de categoría**: en el mejor caso, el resultado es un
+   Asuka o Iyo Sky — actos que ni siquiera son *cool* en su propia
+   empresa. Pronóstico de riesgo, no descarte.
+4. Ver la doctrina completa:
+   [`../topics/doctrina-gimmick-extension-del-artista.md`](../topics/doctrina-gimmick-extension-del-artista.md)
+   y el match
+   [`../matches/2026-04-11-arianna-grace-vs-lei-ying-lee-tna-rebellion-ko-title.md`](../matches/2026-04-11-arianna-grace-vs-lei-ying-lee-tna-rebellion-ko-title.md).
 
 ## Pendientes / huecos
 

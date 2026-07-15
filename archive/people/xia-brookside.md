@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: "xia-brookside"
 estado: stub
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-07-13
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-11 s01"
 tags: [xia-brookside, tna, techo-tecnico, indi-hartwell-partner]
@@ -49,6 +49,30 @@ tags: [xia-brookside, tna, techo-tecnico, indi-hartwell-partner]
 Grace — ambas en desarrollo, sin la red de una veterana en el ring
 esta vez (contraste con la primera defensa de Arianna vs Jodi
 Threat, donde el elenco de apoyo compensaba).
+
+### Sesión 2026-07-13 s01 — El mismo acto en todo el planeta
+
+**Cita verbatim**:
+
+> *"lo de girl next door y crush adolescente nunca fue parte de su
+> acto más allá de su entrada, porque siempre recae en ser la
+> babyface que de hecho es infravalorada porque tiene experiencia
+> y su familia, pero es el mismo acto que ya probó en todo el
+> planeta; es como Rick Roode [sic — Robert Roode] en sus últimos
+> años seguía con su acto de 'you sweating hogs...' y eso te
+> limita a un acto como de leyenda WWE"*
+>
+> — El Vehemiurgo, 2026-07-13 s01 (verbatim)
+
+**Lectura sintética**: el gimmick "girl next door" solo aparece en
+la entrada — en el ring y la promo siempre cae de vuelta en la
+babyface genérica. La comparación con Robert Roode (repitiendo un
+acto ya agotado en sus últimos años) marca el riesgo: un acto que
+funcionó en todas partes deja de decir algo nuevo sobre quién es
+la performer. Contraste directo con el diagnóstico técnico previo
+(2026-07-11: *"todavía no son tan pros las dos"* vs Arianna) —
+acá el problema no es técnico, es de gimmick. Ver
+[`../topics/doctrina-gimmick-extension-del-artista.md`](../topics/doctrina-gimmick-extension-del-artista.md).
 
 ## Pendientes / huecos
 

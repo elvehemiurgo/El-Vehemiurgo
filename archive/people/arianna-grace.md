@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: arianna-grace
 estado: vivo
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-07-13
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión TNA No Surrender 13 feb 2026 + arco previo + declaración The Future in 2026 #3)"
   - "Sub-agente m-by-elegance-no-surrender-2026 (2026-06-17): confirma Arianna Grace gana KO World Title en No Surrender"
@@ -277,6 +277,23 @@ Ver
 [`../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md`](../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md)
 y
 [`../matches/2026-04-02-arianna-grace-vs-xia-brookside-tna-impact.md`](../matches/2026-04-02-arianna-grace-vs-xia-brookside-tna-impact.md).
+
+### Sesión 2026-07-13 s01 — Por qué es la campeona: el gimmick abrazado old-school
+
+**Cita verbatim**:
+
+> *"Araiana Grace [sic] es la campeona y tiene más exposición que
+> otras, porque abraza el gimmick en el sentido oldschool"*
+>
+> — El Vehemiurgo, 2026-07-13 s01 (verbatim)
+
+**Lectura sintética**: el Vehemiurgo la usa como la contraprueba
+positiva de la doctrina del gimmick como extensión del artista
+(disparada por el contraste con Lei Ying Lee en el mismo take) —
+consistente con todo el expediente previo (nepo-baby kayfabe bien
+usado, heel chickenshit clásico, "no utiliza patadas innecesarias
+ni promos genéricas"). Ver
+[`../topics/doctrina-gimmick-extension-del-artista.md`](../topics/doctrina-gimmick-extension-del-artista.md).
 
 ## Pendientes / huecos
 
