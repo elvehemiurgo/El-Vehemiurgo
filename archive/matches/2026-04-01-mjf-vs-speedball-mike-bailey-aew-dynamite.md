@@ -25,11 +25,12 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "PERFECT MATCH — las tres clases (Perfect Wrestling + Fighting Spirit + Wrestling Entertainment). 'Fue increíble.' Techo absoluto del oficio (casi unicornio per doctrina)."
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 1 abr 2026)"
   - "Visionado directo del Vehemiurgo"
-tags: [aew-dynamite-2026, mjf-top-heel-amado, speedball-mike-bailey, perfect-match-las-tres-clases, perfect-wrestling-class, fighting-spirit-class, wrestling-entertainment-class, techo-absoluto-casi-unicornio, primer-triple-clase-contemporaneo-2026-declarado-en-vivo, identidad-contexto-pendiente-verif]
+  - "Volcado Vehemiurgo 2026-07-14 s03 (elaboración + contract signing + queja de booking)"
+tags: [aew-dynamite-2026, mjf-top-heel-amado, speedball-mike-bailey, perfect-match-las-tres-clases, perfect-wrestling-class, fighting-spirit-class, wrestling-entertainment-class, techo-absoluto-casi-unicornio, primer-triple-clase-contemporaneo-2026-declarado-en-vivo, identidad-contexto-pendiente-verif, kenny-omega-campeon-error-booking, mjf-removido-camino-a-wembley]
 ---
 
 # MJF vs Speedball Mike Bailey — AEW Dynamite (1 abr 2026)
@@ -77,6 +78,40 @@ tags: [aew-dynamite-2026, mjf-top-heel-amado, speedball-mike-bailey, perfect-mat
   Pendiente desarrollar qué ejes Perfect cumple (booking,
   resultado, consecuencia, construir estrellas).
 
+## Elaboración — Sesión 2026-07-14 s03
+
+**Cita verbatim**:
+
+> *"mjf vs [Speedball Mike Bailey] estuvo genial, se merece las 3
+> clases, el booking está bien, aunque [Bailey] como que se ahogó
+> en su promo en el segmento de la firma de contrato camino a
+> esta lucha [...] pero esta lucha estuvo buenisima, este
+> babyface es un acto muy bueno, ojalá le meta más a las promos,
+> solo le falta eso, estuvo buenisimo"*
+>
+> — El Vehemiurgo, 2026-07-14 s03 (verbatim; dictado original
+> decía "Bayley" — resuelto a Speedball Mike Bailey, mismo match
+> ya registrado)
+
+**Lectura sintética**:
+
+1. **Reafirmación de la triple clase** — mismo veredicto que en
+   mayo, sin matices nuevos sobre el match en sí: *"genial"*,
+   *"buenísima"*, *"buenísimo"*.
+2. **El pendiente de Bailey ya se veía en la semilla**: en el
+   contract signing previo *"se ahogó en su promo"* — coherente
+   con el diagnóstico de esta misma sesión (*"ojalá le meta más a
+   las promos, solo le falta eso"*). Ver
+   [`../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md`](../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md)
+   y la ficha
+   [`../people/speedball-mike-bailey.md`](../people/speedball-mike-bailey.md).
+3. **Queja de booking aparte del match**: Kenny Omega como
+   campeón le parece un error, y sacar a MJF del camino al main
+   event de Wembley (All In) no le gustó — el Vehemiurgo declara
+   que profundizará más adelante. Ver
+   [`../people/mjf.md`](../people/mjf.md) y
+   [`../people/kenny-omega.md`](../people/kenny-omega.md).
+
 ## Pendientes / huecos
 
 - [x] **CLASE ASIGNADA** — Perfect Wrestling + Fighting Spirit +
@@ -86,7 +121,7 @@ tags: [aew-dynamite-2026, mjf-top-heel-amado, speedball-mike-bailey, perfect-mat
 - [ ] **Ciudad, recinto, finish, ganador, duración**.
 - [ ] **Desarrollar la Lectura**: qué ejes Perfect cumple — por
       qué define (vs el FS+WE de PAC/Ospreay).
-- [ ] **Fact-sheet Speedball Mike Bailey** — pendiente apertura.
+- [x] **Fact-sheet Speedball Mike Bailey** — abierta 2026-07-14.
 - [ ] Relación con el arco MJF 2026 (post-Hangman, pre/post
       Kenny Omega — ver notebook 25 mar 2026).
 
@@ -99,3 +134,9 @@ tags: [aew-dynamite-2026, mjf-top-heel-amado, speedball-mike-bailey, perfect-mat
   — volcado origen.
 - [`../../glossary/clases-vehemiurgo.md`](../../glossary/clases-vehemiurgo.md)
   — doctrina (combo de las tres = techo absoluto).
+- [`../people/speedball-mike-bailey.md`](../people/speedball-mike-bailey.md)
+  — ficha abierta 2026-07-14.
+- [`../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md`](../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md)
+  — contract signing previo, mismo show.
+- [`../people/kenny-omega.md`](../people/kenny-omega.md) — queja
+  de booking (campeón, 2026-07-14).

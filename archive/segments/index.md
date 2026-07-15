@@ -32,6 +32,7 @@ cada alta y con cada cambio de estado.
 | 2026-04-02 | Contract signing — Eddie Edwards vs Mike Santana (Rebellion) | TNA Wrestling / iMPACT! | contract signing | — | stub | 1 | [→](2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md) |
 | 2026-04-02 | Backstage — Mike Santana, Arianna Grace & Stacks | TNA Wrestling / iMPACT! | backstage | — | stub | 1 | [→](2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md) |
 | 2026-04-02 | Matt Hardy — promo en Impact | TNA Wrestling / iMPACT! | promo | — | stub | 1 | [→](2026-04-02-matt-hardy-promo-tna-impact.md) |
+| 2026-04-01 | Contract signing — MJF vs Speedball Mike Bailey | AEW / Dynamite | contract signing | — | stub | 1 | [→](2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md) |
 | 2026-03-27 | Mike Santana — promo en Sacrifice | TNA Wrestling / Sacrifice 2026 | promo | WE | stub | 1 | [→](2026-03-27-mike-santana-promo-tna-sacrifice.md) |
 | 2026-03-27 | Jacob Fatu y Drew McIntyre — segment | WWE / SmackDown | in-ring confrontation / promo segment | — | en-investigacion | 1 | [→](2026-03-27-jacob-fatu-drew-mcintyre-segment-smackdown.md) |
 | 2026-03-25 | FTR vs Orange Cassidy & Roderick Strong: interacción | AEW / Dynamite | in-ring confrontation / interacción | WE | stub | 1 | [→](2026-03-25-ftr-orange-cassidy-roderick-strong-interaccion-dynamite.md) |

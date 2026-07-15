@@ -44,7 +44,7 @@ con cada cambio de estado.
 | 2026-04-04 | Ethan Page vs Ricky Saints vs Joe Hendry vs Tony D'Angelo — fatal 4-way | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
 | 2026-04-02 | Arianna Grace vs Xia Brookside | TNA Wrestling / iMPACT! | — | stub | 1 | [→](2026-04-02-arianna-grace-vs-xia-brookside-tna-impact.md) |
 | 2026-04-02 | Eight-man tag — Ali, Agent Zero, Eddie Edwards & Cedric Alexander vs Santana, Slater, Trey Miguel & Moose | TNA Wrestling / iMPACT! | PW·FS·WE | verificado | 1 | [→](2026-04-02-multi-man-opener-tna-impact.md) |
-| 2026-04-01 | MJF vs Speedball Mike Bailey | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
+| 2026-04-01 | MJF vs Speedball Mike Bailey | AEW (All Elite Wrestling) / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
 | 2026-04-01 | PAC vs Will Ospreay | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-04-01-pac-vs-ospreay-aew-dynamite.md) |
 | 2026-03-28 | Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana | WWE AAA / AAA Rey de Reyes Week 2 | — | en-investigacion | 1 | [→](2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md) |
 | 2026-03-27 | Mike Santana (c) vs Steve Maclin — TNA World Championship (main event; lesión de Maclin) | TNA Wrestling / Sacrifice 2026 | — | verificado | 1 | [→](2026-03-27-main-event-lesion-steve-maclin-tna-sacrifice.md) |

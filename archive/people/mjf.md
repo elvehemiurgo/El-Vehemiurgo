@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mjf
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + CM Punk feud 2022"
   - "MJF Talk Is Jericho appearances + media on-record extenso"
@@ -149,6 +149,29 @@ tags: [mjf, maxwell-jacob-friedman, aew-world-champion, cm-punk-feud-2022, dog-c
 - Build **MJF vs Kenny Omega**. Segmento:
   [`../segments/2026-04-08-mjf-promo-vs-kenny-omega-aew-dynamite.md`](../segments/2026-04-08-mjf-promo-vs-kenny-omega-aew-dynamite.md).
 
+### Sesión 2026-07-14 s03 — Queja de booking: Kenny campeón, MJF fuera del camino a Wembley
+
+**Cita verbatim**:
+
+> *"el booking está bien [...] pero pues Kenny como campeón me
+> parece un error, quitar a mjf del main event camino a wembley
+> no me gustó para nada, pero ya ahondaré en eso en el futuro"*
+>
+> — El Vehemiurgo, 2026-07-14 s03 (verbatim)
+
+**Lectura sintética**: primera queja de booking explícita sobre
+el arco 2026 de MJF — el build post-Hangman (cierre en Revolution
+15/3) apuntaba a Kenny Omega como retador (25/3, 8/4); esta
+sesión confirma que **Kenny terminó siendo campeón** [verif fecha
+y rival del cambio de título], y que eso sacó a MJF del camino al
+**main event de Wembley** (All In). El Vehemiurgo marca la queja
+pero **declara que profundizará más adelante** — no se fabrica el
+razonamiento completo todavía; ver
+[`./kenny-omega.md`](./kenny-omega.md) y el match de esa misma
+noche
+[`../matches/2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md`](../matches/2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md)
+(Perfect Match reafirmada la misma sesión).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)
@@ -158,6 +181,9 @@ tags: [mjf, maxwell-jacob-friedman, aew-world-champion, cm-punk-feud-2022, dog-c
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual
       pendiente.
+- [ ] **Cronología del título 2026**: cuándo/cómo Kenny Omega se
+      volvió campeón + qué estipulación tenía MJF camino a
+      Wembley antes de ser removido [el Vehemiurgo profundizará].
 - [ ] AEW World Champion debut + reigns — piezas editoriales.
 - [ ] The Devil mask storyline 2023-2024 — pieza editorial.
 - [ ] MJF vs Cody Rhodes feud 2019-2020 — pieza editorial

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kenny-omega
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
 tags: [kenny-omega, tyson-smith, the-cleaner, the-elite, bullet-club-leader, njpw-okada-saga, aew-founding-evp, primer-aew-world-champion, one-winged-angel, acto-polarizante-vehemiurgia, frikismo-videojuegos-critica-doctrinal, meltzer-school-workrate-first-opuesto-editorial]
@@ -45,7 +45,9 @@ tags: [kenny-omega, tyson-smith, the-cleaner, the-elite, bullet-club-leader, njp
   Gear nov 2020) + miembro fundador de **The Elite**.
 - **2026** — planteado como **próximo retador de MJF** tras
   el cierre del feud Hangman en Revolution (notebook
-  2026-05-26).
+  2026-05-26). **Confirmado campeón** hacia el 1/4/2026 [verif
+  fecha y rival exactos del cambio de título] — lectura crítica
+  del Vehemiurgo (2026-07-14): *"me parece un error"*.
 
 ## Notas editoriales del Vehemiurgo
 
@@ -124,6 +126,26 @@ choque es doctrinal, no de gusto.
 - Build del feud **MJF vs Kenny Omega**. Segmento:
   [`../segments/2026-04-08-mjf-promo-vs-kenny-omega-aew-dynamite.md`](../segments/2026-04-08-mjf-promo-vs-kenny-omega-aew-dynamite.md).
 
+### Sesión 2026-07-14 s03 — Confirmado campeón; el Vehemiurgo lo lee como error de booking
+
+**Cita verbatim**:
+
+> *"Kenny como campeón me parece un error, quitar a mjf del main
+> event camino a wembley no me gustó para nada, pero ya ahondaré
+> en eso en el futuro"*
+>
+> — El Vehemiurgo, 2026-07-14 s03 (verbatim)
+
+**Lectura sintética**: el build de marzo-abril lo planteaba como
+"próximo retador de MJF"; esta sesión confirma que Omega
+**terminó como campeón** [verif fecha/rival del cambio de
+título], y que eso sacó a MJF de su camino al main event de
+Wembley (All In). Coherente con el acto polarizante ya
+diagnosticado (sesión 2026-05-26): el Vehemiurgo no solo rechaza
+su cosmovisión, ahora también su posición en el título. Declara
+que profundizará más adelante — pendiente, no fabricar el
+razonamiento completo todavía. Ver [`./mjf.md`](./mjf.md).
+
 ## Pendientes / huecos
 
 - [ ] **VERIFICAR CITA**: la atribución *"dijo que no es fan
@@ -139,6 +161,9 @@ choque es doctrinal, no de gusto.
       power (rol creative + EVP) — pieza editorial sobre el
       worker-as-booker.
 - [ ] Feud MJF 2026 — match anchor cuando ocurra.
+- [ ] **Cronología exacta del título** — cuándo y a quién le
+      ganó el campeonato [el Vehemiurgo profundizará su queja de
+      booking más adelante].
 - [ ] Saga Okada — pieza editorial sobre la canonización
       Meltzer vs lectura Cornette-school.
 
