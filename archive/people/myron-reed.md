@@ -73,8 +73,9 @@ tags: [myron-reed, aew, mlw, high-flyer, gran-babyface, buenas-promos, por-que-n
 - [ ] Nombre real, origen, debut, edad.
 - [ ] Trayectoria MLW con fechas/títulos [candidato a `/research`
       si se autoriza].
-- [ ] **Identidad de "Kevin Hart"** en la comparación del
-      Vehemiurgo — no inventar.
+- [x] **Identidad de "Kevin Hart"** — sigue sin resolver; ahora
+      tiene ficha propia ([→](./kevin-hart.md)) tras una segunda
+      aparición (sesión s08, 22/4).
 - [ ] Finish/duración del match vs Okada.
 
 ## Piezas del Vehemiurgo donde aparece
@@ -86,3 +87,4 @@ tags: [myron-reed, aew, mlw, high-flyer, gran-babyface, buenas-promos, por-que-n
 - [`./leon-slater.md`](./leon-slater.md) — el que sí es leído
   como "el futuro".
 - [`./okada.md`](./okada.md) — rival del Perfect Match.
+- [`./kevin-hart.md`](./kevin-hart.md) — identidad sin confirmar.

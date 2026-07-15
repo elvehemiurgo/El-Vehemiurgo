@@ -172,6 +172,43 @@ noche
 [`../matches/2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md`](../matches/2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md)
 (Perfect Match reafirmada la misma sesión).
 
+### Sesión 2026-07-14 s08 — La elaboración prometida: psicología del booking
+
+**Cita verbatim**:
+
+> *"MJF vendió muy bien todo el segmento previo, MJF se merece un
+> entertainment class por este segmento solamente [...] me gusta
+> la ironía de que MJF provocó este escenario por su propia
+> arrogancia, por su culpa Darby es campeón y ahora Tomasso
+> retador, y Kevin Hart le habla de tú a tú, como si MJF se
+> hubiera devaluado al midcard, esa psicología del booking me
+> parece genial, y me siento atrapado por la historia"*
+>
+> — El Vehemiurgo, 2026-07-14 s08 (verbatim)
+
+**Lectura sintética**:
+
+1. **Cumple la promesa de s03** — ahí había dicho *"quitar a mjf
+   del main event camino a Wembley no me gustó para nada [...] ya
+   ahondaré en eso en el futuro"*. Acá profundiza y **cambia de
+   lectura**: no es un error de booking arbitrario — es
+   **consecuencia narrativa de la propia arrogancia de MJF**, que
+   provocó que Darby Allin sea hoy campeón [verif qué título] y
+   Tomasso/Ishii el retador.
+2. **Wrestling Entertainment Class para el segmento previo**,
+   aparte del match que sigue — MJF sigue siendo, para el
+   Vehemiurgo, el mejor vendedor de promo del roster.
+3. **"Devaluado al midcard"** — un talent (Kevin Hart, identidad
+   sin confirmar) le habla de tú a tú, tratándolo como par. La
+   humillación de estatus es la textura concreta de la caída.
+4. **"Me siento atrapado por la historia"** — de la queja de s03
+   a el enganche total: la contraprueba de que, cuando el booking
+   tiene causa y consecuencia, hasta la crítica más dura se vuelve
+   elogio. Ver
+   [`../segments/2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md`](../segments/2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md)
+   y
+   [`../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md`](../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)
@@ -181,9 +218,13 @@ noche
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual
       pendiente.
+- [x] **Elaboración de la queja de booking** — resuelta en
+      sesión s08 (2026-07-14): consecuencia narrativa de la
+      propia arrogancia de MJF (Darby Allin campeón, Tomasso
+      retador).
 - [ ] **Cronología del título 2026**: cuándo/cómo Kenny Omega se
-      volvió campeón + qué estipulación tenía MJF camino a
-      Wembley antes de ser removido [el Vehemiurgo profundizará].
+      volvió campeón + qué título ganó Darby Allin + mecánica
+      exacta que conecta ambos [verif].
 - [ ] AEW World Champion debut + reigns — piezas editoriales.
 - [ ] The Devil mask storyline 2023-2024 — pieza editorial.
 - [ ] MJF vs Cody Rhodes feud 2019-2020 — pieza editorial
