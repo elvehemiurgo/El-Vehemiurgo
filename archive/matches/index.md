@@ -24,6 +24,7 @@ con cada cambio de estado.
 | 2026-04-14 | Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance | WWE NXT / NXT Revenge Week 1 | — | en-investigacion | 1 | [→](2026-04-14-dorian-van-dux-loss-nxt-revenge-week-1.md) |
 | 2026-04-13 | JD McDonagh & Rusev vs Dragon Lee & Jevon Evans | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-13-jd-mcdonagh-rusev-vs-dragon-lee-jevon-evans-raw.md) |
 | 2026-04-12 | Young Bucks vs Okada & Takeshita | AEW / Dynasty 2026 (PPV) | PW·FS·WE | stub | 1 | [→](2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md) |
+| 2026-04-11 | Myron Reed vs Okada | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-04-11-myron-reed-vs-okada-aew-collision.md) |
 | 2026-04-11 | Arianna Grace (c) vs Lei Ying Lee — TNA Knockouts World Championship | TNA Wrestling / Rebellion 2026 | — | verificado | 1 | [→](2026-04-11-arianna-grace-vs-lei-ying-lee-tna-rebellion-ko-title.md) |
 | 2026-04-11 | Leon Slater (c) vs Cedric Alexander — X Division Championship (opener) | TNA Wrestling / Rebellion 2026 | PW·FS·WE | verificado | 1 | [→](2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md) |
 | 2026-04-11 | Young Bucks vs Hechicero & el clon | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md) |
