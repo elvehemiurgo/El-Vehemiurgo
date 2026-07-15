@@ -25,6 +25,7 @@
 | Kelani Jordan | Kelany Jordan |
 | Jada Stone | Jaida Stone |
 | Candice LeRae | Candace Lerae, Candace LeRae |
+| Rick Rude | Rick Roode |
 
 ## Atención — contexto-dependientes (no linteados)
 

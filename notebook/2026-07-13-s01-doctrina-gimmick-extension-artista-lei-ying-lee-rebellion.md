@@ -1,11 +1,11 @@
 ---
 fecha: 2026-07-13
-sesion: "TNA Rebellion 11/4/2026 — Lei Ying Lee y la dilución del gimmick + doctrina 'gimmick como extensión del artista' (Low Ki/Senshi, Ospreay, Roode, Asuka/Iyo Sky)"
+sesion: "TNA Rebellion 11/4/2026 — Lei Ying Lee y la dilución del gimmick + doctrina 'gimmick como extensión del artista' (Low Ki/Senshi, Ospreay, Rick Rude, Asuka/Iyo Sky)"
 topicos:
   - lei-ying-lee-gimmick-diluido-solo-gear
   - arianna-grace-abraza-el-gimmick-oldschool
   - mara-sade-elayna-black-saben-usar-gimmick
-  - xia-brookside-girl-next-door-nunca-fue-el-acto-comparacion-roode
+  - xia-brookside-girl-next-door-nunca-fue-el-acto-comparacion-rick-rude
   - doctrina-gimmick-extension-del-artista
   - low-ki-senshi-modelo-completo
   - will-ospreay-gimmick-completo
@@ -25,7 +25,7 @@ gimmick y para qué sirve**, disparada por el in-ring de **Lei Ying
 Lee** [dictado "Xia Lee" — presumido Lei Ying Lee, ver nota de
 identificación abajo] frente al KOs title de Arianna Grace, y
 extendida a Mara Sadé, Elayna Black, Xia Brookside, con modelos
-positivos (Low Ki/Senshi, Will Ospreay) y de riesgo (Robert Roode,
+positivos (Low Ki/Senshi, Will Ospreay) y de riesgo (Rick Rude,
 Asuka/Iyo Sky).
 
 ### Nota de identificación — "Xia Lee"
@@ -68,8 +68,9 @@ aparece en el mismo take.
 > nunca fue parte de su acto más allá de su entrada, porque siempre
 > recae en ser la babyface que de hecho es infravalorada porque
 > tiene experiencia y su familia, pero es el mismo acto que ya
-> probó en todo el planeta; es como Rick Roode [sic — Robert
-> Roode] en sus últimos años seguía con su acto de 'you sweating
+> probó en todo el planeta; es como Rick Roode [sic — Rick Rude,
+> corregido por el Vehemiurgo 2026-07-14] en sus últimos años
+> seguía con su acto de 'you sweating
 > hogs...' y eso te limita a un acto como de leyenda WWE, pero para
 > personajes como Xia Lee [Lei Ying Lee] cuál es el plan? Es decir,
 > históricamente encasillarte en un gimmick que no habla inglés en
@@ -168,8 +169,11 @@ aparece en el mismo take.
    fue parte del acto más allá de la entrada; cae siempre en la
    babyface genérica infravalorada por experiencia y familia —
    "el mismo acto que ya probó en todo el planeta". Comparación:
-   **Robert Roode** repitiendo "you sweating hogs" en sus últimos
-   años — te encasilla en acto de leyenda WWE.
+   **Rick Rude** repitiendo "you sweating hogs" en sus últimos
+   años — te encasilla en acto de leyenda WWE. [Corrección
+   2026-07-14: resolví mal el dictado a Robert Roode; el
+   Vehemiurgo confirmó que refería a Rick Rude y su rutina
+   sweathogs de los 90s.]
 5. **Low Ki / Senshi** — modelo positivo cumbre de gimmick como
    extensión del artista.
 6. **Will Ospreay** — segundo modelo positivo: gimmick completo

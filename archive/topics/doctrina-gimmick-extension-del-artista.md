@@ -7,7 +7,7 @@ estado: vivo
 ultima_actualizacion: 2026-07-13
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-13 s01 (visión directa — TNA Rebellion 11/4/2026)"
-tags: [doctrina, gimmick, kayfabe-democratizado, low-ki-senshi, will-ospreay, lei-ying-lee, arianna-grace, xia-brookside, robert-roode, asuka-iyo-sky, sustancia-vs-redes-sociales]
+tags: [doctrina, gimmick, kayfabe-democratizado, low-ki-senshi, will-ospreay, lei-ying-lee, arianna-grace, xia-brookside, rick-rude, asuka-iyo-sky, sustancia-vs-redes-sociales]
 ---
 
 # Doctrina — el gimmick como extensión del artista
@@ -17,7 +17,7 @@ tags: [doctrina, gimmick, kayfabe-democratizado, low-ki-senshi, will-ospreay, le
 > garantía de que el fan crea que **vos** sos real, aunque no
 > crea que el wrestling lo es. Con casos positivos (Low Ki/Senshi,
 > Will Ospreay, Arianna Grace) y de riesgo (Lei Ying Lee, Xia
-> Brookside, Robert Roode, Asuka/Iyo Sky).
+> Brookside, Rick Rude, Asuka/Iyo Sky).
 
 ## Cita verbatim del Vehemiurgo (núcleo de la tesis)
 
@@ -116,9 +116,10 @@ no inglés más la prioridad en redes agravan el problema. Ver
 ### Xia Brookside: el mismo acto en todo el planeta
 
 "Girl next door / crush adolescente" que nunca pasó de la
-entrada — comparación con **Robert Roode** repitiendo "you
-sweating hogs" en sus últimos años: el acto que funcionó una vez
-te encasilla en leyenda de una sola nota. Ver
+entrada — comparación con **Rick Rude** repitiendo la rutina de
+los *sweathogs* ("what I'd like to have right now...") en sus
+últimos años: el acto que funcionó una vez te encasilla en
+leyenda de una sola nota. Ver
 [`../people/xia-brookside.md`](../people/xia-brookside.md).
 
 ### Mara Sadé y Elayna Black: no emocionan in-ring, pero saben el oficio del gimmick

@@ -58,7 +58,8 @@ Threat, donde el elenco de apoyo compensaba).
 > acto más allá de su entrada, porque siempre recae en ser la
 > babyface que de hecho es infravalorada porque tiene experiencia
 > y su familia, pero es el mismo acto que ya probó en todo el
-> planeta; es como Rick Roode [sic — Robert Roode] en sus últimos
+> planeta; es como Rick Roode [sic — Rick Rude, confirmado por el
+> Vehemiurgo 2026-07-14] en sus últimos
 > años seguía con su acto de 'you sweating hogs...' y eso te
 > limita a un acto como de leyenda WWE"*
 >
@@ -66,8 +67,9 @@ Threat, donde el elenco de apoyo compensaba).
 
 **Lectura sintética**: el gimmick "girl next door" solo aparece en
 la entrada — en el ring y la promo siempre cae de vuelta en la
-babyface genérica. La comparación con Robert Roode (repitiendo un
-acto ya agotado en sus últimos años) marca el riesgo: un acto que
+babyface genérica. La comparación con Rick Rude (repitiendo la
+rutina de los *sweathogs* en sus últimos años) marca el riesgo: un
+acto que
 funcionó en todas partes deja de decir algo nuevo sobre quién es
 la performer. Contraste directo con el diagnóstico técnico previo
 (2026-07-11: *"todavía no son tan pros las dos"* vs Arianna) —

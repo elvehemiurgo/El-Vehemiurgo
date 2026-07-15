@@ -6,11 +6,21 @@ fecha: 2026-07-13
 fuente_cruda: "notebook/2026-07-13-s01-doctrina-gimmick-extension-artista-lei-ying-lee-rebellion.md"
 doctrina: "archive/topics/doctrina-gimmick-extension-del-artista.md"
 estado: draft
-ultima_actualizacion: 2026-07-13
-tags: [guion, gimmick, lei-ying-lee, arianna-grace, low-ki, will-ospreay, xia-brookside, tna-rebellion-2026]
+ultima_actualizacion: 2026-07-14
+tags: [guion, gimmick, lei-ying-lee, arianna-grace, low-ki, will-ospreay, xia-brookside, rick-rude, tna-rebellion-2026]
 ---
 
 # Guion 001 — El gimmick diluido
+
+> **Regla de estilo del guion afilado (fijada por el Vehemiurgo
+> 2026-07-14)**: el texto base es la opinión del Vehemiurgo TAL
+> CUAL (analogías y estilo intactos); la data y descripción que
+> aporta el copiloto va **en cursiva**, para distinguir a simple
+> vista qué salió del cerebro y qué salió del archivo.
+>
+> **Corrección 2026-07-14**: "Rick Roode" del dictado = **Rick
+> Rude** (la rutina *sweathogs* de los 90s), no Robert Roode.
+> Confirmado por el Vehemiurgo; corregido en todo el guion.
 
 ## 1. La opinión cruda, corregida
 
@@ -46,9 +56,9 @@ puntuación; ni una idea agregada ni suavizada.)*
 > y crush adolescente nunca fue parte de su acto más allá de su
 > entrada, porque siempre recae en ser la babyface que, de hecho,
 > es infravalorada porque tiene experiencia y su familia — pero es
-> el mismo acto que ya probó en todo el planeta. Es como Robert
-> Roode en sus últimos años, que seguía con su acto de *"you
-> sweating hogs…"*, y eso te limita a un acto como de leyenda WWE.
+> el mismo acto que ya probó en todo el planeta. Es como Rick Rude
+> en sus últimos años, que seguía con su acto de *"you sweating
+> hogs…"*, y eso te limita a un acto como de leyenda WWE.
 >
 > Pero para personajes como Lei Ying Lee, ¿cuál es el plan? O sea:
 > históricamente, encasillarte en un gimmick que no habla inglés
@@ -174,6 +184,12 @@ babyface genérico (#5), el requisito a las rivales de Arianna
 - **Xia Brookside**: 13/2 perdió los tag titles vs Elegance Brand
   por screwjob; 2/4 cayó ante Arianna. Background NXT UK/familia
   Brookside: [verif detalles].
+- **Rick Rude**: la rutina *sweathogs* ("What I'd like to have
+  right now is for all you fat, out-of-shape sweathogs...") nació
+  como intro heel en la WWF de fines de los 80s; la siguió usando
+  hasta sus últimos años activos en los 90s (WCW/nWo era como
+  manager/insider). Murió en 1999. [Fechas exactas de cada etapa:
+  verif si el guion las cita.]
 - **Low Ki**: era fundacional de ROH 2002-2005 (en tu archivo:
   AJ Styles & Low Ki vs Daniels & Xavier, ROH 11/1/2003, marcado
   ✓) + TNA X-Division 2002-2008. Etapa WWE como Senshi/Kaval:
@@ -190,108 +206,110 @@ babyface genérico (#5), el requisito a las rivales de Arianna
 
 ## 4. El guion afilado
 
-*(Tu opinión + tu memoria + la data, en tu voz. Listo para
-adaptar en el satélite.)*
+*(Regla de estilo: **tu opinión tal cual salió de tu cerebro** —
+analogías, ritmo y palabras intactas. Lo que está **en cursiva y
+entre corchetes no**: eso es la data y descripción del archivo,
+insertada para afilar cada punto. Al grabar/publicar, la cursiva
+se puede leer como inciso o cortar sin que se caiga el texto.)*
 
 ---
 
-Estoy viendo TNA Rebellion — 11 de abril, Wolstein Center,
-Cleveland — y Lei Ying Lee me confirma algo que vengo anotando
-hace meses: **el significado de "gimmick" se diluyó**. Y esto no
-es un problema de ella sola; es la enfermedad del midcard
-moderno.
+Estoy viendo TNA Rebellion *(11 de abril de 2026, Wolstein
+Center, Cleveland)* y veo que Lei Ying Lee de hecho es cool
+in-ring. El personaje tipo *chinese warrior*, tipo Low Ki, que
+quiere vender cuando abraza ese gimmick, es genial: tiene buenos
+movimientos, mejores strikes que antes *(y esto tiene registro:
+en junio anotaba que venía "restando strikes innecesarios"; hoy
+sus strikes están en el mejor nivel de su carrera)*. Pero cuando
+corta una promo, vuelve a ser la babyface genérica, agradeciendo
+por la oportunidad. Es como si el significado de "gimmick" se
+hubiera diluido — como si fuera solo el gear que te pones para
+luchar.
 
-Vamos por partes. Lei Ying Lee es cool in-ring. En junio escribí
-que era *"un wrestler innovador puliendo su acto"*, que venía
-restando strikes innecesarios — y cumplió: sus strikes nunca se
-vieron mejor que ahora. El personaje *chinese warrior* tipo Low
-Ki que quiere vender cuando abraza el gimmick es genial. Pero
-agarra el micrófono… y desaparece. Vuelve a ser la babyface
-genérica agradeciendo por la oportunidad. La misma promo
-intercambiable que critiqué cuando puse a Arianna Grace en mi
-lista de THE FUTURE: *"promos mediocres de babyface genérico"*.
-El gimmick tratado como si fuera **el gear que te pones para
-luchar**. Y no. El gimmick es otra cosa.
+Se supone que tu gimmick es lo que va a hacer que te vean como
+real. Quizá no crean que el wrestling es real, pero deben creer
+que **tú** eres real: que existe alguien así de loco, auténtico y
+valiente.
 
-Se supone que tu gimmick es lo que hace que te vean como real.
-El fan de 2026 sabe que el wrestling es un work — el kayfabe está
-democratizado, eso no lo lloro. Pero hay algo que no cambió desde
-las ferias: **quizá no crean que el wrestling es real, pero deben
-creer que TÚ eres real**. Que existe alguien así de loco,
-auténtico y valiente. Eso vende boletos desde el carny, y eso no
-lo da el moveset: lo da el gimmick.
+Por eso Arianna Grace es la campeona y tiene más exposición que
+otras: porque abraza el gimmick en el sentido old-school
+*(campeona desde el 13 de febrero en No Surrender — le ganó el
+título justamente a Lei —, con tres defensas ya en el registro:
+Jodi Threat el 5 de marzo, la triple threat de Sacrifice, y la
+revancha con Lei en este mismo Rebellion; hasta el campeón
+mundial Santana le dio el rub backstage el 2 de abril)*. Ya no
+podemos pedir kayfabe al 100% como antes, pero al menos, si estás
+trabajando en TNA, dentro de ese universo, es más productivo
+nutrir tu gimmick, darle dimensiones y actuar como wrestler con
+un gimmick. Siento que las KOs no terminan de entenderlo. Porque
+hay talentos que no me emocionan in-ring, como Mara Sadé o Elayna
+Black *(que acaban de trabajar juntas un No DQ en Sacrifice, con
+victoria de Mara)*, pero la verdad sí le saben a lo del gimmick,
+lo usan a su favor y redondean poco a poco una personalidad en
+TV.
 
-¿La prueba? Arianna Grace. Fue campeona el 13 de febrero en No
-Surrender y desde entonces retuvo contra Jodi Threat, en la
-triple threat de Sacrifice y ahora contra la propia Lei en
-Rebellion. ¿Es la mejor in-ring de la división? No — yo mismo
-escribí que elevar su juego in-ring es *"lo único que le falta"*.
-Pero es la campeona y la que más exposición tiene, hasta con el
-campeón mundial Santana dándole el rub backstage, **porque abraza
-el gimmick en el sentido old-school**: la nepo-baby que manipuló
-a su papá Santino, el noviecito Stacks, el ultimátum, la
-tramposa. Cada cosa que hace sale del mismo personaje, dentro y
-fuera del ring. Y hay talentos que ni me emocionan in-ring — Mara
-Sadé, Elayna Black — pero le saben a lo del gimmick, lo usan a su
-favor, y semana a semana van redondeando una personalidad en TV.
-Eso es entender el oficio.
+Mientras que Xia Brookside, por ejemplo: lo de *girl next door* y
+crush adolescente nunca fue parte de su acto más allá de su
+entrada, porque siempre recae en ser la babyface que, de hecho, es
+infravalorada porque tiene experiencia y su familia — pero es el
+mismo acto que ya probó en todo el planeta *(en lo que va de 2026
+en TNA: perdió los tag titles por screwjob en No Surrender y cayó
+ante Arianna el 2 de abril — siempre en el mismo rol)*. Es como
+Rick Rude en sus últimos años, que seguía con su acto de *"you
+sweating hogs…"* *(la intro heel que nació en la WWF de fines de
+los 80s — "cut the music…" — y que Rude siguió recitando hasta el
+final de su carrera en los 90s)*, y eso te limita a un acto como
+de leyenda WWE.
 
-El contraejemplo es Xia Brookside: lo de *girl next door* y crush
-adolescente nunca pasó de la entrada. Suena la música, termina la
-entrada, y queda la babyface genérica de siempre — infravalorada
-por experiencia y por familia, sí, pero con el mismo acto que ya
-probó en todo el planeta. Es el síndrome Robert Roode de los
-últimos años: *"you sweating hogs…"* para siempre, encasillado en
-acto de leyenda WWE. El acto que funcionó una vez, congelado.
-
-Y entonces, para Lei Ying Lee, ¿cuál es el plan? Porque
+Pero para personajes como Lei Ying Lee, ¿cuál es el plan? O sea:
 históricamente, encasillarte en un gimmick que no habla inglés en
-la TV occidental es mala idea — ya lo escribí como doctrina viendo
-AAA: la promo en idioma no nativo se siente *"como un examen
-oral"* y **resta a todo el acto**. Y encima el gimmick se usa a
-medias, priorizando las redes. ¿De verdad el plan es ser la
-primera oriental silenciosa que revoluciona ese arquetipo? En el
-mejor de los casos terminas siendo una Asuka o una Iyo Sky — y
-seamos honestos: el gimmick a ellas les **pesa** en vez de
-impulsarlas.
+la TV del wrestling occidental, de por sí, es mala idea *(esto ya
+lo escribí como doctrina viendo AAA en mayo: la promo en idioma
+no nativo se siente "como un examen oral" y resta a todo el
+acto)*. Además, usas el gimmick a medias, priorizando tus redes
+sociales en vez de actuar como wrestler. ¿De verdad Lei Ying
+planea ser la primera oriental silenciosa en revolucionar esos
+gimmicks? En el mejor de los casos te convertirías en una especie
+de Asuka o Iyo Sky — que no necesariamente son cool: de hecho WWE
+las pone en situaciones cringe backstage, y el gimmick siempre
+les pesa en vez de impulsarlas.
 
-Ahí está mi problema de fondo: no veo la visión. La visión de
-buena parte de este midcard es ser hot en Instagram, vender los
-8x10 y las fotos al fandom. Respeto el sacrificio físico — eso
-nunca lo voy a negar. Pero si tu objetivo no es ser el mejor
-luchador del mundo sino tener un feed bonito, ¿para qué te
-sacrificas tanto? Esa falta de sustancia es exactamente lo que le
+Entonces no veo la visión. La visión de estos talentos es ser hot
+en Instagram, vender los 2x4 y las fotos thirst-trap a los fans.
+Pero no son wrestlers al 100%. Es respetable el sacrificio que
+hacen y todo, pero me hace preguntar: si tu objetivo no es ser el
+mejor luchador del mundo, sino tener un feed de IG bonito, ¿por
+qué te sacrificas tanto? Es esa falta de sustancia la que le
 quita relevancia a lo que hacen.
 
-Porque el gimmick completo existe y tiene manual. Low Ki fue más
-exitoso que su encarnación Senshi — la versión WWE, el warrior
-oriental a secas, el traje. Low Ki era el warrior oriental **de
-Brooklyn**: con conexiones, con reputación, prize fighter
-radical, difícil en camerinos, boca suelta con los veteranos,
-orgulloso, que no quería dropear títulos, voz grave, promos
-cortas. Eso no era un personaje que se ponía y se sacaba: era
-**una extensión del artista detrás del wrestler**. Y hoy el
-modelo vivo es Will Ospreay — polémico, lo he dicho, pero mira el
-paquete: el babyface revolucionario con pasado turbio que siempre
+Porque incluso se puede mezclar el gimmick con tu vida real. Como
+Low Ki, que es más exitoso que su encarnación Senshi *(Senshi fue
+su versión WWE; el Low Ki original es pieza fundacional de la ROH
+de 2002-2005 y de la X-Division de TNA — la era de AJ Styles,
+Daniels, Danielson, Joe)*, porque ya no era solo el *warrior*
+oriental: era el *warrior* oriental **de Brooklyn**, con
+conexiones, reputación, prize fighter radical, difícil en
+camerinos, violento backstage, boca suelta con los veteranos,
+orgulloso, que no quiere dropear títulos, voz grave y promos
+cortas. **Ese es un gimmick completo: una extensión del artista
+detrás del wrestler.** Como Will Ospreay, que es el babyface
+revolucionario con cosas polémicas en su pasado pero siempre
 tiene algo elegante o ridículo que decir para salir de las
-ruinas, la mitología de su era Assassin's Creed, los años en
-Japón, el acento, los apodos, Tony Khan en el bolsillo, y las
-luchas épicas encima de todo eso. Un gimmick completo. **Eso es
-un wrestler.**
+ruinas; tiene a Tony Khan en el bolsillo, tiene luchas épicas,
+tiene toda la mitología de su era de Assassin's Creed y sus años
+en Japón *(Best of the Super Juniors 2016, campeón IWGP
+Heavyweight 2023, campeón International en AEW, y un return en
+Revolution este 15 de marzo)*, tiene el acento, tiene los apodos.
+Es un gimmick completo. **Eso es un wrestler.**
 
-Lo que me molesta es el desdén. El midcard promedio trata el
-gimmick como una reliquia ridícula de los 80s — "oh, es parte del
-wrestling, es divertido" — cuando es **lo fundamental** para que a
-alguien le importe tu pelea o tu carrera. Y ojo: no hace falta
-ser Eric Young o Chris Jericho reinventándose cada seis meses.
-Alcanza con hacer lo que hizo Low Ki, lo que hace Ospreay, lo que
-está haciendo Arianna Grace en TNA ahora mismo: **ir sumando tu
-propia vida al personaje**, y usar esa extensión de ti mismo para
-hacer cosas memorables en TV.
-
-El gimmick no es el gear. El gimmick eres tú, amplificado. Y si
-no lo entiendes, no importa qué tan buenos estén tus strikes:
-nadie va a pagar por verte.
+Me molesta que la mayoría del midcard vea ese lado gimmick del
+wrestling como algo ridículo que se arrastra de los 80s — "oh, es
+parte del wrestling, es divertido" — cuando es **lo fundamental**
+para que a la gente le importe tu pelea o tu carrera de luchador.
+Y no es necesario ser un Eric Young o un Chris Jericho
+refrescando el gimmick seguido: vas sumando cosas de la vida y
+aprovechas esta extensión de ti mismo para hacer cosas memorables
+en TV.
 
 ---
 
@@ -299,6 +317,8 @@ nadie va a pagar por verte.
 
 - [ ] [verif] identidad Xia Li → Lei Ying Lee antes de publicar
       cualquier versión que la mencione como ex-WWE.
+- [ ] [verif] fechas exactas de las etapas de Rick Rude (WWF/WCW)
+      si el guion las cita con precisión.
 - [ ] Asuka/Iyo backstage cringe: es opinión tuya, no dato — el
       guion la presenta como juicio, no como reporte. OK así.
 - [ ] Adaptación a formato TikTok: trabajo del satélite.

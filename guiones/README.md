@@ -16,9 +16,13 @@ editorial con el backup completo del archivo.
    los dossiers de research, cada uno con fuente. Lo no
    confirmado va marcado [verif] / [no registrado] — **jamás se
    afirma en el guion final**.
-4. **El guion afilado** — la opinión + la memoria + la data,
-   entretejidas en la voz del Vehemiurgo, listas para grabar o
-   publicar. Primera persona siempre.
+4. **El guion afilado** — regla de estilo fijada por el
+   Vehemiurgo (2026-07-14): el texto base es **su opinión TAL
+   CUAL** — analogías, ritmo y palabras intactas (solo gramática
+   corregida). La data y descripción que aporta el copiloto se
+   inserta **en cursiva y entre paréntesis**, distinguible a
+   simple vista y recortable sin que el texto se caiga. Primera
+   persona siempre.
 
 ## Reglas
 
