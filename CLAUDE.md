@@ -305,6 +305,12 @@ Cuando vuelva, integro y cito.
   `luchadores-conteo-personal`, `eventos-watch-list-vehemiurgo`):
   **generadas, no se editan a mano**; se regeneran (sub-agente)
   al cierre de toda sesión que agregue fichas.
+- **Guiones editoriales** (`guiones/`): ante "hazme un guion" /
+  "quiero otro guion" sobre un take, correr el pipeline de
+  `guiones/README.md` — cruda corregida → memoria del archivo →
+  data real con fuentes → guion afilado (texto del Vehemiurgo TAL
+  CUAL + data del copiloto en cursiva entre paréntesis).
+  Numeración `guion-NNN-<slug>.md`.
 - **Research**: ciclo único vía skill `/research` — una entrada
   nunca queda a medias entre `pending.md` y `closed.md`; celdas de
   closed.md ≤ ~500 caracteres (el dossier íntegro va a `dossiers/`
