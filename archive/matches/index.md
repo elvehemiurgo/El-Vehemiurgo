@@ -64,6 +64,7 @@ con cada cambio de estado.
 | 2026-03-15 | Young Bucks vs FTR | AEW / Revolution 2026 | — | en-investigacion | 1 | [→](2026-03-15-young-bucks-vs-ftr-aew-revolution.md) |
 | 2026-03-12 | Elijah (ex-Elias) vs AJ Francis | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-03-12-elijah-vs-aj-francis-tna-impact.md) |
 | 2026-03-12 | Moose vs Cedric Alexander — Street Fight | TNA / Thursday Night iMPACT | FS | stub | 1 | [→](2026-03-12-moose-vs-cedric-alexander-tna-impact.md) |
+| 2026-03-06 | Mei Seira & Starlight Kid vs Las Indomables [verif integrantes] | CMLL / La Noche de las Amazonas | PW·FS·WE | stub | 1 | [→](2026-03-06-mei-seira-starlight-kid-vs-las-indomables-cmll-amazonas.md) |
 | 2026-03-05 | Arianna Grace (c) vs Jodi Threat — TNA Knockouts World Title (primera defensa) | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-03-05-arianna-grace-vs-jodi-threat-tna-impact-primera-defensa.md) |
 | 2026-03-05 | Leon Slater (c) vs Nic Nemeth — Dream Rematch | TNA / Thursday Night iMPACT | PW·FS·WE | stub | 1 | [→](2026-03-05-leon-slater-vs-nic-nemeth-tna-impact-dream-rematch.md) |
 | 2026-03-04 | Main event — trios (3 vs 3) [verif lineup completo] | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-03-04-main-event-trios-aew-dynamite.md) |
