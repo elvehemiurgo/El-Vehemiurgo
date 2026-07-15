@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: thekla
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcados AEW Dynamite 25 mar + Collision 11 abr 2026)"
 tags: [thekla, stardom-austriaca, god-s-eye-oedo-tai-verif, proyecto-thekla, nivel-fatal-influence, aew-stardom-partnership-verif, fighting-spirit-recurrente, spider-gimmick-verif]
@@ -60,6 +60,23 @@ tags: [thekla, stardom-austriaca, god-s-eye-oedo-tai-verif, proyecto-thekla, niv
   (AEW) vs Fatal Influence (WWE)** como facciones femeninas
   top del periodo.
 
+### Sesión 2026-07-14 s05 — Carga la promo, Wrestling Entertainment Class
+
+**Cita verbatim**:
+
+> *"Tekhla [sic] tiene una gran promo, Windsor le seguia el
+> ritmo, pero si tienen ganas de hacer algo memorable, me gustó
+> el estiilo, y le daria el enterteinment class a este segmenteo
+> de hecho, si"*
+>
+> — El Vehemiurgo, 2026-07-14 s05 (verbatim)
+
+**Lectura sintética**: primer registro de Thekla cargando un
+segmento de **mic** (sus dos matches previos eran Fighting
+Spirit) — el proyecto muestra rango: no solo pelea, también
+vende con la voz. Windsor la acompaña sin liderar. Ver
+[`../segments/2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md`](../segments/2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen austríaco exactos.
@@ -78,3 +95,5 @@ tags: [thekla, stardom-austriaca, god-s-eye-oedo-tai-verif, proyecto-thekla, niv
   — Fighting Spirit.
 - [`../matches/2026-04-11-brawling-birds-vs-thekla-shafir-aew-collision.md`](../matches/2026-04-11-brawling-birds-vs-thekla-shafir-aew-collision.md)
   — Fighting Spirit ("clásico").
+- [`../segments/2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md`](../segments/2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md)
+  — Wrestling Entertainment (primera promo cargada).

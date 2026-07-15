@@ -15,6 +15,7 @@ cada alta y con cada cambio de estado.
 | 2026-04-24 | Jacob Fatu — segmento (con promos Jimmy y Fatu + Tama Tonga) | WWE / SmackDown | in-ring promo / multi-protagonist segment | — | en-investigacion | 1 | [→](2026-04-24-jacob-fatu-segment-smackdown.md) |
 | 2026-04-24 | Fatal Influence — debut WWE SmackDown (call-up post-WrestleMania 42) | WWE / SmackDown | faction debut / multi-segment | — | en-investigacion | 1 | [→](2026-04-24-fatal-influence-debut-smackdown.md) |
 | 2026-04-20 | JD McDonagh & Finn Bálor: video promo dual (build pre-match) | WWE / Monday Night Raw — Raw After | vignette dual pre-grabada | — | en-investigacion | 0 | [→](2026-04-20-jd-mcdonagh-video-promo-raw.md) |
+| 2026-04-15 | Promo — Thekla & Windsor | AEW / Spring BreakThru | promo (dúo) | WE | stub | 1 | [→](2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md) |
 | 2026-04-14 | Vanity Project & Blake Monroe segment con Robert Stone — 'Listen buddy' | WWE / NXT Revenge — Week 1 | in-ring / backstage segment con GM interino | — | en-investigacion | 1 | [→](2026-04-14-vanity-project-blake-monroe-robert-stone-segment-nxt-revenge-week-1.md) |
 | 2026-04-14 | Saquon Shugars brillante por encima de Miles + Dark State | WWE NXT / NXT Revenge Week 1 | in-ring showcase / character work moment | — | en-investigacion | 1 | [→](2026-04-14-saquon-shugars-brillante-miles-dark-state-nxt-revenge-week-1.md) |
 | 2026-04-13 | LA Knight — hot tag | WWE / Monday Night Raw | spot aislado | — | en-investigacion | 1 | [→](2026-04-13-la-knight-hot-tag-raw.md) |

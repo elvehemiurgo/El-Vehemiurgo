@@ -2,7 +2,7 @@
 segmento: "Windsor & Hayter cortan una promo"
 slug: "windsor-hayter-promo-aew-collision-2026-04-11"
 tipo_segmento: "promo (tag/dúo)"
-protagonistas: ["Jamie Hayter [verif]", "Windsor [verif]"]
+protagonistas: ["Jamie Hayter [verif]", "Windsor"]
 empresa: "AEW (All Elite Wrestling)"
 programa: "Collision"
 fecha: 2026-04-11
