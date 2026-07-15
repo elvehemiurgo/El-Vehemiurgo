@@ -13,6 +13,7 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |
 | 2026-04-19 | Rhea Ripley vs Jade Cargill | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-rhea-ripley-vs-jade-cargill-wrestlemania-42.md) |
 | 2026-04-19 | CM Punk vs Roman Reigns | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) |
 | 2026-04-19 | Brock Lesnar vs Oba Femi | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md) |

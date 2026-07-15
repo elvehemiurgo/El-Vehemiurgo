@@ -77,6 +77,30 @@ protagonismo dentro de un Perfect Match (PW·FS·WE) en TV semanal,
 no solo en PPV. Ver
 [`../matches/2026-03-04-main-event-trios-aew-dynamite.md`](../matches/2026-03-04-main-event-trios-aew-dynamite.md).
 
+### Sesión 2026-07-14 s06 — Singles cumbre vs Ospreay + reafirmación del panteón
+
+**Cita verbatim**:
+
+> *"mark davis vs will ospreay es una lucha que merece todas las
+> clases, simplemente increible; Mark Davis merece estar en el
+> grupo de mi heroes"*
+>
+> — El Vehemiurgo, 2026-07-14 s06 (verbatim)
+
+**Lectura sintética**:
+
+1. **De comparsa infravalorado a protagonista de Perfect Match**
+   — en menos de dos meses, la curva declarada el 4/3
+   (*"infravalorado en comparación a Kyle"* + *"AEW le ha dado un
+   protagonismo genial"*) se confirma con resultado: singles
+   Perfect Match contra Will Ospreay.
+2. **Reafirmación del panteón, no alta nueva** — Mark Davis ya es
+   **Héroe Fundamental #43** (desde 2026-06-17). El entusiasmo de
+   esta sesión ratifica el lugar que ya tiene; no se duplica
+   número ni se reordena sin instrucción explícita del
+   Vehemiurgo. Ver
+   [`../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md`](../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen exactos.
@@ -99,3 +123,5 @@ no solo en PPV. Ver
   — Perfect Match, favorito infravalorado vs Kyle Fletcher.
 - [`../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md`](../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md)
   — six-man donde es singled out.
+- [`../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md`](../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md)
+  — singles cumbre, Perfect Match.

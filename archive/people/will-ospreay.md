@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: will-ospreay
 estado: vivo
-ultima_actualizacion: 2026-07-13
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026"
   - "Multiple retrospectivas Cornette critical + Meltzer favorable"
@@ -115,6 +115,21 @@ indistinguible del artista. Cruza con la pieza diagnóstica ya
 abierta: el workrate se sostiene *porque* el gimmick es completo,
 no a pesar de él. Ver
 [`../topics/doctrina-gimmick-extension-del-artista.md`](../topics/doctrina-gimmick-extension-del-artista.md).
+
+### Sesión 2026-07-14 s06 — Segundo Perfect Match seguido: vs Mark Davis
+
+**Cita verbatim**:
+
+> *"mark davis vs will ospreay es una lucha que merece todas las
+> clases, simplemente increible"*
+>
+> — El Vehemiurgo, 2026-07-14 s06 (verbatim)
+
+**Lectura sintética**: segundo Perfect Match consecutivo de
+Ospreay en pocas semanas (tras vs Hechicero, Spring BreakThru
+15/4) — el modelo de "gimmick completo" de la doctrina
+(2026-07-13) sigue rindiendo resultado in-ring parejo. Ver
+[`../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md`](../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md).
 
 ## Piezas relacionadas
 
