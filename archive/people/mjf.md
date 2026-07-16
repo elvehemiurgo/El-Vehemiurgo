@@ -243,6 +243,23 @@ noche
    declive narrativo — MJF eleva rivales incluso perdiendo. Ver
    [`../matches/2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md`](../matches/2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md).
 
+### Sesión 2026-07-14 s10 — Temor: que el booking forzado de Mox arruine su arco
+
+**Cita verbatim**:
+
+> *"espero que el booking forzado de Mox no arruine lo orgánico y
+> genial del booking de MJF"*
+>
+> — El Vehemiurgo, 2026-07-14 s10 (verbatim)
+
+**Lectura sintética**: primera vez que el Vehemiurgo declara
+riesgo concreto sobre el arco de MJF que viene disfrutando con
+entusiasmo creciente (s03: queja inicial → s08: "me siento
+atrapado por la historia" → s09: "personaje principal"). El temor
+nace del disgusto con el giro Moxley/Ospreay (ver
+[`./jon-moxley.md`](./jon-moxley.md)) — si AEW fuerza a Moxley
+donde no corresponde, podría hacerlo también con el arco de MJF.
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

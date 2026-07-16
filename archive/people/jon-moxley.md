@@ -4,10 +4,10 @@ tipo: fact-sheet
 categoria: people
 slug: jon-moxley
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
-tags: [jon-moxley, dean-ambrose, the-shield, death-riders-lider, aew-world-champion-multiple, promos-fake-criterio-vehemiurgo, run-campeon-aburrido-vehemiurgo, combustible-para-ospreay, acto-que-no-le-interesa-al-vehemiurgo]
+tags: [jon-moxley, dean-ambrose, the-shield, death-riders-lider, aew-world-champion-multiple, promos-fake-criterio-vehemiurgo, run-campeon-aburrido-vehemiurgo, combustible-para-ospreay, acto-que-no-le-interesa-al-vehemiurgo, faceturn-rechazado-como-buen-booking, tony-khan-favoritismo-no-es-merito, autoconsciente-debil-masoquista-anti-oldschool, claudio-castagnoli-unico-que-se-salva]
 ---
 
 # Jon Moxley
@@ -91,6 +91,68 @@ Fake"** y a la incoherencia booking-discurso (CLAUDE.md sec. 3:
 *"storylines sin cierre"*, *"confundir contar cabezas con
 draw"*). No es rechazo al hombre ni al oficio en abstracto — es
 rechazo a un **acto cuya retórica no la sostiene el booking**.
+
+### Sesión 2026-07-14 s10 — Escalada total: rechazo al faceturn como buen booking
+
+**Cita verbatim**:
+
+> *"el regreso de Ospreay por la cabeza de Mox era la historia
+> correcta, fue emocionante, ya ahora, los death riders son todos
+> losers, solo Claudio se salva, los demás realmente no ganan
+> nada, no sé qué se supone que Mox les enseña, esa filosofía de
+> los death riders es super ridícula e inconsistente, y la verdad
+> yo no compré el faceturn de Moxley como algo virtuoso o buen
+> booking; la verdad es de los más aburrido en tv, solo porque Mox
+> tiene a Tony Khan en su bolsillo y le deja hacer lo que quiere,
+> no significa que sea buen wrestler, se toma muchas licencias por
+> flojera y no está ni cerca de ser legendario, tiene momentos
+> brillantes porque Mox de hecho es bueno, pero ahora está rodeado
+> de yes men y perdió contacto con la realidad, cree que lo que
+> hace es wrestling, cuando en verdad es una versión autoconsciente
+> débil y masoquista del wrestling, realmente anti oldschool; no sé
+> qué ganas de AEW de huir del verdadero main event que sería MJF
+> vs Ospreay, siempre tienen que forzar a Mox ahí"*
+>
+> — El Vehemiurgo, 2026-07-14 s10 (verbatim)
+
+**Lectura sintética**:
+
+1. **De "no me interesa" a rechazo activo** — en 2026-05-26 el
+   Vehemiurgo decía simplemente que el acto no le interesaba y
+   que Moxley era "buen combustible para Ospreay". Acá escala:
+   **rechaza explícitamente que el face turn sea buen booking o
+   algo virtuoso**.
+2. **Death Riders — veredicto durísimo**: de *"todo el grupo es
+   meh"* (Collision 11/4) a *"todos son losers, solo Claudio se
+   salva"*. La filosofía del grupo (*"solo los mejores son Death
+   Riders"*) pasa de "promo Fake" a *"super ridícula e
+   inconsistente"*.
+3. **Distinción nueva: favoritismo creativo ≠ mérito de oficio**
+   — *"tener a Tony Khan en el bolsillo [...] no significa que
+   sea buen wrestler"*. Reconoce el poder político real de Moxley
+   en la empresa sin que eso compre el juicio editorial.
+4. **"Licencias por flojera"** — el estilo relajado/desprolijo de
+   Moxley no se lee como vanguardia sino como **relajo**; lo aleja
+   de lo legendario pese a "momentos brillantes" reconocidos.
+5. **"Rodeado de yes men, perdió contacto con la realidad"** —
+   diagnóstico de poder sin filtro: nadie le dice que no.
+6. **"Versión autoconsciente débil y masoquista del wrestling,
+   anti-oldschool"** — pieza doctrinal: el self-aware no es malo
+   por sí mismo (cf. el elogio a Santana mirando a cámara,
+   2026-07-11 — *"buena TV"*), pero acá carece de sustancia
+   old-school detrás. El self-aware es herramienta neutra; lo que
+   lo salva o condena es el propósito y el oficio detrás. Ver
+   [`../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md`](../segments/2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md)
+   para el contraste positivo.
+7. **El giro que reemplazó lo que funcionaba**: Ospreay dejándose
+   coachear por Moxley sustituye la cacería post-Revolution que
+   el Vehemiurgo consideraba *"la historia correcta [...]
+   emocionante"*. Ver
+   [`../segments/2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md`](../segments/2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md).
+8. **Reafirma el hope booking MJF vs Ospreay** y agrega temor
+   nuevo: que este booking forzado de Moxley contamine el arco de
+   MJF que el Vehemiurgo viene disfrutando (s03/s08/s09). Ver
+   [`./mjf.md`](./mjf.md).
 
 ## Pendientes / huecos
 

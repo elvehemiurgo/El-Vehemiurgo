@@ -131,6 +131,24 @@ Ospreay en pocas semanas (tras vs Hechicero, Spring BreakThru
 (2026-07-13) sigue rindiendo resultado in-ring parejo. Ver
 [`../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md`](../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md).
 
+### Sesión 2026-07-14 s10 — El giro que reemplaza la cacería: coacheado por Moxley
+
+**Cita verbatim**:
+
+> *"empieza lo de Ospreay dejándose coachear por Moxley, y la
+> verdad me perdieron con este giro, el regreso de Ospreay por la
+> cabeza de Mox era la historia correcta, fue emocionante"*
+>
+> — El Vehemiurgo, 2026-07-14 s10 (verbatim)
+
+**Lectura sintética**: el arco de cacería post-Revolution (que
+funcionaba) se reemplaza por una dinámica de mentoría con Moxley
+— giro que decepciona al Vehemiurgo. Reafirma su *"hope booking"*:
+quiere MJF vs Ospreay como main event real, no a Moxley forzado
+en el medio. Ver
+[`../segments/2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md`](../segments/2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md)
+y [`./jon-moxley.md`](./jon-moxley.md).
+
 ## Piezas relacionadas
 
 - [`../segments/2026-03-15-will-ospreay-returns-aew-revolution.md`](../segments/2026-03-15-will-ospreay-returns-aew-revolution.md)
