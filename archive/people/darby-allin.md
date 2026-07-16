@@ -12,6 +12,10 @@ tags: [darby-allin, aew, campeon-por-culpa-de-mjf, perfect-match-vs-tomasso, sor
 
 # Darby Allin
 
+> **Héroe Fundamental #46 del Vehemiurgo** ([panteón](../topics/heroes-fundamentales-vehemiurgia.md),
+> alta 2026-07-14 — *"han logrado traducir su estilo a algo de
+> mucha calidad en TV"*, sobre su era AEW completa).
+>
 > Primer registro individual del archivo. Campeón **por la propia
 > arrogancia de MJF** [verif qué título] — protagonista de un
 > Perfect Match contra Tomasso [presumido Tomohiro Ishii] que
@@ -83,6 +87,33 @@ arrogancia de MJF (ver [`./mjf.md`](./mjf.md)).
 autenticidad — coherente con su presentación de riesgo físico
 real. Ver
 [`../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md`](../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md).
+
+### Sesión 2026-07-14 s14 — Alta al panteón: Héroe Fundamental #46
+
+**Cita verbatim**:
+
+> *"tambien el main event de darby es genial, contra PAC, fue muy
+> real, se merece todas las clases; y pongamos a Darby de una vez
+> en el panteón de héroes, la verdad estos años en aew se ha
+> vuelto de mis favoritos, han logrado traducir su estilo a algo
+> de mucha calidad en tv"*
+>
+> — El Vehemiurgo, 2026-07-14 s14 (verbatim)
+
+**Lectura sintética**:
+
+1. **Tercer Perfect Match consecutivo** — vs Tomasso (22/4) → vs
+   Brody King (29/4) → vs PAC (9/5). Ver
+   [`../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md`](../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md).
+2. **Alta al panteón — Héroe Fundamental #46** (vía skill
+   `/panteon`, 2026-07-14): sin tier ni número especificado por el
+   Vehemiurgo, se registró al final de los Fundamentales
+   (#26-46), sin orden interno. Ver
+   [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md).
+3. **El elogio es a toda la era AEW**, no solo a un match: *"han
+   logrado traducir su estilo a algo de mucha calidad en TV"* —
+   la consolidación de su presentación de riesgo real como
+   producto de TV sostenido en el tiempo.
 
 ## Pendientes / huecos
 
