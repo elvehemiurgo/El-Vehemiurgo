@@ -13,6 +13,7 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-04-29 | Cope (Adam Copeland) & Christian Cage vs RPG Vice | AEW / Dynamite | WE | stub | 1 | [→](2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md) |
 | 2026-04-29 | MJF vs Kevin Knight | AEW / Dynamite | — | stub | 1 | [→](2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md) |
 | 2026-04-22 | Darby Allin (c) vs Tomasso [sic — presumido Tomohiro Ishii] — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md) |
 | 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |

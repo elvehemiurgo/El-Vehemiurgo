@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: edge
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 + cluster Raw 2004-2005"
   - "E&C Pod of Awesomeness + The Edge & Christian Show + Talk Is Jericho"
@@ -92,6 +92,25 @@ tags: [edge, adam-copeland, rated-r-superstar, edge-and-christian, smackdown-six
   [`./christian-cage.md`](./christian-cage.md) + notebook
   2026-05-26 para la crítica de booking completa (lesiones de
   cuello devaluadas + Beth Phoenix).
+
+### Sesión 2026-07-14 s11 — "Sí puede hablar y hacerlo interesante"
+
+**Cita verbatim**:
+
+> *"no siento que sea malo por la calidad de Cage sobre todo y
+> buen FTR y Copeland que sí pueden hablar y hacerlo interesante;
+> pero lo dilatado que está la cronología ya por años, podría ser
+> mucho mejor"*
+>
+> — El Vehemiurgo, 2026-07-14 s11 (verbatim)
+
+**Lectura sintética**: en el tag vs RPG Vice (Wrestling
+Entertainment declarada), Copeland vuelve a salvar el segmento con
+su manejo del mic — coherente con el diagnóstico previo (*"puede
+hablar y hacerlo interesante"*). La crítica de fondo sigue siendo
+de booking/continuidad (la cronología dilatada), no de la
+ejecución de Copeland. Ver
+[`../matches/2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md`](../matches/2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md).
 
 ## Piezas relacionadas
 

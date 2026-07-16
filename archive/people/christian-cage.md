@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: christian-cage
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 1 'Christian Cage como héroe fundamental'"
   - "Dossieres TNA 2007 + WWE Raw 2004-2005 + WWE SmackDown 2002 + WWE MITB 2013 + AEW 2026"
@@ -202,6 +202,27 @@ héroe fundamental documentado verificablemente:
   notebook 2026-05-26).
 - **"Espero que no los manden a Collision"** = miedo a que el
   acto Christian quede relegado al segundo escalón de show.
+
+### Sesión 2026-07-14 s11 — "Es un dios del wrestling"
+
+**Cita verbatim**:
+
+> *"aunque el booking no me gusta, no siento que sea malo por la
+> calidad de Cage sobre todo [...] pero Christian es un dios del
+> wrestling, siempre va a convertir en oro todo lo que toque, y
+> esta era de su carrera no es la excepción, siempre es must watch
+> y siempre merece al menos un entertainer's class"*
+>
+> — El Vehemiurgo, 2026-07-14 s11 (verbatim)
+
+**Lectura sintética**: reafirmación en caliente, no alta nueva —
+Christian ya es Héroe Fundamental #1 desde el notebook fundacional.
+Confirma otra vez la doctrina que sostiene ese puesto: aunque el
+Vehemiurgo rechace el booking de la cronología general (dilatada
+por años, con el ángulo FTR ya criticado arriba), **la calidad del
+propio Christian está siempre por encima del booking que lo
+rodea** — *"siempre va a convertir en oro todo lo que toque"*. Ver
+[`../matches/2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md`](../matches/2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md).
 
 ## Lectura consolidada del Vehemiurgo
 
