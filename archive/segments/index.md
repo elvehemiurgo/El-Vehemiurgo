@@ -12,6 +12,7 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-05-09 | Post-match — Don Callis & Ricochet | AEW / Collision — Fairway to Hell | promo (post-match) | — | stub | 1 | [→](2026-05-09-don-callis-ricochet-post-match-aew-collision.md) |
 | 2026-04-29 | Ospreay empieza a dejarse coachear por Moxley | AEW / Dynamite | angle / mentoría | — | stub | 1 | [→](2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md) |
 | 2026-04-29 | Thekla — gran promo (asistida por Sky Blue) | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-29-thekla-promo-aew-dynamite.md) |
 | 2026-04-24 | Jacob Fatu — segmento (con promos Jimmy y Fatu + Tama Tonga) | WWE / SmackDown | in-ring promo / multi-protagonist segment | — | en-investigacion | 1 | [→](2026-04-24-jacob-fatu-segment-smackdown.md) |

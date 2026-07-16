@@ -69,6 +69,21 @@ los dos, y aun así el match cumplió las tres clases.
 entretiene**. El reinado es, otra vez, consecuencia de la
 arrogancia de MJF (ver [`./mjf.md`](./mjf.md)).
 
+### Sesión 2026-07-14 s12 — Main event vs Brody King: todas las clases
+
+**Cita verbatim**:
+
+> *"el main event con darby y brody [...] estuvo muy bueno, merece
+> todas las clases, se cuidaron mucho de no verse fake, me gusta
+> cuando la nueva escuela se pone así de oldschool"*
+>
+> — El Vehemiurgo, 2026-07-14 s12 (verbatim)
+
+**Lectura sintética**: Perfect Match con elogio doctrinal de
+autenticidad — coherente con su presentación de riesgo físico
+real. Ver
+[`../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md`](../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.

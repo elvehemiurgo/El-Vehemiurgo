@@ -140,6 +140,36 @@ no solo en PPV. Ver
    posicionamiento relativo dentro de Aussie Open, no sobre el
    propio juicio del Vehemiurgo, que siempre fue alto.
 
+### Sesión 2026-07-14 s13 — Coronación + la pregunta de las promos
+
+**Cita verbatim**:
+
+> *"Mark Davis vs Jack Perry estuvo muy buena, no me gusta el
+> estilo de Perry pero Davis siempre pone un gran show, esta lucha
+> y coronación se merece las 3 clases [...] Mark Davis está cool
+> como monster, no sé cómo empezaría a meterle promos coherentes y
+> geniales"*
+>
+> — El Vehemiurgo, 2026-07-14 s13 (verbatim)
+
+**Lectura sintética**:
+
+1. **La coronación** — pago formal de la trayectoria ascendente
+   (infravalorado 4/3 → singles cumbre vs Ospreay 22/4 → título
+   9/5). Perfect Match pese a que el rival (Jack Perry) no
+   convence al Vehemiurgo por estilo — Davis sostiene la clase
+   solo. Ver
+   [`../matches/2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md`](../matches/2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md).
+2. **"Cool como monster"** — primera vez que el Vehemiurgo nombra
+   el arquetipo de personaje explícitamente para Davis (más allá
+   de "heel genial").
+3. **Pregunta abierta sobre desarrollo, no crítica cerrada**:
+   *"no sé cómo empezaría a meterle promos coherentes y
+   geniales"* — mismo patrón que la pregunta sobre Myron Reed
+   (s04): se registra como pregunta genuina de booking futuro, no
+   como tesis. El in-ring y la presencia ya están resueltos; el
+   mic queda como el siguiente desafío de desarrollo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen exactos.
@@ -153,6 +183,9 @@ no solo en PPV. Ver
 - [ ] Naturaleza exacta de la comparación con Kyle Fletcher
       dentro de Aussie Open (¿dinámica de equipo declarada en
       pantalla o lectura personal del Vehemiurgo?).
+- [ ] [verif] qué título ganó en la coronación del 9/5.
+- [ ] Desarrollo de promos como "monster" — pregunta abierta del
+      Vehemiurgo, sin resolver.
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -164,3 +197,5 @@ no solo en PPV. Ver
   — six-man donde es singled out.
 - [`../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md`](../matches/2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md)
   — singles cumbre, Perfect Match.
+- [`../matches/2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md`](../matches/2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md)
+  — coronación, Perfect Match.

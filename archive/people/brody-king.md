@@ -46,6 +46,20 @@ tags: [brody-king, aew, house-of-black-verif, freaks-main-event-scene, sin-respe
 que MJF, sin querer, elevó al main event con su propia arrogancia
 — ver el eje completo en [`./mjf.md`](./mjf.md).
 
+### Sesión 2026-07-14 s12 — Primer match individual: main event PW·FS·WE
+
+**Cita verbatim**:
+
+> *"el main event con darby y brody [...] estuvo muy bueno, merece
+> todas las clases, se cuidaron mucho de no verse fake"*
+>
+> — El Vehemiurgo, 2026-07-14 s12 (verbatim)
+
+**Lectura sintética**: primer match individual registrado de
+Brody King (antes solo mención dentro del cluster de "freaks" que
+MJF generó) — y entra con triple clase directa. Ver
+[`../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md`](../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria, confirmar si es miembro de House
@@ -55,8 +69,7 @@ que MJF, sin querer, elevó al main event con su propia arrogancia
 
 ## Piezas del Vehemiurgo donde aparece
 
-- (mención dentro del take sobre MJF — sin match/segment propio
-  registrado todavía)
+- [`../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md`](../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md)
 
 ## Cross-links
 
