@@ -12,6 +12,7 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-04-29 | Thekla — gran promo (asistida por Sky Blue) | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-29-thekla-promo-aew-dynamite.md) |
 | 2026-04-24 | Jacob Fatu — segmento (con promos Jimmy y Fatu + Tama Tonga) | WWE / SmackDown | in-ring promo / multi-protagonist segment | — | en-investigacion | 1 | [→](2026-04-24-jacob-fatu-segment-smackdown.md) |
 | 2026-04-24 | Fatal Influence — debut WWE SmackDown (call-up post-WrestleMania 42) | WWE / SmackDown | faction debut / multi-segment | — | en-investigacion | 1 | [→](2026-04-24-fatal-influence-debut-smackdown.md) |
 | 2026-04-22 | MJF — segmento previo al main event | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md) |

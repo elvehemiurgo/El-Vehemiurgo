@@ -52,6 +52,23 @@ tags: [darby-allin, aew, campeon-por-culpa-de-mjf, perfect-match-vs-tomasso, sor
 expectativa baja — no es fan declarado del estilo de ninguno de
 los dos, y aun así el match cumplió las tres clases.
 
+### Sesión 2026-07-14 s09 — El reinado como "fan service" que igual entretiene
+
+**Cita verbatim**:
+
+> *"el booking permite premiar a Darby como babyface con un run
+> con el campeonato, con un reinado fan service, como un greatest
+> hits de Darby Allin que la verdad se me está haciendo
+> entretenido"*
+>
+> — El Vehemiurgo, 2026-07-14 s09 (verbatim)
+
+**Lectura sintética**: lectura con matiz — "fan service" y
+"greatest hits" no son elogio puro en la doctrina del Vehemiurgo
+(sugieren fórmula, no innovación), pero admite que **igual lo
+entretiene**. El reinado es, otra vez, consecuencia de la
+arrogancia de MJF (ver [`./mjf.md`](./mjf.md)).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.

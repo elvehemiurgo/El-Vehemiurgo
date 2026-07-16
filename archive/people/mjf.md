@@ -209,6 +209,40 @@ noche
    y
    [`../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md`](../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md).
 
+### Sesión 2026-07-14 s09 — Dos semanas de "personaje principal" + la ironía workhorse
+
+**Cita verbatim**:
+
+> *"son dos semanas de MJF pidiendo su revancha y ha sido super
+> entretenido, este es el personaje principal, ahora tiene que
+> soportar que Brody King también se le ponga en frente sin
+> respeto, la escena del main event está llena de freaks y todo
+> es culpa de MJF, sin querer se convirtió en el que creó esa
+> oportunidad para el tipo de 'talento workhorse con techo' que
+> tanto critica"*
+>
+> — El Vehemiurgo, 2026-07-14 s09 (verbatim)
+
+**Lectura sintética**:
+
+1. **"El personaje principal"** — dos semanas de historia
+   continua (contract signing s08 → revancha vs Kevin Knight)
+   declaradas *"super entretenido"*: el mejor indicador de que el
+   booking con causa-consecuencia está funcionando.
+2. **La ironía central del arco**: MJF desprecia (en su gimmick)
+   al arquetipo *"talento workhorse con techo"* — y su propia
+   arrogancia le abrió la puerta del main event exactamente a ese
+   tipo de talent. Cruza con
+   [`../topics/doctrina-workhorse-vivir-como-wrestlers.md`](../topics/doctrina-workhorse-vivir-como-wrestlers.md)
+   (la doctrina es del Vehemiurgo; el desprecio, del personaje
+   MJF).
+3. **Brody King se suma** al cluster de "freaks" (junto a Darby
+   Allin, Tomasso/Ishii) que MJF creó sin querer. Ver
+   [`./brody-king.md`](./brody-king.md).
+4. **El upset vs Kevin Knight** (mismo show): otra pieza del
+   declive narrativo — MJF eleva rivales incluso perdiendo. Ver
+   [`../matches/2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md`](../matches/2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

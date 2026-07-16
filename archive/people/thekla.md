@@ -77,6 +77,24 @@ Spirit) — el proyecto muestra rango: no solo pelea, también
 vende con la voz. Windsor la acompaña sin liderar. Ver
 [`../segments/2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md`](../segments/2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md).
 
+### Sesión 2026-07-14 s09 — Segunda WE consecutiva + progreso semanal declarado
+
+**Cita verbatim**:
+
+> *"Thekla se manda una gran promo, se merece la clase de
+> entertainer, estuvo asistida por Sky Blue backstage, y este
+> proyecto luce muy bien, Thekla es una verdadera entertainer que
+> se ve mejor semana a semana"*
+>
+> — El Vehemiurgo, 2026-07-14 s09 (verbatim)
+
+**Lectura sintética**: segunda Wrestling Entertainment consecutiva
+en dos semanas (tras la promo con Windsor en Spring BreakThru,
+15/4) — con progreso explícito declarado ("se ve mejor semana a
+semana"). Nuevo nombre en su órbita: **Sky Blue** (asistencia
+backstage). Ver
+[`../segments/2026-04-29-thekla-promo-aew-dynamite.md`](../segments/2026-04-29-thekla-promo-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen austríaco exactos.

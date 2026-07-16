@@ -26,6 +26,7 @@
 | Jada Stone | Jaida Stone |
 | Candice LeRae | Candace Lerae, Candace LeRae |
 | Rick Rude | Rick Roode |
+| Darby Allin | Darby Allen |
 
 ## Atención — contexto-dependientes (no linteados)
 
