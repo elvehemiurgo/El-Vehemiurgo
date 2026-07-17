@@ -115,6 +115,21 @@ real. Ver
    la consolidación de su presentación de riesgo real como
    producto de TV sostenido en el tiempo.
 
+### Sesión 2026-07-14 s15 — Cuarto Perfect Match consecutivo: vs Takeshita
+
+**Cita verbatim**:
+
+> *"el main event de Darby vs Takeshita, las 3 clases [...]
+> después todo estuvo brutal"*
+>
+> — El Vehemiurgo, 2026-07-14 s15 (verbatim)
+
+**Lectura sintética**: cuarto Perfect Match seguido — vs Tomasso
+(22/4) → vs Brody King (29/4) → vs PAC (9/5) → vs Takeshita
+(13/5). Confirma con creces la alta reciente al panteón (Héroe
+Fundamental #46). Ver
+[`../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md`](../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.
@@ -125,6 +140,9 @@ real. Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md`](../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md)
+- [`../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md`](../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md)
+- [`../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md`](../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md)
+- [`../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md`](../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md)
 
 ## Cross-links
 

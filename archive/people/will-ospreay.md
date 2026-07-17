@@ -149,6 +149,21 @@ en el medio. Ver
 [`../segments/2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md`](../segments/2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md)
 y [`./jon-moxley.md`](./jon-moxley.md).
 
+### Sesión 2026-07-14 s15 — Tercer Perfect Match: vs Ace Austin
+
+**Cita verbatim**:
+
+> *"will ospreay vs ace austin merece las 3 clases, incluso cuando
+> se tropezaban estaba buena la pelea, lo mantuvieron real"*
+>
+> — El Vehemiurgo, 2026-07-14 s15 (verbatim)
+
+**Lectura sintética**: tercer Perfect Match de Ospreay en pocas
+semanas (tras Hechicero 15/4 y Mark Davis 22/4) — la clase se
+sostiene incluso con tropiezos puntuales, porque la credibilidad
+no se rompe. Ver
+[`../matches/2026-05-13-ospreay-vs-ace-austin-aew-dynamite.md`](../matches/2026-05-13-ospreay-vs-ace-austin-aew-dynamite.md).
+
 ## Piezas relacionadas
 
 - [`../segments/2026-03-15-will-ospreay-returns-aew-revolution.md`](../segments/2026-03-15-will-ospreay-returns-aew-revolution.md)

@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-05-13 | Darby Allin vs Konosuke Takeshita — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md) |
+| 2026-05-13 | Will Ospreay vs Ace Austin | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-ospreay-vs-ace-austin-aew-dynamite.md) |
 | 2026-05-09 | Darby Allin vs PAC — main event | AEW / Collision — Fairway to Hell | PW·FS·WE | stub | 1 | [→](2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md) |
 | 2026-05-09 | Mark Davis vs Jack Perry — coronación [verif título] | AEW / Collision — Fairway to Hell | PW·FS·WE | stub | 1 | [→](2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md) |
 | 2026-04-29 | Darby Allin (c) vs Brody King — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md) |
