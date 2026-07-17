@@ -260,6 +260,27 @@ nace del disgusto con el giro Moxley/Ospreay (ver
 [`./jon-moxley.md`](./jon-moxley.md)) — si AEW fuerza a Moxley
 donde no corresponde, podría hacerlo también con el arco de MJF.
 
+### Sesión 2026-07-14 s16 — Contract signing + post-match: consistente, Kevin Knight flaquea
+
+**Cita verbatim**:
+
+> *"el segmento de firma de contrato con MJF y Darby, estuvo
+> genial, el timing me pareció perfecto, realmente se merece la
+> clase de entertainer [...] el segmento post match con MJF
+> estuvo cool, buen selling, buen sendoff, pero Kevin Knight
+> estuvo flojo, como que se está ahogando"*
+>
+> — El Vehemiurgo, 2026-07-14 s16 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el contract
+signing (timing perfecto) + consistencia esperada en el
+post-match (selling, sendoff). El foco crítico de esta sesión no
+es MJF sino Kevin Knight, que empieza a flaquear bajo la presión
+del push. Ver
+[`../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md`](../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md)
+y
+[`../segments/2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md`](../segments/2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

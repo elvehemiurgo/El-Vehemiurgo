@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: young-bucks
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynasty 2026) — declaración de héroes fundamentales"
 tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, superkick-party, bte, tandem-moderno, heroes-fundamentales-vehemiurgia, dos-perfect-match-2026, panteon-vehemiurgo]
@@ -76,6 +76,21 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
   con sustancia de booking.
 - **Pico de forma 2026**: dos Perfect Match en una sola sesión
   de catch-up — el Vehemiurgo los ubica en su mejor momento.
+
+### Sesión 2026-07-14 s16 — Apertura con Jericho: Wrestling Entertainment
+
+**Cita verbatim**:
+
+> *"el segmento que abre con los young bucks y jericho estuvo muy
+> cool si me entretuvo, le doy la clase de entertainer, típico
+> humor de los YBs"*
+>
+> — El Vehemiurgo, 2026-07-14 s16 (verbatim)
+
+**Lectura sintética**: WE consistente con la firma de comedia/
+carisma ya documentada — *"típico humor de los YBs"* funciona
+otra vez, sin necesidad de reinventarse. Ver
+[`../segments/2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md`](../segments/2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md).
 
 ## Pendientes / huecos
 

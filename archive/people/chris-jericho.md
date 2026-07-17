@@ -75,6 +75,21 @@ tags: [chris-jericho, y2j, wcw-1999, wwf-debut-1999, undisputed-champion-2001, c
   Jericho como **veterano-as-anchor** del proyecto AEW
   inaugural.
 
+### Sesión 2026-07-14 s16 — Apertura con los Young Bucks (WE)
+
+**Cita verbatim**:
+
+> *"el segmento que abre con los young bucks y jericho estuvo muy
+> cool si me entretuvo, le doy la clase de entertainer, típico
+> humor de los YBs"*
+>
+> — El Vehemiurgo, 2026-07-14 s16 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment Class para la
+apertura de Dynamite & Collision (20/5/2026), en rol de
+acompañamiento del humor característico de los Young Bucks. Ver
+[`../segments/2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md`](../segments/2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md).
+
 ## Piezas relacionadas
 
 ### Cluster Raw 2004-2005 centerpieces

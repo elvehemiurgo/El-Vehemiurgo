@@ -130,6 +130,25 @@ real. Ver
 Fundamental #46). Ver
 [`../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md`](../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md).
 
+### Sesión 2026-07-14 s16 — Contract signing (WE) + vs Speedball Mike Bailey (sin clase)
+
+**Cita verbatim**:
+
+> *"el segmento de firma de contrato con MJF y Darby, estuvo
+> genial [...] realmente se merece la clase de entertainer [...]
+> la lucha de Darby vs Mike Bayley [Speedball Mike Bailey] estuvo
+> muy buena también"*
+>
+> — El Vehemiurgo, 2026-07-14 s16 (verbatim)
+
+**Lectura sintética**: el contract signing con MJF construye hacia
+un futuro enfrentamiento directo (WE declarada). El match vs
+Speedball Mike Bailey no llegó a triple clase, pero sostiene el
+buen momento de Darby. Ver
+[`../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md`](../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md)
+y
+[`../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md`](../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.
@@ -143,6 +162,8 @@ Fundamental #46). Ver
 - [`../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md`](../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md)
 - [`../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md`](../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md)
 - [`../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md`](../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md)
+- [`../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md`](../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md)
+- [`../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md`](../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md)
 
 ## Cross-links
 

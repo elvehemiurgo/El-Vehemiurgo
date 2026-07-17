@@ -45,6 +45,22 @@ darle a Kevin Knight el mejor match de su carrera y una victoria
 sorpresa — patrón que MJF viene repitiendo con varios rivales
 (Speedball Mike Bailey, Darby Allin) en este arco.
 
+### Sesión 2026-07-14 s16 — Empieza a flaquear bajo presión
+
+**Cita verbatim**:
+
+> *"Kevin Knight estuvo flojo, como que se está ahogando, ahora
+> debe subir el nivel, lo están presionando mucho, más vale que
+> resulte"*
+>
+> — El Vehemiurgo, 2026-07-14 s16 (verbatim)
+
+**Lectura sintética**: primer signo de alarma tras el upset sobre
+MJF (sesión s09) — el Vehemiurgo no cierra el juicio, pero marca
+preocupación concreta por el nivel de presión que está recibiendo
+el push. Ver
+[`../segments/2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md`](../segments/2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

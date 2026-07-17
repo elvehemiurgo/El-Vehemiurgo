@@ -61,6 +61,23 @@ tags: [speedball-mike-bailey, aew, high-flyer, kickboxer, mjf-perfect-match, bab
    modern heel old-school cuya arma principal es la promo; el
    contraste hace más visible el techo verbal de Bailey.
 
+### Sesión 2026-07-14 s16 — Promos mejores, todavía no el paquete completo
+
+**Cita verbatim**:
+
+> *"Bailey se vio muy cool con esa actitud, las promos están
+> mejor, más concisas, pero igual no cierra para terminar de ser
+> el paquete completo, debe acomodarse más todavía"*
+>
+> — El Vehemiurgo, 2026-07-14 s16 (verbatim)
+
+**Lectura sintética**: progreso confirmado en el defecto exacto
+señalado en sesión s03 (*"ojalá le meta más a las promos, solo le
+falta eso"*) — ahora las promos son *"mejor, más concisas"*. El
+Vehemiurgo no declara el desarrollo cerrado: sigue en curso, "debe
+acomodarse más todavía". Ver
+[`../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md`](../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, origen, debut, trayectoria pre-AEW.

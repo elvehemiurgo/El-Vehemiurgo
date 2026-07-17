@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-05-20 | Darby Allin vs Speedball Mike Bailey | AEW / Dynamite & Collision | — | stub | 1 | [→](2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md) |
+| 2026-05-20 | Opener 3 contra 3 [verif participantes] | AEW / Dynamite & Collision | FS | stub | 1 | [→](2026-05-20-opener-3-contra-3-aew-dynamite-collision.md) |
 | 2026-05-13 | Darby Allin vs Konosuke Takeshita — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md) |
 | 2026-05-13 | Will Ospreay vs Ace Austin | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-ospreay-vs-ace-austin-aew-dynamite.md) |
 | 2026-05-09 | Darby Allin vs PAC — main event | AEW / Collision — Fairway to Hell | PW·FS·WE | stub | 1 | [→](2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md) |
