@@ -57,6 +57,26 @@ siendo Perfect Match), pero es una reserva sobre el arco general,
 similar en espíritu a la crítica de "cronología dilatada" que le
 hizo a Christian/FTR (sesión s11).
 
+### Sesión 2026-07-14 s17 — Turn a full babyface
+
+**Cita verbatim**:
+
+> *"Okada vs Takeshita estuvo ok, no me gusta mucho ese estilo
+> super aew que manejan; pero el segmento posterior [...] todo ese
+> booking estuvo buenísimo [...] y ahora con Takeshita full
+> babyface se va a poner cool"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: el match vs Okada no convence por estilo
+(sin clase), pero el segmento posterior con Don Callis y Kyle
+Fletcher culmina en un **turn babyface pleno** — cambio de
+alineación mayor dentro de la órbita heel de Don Callis Family.
+Expectativa positiva declarada. Ver
+[`../matches/2026-05-24-okada-vs-takeshita-aew-double-or-nothing.md`](../matches/2026-05-24-okada-vs-takeshita-aew-double-or-nothing.md)
+y
+[`../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md`](../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (DDT Japón → AEW).

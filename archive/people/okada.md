@@ -55,6 +55,21 @@ el Vehemiurgo viene marcando sobre el striking del wrestling
 contemporáneo (ver también la crítica a Moose/thighslap y a
 Slamovich/Killer Kelly en otras sesiones).
 
+### Sesión 2026-07-14 s17 — vs Takeshita: sin clase, crítica de estilo
+
+**Cita verbatim**:
+
+> *"Okada vs Takeshita estuvo ok, no me gusta mucho ese estilo
+> super aew que manejan"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: primer juicio tibio para Okada en el
+archivo — sin clase, con crítica explícita al "estilo super AEW".
+Contrasta con su Perfect Match previo vs Myron Reed (Collision
+11/4). Ver
+[`../matches/2026-05-24-okada-vs-takeshita-aew-double-or-nothing.md`](../matches/2026-05-24-okada-vs-takeshita-aew-double-or-nothing.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, debut, cronología NJPW con títulos.

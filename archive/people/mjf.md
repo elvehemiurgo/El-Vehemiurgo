@@ -281,6 +281,37 @@ del push. Ver
 y
 [`../segments/2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md`](../segments/2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s17 — Segmento con Foley y Darby (WE)
+
+**Cita verbatim**:
+
+> *"el segmento con foley darby y mjf estuvo muy bueno, se merece
+> la clase de entertainment"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: continuación del arco con Darby (contract
+signing 13/5) en Double or Nothing, con Mick Foley sumando peso
+de leyenda. Ver
+[`../segments/2026-05-24-foley-darby-mjf-aew-double-or-nothing.md`](../segments/2026-05-24-foley-darby-mjf-aew-double-or-nothing.md).
+
+### Sesión 2026-07-14 s17 — Main event vs Darby: histórico, sin clase
+
+**Cita verbatim**:
+
+> *"el main event de Darby y MJF estuvo buenísimo, fue histórico,
+> y sí crearon reacciones geniales, la idea de usar sangre en la
+> nuca es radical pero fue todo un drama y el climax de la lucha
+> estuvo muy cardíaco"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: el pago de todo el arco documentado desde
+la sesión s03. Elogio máximo de la sesión ("histórico"), sin
+invocar vocabulario de clase — doctrina aplicada con rigor incluso
+en el punto más alto del arco. Ver
+[`../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md`](../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

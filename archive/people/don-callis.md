@@ -50,6 +50,20 @@ tags: [don-callis, don-callis-family, aew, veterano-del-mic, siempre-entretenido
 con el rol de mic-work que sostiene a Don Callis Family como
 modelo positivo de grey booking desde el manifiesto fundacional.
 
+### Sesión 2026-07-14 s17 — El mejor booking de la noche
+
+**Cita verbatim**:
+
+> *"todo el asunto con Don Callis interviniendo, todo ese booking
+> estuvo buenísimo, hasta el climax, fue muy satisfactorio [...]
+> estuvo perfecto, el booking me gustó"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: elogio de booking puro, sin invocar clase
+— consecuencia directa: el turn babyface de Takeshita. Ver
+[`../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md`](../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (comentarista/manager/

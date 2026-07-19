@@ -112,6 +112,20 @@ de booking/continuidad (la cronología dilatada), no de la
 ejecución de Copeland. Ver
 [`../matches/2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md`](../matches/2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md).
 
+### Sesión 2026-07-14 s17 — Street Fight vs FTR: triple clase con reserva
+
+**Cita verbatim**:
+
+> *"cope and cage vs ftr [...] se merece todas las clases [...]
+> aunque la lucha como tal es muy accidentada y se apoya demasiado
+> en el juego de cámaras para no verse mal"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: mismo veredicto que en la ficha de
+Christian Cage — triple clase con reserva técnica fuerte. Ver
+[`../matches/2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md`](../matches/2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md).
+
 ## Piezas relacionadas
 
 - [`./christian-cage.md`](./christian-cage.md) — hermandad

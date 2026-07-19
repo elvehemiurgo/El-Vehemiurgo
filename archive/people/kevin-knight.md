@@ -61,6 +61,23 @@ preocupación concreta por el nivel de presión que está recibiendo
 el push. Ver
 [`../segments/2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md`](../segments/2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s17 — El turn: "excepcional", el riesgo se paga
+
+**Cita verbatim**:
+
+> *"encima lo de Kevin Knight, fue excepcional, es un gran riesgo,
+> y la atmósfera que crearon con este turn se aprecia mucho,
+> genuinamente algo sorpresivo, estuvo muy bien hecho"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: consecuencia directa de la preocupación de
+la sesión s16 (*"se está ahogando [...] más vale que resulte"*).
+El riesgo del push se paga con un turn que el Vehemiurgo declara
+genuinamente sorpresivo y bien ejecutado — sin invocar clase, pero
+con el elogio más alto posible en términos de booking. Ver
+[`../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md`](../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

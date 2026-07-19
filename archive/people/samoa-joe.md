@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: samoa-joe
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster TNA 2007 + ROH founding generation"
   - "Múltiples retrospectivas + Talk Is Jericho appearances"
@@ -68,6 +68,20 @@ tags: [samoa-joe, the-samoan-submission-machine, roh-pillar-2003-2007, tna-pilla
   + match cumbre Hard Justice 2007. Pieza editorial obligatoria.
 - **Anoaʻi family extended**: Samoan wrestling tradition cross-
   link con Roman Reigns + Jacob Fatu + Bloodline + The Rock.
+
+### Sesión 2026-07-14 s17 — "Siempre Joe pone buenas luchas"
+
+**Cita verbatim**:
+
+> *"Ospreay vs Joe estuvo muy buena, siempre Joe pone buenas
+> luchas [...] esta lucha estuvo cool, merece todas las clases"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: reafirmación consistente del Dios del
+Wrestling Tier 1 #4 — Perfect Match declarado en Double or
+Nothing. Ver
+[`../matches/2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md`](../matches/2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md).
 
 ## Piezas relacionadas
 

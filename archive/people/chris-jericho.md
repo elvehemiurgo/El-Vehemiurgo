@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chris-jericho
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster Raw 2004-2005 + WCW 1999"
   - "Talk Is Jericho podcast (host) — material on-record extensivo"
@@ -89,6 +89,19 @@ tags: [chris-jericho, y2j, wcw-1999, wwf-debut-1999, undisputed-champion-2001, c
 apertura de Dynamite & Collision (20/5/2026), en rol de
 acompañamiento del humor característico de los Young Bucks. Ver
 [`../segments/2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md`](../segments/2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md).
+
+### Sesión 2026-07-14 s17 — Multi-man en Double or Nothing: veredicto inconcluso
+
+**Cita verbatim**:
+
+> *"la lucha multiman con Jericho y todos, estuvo cool, tuvo sus
+> momentos pero no"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim; frase incompleta)
+
+**Lectura sintética**: juicio a medio formar, preservado tal cual.
+Ver
+[`../matches/2026-05-24-multiman-jericho-aew-double-or-nothing.md`](../matches/2026-05-24-multiman-jericho-aew-double-or-nothing.md).
 
 ## Piezas relacionadas
 

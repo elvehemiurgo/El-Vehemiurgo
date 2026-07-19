@@ -12,6 +12,9 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-05-24 | Video de entrada — equipo face (Jericho & MVP) | AEW / Double or Nothing | video package (entrada) | WE | stub | 1 | [→](2026-05-24-video-entrada-jericho-mvp-aew-double-or-nothing.md) |
+| 2026-05-24 | Post-match — Don Callis interviene, Kyle Fletcher: turn babyface de Takeshita | AEW / Double or Nothing | angle / turn | — | stub | 1 | [→](2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md) |
+| 2026-05-24 | Segmento — Mick Foley, Darby Allin & MJF | AEW / Double or Nothing | promo | WE | stub | 1 | [→](2026-05-24-foley-darby-mjf-aew-double-or-nothing.md) |
 | 2026-05-20 | Post-match — MJF (con Kevin Knight) | AEW / Dynamite & Collision | promo (post-match) | — | stub | 1 | [→](2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md) |
 | 2026-05-20 | Apertura — Young Bucks & Chris Jericho | AEW / Dynamite & Collision | promo (apertura de show) | WE | stub | 1 | [→](2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md) |
 | 2026-05-13 | Contract signing — MJF vs Darby Allin | AEW / Dynamite | contract signing | WE | stub | 1 | [→](2026-05-13-mjf-darby-contract-signing-aew-dynamite.md) |

@@ -169,6 +169,21 @@ no se rompe. Ver
 - [`../segments/2026-03-15-will-ospreay-returns-aew-revolution.md`](../segments/2026-03-15-will-ospreay-returns-aew-revolution.md)
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
 
+### Sesión 2026-07-14 s17 — Perfect Match vs Samoa Joe, Death Riders reafirmado como aburrido
+
+**Cita verbatim**:
+
+> *"Ospreay vs Joe estuvo muy buena, siempre Joe pone buenas
+> luchas y aunque el booking de Ospreay con los Death Riders a mi
+> me aburre, esta lucha estuvo cool, merece todas las clases"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: cuarto Perfect Match del ciclo reciente.
+La crítica a los Death Riders (s10) se reafirma, pero el
+Vehemiurgo separa con precisión: este match la trasciende. Ver
+[`../matches/2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md`](../matches/2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md).
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.

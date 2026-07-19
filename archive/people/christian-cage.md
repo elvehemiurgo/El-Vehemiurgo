@@ -224,6 +224,26 @@ propio Christian está siempre por encima del booking que lo
 rodea** — *"siempre va a convertir en oro todo lo que toque"*. Ver
 [`../matches/2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md`](../matches/2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md).
 
+### Sesión 2026-07-14 s17 — Street Fight vs FTR: triple clase con reserva, hiatus redimido
+
+**Cita verbatim**:
+
+> *"cope and cage vs ftr estuvo cool, no soy fan de estas
+> streetfights en el run de Christian en AEW, pero esta lucha si
+> me cautivó, se merece todas las clases [...] ojalá el booking no
+> hubiera tomado un hiatus, pero ahora es más apretado y más
+> emocionante; aunque la lucha como tal es muy accidentada y se
+> apoya demasiado en el juego de cámaras para no verse mal"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: pese al desagrado inicial de formato
+(street fight), la lucha se lleva la triple clase — con una
+reserva técnica fuerte sobre lo accidentada que resultó. El
+hiatus del feud con FTR, ya criticado antes (sesión s11), mejora
+en ritmo tras retomarse. Ver
+[`../matches/2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md`](../matches/2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 **Christian Cage es el caso paradigmático de carny ortodoxo

@@ -149,6 +149,36 @@ buen momento de Darby. Ver
 y
 [`../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md`](../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s17 — Segmento con Foley y MJF (WE)
+
+**Cita verbatim**:
+
+> *"el segmento con foley darby y mjf estuvo muy bueno, se merece
+> la clase de entertainment"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: pieza de mic en Double or Nothing, dentro
+del arco que viene construyéndose desde el contract signing
+(13/5) hacia un enfrentamiento directo con MJF. Ver
+[`../segments/2026-05-24-foley-darby-mjf-aew-double-or-nothing.md`](../segments/2026-05-24-foley-darby-mjf-aew-double-or-nothing.md).
+
+### Sesión 2026-07-14 s17 — Main event histórico vs MJF
+
+**Cita verbatim**:
+
+> *"el main event de Darby y MJF estuvo buenísimo, fue histórico,
+> y sí crearon reacciones geniales [...] el climax de la lucha
+> estuvo muy cardíaco"*
+>
+> — El Vehemiurgo, 2026-07-14 s17 (verbatim)
+
+**Lectura sintética**: cierre (por ahora) del arco con MJF que
+viene desde el contract signing (13/5) — el main event más
+elogiado de todo el ciclo reciente de Darby, aunque sin clase
+declarada. Ver
+[`../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md`](../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.
