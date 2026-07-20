@@ -46,6 +46,24 @@ Vehemiurgo marca una crítica de fondo — parte de su repertorio es
 demasiado moderno/spot-heavy para su gusto; recomienda una base
 más old-school.
 
+### Sesión 2026-07-14 s18 — Segundo Perfect Match, evolución confirmada
+
+**Cita verbatim**:
+
+> *"me encanta la evolución en Ace, cada vez luce más grounded,
+> más fuerte, más como performer confiado que sabe cómo hacer
+> reaccionar a los fans [...] a esta le pondría todas las clases,
+> se lo merece"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: progreso directo desde la crítica de
+repertorio de la sesión s15 ("tiene que dejar ir varias partes de
+su repertorio, ponerse más oldschool") — ahora "más grounded, más
+oldschool" en los hechos. Segundo Perfect Match suyo en el
+archivo. Ver
+[`../matches/2026-05-27-ace-austin-vs-andrade-aew-collision.md`](../matches/2026-05-27-ace-austin-vs-andrade-aew-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (¿TNA X-Division previo a

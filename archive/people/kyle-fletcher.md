@@ -45,6 +45,21 @@ tags: [kyle-fletcher, aussie-open, don-callis-family-verif, aew, primer-registro
 **Lectura sintética**: primer registro, en rol de pieza del
 climax narrativo — sin desarrollo individual todavía.
 
+### Sesión 2026-07-14 s18 — "El selling de Kyle levanta cualquier historia"
+
+**Cita verbatim**:
+
+> *"el segmento post match con Don Callis y Kyle Fletcher, incluso
+> Takeshita con la interrupción, estuvo bueno, conciso, y el
+> selling de Kyle realmente levanta cualquier historia"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: primer elogio individual concreto — su
+venta física se identifica como un activo que mejora el material
+que lo rodea. Ver
+[`../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md`](../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria, rol exacto en Don Callis Family.

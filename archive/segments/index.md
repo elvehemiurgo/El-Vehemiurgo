@@ -12,6 +12,10 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-05-27 | Backstage — Ospreay vs Mark Davis (booking de la lesión de cuello) | AEW / Dynamite & Collision | promo (backstage) | — | stub | 1 | [→](2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md) |
+| 2026-05-27 | Post-match — Don Callis & Kyle Fletcher, con la interrupción de Takeshita (expulsión) | AEW / Dynamite & Collision | angle | — | stub | 1 | [→](2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md) |
+| 2026-05-27 | Promo post-match — Don Callis amenaza a Ospreay | AEW / Dynamite & Collision | promo (post-match) | — | stub | 1 | [→](2026-05-27-don-callis-amenaza-ospreay-aew-dynamite-collision.md) |
+| 2026-05-27 | Segmento — MJF & Rush | AEW / Dynamite & Collision | promo | WE | stub | 1 | [→](2026-05-27-mjf-rush-aew-dynamite-collision.md) |
 | 2026-05-24 | Video de entrada — equipo face (Jericho & MVP) | AEW / Double or Nothing | video package (entrada) | WE | stub | 1 | [→](2026-05-24-video-entrada-jericho-mvp-aew-double-or-nothing.md) |
 | 2026-05-24 | Post-match — Don Callis interviene, Kyle Fletcher: turn babyface de Takeshita | AEW / Double or Nothing | angle / turn | — | stub | 1 | [→](2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md) |
 | 2026-05-24 | Segmento — Mick Foley, Darby Allin & MJF | AEW / Double or Nothing | promo | WE | stub | 1 | [→](2026-05-24-foley-darby-mjf-aew-double-or-nothing.md) |

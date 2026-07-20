@@ -78,6 +78,43 @@ Vehemiurgo no declara el desarrollo cerrado: sigue en curso, "debe
 acomodarse más todavía". Ver
 [`../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md`](../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s18 — La crítica más dura: o Danielson, o Sydal/Chris Daniels
+
+**Nota de identificación**: el dictado usa "Bayley" otra vez para
+este talent (ver notebook s18) — el hilo narrativo encaja con
+sesiones previas ("todavía no alcanza un sweet spot" continúa
+directamente "no cierra para ser el paquete completo", s16). Esta
+sesión agrega una caracterización de gimmick nueva ("tipo exótico
+más o menos no binario") no vista antes — se registra tal cual,
+marcada [verif] por si el Vehemiurgo aclara que se trata de otro
+talent.
+
+**Cita verbatim**:
+
+> *"Bayley es el que todavía no alcanza un sweet spot, además que
+> ahora como babyface singles, no sé a que demografía apuntan, se
+> supone que es un tipo exótico más o menos no binario, pero no es
+> necesariamente el karate kid cool siempre; ahora que ya es un
+> veterano y lo están tratando así, no sé si puedan volver a
+> bookearlo como underdog clásico, tiene que convertirse en algo
+> como Danielson, me refiero a consolidarse como performer que
+> hace sentir al público y puede siempre ser ese babyface que haga
+> que la lucha sea cine y todos lo amen; porque si sigue así de
+> mid, va a terminar como Sydal o Chris Daniels, o sea, un
+> veterano que solo usan para poner over a otros"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: la crítica más extensa hasta ahora sobre su
+carrera — deja de ser un señalamiento puntual ("le falta la
+promo") para convertirse en un ultimátum de trayectoria completa.
+El Vehemiurgo plantea dos destinos posibles: consolidarse como un
+Bryan Danielson (performer que hace sentir al público, "la lucha
+se vuelve cine") o quedar como Matt Sydal o Chris Daniels —
+veteranos de calidad reducidos a dar rub a otros. No se abre ficha
+propia para Danielson/Sydal/Daniels — son puntos de comparación
+dentro de este take, no cobertura individual.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, origen, debut, trayectoria pre-AEW.

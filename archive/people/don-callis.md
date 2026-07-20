@@ -64,6 +64,27 @@ modelo positivo de grey booking desde el manifiesto fundacional.
 — consecuencia directa: el turn babyface de Takeshita. Ver
 [`../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md`](../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s18 — Amenaza a Ospreay + reconocimiento de arco completo
+
+**Cita verbatim**:
+
+> *"la promo after match de Don Callis amenazando a Ospreay estuvo
+> genial; Don es muy bueno, incluso cuando se le caen las gomas;
+> al principio no me emocionaba mucho el booking del grupo de
+> heels que tenía Don Callis; pero después de Revolution y todo el
+> road to Double or Nothing, le metieron el acelerador y les quedó
+> algo genial! Y ahora tenemos la expulsión de Takeshita"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: reconocimiento explícito de mejora sostenida
+del booking de Don Callis Family a lo largo de meses (Revolution →
+road to Double or Nothing → esta sesión), no solo elogio puntual.
+Ver
+[`../segments/2026-05-27-don-callis-amenaza-ospreay-aew-dynamite-collision.md`](../segments/2026-05-27-don-callis-amenaza-ospreay-aew-dynamite-collision.md)
+y
+[`../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md`](../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (comentarista/manager/

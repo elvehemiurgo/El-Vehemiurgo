@@ -78,6 +78,20 @@ genuinamente sorpresivo y bien ejecutado — sin invocar clase, pero
 con el elogio más alto posible en términos de booking. Ver
 [`../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md`](../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s18 — Sigue mejorando, rindiendo frutos
+
+**Cita verbatim**:
+
+> *"otro que mejoró mucho fue Kevin Knight, su promo esta semana
+> estuvo mucho mejor de hecho, está puliéndose a buena velocidad,
+> le pusieron mucha presión y está rindiendo frutos"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: continúa la curva positiva iniciada tras el
+turn de la sesión s17 — la presión del push, que en s16 preocupaba
+al Vehemiurgo, ahora se lee como productiva.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

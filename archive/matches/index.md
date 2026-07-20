@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-05-27 | Ace Austin vs Andrade | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-27-ace-austin-vs-andrade-aew-collision.md) |
+| 2026-05-27 | Mark Davis vs Jack Perry — revancha | AEW / Dynamite & Collision | — | stub | 1 | [→](2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md) |
 | 2026-05-24 | Darby Allin vs MJF — main event | AEW / Double or Nothing | — | stub | 1 | [→](2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md) |
 | 2026-05-24 | Multi-man con Chris Jericho y otros [verif participantes] | AEW / Double or Nothing | — | stub | 1 | [→](2026-05-24-multiman-jericho-aew-double-or-nothing.md) |
 | 2026-05-24 | Will Ospreay vs Samoa Joe | AEW / Double or Nothing | PW·FS·WE | stub | 1 | [→](2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md) |

@@ -184,6 +184,29 @@ La crítica a los Death Riders (s10) se reafirma, pero el
 Vehemiurgo separa con precisión: este match la trasciende. Ver
 [`../matches/2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md`](../matches/2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s18 — Escalada máxima: "nerfeado" para ser sidekick de Moxley
+
+**Cita verbatim**:
+
+> *"Ospreay tiene una muy buena promo contra Mark Davis, el
+> booking estuvo genial [...] lo que no me gusta es que nerfean a
+> Ospreay solo para que ahora siga las órdenes de Moxley [...]
+> este run de Ospreay pudo ser más genial pero los Death Riders
+> siempre tienen que arruinar todo para AEW, una desgracia que no
+> pudieron bookear a Ospreay solo como babyface camino a Wembley
+> Stadium"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: la escalada máxima de la crítica al arco
+Moxley/Death Riders (s10 → s17 → esta sesión). El Vehemiurgo lee
+una lesión de cuello narrativa y la posterior subordinación a
+Moxley como sacrificio deliberado del mejor babyface del regreso
+de Ospreay, con el objetivo perdido nombrado explícito: Wembley
+Stadium. Ver
+[`../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md`](../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md)
+y [`./jon-moxley.md`](./jon-moxley.md).
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.

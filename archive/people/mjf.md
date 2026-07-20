@@ -312,6 +312,20 @@ invocar vocabulario de clase — doctrina aplicada con rigor incluso
 en el punto más alto del arco. Ver
 [`../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md`](../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s18 — Segmento con Rush (WE)
+
+**Cita verbatim**:
+
+> *"el segmento con MJF estuvo genial, se merece el entertainment
+> class, junto con Rush de hecho, esta es la mejor actuación que
+> ha tenido como personalidad de tv"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment compartida con
+Rush, quien recibe el elogio más fuerte de la pieza. Ver
+[`../segments/2026-05-27-mjf-rush-aew-dynamite-collision.md`](../segments/2026-05-27-mjf-rush-aew-dynamite-collision.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

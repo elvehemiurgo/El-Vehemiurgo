@@ -77,6 +77,20 @@ Expectativa positiva declarada. Ver
 y
 [`../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md`](../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s18 — Expulsión confirmada de Don Callis Family
+
+**Cita verbatim**:
+
+> *"ahora tenemos la expulsión de Takeshita y todo el booking de
+> Fletcher que está poniéndose bueno"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: consecuencia directa y confirmada del turn
+babyface declarado en la sesión s17 — la ruptura con Don Callis
+Family queda formalizada. Ver
+[`../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md`](../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (DDT Japón → AEW).

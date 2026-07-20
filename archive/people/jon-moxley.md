@@ -154,6 +154,29 @@ rechazo a un **acto cuya retórica no la sostiene el booking**.
    MJF que el Vehemiurgo viene disfrutando (s03/s08/s09). Ver
    [`./mjf.md`](./mjf.md).
 
+### Sesión 2026-07-14 s18 — Crítica de carácter: "quiere coachear a todos pero llevarse el crédito"
+
+**Cita verbatim**:
+
+> *"ya no quiere ser un mal wrestler que se toma la sangre de sus
+> enemigos y corta promos ridículas, ahora quiere coachear a todos
+> pero llevarse el crédito, es asqueroso ver este tipo de booking,
+> no me gusta para nada, no sé qué tanto te tiene que gustar
+> Moxley para aceptar todas sus ideas somnolientas y tontas [...]
+> Tony Khan está tan ciego con Moxley, que sacrifica a su mejor
+> babyface en su gran regreso, para volverlo en un sidekick de
+> Moxley"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: escalada mayor — ya no es solo que el acto
+de Moxley aburra (s10) o que el giro decepcione (s17): ahora el
+Vehemiurgo lee una motivación egoísta dentro de la ficción
+("llevarse el crédito") y atribuye el problema a favoritismo real
+de Tony Khan en la oficina creativa. Es la crítica más personal y
+más dura registrada hasta ahora contra Moxley. Ver
+[`../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md`](../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: The Shield + Dean Ambrose run WWE

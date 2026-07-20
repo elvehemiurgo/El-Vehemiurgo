@@ -46,6 +46,18 @@ match (triple, sostenida por Davis). No se castiga a Perry por
 mención de pasada — el desagrado queda registrado sin
 desarrollarse más allá de esta línea.
 
+### Sesión 2026-07-14 s18 — Revancha, mismo rechazo de estilo
+
+**Cita verbatim**:
+
+> *"odio las luchas de Perry, es muy fake"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: reafirma el rechazo de estilo ya declarado
+en la coronación del 9/5 ("no me gusta el estilo de Perry"). Ver
+[`../matches/2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md`](../matches/2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

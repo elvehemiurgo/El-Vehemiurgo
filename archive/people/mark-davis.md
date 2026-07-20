@@ -170,6 +170,26 @@ no solo en PPV. Ver
    como tesis. El in-ring y la presencia ya están resueltos; el
    mic queda como el siguiente desafío de desarrollo.
 
+### Sesión 2026-07-14 s18 — Revancha definitiva vs Perry + victoria inteligente vs Ospreay
+
+**Cita verbatim**:
+
+> *"me gustan las luchas de Davis, pero odio las luchas de Perry,
+> es muy fake, pero el hecho de que Mark Davis haya ganado de
+> forma definitiva estuvo genial, me parece buen booking [...]
+> Davis tiene una victoria sobre Ospreay de forma inteligente
+> cuando bookearon su lesión de cuello después de su lucha con
+> Mox, de hecho está muy cool"*
+>
+> — El Vehemiurgo, 2026-07-14 s18 (verbatim)
+
+**Lectura sintética**: doble jornada positiva para Davis — cierre
+definitivo del feud con Jack Perry, y una victoria "inteligente"
+sobre Ospreay que aprovecha una lesión narrativa. Ver
+[`../matches/2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md`](../matches/2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md)
+y
+[`../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md`](../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen exactos.
