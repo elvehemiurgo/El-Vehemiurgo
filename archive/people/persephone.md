@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: persephone
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo, Arena Tony Arellano 21 ene 2025"
@@ -98,6 +98,27 @@ tags: [persephone, cmll-talent, aew-cross-promotion, mercedes-mone-feud-cmll, in
   CMLL** — la mujer-cambio de Sasha Banks WWE post-2022
   exit. Persephone como **opponent definitorio CMLL** del
   Mercedes Moné run.
+
+### Sesión 2026-07-14 s19 — Diagnóstico técnico completo, falta el mic en inglés
+
+**Cita verbatim**:
+
+> *"ya tiene el gimmick, las faciales, la actitud, todo in ring,
+> solo le falta un milímetro para ser una estrella más gigante,
+> ahora tiene el booking de heel extranjero confiado pero que no
+> gana luchas importantes [...] espero que refresquen la fórmula
+> con ella, si no va a terminar como PAC [...] siento que está
+> aprendiendo las cosas correctas, se ve muy fuerte perse"*
+>
+> — El Vehemiurgo, 2026-07-14 s19 (verbatim)
+
+**Lectura sintética**: diagnóstico de carrera con precisión
+técnica — todo el trabajo físico y de presencia ya está resuelto;
+el desarrollo pendiente es específicamente el mic en inglés. El
+Vehemiurgo compara su patrón de booking ("heel extranjero confiado
+que no gana") con PAC y Samoa Joe lesionado, y pide variedad antes
+de que se cristalice. Ver
+[`../segments/2026-05-30-persephone-post-match-aew-collision.md`](../segments/2026-05-30-persephone-post-match-aew-collision.md).
 
 ## Línea editorial fértil
 

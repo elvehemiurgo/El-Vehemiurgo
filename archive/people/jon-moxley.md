@@ -177,6 +177,36 @@ de Tony Khan en la oficina creativa. Es la crítica más personal y
 más dura registrada hasta ahora contra Moxley. Ver
 [`../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md`](../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s19 — Fatiga compartida con Mercedes Moné
+
+**Cita verbatim**:
+
+> *"ojalá ese techo llamado Mercedes Moné ya deje de ser relevante
+> y de estar forzada en nuestras pantallas peor que Moxley [...]
+> ya estoy aburrido de Moné y Moxley"*
+>
+> — El Vehemiurgo, 2026-07-14 s19 (verbatim)
+
+**Lectura sintética**: primera vez que Moxley se menciona junto a
+otro talent como el mismo tipo de fatiga editorial — "forzado en
+pantalla" se vuelve una categoría compartida. Ver
+[`../people/mercedes-mone.md`](../people/mercedes-mone.md).
+
+### Sesión 2026-07-14 s19 (2) — Comentarista que arruina el match de otros
+
+**Cita verbatim**:
+
+> *"lo único malo, fue tener a Moxley en comentarios, que ganas de
+> arruinar todo poniendo a Moxley ahí en medio"*
+>
+> — El Vehemiurgo, 2026-07-14 s19 (verbatim)
+
+**Lectura sintética**: la crítica se extiende más allá de su
+booking como personaje — ahora también como voz de comentarista,
+capaz de restarle a un match ajeno (The Guns vs The Dogs) que de
+otro modo hubiera sido triple clase sin reserva. Ver
+[`../matches/2026-05-30-guns-vs-dogs-aew-collision.md`](../matches/2026-05-30-guns-vs-dogs-aew-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: The Shield + Dean Ambrose run WWE

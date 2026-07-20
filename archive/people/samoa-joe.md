@@ -83,6 +83,23 @@ Wrestling Tier 1 #4 — Perfect Match declarado en Double or
 Nothing. Ver
 [`../matches/2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md`](../matches/2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s19 — "Booking de Samoa Joe lesionado" como referencia de patrón
+
+**Cita verbatim**:
+
+> *"tan temprano en su carrera ya le están dando el booking de
+> Samoa Joe lesionado, o sea, siempre es una amenaza real y es
+> buena para vender su oportunidad como algo que realmente puede
+> pasar, pero nunca gana"*
+>
+> — El Vehemiurgo, 2026-07-14 s19 (verbatim)
+
+**Lectura sintética**: mención de referencia (no take directo
+sobre un match de Joe) — su patrón de "amenaza creíble que nunca
+gana" se convierte en atajo del Vehemiurgo para nombrar un tipo de
+booking de riesgo, aplicado acá a Persephone. Ver
+[`../segments/2026-05-30-persephone-post-match-aew-collision.md`](../segments/2026-05-30-persephone-post-match-aew-collision.md).
+
 ## Piezas relacionadas
 
 - [`../../dossiers/draft-tna-2007-christian-coalition-era.md`](../../dossiers/draft-tna-2007-christian-coalition-era.md)

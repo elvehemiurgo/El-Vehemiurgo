@@ -92,6 +92,22 @@ con el elogio más alto posible en términos de booking. Ver
 turn de la sesión s17 — la presión del push, que en s16 preocupaba
 al Vehemiurgo, ahora se lee como productiva.
 
+### Sesión 2026-07-14 s19 — Caso de éxito de la doctrina de presentación guiada
+
+**Cita verbatim**:
+
+> *"solo miren el éxito de Kevin Knight, es un booking diferente
+> donde ya no asumes que 'la gente debería saber si son fans de
+> verdad' sino que ahora los guías y acompañas para que vean por
+> qué esto es genial"*
+>
+> — El Vehemiurgo, 2026-07-14 s19 (verbatim)
+
+**Lectura sintética**: su desarrollo (upset s09 → preocupación s16
+→ turn s17 → mejora continua s18) se convierte en el caso de
+éxito citado para toda una doctrina de booking nueva. Ver
+[`../topics/doctrina-presentacion-guiada-nuevos-talentos.md`](../topics/doctrina-presentacion-guiada-nuevos-talentos.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: hazuki
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial 2026-05-10 — declaración categórica máxima 'Hazuki is god'"
   - "Sub-agente hazuki-fuera-de-stardom-2026 (dossier 2026-05-10, research closed)"
@@ -222,6 +222,23 @@ Hazuki entra al **cluster de figuras centrales del proyecto**:
   múltiples + WAVE Catch the Wave 2025 + CMLL México +
   **Spark Joshi inaugural World Champion USA 2025** + AEW
   Owen Cup 2026 debut.
+
+### Sesión 2026-07-14 s19 — vs Maya World: consistencia total como babyface
+
+**Cita verbatim**:
+
+> *"Hazuki le regaló una lucha muy dura [...] siempre es buena,
+> siempre emociona como babyface, y verla bookeada así en tv con
+> una victoria y amenazando a la campeona del CMLL es un sueño
+> hecho realidad, estuvo genial"*
+>
+> — El Vehemiurgo, 2026-07-14 s19 (verbatim)
+
+**Lectura sintética**: sin clase declarada, pero reafirmación
+consistente de su lugar en el panteón (Dios del Wrestling Tier 2
+#16) — el Vehemiurgo la trata como garantía segura de calidad
+babyface. Ver
+[`../matches/2026-05-30-hazuki-vs-maya-world-aew-collision.md`](../matches/2026-05-30-hazuki-vs-maya-world-aew-collision.md).
 
 ## Cross-link directo: Hazuki vs Persephone Owen Cup 2026
 

@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-05-30 | The Guns vs The Dogs | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-30-guns-vs-dogs-aew-collision.md) |
+| 2026-05-30 | Hazuki vs Maya World | AEW / Collision | — | stub | 1 | [→](2026-05-30-hazuki-vs-maya-world-aew-collision.md) |
 | 2026-05-27 | Ace Austin vs Andrade | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-27-ace-austin-vs-andrade-aew-collision.md) |
 | 2026-05-27 | Mark Davis vs Jack Perry — revancha | AEW / Dynamite & Collision | — | stub | 1 | [→](2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md) |
 | 2026-05-24 | Darby Allin vs MJF — main event | AEW / Double or Nothing | — | stub | 1 | [→](2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md) |

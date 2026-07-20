@@ -45,6 +45,22 @@ tags: [pac, aew, main-event-fairway-to-hell, muy-real, rival-panteon-darby]
 en el mismo eje de autenticidad ("muy real") que ya viene
 marcando el Vehemiurgo en el tramo reciente de Darby Allin.
 
+### Sesión 2026-07-14 s19 — Referencia de riesgo para Persephone
+
+**Cita verbatim**:
+
+> *"espero que refresquen la fórmula con ella, si no va a terminar
+> como PAC que tiene el mismo booking desde que entró a AEW y solo
+> gana cuando es sidekick de alguien"*
+>
+> — El Vehemiurgo, 2026-07-14 s19 (verbatim)
+
+**Lectura sintética**: PAC se convierte en el ejemplo de referencia
+de un patrón de booking estancado — "heel/talent confiado que no
+gana luchas importantes por su cuenta" — usado como advertencia
+para el desarrollo de Persephone. Ver
+[`../segments/2026-05-30-persephone-post-match-aew-collision.md`](../segments/2026-05-30-persephone-post-match-aew-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (PWG/NJPW/WWE
