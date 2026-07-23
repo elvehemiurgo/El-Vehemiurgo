@@ -206,6 +206,21 @@ pudo originarse en la ausencia forzada de su compañero de tag,
 Jake Doyle, no en un plan deliberado desde el inicio. Ver
 [`../people/jake-doyle.md`](../people/jake-doyle.md).
 
+### Sesión 2026-07-14 s21 — Segundo cruce con Ospreay: Fighting Spirit
+
+**Cita verbatim**:
+
+> *"Ospreay vs Davis, esto debería ser genial e impecable [...] la
+> lucha está genial, y merece la clase de fighting spirit"*
+>
+> — El Vehemiurgo, 2026-07-14 s21 (verbatim)
+
+**Lectura sintética**: segundo cruce registrado con Ospreay (tras
+el Perfect Match del 22/4) — la clase de Davis no se ve afectada
+por la crítica de booking dirigida a la relación de Ospreay con
+Moxley, ajena a su propio trabajo. Ver
+[`../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md`](../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen exactos.

@@ -70,6 +70,20 @@ Contrasta con su Perfect Match previo vs Myron Reed (Collision
 11/4). Ver
 [`../matches/2026-05-24-okada-vs-takeshita-aew-double-or-nothing.md`](../matches/2026-05-24-okada-vs-takeshita-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s21 — Su propio momento, cedido por Don Callis
+
+**Cita verbatim**:
+
+> *"le da pie a Okada para su propio momento; estuvo sencillo,
+> pero me gustó"*
+>
+> — El Vehemiurgo, 2026-07-14 s21 (verbatim)
+
+**Lectura sintética**: momento breve, sin clase, pero con lectura
+positiva — Okada recupera protagonismo tras el juicio tibio de su
+match vs Takeshita (s17). Ver
+[`../segments/2026-06-03-don-callis-okada-backstage-aew-dynamite.md`](../segments/2026-06-03-don-callis-okada-backstage-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, debut, cronología NJPW con títulos.

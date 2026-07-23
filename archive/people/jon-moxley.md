@@ -207,6 +207,24 @@ capaz de restarle a un match ajeno (The Guns vs The Dogs) que de
 otro modo hubiera sido triple clase sin reserva. Ver
 [`../matches/2026-05-30-guns-vs-dogs-aew-collision.md`](../matches/2026-05-30-guns-vs-dogs-aew-collision.md).
 
+### Sesión 2026-07-14 s21 — "Todo porque Mox tiene a TK en su bolsillo"
+
+**Cita verbatim**:
+
+> *"cuál era el punto de juntarlo con los Death Riders, no se iba
+> a poner agresivo y tener su iniciación rara y ser un Moxley más,
+> literal toda esa interacción no añade nada al acto de Ospreay,
+> solo lo convierten en un boy más que carga el equipaje de
+> Moxley [...] el booking de Ospreay es malo, y todo porque Mox
+> tiene a TK en su bolsillo"*
+>
+> — El Vehemiurgo, 2026-07-14 s21 (verbatim)
+
+**Lectura sintética**: formulación más corta y directa de la queja
+completa que viene escalando desde s10 — el favoritismo de Tony
+Khan hacia Moxley se nombra sin rodeos como la causa raíz. Ver
+[`../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md`](../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: The Shield + Dean Ambrose run WWE

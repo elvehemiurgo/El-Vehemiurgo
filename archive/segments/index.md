@@ -12,6 +12,8 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-06-03 | Backstage — Don Callis (cede el momento a Okada) | AEW / Dynamite | promo (backstage) | — | stub | 1 | [→](2026-06-03-don-callis-okada-backstage-aew-dynamite.md) |
+| 2026-06-03 | Backstage — The Dogs | AEW / Dynamite | promo (backstage) | — | stub | 1 | [→](2026-06-03-the-dogs-backstage-aew-dynamite.md) |
 | 2026-06-03 | Promo — Thekla (campeona) contra STARDOM | AEW / Dynamite | promo | — | stub | 1 | [→](2026-06-03-thekla-promo-vs-stardom-aew-dynamite.md) |
 | 2026-06-03 | Build — promo de apertura de Rush + backstage con Andrade | AEW / Dynamite | promo (apertura + backstage) | — | stub | 1 | [→](2026-06-03-rush-build-mjf-aew-dynamite.md) |
 | 2026-05-30 | Post-match — momento de Persephone | AEW / Collision | promo (post-match) | — | stub | 1 | [→](2026-05-30-persephone-post-match-aew-collision.md) |

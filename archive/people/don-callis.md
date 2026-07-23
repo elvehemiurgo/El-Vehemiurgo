@@ -106,6 +106,20 @@ ninguna facción heel existente estaba siendo booked para ganar de
 verdad. Ver
 [`../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md`](../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md).
 
+### Sesión 2026-07-14 s21 — Cede el momento a Okada
+
+**Cita verbatim**:
+
+> *"Don Callis en backstage cortó una promo genial representando y
+> sin perder sus gomas [...] le da pie a Okada para su propio
+> momento"*
+>
+> — El Vehemiurgo, 2026-07-14 s21 (verbatim)
+
+**Lectura sintética**: mismo diagnóstico consistente, esta vez
+cediendo el protagonismo a Okada — veteranía sin egoísmo. Ver
+[`../segments/2026-06-03-don-callis-okada-backstage-aew-dynamite.md`](../segments/2026-06-03-don-callis-okada-backstage-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (comentarista/manager/

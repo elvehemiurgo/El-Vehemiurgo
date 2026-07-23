@@ -61,6 +61,23 @@ booking elogiada — la victoria llega antes del regreso de Jay
 White, construyendo al Bang Bang Gang como underdog corporativo
 dentro de la ficción.
 
+### Sesión 2026-07-14 s21 — Posicionamiento post-Double or Nothing
+
+**Cita verbatim**:
+
+> *"son cool, estos saben cómo hacer que te importe su lucha [...]
+> realmente como dogs se robaron una oportunidad titular, y ahora
+> tienen la atención de todos incluyendo los young bucks [...] los
+> dogs tienen el feudo con Cage and Cope cocinándose, es de verdad
+> emocionante"*
+>
+> — El Vehemiurgo, 2026-07-14 s21 (verbatim)
+
+**Lectura sintética**: consolidación de su triunfo sobre The Guns
+(30/5) — tres frentes narrativos simultáneos (rub con Young Bucks,
+feud con Cope & Cage, oportunidad titular ganada). Ver
+[`../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md`](../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Integrantes exactos más allá de David Finlay.

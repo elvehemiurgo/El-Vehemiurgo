@@ -207,6 +207,23 @@ Stadium. Ver
 [`../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md`](../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md)
 y [`./jon-moxley.md`](./jon-moxley.md).
 
+### Sesión 2026-07-14 s21 — Fighting Spirit vs Mark Davis + la formulación más directa de la queja
+
+**Cita verbatim**:
+
+> *"la lucha está genial, y merece la clase de fighting spirit;
+> pero el booking de Ospreay es malo, y todo porque Mox tiene a TK
+> en su bolsillo"*
+>
+> — El Vehemiurgo, 2026-07-14 s21 (verbatim)
+
+**Lectura sintética**: Fighting Spirit sin contaminación del
+juicio de booking. Nuevo detalle de la inconsistencia: Ospreay
+sigue haciendo chistes estilo Peter Parker (incluso sobre el
+parche de Davis) pese a su "iniciación" a Death Riders — prueba
+de que la relación con Moxley no cambió nada real de su acto. Ver
+[`../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md`](../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md).
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.
