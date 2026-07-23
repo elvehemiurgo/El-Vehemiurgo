@@ -97,6 +97,19 @@ Ver
 y
 [`../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md`](../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md).
 
+### Sesión 2026-07-14 s25 — Promo del Bang Bang Gang: "cada vez tiene más protagonismo"
+
+**Cita verbatim**:
+
+> *"el bang bang gang tuvieron una promo increíble, estuvo genial,
+> es un click muy cool, cada vez tiene más protagonismo"*
+>
+> — El Vehemiurgo, 2026-07-14 s25 (verbatim)
+
+**Lectura sintética**: continuación del posicionamiento creciente
+ya documentado (s21, s22) camino al regreso de Jay White. Ver
+[`../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md`](../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] Integrantes exactos más allá de David Finlay (¿Juice
@@ -113,6 +126,7 @@ y
 - [`../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md`](../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md)
 - [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
 - [`../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md`](../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md)
+- [`../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md`](../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md)
 
 ## Cross-links
 

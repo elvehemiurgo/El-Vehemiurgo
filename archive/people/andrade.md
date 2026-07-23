@@ -102,6 +102,22 @@ secundario dentro de las escenas de MJF/Don Callis, sin desarrollo
 propio adicional. Ver
 [`../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md).
 
+### Sesión 2026-07-14 s25 — El inglés sigue atropellado, pero lo está navegando
+
+**Cita verbatim**:
+
+> *"especialmente lo de Andrade, su forma de hablar inglés sigue
+> siendo muy atropellada, pero lo está navegando"*
+>
+> — El Vehemiurgo, 2026-07-14 s25 (verbatim)
+
+**Lectura sintética**: continuación directa del contraste con Rush
+(s18: "le mete más realismo [...] no trata de ser misterioso") —
+el Vehemiurgo no declara el problema resuelto, pero reconoce el
+proceso activo de desarrollo, ni crítica cerrada ni elogio pleno.
+Ver
+[`../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md`](../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (Lucha Underground/NXT/AEW)

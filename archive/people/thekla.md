@@ -109,6 +109,24 @@ incomodidad de tono sin que eso reste valor al booking — el
 Vehemiurgo distingue "cringe" de "malo". Ver
 [`../segments/2026-06-03-thekla-promo-vs-stardom-aew-dynamite.md`](../segments/2026-06-03-thekla-promo-vs-stardom-aew-dynamite.md).
 
+### Sesión 2026-07-14 s25 — Revelación biográfica: fan de STARDOM 2014-2022
+
+**Cita verbatim**:
+
+> *"aquí estuvo perfecta, me gusta como wrestler, de verdad quiere
+> poner un show [...] hay ratos donde sí es cringe, pero en
+> realidad sí está cool la mayor parte del tiempo, soy muy fan de
+> este run, siempre fui fan de STARDOM especialmente del 2014 al
+> 2022 pero me gusta toda la idea del booking"*
+>
+> — El Vehemiurgo, 2026-07-14 s25 (verbatim)
+
+**Lectura sintética**: reafirma el matiz "cringe pero cool" de la
+sesión s20, ahora con contexto biográfico nuevo — el entusiasmo
+sostenido con el "proyecto Thekla" se explica en parte por una
+afinidad de larga data con STARDOM. Ver
+[`../segments/2026-06-11-thekla-promo-aew-collision-summer-blockbuster.md`](../segments/2026-06-11-thekla-promo-aew-collision-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen austríaco exactos.

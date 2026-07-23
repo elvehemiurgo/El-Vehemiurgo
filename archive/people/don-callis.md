@@ -138,6 +138,21 @@ Ver
 y
 [`../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md).
 
+### Sesión 2026-07-14 s25 — Apertura DCMJF, coalición completa
+
+**Cita verbatim**:
+
+> *"el show abre con un gran segmento con DCMJF todos los heels,
+> y me gustó la participación de todos [...] este segmento se
+> merece el entertainment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s25 (verbatim)
+
+**Lectura sintética**: tercera Wrestling Entertainment consecutiva
+para su expediente en pocas semanas, ahora en segmento coral con
+MJF y el resto de la coalición heel. Ver
+[`../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md`](../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (comentarista/manager/

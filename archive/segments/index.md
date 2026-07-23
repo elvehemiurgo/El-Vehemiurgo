@@ -12,6 +12,9 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-06-17 | Apertura — DCMJF (Don Callis Family + MJF, todos los heels) | AEW / Dynamite | promo (apertura de show) | WE | stub | 1 | [→](2026-06-17-dcmjf-apertura-heels-aew-dynamite.md) |
+| 2026-06-11 | Promo — Thekla | AEW / Collision Summer Blockbuster | promo | — | stub | 1 | [→](2026-06-11-thekla-promo-aew-collision-summer-blockbuster.md) |
+| 2026-06-11 | Promo — Bang Bang Gang | AEW / Collision Summer Blockbuster | promo | — | stub | 1 | [→](2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md) |
 | 2026-06-10 | Backstage — MJF & Don Callis (Andrade desconfía) | AEW / Dynamite Summer Blockbuster | promo (backstage) | WE | stub | 1 | [→](2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md) |
 | 2026-06-10 | Promo video — Zack Sabre Jr vs Kenny Omega | AEW / Dynamite Summer Blockbuster | video package (promo) | WE | stub | 1 | [→](2026-06-10-zsj-vs-omega-promo-video-aew-dynamite-summer-blockbuster.md) |
 | 2026-06-10 | Kevin Knight & Don Callis — regreso de Darby Allin | AEW / Dynamite Summer Blockbuster | promo | WE | stub | 1 | [→](2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md) |
