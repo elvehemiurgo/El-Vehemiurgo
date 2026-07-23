@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-06-03 | Speedball Mike Bailey vs Kevin Knight | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md) |
+| 2026-06-03 | MJF vs Rush | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-06-03-mjf-vs-rush-aew-dynamite.md) |
 | 2026-05-30 | The Guns vs The Dogs | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-30-guns-vs-dogs-aew-collision.md) |
 | 2026-05-30 | Hazuki vs Maya World | AEW / Collision | — | stub | 1 | [→](2026-05-30-hazuki-vs-maya-world-aew-collision.md) |
 | 2026-05-27 | Ace Austin vs Andrade | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-27-ace-austin-vs-andrade-aew-collision.md) |

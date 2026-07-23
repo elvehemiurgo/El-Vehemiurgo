@@ -190,6 +190,22 @@ sobre Ospreay que aprovecha una lesión narrativa. Ver
 y
 [`../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md`](../segments/2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s20 — El regreso de Doyle ilumina el origen del push
+
+**Cita verbatim**:
+
+> *"el regreso de Jake Doyle de lesión, lo que te hace pensar que
+> sin su lesión, quizás Mark Davis no estaría teniendo este
+> singles run tan cool"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: lectura retrospectiva sobre el propio arco
+de Davis — su protagonismo de TV en singles (documentado desde s01)
+pudo originarse en la ausencia forzada de su compañero de tag,
+Jake Doyle, no en un plan deliberado desde el inicio. Ver
+[`../people/jake-doyle.md`](../people/jake-doyle.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen exactos.

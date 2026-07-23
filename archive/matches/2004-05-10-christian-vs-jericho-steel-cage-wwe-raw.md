@@ -25,7 +25,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE Raw 2004-2005 Christian-Jericho era"
 tags: [wwe-2004, raw-may-2004, christian-cage, chris-jericho, trish-stratus, steel-cage, blow-off, territorial-booking]
@@ -78,6 +78,25 @@ Cornette respeta eso. La lista del Vehemiurgo lo registra con
 anotación destacada *(steel cage)*, marcando que el formato
 **vale como pieza editorial autocontenida**.
 
+### Sesión 2026-07-14 s20 — Recuerdo de una lesión de Christian
+
+**Cita verbatim** (disparada por un finish peligroso en un match
+de 2026):
+
+> *"ese sky high desde el esquinero fue horrible, me trajo
+> recuerdos de la lesión de Christian en esa Steel Cage con
+> Jericho, una caída peligrosísima"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: primer dato registrado sobre una lesión
+real sufrida por Christian en este match — hasta ahora el archivo
+no tenía ese detalle. Confirma el recuerdo del Vehemiurgo del
+riesgo físico de la cage además de su lectura como blow-off carny
+ortodoxo. Ver
+[`../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md`](../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md)
+para el disparador de este recuerdo.
+
 ## Pendientes / huecos
 
 - [ ] Ganador + finish + duración exactos.
@@ -86,6 +105,9 @@ anotación destacada *(steel cage)*, marcando que el formato
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST / Cornette retrospectiva.
 - [ ] **Asignación de clase del Vehemiurgo**.
+- [ ] [verif] naturaleza exacta de la lesión de Christian
+      recordada en sesión s20 (¿de qué se lesionó, en qué punto
+      del match?).
 
 ## Piezas relacionadas
 

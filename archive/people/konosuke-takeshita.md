@@ -91,6 +91,22 @@ babyface declarado en la sesión s17 — la ruptura con Don Callis
 Family queda formalizada. Ver
 [`../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md`](../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s20 — Distinción de turns: el suyo (babyface) vs el de Kevin Knight (heel)
+
+**Cita verbatim**:
+
+> *"ha sido un heel turn ocupado para Kevin Knight [...] tal como
+> en su momento el turn de Fletcher llenó la programación de AEW
+> con emoción"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: esta sesión aclara la dirección de los
+turns en juego — Takeshita se volvió babyface (s17), mientras que
+Kevin Knight se vuelve heel (s20) uniéndose a Don Callis Family,
+la misma facción que Takeshita dejó. Movimiento especular dentro
+de la misma órbita.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (DDT Japón → AEW).

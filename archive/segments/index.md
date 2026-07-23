@@ -12,6 +12,8 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-06-03 | Promo — Thekla (campeona) contra STARDOM | AEW / Dynamite | promo | — | stub | 1 | [→](2026-06-03-thekla-promo-vs-stardom-aew-dynamite.md) |
+| 2026-06-03 | Build — promo de apertura de Rush + backstage con Andrade | AEW / Dynamite | promo (apertura + backstage) | — | stub | 1 | [→](2026-06-03-rush-build-mjf-aew-dynamite.md) |
 | 2026-05-30 | Post-match — momento de Persephone | AEW / Collision | promo (post-match) | — | stub | 1 | [→](2026-05-30-persephone-post-match-aew-collision.md) |
 | 2026-05-27 | Backstage — Ospreay vs Mark Davis (booking de la lesión de cuello) | AEW / Dynamite & Collision | promo (backstage) | — | stub | 1 | [→](2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md) |
 | 2026-05-27 | Post-match — Don Callis & Kyle Fletcher, con la interrupción de Takeshita (expulsión) | AEW / Dynamite & Collision | angle | — | stub | 1 | [→](2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md) |

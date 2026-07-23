@@ -60,6 +60,34 @@ forma consistente ("en otra de sus luchas que siempre están
 buenísimas"). El público ya no lo recibe como heel, aunque la
 ficción todavía lo etiquete así.
 
+### Sesión 2026-07-14 s20 — Backstage nostálgico con Rush
+
+**Cita verbatim**:
+
+> *"luego juntan a Andrade y Rush en backstage, es un gran momento
+> y trae muchos recuerdos"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: momento de conexión histórica (presumida
+raíz compartida en la lucha libre mexicana) — sin clase, elogiado
+por su peso nostálgico. Ver
+[`../segments/2026-06-03-rush-build-mjf-aew-dynamite.md`](../segments/2026-06-03-rush-build-mjf-aew-dynamite.md).
+
+### Sesión 2026-07-14 s20 (2) — Promo interrumpida por el turn de Kevin Knight
+
+**Cita verbatim**:
+
+> *"ahora hicieron lo de unirlo a la familia de Don Callis
+> interrumpiendo la promo de Andrade"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: Andrade queda como el talent cuya promo es
+interrumpida por el turn heel de Kevin Knight — rol reactivo
+dentro de esta pieza, sin desarrollo propio adicional. Ver
+[`../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md`](../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (Lucha Underground/NXT/AEW)

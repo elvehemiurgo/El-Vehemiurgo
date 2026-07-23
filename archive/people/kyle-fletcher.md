@@ -60,6 +60,28 @@ venta física se identifica como un activo que mejora el material
 que lo rodea. Ver
 [`../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md`](../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s20 — Comparación con un turn previo suyo
+
+**Cita verbatim**:
+
+> *"tal como en su momento el turn de Fletcher llenó la
+> programación de AEW con emoción y cosas interesantes, ahora
+> están haciendo un muy buen trabajo con el turn de Kevin Knight"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: el Vehemiurgo cita un turn previo de
+Fletcher (distinto del turn babyface de Takeshita, ya documentado
+en s17) como precedente positivo. [verif] si refiere a un evento
+histórico de Fletcher no registrado todavía en el archivo — no se
+fabrica el detalle, queda pendiente de aclaración.
+
+## Pendientes / huecos
+
+- [ ] [verif] "el turn de Fletcher" mencionado en s20 — ¿evento
+      distinto al de Takeshita? Preguntar al Vehemiurgo si lo
+      retoma.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria, rol exacto en Don Callis Family.

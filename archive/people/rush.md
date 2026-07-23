@@ -52,6 +52,28 @@ Vehemiurgo lee como "menos real" por apostar al misterio en vez
 de la autenticidad bilingüe. Ver
 [`../people/andrade.md`](../people/andrade.md).
 
+### Sesión 2026-07-14 s20 — El matador: Perfect Match vs MJF
+
+**Cita verbatim**:
+
+> *"tuvo un booking de monsterheel hasta llegar a esta lucha, y de
+> verdad es un performer duro [...] Rush nació dentro del negocio,
+> y lo que quiere es representar la lucha libre, Max es full
+> Hollywood y quiere el legado, quiere hacerlo a su manera [...]
+> esta fue la versión AEW de una de esas guerras de arena en
+> méxico"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: Rush confirma y profundiza el techo
+declarado en su primer registro (s18) — ahora con Perfect Match,
+gimmick de matador, y el contraste doctrinal más nítido del
+archivo entre autenticidad de origen (Rush) y ambición de legado
+(MJF/"Max"). Ver
+[`../matches/2026-06-03-mjf-vs-rush-aew-dynamite.md`](../matches/2026-06-03-mjf-vs-rush-aew-dynamite.md)
+y
+[`../segments/2026-06-03-rush-build-mjf-aew-dynamite.md`](../segments/2026-06-03-rush-build-mjf-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, trayectoria completa (CMLL/AAA/

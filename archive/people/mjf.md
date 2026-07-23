@@ -326,6 +326,24 @@ en el punto más alto del arco. Ver
 Rush, quien recibe el elogio más fuerte de la pieza. Ver
 [`../segments/2026-05-27-mjf-rush-aew-dynamite-collision.md`](../segments/2026-05-27-mjf-rush-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s20 — Perfect Match vs Rush + preocupación por lo que sigue
+
+**Cita verbatim**:
+
+> *"así que esta lucha se merece las 3 clases, el booking estuvo
+> muy bueno, pero la continuación es MJF contra el conglomerado de
+> faces de Mark Briscoe, lo cual es aburrido, ojalá no vayan por
+> ahí"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: Perfect Match reafirmado (ver
+[`../matches/2026-06-03-mjf-vs-rush-aew-dynamite.md`](../matches/2026-06-03-mjf-vs-rush-aew-dynamite.md)),
+seguido de una preocupación explícita sobre el rumbo siguiente —
+un posible feud contra el "conglomerado" de faces liderado por
+Mark Briscoe, que el Vehemiurgo anticipa como aburrido antes de
+verlo.
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

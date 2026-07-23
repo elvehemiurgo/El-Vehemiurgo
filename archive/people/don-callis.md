@@ -85,6 +85,27 @@ Ver
 y
 [`../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md`](../segments/2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 s20 — Kevin Knight se une a la facción + crítica de fondo
+
+**Cita verbatim**:
+
+> *"es un poco irónico que el heel midcard más importante ahora,
+> no lo creo Don Callis en su facción, ni ninguna de las
+> facciones heel que tienen en AEW; sino que tuvieron que hacer el
+> heel turn a un babyface, o sea, como si no tuvieran heels que
+> bookear fuerte; esto es una lección de booking, de que sirve
+> tener tantos heels en tu compañía si ninguno realmente va a
+> ganar sus luchas o hacer algo importante"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: crítica de fondo dirigida a AEW en general,
+no a Don Callis Family en particular — la facción suma a Kevin
+Knight (turn heel), pero el Vehemiurgo lee esto como síntoma de que
+ninguna facción heel existente estaba siendo booked para ganar de
+verdad. Ver
+[`../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md`](../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (comentarista/manager/

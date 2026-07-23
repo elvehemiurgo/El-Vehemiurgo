@@ -95,6 +95,20 @@ semana"). Nuevo nombre en su órbita: **Sky Blue** (asistencia
 backstage). Ver
 [`../segments/2026-04-29-thekla-promo-aew-dynamite.md`](../segments/2026-04-29-thekla-promo-aew-dynamite.md).
 
+### Sesión 2026-07-14 s20 — Promo vs STARDOM: "cringe pero interesante"
+
+**Cita verbatim**:
+
+> *"sus promos son muy joshi, es muy estrambótico para tv regular,
+> un poco cringe, pero el booking está interesante, me gusta"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: primer reconocimiento explícito de
+incomodidad de tono sin que eso reste valor al booking — el
+Vehemiurgo distingue "cringe" de "malo". Ver
+[`../segments/2026-06-03-thekla-promo-vs-stardom-aew-dynamite.md`](../segments/2026-06-03-thekla-promo-vs-stardom-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen austríaco exactos.

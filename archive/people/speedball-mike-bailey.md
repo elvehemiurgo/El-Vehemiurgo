@@ -115,6 +115,20 @@ veteranos de calidad reducidos a dar rub a otros. No se abre ficha
 propia para Danielson/Sydal/Daniels — son puntos de comparación
 dentro de este take, no cobertura individual.
 
+### Sesión 2026-07-14 s20 — Perfect Match, primero de su carrera en el archivo
+
+**Cita verbatim**:
+
+> *"esta lucha se merece las 3 clases, hicieron todo excelente"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: primer Perfect Match registrado para
+Bailey — pago del desarrollo seguido desde s03 (promos débiles) →
+s16 (promos mejor, "no cierra el paquete") → s18 (ultimátum
+Danielson/Sydal-Daniels) → esta sesión. Ver
+[`../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md`](../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, origen, debut, trayectoria pre-AEW.

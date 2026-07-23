@@ -108,6 +108,25 @@ al Vehemiurgo, ahora se lee como productiva.
 éxito citado para toda una doctrina de booking nueva. Ver
 [`../topics/doctrina-presentacion-guiada-nuevos-talentos.md`](../topics/doctrina-presentacion-guiada-nuevos-talentos.md).
 
+### Sesión 2026-07-14 s20 — Turn heel confirmado + Perfect Match vs Bailey
+
+**Cita verbatim**:
+
+> *"el promo video estuvo buenísimo, Kevin cada semana se ve mejor
+> en las promos, ahora hicieron lo de unirlo a la familia de Don
+> Callis interrumpiendo la promo de Andrade [...] ha sido un heel
+> turn ocupado para Kevin Knight y muy nutritivo para el booking
+> de los otros faces [...] Esta lucha se merece las 3 clases,
+> hicieron todo excelente"*
+>
+> — El Vehemiurgo, 2026-07-14 s20 (verbatim)
+
+**Lectura sintética**: aclara que el turn de la sesión s17 fue
+**heel** (no babyface) — se confirma con su unión a Don Callis
+Family. Primer Perfect Match de su carrera en el archivo, además
+de la mejora de promo ya venía siguiendo desde s16/s18. Ver
+[`../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md`](../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.
