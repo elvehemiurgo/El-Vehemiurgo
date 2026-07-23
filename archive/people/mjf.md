@@ -344,6 +344,22 @@ un posible feud contra el "conglomerado" de faces liderado por
 Mark Briscoe, que el Vehemiurgo anticipa como aburrido antes de
 verlo.
 
+### Sesión 2026-07-14 s24 — Backstage con Don Callis: "oro puro"
+
+**Cita verbatim**:
+
+> *"el segmento backstage con MJF y Don Callis, estuvo genial, se
+> merece un entertainment class, toda esa interacción es oro
+> puro, y el rub entre MJF y el jet estuvo genuino, muy real"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim)
+
+**Lectura sintética**: máximo elogio posible a la interacción con
+Don Callis; el rub con Kevin Knight se reafirma como genuino,
+coherente con el patrón de MJF elevando rivales incluso en su
+propio declive narrativo. Ver
+[`../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

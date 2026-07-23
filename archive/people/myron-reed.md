@@ -68,6 +68,19 @@ tags: [myron-reed, aew, mlw, high-flyer, gran-babyface, buenas-promos, por-que-n
    El contraste implícito: Myron tiene herramientas comparables
    pero no la misma narrativa de "elegido" a su alrededor.
 
+### Sesión 2026-07-14 s24 — Segundo Perfect Match: vs Kevin Knight
+
+**Cita verbatim**:
+
+> *"Myron Reed vs Kevin Knight merece todas las clases,"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim; mensaje cortado)
+
+**Lectura sintética**: segundo Perfect Match registrado (tras vs
+Okada, 11/4) — mensaje del Vehemiurgo termina en la coma, sin
+desarrollo adicional. Ver
+[`../matches/2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md`](../matches/2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, edad.

@@ -179,6 +179,20 @@ elogiado de todo el ciclo reciente de Darby, aunque sin clase
 declarada. Ver
 [`../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md`](../matches/2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s24 — Regreso dentro del segmento de Kevin Knight
+
+**Cita verbatim**:
+
+> *"el segmento del jet Kevin Knight y Don Callis estuvo genial,
+> incluyendo el regreso de Darby"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim)
+
+**Lectura sintética**: aparición breve dentro de un segmento ajeno
+— Wrestling Entertainment compartida, sin desarrollo individual
+propio en esta sesión. Ver
+[`../segments/2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.

@@ -49,10 +49,15 @@ correcta.
 
 ## Pendientes
 
-- [ ] [verif] identidad de "Schibani" — no corresponde a ningún
-      talent ya registrado, no se adivina.
+- [x] Identidad de "Schibani" — presumida **Tony Schiavone** tras
+      una segunda mención similar ("Schiavone"/"Schiovani") en la
+      sesión s24, misma órbita del feud Ciampa/Jericho. Confianza
+      razonable, no absoluta. Ver
+      [`../people/tony-schiavone.md`](../people/tony-schiavone.md).
 - [ ] Línea textual + rival de la squash.
 
 ## Cross-links
 
 - [`../people/ciampa.md`](../people/ciampa.md)
+- [`../people/tony-schiavone.md`](../people/tony-schiavone.md) —
+  identidad presumida de "Schibani".

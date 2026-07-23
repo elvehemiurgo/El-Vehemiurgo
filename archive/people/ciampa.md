@@ -101,6 +101,25 @@ escepticismo extenso de la sesión s21 — el formato old-school
 de rutina" que el Vehemiurgo suele criticar en otros talents. Ver
 [`../segments/2026-06-06-ciampa-squash-amenaza-aew-collision.md`](../segments/2026-06-06-ciampa-squash-amenaza-aew-collision.md).
 
+### Sesión 2026-07-14 s24 — Jericho verbaliza el propio escepticismo del Vehemiurgo
+
+**Cita verbatim**:
+
+> *"Jericho le dice que quizás Ciampa lo odia porque no es
+> Jericho, porque no es la gran cosa que pensaba cuando lo
+> engreía HHH, y de hecho deja a Ciampa sin palabras [...] Jericho
+> representa mi punto de vista de que Ciampa solo era grande por
+> la burbuja de NXT y aquí ahora se va a probar realmente"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim)
+
+**Lectura sintética**: el Vehemiurgo reconoce explícitamente que
+Jericho, dentro de la ficción, articula el mismo escepticismo real
+que él declaró en la sesión s21 ("burbuja NXT"). El feud se
+construye como "colisión de personalidades real, dos eras, dos
+filosofías" — sustancia ideológica, no rencor genérico. Ver
+[`../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, trayectoria NXT/WWE detallada.

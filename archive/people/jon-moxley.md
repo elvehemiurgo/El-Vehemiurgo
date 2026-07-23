@@ -225,6 +225,21 @@ completa que viene escalando desde s10 — el favoritismo de Tony
 Khan hacia Moxley se nombra sin rodeos como la causa raíz. Ver
 [`../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md`](../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md).
 
+### Sesión 2026-07-14 s24 — Jericho como contraejemplo directo
+
+**Cita verbatim**:
+
+> *"no como todo lo fake y aburrido que hace Moxley, ojalá vean
+> por qué Jericho es más efectivo que Moxley y se inclinen más
+> por lo oldschool"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim)
+
+**Lectura sintética**: la crítica sostenida contra Moxley
+encuentra ahora un contraejemplo explícito y nombrado dentro del
+mismo roster — Jericho, con el feud Ciampa como prueba. Ver
+[`../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: The Shield + Dean Ambrose run WWE

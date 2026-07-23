@@ -127,6 +127,23 @@ Family. Primer Perfect Match de su carrera en el archivo, además
 de la mejora de promo ya venía siguiendo desde s16/s18. Ver
 [`../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md`](../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md).
 
+### Sesión 2026-07-14 s24 — Consolidación total como heel + Perfect Match vs Myron Reed
+
+**Cita verbatim**:
+
+> *"este Kevin Knight ya se ve súper confiado en el micrófono, de
+> verdad se está moviendo como heel, lo está haciendo genial [...]
+> Myron Reed vs Kevin Knight merece todas las clases,"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim)
+
+**Lectura sintética**: cierre positivo de toda la curva seguida
+desde s09 — confianza total en el mic, además de un Perfect Match
+(mensaje cortado, sin desarrollo adicional). Ver
+[`../segments/2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md)
+y
+[`../matches/2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md`](../matches/2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

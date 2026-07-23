@@ -13,6 +13,7 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-06-11 | Myron Reed vs Kevin Knight | AEW / Collision Summer Blockbuster | PW·FS·WE | stub | 1 | [→](2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md) |
 | 2026-06-06 | Persephone vs Hazuki | AEW / Collision | FS·WE | stub | 1 | [→](2026-06-06-persephone-vs-hazuki-aew-collision.md) |
 | 2026-06-06 | The Dogs vs The Guns — rematch | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-06-06-dogs-vs-guns-rematch-aew-collision.md) |
 | 2026-06-03 | Will Ospreay vs Mark Davis | AEW / Dynamite | FS | stub | 1 | [→](2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md) |

@@ -103,6 +103,23 @@ acompañamiento del humor característico de los Young Bucks. Ver
 Ver
 [`../matches/2026-05-24-multiman-jericho-aew-double-or-nothing.md`](../matches/2026-05-24-multiman-jericho-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s24 — Jericho como vocero del Vehemiurgo + más efectivo que Moxley
+
+**Cita verbatim**:
+
+> *"estos feudos son más reales y sí es buen drama; no como todo
+> lo fake y aburrido que hace Moxley, ojalá vean por qué Jericho
+> es más efectivo que Moxley y se inclinen más por lo oldschool"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim)
+
+**Lectura sintética**: comparación explícita y favorable a
+Jericho frente a la crítica sostenida contra Moxley (s10, s17,
+s18, s21) — Jericho se convierte en el contraejemplo directo
+dentro del mismo roster de cómo hacer un feud "real" vs uno
+"fake y aburrido". Ver
+[`../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md).
+
 ## Piezas relacionadas
 
 ### Cluster Raw 2004-2005 centerpieces

@@ -12,6 +12,10 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-06-10 | Backstage — MJF & Don Callis (Andrade desconfía) | AEW / Dynamite Summer Blockbuster | promo (backstage) | WE | stub | 1 | [→](2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md) |
+| 2026-06-10 | Promo video — Zack Sabre Jr vs Kenny Omega | AEW / Dynamite Summer Blockbuster | video package (promo) | WE | stub | 1 | [→](2026-06-10-zsj-vs-omega-promo-video-aew-dynamite-summer-blockbuster.md) |
+| 2026-06-10 | Kevin Knight & Don Callis — regreso de Darby Allin | AEW / Dynamite Summer Blockbuster | promo | WE | stub | 1 | [→](2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md) |
+| 2026-06-10 | Apertura — Ciampa vs Jericho, entrevista con Tony Schiavone | AEW / Dynamite Summer Blockbuster | promo (entrevista de apertura) | — | stub | 1 | [→](2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md) |
 | 2026-06-06 | Entrada de Persephone | AEW / Collision | entrada | — | stub | 1 | [→](2026-06-06-persephone-entrada-aew-collision.md) |
 | 2026-06-06 | Promo post-match — The Dogs | AEW / Collision | promo (post-match) | WE | stub | 1 | [→](2026-06-06-the-dogs-promo-post-match-aew-collision.md) |
 | 2026-06-06 | Ciampa — squash + promo de amenaza | AEW / Collision | squash + promo | — | stub | 1 | [→](2026-06-06-ciampa-squash-amenaza-aew-collision.md) |

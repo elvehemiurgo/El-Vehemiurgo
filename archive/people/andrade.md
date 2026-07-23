@@ -88,6 +88,20 @@ interrumpida por el turn heel de Kevin Knight — rol reactivo
 dentro de esta pieza, sin desarrollo propio adicional. Ver
 [`../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md`](../matches/2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md).
 
+### Sesión 2026-07-14 s24 — Desconfía en el backstage de MJF/Don Callis
+
+**Cita verbatim**:
+
+> *"luego Andrade desconfiando, en total fue un super segmento"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim)
+
+**Lectura sintética**: mismo patrón reactivo ya visto en s20
+(interrumpido por el turn de Kevin Knight) — Andrade sigue en rol
+secundario dentro de las escenas de MJF/Don Callis, sin desarrollo
+propio adicional. Ver
+[`../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (Lucha Underground/NXT/AEW)

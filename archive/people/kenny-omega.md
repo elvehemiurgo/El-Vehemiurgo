@@ -146,6 +146,19 @@ su cosmovisión, ahora también su posición en el título. Declara
 que profundizará más adelante — pendiente, no fabricar el
 razonamiento completo todavía. Ver [`./mjf.md`](./mjf.md).
 
+### Sesión 2026-07-14 s24 — Promo video previa a su match vs ZSJ
+
+**Cita verbatim**:
+
+> *"el promo video de ZSJ vs Omega [...] la lucha seguro va a
+> estar buena"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim)
+
+**Lectura sintética**: expectativa alta declarada para el próximo
+match contra Zack Sabre Jr — sin match visto todavía. Ver
+[`../segments/2026-06-10-zsj-vs-omega-promo-video-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-zsj-vs-omega-promo-video-aew-dynamite-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] **VERIFICAR CITA**: la atribución *"dijo que no es fan

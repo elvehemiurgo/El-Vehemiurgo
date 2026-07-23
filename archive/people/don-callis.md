@@ -120,6 +120,24 @@ verdad. Ver
 cediendo el protagonismo a Okada — veteranía sin egoísmo. Ver
 [`../segments/2026-06-03-don-callis-okada-backstage-aew-dynamite.md`](../segments/2026-06-03-don-callis-okada-backstage-aew-dynamite.md).
 
+### Sesión 2026-07-14 s24 — Dos segmentos WE: con Kevin Knight y con MJF
+
+**Cita verbatim**:
+
+> *"el segmento del jet Kevin Knight y Don Callis estuvo genial
+> [...] se merece la clase de entertainment [...] el segmento
+> backstage con MJF y Don Callis, estuvo genial, se merece un
+> entertainment class, toda esa interacción es oro puro"*
+>
+> — El Vehemiurgo, 2026-07-14 s24 (verbatim)
+
+**Lectura sintética**: doble Wrestling Entertainment en el mismo
+show — consistencia total de su expediente como veterano del mic.
+Ver
+[`../segments/2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md)
+y
+[`../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-mjf-don-callis-backstage-andrade-aew-dynamite-summer-blockbuster.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (comentarista/manager/
