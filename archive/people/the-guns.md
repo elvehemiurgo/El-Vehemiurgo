@@ -45,6 +45,20 @@ tags: [the-guns, aew, tag-team, back-and-forth, muy-buenos-para-tv, primer-regis
 crowd-work, complementario al lado narrativo que aporta The Dogs
 en el mismo match.
 
+### Sesión 2026-07-14 s22 — Rematch triple clase
+
+**Cita verbatim**:
+
+> *"Connors vs Juice, son personajes over the top que me atraen
+> mucho, son cool y tienen buenas promos [...] esta lucha se
+> merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-07-14 s22 (verbatim)
+
+**Lectura sintética**: segundo Perfect Match consecutivo contra
+The Dogs. Ver
+[`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Integrantes exactos, nombres reales, trayectoria.

@@ -83,6 +83,24 @@ tags: [ciampa, tommaso-ciampa, hhh-darling, nxt-burbuja, gargano, jericho-feud-2
 5. **Veredicto de entrada**: interés cauteloso, sin expectativa
    alta — *"sí quiero ver cómo va, pero no me emocionaré mucho"*.
 
+### Sesión 2026-07-14 s22 — La chance bien aprovechada
+
+**Cita verbatim**:
+
+> *"Ciampa ganando una squash y la verdad esta promo donde amenaza
+> a Schibani [sic] y todo, estuvo muy cool, fue un segmento muy
+> oldschool tipo WCW TV, no fue un ataque backstage de rutina, me
+> gusta, me parece que esta chance se está aprovechando muy bien,
+> Ciampa estuvo en su punto"*
+>
+> — El Vehemiurgo, 2026-07-14 s22 (verbatim)
+
+**Lectura sintética**: primer resultado positivo tras el
+escepticismo extenso de la sesión s21 — el formato old-school
+(squash + amenaza en TV) funciona mejor que el "ataque backstage
+de rutina" que el Vehemiurgo suele criticar en otros talents. Ver
+[`../segments/2026-06-06-ciampa-squash-amenaza-aew-collision.md`](../segments/2026-06-06-ciampa-squash-amenaza-aew-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, trayectoria NXT/WWE detallada.

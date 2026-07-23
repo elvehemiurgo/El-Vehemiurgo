@@ -78,18 +78,41 @@ dentro de la ficción.
 feud con Cope & Cage, oportunidad titular ganada). Ver
 [`../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md`](../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md).
 
+### Sesión 2026-07-14 s22 — Rematch triple clase + segunda WE consecutiva
+
+**Cita verbatim**:
+
+> *"esta lucha se merece las 3 clases, aunque estuvo sencilla, es
+> sencilla en el buen sentido [...] the dogs cortaron una promo
+> post match, una muy buena, se merece la clase de entertainer
+> [...] todo se está armando muy bien"*
+>
+> — El Vehemiurgo, 2026-07-14 s22 (verbatim)
+
+**Lectura sintética**: segundo Perfect Match consecutivo contra
+The Guns, más una segunda Wrestling Entertainment para su
+promoción del mic — consolidación total del momento del equipo.
+Ver
+[`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
+y
+[`../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md`](../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md).
+
 ## Pendientes / huecos
 
-- [ ] Integrantes exactos más allá de David Finlay.
+- [ ] Integrantes exactos más allá de David Finlay (¿Juice
+      Robinson confirmado?).
 - [ ] [verif] relación exacta con Bang Bang Gang (¿mismo grupo,
       sub-facción?).
-- [ ] Finish/duración del match vs The Guns.
+- [ ] Finish/duración de ambos matches vs The Guns.
 - [ ] Ficha propia para Jay White cuando aparezca — por ahora solo
       referenciado como ausente/esperado.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-05-30-guns-vs-dogs-aew-collision.md`](../matches/2026-05-30-guns-vs-dogs-aew-collision.md)
+- [`../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md`](../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md)
+- [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
+- [`../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md`](../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md)
 
 ## Cross-links
 
