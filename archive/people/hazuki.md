@@ -240,6 +240,23 @@ consistente de su lugar en el panteón (Dios del Wrestling Tier 2
 babyface. Ver
 [`../matches/2026-05-30-hazuki-vs-maya-world-aew-collision.md`](../matches/2026-05-30-hazuki-vs-maya-world-aew-collision.md).
 
+### Sesión 2026-07-14 s23 — vs Persephone: Fighting Spirit + Entertainment
+
+**Cita verbatim**:
+
+> *"las dos pusieron una gran lucha, con un ritmo tranquilo pero
+> emocionando a todos; bueno el booking de Hazuki en AEW como
+> veterana que viene a imponer respeto"*
+>
+> — El Vehemiurgo, 2026-07-14 s23 (verbatim)
+
+**Lectura sintética**: doble clase, con Hazuki en rol de veterana
+que impone respeto sin necesariamente hacer el trabajo de poner
+over de forma inmediata — el Vehemiurgo esperaba una transferencia
+más directa de estatus a Persephone; lo lee como parte de un build
+más largo. Ver
+[`../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md`](../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md).
+
 ## Cross-link directo: Hazuki vs Persephone Owen Cup 2026
 
 **Pieza editorial latente**: Hazuki vs Persephone Owen Hart

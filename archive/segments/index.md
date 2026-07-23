@@ -12,6 +12,7 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-06-06 | Entrada de Persephone | AEW / Collision | entrada | — | stub | 1 | [→](2026-06-06-persephone-entrada-aew-collision.md) |
 | 2026-06-06 | Promo post-match — The Dogs | AEW / Collision | promo (post-match) | WE | stub | 1 | [→](2026-06-06-the-dogs-promo-post-match-aew-collision.md) |
 | 2026-06-06 | Ciampa — squash + promo de amenaza | AEW / Collision | squash + promo | — | stub | 1 | [→](2026-06-06-ciampa-squash-amenaza-aew-collision.md) |
 | 2026-06-03 | Backstage — Don Callis (cede el momento a Okada) | AEW / Dynamite | promo (backstage) | — | stub | 1 | [→](2026-06-03-don-callis-okada-backstage-aew-dynamite.md) |

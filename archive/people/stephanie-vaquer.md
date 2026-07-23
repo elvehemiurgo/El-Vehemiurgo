@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: stephanie-vaquer
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Wikipedia — Stephanie Vaquer"
   - "Cobertura NJPW STARDOM 2022–2024 (IWGP Women's Champion run)"
@@ -123,6 +123,21 @@ performance y el micrófono"* usando a Vaquer como caso central.)
 - [ ] Cobertura de prensa chilena / hispana sobre su run WWE.
 - [ ] Match Liv vs Vaquer en WrestleMania 42 — sumar a
       `archive/matches/`.
+
+### Sesión 2026-07-14 s23 — Referencia de comparación (progreso de Persephone)
+
+**Cita verbatim**:
+
+> *"su mejora en el inglés se nota mucho [...] mejor progreso que
+> Vaquer, Iyo Sky o cualquier extranjera en tv"*
+>
+> — El Vehemiurgo, 2026-07-14 s23 (verbatim; sobre Persephone, AEW)
+
+**Lectura sintética**: mención comparativa — Vaquer usada como
+vara de medida del desarrollo de idioma para talento internacional
+en TV occidental, sin interacción directa con Persephone (empresas
+distintas). Ver
+[`../people/persephone.md`](../people/persephone.md).
 
 ## Piezas del Vehemiurgo donde aparece
 

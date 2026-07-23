@@ -62,6 +62,22 @@ tags: [mercedes-mone, aew, critica-dura, mid-super-mid, depende-del-rival, hasti
    documentadas contra el favoritismo de Tony Khan hacia Moxley
    (ver [`./jon-moxley.md`](./jon-moxley.md)).
 
+### Sesión 2026-07-14 s23 — Reafirmación: "mid", pero Persephone merece su momentazo
+
+**Cita verbatim**:
+
+> *"no soy fan de Moné y me parece mid, pero Perse tiene que
+> vengarse, tiene que tener el momentazo de superar a Moné y
+> empezar con el booking fuerte"*
+>
+> — El Vehemiurgo, 2026-07-14 s23 (verbatim)
+
+**Lectura sintética**: reafirma el veredicto de la sesión s19
+("mid, super mid") en el contexto del build hacia la revancha con
+Persephone, que se estira más allá del Owen Hart Tournament 2026.
+Ver
+[`../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md`](../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa (WWE Sasha Banks →

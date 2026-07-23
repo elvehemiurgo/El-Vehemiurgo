@@ -120,6 +120,32 @@ que no gana") con PAC y Samoa Joe lesionado, y pide variedad antes
 de que se cristalice. Ver
 [`../segments/2026-05-30-persephone-post-match-aew-collision.md`](../segments/2026-05-30-persephone-post-match-aew-collision.md).
 
+### Sesión 2026-07-14 s23 — El milímetro cubierto: mejor progreso que Vaquer e Iyo Sky
+
+**Cita verbatim**:
+
+> *"su mejora en el inglés se nota mucho; en unos meses tuvo más
+> progreso en cuanto a voz, lenguaje y promos, mejor progreso que
+> Vaquer, Iyo Sky o cualquier extranjera en tv; me gusta lo
+> ambiciosa que se está poniendo, me gusta que AEW esté trabajando
+> para volverla main eventer [...] las dos pusieron una gran
+> lucha, con un ritmo tranquilo pero emocionando a todos [...]
+> este proyecto está a punto de pulirse al 100%"*
+>
+> — El Vehemiurgo, 2026-07-14 s23 (verbatim)
+
+**Lectura sintética**: confirmación acelerada del diagnóstico de
+s19 ("solo le falta un milímetro para ser una estrella más
+gigante") — el desarrollo de mic en inglés ya se declara superior
+al de dos talentos de referencia (Stephanie Vaquer, Iyo Sky). AEW
+confirma inversión activa en volverla main eventer, con la
+revancha contra Mercedes Moné estirándose más allá del Owen Hart
+Tournament 2026 — leído en positivo, no como demora frustrante.
+Ver
+[`../segments/2026-06-06-persephone-entrada-aew-collision.md`](../segments/2026-06-06-persephone-entrada-aew-collision.md)
+y
+[`../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md`](../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md).
+
 ## Línea editorial fértil
 
 - Persephone CMLL → AEW signing trajectory: pieza editorial
