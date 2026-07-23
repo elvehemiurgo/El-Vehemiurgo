@@ -159,6 +159,21 @@ razonamiento completo todavía. Ver [`./mjf.md`](./mjf.md).
 match contra Zack Sabre Jr — sin match visto todavía. Ver
 [`../segments/2026-06-10-zsj-vs-omega-promo-video-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-zsj-vs-omega-promo-video-aew-dynamite-summer-blockbuster.md).
 
+### Sesión 2026-07-14 (2) — "Las promos de Omega siempre son mid"
+
+**Cita verbatim**:
+
+> *"no dejaron hablar a ZSJ lo cual es una pena, porque las promos
+> de Omega siempre son mid"*
+>
+> — El Vehemiurgo, 2026-07-14 (verbatim)
+
+**Lectura sintética**: primera crítica directa a su trabajo de
+mic — mismo término ("mid") usado para Mercedes Moné (s19). No
+afecta la expectativa por el match en sí, que sigue siendo alta.
+Ver
+[`../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md`](../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] **VERIFICAR CITA**: la atribución *"dijo que no es fan

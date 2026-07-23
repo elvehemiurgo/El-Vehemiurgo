@@ -58,6 +58,19 @@ desarrollarse más allá de esta línea.
 en la coronación del 9/5 ("no me gusta el estilo de Perry"). Ver
 [`../matches/2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md`](../matches/2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md).
 
+### Sesión 2026-07-14 (2) — Lastre declarado en el build ZSJ/Omega
+
+**Cita verbatim**:
+
+> *"si no fuera por Jack Perry ojalá mejorara"*
+>
+> — El Vehemiurgo, 2026-07-14 (verbatim)
+
+**Lectura sintética**: reafirma el rechazo de estilo ya declarado
+(s18: "odio las luchas de Perry, es muy fake") — acá extendido a
+su presencia en el build hacia Forbidden Door. Ver
+[`../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md`](../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

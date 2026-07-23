@@ -48,6 +48,22 @@ tags: [zack-sabre-jr, aew, njpw, mat-wrestling, wrestling-entertainment, primer-
 expectativa alta declarada para el match que se viene contra
 Kenny Omega.
 
+### Sesión 2026-07-14 (2) — Con facción propia, "sueño hecho realidad"
+
+**Cita verbatim**:
+
+> *"Zack se ve muy cool, así con su propia facción, es un sueño
+> hecho realidad este booking [...] no dejaron hablar a ZSJ lo
+> cual es una pena"*
+>
+> — El Vehemiurgo, 2026-07-14 (verbatim)
+
+**Lectura sintética**: dato nuevo de booking — lidera su propia
+facción de cara a Forbidden Door. El Vehemiurgo lamenta que no le
+dieran espacio de mic, prefiriéndolo a las promos de Omega
+("siempre mid"). Ver
+[`../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md`](../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (indies UK/NJPW/
