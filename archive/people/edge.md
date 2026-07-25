@@ -126,6 +126,19 @@ ejecución de Copeland. Ver
 Christian Cage — triple clase con reserva técnica fuerte. Ver
 [`../matches/2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md`](../matches/2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s26 — Nuevo rival revitaliza el feud
+
+**Cita verbatim**:
+
+> *"el segmento con Cope and Cage vs the dogs backstage estuvo
+> genial [...] cada interacción se pone mejor que la anterior"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: mismo veredicto que en la ficha de
+Christian Cage. Ver
+[`../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md`](../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md).
+
 ## Piezas relacionadas
 
 - [`./christian-cage.md`](./christian-cage.md) — hermandad

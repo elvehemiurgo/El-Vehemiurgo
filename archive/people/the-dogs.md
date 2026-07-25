@@ -110,6 +110,25 @@ y
 ya documentado (s21, s22) camino al regreso de Jay White. Ver
 [`../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md`](../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md).
 
+### Sesión 2026-07-14 s26 — Promo histórica + nuevo capítulo con Cope & Cage
+
+**Cita verbatim**:
+
+> *"me gusta mucho Finlay, de verdad es una estrella [...] esta
+> promo se merece el entertainment class, porque me parece
+> histórico para la carrera de the dogs [...] el segmento con
+> Cope and Cage vs the dogs backstage estuvo genial [...] cada
+> interacción se pone mejor que la anterior"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: doble hito — promo declarada histórica
+para la carrera del equipo, y el nuevo capítulo con Cope & Cage
+se lee como revitalización tras el desgaste del feud con FTR. Ver
+[`../segments/2026-06-20-the-dogs-promo-historica-aew-collision.md`](../segments/2026-06-20-the-dogs-promo-historica-aew-collision.md)
+y
+[`../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md`](../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Integrantes exactos más allá de David Finlay (¿Juice

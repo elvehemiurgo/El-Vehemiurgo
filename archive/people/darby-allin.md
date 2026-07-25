@@ -193,6 +193,25 @@ declarada. Ver
 propio en esta sesión. Ver
 [`../segments/2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md).
 
+### Sesión 2026-07-14 s26 — "El mejor babyface que tiene AEW"
+
+**Cita verbatim**:
+
+> *"Darby me sorprendió y de hecho creo que es el mejor babyface
+> que tiene aew y que lo bookean mejor que Ospreay, incluso frente
+> a Moxley que es lo más cancerígeno, Darby siempre ha sido
+> protegido y sale bien parado"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: la declaración más fuerte hasta ahora sobre
+Darby — no es elogio de un match puntual, es un veredicto de
+estatus sobre todo el roster. Contraste directo con la crítica
+sostenida al booking de Ospreay bajo Moxley (s10, s17, s18, s21):
+Darby convive con el mismo Moxley sin salir dañado, algo que
+Ospreay no logró. Ver
+[`../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md`](../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.

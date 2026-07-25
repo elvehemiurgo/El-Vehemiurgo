@@ -244,6 +244,22 @@ hiatus del feud con FTR, ya criticado antes (sesión s11), mejora
 en ritmo tras retomarse. Ver
 [`../matches/2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md`](../matches/2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md).
 
+### Sesión 2026-07-14 s26 — Nuevo rival (The Dogs) revitaliza el feud
+
+**Cita verbatim**:
+
+> *"el segmento con Cope and Cage vs the dogs backstage estuvo
+> genial, de verdad el feudo luce muy bien, después de todo el
+> booking de FTR, este cambio de ritmo y nuevos rivales, me gusta,
+> cada interacción se pone mejor que la anterior"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: tras la crítica de desgaste ya documentada
+sobre el feud con FTR (s11, s17), el cambio de rival se lee como
+revitalización genuina. Ver
+[`../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md`](../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 **Christian Cage es el caso paradigmático de carny ortodoxo

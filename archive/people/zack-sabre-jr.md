@@ -64,6 +64,20 @@ dieran espacio de mic, prefiriéndolo a las promos de Omega
 ("siempre mid"). Ver
 [`../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md`](../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md).
 
+### Sesión 2026-07-14 s26 — vs Adam Priest: Fighting Spirit oldschool
+
+**Cita verbatim**:
+
+> *"ZSJ vs Priest estuvo buena, Priest sí quiere luchar, y aquí le
+> metieron muy bien, se merece el fighting spirit, estuvo muy
+> oldschool"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: nueva clase, consistente con su expediente
+como worker de mat-wrestling puro. Ver
+[`../matches/2026-06-20-zsj-vs-adam-priest-aew-collision.md`](../matches/2026-06-20-zsj-vs-adam-priest-aew-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (indies UK/NJPW/

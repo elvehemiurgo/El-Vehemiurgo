@@ -240,6 +240,23 @@ encuentra ahora un contraejemplo explícito y nombrado dentro del
 mismo roster — Jericho, con el feud Ciampa como prueba. Ver
 [`../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md).
 
+### Sesión 2026-07-14 s26 — "Lo más cancerígeno", pero Darby sale bien parado
+
+**Cita verbatim**:
+
+> *"lo bookean mejor que Ospreay, incluso frente a Moxley que es
+> lo más cancerígeno, Darby siempre ha sido protegido y sale bien
+> parado"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: nueva formulación negativa ("lo más
+cancerígeno"), pero con un giro importante — no toda interacción
+con Moxley termina dañando al babyface. Darby se presenta como la
+prueba de que el problema real estaba en el booking específico de
+Ospreay, no en Moxley por sí solo de forma inevitable. Ver
+[`../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md`](../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: The Shield + Dean Ambrose run WWE

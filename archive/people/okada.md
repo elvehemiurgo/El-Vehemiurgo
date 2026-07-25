@@ -84,6 +84,19 @@ positiva — Okada recupera protagonismo tras el juicio tibio de su
 match vs Takeshita (s17). Ver
 [`../segments/2026-06-03-don-callis-okada-backstage-aew-dynamite.md`](../segments/2026-06-03-don-callis-okada-backstage-aew-dynamite.md).
 
+### Sesión 2026-07-14 s26 — Mencionado junto a Takeshita y Fletcher
+
+**Cita verbatim**:
+
+> *"tienen a Fletcher ocupado con Takeshita y Okada"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: mención de contexto dentro del mapa de
+booking de MJF — sin desarrollo individual propio en esta sesión.
+Ver
+[`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, debut, cronología NJPW con títulos.

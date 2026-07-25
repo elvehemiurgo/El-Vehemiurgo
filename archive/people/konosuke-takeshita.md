@@ -107,6 +107,19 @@ Kevin Knight se vuelve heel (s20) uniéndose a Don Callis Family,
 la misma facción que Takeshita dejó. Movimiento especular dentro
 de la misma órbita.
 
+### Sesión 2026-07-14 s26 — Mencionado junto a Okada y Fletcher
+
+**Cita verbatim**:
+
+> *"tienen a Fletcher ocupado con Takeshita y Okada"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: mención de contexto dentro del mapa de
+booking de MJF — sin desarrollo individual propio en esta sesión.
+Ver
+[`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (DDT Japón → AEW).

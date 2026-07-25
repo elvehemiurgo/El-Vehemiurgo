@@ -51,6 +51,21 @@ tags: [maya-world, aew, rookie-del-momento, owen-hart-tournament-2026, babyface-
 desarrollo deliberado y coherente — no elogia solo el match, sino
 la lógica de la trayectoria completa hasta este punto.
 
+### Sesión 2026-07-14 s26 — El upset sobre Athena: Fighting Spirit
+
+**Cita verbatim**:
+
+> *"el upset de Maya World vs Athena [...] Maya es un buen
+> ejemplo, está bastante prolija y sí tiene espíritu de lucha, sí
+> está tomándoselo oldschool [...] se merece un fighting spirit"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: confirma el desarrollo ya elogiado desde su
+primer registro (s19) — ahora con una victoria de peso sobre una
+figura institucional del roster femenino. Ver
+[`../matches/2026-06-20-maya-world-vs-athena-aew-collision.md`](../matches/2026-06-20-maya-world-vs-athena-aew-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, trayectoria pre-AEW.

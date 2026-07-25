@@ -120,6 +120,19 @@ construye como "colisión de personalidades real, dos eras, dos
 filosofías" — sustancia ideológica, no rencor genérico. Ver
 [`../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md).
 
+### Sesión 2026-07-14 s26 — "Un gran programa para estos dos"
+
+**Cita verbatim**:
+
+> *"Ciampa y Jericho continúan el feudo con un gran segmento, muy
+> bueno [...] es un gran programa para estos dos"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: continúa la trayectoria positiva desde s24
+sin declive. Ver
+[`../segments/2026-06-20-ciampa-jericho-continuacion-aew-collision.md`](../segments/2026-06-20-ciampa-jericho-continuacion-aew-collision.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, trayectoria NXT/WWE detallada.

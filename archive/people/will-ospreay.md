@@ -224,6 +224,20 @@ parche de Davis) pese a su "iniciación" a Death Riders — prueba
 de que la relación con Moxley no cambió nada real de su acto. Ver
 [`../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md`](../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md).
 
+### Sesión 2026-07-14 s26 — Fighting Spirit + Entertainment vs Fantasmo
+
+**Cita verbatim**:
+
+> *"Ospreay vs Fantasmo en una lucha genial, no exageraron en los
+> vicios indie de su generación [...] se merece la clase de
+> fighting spirit y el entertainment class, estuvo muy dura"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: doble clase con dureza física reconocida.
+Ver
+[`../matches/2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md`](../matches/2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md).
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.

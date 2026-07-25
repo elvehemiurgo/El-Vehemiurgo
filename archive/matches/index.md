@@ -13,6 +13,9 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-06-24 | Will Ospreay vs Fantasmo | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md) |
+| 2026-06-20 | Maya World vs Athena | AEW / Collision | FS | stub | 1 | [→](2026-06-20-maya-world-vs-athena-aew-collision.md) |
+| 2026-06-20 | Zack Sabre Jr vs Adam Priest | AEW / Collision | FS | stub | 1 | [→](2026-06-20-zsj-vs-adam-priest-aew-collision.md) |
 | 2026-06-11 | Myron Reed vs Kevin Knight | AEW / Collision Summer Blockbuster | PW·FS·WE | stub | 1 | [→](2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md) |
 | 2026-06-06 | Persephone vs Hazuki | AEW / Collision | FS·WE | stub | 1 | [→](2026-06-06-persephone-vs-hazuki-aew-collision.md) |
 | 2026-06-06 | The Dogs vs The Guns — rematch | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-06-06-dogs-vs-guns-rematch-aew-collision.md) |

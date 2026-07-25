@@ -76,6 +76,21 @@ en s17) como precedente positivo. [verif] si refiere a un evento
 histórico de Fletcher no registrado todavía en el archivo — no se
 fabrica el detalle, queda pendiente de aclaración.
 
+### Sesión 2026-07-14 s26 — Ocupado con Takeshita y Okada
+
+**Cita verbatim**:
+
+> *"tienen a Fletcher ocupado con Takeshita y Okada, realmente es
+> un booking apretado"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: mención de contexto dentro del mapa de
+rivales de MJF — Fletcher queda posicionado en un frente distinto
+(Takeshita/Okada), sin desarrollo individual propio en esta
+sesión. Ver
+[`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] [verif] "el turn de Fletcher" mencionado en s20 — ¿evento

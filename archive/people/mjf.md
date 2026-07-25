@@ -376,6 +376,26 @@ resto de la coalición heel — MJF sigue rindiendo contenido de peso
 incluso en un segmento coral. Ver
 [`../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md`](../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md).
 
+### Sesión 2026-07-14 s26 — Rivalidad con Briscoe retomada + tensión con Andrade
+
+**Cita verbatim**:
+
+> *"me sorprendió que bookearan otra vez esta rivalidad [...] sí
+> hay mucho combustible entre MJF y Briscoe [...] la tensión entre
+> mjf y andrade, estuvo buenísimo, la historia entre estos dos
+> heels se me hace más interesante que cualquier retador babyface
+> en el main event"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: el temor declarado en s20 sobre el rumbo
+con Mark Briscoe no se confirmó — reconoce sustancia real. La
+tensión con Andrade se lee como el drama más fuerte del show, por
+encima del main event. Ver
+[`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md)
+y
+[`../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md`](../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

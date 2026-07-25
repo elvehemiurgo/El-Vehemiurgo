@@ -120,6 +120,17 @@ dentro del mismo roster de cómo hacer un feud "real" vs uno
 "fake y aburrido". Ver
 [`../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md`](../segments/2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md).
 
+### Sesión 2026-07-14 s26 — Continuación sostenida del feud con Ciampa
+
+**Cita verbatim**:
+
+> *"es un gran programa para estos dos"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: el feud mantiene calidad sin declive. Ver
+[`../segments/2026-06-20-ciampa-jericho-continuacion-aew-collision.md`](../segments/2026-06-20-ciampa-jericho-continuacion-aew-collision.md).
+
 ## Piezas relacionadas
 
 ### Cluster Raw 2004-2005 centerpieces

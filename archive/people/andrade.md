@@ -118,6 +118,22 @@ proceso activo de desarrollo, ni crítica cerrada ni elogio pleno.
 Ver
 [`../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md`](../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md).
 
+### Sesión 2026-07-14 s26 — Perdiendo la paciencia con MJF
+
+**Cita verbatim**:
+
+> *"Andrade perdiendo la paciencia [...] la tensión entre mjf y
+> andrade, estuvo buenísimo, la historia entre estos dos heels se
+> me hace más interesante que cualquier retador babyface en el
+> main event"*
+>
+> — El Vehemiurgo, 2026-07-14 s26 (verbatim)
+
+**Lectura sintética**: escalada narrativa — de rol reactivo
+(desconfianza, s20/s24) a protagonista de la tensión más
+interesante del show. Ver
+[`../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md`](../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (Lucha Underground/NXT/AEW)
