@@ -134,20 +134,44 @@ Ver
 interesante del show. Ver
 [`../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md`](../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md).
 
+### Sesión 2026-07-14 s30 — Forbidden Door: face turn confirmado
+
+**Cita verbatim**:
+
+> *"me gustó mucho el tratamienyo para mjf y andrade [...] esto
+> deja a Andrade con un face turn y listo para pasar al sigiente
+> nivel como estrella de tv, es un reto importante, pero si me
+> emociona"*
+>
+> — El Vehemiurgo, 2026-07-14 s30 (verbatim)
+
+**Lectura sintética**: **resuelve el pendiente de alineación**
+abierto desde el primer registro — la escalada seguida en detalle
+(desconfianza reactiva s20/s24 → pérdida de paciencia s26 → face
+turn s30) culmina con el turn confirmado en el 6 vs 6 de Forbidden
+Door. El Vehemiurgo lo enmarca como *"reto importante"* para el
+siguiente nivel de su carrera como estrella de TV, y se declara
+explícitamente emocionado con el paso. Ver
+[`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (Lucha Underground/NXT/AEW)
       con fechas.
-- [ ] [verif] estado exacto de alineación — ¿faceturn ya
-      confirmado o todavía pendiente en el booking oficial?
-- [ ] Finish/duración del match vs Ace Austin.
+- [x] **Estado de alineación** — resuelto s30: **face turn
+      confirmado** en Forbidden Door (28/6/2026).
+- [ ] Finish/duración de todos los matches registrados.
+- [ ] Seguimiento del "siguiente nivel como estrella de TV"
+      proyectado tras el turn.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md`](../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md)
 - [`../matches/2026-05-27-ace-austin-vs-andrade-aew-collision.md`](../matches/2026-05-27-ace-austin-vs-andrade-aew-collision.md)
+- [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
 
 ## Cross-links
 
 - [`./rush.md`](./rush.md) — contraste de promo, mismo día.
 - [`./ace-austin.md`](./ace-austin.md) — rival del Perfect Match.
+- [`./mjf.md`](./mjf.md) — tensión que detona el face turn.

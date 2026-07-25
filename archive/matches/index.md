@@ -13,6 +13,7 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-06-28 | DCMJF vs faces (6 vs 6) | AEW x NJPW / Forbidden Door | — | stub | 1 | [→](2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | The Dogs vs Cope & Cage | AEW x NJPW / Forbidden Door | — | stub | 1 | [→](2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Thekla vs Starlight Kid | AEW x NJPW / Forbidden Door | PW·FS·WE | stub | 1 | [→](2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | PAC vs Umino | AEW x NJPW / Forbidden Door | PW·FS·WE | stub | 1 | [→](2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md) |

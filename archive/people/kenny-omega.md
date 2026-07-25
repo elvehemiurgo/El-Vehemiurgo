@@ -210,6 +210,24 @@ recae enteramente en ZSJ (alta al panteón). Ver
 - [ ] Saga Okada — pieza editorial sobre la canonización
       Meltzer vs lectura Cornette-school.
 
+### Sesión 2026-07-14 s30 — Reconfirmado: "me aburre" como retador #1
+
+**Cita verbatim**:
+
+> *"esta buenisimo que todoo esto signifique más retadores para
+> MJF, porque la verdaad Kenny Omega como retador número 1 me
+> aburre"*
+>
+> — El Vehemiurgo, 2026-07-14 s30 (verbatim)
+
+**Lectura sintética**: reafirma sin matices nuevos la crítica ya
+sostenida (promo "mid", notebook 2026-05-26) — ahora en contraste
+directo con los retadores nuevos que sí emocionan al Vehemiurgo
+(Mark Briscoe, Andrade tras su face turn). El match vs ZSJ (s27,
+FS·WE) no cambia el diagnóstico sobre su rol como aspirante al
+título de MJF. Ver
+[`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md`](../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md)

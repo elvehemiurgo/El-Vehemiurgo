@@ -7,15 +7,17 @@ estado: vivo
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s09 (visión directa — AEW Dynamite 29/4/2026)"
-tags: [kevin-knight, aew, upset-vs-mjf, low-blow-finish]
+tags: [kevin-knight, aew, upset-vs-mjf, low-blow-finish, the-future-in-2026]
 ---
 
 # Kevin Knight
 
-> Primer registro del archivo. Protagonista de un **tremendo
-> upset**: derrota a MJF por low blow en AEW Dynamite
-> (29/4/2026), tras recibir *"la lucha de su vida"* de parte de
-> MJF.
+> **THE FUTURE in 2026 #6** ([lista](../topics/the-future-in-2026.md),
+> alta 2026-07-14 — *"lo vi cuidando el selling y kayfabe al
+> milimetro [...] lo aprecio mucho, de verdad"*). Protagonista de
+> un **tremendo upset**: derrota a MJF por low blow en AEW
+> Dynamite (29/4/2026), tras recibir *"la lucha de su vida"* de
+> parte de MJF.
 
 ## Identificación
 
@@ -144,15 +146,43 @@ desde s09 — confianza total en el mic, además de un Perfect Match
 y
 [`../matches/2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md`](../matches/2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md).
 
+### Sesión 2026-07-14 s30 — Forbidden Door: atención al detalle + alta a THE FUTURE
+
+**Cita verbatim**:
+
+> *"quiero destacar la atención al detalle que vi departe de Kevin
+> Knight, lo vi cuidando el selling y kayfabe al milimetro,
+> especialmente en una lucha como esta, lo aprecio mucho, de
+> verdad, con esto me convenso de ponerlo en la lista del FUTURE
+> de una vez [...] el regreo de Darby y su venganza con Knight"*
+>
+> — El Vehemiurgo, 2026-07-14 s30 (verbatim)
+
+**Lectura sintética**: cierre de arco — el desarrollo seguido
+desde el upset (s09) hasta la consolidación heel (s24) culmina en
+una alta directa a **THE FUTURE in 2026 #6**, motivada por un
+elogio técnico puntual (cuidado del selling/kayfabe), no por un
+momento de push. En el mismo match, es blanco de la venganza de
+Darby Allin. Ver
+[`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
+y
+[`./darby-allin.md`](./darby-allin.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.
-- [ ] Finish exacto + duración + ciudad/recinto.
+- [ ] Finish exacto + duración + ciudad/recinto (todos los
+      matches registrados).
+- [ ] Naturaleza exacta del agravio que motiva la venganza de
+      Darby Allin — [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md`](../matches/2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md)
+- [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
 
 ## Cross-links
 
 - [`./mjf.md`](./mjf.md) — rival del upset.
+- [`./darby-allin.md`](./darby-allin.md) — venganza en Forbidden
+  Door (s30).

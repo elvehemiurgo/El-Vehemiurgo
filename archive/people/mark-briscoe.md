@@ -55,16 +55,42 @@ el Vehemiurgo reconoce sustancia real en la rivalidad, revirtiendo
 su expectativa inicial. Ver
 [`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md).
 
+### Sesión 2026-07-14 s30 — Forbidden Door: rivalidad "inolvidable, arraigada a la realidad"
+
+**Cita verbatim**:
+
+> *"las promos de mark y mjf si estuvieron muy buenas cada vez, de
+> verdad, aunque AEW no capitalizó tanto como creí en Mark como
+> babyface hace un par de años, igual la calidad de estos dos va a
+> quedar grabada como una rivalidad inolvidable, muy arraigada a
+> la realidad, y de hecho es un activo muy cool para tener en tv,
+> estos rivales pueden armar wrestling y una rivalidad relevante
+> donde sea y cuando sea"*
+>
+> — El Vehemiurgo, 2026-07-14 s30 (verbatim)
+
+**Lectura sintética**: culminación del arco de sorpresa iniciado
+en s26 — la rivalidad con MJF alcanza el calificativo más alto del
+expediente, *"inolvidable"*, con una crítica de booking explícita
+sobre el momento en que Mark era babyface ("AEW no capitalizó
+tanto como creí [...] hace un par de años") que no resta valor a
+la calidad actual del feud. Ver
+[`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa (ROH Briscoe Brothers →
       AEW) — pieza mayor pendiente.
 - [ ] [verif] historial previo exacto de la rivalidad con MJF
       ("donde la dejaron").
+- [ ] [verif] booking específico de su run babyface "hace un par
+      de años" — pieza de contexto para la crítica de
+      subaprovechamiento.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md)
+- [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
 
 ## Cross-links
 

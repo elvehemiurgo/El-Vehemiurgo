@@ -396,10 +396,40 @@ encima del main event. Ver
 y
 [`../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md`](../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md).
 
+### Sesión 2026-07-14 s30 — Forbidden Door 6 vs 6: rivalidad "inolvidable" + más retadores, Omega aburre
+
+**Cita verbatim**:
+
+> *"las promos de mark y mjf si estuvieron muy buenas cada vez, de
+> verdad, aunque AEW no capitalizó tanto como creí en Mark como
+> babyface hace un par de años, igual la calidad de estos dos va a
+> quedar grabada como una rivalidad inolvidable, muy arraigada a
+> la realidad [...] me gustó mucho el tratamienyo para mjf y
+> andrade [...] esta buenisimo que todoo esto signifique más
+> retadores para MJF, porque la verdaad Kenny Omega como retador
+> número 1 me aburre"*
+>
+> — El Vehemiurgo, 2026-07-14 s30 (verbatim)
+
+**Lectura sintética**: la rivalidad con Mark Briscoe, retomada con
+sorpresa en s26, escala a *"inolvidable"* — el elogio más alto que
+ha recibido ese feud, con la crítica de fondo de que AEW no la
+capitalizó a tiempo cuando Mark era babyface. La tensión con
+Andrade paga con un **face turn** en el mismo match. Ambos
+desarrollos profundizan el roster de retadores de MJF, en
+contraste directo con **Kenny Omega**, retador #1 ya criticado
+como "mid" (notebook 2026-05-26, s24) y ahora declarado
+explícitamente *"aburre"*. Ver
+[`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md),
+[`./mark-briscoe.md`](./mark-briscoe.md),
+[`./andrade.md`](./andrade.md) y
+[`./kenny-omega.md`](./kenny-omega.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
+- [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
 
 ## Pendientes
 

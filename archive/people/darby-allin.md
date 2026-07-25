@@ -212,12 +212,30 @@ Darby convive con el mismo Moxley sin salir dañado, algo que
 Ospreay no logró. Ver
 [`../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md`](../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md).
 
+### Sesión 2026-07-14 s30 — Forbidden Door: regreso + venganza contra Kevin Knight
+
+**Cita verbatim**:
+
+> *"el regreo de Darby y su venganza con Knight, y si contaron una
+> historia emocionante"*
+>
+> — El Vehemiurgo, 2026-07-14 s30 (verbatim)
+
+**Lectura sintética**: pago narrativo directo dentro del 6 vs 6 de
+Forbidden Door — Darby regresa y cobra venganza específicamente
+contra Kevin Knight (heel de Don Callis Family desde s17). El
+agravio previo exacto queda [verif]. Ver
+[`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
+y [`./kevin-knight.md`](./kevin-knight.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.
 - [ ] Qué título ganó y cómo (mecánica exacta ligada a la
       arrogancia de MJF).
-- [ ] Finish/duración del match vs Tomasso.
+- [ ] Finish/duración de todos los matches registrados.
+- [ ] Naturaleza exacta del agravio que motiva la venganza contra
+      Kevin Knight — [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -227,7 +245,10 @@ Ospreay no logró. Ver
 - [`../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md`](../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md)
 - [`../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md`](../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md)
 - [`../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md`](../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md)
+- [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
 
 ## Cross-links
 
 - [`./mjf.md`](./mjf.md) — causante narrativo de su reinado.
+- [`./kevin-knight.md`](./kevin-knight.md) — venganza en Forbidden
+  Door (s30).

@@ -4,10 +4,11 @@ slug: the-future-in-2026
 tipo: topic
 categoria: lista-anual-prospectos
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión TNA No Surrender 13 feb 2026 — declaración de lista)"
-tags: [the-future-in-2026, lista-anual, prospectos-innegables, m-by-elegance, saquon-shugars, oldschool-en-nueva-generacion, wrestlers-no-cosplayers, doctrina-vehemiurgia, declaracion-2026-06-17]
+  - "Volcado Vehemiurgo 2026-07-14 s30 (AEW x NJPW Forbidden Door — altas Kevin Knight y Lio Rush)"
+tags: [the-future-in-2026, lista-anual, prospectos-innegables, m-by-elegance, saquon-shugars, kevin-knight, lio-rush, oldschool-en-nueva-generacion, wrestlers-no-cosplayers, doctrina-vehemiurgia, declaracion-2026-06-17, declaracion-2026-07-14]
 ---
 
 # THE FUTURE IN 2026 — Lista anual del Vehemiurgo
@@ -105,6 +106,31 @@ Tres ejes del criterio:
 - **Ficha**: [`../people/mila-moore.md`](../people/mila-moore.md).
 - **Nota**: no confundir con Myla Grace (#4, nombre similar).
 
+### #6 — Kevin Knight *(declarado 2026-07-14 s30)*
+
+- **Empresa**: AEW.
+- **Por qué entra**: atención al detalle específica en selling y
+  kayfabe, apreciada en el 6 vs 6 de Forbidden Door (28/6/2026).
+  *"Lo vi cuidando el selling y kayfabe al milimetro,
+  especialmente en una lucha como esta, lo aprecio mucho, de
+  verdad"*. Coherente con toda su curva de desarrollo ya seguida
+  en el archivo desde s09 (upset vs MJF) hasta el heel turn
+  consolidado (s17-s24) y el caso de éxito de la doctrina de
+  presentación guiada (s19).
+- **Ficha**: [`../people/kevin-knight.md`](../people/kevin-knight.md).
+- **Match anchor de la declaración**: 6 vs 6, AEW x NJPW Forbidden
+  Door (28/6/2026).
+
+### #7 — Lio Rush *(declarado 2026-07-14 s30, en bloque con Kevin Knight)*
+
+- **Empresa**: [verif].
+- **Por qué entra**: *"está experimentando y consiguiendo
+  resultados, respetando el wrestling oldschool y ofreciendo
+  calidad, es un performer perfecto y todos deberían estudiarlo"*.
+  Cumple los tres ejes del criterio sin match anchor específico
+  citado — declaración de trayectoria general.
+- **Ficha**: [`../people/lio-rush.md`](../people/lio-rush.md).
+
 ## El advertencia editorial — *"no como Santana"*
 
 El Vehemiurgo encuadra la lista con una **advertencia comparativa**
@@ -177,11 +203,13 @@ explícitamente *encabeza la lista*).
 - [`../people/arianna-grace.md`](../people/arianna-grace.md) — #3.
 - [`../people/myla-grace.md`](../people/myla-grace.md) — #4.
 - [`../people/mila-moore.md`](../people/mila-moore.md) — #5.
-- **Nota de composición**: 4 de las 5 altas son **TNA Knockouts**
+- [`../people/kevin-knight.md`](../people/kevin-knight.md) — #6.
+- [`../people/lio-rush.md`](../people/lio-rush.md) — #7.
+- **Nota de composición**: 4 de las 7 altas son **TNA Knockouts**
   (M by Elegance, Arianna Grace, Myla Grace, Mila Moore) + 1 WWE
-  NXT (Saquon Shugars). *The Future in 2026* se está volviendo un
-  **cluster mayoritariamente TNA** — coherente con el catch-up
-  intensivo de TNA 2025-2026.
+  NXT (Saquon Shugars) + 2 **AEW** (Kevin Knight, Lio Rush) — la
+  primera incursión de AEW en la lista, rompiendo el predominio
+  TNA/NXT.
 - [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
   — anchor del #1 (mismo show que el del #3).
 - [`../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md`](../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md)
