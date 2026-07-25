@@ -79,7 +79,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 26 | **Zack Gibson** | British indie moderno (Liverpool) | _(ficha pendiente)_ |
 | 27 | **The Filthy Generation** (facción) | British indie moderno (facción) | _(ficha pendiente)_ |
 | 28 | **LA Knight** | Carny / promo-driven moderno | [→](../people/la-knight.md) |
-| 29 | **Psicosis** | Lucha libre / cruiser 90s | _(ficha pendiente)_ |
+| 29 | **Psicosis** | Lucha libre / cruiser 90s | [→](../people/psicosis.md) |
 | 30 | **JT Dunn** | Indie americano (deathmatch / tag) | _(ficha pendiente)_ |
 | 31 | **David Starr** | Indie americano/British | _(ficha pendiente)_ |
 | 32 | **Chris Benoit** | Worker de oficio (Wild Pegasus / WCW-WWE) | _(ficha pendiente)_ |
@@ -194,6 +194,29 @@ El panteón ahora tiene **tres niveles de jerarquía**:
   — consolidación de calidad a través de todo el arco, no un pico
   aislado.
 - **Panteón total: 47 entradas.**
+
+## Notas de la alta 2026-07-14 — Psicosis (#29, ratificación + ficha creada)
+
+> *"esto es lo alternativo de los 2000s, estos luchadores son muy
+> influyentes, su estilo sigue vivo ahora, sobre todo Psicosis,
+> que desde los 90s estaba innovando con violencia a su estilo,
+> siempre destacando en todo sitio donde trabajaba [...] con esto
+> ya lo decidí, hay que poner a Psicosis en el panteon de heroes
+> definitivamente"*
+>
+> — El Vehemiurgo, 2026-07-14 s31 (verbatim)
+
+- **No es una alta nueva**: Psicosis ya estaba en la tabla como
+  Héroe Fundamental #29 desde la expansión del 2026-06-17, pero
+  sin ficha individual (*"ficha pendiente"*).
+- **Lo que cambia hoy**: el Vehemiurgo lo ratifica *"definitivamente"*
+  con contexto biográfico nuevo (innovador de violencia estilizada
+  desde los 90s, influencia sostenida en el wrestling alternativo
+  actual) y se abre su ficha individual — ver
+  [`../people/psicosis.md`](../people/psicosis.md).
+- **Sin cambio de numeración**: el panteón se mantiene en 47
+  entradas totales; esta sesión resuelve un "ficha pendiente", no
+  agrega una fila nueva.
 
 ## The Filthy Generation (#26) — composición declarada
 

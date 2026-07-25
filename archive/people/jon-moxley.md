@@ -257,6 +257,24 @@ prueba de que el problema real estaba en el booking específico de
 Ospreay, no en Moxley por sí solo de forma inevitable. Ver
 [`../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md`](../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md).
 
+### Sesión 2026-07-14 s31 — Comparación histórica: el hardcore de AAA 2000s como estándar superior
+
+**Cita verbatim**:
+
+> *"el estilo hardcore de nicho el millonario por ejemplo, siempre
+> va a ser más real y más cool que cualquier cosa que haga Moxley
+> en AEW, prefiero mil veces esta concepción de hardcore a lo AAA"*
+>
+> — El Vehemiurgo, 2026-07-14 s31 (verbatim)
+
+**Lectura sintética**: extensión directa de la crítica ya
+sostenida (*"lo más cancerígeno"*, s26) — ahora con un estándar
+histórico de comparación explícito. El hardcore de época AAA
+(Nicho el Millonario, años 2000s) se declara superior en
+autenticidad al hardcore actual de Moxley en AEW. Ver
+[`../topics/doctrina-2000s-alternativo-real-no-cosplay-vs-moxley.md`](../topics/doctrina-2000s-alternativo-real-no-cosplay-vs-moxley.md)
+y [`./nicho-el-millonario.md`](./nicho-el-millonario.md).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: The Shield + Dean Ambrose run WWE

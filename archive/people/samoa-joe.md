@@ -100,12 +100,30 @@ gana" se convierte en atajo del Vehemiurgo para nombrar un tipo de
 booking de riesgo, aplicado acá a Persephone. Ver
 [`../segments/2026-05-30-persephone-post-match-aew-collision.md`](../segments/2026-05-30-persephone-post-match-aew-collision.md).
 
+### Sesión 2026-07-14 s31 — AAA Verano de Escándalo 2006: "el momentazo" con Abismo Negro
+
+**Cita verbatim**:
+
+> *"es genial ver a abismo negro en accion, y el momentazo que
+> tuvo con Joe, incluyendo el spot del martinete con el tirantes
+> contestando una llamada"*
+>
+> — El Vehemiurgo, 2026-07-14 s31 (verbatim)
+
+**Lectura sintética**: pieza de época — Joe como parte de Team TNA
+en el crossover con AAA, protagonista de un momento cómico
+específico junto a Abismo Negro dentro de un Perfect Match. Ver
+[`../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md`](../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md)
+y [`./abismo-negro.md`](./abismo-negro.md).
+
 ## Piezas relacionadas
 
 - [`../../dossiers/draft-tna-2007-christian-coalition-era.md`](../../dossiers/draft-tna-2007-christian-coalition-era.md)
   — TNA 2007 cluster.
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
   — AEW 2026.
+- [`../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md`](../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md)
+  — Perfect Match, crossover AAA/TNA.
 
 ## Pendientes
 

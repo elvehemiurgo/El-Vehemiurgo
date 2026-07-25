@@ -197,6 +197,22 @@ trasladado al formato moderno.
       current.
 - [ ] **Royal Rumble 2016 surprise debut** — segment editorial.
 
+### Sesión 2026-07-14 s31 — AAA Verano de Escándalo 2006: Perfect Match con Team TNA
+
+**Cita verbatim**:
+
+> *"estoy viendo AJ Styles y Team TNA vs. Los Vipers | AAA Verano
+> de Escándalo 2006, y esta lucha se merece todas las clases, me
+> dio mucho nostalgia, y la calidad de todos in ring es real"*
+>
+> — El Vehemiurgo, 2026-07-14 s31 (verbatim)
+
+**Lectura sintética**: pieza de época del crossover AAA/TNA — AJ
+como pilar de Team TNA junto a Samoa Joe. Triple clase, con
+doctrina explícita de que los botches del match se usaron a favor
+("una buena lucha no tiene que ser perfecta, debe ser real"). Ver
+[`../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md`](../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 ### Centerpieces principales
@@ -204,6 +220,8 @@ trasladado al formato moderno.
   — pieza intermedia arc indie.
 - [`../matches/2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md`](../matches/2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md)
 - [`../matches/2007-06-17-king-of-the-mountain-tna-slammiversary.md`](../matches/2007-06-17-king-of-the-mountain-tna-slammiversary.md)
+- [`../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md`](../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md)
+  — Perfect Match, crossover AAA/TNA.
 
 ### Segmentos
 - [`../segments/2007-05-13-christian-coalition-backstage-aj-tomko-steiner-tna-sacrifice.md`](../segments/2007-05-13-christian-coalition-backstage-aj-tomko-steiner-tna-sacrifice.md)

@@ -130,12 +130,14 @@ con cada cambio de estado.
 | 2014-04-06 | Brock Lesnar vs The Undertaker — Streak Match | WWE / WrestleMania XXX | — | en-investigacion | 1 | [→](2014-04-06-brock-lesnar-vs-undertaker-wrestlemania-xxx-streak-breaker.md) |
 | 2013-07-14 | Money in the Bank ladder match — Christian vs RVD vs CM Punk vs Daniel Bryan vs Sheamus vs Randy Orton | WWE / Money in the Bank 2013 | — | en-investigacion | 1 | [→](2013-07-14-mitb-ladder-christian-rvd-punk-bryan-sheamus-orton-wwe.md) |
 | 2013-07-08 | Christian vs Kane | WWE / Raw | — | en-investigacion | 1 | [→](2013-07-08-christian-vs-kane-wwe-raw.md) |
+| 2008-12-06 | Nicho el Millonario, Joe Líder vs. Teddy Hart, Jack Evans | AAA / AAA (show del 6 dic 2008) | — | en-investigacion | 1 | [→](2008-12-06-nicho-joe-lider-vs-teddy-hart-jack-evans-aaa.md) |
 | 2007-07-15 | Samoa Joe & Kurt Angle vs Team 3D | TNA / Victory Road 2007 | — | en-investigacion | 1 | [→](2007-07-15-joe-angle-vs-team-3d-tna-victory-road.md) |
 | 2007-06-17 | King of the Mountain Match — Styles vs Joe vs Christian vs Harris vs Angle | TNA / Slammiversary 2007 | — | en-investigacion | 1 | [→](2007-06-17-king-of-the-mountain-tna-slammiversary.md) |
 | 2007-05-13 | Samoa Joe vs AJ Styles | TNA / Sacrifice 2007 | — | en-investigacion | 1 | [→](2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md) |
 | 2007-05-13 | James Storm vs Chris Harris — AMW split blow-off | TNA / Sacrifice 2007 | — | en-investigacion | 1 | [→](2007-05-13-james-storm-vs-chris-harris-tna-sacrifice.md) |
 | 2007-05-13 | Christian Cage vs Kurt Angle vs Sting | TNA / Sacrifice 2007 | — | en-investigacion | 1 | [→](2007-05-13-christian-vs-angle-vs-sting-tna-sacrifice.md) |
 | 2006-08-25 | Ikuto Hidaka & Minoru Fujita (c) vs MCMG (Alex Shelley & Chris Sabin) | ZERO1-MAX / Tenka-Ichi Junior 2006 Tag 2 | — | en-investigacion | 1 | [→](2006-08-25-mcmg-vs-hidaka-fujita-zero1-max.md) |
+| 2006-01-01 | AJ Styles y Team TNA vs. Los Vipers | AAA / Verano de Escándalo 2006 (fecha exacta pendiente) | PW·FS·WE | en-investigacion | 1 | [→](2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md) |
 | 2005-05-16 | Christian vs Ric Flair | WWE / Raw | — | en-investigacion | 1 | [→](2005-05-16-christian-vs-ric-flair-wwe-raw.md) |
 | 2005-04-25 | Christian (w/ Triple H) vs Batista | WWE / Monday Night Raw | — | en-investigacion | 0 | [→](2005-04-25-christian-cage-vs-batista-raw.md) |
 | 2005-04-04 | Christian vs Chris Jericho vs Shelton Benjamin — triple threat | WWE / Raw | — | en-investigacion | 1 | [→](2005-04-04-christian-vs-jericho-vs-benjamin-triple-threat-wwe-raw.md) |

@@ -88,6 +88,7 @@ cada alta y con cada cambio de estado.
 | 2020-08-23 | Roman Reigns Tribal Chief heel turn | WWE / SummerSlam 2020 | heel turn moment + character work reset | — | en-investigacion | 1 | [→](2020-08-23-roman-reigns-tribal-chief-heel-turn-summerslam.md) |
 | 2013-07-08 | Bray Wyatt debut promo + Wyatt Family attack Kane | WWE / Raw | character debut + in-ring attack | — | en-investigacion | 1 | [→](2013-07-08-bray-wyatt-debut-promo-wwe-raw.md) |
 | 2011-06-27 | CM Punk Pipebomb Promo | WWE / Raw | in-ring promo / shoot-style worked promo | — | en-investigacion | 1 | [→](2011-06-27-cm-punk-pipebomb-promo-wwe-raw.md) |
+| 2008-12-06 | Promo video: Nicho el Millonario, Joe Líder vs. Teddy Hart, Jack Evans | AAA / AAA (show del 6 dic 2008) | promo video (hype package) | WE | stub | 1 | [→](2008-12-06-nicho-joe-lider-vs-teddy-hart-jack-evans-promo-video-aaa.md) |
 | 2007-06-21 | Beer Money Formation — post tag team match | TNA / Impact | post-match alliance / faction formation moment | — | en-investigacion | 1 | [→](2007-06-21-beer-money-formation-tna-impact.md) |
 | 2007-05-13 | Christian Coalition backstage segment con AJ Styles & Tomko & Scott Steiner | TNA / Sacrifice 2007 | backstage segment | — | en-investigacion | 1 | [→](2007-05-13-christian-coalition-backstage-aj-tomko-steiner-tna-sacrifice.md) |
 
