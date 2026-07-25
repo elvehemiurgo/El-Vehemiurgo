@@ -174,6 +174,21 @@ afecta la expectativa por el match en sí, que sigue siendo alta.
 Ver
 [`../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md`](../segments/2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md).
 
+### Sesión 2026-07-14 s27 — vs ZSJ en Forbidden Door: doble clase
+
+**Cita verbatim**:
+
+> *"Omega vs ZSJ, la lucha estuvo genial [...] se merece la clase
+> de fighting spirit y entertainment"*
+>
+> — El Vehemiurgo, 2026-07-14 s27 (verbatim)
+
+**Lectura sintética**: el match cumple la expectativa alta
+declarada desde el promo video previo (s24: "la lucha seguro va a
+estar buena") — aunque el protagonismo editorial de la sesión
+recae enteramente en ZSJ (alta al panteón). Ver
+[`../matches/2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md`](../matches/2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md).
+
 ## Pendientes / huecos
 
 - [ ] **VERIFICAR CITA**: la atribución *"dijo que no es fan

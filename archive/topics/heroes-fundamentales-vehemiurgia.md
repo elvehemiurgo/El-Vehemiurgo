@@ -10,7 +10,7 @@ fuentes_principales:
   - "Reorganización completa del panteón 2026-05-26"
   - "Expansión a 42 + doctrina top-7 dioses, dictada por el Vehemiurgo 2026-06-17"
   - "Fact-sheets individuales de cada héroe"
-tags: [heroes-fundamentales-vehemiurgia, panteon-vehemiurgo, dioses-del-wrestling-top-7, dioses-del-wrestling-tier-2, christian-cage, cm-punk, stone-cold-steve-austin, samoa-joe, jeff-hardy, dynamite-kid, roderick-strong, bret-hart, aj-styles, kurt-angle, american-wolves, kyle-oreilly, ric-flair, mjf, young-bucks, hazuki, austin-aries, kira, arn-anderson, matt-hardy, mark-rocco, shawn-michaels, hhh, hayabusa, rvd, zack-gibson, filthy-generation, la-knight, psicosis, jt-dunn, david-starr, chris-benoit, kay-lee-ray, hana-kimura, mei-seira, myron-reed, fallon-henley, lainey-reid, scott-hall, randy-savage, hulk-hogan, british-bulldogs, mark-davis, redragon, bobby-fish, kazarian, christopher-daniels, bad-influence, the-addiction, darby-allin, claudemd-sec-7-referentes]
+tags: [heroes-fundamentales-vehemiurgia, panteon-vehemiurgo, dioses-del-wrestling-top-7, dioses-del-wrestling-tier-2, christian-cage, cm-punk, stone-cold-steve-austin, samoa-joe, jeff-hardy, dynamite-kid, roderick-strong, bret-hart, aj-styles, kurt-angle, american-wolves, kyle-oreilly, ric-flair, mjf, young-bucks, hazuki, austin-aries, kira, arn-anderson, matt-hardy, mark-rocco, shawn-michaels, hhh, hayabusa, rvd, zack-gibson, filthy-generation, la-knight, psicosis, jt-dunn, david-starr, chris-benoit, kay-lee-ray, hana-kimura, mei-seira, myron-reed, fallon-henley, lainey-reid, scott-hall, randy-savage, hulk-hogan, british-bulldogs, mark-davis, redragon, bobby-fish, kazarian, christopher-daniels, bad-influence, the-addiction, darby-allin, zack-sabre-jr, claudemd-sec-7-referentes]
 ---
 
 # Héroes fundamentales del Vehemiurgo — el panteón
@@ -33,7 +33,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
   de dioses, creado 2026-06-17 (segunda ronda). Por debajo del Tier 1
   pero por encima de los Fundamentales. *(Orden interno: a confirmar —
   por ahora se respeta el orden ya establecido.)*
-- **Fundamentales (#26-46)**: igual de fundamentales que el Tier 2 en
+- **Fundamentales (#26-47)**: igual de fundamentales que el Tier 2 en
   cuanto a pertenecer al panteón, **pero sin orden particular** — el
   número es **slot de registro**, no posición de mérito.
 
@@ -72,7 +72,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 24 | **RVD (Rob Van Dam)** | ECW / highspot carny | _(ficha pendiente)_ |
 | 25 | **Kira** (luchadora mexicana CMLL) | Lucha libre / heredera local | [→](../people/kira.md) |
 
-### Fundamentales (#26-46, sin orden — todos pesan igual)
+### Fundamentales (#26-47, sin orden — todos pesan igual)
 
 | # | Héroe | Rama | Ficha |
 |---|---|---|---|
@@ -97,6 +97,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 44 | **reDRagon (Bobby Fish & Kyle O'Reilly)** | Tag / strong style ROH-NJPW (cuentan como uno) | _(ficha pendiente)_ |
 | 45 | **Kazarian & Daniels** (Bad Influence / The Addiction) | Tag / TNA-ROH (cuentan como uno) | [→](../people/frankie-kazarian.md) *(Daniels pendiente)* |
 | 46 | **Darby Allin** | AEW moderno / daredevil-real | [→](../people/darby-allin.md) |
+| 47 | **Zack Sabre Jr** | Mat wrestling / submisiones técnicas | [→](../people/zack-sabre-jr.md) |
 
 ## Notas de la expansión 2026-06-17
 
@@ -169,6 +170,30 @@ El panteón ahora tiene **tres niveles de jerarquía**:
   a un match puntual: la consolidación de su acto (presentación de
   riesgo real + daredevil) como producto de TV sostenido.
 - **Panteón total: 46 entradas.**
+
+## Notas de la alta 2026-07-14 — Zack Sabre Jr (#47)
+
+> *"pongamos a ZSJ en el panteón de héroes de una vez, es un
+> genio"*
+>
+> — El Vehemiurgo, 2026-07-14 (verbatim)
+
+- **Zack Sabre Jr entra como Héroe Fundamental #47** — sin tier ni
+  número especificado por el Vehemiurgo; se registra al final de
+  los Fundamentales (#26-47), mismo protocolo que la alta de Darby
+  Allin (#46) el mismo día.
+- **Contexto de la alta**: cierre de un arco de semanas hacia AEW
+  x NJPW Forbidden Door (28/6) — promo con Wrestling Entertainment
+  declarada (13/6), debut liderando su propia facción ("sueño
+  hecho realidad", 17/6), Fighting Spirit vs Adam Priest (20/6), y
+  el pago final: Fighting Spirit + Wrestling Entertainment vs
+  Kenny Omega en Forbidden Door.
+- **El elogio es a un patrón sostenido, no solo a un match**:
+  *"buenísima como todas las luchas de ZSJ, incluyendo el buildup
+  que le dieron, cada segundo de ZSJ en este feudo fue oro puro"*
+  — consolidación de calidad a través de todo el arco, no un pico
+  aislado.
+- **Panteón total: 47 entradas.**
 
 ## The Filthy Generation (#26) — composición declarada
 

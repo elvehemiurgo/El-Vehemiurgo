@@ -13,6 +13,11 @@ tags: [zack-sabre-jr, aew, njpw, mat-wrestling, wrestling-entertainment, primer-
 
 # Zack Sabre Jr
 
+> **Héroe Fundamental #47 del Vehemiurgo** ([panteón](../topics/heroes-fundamentales-vehemiurgia.md),
+> alta 2026-07-14 — *"pongamos a ZSJ en el panteón de héroes de
+> una vez, es un genio"*, tras el pago de todo un arco hacia
+> Forbidden Door).
+
 > Primer registro individual del archivo (ya mencionado de pasada
 > en la lista personal maestra). Debuta con **Wrestling
 > Entertainment** por una promo de video, de cara a su próximo
@@ -77,6 +82,24 @@ dieran espacio de mic, prefiriéndolo a las promos de Omega
 **Lectura sintética**: nueva clase, consistente con su expediente
 como worker de mat-wrestling puro. Ver
 [`../matches/2026-06-20-zsj-vs-adam-priest-aew-collision.md`](../matches/2026-06-20-zsj-vs-adam-priest-aew-collision.md).
+
+### Sesión 2026-07-14 s27 — Pago del arco + alta al panteón
+
+**Cita verbatim**:
+
+> *"Omega vs ZSJ, la lucha estuvo genial, pongamos a ZSJ en el
+> panteón de héroes de una vez, es un genio, esta lucha se merece
+> la clase de fighting spirit y entertainment, estuvo buenísima
+> como todas las luchas de ZSJ, incluyendo el buildup que le
+> dieron, cada segundo de ZSJ en este feudo fue oro puro"*
+>
+> — El Vehemiurgo, 2026-07-14 s27 (verbatim)
+
+**Lectura sintética**: cierre del arco completo hacia Forbidden
+Door con doble clase, y alta directa al panteón como Héroe
+Fundamental #47 — el elogio cubre todo el build, no solo el
+match final. Ver
+[`../matches/2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md`](../matches/2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md).
 
 ## Pendientes / huecos
 
