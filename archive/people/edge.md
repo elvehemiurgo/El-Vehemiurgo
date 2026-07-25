@@ -139,6 +139,23 @@ Christian Cage — triple clase con reserva técnica fuerte. Ver
 Christian Cage. Ver
 [`../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md`](../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md).
 
+### Sesión 2026-07-14 s29 — vs The Dogs en Forbidden Door: booking de veteranos aprobado
+
+**Cita verbatim**:
+
+> *"la lucha estuvo igual de buena [...] los dogs pudieron exponer
+> su gimmick, cada spot conectaba con los fans, AEW de verdad está
+> bookeando bien a los campeones veteranos"*
+>
+> — El Vehemiurgo, 2026-07-14 s29 (verbatim, sobre Cope & Cage vs
+> The Dogs)
+
+**Lectura sintética**: mismo veredicto que en la ficha de
+Christian Cage — sin clase declarada, pero booking de veteranos
+campeones aprobado explícitamente, con el cambio de rival (The
+Dogs por FTR) leído como acierto. Ver
+[`../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md).
+
 ## Piezas relacionadas
 
 - [`./christian-cage.md`](./christian-cage.md) — hermandad

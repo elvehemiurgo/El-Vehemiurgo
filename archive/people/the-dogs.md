@@ -129,15 +129,37 @@ se lee como revitalización tras el desgaste del feud con FTR. Ver
 y
 [`../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md`](../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md).
 
+### Sesión 2026-07-14 s29 — Forbidden Door: vs Cope & Cage, regreso de Jay White
+
+**Cita verbatim**:
+
+> *"the dogs vs cope & cage, estuvo muy bunea, el promo video
+> estuvo muy épico, de verdad vendió a los dogs como un tag team
+> cool con buenas promos, el video se merece un enterteinment
+> class; y la lucha estuvo igual de buena [...] los dogs pudieron
+> exponer su gimmick, cada spot conectaba con los fans [...]
+> siempre es genial ver tanto bullet club en tv [...] encima el
+> gran regreso de Jay White en Forbidden Door, momentazo"*
+>
+> — El Vehemiurgo, 2026-07-14 s29 (verbatim)
+
+**Lectura sintética**: tercera Wrestling Entertainment del
+expediente (promo video) + match sin clase pero con elogio de
+ejecución máximo ("expusieron su gimmick", "cada spot conectaba").
+**Resuelve el pendiente abierto desde s19**: Jay White ya tiene
+ficha propia tras su regreso en el mismo show. Ver
+[`../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md),
+[`../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md`](../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md)
+y
+[`./jay-white.md`](./jay-white.md).
+
 ## Pendientes / huecos
 
 - [ ] Integrantes exactos más allá de David Finlay (¿Juice
       Robinson confirmado?).
 - [ ] [verif] relación exacta con Bang Bang Gang (¿mismo grupo,
       sub-facción?).
-- [ ] Finish/duración de ambos matches vs The Guns.
-- [ ] Ficha propia para Jay White cuando aparezca — por ahora solo
-      referenciado como ausente/esperado.
+- [ ] Finish/duración de todos los matches registrados.
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -146,8 +168,12 @@ y
 - [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
 - [`../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md`](../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md)
 - [`../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md`](../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md)
+- [`../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md`](../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md)
+- [`../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md)
 
 ## Cross-links
 
 - [`./the-guns.md`](./the-guns.md)
+- [`./jay-white.md`](./jay-white.md) — regreso en Forbidden Door
+  (s29).
 - [`../topics/doctrina-presentacion-guiada-nuevos-talentos.md`](../topics/doctrina-presentacion-guiada-nuevos-talentos.md)

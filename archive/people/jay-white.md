@@ -1,0 +1,85 @@
+---
+nombre: "Jay White"
+tipo: fact-sheet
+categoria: people
+slug: jay-white
+estado: vivo
+ultima_actualizacion: 2026-07-14
+fuentes_principales:
+  - "Volcado Vehemiurgo 2026-07-14 s29 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
+  - "Mención previa como ausente/esperado en archive/people/the-dogs.md (s19-s26)"
+tags: [jay-white, bang-bang-gang, bullet-club, njpw, aew, the-catalyst-of-pro-wrestling, primer-registro-individual, oldschool]
+---
+
+# Jay White
+
+> Primer registro individual del archivo. Regreso muy anticipado
+> en AEW x NJPW Forbidden Door (28/6/2026) — *"the catalyst of pro
+> wrestling"* según el apodo que le da el Vehemiurgo. Líder
+> (kayfabe) del **Bang Bang Gang**, telón de fondo del
+> posicionamiento de **The Dogs** desde s19.
+
+## Identificación
+
+- **Nombre de gimmick**: Jay White.
+- **Nombre real**: [verif].
+- **Origen**: Nueva Zelanda [verif].
+- **Apodo del Vehemiurgo**: *"the catalyst of pro wrestling"*.
+- **Facción**: Bang Bang Gang (linaje Bullet Club) [verif detalle
+  exacto de sub-facción].
+- **Empresa (2026)**: AEW, con raíz NJPW.
+
+## Trayectoria condensada
+
+- **Ausente/esperado desde s19 (30/5/2026)**: el regreso de Jay
+  White funcionaba como telón de fondo narrativo del
+  posicionamiento de The Dogs — *"todos esperando el regreso de
+  Jay White"*. Ver
+  [`./the-dogs.md`](./the-dogs.md).
+- **28/6/2026 (AEW x NJPW Forbidden Door)** — regreso: *"momentazo,
+  de verdad fue perfecto, y la reacción fue muy poderosa"*.
+  ([→](../segments/2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md)).
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-07-14 s29 — Regreso perfecto, "the catalyst of pro wrestling"
+
+**Cita verbatim**:
+
+> *"encima el gran regreso de Jay White en Forbidden Door,
+> momentazo, de verdad fue perfecto, y la reacción fue muy
+> poderosa, ahora que vuelve the catalist of pro wrestling jay
+> white, la programación semanal se pondré mucho más cool; y
+> todos los involucrados son muy oldschool, esteos wrestlers
+> puedcen educar a toda esta generación, más vale"*
+>
+> — El Vehemiurgo, 2026-07-14 s29 (verbatim)
+
+**Lectura sintética**: entra al archivo con el registro más alto
+posible de expectativa cumplida — sin clase declarada (elogio sin
+fórmula), pero con proyección directa de impacto en la
+programación semanal a partir de este punto. El Vehemiurgo lo
+enmarca explícitamente en la doctrina de **veteranos old-school
+como educadores de la generación actual** (CLAUDE.md §3, memoria
+histórica). Ver
+[`../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md)
+para el contexto de show completo (Bullet Club nostalgia, Cope &
+Cage vs The Dogs).
+
+## Pendientes / huecos
+
+- [ ] Nombre real, debut, trayectoria completa NJPW (Bullet Club,
+      IWGP Title runs, Bang Bang Gang) con fechas.
+- [ ] Naturaleza exacta del momento de regreso (¿ataque,
+      confrontación, aparición sola?).
+- [ ] Seguimiento del impacto proyectado en la programación
+      semanal.
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`../segments/2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md`](../segments/2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md)
+
+## Cross-links
+
+- [`./the-dogs.md`](./the-dogs.md) — telón de fondo del
+  posicionamiento del equipo desde s19.

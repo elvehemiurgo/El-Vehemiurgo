@@ -260,6 +260,25 @@ sobre el feud con FTR (s11, s17), el cambio de rival se lee como
 revitalización genuina. Ver
 [`../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md`](../segments/2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md).
 
+### Sesión 2026-07-14 s29 — vs The Dogs en Forbidden Door: "todas las luchas de Christian"
+
+**Cita verbatim**:
+
+> *"la lucha estuvo igual de buena, como todas las luchas de
+> Christian, estuvo muy bien construida [...] AEW de verdad está
+> bookeando bien a los campeones veteranos, haciendonos descansar
+> de ftr un rato"*
+>
+> — El Vehemiurgo, 2026-07-14 s29 (verbatim)
+
+**Lectura sintética**: sin clase declarada, pero elogio máximo de
+consistencia — *"como todas las luchas de Christian"* repite
+textualmente el diagnóstico de s11 (*"siempre va a convertir en
+oro todo lo que toque"*). El cambio de rival (The Dogs, reemplazando
+a FTR) se confirma como acierto de booking, en línea con lo ya
+anticipado en s26. Ver
+[`../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 **Christian Cage es el caso paradigmático de carny ortodoxo
