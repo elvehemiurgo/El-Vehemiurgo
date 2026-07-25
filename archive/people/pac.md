@@ -61,17 +61,34 @@ gana luchas importantes por su cuenta" — usado como advertencia
 para el desarrollo de Persephone. Ver
 [`../segments/2026-05-30-persephone-post-match-aew-collision.md`](../segments/2026-05-30-persephone-post-match-aew-collision.md).
 
+### Sesión 2026-07-14 s28 — Forbidden Door: segundo Perfect Match, vs Umino
+
+**Cita verbatim**:
+
+> *"PAC vs Umino fue genial! merece todas las clases, se vio
+> increible"*
+>
+> — El Vehemiurgo, 2026-07-14 s28 (verbatim)
+
+**Lectura sintética**: segundo Perfect Match del archivo para PAC
+(el primero fue vs Darby Allin, 9/5/2026) — patrón sostenido de
+alto nivel en singles de peso. Ver
+[`../matches/2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md`](../matches/2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (PWG/NJPW/WWE
       NXT UK/AEW).
-- [ ] Finish/duración del match.
+- [ ] Finish/duración de ambos matches.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md`](../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md)
+- [`../matches/2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md`](../matches/2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md)
 
 ## Cross-links
 
 - [`./darby-allin.md`](./darby-allin.md) — rival del Perfect
-  Match.
+  Match (9/5/2026).
+- [`./umino.md`](./umino.md) — rival del Perfect Match
+  (28/6/2026).

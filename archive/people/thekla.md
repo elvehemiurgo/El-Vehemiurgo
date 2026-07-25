@@ -127,6 +127,90 @@ sostenido con el "proyecto Thekla" se explica en parte por una
 afinidad de larga data con STARDOM. Ver
 [`../segments/2026-06-11-thekla-promo-aew-collision-summer-blockbuster.md`](../segments/2026-06-11-thekla-promo-aew-collision-summer-blockbuster.md).
 
+### Sesión 2026-07-14 s28 — Forbidden Door: ex-STARDOM vs defensora de STARDOM + doctrina women's wrestling
+
+**Cita verbatim**:
+
+> *"el promo video para Teklah vs Starlight Kid estuvo muy bueno,
+> totalmente a la altura de algo asi para Stardom, se merece un
+> enterteinment class por contar algo tan historico; y aparte la
+> lucha, tenia mucho hype porque e booking estuvo cool, no muy
+> intenso en cuanto a interacciones porque se apoyaban en la
+> historia previa del despidop de Teklah de Stardom y todo lo que
+> hizo despues como campeona en AEW, pero fue genial poner a
+> Starlight como defensora de Stardom y que retara a Teklah, fue
+> un super show, mucha presion de por medio, estos es womens
+> wrestling actualmente, despues de Toni Storm, en AEW Thekla fue
+> la que se consagró como evento imperdible de la programación,
+> mientras en WWE tienen a Vaquer que es una asesina in ring, pero
+> todavia les falta redondear las promos y eso; Thekla avanza a
+> pasos agigantados en ambas esferas, ahora mismo es un proyecto
+> igual o más interesante, lo mismo pienso de Fatal Influence en
+> WWE, son muy buenas, y si seguimos hablando de su historia, pues
+> está en mejor posisión que Giulia actualmente, quien diria, o
+> sea, Giulia era la protagonista y la que firma con la empresa
+> grande, pero el protagonismo en tv ahora es para Thekla, y la
+> que está empezando de abajo es Giulia, es lo cautivante del
+> wrestling; esta lucha [...] se merece todas las clases, top tier
+> wrestling, pero fue una lucha con momentos al estilo stardom al
+> principio, muchos tropos del joshi, una mezcla muy cool, son dos
+> estilos de wrestling que me gustan, y una lucha en ppv es
+> perfecta para una colisión interesante, por la duración y el
+> feeling out process"*
+>
+> — El Vehemiurgo, 2026-07-14 s28 (verbatim)
+
+**Lectura sintética**:
+
+1. **Doble clase en la misma noche**: promo video con **Wrestling
+   Entertainment** por *"contar algo tan histórico"* +
+   **Perfect Match** (triple clase) contra Starlight Kid. El
+   backstory real (despido de STARDOM → título en AEW) hace el
+   trabajo de hype en vez de interacciones nuevas intensas.
+2. **Confirma el dato biográfico de la sesión s25**: el
+   "despido de Thekla de STARDOM" que ahora aparece explícito en
+   el booking es coherente con su condición de ex-fan/ex-talento
+   de STARDOM ya registrada. Starlight Kid queda posicionada como
+   **defensora institucional** de la casa que Thekla dejó — ver
+   [`./starlight-kid.md`](./starlight-kid.md).
+3. **Doctrina extensa de women's wrestling post-Toni Storm** — el
+   take más denso registrado sobre Thekla hasta la fecha:
+   - **Thekla = sucesora de Toni Storm** como el acto femenino
+     imperdible de la programación de AEW. Ver
+     [`./toni-storm.md`](./toni-storm.md).
+   - **Comparación directa con Stephanie Vaquer (WWE)**: Vaquer
+     es *"una asesina in-ring"* pero **le falta redondear las
+     promos** — diagnóstico ya establecido en su ficha desde
+     2026-05-09, ahora usado explícitamente para marcar la
+     ventaja de Thekla, quien *"avanza a pasos agigantados en
+     ambas esferas"* (in-ring y mic). Ver
+     [`./stephanie-vaquer.md`](./stephanie-vaquer.md).
+   - **Nivel Fatal Influence, reconfirmado**: la comparación de
+     mayo (notebook 2026-05-26) se sostiene sin matices nuevos.
+   - **Giro de trayectoria con Giulia**: *"está en mejor posición
+     que Giulia actualmente"* — Giulia fue la protagonista que
+     firmó con "la empresa grande" (WWE), pero hoy el
+     protagonismo en TV es de Thekla, mientras Giulia
+     *"empieza de abajo"*. El Vehemiurgo lo marca como **lo
+     cautivante del wrestling**: la inversión de posiciones entre
+     dos carreras que arrancaron en polos opuestos. Ver
+     [`./giulia.md`](./giulia.md).
+4. **Mezcla de estilos como virtud declarada**: *"momentos al
+   estilo stardom al principio, muchos tropos del joshi, una
+   mezcla muy cool"* — convivencia de escuela AEW/occidental y
+   joshi en el mismo match, sin fricción negativa.
+5. **Doctrina de pacing en PPV**: *"una lucha en ppv es perfecta
+   para una colisión interesante, por la duración y el feeling out
+   process"* — el tiempo extendido de un evento especial habilita
+   el feeling-out process propio del joshi, algo que en TV regular
+   no cabría. Punto doctrinal reutilizable para futuros matches
+   joshi en eventos especiales.
+
+Ver
+[`../segments/2026-06-28-thekla-vs-starlight-kid-promo-video-aew-njpw-forbidden-door.md`](../segments/2026-06-28-thekla-vs-starlight-kid-promo-video-aew-njpw-forbidden-door.md)
+y
+[`../matches/2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md`](../matches/2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen austríaco exactos.
@@ -136,6 +220,7 @@ afinidad de larga data con STARDOM. Ver
       Windsor/Moxley?), cómo llegó vía partnership.
 - [ ] Confirmar gimmick spider/araña + finisher.
 - [ ] Posible faction file si el "proyecto" se consolida.
+- [ ] Fecha y contexto kayfabe exactos del despido de STARDOM.
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -147,3 +232,17 @@ afinidad de larga data con STARDOM. Ver
   — Fighting Spirit ("clásico").
 - [`../segments/2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md`](../segments/2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md)
   — Wrestling Entertainment (primera promo cargada).
+- [`../segments/2026-06-28-thekla-vs-starlight-kid-promo-video-aew-njpw-forbidden-door.md`](../segments/2026-06-28-thekla-vs-starlight-kid-promo-video-aew-njpw-forbidden-door.md)
+  — Wrestling Entertainment ("contar algo tan histórico").
+- [`../matches/2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md`](../matches/2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md)
+  — Perfect Match.
+
+## Cross-links
+
+- [`./starlight-kid.md`](./starlight-kid.md) — rival del Perfect
+  Match, defensora de STARDOM.
+- [`./stephanie-vaquer.md`](./stephanie-vaquer.md) — contraste
+  directo in-ring/promo (s28).
+- [`./giulia.md`](./giulia.md) — contraste de trayectoria (s28).
+- [`./toni-storm.md`](./toni-storm.md) — antecedente del rol que
+  hoy ocupa Thekla en AEW.

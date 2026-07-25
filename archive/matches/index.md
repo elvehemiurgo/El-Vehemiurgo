@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-06-28 | Thekla vs Starlight Kid | AEW x NJPW / Forbidden Door | PW·FS·WE | stub | 1 | [→](2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md) |
+| 2026-06-28 | PAC vs Umino | AEW x NJPW / Forbidden Door | PW·FS·WE | stub | 1 | [→](2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Kenny Omega vs Zack Sabre Jr | AEW x NJPW / Forbidden Door | FS·WE | stub | 1 | [→](2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md) |
 | 2026-06-24 | Will Ospreay vs Fantasmo | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md) |
 | 2026-06-20 | Maya World vs Athena | AEW / Collision | FS | stub | 1 | [→](2026-06-20-maya-world-vs-athena-aew-collision.md) |

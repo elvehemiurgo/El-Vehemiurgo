@@ -139,6 +139,24 @@ en TV occidental, sin interacción directa con Persephone (empresas
 distintas). Ver
 [`../people/persephone.md`](../people/persephone.md).
 
+### Sesión 2026-07-14 s28 — Contraste directo con Thekla: "asesina in-ring", falta redondear promo
+
+**Cita verbatim**:
+
+> *"en WWE tienen a Vaquer que es una asesina in ring, pero
+> todavia les falta redondear las promos y eso; Thekla avanza a
+> pasos agigantados en ambas esferas"*
+>
+> — El Vehemiurgo, 2026-07-14 s28 (verbatim, sobre Thekla vs
+> Stephanie Vaquer)
+
+**Lectura sintética**: reafirma sin matices nuevos el diagnóstico
+de 2026-05-09 ("performer sí, promo todavía no") — ahora usado
+explícitamente en comparación directa con Thekla, a quien el
+Vehemiurgo ve avanzando *"en ambas esferas"* (in-ring y mic) donde
+Vaquer sigue incompleta en la segunda. Ver
+[`./thekla.md`](./thekla.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - (Pendiente: match Liv vs Vaquer Mania 42.)
