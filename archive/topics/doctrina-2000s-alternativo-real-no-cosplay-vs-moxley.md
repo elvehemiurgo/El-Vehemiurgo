@@ -109,8 +109,25 @@ tags: [doctrina, 2000s-alternativo, lightheavyweight-calgary-japanese-tournament
 - **Abismo Negro, AJ Styles, Samoa Joe** — match de 2006, ejemplo
   del principio "real, no perfecto".
 
+## Research que la fundamenta (2026-07-26)
+
+La doctrina fue auditada por investigación delegada (3
+sub-agentes): **la tesis quedó sostenida en tres registros** —
+técnico (el hardcore de Nicho es extensión de una gramática aérea
+de elite; el de Moxley, firma estética adoptada desde la
+seguridad), económico (riesgo existencial por noche + peso
+devaluado + $150-175k WCW vs. salario garantizado multianual +
+patronazgo Khan/WBD) y cultural (el régimen institucional de la
+arena mexicana — 2/3 caídas, apuesta, comisión — hacía legible
+cada exceso). Hallazgo mayor: **Psicosis y Nicho el Millonario
+son la misma persona** (Dionicio Castellanos Torres). Dossier
+completo:
+[`../../dossiers/draft-hardcore-psicosis-vs-moxley.md`](../../dossiers/draft-hardcore-psicosis-vs-moxley.md).
+
 ## Cross-links
 
+- [`../../dossiers/draft-hardcore-psicosis-vs-moxley.md`](../../dossiers/draft-hardcore-psicosis-vs-moxley.md)
+  — dossier de research (2026-07-26).
 - [`../people/jon-moxley.md`](../people/jon-moxley.md) — término de
   comparación negativo del hardcore moderno.
 - [`../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md`](../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md)

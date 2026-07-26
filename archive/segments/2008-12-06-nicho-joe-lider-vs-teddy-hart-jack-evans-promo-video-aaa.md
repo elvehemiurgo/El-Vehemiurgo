@@ -3,7 +3,7 @@ segmento: "Promo video: Nicho el Millonario, Joe Líder vs. Teddy Hart, Jack Eva
 slug: "2008-12-06-nicho-joe-lider-vs-teddy-hart-jack-evans-promo-video-aaa"
 protagonistas: ["Nicho el Millonario", "Joe Líder", "Teddy Hart", "Jack Evans"]
 empresa: "AAA"
-programa: "AAA (show del 6 dic 2008)"
+programa: "Guerra de Titanes 2008"
 fecha: 2008-12-06
 tipo_segmento: "promo video (hype package)"
 veces_visto_vehemiurgo: 1

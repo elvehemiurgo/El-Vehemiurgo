@@ -257,6 +257,25 @@ prueba de que el problema real estaba en el booking específico de
 Ospreay, no en Moxley por sí solo de forma inevitable. Ver
 [`../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md`](../segments/2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md).
 
+### Research 2026-07-26 — La comparación con Psicosis/Nicho, fundamentada con data
+
+El dossier
+[`../../dossiers/draft-hardcore-psicosis-vs-moxley.md`](../../dossiers/draft-hardcore-psicosis-vs-moxley.md)
+(3 sub-agentes, closed) auditó la tesis del Vehemiurgo. Núcleo de
+hallazgos sobre Moxley: extensión de contrato de 5 años (oct
+2022, comunicado oficial + SI on-record) con libertad indie
+negociada — el caso GCW/Nick Gage (POST Wrestling: exigió paridad
+de pago para Gage) muestra que sus fechas deathmatch son fee
+negociado, no sustento; el run Death Riders coincidió con
+asistencia AEW en -27% (2024) y demo 18-49 en mínimos desde 2020
+[S — Wrestlenomics/Programming Insider], con fiscalía on-record
+(Cornette: *"tanked the ratings"*, "The Bore Horsemen") y defensa
+real (5½★ de Meltzer al blow-off vs Hangman, Khan on-record).
+**Matiz obligatorio**: la caída de negocio empezó antes del
+reinado; atribución causal exacta imposible. El contraste con el
+molde Austin (violencia con causa legible + relación draw-dinero
+auditable en filings de la SEC) queda desarrollado en el dossier.
+
 ### Sesión 2026-07-14 s31 — Comparación histórica: el hardcore de AAA 2000s como estándar superior
 
 **Cita verbatim**:

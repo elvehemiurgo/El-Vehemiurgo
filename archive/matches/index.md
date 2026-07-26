@@ -130,7 +130,7 @@ con cada cambio de estado.
 | 2014-04-06 | Brock Lesnar vs The Undertaker — Streak Match | WWE / WrestleMania XXX | — | en-investigacion | 1 | [→](2014-04-06-brock-lesnar-vs-undertaker-wrestlemania-xxx-streak-breaker.md) |
 | 2013-07-14 | Money in the Bank ladder match — Christian vs RVD vs CM Punk vs Daniel Bryan vs Sheamus vs Randy Orton | WWE / Money in the Bank 2013 | — | en-investigacion | 1 | [→](2013-07-14-mitb-ladder-christian-rvd-punk-bryan-sheamus-orton-wwe.md) |
 | 2013-07-08 | Christian vs Kane | WWE / Raw | — | en-investigacion | 1 | [→](2013-07-08-christian-vs-kane-wwe-raw.md) |
-| 2008-12-06 | Nicho el Millonario, Joe Líder vs. Teddy Hart, Jack Evans | AAA / AAA (show del 6 dic 2008) | — | en-investigacion | 1 | [→](2008-12-06-nicho-joe-lider-vs-teddy-hart-jack-evans-aaa.md) |
+| 2008-12-06 | Nicho el Millonario, Joe Líder vs. Teddy Hart, Jack Evans | AAA / Guerra de Titanes 2008 | — | verificado | 1 | [→](2008-12-06-nicho-joe-lider-vs-teddy-hart-jack-evans-aaa.md) |
 | 2007-07-15 | Samoa Joe & Kurt Angle vs Team 3D | TNA / Victory Road 2007 | — | en-investigacion | 1 | [→](2007-07-15-joe-angle-vs-team-3d-tna-victory-road.md) |
 | 2007-06-17 | King of the Mountain Match — Styles vs Joe vs Christian vs Harris vs Angle | TNA / Slammiversary 2007 | — | en-investigacion | 1 | [→](2007-06-17-king-of-the-mountain-tna-slammiversary.md) |
 | 2007-05-13 | Samoa Joe vs AJ Styles | TNA / Sacrifice 2007 | — | en-investigacion | 1 | [→](2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md) |
