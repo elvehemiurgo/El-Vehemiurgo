@@ -5,7 +5,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 ## Activas
 
-| _(vacío)_ | | | | | |
+| ID | Estado | Lanzada | Alcance | Origen | Destino |
+|---|---|---|---|---|---|
+| `hardcore-psicosis-vs-moxley-analisis-integral-2026` | en-curso (3 sub-agentes) | 2026-07-26 | Dossier integral: estilo/influencias/innovación Psicosis-Nicho vs Moxley · economía (AAA 90s-2000s vs patronazgo Khan/AEW/GCW) · antropología lucha libre vs wrestling americano · auditoría Moxley vs molde Stone Cold · educación de audiencias | [notebook s31](../notebook/2026-07-14-s31-aaa-2006-2008-psicosis-panteon-teddy-hart-doctrina-real.md) | `dossiers/draft-hardcore-psicosis-vs-moxley.md` + fichas `psicosis.md`, `nicho-el-millonario.md`, `jon-moxley.md`, topic doctrina-2000s |
 
 > `maclin-lesion-y-rebellion-build-2026` cerrada e integrada el
 > 2026-07-09 — ver [`closed.md`](./closed.md).
