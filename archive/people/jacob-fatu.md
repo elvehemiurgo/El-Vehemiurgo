@@ -153,6 +153,21 @@ lectura positiva de continuidad de gimmick. Ver
 Entertainment. Ver
 [`../segments/2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md`](../segments/2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s40 — Cierre de Raw vs Roman: "sentimiento real, wrestling oldschool"
+
+**Cita verbatim**:
+
+> *"me gustó lo loco que se volvió Jacob cuando le dijeron que no
+> estaba listo, vi sentimiento real, vi wrestling oldschool en ese
+> segmento"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — escalada
+emocional genuina, continuidad directa de la presión de carrera
+ya documentada. Ver
+[`../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md`](../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología MLW completa con fechas de title runs.

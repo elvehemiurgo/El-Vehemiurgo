@@ -161,6 +161,36 @@ Ver
 y
 [`../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md).
 
+### Sesión 2026-07-14 s40 — Cierre del feud con Tatum Paxley: "tenía que enseñarle algo"
+
+**Contexto**: video de cierre del feud en WWE NXT (28/4/2026), con
+un momento de Tatum Paxley en la "tumba" de Blake tras recuperar
+el título. Ver
+[`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md).
+
+**Cita verbatim**:
+
+> *"no fui muy fan de su rivalidad con Blake, si fue un buen
+> showcase para ambas, pero me estaba aburriendo Tatum [...]
+> ahora que tatum recuperó su titulo y tuvo un momento con la
+> tumba de Blake, es genial, es muy autoconsciente, o sea, si Blake
+> era una perra, pero tenia que enseñarle algo a Tatum, y una Tatum
+> asi de madura es cool"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: cierre de feud leído en clave
+autoconsciente — Blake Monroe como heel funcional cuyo rol fue
+literalmente pedagógico dentro del kayfabe ("tenía que enseñarle
+algo a Tatum"), validado retroactivamente pese a que el feud en
+general no había sido santo de la devoción del Vehemiurgo. Con
+Jacy Jayne, queda leída como una de las "enemigas perfectas" de
+Tatum de cara a la doctrina Rosemary — ver
+[`../topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
+Sin clase propia declarada para el video (la clase — Wrestling
+Entertainment — recae sobre el segmento protagonizado por Tatum y
+Shyloh).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md)
@@ -170,5 +200,7 @@ y
 - [`segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md`](../segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
   — Wrestling Entertainment Class (ejemplo canónico).
+- [`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md)
+  — cierre del feud con Tatum Paxley.
 - (Pendientes: matches y segmentos NXT 2025-2026 del notebook
   [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).)

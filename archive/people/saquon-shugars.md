@@ -169,10 +169,31 @@ era IG"*.)
 estatus como **THE FUTURE in 2026 #2**. Ver
 [`../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md).
 
+### Sesión 2026-07-14 s40 — Cash-in vs Miles Borne: "de verdad se me hace el futuro"
+
+**Cita verbatim**:
+
+> *"el estilo de innovación de Saquon, se nota que sabe que seria
+> efectivo en una pelea real, ninguno de sus movimientos nuevos o
+> raros hace que te desconectes, en ningun momento deja de estar
+> en una lucha por supervivencia, nunca se convierte en ballet,
+> sigue siendo super peligroso, además de que es muy prolijo, de
+> verdad se me hace el futuro [...] el protagonista es Saquon y su
+> salida de dark state, eso está emocionante, ya quiero ver que le
+> metan toda la velocidad a Saquon en singles"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: Perfect Match, pierde el cash-in pero
+protagoniza la historia real de la noche — su salida de Dark
+State, con expectativa alta declarada para un run en singles. Ver
+[`../matches/2026-04-28-saquon-shugars-vs-miles-borne-cashin-wwe-nxt.md`](../matches/2026-04-28-saquon-shugars-vs-miles-borne-cashin-wwe-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md)
   — 8-man tag, primer registro editorial dedicado.
+- [`../matches/2026-04-28-saquon-shugars-vs-miles-borne-cashin-wwe-nxt.md`](../matches/2026-04-28-saquon-shugars-vs-miles-borne-cashin-wwe-nxt.md)
 - [`../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md)
 - (Pendiente: vs Jevon Evans NXT noviembre 2025, ya en notebook
   pero sin archivo abierto.)

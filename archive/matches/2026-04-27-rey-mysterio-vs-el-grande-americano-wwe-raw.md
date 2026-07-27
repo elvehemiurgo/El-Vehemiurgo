@@ -52,8 +52,48 @@ tags: [rey-mysterio, el-grande-americano, chad-gable, wwe-raw-2026, singles, per
    restan de la clase otorgada, pero el Vehemiurgo las señala como
    nota atípica.
 
+### Sesión 2026-07-14 s40 — Doctrina del gimmick "geel" + posible identidad Gable/Kaiser
+
+**Cita verbatim**:
+
+> *"vemos que el gande americano es un geel en raw y smackdown, de
+> hecho le cambian el traje, creo que es para que la audiencia en
+> tv no se confunda, mientras que en mexico el guiño de los dos
+> americanos es más autoconciente, y las trampas y el
+> comportamiento delincuente de Gable justifica que el grande
+> americano Kaiser se tome licencias porque de hecho eso satisface
+> al público, entonces está enredado y Mysterio se lleva la
+> victoria, además queda como lección que Kaiser pudo derrotar a
+> Mysterio si no se hubiera distraido tratando de hacer trampa,
+> está interesante, y siguen con el buen booking"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**:
+
+1. **Doctrina del gimmick dual "geel"**: cambio de vestuario entre
+   USA (Raw/SmackDown, "geel" para no confundir a la audiencia de
+   TV) y México (guiño más autoconsciente entre los dos
+   "Americanos"). Ver
+   [`../people/el-grande-americano.md`](../people/el-grande-americano.md).
+2. **⚠ Posible clarificación de identidad — [verif], no
+   confirmar sin fuente**: el fraseo *"el comportamiento
+   delincuente de Gable justifica que el grande americano Kaiser
+   se tome licencias"* sugiere una estructura de dos personas —
+   **Gable** como mente maestra/autoridad y **Kaiser** como el
+   wrestler bajo la máscara de El Grande Americano — distinta de
+   la presunción previa (Chad Gable = el propio Grande Americano).
+   Se registra como hipótesis a verificar, no como hecho cerrado.
+3. **Lección de booking**: Mysterio gana, pero la distracción de
+   la trampa de Kaiser es lo que le costó la victoria — "pudo
+   derrotar a Mysterio si no se hubiera distraído".
+
 ## Pendientes
 
+- [ ] **Aclarar identidad exacta**: ¿Gable y Kaiser son dos
+      personas distintas dentro del ángulo de El Grande Americano,
+      o el Vehemiurgo se refiere a la misma persona con dos
+      apodos? — [verif], prioridad alta.
 - [ ] Finish + duración exacta + ciudad/recinto.
 - [ ] Fecha de Noche de los Grandes (AAA).
 

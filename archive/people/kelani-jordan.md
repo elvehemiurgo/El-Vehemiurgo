@@ -60,17 +60,64 @@ real.
 primer encuentro con Jayda — consolidación heel continua. Ver
 [`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md).
 
+### Sesión 2026-07-14 s40 — Heel fuerte molestando al WrenQCC: "sin cringe"
+
+**Cita verbatim**:
+
+> *"el segmento de Kelany molestando al wrenqcc les quedó genial,
+> me gusta mucho Kelany como heel, se ve muy fuerte, y el segmento
+> no esuvo nada cringe, las wrenqcc son faces muy cool y reales,
+> este segmento se merce un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment. Consolidación como
+heel de peso — "sin cringe" es el elogio clave, validando la
+ejecución sobre un dúo face ("cool y reales"). Ver
+[`../segments/2026-04-28-kelani-molesta-wrenqcc-wwe-nxt.md`](../segments/2026-04-28-kelani-molesta-wrenqcc-wwe-nxt.md).
+
+### Sesión 2026-07-14 s40 — vs Wren Sinclair: heel limb-work creativa, evolución del estilo RVD
+
+**Cita verbatim**:
+
+> *"Kelany vs Wren, super buena, super real, buena historia, mucha
+> atención al detalle mucha evolución de ambas [...] se merece un
+> fighting spirit y enterteinment class [...] Kelany es muy buena
+> para hacer las secuencias de heel castigando una extremidad y
+> aterrizando la lucha, es muy creativa y encontró la forma de que
+> su background atlético que tiene mucha gracia y forma y
+> elegancia, encuentre contacto duro y realmente combata, es muy
+> pro, además de las referencias a RVD o sea, está evolucionando el
+> estilo más influyente de los 90s, eso es poder, eso es talento"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment.
+El Vehemiurgo articula doctrina de talento sobre Kelani: capacidad
+de convertir un background de gracia atlética en heel limb-work
+real, con referencias directas a **RVD** como evolución del estilo
+más influyente de los 90s. Ver
+[`../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Fecha exacta del heel turn.
-- [ ] Finish/duración de ambos matches vs Jayda.
+- [ ] Finish/duración de ambos matches vs Jayda y del match vs Wren
+      Sinclair (28/4/2026).
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md)
 - [`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md)
+- [`../segments/2026-04-28-kelani-molesta-wrenqcc-wwe-nxt.md`](../segments/2026-04-28-kelani-molesta-wrenqcc-wwe-nxt.md)
+- [`../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md)
 
 ## Cross-links
 
 - [`./jayda.md`](./jayda.md) — rival.
+- [`./wren-sinclair.md`](./wren-sinclair.md) — rival, feud
+  escalando abril 2026.
+- [`../topics/nueva-generacion-asesinos-hambrientos.md`](../topics/nueva-generacion-asesinos-hambrientos.md)
+  — citada como ejemplo de la generación del drama "no voy a
+  encajar", contrastada con la camada actual.

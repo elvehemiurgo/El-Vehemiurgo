@@ -187,4 +187,6 @@ asistencia de Zaria (también debutando). Ver
 
 - [`../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md`](../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md)
 - [`../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md`](../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md)
+- [`../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md`](../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md)
+- [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
 - [`../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md)

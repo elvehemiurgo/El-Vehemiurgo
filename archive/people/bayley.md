@@ -46,6 +46,19 @@ Sasha Banks, Charlotte Flair, Becky Lynch), calificado como
 "débil". Ver
 [`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
 
+### Sesión 2026-07-14 s40 — Primer match propio: "mid, muy aburrida"
+
+**Cita verbatim**:
+
+> *"Bayley y Layra son mid, muy aburridas"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: primer match/segmento propio del archivo —
+reserva directa dentro de un tag team centrado en Roxanne Perez.
+Ver
+[`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, trayectoria, título vigente.

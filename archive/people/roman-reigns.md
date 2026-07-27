@@ -83,6 +83,7 @@ tags: [roman-reigns, the-tribal-chief, head-of-the-table, bloodline, the-shield,
 ## Piezas relacionadas
 
 - [`../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md)
+- [`../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md`](../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md)
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
 - [`./solo-sikoa.md`](./solo-sikoa.md), [`./jacob-fatu.md`](./jacob-fatu.md), [`./tama-tonga.md`](./tama-tonga.md)
 
@@ -117,6 +118,25 @@ y
 el main event con near falls repetidos, y el dato de resultado
 registrado es que retiene/no pierde ante Punk. Ver
 [`../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md).
+
+### Sesión 2026-07-14 s40 — Cierre de Raw vs Jacob Fatu: "sentimiento real, wrestling oldschool"
+
+**Cita verbatim**:
+
+> *"el segmento que cierra el show entre Jacob y Roman, estuvo
+> bueno, me gustó mucho como escalaron, me gustó lo loco que se
+> volvió Jacob cuando le dijeron que no estaba listo, vi
+> sentimiento real, vi wrestling oldschool en ese segmento, buena
+> rivalidad, me gustó, le doy el enterteinment class a este
+> segmento"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — Roman como pieza
+que dispara la escalada emocional de Jacob Fatu al negarle
+legitimidad ("no estás listo"), leída como wrestling old-school
+con sentimiento real. Ver
+[`../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md`](../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md).
 
 ## Pendientes
 

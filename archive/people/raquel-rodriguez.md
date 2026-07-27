@@ -107,6 +107,30 @@ sección 10.
 [`promotions/judgment-day.md`](../promotions/judgment-day.md),
 [`topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md).
 
+### Sesión 2026-07-14 s40 — Selling "magistral" del crossbody, Raw 27/4
+
+**Contexto**: tag team con Liv Morgan y Roxanne Perez vs Bayley y
+Lyra Valkyria, WWE Raw 27/4/2026 — el Vehemiurgo asignó Wrestling
+Entertainment solo a los minutos finales de la lucha. Ver
+[`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md).
+
+**Cita verbatim**:
+
+> *"si quiero darle un enterteinment class a los minutos finales de
+> la lucha, el selling de raquel saliendo del ring con ese
+> crossbody fue magistral, y luego liv y roxxane terminan la lucha,
+> muy buena participación, estas 3 si le entienden al negocio y se
+> mueven como wrestlers grandes"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: elogio puntual y técnico — el selling de
+Raquel saliendo del ring tras el crossbody calificado de
+"magistral", dentro de un cierre de match que valida a las tres
+(Raquel, Liv, Roxanne) como wrestlers que "le entienden al
+negocio". La clase (Wrestling Entertainment) recae sobre el tramo
+final del match, no sobre la lucha completa.
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Material para una pieza editorial específica:
@@ -126,4 +150,5 @@ sección 10.
 
 ## Piezas del Vehemiurgo donde aparece
 
-- (Pendiente — primer registro editorial es esta entrada.)
+- [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
+  — Wrestling Entertainment (minutos finales), selling del crossbody.

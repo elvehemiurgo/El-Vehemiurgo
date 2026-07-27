@@ -42,15 +42,71 @@ tags: [tatum-paxley, wwe-nxt-2026, estilo-experimental, selling, primer-registro
 reconoce que el repertorio todavía está en desarrollo, pero valida
 la ejecución actual por el selling.
 
+### Sesión 2026-07-14 s40 — La doctrina Rosemary: cierre del feud con Blake Monroe
+
+**Contexto**: video de cierre del feud con Blake Monroe en WWE NXT
+(28/4/2026), con un momento en la "tumba" de Blake tras recuperar
+el título. Ver
+[`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md).
+
+**Cita verbatim**:
+
+> *"el video de Tatum y Shilo estuvo cool, no fui muy fan de su
+> rivalidad con Blake, si fue un buen showcase para ambas, pero me
+> estaba aburriendo Tatum, pero este video les quedó interesante
+> [...] ahora que tatum recuperó su titulo y tuvo un momento con la
+> tumba de Blake, es genial, es muy autoconsciente, o sea, si Blake
+> era una perra, pero tenia que enseñarle algo a Tatum, y una Tatum
+> asi de madura es cool, puede ser un verdadero espectaculo, quiero
+> que Tatum haga por mi ahora lo que Rosemary hizo por mi en su
+> momento en su debut en IMPACT wrestling; me hizo volver a sentir
+> los personajes paranormales, volver a tener representación cool y
+> talentosa para los freaks, algo entrañable con su dimension
+> oscura y ese adn de alma torturada a lo mankind, abyss,
+> undertaker, kane, abismo negro o mr niebla; un buen freak
+> luchador, un verdadero espectaculo raro para ver y dejarse
+> maravillar, eso pueden lograrlo, solo es redondear el acto que ya
+> tiene fuerza porque el booking ayudó mucho usando rivales
+> perfectos para ella, con el mismo patrón, porque ahora Jacy y
+> Blake están en el roster principal, ambas enemigas perfectas de
+> Tatum. Así que este video se merece el enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**:
+
+1. **Cambio de opinión declarado**: el feud con Blake Monroe lo
+   estaba "aburriendo", pero el cierre autoconsciente ("Blake era
+   una perra, pero tenía que enseñarle algo a Tatum") lo revierte.
+2. **La doctrina Rosemary**: deseo editorial explícito de que
+   Tatum ocupe el rol que Rosemary (TNA/Impact Wrestling) cumplió
+   para el Vehemiurgo — heredera del arquetipo paranormal/"freak"
+   (Mankind, Abyss, Undertaker, Kane, Abismo Negro, Mr. Niebla).
+   Desarrollo completo en
+   [`../topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
+3. **Booking ya resuelto según el Vehemiurgo**: Jacy Jayne y Blake
+   Monroe, ambas en main roster, son leídas como "enemigas
+   perfectas" del mismo patrón — solo falta "redondear el acto".
+4. **Wrestling Entertainment** para el video.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Finish/duración del match vs Izzi Dame.
+- [ ] Contenido completo del video de cierre con Shyloh (28/4/2026).
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md`](../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md)
+- [`../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md)
+  — feud con Blake Monroe, multi-clase con discrepancia registrada.
+- [`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md)
+  — cierre del feud, doctrina Rosemary.
 
 ## Cross-links
 
 - [`./izzi-dame.md`](./izzi-dame.md) — rival.
+- [`./shyloh.md`](./shyloh.md) — compañera.
+- [`./blake-monroe.md`](./blake-monroe.md) — rival, feud cerrada.
+- [`../topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)
+  — doctrina Rosemary / arquetipo freak.

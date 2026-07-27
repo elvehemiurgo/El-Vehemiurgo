@@ -147,10 +147,11 @@ y [`charlie-dempsey.md`](./charlie-dempsey.md).
       Mutilation, transitions, work as heel).
 - [ ] Background indie pre-WWE detallado (NWA Tag Title runs,
       AEW Dark appearances).
-- [ ] Feud con Kelani Jordan post 28 abr 2026.
+- [ ] Finish/duración exacta del match vs Kelani Jordan 28/4/2026.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md)
 - [`../promotions/wrenqcc.md`](../promotions/wrenqcc.md) — tag
   team activo (mitad).
 - [`../promotions/nqcc.md`](../promotions/nqcc.md) — ex-miembro
@@ -196,3 +197,24 @@ femenino, aunque Wren no aparece en el cartel oficial de
 participantes de ese match [verif mecanismo exacto de su
 protección esa noche]. Ver
 [`../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md).
+
+### Sesión 2026-07-14 s40 — vs Kelani Jordan: midcard "de las buenas", golpea muy old-school
+
+**Cita verbatim**:
+
+> *"Kelany vs Wren, super buena, super real, buena historia, mucha
+> atención al detalle mucha evolución de ambas, si pusieron una
+> lucha midcard de las buenas; se merece un fighting spirit y
+> enterteinment class, tuvieron momentos accidentados tipicos del
+> estilo developmental, pero la psicologia con el reto de Kelany y
+> cuando Wren se lastima una pierna, mantuvo todo entretenido y si
+> tienen calidad para golpear duro muy oldschool"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment.
+Escalada de la feud con Kelani Jordan (ya reportada por PWTorch),
+con reserva menor sobre "momentos accidentados típicos del estilo
+developmental" — incluyendo una lesión de pierna dentro de la
+lucha — que no rompe el entretenimiento general. Ver
+[`../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md).

@@ -54,6 +54,10 @@ con cada cambio de estado.
 | 2026-04-29 | Darby Allin (c) vs Brody King — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md) |
 | 2026-04-29 | Cope (Adam Copeland) & Christian Cage vs RPG Vice | AEW / Dynamite | WE | stub | 1 | [→](2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md) |
 | 2026-04-29 | MJF vs Kevin Knight | AEW / Dynamite | — | stub | 1 | [→](2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md) |
+| 2026-04-28 | Kelani Jordan vs Wren Sinclair | WWE / NXT | FS·WE | en-investigacion | 1 | [→](2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md) |
+| 2026-04-28 | Lizzy Rain vs Nikkita | WWE / NXT | WE | en-investigacion | 1 | [→](2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md) |
+| 2026-04-28 | Saquon Shugars vs Miles Borne (cash-in) | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-04-28-saquon-shugars-vs-miles-borne-cashin-wwe-nxt.md) |
+| 2026-04-27 | Liv Morgan, Roxanne Perez & Raquel Rodríguez vs Bayley & Lyra Valkyria | WWE / Raw | WE | en-investigacion | 1 | [→](2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md) |
 | 2026-04-27 | Rey Mysterio vs El Grande Americano | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md) |
 | 2026-04-25 | El Grande Americano & Texano Jr. vs Mesías & Mechawolf | AAA / AAA Worldwide | — | en-investigacion | 1 | [→](2026-04-25-grande-americano-texano-vs-mesias-mechawolf-aaa-worldwide.md) |
 | 2026-04-25 | Laredo vs Wagner | AAA / AAA Worldwide | FS | en-investigacion | 1 | [→](2026-04-25-laredo-vs-wagner-aaa-worldwide.md) |

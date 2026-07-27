@@ -143,6 +143,58 @@ freno generacional"*. Estructura propuesta:
   *"excepción de oficio"* (Undertaker), o pasa rápido por la
   ventana antes de saturar.
 
+### Sesión 2026-07-14 s40 — La doctrina Rosemary: el modelo positivo del "freak", vía Tatum Paxley
+
+**Contexto**: video de cierre del feud Tatum Paxley/Blake Monroe en
+WWE NXT (28/4/2026), con un momento en la "tumba" de Blake —
+Wrestling Entertainment. Ver
+[`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md).
+
+**Cita verbatim del Vehemiurgo**:
+
+> *"quiero que Tatum haga por mi ahora lo que Rosemary hizo por mi
+> en su momento en su debut en IMPACT wrestling; me hizo volver a
+> sentir los personajes paranormales, volver a tener representación
+> cool y talentosa para los freaks, algo entrañable con su
+> dimension oscura y ese adn de alma torturada a lo mankind, abyss,
+> undertaker, kane, abismo negro o mr niebla; un buen freak
+> luchador, un verdadero espectaculo raro para ver y dejarse
+> maravillar, eso pueden lograrlo, solo es redondear el acto que ya
+> tiene fuerza porque el booking ayudó mucho usando rivales
+> perfectos para ella, con el mismo patrón, porque ahora Jacy y
+> Blake están en el roster principal, ambas enemigas perfectas de
+> Tatum"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética — el contramodelo positivo dentro de la misma
+categoría**:
+
+1. **Rosemary (TNA/Impact Wrestling) como modelo de éxito citado
+   fuera de WWE**: a diferencia del catálogo de fracasos WWE
+   documentado arriba (Demon Bálor, The Fiend, Wyatt Sicks/MFTs),
+   el Vehemiurgo cita un caso **exitoso y querido** del mismo
+   arquetipo, ubicado deliberadamente fuera del ecosistema WWE —
+   dato relevante para la tesis: quizás el problema no es el
+   arquetipo paranormal en sí, sino su ejecución específica dentro
+   de la maquinaria WWE.
+2. **Linaje del arquetipo ampliado**: Mankind, Abyss, Undertaker,
+   Kane, **Abismo Negro** (lucha libre mexicana, cross-link con el
+   dossier
+   [`../../dossiers/draft-hardcore-psicosis-vs-moxley.md`](../../dossiers/draft-hardcore-psicosis-vs-moxley.md))
+   y **Mr. Niebla** — el linaje "freak" se lee como transnacional,
+   no exclusivo de WWE.
+3. **Condición para el éxito, según el Vehemiurgo**: el booking ya
+   puso rivales "perfectas" (Jacy Jayne, Blake Monroe) porque
+   comparten el mismo patrón de personaje — la pieza que falta es
+   "redondear el acto", no rehacerlo.
+4. **Matiz importante frente a la tesis crítica de esta misma
+   página**: el Vehemiurgo no contradice el diagnóstico de baja
+   tasa de éxito sostenido del paranormal-en-WWE — más bien
+   declara una **esperanza editorial activa** de que Tatum sea la
+   próxima excepción, en la línea de Undertaker/Kane como los
+   únicos casos WWE de éxito largo.
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente.)

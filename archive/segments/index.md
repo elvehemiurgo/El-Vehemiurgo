@@ -63,6 +63,11 @@ cada alta y con cada cambio de estado.
 | 2026-05-09 | Post-match — Don Callis & Ricochet | AEW / Collision — Fairway to Hell | promo (post-match) | — | stub | 1 | [→](2026-05-09-don-callis-ricochet-post-match-aew-collision.md) |
 | 2026-04-29 | Ospreay empieza a dejarse coachear por Moxley | AEW / Dynamite | angle / mentoría | — | stub | 1 | [→](2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md) |
 | 2026-04-29 | Thekla — gran promo (asistida por Sky Blue) | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-29-thekla-promo-aew-dynamite.md) |
+| 2026-04-28 | Segmento de Vanity Project | WWE / NXT | promo / character segment | — | stub | 1 | [→](2026-04-28-vanity-project-segmento-wwe-nxt.md) |
+| 2026-04-28 | Video: Tatum Paxley y Shyloh — momento en la 'tumba' de Blake Monroe | WWE / NXT | video de producción (largo, estilo TV/YouTube) | WE | stub | 1 | [→](2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md) |
+| 2026-04-28 | Kelani Jordan molesta al WrenQCC | WWE / NXT | promo / confrontación | WE | stub | 1 | [→](2026-04-28-kelani-molesta-wrenqcc-wwe-nxt.md) |
+| 2026-04-27 | Backstage: Liv Morgan, Roxanne Perez y Finn Bálor | WWE / Raw | promo backstage | WE | stub | 1 | [→](2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md) |
+| 2026-04-27 | Cierre de show: Jacob Fatu y Roman Reigns | WWE / Raw | promo in-ring / cierre de show | WE | stub | 1 | [→](2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md) |
 | 2026-04-27 | Presentación de Joe Hendry vs Logan Paul (concierto + interrupción heel) | WWE / Raw | concierto / promo in-ring / interrupción | WE | stub | 1 | [→](2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md) |
 | 2026-04-25 | Promo video: La Catalina, retadora para Lady Flamer | AAA / AAA Worldwide | promo video (hype package) | — | stub | 1 | [→](2026-04-25-promo-video-la-catalina-aaa-worldwide.md) |
 | 2026-04-24 | Jacob Fatu se come al Bloodline de Solo Sikoa (cierre de show) | WWE / SmackDown | ataque / cierre de show | WE | stub | 1 | [→](2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md) |

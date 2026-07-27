@@ -197,3 +197,15 @@ Ver
 [`../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md`](../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md)
 y
 [`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md).
+
+### Sesión 2026-07-14 s40 — Mención cruzada: "enemiga perfecta" de Tatum Paxley en la doctrina Rosemary
+
+**Contexto**: dentro de la doctrina Rosemary sobre Tatum Paxley
+(video de cierre del feud con Blake Monroe, NXT 28/4/2026), el
+Vehemiurgo nombra a Jacy Jayne junto a Blake Monroe como las
+"enemigas perfectas" del patrón de personaje que necesita Tatum,
+ambas ya en el roster principal. Ver
+[`../people/tatum-paxley.md`](../people/tatum-paxley.md) y
+[`../topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
+No genera clase ni nota dedicada — mención cruzada dentro del
+expediente de Tatum.

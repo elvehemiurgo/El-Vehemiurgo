@@ -68,8 +68,30 @@ máscara vs máscara que cierra el show. Ver
 y
 [`../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md`](../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md).
 
+### Sesión 2026-07-14 s40 — Doctrina "geel" + posible estructura Gable/Kaiser
+
+**Cita verbatim**:
+
+> *"el gande americano es un geel en raw y smackdown, de hecho le
+> cambian el traje, creo que es para que la audiencia en tv no se
+> confunda, mientras que en mexico el guiño de los dos americanos
+> es más autoconciente, y las trampas y el comportamiento
+> delincuente de Gable justifica que el grande americano Kaiser se
+> tome licencias porque de hecho eso satisface al público"*
+>
+> — El Vehemiurgo, 2026-07-14 s40 (verbatim)
+
+**Lectura sintética**: ⚠ **posible reestructuración de identidad,
+sin confirmar**: el fraseo sugiere que "Gable" y "Kaiser" podrían
+ser dos figuras distintas dentro del ángulo (mente maestra +
+wrestler enmascarado), en vez de una sola persona como se asumía.
+No se resuelve unilateralmente — queda como hipótesis abierta. Ver
+[`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md).
+
 ## Pendientes / huecos
 
+- [ ] **Prioridad alta**: aclarar si "Gable" y "Kaiser" son dos
+      personas distintas en el ángulo, o la misma bajo dos apodos.
 - [ ] Confirmar identidad real (Chad Gable) contra fuente directa.
 - [ ] Contexto narrativo exacto de la interferencia previa (Rayo &
       Bravo vs Vanity Project, s36) y de este match/segmento.
