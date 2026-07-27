@@ -163,10 +163,31 @@ abandonó.)
 - [ ] Run completo del Speed Title de Wren (defensas).
 - [ ] Feud con Kelani Jordan post 28 abr 2026.
 
+### Sesión 2026-07-14 s35 — Perfect Match vs Fatal Influence + coronación de Wren en el Speed Title
+
+**Cita verbatim**:
+
+> *"Fatal Influence en tag team action contra el WrenQCC [...] se
+> merece todas las clases [...] la coronación de Wren Sinclair
+> derrotando a Fallon por el titulo speed [...] es la lucha
+> perfecta"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: gran sesión para el equipo — Perfect Match
+vs Fatal Influence (24/3) y Wren se corona campeona NXT Speed
+venciendo a Fallon Henley (17/3, Perfect Match). Ambas mitades del
+equipo suben a THE FUTURE in 2026 (#13 Wren, #14 Kendal). Ver
+[`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md)
+y
+[`../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md`](../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md).
+
 ## Piezas relacionadas
 
 - [`nqcc.md`](./nqcc.md) — faction original (disuelta 10 mar
   2026).
+- [`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md)
+- [`../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md`](../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md)
 - [`../people/wren-sinclair.md`](../people/wren-sinclair.md).
 - [`../people/kendal-grey.md`](../people/kendal-grey.md).
 - [`../people/charlie-dempsey.md`](../people/charlie-dempsey.md)

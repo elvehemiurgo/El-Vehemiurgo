@@ -157,6 +157,23 @@ Vehemiurgo ve avanzando *"en ambas esferas"* (in-ring y mic) donde
 Vaquer sigue incompleta en la segunda. Ver
 [`./thekla.md`](./thekla.md).
 
+### Sesión 2026-07-14 s35 — Ataca a Liv Morgan: la agresividad que le faltaba
+
+**Cita verbatim**:
+
+> *"Vaquer ataca a Morgan, y me gusta esta agresividad, siento que
+> le faltaba eso en las promos y en el gimmick, pero si ha
+> evolucionado, me encanta ver a Vaquer en tv, este fue un muy
+> buen brawl, se merece el enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: avance directo sobre el diagnóstico de
+2026-05-09 ("performer sí, promo todavía no") — la agresividad
+física suple parcialmente el hueco de mic. Ver
+[`../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - (Pendiente: match Liv vs Vaquer Mania 42.)
+- [`../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md)

@@ -66,6 +66,8 @@ cada alta y con cada cambio de estado.
 | 2026-04-24 | Jacob Fatu — segmento (con promos Jimmy y Fatu + Tama Tonga) | WWE / SmackDown | in-ring promo / multi-protagonist segment | — | en-investigacion | 1 | [→](2026-04-24-jacob-fatu-segment-smackdown.md) |
 | 2026-04-24 | Fatal Influence — debut WWE SmackDown (call-up post-WrestleMania 42) | WWE / SmackDown | faction debut / multi-segment | — | en-investigacion | 1 | [→](2026-04-24-fatal-influence-debut-smackdown.md) |
 | 2026-04-22 | MJF — segmento previo al main event | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md) |
+| 2026-04-21 | Segmento backstage: Saquon Shugars con Dark State | WWE / NXT Revenge — Week 2 | promo backstage | — | stub | 1 | [→](2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md) |
+| 2026-04-21 | Segmento: Jackson Drake y el Vanity Project | WWE / NXT Revenge — Week 2 | promo / character segment | WE | stub | 1 | [→](2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md) |
 | 2026-04-20 | JD McDonagh & Finn Bálor: video promo dual (build pre-match) | WWE / Monday Night Raw — Raw After | vignette dual pre-grabada | — | en-investigacion | 0 | [→](2026-04-20-jd-mcdonagh-video-promo-raw.md) |
 | 2026-04-15 | Promo — Thekla & Windsor | AEW / Spring BreakThru | promo (dúo) | WE | stub | 1 | [→](2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md) |
 | 2026-04-14 | Vanity Project & Blake Monroe segment con Robert Stone — 'Listen buddy' | WWE / NXT Revenge — Week 1 | in-ring / backstage segment con GM interino | — | en-investigacion | 1 | [→](2026-04-14-vanity-project-blake-monroe-robert-stone-segment-nxt-revenge-week-1.md) |
@@ -86,10 +88,19 @@ cada alta y con cada cambio de estado.
 | 2026-04-02 | Backstage — Mike Santana, Arianna Grace & Stacks | TNA Wrestling / iMPACT! | backstage | — | stub | 1 | [→](2026-04-02-santana-arianna-grace-stacks-backstage-tna-impact.md) |
 | 2026-04-02 | Matt Hardy — promo en Impact | TNA Wrestling / iMPACT! | promo | — | stub | 1 | [→](2026-04-02-matt-hardy-promo-tna-impact.md) |
 | 2026-04-01 | Contract signing — MJF vs Speedball Mike Bailey | AEW / Dynamite | contract signing | — | stub | 1 | [→](2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md) |
+| 2026-03-30 | Regreso de Roxanne Perez | WWE / Raw | return moment | WE | stub | 1 | [→](2026-03-30-roxanne-perez-regreso-wwe-raw.md) |
 | 2026-03-27 | Mike Santana — promo en Sacrifice | TNA Wrestling / Sacrifice 2026 | promo | WE | stub | 1 | [→](2026-03-27-mike-santana-promo-tna-sacrifice.md) |
 | 2026-03-27 | Jacob Fatu y Drew McIntyre — segment | WWE / SmackDown | in-ring confrontation / promo segment | — | en-investigacion | 1 | [→](2026-03-27-jacob-fatu-drew-mcintyre-segment-smackdown.md) |
 | 2026-03-25 | FTR vs Orange Cassidy & Roderick Strong: interacción | AEW / Dynamite | in-ring confrontation / interacción | WE | stub | 1 | [→](2026-03-25-ftr-orange-cassidy-roderick-strong-interaccion-dynamite.md) |
 | 2026-03-24 | Sol Ruca vs Zaria: 'You didn't want a team, you wanted a moment' | WWE / NXT | promo in-ring confrontacional | — | en-investigacion | 0 | [→](2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md) |
+| 2026-03-23 | Segmento de CM Punk, cierre con llegada de Roman Reigns y los Usos | WWE / Raw | promo in-ring / confrontación | — | stub | 1 | [→](2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md) |
+| 2026-03-23 | Stephanie Vaquer ataca a Liv Morgan | WWE / Raw | brawl / ataque | WE | stub | 1 | [→](2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md) |
+| 2026-03-23 | Promo pregrabada de Dominik Mysterio (estilo TKO) | WWE / Raw | promo pregrabada | — | stub | 1 | [→](2026-03-23-dominik-promo-pregrabada-wwe-raw.md) |
+| 2026-03-20 | Promo video: CM Punk vs Roman Reigns | WWE / SmackDown | promo video (hype package) | WE | stub | 1 | [→](2026-03-20-promo-video-cm-punk-vs-reigns-wwe-smackdown.md) |
+| 2026-03-17 | Segmento: Fatal Influence | WWE / NXT | promo / character segment de facción | WE | stub | 1 | [→](2026-03-17-fatal-influence-segmento-wwe-nxt.md) |
+| 2026-03-17 | Dark State ataca a OTM | WWE / NXT | ataque backstage | WE | stub | 1 | [→](2026-03-17-dark-state-ataca-otm-wwe-nxt.md) |
+| 2026-03-17 | Segmento in-ring: Ricky Saints, Ethan Page, Vanity Project y Joe Hendry | WWE / NXT | in-ring / fricción de generación | WE | stub | 1 | [→](2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md) |
+| 2026-03-17 | Interacción: Wren Sinclair y Charlie Dempsey | WWE / NXT | interacción in-ring/backstage | WE | stub | 1 | [→](2026-03-17-wren-sinclair-charlie-dempsey-interaccion-wwe-nxt.md) |
 | 2026-03-15 | Will Ospreay Returns | AEW / Revolution 2026 | return appearance / character work moment | — | en-investigacion | 1 | [→](2026-03-15-will-ospreay-returns-aew-revolution.md) |
 | 2026-03-15 | Christian Killswitches en AEW Revolution | AEW / Revolution 2026 | in-ring spot / character work moment | — | en-investigacion | 1 | [→](2026-03-15-christian-killswitches-aew-revolution.md) |
 | 2026-03-05 | ODB Return Segment con Heather & M by Elegance (First Half) | TNA / Impact | in-ring promo / legacy return | — | stub | 1 | [→](2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md) |

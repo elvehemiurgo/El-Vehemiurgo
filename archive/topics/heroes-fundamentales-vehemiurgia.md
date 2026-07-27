@@ -87,7 +87,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 34 | **Hana Kimura** | Joshi (STARDOM) — fallecida 2020 | _(ficha pendiente)_ |
 | 35 | **Mei Seira** | Joshi (STARDOM) | _(ficha pendiente)_ |
 | 36 | **Myron Reed** | Indie americano / highspeed (MLW) | _(ficha pendiente)_ |
-| 37 | **Fallon Henley** | WWE NXT | _(ficha pendiente)_ |
+| 37 | **Fallon Henley** | WWE NXT | [→](../people/fallon-henley.md) |
 | 38 | **Lainey Reid** | WWE NXT | _(ficha pendiente)_ |
 | 39 | **Scott Hall** | Carny / draw histórico (Razor / nWo) | _(ficha pendiente)_ |
 | 40 | **"Macho Man" Randy Savage** | Carny / draw histórico | _(ficha pendiente)_ |

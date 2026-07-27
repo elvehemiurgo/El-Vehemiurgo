@@ -228,6 +228,10 @@ post-pipebomb 2011).
 ### Segmentos (Batch 1 annotations preserved verbatim)
 - [`../segments/2026-04-06-cm-punk-promo-opening-raw.md`](../segments/2026-04-06-cm-punk-promo-opening-raw.md)
   — *"promo of the year"*.
+- [`../segments/2026-03-20-promo-video-cm-punk-vs-reigns-wwe-smackdown.md`](../segments/2026-03-20-promo-video-cm-punk-vs-reigns-wwe-smackdown.md)
+  — Wrestling Entertainment (s35).
+- [`../segments/2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md`](../segments/2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md)
+  — sin clase, "top tier wrestling" (s35).
 
 ### Dossieres centrales
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)

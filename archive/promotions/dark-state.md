@@ -113,11 +113,29 @@ narrativo: pieza cruzada con
 - [ ] Datos contractuales por miembro.
 - [ ] Cobertura PWTorch / POST sobre el stable.
 
+### Sesión 2026-07-14 s35 — Ataca a OTM: doctrina del ataque backstage bien hecho
+
+**Cita verbatim**:
+
+> *"un ataque backstage clásico con Dark State atacando a OTM, y
+> me gustó, se merece el enterteinment class, hace tiempo no veo
+> un ataque así bien hecho, desde The System en TNA y the dogs en
+> AEW"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment, comparado
+favorablemente con dos referencias de calidad ya en el archivo.
+Ver
+[`../segments/2026-03-17-dark-state-ataca-otm-wwe-nxt.md`](../segments/2026-03-17-dark-state-ataca-otm-wwe-nxt.md).
+
 ## Piezas relacionadas
 
 - [`people/saquon-shugars.md`](../people/saquon-shugars.md) —
   pieza editorial central documentada.
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md)
   — primer match registrado.
+- [`../segments/2026-03-17-dark-state-ataca-otm-wwe-nxt.md`](../segments/2026-03-17-dark-state-ataca-otm-wwe-nxt.md)
+- [`../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md)
 - [`promotions/mfts.md`](./mfts.md) — paralelismo estructural de
   faction con pieza diferencial individual en oficio.

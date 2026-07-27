@@ -104,7 +104,23 @@ actual.)
       Pillman Sr. (referencias kayfabe / gestos heredados / etc.).
 - [ ] Datos contractuales.
 
+### Sesión 2026-07-14 s35 — "Sink or swim": moveset renovado y efectivo
+
+**Cita verbatim**:
+
+> *"Lexis está haciendo un buen trabajo, sabemos que NXT es sink
+> or swim, y Lexis siempre ha sabido hacer interesante su booking,
+> ahora está con un moveset muy efectivo y luce muy bien, esta
+> lucha si estuvo real, el spot en el apron se vio muy bien"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: Fighting Spirit vs EK — doctrina "NXT es
+sink or swim" aplicada como marco de superación. Ver
+[`../matches/2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md`](../matches/2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md`](../matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md)
   — primer registro editorial dedicado, multi-class doble.
+- [`../matches/2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md`](../matches/2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md)

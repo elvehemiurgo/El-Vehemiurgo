@@ -117,3 +117,18 @@ matches a sumar.)
   NXT TV semanal del 07 abr 2026 *(corrección 2026-05-10:
   registrado originalmente como Vengeance Day)*.
 - (Pendiente: matches Stand & Deliver 2026 y NXT Revenge 2026.)
+
+### Sesión 2026-07-14 s35 — Alta a THE FUTURE: rivalidad con Sol Ruca bien administrada
+
+**Cita verbatim**:
+
+> *"esta rivalidad de Zaria vs Sol ha durado mucho, si ha estado
+> interesante y siento que no abusaron en usarla [...] estas dos
+> ya tienen mucha historia y siempre es cool este tipo de
+> personajes"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: **THE FUTURE in 2026 #10** — Perfect Match
+en triple threat vs Jacy Jayne y Sol Ruca (17/3/2026). Ver
+[`../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md`](../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md).

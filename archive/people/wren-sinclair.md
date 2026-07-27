@@ -159,3 +159,23 @@ y [`charlie-dempsey.md`](./charlie-dempsey.md).
   vs The Culling; Speed Title vs Fallon Henley; segments con
   Kelani Jordan, con Joe Hendry / Miles Borne; promos
   *Wrensday Q&A*.)
+
+### Sesión 2026-07-14 s35 — Alta a THE FUTURE: coronación como campeona Speed + interacción con Charlie Dempsey
+
+**Cita verbatim**:
+
+> *"Wren gana con el final wrench que está muy over, y es la
+> lucha perfecta, se merece las 3 clases [...] pongamos a Wren y
+> Kendal Grey de una vez en la lista de FUTURE"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: **THE FUTURE in 2026 #13** — gana el NXT
+Speed Championship venciendo a Fallon Henley con el Final Wrench
+(Perfect Match, 17/3/2026), triple clase en tag vs Fatal Influence
+(24/3/2026) y Wrestling Entertainment en su interacción con
+Charlie Dempsey. Ver
+[`../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md`](../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md),
+[`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md)
+y
+[`../segments/2026-03-17-wren-sinclair-charlie-dempsey-interaccion-wwe-nxt.md`](../segments/2026-03-17-wren-sinclair-charlie-dempsey-interaccion-wwe-nxt.md).

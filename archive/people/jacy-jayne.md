@@ -153,3 +153,22 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
 - (Pendientes: matches y segmentos NXT 2026 + main roster
   post-WM42; muchos en notebook
   [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).)
+
+### Sesión 2026-07-14 s35 — Alta a THE FUTURE: química perfeccionada con Fatal Influence
+
+**Cita verbatim**:
+
+> *"Jacy ha perfeccionado su quimica con sus chicas de Fatal
+> Influence, de verdad son un acto imperdible [...] pongamos a Wren
+> y Kendal Grey de una vez en la lista de FUTURE"* (sobre el
+> tag vs WrenQCC, 24/3)
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: **THE FUTURE in 2026 #8** — Perfect Match
+en triple threat (17/3/2026) y triple clase en tag vs WrenQCC
+(24/3/2026), con tensión nueva declarada frente a Fallon Henley.
+Ver
+[`../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md`](../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md)
+y
+[`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md).

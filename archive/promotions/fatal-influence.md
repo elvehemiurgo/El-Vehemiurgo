@@ -202,9 +202,29 @@ Influence vs MFTs como dos modelos de call-up TKO"*.)
 - [ ] Datos contractuales por miembro (tier reportado, cláusulas
       del call-up).
 
+### Sesión 2026-07-14 s35 — Segmento "nada cringe" + tag vs WrenQCC
+
+**Cita verbatim**:
+
+> *"el segmento de Fatal Influence fue cool, nada cringe, son muy
+> buenas para esto, ya quisieran varias en el roster principal
+> tener segmentos así de buenos [...] Fatal Influence en tag team
+> action contra el WrenQCC [...] se merece todas las clases"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el segmento
+(17/3) y Perfect Match para el tag vs WrenQCC (24/3), con tensión
+nueva Jacy/Fallon declarada. Ver
+[`../segments/2026-03-17-fatal-influence-segmento-wwe-nxt.md`](../segments/2026-03-17-fatal-influence-segmento-wwe-nxt.md)
+y
+[`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md).
+
 ## Piezas relacionadas
 
 - [`people/jacy-jayne.md`](../people/jacy-jayne.md) — líder.
+- [`../segments/2026-03-17-fatal-influence-segmento-wwe-nxt.md`](../segments/2026-03-17-fatal-influence-segmento-wwe-nxt.md)
+- [`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md)
 - [`people/lola-vice.md`](../people/lola-vice.md) — talent
   elevado en la despedida.
 - [`promotions/mfts.md`](./mfts.md) — comparativo opuesto de

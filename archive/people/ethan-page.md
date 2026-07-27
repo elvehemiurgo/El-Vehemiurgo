@@ -108,8 +108,23 @@ top guys distintos a la vez"*.)
 - [ ] *"Lo de Ethan"* en el finish del 8-man tag de Vengeance Day
       — preservar específicamente.
 
+### Sesión 2026-07-14 s35 — Protegido como futuro de la empresa
+
+**Cita verbatim**:
+
+> *"hicieron que Ethan y Ricky pongan faces over antes de irse al
+> main roster y protegerlos como futuro de la empresa al mismo
+> tiempo"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment compartida con Ricky
+Saints — booking de despedida elogiado. Ver
+[`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
+- [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
 - (Pendiente: matches y segmentos de la lista — Ethan tiene
   presencia recurrente en NXT 2025-2026 y Raw post-WM42.)

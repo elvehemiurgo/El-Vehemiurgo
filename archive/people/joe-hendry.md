@@ -138,9 +138,22 @@ canta sobrevivió al call-up WWE"*.)
 - [ ] Catalogar versiones / variantes del *"I Believe"* theme y
       cómo evolucionó cross-promotional.
 
+### Sesión 2026-07-14 s35 — Parte de "toda esta generación de NXT"
+
+**Cita verbatim**:
+
+> *"incluyendo a Joe Hendry, toda esta generación de NXT va a ser
+> muy recordada, mucha calidad, puros veteranos"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment compartida. Ver
+[`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
+- [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
 - (Pendiente: Joe Hendry & Jeff Hardy concert TNA Impact 2025;
   Booker T singing his entrance NXT 10.02.2026; main event NXT
   Stand & Deliver 4-way; debut Raw 27 abr 2026 attacked by The

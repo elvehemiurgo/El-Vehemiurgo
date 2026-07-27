@@ -149,3 +149,19 @@ sobre rechazo del founder.)
 - (Pendientes: Iron Survivor Challenge NXT Deadline; Stand &
   Deliver Triple Threat con moonsault destacado; matches WrenQCC
   vs ZaRuca, vs Fatal Influence, vs The Culling.)
+
+### Sesión 2026-07-14 s35 — Alta a THE FUTURE: triple clase vs Fatal Influence
+
+**Cita verbatim**:
+
+> *"pongamos a Wren y Kendal Grey de una vez en la lista de
+> FUTURE"* (sobre WrenQCC vs Fatal Influence, 24/3/2026)
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: **THE FUTURE in 2026 #14** — Perfect Match
+en tag contra Fatal Influence. Ver
+[`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md).
+Elaboración pendiente en el triple threat de Stand & Deliver
+(4/4/2026) — mensaje cortado en s35, ver
+[`../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md).

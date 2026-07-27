@@ -86,6 +86,22 @@ tags: [roman-reigns, the-tribal-chief, head-of-the-table, bloodline, the-shield,
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
 - [`./solo-sikoa.md`](./solo-sikoa.md), [`./jacob-fatu.md`](./jacob-fatu.md), [`./tama-tonga.md`](./tama-tonga.md)
 
+### Sesión 2026-07-14 s35 — Llegada al segmento de Punk, con los Usos
+
+**Cita verbatim**:
+
+> *"el segmento de Punk estuvo muy cool, hasta el final cuando
+> llega Reigns y todo con los Usos, muy buen segmento, top tier
+> wrestling"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: sin clase declarada pese al elogio máximo.
+Ver
+[`../segments/2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md`](../segments/2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md)
+y
+[`../segments/2026-03-20-promo-video-cm-punk-vs-reigns-wwe-smackdown.md`](../segments/2026-03-20-promo-video-cm-punk-vs-reigns-wwe-smackdown.md).
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

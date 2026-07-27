@@ -154,9 +154,25 @@ era IG"*.)
 - [ ] Match singles recientes y rivalidades activas.
 - [ ] Datos contractuales.
 
+### Sesión 2026-07-14 s35 — "A otro nivel comparado con sus compañeros"
+
+**Cita verbatim**:
+
+> *"Saquon tiene un segmento con dark state, en backstage lo hizo
+> muy bien, está a otro nivel comparado con sus compañeros la
+> verdad [...] este tipo tiene potencial, construye buenas luchas
+> y vive el gimmick de forma cautivante"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: sin clase, pero reafirmación fuerte de su
+estatus como **THE FUTURE in 2026 #2**. Ver
+[`../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md)
   — 8-man tag, primer registro editorial dedicado.
+- [`../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md)
 - (Pendiente: vs Jevon Evans NXT noviembre 2025, ya en notebook
   pero sin archivo abierto.)

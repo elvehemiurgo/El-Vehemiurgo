@@ -141,10 +141,27 @@ caiga en la misma situación cuando salte a main roster?)
 - [ ] Datos contractuales — esperar coverage TKO.
 - [ ] Entrevistas on-record / podcasts.
 
+### Sesión 2026-07-14 s35 — Alta a THE FUTURE: molde Raquel Rodríguez de nueva generación
+
+**Cita verbatim**:
+
+> *"me gusta mucho el acto de Izzy, siento que tiene mucho
+> potencial de campeona en el roster principal si sigue
+> moviendose así como heavyweight, siguiendo el molde de Raquel,
+> sería la versión de esta generación de una gigante, muy
+> atractivo de bookear"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: **THE FUTURE in 2026 #15** — comparación
+directa con Raquel Rodríguez como proyección de carrera. Ver
+[`../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md`](../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md)
   — match con Sol Ruca, NXT TV semanal 07 abr 2026.
+- [`../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md`](../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md)
 - (Pendiente: matches y segmentos del notebook
   [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md)
   donde Izzi aparece — sesiones siguientes irán abriendo

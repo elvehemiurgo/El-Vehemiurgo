@@ -8,7 +8,7 @@ ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión TNA No Surrender 13 feb 2026 — declaración de lista)"
   - "Volcado Vehemiurgo 2026-07-14 s30 (AEW x NJPW Forbidden Door — altas Kevin Knight y Lio Rush)"
-tags: [the-future-in-2026, lista-anual, prospectos-innegables, m-by-elegance, saquon-shugars, kevin-knight, lio-rush, oldschool-en-nueva-generacion, wrestlers-no-cosplayers, doctrina-vehemiurgia, declaracion-2026-06-17, declaracion-2026-07-14]
+tags: [the-future-in-2026, lista-anual, prospectos-innegables, m-by-elegance, saquon-shugars, kevin-knight, lio-rush, jacy-jayne, sol-ruca, zaria, jackson-drake, blake-monroe, wren-sinclair, kendal-grey, izzi-dame, oldschool-en-nueva-generacion, wrestlers-no-cosplayers, doctrina-vehemiurgia, declaracion-2026-06-17, declaracion-2026-07-14]
 ---
 
 # THE FUTURE IN 2026 — Lista anual del Vehemiurgo
@@ -131,6 +131,76 @@ Tres ejes del criterio:
   citado — declaración de trayectoria general.
 - **Ficha**: [`../people/lio-rush.md`](../people/lio-rush.md).
 
+### #8 — Jacy Jayne *(declarada 2026-07-14 s35, en bloque con Sol Ruca y Zaria)*
+
+- **Empresa**: WWE NXT — Fatal Influence.
+- **Por qué entra**: *"Jacy ha perfeccionado su quimica con sus
+  chicas de Fatal Influence, de verdad son un acto imperdible"*.
+- **Ficha**: [`../people/jacy-jayne.md`](../people/jacy-jayne.md).
+- **Match anchor**: triple threat vs Sol Ruca y Zaria, WWE NXT
+  17/3/2026 (Perfect Match).
+
+### #9 — Sol Ruca *(declarada 2026-07-14 s35, en bloque)*
+
+- **Empresa**: WWE NXT.
+- **Por qué entra**: *"Sol tiene un repertorio muy dificil, la
+  verdad es muy atletica para haberlo hecho funcionar a ese
+  nivel"*.
+- **Ficha**: [`../people/sol-ruca.md`](../people/sol-ruca.md).
+- **Match anchor**: mismo triple threat 17/3/2026.
+
+### #10 — Zaria *(declarada 2026-07-14 s35, en bloque)*
+
+- **Empresa**: WWE NXT.
+- **Por qué entra**: rivalidad sostenida y bien administrada con
+  Sol Ruca — *"ya tienen mucha historia y siempre es cool este
+  tipo de personajes"*.
+- **Ficha**: [`../people/zaria.md`](../people/zaria.md).
+- **Match anchor**: mismo triple threat 17/3/2026.
+
+### #11 — Jackson Drake *(declarado 2026-07-14 s35, en bloque con Blake Monroe)*
+
+- **Empresa**: WWE NXT — Vanity Project.
+- **Por qué entra**: *"de verdad es una generación muy poderosa
+  esta nueva camada de NXT, añadamos al vanity project a la lista
+  de FUTURE 2026, a todos por separado"*.
+- **Ficha**: [`../people/jackson-drake.md`](../people/jackson-drake.md).
+- **Match anchor**: vs American Made, WWE NXT 17/3/2026 (Perfect
+  Match).
+
+### #12 — Blake Monroe *(declarada 2026-07-14 s35, en bloque)*
+
+- **Empresa**: WWE NXT — Vanity Project.
+- **Por qué entra**: mismo trigger que Jackson Drake.
+- **Ficha**: [`../people/blake-monroe.md`](../people/blake-monroe.md).
+- **Match anchor**: mismo match 17/3/2026.
+
+### #13 — Wren Sinclair *(declarada 2026-07-14 s35, en bloque con Kendal Grey)*
+
+- **Empresa**: WWE NXT — WrenQCC.
+- **Por qué entra**: *"pongamos a Wren y Kendal Grey de una vez en
+  la lista de FUTURE"*, tras Fatal Influence vs WrenQCC (triple
+  clase) y la coronación en el NXT Speed Championship.
+- **Ficha**: [`../people/wren-sinclair.md`](../people/wren-sinclair.md).
+- **Match anchor**: vs Fallon Henley (NXT Speed Title, Perfect
+  Match, 17/3/2026) y vs Fatal Influence (24/3/2026).
+
+### #14 — Kendal Grey *(declarada 2026-07-14 s35, en bloque)*
+
+- **Empresa**: WWE NXT — WrenQCC.
+- **Por qué entra**: mismo trigger que Wren Sinclair.
+- **Ficha**: [`../people/kendal-grey.md`](../people/kendal-grey.md).
+- **Match anchor**: Fatal Influence vs WrenQCC, 24/3/2026.
+
+### #15 — Izzi Dame *(declarada 2026-07-14 s35)*
+
+- **Empresa**: WWE NXT.
+- **Por qué entra**: *"tiene mucho potencial de campeona en el
+  roster principal si sigue moviendose así como heavyweight,
+  siguiendo el molde de Raquel [Rodríguez]"*.
+- **Ficha**: [`../people/izzi-dame.md`](../people/izzi-dame.md).
+- **Match anchor**: vs Tatum Paxley, WWE NXT 17/3/2026.
+
 ## El advertencia editorial — *"no como Santana"*
 
 El Vehemiurgo encuadra la lista con una **advertencia comparativa**
@@ -205,11 +275,21 @@ explícitamente *encabeza la lista*).
 - [`../people/mila-moore.md`](../people/mila-moore.md) — #5.
 - [`../people/kevin-knight.md`](../people/kevin-knight.md) — #6.
 - [`../people/lio-rush.md`](../people/lio-rush.md) — #7.
-- **Nota de composición**: 4 de las 7 altas son **TNA Knockouts**
-  (M by Elegance, Arianna Grace, Myla Grace, Mila Moore) + 1 WWE
-  NXT (Saquon Shugars) + 2 **AEW** (Kevin Knight, Lio Rush) — la
-  primera incursión de AEW en la lista, rompiendo el predominio
-  TNA/NXT.
+- [`../people/jacy-jayne.md`](../people/jacy-jayne.md) — #8.
+- [`../people/sol-ruca.md`](../people/sol-ruca.md) — #9.
+- [`../people/zaria.md`](../people/zaria.md) — #10.
+- [`../people/jackson-drake.md`](../people/jackson-drake.md) — #11.
+- [`../people/blake-monroe.md`](../people/blake-monroe.md) — #12.
+- [`../people/wren-sinclair.md`](../people/wren-sinclair.md) — #13.
+- [`../people/kendal-grey.md`](../people/kendal-grey.md) — #14.
+- [`../people/izzi-dame.md`](../people/izzi-dame.md) — #15.
+- **Nota de composición**: 4 **TNA Knockouts** (M by Elegance,
+  Arianna Grace, Myla Grace, Mila Moore) + 9 **WWE NXT** (Saquon
+  Shugars, Jacy Jayne, Sol Ruca, Zaria, Jackson Drake, Blake
+  Monroe, Wren Sinclair, Kendal Grey, Izzi Dame) + 2 **AEW**
+  (Kevin Knight, Lio Rush). La sesión s35 (2026-07-14) convierte a
+  WWE NXT en la rama dominante de la lista, superando a TNA por
+  primera vez.
 - [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
   — anchor del #1 (mismo show que el del #3).
 - [`../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md`](../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md)

@@ -126,10 +126,29 @@ dimensión del oficio.)
 - [ ] Posibles catalogue de "secuencias difíciles" específicas
       del moveset que el Vehemiurgo identifica.
 
+### Sesión 2026-07-14 s35 — Alta a THE FUTURE con Jackson Drake (Vanity Project)
+
+**Cita verbatim**:
+
+> *"los americanos vs vanity project se merece las 3 clases [...]
+> añadamos al vanity project a la lista de FUTURE 2026, a todos
+> por separado"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: **THE FUTURE in 2026 #12** — Perfect Match
+vs American Made (17/3/2026) + segunda Wrestling Entertainment en
+segmento (21/4/2026). Ver
+[`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
+y
+[`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md)
   — Multi-clase Perfect Wrestling + Wrestling Entertainment.
+- [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
+- [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)
 - [`segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md`](../segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md)
   — Wrestling Entertainment Class (ejemplo canónico).
 - (Pendientes: matches y segmentos NXT 2025-2026 del notebook

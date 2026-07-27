@@ -113,8 +113,27 @@ tres top guys distintos a la vez"*.
 - [ ] Run NXT 2025-2026 — matches y storylines.
 - [ ] Datos contractuales call-up TKO.
 
+### Sesión 2026-07-14 s35 — Liberado del peso de campeón mundial, booking "brillante"
+
+**Cita verbatim**:
+
+> *"creo que se ha vuelto más entretenido y más comodo y más
+> interesante desde que le quitaron el peso de ser campeón mundial
+> y la puya contra AEW, su relación con Ethan y Vanity Project es
+> un booking brillante, incluso hicieron que Ethan y Ricky pongan
+> faces over antes de irse al main roster y protegerlos como
+> futuro de la empresa al mismo tiempo"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el segmento
+coral — mejora de carrera atribuida directamente a la pérdida del
+peso de campeón mundial. Ver
+[`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
+- [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
 - (Pendiente: matches y segmentos NXT 2025-2026 + main roster
   post-WM42.)

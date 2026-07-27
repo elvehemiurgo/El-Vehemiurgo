@@ -158,7 +158,20 @@ McDonagh.)
 - [ ] Linaje Bullet Club: cómo Bálor lee retrospectivamente la
       fundación 2013 vs la facción actual del nombre.
 
+### Sesión 2026-07-14 s35 — Post-match de Dominik vs Penta
+
+**Cita verbatim**:
+
+> *"si incluimos el post match con Balor, pues fue un buen show"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: mención de referencia dentro del match de
+Dominik vs Penta. Ver
+[`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — vignette dual con McDonagh.
+- [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)

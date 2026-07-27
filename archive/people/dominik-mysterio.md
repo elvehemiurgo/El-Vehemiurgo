@@ -96,7 +96,29 @@ sección 4.
 - [ ] Identificar el momento exacto donde se rompió la curva
       ascendente del heel turn 2022 hacia main event status.
 
+### Sesión 2026-07-14 s35 — Promo pregrabada + vs Penta: necesita subir de nivel
+
+**Cita verbatim**:
+
+> *"Dominik cortó una buena promo, pre grabada estilo TKO, se oye
+> más fuerte, tiene que subirle al nivel [...] cada vez va a ser
+> más necesario que llene más espacio como main eventer [...] la
+> lucha de Dominik vs Penta estuvo cool, se merece un enterteinment
+> class [...] aunque ya quisiera ver otra lucha dura de Dominik
+> como las que se manda en AAA"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: sin clase para la promo (crítica de
+desarrollo); Wrestling Entertainment para el match vs Penta, con
+reserva de estilo (extraña su dureza AAA). Ver
+[`../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md`](../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md)
+y
+[`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — Dominik en post-match.
+- [`../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md`](../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md)
+- [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)

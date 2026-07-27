@@ -144,7 +144,21 @@ Judgment Day como vehículo.)
       otros (catálogo para cuando se redacte la pieza editorial
       sobre su micro).
 
+### Sesión 2026-07-14 s35 — Atacada por Vaquer: buen brawl
+
+**Cita verbatim**:
+
+> *"Vaquer ataca a Morgan [...] este fue un muy buen brawl, se
+> merece el enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment compartida con
+Vaquer. Ver
+[`../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - (Pendiente: match Liv vs Vaquer Mania 42 + matches del feud actual
   con Sol Ruca.)
+- [`../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md)

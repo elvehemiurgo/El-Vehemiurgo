@@ -67,15 +67,30 @@ tags: [nxt-2026, stand-and-deliver-2026, nxt-womens-title, fatal-influence, jacy
 
 ## Lectura del Vehemiurgo
 
-(Pendiente verbatim.)
+### Sesión 2026-07-14 s35 — Elaboración cortada, sin clase registrada
+
+**Cita verbatim (mensaje cortado)**:
+
+> *"la 3 way de Grey vs Vice vs Jane estuvo muy cool si se merece
+> el"* [mensaje interrumpido — el Vehemiurgo no completó la
+> declaración de clase]
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim; "Jane" = variante de
+> dictado de Jacy Jayne)
+
+**Lectura sintética**: elaboración sobre este match ya existente
+en el archivo — se registra únicamente lo dicho ("estuvo muy
+cool"), **sin asignar clase**, porque la oración quedó incompleta
+antes de nombrar la fórmula. Si el Vehemiurgo retoma la idea en
+una sesión futura, se completa acá mismo.
 
 ## Pendientes / huecos
 
 - [ ] Ganador + finish + duración.
 - [ ] Star rating WON Meltzer (contexto).
-- [ ] **Asignación de clase del Vehemiurgo** (candidato
-      Wrestling Entertainment Class por character work + posible
-      Fighting Spirit por physicality).
+- [ ] **Asignación de clase del Vehemiurgo** — pendiente:
+      declaración cortada en s35 (2026-07-14), a completar cuando
+      el Vehemiurgo retome la idea.
 
 ## Piezas relacionadas
 

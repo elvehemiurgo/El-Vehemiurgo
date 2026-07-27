@@ -56,6 +56,7 @@ con cada cambio de estado.
 | 2026-04-29 | MJF vs Kevin Knight | AEW / Dynamite | — | stub | 1 | [→](2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md) |
 | 2026-04-22 | Darby Allin (c) vs Tomasso [sic — presumido Tomohiro Ishii] — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md) |
 | 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |
+| 2026-04-21 | EK vs Lexis King | WWE / NXT Revenge — Week 2 | FS | en-investigacion | 1 | [→](2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md) |
 | 2026-04-19 | Rhea Ripley vs Jade Cargill | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-rhea-ripley-vs-jade-cargill-wrestlemania-42.md) |
 | 2026-04-19 | CM Punk vs Roman Reigns | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) |
 | 2026-04-19 | Brock Lesnar vs Oba Femi | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md) |
@@ -84,6 +85,9 @@ con cada cambio de estado.
 | 2026-04-07 | Jackson Drake & Blake Monroe vs Shyloh & Tatum Paxley | WWE / NXT (TV semanal) | PW·WE | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md) |
 | 2026-04-07 | Dark State vs Joe Hendry, Ethan Page, Ricky Saints & Tony D'Angelo | WWE / NXT TV (semanal) | — | en-investigacion | 1 | [→](2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md) |
 | 2026-04-06 | LA Knight vs Austin Theory | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-06-la-knight-vs-austin-theory-raw.md) |
+| 2026-04-04 | Lady Flamer vs Sussy | AAA / AAA Worldwide | FS | en-investigacion | 1 | [→](2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md) |
+| 2026-04-04 | 3 contra 3 de equipos europeos (Axiom en bandos opuestos) | AAA / AAA Worldwide | WE | en-investigacion | 1 | [→](2026-04-04-tres-contra-tres-europeo-axiom-aaa-worldwide.md) |
+| 2026-04-04 | Team Japón vs Team Puerto Rico | AAA / AAA Worldwide | FS·WE | en-investigacion | 1 | [→](2026-04-04-team-japon-vs-team-pr-aaa-worldwide.md) |
 | 2026-04-04 | Sol Ruca vs Saria | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
 | 2026-04-04 | Jacy Jayne vs Kendal Grey vs Lola Vice — triple threat | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
 | 2026-04-04 | Ethan Page vs Ricky Saints vs Joe Hendry vs Tony D'Angelo — fatal 4-way | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
@@ -91,6 +95,7 @@ con cada cambio de estado.
 | 2026-04-02 | Eight-man tag — Ali, Agent Zero, Eddie Edwards & Cedric Alexander vs Santana, Slater, Trey Miguel & Moose | TNA Wrestling / iMPACT! | PW·FS·WE | verificado | 1 | [→](2026-04-02-multi-man-opener-tna-impact.md) |
 | 2026-04-01 | MJF vs Speedball Mike Bailey | AEW (All Elite Wrestling) / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
 | 2026-04-01 | PAC vs Will Ospreay | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-04-01-pac-vs-ospreay-aew-dynamite.md) |
+| 2026-03-31 | Kelani Jordan vs Jayda | WWE / NXT | WE | en-investigacion | 1 | [→](2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md) |
 | 2026-03-28 | Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana | WWE AAA / AAA Rey de Reyes Week 2 | — | en-investigacion | 1 | [→](2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md) |
 | 2026-03-27 | Mike Santana (c) vs Steve Maclin — TNA World Championship (main event; lesión de Maclin) | TNA Wrestling / Sacrifice 2026 | — | verificado | 1 | [→](2026-03-27-main-event-lesion-steve-maclin-tna-sacrifice.md) |
 | 2026-03-27 | Moose vs Eddie Edwards | TNA Wrestling / Sacrifice 2026 | — | verificado | 1 | [→](2026-03-27-moose-vs-eddie-edwards-tna-sacrifice.md) |
@@ -105,7 +110,14 @@ con cada cambio de estado.
 | 2026-03-26 | Brian Myers vs Jeff Hardy | TNA / Thursday Night iMPACT | FS | stub | 1 | [→](2026-03-26-brian-myers-vs-jeff-hardy-tna-impact.md) |
 | 2026-03-26 | Bear Bronson vs Moose | TNA / Thursday Night iMPACT | FS | stub | 1 | [→](2026-03-26-bear-bronson-vs-moose-tna-impact.md) |
 | 2026-03-25 | Thekla vs Mina | AEW (All Elite Wrestling) / Dynamite | FS | stub | 1 | [→](2026-03-25-thekla-vs-mina-aew-dynamite.md) |
+| 2026-03-24 | Fatal Influence vs WrenQCC | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md) |
+| 2026-03-23 | Dominik Mysterio vs Penta | WWE / Raw | WE | en-investigacion | 1 | [→](2026-03-23-dominik-vs-penta-wwe-raw.md) |
+| 2026-03-23 | Waller vs Jevon Evans | WWE / Raw | FS | en-investigacion | 1 | [→](2026-03-23-waller-vs-jevon-evans-wwe-raw.md) |
 | 2026-03-19 | The Hometown Man vs Kazarian | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-03-19-hometown-man-vs-kazarian-tna-impact.md) |
+| 2026-03-17 | Tatum Paxley vs Izzi Dame | WWE / NXT | — | en-investigacion | 1 | [→](2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md) |
+| 2026-03-17 | Wren Sinclair vs Fallon Henley | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md) |
+| 2026-03-17 | American Made vs Vanity Project | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-03-17-american-made-vs-vanity-project-wwe-nxt.md) |
+| 2026-03-17 | Jacy Jayne vs Sol Ruca vs Zaria | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md) |
 | 2026-03-15 | Young Bucks vs FTR | AEW / Revolution 2026 | — | en-investigacion | 1 | [→](2026-03-15-young-bucks-vs-ftr-aew-revolution.md) |
 | 2026-03-12 | Elijah (ex-Elias) vs AJ Francis | TNA / Thursday Night iMPACT | — | stub | 1 | [→](2026-03-12-elijah-vs-aj-francis-tna-impact.md) |
 | 2026-03-12 | Moose vs Cedric Alexander — Street Fight | TNA / Thursday Night iMPACT | FS | stub | 1 | [→](2026-03-12-moose-vs-cedric-alexander-tna-impact.md) |

@@ -181,3 +181,17 @@ las tres capas (familia + ring name + faction).
   marca catch).
 - (Pendientes: matches Heritage Cup vs Noam Dar, vs D'Angelo,
   vs Lexis King; segments con Regal; disolución NQCC.)
+
+### Sesión 2026-07-14 s35 — Interacción con Wren, Wrestling Entertainment
+
+**Cita verbatim**:
+
+> *"el segmento y la interacción entre Wren y Charlie se merece
+> una enterteinment class, lograron hacer relevante su
+> participación en tv con esas ideas"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: continuidad de la dinámica NQCC/Wren ya
+documentada por research. Ver
+[`../segments/2026-03-17-wren-sinclair-charlie-dempsey-interaccion-wwe-nxt.md`](../segments/2026-03-17-wren-sinclair-charlie-dempsey-interaccion-wwe-nxt.md).

@@ -126,3 +126,18 @@ notebook 2026-05-09; el segmento del 24/3/2026; los matches de Stand
   — match en NXT TV semanal del 07 abr 2026 *(corrección 2026-05-10: registrado originalmente como Vengeance Day)*, derrota con asistencia de Zaria.
 - (Pendiente sumar a `archive/matches/`: Stand & Deliver 2026 vs
   Zaria, NXT Revenge 2026 LWS vs Zaria.)
+
+### Sesión 2026-07-14 s35 — Alta a THE FUTURE + Perfect Match en triple threat
+
+**Cita verbatim**:
+
+> *"Sol tiene un repertorio muy dificil, la verdad es muy atletica
+> para haberlo hecho funcionar a ese nivel [...] es de las mejores
+> veces que se ha visto a Sol hacer lo suyo"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: **THE FUTURE in 2026 #9** — triple threat
+vs Jacy Jayne y Zaria (Perfect Match, 17/3/2026), declarado de las
+mejores actuaciones suyas registradas. Ver
+[`../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md`](../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md).
