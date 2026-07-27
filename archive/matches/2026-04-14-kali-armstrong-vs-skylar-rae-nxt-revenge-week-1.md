@@ -98,7 +98,7 @@ tags: [wwe-2026, nxt, nxt-revenge-2026, kali-armstrong, skylar-rae, armstrong-fa
   verbatim *"definitivamente merece la clase de Fighting
   Spirit"*. **Tercera asignación de clase del Vehemiurgo en la
   base** (después de Lexis King vs Chazz Hall + Drake/Monroe vs
-  Shyloh/Paxley).
+  Shilo Hill/Paxley).
 
 **Doctrina aplicada**: ver
 [`../../glossary/clases-vehemiurgo.md`](../../glossary/clases-vehemiurgo.md)

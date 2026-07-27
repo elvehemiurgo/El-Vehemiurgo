@@ -87,7 +87,7 @@ como solicitó el Vehemiurgo.
 | 49 | 2026-04-07 | match | Sol Ruca · Izzi Dame | WWE | — | integrado | [→](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |
 | 50 | 2026-04-07 | segment | BLAKE MONROE Y EL VANITY PROJECT — ALIANZA HEEL POR CONVENIENCIA NXT TV 07.04.2026 | WWE | WE | integrado | [→](../segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md) |
 | 51 | 2026-04-07 | match | Dark State · Joe Hendry · Ethan Page · Ricky Saints · Tony D'Angelo | WWE | — | integrado | [→](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md) |
-| 52 | 2026-04-07 | match | Jackson Drake · Blake Monroe · Shiloh · Tatum Paxley | WWE | PW·WE | integrado | [→](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md) |
+| 52 | 2026-04-07 | match | Jackson Drake · Blake Monroe · Shiloh · Tatum Paxley | WWE | PW·WE | integrado | [→](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md) |
 | 53 | 2026-04-07 | segment | LOLA VICE CELEBRACIÓN POST-TÍTULO — JACY JAYNE SALVA EL SEGMENTO NXT TV 07.04.2026 | WWE | — | integrado | [→](../segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md) |
 | 54 | 2026-04-07 | match | Chazz 'Starboy' Hall · Lexis King | WWE | PW·FS | integrado | [→](../matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md) |
 | 55 | 2026-04-06 | segment | CM PUNK PROMO OPENING WWE Raw 06.04.2026 | WWE | — | integrado | [→](../segments/2026-04-06-cm-punk-promo-opening-raw.md) |

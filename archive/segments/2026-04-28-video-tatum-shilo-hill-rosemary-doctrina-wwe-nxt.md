@@ -1,7 +1,7 @@
 ---
-segmento: "Video: Tatum Paxley y Shyloh — momento en la 'tumba' de Blake Monroe"
-slug: "2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt"
-protagonistas: ["Tatum Paxley", "Shyloh", "Blake Monroe"]
+segmento: "Video: Tatum Paxley y Shilo Hill — momento en la 'tumba' de Blake Monroe"
+slug: "2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt"
+protagonistas: ["Tatum Paxley", "Shilo Hill", "Blake Monroe"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-04-28
@@ -13,10 +13,10 @@ estado: stub
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026)"
-tags: [tatum-paxley, shyloh, blake-monroe, wwe-nxt-2026, wrestling-entertainment, doctrina-freak-paranormal, rosemary, tna-impact, autoconsciente]
+tags: [tatum-paxley, shilo-hill, blake-monroe, wwe-nxt-2026, wrestling-entertainment, doctrina-freak-paranormal, rosemary, tna-impact, autoconsciente]
 ---
 
-# Video: Tatum Paxley y Shyloh — momento en la "tumba" de Blake Monroe — WWE NXT (28 abr 2026)
+# Video: Tatum Paxley y Shilo Hill — momento en la "tumba" de Blake Monroe — WWE NXT (28 abr 2026)
 
 > **Wrestling Entertainment** (*"este video se merece el
 > enterteinment class"*). Cierra el feud con Blake Monroe con un
@@ -72,6 +72,6 @@ tags: [tatum-paxley, shyloh, blake-monroe, wwe-nxt-2026, wrestling-entertainment
 ## Cross-links
 
 - [`../people/tatum-paxley.md`](../people/tatum-paxley.md) ·
-  [`../people/shyloh.md`](../people/shyloh.md) ·
+  [`../people/shilo-hill.md`](../people/shilo-hill.md) ·
   [`../people/blake-monroe.md`](../people/blake-monroe.md) ·
   [`../topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)

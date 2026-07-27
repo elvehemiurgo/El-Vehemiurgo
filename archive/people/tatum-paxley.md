@@ -47,7 +47,7 @@ la ejecución actual por el selling.
 **Contexto**: video de cierre del feud con Blake Monroe en WWE NXT
 (28/4/2026), con un momento en la "tumba" de Blake tras recuperar
 el título. Ver
-[`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md).
+[`../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md).
 
 **Cita verbatim**:
 
@@ -93,20 +93,21 @@ el título. Ver
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Finish/duración del match vs Izzi Dame.
-- [ ] Contenido completo del video de cierre con Shyloh (28/4/2026).
+- [ ] Contenido completo del video de cierre con Shilo Hill
+      (28/4/2026).
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md`](../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md)
-- [`../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md)
+- [`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
   — feud con Blake Monroe, multi-clase con discrepancia registrada.
-- [`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md)
+- [`../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md)
   — cierre del feud, doctrina Rosemary.
 
 ## Cross-links
 
 - [`./izzi-dame.md`](./izzi-dame.md) — rival.
-- [`./shyloh.md`](./shyloh.md) — compañera.
+- [`./shilo-hill.md`](./shilo-hill.md) — compañero de tag mixto.
 - [`./blake-monroe.md`](./blake-monroe.md) — rival, feud cerrada.
 - [`../topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)
   — doctrina Rosemary / arquetipo freak.

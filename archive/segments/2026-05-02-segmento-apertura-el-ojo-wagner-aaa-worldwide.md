@@ -45,7 +45,7 @@ tags: [dr-wagner-jr, aaa-worldwide-2026, wrestling-entertainment, apertura-de-sh
 2. **Wagner incorporado al final**: aparición puntual dentro del
    segmento, sin desarrollo propio narrado más allá de la mención.
 3. Ver
-   [`../people/dr-wagner-jr.md`](../people/dr-wagner-jr.md).
+   [`../people/hijo-de-dr-wagner-jr.md`](../people/hijo-de-dr-wagner-jr.md).
 
 ## Pendientes
 
@@ -54,4 +54,4 @@ tags: [dr-wagner-jr, aaa-worldwide-2026, wrestling-entertainment, apertura-de-sh
 
 ## Cross-links
 
-- [`../people/dr-wagner-jr.md`](../people/dr-wagner-jr.md)
+- [`../people/hijo-de-dr-wagner-jr.md`](../people/hijo-de-dr-wagner-jr.md)

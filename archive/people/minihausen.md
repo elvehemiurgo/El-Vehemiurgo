@@ -30,9 +30,9 @@ tags: [minihausen, danhausen, wwe-backlash-2026, mini-estrella, gimmick-comico, 
 
 ## Trayectoria condensada
 
-- **9/5/2026 (WWE Backlash)** — con Danhausen vs The Miz & Kip:
+- **9/5/2026 (WWE Backlash)** — con Danhausen vs The Miz & Kit Wilson:
   Perfect Wrestling + Fighting Spirit + Wrestling Entertainment.
-  ([→](../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md)).
+  ([→](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -47,7 +47,7 @@ tags: [minihausen, danhausen, wwe-backlash-2026, mini-estrella, gimmick-comico, 
 > — El Vehemiurgo, 2026-07-14 s43 (verbatim)
 
 **Lectura sintética**: triple clase compartida. Ver
-[`../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md).
+[`../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md).
 
 ## Pendientes / huecos
 
@@ -58,7 +58,7 @@ tags: [minihausen, danhausen, wwe-backlash-2026, mini-estrella, gimmick-comico, 
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md)
+- [`../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md)
 
 ## Cross-links
 

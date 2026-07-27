@@ -1,7 +1,7 @@
 ---
-match: "The Miz & Kip vs Danhausen & Minihausen"
-slug: "2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash"
-participantes: ["The Miz", "Kip", "Danhausen", "Minihausen"]
+match: "The Miz & Kit Wilson vs Danhausen & Minihausen"
+slug: "2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash"
+participantes: ["The Miz", "Kit Wilson", "Danhausen", "Minihausen"]
 empresa: "WWE"
 programa: "Backlash"
 fecha: 2026-05-09
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s43 (visión directa — WWE Backlash, 9/5/2026)"
-tags: [the-miz, kip-sabian, danhausen, minihausen, wwe-backlash-2026, tag-team, perfect-wrestling, fighting-spirit, wrestling-entertainment, entertainment-autosuficiente, gimmick-comico, legitimamente-brillante]
+tags: [the-miz, kit-wilson, pretty-deadly, danhausen, minihausen, wwe-backlash-2026, tag-team, perfect-wrestling, fighting-spirit, wrestling-entertainment, entertainment-autosuficiente, gimmick-comico, legitimamente-brillante]
 ---
 
-# The Miz & Kip vs Danhausen & Minihausen — WWE Backlash (9 may 2026)
+# The Miz & Kit Wilson vs Danhausen & Minihausen — WWE Backlash (9 may 2026)
 
 > **Perfect Wrestling + Fighting Spirit + Wrestling Entertainment**
 > (*"se merece todas las clases"*). *"Legítimamente brillante"* —
@@ -58,15 +58,16 @@ tags: [the-miz, kip-sabian, danhausen, minihausen, wwe-backlash-2026, tag-team, 
 
 ## Pendientes
 
-- [ ] **Confirmar identidad de "Kip"** — candidato probable Kip
-      Sabian, [verif].
+- [x] ~~Confirmar identidad de "Kip"~~ → **RESUELTO (s45)**: es
+      **Kit Wilson** (Pretty Deadly); *"Kip"* fue error de
+      escritura del Vehemiurgo.
 - [ ] Finish, ganador, duración, ciudad/recinto.
 - [ ] Contexto de la rivalidad (cómo se llegó a este tag).
 
 ## Cross-links
 
 - [`../people/the-miz.md`](../people/the-miz.md) ·
-  [`../people/kip-sabian.md`](../people/kip-sabian.md) ·
+  [`../people/kit-wilson.md`](../people/kit-wilson.md) ·
   [`../people/danhausen.md`](../people/danhausen.md) ·
   [`../people/minihausen.md`](../people/minihausen.md)
 - [`../segments/2026-05-09-video-intro-wwe-backlash.md`](../segments/2026-05-09-video-intro-wwe-backlash.md)

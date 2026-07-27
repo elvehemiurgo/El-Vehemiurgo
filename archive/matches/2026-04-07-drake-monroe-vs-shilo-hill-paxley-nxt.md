@@ -1,10 +1,10 @@
 ---
-match: "Jackson Drake & Blake Monroe vs Shyloh & Tatum Paxley"
-slug: "drake-monroe-vs-shyloh-paxley-nxt-2026-04-07"
+match: "Jackson Drake & Blake Monroe vs Shilo Hill & Tatum Paxley"
+slug: "2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt"
 participantes:
   - "Jackson Drake (presunción — confirmar)"
   - "Blake Monroe"
-  - "Shyloh (presunción — confirmar)"
+  - "Shilo Hill (presunción — confirmar)"
   - "Tatum Paxley (presunción — confirmar)"
 empresa: "WWE"
 programa: "NXT (TV semanal)"
@@ -32,10 +32,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT TV semanal 2026-04-07 (fecha confirmada por el Vehemiurgo 2026-05-10)"
-tags: [wwe-2026, nxt, nxt-tv, blake-monroe, jackson-drake, shyloh, tatum-paxley, perfect-wrestling-class, wrestling-entertainment-class, multi-classification, mixed-tag]
+tags: [wwe-2026, nxt, nxt-tv, blake-monroe, jackson-drake, shilo-hill, tatum-paxley, perfect-wrestling-class, wrestling-entertainment-class, multi-classification, mixed-tag]
 ---
 
-# Drake & Monroe vs Shyloh & Paxley — WWE NXT TV (07 abr 2026)
+# Drake & Monroe vs Shilo Hill & Paxley — WWE NXT TV (07 abr 2026)
 
 > **Fecha confirmada por el Vehemiurgo (2026-05-10)**: NXT TV
 > semanal del 7 abril 2026.
@@ -168,7 +168,7 @@ de "lo real" del archivo.
 - [x] ~~Confirmar fecha exacta del match~~ → **CONFIRMADA
       (2026-05-10)**: NXT TV semanal del 7 abr 2026.
 - [ ] **Confirmar composición exacta** de los 4 participantes y
-      partnership (Drake + Monroe vs Shyloh + Paxley vs alguna
+      partnership (Drake + Monroe vs Shilo Hill + Paxley vs alguna
       variante).
 - [ ] **Confirmar tipo de match** (mixed tag intergender o tag
       femenino con apellidos de stable / faction).

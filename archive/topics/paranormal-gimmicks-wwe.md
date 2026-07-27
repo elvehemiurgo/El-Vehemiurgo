@@ -148,7 +148,7 @@ freno generacional"*. Estructura propuesta:
 **Contexto**: video de cierre del feud Tatum Paxley/Blake Monroe en
 WWE NXT (28/4/2026), con un momento en la "tumba" de Blake —
 Wrestling Entertainment. Ver
-[`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md).
+[`../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md).
 
 **Cita verbatim del Vehemiurgo**:
 

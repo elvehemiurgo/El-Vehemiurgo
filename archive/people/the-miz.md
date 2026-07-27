@@ -12,7 +12,7 @@ tags: [the-miz, wwe-backlash-2026, veterano, entertainment, perfect-wrestling, f
 
 # The Miz
 
-> Primer registro individual del archivo. Con Kip vs Danhausen &
+> Primer registro individual del archivo. Con Kit Wilson vs Danhausen &
 > Minihausen en Backlash — triple clase, con el elogio clave de que
 > **generan entretenimiento por cuenta propia**.
 
@@ -26,10 +26,10 @@ tags: [the-miz, wwe-backlash-2026, veterano, entertainment, perfect-wrestling, f
 
 ## Trayectoria condensada
 
-- **9/5/2026 (WWE Backlash)** — con Kip vs Danhausen &
+- **9/5/2026 (WWE Backlash)** — con Kit Wilson vs Danhausen &
   Minihausen: Perfect Wrestling + Fighting Spirit + Wrestling
   Entertainment.
-  ([→](../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md)).
+  ([→](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -48,7 +48,7 @@ tags: [the-miz, wwe-backlash-2026, veterano, entertainment, perfect-wrestling, f
 el valor del segmento sin depender del booking que los rodea, que
 es exactamente el tipo de autosuficiencia carny que el Vehemiurgo
 premia. Ver
-[`../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md).
+[`../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md).
 
 ## Pendientes / huecos
 
@@ -59,10 +59,10 @@ premia. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md)
+- [`../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md)
 
 ## Cross-links
 
-- [`./kip-sabian.md`](./kip-sabian.md) — compañero de equipo.
+- [`./kit-wilson.md`](./kit-wilson.md) — compañero de equipo.
 - [`./danhausen.md`](./danhausen.md) · [`./minihausen.md`](./minihausen.md)
   — rivales.

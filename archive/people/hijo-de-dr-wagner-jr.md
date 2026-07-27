@@ -1,27 +1,31 @@
 ---
-nombre: "Wagner"
+nombre: "El Hijo de Dr. Wagner Jr."
 tipo: fact-sheet
 categoria: people
-slug: dr-wagner-jr
+slug: hijo-de-dr-wagner-jr
 estado: vivo
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
-tags: [dr-wagner-jr, aaa, fighting-spirit, golpes-duros, primer-registro-individual]
+tags: [hijo-de-dr-wagner-jr, aaa, linaje-wagner, identidad-consolidada, fighting-spirit, golpes-duros, primer-registro-individual]
 ---
 
-# Wagner
+# El Hijo de Dr. Wagner Jr.
 
-> Primer registro individual del archivo. Match físico contra
-> Laredo con Fighting Spirit. **Identidad exacta sin confirmar**
-> — probable Dr. Wagner Jr. o Hijo de Dr. Wagner Jr. [verif].
+> **Identidad resuelta (2026-07-14 s45)**: el Vehemiurgo confirmó
+> que el *"Wagner"* de sus dictados de AAA 2026 es **El Hijo de
+> Dr. Wagner Jr.** — la generación activa del linaje, no el
+> veterano.
 
 ## Identificación
 
-- **Nombre de gimmick**: Wagner [verif — ¿Dr. Wagner Jr.? ¿Hijo
-  de Dr. Wagner Jr.?].
+- **Nombre de gimmick**: **El Hijo de Dr. Wagner Jr.** El
+  Vehemiurgo lo dicta *"Wagner"* (segunda mención legítima).
 - **Nombre real**: [verif].
 - **Empresa (2026)**: AAA.
+- **Linaje**: hijo de **Dr. Wagner Jr.**, nieto del **Dr. Wagner**
+  original — tercera generación de una de las dinastías centrales
+  de la lucha mexicana.
 
 ## Trayectoria condensada
 
@@ -72,11 +76,10 @@ y
 
 ## Pendientes / huecos
 
-- [ ] **Confirmar identidad exacta** — [verif]. Candidatos por
-      contraste de roster AAA: **El Hijo de Dr. Wagner Jr.**
-      (generación activa del linaje) o **Dr. Wagner Jr.** (el
-      veterano, todavía en activo); el rol de rescate/aliado de
-      Vikingo encaja con cualquiera de los dos. No asumir.
+- [x] ~~Confirmar identidad exacta~~ → **RESUELTO (s45)**: es
+      **El Hijo de Dr. Wagner Jr.**, confirmado por el Vehemiurgo.
+- [ ] Documentar el linaje Wagner completo como pieza de archivo
+      (Dr. Wagner original → Dr. Wagner Jr. → El Hijo).
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Finish/duración del match.
 

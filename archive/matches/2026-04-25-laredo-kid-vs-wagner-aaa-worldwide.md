@@ -40,7 +40,7 @@ tags: [laredo, dr-wagner-jr, aaa-worldwide-2026, singles, fighting-spirit, golpe
 **Lectura sintética**: Fighting Spirit por contundencia física
 real, con la reserva explícita de que hubo tramos accidentados.
 Ver [`../people/laredo-kid.md`](../people/laredo-kid.md),
-[`../people/dr-wagner-jr.md`](../people/dr-wagner-jr.md).
+[`../people/hijo-de-dr-wagner-jr.md`](../people/hijo-de-dr-wagner-jr.md).
 
 ## Pendientes
 
@@ -50,4 +50,4 @@ Ver [`../people/laredo-kid.md`](../people/laredo-kid.md),
 ## Cross-links
 
 - [`../people/laredo-kid.md`](../people/laredo-kid.md) ·
-  [`../people/dr-wagner-jr.md`](../people/dr-wagner-jr.md)
+  [`../people/hijo-de-dr-wagner-jr.md`](../people/hijo-de-dr-wagner-jr.md)

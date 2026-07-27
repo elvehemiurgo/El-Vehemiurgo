@@ -65,7 +65,7 @@ tags: [hijo-del-vikingo, mini-vikingo, dr-wagner-jr, aaa-2026, singles, grudge-m
 5. Ver
    [`../people/hijo-del-vikingo.md`](../people/hijo-del-vikingo.md),
    [`../people/mini-vikingo.md`](../people/mini-vikingo.md),
-   [`../people/dr-wagner-jr.md`](../people/dr-wagner-jr.md).
+   [`../people/hijo-de-dr-wagner-jr.md`](../people/hijo-de-dr-wagner-jr.md).
 
 ## Pendientes
 
@@ -78,4 +78,4 @@ tags: [hijo-del-vikingo, mini-vikingo, dr-wagner-jr, aaa-2026, singles, grudge-m
 
 - [`../people/hijo-del-vikingo.md`](../people/hijo-del-vikingo.md) ·
   [`../people/mini-vikingo.md`](../people/mini-vikingo.md) ·
-  [`../people/dr-wagner-jr.md`](../people/dr-wagner-jr.md)
+  [`../people/hijo-de-dr-wagner-jr.md`](../people/hijo-de-dr-wagner-jr.md)

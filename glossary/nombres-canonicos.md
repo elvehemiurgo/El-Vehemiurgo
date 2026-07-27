@@ -35,6 +35,7 @@
 | Kiana James | Kiona James |
 | Lainey Reid | Layney Reed, Layne Reed, Lainey Reed |
 | Joaquin Wilde | Joaquín Wild, Joaquin Wild |
+| Shilo Hill | Shyloh |
 
 ## Atención — contexto-dependientes (no linteados)
 
@@ -46,7 +47,10 @@
 | **Kira (CMLL) / Kira Summer (TJPW) / Keyra (AAA-CMLL)** | Tres talents distintos. Desambiguación en `archive/people/kira.md` y `keyra.md`. |
 | **Myla Grace / Mila Moore** | Dos talents distintas (TNA Knockouts). No unificar. |
 | **Bear Bronson / Bear Boulder** | Distintos (ex-Bear Country ambos). |
-| **Jessy Jackson / Jessica Jackson** | Misma luchadora de AAA. El archivo venía usando *Jessy Jackson* (lista personal 14/2/2026 + vistas derivadas); el Vehemiurgo dictó *Jessica Jackson* en s43. Slug `jessy-jackson`. **Grafía canónica pendiente de ratificación** — no linteado hasta que se resuelva. **No confundir con Jackson Drake** (WWE NXT, Vanity Project). |
+| **Jessy Jackson** | Luchadora de AAA. **Grafía ratificada por el Vehemiurgo (s45)**: *"Jessica Jackson es Jessy Jackson, pongámosla como Jessy Jackson"*. Canónico **Jessy Jackson**; *Jessica Jackson* = forma larga registrada, legítima en prosa (no linteada). **No confundir con Jackson Drake** (WWE NXT, Vanity Project). |
+| **El Hijo de Dr. Wagner Jr.** | El *"Wagner"* de los dictados AAA 2026 es **El Hijo de Dr. Wagner Jr.** (confirmado s45), no el veterano Dr. Wagner Jr. *"Wagner"* a secas es segunda mención legítima. Slug `hijo-de-dr-wagner-jr`. |
+| **Kit Wilson** | Mitad de **Pretty Deadly** (WWE). El Vehemiurgo escribió *"Kip"* por error (aclarado s45). **No es Kip Sabian.** *"Kip"* NO se lintea: colisiona con **Kip James** (Billy Gunn en TNA), talent distinto y legítimo en el archivo. |
+| **Shilo Hill** | WWE NXT. El Vehemiurgo lo dicta *"Shyloh"* / *"Shilo"*. Compañero de tag mixto de Tatum Paxley. Grafía *Shilo* vs *Shiloh* [verif menor]. |
 | **Lil Yachty** | Rapero, **no luchador** — acompañante on-screen de Trick Williams. Se archiva en `people/` por función narrativa, no como talent. El Vehemiurgo lo dicta *"Yatty"*; se registró por error como *"Mya Yatty"* (corregido s43). |
 | **Matt Cardona** | Canónico completo. *"Cardona"* a secas es **segunda mención legítima** en prosa, no variante prohibida — lo que estaba mal era la ficha suelta `cardona.md` (corregida s43). |
 | **Cruz del Toro** | Canónico completo (ex-LWO / Legado del Fantasma, hoy AAA; "del" minúscula). El Vehemiurgo lo dicta *"del Toro"* / *"El Toro"*. *"Del Toro"* a secas es segunda mención legítima; lo que estaba mal era la ficha suelta `el-toro.md` (corregida s43). |

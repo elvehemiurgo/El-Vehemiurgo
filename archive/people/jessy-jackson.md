@@ -21,12 +21,10 @@ tags: [jessy-jackson, jessica-jackson, aaa-2026, lucha-mexicana, perfect-wrestli
 > 14/2/2026 contra Las Tóxicas, ahí escrita *"JESSY JACKSON"*.
 > Identidad consolidada, no duplicada.
 >
-> ⚠ **Grafía pendiente de ratificación**: el archivo venía usando
-> **Jessy Jackson** (lista personal + vistas derivadas); el
-> Vehemiurgo dictó **Jessica Jackson**. Se mantiene el slug
-> `jessy-jackson` para no romper las referencias ya existentes, con
-> ambas formas registradas. **Pendiente que el Vehemiurgo declare
-> cuál es la canónica.**
+> **Grafía ratificada (2026-07-14 s45)**: el Vehemiurgo resolvió
+> — *"Jessica Jackson es Jessy Jackson, pongámosla como Jessy
+> Jackson"*. **Canónico: Jessy Jackson.** *Jessica Jackson* queda
+> como forma larga registrada.
 
 ## Identificación
 
@@ -66,8 +64,8 @@ general fue "wrestling de calidad". Ver
 
 ## Pendientes / huecos
 
-- [ ] **Ratificar grafía canónica**: *Jessy Jackson* vs *Jessica
-      Jackson*.
+- [x] ~~Ratificar grafía canónica~~ → **RESUELTO (s45)**: el
+      Vehemiurgo declaró **Jessy Jackson** como canónica.
 - [ ] Nombre real, debut, trayectoria completa en AAA.
 - [ ] Registro completo del tag del 14/2/2026 vs Las Tóxicas.
 - [ ] Finish/duración del match vs La Catalina.

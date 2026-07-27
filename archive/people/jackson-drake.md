@@ -53,7 +53,7 @@ tags: [jackson-drake, vanity-project, blake-monroe, wwe-nxt-2026, the-future-in-
 de match y una segunda Wrestling Entertainment en la misma sesión
 — patrón sostenido de calidad, no un pico aislado.
 
-### Sesión 2026-07-14 s36 — Perfect Match vs Vanity Project (Rayo & Bravo) + discrepancia en vs Tatum/Shyloh
+### Sesión 2026-07-14 s36 — Perfect Match vs Vanity Project (Rayo & Bravo) + discrepancia en vs Tatum/Shilo Hill
 
 **Cita verbatim**:
 
@@ -65,11 +65,11 @@ de match y una segunda Wrestling Entertainment en la misma sesión
 
 **Lectura sintética**: Perfect Match vs Rayo & Bravo, y elogio
 nuevo de "arma peleas de verdad" en el match vs Tatum
-Paxley/Shyloh — aunque ese último match tiene una **discrepancia
+Paxley/Shilo Hill — aunque ese último match tiene una **discrepancia
 de clase sin resolver** (ver nota en el archivo del match). Ver
 [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
 y
-[`../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md).
+[`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md).
 
 ## Pendientes / huecos
 
@@ -81,7 +81,7 @@ y
 - [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
 - [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
-- [`../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md)
+- [`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
 
 ## Cross-links
 

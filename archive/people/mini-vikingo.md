@@ -64,5 +64,5 @@ intensa y booking "bien curado". El selling de ambos descrito como
 
 - [`./hijo-del-vikingo.md`](./hijo-del-vikingo.md) — rival de
   grudge match.
-- [`./dr-wagner-jr.md`](./dr-wagner-jr.md) — interviene en el
+- [`./hijo-de-dr-wagner-jr.md`](./hijo-de-dr-wagner-jr.md) — interviene en el
   cierre del match.

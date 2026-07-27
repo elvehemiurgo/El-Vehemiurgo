@@ -27,9 +27,9 @@ tags: [danhausen, wwe-backlash-2026, gimmick-comico, entertainment-autosuficient
 
 ## Trayectoria condensada
 
-- **9/5/2026 (WWE Backlash)** — con Minihausen vs The Miz & Kip:
+- **9/5/2026 (WWE Backlash)** — con Minihausen vs The Miz & Kit Wilson:
   Perfect Wrestling + Fighting Spirit + Wrestling Entertainment.
-  ([→](../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md)).
+  ([→](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -49,7 +49,7 @@ depende del booking que lo rodea para generar su valor, que es
 ortodoxia carny pura: el talent que se hace over solo. El
 calificativo *"legítimamente brillante"* refuerza que no es un
 elogio de indulgencia hacia lo cómico. Ver
-[`../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md).
+[`../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md).
 
 ## Pendientes / huecos
 
@@ -61,11 +61,11 @@ elogio de indulgencia hacia lo cómico. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md)
+- [`../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md)
 
 ## Cross-links
 
 - [`./minihausen.md`](./minihausen.md) — compañero de equipo,
   extensión del gimmick.
-- [`./the-miz.md`](./the-miz.md) · [`./kip-sabian.md`](./kip-sabian.md)
+- [`./the-miz.md`](./the-miz.md) · [`./kit-wilson.md`](./kit-wilson.md)
   — rivales.

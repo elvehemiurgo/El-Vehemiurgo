@@ -325,7 +325,7 @@ posteriores):
   el mismo talent, sumar ambas filas.
 - **Elio Lefleur**: tres grafías en la fuente (*Lefloire/Leflux/Lefleur*)
   unificadas a *Elio Lefleur* sin fuente canónica confirmada.
-- **Shiloh**: variantes *Shyloh/Shylo/Shiloh* unificadas.
+- **Shiloh**: variantes *Shilo Hill/Shylo/Shiloh* unificadas.
 - **Christian Coalition** cuenta como entidad propia; esas menciones NO
   suman a Christian Cage individual.
 - **Managers/personalidades** (Robert Stone, Jim Cornette, Nick Aldis,

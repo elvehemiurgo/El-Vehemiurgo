@@ -34,9 +34,9 @@ fuentes_principales:
   - **04 abr 2026 — NXT Stand & Deliver**: Tatum Paxley vs Blake
     Monroe (singles).
   - **07 abr 2026 — NXT TV semanal (presunción)**: tag mixto
-    con Jackson Drake vs Shyloh & Tatum Paxley. **Multi-clase
+    con Jackson Drake vs Shilo Hill & Tatum Paxley. **Multi-clase
     Perfect Wrestling + Wrestling Entertainment**. Detalle en
-    [`matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md).
+    [`matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md).
 - **Notebook entries adicionales** (pendientes de procesar):
   - "JAYDA PARKER VS BLAKE MONROE NXT 10.02.2026"
   - "JAYDA PARKER VS BLAKE MONROE NXT Vengeance Day 07.03.2026"
@@ -74,7 +74,7 @@ fuentes_principales:
 
 (Cita en contexto de la asignación de doble clase **Perfect
 Wrestling + Wrestling Entertainment** al match
-[`matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md).)
+[`matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md).)
 
 **Lectura sintética**:
 
@@ -97,7 +97,7 @@ Wrestling + Wrestling Entertainment** al match
   apariciones suyas con asignación canónica de clase:
   - Segmento Blake + Vanity Project NXT 7 abr →
     **Wrestling Entertainment Class** (ejemplo canónico).
-  - Tag con Drake vs Shyloh/Paxley NXT 7 abr →
+  - Tag con Drake vs Shilo Hill/Paxley NXT 7 abr →
     **Perfect Wrestling + Wrestling Entertainment Class**.
 
 **Línea editorial fértil**: pieza específica sobre **Blake Monroe
@@ -143,7 +143,7 @@ segmento (21/4/2026). Ver
 y
 [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md).
 
-### Sesión 2026-07-14 s36 — Perfect Match vs Rayo & Bravo + discrepancia de clase en vs Tatum/Shyloh
+### Sesión 2026-07-14 s36 — Perfect Match vs Rayo & Bravo + discrepancia de clase en vs Tatum/Shilo Hill
 
 **Cita verbatim**:
 
@@ -153,20 +153,20 @@ y
 > — El Vehemiurgo, 2026-07-14 s36 (verbatim)
 
 **Lectura sintética**: segundo Perfect Match del expediente de
-Vanity Project. El match vs Tatum Paxley/Shyloh tiene una
+Vanity Project. El match vs Tatum Paxley/Shilo Hill tiene una
 **discrepancia de clase sin resolver** (PW·WE del 2026-05-10 vs
 FS·WE declarado hoy) — ver nota completa en el archivo del match.
 Ver
 [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
 y
-[`../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md).
+[`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md).
 
 ### Sesión 2026-07-14 s40 — Cierre del feud con Tatum Paxley: "tenía que enseñarle algo"
 
 **Contexto**: video de cierre del feud en WWE NXT (28/4/2026), con
 un momento de Tatum Paxley en la "tumba" de Blake tras recuperar
 el título. Ver
-[`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md).
+[`../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md).
 
 **Cita verbatim**:
 
@@ -189,18 +189,18 @@ Tatum de cara a la doctrina Rosemary — ver
 [`../topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
 Sin clase propia declarada para el video (la clase — Wrestling
 Entertainment — recae sobre el segmento protagonizado por Tatum y
-Shyloh).
+Shilo Hill).
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md)
+- [`matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
   — Multi-clase Perfect Wrestling + Wrestling Entertainment.
 - [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
 - [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)
 - [`segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md`](../segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
   — Wrestling Entertainment Class (ejemplo canónico).
-- [`../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shyloh-rosemary-doctrina-wwe-nxt.md)
+- [`../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md)
   — cierre del feud con Tatum Paxley.
 - (Pendientes: matches y segmentos NXT 2025-2026 del notebook
   [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).)

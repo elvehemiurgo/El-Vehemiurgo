@@ -73,4 +73,4 @@ contundencia física validada.
 
 ## Cross-links
 
-- [`./dr-wagner-jr.md`](./dr-wagner-jr.md) — rival.
+- [`./hijo-de-dr-wagner-jr.md`](./hijo-de-dr-wagner-jr.md) — rival.

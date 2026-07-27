@@ -51,7 +51,7 @@ con cada cambio de estado.
 | 2026-05-13 | Will Ospreay vs Ace Austin | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-ospreay-vs-ace-austin-aew-dynamite.md) |
 | 2026-05-09 | Jacob Fatu vs Roman Reigns (main event) | WWE / Backlash | FS·WE | en-investigacion | 1 | [→](2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md) |
 | 2026-05-09 | Asuka vs Iyo Sky | WWE / Backlash | FS | en-investigacion | 1 | [→](2026-05-09-asuka-vs-iyo-sky-wwe-backlash.md) |
-| 2026-05-09 | The Miz & Kip vs Danhausen & Minihausen | WWE / Backlash | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md) |
+| 2026-05-09 | The Miz & Kit Wilson vs Danhausen & Minihausen | WWE / Backlash | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md) |
 | 2026-05-09 | Sami Zayn vs Trick Williams | WWE / Backlash | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md) |
 | 2026-05-09 | Bron Breakker vs Seth Rollins | WWE / Backlash | — | en-investigacion | 1 | [→](2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash.md) |
 | 2026-05-09 | La Catalina vs Jessy Jackson | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-la-catalina-vs-jessy-jackson-aaa-worldwide.md) |
@@ -118,7 +118,7 @@ con cada cambio de estado.
 | 2026-04-08 | United Empire en acción (showcase) | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-united-empire-showcase-aew-dynamite.md) |
 | 2026-04-07 | Sol Ruca vs Izzi Dame | WWE / NXT (TV semanal) | FS·WE | en-investigacion | 1 | [→](2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |
 | 2026-04-07 | Chazz 'Starboy' Hall vs Lexis King — WWE Speed (1ra ronda) | WWE / NXT (TV semanal) | PW·FS | verificado | 1 | [→](2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md) |
-| 2026-04-07 | Jackson Drake & Blake Monroe vs Shyloh & Tatum Paxley | WWE / NXT (TV semanal) | — | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md) |
+| 2026-04-07 | Jackson Drake & Blake Monroe vs Shilo Hill & Tatum Paxley | WWE / NXT (TV semanal) | — | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md) |
 | 2026-04-07 | Dark State vs Joe Hendry, Ethan Page, Ricky Saints & Tony D'Angelo | WWE / NXT TV (semanal) | — | en-investigacion | 1 | [→](2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md) |
 | 2026-04-06 | LA Knight vs Austin Theory | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-06-la-knight-vs-austin-theory-raw.md) |
 | 2026-04-04 | Rayo & Bravo vs Vanity Project | WWE / NXT Stand & Deliver 2026 [fecha inferida por flujo narrativo, no confirmada] | PW·FS·WE | en-investigacion | 1 | [→](2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md) |
