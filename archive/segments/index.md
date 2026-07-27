@@ -60,11 +60,12 @@ cada alta y con cada cambio de estado.
 | 2026-05-20 | Post-match — MJF (con Kevin Knight) | AEW / Dynamite & Collision | promo (post-match) | — | stub | 1 | [→](2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md) |
 | 2026-05-20 | Apertura — Young Bucks & Chris Jericho | AEW / Dynamite & Collision | promo (apertura de show) | WE | stub | 1 | [→](2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md) |
 | 2026-05-13 | Contract signing — MJF vs Darby Allin | AEW / Dynamite | contract signing | WE | stub | 1 | [→](2026-05-13-mjf-darby-contract-signing-aew-dynamite.md) |
+| 2026-05-09 | Video intro de WWE Backlash 2026 | WWE / Backlash | video de producción (apertura de PPV) | WE | en-investigacion | 1 | [→](2026-05-09-video-intro-wwe-backlash.md) |
 | 2026-05-09 | Post-match — Don Callis & Ricochet | AEW / Collision — Fairway to Hell | promo (post-match) | — | stub | 1 | [→](2026-05-09-don-callis-ricochet-post-match-aew-collision.md) |
 | 2026-05-08 | Trick Williams: entrada de luto con la copa, confrontación con Sami Zayn | WWE / SmackDown | promo / confrontación (heel psychology) | WE | en-investigacion | 1 | [→](2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md) |
 | 2026-05-08 | Fatal Influence interrumpe a las campeonas, entra Irresistible Forces | WWE / SmackDown | promo / confrontación (facciones) | — | en-investigacion | 1 | [→](2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md) |
 | 2026-05-08 | Entrada de Cody, firma de contrato con Gunther, back and forth con Heyman, emboscada | WWE / SmackDown | contract signing + emboscada | WE | en-investigacion | 1 | [→](2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md) |
-| 2026-05-08 | Ricky Saints y Cardona cruzan caminos | WWE / SmackDown | promo (backstage) | WE | en-investigacion | 1 | [→](2026-05-08-ricky-saints-cardona-cruzan-caminos-wwe-smackdown.md) |
+| 2026-05-08 | Ricky Saints y Matt Cardona cruzan caminos | WWE / SmackDown | promo (backstage) | WE | en-investigacion | 1 | [→](2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md) |
 | 2026-05-04 | Firma de contrato: Jacob Fatu vs Roman Reigns | WWE / Raw | contract signing | WE | en-investigacion | 1 | [→](2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md) |
 | 2026-05-04 | Los Americanos se apoderan del show: entradas 3 contra 3 y explicación de cláusulas | WWE / Raw | presentación / entradas (3 vs 3) | PW·FS·WE | en-investigacion | 1 | [→](2026-05-04-los-americanos-3v3-entradas-clausulas-wwe-raw.md) |
 | 2026-05-04 | Promo de Ethan Page desde la rampa | WWE / Raw | promo (desde la rampa) | — | en-investigacion | 1 | [→](2026-05-04-ethan-page-promo-rampa-wwe-raw.md) |

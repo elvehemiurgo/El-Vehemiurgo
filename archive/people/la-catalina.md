@@ -164,7 +164,7 @@ booking con el de Lola Vice. Ver
 formalizada como retadora titular. Ver
 [`../segments/2026-04-25-promo-video-la-catalina-aaa-worldwide.md`](../segments/2026-04-25-promo-video-la-catalina-aaa-worldwide.md).
 
-### Sesión 2026-07-14 s42 — vs Jackson: triple clase, "se dieron con todo"
+### Sesión 2026-07-14 s42 — vs Jessy Jackson: triple clase, "se dieron con todo"
 
 **Cita verbatim**:
 
@@ -178,7 +178,7 @@ formalizada como retadora titular. Ver
 **Lectura sintética**: triple clase con reserva técnica puntual
 (podría recibir strikes de forma más old-school) — segunda pieza
 consecutiva de su expediente de singles en AAA. Ver
-[`../matches/2026-05-09-la-catalina-vs-jackson-aaa-worldwide.md`](../matches/2026-05-09-la-catalina-vs-jackson-aaa-worldwide.md).
+[`../matches/2026-05-09-la-catalina-vs-jessy-jackson-aaa-worldwide.md`](../matches/2026-05-09-la-catalina-vs-jessy-jackson-aaa-worldwide.md).
 
 ## Piezas relacionadas
 

@@ -1,7 +1,7 @@
 ---
-match: "La Catalina vs Jackson"
-slug: "2026-05-09-la-catalina-vs-jackson-aaa-worldwide"
-participantes: ["La Catalina", "Jackson"]
+match: "La Catalina vs Jessy Jackson"
+slug: "2026-05-09-la-catalina-vs-jessy-jackson-aaa-worldwide"
+participantes: ["La Catalina", "Jessy Jackson"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-09
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — AAA Worldwide, 9/5/2026)"
-tags: [la-catalina, jackson, aaa-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, reserva-oldschool-strikes, selling]
+tags: [la-catalina, jessy-jackson, aaa-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, reserva-oldschool-strikes, selling]
 ---
 
-# La Catalina vs Jackson — AAA Worldwide (9 may 2026)
+# La Catalina vs Jessy Jackson — AAA Worldwide (9 may 2026)
 
 > **Perfect Wrestling + Fighting Spirit + Wrestling Entertainment**
 > (*"tambien se merece todas las clases"*), con reserva técnica
@@ -49,14 +49,16 @@ tags: [la-catalina, jackson, aaa-2026, singles, perfect-wrestling, fighting-spir
 3. **Veredicto de cierre**: "wrestling de calidad" — validación
    final pese a la reserva.
 4. Ver [`../people/la-catalina.md`](../people/la-catalina.md),
-   [`../people/jackson.md`](../people/jackson.md).
+   [`../people/jessy-jackson.md`](../people/jessy-jackson.md).
 
 ## Pendientes
 
-- [ ] Confirmar identidad exacta de "Jackson" — [verif].
+- [x] ~~Confirmar identidad exacta de "Jackson"~~ → **RESUELTO
+      (s43)**: es **Jessy Jackson / Jessica Jackson**, luchadora de
+      AAA. Pendiente solo ratificar la grafía canónica.
 - [ ] Finish/duración/ciudad/recinto.
 
 ## Cross-links
 
 - [`../people/la-catalina.md`](../people/la-catalina.md) ·
-  [`../people/jackson.md`](../people/jackson.md)
+  [`../people/jessy-jackson.md`](../people/jessy-jackson.md)

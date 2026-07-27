@@ -27,6 +27,7 @@
 | Candice LeRae | Candace Lerae, Candace LeRae |
 | Rick Rude | Rick Roode |
 | Darby Allin | Darby Allen |
+| Lil Yachty | Mya Yatty |
 
 ## Atención — contexto-dependientes (no linteados)
 
@@ -38,6 +39,10 @@
 | **Kira (CMLL) / Kira Summer (TJPW) / Keyra (AAA-CMLL)** | Tres talents distintos. Desambiguación en `archive/people/kira.md` y `keyra.md`. |
 | **Myla Grace / Mila Moore** | Dos talents distintas (TNA Knockouts). No unificar. |
 | **Bear Bronson / Bear Boulder** | Distintos (ex-Bear Country ambos). |
+| **Jessy Jackson / Jessica Jackson** | Misma luchadora de AAA. El archivo venía usando *Jessy Jackson* (lista personal 14/2/2026 + vistas derivadas); el Vehemiurgo dictó *Jessica Jackson* en s43. Slug `jessy-jackson`. **Grafía canónica pendiente de ratificación** — no linteado hasta que se resuelva. **No confundir con Jackson Drake** (WWE NXT, Vanity Project). |
+| **Lil Yachty** | Rapero, **no luchador** — acompañante on-screen de Trick Williams. Se archiva en `people/` por función narrativa, no como talent. El Vehemiurgo lo dicta *"Yatty"*; se registró por error como *"Mya Yatty"* (corregido s43). |
+| **Matt Cardona** | Canónico completo. *"Cardona"* a secas es **segunda mención legítima** en prosa, no variante prohibida — lo que estaba mal era la ficha suelta `cardona.md` (corregida s43). |
+| **Cruz Del Toro** | Canónico completo (ex-LWO / Legado del Fantasma, hoy AAA). El Vehemiurgo lo dicta *"del Toro"* / *"El Toro"*. *"Del Toro"* a secas es segunda mención legítima; lo que estaba mal era la ficha suelta `el-toro.md` (corregida s43). |
 
 ## Cómo se agrega una entrada
 

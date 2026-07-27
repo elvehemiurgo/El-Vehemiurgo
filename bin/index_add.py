@@ -5,6 +5,11 @@ frontmatter del archivo — nunca editar la tabla a mano.
 
 Uso:
   python3 bin/index_add.py archive/matches/2026-XX-XX-slug.md [más archivos...]
+
+Renames: tras un `git mv`, retirar la fila vieja (el archivo ya no
+existe) y sumar la nueva:
+  python3 bin/index_add.py --rm archive/matches/slug-viejo.md
+  python3 bin/index_add.py archive/matches/slug-nuevo.md
 """
 import re, sys
 from pathlib import Path
@@ -63,11 +68,29 @@ def insert(index_path, fecha, row, fname):
     return "insertada"
 
 
-for arg in sys.argv[1:]:
+def remove(index_path, fname):
+    lines = index_path.read_text().split("\n")
+    keep = [ln for ln in lines if f"({fname})" not in ln]
+    if len(keep) == len(lines):
+        return "sin fila"
+    index_path.write_text("\n".join(keep))
+    return "retirada"
+
+
+args = sys.argv[1:]
+rm_mode = args and args[0] == "--rm"
+if rm_mode:
+    args = args[1:]
+
+for arg in args:
     p = (ROOT / arg).resolve() if not Path(arg).is_absolute() else Path(arg)
+    index = p.parent / "index.md"
+    if rm_mode:
+        result = remove(index, p.name)
+        print(f"{result}: {p.name} <- {index.relative_to(ROOT)}")
+        continue
     if not p.exists():
         sys.exit(f"no existe: {arg}")
-    index = p.parent / "index.md"
     fecha, row = build_row(p)
     result = insert(index, fecha, row, p.name)
     print(f"{result}: {p.name} -> {index.relative_to(ROOT)}")

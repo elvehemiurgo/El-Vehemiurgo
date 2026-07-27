@@ -1,7 +1,7 @@
 ---
-match: "El Toro vs Octagón Jr. vs Lince"
-slug: "2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide"
-participantes: ["El Toro", "Octagón Jr.", "Lince Dorado"]
+match: "Cruz Del Toro vs Octagón Jr. vs Lince"
+slug: "2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide"
+participantes: ["Cruz Del Toro", "Octagón Jr.", "Lince Dorado"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-09
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — AAA Worldwide, 9/5/2026)"
-tags: [el-toro, octagon-jr, lince-dorado, aaa-2026, triple-threat, fighting-spirit]
+tags: [cruz-del-toro, lwo-ex, octagon-jr, lince-dorado, aaa-2026, triple-threat, fighting-spirit]
 ---
 
-# El Toro vs Octagón Jr. vs Lince — AAA Worldwide (9 may 2026)
+# Cruz Del Toro vs Octagón Jr. vs Lince — AAA Worldwide (9 may 2026)
 
 > **Fighting Spirit** (*"se merece el fighting spirit, son muy
 > pros, tremenda lucha"*).
@@ -38,7 +38,7 @@ tags: [el-toro, octagon-jr, lince-dorado, aaa-2026, triple-threat, fighting-spir
 
 **Lectura sintética**: veredicto directo de oficio triple threat,
 sin desarrollo extenso — "muy pros" resume el elogio. Ver
-[`../people/el-toro.md`](../people/el-toro.md),
+[`../people/cruz-del-toro.md`](../people/cruz-del-toro.md),
 [`../people/octagon-jr.md`](../people/octagon-jr.md),
 [`../people/lince-dorado.md`](../people/lince-dorado.md).
 
@@ -49,6 +49,6 @@ sin desarrollo extenso — "muy pros" resume el elogio. Ver
 
 ## Cross-links
 
-- [`../people/el-toro.md`](../people/el-toro.md) ·
+- [`../people/cruz-del-toro.md`](../people/cruz-del-toro.md) ·
   [`../people/octagon-jr.md`](../people/octagon-jr.md) ·
   [`../people/lince-dorado.md`](../people/lince-dorado.md)

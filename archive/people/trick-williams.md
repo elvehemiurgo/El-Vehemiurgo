@@ -93,6 +93,28 @@ consolidando la lectura de "must see" y comparaciones de carisma
 Ver
 [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s43 — Backlash: la inversión de la ventaja del veterano
+
+**Cita verbatim**:
+
+> *"la psicología de Trick funcionó yt Sami está super emocional,
+> lo que hacer que Trick domine al principio y tenga el control,
+> mientras que Sami el veterano es el que tiene que hacer comebacks
+> y reaccionar, una completa inversión de la ventaja del veterano,
+> buen plan del heel Trick y buena ejecución, esto es técnica, esto
+> es wrestling bien pensado [...] se merece todas las clases."*
+>
+> — El Vehemiurgo, 2026-07-14 s43 (verbatim)
+
+**Lectura sintética**: **Perfect Match — las tres clases**, y la
+pieza doctrinal mayor del expediente de Trick. Su trabajo de heel
+no solo funciona: **invierte la jerarquía habitual del match**,
+dejando al veterano Sami Zayn en el rol de reaccionar mientras
+Trick controla. El Vehemiurgo lo declara *"técnica"* y *"wrestling
+bien pensado"* — el elogio de oficio más alto que le ha dado.
+Cuarta clase consecutiva en tres shows. Ver
+[`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main
@@ -102,10 +124,13 @@ Ver
 - [ ] Contenido exacto de todos los segmentos + duración.
 - [ ] Naturaleza exacta del "gingerbread man" — ángulo/gimmick a
       documentar.
-- [ ] Confirmar identidad de "Yatty" — [verif].
+- [x] ~~Confirmar identidad del acompañante que el Vehemiurgo dicta
+      como "Yatty"~~ → **RESUELTO (s43)**: es
+      **Lil Yachty**, el rapero que lo acompaña.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md)
 - [`../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md)
 - [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md)
+- [`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md)

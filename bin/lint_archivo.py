@@ -130,7 +130,14 @@ def check_names():
                     continue  # quotes verbatim exentos
                 lnn = norm(ln)
                 for v, canon in variants:
-                    if re.search(rf"\b{re.escape(norm(v))}\b", lnn):
+                    # El canónico en la misma línea desactiva el chequeo:
+                    # cubre variantes que son subcadena del canónico
+                    # ("Cardona" en "Matt Cardona") y las glosas legítimas
+                    # que declaran la equivalencia en la propia ficha.
+                    # guiones a espacios para que los slugs cuenten
+                    # como el canónico (matt-cardona.md == Matt Cardona)
+                    resto = re.sub(r"[-_]", " ", lnn).replace(norm(canon), " ")
+                    if re.search(rf"\b{re.escape(norm(v))}\b", resto):
                         warnings.append(f"W2 {f.relative_to(ROOT)}:{i} variante \"{v}\" (canónico: {canon})")
 
 

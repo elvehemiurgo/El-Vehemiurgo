@@ -153,6 +153,25 @@ con sentimiento real. Ver
 enganche personal. Ver
 [`../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md`](../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md).
 
+### Sesión 2026-07-14 s43 — Main event de Backlash vs Jacob Fatu
+
+**Cita verbatim**:
+
+> *"el main event con Jacob y Roman estuvo cool [...] los pusieron
+> como primos en el canon [sic], u el lado rebelde del linaje de
+> Jacob es muy fuerte [...] muy emocionante la lucha con spots
+> poderosos [...] Realmente se sintieron los near falls, lograron
+> algo de calidad. Se merece el fighting spirit y enterteinment
+> class."*
+>
+> — El Vehemiurgo, 2026-07-14 s43 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment —
+Reigns como la mitad institucional del conflicto de sangre, con el
+parentesco con Fatu establecido on-screen. Near falls que "se
+sintieron" de verdad. Ver
+[`../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md`](../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md).
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

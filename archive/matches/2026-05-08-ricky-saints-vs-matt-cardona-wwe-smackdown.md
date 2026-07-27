@@ -1,7 +1,7 @@
 ---
-match: "Ricky Saints vs Cardona"
-slug: "2026-05-08-ricky-saints-vs-cardona-wwe-smackdown"
-participantes: ["Ricky Saints", "Cardona"]
+match: "Ricky Saints vs Matt Cardona"
+slug: "2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown"
+participantes: ["Ricky Saints", "Matt Cardona"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-08
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
-tags: [ricky-saints, cardona, wwe-smackdown-2026, singles, fighting-spirit, desarrollo-cuidado]
+tags: [ricky-saints, matt-cardona, wwe-smackdown-2026, singles, fighting-spirit, desarrollo-cuidado]
 ---
 
-# Ricky Saints vs Cardona — WWE SmackDown (8 may 2026)
+# Ricky Saints vs Matt Cardona — WWE SmackDown (8 may 2026)
 
 > **Fighting Spirit** (*"se merece un fighting spirit"*). *"Muy
 > cuidado Ricky hasta ahora, lo están armando muy bien"*.
@@ -44,7 +44,7 @@ ver
 el Vehemiurgo confirma que la oficina lo está "armando muy bien",
 cuidando su desarrollo con el tiempo. Ver
 [`../people/ricky-saints.md`](../people/ricky-saints.md),
-[`../people/cardona.md`](../people/cardona.md).
+[`../people/matt-cardona.md`](../people/matt-cardona.md).
 
 ## Pendientes
 
@@ -53,5 +53,5 @@ cuidando su desarrollo con el tiempo. Ver
 ## Cross-links
 
 - [`../people/ricky-saints.md`](../people/ricky-saints.md) ·
-  [`../people/cardona.md`](../people/cardona.md) ·
-  [`../segments/2026-05-08-ricky-saints-cardona-cruzan-caminos-wwe-smackdown.md`](../segments/2026-05-08-ricky-saints-cardona-cruzan-caminos-wwe-smackdown.md)
+  [`../people/matt-cardona.md`](../people/matt-cardona.md) ·
+  [`../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md`](../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md)

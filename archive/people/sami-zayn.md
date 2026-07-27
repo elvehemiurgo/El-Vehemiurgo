@@ -51,6 +51,28 @@ contraparte perfecta del trabajo heel de Trick Williams, que logra
 volverlo personal y hacerlo perder la compostura. Ver
 [`./trick-williams.md`](./trick-williams.md).
 
+### Sesión 2026-07-14 s43 — Backlash: el veterano despojado de su ventaja
+
+**Cita verbatim**:
+
+> *"la psicología de Trick funcionó yt Sami está super emocional,
+> lo que hacer que Trick domine al principio y tenga el control,
+> mientras que Sami el veterano es el que tiene que hacer comebacks
+> y reaccionar, una completa inversión de la ventaja del veterano
+> [...] esto es técnica, esto es wrestling bien pensado [...] se
+> merece todas las clases."*
+>
+> — El Vehemiurgo, 2026-07-14 s43 (verbatim)
+
+**Lectura sintética**: **Perfect Match — las tres clases**. Sami
+queda del lado corto de la doctrina: el trabajo de heel de Trick lo
+vuelve *"super emocional"*, y un veterano emocional pierde
+precisamente el control que lo define. Su rol pasa a ser el de
+reaccionar y hacer comebacks — inversión completa del reparto
+clásico, y el motivo por el que el match recibe la nota máxima.
+Ver
+[`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,
@@ -60,6 +82,7 @@ volverlo personal y hacerlo perder la compostura. Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md)
+- [`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md)
 
 ## Cross-links
 

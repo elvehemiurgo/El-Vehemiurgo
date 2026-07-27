@@ -155,7 +155,7 @@ técnica sobre fundamentos (irish whips, posicionamiento). Ver
 y
 [`../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md).
 
-### Sesión 2026-07-14 s42 — Cruce con Cardona y match: "lo están armando muy bien"
+### Sesión 2026-07-14 s42 — Cruce con Matt Cardona y match: "lo están armando muy bien"
 
 **Cita verbatim** (segmento):
 
@@ -175,9 +175,9 @@ y
 **Lectura sintética**: Wrestling Entertainment en el segmento
 backstage, Fighting Spirit en el match — confirmación de que la
 oficina está desarrollando a Ricky con cuidado desde su debut. Ver
-[`../segments/2026-05-08-ricky-saints-cardona-cruzan-caminos-wwe-smackdown.md`](../segments/2026-05-08-ricky-saints-cardona-cruzan-caminos-wwe-smackdown.md)
+[`../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md`](../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md)
 y
-[`../matches/2026-05-08-ricky-saints-vs-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-cardona-wwe-smackdown.md).
+[`../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md).
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -185,7 +185,7 @@ y
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
 - [`../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md`](../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md)
 - [`../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md)
-- [`../segments/2026-05-08-ricky-saints-cardona-cruzan-caminos-wwe-smackdown.md`](../segments/2026-05-08-ricky-saints-cardona-cruzan-caminos-wwe-smackdown.md)
-- [`../matches/2026-05-08-ricky-saints-vs-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-cardona-wwe-smackdown.md)
+- [`../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md`](../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md)
+- [`../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md)
 - (Pendiente: matches y segmentos NXT 2025-2026 + main roster
   post-WM42.)

@@ -44,7 +44,7 @@ tags: [lince, aaa, perfect-wrestling, fighting-spirit, wrestling-entertainment, 
 **Lectura sintética**: primer registro individual, sin
 protagonismo singularizado más allá del elogio de conjunto.
 
-### Sesión 2026-07-14 s42 — Triple threat vs El Toro y Octagón Jr.: Fighting Spirit
+### Sesión 2026-07-14 s42 — Triple threat vs Cruz Del Toro y Octagón Jr.: Fighting Spirit
 
 **Cita verbatim**:
 
@@ -55,7 +55,7 @@ protagonismo singularizado más allá del elogio de conjunto.
 
 **Lectura sintética**: Fighting Spirit, sin protagonismo
 singularizado más allá del elogio de conjunto. Ver
-[`../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md).
+[`../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md).
 
 ## Pendientes / huecos
 
@@ -66,7 +66,7 @@ singularizado más allá del elogio de conjunto. Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-18-zima-ion-vs-lince-vs-aerostar-aaa-worldwide.md`](../matches/2026-04-18-zima-ion-vs-lince-vs-aerostar-aaa-worldwide.md)
-- [`../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md)
+- [`../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md)
 
 ## Cross-links
 

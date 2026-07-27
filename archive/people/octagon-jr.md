@@ -46,7 +46,7 @@ editorial de la sesión recae en El Grande Americano/Chad Gable, no
 en Octagón Jr. individualmente. Ver
 [`./el-grande-americano.md`](./el-grande-americano.md).
 
-### Sesión 2026-07-14 s42 — Triple threat vs El Toro y Lince: Fighting Spirit
+### Sesión 2026-07-14 s42 — Triple threat vs Cruz Del Toro y Lince: Fighting Spirit
 
 **Cita verbatim**:
 
@@ -57,7 +57,7 @@ en Octagón Jr. individualmente. Ver
 
 **Lectura sintética**: Fighting Spirit, sin protagonismo
 singularizado. Ver
-[`../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md).
+[`../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md).
 
 ## Pendientes / huecos
 
@@ -67,7 +67,7 @@ singularizado. Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md`](../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md)
-- [`../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md)
+- [`../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md)
 
 ## Cross-links
 

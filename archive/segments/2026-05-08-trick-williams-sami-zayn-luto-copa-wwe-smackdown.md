@@ -2,7 +2,7 @@
 segmento: "Trick Williams: entrada de luto con la copa, confrontación con Sami Zayn"
 slug: "2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown"
 tipo_segmento: "promo / confrontación (heel psychology)"
-protagonistas: ["Trick Williams", "Sami Zayn"]
+protagonistas: ["Trick Williams", "Sami Zayn", "Lil Yachty"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-08
@@ -11,7 +11,7 @@ recinto: "[verif]"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
-gimmick_momento: "Continuación absurda del chiste del gingerbread man; entrada de luto de Trick con la copa; Trick vuelve la rivalidad personal para Sami; regreso de 'Yatty' [verif]"
+gimmick_momento: "Continuación absurda del chiste del gingerbread man; entrada de luto de Trick con la copa; Trick vuelve la rivalidad personal para Sami; regreso de Lil Yachty"
 storyline: "Escalada heel Trick Williams vs face Sami Zayn"
 attendance_anunciada: "[verif]"
 veces_visto_vehemiurgo: 1
@@ -21,7 +21,7 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
-tags: [trick-williams, sami-zayn, mya-yatty, wwe-smackdown-2026, wrestling-entertainment, gingerbread-man, luto, stone-cold-carisma, mjf-comparison, heel-psychology, must-see]
+tags: [trick-williams, sami-zayn, lil-yachty, wwe-smackdown-2026, wrestling-entertainment, gingerbread-man, luto, stone-cold-carisma, mjf-comparison, heel-psychology, must-see]
 ---
 
 # Trick Williams: entrada de luto con la copa, confrontación con Sami Zayn — WWE SmackDown (8 may 2026)
@@ -68,21 +68,25 @@ tags: [trick-williams, sami-zayn, mya-yatty, wwe-smackdown-2026, wrestling-enter
 6. **Psicología de heel "top tier"**: Trick logra que Sami pierda
    la compostura, volviéndolo personal — Sami siente que tiene que
    "probarle algo".
-7. **Regreso de "Yatty" ["de la muerte"]**: [verif identidad
-   exacta], integrado al segmento.
+7. **Regreso de Lil Yachty ("Yatty" en el dictado) "de la muerte"**: es el
+   rapero que acompaña a Trick Williams — identidad confirmada por
+   el Vehemiurgo en s43. No es talent de roster: es una celebridad
+   integrada al acto.
 8. Ver
    [`../people/trick-williams.md`](../people/trick-williams.md),
    [`../people/sami-zayn.md`](../people/sami-zayn.md),
-   [`../people/mya-yatty.md`](../people/mya-yatty.md).
+   [`../people/lil-yachty.md`](../people/lil-yachty.md).
 
 ## Pendientes
 
-- [ ] Confirmar identidad exacta de "Yatty" — [verif].
+- [x] ~~Confirmar identidad del acompañante que el Vehemiurgo dicta
+      como "Yatty"~~ → **RESUELTO (s43)**: es
+      **Lil Yachty**, el rapero que acompaña a Trick Williams.
 - [ ] Contenido exacto del segmento + duración.
 
 ## Cross-links
 
 - [`../people/trick-williams.md`](../people/trick-williams.md) ·
   [`../people/sami-zayn.md`](../people/sami-zayn.md) ·
-  [`../people/mya-yatty.md`](../people/mya-yatty.md) ·
+  [`../people/lil-yachty.md`](../people/lil-yachty.md) ·
   [`../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md)

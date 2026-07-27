@@ -184,6 +184,29 @@ enganche personal — lectura de intención de booking mayor para
 Jacob. Ver
 [`../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md`](../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md).
 
+### Sesión 2026-07-14 s43 — Main event de Backlash: el Tongan Death Grip y el lado rebelde del linaje
+
+**Cita verbatim**:
+
+> *"me gusta como añadieron el Tongan death grip para más
+> profundidad a Jacob, los pusieron como primos en el canon [sic],
+> u el lado rebelde del linaje de Jacob es muy fuerte y se regleja
+> en todo lo que hace y en todo su booking, muy emocionante la
+> lucha con spots poderosos, Jacob está rindiendo muy bien.
+> Realmente se sintieron los near falls, lograron algo de calidad.
+> Se merece el fighting spirit y enterteinment class."*
+>
+> — El Vehemiurgo, 2026-07-14 s43 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment.
+Tres piezas de expediente en una: el **Tongan Death Grip** sumado
+como cita a la tradición familiar dentro del kayfabe, el
+**parentesco con Roman Reigns establecido on-screen**, y sobre
+todo el **"lado rebelde del linaje"** identificado como la clave
+que explica *todo* su booking — el heredero indisciplinado dentro
+de una familia que rinde culto a la jerarquía. Ver
+[`../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md`](../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología MLW completa con fechas de title runs.
@@ -197,6 +220,7 @@ Jacob. Ver
 ## Piezas relacionadas
 
 - [`../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md`](../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md)
+- [`../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md`](../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md)
 - [`solo-sikoa.md`](./solo-sikoa.md) — líder MFTs, oponente
   interno.
 - [`tama-tonga.md`](./tama-tonga.md) — co-miembro MFTs.

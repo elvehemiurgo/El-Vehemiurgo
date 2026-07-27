@@ -1,8 +1,8 @@
 ---
-segmento: "Ricky Saints y Cardona cruzan caminos"
-slug: "2026-05-08-ricky-saints-cardona-cruzan-caminos-wwe-smackdown"
+segmento: "Ricky Saints y Matt Cardona cruzan caminos"
+slug: "2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown"
 tipo_segmento: "promo (backstage)"
-protagonistas: ["Ricky Saints", "Cardona"]
+protagonistas: ["Ricky Saints", "Matt Cardona"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-08
@@ -11,7 +11,7 @@ recinto: "[verif]"
 ubicacion_en_show: "backstage"
 duracion: "[verif]"
 linea_textual: "[verif]"
-gimmick_momento: "Ricky Saints y Cardona cruzan caminos backstage"
+gimmick_momento: "Ricky Saints y Matt Cardona cruzan caminos backstage"
 storyline: "Build hacia el match de singles del mismo show"
 attendance_anunciada: "[verif]"
 veces_visto_vehemiurgo: 1
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
-tags: [ricky-saints, cardona, wwe-smackdown-2026, wrestling-entertainment, backstage, build]
+tags: [ricky-saints, matt-cardona, wwe-smackdown-2026, wrestling-entertainment, backstage, build]
 ---
 
-# Ricky Saints y Cardona cruzan caminos — WWE SmackDown (8 may 2026)
+# Ricky Saints y Matt Cardona cruzan caminos — WWE SmackDown (8 may 2026)
 
 > **Wrestling Entertainment** (*"se merece un enterteinment class
 > este segmento backstage"*).
@@ -40,8 +40,8 @@ tags: [ricky-saints, cardona, wwe-smackdown-2026, wrestling-entertainment, backs
 ambos lados, build directo hacia el match de singles registrado el
 mismo show. Ver
 [`../people/ricky-saints.md`](../people/ricky-saints.md),
-[`../people/cardona.md`](../people/cardona.md), y
-[`../matches/2026-05-08-ricky-saints-vs-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-cardona-wwe-smackdown.md).
+[`../people/matt-cardona.md`](../people/matt-cardona.md), y
+[`../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md).
 
 ## Pendientes
 
@@ -50,5 +50,5 @@ mismo show. Ver
 ## Cross-links
 
 - [`../people/ricky-saints.md`](../people/ricky-saints.md) ·
-  [`../people/cardona.md`](../people/cardona.md) ·
-  [`../matches/2026-05-08-ricky-saints-vs-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-cardona-wwe-smackdown.md)
+  [`../people/matt-cardona.md`](../people/matt-cardona.md) ·
+  [`../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md)

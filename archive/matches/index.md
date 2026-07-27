@@ -49,14 +49,18 @@ con cada cambio de estado.
 | 2026-05-20 | Opener 3 contra 3 [verif participantes] | AEW / Dynamite & Collision | FS | stub | 1 | [→](2026-05-20-opener-3-contra-3-aew-dynamite-collision.md) |
 | 2026-05-13 | Darby Allin vs Konosuke Takeshita — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md) |
 | 2026-05-13 | Will Ospreay vs Ace Austin | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-ospreay-vs-ace-austin-aew-dynamite.md) |
+| 2026-05-09 | Jacob Fatu vs Roman Reigns (main event) | WWE / Backlash | FS·WE | en-investigacion | 1 | [→](2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md) |
+| 2026-05-09 | Asuka vs Iyo Sky | WWE / Backlash | FS | en-investigacion | 1 | [→](2026-05-09-asuka-vs-iyo-sky-wwe-backlash.md) |
+| 2026-05-09 | The Miz & Kip vs Danhausen & Minihausen | WWE / Backlash | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-miz-kip-vs-danhausen-minihausen-wwe-backlash.md) |
+| 2026-05-09 | Sami Zayn vs Trick Williams | WWE / Backlash | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md) |
 | 2026-05-09 | Bron Breakker vs Seth Rollins | WWE / Backlash | — | en-investigacion | 1 | [→](2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash.md) |
-| 2026-05-09 | La Catalina vs Jackson | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-la-catalina-vs-jackson-aaa-worldwide.md) |
-| 2026-05-09 | El Toro vs Octagón Jr. vs Lince | AAA / Worldwide | FS | en-investigacion | 1 | [→](2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md) |
+| 2026-05-09 | La Catalina vs Jessy Jackson | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-la-catalina-vs-jessy-jackson-aaa-worldwide.md) |
+| 2026-05-09 | Cruz Del Toro vs Octagón Jr. vs Lince | AAA / Worldwide | FS | en-investigacion | 1 | [→](2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md) |
 | 2026-05-09 | Darby Allin vs PAC — main event | AEW / Collision — Fairway to Hell | PW·FS·WE | stub | 1 | [→](2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md) |
 | 2026-05-09 | Mark Davis vs Jack Perry — coronación [verif título] | AEW / Collision — Fairway to Hell | PW·FS·WE | stub | 1 | [→](2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md) |
 | 2026-05-08 | Fatal Influence vs Irresistible Forces (3 vs 3) | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md) |
 | 2026-05-08 | Kiana James vs Tiffany Stratton | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md) |
-| 2026-05-08 | Ricky Saints vs Cardona | WWE / SmackDown | FS | en-investigacion | 1 | [→](2026-05-08-ricky-saints-vs-cardona-wwe-smackdown.md) |
+| 2026-05-08 | Ricky Saints vs Matt Cardona | WWE / SmackDown | FS | en-investigacion | 1 | [→](2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md) |
 | 2026-05-04 | JD McDonagh vs Finn Bálor (rematch, con interferencia de Judgment Day) | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md) |
 | 2026-05-02 | Rey Fénix vs Laredo | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md) |
 | 2026-05-02 | Hijo del Vikingo vs Mini Vikingo | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md) |
