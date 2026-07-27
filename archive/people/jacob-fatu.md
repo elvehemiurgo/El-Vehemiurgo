@@ -102,6 +102,28 @@ sección 12 (clarificación posterior sobre los MFTs).
 Tama: *"Los MFTs como caso de stable que se autoconsume
 narrativamente"*.)
 
+### Sesión 2026-07-14 s38 — WrestleMania 42: gimmick logrado, promos insuficientes
+
+**Cita verbatim**:
+
+> *"Fatu no pudo estar al nivel del feudo, su papel y sus promos
+> no alcanzaron la epicidad que podría con Drew, como lo que hizo
+> Punk con él [...] fue un run duro para Fatu y ahora seguro lo
+> van a presionar más, tiene que meterle más a las promos, porque
+> el gimmick ya lo tiene y lo está viviendo, solo tiene que ser
+> cool en las promos para ser main eventer, como Roman, Drew,
+> Punk, Cody, tiene que competir con ellos, ahi debe apuntar"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el match vs
+McIntyre, pero con la crítica de desarrollo más dura y específica
+registrada hasta ahora — el gimmick monster heel está logrado, la
+carencia es exclusivamente de mic. Comparación directa
+desfavorable con lo que CM Punk logró con el mismo rival (Drew
+McIntyre). Ver
+[`../matches/2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md`](../matches/2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología MLW completa con fechas de title runs.

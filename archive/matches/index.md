@@ -57,16 +57,20 @@ con cada cambio de estado.
 | 2026-04-22 | Darby Allin (c) vs Tomasso [sic — presumido Tomohiro Ishii] — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md) |
 | 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |
 | 2026-04-21 | EK vs Lexis King | WWE / NXT Revenge — Week 2 | FS | en-investigacion | 1 | [→](2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md) |
+| 2026-04-19 | Dominik Mysterio vs Finn Bálor (The Demon) | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md) |
 | 2026-04-19 | Rhea Ripley vs Jade Cargill | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-rhea-ripley-vs-jade-cargill-wrestlemania-42.md) |
-| 2026-04-19 | CM Punk vs Roman Reigns | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) |
-| 2026-04-19 | Brock Lesnar vs Oba Femi | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md) |
+| 2026-04-19 | CM Punk vs Roman Reigns | WWE / WrestleMania 42 Día 2 | PW·FS·WE | en-investigacion | 1 | [→](2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) |
+| 2026-04-19 | Brock Lesnar vs Oba Femi | WWE / WrestleMania 42 Día 2 | FS·WE | en-investigacion | 1 | [→](2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md) |
+| 2026-04-18 | Dinámico & La Hiedra vs Mr. Iguana & Lola | AAA / AAA Worldwide | WE | en-investigacion | 1 | [→](2026-04-18-dinamico-hiedra-vs-iguana-lola-aaa-worldwide.md) |
+| 2026-04-18 | Zima Ion vs Lince vs Aerostar | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-04-18-zima-ion-vs-lince-vs-aerostar-aaa-worldwide.md) |
 | 2026-04-18 | Liv Morgan vs Stephanie Vaquer | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md) |
-| 2026-04-18 | Jacob Fatu vs Drew McIntyre | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md) |
+| 2026-04-18 | Jacob Fatu vs Drew McIntyre | WWE / WrestleMania 42 Día 1 | WE | en-investigacion | 1 | [→](2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md) |
 | 2026-04-18 | Cody Rhodes vs Randy Orton | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md) |
+| 2026-04-17 | Jordynne Grace vs Tiffany Stratton | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-04-15 | Will Ospreay vs Hechicero | AEW / Spring BreakThru | PW·FS·WE | stub | 1 | [→](2026-04-15-ospreay-vs-hechicero-aew-spring-breakthru.md) |
 | 2026-04-14 | Jayda vs Kelani Jordan | WWE / NXT Revenge — Week 1 | FS·WE | en-investigacion | 1 | [→](2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md) |
 | 2026-04-14 | Kali Armstrong vs Skylar Rae | WWE / NXT Revenge — Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-kali-armstrong-vs-skylar-rae-nxt-revenge-week-1.md) |
-| 2026-04-14 | Jacy Jayne vs Lola Vice | WWE NXT / NXT Revenge Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md) |
+| 2026-04-14 | Jacy Jayne vs Lola Vice | WWE NXT / NXT Revenge Week 1 | FS·WE | en-investigacion | 1 | [→](2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md) |
 | 2026-04-14 | Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance | WWE NXT / NXT Revenge Week 1 | — | en-investigacion | 1 | [→](2026-04-14-dorian-van-dux-loss-nxt-revenge-week-1.md) |
 | 2026-04-13 | JD McDonagh & Rusev vs Dragon Lee & Jevon Evans | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-13-jd-mcdonagh-rusev-vs-dragon-lee-jevon-evans-raw.md) |
 | 2026-04-12 | Young Bucks vs Okada & Takeshita | AEW / Dynasty 2026 (PPV) | PW·FS·WE | stub | 1 | [→](2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md) |

@@ -157,8 +157,20 @@ Judgment Day como vehículo.)
 Vaquer. Ver
 [`../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md).
 
+### Sesión 2026-07-14 s38 — WrestleMania 42: "una de las mejores del mundo"
+
+**Cita verbatim**:
+
+> *"Liv ha evolucionado mucho es una de las mejores en el mundo
+> [...] esta si fue una grudge match, si estuvo stiff"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: sin clase declarada pero elogio de estatus
+mayor. Ver
+[`../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md`](../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
-- (Pendiente: match Liv vs Vaquer Mania 42 + matches del feud actual
-  con Sol Ruca.)
+- [`../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md`](../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md)
 - [`../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md)

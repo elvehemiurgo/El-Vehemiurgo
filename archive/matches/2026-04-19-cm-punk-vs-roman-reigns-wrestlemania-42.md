@@ -22,10 +22,10 @@ rating_tv: ""
 buy_rate: ""
 encuentros_previos: "[verif] — segunda etapa del feud post-2024"
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: ""
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Perfect Match — 'muy buena lucha se merece todas las clases', con reserva puntual sobre el intercambio de golpes final"
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WrestleMania 42 cluster"
 tags: [wrestlemania-42, wm42-day-2, cm-punk, roman-reigns, real-wrestlers-vs-play-wrestlers, main-event, takeover-period, takeover-arc]
@@ -79,27 +79,60 @@ tags: [wrestlemania-42, wm42-day-2, cm-punk, roman-reigns, real-wrestlers-vs-pla
 
 ## Lectura del Vehemiurgo
 
-(Pendiente verbatim del match per se. **Build verbatim
-preservado en archivos previos**:)
+### Sesión 2026-07-14 s38 — Perfect Match: "Punk hace historia cumpliendo la profecía"
 
-> *"the old CM Punk, kind of heelish CM Punk, but really over
-> and really great promo, promo of the year"* (6 abr opening
-> promo, verbatim Vehemiurgo)
+**Cita verbatim**:
 
-> *"this whole CM Punk and Cody vs TKO story of real wrestlers
-> and play wrestlers, is great"* (10 abr Cody promo, verbatim
-> Vehemiurgo)
+> *"en el main event Punk hace historia cumpliendo la profecia, es
+> genial, legitimamente épico, y ponen un main event a lo Vince
+> muy clásico, prolijo, spots brutales, Reigns le dio una pelea
+> increible, cada gts era cardiaco al máximo, buenos near falls en
+> una lucha larga, muy bien hecho; lo único malo fue el intercambio
+> de golpes al final, tiene golpes ridiculos y podían haberse
+> quedado viendose nada más en vez de eso; las secuencias están
+> geniales, es buen subtexto para Punk, es la posición que tiene en
+> el wrestling, se le hubieran perdonado el low blow para ganar,
+> pero Roman no perdió, es polémico, es tweener, es Punk,
+> recuerden que Punk es una serpiente, siempre lo fue. el final se
+> me hizo un poco anticlimático, y supongo que tenia que ver con
+> que Punk estaba viejo y eso, igual fue genial, muy buena lucha se
+> merece todas las clases"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**:
+
+1. **Perfect Match con reserva técnica puntual**: triple clase,
+   pero con crítica explícita al intercambio de golpes final
+   ("golpes ridículos") — el Vehemiurgo habría preferido que se
+   quedaran "viéndose nada más" en ese tramo.
+2. **"Main event a lo Vince, muy clásico, prolijo"**: estructura
+   de lucha larga con near falls repetidos y GTS "cardíacos al
+   máximo" — el molde de main event de época dorada aplicado al
+   presente.
+3. **Punk como "serpiente", tweener permanente**: lectura de
+   personaje — el Vehemiurgo declara que se le habría perdonado
+   narrativamente ganar con un low blow (dado su status de
+   tweener/heel simpático), pero el dato que registra es que
+   **Roman no perdió** — el resultado no favoreció a Punk.
+4. **"Cumpliendo la profecía"**: el match se lee como un momento
+   histórico esperado, más allá del resultado puntual — buen
+   subtexto sobre la posición actual de Punk en el negocio.
+5. **Final "un poco anticlimático"**: atribuido explícitamente a
+   que "Punk estaba viejo" — lectura que no resta al veredicto
+   general ("igual fue genial").
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración + secuencia del match.
+- [ ] Ganador + finish + duración + secuencia del match — [verif]
+      exacto (la lectura del Vehemiurgo confirma que Roman no
+      perdió, pero no precisa el finish exacto).
 - [ ] Crowd reaction (likely split — turn dynamics).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Attendance** + **gate** + **PPV buy estimates** WM42.
 - [ ] **Cornette** *Drive-Thru* reaction post-WM42.
 - [ ] POST Wrestling review (Pollock + Phantom).
 - [ ] Cobertura ESPN / Sportico / mainstream sobre el match.
-- [ ] **Asignación de clase del Vehemiurgo**.
 
 ## Piezas relacionadas
 

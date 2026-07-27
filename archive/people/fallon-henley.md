@@ -58,6 +58,21 @@ bien ejecutado. Pronóstico declarado: *"si agarra más filo puede
 ser la más dura en tv"*. Ver
 [`../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md`](../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md).
 
+### Sesión 2026-07-14 s38 — Única excepción de calidad en títulos de pareja
+
+**Cita verbatim**:
+
+> *"todo lo bueno que dije del bookeo de la división femenina, no
+> aplica para los titulos en pareja, lo único bueno de ahí son
+> Layney Reed y Fallon Henley"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: mención de referencia dentro de una crítica
+sectorial al booking de títulos en pareja femeninos — Fallon
+Henley y Lainey Reid nombradas como la única excepción positiva.
+Ver [`./lainey-reid.md`](./lainey-reid.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

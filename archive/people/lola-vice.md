@@ -153,6 +153,14 @@ personal de que no es de las favoritas del Vehemiurgo pero sí
 reconoce la calidad de la ficha (personaje). Ver
 [`../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md).
 
+### ⚠ Nota de desambiguación (s38, 2026-07-14)
+
+Existe una **luchadora distinta llamada "Lola" en AAA** (ver
+[`./lola-aaa.md`](./lola-aaa.md)), protagonista de un feud con La
+Hiedra. **No es la misma persona** — comparten solo el nombre de
+pila. No confundir al leer volcados que mencionen "Lola" sin
+apellido en contexto AAA.
+
 ### Sesión 2026-07-14 s37 — Vara de comparación para el booking de La Catalina en AAA
 
 **Cita verbatim**:

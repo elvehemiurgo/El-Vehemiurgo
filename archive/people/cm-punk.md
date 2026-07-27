@@ -251,8 +251,27 @@ post-pipebomb 2011).
 >
 > — El Vehemiurgo, 2026-07-14 s37 (verbatim)
 
-**Lectura sintética**: la pieza doctrinal más densa registrada
-sobre CM Punk hasta ahora — transición completa de underdog a
+### Sesión 2026-07-14 s38 — WrestleMania 42 main event: Perfect Match, "es una serpiente, siempre lo fue"
+
+**Cita verbatim**:
+
+> *"Punk hace historia cumpliendo la profecia, es genial,
+> legitimamente épico [...] se le hubieran perdonado el low blow
+> para ganar, pero Roman no perdió, es polémico, es tweener, es
+> Punk, recuerden que Punk es una serpiente, siempre lo fue [...]
+> muy buena lucha se merece todas las clases"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: Perfect Match con reserva técnica puntual
+sobre el intercambio de golpes final. Lectura de personaje
+definitiva: Punk como "serpiente"/tweener permanente — el match
+funciona como subtexto de su posición actual en el negocio, más
+allá del resultado (Roman retiene/no pierde). Ver
+[`../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md).
+
+**Lectura sintética (promo/segmento Raw 13/4)**: la pieza
+doctrinal más densa registrada sobre CM Punk hasta ahora — transición completa de underdog a
 superestrella corporativa sin pérdida de filo, con la propia
 mortalidad kayfabe/real leída como motor dramático. Doble Wrestling
 Entertainment en el mismo episodio (promo video + segmento

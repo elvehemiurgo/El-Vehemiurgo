@@ -102,6 +102,22 @@ Ver
 y
 [`../segments/2026-03-20-promo-video-cm-punk-vs-reigns-wwe-smackdown.md`](../segments/2026-03-20-promo-video-cm-punk-vs-reigns-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s38 — WrestleMania 42: "le dio una pelea increíble", no perdió
+
+**Cita verbatim**:
+
+> *"Reigns le dio una pelea increible, cada gts era cardiaco al
+> máximo, buenos near falls en una lucha larga, muy bien hecho
+> [...] Roman no perdió"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim, sobre el main event
+> vs CM Punk)
+
+**Lectura sintética**: Perfect Match compartido — Reigns sostiene
+el main event con near falls repetidos, y el dato de resultado
+registrado es que retiene/no pierde ante Punk. Ver
+[`../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md).
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

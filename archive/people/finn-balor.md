@@ -170,8 +170,25 @@ McDonagh.)
 Dominik vs Penta. Ver
 [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md).
 
+### Sesión 2026-07-14 s38 — WrestleMania 42: "el Demon arruinó" el potencial del match
+
+**Cita verbatim**:
+
+> *"el demon es lo que arruinó a Finn Balor en wwe, su booking
+> sería mucho mejor sin el demon, y esta lucha pintaba genial,
+> pero tenian que arruinarlo con esta tonteria, es dificil de ver
+> para mi porque ni tiene sentido y se ve ridiculo"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: "la decepción de la noche" — crítica de
+gimmick sin matices, la más dura registrada sobre Bálor en el
+archivo. Ver
+[`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — vignette dual con McDonagh.
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)
+- [`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md)

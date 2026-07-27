@@ -61,6 +61,19 @@ tags: [oba-femi, nxt-north-american-champion, nxt-champion, monster-heel-emergen
   simultáneo** = pieza editorial sobre **WWE 2026 monster
   heel renaissance**.
 
+### Sesión 2026-07-14 s38 — Histórico, "gran talento para recibir esa victoria"
+
+**Cita verbatim**:
+
+> *"Oba Femi vs Lesnar es histórico, Oba es un gran talento para
+> recibir esa victoria [...] muy basado muy fundamental"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment
+— validación explícita como receptor del pass-over rub de Brock
+Lesnar.
+
 ## Piezas relacionadas
 
 - [`../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md`](../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md)

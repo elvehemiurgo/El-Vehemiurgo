@@ -22,10 +22,10 @@ rating_tv: ""
 buy_rate: ""
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: ""
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'histórico [...] se merece un enterteinment class y el fighting spirit, top tier wrestling, muy basado muy fundamental'"
+clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WrestleMania 42 cluster"
 tags: [wrestlemania-42, wm42-day-2, brock-lesnar, oba-femi, brock-return, pass-over-rub, monster-vs-monster, heyman-management]
@@ -73,16 +73,32 @@ tags: [wrestlemania-42, wm42-day-2, brock-lesnar, oba-femi, brock-return, pass-o
 
 ## Lectura del Vehemiurgo
 
-(Pendiente verbatim del match.)
+### Sesión 2026-07-14 s38 — Histórico, "muy basado muy fundamental"
+
+**Cita verbatim**:
+
+> *"Oba Femi vs Lesnar es histórico, Oba es un gran talento para
+> recibir esa victoria, fue un show estilo wwe blockbuster,
+> buenisimo, se merece un enterteinment class y el fighting
+> spirit, top tier wrestling, muy basado muy fundamental, me gusta
+> el booking"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: doble clase con el calificativo "histórico"
+— Oba Femi validado como receptor idóneo del pass-over rub. El
+elogio de booking ("muy basado muy fundamental") confirma la
+lectura carny ortodoxa ya anticipada en la sección de
+significancia editorial de este archivo.
 
 ## Pendientes / huecos
 
 - [ ] Ganador + finish + duración.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST Wrestling + Cornette reaction.
-- [ ] **Asignación de clase del Vehemiurgo**.
 - [ ] Pendiente Brock Lesnar + Oba Femi + Paul Heyman
-      fact-sheets.
+      fact-sheets (¿Oba Femi ya tiene ficha? Verificar y
+      completar).
 
 ## Piezas relacionadas
 

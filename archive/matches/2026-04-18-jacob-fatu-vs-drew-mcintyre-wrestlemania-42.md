@@ -22,10 +22,10 @@ rating_tv: ""
 buy_rate: ""
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: ""
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Wrestling Entertainment — 'se merece el enterteinment class', con crítica dura de fondo sobre las promos de Fatu"
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WrestleMania 42 cluster"
 tags: [wrestlemania-42, wm42-day-1, jacob-fatu, drew-mcintyre, monster-heel-payoff, bloodline-arc, samoan-monster]
@@ -72,14 +72,35 @@ tags: [wrestlemania-42, wm42-day-1, jacob-fatu, drew-mcintyre, monster-heel-payo
 
 ## Lectura del Vehemiurgo
 
-(Pendiente verbatim del match.)
+### Sesión 2026-07-14 s38 — Wrestling Entertainment, pero las promos no alcanzaron la epicidad necesaria
+
+**Cita verbatim**:
+
+> *"Fatu vs McIntyre estuvo cool, se merece el enterteinment
+> class, Fatu no pudo estar al nivel del feudo, su papel y sus
+> promos no alcanzaron la epicidad que podría con Drew, como lo
+> que hizo Punk con él, no llegaron a mucho, fue un run duro para
+> Fatu y ahora seguro lo van a presionar más, tiene que meterle
+> más a las promos, porque el gimmick ya lo tiene y lo está
+> viviendo, solo tiene que ser cool en las promos para ser main
+> eventer, como Roman, Drew, Punk, Cody, tiene que competir con
+> ellos, ahi debe apuntar"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el match, pero
+con una crítica de desarrollo dura y específica — las promos de
+Fatu no alcanzaron el nivel del feud, en comparación directa con
+lo que CM Punk logró con McIntyre en otro contexto. El gimmick de
+monster heel ya está logrado y "vivido"; la prescripción de
+carrera es exclusivamente de mic — competir en el tier
+Roman/Drew/Punk/Cody exige ese salto.
 
 ## Pendientes / huecos
 
 - [ ] Ganador + finish + duración.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST Wrestling + Cornette reaction.
-- [ ] **Asignación de clase del Vehemiurgo**.
 
 ## Piezas relacionadas
 

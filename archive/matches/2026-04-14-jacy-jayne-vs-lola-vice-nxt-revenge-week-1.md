@@ -18,10 +18,10 @@ ganador: ""
 referee: ""
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Fighting Spirit Class (asignada explícitamente por el Vehemiurgo)"
-clases_vehemiurgo: ["fighting-spirit"]
+calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece el fighting spirit y el enterteinment class' (elevada 2026-07-14, previamente solo Fighting Spirit)"
+clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial directo 2026-05-10 sobre NXT Revenge Week 1"
   - "Visionado directo del Vehemiurgo"
@@ -110,6 +110,40 @@ tags: [nxt-2026, nxt-revenge-week-1, jacy-jayne, lola-vice, fallon-henley, fatal
   editorial sobre la evolución del talent. Modelo de respeto
   vehemiurgia por el **trabajador que progresa hacia oficio
   controlado** (less reckless high-spots, more storytelling).
+
+### Sesión 2026-07-14 s38 — Rematch: doctrina de booking comparado, sube a Fighting Spirit + Wrestling Entertainment
+
+**Cita verbatim**:
+
+> *"Jacy vs Lola la revancha, fue una lucha muy dura, Lola se ve
+> lista y efectiva, porque wwe la protege y bookea buenas luchas,
+> no como AEW que por ejemplo con Statlander, le deja hacer ese
+> llaveo a ras de lona que se le ve debil y no tendria porque
+> hacerlo porque de hecho si puede tener una buena luchas, solo
+> que si o si les gusta hacer la tonteria indie mark de llaveo y
+> strongstyle luego porque si, y lo único que hace es exponerla y
+> ponerla en ridiculo porque se ve lento y accidentado, en cambio
+> wwe protege a su babyface y bookea luchas con instrucciones
+> apretadas y prescinde del llaveo estilo lucha porque es la
+> debilidad de Lola, pero capitaliza lo mma y esas secuencias de
+> sumisión y los strikes para armar su repertorio, es una gran
+> diferencia, y es crucial para la percepción de pro de un
+> luchador, y eso es responsabilidad de los agentes de las luchas.
+> Lucha muy buena, se merece el fighting spirit y el enterteinment
+> class"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: sube de Fighting Spirit sola (2026-05-10) a
+**Fighting Spirit + Wrestling Entertainment**. La pieza doctrinal
+central es la comparación de booking: WWE protege a Lola Vice
+evitando su debilidad declarada (el mat wrestling/"llaveo a ras de
+lona") y capitaliza su base MMA (sumisiones, strikes), mientras
+AEW —usando a **Statlander** como caso testigo— la fuerza a hacer
+"la tontería indie mark de llaveo y strong style", exponiéndola.
+Veredicto explícito: *"es responsabilidad de los agentes de las
+luchas"* — crítica de matchmaking interno, no de talento. Ver
+[`../people/statlander.md`](../people/statlander.md).
 
 ## Pendientes / huecos
 

@@ -116,9 +116,23 @@ reserva de estilo (extraña su dureza AAA). Ver
 y
 [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md).
 
+### Sesión 2026-07-14 s38 — vs Finn Bálor (Demon) en WrestleMania 42: víctima colateral del gimmick
+
+**Cita verbatim**:
+
+> *"esta lucha pintaba genial, pero tenian que arruinarlo con esta
+> tonteria"* (sobre el gimmick del Demon en el match vs Bálor)
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: sin clase — la crítica recae enteramente
+sobre el gimmick de Bálor, no sobre el trabajo de Dominik. Ver
+[`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — Dominik en post-match.
 - [`../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md`](../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md)
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)
+- [`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md)

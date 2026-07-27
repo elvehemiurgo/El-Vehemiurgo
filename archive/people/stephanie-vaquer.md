@@ -124,6 +124,22 @@ performance y el micrófono"* usando a Vaquer como caso central.)
 - [ ] Match Liv vs Vaquer en WrestleMania 42 — sumar a
       `archive/matches/`.
 
+### Sesión 2026-07-14 s38 — WrestleMania 42: "a milímetros de ser un paquete completo"
+
+**Cita verbatim**:
+
+> *"Vaquer está a milimetros de ser un paquete completo muy
+> evolucionado, esta rivalidad ha acelerado el nivel en ambas [...]
+> me gustó [...] el contraste con Vaquer que su vida es el
+> wrestling"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: progreso directo sobre el diagnóstico
+sostenido desde 2026-05-09 ("performer sí, promo todavía no") —
+ahora se lee a "milímetros" de completarse. Ver
+[`../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md`](../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md).
+
 ### Sesión 2026-07-14 s23 — Referencia de comparación (progreso de Persephone)
 
 **Cita verbatim**:
@@ -175,5 +191,5 @@ física suple parcialmente el hueco de mic. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
-- (Pendiente: match Liv vs Vaquer Mania 42.)
+- [`../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md`](../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md)
 - [`../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md)

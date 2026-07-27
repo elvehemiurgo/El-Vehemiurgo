@@ -76,6 +76,21 @@ tags: [brock-lesnar, the-beast-incarnate, wwe-champion-2002-debut, wmxx-2004-los
   no comeback championship recurrente, sino paso del legacy
   al talent emergente.
 
+### Sesión 2026-07-14 s38 — Pass-over rub histórico a Oba Femi
+
+**Cita verbatim**:
+
+> *"Oba Femi vs Lesnar es histórico [...] fue un show estilo wwe
+> blockbuster, buenisimo [...] muy basado muy fundamental, me
+> gusta el booking"*
+>
+> — El Vehemiurgo, 2026-07-14 s38 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment
+— confirma la lectura de "return de leyenda correcto" ya
+anticipada en la sección de significancia editorial de este
+archivo.
+
 ## Piezas relacionadas
 
 - [`../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md`](../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md)
