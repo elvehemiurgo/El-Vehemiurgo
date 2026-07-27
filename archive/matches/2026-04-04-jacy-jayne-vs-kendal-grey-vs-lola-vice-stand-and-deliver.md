@@ -23,10 +23,10 @@ rating_tv: ""
 buy_rate: ""
 encuentros_previos: 1
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: ""
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece un fighting spirit y un enterteinment class'"
+clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier NXT 2025-2026 Stand & Deliver callups"
 tags: [nxt-2026, stand-and-deliver-2026, nxt-womens-title, fatal-influence, jacy-jayne, kendal-grey, lola-vice, wrenqcc, triple-threat-women, pre-callup-build]
@@ -81,16 +81,51 @@ tags: [nxt-2026, stand-and-deliver-2026, nxt-womens-title, fatal-influence, jacy
 **Lectura sintética**: elaboración sobre este match ya existente
 en el archivo — se registra únicamente lo dicho ("estuvo muy
 cool"), **sin asignar clase**, porque la oración quedó incompleta
-antes de nombrar la fórmula. Si el Vehemiurgo retoma la idea en
-una sesión futura, se completa acá mismo.
+antes de nombrar la fórmula.
+
+### Sesión 2026-07-14 s36 — Continuación: Fighting Spirit + Wrestling Entertainment
+
+**Cita verbatim**:
+
+> *"continuando lo que decia, se merece un fighting spirit y un
+> enterteinment class, las intervenciones y los spots, la tower of
+> doom, y el booking, me gustaron, Lola es buen babyface, no es de
+> mis favoritas, pero es muy buena ficha, me parece bien que la
+> esten protegiendo lejos del roster principal y no la hayan
+> quemado comoa Sol Ruca por apurarse en su debut allá; además
+> Kedall ya tiene su acto creado y probado, es redondo como
+> babyface y su ejecución cada vez es más veloz, de verdad estuvo
+> brillante. Los momentos cardiacos estuvieron geniales, y si se
+> aseguraron de dejar over a Wren tambien, ella es el futuro de
+> NXT. Fue una lucha muy dura"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim; completa la
+> declaración cortada en s35)
+
+**Lectura sintética**:
+
+1. **Clase completada**: Fighting Spirit + Wrestling Entertainment
+   — resuelve la declaración cortada de s35.
+2. **Spot destacado**: tower of doom.
+3. **Lola Vice, "buen babyface", protección editorial explícita**:
+   el Vehemiurgo la contrasta con el caso de Sol Ruca, a quien
+   considera "quemada" por apurar su debut en el roster principal
+   — Lola recibe el tratamiento contrario, protegida en NXT.
+4. **Kendal Grey — "acto redondo", ejecución cada vez más veloz**:
+   elogio de consolidación de personaje, calificado como
+   "brillante".
+5. **Wren Sinclair, protegida/puesta over dentro del mismo show**:
+   *"ella es el futuro de NXT"* — declaración de estatus mayor,
+   aunque no aparece en el cartel oficial de participantes de este
+   triple threat [verif mecanismo exacto — ¿cameo, interferencia,
+   segmento aparte la misma noche?].
 
 ## Pendientes / huecos
 
 - [ ] Ganador + finish + duración.
 - [ ] Star rating WON Meltzer (contexto).
-- [ ] **Asignación de clase del Vehemiurgo** — pendiente:
-      declaración cortada en s35 (2026-07-14), a completar cuando
-      el Vehemiurgo retome la idea.
+- [ ] Mecanismo exacto de la aparición/protección de Wren Sinclair
+      esta misma noche — [verif].
 
 ## Piezas relacionadas
 

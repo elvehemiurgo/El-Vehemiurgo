@@ -82,6 +82,7 @@ cada alta y con cada cambio de estado.
 | 2026-04-07 | Lola Vice celebración post-título — Jacy Jayne salva el segmento | WWE / NXT (TV semanal) | in-ring celebration / promo + interruption | — | en-investigacion | 1 | [→](2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md) |
 | 2026-04-07 | Blake Monroe y el Vanity Project — alianza heel por conveniencia | WWE / NXT TV (semanal) | in-ring confrontation / alliance segment | WE | en-investigacion | 1 | [→](2026-04-07-blake-monroe-vanity-project-alliance-nxt.md) |
 | 2026-04-06 | CM Punk — promo de apertura | WWE / Monday Night Raw | in-ring promo | — | en-investigacion | 1 | [→](2026-04-06-cm-punk-promo-opening-raw.md) |
+| 2026-04-04 | Promo video: Sol Ruca vs Zaria | WWE / NXT Stand & Deliver 2026 [fecha inferida, no confirmada] | promo video (hype package) | WE | stub | 1 | [→](2026-04-04-promo-video-sol-vs-zaria-wwe-nxt-stand-and-deliver.md) |
 | 2026-04-03 | LA Knight — participación en Speed y commentary | WWE / SmackDown | multi-role participation | — | en-investigacion | 1 | [→](2026-04-03-la-knight-speed-commentary-smackdown.md) |
 | 2026-04-03 | Cody Rhodes le dice a Stephanie McMahon que no es su padre | WWE / SmackDown | in-ring promo / confrontation | — | en-investigacion | 1 | [→](2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md) |
 | 2026-04-02 | Contract signing — Eddie Edwards vs Mike Santana (Rebellion) | TNA Wrestling / iMPACT! | contract signing | — | stub | 1 | [→](2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md) |

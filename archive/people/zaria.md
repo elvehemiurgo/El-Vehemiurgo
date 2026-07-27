@@ -132,3 +132,21 @@ matches a sumar.)
 **Lectura sintética**: **THE FUTURE in 2026 #10** — Perfect Match
 en triple threat vs Jacy Jayne y Sol Ruca (17/3/2026). Ver
 [`../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md`](../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md).
+
+### Sesión 2026-07-14 s36 — Promo video WE + vuelve a proteger a Sol poniendo over a Izzi
+
+**Cita verbatim**:
+
+> *"el promo video de Sol vs Zaria se merece el enterteinment
+> class, fue una buena rivalidad, y lo sigue siendo [...] al final
+> nuevamente el booking se apoya en Zaria para proteger a Sol y
+> poner over a Izzy muy bien"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el promo video,
+y reafirmación del mecanismo de booking ya documentado (Zaria como
+vehículo que protege a Sol mientras pone over a otras). Ver
+[`../segments/2026-04-04-promo-video-sol-vs-zaria-wwe-nxt-stand-and-deliver.md`](../segments/2026-04-04-promo-video-sol-vs-zaria-wwe-nxt-stand-and-deliver.md)
+y
+[`../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md).

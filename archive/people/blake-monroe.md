@@ -143,6 +143,24 @@ segmento (21/4/2026). Ver
 y
 [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md).
 
+### Sesión 2026-07-14 s36 — Perfect Match vs Rayo & Bravo + discrepancia de clase en vs Tatum/Shyloh
+
+**Cita verbatim**:
+
+> *"rayo & bravo vs vanity project fue genial, se merece todas las
+> clases, el nivel es increíble"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim)
+
+**Lectura sintética**: segundo Perfect Match del expediente de
+Vanity Project. El match vs Tatum Paxley/Shyloh tiene una
+**discrepancia de clase sin resolver** (PW·WE del 2026-05-10 vs
+FS·WE declarado hoy) — ver nota completa en el archivo del match.
+Ver
+[`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
+y
+[`../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md)
@@ -150,6 +168,7 @@ y
 - [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
 - [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)
 - [`segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md`](../segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md)
+- [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
   — Wrestling Entertainment Class (ejemplo canónico).
 - (Pendientes: matches y segmentos NXT 2025-2026 del notebook
   [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).)

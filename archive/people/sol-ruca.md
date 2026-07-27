@@ -141,3 +141,28 @@ notebook 2026-05-09; el segmento del 24/3/2026; los matches de Stand
 vs Jacy Jayne y Zaria (Perfect Match, 17/3/2026), declarado de las
 mejores actuaciones suyas registradas. Ver
 [`../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md`](../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md).
+
+### Sesión 2026-07-14 s36 — Contraste con Lola Vice + clase resuelta vs Izzi Dame
+
+**Cita verbatim**:
+
+> *"me parece bien que la esten protegiendo lejos del roster
+> principal y no la hayan quemado comoa Sol Ruca por apurarse en
+> su debut allá [...] promo video de Sol vs Zaria se merece el
+> enterteinment class [...] Izzy full heavyweight contra Sol [...]
+> la lucha merece el fighting spirit y el enterteinment class; lo
+> único que todavia no me convence son algunos strikes de Sol, por
+> la estética sacrifica el impacto"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim)
+
+**Lectura sintética**: Sol Ruca se convierte en el contraejemplo
+de booking dentro de la comparación con Lola Vice — "quemada" por
+apurar su debut en el roster principal. Reserva técnica puntual
+sobre sus strikes (sacrifican impacto por estética). El match vs
+Izzi Dame finalmente recibe clase (Fighting Spirit + Wrestling
+Entertainment), resolviendo una asignación abierta desde
+2026-05-10. Ver
+[`../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md)
+y
+[`../segments/2026-04-04-promo-video-sol-vs-zaria-wwe-nxt-stand-and-deliver.md`](../segments/2026-04-04-promo-video-sol-vs-zaria-wwe-nxt-stand-and-deliver.md).

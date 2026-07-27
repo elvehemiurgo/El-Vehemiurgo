@@ -80,16 +80,17 @@ con cada cambio de estado.
 | 2026-04-09 | Dani Luna vs [verif rival] | TNA Wrestling / iMPACT! | — | stub | 1 | [→](2026-04-09-dani-luna-tna-impact.md) |
 | 2026-04-08 | Takeshita, Andrade & Mark Davis vs [trío rival] — six-man tag | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md) |
 | 2026-04-08 | United Empire en acción (showcase) | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-united-empire-showcase-aew-dynamite.md) |
-| 2026-04-07 | Sol Ruca vs Izzi Dame | WWE / NXT (TV semanal) | — | en-investigacion | 1 | [→](2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |
+| 2026-04-07 | Sol Ruca vs Izzi Dame | WWE / NXT (TV semanal) | FS·WE | en-investigacion | 1 | [→](2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |
 | 2026-04-07 | Chazz 'Starboy' Hall vs Lexis King — WWE Speed (1ra ronda) | WWE / NXT (TV semanal) | PW·FS | verificado | 1 | [→](2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md) |
-| 2026-04-07 | Jackson Drake & Blake Monroe vs Shyloh & Tatum Paxley | WWE / NXT (TV semanal) | PW·WE | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md) |
+| 2026-04-07 | Jackson Drake & Blake Monroe vs Shyloh & Tatum Paxley | WWE / NXT (TV semanal) | — | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shyloh-paxley-nxt.md) |
 | 2026-04-07 | Dark State vs Joe Hendry, Ethan Page, Ricky Saints & Tony D'Angelo | WWE / NXT TV (semanal) | — | en-investigacion | 1 | [→](2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md) |
 | 2026-04-06 | LA Knight vs Austin Theory | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-06-la-knight-vs-austin-theory-raw.md) |
+| 2026-04-04 | Rayo & Bravo vs Vanity Project | WWE / NXT Stand & Deliver 2026 [fecha inferida por flujo narrativo, no confirmada] | PW·FS·WE | en-investigacion | 1 | [→](2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md) |
 | 2026-04-04 | Lady Flamer vs Sussy | AAA / AAA Worldwide | FS | en-investigacion | 1 | [→](2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md) |
 | 2026-04-04 | 3 contra 3 de equipos europeos (Axiom en bandos opuestos) | AAA / AAA Worldwide | WE | en-investigacion | 1 | [→](2026-04-04-tres-contra-tres-europeo-axiom-aaa-worldwide.md) |
 | 2026-04-04 | Team Japón vs Team Puerto Rico | AAA / AAA Worldwide | FS·WE | en-investigacion | 1 | [→](2026-04-04-team-japon-vs-team-pr-aaa-worldwide.md) |
 | 2026-04-04 | Sol Ruca vs Saria | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
-| 2026-04-04 | Jacy Jayne vs Kendal Grey vs Lola Vice — triple threat | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
+| 2026-04-04 | Jacy Jayne vs Kendal Grey vs Lola Vice — triple threat | WWE NXT / Stand & Deliver 2026 | FS·WE | en-investigacion | 1 | [→](2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
 | 2026-04-04 | Ethan Page vs Ricky Saints vs Joe Hendry vs Tony D'Angelo — fatal 4-way | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
 | 2026-04-02 | Arianna Grace vs Xia Brookside | TNA Wrestling / iMPACT! | — | stub | 1 | [→](2026-04-02-arianna-grace-vs-xia-brookside-tna-impact.md) |
 | 2026-04-02 | Eight-man tag — Ali, Agent Zero, Eddie Edwards & Cedric Alexander vs Santana, Slater, Trey Miguel & Moose | TNA Wrestling / iMPACT! | PW·FS·WE | verificado | 1 | [→](2026-04-02-multi-man-opener-tna-impact.md) |

@@ -24,12 +24,12 @@ rating_tv: ""
 buy_rate: ""
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Perfect match + Wrestling Entertainment — Blake Monroe excepcional para secuencias difíciles y entertainment, eleva el producto"
+calificacion_vehemiurgo: "⚠️ DISCREPANCIA SIN RESOLVER: Perfect Wrestling + Wrestling Entertainment (asignado 2026-05-10) vs Fighting Spirit + Wrestling Entertainment (declarado 2026-07-14 s36) — ver nota de discrepancia en el cuerpo del archivo, no resolver sin confirmación directa del Vehemiurgo"
 clases_vehemiurgo:
   - perfect-wrestling
   - wrestling-entertainment
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT TV semanal 2026-04-07 (fecha confirmada por el Vehemiurgo 2026-05-10)"
 tags: [wwe-2026, nxt, nxt-tv, blake-monroe, jackson-drake, shyloh, tatum-paxley, perfect-wrestling-class, wrestling-entertainment-class, multi-classification, mixed-tag]
@@ -129,8 +129,42 @@ recibió `[perfect-wrestling, fighting-spirit]`. **Dos
 multi-clases en el mismo show NXT TV 7 abr 2026** — lectura
 editorial: episodio de NXT excepcionalmente rico en oficio.
 
+### Sesión 2026-07-14 s36 — ⚠️ DISCREPANCIA DE CLASE, sin resolver
+
+**Cita verbatim**:
+
+> *"la intergeneros de Blake Monroe y Jackson Drake vs Tatum y
+> Shilo hicieron un buen trabajo, Jackson sabe como hacer esto una
+> pelea, no solo sigue el guion, se encarga de armar una pelea de
+> verdad, esta lucha merece el fighting spirit y el enterteinment
+> class"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim)
+
+**⚠️ Nota de discrepancia (no resuelta unilateralmente)**: el
+2026-05-10 este mismo match había recibido **Perfect Wrestling +
+Wrestling Entertainment** por cita verbatim explícita ("es un
+perfect match y wrestling Entertainment, es perfecta en esos
+sentidos"). Hoy, en una nueva mención del mismo match, el
+Vehemiurgo declara **Fighting Spirit + Wrestling Entertainment**
+en su lugar. **No se sobreescribe la asignación anterior** — se
+preservan ambas citas verbatim y ambas asignaciones quedan
+registradas en el campo `clases_vehemiurgo` (frontmatter) como
+unión de las dos sesiones, marcadas explícitamente como
+conflictivas. **Pendiente de aclaración directa del Vehemiurgo**:
+¿la impresión de hoy corrige la de mayo, o ambas coexisten como
+lecturas válidas de un rewatch?
+
+**Lectura sintética (elemento no conflictivo)**: elogio nuevo y
+específico a **Jackson Drake** — *"no solo sigue el guion, se
+encarga de armar una pelea de verdad"*, coherente con la doctrina
+de "lo real" del archivo.
+
 ## Pendientes / huecos
 
+- [ ] **⚠️ RESOLVER DISCREPANCIA DE CLASE**: PW·WE (2026-05-10)
+      vs FS·WE (2026-07-14 s36) — preguntar al Vehemiurgo cuál
+      prevalece o si ambas se mantienen.
 - [x] ~~Confirmar fecha exacta del match~~ → **CONFIRMADA
       (2026-05-10)**: NXT TV semanal del 7 abr 2026.
 - [ ] **Confirmar composición exacta** de los 4 participantes y

@@ -157,6 +157,22 @@ caiga en la misma situación cuando salte a main roster?)
 directa con Raquel Rodríguez como proyección de carrera. Ver
 [`../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md`](../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md).
 
+### Sesión 2026-07-14 s36 — vs Sol Ruca: clase resuelta, "vende muy bien"
+
+**Cita verbatim**:
+
+> *"Izzy full heavyweight contra Sol, buen showcase, se vieron
+> bien, lo mantuvieron real, hicieron mucho enfasis en la heel y
+> vende muy bien, la lucha merece el fighting spirit y el
+> enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment,
+resolviendo una asignación de clase que había quedado abierta
+desde 2026-05-10. Gana con asistencia de Zaria. Ver
+[`../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md)

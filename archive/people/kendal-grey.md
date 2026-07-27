@@ -162,6 +162,18 @@ sobre rechazo del founder.)
 **Lectura sintética**: **THE FUTURE in 2026 #14** — Perfect Match
 en tag contra Fatal Influence. Ver
 [`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md).
-Elaboración pendiente en el triple threat de Stand & Deliver
-(4/4/2026) — mensaje cortado en s35, ver
+### Sesión 2026-07-14 s36 — "Acto redondo", ejecución cada vez más veloz
+
+**Cita verbatim**:
+
+> *"Kedall ya tiene su acto creado y probado, es redondo como
+> babyface y su ejecución cada vez es más veloz, de verdad estuvo
+> brillante"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim)
+
+**Lectura sintética**: completa la elaboración que había quedado
+cortada en s35 — Fighting Spirit + Wrestling Entertainment para el
+triple threat de Stand & Deliver, con elogio directo de
+consolidación de personaje. Ver
 [`../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md).

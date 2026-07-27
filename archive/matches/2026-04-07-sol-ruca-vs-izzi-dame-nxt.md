@@ -22,10 +22,10 @@ rating_tv: ""
 buy_rate: ""
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Estas dos son de lo mejor de NXT"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'la lucha merece el fighting spirit y el enterteinment class' (resuelto 2026-07-14, previamente pendiente)"
+clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT TV 2026-04-07"
   - "PWTorch (Wells live report NXT 4/7/2026): Sol Ruca vs Izzi Dame confirmado en card"
@@ -127,13 +127,33 @@ booking de oficina.
   spotfest.
 - **Veredicto**: *"estas dos son de lo mejor de NXT"*.
 
+### Sesión 2026-07-14 s36 — Clase resuelta: Fighting Spirit + Wrestling Entertainment
+
+**Cita verbatim**:
+
+> *"Izzy full heavyweight contra Sol, buen showcase, se vieron
+> bien, lo mantuvieron real, hicieron mucho enfasis en la heel y
+> vende muy bien, la lucha merece el fighting spirit y el
+> enterteinment class; lo único que todavia no me convence son
+> algunos strikes de Sol, por la estética sacrifica el impacto
+> pero podría verse mejor si cortara los strikes innecesarios; y
+> al final nuevamente el booking se apoya en Zaria para proteger a
+> Sol y poner over a Izzy muy bien"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim)
+
+**Lectura sintética**: resuelve la asignación de clase que había
+quedado explícitamente abierta desde 2026-05-10. Reserva técnica
+puntual sobre los strikes de Sol Ruca (estética sobre impacto —
+crítica consistente con la doctrina de "lo real" del archivo). El
+booking reafirma el mismo mecanismo ya documentado: Zaria protege
+a Sol mientras pone over a Izzi.
+
 ## Clase del Vehemiurgo
 
-(Pendiente — el Vehemiurgo no asignó clase explícitamente.
-Material editorial sostiene candidatura a **Fighting Spirit** por
-la lectura *"vendieron una pelea muy dura"* + repertorio
-heavyweight vs aggressive style — pero **no lo asigno sin
-confirmación del Vehemiurgo**. Decisión queda abierta.)
+**Fighting Spirit + Wrestling Entertainment** — asignada por cita
+verbatim explícita el 2026-07-14 (s36): *"la lucha merece el
+fighting spirit y el enterteinment class"*.
 
 ## Pendientes / huecos
 
@@ -144,7 +164,6 @@ confirmación del Vehemiurgo**. Decisión queda abierta.)
       detalle).
 - [ ] Cobertura POST Wrestling *Rewind-A-NXT* del 7-8 abr.
 - [ ] Cobertura Cornette Drive-Thru post 7 abr si lo cubrió.
-- [ ] **Asignación de clase del Vehemiurgo** (espera disparo).
 
 ## Piezas relacionadas
 

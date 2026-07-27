@@ -135,10 +135,29 @@ distante.)
       sola para evaluar progreso del mic work.
 - [ ] Datos contractuales.
 
+### Sesión 2026-07-14 s36 — Buen babyface, protegida lejos del roster principal
+
+**Cita verbatim**:
+
+> *"Lola es buen babyface, no es de mis favoritas, pero es muy
+> buena ficha, me parece bien que la esten protegiendo lejos del
+> roster principal y no la hayan quemado comoa Sol Ruca por
+> apurarse en su debut allá"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment
+compartida en el triple threat de Stand & Deliver — elogio de
+booking explícito (protección de carrera), con la reserva
+personal de que no es de las favoritas del Vehemiurgo pero sí
+reconoce la calidad de la ficha (personaje). Ver
+[`../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md`](../segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md)
   — segmento celebración post-título salvado por Jacy.
+- [`../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md)
 - [`promotions/fatal-influence.md`](../promotions/fatal-influence.md)
   — Fatal Influence dejó over a Lola en su despedida NXT.
 - [`people/jacy-jayne.md`](../people/jacy-jayne.md) — heel

@@ -179,3 +179,20 @@ Charlie Dempsey. Ver
 [`../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md)
 y
 [`../segments/2026-03-17-wren-sinclair-charlie-dempsey-interaccion-wwe-nxt.md`](../segments/2026-03-17-wren-sinclair-charlie-dempsey-interaccion-wwe-nxt.md).
+
+### Sesión 2026-07-14 s36 — "El futuro de NXT", protegida en Stand & Deliver
+
+**Cita verbatim**:
+
+> *"si se aseguraron de dejar over a Wren tambien, ella es el
+> futuro de NXT"*
+>
+> — El Vehemiurgo, 2026-07-14 s36 (verbatim, sobre la noche del
+> triple threat de Stand & Deliver)
+
+**Lectura sintética**: declaración de estatus mayor — "el futuro
+de NXT" — dentro de la misma noche del triple threat por el título
+femenino, aunque Wren no aparece en el cartel oficial de
+participantes de ese match [verif mecanismo exacto de su
+protección esa noche]. Ver
+[`../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md).
