@@ -54,15 +54,33 @@ tags: [clark-connors, the-guns-verif, aew, njpw, over-the-top, primer-take-indiv
 **Lectura sintética**: primera valoración editorial directa,
 después de varias apariciones grupales sin comentario individual.
 
+### Sesión 2026-07-14 s34 — vs Jay White: Perfect Match, implosión generacional del Bullet Club
+
+**Cita verbatim**:
+
+> *"Jay White vs Connors [...] implosion del bullet club, distintas
+> generaciones [...] Connors intentando lesionarlo otra vez"*
+>
+> — El Vehemiurgo, 2026-07-14 s34 (verbatim)
+
+**Lectura sintética**: leído como representante de una generación
+distinta del linaje Bullet Club frente al Jay White/Bang Bang Gang
+actual — con un agravio previo no registrado aún ("otra vez").
+Ver
+[`../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md`](../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NJPW/AEW.
 - [ ] Confirmar pertenencia exacta a "The Guns".
-- [ ] Finish/duración del rematch vs The Dogs.
+- [ ] Finish/duración del rematch vs The Dogs y del match vs Jay
+      White.
+- [ ] Agravio previo contra Jay White ("otra vez") — [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
+- [`../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md`](../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md)
 
 ## Cross-links
 

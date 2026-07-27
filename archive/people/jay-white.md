@@ -80,10 +80,28 @@ condicionado a que Jay White mantenga el protagonismo — validación
 directa del regreso (s29). Ver
 [`../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md`](../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md).
 
+### Sesión 2026-07-14 s34 — Perfect Match vs Clark Connors, refresh completo de personaje
+
+**Cita verbatim**:
+
+> *"Jay White vs Connors, lindo showcase, implosion del bullet
+> club, distintas generaciones; ahora con Jay en esta posición de
+> face muy over [...] se merece las 3 clases, y Jay debuta una
+> nueva sumisión, nuevo gear, nuevos strikes, estuvo muy duro todo"*
+>
+> — El Vehemiurgo, 2026-07-14 s34 (verbatim)
+
+**Lectura sintética**: primer match propio del archivo tras su
+regreso (s29) — Perfect Match, con debut simultáneo de nueva
+sumisión, gear y strikes. Consolidación total como face over,
+leído como implosión generacional del Bullet Club. Ver
+[`../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md`](../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa NJPW (Bullet Club,
       IWGP Title runs, Bang Bang Gang) con fechas.
+- [ ] Nombre de la nueva sumisión debutada (22/7/2026).
 - [ ] Naturaleza exacta del momento de regreso (¿ataque,
       confrontación, aparición sola?).
 - [ ] Seguimiento del impacto proyectado en la programación
@@ -92,6 +110,8 @@ directa del regreso (s29). Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md`](../segments/2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md)
+- [`../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md`](../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md)
+- [`../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md`](../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md)
 
 ## Cross-links
 

@@ -271,6 +271,19 @@ en Wembley Stadium, evocando la era de los Cuatro Pilares. Ver
 y
 [`../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md`](../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md).
 
+### Sesión 2026-07-14 s34 — Segundo ataque de Kevin Knight, go-home antes de Redemption
+
+**Cita verbatim**:
+
+> *"el ataque sorpresa de Kevin Knight a Omega, más la celebración
+> y todo para go home show antes de Redemption, estuvo perfecto"*
+>
+> — El Vehemiurgo, 2026-07-14 s34 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el cierre
+go-home de la rivalidad con Knight, camino a Redemption 2026. Ver
+[`../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md`](../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md`](../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md)
@@ -280,3 +293,4 @@ y
 - [`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md)
 - [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md)
 - [`../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md`](../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md)
+- [`../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md`](../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md)

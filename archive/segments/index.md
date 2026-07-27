@@ -12,6 +12,10 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-07-22 | Post-match main event: Kevin Knight ataca a Kenny Omega (go-home show) | AEW / Dynamite | post-match / ataque sorpresa | WE | stub | 1 | [→](2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md) |
+| 2026-07-22 | Promo backstage: Bang Bang Gang (Juice Robinson abre) | AEW / Dynamite | promo backstage | WE | stub | 1 | [→](2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md) |
+| 2026-07-22 | Post-match: David Finlay interrumpe, Bang Bang Gang salva a Jay White | AEW / Dynamite | post-match / run-in | — | stub | 1 | [→](2026-07-22-post-match-finlay-interrumpe-bang-bang-gang-salva-aew-dynamite.md) |
+| 2026-07-22 | Bang Bang Gang: entrada completa | AEW / Dynamite | entrance / posicionamiento de facción | — | stub | 1 | [→](2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md) |
 | 2026-07-22 | Post-match: Kyle Fletcher interrumpe a Kevin Knight, entra Okada — implosión de la Don Callis Family | AEW / Dynamite | in-ring / tensión de facción | WE | stub | 1 | [→](2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md) |
 | 2026-07-15 | Promo backstage: Fletcher (con Okada) vende Bandido para Redemption | AEW / Dynamite | promo backstage | WE | stub | 1 | [→](2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md) |
 | 2026-07-15 | Post-match Komander vs Fletcher: foreshadowing Okada vs Fletcher | AEW / Dynamite | post-match / foreshadowing | — | stub | 1 | [→](2026-07-15-komander-fletcher-post-match-foreshadowing-okada-aew-dynamite.md) |

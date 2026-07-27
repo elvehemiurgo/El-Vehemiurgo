@@ -46,15 +46,32 @@ tags: [juice-robinson, the-dogs-verif, bullet-club, bang-bang-gang, aew, njpw, o
 **Lectura sintética**: primer registro, con elogio específico a
 su calidad in-ring además de la presencia de personaje.
 
+### Sesión 2026-07-14 s34 — Abre la promo backstage del Bang Bang Gang: WE
+
+**Cita verbatim**:
+
+> *"promo backstage con el bang bang gang, Juicy empieza y
+> continua el tren de calidad que trae este booking, se merece un
+> enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s34 (verbatim)
+
+**Lectura sintética**: primera Wrestling Entertainment registrada
+para Juice Robinson — protagoniza la apertura de una promo coral
+de facción de cara a Redemption 2026. Ver
+[`../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md`](../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NJPW/Bullet Club/AEW.
-- [ ] Confirmar pertenencia exacta a "The Dogs".
+- [ ] Confirmar pertenencia exacta a "The Dogs" vs "Bang Bang
+      Gang" (relación entre ambas etiquetas) — [verif].
 - [ ] Finish/duración del rematch vs The Guns.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
+- [`../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md`](../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md)
 
 ## Cross-links
 

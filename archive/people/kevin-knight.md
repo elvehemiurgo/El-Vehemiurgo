@@ -190,6 +190,23 @@ trampa. Consolidación heel sostenida desde s17. Ver
 y
 [`../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md`](../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md).
 
+### Sesión 2026-07-14 s34 — Segundo ataque a Omega, go-home perfecto de cara a Redemption
+
+**Cita verbatim**:
+
+> *"el ataque sorpresa de Kevin Knight a Omega, más la celebración
+> y todo para go home show antes de Redemption, estuvo perfecto,
+> se merece un enterteinment class, muy buena ejecución y selling
+> de Knight, estuvo en su punto"*
+>
+> — El Vehemiurgo, 2026-07-14 s34 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment sin reserva —
+segundo ataque a Omega en pocas semanas (tras la interrupción de
+celebración del 15/7), escalada sostenida de cara a Redemption
+2026. Ver
+[`../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md`](../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.
@@ -197,6 +214,7 @@ y
       matches registrados).
 - [ ] Naturaleza exacta del agravio que motiva la venganza de
       Darby Allin — [verif].
+- [ ] Fecha de Redemption 2026 (vs Omega proyectado).
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -204,6 +222,7 @@ y
 - [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
 - [`../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md`](../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md)
 - [`../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md`](../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md)
+- [`../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md`](../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md)
 
 ## Cross-links
 

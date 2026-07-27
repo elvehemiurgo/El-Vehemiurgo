@@ -190,6 +190,26 @@ y
 
 - [`../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md`](../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md)
 
+### Sesión 2026-07-14 s34 — Bang Bang Gang: entrada completa, listos para liderar la división tag
+
+**Cita verbatim**:
+
+> *"tenemos al bang bang gang, full entrance, supe regreso, en
+> dynamite listos para carriar la división tag team"*
+>
+> — El Vehemiurgo, 2026-07-14 s34 (verbatim)
+
+**Lectura sintética**: posicionamiento explícito de la facción
+(vinculada a The Dogs desde el primer registro) como candidata a
+liderar la división de parejas, en el mismo show del refresh
+completo de Jay White y la promo de Juice Robinson. Ver
+[`../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md`](../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md).
+
+## Piezas del Vehemiurgo donde aparece (cont. 2)
+
+- [`../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md`](../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md)
+- [`../segments/2026-07-22-post-match-finlay-interrumpe-bang-bang-gang-salva-aew-dynamite.md`](../segments/2026-07-22-post-match-finlay-interrumpe-bang-bang-gang-salva-aew-dynamite.md)
+
 ## Cross-links
 
 - [`./the-guns.md`](./the-guns.md)
