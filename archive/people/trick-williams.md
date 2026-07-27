@@ -73,17 +73,39 @@ tags: [trick-williams, wwe-smackdown-2026, mic-work, wrestling-entertainment, el
    elogios de oficio dados a otros nombres consolidados del
    archivo.
 
+### Sesión 2026-07-14 s42 — Entrada de luto con la copa, "carisma nivel Stone Cold" vs Sami Zayn
+
+**Cita verbatim**:
+
+> *"su entrada de luto con la copa, peak wrestling, muy entretenido,
+> must see como siempre todo lo que toca Trick. Trick tiene carisma
+> nivel stone cold [...] esa magia que esta haciendo Trick ahora
+> nivel MJF es buen booking [...] Trick realmente logra volverlo
+> personal, hacer que Sami sienta que tiene que probarle algo, top
+> tier psicología de heel"*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — tercera clase
+consecutiva de Trick Williams en apenas dos shows (5/1 y 8/5),
+consolidando la lectura de "must see" y comparaciones de carisma
+(Stone Cold) y magia de booking (MJF) de máximo nivel editorial.
+Ver
+[`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main
       roster).
 - [ ] Registro completo de matches y segmentos previos listados
       en la lista personal (Rey Fénix, Jacob Fatu, Sami Zayn).
-- [ ] Contenido exacto de ambos segmentos + duración.
+- [ ] Contenido exacto de todos los segmentos + duración.
 - [ ] Naturaleza exacta del "gingerbread man" — ángulo/gimmick a
       documentar.
+- [ ] Confirmar identidad de "Yatty" — [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md)
 - [`../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md)
+- [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md)

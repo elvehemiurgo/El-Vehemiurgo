@@ -164,11 +164,25 @@ canta sobrevivió al call-up WWE"*.)
 un nuevo feud en el main roster. Ver
 [`../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md`](../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md).
 
+### Sesión 2026-07-14 s42 — Concierto interrumpido por Logan Paul: "lo volvería a ver"
+
+**Cita verbatim**:
+
+> *"el concierto de Hendry y la interrupción de Logan hicieron un
+> buen segmento, me entretuvo y lo volvería a ver, se merece un
+> enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment. Ver
+[`../segments/2026-05-04-concierto-hendry-interrupcion-logan-paul-wwe-raw.md`](../segments/2026-05-04-concierto-hendry-interrupcion-logan-paul-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
 - [`../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md`](../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md)
+- [`../segments/2026-05-04-concierto-hendry-interrupcion-logan-paul-wwe-raw.md`](../segments/2026-05-04-concierto-hendry-interrupcion-logan-paul-wwe-raw.md)
 - (Pendiente: Joe Hendry & Jeff Hardy concert TNA Impact 2025;
   Booker T singing his entrance NXT 10.02.2026; main event NXT
   Stand & Deliver 4-way; debut Raw 27 abr 2026 attacked by The

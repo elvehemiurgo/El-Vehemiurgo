@@ -164,6 +164,22 @@ booking con el de Lola Vice. Ver
 formalizada como retadora titular. Ver
 [`../segments/2026-04-25-promo-video-la-catalina-aaa-worldwide.md`](../segments/2026-04-25-promo-video-la-catalina-aaa-worldwide.md).
 
+### Sesión 2026-07-14 s42 — vs Jackson: triple clase, "se dieron con todo"
+
+**Cita verbatim**:
+
+> *"la catalina vs jackson tambien se merece todas las clases, se
+> dieron con todo, buen selling, muy prolija de hecho, podrían
+> ponerse más oldschool, sobre todo para recibir strikes, pero si
+> la lucharon, si me parece wrestling de calidad."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: triple clase con reserva técnica puntual
+(podría recibir strikes de forma más old-school) — segunda pieza
+consecutiva de su expediente de singles en AAA. Ver
+[`../matches/2026-05-09-la-catalina-vs-jackson-aaa-worldwide.md`](../matches/2026-05-09-la-catalina-vs-jackson-aaa-worldwide.md).
+
 ## Piezas relacionadas
 
 - [`./kira.md`](./kira.md) — **heredera natural local hero

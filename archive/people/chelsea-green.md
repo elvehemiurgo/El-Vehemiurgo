@@ -55,6 +55,24 @@ Vehemiurgo lee el segmento como parte del desarrollo dirigido de
 Giulia, con "presión de la buena". Ver
 [`./giulia.md`](./giulia.md).
 
+### Sesión 2026-07-14 s42 — "El booking de Chelsea continúa desde casa"
+
+**Cita verbatim**:
+
+> *"el bookeo de Chelsea continua desde casa, no sé que está
+> planeando con Tiffany ahra que ya no está KLR en el roster, no
+> alba fire, peor el midcard está muy bien nutrido"*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: sin clase — reconocimiento de que Chelsea
+Green sigue influyendo en el booking del midcard femenino aunque
+esté ausente de pantalla ("desde casa"), con incertidumbre
+editorial explícita sobre el plan a futuro con Tiffany Stratton.
+Menciona la ausencia de "KLR" [verif] y de Alba Fyre del roster/
+ecuación actual. Ver
+[`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -63,10 +81,14 @@ Giulia, con "presión de la buena". Ver
 - [ ] Registro completo de matches previos listados en la lista
       personal (vs Giulia, vs Jordynne Grace, vs Tiffany
       Stratton/Lash Legend, con Sol Ruca).
+- [ ] Identificar "KLR" — [verif].
+- [ ] Confirmar rol/ausencia de Alba Fyre en el ciclo de booking
+      actual.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md`](../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md)
+- [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)
 
 ## Cross-links
 

@@ -46,14 +46,28 @@ editorial de la sesión recae en El Grande Americano/Chad Gable, no
 en Octagón Jr. individualmente. Ver
 [`./el-grande-americano.md`](./el-grande-americano.md).
 
+### Sesión 2026-07-14 s42 — Triple threat vs El Toro y Lince: Fighting Spirit
+
+**Cita verbatim**:
+
+> *"del toro vs octagon vs lince, se merece el fighting spirit, son
+> muy pros, tremenda lucha."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Fighting Spirit, sin protagonismo
+singularizado. Ver
+[`../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa AAA.
-- [ ] Finish/duración del match.
+- [ ] Finish/duración de ambos matches.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md`](../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md)
+- [`../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md)
 
 ## Cross-links
 

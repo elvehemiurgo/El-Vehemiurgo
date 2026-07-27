@@ -67,16 +67,45 @@ archivo — caracterización densa dentro del debut de Fatal
 Influence en SmackDown. Ver
 [`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s42 — "Levanta la promo" y roba el foco: "la más indie, pero ya se mueve como wrestler real"
+
+**Cita verbatim**:
+
+> *"luego Lainey Reed levanta la promo muy bien [...] Henley
+> comienza vendiendo hasta que Reed le ayuda c distraer a Alexa
+> [...] de las 3 la más indie es Layne, peor se ha dejado couchear
+> y se mueve como wrestler real [...] Me gustó especialmente los
+> momentos de Layne vs Rhea, ese versus promete, ojalá interactuen
+> muchisimo."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: mejor promo de las tres en el debut de la
+terna (levanta el nivel tras el tropiezo de Fallon), y dentro del
+match triple clase se destaca su transición de perfil "indie" a
+"wrestler real" gracias al coaching. Versus futuro señalado
+explícitamente: **Lainey Reid vs Rhea Ripley**. Ver
+[`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
+y
+[`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Título de pareja exacto que sostiene con/contra Fallon
       Henley — [verif].
 
+## Piezas del Vehemiurgo donde aparece
+
+- [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
+- [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)
+
 ## Cross-links
 
 - [`./fallon-henley.md`](./fallon-henley.md) — mencionada en el
   mismo elogio.
 - [`./jacy-jayne.md`](./jacy-jayne.md) — líder de Fatal Influence.
+- [`./rhea-ripley.md`](./rhea-ripley.md) — próximo versus
+  prometedor, deseado por el Vehemiurgo.
 - [`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md)
 - [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md) — panteón, #38.

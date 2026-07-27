@@ -262,6 +262,22 @@ con el Cross Rhodes final "brutal". Ver
 y
 [`../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s42 — Firma de contrato con Gunther + Heyman + emboscada
+
+**Cita verbatim**:
+
+> *"la entrada de Cody con cortes a GUnther backstage con su firma
+> de contrato y todo, estuvo bien logrado, me entretuvo, y el back
+> and forth con COdy y Heyman tambien estuvo bien, luego la
+> emboscada de Gunther, se merece un enterteinment class todo este
+> segmento, buen build up."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — build hacia el
+enfrentamiento con Gunther. Ver
+[`../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md`](../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md).
+
 ### Dossieres centrales
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
 - [`../../dossiers/draft-wwe-money-in-the-bank-2013-cluster.md`](../../dossiers/draft-wwe-money-in-the-bank-2013-cluster.md)

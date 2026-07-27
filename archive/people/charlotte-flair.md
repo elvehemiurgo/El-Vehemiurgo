@@ -72,6 +72,22 @@ tags: [charlotte-flair, ric-flair-hija, wwe-smackdown-2026, veterana, fighting-s
 4. **Fighting Spirit + Wrestling Entertainment** en el match vs
    Jacy Jayne — "Jacy le sacó una buena lucha a Charlotte".
 
+### Sesión 2026-07-14 s42 — Parte de Irresistible Forces: hostilidad trabajada con Rhea
+
+**Cita verbatim**:
+
+> *"se ven muy cool como tercia, es booking apretado porque
+> trabajaron el hostilidad entre Rhea y CHarlotte"*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Perfect Wrestling + Fighting Spirit +
+Wrestling Entertainment como parte del trío Irresistible Forces —
+su hostilidad previa con Rhea Ripley fue trabajada deliberadamente
+antes de unirlas como aliadas. Ver
+[`../promotions/irresistible-forces.md`](../promotions/irresistible-forces.md),
+[`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Confirmar nombre real, debut, trayectoria completa (carrera
@@ -83,6 +99,8 @@ tags: [charlotte-flair, ric-flair-hija, wwe-smackdown-2026, veterana, fighting-s
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md)
+- [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
+- [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)
 
 ## Cross-links
 

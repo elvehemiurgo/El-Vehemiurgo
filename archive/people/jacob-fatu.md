@@ -168,6 +168,22 @@ emocional genuina, continuidad directa de la presión de carrera
 ya documentada. Ver
 [`../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md`](../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md).
 
+### Sesión 2026-07-14 s42 — Firma de contrato vs Roman Reigns: "quieren darle algo importante"
+
+**Cita verbatim**:
+
+> *"la firma de contrato con Jacob y Roman, estuvo entretenido,
+> buenas promos, se merece el enterteinment class, no estoy tan
+> enganchado, pero si está bien hecho, si quieren darle algo
+> importante a Jacob."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment con reserva de
+enganche personal — lectura de intención de booking mayor para
+Jacob. Ver
+[`../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md`](../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología MLW completa con fechas de title runs.
@@ -180,6 +196,7 @@ ya documentada. Ver
 
 ## Piezas relacionadas
 
+- [`../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md`](../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md)
 - [`solo-sikoa.md`](./solo-sikoa.md) — líder MFTs, oponente
   interno.
 - [`tama-tonga.md`](./tama-tonga.md) — co-miembro MFTs.

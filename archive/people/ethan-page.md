@@ -138,11 +138,29 @@ victoria vs Jevon Evans con ayuda de Rusev. Ver
 y
 [`../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md).
 
+### Sesión 2026-07-14 s42 — Invicto, promo desde la rampa "mucho más entretenido que Rollins"
+
+**Cita verbatim**:
+
+> *"Ethan tiene una promo desde la rampa, acaba de hacerle un pin
+> al campeon intercontinental, está invicto, y esta promo tipo
+> house show le quedó genial, es mucho más entretenido que
+> ROllins, ojalá ocupe más y más programación, lanzarlo con el
+> titulo ic parece el escenario perfecto para all ego."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: sin clase, pero comparación directa y
+favorable con Seth Rollins, y propuesta editorial de lanzarlo con
+el título Intercontinental. Ver
+[`../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md`](../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
 - [`../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md`](../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md)
 - [`../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md)
+- [`../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md`](../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md)
 - (Pendiente: matches y segmentos de la lista — Ethan tiene
   presencia recurrente en NXT 2025-2026 y Raw post-WM42.)

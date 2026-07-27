@@ -1,0 +1,66 @@
+---
+nombre: "Paul Heyman"
+tipo: fact-sheet
+categoria: people
+slug: paul-heyman
+estado: vivo
+ultima_actualizacion: 2026-07-14
+fuentes_principales:
+  - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
+tags: [paul-heyman, wwe-smackdown-2026, wrestling-entertainment, mic-work, primer-registro-individual]
+---
+
+# Paul Heyman
+
+> Primer registro individual del archivo, pese a ser una figura de
+> décadas en el negocio. Interviene en el "back and forth" con Cody
+> Rhodes durante la firma de contrato de Gunther.
+
+## Identificación
+
+- **Nombre**: Paul Heyman.
+- **Rol (2026)**: manager/advocate, órbita de Gunther en este
+  ángulo — mismo Heyman que orbita a Roman Reigns/Bron Breakker en
+  otros ciclos de booking del archivo.
+- **Empresa (2026)**: WWE.
+
+## Trayectoria condensada
+
+- **8/5/2026 (WWE SmackDown)** — back and forth con Cody Rhodes
+  dentro de la firma de contrato Cody/Gunther: Wrestling
+  Entertainment.
+  ([→](../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md)).
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-07-14 s42 — Back and forth con Cody: "también estuvo bien"
+
+**Cita verbatim**:
+
+> *"el back and forth con COdy y Heyman tambien estuvo bien, luego
+> la emboscada de Gunther, se merece un enterteinment class todo
+> este segmento, buen build up."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment compartida con todo
+el segmento — mic work reconocido dentro del build hacia el match
+Cody vs Gunther. Ver [`./cody-rhodes.md`](./cody-rhodes.md),
+[`./gunther.md`](./gunther.md).
+
+## Pendientes / huecos
+
+- [ ] Rol exacto y continuidad de Heyman en este ángulo vs otros
+      ciclos donde orbita a Bron Breakker/Roman Reigns — [verif]
+      si hay solapamiento narrativo.
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md`](../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md)
+
+## Cross-links
+
+- [`./cody-rhodes.md`](./cody-rhodes.md) ·
+  [`./gunther.md`](./gunther.md) ·
+  [`./bron-breaker.md`](./bron-breaker.md) — otra órbita de Heyman
+  en el archivo.

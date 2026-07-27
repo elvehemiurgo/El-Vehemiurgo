@@ -152,6 +152,8 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
   — segmento donde "salvó" el promo de Lola.
 - [`../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md`](../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md)
 - [`../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md)
+- [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
+- [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)
 - (Pendientes: matches y segmentos NXT 2026 + main roster
   post-WM42; muchos en notebook
   [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).)
@@ -233,3 +235,24 @@ considerado débil. Precedida por una promo de build contra
 [`../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md)
 y
 [`../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md`](../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md).
+
+### Sesión 2026-07-14 s42 — Debut de la terna vs Irresistible Forces: "super fuerte como siempre"
+
+**Cita verbatim**:
+
+> *"Jacy super fuerte como siempre [...] esta lucha se merece las 3
+> clases, me gustó mucho como debut de la tercia completa en acción
+> en el roster principal [...] Jacy sufrió con Alexa en unos
+> segundos accidentados, pero lo navega y el cierre de la lucha
+> estuvo cool"*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Perfect Wrestling + Fighting Spirit +
+Wrestling Entertainment — debut de Fatal Influence como terna
+completa en el roster principal contra Irresistible Forces
+(Alexa Bliss, Rhea Ripley, Charlotte Flair), con reserva puntual en
+el tramo Jacy/Alexa. Ver
+[`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
+y
+[`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md).

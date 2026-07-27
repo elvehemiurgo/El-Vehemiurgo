@@ -138,6 +138,21 @@ legitimidad ("no estás listo"), leída como wrestling old-school
 con sentimiento real. Ver
 [`../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md`](../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md).
 
+### Sesión 2026-07-14 s42 — Firma de contrato vs Jacob Fatu
+
+**Cita verbatim**:
+
+> *"la firma de contrato con Jacob y Roman, estuvo entretenido,
+> buenas promos, se merece el enterteinment class, no estoy tan
+> enganchado, pero si está bien hecho, si quieren darle algo
+> importante a Jacob."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment con reserva de
+enganche personal. Ver
+[`../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md`](../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md).
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

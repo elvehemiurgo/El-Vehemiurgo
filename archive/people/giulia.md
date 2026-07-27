@@ -128,6 +128,14 @@ reposicionamiento post pérdida del título ante Tiffany Stratton es
 un proceso deliberado ("toma tiempo, pero sí se puede"). Ver
 [`../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md`](../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s42 — Mención cruzada: "las confusiones con Giulia" en Kiana vs Tiffany
+
+**Contexto**: dentro del match Kiana James vs Tiffany Stratton
+(8/5/2026), el Vehemiurgo cita las tensiones sin resolver entre
+Kiana y Giulia como telón de fondo. Ver
+[`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md).
+No genera clase ni nota dedicada — mención cruzada.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa STARDOM (títulos,

@@ -123,6 +123,24 @@ audiencia entre AAA y WWE leído como logro de booking. Ver
 [`../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md`](../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md),
 [`../promotions/creed-brothers.md`](../promotions/creed-brothers.md).
 
+### Sesión 2026-07-14 s42 — Los Americanos 3v3: "se apoderan del show desde las entradas"
+
+**Cita verbatim**:
+
+> *"los americanos en su 3 contra 3 se apoderan del show, desde las
+> entradas, tremendo show tienen logrado, simplemente genial, top
+> tier booking, explican que las calausulas del contrato solo
+> aplican en méxico no en américa, y el show fue genial. Se merece
+> todas las clases."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: triple clase — tercer capítulo consecutivo
+de la semana editorial del ángulo Americano, con mecanismo carny
+de cláusula contractual territorial (aplica en México, no en
+EE.UU.). Ver
+[`../segments/2026-05-04-los-americanos-3v3-entradas-clausulas-wwe-raw.md`](../segments/2026-05-04-los-americanos-3v3-entradas-clausulas-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] **Prioridad alta**: aclarar si "Gable" y "Kaiser" son dos
@@ -141,3 +159,4 @@ audiencia entre AAA y WWE leído como logro de booking. Ver
 - [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)
 - [`../segments/2026-05-02-firma-contrato-grandes-americanos-creed-brothers-aaa-worldwide.md`](../segments/2026-05-02-firma-contrato-grandes-americanos-creed-brothers-aaa-worldwide.md)
 - [`../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md`](../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md)
+- [`../segments/2026-05-04-los-americanos-3v3-entradas-clausulas-wwe-raw.md`](../segments/2026-05-04-los-americanos-3v3-entradas-clausulas-wwe-raw.md)

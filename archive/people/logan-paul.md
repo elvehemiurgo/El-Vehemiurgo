@@ -36,9 +36,27 @@ subordinado en importancia a Bron Breaker dentro del mismo
 segmento. Ver
 [`../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md`](../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md).
 
+### Sesión 2026-07-14 s42 — Interrumpe el concierto de Hendry: "lo volvería a ver"
+
+**Cita verbatim**:
+
+> *"el concierto de Hendry y la interrupción de Logan hicieron un
+> buen segmento, me entretuvo y lo volvería a ver, se merece un
+> enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment. Ver
+[`../segments/2026-05-04-concierto-hendry-interrupcion-logan-paul-wwe-raw.md`](../segments/2026-05-04-concierto-hendry-interrupcion-logan-paul-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Naturaleza exacta del ángulo con "Speed" — [verif].
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md`](../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md)
+- [`../segments/2026-05-04-concierto-hendry-interrupcion-logan-paul-wwe-raw.md`](../segments/2026-05-04-concierto-hendry-interrupcion-logan-paul-wwe-raw.md)
 
 ## Cross-links
 

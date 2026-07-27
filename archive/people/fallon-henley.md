@@ -89,6 +89,25 @@ Influence en su debut de SmackDown, con Fighting Spirit +
 Wrestling Entertainment en el match resultante (Jacy vs Rhea). Ver
 [`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s42 — Debut de la terna: "se tropieza un poco" en la promo, pero Alexa la pone over
+
+**Cita verbatim**:
+
+> *"Fallon se tropieza un poco en su promo [...] Fallon empieza con
+> Alexa y esta última la pone over tomandola enserio e imitandola,
+> es un acknoledgement importante, Henley comienza vendiendo hasta
+> que Reed le ayuda c distraer a Alexa"*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: reserva puntual en la promo (nivel de mic
+por debajo de Jacy y Lainey en esta ocasión), pero validada
+in-ring por Alexa Bliss dentro del Perfect Wrestling + Fighting
+Spirit + Wrestling Entertainment del 3v3 debut. Ver
+[`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
+y
+[`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -101,6 +120,8 @@ Wrestling Entertainment en el match resultante (Jacy vs Rhea). Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md`](../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md)
+- [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
+- [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)
 
 ## Cross-links
 

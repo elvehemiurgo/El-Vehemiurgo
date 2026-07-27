@@ -64,6 +64,20 @@ contraste desfavorable de estilo (técnica de Giulia más completa)
 la rival. Ver
 [`../matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s42 — vs Kiana James: "se puso más stiff, se ve genial"
+
+**Cita verbatim**:
+
+> *"me alegra mucho que Tiffany se haya puesto más stiff, se ve
+> genial, fue una buena lucha, se merece el fighting spirit"*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment —
+elogio directo de evolución de estilo hacia mayor dureza física,
+como campeona US defendiendo el centro del midcard femenino. Ver
+[`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -73,6 +87,7 @@ la rival. Ver
 
 - [`../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md`](../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md)
 - [`../matches/2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md)
+- [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)
 
 ## Cross-links
 

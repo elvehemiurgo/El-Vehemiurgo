@@ -44,15 +44,29 @@ tags: [lince, aaa, perfect-wrestling, fighting-spirit, wrestling-entertainment, 
 **Lectura sintética**: primer registro individual, sin
 protagonismo singularizado más allá del elogio de conjunto.
 
+### Sesión 2026-07-14 s42 — Triple threat vs El Toro y Octagón Jr.: Fighting Spirit
+
+**Cita verbatim**:
+
+> *"del toro vs octagon vs lince, se merece el fighting spirit, son
+> muy pros, tremenda lucha."*
+>
+> — El Vehemiurgo, 2026-07-14 s42 (verbatim)
+
+**Lectura sintética**: Fighting Spirit, sin protagonismo
+singularizado más allá del elogio de conjunto. Ver
+[`../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] Confirmar si es Lince Dorado u otra identidad — [verif].
 - [ ] Nombre real, debut, trayectoria completa.
-- [ ] Finish/duración del match.
+- [ ] Finish/duración de ambos matches.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-18-zima-ion-vs-lince-vs-aerostar-aaa-worldwide.md`](../matches/2026-04-18-zima-ion-vs-lince-vs-aerostar-aaa-worldwide.md)
+- [`../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-el-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md)
 
 ## Cross-links
 
