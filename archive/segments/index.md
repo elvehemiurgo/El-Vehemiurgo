@@ -63,11 +63,25 @@ cada alta y con cada cambio de estado.
 | 2026-05-09 | Post-match — Don Callis & Ricochet | AEW / Collision — Fairway to Hell | promo (post-match) | — | stub | 1 | [→](2026-05-09-don-callis-ricochet-post-match-aew-collision.md) |
 | 2026-04-29 | Ospreay empieza a dejarse coachear por Moxley | AEW / Dynamite | angle / mentoría | — | stub | 1 | [→](2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md) |
 | 2026-04-29 | Thekla — gran promo (asistida por Sky Blue) | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-29-thekla-promo-aew-dynamite.md) |
+| 2026-04-27 | Presentación de Joe Hendry vs Logan Paul (concierto + interrupción heel) | WWE / Raw | concierto / promo in-ring / interrupción | WE | stub | 1 | [→](2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md) |
+| 2026-04-25 | Promo video: La Catalina, retadora para Lady Flamer | AAA / AAA Worldwide | promo video (hype package) | — | stub | 1 | [→](2026-04-25-promo-video-la-catalina-aaa-worldwide.md) |
+| 2026-04-24 | Jacob Fatu se come al Bloodline de Solo Sikoa (cierre de show) | WWE / SmackDown | ataque / cierre de show | WE | stub | 1 | [→](2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md) |
+| 2026-04-24 | Fatal Influence interrumpe a Rhea Ripley (segundo segmento de la noche) | WWE / SmackDown | promo in-ring / confrontación de facción | WE | stub | 1 | [→](2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md) |
+| 2026-04-24 | Promo larga de Cody Rhodes — 'fighting champion' | WWE / SmackDown | promo in-ring | WE | stub | 1 | [→](2026-04-24-cody-rhodes-promo-fighting-champion-wwe-smackdown.md) |
+| 2026-04-24 | Momento de Jacob Fatu — los Usos aburren, Solo Sikoa salva el segmento | WWE / SmackDown | promo in-ring / multi-protagonist | — | stub | 1 | [→](2026-04-24-usos-aburren-solo-salva-segmento-wwe-smackdown.md) |
 | 2026-04-24 | Jacob Fatu — segmento (con promos Jimmy y Fatu + Tama Tonga) | WWE / SmackDown | in-ring promo / multi-protagonist segment | — | en-investigacion | 1 | [→](2026-04-24-jacob-fatu-segment-smackdown.md) |
-| 2026-04-24 | Fatal Influence — debut WWE SmackDown (call-up post-WrestleMania 42) | WWE / SmackDown | faction debut / multi-segment | — | en-investigacion | 1 | [→](2026-04-24-fatal-influence-debut-smackdown.md) |
+| 2026-04-24 | Fatal Influence — debut WWE SmackDown (call-up post-WrestleMania 42) | WWE / SmackDown | faction debut — ataque a la división tag team (primero de dos segmentos de la noche) | WE | en-investigacion | 1 | [→](2026-04-24-fatal-influence-debut-smackdown.md) |
 | 2026-04-22 | MJF — segmento previo al main event | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md) |
+| 2026-04-21 | Promo de Lexis King (Birth Right) | WWE / NXT Revenge — Week 2 | promo in-ring | WE | stub | 1 | [→](2026-04-21-lexis-king-promo-birth-right-wwe-nxt-revenge-week-2.md) |
+| 2026-04-21 | Lola Vice, segmento como campeona face — Izzi Dame interrumpe | WWE / NXT Revenge — Week 2 | promo in-ring / interrupción | — | stub | 1 | [→](2026-04-21-lola-vice-segmento-campeona-izzi-interrumpe-wwe-nxt-revenge-week-2.md) |
 | 2026-04-21 | Segmento backstage: Saquon Shugars con Dark State | WWE / NXT Revenge — Week 2 | promo backstage | — | stub | 1 | [→](2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md) |
 | 2026-04-21 | Segmento: Jackson Drake y el Vanity Project | WWE / NXT Revenge — Week 2 | promo / character segment | WE | stub | 1 | [→](2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md) |
+| 2026-04-20 | Promo de Jacob Fatu contra Roman Reigns | WWE / Raw | promo in-ring | — | stub | 1 | [→](2026-04-20-jacob-fatu-promo-vs-roman-wwe-raw.md) |
+| 2026-04-20 | Segmento in-ring: los chicos de Paul Heyman (Bron Breaker, Logan Paul/Speed) | WWE / Raw | in-ring / posicionamiento de grupo | — | stub | 1 | [→](2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md) |
+| 2026-04-20 | Promo video: Brock Lesnar | WWE / Raw | promo video (hype package) | WE | stub | 1 | [→](2026-04-20-promo-video-brock-lesnar-wwe-raw.md) |
+| 2026-04-20 | Debut de Sol Ruca interrumpiendo la celebración de Liv Morgan | WWE / Raw | promo in-ring / debut | — | stub | 1 | [→](2026-04-20-sol-ruca-debut-interrumpe-liv-morgan-wwe-raw.md) |
+| 2026-04-20 | CM Punk regresa tras perder el título + entrada de Cody Rhodes | WWE / Raw | promo in-ring / entrada | WE | stub | 1 | [→](2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md) |
+| 2026-04-20 | Debut de Ethan Page: backstage con Adam Pearce | WWE / Raw | promo backstage / debut | — | stub | 1 | [→](2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md) |
 | 2026-04-20 | JD McDonagh & Finn Bálor: video promo dual (build pre-match) | WWE / Monday Night Raw — Raw After | vignette dual pre-grabada | — | en-investigacion | 0 | [→](2026-04-20-jd-mcdonagh-video-promo-raw.md) |
 | 2026-04-15 | Promo — Thekla & Windsor | AEW / Spring BreakThru | promo (dúo) | WE | stub | 1 | [→](2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md) |
 | 2026-04-14 | Vanity Project & Blake Monroe segment con Robert Stone — 'Listen buddy' | WWE / NXT Revenge — Week 1 | in-ring / backstage segment con GM interino | — | en-investigacion | 1 | [→](2026-04-14-vanity-project-blake-monroe-robert-stone-segment-nxt-revenge-week-1.md) |

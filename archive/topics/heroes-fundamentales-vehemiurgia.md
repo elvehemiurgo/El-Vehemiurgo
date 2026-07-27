@@ -72,7 +72,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 24 | **RVD (Rob Van Dam)** | ECW / highspot carny | _(ficha pendiente)_ |
 | 25 | **Kira** (luchadora mexicana CMLL) | Lucha libre / heredera local | [→](../people/kira.md) |
 
-### Fundamentales (#26-47, sin orden — todos pesan igual)
+### Fundamentales (#26-48, sin orden — todos pesan igual)
 
 | # | Héroe | Rama | Ficha |
 |---|---|---|---|
@@ -98,6 +98,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 45 | **Kazarian & Daniels** (Bad Influence / The Addiction) | Tag / TNA-ROH (cuentan como uno) | [→](../people/frankie-kazarian.md) *(Daniels pendiente)* |
 | 46 | **Darby Allin** | AEW moderno / daredevil-real | [→](../people/darby-allin.md) |
 | 47 | **Zack Sabre Jr** | Mat wrestling / submisiones técnicas | [→](../people/zack-sabre-jr.md) |
+| 48 | **Finn Bálor / Prince Devitt** | Bullet Club original / Demon gimmick | [→](../people/finn-balor.md) |
 
 ## Notas de la expansión 2026-06-17
 
@@ -194,6 +195,30 @@ El panteón ahora tiene **tres niveles de jerarquía**:
   — consolidación de calidad a través de todo el arco, no un pico
   aislado.
 - **Panteón total: 47 entradas.**
+
+## Notas de la alta 2026-07-14 — Finn Bálor / Prince Devitt (#48)
+
+> *"añadamos a Prince Devitt/Finn Balor al panteon de heroes"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+- **Finn Bálor entra como Héroe Fundamental #48** — sin tier ni
+  número especificado; se registra al final de los Fundamentales
+  (#26-48), mismo protocolo que Darby Allin (#46) y Zack Sabre Jr
+  (#47).
+- **Contexto de la alta**: dispara el mismo día que el regreso del
+  gear clásico de Prince Devitt en el match vs JD McDonagh (Raw
+  20/4/2026, Perfect Match), lejos del gimmick del Demon —
+  ver
+  [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
+  El propio Vehemiurgo venía de calificar el Demon como *"lo que
+  arruinó a Finn Balor en wwe"* (s38) — la alta llega en el
+  momento exacto en que el booking se aleja de esa carga.
+- **Doble identidad reconocida en el nombre de la alta**: "Prince
+  Devitt/Finn Bálor" — el Vehemiurgo declara el héroe a través de
+  ambas etapas de su carrera (NJPW Bullet Club original + WWE),
+  no solo la actual.
+- **Panteón total: 48 entradas.**
 
 ## Notas de la alta 2026-07-14 — Psicosis (#29, ratificación + ficha creada)
 

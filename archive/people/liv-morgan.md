@@ -170,7 +170,21 @@ Vaquer. Ver
 mayor. Ver
 [`../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md`](../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md).
 
+### Sesión 2026-07-14 s39 — Retiene vs debut de Sol Ruca
+
+**Cita verbatim**:
+
+> *"la promo de Liv estuvo okay, tampoco dijo nada muy polémico o
+> emocionante, pero su interacción con Sol fue muy cool"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: retiene ante la debutante Sol Ruca con
+asistencia de Zaria (también debutando). Ver
+[`../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md`](../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md`](../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md)
+- [`../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md`](../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md)
 - [`../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md)

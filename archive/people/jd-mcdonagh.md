@@ -113,9 +113,22 @@ sección 3.
 - [ ] Cobertura de prensa irlandesa (*Sun*, *Mirror*, *Irish
       Examiner*, *RTÉ*).
 
+### Sesión 2026-07-14 s39 — Alta a THE FUTURE: Perfect Match vs Bálor
+
+**Cita verbatim**:
+
+> *"la lucha se merece las 3 clases, estos dos son increíbles [...]
+> a McDonagh en la lista de FUTURE"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: **THE FUTURE in 2026 #16** — Perfect Match
+contra Finn Bálor en Raw, disparador directo de la alta al
+panteón de Bálor/Devitt. Ver
+[`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — vignette dual con Bálor.
-- (Pendiente: matches Bálor vs McDonagh del 4/20 y rematch del 4/5
-  en Omaha.)
+- [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md)

@@ -1,7 +1,7 @@
 ---
 segmento: "Fatal Influence — debut WWE SmackDown (call-up post-WrestleMania 42)"
 slug: "fatal-influence-debut-smackdown-2026-04-24"
-tipo_segmento: "faction debut / multi-segment (incluye crash a Rhea + match Jacy vs Rhea)"
+tipo_segmento: "faction debut — ataque a la división tag team (primero de dos segmentos de la noche)"
 protagonistas:
   - "Jacy Jayne"
   - "Fallon Henley"
@@ -15,16 +15,16 @@ ubicacion_en_show: ""
 duracion: ""
 linea_textual: ""
 gimmick_momento: "Fatal Influence completa cargando call-up post-NXT — primera faction call-up del periodo TKO 2025-2026."
-storyline: "Debut main roster post-despedida NXT (donde dejaron over a WrenQCC y Lola Vice). Crash en segmento de Rhea Ripley + match Jacy vs Rhea — entrada agresiva, no debut suave."
+storyline: "Debut main roster post-despedida NXT (donde dejaron over a WrenQCC y Lola Vice). Primer segmento de la noche: ataque a la división tag team. Segundo segmento + match (Jacy vs Rhea) registrados aparte — ver piezas relacionadas."
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "THE GREATEST ACT IN WWE NOW IN THE BIG LEAGUES, THE WHOLE ACT IS HERE"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Wrestling Entertainment — 'THE GREATEST ACT IN WWE NOW IN THE BIG LEAGUES' + 'se merece el enterteinment class' (primer segmento: ataque a la división tag team)"
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-04-24 (anotación en notebook list)"
 tags: [wwe-2026, smackdown, fatal-influence, debut-main-roster, call-up-tko, jacy-jayne, fallon-henley, lainey-reid, rhea-ripley-crash]
@@ -75,21 +75,43 @@ tags: [wwe-2026, smackdown, fatal-influence, debut-main-roster, call-up-tko, jac
   *"poblar-slots"* de los call-ups individuales (Sol Ruca, Ethan
   Page, Joe Hendry, etc.).
 
+### Sesión 2026-07-14 s39 — Ataca la división tag team para "salvarla" (segmento 1 de 2 esta noche)
+
+**Cita verbatim**:
+
+> *"el debut de Fatal Influence en SmackDown, atacando a la
+> división tag team para salvarla, por fin algo emocionante en la
+> programación, debut fuerte, en tercias como le gusta a WWE por
+> alguna razón, booking fuerte contra las faces que si tienen sus
+> fans pero su estilo es debil, esta nueva generación viene a
+> desplazarlas de una vez y salvar el wrestling; este segmento se
+> merece el enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: **primer** de dos segmentos de Fatal
+Influence en la misma noche — este ataca la división de parejas,
+posicionando al trío como salvadoras del wrestling frente a faces
+establecidas de estilo "débil". El **segundo** segmento de la
+noche (interrupción a Rhea Ripley) y el match resultante (Jacy vs
+Rhea) tienen registro propio — ver
+[`../segments/2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md`](../segments/2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md)
+y
+[`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md).
+
 ## Clase del Vehemiurgo
 
-(Pendiente. Declaración categórica *"greatest act in WWE now"*
-sostiene candidatura **Wrestling Entertainment Class** muy
-fuerte. Espera disparo del Vehemiurgo para asignar formalmente.)
+**Wrestling Entertainment** — asignada por cita verbatim 2026-07-14
+(*"este segmento se merece el enterteinment class"*), que además
+confirma retroactivamente la candidatura fuerte que ya sostenía la
+declaración *"greatest act in WWE now"* del notebook 2026-05-09.
 
 ## Pendientes / huecos
 
 - [ ] Líneas textuales del segmento — preservar contra video.
-- [ ] Composición específica del segmento (crash a Rhea + match
-      Jacy vs Rhea + entrada Fallon + Lainey — secuencia exacta).
+- [ ] Roster exacto de la división tag team atacada.
 - [ ] Lugar dentro del show, duración.
 - [ ] Cobertura PWTorch / POST / Cornette del show.
-- [ ] **Asignación de clase del Vehemiurgo** (Wrestling
-      Entertainment es candidato muy fuerte).
 
 ## Piezas relacionadas
 
@@ -102,3 +124,7 @@ fuerte. Espera disparo del Vehemiurgo para asignar formalmente.)
   opuesto comparativo (call-up TKO que se desarmó).
 - [`../topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md)
   — primera faction call-up del periodo TKO según dossier.
+- [`../segments/2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md`](../segments/2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md)
+  — segundo segmento, misma noche.
+- [`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md)
+  — match resultante.

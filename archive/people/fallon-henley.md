@@ -73,6 +73,22 @@ sectorial al booking de títulos en pareja femeninos — Fallon
 Henley y Lainey Reid nombradas como la única excepción positiva.
 Ver [`./lainey-reid.md`](./lainey-reid.md).
 
+### Sesión 2026-07-14 s39 — Debut SmackDown: "campesina muy loca y muy ruda"
+
+**Cita verbatim**:
+
+> *"Fallon es una campesina muy loca y muy ruda y muy estridente,
+> es muy intensa es muy brusca muy ruda al emocionarse grita
+> golpea fuerte se arroja head first"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: la caracterización más densa registrada
+hasta ahora — parte del trío "sureño slam bang" de Fatal
+Influence en su debut de SmackDown, con Fighting Spirit +
+Wrestling Entertainment en el match resultante (Jacy vs Rhea). Ver
+[`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

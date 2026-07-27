@@ -54,9 +54,19 @@ con cada cambio de estado.
 | 2026-04-29 | Darby Allin (c) vs Brody King — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md) |
 | 2026-04-29 | Cope (Adam Copeland) & Christian Cage vs RPG Vice | AEW / Dynamite | WE | stub | 1 | [→](2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md) |
 | 2026-04-29 | MJF vs Kevin Knight | AEW / Dynamite | — | stub | 1 | [→](2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md) |
+| 2026-04-27 | Rey Mysterio vs El Grande Americano | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md) |
+| 2026-04-25 | El Grande Americano & Texano Jr. vs Mesías & Mechawolf | AAA / AAA Worldwide | — | en-investigacion | 1 | [→](2026-04-25-grande-americano-texano-vs-mesias-mechawolf-aaa-worldwide.md) |
+| 2026-04-25 | Laredo vs Wagner | AAA / AAA Worldwide | FS | en-investigacion | 1 | [→](2026-04-25-laredo-vs-wagner-aaa-worldwide.md) |
+| 2026-04-25 | La Parka & Rey Fénix vs Money Machine | AAA / AAA Worldwide | FS·WE | en-investigacion | 1 | [→](2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md) |
+| 2026-04-24 | Jacy Jayne vs Rhea Ripley | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md) |
+| 2026-04-24 | Giulia vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-04-22 | Darby Allin (c) vs Tomasso [sic — presumido Tomohiro Ishii] — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md) |
 | 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |
+| 2026-04-21 | Sol Ruca vs Zaria (grudge match) | WWE / NXT Revenge — Week 2 | FS·WE | en-investigacion | 1 | [→](2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md) |
 | 2026-04-21 | EK vs Lexis King | WWE / NXT Revenge — Week 2 | FS | en-investigacion | 1 | [→](2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md) |
+| 2026-04-20 | Sol Ruca vs Liv Morgan | WWE / Raw | WE | en-investigacion | 1 | [→](2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md) |
+| 2026-04-20 | Ethan Page vs Jevon Evans | WWE / Raw | WE | en-investigacion | 1 | [→](2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md) |
+| 2026-04-20 | JD McDonagh vs Finn Bálor | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md) |
 | 2026-04-19 | Dominik Mysterio vs Finn Bálor (The Demon) | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md) |
 | 2026-04-19 | Rhea Ripley vs Jade Cargill | WWE / WrestleMania 42 Día 2 | — | en-investigacion | 1 | [→](2026-04-19-rhea-ripley-vs-jade-cargill-wrestlemania-42.md) |
 | 2026-04-19 | CM Punk vs Roman Reigns | WWE / WrestleMania 42 Día 2 | PW·FS·WE | en-investigacion | 1 | [→](2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) |

@@ -50,9 +50,24 @@ psicología.
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Finish/duración del match vs Waller.
 
+### Sesión 2026-07-14 s39 — Main roster: "más psicología", lejos del indie spotfest
+
+**Cita verbatim**:
+
+> *"este ya es un clásico de nxt, aqui Jevon se ve con más
+> psicología, está lejos de ser una lucha indie de solo spots"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: confirma la trayectoria de desarrollo
+paciente ya elogiada (23/3/2026) — ahora en el main roster, con
+psicología más marcada. Ver
+[`../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-03-23-waller-vs-jevon-evans-wwe-raw.md`](../matches/2026-03-23-waller-vs-jevon-evans-wwe-raw.md)
+- [`../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md)
 
 ## Cross-links
 

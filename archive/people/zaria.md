@@ -150,3 +150,30 @@ vehículo que protege a Sol mientras pone over a otras). Ver
 [`../segments/2026-04-04-promo-video-sol-vs-zaria-wwe-nxt-stand-and-deliver.md`](../segments/2026-04-04-promo-video-sol-vs-zaria-wwe-nxt-stand-and-deliver.md)
 y
 [`../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md).
+
+### Sesión 2026-07-14 s39 — Debuta en el main roster protegiendo a Sol otra vez
+
+**Cita verbatim**:
+
+> *"usan el debut de Zaria tambien para protegerla y que retenga
+> Liv"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: mismo mecanismo de booking ya documentado
+en NXT, ahora trasladado al main roster el mismo día del debut de
+Sol Ruca. Ver
+[`../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md`](../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md).
+
+### Sesión 2026-07-14 s39 — Grudge match payoff vs Sol Ruca
+
+**Cita verbatim**:
+
+> *"estas dos tenian que ponerse over mutuamente y matarse en el
+> ring, le metieron muy bien, se protegieron muy bien"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: doble clase para el payoff de la rivalidad.
+Ver
+[`../matches/2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md`](../matches/2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md).

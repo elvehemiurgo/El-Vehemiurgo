@@ -201,6 +201,16 @@ Tres ejes del criterio:
 - **Ficha**: [`../people/izzi-dame.md`](../people/izzi-dame.md).
 - **Match anchor**: vs Tatum Paxley, WWE NXT 17/3/2026.
 
+### #16 — JD McDonagh *(declarado 2026-07-14 s39)*
+
+- **Empresa**: WWE (main roster, con raíz NXT/Judgment Day).
+- **Por qué entra**: parte del Perfect Match vs Finn Bálor (Raw
+  20/4/2026) que dispara la alta de Bálor/Devitt al panteón —
+  *"estos dos son increíbles"*.
+- **Ficha**: [`../people/jd-mcdonagh.md`](../people/jd-mcdonagh.md).
+- **Match anchor**: vs Finn Bálor, WWE Raw, 20/4/2026 (Perfect
+  Match).
+
 ## El advertencia editorial — *"no como Santana"*
 
 El Vehemiurgo encuadra la lista con una **advertencia comparativa**
@@ -283,13 +293,13 @@ explícitamente *encabeza la lista*).
 - [`../people/wren-sinclair.md`](../people/wren-sinclair.md) — #13.
 - [`../people/kendal-grey.md`](../people/kendal-grey.md) — #14.
 - [`../people/izzi-dame.md`](../people/izzi-dame.md) — #15.
+- [`../people/jd-mcdonagh.md`](../people/jd-mcdonagh.md) — #16.
 - **Nota de composición**: 4 **TNA Knockouts** (M by Elegance,
-  Arianna Grace, Myla Grace, Mila Moore) + 9 **WWE NXT** (Saquon
+  Arianna Grace, Myla Grace, Mila Moore) + 10 **WWE** (Saquon
   Shugars, Jacy Jayne, Sol Ruca, Zaria, Jackson Drake, Blake
-  Monroe, Wren Sinclair, Kendal Grey, Izzi Dame) + 2 **AEW**
-  (Kevin Knight, Lio Rush). La sesión s35 (2026-07-14) convierte a
-  WWE NXT en la rama dominante de la lista, superando a TNA por
-  primera vez.
+  Monroe, Wren Sinclair, Kendal Grey, Izzi Dame, JD McDonagh) + 2
+  **AEW** (Kevin Knight, Lio Rush). WWE es la rama dominante de la
+  lista desde s35.
 - [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
   — anchor del #1 (mismo show que el del #3).
 - [`../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md`](../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md)

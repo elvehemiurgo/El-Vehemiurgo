@@ -203,6 +203,20 @@ del moderno carny ortodoxo** — talent con voice + workrate
 selectivo sobre Punk pero respetuoso (especialmente
 post-pipebomb 2011).
 
+### Sesión 2026-07-14 s39 — Regreso post-título perdido, promo face tranquila
+
+**Cita verbatim**:
+
+> *"Punk sale despues de perder el título, no se toma tiempo ni
+> nada como es costumbre, una promo cool muy face y tranqui"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: confirma que perdió el título ante Roman
+Reigns en WrestleMania 42. Wrestling Entertainment compartida con
+la entrada de Cody Rhodes. Ver
+[`../segments/2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md`](../segments/2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

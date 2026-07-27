@@ -96,6 +96,23 @@ arrancan en polos opuestos y cruzan posiciones. Ver
 [`./thekla.md`](./thekla.md) para el expediente completo de esa
 comparación.
 
+### Sesión 2026-07-14 s39 — Pierde el título vs Tiffany Stratton: Perfect Match, técnica superior
+
+**Cita verbatim**:
+
+> *"a Giulia si le sale el llaveo y los strikes y eso la diferencia
+> del estilo atletico developmental de Tiffany [...] su nivel de
+> calidad es muy alto y lo está usando para diferenciarse [...]
+> Giulia se queda con Kiona y problemas internos con posibilidad de
+> revancha [...] camino a Backlash"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: Perfect Match, pero pierde el título pese a
+la superioridad técnica declarada — queda con Kiana James y
+problemas internos, revancha proyectada a Backlash 2026. Ver
+[`../matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa STARDOM (títulos,

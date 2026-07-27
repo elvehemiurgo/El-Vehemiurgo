@@ -154,6 +154,31 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
   post-WM42; muchos en notebook
   [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).)
 
+### Sesión 2026-07-14 s39 — Debut SmackDown vs Rhea Ripley: "heel curtida", mejor promo que Dominik
+
+**Cita verbatim**:
+
+> *"Jacy [...] ha vivido muchas cosas geniales en su carrera, ha
+> sido la sidekick, ha sido la tercera rueda, ha traicionado y
+> sido traicionada, es una heel muy curtida para su edad, ella no
+> tiene amigas, solo asociadas, tiene también el chip on her
+> shoulder porque nunca fue pensada como personaje principal [...]
+> Jacy maneja mejor este tipo de promos que el mismo Dominik
+> Mysterio, tiene más fuerza en la voz"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: caracterización más completa registrada de
+su carrera — de sidekick/tercera rueda a heel "must watch",
+comparada favorablemente con Dominik Mysterio en manejo de mic.
+Doble segmento de debut (ataque a la división tag + interrupción
+a Rhea) más el match resultante, Fighting Spirit + Wrestling
+Entertainment. Ver
+[`../segments/2026-04-24-fatal-influence-debut-smackdown.md`](../segments/2026-04-24-fatal-influence-debut-smackdown.md),
+[`../segments/2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md`](../segments/2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md)
+y
+[`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md).
+
 ### Sesión 2026-07-14 s35 — Alta a THE FUTURE: química perfeccionada con Fatal Influence
 
 **Cita verbatim**:

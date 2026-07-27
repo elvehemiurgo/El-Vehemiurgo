@@ -150,10 +150,25 @@ canta sobrevivió al call-up WWE"*.)
 **Lectura sintética**: Wrestling Entertainment compartida. Ver
 [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md).
 
+### Sesión 2026-07-14 s39 — Presentación vs Logan Paul: "buen debut y booking muy esperanzador"
+
+**Cita verbatim**:
+
+> *"nos presentaron la idea de Hendry vs Logan Paul, suena genial
+> en papel, y despegó con el concierto de Hendry [...] buen debut
+> y booking muy esperanzador"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el arranque de
+un nuevo feud en el main roster. Ver
+[`../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md`](../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
+- [`../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md`](../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md)
 - (Pendiente: Joe Hendry & Jeff Hardy concert TNA Impact 2025;
   Booker T singing his entrance NXT 10.02.2026; main event NXT
   Stand & Deliver 4-way; debut Raw 27 abr 2026 attacked by The

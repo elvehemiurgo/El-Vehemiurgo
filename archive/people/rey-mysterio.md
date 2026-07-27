@@ -215,7 +215,22 @@ fértil sobre cross-pollination cultural sostenida**.
 - [ ] **AAA-WWE working agreement Rey bridge 2024+** — pieza
       editorial cross-promotion.
 
+### Sesión 2026-07-14 s39 — vs El Grande Americano: Perfect Match corto
+
+**Cita verbatim**:
+
+> *"Mysterio vs Grande [...] esta lucha se merece las 3 clases,
+> cortita, todos los hits de ambos, buena lucha libre"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: Perfect Match como preparación de cara a
+Noche de los Grandes (AAA). Ver
+[`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
+
+- [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)
 
 ### Centerpieces principales
 - [`../matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md`](../matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md)

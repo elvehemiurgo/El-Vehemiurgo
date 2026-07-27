@@ -14,6 +14,11 @@ fuentes_principales:
 
 # Finn Bálor
 
+> **Héroe Fundamental #48 del Vehemiurgo** ([panteón](../topics/heroes-fundamentales-vehemiurgia.md),
+> alta 2026-07-14 s39 — *"añadamos a Prince Devitt/Finn Balor al
+> panteón de héroes"*, disparada por el regreso del gear clásico
+> de Prince Devitt vs JD McDonagh, lejos del gimmick del Demon).
+
 ## Identificación
 
 - **Nombre real**: Fergal Devitt.
@@ -186,9 +191,30 @@ gimmick sin matices, la más dura registrada sobre Bálor en el
 archivo. Ver
 [`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md).
 
+### Sesión 2026-07-14 s39 — Perfect Match sin el Demon: alta al panteón (#48)
+
+**Cita verbatim**:
+
+> *"McDonagh vs Balor, por fin sin el demon [...] vuelve el gear de
+> Prince Devitt clásico y espero este sea buen augurio para el
+> booking de Finn lejos del demon; la lucha se merece las 3
+> clases, estos dos son increíbles; añadamos a Prince Devitt/Finn
+> Balor al panteon de heroes"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: **Héroe Fundamental #48** — al día
+siguiente de la crítica más dura contra el Demon (s38), el
+booking se corrige y Bálor recibe la nota más alta posible
+(Perfect Match) con el regreso del gear de Prince Devitt. La alta
+al panteón reconoce explícitamente ambas identidades de carrera.
+Ver
+[`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — vignette dual con McDonagh.
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)
 - [`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md)
+- [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md)

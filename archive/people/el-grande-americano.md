@@ -80,3 +80,5 @@ y
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
 - [`../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md`](../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md)
 - [`../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md`](../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md)
+- [`../matches/2026-04-25-grande-americano-texano-vs-mesias-mechawolf-aaa-worldwide.md`](../matches/2026-04-25-grande-americano-texano-vs-mesias-mechawolf-aaa-worldwide.md)
+- [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)

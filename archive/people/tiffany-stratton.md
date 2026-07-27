@@ -50,10 +50,24 @@ propio — reconocimiento de progresión de estilo hacia mayor dureza
 física, coherente con su aparición previa (swanton elogiado vs
 Giulia).
 
+### Sesión 2026-07-14 s39 — Corona vs Giulia: Perfect Match, "stiff se ve genial"
+
+**Cita verbatim**:
+
+> *"esta Tiffany stiff se ve genial [...] así coronan a Tiffany"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: gana el título en un Perfect Match, pese al
+contraste desfavorable de estilo (técnica de Giulia más completa)
+— el booking premia su historia sobre la superioridad técnica de
+la rival. Ver
+[`../matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
-- [ ] Finish/duración de ambos matches registrados.
+- [ ] Finish/duración de todos los matches registrados.
 
 ## Piezas del Vehemiurgo donde aparece
 

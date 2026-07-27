@@ -124,6 +124,35 @@ desfavorable con lo que CM Punk logró con el mismo rival (Drew
 McIntyre). Ver
 [`../matches/2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md`](../matches/2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md).
 
+### Sesión 2026-07-14 s39 — Promo vs Roman: mejora reconocida, "little cousin"
+
+**Cita verbatim**:
+
+> *"ese gimmick de padre de familia price fighter lo vende muy
+> bien [...] me gusta toda esta presión para Jacob, tiene que
+> explotar en algo memorable"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: mejora reconocida un día después de la
+crítica dura de s38 sobre sus promos — sin clase declarada, pero
+lectura positiva de continuidad de gimmick. Ver
+[`../segments/2026-04-20-jacob-fatu-promo-vs-roman-wwe-raw.md`](../segments/2026-04-20-jacob-fatu-promo-vs-roman-wwe-raw.md).
+
+### Sesión 2026-07-14 s39 — Cierre de show: se come al Bloodline de Solo Sikoa
+
+**Cita verbatim**:
+
+> *"el segmento con Fatu comiéndose a todo el bloodline de Solo
+> Sikoa, merece un enterteinment class, estuvo cool, se vio
+> genial"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: cierre de una noche cargada — Wrestling
+Entertainment. Ver
+[`../segments/2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md`](../segments/2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología MLW completa con fechas de title runs.

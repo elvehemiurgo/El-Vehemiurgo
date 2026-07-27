@@ -122,9 +122,27 @@ top guys distintos a la vez"*.)
 Saints — booking de despedida elogiado. Ver
 [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md).
 
+### Sesión 2026-07-14 s39 — Debut main roster: vs Jevon Evans, WE
+
+**Cita verbatim**:
+
+> *"es el debut de Ethan, de frente con Adam Pierce, con traje
+> todo corporativo en backstage, lo bookean contra Jevon
+> reviviendo su rivalidad de NXT, empieza genial"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: debut de call-up con gimmick corporativo,
+victoria vs Jevon Evans con ayuda de Rusev. Ver
+[`../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md`](../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md)
+y
+[`../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
+- [`../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md`](../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md)
+- [`../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md)
 - (Pendiente: matches y segmentos de la lista — Ethan tiene
   presencia recurrente en NXT 2025-2026 y Raw post-WM42.)

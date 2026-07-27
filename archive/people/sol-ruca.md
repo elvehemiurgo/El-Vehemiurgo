@@ -166,3 +166,38 @@ Entertainment), resolviendo una asignación abierta desde
 [`../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md)
 y
 [`../segments/2026-04-04-promo-video-sol-vs-zaria-wwe-nxt-stand-and-deliver.md`](../segments/2026-04-04-promo-video-sol-vs-zaria-wwe-nxt-stand-and-deliver.md).
+
+### Sesión 2026-07-14 s39 — Debut main roster: "empieza bien", contradice el temor de s36
+
+**Cita verbatim**:
+
+> *"me parece interesante que el primer contacto para Sol sea una
+> promo, eso es bueno [...] su voz tranquila de face se oye más
+> fuerte y con más presencia que la de Vaquer [...] a Sol le falta
+> golpear más duro, pero si armó una muy buena lucha atlética y con
+> psicología [...] el soul snatcher debut se vió perfecto [...] me
+> gusta el booking post Vaquer, empieza bien"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: el debut real contradice el temor
+anticipado en s36 ("quemada por apurarse") — arranca con una promo
+(decisión de booking elogiada) y un match con Wrestling
+Entertainment, debutando el Soul Snatcher. Ver
+[`../segments/2026-04-20-sol-ruca-debut-interrumpe-liv-morgan-wwe-raw.md`](../segments/2026-04-20-sol-ruca-debut-interrumpe-liv-morgan-wwe-raw.md)
+y
+[`../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md`](../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md).
+
+### Sesión 2026-07-14 s39 — Grudge match vs Zaria: payoff mutuo, doble clase
+
+**Cita verbatim**:
+
+> *"esta Sol agresiva arrancó muy bien, su repertorio está afilado
+> [...] se merecen una fighting spirit y un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: payoff de la rivalidad sostenida, con
+reserva puntual sobre el setup del F5 en la mesa de comentaristas.
+Ver
+[`../matches/2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md`](../matches/2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md).

@@ -47,16 +47,36 @@ negativa específica (títulos en pareja), donde Lainey Reid y
 Fallon Henley son la única excepción positiva declarada. Ver
 [`./fallon-henley.md`](./fallon-henley.md).
 
+### Sesión 2026-07-14 s39 — Debut SmackDown: introspectiva, siempre a la defensiva
+
+**Cita verbatim**:
+
+> *"Lainey Reid es más introspectiva, siempre presionándose a sí
+> misma, muy ambiciosa y muy ruda, siempre probándose contra sí
+> misma, de hecho al principio quería bajarse a Jacy, solo la
+> respeta porque pues la derrotó y le enseñó que todavia puede
+> aprender más truco, así que siempre está inconforme siempre
+> piensa que la estan menospreciando por eso siempre está a la
+> defensiva y no quiere mostrar ninguna debilidad y tiene que
+> actuar super ruda todo el tiempo"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: primer match/segmento anchor individual del
+archivo — caracterización densa dentro del debut de Fatal
+Influence en SmackDown. Ver
+[`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Título de pareja exacto que sostiene con/contra Fallon
       Henley — [verif].
-- [ ] Match/segmento anchor individual — todavía sin registro
-      propio en el archivo.
 
 ## Cross-links
 
 - [`./fallon-henley.md`](./fallon-henley.md) — mencionada en el
   mismo elogio.
+- [`./jacy-jayne.md`](./jacy-jayne.md) — líder de Fatal Influence.
+- [`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md)
 - [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md) — panteón, #38.

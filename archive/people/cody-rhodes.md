@@ -201,6 +201,21 @@ del NWA legend enfrenta al hijo del WWWF veterano (Cowboy Bob
 Orton) en peak career de ambos. **Booking ortodoxo carny
 aplicado a hijos de leyendas**.
 
+### Sesión 2026-07-14 s39 — Entrada "reventado" post-WrestleMania: "gran momento"
+
+**Cita verbatim**:
+
+> *"entra Cody todo reventado despues de retener en wrestlemania,
+> fue un gran momento, se merece el enterteinment class, estuvo de
+> primera, la fricción es wrestling genuino"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: confirma que retuvo vs Randy Orton en
+WrestleMania 42 Día 1; Wrestling Entertainment compartida con el
+regreso de CM Punk. Ver
+[`../segments/2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md`](../segments/2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

@@ -151,6 +151,19 @@ salió "un poco suave"). El Vehemiurgo espera que armonicen su
 booking con el de Lola Vice. Ver
 [`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
 
+### Sesión 2026-07-14 s39 — Promo video como retadora oficial a Lady Flamer
+
+**Cita verbatim**:
+
+> *"babyface muy fuerte que entra como retadora para Flammer, buen
+> booking, se ve emocionante"*
+>
+> — El Vehemiurgo, 2026-07-14 s39 (verbatim)
+
+**Lectura sintética**: continuidad del debut de s37 — ahora
+formalizada como retadora titular. Ver
+[`../segments/2026-04-25-promo-video-la-catalina-aaa-worldwide.md`](../segments/2026-04-25-promo-video-la-catalina-aaa-worldwide.md).
+
 ## Piezas relacionadas
 
 - [`./kira.md`](./kira.md) — **heredera natural local hero

@@ -124,3 +124,4 @@ sink or swim" aplicada como marco de superación. Ver
 - [`matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md`](../matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md)
   — primer registro editorial dedicado, multi-class doble.
 - [`../matches/2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md`](../matches/2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md)
+- [`../segments/2026-04-21-lexis-king-promo-birth-right-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-lexis-king-promo-birth-right-wwe-nxt-revenge-week-2.md)
