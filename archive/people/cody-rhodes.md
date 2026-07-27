@@ -240,6 +240,27 @@ regreso de CM Punk. Ver
 ### Segmentos (Batch 1 + WM42)
 - [`../segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md`](../segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md)
 - [`../segments/2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md`](../segments/2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md)
+- [`../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md`](../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md)
+- [`../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md)
+
+### Sesión 2026-07-14 s41 — Recibe el debut de Ricky Saints, "toda la calidad sin guardarse nada"
+
+**Cita verbatim**:
+
+> *"Cody es cool, si le dió un segmento como un gran rival, toda la
+> calidad sin guardarse nada"* / *"Cody vs Ricky estuvo buena [...]
+> Cody se las sabe todas [...] el cross rodes final estuvo brutal.
+> Se merece la fighting spirit y enterteinment class."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: veterano validado como gran rival de debut
+— Wrestling Entertainment en el segmento de interrupción y
+Fighting Spirit + Wrestling Entertainment en el match subsiguiente,
+con el Cross Rhodes final "brutal". Ver
+[`../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md`](../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md)
+y
+[`../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md).
 
 ### Dossieres centrales
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)

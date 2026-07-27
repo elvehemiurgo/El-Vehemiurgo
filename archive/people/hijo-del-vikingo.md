@@ -63,6 +63,7 @@ tags: [hijo-del-vikingo, aaa-mega-champion, lucha-mexicana, junior-heavyweight, 
 ## Piezas relacionadas
 
 - [`../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md`](../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md)
+- [`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md)
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
 
 ### Sesión 2026-07-14 s37 — vs Penta: booking interesante, sin clase
@@ -78,6 +79,27 @@ tags: [hijo-del-vikingo, aaa-mega-champion, lucha-mexicana, junior-heavyweight, 
 en el booking de Vikingo, no necesariamente en la ejecución del
 match. Ver
 [`../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md`](../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md).
+
+### Sesión 2026-07-14 s41 — vs Mini Vikingo: "se mueve como main eventer", triple clase
+
+**Cita verbatim**:
+
+> *"vikingo vs mini vikingo estuvo muy cool, estuvo real, fue una
+> grudge match [...] VI al Vikingo moverse como main eventer, actuar
+> como main eventer, de verdad calidad lista para programas
+> gigantes. Y el final donde parece que se lesiona el Vikingo por
+> hacer su finisher desde el esquinero, luego interviene wagner muy
+> fluido muy perfecto, y el phoenix 630 increible perfecto, es
+> impresionante de verdad, fue una película esta lucha."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Perfect Wrestling + Fighting Spirit +
+Wrestling Entertainment — veredicto de techo de carrera ("calidad
+lista para programas gigantes"), con un cierre marcado por una
+posible lesión real en el finisher desde el esquinero y el rescate
+de Dr. Wagner Jr. Ver
+[`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md).
 
 ## Pendientes
 

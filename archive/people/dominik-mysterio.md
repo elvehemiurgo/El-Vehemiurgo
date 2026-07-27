@@ -129,6 +129,21 @@ y
 sobre el gimmick de Bálor, no sobre el trabajo de Dominik. Ver
 [`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md).
 
+### Sesión 2026-07-14 s41 — Interviene "mucho" en JD vs Finn: Perfect Match de facción
+
+**Cita verbatim**:
+
+> *"tneemos JD vs FInn, pero esta vez Dominik interviene mucho, y
+> luego todo el judgment day, muy buena lucha, se merece todas las
+> clases"*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Perfect Match — interferencia mayor de
+Dominik (seguida de todo Judgment Day) dentro de un rematch que
+deja la serie JD/Finn en 1-1. Ver
+[`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
@@ -136,3 +151,4 @@ sobre el gimmick de Bálor, no sobre el trabajo de Dominik. Ver
 - [`../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md`](../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md)
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)
 - [`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md)
+- [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md)

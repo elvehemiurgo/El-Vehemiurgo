@@ -61,6 +61,16 @@ cada alta y con cada cambio de estado.
 | 2026-05-20 | Apertura — Young Bucks & Chris Jericho | AEW / Dynamite & Collision | promo (apertura de show) | WE | stub | 1 | [→](2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md) |
 | 2026-05-13 | Contract signing — MJF vs Darby Allin | AEW / Dynamite | contract signing | WE | stub | 1 | [→](2026-05-13-mjf-darby-contract-signing-aew-dynamite.md) |
 | 2026-05-09 | Post-match — Don Callis & Ricochet | AEW / Collision — Fairway to Hell | promo (post-match) | — | stub | 1 | [→](2026-05-09-don-callis-ricochet-post-match-aew-collision.md) |
+| 2026-05-04 | Segmento de Sol Ruca con Becky Lynch | WWE / Raw | promo / confrontación | WE | en-investigacion | 1 | [→](2026-05-04-sol-ruca-becky-lynch-segmento-wwe-raw.md) |
+| 2026-05-04 | Judgment Day encara a Roxanne Perez | WWE / Raw | confrontación (facción) | WE | en-investigacion | 1 | [→](2026-05-04-judgment-day-encara-roxanne-wwe-raw.md) |
+| 2026-05-04 | Debut de Julio y Bruno, los Americanos Hermanos | WWE / Raw | debut / presentación | WE | en-investigacion | 1 | [→](2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md) |
+| 2026-05-02 | Firma de contrato de los Grandes Americanos, regreso de Creed Brothers | AAA / Worldwide | contract signing | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-firma-contrato-grandes-americanos-creed-brothers-aaa-worldwide.md) |
+| 2026-05-02 | Segmento de apertura ('el ojo') con Wagner al final | AAA / Worldwide | segmento de apertura | WE | en-investigacion | 1 | [→](2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md) |
+| 2026-05-01 | Promo backstage de Trick Williams | WWE / SmackDown | promo (backstage) | WE | en-investigacion | 1 | [→](2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md) |
+| 2026-05-01 | Trick Williams vs el gingerbread man | WWE / SmackDown | segmento cómico / momento de ring | WE | en-investigacion | 1 | [→](2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md) |
+| 2026-05-01 | Segmento coral de Chelsea Green con Giulia | WWE / SmackDown | promo coral (4 participantes) | — | en-investigacion | 1 | [→](2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md) |
+| 2026-05-01 | Promo de Jacy Jayne (Fatal Influence) contra 'Oklahoma' | WWE / SmackDown | promo | — | en-investigacion | 1 | [→](2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md) |
+| 2026-05-01 | Ricky Saints debuta en SmackDown interrumpiendo a Cody Rhodes | WWE / SmackDown | promo / confrontación (debut main roster) | WE | en-investigacion | 1 | [→](2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md) |
 | 2026-04-29 | Ospreay empieza a dejarse coachear por Moxley | AEW / Dynamite | angle / mentoría | — | stub | 1 | [→](2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md) |
 | 2026-04-29 | Thekla — gran promo (asistida por Sky Blue) | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-29-thekla-promo-aew-dynamite.md) |
 | 2026-04-28 | Segmento de Vanity Project | WWE / NXT | promo / character segment | — | stub | 1 | [→](2026-04-28-vanity-project-segmento-wwe-nxt.md) |

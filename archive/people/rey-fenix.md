@@ -42,14 +42,28 @@ tags: [rey-fenix, aaa, fighting-spirit, wrestling-entertainment, primer-registro
 protagonismo singularizado — el foco de la sesión recae en La
 Parka.
 
+### Sesión 2026-07-14 s41 — vs Laredo: Perfect Match
+
+**Cita verbatim**:
+
+> *"Fénix vs Laredo tambien fue la lucha perfecta, se merce las 3
+> clases, que tremendos."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Perfect Match — triple clase, veredicto
+directo sin desarrollo extenso. Ver
+[`../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
-- [ ] Finish/duración del match.
+- [ ] Finish/duración de ambos matches.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md`](../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md)
+- [`../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md)
 
 ## Cross-links
 

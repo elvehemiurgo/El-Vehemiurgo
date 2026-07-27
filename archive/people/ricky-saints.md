@@ -131,9 +131,35 @@ coral — mejora de carrera atribuida directamente a la pérdida del
 peso de campeón mundial. Ver
 [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md).
 
+### Sesión 2026-07-14 s41 — Debuta en main roster interrumpiendo a Cody: "muy a lo Rick Rude"
+
+**Cita verbatim**:
+
+> *"RIcky Saints hace su debut interrumpiendo y sorprendiendo a
+> Cody, buena promo, muy a lo Rick Rude [...] Ricky se puede
+> defender en el mic, es muy bueno de hecho, tiene buenos comebacks
+> y se mete con los fans, es efectivo, es un buen heel para
+> cualquier programación, solo que suele botchear, pero es porque
+> se expone mucho, en este run debe minimalizar su repertorio para
+> cuidarse y verse perfecto siempre; este segmento se merece el
+> enterteinments class"*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el debut —
+diagnóstico técnico completo (bueno en el mic, tendencia a
+botchear por exponerse mucho, receta de minimizar repertorio). En
+el match subsiguiente vs Cody Rhodes, doble clase con reserva
+técnica sobre fundamentos (irish whips, posicionamiento). Ver
+[`../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md`](../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md)
+y
+[`../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
+- [`../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md`](../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md)
+- [`../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md)
 - (Pendiente: matches y segmentos NXT 2025-2026 + main roster
   post-WM42.)

@@ -113,6 +113,32 @@ sección 6.
 - Detalle en
   [`promotions/the-system.md`](./the-system.md).
 
+### Sesión 2026-07-14 s41 — Encara a Roxanne (fórmula Bloodline) + interferencia mayor vs JD/Finn
+
+**Cita verbatim** (segmento con Roxanne Perez):
+
+> *"El judgment day encara a Roxanne, buen acting, me gustó como lo
+> están haciendo tipo bloodline, ea formula quie funcionó tipo
+> reality, y wrestling tradicional [...] este segmento se merece un
+> enterteinment class."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Cita verbatim** (interferencia en JD McDonagh vs Finn Bálor):
+
+> *"Dominik interviene mucho, y luego todo el judgment day, muy
+> buena lucha, se merece todas las clases"*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: doble aparición en la misma noche —
+Wrestling Entertainment en el segmento con Roxanne Perez (fórmula
+"tipo Bloodline": reality + wrestling tradicional) y Perfect Match
+en la interferencia sobre JD McDonagh vs Finn Bálor. Ver
+[`../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md`](../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md)
+y
+[`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Pieza editorial al horno: pieza de análisis del run

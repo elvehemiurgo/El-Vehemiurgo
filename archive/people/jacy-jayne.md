@@ -150,6 +150,8 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
   — líder de la faction.
 - [`segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md`](../segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md)
   — segmento donde "salvó" el promo de Lola.
+- [`../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md`](../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md)
+- [`../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md)
 - (Pendientes: matches y segmentos NXT 2026 + main roster
   post-WM42; muchos en notebook
   [`2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md).)
@@ -209,3 +211,25 @@ ambas ya en el roster principal. Ver
 [`../topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
 No genera clase ni nota dedicada — mención cruzada dentro del
 expediente de Tatum.
+
+### Sesión 2026-07-14 s41 — vs Charlotte Flair: doctrina de booking protector
+
+**Cita verbatim**:
+
+> *"buenisimo y arriesgadisimo poner a Jacy asi y con Charlotte,
+> hasta ahora buenas rivales, la estan cuidando [...] Esta lucha se
+> merece el fighting spirit y enterteinment class, Jacy le sacó una
+> buena lucha a Charlotte, y la secuencia final estuvo muy bien,
+> tremendo pin, el booking se pone serio, y la emboscada post match
+> obviamente no podia faltar"*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment.
+Doctrina de booking protector — Jacy solo se cruza con rivales de
+oficio real (Rhea Ripley, Charlotte Flair), no con talent
+considerado débil. Precedida por una promo de build contra
+"Oklahoma" [verif]. Ver
+[`../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md)
+y
+[`../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md`](../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md).

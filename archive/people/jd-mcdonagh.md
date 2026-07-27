@@ -127,8 +127,24 @@ contra Finn Bálor en Raw, disparador directo de la alta al
 panteón de Bálor/Devitt. Ver
 [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
 
+### Sesión 2026-07-14 s41 — Rematch vs Bálor con interferencia de Judgment Day: serie 1-1
+
+**Cita verbatim**:
+
+> *"tneemos JD vs FInn, pero esta vez Dominik interviene mucho, y
+> luego todo el judgment day, muy buena lucha, se merece todas las
+> clases [...] Y está genial que ahora JD y FInn estan 1 a 1."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Perfect Match — triple clase, con reserva
+técnica puntual por un golpe de martillo accidentado. Serie contra
+Finn Bálor ahora empatada 1-1. Ver
+[`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — vignette dual con Bálor.
 - [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md)
+- [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md)

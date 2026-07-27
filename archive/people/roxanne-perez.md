@@ -59,6 +59,24 @@ natal (clase parcial solo en los minutos finales). Ver
 y
 [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md).
 
+### Sesión 2026-07-14 s41 — Judgment Day la encara: fórmula "tipo Bloodline"
+
+**Cita verbatim**:
+
+> *"El judgment day encara a Roxanne, buen acting, me gustó como lo
+> están haciendo tipo bloodline, ea formula quie funcionó tipo
+> reality, y wrestling tradicional, está muy bien, se ve intrigante
+> y me engancha mucho, este segmento se merece un enterteinment
+> class."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — escalada directa
+del combustible de confianza sembrado el 27/4, con la misma
+fórmula "reality + wrestling tradicional" que funcionó con el
+Bloodline de Roman Reigns. Ver
+[`../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md`](../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.
@@ -68,3 +86,6 @@ y
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-03-30-roxanne-perez-regreso-wwe-raw.md`](../segments/2026-03-30-roxanne-perez-regreso-wwe-raw.md)
+- [`../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md`](../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md)
+- [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
+- [`../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md`](../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md)

@@ -51,6 +51,11 @@ con cada cambio de estado.
 | 2026-05-13 | Will Ospreay vs Ace Austin | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-ospreay-vs-ace-austin-aew-dynamite.md) |
 | 2026-05-09 | Darby Allin vs PAC — main event | AEW / Collision — Fairway to Hell | PW·FS·WE | stub | 1 | [→](2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md) |
 | 2026-05-09 | Mark Davis vs Jack Perry — coronación [verif título] | AEW / Collision — Fairway to Hell | PW·FS·WE | stub | 1 | [→](2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md) |
+| 2026-05-04 | JD McDonagh vs Finn Bálor (rematch, con interferencia de Judgment Day) | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md) |
+| 2026-05-02 | Rey Fénix vs Laredo | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md) |
+| 2026-05-02 | Hijo del Vikingo vs Mini Vikingo | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md) |
+| 2026-05-01 | Cody Rhodes vs Ricky Saints | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md) |
+| 2026-05-01 | Jacy Jayne vs Charlotte Flair | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md) |
 | 2026-04-29 | Darby Allin (c) vs Brody King — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md) |
 | 2026-04-29 | Cope (Adam Copeland) & Christian Cage vs RPG Vice | AEW / Dynamite | WE | stub | 1 | [→](2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md) |
 | 2026-04-29 | MJF vs Kevin Knight | AEW / Dynamite | — | stub | 1 | [→](2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md) |

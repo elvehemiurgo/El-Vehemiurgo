@@ -101,6 +101,21 @@ pieza editorial. Material de partida actual: la sección 1 del
 notebook 2026-05-09; el segmento del 24/3/2026; los matches de Stand
 & Deliver y Revenge a sumar.)
 
+### Sesión 2026-07-14 s41 — Segmento con Becky Lynch: "sacaron algo interesante"
+
+**Cita verbatim**:
+
+> *"Sol tuvo un gran segmento con Becky, estuvo cool, se merece un
+> enterteinment calss, muy fuerte la interacción, y normalmente me
+> aburre Beckyu, pero aqui sacaron algo interesante, buenas promos,
+> peor el soul snatcher no terminó d econectar"*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment, con reserva técnica
+menor (el Soul Snatcher no conectó del todo). Ver
+[`../segments/2026-05-04-sol-ruca-becky-lynch-segmento-wwe-raw.md`](../segments/2026-05-04-sol-ruca-becky-lynch-segmento-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Fecha y duración del run como NXT Women's North American
@@ -122,6 +137,7 @@ notebook 2026-05-09; el segmento del 24/3/2026; los matches de Stand
   Vehemiurgo.
 - [`segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md)
   — segmento promo in-ring confrontacional con Zaria post-turn.
+- [`../segments/2026-05-04-sol-ruca-becky-lynch-segmento-wwe-raw.md`](../segments/2026-05-04-sol-ruca-becky-lynch-segmento-wwe-raw.md)
 - [`matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md`](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md)
   — match en NXT TV semanal del 07 abr 2026 *(corrección 2026-05-10: registrado originalmente como Vengeance Day)*, derrota con asistencia de Zaria.
 - (Pendiente sumar a `archive/matches/`: Stand & Deliver 2026 vs

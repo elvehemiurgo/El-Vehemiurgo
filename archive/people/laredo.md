@@ -43,14 +43,27 @@ tags: [laredo, aaa, fighting-spirit, golpes-duros, primer-registro-individual]
 Spirit con reserva puntual sobre momentos accidentados, pero
 contundencia física validada.
 
+### Sesión 2026-07-14 s41 — vs Rey Fénix: Perfect Match
+
+**Cita verbatim**:
+
+> *"Fénix vs Laredo tambien fue la lucha perfecta, se merce las 3
+> clases, que tremendos."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Perfect Match — triple clase. Ver
+[`../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
-- [ ] Finish/duración del match.
+- [ ] Finish/duración de ambos matches.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-25-laredo-vs-wagner-aaa-worldwide.md`](../matches/2026-04-25-laredo-vs-wagner-aaa-worldwide.md)
+- [`../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md)
 
 ## Cross-links
 

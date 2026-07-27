@@ -68,11 +68,16 @@ máscara vs máscara que cierra el show. Ver
 y
 [`../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md`](../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md).
 
-### Sesión 2026-07-14 s40 — Doctrina "geel" + posible estructura Gable/Kaiser
+### Sesión 2026-07-14 s40 — Doctrina "heel" + posible estructura Gable/Kaiser
+
+**Corrección (2026-07-14 s41)**: "geel" fue error de escritura por
+**"heel"**, aclarado por el Vehemiurgo. Cita verbatim preservada
+con el typo original ([sic]).
 
 **Cita verbatim**:
 
-> *"el gande americano es un geel en raw y smackdown, de hecho le
+> *"el gande americano es un geel [sic — "heel", corregido s41] en
+> raw y smackdown, de hecho le
 > cambian el traje, creo que es para que la audiencia en tv no se
 > confunda, mientras que en mexico el guiño de los dos americanos
 > es más autoconciente, y las trampas y el comportamiento
@@ -87,6 +92,36 @@ ser dos figuras distintas dentro del ángulo (mente maestra +
 wrestler enmascarado), en vez de una sola persona como se asumía.
 No se resuelve unilateralmente — queda como hipótesis abierta. Ver
 [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md).
+
+### Sesión 2026-07-14 s41 — Firma de contrato (AAA) y refuerzo Creed Brothers (WWE Raw)
+
+**Cita verbatim** (firma de contrato, AAA Worldwide):
+
+> *"la firma de contrato con los grandes americanos, super
+> entretenido, muy buenos momentos, de verdad fue top tier
+> wrestling, largo el booking pero emocionante sin falta. Y
+> regresan los creed brothers a la acción. Se merece todas las
+> clases este segmento."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Cita verbatim** (debut de refuerzo en Raw):
+
+> *"debutan julio y bruno los americanos hermanos, son los creed
+> brothers volviendo a la acción como backup para el grande
+> americano, tremenda rivalidad de los americanos con crossovers y
+> moviendo audiencias como le da la gana, recontra bien hecho."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: triple clase en la firma de contrato AAA;
+Wrestling Entertainment en el debut de refuerzo WWE. El ángulo
+"Americanos" se expande explícitamente con Creed Brothers
+(rebrandeados "Julio y Bruno") como backup — crossover de
+audiencia entre AAA y WWE leído como logro de booking. Ver
+[`../segments/2026-05-02-firma-contrato-grandes-americanos-creed-brothers-aaa-worldwide.md`](../segments/2026-05-02-firma-contrato-grandes-americanos-creed-brothers-aaa-worldwide.md),
+[`../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md`](../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md),
+[`../promotions/creed-brothers.md`](../promotions/creed-brothers.md).
 
 ## Pendientes / huecos
 
@@ -104,3 +139,5 @@ No se resuelve unilateralmente — queda como hipótesis abierta. Ver
 - [`../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md`](../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md)
 - [`../matches/2026-04-25-grande-americano-texano-vs-mesias-mechawolf-aaa-worldwide.md`](../matches/2026-04-25-grande-americano-texano-vs-mesias-mechawolf-aaa-worldwide.md)
 - [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)
+- [`../segments/2026-05-02-firma-contrato-grandes-americanos-creed-brothers-aaa-worldwide.md`](../segments/2026-05-02-firma-contrato-grandes-americanos-creed-brothers-aaa-worldwide.md)
+- [`../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md`](../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md)

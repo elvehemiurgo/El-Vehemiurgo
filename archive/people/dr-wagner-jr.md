@@ -43,6 +43,33 @@ tags: [dr-wagner-jr, aaa, fighting-spirit, golpes-duros, primer-registro-individ
 **Lectura sintética**: primer registro individual, contundencia
 física destacada.
 
+### Sesión 2026-07-14 s41 — Segmento de apertura + rescate "fluido, perfecto" en Vikingo vs Mini Vikingo
+
+**Cita verbatim** (segmento de apertura):
+
+> *"el segmento backstage inicial con el ojo estuvo cool incluyendo
+> a wagner al último, se merece un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Cita verbatim** (intervención en el cierre del match Vikingo vs
+Mini Vikingo):
+
+> *"el final donde parece que se lesiona el Vikingo por hacer su
+> finisher desde el esquinero, luego interviene wagner muy fluido
+> muy perfecto"*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment en el segmento de
+apertura (aparición puntual). En el match de Vikingo, su
+intervención en el cierre —tras una posible lesión real de
+Vikingo— se lee como "muy fluida, muy perfecta", parte del triple
+clase otorgado a esa lucha. Ver
+[`../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md`](../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md)
+y
+[`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad exacta** (Dr. Wagner Jr. vs Hijo de
@@ -53,6 +80,8 @@ física destacada.
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-25-laredo-vs-wagner-aaa-worldwide.md`](../matches/2026-04-25-laredo-vs-wagner-aaa-worldwide.md)
+- [`../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md`](../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md)
+- [`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md)
 
 ## Cross-links
 

@@ -211,6 +211,24 @@ al panteón reconoce explícitamente ambas identidades de carrera.
 Ver
 [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
 
+### Sesión 2026-07-14 s41 — Rematch vs McDonagh con interferencia de Judgment Day: serie 1-1
+
+**Cita verbatim**:
+
+> *"tneemos JD vs FInn, pero esta vez Dominik interviene mucho, y
+> luego todo el judgment day, muy buena lucha, se merece todas las
+> clases [...] lo único malo fue eelgolpe con el martillo, o sea,
+> esuvo accidentado, pero despues si pusieron un gran show. Y está
+> genial que ahora JD y FInn estan 1 a 1."*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: Perfect Match — triple clase con reserva
+técnica puntual (golpe de martillo accidentado). Interferencia
+mayor de Dominik Mysterio y Judgment Day. Serie con McDonagh queda
+1-1. Ver
+[`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
@@ -218,3 +236,4 @@ Ver
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)
 - [`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md)
 - [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md)
+- [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md)

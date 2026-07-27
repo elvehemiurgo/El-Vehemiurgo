@@ -113,6 +113,21 @@ la superioridad técnica declarada — queda con Kiana James y
 problemas internos, revancha proyectada a Backlash 2026. Ver
 [`../matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s41 — Segmento coral con Chelsea Green: "moviéndola en la dirección correcta"
+
+**Cita verbatim**:
+
+> *"el segmento de Chelsea fue muy cool, todas estan muy comodas en
+> camaras, estan moviendo a GIulia en la dirección correcta, eso
+> toma tiempo, pero si se puede, es presión, de la buena"*
+>
+> — El Vehemiurgo, 2026-07-14 s41 (verbatim)
+
+**Lectura sintética**: sin clase — reafirmación de que el
+reposicionamiento post pérdida del título ante Tiffany Stratton es
+un proceso deliberado ("toma tiempo, pero sí se puede"). Ver
+[`../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md`](../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa STARDOM (títulos,
@@ -126,6 +141,7 @@ problemas internos, revancha proyectada a Backlash 2026. Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md`](../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md)
+- [`../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md`](../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md)
 - [`../../notebook/2026-05-09-takes-rivalidades-vigentes.md`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md)
 
 ## Cross-links

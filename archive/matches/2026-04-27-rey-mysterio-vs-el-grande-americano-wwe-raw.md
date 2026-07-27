@@ -52,11 +52,17 @@ tags: [rey-mysterio, el-grande-americano, chad-gable, wwe-raw-2026, singles, per
    restan de la clase otorgada, pero el Vehemiurgo las señala como
    nota atípica.
 
-### Sesión 2026-07-14 s40 — Doctrina del gimmick "geel" + posible identidad Gable/Kaiser
+### Sesión 2026-07-14 s40 — Doctrina del gimmick "heel" + posible identidad Gable/Kaiser
+
+**Corrección (2026-07-14 s41)**: el Vehemiurgo aclaró que "geel"
+fue error de escritura por **"heel"** — corregido en la prosa
+analítica abajo; la cita verbatim original se preserva tal cual se
+dictó (typo incluido, [sic]).
 
 **Cita verbatim**:
 
-> *"vemos que el gande americano es un geel en raw y smackdown, de
+> *"vemos que el gande americano es un geel [sic — "heel", error de
+> escritura, corregido s41] en raw y smackdown, de
 > hecho le cambian el traje, creo que es para que la audiencia en
 > tv no se confunda, mientras que en mexico el guiño de los dos
 > americanos es más autoconciente, y las trampas y el
@@ -71,10 +77,10 @@ tags: [rey-mysterio, el-grande-americano, chad-gable, wwe-raw-2026, singles, per
 
 **Lectura sintética**:
 
-1. **Doctrina del gimmick dual "geel"**: cambio de vestuario entre
-   USA (Raw/SmackDown, "geel" para no confundir a la audiencia de
-   TV) y México (guiño más autoconsciente entre los dos
-   "Americanos"). Ver
+1. **Doctrina del gimmick dual heel**: cambio de vestuario entre
+   USA (Raw/SmackDown, presentación heel para no confundir a la
+   audiencia de TV) y México (guiño más autoconsciente entre los
+   dos "Americanos"). Ver
    [`../people/el-grande-americano.md`](../people/el-grande-americano.md).
 2. **⚠ Posible clarificación de identidad — [verif], no
    confirmar sin fuente**: el fraseo *"el comportamiento
