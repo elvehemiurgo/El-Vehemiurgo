@@ -232,6 +232,32 @@ post-pipebomb 2011).
   — Wrestling Entertainment (s35).
 - [`../segments/2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md`](../segments/2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md)
   — sin clase, "top tier wrestling" (s35).
+- [`../segments/2026-04-13-cm-punk-promo-video-wwe-raw.md`](../segments/2026-04-13-cm-punk-promo-video-wwe-raw.md)
+  — Wrestling Entertainment, ensayo doctrinal completo (s37).
+- [`../segments/2026-04-13-cm-punk-segmento-in-ring-wwe-raw.md`](../segments/2026-04-13-cm-punk-segmento-in-ring-wwe-raw.md)
+  — Wrestling Entertainment, mismo episodio (s37).
+
+### Sesión 2026-07-14 s37 — "El best in the world", conflicto andante y mortalidad kayfabe
+
+**Cita verbatim**:
+
+> *"ya es la super estrella corporativa, ya no es el straight edge
+> golpeando hacia arriba, pero sigue siendo de lo más cool del
+> wrestling [...] es el best in the world [...] ese conflicto
+> andante que es lo que simboliza CM Punk con la naturaleza de su
+> mortalidad, es wrestling premium [...] con todas las capas de
+> autoconsciencia que ha adquirido con el booking estos años, toda
+> la mitología y la historia que existe"*
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: la pieza doctrinal más densa registrada
+sobre CM Punk hasta ahora — transición completa de underdog a
+superestrella corporativa sin pérdida de filo, con la propia
+mortalidad kayfabe/real leída como motor dramático. Doble Wrestling
+Entertainment en el mismo episodio (promo video + segmento
+in-ring). Ver
+[`../segments/2026-04-13-cm-punk-promo-video-wwe-raw.md`](../segments/2026-04-13-cm-punk-promo-video-wwe-raw.md).
 
 ### Dossieres centrales
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)

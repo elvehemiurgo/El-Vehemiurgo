@@ -133,6 +133,24 @@ contemporary:
 - [ ] **Sub-agente research candidate**: trayectoria Catalina
       completa + signing context + rumores transition period.
 
+### Sesión 2026-07-14 s37 — Debut en AAA: buen debut, con reserva puntual
+
+**Cita verbatim**:
+
+> *"la catalina se presentó bien, habló muy fuerte, tenia todo
+> controlado, aunque el insulto salió un poco suave, fue
+> entretenido, buen debut en la escena titular"*
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: primer registro de match/segmento propio
+tras el signing confirmado por research previo — debuta como
+retadora babyface a Lady Flamer, con Wrestling Entertainment
+compartida en el segmento y una única reserva puntual (el insulto
+salió "un poco suave"). El Vehemiurgo espera que armonicen su
+booking con el de Lola Vice. Ver
+[`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
+
 ## Piezas relacionadas
 
 - [`./kira.md`](./kira.md) — **heredera natural local hero

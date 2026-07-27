@@ -46,15 +46,30 @@ tags: [kelani-jordan, wwe-nxt-2026, heel-turn, wrestling-entertainment, primer-r
 "muy buena heel", con repertorio aterrizado hacia lo oldschool y
 real.
 
+### Sesión 2026-07-14 s37 — Rematch mejorado, victoria "muy bien hecha"
+
+**Cita verbatim**:
+
+> *"esta si se merece el fighting spirit y el enterteinment class,
+> el selling estuvo en su punto, muy buena estructura, muy buen
+> booking, muy buena victoria para Kelany, muy bien hecho"*
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: doble clase, mejora explícita sobre el
+primer encuentro con Jayda — consolidación heel continua. Ver
+[`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Fecha exacta del heel turn.
-- [ ] Finish/duración del match vs Jayda.
+- [ ] Finish/duración de ambos matches vs Jayda.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md)
+- [`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md)
 
 ## Cross-links
 

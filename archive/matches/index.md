@@ -64,11 +64,14 @@ con cada cambio de estado.
 | 2026-04-18 | Jacob Fatu vs Drew McIntyre | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md) |
 | 2026-04-18 | Cody Rhodes vs Randy Orton | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md) |
 | 2026-04-15 | Will Ospreay vs Hechicero | AEW / Spring BreakThru | PW·FS·WE | stub | 1 | [→](2026-04-15-ospreay-vs-hechicero-aew-spring-breakthru.md) |
+| 2026-04-14 | Jayda vs Kelani Jordan | WWE / NXT Revenge — Week 1 | FS·WE | en-investigacion | 1 | [→](2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md) |
 | 2026-04-14 | Kali Armstrong vs Skylar Rae | WWE / NXT Revenge — Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-kali-armstrong-vs-skylar-rae-nxt-revenge-week-1.md) |
 | 2026-04-14 | Jacy Jayne vs Lola Vice | WWE NXT / NXT Revenge Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md) |
 | 2026-04-14 | Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance | WWE NXT / NXT Revenge Week 1 | — | en-investigacion | 1 | [→](2026-04-14-dorian-van-dux-loss-nxt-revenge-week-1.md) |
 | 2026-04-13 | JD McDonagh & Rusev vs Dragon Lee & Jevon Evans | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-13-jd-mcdonagh-rusev-vs-dragon-lee-jevon-evans-raw.md) |
 | 2026-04-12 | Young Bucks vs Okada & Takeshita | AEW / Dynasty 2026 (PPV) | PW·FS·WE | stub | 1 | [→](2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md) |
+| 2026-04-11 | Hijo del Vikingo vs Penta | AAA / AAA Worldwide | — | en-investigacion | 1 | [→](2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md) |
+| 2026-04-11 | Octagón Jr. vs El Grande Americano | AAA / AAA Worldwide | FS·WE | en-investigacion | 1 | [→](2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md) |
 | 2026-04-11 | Myron Reed vs Okada | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-04-11-myron-reed-vs-okada-aew-collision.md) |
 | 2026-04-11 | Arianna Grace (c) vs Lei Ying Lee — TNA Knockouts World Championship | TNA Wrestling / Rebellion 2026 | — | verificado | 1 | [→](2026-04-11-arianna-grace-vs-lei-ying-lee-tna-rebellion-ko-title.md) |
 | 2026-04-11 | Leon Slater (c) vs Cedric Alexander — X Division Championship (opener) | TNA Wrestling / Rebellion 2026 | PW·FS·WE | verificado | 1 | [→](2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md) |

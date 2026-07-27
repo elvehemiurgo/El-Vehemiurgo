@@ -48,11 +48,35 @@ tags: [el-grande-americano, chad-gable, wwe, aaa-crossover, gimmick-nwo-carny, p
 puntual dentro de un Perfect Match ajeno, sin desarrollo propio
 todavía.
 
+### Sesión 2026-07-14 s37 — vs Octagón Jr.: fans "100% invertidos"
+
+**Cita verbatim**:
+
+> *"Octagon vs Grande Americano estuvo cool, y los fans siempre
+> están 100% invertidos en las luchas de Chad Gable con este
+> personaje, es un gran run, este combate se merece un fighting
+> spirit y un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: primer match propio del archivo — Fighting
+Spirit + Wrestling Entertainment, con reacción total del público
+como métrica explícita de éxito del gimmick. Participa además en
+el post-match "entre americanos" (triple clase) y en el reto
+máscara vs máscara que cierra el show. Ver
+[`../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md`](../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md)
+y
+[`../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md`](../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] Confirmar identidad real (Chad Gable) contra fuente directa.
-- [ ] Contexto narrativo exacto de la interferencia.
+- [ ] Contexto narrativo exacto de la interferencia previa (Rayo &
+      Bravo vs Vanity Project, s36) y de este match/segmento.
+- [ ] Contra quién es el reto máscara vs máscara.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
+- [`../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md`](../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md)
+- [`../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md`](../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md)

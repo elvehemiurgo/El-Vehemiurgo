@@ -48,11 +48,29 @@ tags: [lady-flamer, aaa, las-toxicas, ko-division, fighting-spirit, primer-regis
 Spirit por defensa titular dura y de buen repertorio. Ver
 [`../promotions/las-toxicas.md`](../promotions/las-toxicas.md).
 
+### Sesión 2026-07-14 s37 — Celebración de 900+ días, heel promo "al estilo México"
+
+**Cita verbatim**:
+
+> *"el segmento de celebración de Lady Flamer y las Tóxicas por su
+> reinado histórico de 900+ días, les quedó muy cool [...] fue una
+> buena promo de heel para la campeona, al estilo méxico, la dejó
+> muy over y op como campeona [...] espero que Flamer esté a
+> salvo de poner over a alguien como Bayley"*
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el segmento
+completo — reinado histórico celebrado, con rivalidad teaseada
+contra Bayley que el Vehemiurgo mira con recelo doctrinal. Ver
+[`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
-- [ ] Título exacto en juego + cronología del reinado.
+- [ ] Título exacto en juego + cronología del reinado (900+ días).
 - [ ] Finish/duración del match vs Sussy.
+- [ ] Naturaleza exacta del crossover con Bayley — [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 

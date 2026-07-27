@@ -47,14 +47,28 @@ Vehemiurgo es sobre el estilo de Dominik en WWE (extraña la
 dureza que muestra en AAA), no sobre Penta. Ver
 [`./dominik-mysterio.md`](./dominik-mysterio.md).
 
+### Sesión 2026-07-14 s37 — vs Vikingo: reserva de estilo reafirmada
+
+**Cita verbatim**:
+
+> *"no soy fan de las luchas de penta"*
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: reafirma la reserva de estilo ya registrada
+desde el match vs Dominik Mysterio (23/3/2026) — es una preferencia
+sostenida, no un juicio puntual. Ver
+[`../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md`](../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.
-- [ ] Finish/duración del match vs Dominik.
+- [ ] Finish/duración de todos los matches registrados.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)
+- [`../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md`](../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md)
 
 ## Cross-links
 

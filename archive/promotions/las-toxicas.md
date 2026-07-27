@@ -52,13 +52,26 @@ con el vocabulario exacto. Si el Vehemiurgo confirma que quiso
 decir panteón, se ejecuta el protocolo en la próxima sesión. Ver
 [`../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md`](../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md).
 
+### Sesión 2026-07-14 s37 — Celebración del reinado de 900+ días
+
+**Cita verbatim**:
+
+> *"el segmento de celebración de Lady Flamer y las Tóxicas por su
+> reinado histórico de 900+ días, les quedó muy cool"*
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: dato duro nuevo — el reinado supera los 900
+días, celebrado con Wrestling Entertainment. Ver
+[`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] Confirmar si "cada una por separado" implica alta al
       panteón o es una lista distinta — [verif], preguntar al
       Vehemiurgo.
 - [ ] Roster exacto de Las Tóxicas como campeonas/facción.
-- [ ] Cronología del reinado y sus defensas durante el año.
+- [ ] Cronología exacta del reinado (900+ días) y sus defensas.
 
 ## Cross-links
 

@@ -72,7 +72,11 @@ cada alta y con cada cambio de estado.
 | 2026-04-15 | Promo — Thekla & Windsor | AEW / Spring BreakThru | promo (dúo) | WE | stub | 1 | [→](2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md) |
 | 2026-04-14 | Vanity Project & Blake Monroe segment con Robert Stone — 'Listen buddy' | WWE / NXT Revenge — Week 1 | in-ring / backstage segment con GM interino | — | en-investigacion | 1 | [→](2026-04-14-vanity-project-blake-monroe-robert-stone-segment-nxt-revenge-week-1.md) |
 | 2026-04-14 | Saquon Shugars brillante por encima de Miles + Dark State | WWE NXT / NXT Revenge Week 1 | in-ring showcase / character work moment | — | en-investigacion | 1 | [→](2026-04-14-saquon-shugars-brillante-miles-dark-state-nxt-revenge-week-1.md) |
+| 2026-04-13 | Segmento in-ring de CM Punk | WWE / Raw | promo in-ring | WE | stub | 1 | [→](2026-04-13-cm-punk-segmento-in-ring-wwe-raw.md) |
+| 2026-04-13 | Promo video: CM Punk | WWE / Raw | promo video (hype package) | WE | stub | 1 | [→](2026-04-13-cm-punk-promo-video-wwe-raw.md) |
 | 2026-04-13 | LA Knight — hot tag | WWE / Monday Night Raw | spot aislado | — | en-investigacion | 1 | [→](2026-04-13-la-knight-hot-tag-raw.md) |
+| 2026-04-11 | Post-match: confrontación entre los Americanos + reto máscara vs máscara (cierre de show) | AAA / AAA Worldwide | post-match / confrontación de facción + reto de cierre de show | PW·FS·WE | stub | 1 | [→](2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md) |
+| 2026-04-11 | Celebración de Lady Flamer y Las Tóxicas (900+ días) + debut de La Catalina | AAA / AAA Worldwide | celebración de título + debut de retadora | WE | stub | 1 | [→](2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md) |
 | 2026-04-11 | Windsor & Hayter cortan una promo | AEW / Collision | promo (tag/dúo) | FS·WE | stub | 1 | [→](2026-04-11-windsor-hayter-promo-aew-collision.md) |
 | 2026-04-10 | Pat McAfee — promo contra CM Punk | WWE / SmackDown | in-ring promo / commentary booth confrontation | — | en-investigacion | 1 | [→](2026-04-10-pat-mcafee-promo-against-cm-punk-smackdown.md) |
 | 2026-04-10 | Cody Rhodes — promo contra Pat McAfee y TKO | WWE / SmackDown | in-ring promo | — | en-investigacion | 1 | [→](2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md) |

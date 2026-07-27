@@ -42,6 +42,20 @@ tags: [jayda, wwe-nxt-2026, primer-registro-individual]
 recae en Kelani Jordan (crecimiento heel); Jayda entra como rival
 sin desarrollo individual propio todavía.
 
+### Sesión 2026-07-14 s37 — Rematch mejorado, Fighting Spirit + Wrestling Entertainment
+
+**Cita verbatim**:
+
+> *"Jayda vs Kelany estuvo buenisima, mucho mejor que sus
+> encuentros previos, esta si se merece el fighting spirit y el
+> enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: doble clase en el rematch (14/4/2026),
+mejora explícita sobre el primer encuentro (31/3/2026). Ver
+[`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md).
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, grafía exacta, trayectoria, empresa.
@@ -49,6 +63,7 @@ sin desarrollo individual propio todavía.
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md)
+- [`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md)
 
 ## Cross-links
 

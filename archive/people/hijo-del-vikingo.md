@@ -65,6 +65,20 @@ tags: [hijo-del-vikingo, aaa-mega-champion, lucha-mexicana, junior-heavyweight, 
 - [`../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md`](../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md)
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
 
+### Sesión 2026-07-14 s37 — vs Penta: booking interesante, sin clase
+
+**Cita verbatim**:
+
+> *"la lucha de vikingo vs penta estuvo ok, me entretuvo más el
+> booking para vikingo es interesante"*
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: sin clase — el interés del Vehemiurgo está
+en el booking de Vikingo, no necesariamente en la ejecución del
+match. Ver
+[`../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md`](../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md).
+
 ## Pendientes
 
 - [ ] **Vikingo vs Dominik AAA Rey de Reyes 14.03.2026** —

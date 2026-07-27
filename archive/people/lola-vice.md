@@ -153,6 +153,20 @@ personal de que no es de las favoritas del Vehemiurgo pero sí
 reconoce la calidad de la ficha (personaje). Ver
 [`../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md).
 
+### Sesión 2026-07-14 s37 — Vara de comparación para el booking de La Catalina en AAA
+
+**Cita verbatim**:
+
+> *"espero logren establecerla muy bien y armonicen su booking con
+> el de Lola Vice"* (sobre La Catalina)
+>
+> — El Vehemiurgo, 2026-07-14 s37 (verbatim)
+
+**Lectura sintética**: mención de referencia — Lola Vice usada
+como estándar de booking exitoso para medir el debut de La
+Catalina en AAA. Ver
+[`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md`](../segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md)
