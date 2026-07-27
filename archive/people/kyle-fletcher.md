@@ -118,6 +118,21 @@ de la Don Callis Family. Ver
 y
 [`../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md`](../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md).
 
+### Sesión 2026-07-14 s46 — vs Bandido en Redemption: "levanta cualquier lucha"
+
+**Cita verbatim**:
+
+> *"bandido vs FLetcher merece un enterteinment class [...] fletcher
+> levanta cualquier lucha, no la vería otra vez, pero si fue un
+> espectaculo"*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — veredicto de
+oficio consolidado ("levanta cualquier lucha"), pagando el build
+vendido en su promo del 15/7. Ver
+[`../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md`](../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md).
+
 ## Pendientes / huecos
 
 - [ ] [verif] "el turn de Fletcher" mencionado en s20 — ¿evento
@@ -127,7 +142,7 @@ y
 - [ ] Cross-link con Mark Davis (Aussie Open) — ya Héroe
       Fundamental #43.
 - [ ] Confirmar qué título le quitó a Takeshita.
-- [ ] Fecha de Redemption 2026 (vs Bandido).
+- [ ] Finish/duración del match vs Bandido.
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -137,6 +152,7 @@ y
 - [`../matches/2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md`](../matches/2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md)
 - [`../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md`](../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md)
 - [`../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md`](../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md)
+- [`../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md`](../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md)
 
 ## Cross-links
 

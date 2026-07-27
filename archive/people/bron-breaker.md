@@ -66,6 +66,27 @@ exponiéndolo. Expectativa editorial de mejora declarada, no
 descartada. Ver
 [`../matches/2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash.md`](../matches/2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash.md).
 
+### Sesión 2026-07-14 s46 — Citado como estándar negativo en AEW: "que no cometan el error de WWE"
+
+**Contexto**: previo al match Kevin Knight vs Kenny Omega en AEW
+Redemption, el Vehemiurgo cita explícitamente el booking de Bron
+Breakker en Backlash como el error a evitar.
+
+**Cita verbatim**:
+
+> *"yo queria que sea estilo Kevin Knight, que no cometan el error
+> de WWE con su prospecto Bron Breaker, que lo estan haciendo tener
+> luchas estilo seth rollins en vez de darle confianza a su estilo,
+> aqui el nuevo estilo tiene que prevalecer"*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: el caso de Bron Breakker cruza de marca —
+se consolida como la vara de medir del Vehemiurgo para cualquier
+prospecto heavyweight al que la oficina fuerce a imitar el estilo
+del veterano rival en vez de confiar en el propio. Ver
+[`../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md`](../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -302,8 +302,9 @@ y [`./nicho-el-millonario.md`](./nicho-el-millonario.md).
       (posible faction/topic file).
 - [ ] Run como campeón AEW World 2024-2025 — números/contexto
       para sostener el juicio "aburrido" con dato.
-- [ ] Rivalidad vs Ospreay 2026 — match anchor cuando ocurra
-      (el Vehemiurgo espera blow-off con Moxley poniendo over).
+- [x] ~~Rivalidad vs Ospreay 2026 — match anchor~~ → **RESUELTO
+      (s46, Redemption)**: blow-off vía derrota en tag (Ospreay &
+      Moxley vs Young Bucks) + quiebre formal en segmento final.
 - [ ] Verificar nivel de fuente de cada dato duro antes de
       asentar.
 
@@ -337,11 +338,53 @@ ahora, disparada por una promo de MJF que demuestra que Ospreay no
 necesita el andamiaje de Moxley para funcionar. Ver
 [`../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md`](../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md).
 
+### Sesión 2026-07-14 s46 — Redemption: el blow-off — "basura Moxley", Ospreay lo dropea
+
+**Contexto**: cierre del arco crítico sostenido desde s10. Tag vs
+Young Bucks (Moxley de compañero de Ospreay) y segmento final del
+mismo show, donde Ospreay finalmente rompe con él.
+
+**Cita verbatim** (match):
+
+> *"la única mancha es Moxley y sus vicios in ring [...] es Moxley
+> actuando como loquito pero los young bucks lo superan, para mi es
+> simbólico, espero que AEW pueda superar a este egomaniaco de una
+> vez"*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Cita verbatim** (segmento final):
+
+> *"el segmento final de Redemption es más basura Moxley, los death
+> riders tienen que protagonisar todo siempre esos losers, ya vieron
+> que no tiene sentido entonces ahora Ospreay otra vez a dropear a
+> Mox, como debió ser desde su regreso, o sea que como siempre todo
+> lo que hicieron los Moxleys no tuvo sentido se retconea y fue una
+> perdida de tiempo y momentum para gente que si tiene talento.
+> Super forzada la fantasia de Mox en todo lo que hace AEW, que
+> obstaculo más absurdo para Ospreay."*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: **resuelve el pendiente** de "blow-off con
+Moxley poniendo over" que este expediente venía marcando desde
+s10-31 — aunque no como main-event singles, sino como derrota en
+tag (Moxley "actuando como loquito", los Young Bucks superándolo,
+lectura explícitamente simbólica) seguida del quiebre formal en el
+segmento final. El veredicto final del Vehemiurgo sobre todo el
+arco: retcon completo, "pérdida de tiempo y momentum para gente
+que sí tiene talento". Ver
+[`../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md`](../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md)
+y
+[`../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md`](../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynamite-08-abr-2026.md`](../../notebook/2026-05-26-takes-aew-dynamite-08-abr-2026.md)
   — volcado origen del take.
 - [`../segments/2026-04-08-united-empire-ambush-death-riders-aew-dynamite.md`](../segments/2026-04-08-united-empire-ambush-death-riders-aew-dynamite.md)
   — Death Riders emboscados por United Empire.
+- [`../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md`](../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md)
+- [`../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md`](../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md)
 - [`./will-ospreay.md`](./will-ospreay.md) — Moxley como
   combustible del arco Ospreay.

@@ -210,6 +210,29 @@ completo de Jay White y la promo de Juice Robinson. Ver
 - [`../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md`](../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md)
 - [`../segments/2026-07-22-post-match-finlay-interrumpe-bang-bang-gang-salva-aew-dynamite.md`](../segments/2026-07-22-post-match-finlay-interrumpe-bang-bang-gang-salva-aew-dynamite.md)
 
+### Sesión 2026-07-14 s46 — Dog collar en Redemption: crítica de timing de estipulación
+
+**Cita verbatim**:
+
+> *"esto es especial, es un tratamiento de lujo tener a Juice y Jay
+> como tag team, ahora en una dog collar match, está ok [...] no
+> fue el clásico instantaneo que pudo ser [...] por qué pondrias
+> una dog collar al principio [...] no me funciona como payoff [...]
+> juice y jay merecen una dog collar muy bien bookeada con peso
+> real de revancha; pero bueno la lucha está ok, se merece un
+> enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment con la crítica de
+booking más extensa de la sesión — la estipulación de hardcore
+llegó antes de que la rivalidad post-regreso de Jay White
+acumulara historial suficiente para ameritarla; David Finlay hace
+equipo con Clark Connors (The Guns) contra el enemigo común. Ver
+[`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md)
+y
+[`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+
 ## Cross-links
 
 - [`./the-guns.md`](./the-guns.md)

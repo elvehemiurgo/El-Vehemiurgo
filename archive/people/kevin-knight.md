@@ -207,6 +207,31 @@ celebración del 15/7), escalada sostenida de cara a Redemption
 2026. Ver
 [`../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md`](../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md).
 
+### Sesión 2026-07-14 s46 — Redemption vs Omega: "eso es una power move, todo un pro"
+
+**Cita verbatim**:
+
+> *"aqui Kevin estuvo super prolijo, mucho wrestling oldschool de
+> su parte, se movia como heel heavyweight experto, no cayó en la
+> dinámica de Omega y su strong style debil, le dejó hacer sus
+> spots y vendió como heavyweight, nada de jugar a los sayayines.
+> Eso es una power move, todo un pro Kevin, le dio una lucha genial
+> a Omega. Kevin controlo a Omega lo suficiente para sacar una
+> lucha perfecta, se merece las 3 clases."*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: Perfect Match — pago del build sostenido
+desde s33-s34. Knight cumple exactamente la doctrina que el
+Vehemiurgo pidió de antemano (ver
+[`./bron-breaker.md`](./bron-breaker.md) para la referencia
+cross-marca): impone su propio estilo heel heavyweight old-school
+en vez de caer en la dinámica de Omega, vendiendo con peso real.
+Ver
+[`../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md`](../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md)
+y
+[`../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md`](../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.
@@ -214,7 +239,6 @@ celebración del 15/7), escalada sostenida de cara a Redemption
       matches registrados).
 - [ ] Naturaleza exacta del agravio que motiva la venganza de
       Darby Allin — [verif].
-- [ ] Fecha de Redemption 2026 (vs Omega proyectado).
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -223,6 +247,8 @@ celebración del 15/7), escalada sostenida de cara a Redemption
 - [`../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md`](../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md)
 - [`../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md`](../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md)
 - [`../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md`](../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md)
+- [`../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md`](../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md)
+- [`../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md`](../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md)
 
 ## Cross-links
 

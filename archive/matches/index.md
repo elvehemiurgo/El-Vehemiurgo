@@ -13,6 +13,12 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-07-26 | Kevin Knight vs Kenny Omega | AEW / Redemption | PW·FS·WE | en-investigacion | 1 | [→](2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md) |
+| 2026-07-26 | Andrade vs Mark Davis | AEW / Redemption | PW·FS·WE | en-investigacion | 1 | [→](2026-07-26-andrade-vs-mark-davis-aew-redemption.md) |
+| 2026-07-26 | Jay White & Juice Robinson vs David Finlay & Clark Connors | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md) |
+| 2026-07-26 | Bandido vs Kyle Fletcher | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md) |
+| 2026-07-26 | Will Ospreay & Jon Moxley vs Young Bucks | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md) |
+| 2026-07-26 | Ladder match (opener) | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-ladder-match-opener-aew-redemption.md) |
 | 2026-07-22 | Jay White vs Clark Connors | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md) |
 | 2026-07-22 | Darby Allin vs Kevin Knight | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md) |
 | 2026-07-15 | Komander vs Kyle Fletcher | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md) |

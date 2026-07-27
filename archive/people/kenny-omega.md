@@ -284,6 +284,45 @@ y
 go-home de la rivalidad con Knight, camino a Redemption 2026. Ver
 [`../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md`](../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md).
 
+### Sesión 2026-07-14 s46 — Redemption vs Kevin Knight: controlado por un heel heavyweight que no juega a los sayayines
+
+**Cita verbatim**:
+
+> *"no cayó en la dinámica de Omega y su strong style debil, le
+> dejó hacer sus spots y vendió como heavyweight, nada de jugar a
+> los sayayines [...] Kevin controlo a Omega lo suficiente para
+> sacar una lucha perfecta"*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: Perfect Match, pero el control narrativo y
+técnico del match recae en Kevin Knight — el "strong style débil"
+de Omega vuelve a quedar señalado como vicio de estilo (mismo eje
+crítico de sesiones previas), aun dentro de una lucha de máxima
+clase. Ver
+[`../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md`](../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md)
+y
+[`../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md`](../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md).
+
+### Sesión 2026-07-14 s46 — Segmento final: tease Omega vs Ospreay, escalada personal con paralelismo AJ
+
+**Cita verbatim**:
+
+> *"lo que salva el booking es que Omega vs Ospreay si puede ser
+> una lucha genial, si es la colisión que necesita el estilo de
+> Omega, además del ataque post match, el paralelismo con AJ,
+> escala la rivalidad, ya es personal, ya se puden considerar
+> enemigos, esta versión de Omega y los bucks puede ponerse cool."*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: proyección editorial fuerte hacia un
+eventual Omega vs Ospreay, leído como la colisión que el estilo de
+Omega necesita para funcionar mejor — con escalada a rivalidad
+personal (ataque post-match) y paralelismo explícito con AJ Styles
+(posible cita a los Cuatro Pilares del Puroresu). Ver
+[`../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md`](../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md`](../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md)
@@ -294,3 +333,6 @@ go-home de la rivalidad con Knight, camino a Redemption 2026. Ver
 - [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md)
 - [`../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md`](../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md)
 - [`../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md`](../segments/2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md)
+- [`../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md`](../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md)
+- [`../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md`](../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md)
+- [`../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md`](../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md)

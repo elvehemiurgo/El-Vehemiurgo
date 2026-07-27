@@ -61,17 +61,35 @@ para Juice Robinson — protagoniza la apertura de una promo coral
 de facción de cara a Redemption 2026. Ver
 [`../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md`](../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md).
 
+### Sesión 2026-07-14 s46 — Tag de lujo con Jay White en Redemption
+
+**Cita verbatim**:
+
+> *"es un tratamiento de lujo tener a Juice y Jay como tag team,
+> ahora en una dog collar match [...] juice y jay merecen una dog
+> collar muy bien bookeada con peso real de revancha"*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — posicionamiento
+de lujo junto a Jay White, con la reserva de que la dog collar
+"real" que ambos merecen queda pendiente para más adelante en la
+rivalidad. Ver
+[`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NJPW/Bullet Club/AEW.
 - [ ] Confirmar pertenencia exacta a "The Dogs" vs "Bang Bang
       Gang" (relación entre ambas etiquetas) — [verif].
-- [ ] Finish/duración del rematch vs The Guns.
+- [ ] Finish/duración del rematch vs The Guns y de la dog collar
+      vs Finlay & Connors.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
 - [`../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md`](../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md)
+- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)
 
 ## Cross-links
 

@@ -180,6 +180,15 @@ consistent, character work simple babyface, sin promos
 verbose, sin gimmick overdone. Carny puro old-school
 trasladado al formato moderno.
 
+### Sesión 2026-07-14 s46 — Mención cruzada: paralelismo en la escalada Omega vs Ospreay
+
+**Contexto**: dentro del segmento final de AEW Redemption, el
+Vehemiurgo lee un "paralelismo con AJ" en la escalada personal
+entre Kenny Omega y Will Ospreay tras el ataque post-match. Ver
+[`../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md`](../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md).
+No genera clase ni nota dedicada — mención cruzada, posible
+lectura en clave de Cuatro Pilares del Puroresu.
+
 ## Pendientes / huecos
 
 - [ ] **AJ vs Kurt Angle TNA matches** (4 entradas en lista

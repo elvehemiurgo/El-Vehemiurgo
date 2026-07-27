@@ -273,12 +273,56 @@ como dato positivo — refuerzo directo de la crítica sostenida
 desde s10 sobre el pairing con Death Riders. Ver
 [`../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md`](../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md).
 
+### Sesión 2026-07-14 s46 — Redemption: PAYOFF del arco crítico — "nunca tuvo sentido"
+
+**Contexto**: cierre en dos tiempos del mismo show — el tag vs
+Young Bucks (con Moxley de compañero) y el segmento final, donde
+Ospreay finalmente "dropea" a Mox. Culminación de la crítica
+sostenida desde s10 (booking innecesario), pasando por s17, s21,
+s26, s32 y el pico de hostilidad en s33 (*"se pone a llorar"*).
+
+**Cita verbatim** (match vs Young Bucks):
+
+> *"se supone que era épico el desacuerdo de Ospreay con Moxley en
+> el plano ético pero es que nunca tuvo sentido, que bueno que ya
+> no sigan forzando eso para el booking de Ospreay pero no es
+> épico, solo prueba que siempre fue mala idea, y que no hay que
+> hacerle caso a Mox."*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Cita verbatim** (segmento final):
+
+> *"ahora Ospreay otra vez a dropear a Mox, como debió ser desde su
+> regreso, o sea que como siempre todo lo que hicieron los Moxleys
+> no tuvo sentido se retconea y fue una perdida de tiempo y
+> momentum para gente que si tiene talento [...] El giro interesante
+> y lo que salva el booking es que Omega vs Ospreay si puede ser
+> una lucha genial, si es la colisión que necesita el estilo de
+> Omega."*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: **cierre declarado del arco crítico
+sostenido desde s10** — el Vehemiurgo no presenta esto como un
+giro narrativo épico sino como la confirmación retroactiva de que
+el desacuerdo ético con Moxley "siempre fue mala idea". Ospreay
+queda liberado del andamiaje ("como debió ser desde su regreso"),
+con el booking salvado por la proyección de una colisión real:
+**Omega vs Ospreay**, escalada a rivalidad personal con ataque
+post-match y paralelismo con AJ Styles. Ver
+[`../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md`](../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md)
+y
+[`../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md`](../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md).
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.
 - [ ] IWGP Heavyweight Champion 2023 — pieza coronation.
 - [ ] Feud Takeshita 2024-2025 — pieza editorial multi-match.
-- [ ] **Columna editorial diagnóstica** Ospreay caso test
-      Cornette-school vs Vehemiurgia-school (pendiente columna
-      editorial dedicada) — el pairing con Moxley como caso
-      central.
+- [x] ~~Columna editorial diagnóstica Ospreay caso test
+      Cornette-school vs Vehemiurgia-school~~ → **arco resuelto en
+      s46**: el pairing Moxley queda declarado "siempre fue mala
+      idea" por el propio Vehemiurgo — material listo para la
+      columna cuando se escriba.
+- [ ] Seguir la proyección Omega vs Ospreay hacia Redemption/Wembley.

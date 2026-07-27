@@ -39,11 +39,30 @@ objetivo de la promo de venta de Fletcher, sin desarrollo propio
 todavía. Ver
 [`../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md`](../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md).
 
+### Sesión 2026-07-14 s46 — vs Kyle Fletcher en Redemption: "espectáculo", no repetible
+
+**Cita verbatim**:
+
+> *"bandido vs FLetcher merece un enterteinment class, no me gusta
+> mucho el repertorio de bandido, pero fletcher levanta cualquier
+> lucha, no la vería otra vez, pero si fue un espectaculo"*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment con reserva
+declarada sobre el repertorio de Bandido — Fletcher es quien
+eleva el match. Ver
+[`../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md`](../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md).
+
 ## Pendientes / huecos
 
-- [ ] Todo — nombre real, trayectoria, empresa, fechas.
-- [ ] Registrar el match vs Kyle Fletcher en Redemption cuando el
-      Vehemiurgo lo vea.
+- [ ] Nombre real, trayectoria, fechas.
+- [ ] Finish/duración del match vs Kyle Fletcher.
+
+## Piezas del Vehemiurgo donde aparece
+
+- [`../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md`](../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md)
+- [`../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md`](../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md)
 
 ## Cross-links
 

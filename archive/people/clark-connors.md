@@ -69,19 +69,40 @@ actual — con un agravio previo no registrado aún ("otra vez").
 Ver
 [`../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md`](../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md).
 
+### Sesión 2026-07-14 s46 — Alianza cruzada con David Finlay contra Jay White en Redemption
+
+**Contexto**: dog collar match, con Clark Connors (The Guns)
+haciendo equipo con David Finlay (The Dogs) contra Jay White &
+Juice Robinson. Lectura consistente con la cuenta pendiente
+individual de Connors con Jay White (match del 22/7/2026) —
+enemigo común de ambos equipos, no necesariamente reasignación de
+Connors a "The Dogs".
+
+**Cita verbatim**: ver la del match completo en
+[`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+
+**Lectura sintética**: Wrestling Entertainment, con la crítica de
+timing de estipulación recayendo sobre el booking general, no
+sobre la ejecución de Connors específicamente.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NJPW/AEW.
-- [ ] Confirmar pertenencia exacta a "The Guns".
-- [ ] Finish/duración del rematch vs The Dogs y del match vs Jay
-      White.
+- [ ] Confirmar pertenencia exacta a "The Guns" — la alianza
+      puntual con Finlay en Redemption no la contradice
+      necesariamente, pero merece [verif].
+- [ ] Finish/duración del rematch vs The Dogs, del match vs Jay
+      White y de la dog collar de Redemption.
 - [ ] Agravio previo contra Jay White ("otra vez") — [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
 - [`../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md`](../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md)
+- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)
 
 ## Cross-links
 
-- [`./the-guns.md`](./the-guns.md) · [`./juice-robinson.md`](./juice-robinson.md)
+- [`./the-guns.md`](./the-guns.md) · [`./juice-robinson.md`](./juice-robinson.md) ·
+  [`./david-finlay.md`](./david-finlay.md) — aliado puntual en
+  Redemption.

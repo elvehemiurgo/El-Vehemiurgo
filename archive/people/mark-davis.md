@@ -221,8 +221,31 @@ por la crítica de booking dirigida a la relación de Ospreay con
 Moxley, ajena a su propio trabajo. Ver
 [`../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md`](../matches/2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md).
 
+### Sesión 2026-07-14 s46 — Perfect Match vs Andrade en Redemption: "mejor que nunca como performer"
+
+**Cita verbatim**:
+
+> *"Andrade vs Mark Davis, genial, super explosiva, grudge match,
+> buen booking, buena acción [...] Davis tambien está mejor que
+> nunca como performer, super satisfactorio todo, esta lucha se
+> merece las 3 clases, que pros."*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: Perfect Match — pico de forma declarado
+("mejor que nunca"), consistente con la trayectoria de
+reconocimiento que el Vehemiurgo le viene dando desde su etapa
+indie como "Dunkzilla". Posible origen del grudge en el six-man
+del 8/4/2026 (con Andrade y Takeshita) — [verif], no confirmar sin
+fuente. Mencionado también en el promo video "Guns vs Dogs" del
+mismo show junto a Jay White — [verif] relación exacta. Ver
+[`../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md`](../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md)
+y
+[`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md).
+
 ## Pendientes / huecos
 
+- [ ] Origen exacto del grudge con Andrade — [verif].
 - [ ] Nombre real + nacimiento + origen exactos.
 - [ ] Aussie Open con Kyle Fletcher — reinos + recorrido
       RevPro/NJPW/AEW.
@@ -250,3 +273,6 @@ Moxley, ajena a su propio trabajo. Ver
   — singles cumbre, Perfect Match.
 - [`../matches/2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md`](../matches/2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md)
   — coronación, Perfect Match.
+- [`../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md`](../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md)
+  — Perfect Match, grudge match.
+- [`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md)

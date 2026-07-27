@@ -55,16 +55,36 @@ criticar en otros contextos (ver
 [`../topics/doctrina-2000s-alternativo-real-no-cosplay-vs-moxley.md`](../topics/doctrina-2000s-alternativo-real-no-cosplay-vs-moxley.md)
 para el marco doctrinal de "lo real" aplicado a otros estilos).
 
+### Sesión 2026-07-14 s46 — Alta a RUNNER UPS: "más pulido que nunca"
+
+**Cita verbatim**:
+
+> *"es innegable la evolución de Komander y el clon, sus estilos
+> están más pulidos que nunca, muy buen wrestling, añade a Komander
+> y el clon a la lista de los que se ganaron mi corazón este año"*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: **RUNNER UPS** — Wrestling Entertainment
+en el ladder match de apertura de Redemption, con evolución de
+estilo declarada sin matices. Ver
+[`../matches/2026-07-26-ladder-match-opener-aew-redemption.md`](../matches/2026-07-26-ladder-match-opener-aew-redemption.md)
+y [`../topics/runner-ups.md`](../topics/runner-ups.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
-- [ ] Finish/duración del match.
+- [ ] Finish/duración de ambos matches.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md`](../matches/2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md)
+- [`../matches/2026-07-26-ladder-match-opener-aew-redemption.md`](../matches/2026-07-26-ladder-match-opener-aew-redemption.md)
 
 ## Cross-links
 
 - [`./kyle-fletcher.md`](./kyle-fletcher.md) — rival del Perfect
   Match.
+- [`./el-clon.md`](./el-clon.md) — co-protagonista del ladder
+  match, alta conjunta a RUNNER UPS.
+- [`../topics/runner-ups.md`](../topics/runner-ups.md)

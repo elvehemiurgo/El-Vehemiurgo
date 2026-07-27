@@ -145,10 +145,35 @@ casos testigo que **sí consolidó**.
 Ver tesis completa:
 [`../topics/hardys-como-plataforma-mentor.md`](../topics/hardys-como-plataforma-mentor.md).
 
+## Notas editoriales del Vehemiurgo (cont.)
+
+### Sesión 2026-07-14 s46 — Superan a Moxley: "para mí es simbólico"
+
+**Cita verbatim**:
+
+> *"me gustó como lucha de los young bucks [...] la única mancha es
+> Moxley y sus vicios in ring [...] el desenlace de esta lucha me
+> gustó, es Moxley actuando como loquito pero los young bucks lo
+> superan, para mi es simbólico, espero que AEW pueda superar a
+> este egomaniaco de una vez, al menos puso over a los young bucks
+> y Matt se vio muy fuerte la verdad."*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment vs Will Ospreay &
+Jon Moxley — el equipo queda "over" pese al resultado (Moxley
+pierde con ellos como excusa narrativa), y el desenlace se lee
+como símbolo editorial del deseo de que AEW supere a Moxley como
+figura creativa dominante. Ver
+[`../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md`](../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md),
+[`./matt-jackson.md`](./matt-jackson.md),
+[`./nick-jackson.md`](./nick-jackson.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynasty-2026.md`](../../notebook/2026-05-26-takes-aew-dynasty-2026.md)
   — declaración de héroes fundamentales.
+- [`../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md`](../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md)
 - [`../matches/2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md`](../matches/2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md)
   — Perfect Match (las tres clases).
 - [`../matches/2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md`](../matches/2026-04-11-young-bucks-vs-hechicero-clon-aew-collision.md)

@@ -219,6 +219,30 @@ y
 - [`../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md`](../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md)
 - [`../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md`](../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md)
 
+### Sesión 2026-07-14 s46 — Redemption vs Mark Davis: "de lo mejor que se ha hecho con Andrade en TV"
+
+**Cita verbatim**:
+
+> *"Andrade vs Mark Davis, genial, super explosiva, grudge match,
+> buen booking, buena acción, todos los spots que a Andrade le
+> dieron la gana, habian stakes, y es buena programación de lo
+> mejor que se ha hecho con andrade en tv, realmente calidad de
+> booking. buena coronación [...] esta lucha se merece las 3
+> clases, que pros."*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+**Lectura sintética**: Perfect Match — veredicto superlativo,
+continuidad directa de la racha de sesiones fuertes desde s33
+(catchphrase, Perfect Match vs Jake Doyle, robo del anillo a
+MJF). Libertad creativa total ("todos los spots que le dieron la
+gana") con stakes reales. Ver
+[`../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md`](../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md).
+
+## Piezas del Vehemiurgo donde aparece (cont.)
+
+- [`../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md`](../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md)
+
 ## Cross-links
 
 - [`./rush.md`](./rush.md) — contraste de promo, mismo día.
@@ -226,3 +250,5 @@ y
 - [`./mjf.md`](./mjf.md) — tensión que detona el face turn.
 - [`./jake-doyle.md`](./jake-doyle.md) — rival del Perfect Match
   (s33).
+- [`./mark-davis.md`](./mark-davis.md) — rival del Perfect Match
+  (s46).

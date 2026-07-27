@@ -4,11 +4,12 @@ slug: runner-ups
 tipo: topic
 categoria: lista-oficial
 estado: vivo
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-09 s01 (propuesta + casos fundantes)"
   - "Volcado Vehemiurgo 2026-07-11 (bautizo + primera alta formal: Dani Luna)"
-tags: [runner-ups, mustafa-ali, mike-santana, dani-luna, presente-no-futuro, antesala-panteon]
+  - "Volcado Vehemiurgo 2026-07-14 s46 (alta doble: Komander + El Clon, AEW Redemption)"
+tags: [runner-ups, mustafa-ali, mike-santana, dani-luna, komander, el-clon, presente-no-futuro, antesala-panteon]
 ---
 
 # RUNNER UPS — "ganándose mi corazón en tiempo real"
@@ -67,6 +68,26 @@ enfría, queda el registro de por qué no.
   declarado**: por primera vez el Vehemiurgo la ve *"impresionado"*
   con el acto **completo y balanceado**.
 - Ver ficha [→](../people/dani-luna.md) para el roadmap completo.
+
+### #4 y #5 — Komander y El Clon *(declarados 2026-07-14 s46)*
+
+> *"es innegable la evolución de Komander y el clon, sus estilos
+> están más pulidos que nunca, muy buen wrestling, añade a Komander
+> y el clon a la lista de los que se ganaron mi corazón este año"*
+>
+> — El Vehemiurgo, 2026-07-14 s46 (verbatim)
+
+- **Contexto**: ladder match de apertura de AEW Redemption
+  (26/7/2026) — Wrestling Entertainment con reserva de
+  estipulación, pero evolución de estilo declarada sin matices
+  para ambos.
+- **Por qué entran juntos**: primera alta doble de la lista —
+  ambos evolucionan "más pulidos que nunca" en el mismo match,
+  sin que el Vehemiurgo distinga a uno por sobre el otro.
+- Ver
+  [→](../people/komander.md) y
+  [→](../people/el-clon.md) para los expedientes completos, y
+  [`../matches/2026-07-26-ladder-match-opener-aew-redemption.md`](../matches/2026-07-26-ladder-match-opener-aew-redemption.md).
 
 ## Pendientes
 
