@@ -97,6 +97,25 @@ booking de MJF — sin desarrollo individual propio en esta sesión.
 Ver
 [`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md).
 
+### Sesión 2026-07-14 s33 — Sube la tensión en la implosión de la Don Callis Family
+
+**Cita verbatim**:
+
+> *"entra Okada para subir la tensión aun más, esta implosión lenta
+> de la Don Callis Family está muy emocionante [...] lo único malo
+> es que Okada y Takeshita se están quedando muy calladitos"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: participa activamente en la escalada de
+tensión de la facción, pero el Vehemiurgo marca su silencio (junto
+con Takeshita) como el único punto flojo del arco — protagonismo
+concentrado en Fletcher y Knight. También aparece respaldando a
+Fletcher en la venta de su próximo feud con Bandido. Ver
+[`../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md`](../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md)
+y
+[`../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md`](../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, debut, cronología NJPW con títulos.
@@ -106,11 +125,15 @@ Ver
       G1 Climax) [candidato a `/research` o dossier si el
       Vehemiurgo lo pide].
 - [ ] Finish/duración del match vs Myron Reed.
+- [ ] Rol exacto y cronología dentro de la Don Callis Family.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-11-myron-reed-vs-okada-aew-collision.md`](../matches/2026-04-11-myron-reed-vs-okada-aew-collision.md)
+- [`../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md`](../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md)
+- [`../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md`](../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md)
 
 ## Cross-links
 
 - [`./myron-reed.md`](./myron-reed.md) — rival del Perfect Match.
+- [`./kyle-fletcher.md`](./kyle-fletcher.md) · [`./konosuke-takeshita.md`](./konosuke-takeshita.md)

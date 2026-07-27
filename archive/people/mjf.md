@@ -456,12 +456,41 @@ desde s08/s25/s26. Ver
 y
 [`../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md`](../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md).
 
+### Sesión 2026-07-14 s33 — Se burla de Ospreay ("clásico AEW") y pierde el título vs Omega
+
+**Cita verbatim**:
+
+> *"MJF burlñandose del booking de Ospreay [...] me encanta cuando
+> dice 'I was the feeling all along, and you and Omega are just
+> wrestlers...' [...] este es el clásico AEW, esos son los
+> protagonistas [...] MJF este año aqui se toma un descanso por
+> lesiones y eso, la verdad es que lo hizo espectacular todo el
+> año [...] esta lucha es la más debil del reinado de MJF [...]
+> MJF debió ganar, ni modo"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para la promo
+burlándose de Ospreay — cita ancla incluida, y declaración
+explícita de MJF/Ospreay como "el clásico AEW". Cierra el año como
+campeón con la nota más baja de su reinado (sin clase, vs Kenny
+Omega) — el Vehemiurgo separa el juicio del reinado completo
+("espectacular") del juicio sobre este match puntual. Título
+cambia de manos: Kenny Omega nuevo AEW World Champion, camino
+declarado hacia Ospreay en Wembley. Ver
+[`../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md`](../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md)
+y
+[`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
 - [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
 - [`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md)
+- [`../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md`](../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md)
+- [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md)
+- [`../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md`](../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md)
 
 ## Pendientes
 
@@ -471,9 +500,12 @@ y
       sesión s08 (2026-07-14): consecuencia narrativa de la
       propia arrogancia de MJF (Darby Allin campeón, Tomasso
       retador).
-- [ ] **Cronología del título 2026**: cuándo/cómo Kenny Omega se
-      volvió campeón + qué título ganó Darby Allin + mecánica
-      exacta que conecta ambos [verif].
+- [x] **Cronología del título 2026 (parcial)**: Kenny Omega se
+      vuelve AEW World Champion el 8/7/2026 (Beach Break),
+      derrotando a MJF — ver
+      [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md).
+      Falta qué título ganó Darby Allin + mecánica exacta que
+      conecta ambos [verif].
 - [ ] AEW World Champion debut + reigns — piezas editoriales.
 - [ ] The Devil mask storyline 2023-2024 — pieza editorial.
 - [ ] MJF vs Cody Rhodes feud 2019-2020 — pieza editorial

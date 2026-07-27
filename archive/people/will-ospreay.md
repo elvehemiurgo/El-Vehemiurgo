@@ -258,6 +258,21 @@ no de talento. Ver
 [`../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md`](../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md)
 y [`./jon-moxley.md`](./jon-moxley.md).
 
+### Sesión 2026-07-14 s33 — Complementa la promo de MJF sin necesitar a Moxley
+
+**Cita verbatim**:
+
+> *"Ospreay aparece para complementar y lo hace muy bien, es un
+> babyface cool [...] si se dan cuenta ni menciona a Mox ni nada
+> de ese booking, es irrelevante y solo resta"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: la ausencia de Moxley en la escena se lee
+como dato positivo — refuerzo directo de la crítica sostenida
+desde s10 sobre el pairing con Death Riders. Ver
+[`../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md`](../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md).
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.

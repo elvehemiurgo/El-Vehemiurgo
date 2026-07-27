@@ -322,6 +322,21 @@ s10 — Moxley/Death Riders sigue leído como andamiaje innecesario
 para un babyface que funciona solo. Ver
 [`./will-ospreay.md`](./will-ospreay.md).
 
+### Sesión 2026-07-14 s33 — La crítica más dura hasta ahora: "se pone a llorar"
+
+**Cita verbatim**:
+
+> *"detesto que tengan que hacer jugar a Mox en el main event
+> siempre porque si no se pone a llorar"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: escalada máxima de la crítica sostenida
+desde s10/s21/s26/s32 — formulación más hostil registrada hasta
+ahora, disparada por una promo de MJF que demuestra que Ospreay no
+necesita el andamiaje de Moxley para funcionar. Ver
+[`../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md`](../segments/2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynamite-08-abr-2026.md`](../../notebook/2026-05-26-takes-aew-dynamite-08-abr-2026.md)

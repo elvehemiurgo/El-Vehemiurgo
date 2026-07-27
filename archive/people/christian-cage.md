@@ -279,6 +279,19 @@ a FTR) se confirma como acierto de booking, en línea con lo ya
 anticipado en s26. Ver
 [`../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md).
 
+### Sesión 2026-07-14 s33 — The Dogs atacan, continúa la guerra de facciones
+
+**Cita verbatim**:
+
+> *"the dogs atacan a cope and cage para continuar el booking [...]
+> esta guerra de facciones si me interesa"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: continuación del feud revitalizado desde
+s26. Ver
+[`../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md`](../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 **Christian Cage es el caso paradigmático de carny ortodoxo

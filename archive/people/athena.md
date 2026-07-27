@@ -57,9 +57,23 @@ lee como parte de su función estructural, no como devaluación.
       World.
 - [ ] Finish/duración del match vs Maya World.
 
+### Sesión 2026-07-14 s33 — Beach Break gauntlet: mejor que Mercedes
+
+**Cita verbatim**:
+
+> *"este showcase si me atrae porque Athena siempre pone buenas
+> luchas, mejor que Mercedes"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: comparación directa y favorable frente a
+Mercedes Moné dentro del mismo gauntlet. Ver
+[`../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md`](../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-06-20-maya-world-vs-athena-aew-collision.md`](../matches/2026-06-20-maya-world-vs-athena-aew-collision.md)
+- [`../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md`](../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md)
 
 ## Cross-links
 

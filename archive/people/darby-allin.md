@@ -228,6 +228,26 @@ agravio previo exacto queda [verif]. Ver
 [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
 y [`./kevin-knight.md`](./kevin-knight.md).
 
+### Sesión 2026-07-14 s33 — Payoff de la venganza: "hardcore top tier últimamente"
+
+**Cita verbatim**:
+
+> *"esta lucha se merece las 3 clases, fue una lucha de las que
+> Darby está poniendo, este estilo en este punto de madurez que
+> logró Darby está muy bueno, nunca decepciona y lo mantiene real,
+> su hardcore se me hace top tier últimamente"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: Perfect Match, pago de la venganza contra
+Kevin Knight anunciada en Forbidden Door (s30). Declaración de
+madurez estilística — el hardcore de Darby como estándar "top
+tier", coherente con la doctrina de "lo real" desarrollada en el
+dossier
+[`../../dossiers/draft-hardcore-psicosis-vs-moxley.md`](../../dossiers/draft-hardcore-psicosis-vs-moxley.md).
+Pierde ante una trampa de Knight con "un spot impresionante". Ver
+[`../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md`](../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.
@@ -246,9 +266,10 @@ y [`./kevin-knight.md`](./kevin-knight.md).
 - [`../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md`](../segments/2026-05-13-mjf-darby-contract-signing-aew-dynamite.md)
 - [`../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md`](../matches/2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md)
 - [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
+- [`../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md`](../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md)
 
 ## Cross-links
 
 - [`./mjf.md`](./mjf.md) — causante narrativo de su reinado.
 - [`./kevin-knight.md`](./kevin-knight.md) — venganza en Forbidden
-  Door (s30).
+  Door (s30) y payoff (s33).

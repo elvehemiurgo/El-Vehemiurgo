@@ -143,6 +143,23 @@ dentro del mismo roster de cómo hacer un feud "real" vs uno
 ### MITB inaugural
 - [`../matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md`](../matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md)
 
+### AEW 2026 — feud Ciampa
+- [`../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md`](../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md)
+
+### Sesión 2026-07-14 s33 — Beach Break: babyface exitoso, pone over a Ciampa
+
+**Cita verbatim**:
+
+> *"me gustó el papel de Jericho como babyface, era un reto y lo
+> hicieron super bien en el micrófono [...] Jericho pone over a
+> Ciampa, lo protegen y dejan muy bien al heel"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: payoff del feud (triple clase), con
+Jericho superando el reto de trabajar como babyface protector. Ver
+[`../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md`](../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md).
+
 ## Pendientes
 
 - [ ] Y2J countdown debut WWF 9 ago 1999 — segment editorial

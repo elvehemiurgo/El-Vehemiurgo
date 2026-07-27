@@ -171,6 +171,25 @@ y
 - [`../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md`](../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md)
 - [`../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md)
 
+### Sesión 2026-07-14 s33 — Atacan a Cope & Cage, Bang Bang Gang con ventaja de números
+
+**Cita verbatim**:
+
+> *"the dogs atacan a cope and cage para continuar el booking, y
+> el bang bang gang retoma tambien y ahora si tienen la ventaja de
+> los números, esta guerra de facciones si me interesa"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: escalada táctica de la guerra de facciones
+— interés sostenido, David Finlay reafirmado como "must watch"
+(ya elogiado en s26). Ver
+[`../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md`](../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md).
+
+## Piezas del Vehemiurgo donde aparece (cont.)
+
+- [`../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md`](../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md)
+
 ## Cross-links
 
 - [`./the-guns.md`](./the-guns.md)

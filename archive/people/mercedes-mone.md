@@ -87,14 +87,30 @@ Ver
 - [ ] Match anchor exacto vs la campeona amazona de CMLL —
       referenciado de pasada, sin fecha ni ficha propia todavía.
 
+### Sesión 2026-07-14 s33 — Comparación desfavorable vs Athena, dentro del gauntlet de Beach Break
+
+**Cita verbatim**:
+
+> *"Athena siempre pone buenas luchas, mejor que Mercedes [...] y
+> le sacó una buena lucha a Mercedes incluso"* (sobre Maya World)
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: doble mención de referencia — comparación
+desfavorable frente a Athena, y confirmación de que Maya World
+logró un buen match con ella dentro del gauntlet. Ver
+[`../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md`](../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-30-persephone-post-match-aew-collision.md`](../segments/2026-05-30-persephone-post-match-aew-collision.md)
   — mención dentro del diagnóstico de Persephone.
+- [`../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md`](../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md)
 
 ## Cross-links
 
 - [`./kira.md`](./kira.md) · [`./hazuki.md`](./hazuki.md) —
   comparación desfavorable.
+- [`./athena.md`](./athena.md) · [`./maya-world.md`](./maya-world.md)
 - [`./jon-moxley.md`](./jon-moxley.md) — mismo tipo de hastío
   editorial.

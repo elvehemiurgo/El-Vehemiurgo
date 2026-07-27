@@ -120,19 +120,45 @@ booking de MJF — sin desarrollo individual propio en esta sesión.
 Ver
 [`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md).
 
+### Sesión 2026-07-14 s33 — Pierde el título limpio, "invisible" junto a otros faces
+
+**Cita verbatim**:
+
+> *"Fletcher vs Takeshita, estuvo muy dura [...] Takeshita tiene
+> que añadir más al enterteinment, es buen babyface pero muy
+> invisible al lado de los otros faces con protagonismo,
+> especialmente proque aqui pierde el título de forma limpia
+> contra Fletcher, espero que esta presión le abra más opciones de
+> booking"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: Fighting Spirit con reserva para el match;
+crítica de booking de fondo — Takeshita queda eclipsado por otros
+faces del roster (contraste directo con el protagonismo actual de
+Darby, Andrade, Ospreay). El Vehemiurgo lee la derrota limpia como
+posible catalizador de mejor booking. Su implosión de facción
+(Don Callis Family) también lo deja en segundo plano frente a
+Fletcher y Knight. Ver
+[`../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md`](../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md)
+y
+[`../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md`](../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (DDT Japón → AEW).
 - [ ] Rol exacto en Don Callis Family.
 - [ ] [verif] en qué se nota exactamente la dilución del
       booking — pendiente de desarrollo futuro.
-- [ ] Finish/duración del match vs Darby.
+- [ ] Finish/duración del match vs Darby y vs Fletcher.
+- [ ] Confirmar qué título perdió ante Fletcher.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md`](../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md)
 - [`../matches/2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md`](../matches/2026-04-12-young-bucks-vs-okada-takeshita-aew-dynasty.md)
 - [`../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md`](../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md)
+- [`../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md`](../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md)
 
 ## Cross-links
 

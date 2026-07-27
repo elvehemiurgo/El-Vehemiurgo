@@ -12,6 +12,14 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-07-22 | Post-match: Kyle Fletcher interrumpe a Kevin Knight, entra Okada — implosión de la Don Callis Family | AEW / Dynamite | in-ring / tensión de facción | WE | stub | 1 | [→](2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md) |
+| 2026-07-15 | Promo backstage: Fletcher (con Okada) vende Bandido para Redemption | AEW / Dynamite | promo backstage | WE | stub | 1 | [→](2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md) |
+| 2026-07-15 | Post-match Komander vs Fletcher: foreshadowing Okada vs Fletcher | AEW / Dynamite | post-match / foreshadowing | — | stub | 1 | [→](2026-07-15-komander-fletcher-post-match-foreshadowing-okada-aew-dynamite.md) |
+| 2026-07-15 | Celebración de Kenny Omega, interrumpida por Kevin Knight | AEW / Dynamite | celebración de título + interrupción | — | stub | 1 | [→](2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md) |
+| 2026-07-15 | Promo backstage: Andrade revela más planes (roba el anillo de MJF) | AEW / Dynamite | promo backstage | — | stub | 1 | [→](2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md) |
+| 2026-07-15 | The Dogs atacan a Cope & Cage + retoma el Bang Bang Gang | AEW / Dynamite | angle / ataque | — | stub | 1 | [→](2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md) |
+| 2026-07-08 | Post-match: promo de Fletcher con Callis y Foley + promo de Andrade | AEW / Beach Break | promo post-match | WE | stub | 1 | [→](2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md) |
+| 2026-07-08 | Promo backstage: MJF se burla del booking de Ospreay | AEW / Beach Break | promo backstage | WE | stub | 1 | [→](2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md) |
 | 2026-07-01 | Promo backstage: MJF sobre Andrade | AEW / Dynamite | promo backstage | WE | stub | 1 | [→](2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md) |
 | 2026-06-28 | Promo video: DCMJF vs faces (6 vs 6) | AEW x NJPW / Forbidden Door | promo video (hype package) | — | stub | 1 | [→](2026-06-28-dcmjf-vs-faces-promo-video-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Regreso de Jay White | AEW x NJPW / Forbidden Door | return moment | — | stub | 1 | [→](2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md) |

@@ -66,6 +66,20 @@ histórica). Ver
 para el contexto de show completo (Bullet Club nostalgia, Cope &
 Cage vs The Dogs).
 
+### Sesión 2026-07-14 s33 — Ancla de calidad de los Death Riders
+
+**Cita verbatim**:
+
+> *"solo me estorban los death riders pero mientras el
+> protagonismo esté en Jay White todo está bien"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: el Vehemiurgo tolera la facción de Moxley
+condicionado a que Jay White mantenga el protagonismo — validación
+directa del regreso (s29). Ver
+[`../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md`](../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa NJPW (Bullet Club,

@@ -187,8 +187,42 @@ turn, s30). Ver
 - [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
 - [`../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md`](../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md)
 
+### Sesión 2026-07-14 s33 — "How do you know?": la catchphrase-armadura + Perfect Match vs Doyle
+
+**Cita verbatim**:
+
+> *"Andrade corta su mejor promo hasta ahora, este personaje de
+> babyface le queda muy bien, le ha dado la catchphrase de 'How do
+> you know?' [...] está abrazando el gimmick, está usandolo como
+> armadura [...] Andrade vs Doyle, tremenda dream match [...]
+> Andrade se vio super over [...] se merece las 3 clases, fue la
+> lucha perfecta [...] consiguió robar el anuillo a MJF, y su promo
+> estuvo buena, de verdad está mucho mejor, esto puede redondearse
+> rápidamente en un cmapeón mundial muy cool"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: la sesión más importante de su carrera en
+el archivo — estrena catchphrase propia ("How do you know?") como
+armadura de personaje babyface, protagoniza un **Perfect Match**
+contra Jake Doyle con venganza y arrogancia bien balanceadas, y
+escala directamente hacia una proyección de reinado mundial al
+robarle el anillo a MJF. Ver
+[`../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md`](../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md),
+[`../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md`](../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md)
+y
+[`../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md`](../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md).
+
+## Piezas del Vehemiurgo donde aparece (cont.)
+
+- [`../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md`](../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md)
+- [`../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md`](../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md)
+- [`../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md`](../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md)
+
 ## Cross-links
 
 - [`./rush.md`](./rush.md) — contraste de promo, mismo día.
 - [`./ace-austin.md`](./ace-austin.md) — rival del Perfect Match.
 - [`./mjf.md`](./mjf.md) — tensión que detona el face turn.
+- [`./jake-doyle.md`](./jake-doyle.md) — rival del Perfect Match
+  (s33).

@@ -91,24 +91,56 @@ rivales de MJF — Fletcher queda posicionado en un frente distinto
 sesión. Ver
 [`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md).
 
+### Sesión 2026-07-14 s33 — "Paquete completo": título, promos y foreshadowing de Okada
+
+**Cita verbatim**:
+
+> *"Kyler ya es el paquete completo [...] la promo post match de
+> Fletcher estuvo buenisima, se merece un enterteinment class [...]
+> ya vemos porque Kyler tenia que derrotar a Takeshita por su
+> cuenta sin ayuda, porque Knight le iba a sacar en cara eso de
+> necesitar ayuda"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim; canónico Kyle
+> Fletcher)
+
+**Lectura sintética**: sesión de consagración — le quita el
+título a Takeshita (Fighting Spirit con reserva), dos Wrestling
+Entertainment consecutivas en promos (post-match con Callis/Foley,
+y backstage con Okada sobre Bandido), un Perfect Match contra
+Komander, y el mecanismo narrativo de su victoria en solitario
+sobre Takeshita explicado retroactivamente dentro de la implosión
+de la Don Callis Family. Ver
+[`../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md`](../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md),
+[`../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md`](../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md),
+[`../matches/2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md`](../matches/2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md),
+[`../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md`](../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md)
+y
+[`../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md`](../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] [verif] "el turn de Fletcher" mencionado en s20 — ¿evento
       distinto al de Takeshita? Preguntar al Vehemiurgo si lo
       retoma.
-
-## Pendientes / huecos
-
 - [ ] Nombre real, trayectoria, rol exacto en Don Callis Family.
-- [ ] [verif] función específica en el turn de Takeshita.
 - [ ] Cross-link con Mark Davis (Aussie Open) — ya Héroe
       Fundamental #43.
+- [ ] Confirmar qué título le quitó a Takeshita.
+- [ ] Fecha de Redemption 2026 (vs Bandido).
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md`](../segments/2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md)
+- [`../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md`](../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md)
+- [`../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md`](../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md)
+- [`../matches/2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md`](../matches/2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md)
+- [`../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md`](../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md)
+- [`../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md`](../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md)
 
 ## Cross-links
 
 - [`./mark-davis.md`](./mark-davis.md) — partner Aussie Open.
 - [`./don-callis.md`](./don-callis.md) · [`./konosuke-takeshita.md`](./konosuke-takeshita.md)
+- [`./komander.md`](./komander.md) — rival del Perfect Match.
+- [`./bandido.md`](./bandido.md) — próximo rival, Redemption.

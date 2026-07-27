@@ -248,6 +248,29 @@ convive con el rechazo de fondo a la estrategia mayor (quitarle el
 título a MJF para Ospreay vs Omega en Wembley). Ver
 [`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md).
 
+### Sesión 2026-07-14 s33 — Nuevo AEW World Champion, "la lucha más débil del reinado de MJF"
+
+**Cita verbatim**:
+
+> *"la lucha expone mucho a Omega, la verdad su estilo es muy
+> inferior al de MJF, el contraste es doloroso [...] esta lucha es
+> la más debil del reinado de MJF [...] MJF debió ganar, ni modo
+> [...] la celebración de Omega, de hecho todo está ok [...] pero
+> Kenny es aburrido"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: se corona AEW World Champion venciendo a
+MJF, pero sin conseguir revertir el diagnóstico crítico sostenido
+desde notebook 2026-05-26 — su estilo queda expuesto por contraste
+directo, y hasta en su propia celebración el Vehemiurgo lo declara
+"aburrido" (rescatada por la interrupción de Kevin Knight). El
+camino declarado del booking apunta a un eventual Omega vs Ospreay
+en Wembley Stadium, evocando la era de los Cuatro Pilares. Ver
+[`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md)
+y
+[`../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md`](../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md`](../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md)
@@ -255,3 +278,5 @@ título a MJF para Ospreay vs Omega en Wembley). Ver
 - [`./mjf.md`](./mjf.md) — MJF como protagonista del segmento
   vs Omega-retador que no emociona al Vehemiurgo.
 - [`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md)
+- [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md)
+- [`../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md`](../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md)

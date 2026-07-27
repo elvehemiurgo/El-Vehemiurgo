@@ -168,6 +168,28 @@ Darby Allin. Ver
 y
 [`./darby-allin.md`](./darby-allin.md).
 
+### Sesión 2026-07-14 s33 — Aguafiestas funcional + gana el payoff con trampa
+
+**Cita verbatim**:
+
+> *"si van a poner a Knight como aguafiestas y dejarlo llevarse los
+> abucheos por intentar arruinar este main event entonces veo algo
+> positivo [...] felizmente este ataque de Kevin salvó el segmento
+> [...] siguen haciendo brillar a Knight y presionandolo y está
+> dando resultados, cada semana se pone mejor [...] Kevin gana con
+> trampa con un spot impresionante, simplemente genial"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: doble beat en la misma tanda de shows —
+interrumpe la celebración de Omega como aguafiestas funcional
+(rescata un segmento que el Vehemiurgo declaró aburrido), y luego
+gana el Perfect Match de venganza contra Darby Allin con una
+trampa. Consolidación heel sostenida desde s17. Ver
+[`../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md`](../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md)
+y
+[`../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md`](../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.
@@ -180,9 +202,13 @@ y
 
 - [`../matches/2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md`](../matches/2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md)
 - [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
+- [`../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md`](../segments/2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md)
+- [`../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md`](../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md)
 
 ## Cross-links
 
 - [`./mjf.md`](./mjf.md) — rival del upset.
 - [`./darby-allin.md`](./darby-allin.md) — venganza en Forbidden
-  Door (s30).
+  Door (s30) y payoff (s33).
+- [`./kenny-omega.md`](./kenny-omega.md) — interrupción de
+  celebración (s33).

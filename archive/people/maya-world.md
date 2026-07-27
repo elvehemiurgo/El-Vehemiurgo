@@ -66,16 +66,35 @@ primer registro (s19) — ahora con una victoria de peso sobre una
 figura institucional del roster femenino. Ver
 [`../matches/2026-06-20-maya-world-vs-athena-aew-collision.md`](../matches/2026-06-20-maya-world-vs-athena-aew-collision.md).
 
+### Sesión 2026-07-14 s33 — Beach Break gauntlet: "bien completa" como babyface underdog
+
+**Cita verbatim**:
+
+> *"ahora si fue otro gran showcase para Maya, la verdad si tiene
+> buena ejecución, tiene la historia, tiene el acting y el selling
+> bueno para un babyface, tiene las promos, tiene el gimmick la
+> imagen las promos, al menos así como babyface underdog yo la veo
+> bien completa, y le sacó una buena lucha a Mercedes incluso"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: el elogio más integral registrado — todos
+los ejes del paquete (ejecución, historia, acting, selling,
+promos, gimmick) confirmados en un solo veredicto, dentro de un
+gauntlet donde también rindió con Mercedes Moné. Ver
+[`../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md`](../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, trayectoria pre-AEW.
 - [ ] Detalle del booking en tag team y del Owen Hart Tournament
       2026.
-- [ ] Finish/duración del match vs Hazuki.
+- [ ] Finish/duración de todos los matches registrados.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-05-30-hazuki-vs-maya-world-aew-collision.md`](../matches/2026-05-30-hazuki-vs-maya-world-aew-collision.md)
+- [`../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md`](../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md)
 
 ## Cross-links
 

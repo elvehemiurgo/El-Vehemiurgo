@@ -13,6 +13,13 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-07-22 | Darby Allin vs Kevin Knight | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md) |
+| 2026-07-15 | Komander vs Kyle Fletcher | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md) |
+| 2026-07-15 | Andrade vs Jake Doyle | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md) |
+| 2026-07-08 | MJF vs Kenny Omega | AEW / Beach Break | — | en-investigacion | 1 | [→](2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md) |
+| 2026-07-08 | Gauntlet Match: Maya World vs. Athena vs. Mercedes Moné (y otras [verif]) | AEW / Beach Break | — | en-investigacion | 1 | [→](2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md) |
+| 2026-07-08 | Kyle Fletcher vs Konosuke Takeshita | AEW / Beach Break | FS | en-investigacion | 1 | [→](2026-07-08-fletcher-vs-takeshita-aew-beach-break.md) |
+| 2026-07-08 | Ciampa vs Chris Jericho | AEW / Beach Break | PW·FS·WE | en-investigacion | 1 | [→](2026-07-08-ciampa-vs-jericho-aew-beach-break.md) |
 | 2026-07-01 | MJF vs Mark Briscoe | AEW / Dynamite | WE | en-investigacion | 1 | [→](2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md) |
 | 2026-06-28 | DCMJF vs faces (6 vs 6) | AEW x NJPW / Forbidden Door | — | stub | 1 | [→](2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | The Dogs vs Cope & Cage | AEW x NJPW / Forbidden Door | — | stub | 1 | [→](2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md) |

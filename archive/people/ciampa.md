@@ -133,17 +133,32 @@ filosofías" — sustancia ideológica, no rencor genérico. Ver
 sin declive. Ver
 [`../segments/2026-06-20-ciampa-jericho-continuacion-aew-collision.md`](../segments/2026-06-20-ciampa-jericho-continuacion-aew-collision.md).
 
+### Sesión 2026-07-14 s33 — Beach Break: Perfect Match, payoff del feud
+
+**Cita verbatim**:
+
+> *"Ciampa vs Jericho es el payoff correcto para el programa tan
+> bueno que armaron, la vredad me sorprendió Ciampa [...] se ve
+> cool y está actuando como el psicopata que promete"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: primer match propio del archivo para
+Ciampa, con triple clase y reserva puntual sobre sus rodillazos.
+Jericho lo pone over como heel — el Vehemiurgo espera que la
+racha continúe ("ojalá siga por ahí"). Ver
+[`../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md`](../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, trayectoria NXT/WWE detallada.
 - [ ] [verif] contexto histórico "Ricochet solo fue un escalón"
       para Jericho — candidato a research.
-- [ ] Seguir el desarrollo del feud con Jericho en próximas
-      sesiones — el Vehemiurgo pidió explícitamente verificarlo.
+- [ ] Finish/duración del match vs Jericho.
 
 ## Piezas del Vehemiurgo donde aparece
 
-- (mención — sin match/segment propio registrado todavía)
+- [`../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md`](../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md)
 
 ## Cross-links
 

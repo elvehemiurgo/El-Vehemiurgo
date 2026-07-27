@@ -156,6 +156,19 @@ campeones aprobado explícitamente, con el cambio de rival (The
 Dogs por FTR) leído como acierto. Ver
 [`../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md).
 
+### Sesión 2026-07-14 s33 — The Dogs atacan, guerra de facciones continúa
+
+**Cita verbatim**:
+
+> *"the dogs atacan a cope and cage para continuar el booking [...]
+> esta guerra de facciones si me interesa"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: mismo veredicto que en la ficha de
+Christian Cage. Ver
+[`../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md`](../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md).
+
 ## Piezas relacionadas
 
 - [`./christian-cage.md`](./christian-cage.md) — hermandad

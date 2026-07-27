@@ -52,6 +52,21 @@ protagonismo de TV de Mark Davis (documentado extensamente desde
 la sesión s01). El push no fue plan desde el principio; fue
 consecuencia de la ausencia forzada de su compañero de equipo.
 
+### Sesión 2026-07-14 s33 — Primer match propio: Perfect Match vs Andrade
+
+**Cita verbatim**:
+
+> *"Andrade vs Doyle, tremenda dream match, tremendo showcase para
+> Doyle, estuvo buenisima [...] se merece las 3 clases, fue la
+> lucha perfecta"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: primer match individual propio del archivo
+para Jake Doyle — Perfect Match, "tremendo showcase" en el
+perder. Ver
+[`../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md`](../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.
@@ -59,12 +74,13 @@ consecuencia de la ausencia forzada de su compañero de equipo.
 - [ ] Seguir qué pasa con el tag team "Doyle & Davis" ahora que
       Mark Davis tiene singles run activo (¿se retoma el equipo?
       ¿queda Davis en solitario?).
+- [ ] Finish/duración del match vs Andrade.
 
 ## Piezas del Vehemiurgo donde aparece
 
-- (mención dentro del take sobre Mark Davis — sin match/segment
-  propio registrado todavía)
+- [`../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md`](../matches/2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md)
 
 ## Cross-links
 
 - [`./mark-davis.md`](./mark-davis.md) — partner de tag.
+- [`./andrade.md`](./andrade.md) — rival del Perfect Match.

@@ -153,15 +153,32 @@ para su expediente en pocas semanas, ahora en segmento coral con
 MJF y el resto de la coalición heel. Ver
 [`../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md`](../segments/2026-06-17-dcmjf-apertura-heels-aew-dynamite.md).
 
+### Sesión 2026-07-14 s33 — Beach Break: Mick Foley vs Don Callis en 2026
+
+**Cita verbatim**:
+
+> *"junto con Callis y FOley fue un gran momento, muy buenos
+> heels, además tener a Mick Foley vs Don Callis en pleno 2026
+> está genial"*
+>
+> — El Vehemiurgo, 2026-07-14 s33 (verbatim)
+
+**Lectura sintética**: nueva pieza dentro del segmento post-match
+de Fletcher (Wrestling Entertainment) — el cruce generacional
+Callis/Foley celebrado como novedad. Ver
+[`../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md`](../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (comentarista/manager/
       productor previo a AEW).
 - [ ] [verif] contexto exacto del segmento con Ricochet.
+- [ ] [verif] naturaleza exacta del conflicto con Mick Foley.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-09-don-callis-ricochet-post-match-aew-collision.md`](../segments/2026-05-09-don-callis-ricochet-post-match-aew-collision.md)
+- [`../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md`](../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md)
 
 ## Cross-links
 
