@@ -9,9 +9,15 @@ Ejecutar los pasos EN ORDEN. Fuente de doctrina: CLAUDE.md §§4-6.
 
 ## 0. Pre-checks (siempre, antes de escribir)
 
-1. **Nombres**: consultar `glossary/nombres-canonicos.md`. El
-   verbatim del Vehemiurgo se preserva con typos; TODO lo demás
-   (slugs, títulos, prosa, tags) usa el canónico.
+1. **Nombres — identificación obligatoria por show+fecha**:
+   consultar `glossary/nombres-canonicos.md` (tabla + "Método de
+   identificación"). Ante nombre parcial/dudoso: (a) ubicar show y
+   fecha dictados, (b) contrastar con resultados y rosters reales
+   del periodo, (c) grep en el archivo por si ya existe bajo otra
+   grafía — nunca duplicar identidad, (d) solo si no resuelve →
+   `[verif]` con candidatos. El verbatim del Vehemiurgo se preserva
+   con typos; TODO lo demás (slugs, títulos, prosa, tags) usa el
+   canónico completo.
 2. **Duplicados**: grep en `notebook/2026-05-09-2-lista-personal-completa.md`
    y en `archive/matches/index.md` + `archive/segments/index.md`
    por fecha + participantes. Si el match YA tiene ficha, esto es

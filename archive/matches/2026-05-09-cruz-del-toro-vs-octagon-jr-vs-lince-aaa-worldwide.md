@@ -1,7 +1,7 @@
 ---
-match: "Cruz Del Toro vs Octagón Jr. vs Lince"
+match: "Cruz del Toro vs Octagón Jr. vs Lince"
 slug: "2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide"
-participantes: ["Cruz Del Toro", "Octagón Jr.", "Lince Dorado"]
+participantes: ["Cruz del Toro", "Octagón Jr.", "Lince Dorado"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-09
@@ -24,7 +24,7 @@ fuentes_principales:
 tags: [cruz-del-toro, lwo-ex, octagon-jr, lince-dorado, aaa-2026, triple-threat, fighting-spirit]
 ---
 
-# Cruz Del Toro vs Octagón Jr. vs Lince — AAA Worldwide (9 may 2026)
+# Cruz del Toro vs Octagón Jr. vs Lince — AAA Worldwide (9 may 2026)
 
 > **Fighting Spirit** (*"se merece el fighting spirit, son muy
 > pros, tremenda lucha"*).

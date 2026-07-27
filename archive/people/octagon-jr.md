@@ -46,7 +46,7 @@ editorial de la sesión recae en El Grande Americano/Chad Gable, no
 en Octagón Jr. individualmente. Ver
 [`./el-grande-americano.md`](./el-grande-americano.md).
 
-### Sesión 2026-07-14 s42 — Triple threat vs Cruz Del Toro y Lince: Fighting Spirit
+### Sesión 2026-07-14 s42 — Triple threat vs Cruz del Toro y Lince: Fighting Spirit
 
 **Cita verbatim**:
 

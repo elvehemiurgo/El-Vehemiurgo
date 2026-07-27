@@ -1,7 +1,7 @@
 ---
-match: "Rey Fénix vs Laredo"
-slug: "2026-05-02-rey-fenix-vs-laredo-aaa-worldwide"
-participantes: ["Rey Fénix", "Laredo"]
+match: "Rey Fénix vs Laredo Kid"
+slug: "2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide"
+participantes: ["Rey Fénix", "Laredo Kid"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-02
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — AAA Worldwide, 2/5/2026)"
-tags: [rey-fenix, laredo, aaa-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, perfect-match]
+tags: [rey-fenix, laredo-kid, aaa-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, perfect-match]
 ---
 
-# Rey Fénix vs Laredo — AAA Worldwide (2 may 2026)
+# Rey Fénix vs Laredo Kid — AAA Worldwide (2 may 2026)
 
 > **Perfect Match — las tres clases** (*"tambien fue la lucha
 > perfecta, se merce las 3 clases"*).
@@ -41,7 +41,7 @@ extenso — segundo Perfect Match consecutivo de la misma tarjeta
 (tras Vikingo vs Mini Vikingo), consolidando la calidad general del
 show. Ver
 [`../people/rey-fenix.md`](../people/rey-fenix.md),
-[`../people/laredo.md`](../people/laredo.md).
+[`../people/laredo-kid.md`](../people/laredo-kid.md).
 
 ## Pendientes
 
@@ -51,4 +51,4 @@ show. Ver
 ## Cross-links
 
 - [`../people/rey-fenix.md`](../people/rey-fenix.md) ·
-  [`../people/laredo.md`](../people/laredo.md)
+  [`../people/laredo-kid.md`](../people/laredo-kid.md)

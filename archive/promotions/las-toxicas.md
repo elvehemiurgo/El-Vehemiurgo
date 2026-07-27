@@ -25,7 +25,7 @@ tags: [las-toxicas, aaa, ko-division, primer-registro, declaracion-de-carino-edi
 - **Empresa (2026)**: AAA — división Knockouts.
 - **Integrantes**: [verif — el roster de Knockouts AAA 2026 lista
   también a Adelicious, Fabi Apache, Jessy Jackson, La Hiedra,
-  Lady Flamer, Maravilla; relación exacta de Las Tóxicas con Lady
+  Flammer, Maravilla; relación exacta de Las Tóxicas con Lady
   Flamer [verif]].
 
 ## Notas editoriales del Vehemiurgo
@@ -50,7 +50,7 @@ sin ejecutar el protocolo de alta al panteón — distinción
 deliberada para no fabricar una alta que el Vehemiurgo no declaró
 con el vocabulario exacto. Si el Vehemiurgo confirma que quiso
 decir panteón, se ejecuta el protocolo en la próxima sesión. Ver
-[`../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md`](../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md).
+[`../matches/2026-04-04-flammer-vs-sussy-aaa-worldwide.md`](../matches/2026-04-04-flammer-vs-sussy-aaa-worldwide.md).
 
 ### Sesión 2026-07-14 s37 — Celebración del reinado de 900+ días
 
@@ -63,7 +63,7 @@ decir panteón, se ejecuta el protocolo en la próxima sesión. Ver
 
 **Lectura sintética**: dato duro nuevo — el reinado supera los 900
 días, celebrado con Wrestling Entertainment. Ver
-[`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
+[`../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
 
 ## Pendientes / huecos
 
@@ -75,4 +75,4 @@ días, celebrado con Wrestling Entertainment. Ver
 
 ## Cross-links
 
-- [`../people/lady-flamer.md`](../people/lady-flamer.md)
+- [`../people/flammer.md`](../people/flammer.md)

@@ -68,7 +68,7 @@ de NXT alrededor del ciclo de call-ups a main roster.
 - **Lizzy Rain** — debut vs Nikkita, 28/4/2026, face que rompe el
   molde. Ver
   [`../people/lizzy-rain.md`](../people/lizzy-rain.md) y
-  [`../matches/2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md`](../matches/2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md).
+  [`../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md`](../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md).
 - **Blake Monroe** y **Ricky Saints** — precedentes de la
   actitud "asesino hambriento" cuando todavía era excepción, no
   norma generacional. Ver

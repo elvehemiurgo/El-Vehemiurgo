@@ -50,8 +50,11 @@ tags: [kiana-james, tiffany-stratton, wwe-smackdown-2026, singles, fighting-spir
 
 1. **Contexto de midcard "bien nutrido"**: el Vehemiurgo nota que
    el booking de Chelsea Green sigue activo "desde casa" (fuera de
-   pantalla), sin KLR [verif] ni Alba Fyre en el roster/ecuación —
-   pese a eso, el segmento del título US se sostiene solo.
+   pantalla). **"KLR" = Kay Lee Ray = Alba Fyre — la misma
+   persona** (KLR es la sigla de su ring name pre-WWE; Alba Fyre
+   su nombre WWE): el dictado *"ya no está KLR en el roster, no
+   alba fire"* se lee como autocorrección de nombre, no como dos
+   ausencias distintas. Resuelto en s44 por contraste de roster.
 2. **Doble clase con elogio técnico**: Tiffany "más stiff" que en
    registros previos, Kiana luchando "como si fuera su última
    oportunidad en la vida" — intensidad de apuesta de carrera.
@@ -67,8 +70,9 @@ tags: [kiana-james, tiffany-stratton, wwe-smackdown-2026, singles, fighting-spir
 
 ## Pendientes
 
-- [ ] Identificar "KLR" — [verif].
-- [ ] Confirmar ausencia/rol de Alba Fyre en este ciclo de booking.
+- [x] ~~Identificar "KLR"~~ → **RESUELTO (s44)**: KLR = Kay Lee
+      Ray = **Alba Fyre** (misma persona; sigla de su ring name
+      previo). Fuera del roster según el dictado.
 - [ ] Finish/duración/ciudad/recinto.
 
 ## Cross-links

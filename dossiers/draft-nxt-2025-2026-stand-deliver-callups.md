@@ -117,9 +117,9 @@ Material denso en
 
 - **24 feb 2026 NXT**: Ethan Page, Vanity Project and Ricky
   segment.
-- **3 mar 2026 NXT**: Miles Borne vs Ethan Page.
+- **3 mar 2026 NXT**: Myles Borne vs Ethan Page.
 - **10 mar 2026 NXT**: Ethan Page & Ricky Starks vs Joe Hendry
-  & Miles Borne.
+  & Myles Borne.
 - **17 mar 2026 NXT**: Ethan Page, Ricky Starks and Joe Hendry
   segment.
 - **31 mar 2026 NXT**: **WHC contract signing** con los 4
@@ -220,7 +220,7 @@ identificados como (★).
             traición blow-off)
 04.04.2026  ★ Jacy Jayne vs Kendal Grey vs Lola Vice — Stand
             & Deliver (Fatal Influence vs WrenQCC member)
-04.04.2026  ★ Miles Borne vs Johnny Gargano — Stand & Deliver
+04.04.2026  ★ Myles Borne vs Johnny Gargano — Stand & Deliver
 04.04.2026  ★ Tatum Paxley vs Blake Monroe — Stand & Deliver
 04.04.2026  ★ Los Americanos vs Vanity Project — Stand &
             Deliver
@@ -264,7 +264,7 @@ overview + matches individuales prioritarios:
 - [ ] **Fact-sheets pendientes**: Lola Vice, Jacy Jayne,
       Fallon Henley, Kelani Jordan, Sol Ruca, Zaria, Saria,
       Tatum Paxley, Izzi Dame, Blake Monroe, Ethan Page, Ricky
-      Saints, Joe Hendry, Tony D'Angelo, Miles Borne, Trick
+      Saints, Joe Hendry, Tony D'Angelo, Myles Borne, Trick
       Williams, Oba Femi, Saquon Shugars, Dark State faction
       file, The Culling faction file.
 - [ ] **TNA cross-promotion**: Trick Williams + Mustafa Ali +

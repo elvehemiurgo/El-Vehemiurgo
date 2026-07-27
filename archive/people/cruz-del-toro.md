@@ -1,5 +1,5 @@
 ---
-nombre: "Cruz Del Toro"
+nombre: "Cruz del Toro"
 tipo: fact-sheet
 categoria: people
 slug: cruz-del-toro
@@ -11,7 +11,7 @@ fuentes_principales:
 tags: [cruz-del-toro, aaa-2026, lwo-ex, legado-del-fantasma-ex, lucha-mexicana, fighting-spirit, identidad-consolidada]
 ---
 
-# Cruz Del Toro
+# Cruz del Toro
 
 > **Corrección de identidad (2026-07-14 s43)**: registrado
 > inicialmente como ficha suelta *"El Toro"*. El Vehemiurgo
@@ -22,7 +22,7 @@ tags: [cruz-del-toro, aaa-2026, lwo-ex, legado-del-fantasma-ex, lucha-mexicana, 
 
 ## Identificación
 
-- **Nombre de gimmick**: **Cruz Del Toro**. El Vehemiurgo lo dicta
+- **Nombre de gimmick**: **Cruz del Toro**. El Vehemiurgo lo dicta
   como *"del Toro"* / *"El Toro"*.
 - **Nombre real**: [verif].
 - **Origen**: México.

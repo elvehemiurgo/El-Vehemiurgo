@@ -53,8 +53,11 @@ singularizado más allá del elogio de conjunto. Ver
 
 ## Pendientes / huecos
 
-- [ ] **Prioridad**: confirmar identidad — ¿Kip Sabian? — y
-      corregir slug/ficha si corresponde.
+- [ ] **Prioridad**: confirmar identidad. Candidatos por
+      contraste de roster: **Kip Sabian** (nombre "Kip" exacto,
+      pero trayectoria AEW — implicaría salto de empresa) o **Kit
+      Wilson** (Pretty Deadly, WWE, dictado "Kip" ≈ "Kit"). No se
+      resuelve sin ver el show.
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Naturaleza de la alianza con The Miz.
 - [ ] Finish/duración del match.

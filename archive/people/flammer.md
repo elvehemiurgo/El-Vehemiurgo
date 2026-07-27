@@ -1,18 +1,23 @@
 ---
-nombre: "Lady Flamer"
+nombre: "Flammer"
 tipo: fact-sheet
 categoria: people
-slug: lady-flamer
+slug: flammer
 estado: vivo
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — AAA Worldwide, 4/4/2026)"
   - "Mención previa en dossier AAA/AEW 2026 cluster (roster AAA Knockouts)"
-tags: [lady-flamer, aaa, las-toxicas, ko-division, fighting-spirit, primer-registro-individual]
+tags: [flammer, aaa, las-toxicas, ko-division, fighting-spirit, primer-registro-individual]
 ---
 
-# Lady Flamer
+# Flammer
 
+> **Corrección de grafía (2026-07-14 s44)**: registrada como
+> *"Lady Flamer"*. La luchadora real de Las Tóxicas de AAA es
+> **Flammer** — el propio Vehemiurgo ya la había dictado así en
+> s39 (*"retadora para Flammer"*).
+>
 > Primer registro individual del archivo, aunque ya listada de
 > pasada en el roster de AAA Knockouts. Defensa titular con
 > Fighting Spirit — el Vehemiurgo la declara "cool" y parte de
@@ -20,7 +25,8 @@ tags: [lady-flamer, aaa, las-toxicas, ko-division, fighting-spirit, primer-regis
 
 ## Identificación
 
-- **Nombre de gimmick**: Lady Flamer.
+- **Nombre de gimmick**: **Flammer**. Variantes de dictado:
+  *"Flammer"*, *"Flamer"*.
 - **Nombre real**: [verif].
 - **Empresa (2026)**: AAA — Knockouts.
 - **Relación con Las Tóxicas**: [verif exacta].
@@ -29,7 +35,7 @@ tags: [lady-flamer, aaa, las-toxicas, ko-division, fighting-spirit, primer-regis
 
 - **4/4/2026 (AAA Worldwide)** — vs Sussy, defensa titular:
   Fighting Spirit.
-  ([→](../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md)).
+  ([→](../matches/2026-04-04-flammer-vs-sussy-aaa-worldwide.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -63,7 +69,7 @@ Spirit por defensa titular dura y de buen repertorio. Ver
 **Lectura sintética**: Wrestling Entertainment para el segmento
 completo — reinado histórico celebrado, con rivalidad teaseada
 contra Bayley que el Vehemiurgo mira con recelo doctrinal. Ver
-[`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
+[`../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
 
 ## Pendientes / huecos
 
@@ -74,7 +80,7 @@ contra Bayley que el Vehemiurgo mira con recelo doctrinal. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md`](../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md)
+- [`../matches/2026-04-04-flammer-vs-sussy-aaa-worldwide.md`](../matches/2026-04-04-flammer-vs-sussy-aaa-worldwide.md)
 
 ## Cross-links
 

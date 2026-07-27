@@ -21,12 +21,12 @@ tags: [creed-brothers, julio, bruno, americanos-hermanos, el-grande-americano, a
 ## Identificación
 
 - **Nombre de equipo histórico**: Creed Brothers.
-- **Nombres usados en el ángulo Americano**: "Julio" y "Bruno"
-  (según el dictado del Vehemiurgo) — **[verif]** grafía oficial
-  exacta y asignación de cada nombre a cada hermano.
-- **Miembros**: [verif — presumiblemente Julius Creed y Brutus
-  Creed, confirmar contra fuente directa antes de tratar como
-  hecho cerrado].
+- **Nombres usados en el ángulo Americano**: **"Julio" y
+  "Bruno"** — hispanización directa de sus nombres reales:
+  **Julio = Julius Creed** y **Bruno = Brutus Creed** (resuelto
+  s44; la castellanización encaja de lleno con el gimmick de los
+  "Americanos Hermanos").
+- **Miembros**: **Julius Creed** y **Brutus Creed**.
 - **Empresa (2026)**: WWE, con cruce AAA vía el ángulo de El Grande
   Americano.
 - **Rol**: backup/refuerzo de El Grande Americano en la rivalidad
@@ -83,7 +83,9 @@ tags: [creed-brothers, julio, bruno, americanos-hermanos, el-grande-americano, a
 
 ## Pendientes / huecos
 
-- [ ] Confirmar identidad exacta de "Julio" y "Bruno" — [verif].
+- [x] ~~Confirmar identidad de "Julio" y "Bruno"~~ → **RESUELTO
+      (s44)**: Julio = Julius Creed, Bruno = Brutus Creed
+      (hispanización del gimmick).
 - [ ] Contenido completo de ambos segmentos.
 - [ ] Trayectoria pre-rebrand de Creed Brothers en NXT/main roster.
 

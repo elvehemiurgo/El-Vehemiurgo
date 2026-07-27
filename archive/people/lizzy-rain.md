@@ -28,7 +28,7 @@ tags: [lizzy-rain, wwe-nxt-2026, debut, cantera-australiana, face, wrestling-ent
 
 - **28/4/2026 (WWE NXT)** — debut vs Nikkita: Wrestling
   Entertainment.
-  ([→](../matches/2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md)).
+  ([→](../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -77,9 +77,9 @@ tags: [lizzy-rain, wwe-nxt-2026, debut, cantera-australiana, face, wrestling-ent
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md`](../matches/2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md)
+- [`../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md`](../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md)
 
 ## Cross-links
 
-- [`./nikkita.md`](./nikkita.md) — rival de debut.
+- [`./nikkita-lyons.md`](./nikkita-lyons.md) — rival de debut.
 - [`../topics/nueva-generacion-asesinos-hambrientos.md`](../topics/nueva-generacion-asesinos-hambrientos.md)

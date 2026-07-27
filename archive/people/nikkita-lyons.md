@@ -1,24 +1,30 @@
 ---
-nombre: "Nikkita"
+nombre: "Nikkita Lyons"
 tipo: fact-sheet
 categoria: people
-slug: nikkita
+slug: nikkita-lyons
 estado: vivo
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026)"
-tags: [nikkita, wwe-nxt-2026, face, gimmick-en-desarrollo, dude-love, ric-flair, wrestling-entertainment, primer-registro-individual]
+tags: [nikkita-lyons, identidad-consolidada, wwe-nxt-2026, face, gimmick-en-desarrollo, dude-love, ric-flair, wrestling-entertainment, primer-registro-individual]
 ---
 
-# Nikkita
+# Nikkita Lyons
 
+> **Corrección de identidad (2026-07-14 s44)**: registrada como
+> *"Nikkita"* (dictado). Contrastando show y fecha (WWE NXT,
+> 28/4/2026, face atlética con etapa previa de "face genérico
+> novato"), la identidad es **Nikkita Lyons**.
+>
 > Primer registro individual. Superó su etapa de "face genérico
 > novato" y ahora abraza un gimmick que el Vehemiurgo compara con
 > Dude Love / Ric Flair — apuesta editorial declarada.
 
 ## Identificación
 
-- **Nombre de gimmick**: Nikkita.
+- **Nombre de gimmick**: **Nikkita Lyons**. El Vehemiurgo la
+  dicta *"Nikkita"*.
 - **Nombre real**: [verif].
 - **Empresa (2026)**: WWE NXT.
 - **Alineación**: face.
@@ -27,7 +33,7 @@ tags: [nikkita, wwe-nxt-2026, face, gimmick-en-desarrollo, dude-love, ric-flair,
 
 - **28/4/2026 (WWE NXT)** — vs Lizzy Rain (debut de Rain):
   Wrestling Entertainment.
-  ([→](../matches/2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md)).
+  ([→](../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -70,7 +76,7 @@ tags: [nikkita, wwe-nxt-2026, face, gimmick-en-desarrollo, dude-love, ric-flair,
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md`](../matches/2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md)
+- [`../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md`](../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md)
 
 ## Cross-links
 

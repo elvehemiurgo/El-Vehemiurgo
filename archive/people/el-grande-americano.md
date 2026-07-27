@@ -22,9 +22,11 @@ tags: [el-grande-americano, chad-gable, wwe, aaa-crossover, gimmick-nwo-carny, p
 ## Identificación
 
 - **Nombre de gimmick**: El Grande Americano.
-- **Identidad real (según dossier previo)**: gimmick de **Chad
-  Gable** [verif — confirmar contra fuente directa antes de tratar
-  como hecho cerrado].
+- **Identidad real**: gimmick enmascarado **compartido** —
+  creado por **Chad Gable** (2025) y portado también por **Ludwig
+  Kaiser** ([`./ludwig-kaiser.md`](./ludwig-kaiser.md)). Resuelto
+  en s44 por contraste con resultados reales; quién está bajo la
+  máscara se determina por contexto de cada aparición.
 - **Empresa (2026)**: WWE, con cruce AAA.
 
 ## Trayectoria condensada
@@ -86,11 +88,15 @@ con el typo original ([sic]).
 >
 > — El Vehemiurgo, 2026-07-14 s40 (verbatim)
 
-**Lectura sintética**: ⚠ **posible reestructuración de identidad,
-sin confirmar**: el fraseo sugiere que "Gable" y "Kaiser" podrían
-ser dos figuras distintas dentro del ángulo (mente maestra +
-wrestler enmascarado), en vez de una sola persona como se asumía.
-No se resuelve unilateralmente — queda como hipótesis abierta. Ver
+**Lectura sintética**: hipótesis planteada en s40, **CONFIRMADA
+en s44 por contraste con resultados reales**: el gimmick de El
+Grande Americano fue creado para **Chad Gable** (2025), y **Ludwig
+Kaiser también lo ha portado bajo la máscara** — el precedente real
+existe desde 2025, cuando Kaiser salió como Americano con Gable
+fuera de acción. La estructura del dictado del Vehemiurgo (Gable
+tramposo ringside + "el grande americano Kaiser" en el ring) es
+exactamente esa mecánica de gimmick compartido. Ver
+[`./ludwig-kaiser.md`](./ludwig-kaiser.md) y
 [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md).
 
 ### Sesión 2026-07-14 s41 — Firma de contrato (AAA) y refuerzo Creed Brothers (WWE Raw)
@@ -143,9 +149,12 @@ EE.UU.). Ver
 
 ## Pendientes / huecos
 
-- [ ] **Prioridad alta**: aclarar si "Gable" y "Kaiser" son dos
-      personas distintas en el ángulo, o la misma bajo dos apodos.
-- [ ] Confirmar identidad real (Chad Gable) contra fuente directa.
+- [x] ~~Aclarar si "Gable" y "Kaiser" son dos personas distintas~~
+      → **RESUELTO (s44, contraste con resultados reales)**: el
+      gimmick es compartido — creado por **Chad Gable**, también
+      portado por **Ludwig Kaiser** (precedente real 2025). En el
+      match del 27/4, Kaiser luchó como Americano con Gable
+      interfiriendo desde afuera.
 - [ ] Contexto narrativo exacto de la interferencia previa (Rayo &
       Bravo vs Vanity Project, s36) y de este match/segmento.
 - [ ] Contra quién es el reto máscara vs máscara.

@@ -47,10 +47,13 @@ tags: [jacy-jayne, fatal-influence, wwe-smackdown-2026, sin-clase, oklahoma-veri
 
 **Lectura sintética**:
 
-1. **"Oklahoma"** — objetivo de la promo de Jacy, **[verif]**: no
-   se identifica con un talent conocido del archivo; posible error
-   de dictado/transcripción o mención puntual sin desarrollo
-   propio. No se abre ficha individual hasta confirmar.
+1. **"Oklahoma"** — hipótesis principal (s44, por contraste de
+   roster): **no es un talent** — no existe luchadora "Oklahoma" en
+   el roster WWE del periodo. La lectura natural es **cheap heat
+   contra la plaza**: SmackDown emanando desde Oklahoma y Jacy
+   insultando a la ciudad/estado anfitrión — táctica heel
+   old-school de manual. Queda [verif] solo la confirmación de la
+   sede de esa noche.
 2. **Fatal Influence guarda cartas**: Fallon Henley y Lainey Reid
    no se despliegan todavía — la facción dosifica su elenco.
 3. **Doctrina de booking protector**: el Vehemiurgo lee una
@@ -64,7 +67,8 @@ tags: [jacy-jayne, fatal-influence, wwe-smackdown-2026, sin-clase, oklahoma-veri
 
 ## Pendientes
 
-- [ ] Identificar a "Oklahoma" — [verif].
+- [ ] Confirmar sede del SmackDown 1/5/2026 (hipótesis: show en
+      Oklahoma, promo = cheap heat a la plaza, no una rival).
 - [ ] Contenido exacto de la promo.
 
 ## Cross-links

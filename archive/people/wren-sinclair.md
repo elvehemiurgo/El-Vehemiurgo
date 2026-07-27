@@ -158,7 +158,7 @@ y [`charlie-dempsey.md`](./charlie-dempsey.md).
   6 ago 2025 → 10 mar 2026.
 - (Pendientes: matches WrenQCC vs ZaRuca, vs Fatal Influence,
   vs The Culling; Speed Title vs Fallon Henley; segments con
-  Kelani Jordan, con Joe Hendry / Miles Borne; promos
+  Kelani Jordan, con Joe Hendry / Myles Borne; promos
   *Wrensday Q&A*.)
 
 ### Sesión 2026-07-14 s35 — Alta a THE FUTURE: coronación como campeona Speed + interacción con Charlie Dempsey

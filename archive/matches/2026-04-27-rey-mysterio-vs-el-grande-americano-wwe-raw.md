@@ -82,24 +82,23 @@ dictó (typo incluido, [sic]).
    audiencia de TV) y México (guiño más autoconsciente entre los
    dos "Americanos"). Ver
    [`../people/el-grande-americano.md`](../people/el-grande-americano.md).
-2. **⚠ Posible clarificación de identidad — [verif], no
-   confirmar sin fuente**: el fraseo *"el comportamiento
-   delincuente de Gable justifica que el grande americano Kaiser
-   se tome licencias"* sugiere una estructura de dos personas —
-   **Gable** como mente maestra/autoridad y **Kaiser** como el
-   wrestler bajo la máscara de El Grande Americano — distinta de
-   la presunción previa (Chad Gable = el propio Grande Americano).
-   Se registra como hipótesis a verificar, no como hecho cerrado.
+2. **Identidad — RESUELTA (s44, contraste con resultados
+   reales)**: la estructura de dos personas es real. El gimmick de
+   El Grande Americano fue creado por **Chad Gable** y **Ludwig
+   Kaiser también lo ha portado** (precedente real desde 2025). En
+   este match, **Kaiser lucha bajo la máscara** mientras **Gable
+   interfiere/trampea desde afuera** — eso es lo que el dictado
+   describe. Ver
+   [`../people/ludwig-kaiser.md`](../people/ludwig-kaiser.md).
 3. **Lección de booking**: Mysterio gana, pero la distracción de
    la trampa de Kaiser es lo que le costó la victoria — "pudo
    derrotar a Mysterio si no se hubiera distraído".
 
 ## Pendientes
 
-- [ ] **Aclarar identidad exacta**: ¿Gable y Kaiser son dos
-      personas distintas dentro del ángulo de El Grande Americano,
-      o el Vehemiurgo se refiere a la misma persona con dos
-      apodos? — [verif], prioridad alta.
+- [x] ~~Aclarar identidad Gable/Kaiser~~ → **RESUELTO (s44)**:
+      gimmick compartido — Kaiser bajo la máscara en este match,
+      Gable interfiriendo desde afuera.
 - [ ] Finish + duración exacta + ciudad/recinto.
 - [ ] Fecha de Noche de los Grandes (AAA).
 

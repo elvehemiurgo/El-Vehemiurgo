@@ -1,7 +1,7 @@
 ---
-segmento: "Celebración de Lady Flamer y Las Tóxicas (900+ días) + debut de La Catalina"
-slug: "2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide"
-protagonistas: ["Lady Flamer", "Las Tóxicas", "La Catalina", "Bayley"]
+segmento: "Celebración de Flammer y Las Tóxicas (900+ días) + debut de La Catalina"
+slug: "2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide"
+protagonistas: ["Flammer", "Las Tóxicas", "La Catalina", "Bayley"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-11
@@ -13,10 +13,10 @@ estado: stub
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s37 (visión directa — AAA Worldwide, 11/4/2026)"
-tags: [lady-flamer, las-toxicas, la-catalina, bayley, aaa-worldwide-2026, wrestling-entertainment, reinado-900-dias, doctrina-critica-estilo-nxt-4-horsewomen, wwe-aaa-crossover]
+tags: [flammer, las-toxicas, la-catalina, bayley, aaa-worldwide-2026, wrestling-entertainment, reinado-900-dias, doctrina-critica-estilo-nxt-4-horsewomen, wwe-aaa-crossover]
 ---
 
-# Celebración de Lady Flamer y Las Tóxicas + debut de La Catalina — AAA Worldwide (11 abr 2026)
+# Celebración de Flammer y Las Tóxicas + debut de La Catalina — AAA Worldwide (11 abr 2026)
 
 > **Wrestling Entertainment** (*"todo este segmento se merece el
 > enterteinment class"*). Celebración del reinado histórico de
@@ -46,9 +46,9 @@ tags: [lady-flamer, las-toxicas, la-catalina, bayley, aaa-worldwide-2026, wrestl
 
 **Lectura sintética**:
 
-1. **Lady Flamer, heel promo "al estilo México"**: reinado de
+1. **Flammer, heel promo "al estilo México"**: reinado de
    900+ días celebrado, la deja "muy over y OP como campeona". Ver
-   [`../people/lady-flamer.md`](../people/lady-flamer.md),
+   [`../people/flammer.md`](../people/flammer.md),
    [`../promotions/las-toxicas.md`](../promotions/las-toxicas.md).
 2. **Doctrina: rechazo explícito al "estilo Bayley / 4
    Horsewomen"**: *"para mí ese estilo apesta, es muy débil"* —
@@ -76,7 +76,7 @@ tags: [lady-flamer, las-toxicas, la-catalina, bayley, aaa-worldwide-2026, wrestl
 
 ## Cross-links
 
-- [`../people/lady-flamer.md`](../people/lady-flamer.md) ·
+- [`../people/flammer.md`](../people/flammer.md) ·
   [`../promotions/las-toxicas.md`](../promotions/las-toxicas.md) ·
   [`../people/la-catalina.md`](../people/la-catalina.md) ·
   [`../people/bayley.md`](../people/bayley.md) ·

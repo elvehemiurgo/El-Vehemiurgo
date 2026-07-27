@@ -15,7 +15,7 @@ talents_centrales:
   - "Dominik Mysterio (AAA character heel)"
   - "El Grande Americano + Original Grande Americano + Rayo Americano (Chad Gable nWo carny)"
   - "Hijo de Dr. Wagner"
-  - "AAA Knockouts (Las Tóxicas, Adelicious, Fabi Apache, Jessy Jackson, La Hiedra, Lady Flamer, Maravilla)"
+  - "AAA Knockouts (Las Tóxicas, Adelicious, Fabi Apache, Jessy Jackson, La Hiedra, Flammer, Maravilla)"
   - "Christian Cage (AEW)"
   - "Young Bucks"
   - "FTR (AEW)"
@@ -79,7 +79,7 @@ Cronología cluster:
 - **28 feb 2026 AAA Worldwide**: **Grande Americano vs Omos vs
   Ethan Page vs Hijo de Dr. Wagner** — multi-talent invasion-
   style match.
-- **07 mar 2026 AAA**: Lady Flamer + Abismo Negro Jr + Original
+- **07 mar 2026 AAA**: Flammer + Abismo Negro Jr + Original
   Grande Americano arc.
 - **14 mar 2026 AAA Rey de Reyes**: **Dominik Mysterio vs Hijo
   del Vikingo** (Vikingo recovery arc).

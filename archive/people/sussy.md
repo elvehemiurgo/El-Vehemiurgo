@@ -23,8 +23,8 @@ tags: [sussy, aaa, ko-division, fighting-spirit, primer-registro-individual]
 
 ## Trayectoria condensada
 
-- **4/4/2026 (AAA Worldwide)** — vs Lady Flamer: Fighting Spirit.
-  ([→](../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md)).
+- **4/4/2026 (AAA Worldwide)** — vs Flammer: Fighting Spirit.
+  ([→](../matches/2026-04-04-flammer-vs-sussy-aaa-worldwide.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -46,8 +46,8 @@ Flamer sobre repertorio y contundencia.
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md`](../matches/2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md)
+- [`../matches/2026-04-04-flammer-vs-sussy-aaa-worldwide.md`](../matches/2026-04-04-flammer-vs-sussy-aaa-worldwide.md)
 
 ## Cross-links
 
-- [`./lady-flamer.md`](./lady-flamer.md) — rival.
+- [`./flammer.md`](./flammer.md) — rival.

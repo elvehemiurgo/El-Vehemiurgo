@@ -173,7 +173,7 @@ apellido en contexto AAA.
 **Lectura sintética**: mención de referencia — Lola Vice usada
 como estándar de booking exitoso para medir el debut de La
 Catalina en AAA. Ver
-[`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
+[`../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
 
 ## Piezas del Vehemiurgo donde aparece
 

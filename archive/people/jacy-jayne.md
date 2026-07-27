@@ -230,8 +230,9 @@ expediente de Tatum.
 **Lectura sintética**: Fighting Spirit + Wrestling Entertainment.
 Doctrina de booking protector — Jacy solo se cruza con rivales de
 oficio real (Rhea Ripley, Charlotte Flair), no con talent
-considerado débil. Precedida por una promo de build contra
-"Oklahoma" [verif]. Ver
+considerado débil. Precedida por una promo de build "contra
+Oklahoma" — leída en s44 como cheap heat a la plaza anfitriona
+(no existe rival de ese nombre), heel work old-school de manual. Ver
 [`../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md)
 y
 [`../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md`](../segments/2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md).

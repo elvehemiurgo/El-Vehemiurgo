@@ -25,8 +25,9 @@ tags: [kelani-jordan, wwe-nxt-2026, heel-turn, wrestling-entertainment, primer-r
 
 ## Trayectoria condensada
 
-- **31/3/2026 (WWE NXT)** — vs Jayda: Wrestling Entertainment.
-  ([→](../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md)).
+- **31/3/2026 (WWE NXT)** — vs Jaida Parker: Wrestling
+  Entertainment.
+  ([→](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -57,8 +58,9 @@ real.
 > — El Vehemiurgo, 2026-07-14 s37 (verbatim)
 
 **Lectura sintética**: doble clase, mejora explícita sobre el
-primer encuentro con Jayda — consolidación heel continua. Ver
-[`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md).
+primer encuentro con Jaida Parker — consolidación heel continua.
+Ver
+[`../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md).
 
 ### Sesión 2026-07-14 s40 — Heel fuerte molestando al WrenQCC: "sin cringe"
 
@@ -103,19 +105,19 @@ más influyente de los 90s. Ver
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Fecha exacta del heel turn.
-- [ ] Finish/duración de ambos matches vs Jayda y del match vs Wren
+- [ ] Finish/duración de ambos matches vs Jaida Parker y del match vs Wren
       Sinclair (28/4/2026).
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md)
-- [`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md)
+- [`../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md)
+- [`../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md)
 - [`../segments/2026-04-28-kelani-molesta-wrenqcc-wwe-nxt.md`](../segments/2026-04-28-kelani-molesta-wrenqcc-wwe-nxt.md)
 - [`../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md)
 
 ## Cross-links
 
-- [`./jayda.md`](./jayda.md) — rival.
+- [`./jaida-parker.md`](./jaida-parker.md) — rival.
 - [`./wren-sinclair.md`](./wren-sinclair.md) — rival, feud
   escalando abril 2026.
 - [`../topics/nueva-generacion-asesinos-hambrientos.md`](../topics/nueva-generacion-asesinos-hambrientos.md)

@@ -1,23 +1,28 @@
 ---
-nombre: "Jayda"
+nombre: "Jaida Parker"
 tipo: fact-sheet
 categoria: people
-slug: jayda
+slug: jaida-parker
 estado: vivo
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 31/3/2026)"
-tags: [jayda, wwe-nxt-2026, primer-registro-individual]
+tags: [jaida-parker, wwe-nxt-2026, identidad-consolidada, primer-registro-individual]
 ---
 
-# Jayda
+# Jaida Parker
 
+> **Corrección de identidad (2026-07-14 s44)**: registrada como
+> *"Jayda"* (dictado). Contrastando show y fecha (WWE NXT,
+> marzo-abril 2026, rival de Kelani Jordan), la identidad es
+> **Jaida Parker** — talent real del roster NXT del periodo.
+>
 > Primer registro individual del archivo. Rival de Kelani Jordan
 > en un match sin protagonismo individual propio en esta sesión.
 
 ## Identificación
 
-- **Nombre de gimmick**: Jayda [verif grafía exacta].
+- **Nombre de gimmick**: **Jaida Parker** (el Vehemiurgo dicta *"Jayda"*; su propia lista personal ya la nombraba "JAYDA PARKER").
 - **Nombre real**: [verif].
 - **Empresa (2026)**: WWE NXT.
 
@@ -25,7 +30,7 @@ tags: [jayda, wwe-nxt-2026, primer-registro-individual]
 
 - **31/3/2026 (WWE NXT)** — vs Kelani Jordan: Wrestling
   Entertainment.
-  ([→](../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md)).
+  ([→](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -39,8 +44,8 @@ tags: [jayda, wwe-nxt-2026, primer-registro-individual]
 > — El Vehemiurgo, 2026-07-14 s35 (verbatim)
 
 **Lectura sintética**: el protagonismo editorial de la sesión
-recae en Kelani Jordan (crecimiento heel); Jayda entra como rival
-sin desarrollo individual propio todavía.
+recae en Kelani Jordan (crecimiento heel); Jaida Parker entra como
+rival sin desarrollo individual propio todavía.
 
 ### Sesión 2026-07-14 s37 — Rematch mejorado, Fighting Spirit + Wrestling Entertainment
 
@@ -54,7 +59,7 @@ sin desarrollo individual propio todavía.
 
 **Lectura sintética**: doble clase en el rematch (14/4/2026),
 mejora explícita sobre el primer encuentro (31/3/2026). Ver
-[`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md).
+[`../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md).
 
 ## Pendientes / huecos
 
@@ -62,8 +67,8 @@ mejora explícita sobre el primer encuentro (31/3/2026). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md)
-- [`../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md)
+- [`../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md)
+- [`../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md)
 
 ## Cross-links
 

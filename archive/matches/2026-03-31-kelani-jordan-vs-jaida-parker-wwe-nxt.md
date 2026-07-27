@@ -1,7 +1,7 @@
 ---
-match: "Kelani Jordan vs Jayda"
-slug: "2026-03-31-kelani-jordan-vs-jayda-wwe-nxt"
-participantes: ["Kelani Jordan", "Jayda"]
+match: "Kelani Jordan vs Jaida Parker"
+slug: "2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt"
+participantes: ["Kelani Jordan", "Jaida Parker"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-03-31
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 31/3/2026)"
-tags: [kelani-jordan, jayda, wwe-nxt-2026, singles, wrestling-entertainment, heel-turn-crecimiento]
+tags: [kelani-jordan, jaida-parker, wwe-nxt-2026, singles, wrestling-entertainment, heel-turn-crecimiento]
 ---
 
-# Kelani Jordan vs Jayda — WWE NXT (31 mar 2026)
+# Kelani Jordan vs Jaida Parker — WWE NXT (31 mar 2026)
 
 > **Wrestling Entertainment** (*"estuvo cool, se merece el
 > enterteinment class"*). Destaca el crecimiento heel de Kelani
@@ -52,4 +52,4 @@ hacia lo oldschool. Ver
 ## Cross-links
 
 - [`../people/kelani-jordan.md`](../people/kelani-jordan.md) ·
-  [`../people/jayda.md`](../people/jayda.md)
+  [`../people/jaida-parker.md`](../people/jaida-parker.md)

@@ -190,6 +190,13 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   lo demás (slugs, filenames, prosa, índices, vistas) usa el
   canónico. Antes de crear ficha o slug, consultar el registro.
   El lint (`bin/lint_archivo.py`) avisa variantes fuera de notebook.
+  **Identificación por contexto (ley desde 2026-07-14 s44)**: ante
+  un nombre parcial o dudoso en un volcado, el copiloto resuelve la
+  identidad **ubicándose en el show y la fecha dictados** y
+  contrastando con resultados y rosters reales del periodo, más
+  grep del archivo para no duplicar identidades ya registradas;
+  `[verif]` con candidatos solo si el contraste no resuelve.
+  Método completo en el registro de nombres.
 - **Sistema de clases del Vehemiurgo** (no estrellas):
   `glossary/clases-vehemiurgo.md`. Tres clases —
   *Perfect Wrestling Class*, *Fighting Spirit Class*,

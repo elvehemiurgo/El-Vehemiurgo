@@ -1,7 +1,7 @@
 ---
-match: "Laredo vs Wagner"
-slug: "2026-04-25-laredo-vs-wagner-aaa-worldwide"
-participantes: ["Laredo", "Wagner"]
+match: "Laredo Kid vs Wagner"
+slug: "2026-04-25-laredo-kid-vs-wagner-aaa-worldwide"
+participantes: ["Laredo Kid", "Wagner"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-25
@@ -24,7 +24,7 @@ fuentes_principales:
 tags: [laredo, dr-wagner-jr, aaa-worldwide-2026, singles, fighting-spirit, golpes-duros, ratos-accidentados]
 ---
 
-# Laredo vs Wagner — AAA Worldwide (25 abr 2026)
+# Laredo Kid vs Wagner — AAA Worldwide (25 abr 2026)
 
 > **Fighting Spirit** (*"un fighting spirit muy duro"*), con
 > reserva puntual sobre momentos accidentados.
@@ -39,7 +39,7 @@ tags: [laredo, dr-wagner-jr, aaa-worldwide-2026, singles, fighting-spirit, golpe
 
 **Lectura sintética**: Fighting Spirit por contundencia física
 real, con la reserva explícita de que hubo tramos accidentados.
-Ver [`../people/laredo.md`](../people/laredo.md),
+Ver [`../people/laredo-kid.md`](../people/laredo-kid.md),
 [`../people/dr-wagner-jr.md`](../people/dr-wagner-jr.md).
 
 ## Pendientes
@@ -49,5 +49,5 @@ Ver [`../people/laredo.md`](../people/laredo.md),
 
 ## Cross-links
 
-- [`../people/laredo.md`](../people/laredo.md) ·
+- [`../people/laredo-kid.md`](../people/laredo-kid.md) ·
   [`../people/dr-wagner-jr.md`](../people/dr-wagner-jr.md)

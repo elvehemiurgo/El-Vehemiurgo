@@ -42,7 +42,7 @@ fuentes_principales:
   - "JAYDA PARKER VS BLAKE MONROE NXT Vengeance Day 07.03.2026"
   - "TATUM PAXLEY VS BLAKE MONROE WWE 2026 03 07 NXT Vengeance
     Day" *(verificar — el 7/3/26 hay un Tatum vs Blake o un
-    Jayda vs Blake; ver notebook)*
+    Jaida Parker vs Blake; ver notebook)*
   - "BLAKE MONROE VS THEA NXT 24.02.2026"
   - "BLAKE MONROE PROMO NXT 03.03.2026"
   - "ROBERT STONE, FALLON HENLEY AND BLAKE MONROE NXT 17.02.2026"

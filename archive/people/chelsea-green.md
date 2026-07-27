@@ -69,8 +69,8 @@ Giulia, con "presión de la buena". Ver
 Green sigue influyendo en el booking del midcard femenino aunque
 esté ausente de pantalla ("desde casa"), con incertidumbre
 editorial explícita sobre el plan a futuro con Tiffany Stratton.
-Menciona la ausencia de "KLR" [verif] y de Alba Fyre del roster/
-ecuación actual. Ver
+La mención *"KLR... no, alba fire"* es una sola ausencia:
+**KLR = Kay Lee Ray = Alba Fyre**, la misma persona (resuelto s44). Ver
 [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md).
 
 ## Pendientes / huecos
@@ -81,9 +81,8 @@ ecuación actual. Ver
 - [ ] Registro completo de matches previos listados en la lista
       personal (vs Giulia, vs Jordynne Grace, vs Tiffany
       Stratton/Lash Legend, con Sol Ruca).
-- [ ] Identificar "KLR" — [verif].
-- [ ] Confirmar rol/ausencia de Alba Fyre en el ciclo de booking
-      actual.
+- [x] ~~Identificar "KLR"~~ → **RESUELTO (s44)**: Kay Lee Ray =
+      Alba Fyre, misma persona, fuera del roster.
 
 ## Piezas del Vehemiurgo donde aparece
 

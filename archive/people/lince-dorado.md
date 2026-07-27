@@ -44,7 +44,7 @@ tags: [lince, aaa, perfect-wrestling, fighting-spirit, wrestling-entertainment, 
 **Lectura sintética**: primer registro individual, sin
 protagonismo singularizado más allá del elogio de conjunto.
 
-### Sesión 2026-07-14 s42 — Triple threat vs Cruz Del Toro y Octagón Jr.: Fighting Spirit
+### Sesión 2026-07-14 s42 — Triple threat vs Cruz del Toro y Octagón Jr.: Fighting Spirit
 
 **Cita verbatim**:
 
@@ -59,7 +59,10 @@ singularizado más allá del elogio de conjunto. Ver
 
 ## Pendientes / huecos
 
-- [ ] Confirmar si es Lince Dorado u otra identidad — [verif].
+- [x] ~~Confirmar identidad~~ → **RESUELTO (s44)**: **Lince
+      Dorado** — ex-WWE (Lucha House Party), en el circuito
+      AAA/independiente desde su salida; encaja con el "Lince" de
+      AAA Worldwide 2026.
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Finish/duración de ambos matches.
 

@@ -1,7 +1,7 @@
 ---
-match: "Lady Flamer vs Sussy"
-slug: "2026-04-04-lady-flamer-vs-sussy-aaa-worldwide"
-participantes: ["Lady Flamer", "Sussy"]
+match: "Flammer vs Sussy"
+slug: "2026-04-04-flammer-vs-sussy-aaa-worldwide"
+participantes: ["Flammer", "Sussy"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-04
@@ -11,7 +11,7 @@ tipo_match: "singles — defensa titular [verif título exacto]"
 estipulacion: "título [verif]"
 duracion: "[verif]"
 finish: "[verif]"
-ganador: "Lady Flamer (retiene) [verif]"
+ganador: "Flammer (retiene) [verif]"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — AAA Worldwide, 4/4/2026)"
-tags: [lady-flamer, sussy, aaa-worldwide-2026, singles, fighting-spirit, las-toxicas, defensa-titular, oldschool]
+tags: [flammer, sussy, aaa-worldwide-2026, singles, fighting-spirit, las-toxicas, defensa-titular, oldschool]
 ---
 
-# Lady Flamer vs Sussy — AAA Worldwide (4 abr 2026)
+# Flammer vs Sussy — AAA Worldwide (4 abr 2026)
 
 > **Fighting Spirit** (*"se merece el fighting spirit"*). Defensa
 > titular dentro del reinado de Las Tóxicas, elogiado como bien
@@ -58,6 +58,6 @@ tags: [lady-flamer, sussy, aaa-worldwide-2026, singles, fighting-spirit, las-tox
 
 ## Cross-links
 
-- [`../people/lady-flamer.md`](../people/lady-flamer.md) ·
+- [`../people/flammer.md`](../people/flammer.md) ·
   [`../people/sussy.md`](../people/sussy.md) ·
   [`../promotions/las-toxicas.md`](../promotions/las-toxicas.md)

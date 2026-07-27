@@ -44,7 +44,7 @@ declaración doctrinal fuerte y explícita: rechazo del estilo de
 trabajo asociado a las "4 Horsewomen" originales de NXT (Bayley,
 Sasha Banks, Charlotte Flair, Becky Lynch), calificado como
 "débil". Ver
-[`../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
+[`../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
 
 ### Sesión 2026-07-14 s40 — Primer match propio: "mid, muy aburrida"
 
@@ -68,4 +68,4 @@ Ver
 
 ## Cross-links
 
-- [`./lady-flamer.md`](./lady-flamer.md) — rival teaseada.
+- [`./flammer.md`](./flammer.md) — rival teaseada.

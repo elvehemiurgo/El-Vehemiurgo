@@ -57,7 +57,9 @@ tags: [creed-brothers, julio, bruno, el-grande-americano, wwe-raw-2026, wrestlin
 ## Pendientes
 
 - [ ] Contenido exacto de la presentación + duración.
-- [ ] Confirmar identidad exacta de "Julio" y "Bruno" — [verif].
+- [x] ~~Confirmar identidad de "Julio" y "Bruno"~~ → **RESUELTO
+      (s44)**: Julio = **Julius Creed**, Bruno = **Brutus Creed** —
+      hispanización de sus nombres para el ángulo Americano.
 
 ## Cross-links
 

@@ -55,14 +55,14 @@ con cada cambio de estado.
 | 2026-05-09 | Sami Zayn vs Trick Williams | WWE / Backlash | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md) |
 | 2026-05-09 | Bron Breakker vs Seth Rollins | WWE / Backlash | — | en-investigacion | 1 | [→](2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash.md) |
 | 2026-05-09 | La Catalina vs Jessy Jackson | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-la-catalina-vs-jessy-jackson-aaa-worldwide.md) |
-| 2026-05-09 | Cruz Del Toro vs Octagón Jr. vs Lince | AAA / Worldwide | FS | en-investigacion | 1 | [→](2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md) |
+| 2026-05-09 | Cruz del Toro vs Octagón Jr. vs Lince | AAA / Worldwide | FS | en-investigacion | 1 | [→](2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md) |
 | 2026-05-09 | Darby Allin vs PAC — main event | AEW / Collision — Fairway to Hell | PW·FS·WE | stub | 1 | [→](2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md) |
 | 2026-05-09 | Mark Davis vs Jack Perry — coronación [verif título] | AEW / Collision — Fairway to Hell | PW·FS·WE | stub | 1 | [→](2026-05-09-mark-davis-vs-jack-perry-aew-collision-fairway-to-hell.md) |
 | 2026-05-08 | Fatal Influence vs Irresistible Forces (3 vs 3) | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md) |
 | 2026-05-08 | Kiana James vs Tiffany Stratton | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-05-08 | Ricky Saints vs Matt Cardona | WWE / SmackDown | FS | en-investigacion | 1 | [→](2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md) |
 | 2026-05-04 | JD McDonagh vs Finn Bálor (rematch, con interferencia de Judgment Day) | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md) |
-| 2026-05-02 | Rey Fénix vs Laredo | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md) |
+| 2026-05-02 | Rey Fénix vs Laredo Kid | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md) |
 | 2026-05-02 | Hijo del Vikingo vs Mini Vikingo | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md) |
 | 2026-05-01 | Cody Rhodes vs Ricky Saints | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md) |
 | 2026-05-01 | Jacy Jayne vs Charlotte Flair | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md) |
@@ -70,12 +70,12 @@ con cada cambio de estado.
 | 2026-04-29 | Cope (Adam Copeland) & Christian Cage vs RPG Vice | AEW / Dynamite | WE | stub | 1 | [→](2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md) |
 | 2026-04-29 | MJF vs Kevin Knight | AEW / Dynamite | — | stub | 1 | [→](2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md) |
 | 2026-04-28 | Kelani Jordan vs Wren Sinclair | WWE / NXT | FS·WE | en-investigacion | 1 | [→](2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md) |
-| 2026-04-28 | Lizzy Rain vs Nikkita | WWE / NXT | WE | en-investigacion | 1 | [→](2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt.md) |
-| 2026-04-28 | Saquon Shugars vs Miles Borne (cash-in) | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-04-28-saquon-shugars-vs-miles-borne-cashin-wwe-nxt.md) |
+| 2026-04-28 | Lizzy Rain vs Nikkita Lyons | WWE / NXT | WE | en-investigacion | 1 | [→](2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md) |
+| 2026-04-28 | Saquon Shugars vs Myles Borne (cash-in) | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md) |
 | 2026-04-27 | Liv Morgan, Roxanne Perez & Raquel Rodríguez vs Bayley & Lyra Valkyria | WWE / Raw | WE | en-investigacion | 1 | [→](2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md) |
 | 2026-04-27 | Rey Mysterio vs El Grande Americano | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md) |
 | 2026-04-25 | El Grande Americano & Texano Jr. vs Mesías & Mechawolf | AAA / AAA Worldwide | — | en-investigacion | 1 | [→](2026-04-25-grande-americano-texano-vs-mesias-mechawolf-aaa-worldwide.md) |
-| 2026-04-25 | Laredo vs Wagner | AAA / AAA Worldwide | FS | en-investigacion | 1 | [→](2026-04-25-laredo-vs-wagner-aaa-worldwide.md) |
+| 2026-04-25 | Laredo Kid vs Wagner | AAA / AAA Worldwide | FS | en-investigacion | 1 | [→](2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md) |
 | 2026-04-25 | La Parka & Rey Fénix vs Money Machine | AAA / AAA Worldwide | FS·WE | en-investigacion | 1 | [→](2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md) |
 | 2026-04-24 | Jacy Jayne vs Rhea Ripley | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md) |
 | 2026-04-24 | Giulia vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md) |
@@ -97,7 +97,7 @@ con cada cambio de estado.
 | 2026-04-18 | Cody Rhodes vs Randy Orton | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md) |
 | 2026-04-17 | Jordynne Grace vs Tiffany Stratton | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-04-15 | Will Ospreay vs Hechicero | AEW / Spring BreakThru | PW·FS·WE | stub | 1 | [→](2026-04-15-ospreay-vs-hechicero-aew-spring-breakthru.md) |
-| 2026-04-14 | Jayda vs Kelani Jordan | WWE / NXT Revenge — Week 1 | FS·WE | en-investigacion | 1 | [→](2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1.md) |
+| 2026-04-14 | Jaida Parker vs Kelani Jordan | WWE / NXT Revenge — Week 1 | FS·WE | en-investigacion | 1 | [→](2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md) |
 | 2026-04-14 | Kali Armstrong vs Skylar Rae | WWE / NXT Revenge — Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-kali-armstrong-vs-skylar-rae-nxt-revenge-week-1.md) |
 | 2026-04-14 | Jacy Jayne vs Lola Vice | WWE NXT / NXT Revenge Week 1 | FS·WE | en-investigacion | 1 | [→](2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md) |
 | 2026-04-14 | Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance | WWE NXT / NXT Revenge Week 1 | — | en-investigacion | 1 | [→](2026-04-14-dorian-van-dux-loss-nxt-revenge-week-1.md) |
@@ -122,7 +122,7 @@ con cada cambio de estado.
 | 2026-04-07 | Dark State vs Joe Hendry, Ethan Page, Ricky Saints & Tony D'Angelo | WWE / NXT TV (semanal) | — | en-investigacion | 1 | [→](2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md) |
 | 2026-04-06 | LA Knight vs Austin Theory | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-06-la-knight-vs-austin-theory-raw.md) |
 | 2026-04-04 | Rayo & Bravo vs Vanity Project | WWE / NXT Stand & Deliver 2026 [fecha inferida por flujo narrativo, no confirmada] | PW·FS·WE | en-investigacion | 1 | [→](2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md) |
-| 2026-04-04 | Lady Flamer vs Sussy | AAA / AAA Worldwide | FS | en-investigacion | 1 | [→](2026-04-04-lady-flamer-vs-sussy-aaa-worldwide.md) |
+| 2026-04-04 | Flammer vs Sussy | AAA / AAA Worldwide | FS | en-investigacion | 1 | [→](2026-04-04-flammer-vs-sussy-aaa-worldwide.md) |
 | 2026-04-04 | 3 contra 3 de equipos europeos (Axiom en bandos opuestos) | AAA / AAA Worldwide | WE | en-investigacion | 1 | [→](2026-04-04-tres-contra-tres-europeo-axiom-aaa-worldwide.md) |
 | 2026-04-04 | Team Japón vs Team Puerto Rico | AAA / AAA Worldwide | FS·WE | en-investigacion | 1 | [→](2026-04-04-team-japon-vs-team-pr-aaa-worldwide.md) |
 | 2026-04-04 | Sol Ruca vs Saria | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
@@ -132,7 +132,7 @@ con cada cambio de estado.
 | 2026-04-02 | Eight-man tag — Ali, Agent Zero, Eddie Edwards & Cedric Alexander vs Santana, Slater, Trey Miguel & Moose | TNA Wrestling / iMPACT! | PW·FS·WE | verificado | 1 | [→](2026-04-02-multi-man-opener-tna-impact.md) |
 | 2026-04-01 | MJF vs Speedball Mike Bailey | AEW (All Elite Wrestling) / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
 | 2026-04-01 | PAC vs Will Ospreay | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-04-01-pac-vs-ospreay-aew-dynamite.md) |
-| 2026-03-31 | Kelani Jordan vs Jayda | WWE / NXT | WE | en-investigacion | 1 | [→](2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md) |
+| 2026-03-31 | Kelani Jordan vs Jaida Parker | WWE / NXT | WE | en-investigacion | 1 | [→](2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md) |
 | 2026-03-28 | Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana | WWE AAA / AAA Rey de Reyes Week 2 | — | en-investigacion | 1 | [→](2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md) |
 | 2026-03-27 | Mike Santana (c) vs Steve Maclin — TNA World Championship (main event; lesión de Maclin) | TNA Wrestling / Sacrifice 2026 | — | verificado | 1 | [→](2026-03-27-main-event-lesion-steve-maclin-tna-sacrifice.md) |
 | 2026-03-27 | Moose vs Eddie Edwards | TNA Wrestling / Sacrifice 2026 | — | verificado | 1 | [→](2026-03-27-moose-vs-eddie-edwards-tna-sacrifice.md) |

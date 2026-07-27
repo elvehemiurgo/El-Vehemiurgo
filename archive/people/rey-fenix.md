@@ -53,7 +53,7 @@ Parka.
 
 **Lectura sintética**: Perfect Match — triple clase, veredicto
 directo sin desarrollo extenso. Ver
-[`../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md).
+[`../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md).
 
 ## Pendientes / huecos
 
@@ -63,7 +63,7 @@ directo sin desarrollo extenso. Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md`](../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md)
-- [`../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-aaa-worldwide.md)
+- [`../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md)
 
 ## Cross-links
 

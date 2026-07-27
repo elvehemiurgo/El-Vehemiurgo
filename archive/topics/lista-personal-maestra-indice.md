@@ -99,7 +99,7 @@ como solicitó el Vehemiurgo.
 | 61 | 2026-04-04 | match | Jacy Jayne · Kendal Grey · Lola Vice | WWE NXT | — | integrado | [→](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
 | 62 | 2026-04-04 | match | Los Americanos · Vanity Project | WWE |  | pendiente |  |
 | 63 | 2026-04-04 | match | Sol Ruca · Saria | WWE NXT | — | integrado | [→](../matches/2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
-| 64 | 2026-04-04 | match | Miles Borne · Johnny Gargano | WWE |  | pendiente |  |
+| 64 | 2026-04-04 | match | Myles Borne · Johnny Gargano | WWE |  | pendiente |  |
 | 65 | 2026-04-04 | match | Tatum Paxley · Blake Monroe | WWE |  | pendiente |  |
 | 66 | 2026-04-04 | match | Ethan Page · Ricky Saints · Joe Hendry · Tony D'Angelo | WWE NXT | — | integrado | [→](../matches/2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
 | 67 | 2026-04-03 | segment | CODY TELLS STEPHANIE SHE IS NOT HER FATHER WWE SmackDown 03.04.2026 | WWE | — | integrado | [→](../segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md) |
@@ -206,7 +206,7 @@ como solicitó el Vehemiurgo.
 | 168 | 2026-03-10 | segment | WREN QCC SEGMENT WITH HENDRY AND BORNE NXT 10.03.2026 | WWE |  | pendiente |  |
 | 169 | 2026-03-10 | match | Lainey Reid · Sol Ruca | WWE |  | pendiente |  |
 | 170 | 2026-03-10 | segment | TATUM PAXLEY AND IZZI DAME BACKSTAGE BRAWL NXT 10.03.2026 | WWE |  | pendiente |  |
-| 171 | 2026-03-10 | match | Ethan Page · Ricky Saints · Joe Hendry · Miles Borne | WWE |  | pendiente |  |
+| 171 | 2026-03-10 | match | Ethan Page · Ricky Saints · Joe Hendry · Myles Borne | WWE |  | pendiente |  |
 | 172 | 2026-03-09 | segment | THE JUDGMENT DAY BETRAY FINN BÁLOR WWE Raw 09.03.2026 | WWE |  | pendiente |  |
 | 173 | 2026-03-09 | match | CM Punk · The Bloodline | WWE |  | pendiente |  |
 | 174 | 2026-03-07 | match | Jayda Parker · Blake Monroe | WWE |  | pendiente |  |
@@ -245,7 +245,7 @@ como solicitó el Vehemiurgo.
 | 207 | 2026-03-04 | segment | FTR AND CIAMPA RINGSIDE SEGMENT AEW Dynamite 04.03.2026 | AEW |  | pendiente |  |
 | 208 | 2026-03-04 | match | Protokada · Mark Davis · Jetset Rodeo | AEW |  | pendiente |  |
 | 209 | 2026-03-03 | segment | OPENING VIDEO NXT 03.03.2026 | WWE |  | pendiente |  |
-| 210 | 2026-03-03 | match | Miles Borne · Ethan Page | WWE |  | pendiente |  |
+| 210 | 2026-03-03 | match | Myles Borne · Ethan Page | WWE |  | pendiente |  |
 | 211 | 2026-03-03 | match | Wren Sinclair · Nikkita Lyons | WWE |  | pendiente |  |
 | 212 | 2026-03-03 | match | Vanity Project · Shiloh · Hank Walker · Tank Ledger | WWE |  | pendiente |  |
 | 213 | 2026-03-03 | segment | BLAKE MONROE PROMO NXT 03.03.2026 | WWE |  | pendiente |  |

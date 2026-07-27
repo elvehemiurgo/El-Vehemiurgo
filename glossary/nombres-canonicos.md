@@ -28,6 +28,13 @@
 | Rick Rude | Rick Roode |
 | Darby Allin | Darby Allen |
 | Lil Yachty | Mya Yatty |
+| Jaida Parker | Jayda |
+| Myles Borne | Miles Borne |
+| Flammer | Lady Flamer, Lady Flammer |
+| Zema Ion | Zima Ion — SOLO si refiere a DJZ; ver Atención |
+| Kiana James | Kiona James |
+| Lainey Reid | Layney Reed, Layne Reed, Lainey Reed |
+| Joaquin Wilde | Joaquín Wild, Joaquin Wild |
 
 ## Atención — contexto-dependientes (no linteados)
 
@@ -42,7 +49,35 @@
 | **Jessy Jackson / Jessica Jackson** | Misma luchadora de AAA. El archivo venía usando *Jessy Jackson* (lista personal 14/2/2026 + vistas derivadas); el Vehemiurgo dictó *Jessica Jackson* en s43. Slug `jessy-jackson`. **Grafía canónica pendiente de ratificación** — no linteado hasta que se resuelva. **No confundir con Jackson Drake** (WWE NXT, Vanity Project). |
 | **Lil Yachty** | Rapero, **no luchador** — acompañante on-screen de Trick Williams. Se archiva en `people/` por función narrativa, no como talent. El Vehemiurgo lo dicta *"Yatty"*; se registró por error como *"Mya Yatty"* (corregido s43). |
 | **Matt Cardona** | Canónico completo. *"Cardona"* a secas es **segunda mención legítima** en prosa, no variante prohibida — lo que estaba mal era la ficha suelta `cardona.md` (corregida s43). |
-| **Cruz Del Toro** | Canónico completo (ex-LWO / Legado del Fantasma, hoy AAA). El Vehemiurgo lo dicta *"del Toro"* / *"El Toro"*. *"Del Toro"* a secas es segunda mención legítima; lo que estaba mal era la ficha suelta `el-toro.md` (corregida s43). |
+| **Cruz del Toro** | Canónico completo (ex-LWO / Legado del Fantasma, hoy AAA; "del" minúscula). El Vehemiurgo lo dicta *"del Toro"* / *"El Toro"*. *"Del Toro"* a secas es segunda mención legítima; lo que estaba mal era la ficha suelta `el-toro.md` (corregida s43). |
+| **Nikkita Lyons** | Canónico completo. *"Nikkita"* a secas es segunda mención legítima (registrada así en dictados; ficha `nikkita-lyons.md`, corregida s44). |
+| **Laredo Kid** | Canónico completo. *"Laredo"* a secas es segunda mención legítima (ficha `laredo-kid.md`, corregida s44). |
+| **KLR / Kay Lee Ray / Alba Fyre** | **Misma persona**: KLR = sigla de Kay Lee Ray (ring name pre-WWE); Alba Fyre = nombre WWE. Un dictado que nombra ambas no implica dos ausencias/personas. |
+| **El Grande Americano (Gable/Kaiser)** | Gimmick enmascarado **compartido**: creado por **Chad Gable**, portado también por **Ludwig Kaiser** (precedente real 2025). "Gable" y "Kaiser" en un dictado sobre el Americano = dos personas distintas del mismo ángulo. |
+| **Julio / Bruno (Americanos Hermanos)** | Hispanización de **Julius Creed** y **Brutus Creed** dentro del ángulo Americano. Ficha del equipo: `promotions/creed-brothers.md`. |
+| **Zima Ion (AAA 2026)** | Gimmick portado por **Joaquin Wilde** (ex-LWO) según dictado del Vehemiurgo — **no confundir con Zema Ion (DJZ)**, talent distinto; grafía Zima/Zema [verif]. La fila de "Variantes prohibidas" solo aplica a menciones de DJZ. |
+| **Je'Von Evans** | Grafía real con apóstrofe; slug `jevon-evans`. El Vehemiurgo dicta "Jevon Evans". |
+
+## Método de identificación (ley operativa desde s44)
+
+Ante **cualquier** nombre parcial, apodo o grafía dudosa en un
+volcado, el copiloto **resuelve la identidad antes de escribir**:
+
+1. **Ubicarse en el show y la fecha dictados** (el contexto que el
+   Vehemiurgo siempre da).
+2. **Contrastar contra resultados y rosters reales** de esa empresa
+   en ese periodo — el dictado parcial casi siempre apunta a un
+   talent identificable ("Cardona" en SmackDown 2026 = Matt
+   Cardona; "Kiona" rival de Tiffany = Kiana James).
+3. **Buscar el nombre en el archivo** por si ya existe bajo otra
+   grafía (grep en `people/`, índices y lista personal) — **nunca
+   abrir ficha duplicada**.
+4. Solo si el contraste no resuelve → ficha con nombre dictado +
+   `[verif]` + candidatos listados.
+
+La ficha resultante usa el canónico completo y glosa cómo lo dicta
+el Vehemiurgo. Los `[verif]` de identidad se revisan en cada sesión
+nueva contra el contexto que va llegando.
 
 ## Cómo se agrega una entrada
 

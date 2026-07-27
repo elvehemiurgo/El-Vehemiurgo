@@ -43,9 +43,9 @@ tags: [nxt-2026, stand-and-deliver-2026, whc-fatal-4way, ethan-page, ricky-saint
 
 - **24 feb 2026 NXT**: Ethan Page, Vanity Project and Ricky
   segment (Page-Ricky tensión).
-- **3 mar 2026 NXT**: Miles Borne vs Ethan Page.
+- **3 mar 2026 NXT**: Myles Borne vs Ethan Page.
 - **10 mar 2026 NXT**: Ethan Page & Ricky Starks vs Joe Hendry
-  & Miles Borne.
+  & Myles Borne.
 - **17 mar 2026 NXT**: Ethan Page, Ricky Starks and Joe Hendry
   segment.
 - **31 mar 2026 NXT**: WHC contract signing con los 4

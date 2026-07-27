@@ -1,7 +1,7 @@
 ---
-match: "Jayda vs Kelani Jordan"
-slug: "2026-04-14-jayda-vs-kelani-jordan-nxt-revenge-week-1"
-participantes: ["Jayda", "Kelani Jordan"]
+match: "Jaida Parker vs Kelani Jordan"
+slug: "2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1"
+participantes: ["Jaida Parker", "Kelani Jordan"]
 empresa: "WWE"
 programa: "NXT Revenge — Week 1"
 fecha: 2026-04-14
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s37 (visión directa — WWE NXT Revenge Week 1, 14/4/2026)"
-tags: [jayda, kelani-jordan, wwe-nxt-2026, singles, fighting-spirit, wrestling-entertainment, rematch, mejora-sobre-encuentro-previo]
+tags: [jaida-parker, kelani-jordan, wwe-nxt-2026, singles, fighting-spirit, wrestling-entertainment, rematch, mejora-sobre-encuentro-previo]
 ---
 
-# Jayda vs Kelani Jordan — WWE NXT Revenge Week 1 (14 abr 2026)
+# Jaida Parker vs Kelani Jordan — WWE NXT Revenge Week 1 (14 abr 2026)
 
 > **Fighting Spirit + Wrestling Entertainment** (*"esta si se
 > merece el fighting spirit y el enterteinment class"*). Rematch
@@ -48,7 +48,7 @@ tags: [jayda, kelani-jordan, wwe-nxt-2026, singles, fighting-spirit, wrestling-e
    fórmula de doble clase; este rematch sube a Fighting Spirit +
    Wrestling Entertainment — "mucho mejor que sus encuentros
    previos". Ver
-   [`../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md).
+   [`../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md).
 2. **Selling en su punto, buena estructura**: elogio técnico
    directo.
 3. **Victoria de Kelani Jordan, "muy bien hecha"**: continúa el
@@ -60,6 +60,6 @@ tags: [jayda, kelani-jordan, wwe-nxt-2026, singles, fighting-spirit, wrestling-e
 
 ## Cross-links
 
-- [`../people/jayda.md`](../people/jayda.md) ·
+- [`../people/jaida-parker.md`](../people/jaida-parker.md) ·
   [`../people/kelani-jordan.md`](../people/kelani-jordan.md) ·
-  [`../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jayda-wwe-nxt.md)
+  [`../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md)

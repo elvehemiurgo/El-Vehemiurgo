@@ -1,7 +1,7 @@
 ---
-match: "Lizzy Rain vs Nikkita"
-slug: "2026-04-28-lizzy-rain-vs-nikkita-wwe-nxt"
-participantes: ["Lizzy Rain", "Nikkita"]
+match: "Lizzy Rain vs Nikkita Lyons"
+slug: "2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt"
+participantes: ["Lizzy Rain", "Nikkita Lyons"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-04-28
@@ -21,10 +21,10 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026)"
-tags: [lizzy-rain, nikkita, wwe-nxt-2026, singles, debut, wrestling-entertainment, cantera-australiana, thunder-struck, dude-love, ric-flair]
+tags: [lizzy-rain, nikkita-lyons, wwe-nxt-2026, singles, debut, wrestling-entertainment, cantera-australiana, thunder-struck, dude-love, ric-flair]
 ---
 
-# Lizzy Rain vs Nikkita — WWE NXT (28 abr 2026)
+# Lizzy Rain vs Nikkita Lyons — WWE NXT (28 abr 2026)
 
 > **Wrestling Entertainment** (*"esta lucha se merece el
 > enterteinment class"*). Debut de Lizzy Rain — apuesta editorial
@@ -66,7 +66,7 @@ tags: [lizzy-rain, nikkita, wwe-nxt-2026, singles, debut, wrestling-entertainmen
    de Nikkita — genera friction real en un match de introducción.
 4. Ver
    [`../people/lizzy-rain.md`](../people/lizzy-rain.md),
-   [`../people/nikkita.md`](../people/nikkita.md), y la doctrina
+   [`../people/nikkita-lyons.md`](../people/nikkita-lyons.md), y la doctrina
    de la nueva generación en
    [`../topics/nueva-generacion-asesinos-hambrientos.md`](../topics/nueva-generacion-asesinos-hambrientos.md).
 
@@ -78,5 +78,5 @@ tags: [lizzy-rain, nikkita, wwe-nxt-2026, singles, debut, wrestling-entertainmen
 ## Cross-links
 
 - [`../people/lizzy-rain.md`](../people/lizzy-rain.md) ·
-  [`../people/nikkita.md`](../people/nikkita.md) ·
+  [`../people/nikkita-lyons.md`](../people/nikkita-lyons.md) ·
   [`../topics/nueva-generacion-asesinos-hambrientos.md`](../topics/nueva-generacion-asesinos-hambrientos.md)

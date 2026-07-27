@@ -1,7 +1,7 @@
 ---
-segmento: "Promo video: La Catalina, retadora para Lady Flamer"
+segmento: "Promo video: La Catalina, retadora para Flammer"
 slug: "2026-04-25-promo-video-la-catalina-aaa-worldwide"
-protagonistas: ["La Catalina", "Lady Flamer"]
+protagonistas: ["La Catalina", "Flammer"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-25
@@ -13,10 +13,10 @@ estado: stub
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
-tags: [la-catalina, lady-flamer, aaa-worldwide-2026, promo-video, sin-clase, babyface-fuerte]
+tags: [la-catalina, flammer, aaa-worldwide-2026, promo-video, sin-clase, babyface-fuerte]
 ---
 
-# Promo video: La Catalina, retadora para Lady Flamer — AAA Worldwide (25 abr 2026)
+# Promo video: La Catalina, retadora para Flammer — AAA Worldwide (25 abr 2026)
 
 > **Sin clase declarada**, pero booking aprobado: *"se ve
 > emocionante"*.
@@ -30,9 +30,9 @@ tags: [la-catalina, lady-flamer, aaa-worldwide-2026, promo-video, sin-clase, bab
 
 **Lectura sintética**: continuidad directa de su debut en AAA
 (s37) — ahora posicionada formalmente como retadora al título de
-Lady Flamer. Ver
+Flammer. Ver
 [`../people/la-catalina.md`](../people/la-catalina.md),
-[`../people/lady-flamer.md`](../people/lady-flamer.md).
+[`../people/flammer.md`](../people/flammer.md).
 
 ## Pendientes
 
@@ -41,4 +41,4 @@ Lady Flamer. Ver
 ## Cross-links
 
 - [`../people/la-catalina.md`](../people/la-catalina.md) ·
-  [`../people/lady-flamer.md`](../people/lady-flamer.md)
+  [`../people/flammer.md`](../people/flammer.md)

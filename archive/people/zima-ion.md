@@ -1,5 +1,5 @@
 ---
-nombre: "Zima Ion (Joaquín Wild)"
+nombre: "Zima Ion (Joaquin Wilde)"
 tipo: fact-sheet
 categoria: people
 slug: zima-ion
@@ -7,21 +7,26 @@ estado: vivo
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
-tags: [zima-ion, joaquin-wild, aaa, perfect-wrestling, fighting-spirit, wrestling-entertainment, oldschool, primer-registro-individual]
+tags: [zima-ion, joaquin-wilde, lwo-ex, aaa, perfect-wrestling, fighting-spirit, wrestling-entertainment, oldschool, primer-registro-individual]
 ---
 
-# Zima Ion (Joaquín Wild)
+# Zima Ion (Joaquin Wilde)
 
-> Primer registro individual del archivo. Joaquín Wild luciéndose
+> Primer registro individual del archivo. **Joaquin Wilde**
+> (grafía real; el Vehemiurgo dicta *"Joaquín Wild"*) luciéndose
 > con la encarnación de gimmick "Zima Ion" en un Perfect Match de
 > apertura de show.
 
 ## Identificación
 
 - **Nombre de gimmick**: Zima Ion.
-- **Identidad detrás del gimmick**: Joaquín Wild (según dictado
-  del Vehemiurgo — *"Joaquin Wild se lució con esta encarnación de
-  Zima Ion"*) [verif contra fuente directa].
+- **Identidad detrás del gimmick**: **Joaquin Wilde** — ex-LWO
+  y ex-Legado del Fantasma en WWE, mismo cluster de éxodo
+  LWO → AAA que Cruz del Toro. ⚠ **No confundir con Zema Ion
+  (DJZ)**, talent distinto; la grafía del gimmick ("Zima" vs
+  "Zema") queda [verif]. Según dictado del Vehemiurgo — *"Joaquin
+  Wild [sic — Joaquin Wilde] se lució con esta encarnación de Zima
+  Ion"* — [verif contra fuente directa].
 - **Empresa (2026)**: AAA.
 
 ## Trayectoria condensada
@@ -49,7 +54,7 @@ usar tres profesionales para abrir el show.
 
 ## Pendientes / huecos
 
-- [ ] Confirmar relación exacta entre "Joaquín Wild" y el gimmick
+- [ ] Confirmar relación exacta entre "Joaquin Wilde" y el gimmick
       "Zima Ion" contra fuente directa.
 - [ ] Finish/duración del match.
 

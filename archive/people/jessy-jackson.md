@@ -39,7 +39,7 @@ tags: [jessy-jackson, jessica-jackson, aaa-2026, lucha-mexicana, perfect-wrestli
 ## Trayectoria condensada
 
 - **14/2/2026 (AAA)** — con Fabi Apache y Adelicious vs **Las
-  Tóxicas** (La Hiedra, Lady Flamer & Maravilla) [pendiente
+  Tóxicas** (La Hiedra, Flammer & Maravilla) [pendiente
   registro completo — en la lista personal, sin ficha de match
   abierta].
 - **9/5/2026 (AAA Worldwide)** — vs La Catalina: Perfect Wrestling

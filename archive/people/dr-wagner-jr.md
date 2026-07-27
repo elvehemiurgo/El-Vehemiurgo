@@ -26,7 +26,7 @@ tags: [dr-wagner-jr, aaa, fighting-spirit, golpes-duros, primer-registro-individ
 ## Trayectoria condensada
 
 - **25/4/2026 (AAA Worldwide)** — vs Laredo: Fighting Spirit.
-  ([→](../matches/2026-04-25-laredo-vs-wagner-aaa-worldwide.md)).
+  ([→](../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -72,17 +72,20 @@ y
 
 ## Pendientes / huecos
 
-- [ ] **Confirmar identidad exacta** (Dr. Wagner Jr. vs Hijo de
-      Dr. Wagner Jr. vs otra variante) — [verif], no asumir.
+- [ ] **Confirmar identidad exacta** — [verif]. Candidatos por
+      contraste de roster AAA: **El Hijo de Dr. Wagner Jr.**
+      (generación activa del linaje) o **Dr. Wagner Jr.** (el
+      veterano, todavía en activo); el rol de rescate/aliado de
+      Vikingo encaja con cualquiera de los dos. No asumir.
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Finish/duración del match.
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-04-25-laredo-vs-wagner-aaa-worldwide.md`](../matches/2026-04-25-laredo-vs-wagner-aaa-worldwide.md)
+- [`../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md`](../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md)
 - [`../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md`](../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md)
 - [`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md)
 
 ## Cross-links
 
-- [`./laredo.md`](./laredo.md) — rival.
+- [`./laredo-kid.md`](./laredo-kid.md) — rival.

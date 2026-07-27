@@ -88,7 +88,7 @@ cada alta y con cada cambio de estado.
 | 2026-04-27 | Backstage: Liv Morgan, Roxanne Perez y Finn Bálor | WWE / Raw | promo backstage | WE | stub | 1 | [→](2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md) |
 | 2026-04-27 | Cierre de show: Jacob Fatu y Roman Reigns | WWE / Raw | promo in-ring / cierre de show | WE | stub | 1 | [→](2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md) |
 | 2026-04-27 | Presentación de Joe Hendry vs Logan Paul (concierto + interrupción heel) | WWE / Raw | concierto / promo in-ring / interrupción | WE | stub | 1 | [→](2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md) |
-| 2026-04-25 | Promo video: La Catalina, retadora para Lady Flamer | AAA / AAA Worldwide | promo video (hype package) | — | stub | 1 | [→](2026-04-25-promo-video-la-catalina-aaa-worldwide.md) |
+| 2026-04-25 | Promo video: La Catalina, retadora para Flammer | AAA / AAA Worldwide | promo video (hype package) | — | stub | 1 | [→](2026-04-25-promo-video-la-catalina-aaa-worldwide.md) |
 | 2026-04-24 | Jacob Fatu se come al Bloodline de Solo Sikoa (cierre de show) | WWE / SmackDown | ataque / cierre de show | WE | stub | 1 | [→](2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md) |
 | 2026-04-24 | Fatal Influence interrumpe a Rhea Ripley (segundo segmento de la noche) | WWE / SmackDown | promo in-ring / confrontación de facción | WE | stub | 1 | [→](2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md) |
 | 2026-04-24 | Promo larga de Cody Rhodes — 'fighting champion' | WWE / SmackDown | promo in-ring | WE | stub | 1 | [→](2026-04-24-cody-rhodes-promo-fighting-champion-wwe-smackdown.md) |
@@ -114,7 +114,7 @@ cada alta y con cada cambio de estado.
 | 2026-04-13 | Promo video: CM Punk | WWE / Raw | promo video (hype package) | WE | stub | 1 | [→](2026-04-13-cm-punk-promo-video-wwe-raw.md) |
 | 2026-04-13 | LA Knight — hot tag | WWE / Monday Night Raw | spot aislado | — | en-investigacion | 1 | [→](2026-04-13-la-knight-hot-tag-raw.md) |
 | 2026-04-11 | Post-match: confrontación entre los Americanos + reto máscara vs máscara (cierre de show) | AAA / AAA Worldwide | post-match / confrontación de facción + reto de cierre de show | PW·FS·WE | stub | 1 | [→](2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md) |
-| 2026-04-11 | Celebración de Lady Flamer y Las Tóxicas (900+ días) + debut de La Catalina | AAA / AAA Worldwide | celebración de título + debut de retadora | WE | stub | 1 | [→](2026-04-11-lady-flamer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md) |
+| 2026-04-11 | Celebración de Flammer y Las Tóxicas (900+ días) + debut de La Catalina | AAA / AAA Worldwide | celebración de título + debut de retadora | WE | stub | 1 | [→](2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md) |
 | 2026-04-11 | Windsor & Hayter cortan una promo | AEW / Collision | promo (tag/dúo) | FS·WE | stub | 1 | [→](2026-04-11-windsor-hayter-promo-aew-collision.md) |
 | 2026-04-10 | Pat McAfee — promo contra CM Punk | WWE / SmackDown | in-ring promo / commentary booth confrontation | — | en-investigacion | 1 | [→](2026-04-10-pat-mcafee-promo-against-cm-punk-smackdown.md) |
 | 2026-04-10 | Cody Rhodes — promo contra Pat McAfee y TKO | WWE / SmackDown | in-ring promo | — | en-investigacion | 1 | [→](2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md) |

@@ -4,7 +4,7 @@ slug: "saquon-shugars-brillante-nxt-revenge-week-1-2026-04-14"
 tipo_segmento: "in-ring showcase / character work moment (peak performance individual)"
 protagonistas:
   - "Saquon Shugars (Dark State)"
-  - "Miles Borne"
+  - "Myles Borne"
   - "Dark State (Cutler James + Osiris Griffin + Dion Lennox)"
 empresa: "WWE NXT"
 programa: "NXT Revenge Week 1"
@@ -14,8 +14,8 @@ recinto: "[verif]"
 ubicacion_en_show: "[verif]"
 duracion: ""
 linea_textual: ""
-gimmick_momento: "Saquon Shugars **brillante** en segment compartido con Miles Borne + Dark State. El Vehemiurgo identifica a Saquon como *a otro nivel por encima de Miles y Dark State*. Pieza performance peak individual."
-storyline: "Saquon Shugars ascendente — pieza editorial del proyecto Vehemiurgia sobre el talent diferencial dentro del stable Dark State + interacciones cross-faction con Miles Borne."
+gimmick_momento: "Saquon Shugars **brillante** en segment compartido con Myles Borne + Dark State. El Vehemiurgo identifica a Saquon como *a otro nivel por encima de Miles y Dark State*. Pieza performance peak individual."
+storyline: "Saquon Shugars ascendente — pieza editorial del proyecto Vehemiurgia sobre el talent diferencial dentro del stable Dark State + interacciones cross-faction con Myles Borne."
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
@@ -25,7 +25,7 @@ ultima_actualizacion: 2026-05-10
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial directo 2026-05-10 sobre NXT Revenge Week 1"
   - "Visionado directo del Vehemiurgo"
-tags: [nxt-2026, nxt-revenge-week-1, saquon-shugars, miles-borne, dark-state, showcase-performance, talent-diferencial, vehemiurgo-want-more, gimmick-de-oficio]
+tags: [nxt-2026, nxt-revenge-week-1, saquon-shugars, myles-borne, dark-state, showcase-performance, talent-diferencial, vehemiurgo-want-more, gimmick-de-oficio]
 ---
 
 # Saquon Shugars brillante por encima de Miles + Dark State — NXT Revenge Week 1 (14 abr 2026)
@@ -43,7 +43,7 @@ tags: [nxt-2026, nxt-revenge-week-1, saquon-shugars, miles-borne, dark-state, sh
   State**: el Vehemiurgo identifica a Saquon como **el
   miembro de Dark State que sobresale por encima de sus
   compañeros stable + por encima de talents cross-faction
-  (Miles Borne)**. Pieza editorial sobre **el ace dentro de
+  (Myles Borne)**. Pieza editorial sobre **el ace dentro de
   faction** carny ortodoxo.
 - **Trayectoria ascendente acelerada**: Saquon ya identificado
   por el Vehemiurgo en notebook 2026-05-09 como
@@ -77,7 +77,7 @@ tags: [nxt-2026, nxt-revenge-week-1, saquon-shugars, miles-borne, dark-state, sh
   Vehemiurgo. Consolidación del status Saquon como **talent
   ace emergente NXT 2026**.
 - **"Por encima de Miles y Dark State"** — Saquon outperforming
-  **dos referencias del periodo**: Miles Borne (talent
+  **dos referencias del periodo**: Myles Borne (talent
   ascendente cross-faction) + Dark State (su propio stable).
   **Pieza editorial sobre talent individual que supera el
   contexto factional** — carny puro old-school del *the
