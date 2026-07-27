@@ -164,11 +164,28 @@ explícitamente emocionado con el paso. Ver
 - [ ] Seguimiento del "siguiente nivel como estrella de TV"
       proyectado tras el turn.
 
+### Sesión 2026-07-14 s32 — Tema de la promo backstage "obra maestra" de MJF
+
+**Cita verbatim**:
+
+> *"MJF tiene una promo backstage donde habla de Andrade y es
+> genial, este segmento se merece un enterteinment class, otra
+> obra maestra"*
+>
+> — El Vehemiurgo, 2026-07-14 s32 (verbatim)
+
+**Lectura sintética**: mención de referencia — Andrade es el tema
+de una promo de MJF elogiada como Wrestling Entertainment, sin
+desarrollo propio adicional en esta sesión (continuidad post-face
+turn, s30). Ver
+[`../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md`](../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md`](../matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md)
 - [`../matches/2026-05-27-ace-austin-vs-andrade-aew-collision.md`](../matches/2026-05-27-ace-austin-vs-andrade-aew-collision.md)
 - [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
+- [`../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md`](../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md)
 
 ## Cross-links
 

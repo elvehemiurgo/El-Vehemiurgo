@@ -307,6 +307,21 @@ y [`./nicho-el-millonario.md`](./nicho-el-millonario.md).
 - [ ] Verificar nivel de fuente de cada dato duro antes de
       asentar.
 
+### Sesión 2026-07-14 s32 — Reformulación de la queja: "no terminan de confiar en él" (sobre Ospreay)
+
+**Cita verbatim**:
+
+> *"Ospreay [...] es un babyface cool, no sé porque sintieron la
+> necesidad de ponerlo con Mox, ocmo si no fuera suficiente, o no
+> terminan de confiar en él"*
+>
+> — El Vehemiurgo, 2026-07-14 s32 (verbatim)
+
+**Lectura sintética**: continuidad de la crítica sostenida desde
+s10 — Moxley/Death Riders sigue leído como andamiaje innecesario
+para un babyface que funciona solo. Ver
+[`./will-ospreay.md`](./will-ospreay.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynamite-08-abr-2026.md`](../../notebook/2026-05-26-takes-aew-dynamite-08-abr-2026.md)

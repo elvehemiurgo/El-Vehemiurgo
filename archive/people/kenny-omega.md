@@ -228,9 +228,30 @@ FS·WE) no cambia el diagnóstico sobre su rol como aspirante al
 título de MJF. Ver
 [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md).
 
+### Sesión 2026-07-14 s32 — Instalado como retador vía sacrificio de Mark Briscoe
+
+**Cita verbatim**:
+
+> *"usar a Mark como victima de MJF para quie Kenny haga el salve,
+> es combustible para que los fans consideren más a Kenny como
+> héroe para esta temporada [...] el detalle de que MJF de hecho
+> está 2 a 0 contra Omega, es cool, o sea, si puede poner over a
+> Omega el booking tiene sentido para MJF"*
+>
+> — El Vehemiurgo, 2026-07-14 s32 (verbatim)
+
+**Lectura sintética**: pese a la crítica sostenida sobre Omega
+como retador que "aburre" (s30), el Vehemiurgo reconoce que el
+booking específico para instalarlo (víctima Mark Briscoe, historial
+2-0 en contra) tiene sentido narrativo — aprobación táctica que
+convive con el rechazo de fondo a la estrategia mayor (quitarle el
+título a MJF para Ospreay vs Omega en Wembley). Ver
+[`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md`](../../notebook/2026-05-26-takes-aew-dynamite-25-mar-2026.md)
   — volcado origen del take polarizante.
 - [`./mjf.md`](./mjf.md) — MJF como protagonista del segmento
   vs Omega-retador que no emociona al Vehemiurgo.
+- [`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md)

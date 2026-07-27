@@ -425,11 +425,43 @@ explícitamente *"aburre"*. Ver
 [`./andrade.md`](./andrade.md) y
 [`./kenny-omega.md`](./kenny-omega.md).
 
+### Sesión 2026-07-14 s32 — Retiene vs Briscoe (WE con reserva) + arranca el camino a Omega
+
+**Cita verbatim**:
+
+> *"MJF vs Briscoe fue ok [...] creo que se merece el enterteinment
+> class por el contexto y las promos, pero no me emociona tanto
+> como otras defensas de MJF [...] los stakes que MJF puso en este
+> mismo episodio, apuesta que si Kenny pierde no podrá retar a MJF
+> por el titulo otra vez, esto está cool porque es lo mismo que MJF
+> ya le hizo al Hangman [...] MJF tiene una promo backstage donde
+> habla de Andrade y es genial, este segmento se merece un
+> enterteinment class, otra obra maestra, y el detalle de que MJF
+> de hecho está 2 a 0 contra Omega, es cool"*
+>
+> — El Vehemiurgo, 2026-07-14 s32 (verbatim)
+
+**Lectura sintética**: la nota más baja del expediente reciente de
+MJF en el ring (WE sostenida por contexto/promos, no por el
+trabajo físico), compensada por dos aciertos de booking: el
+sacrificio de Mark Briscoe para instalar a Kenny Omega como héroe
+de temporada, y unos stakes que repiten conscientemente el patrón
+ya usado con Hangman Page (blow-off Revolution 15/3/2026). El
+Vehemiurgo separa su desaprobación de la estrategia mayor (quitar
+el título para Ospreay vs Omega en Wembley) de su aprobación del
+movimiento táctico puntual. La promo backstage sobre Andrade
+vuelve a ser "obra maestra" sin reserva — mismo patrón sostenido
+desde s08/s25/s26. Ver
+[`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md)
+y
+[`../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md`](../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
 - [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
+- [`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md)
 
 ## Pendientes
 

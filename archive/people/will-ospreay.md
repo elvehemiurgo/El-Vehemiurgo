@@ -238,6 +238,26 @@ de que la relación con Moxley no cambió nada real de su acto. Ver
 Ver
 [`../matches/2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md`](../matches/2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md).
 
+### Sesión 2026-07-14 s32 — "Babyface cool" en solitario, la queja del pairing con Moxley vuelve
+
+**Cita verbatim**:
+
+> *"Ospreay aparece para complementar y lo hace muy bien, es un
+> babyface cool, no sé porque sintieron la necesidad de ponerlo
+> con Mox, ocmo si no fuera suficiente, o no terminan de confiar
+> en él"*
+>
+> — El Vehemiurgo, 2026-07-14 s32 (verbatim)
+
+**Lectura sintética**: reformulación directa de la queja sostenida
+desde s10-s26 — Ospreay funciona bien por sí solo, y el
+Vehemiurgo no encuentra justificación narrativa para seguir
+atándolo a Moxley/Death Riders. La nueva frase clave: *"o no
+terminan de confiar en él"* — lectura de inseguridad de booking,
+no de talento. Ver
+[`../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md`](../segments/2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md)
+y [`./jon-moxley.md`](./jon-moxley.md).
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.
@@ -245,4 +265,5 @@ Ver
 - [ ] Feud Takeshita 2024-2025 — pieza editorial multi-match.
 - [ ] **Columna editorial diagnóstica** Ospreay caso test
       Cornette-school vs Vehemiurgia-school (pendiente columna
-      editorial dedicada).
+      editorial dedicada) — el pairing con Moxley como caso
+      central.

@@ -12,6 +12,7 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-07-01 | Promo backstage: MJF sobre Andrade | AEW / Dynamite | promo backstage | WE | stub | 1 | [→](2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md) |
 | 2026-06-28 | Promo video: DCMJF vs faces (6 vs 6) | AEW x NJPW / Forbidden Door | promo video (hype package) | — | stub | 1 | [→](2026-06-28-dcmjf-vs-faces-promo-video-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Regreso de Jay White | AEW x NJPW / Forbidden Door | return moment | — | stub | 1 | [→](2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Promo video: The Dogs vs Cope & Cage | AEW x NJPW / Forbidden Door | promo video (hype package) | WE | stub | 1 | [→](2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md) |

@@ -77,6 +77,25 @@ tanto como creí [...] hace un par de años") que no resta valor a
 la calidad actual del feud. Ver
 [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md).
 
+### Sesión 2026-07-14 s32 — Sacrificado ante MJF para instalar a Kenny Omega
+
+**Cita verbatim**:
+
+> *"como ya decidieron ir con Kenny Omega como retador, pues usar
+> a Mark como victima de MJF para quie Kenny haga el salve, es
+> combustible para que los fans consideren más a Kenny como héroe
+> para esta temporada"*
+>
+> — El Vehemiurgo, 2026-07-14 s32 (verbatim)
+
+**Lectura sintética**: cierra (por ahora) el arco de rivalidad con
+MJF en rol de víctima narrativa — la derrota sirve para instalar a
+Kenny Omega como el próximo retador/salvador. El Vehemiurgo separa
+el juicio sobre el match (WE con reserva, "no tan al estilo MJF")
+del juicio sobre el movimiento de booking, que aprueba como
+táctica puntual pese a rechazar la estrategia mayor. Ver
+[`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa (ROH Briscoe Brothers →
@@ -86,11 +105,13 @@ la calidad actual del feud. Ver
 - [ ] [verif] booking específico de su run babyface "hace un par
       de años" — pieza de contexto para la crítica de
       subaprovechamiento.
+- [ ] Finish/duración del match del 1/7/2026.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md`](../segments/2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md)
 - [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md)
+- [`../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md`](../matches/2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md)
 
 ## Cross-links
 
