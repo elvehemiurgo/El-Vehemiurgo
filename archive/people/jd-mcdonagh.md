@@ -155,6 +155,24 @@ Finn Bálor ahora empatada 1-1. Ver
 Bálor se traslada a la emboscada. Ver
 [`../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md`](../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md).
 
+### Sesión 2026-07-14 s49 — Street fight de desempate: tercer Perfect Match de la trilogía
+
+**Cita verbatim**:
+
+> *"tenemos Finn vs JD, el desempate, iban 1 a 1 hasta ahora en
+> singles, hicieron una street fight, pero igual sacaron una buena
+> lucha, muy buen selling, muy acelerada la acción, spots locos,
+> todo bien ejecutado, se merece todas las clases esta street
+> fight."*
+>
+> — El Vehemiurgo, 2026-07-14 s49 (verbatim)
+
+**Lectura sintética**: **Perfect Match** — tercer capítulo de la
+serie irlandesa y tercera nota máxima consecutiva. El *"pero
+igual"* es la clave: la estipulación hardcore se lee como riesgo
+superado, no como valor agregado. Ver
+[`../matches/2026-05-18-finn-balor-vs-jd-mcdonagh-street-fight-wwe-raw.md`](../matches/2026-05-18-finn-balor-vs-jd-mcdonagh-street-fight-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
@@ -162,3 +180,4 @@ Bálor se traslada a la emboscada. Ver
 - [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md)
 - [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md)
 - [`../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md`](../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md)
+- [`../matches/2026-05-18-finn-balor-vs-jd-mcdonagh-street-fight-wwe-raw.md`](../matches/2026-05-18-finn-balor-vs-jd-mcdonagh-street-fight-wwe-raw.md)

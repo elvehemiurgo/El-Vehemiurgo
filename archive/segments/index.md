@@ -62,6 +62,10 @@ cada alta y con cada cambio de estado.
 | 2026-05-24 | Segmento — Mick Foley, Darby Allin & MJF | AEW / Double or Nothing | promo | WE | stub | 1 | [→](2026-05-24-foley-darby-mjf-aew-double-or-nothing.md) |
 | 2026-05-20 | Post-match — MJF (con Kevin Knight) | AEW / Dynamite & Collision | promo (post-match) | — | stub | 1 | [→](2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md) |
 | 2026-05-20 | Apertura — Young Bucks & Chris Jericho | AEW / Dynamite & Collision | promo (apertura de show) | WE | stub | 1 | [→](2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md) |
+| 2026-05-19 | Segmento de Mason Rook con Kam Hendrix | WWE / NXT | promo / confrontación (rookies) | — | en-investigacion | 1 | [→](2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md) |
+| 2026-05-18 | Promo del Judgment Day tras perder su lucha | WWE / Raw | promo post-match | — | en-investigacion | 1 | [→](2026-05-18-judgment-day-promo-post-derrota-wwe-raw.md) |
+| 2026-05-18 | Regreso de Brock Lesnar: los F5s, y la lectura de booking para Oba Femi | WWE / Raw | regreso sorpresa / ataque | WE | en-investigacion | 1 | [→](2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md) |
+| 2026-05-18 | Entrevista de Ethan Page con Michael Cole | WWE / Raw | entrevista (sentada, con Michael Cole) | WE | en-investigacion | 1 | [→](2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md) |
 | 2026-05-13 | Contract signing — MJF vs Darby Allin | AEW / Dynamite | contract signing | WE | stub | 1 | [→](2026-05-13-mjf-darby-contract-signing-aew-dynamite.md) |
 | 2026-05-12 | Promo de Vanity Project + Dark State | WWE / NXT | promo coral (dos facciones) | WE | en-investigacion | 1 | [→](2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md) |
 | 2026-05-12 | Segmento in-ring de Mason Rook, con promo de Tony D'Angelo | WWE / NXT | promo coral in-ring (camada nueva) | WE | en-investigacion | 1 | [→](2026-05-12-mason-rook-segmento-inring-dangelo-wwe-nxt.md) |

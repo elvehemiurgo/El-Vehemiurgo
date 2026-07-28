@@ -74,9 +74,32 @@ tags: [oba-femi, nxt-north-american-champion, nxt-champion, monster-heel-emergen
 — validación explícita como receptor del pass-over rub de Brock
 Lesnar.
 
+### Sesión 2026-07-14 s49 — La proyección de booking: campeón babyface, probablemente vs Gunther en WrestleMania
+
+**Cita verbatim**:
+
+> *"el regreso de Lesnar, los f5s, buena sorpresa y es bueno para
+> Oba [...] Supongo que la idea es tener a Oba ocupado hasta que
+> pueda destronar a un top heel para ser campeón babyface,
+> probablemente a Gunther en el próximo wrestlemania, así que el
+> booking se tomará su tiempo"*
+>
+> — El Vehemiurgo, 2026-07-14 s49 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para el segmento, y
+**la proyección de carrera más completa de su expediente**: Oba
+"ocupado" en el presente (protegido sin quemarse), rumbo a
+destronar a un top heel — **Gunther nombrado como candidato**, y
+**WrestleMania como escenario**. El Vehemiurgo aprueba
+explícitamente la paciencia del booking (*"se tomará su tiempo"*),
+que es la construcción larga del babyface que la doctrina del
+archivo defiende. Ver
+[`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md) y [`./gunther.md`](./gunther.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md`](../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md)
+- [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md)
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
 - [`../../dossiers/draft-nxt-2025-2026-stand-deliver-callups.md`](../../dossiers/draft-nxt-2025-2026-stand-deliver-callups.md)
 - [`./jacob-fatu.md`](./jacob-fatu.md) — paralelo monster heel

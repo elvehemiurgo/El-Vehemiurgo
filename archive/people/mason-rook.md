@@ -77,6 +77,23 @@ tags: [mason-rook, wwe-nxt-2026, debut, no-binarie, flying-tank, wrestling-enter
    declaración de gimmick: masa + vuelo, combinación que el
    Vehemiurgo valora como identidad clara desde el arranque.
 
+### Sesión 2026-07-14 s49 — Segmento con Kam Hendrix: "Mason está más avanzado"
+
+**Cita verbatim**:
+
+> *"Mason Rook tiene un segmento con Kam Hendrix y lo hacen muy
+> bien, Mason está más avanzado que Kam, pero a menos en
+> enterteinment, se ven bien ambos, buen showcase, para ser rookies
+> fue una buena promo"*
+>
+> — El Vehemiurgo, 2026-07-14 s49 (verbatim)
+
+**Lectura sintética**: sin clase (vara ajustada: *"para ser
+rookies"*), pero **tercera valoración positiva consecutiva** en
+tres apariciones — y ubicado explícitamente por delante de Kam
+Hendrix en desarrollo. Ver
+[`../segments/2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md`](../segments/2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar el episodio exacto del debut** — hipótesis
@@ -89,6 +106,7 @@ tags: [mason-rook, wwe-nxt-2026, debut, no-binarie, flying-tank, wrestling-enter
 
 - [`../matches/2026-05-05-mason-rook-debut-wwe-nxt.md`](../matches/2026-05-05-mason-rook-debut-wwe-nxt.md)
 - [`../segments/2026-05-12-mason-rook-segmento-inring-dangelo-wwe-nxt.md`](../segments/2026-05-12-mason-rook-segmento-inring-dangelo-wwe-nxt.md)
+- [`../segments/2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md`](../segments/2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md)
 
 ## Cross-links
 

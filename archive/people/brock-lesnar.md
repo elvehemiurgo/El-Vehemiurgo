@@ -91,11 +91,26 @@ tags: [brock-lesnar, the-beast-incarnate, wwe-champion-2002-debut, wmxx-2004-los
 anticipada en la sección de significancia editorial de este
 archivo.
 
+### Sesión 2026-07-14 s49 — Regreso sorpresa con F5s: "es bueno para Oba"
+
+**Cita verbatim**:
+
+> *"el regreso de Lesnar, los f5s, buena sorpresa y es bueno para
+> Oba, este momentazo se merece una enterteinment class."*
+>
+> — El Vehemiurgo, 2026-07-14 s49 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — el regreso de la
+leyenda leído **por su función**: el beneficiario es Oba Femi.
+Continuidad del pass-over rub de WrestleMania 42. Ver
+[`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md`](../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md)
 - [`../matches/2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md`](../matches/2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md)
 - [`../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md`](../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md)
+- [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md)
 - [`../../dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md`](../../dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md)
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
 

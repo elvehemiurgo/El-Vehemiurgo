@@ -94,6 +94,21 @@ con Brie Bella dentro del segmento. Ver
 y
 [`../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md`](../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md).
 
+### Sesión 2026-07-14 s49 — Promo agresiva del Judgment Day tras perder
+
+**Cita verbatim**:
+
+> *"el judgement day corta una promo despues de perder su lucha,
+> muy agresivas, roxanne se vio muy bien, buen momento."*
+>
+> — El Vehemiurgo, 2026-07-14 s49 (verbatim)
+
+**Lectura sintética**: sin clase, pero destacada dentro del grupo
+— la agresividad post-derrota mantiene el heat sin necesidad de
+victoria, respuesta directa al diagnóstico del 11/5 sobre la falta
+de stakes en la división tag. Ver
+[`../segments/2026-05-18-judgment-day-promo-post-derrota-wwe-raw.md`](../segments/2026-05-18-judgment-day-promo-post-derrota-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.
@@ -108,3 +123,4 @@ y
 - [`../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md`](../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md)
 - [`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md)
 - [`../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md`](../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md)
+- [`../segments/2026-05-18-judgment-day-promo-post-derrota-wwe-raw.md`](../segments/2026-05-18-judgment-day-promo-post-derrota-wwe-raw.md)

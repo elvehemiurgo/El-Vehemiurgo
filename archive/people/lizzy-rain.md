@@ -81,6 +81,22 @@ tags: [lizzy-rain, wwe-nxt-2026, debut, cantera-australiana, face, wrestling-ent
 protagonismo singularizado. Ver
 [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md).
 
+### Sesión 2026-07-14 s49 — Face vs face: "más reñida y más oldschool"
+
+**Cita verbatim**:
+
+> *"Tatum vs Lizzy estuvo cool, face contra face, y fue un gran
+> showcase, mejor que Iyo vs Sol que pasó en RAW tambien por estas
+> fechas, esta face contra face estuvo más reñida y más oldschool"*
+>
+> — El Vehemiurgo, 2026-07-14 s49 (verbatim)
+
+**Lectura sintética**: sin clase, pero "gran showcase" — y
+comparación cruzada de marca favorable frente al Iyo Sky vs Sol
+Ruca de Raw. De compañeras de tag (12/5) a rivales amistosas en
+una semana. Ver
+[`../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md`](../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria pre-WWE, circuito australiano
@@ -90,6 +106,7 @@ protagonismo singularizado. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md`](../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md)
 - [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md)
 - [`../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md`](../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md)
 

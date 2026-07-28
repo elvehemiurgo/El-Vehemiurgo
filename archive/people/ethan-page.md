@@ -155,6 +155,23 @@ favorable con Seth Rollins, y propuesta editorial de lanzarlo con
 el título Intercontinental. Ver
 [`../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md`](../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md).
 
+### Sesión 2026-07-14 s49 — Entrevista con Michael Cole antes del IC title en SNME
+
+**Cita verbatim**:
+
+> *"Ethan tiene un segmento con Michael Cole y le quedó genial la
+> entrevista, muy fuerte justo antes de su lucha por el titulo ic
+> en SNME; esta entrevista se merece un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s49 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — **pago de la
+proyección editorial de s42**, donde el Vehemiurgo propuso
+explícitamente lanzarlo con el título Intercontinental (*"el
+escenario perfecto para All Ego"*). La oficina lo puso en ese
+camino. Ver
+[`../segments/2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md`](../segments/2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
@@ -162,5 +179,6 @@ el título Intercontinental. Ver
 - [`../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md`](../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md)
 - [`../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md)
 - [`../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md`](../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md)
+- [`../segments/2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md`](../segments/2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md)
 - (Pendiente: matches y segmentos de la lista — Ethan tiene
   presencia recurrente en NXT 2025-2026 y Raw post-WM42.)
