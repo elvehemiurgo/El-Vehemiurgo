@@ -207,9 +207,27 @@ Shilo Hill).
 la intención. Ver
 [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md).
 
+### Sesión 2026-07-14 s50 — Tag titular vs Dark State: el destierro de Saquon
+
+**Cita verbatim**:
+
+> *"tuvimos una tag team titular, vanity project vs darkstate [...]
+> buena lucha, si se preocupan de mantenerlo real, me gusta lo
+> oldschool de estos talentos [...] Y el final estuvo enredado, lo
+> hicieron muy bien [...] Esta lucha se merece la fighting spirit y
+> enterteinment class."*
+>
+> — El Vehemiurgo, 2026-07-14 s50 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment —
+el old-school del conjunto elogiado, y un final enredado que
+funciona como disparador del destierro de Saquon Shugars de Dark
+State. Ver [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
+- [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)
 - [`matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
   — Multi-clase Perfect Wrestling + Wrestling Entertainment.
 - [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)

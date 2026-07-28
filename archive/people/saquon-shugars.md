@@ -49,12 +49,16 @@ fuentes_principales:
 | 21/4/2026 (NXT Revenge Wk2) | Segmento backstage con Dark State | — |
 | 28/4/2026 (NXT) | Cash-in vs Myles Borne — *"de verdad se me hace el futuro"*; arranca **su salida de Dark State** | PW·FS·WE |
 | 12/5/2026 (NXT) | Promo Vanity Project + Dark State — *"como siempre a otro nivel"* | WE |
+| **19/5/2026 (NXT)** | Tag titular vs Vanity Project — **el destierro de Dark State y el FACE TURN** | FS·WE |
 
-**Nota de continuidad**: la *"salida de Dark State"* que el
-Vehemiurgo celebra el 28/4 es el **arranque de un arco**, no un
-corte consumado — el 12/5 sigue apareciendo con el stable. No hay
-contradicción en el archivo: las fechas de show son correctas y
-consecutivas.
+**Nota de continuidad — ARCO CERRADO (19/5/2026)**: la *"salida
+de Dark State"* que el Vehemiurgo celebra el 28/4 era el
+**arranque** del arco, no un corte consumado — por eso el 12/5
+seguía apareciendo con el stable. **El 19/5 llega el payoff**: el
+final enredado del tag titular le carga toda la culpa, lo
+**destierran** y consuma el **face turn**. Las fechas siempre
+fueron correctas y consecutivas; lo que faltaba era el último
+capítulo.
 
 ## Datos duros
 
@@ -210,6 +214,38 @@ protagoniza la historia real de la noche — su salida de Dark
 State, con expectativa alta declarada para un run en singles. Ver
 [`../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md`](../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md).
 
+### Sesión 2026-07-14 s50 — El destierro y el face turn: "yo sí creo que puede ir solo"
+
+**Cita verbatim**:
+
+> *"Saquon tiene muy buen nivel, aqui tenia el peso psicologico de
+> los problemas internos de darkstate y todo eso, lo manejó bien
+> con las expresiones y los tags, justo este teamwork me gustó, me
+> gustaron los baits de Saquon, mucha calidad. Y el final estuvo
+> enredado, lo hicieron muy bien, aunque si toda la culpa es de
+> Saquon, y ahora que lo destierran pues tiene el faceturn, yo si
+> creo que puede ir solo, me emociona mucho el showcase que se
+> viene para él."*
+>
+> — El Vehemiurgo, 2026-07-14 s50 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment, y
+**el payoff del arco abierto el 28/4**. Tres capas de elogio:
+
+1. **El peso psicológico como material de actuación** — carga los
+   problemas internos de Dark State al ring y los administra *"con
+   las expresiones y los tags"*. La tensión de storyline ejecutada
+   dentro de la mecánica del tag, no contada en promo.
+2. **Los baits** — la carnada señalada como herramienta técnica
+   propia.
+3. **El destierro y el face turn**: el final enredado le carga
+   toda la culpa. Pronóstico declarado: *"yo sí creo que puede ir
+   solo, me emociona mucho el showcase que se viene para él"* —
+   continuidad directa de s40 (*"ya quiero ver que le metan toda
+   la velocidad a Saquon en singles"*).
+
+Ver [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md).
+
 ### Sesión 2026-07-14 s47 — Promo con Dark State: "como siempre a otro nivel"
 
 **Cita verbatim**:
@@ -233,6 +269,7 @@ contradicción. Ver la tabla cronológica al inicio de la ficha. Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
+- [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md)
   — 8-man tag, primer registro editorial dedicado.
 - [`../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md`](../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md)

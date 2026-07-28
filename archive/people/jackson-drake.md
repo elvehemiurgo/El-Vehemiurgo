@@ -99,10 +99,28 @@ y
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Finish/duración del match vs American Made y vs Rayo & Bravo.
 
+### Sesión 2026-07-14 s50 — Tag titular vs Dark State: el destierro de Saquon
+
+**Cita verbatim**:
+
+> *"tuvimos una tag team titular, vanity project vs darkstate [...]
+> buena lucha, si se preocupan de mantenerlo real, me gusta lo
+> oldschool de estos talentos [...] Y el final estuvo enredado, lo
+> hicieron muy bien [...] Esta lucha se merece la fighting spirit y
+> enterteinment class."*
+>
+> — El Vehemiurgo, 2026-07-14 s50 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment —
+el old-school del conjunto elogiado, y un final enredado que
+funciona como disparador del destierro de Saquon Shugars de Dark
+State. Ver [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md`](../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md)
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
+- [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)
 - [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
 - [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)

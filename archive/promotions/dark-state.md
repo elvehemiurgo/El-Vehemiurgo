@@ -25,10 +25,17 @@ fuentes_principales:
 
 ## Composición histórica
 
-- **Saquon Shugars** — confirmado como pieza central del oficio
-  según take editorial del Vehemiurgo. Detalle en
-  [`people/saquon-shugars.md`](../people/saquon-shugars.md).
-- **Otros miembros pendientes de identificar**. La lista personal
+- **Saquon Shugars** — pieza central del oficio según take
+  editorial del Vehemiurgo. **DESTERRADO el 19/5/2026** tras
+  cargar con la culpa del final del tag titular vs Vanity Project
+  — consuma su **face turn**. Detalle en
+  [`people/saquon-shugars.md`](../people/saquon-shugars.md) y en
+  [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md).
+- **Cutler James**, **Osiris Griffin**, **Dion Lennox** —
+  integrantes confirmados (registrados desde el segmento del
+  14/4/2026). Dion Lennox tiene ficha propia desde s50:
+  [`people/dion-lennox.md`](../people/dion-lennox.md).
+- **Composición post-destierro** [verif]. La lista personal
   del Vehemiurgo registra múltiples matches del stable
   ([`notebook/2026-05-09-2-lista-personal-completa.md`](../../notebook/2026-05-09-2-lista-personal-completa.md))
   pero no enumera los integrantes individualmente:
