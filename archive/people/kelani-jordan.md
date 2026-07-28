@@ -101,6 +101,21 @@ real, con referencias directas a **RVD** como evolución del estilo
 más influyente de los 90s. Ver
 [`../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md).
 
+### Sesión 2026-07-14 s47 — Kendal Grey vs Kelani Jordan: "estuvo fuerte"
+
+**Cita verbatim**:
+
+> *"Kendal vs Kelani estuvo fuerte, se merece la enterteinment y
+> fighting spirit classes, muy buena."*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment —
+*"fuerte"* como descriptor central, en línea con el eje de
+contundencia física que el Vehemiurgo premia en la división
+femenina de NXT. Cierra el círculo del cluster WrenQCC/Kelani. Ver
+[`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -110,6 +125,7 @@ más influyente de los 90s. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md)
 - [`../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md)
 - [`../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md)
 - [`../segments/2026-04-28-kelani-molesta-wrenqcc-wwe-nxt.md`](../segments/2026-04-28-kelani-molesta-wrenqcc-wwe-nxt.md)

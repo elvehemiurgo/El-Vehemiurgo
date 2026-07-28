@@ -131,6 +131,23 @@ Raquel saliendo del ring tras el crossbody calificado de
 negocio". La clase (Wrestling Entertainment) recae sobre el tramo
 final del match, no sobre la lucha completa.
 
+### Sesión 2026-07-14 s47 — Recupera el heat con los escándalos de Paige
+
+**Cita verbatim**:
+
+> *"luego Raquel habla de los escándalos de Paige y recupera el
+> heat, buen segmento, y buena emboscada para terminar el
+> segmento, se merecen un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — **cheap heat
+personal de manual**: invocar los escándalos públicos de la rival
+para levantar la temperatura del segmento. El Vehemiurgo lo valida
+por eficacia ("recupera el heat"), que es exactamente la función
+de la herramienta. Ver
+[`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Material para una pieza editorial específica:
@@ -152,3 +169,5 @@ final del match, no sobre la lucha completa.
 
 - [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
   — Wrestling Entertainment (minutos finales), selling del crossbody.
+- [`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md)
+  — cheap heat sobre los escándalos de Paige.

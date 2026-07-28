@@ -1,29 +1,35 @@
 ---
-nombre: "El Clon"
+nombre: "Arez (El Clon)"
 tipo: fact-sheet
 categoria: people
-slug: el-clon
+slug: arez
 estado: vivo
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
   - "Mención previa: tag junto a Hechicero vs Young Bucks, AEW Collision 11/4/2026"
-tags: [el-clon, aew, hechicero, runner-ups, identidad-pendiente, ladder-match]
+tags: [arez, el-clon, aew, hechicero, don-callis-family, lucha-mexicana-indie, runner-ups, identidad-consolidada, ladder-match]
 ---
 
-# El Clon
+# Arez (El Clon)
 
-> **Identidad pendiente desde su primer registro** (tag junto a
-> Hechicero vs Young Bucks, 11/4/2026) — sigue **[verif]**. Ahora
-> con desarrollo propio: protagonista del ladder match de apertura
-> de Redemption junto a Komander, con evolución de estilo
-> reconocida y **alta a RUNNER UPS**.
+> **Identidad resuelta (2026-07-14 s47)**: el Vehemiurgo confirmó
+> — *"el clon compañero de Hechicero en AEW con Don Callis también
+> es Arez, el luchador"*. **Arez**, el luchador mexicano del
+> circuito independiente (Nueva Generación Dinamita / indies
+> internacionales), portando el gimmick de **"El Clon"** en AEW
+> junto a Hechicero, en la órbita Don Callis. Cierra el [verif]
+> abierto desde su primer registro (11/4/2026). **RUNNER UPS**
+> desde Redemption.
 
 ## Identificación
 
-- **Nombre de gimmick**: "El Clon" [verif — gimmick literal de
-  clon, o nombre de ring real; no confirmar sin fuente].
+- **Nombre de ring**: **Arez**.
+- **Gimmick en AEW (2026)**: **"El Clon"** — compañero de
+  Hechicero, órbita Don Callis.
 - **Nombre real**: [verif].
+- **Origen**: México — circuito independiente (lucha libre
+  indie mexicana; recorrido internacional).
 - **Empresa (2026)**: AEW.
 
 ## Trayectoria condensada
@@ -55,8 +61,12 @@ ganaron mi corazón este año" junto a Komander. Ver
 
 ## Pendientes / huecos
 
-- [ ] **Prioridad**: identificar "El Clon" — nombre real, gimmick
-      exacto, relación con Hechicero.
+- [x] ~~Identificar "El Clon"~~ → **RESUELTO (s47)**: es **Arez**,
+      confirmado por el Vehemiurgo.
+- [ ] Nombre real de Arez + trayectoria indie completa (Nueva
+      Generación Dinamita, AAA, circuito internacional) — [verif
+      detalles contra fuente].
+- [ ] Mecánica exacta del gimmick "El Clon" (¿clon de quién?).
 - [ ] Composición completa del ladder match de Redemption.
 - [ ] Finish/duración de ambas apariciones.
 

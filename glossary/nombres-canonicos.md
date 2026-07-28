@@ -51,6 +51,10 @@
 | **El Hijo de Dr. Wagner Jr.** | El *"Wagner"* de los dictados AAA 2026 es **El Hijo de Dr. Wagner Jr.** (confirmado s45), no el veterano Dr. Wagner Jr. *"Wagner"* a secas es segunda mención legítima. Slug `hijo-de-dr-wagner-jr`. |
 | **Kit Wilson** | Mitad de **Pretty Deadly** (WWE). El Vehemiurgo escribió *"Kip"* por error (aclarado s45). **No es Kip Sabian.** *"Kip"* NO se lintea: colisiona con **Kip James** (Billy Gunn en TNA), talent distinto y legítimo en el archivo. |
 | **Shilo Hill** | WWE NXT. El Vehemiurgo lo dicta *"Shyloh"* / *"Shilo"*. Compañero de tag mixto de Tatum Paxley. Grafía *Shilo* vs *Shiloh* [verif menor]. |
+| **Arez ("El Clon")** | El luchador mexicano indie **Arez** porta el gimmick "El Clon" en AEW, junto a Hechicero (órbita Don Callis). Confirmado por el Vehemiurgo (s47). Slug `arez`. |
+| **The Dogs / The Guns (AEW 2026)** | **The Dogs = David Finlay + Clark Connors** (War Dogs del linaje Bullet Club) — confirmado por el Vehemiurgo (s47): *"cuando se habla de Connors, pertenece a los Dogs — eso siempre es verdad"*. **The Guns** = facción rival; hipótesis: The Gunns (Austin & Colten Gunn) del **Bang Bang Gang** (Jay White, Juice Robinson). "Guns vs Dogs" = guerra interna del linaje Bullet Club. |
+| **"Davis y Jay" (feud Guns/Dogs)** | En dictados de esta rivalidad, "Davis" = **David Finlay** (no Mark Davis). Corregido s47. |
+| **Vanity Project** | El Vehemiurgo a veces dicta *"Varsity Project"* — es **The Vanity Project** (WWE NXT). |
 | **Lil Yachty** | Rapero, **no luchador** — acompañante on-screen de Trick Williams. Se archiva en `people/` por función narrativa, no como talent. El Vehemiurgo lo dicta *"Yatty"*; se registró por error como *"Mya Yatty"* (corregido s43). |
 | **Matt Cardona** | Canónico completo. *"Cardona"* a secas es **segunda mención legítima** en prosa, no variante prohibida — lo que estaba mal era la ficha suelta `cardona.md` (corregida s43). |
 | **Cruz del Toro** | Canónico completo (ex-LWO / Legado del Fantasma, hoy AAA; "del" minúscula). El Vehemiurgo lo dicta *"del Toro"* / *"El Toro"*. *"Del Toro"* a secas es segunda mención legítima; lo que estaba mal era la ficha suelta `el-toro.md` (corregida s43). |
@@ -78,6 +82,22 @@ volcado, el copiloto **resuelve la identidad antes de escribir**:
    abrir ficha duplicada**.
 4. Solo si el contraste no resuelve → ficha con nombre dictado +
    `[verif]` + candidatos listados.
+5. **El contexto dictado es verdad de tablas (ley desde s45)**: lo
+   que el Vehemiurgo declara sobre la fecha del show descrito —
+   afiliación de facción, alineación, resultado, identidad — **es
+   verdad para esa fecha** y prevalece sobre cualquier hipótesis
+   previa del archivo. Precedente Connors: el archivo lo tenía
+   como "The Guns [verif]" y el copiloto fabricó una "alianza
+   cruzada" para encajar la hipótesis vieja; la regla correcta era
+   leer el dictado ("Finlay y Connors" juntos = The Dogs) y
+   corregir el archivo, no el dictado. Las hipótesis del copiloto
+   ceden; el dictado manda.
+6. **Confirmar con data real de buenas fuentes**: la identificación
+   se apoya en resultados y rosters reales (linajes, facciones,
+   historiales tipo War Dogs / Bang Bang Gang) — cuando el dato
+   real y el dictado coinciden, la identificación queda cerrada;
+   cuando no se puede confirmar, queda `[verif]` honesto con
+   candidatos, nunca una hipótesis presentada como hecho.
 
 La ficha resultante usa el canónico completo y glosa cómo lo dicta
 el Vehemiurgo. Los `[verif]` de identidad se revisan en cada sesión

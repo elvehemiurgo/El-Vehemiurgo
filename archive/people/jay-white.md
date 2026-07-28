@@ -124,8 +124,10 @@ y el video previo
       confrontación, aparición sola?).
 - [ ] Seguimiento del impacto proyectado en la programación
       semanal.
-- [ ] Historia exacta con Mark Davis referenciada en el promo
-      video de Redemption — [verif].
+- [ ] Catalogar la historia completa con **David Finlay**
+      (sucesión del liderazgo Bullet Club en NJPW) que el promo
+      video de Redemption repasa — corregido en s47: el "Davis"
+      del dictado era David Finlay, no Mark Davis.
 
 ## Piezas del Vehemiurgo donde aparece
 

@@ -77,6 +77,23 @@ fórmula "reality + wrestling tradicional" que funcionó con el
 Bloodline de Roman Reigns. Ver
 [`../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md`](../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md).
 
+### Sesión 2026-07-14 s47 — Promo contra las campeonas: "el cuadro final es perfecto"
+
+**Cita verbatim**:
+
+> *"Roxanne y Raquel tienen la oportunidad de cortar una promo
+> inring contra las campeonas, de hecho el rato entre Brie y
+> Roxanne estuvo cool [...] se merecen un enterteinment class, el
+> cuadro final es perfecto"*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — química validada
+con Brie Bella dentro del segmento. Ver
+[`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md)
+y
+[`../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md`](../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.
@@ -89,3 +106,5 @@ Bloodline de Roman Reigns. Ver
 - [`../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md`](../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md)
 - [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
 - [`../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md`](../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md)
+- [`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md)
+- [`../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md`](../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md)

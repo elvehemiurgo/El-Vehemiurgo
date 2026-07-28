@@ -189,8 +189,28 @@ protagoniza la historia real de la noche — su salida de Dark
 State, con expectativa alta declarada para un run en singles. Ver
 [`../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md`](../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md).
 
+### Sesión 2026-07-14 s47 — Promo con Dark State: "como siempre a otro nivel"
+
+**Cita verbatim**:
+
+> *"luego Dark State tambien se vio ok, Saquon como siempre a otro
+> nivel, muy buena promo suya; este segmento se merece el
+> enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment (segmento coral con
+Vanity Project). Tercera vez que el Vehemiurgo lo declara **por
+encima de su propio stable** (s35, s40, ahora s47) — el patrón
+está consolidado. ⚠ Nota de continuidad: en s40 su salida de Dark
+State se registró como el protagonismo narrativo de la noche, y
+aquí vuelve a promocionar con ellos — [verif] estado actual de esa
+separación. Ver
+[`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md)
   — 8-man tag, primer registro editorial dedicado.
 - [`../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md`](../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md)

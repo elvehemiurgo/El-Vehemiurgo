@@ -15,9 +15,15 @@ Ejecutar los pasos EN ORDEN. Fuente de doctrina: CLAUDE.md §§4-6.
    fecha dictados, (b) contrastar con resultados y rosters reales
    del periodo, (c) grep en el archivo por si ya existe bajo otra
    grafía — nunca duplicar identidad, (d) solo si no resuelve →
-   `[verif]` con candidatos. El verbatim del Vehemiurgo se preserva
-   con typos; TODO lo demás (slugs, títulos, prosa, tags) usa el
-   canónico completo.
+   `[verif]` con candidatos. **(e) El contexto dictado es verdad de
+   tablas**: afiliaciones, alineaciones y resultados que el
+   Vehemiurgo declara para la fecha del show prevalecen sobre
+   hipótesis previas del archivo — corregir el archivo, nunca
+   forzar el dictado a encajar (precedente Connors/The Dogs, s47).
+   Confirmar con data real de buenas fuentes (rosters, linajes,
+   resultados). El verbatim del Vehemiurgo se preserva con typos;
+   TODO lo demás (slugs, títulos, prosa, tags) usa el canónico
+   completo.
 2. **Duplicados**: grep en `notebook/2026-05-09-2-lista-personal-completa.md`
    y en `archive/matches/index.md` + `archive/segments/index.md`
    por fecha + participantes. Si el match YA tiene ficha, esto es

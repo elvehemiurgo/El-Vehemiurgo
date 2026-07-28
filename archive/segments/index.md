@@ -63,6 +63,12 @@ cada alta y con cada cambio de estado.
 | 2026-05-20 | Post-match — MJF (con Kevin Knight) | AEW / Dynamite & Collision | promo (post-match) | — | stub | 1 | [→](2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md) |
 | 2026-05-20 | Apertura — Young Bucks & Chris Jericho | AEW / Dynamite & Collision | promo (apertura de show) | WE | stub | 1 | [→](2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md) |
 | 2026-05-13 | Contract signing — MJF vs Darby Allin | AEW / Dynamite | contract signing | WE | stub | 1 | [→](2026-05-13-mjf-darby-contract-signing-aew-dynamite.md) |
+| 2026-05-12 | Promo de Vanity Project + Dark State | WWE / NXT | promo coral (dos facciones) | WE | en-investigacion | 1 | [→](2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md) |
+| 2026-05-12 | Segmento in-ring de Mason Rook, con promo de Tony D'Angelo | WWE / NXT | promo coral in-ring (camada nueva) | WE | en-investigacion | 1 | [→](2026-05-12-mason-rook-segmento-inring-dangelo-wwe-nxt.md) |
+| 2026-05-11 | Brawl de Jacob Fatu contra los Usos y Roman Reigns | WWE / Raw | brawl / pelea de facción | WE | en-investigacion | 1 | [→](2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md) |
+| 2026-05-11 | Ataque sorpresa de Finn Bálor a JD McDonagh | WWE / Raw | ataque sorpresa | WE | en-investigacion | 1 | [→](2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md) |
+| 2026-05-11 | Las chicas del Judgment Day entre los fans, con Byron Saxton | WWE / Raw | promo (entre el público) | — | en-investigacion | 1 | [→](2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md) |
+| 2026-05-11 | Promo in-ring de Roxanne Perez y Raquel Rodríguez contra las campeonas + emboscada | WWE / Raw | promo in-ring + emboscada | WE | en-investigacion | 1 | [→](2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md) |
 | 2026-05-09 | Video intro de WWE Backlash 2026 | WWE / Backlash | video de producción (apertura de PPV) | WE | en-investigacion | 1 | [→](2026-05-09-video-intro-wwe-backlash.md) |
 | 2026-05-09 | Post-match — Don Callis & Ricochet | AEW / Collision — Fairway to Hell | promo (post-match) | — | stub | 1 | [→](2026-05-09-don-callis-ricochet-post-match-aew-collision.md) |
 | 2026-05-08 | Trick Williams: entrada de luto con la copa, confrontación con Sami Zayn | WWE / SmackDown | promo / confrontación (heel psychology) | WE | en-investigacion | 1 | [→](2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md) |

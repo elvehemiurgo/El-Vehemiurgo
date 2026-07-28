@@ -105,12 +105,12 @@ plazo, no sobre la ejecución del match en sí.
 ## Pendientes
 
 - [ ] Finish, ganador, duración, ciudad/recinto.
-- [ ] Confirmar lectura de alianza cruzada Guns/Dogs: Clark Connors
-      (The Guns) ya tenía cuenta pendiente individual con Jay
-      White ([`../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md`](../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md)),
-      lo que hace consistente que se alíe puntualmente con David
-      Finlay (The Dogs) contra el enemigo común (Bang Bang Gang) —
-      no necesariamente una reasignación de equipo, [verif] igual.
+- [x] ~~Lectura de alianza cruzada~~ → **CORREGIDO (s47, por el
+      Vehemiurgo)**: no hay alianza cruzada — **Finlay & Connors
+      SON The Dogs** (War Dogs del linaje Bullet Club), contra Jay
+      White & Juice Robinson del Bang Bang Gang. El match individual
+      Jay vs Connors del 22/7 era parte de la misma guerra de
+      facciones.
 - [ ] Seguir si AEW repite la fórmula de street fight en la
       continuación de esta rivalidad — riesgo señalado
       explícitamente por el Vehemiurgo.

@@ -60,7 +60,9 @@ Collision.
 - [ ] Nombre real, debut, trayectoria CMLL completa.
 - [ ] Rol exacto en Don Callis Family (¿miembro pleno? ¿aliado
       puntual?).
-- [ ] Identidad de "el clon" (partner en el tag de Collision).
+- [x] ~~Identidad de "el clon"~~ → **RESUELTO (s47)**: es
+      **Arez** ([`./arez.md`](./arez.md)), confirmado por el
+      Vehemiurgo — órbita Don Callis compartida.
 - [ ] Finish/duración del match vs Ospreay.
 
 ## Piezas del Vehemiurgo donde aparece

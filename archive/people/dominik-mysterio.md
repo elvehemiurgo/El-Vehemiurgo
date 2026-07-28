@@ -144,6 +144,24 @@ Dominik (seguida de todo Judgment Day) dentro de un rematch que
 deja la serie JD/Finn en 1-1. Ver
 [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
 
+### Sesión 2026-07-14 s47 — Defiende el Mega Championship de AAA en Raw: "tiene que golpear más duro"
+
+**Cita verbatim**:
+
+> *"histórico defender el megacampeonato en RAW [...] la lucha está
+> cool, Dominik tiene que subir su nivel, me gusta el selling pero
+> tiene que golpear más duro [...] Y Dom retiene gracias a grande
+> americano kaiser, buen booking, se merece el enterteinment class
+> y el fighting spirit class."*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment.
+Diagnóstico de doble filo — el selling ya funciona, la
+contundencia de strikes no. Retiene por interferencia de Ludwig
+Kaiser bajo la máscara del Americano. Ver
+[`../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md`](../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
@@ -152,3 +170,4 @@ deja la serie JD/Finn en 1-1. Ver
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)
 - [`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md)
 - [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md)
+- [`../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md`](../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md)

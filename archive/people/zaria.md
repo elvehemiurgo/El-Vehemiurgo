@@ -94,6 +94,19 @@ sección 1.
 arco completo Sol vs Zaria documentado en el segmento del 24/3 y
 matches a sumar.)
 
+### Sesión 2026-07-14 s47 — Tag team en NXT 12/5
+
+**Cita verbatim**:
+
+> *"la tag team de Lyons y Zaria vs Tatum y Lizzy, estuvo ok y
+> emocionante, se merece un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment compartida, sin
+protagonismo singularizado. Ver
+[`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT y configuración inicial del *monster
@@ -107,6 +120,7 @@ matches a sumar.)
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md)
 - [`matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
   — última pieza on-screen como tag con Sol (ZaRuca). **Fighting
   Spirit Class** asignada por el Vehemiurgo.

@@ -89,6 +89,19 @@ el título. Ver
    perfectas" del mismo patrón — solo falta "redondear el acto".
 4. **Wrestling Entertainment** para el video.
 
+### Sesión 2026-07-14 s47 — Tag team en NXT 12/5
+
+**Cita verbatim**:
+
+> *"la tag team de Lyons y Zaria vs Tatum y Lizzy, estuvo ok y
+> emocionante, se merece un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment compartida, sin
+protagonismo singularizado. Ver
+[`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -98,6 +111,7 @@ el título. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md)
 - [`../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md`](../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md)
 - [`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
   — feud con Blake Monroe, multi-clase con discrepancia registrada.

@@ -58,7 +58,7 @@ tags: [komander, el-clon, aew-redemption-2026, ladder-match, opener, wrestling-e
    [`../topics/runner-ups.md`](../topics/runner-ups.md), lista de
    "los que se ganaron mi corazón este año".
 4. Ver [`../people/komander.md`](../people/komander.md),
-   [`../people/el-clon.md`](../people/el-clon.md).
+   [`../people/arez.md`](../people/arez.md).
 
 ## Pendientes
 
@@ -69,5 +69,5 @@ tags: [komander, el-clon, aew-redemption-2026, ladder-match, opener, wrestling-e
 ## Cross-links
 
 - [`../people/komander.md`](../people/komander.md) ·
-  [`../people/el-clon.md`](../people/el-clon.md) ·
+  [`../people/arez.md`](../people/arez.md) ·
   [`../topics/runner-ups.md`](../topics/runner-ups.md)

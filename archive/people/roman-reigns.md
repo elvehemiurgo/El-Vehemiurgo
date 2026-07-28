@@ -84,6 +84,7 @@ tags: [roman-reigns, the-tribal-chief, head-of-the-table, bloodline, the-shield,
 
 - [`../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md)
 - [`../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md`](../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md)
+- [`../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md`](../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md)
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
 - [`./solo-sikoa.md`](./solo-sikoa.md), [`./jacob-fatu.md`](./jacob-fatu.md), [`./tama-tonga.md`](./tama-tonga.md)
 
@@ -171,6 +172,20 @@ Reigns como la mitad institucional del conflicto de sangre, con el
 parentesco con Fatu establecido on-screen. Near falls que "se
 sintieron" de verdad. Ver
 [`../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md`](../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md).
+
+### Sesión 2026-07-14 s47 — Brawl con los Usos contra Jacob Fatu
+
+**Cita verbatim**:
+
+> *"el brawl de Fatu contra los Usos y Reigns estuvo muy cool, bien
+> producido se vio brutal, muy emocionante para continuar el
+> booking"*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — continuidad del
+arco con Fatu tras Backlash, ahora con los Usos sumados. Ver
+[`../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md`](../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md).
 
 ## Pendientes
 

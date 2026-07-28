@@ -207,6 +207,30 @@ que explica *todo* su booking — el heredero indisciplinado dentro
 de una familia que rinde culto a la jerarquía. Ver
 [`../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md`](../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md).
 
+### Sesión 2026-07-14 s47 — Doctrina Fatu: el monster heel que no es monstruo ni villano
+
+**Cita verbatim**:
+
+> *"el brawl de Fatu contra los Usos y Reigns estuvo muy cool, bien
+> producido se vio brutal [...] poco a poco luce más listo Jacob.
+> Es intrigante porque Jacob es el monster heel que Reigns
+> enfrentarían, pero Jacob no es un monstruo ni un villano, solo
+> que es muy peligroso, y corta promos excepcionalmente bien, asi
+> que es combustible muy único y siempre da buenos segmentos; se
+> merece un enterteinment class este segmento"*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment y **la pieza
+doctrinal más importante de su expediente**. Fatu ocupa la
+posición estructural del monster heel pero no cumple el arquetipo:
+no es monstruo ni villano, **es peligroso** — amenaza física real,
+no construcción sobrenatural. Y habla excepcionalmente bien, que
+es justo lo que un monstruo clásico no hace. De ahí *"combustible
+muy único"*. **Resuelve la crítica de mic sostenida desde s38**:
+las promos ya son su activo, no su carencia. Ver
+[`../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md`](../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología MLW completa con fechas de title runs.
@@ -221,6 +245,7 @@ de una familia que rinde culto a la jerarquía. Ver
 
 - [`../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md`](../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md)
 - [`../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md`](../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md)
+- [`../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md`](../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md)
 - [`solo-sikoa.md`](./solo-sikoa.md) — líder MFTs, oponente
   interno.
 - [`tama-tonga.md`](./tama-tonga.md) — co-miembro MFTs.

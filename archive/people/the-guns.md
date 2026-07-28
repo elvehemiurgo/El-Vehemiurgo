@@ -19,7 +19,13 @@ tags: [the-guns, aew, tag-team, back-and-forth, muy-buenos-para-tv, primer-regis
 ## Identificación
 
 - **Nombre del equipo**: The Guns.
-- **Integrantes**: [verif].
+- **Integrantes**: [verif] — hipótesis principal (s47, por
+  contraste de roster): **The Gunns (Austin & Colten Gunn)**,
+  miembros del **Bang Bang Gang** — lo que hace de "Guns vs Dogs"
+  una guerra interna del linaje Bullet Club (Bang Bang Gang vs War
+  Dogs). Consistente con la corrección del Vehemiurgo de que
+  Connors y Finlay son The Dogs, y con Jay White & Juice Robinson
+  luchando del lado Guns/BBG en Redemption.
 - **Empresa actual (2026)**: AEW.
 - **Estilo**: tag team tradicional, back-and-forth, generador de
   chants de público.
@@ -71,7 +77,8 @@ y
 
 ## Pendientes / huecos
 
-- [ ] Integrantes exactos, nombres reales, trayectoria.
+- [ ] Ratificar hipótesis de integrantes: The Gunns (Austin &
+      Colten Gunn, Bang Bang Gang) — [verif].
 - [ ] Finish/duración del match vs The Dogs.
 
 ## Piezas del Vehemiurgo donde aparece

@@ -68,6 +68,19 @@ tags: [lizzy-rain, wwe-nxt-2026, debut, cantera-australiana, face, wrestling-ent
   de "no voy a encajar" reservado antes solo a Blake Monroe o
   Ricky Saints.
 
+### Sesión 2026-07-14 s47 — Tag team en NXT 12/5
+
+**Cita verbatim**:
+
+> *"la tag team de Lyons y Zaria vs Tatum y Lizzy, estuvo ok y
+> emocionante, se merece un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment compartida, sin
+protagonismo singularizado. Ver
+[`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria pre-WWE, circuito australiano
@@ -77,6 +90,7 @@ tags: [lizzy-rain, wwe-nxt-2026, debut, cantera-australiana, face, wrestling-ent
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md)
 - [`../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md`](../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md)
 
 ## Cross-links

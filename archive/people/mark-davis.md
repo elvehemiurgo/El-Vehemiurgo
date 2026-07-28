@@ -237,11 +237,10 @@ Moxley, ajena a su propio trabajo. Ver
 reconocimiento que el Vehemiurgo le viene dando desde su etapa
 indie como "Dunkzilla". Posible origen del grudge en el six-man
 del 8/4/2026 (con Andrade y Takeshita) — [verif], no confirmar sin
-fuente. Mencionado también en el promo video "Guns vs Dogs" del
-mismo show junto a Jay White — [verif] relación exacta. Ver
-[`../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md`](../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md)
-y
-[`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md).
+fuente. Ver
+[`../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md`](../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md).
+*(Nota s47: el "Davis" del promo video Guns vs Dogs era David
+Finlay — mención retirada de este expediente.)*
 
 ## Pendientes / huecos
 
@@ -275,4 +274,3 @@ y
   — coronación, Perfect Match.
 - [`../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md`](../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md)
   — Perfect Match, grudge match.
-- [`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md)

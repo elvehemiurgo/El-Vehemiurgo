@@ -71,6 +71,29 @@ de clase sin resolver** (ver nota en el archivo del match). Ver
 y
 [`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md).
 
+### Sesión 2026-07-14 s47 — vs Noam Dar: doble clase, con la reserva de improvisación
+
+**Cita verbatim**:
+
+> *"Noam Dar en su regreso contra Dr Thirst Jackson Drake,
+> brillante, se merece la enterteinment y fighting spirit match;
+> seria la lucha perfecta, pero se ve que Jackson todavia no sabe
+> improvisar cuando se salen de ruta, ese regreso al spot se ve
+> forzado todavia"*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment,
+con **la crítica de desarrollo más específica de su expediente**:
+cuando el match se sale de ruta, Jackson intenta *volver al spot*
+y la costura se nota. El contraste es didáctico — Noam Dar usa la
+aspereza del momento como material de la lucha. Es lo único que
+separó este match del Perfect Match. También aparece con **Vanity
+Project** en la promo coral del mismo show (WE). Ver
+[`../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md`](../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md)
+y
+[`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -78,6 +101,8 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md`](../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md)
+- [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
 - [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
 - [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)

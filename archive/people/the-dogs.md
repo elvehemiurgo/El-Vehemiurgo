@@ -22,9 +22,15 @@ tags: [the-dogs, david-finlay, njpw-crossover, bang-bang-gang, jay-white, cope-c
 ## Identificación
 
 - **Nombre del equipo**: The Dogs.
-- **Integrantes**: David Finlay + [verif resto].
-- **Empresa actual (2026)**: AEW, con cruce NJPW (Bullet Club /
-  Bang Bang Gang).
+- **Integrantes**: **David Finlay + Clark Connors** (confirmado
+  por el Vehemiurgo en s47: *"Connors pertenece a los Dogs"*).
+  Linaje real: los **War Dogs** del Bullet Club.
+- **Empresa actual (2026)**: AEW, con cruce NJPW (Bullet Club).
+- **⚠ Corrección de contexto (s47)**: la lectura temprana
+  "vinculados a Bang Bang Gang" (s19) queda corregida — Dogs y
+  Bang Bang Gang comparten linaje Bullet Club (de ahí la
+  nostalgia), pero son **facciones rivales**, en guerra abierta
+  desde el regreso de Jay White.
 
 ## Trayectoria condensada
 
@@ -155,10 +161,11 @@ y
 
 ## Pendientes / huecos
 
-- [ ] Integrantes exactos más allá de David Finlay (¿Juice
-      Robinson confirmado?).
-- [ ] [verif] relación exacta con Bang Bang Gang (¿mismo grupo,
-      sub-facción?).
+- [x] ~~Integrantes exactos~~ → **RESUELTO (s47)**: David Finlay +
+      Clark Connors. Juice Robinson NO es Dog — es Bang Bang Gang,
+      del lado rival.
+- [x] ~~Relación con Bang Bang Gang~~ → **RESUELTO (s47)**:
+      facciones rivales del mismo linaje Bullet Club.
 - [ ] Finish/duración de todos los matches registrados.
 
 ## Piezas del Vehemiurgo donde aparece

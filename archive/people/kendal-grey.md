@@ -128,6 +128,21 @@ school sobre gatekeeping.
 disolución y con [`charlie-dempsey.md`](./charlie-dempsey.md)
 sobre rechazo del founder.)
 
+### Sesión 2026-07-14 s47 — Kendal Grey vs Kelani Jordan: "estuvo fuerte"
+
+**Cita verbatim**:
+
+> *"Kendal vs Kelani estuvo fuerte, se merece la enterteinment y
+> fighting spirit classes, muy buena."*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment —
+*"fuerte"* como descriptor central, en línea con el eje de
+contundencia física que el Vehemiurgo premia en la división
+femenina de NXT. Cierra el círculo del cluster WrenQCC/Kelani. Ver
+[`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Cobertura específica de la run NAIA — FloWrestling, NCAA
@@ -142,6 +157,7 @@ sobre rechazo del founder.)
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md)
 - [`../promotions/wrenqcc.md`](../promotions/wrenqcc.md) — tag
   team activo (mitad).
 - [`../promotions/nqcc.md`](../promotions/nqcc.md) — **NUNCA

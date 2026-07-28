@@ -229,6 +229,19 @@ mayor de Dominik Mysterio y Judgment Day. Serie con McDonagh queda
 1-1. Ver
 [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
 
+### Sesión 2026-07-14 s47 — Ataque sorpresa a JD McDonagh
+
+**Cita verbatim**:
+
+> *"el ataque sorpresa de Balor a JD antes de la lucha de Dominik
+> quedó muy cool, se merece un enterteinment class."*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — con la serie 1-1,
+la rivalidad escala al terreno de la emboscada. Ver
+[`../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md`](../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
@@ -237,3 +250,4 @@ mayor de Dominik Mysterio y Judgment Day. Serie con McDonagh queda
 - [`../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md`](../matches/2026-04-19-dominik-mysterio-vs-finn-balor-demon-wrestlemania-42.md)
 - [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md)
 - [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md)
+- [`../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md`](../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md)

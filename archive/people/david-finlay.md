@@ -61,16 +61,21 @@ bookeada, no algo resuelto en el mismo capítulo que lo generó. Ver
 
 - [ ] Nombre real, debut, trayectoria completa (NJPW, Bullet
       Club/Bang Bang Gang, AEW).
-- [ ] **Prioridad**: aclarar si "The Dogs" (con Connors hoy) y "The
-      Guns" tienen composición estable o si hay reconfiguración de
-      equipos — contradicción con `clark-connors.md`, que lo
-      tenía tentativamente ligado a "The Guns".
+- [x] ~~Composición de The Dogs~~ → **RESUELTO (s47, por el
+      Vehemiurgo)**: The Dogs = **Finlay + Connors** (War Dogs del
+      linaje Bullet Club); "The Guns" es la facción rival
+      (hipótesis: The Gunns del Bang Bang Gang).
+- [ ] Catalogar la historia completa con Jay White (sucesión del
+      liderazgo Bullet Club) repasada en el promo video de
+      Redemption.
 - [ ] Migrar el historial extenso ya documentado en
       `the-dogs.md` a expediente individual cuando el Vehemiurgo
       lo pida.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md)
+  — protagonista del video ("toda la historia entre David y Jay").
 - [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)
 - (Historial extenso previo: ver
   [`the-dogs.md`](./the-dogs.md).)

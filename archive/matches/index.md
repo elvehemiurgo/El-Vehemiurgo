@@ -55,6 +55,11 @@ con cada cambio de estado.
 | 2026-05-20 | Opener 3 contra 3 [verif participantes] | AEW / Dynamite & Collision | FS | stub | 1 | [→](2026-05-20-opener-3-contra-3-aew-dynamite-collision.md) |
 | 2026-05-13 | Darby Allin vs Konosuke Takeshita — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md) |
 | 2026-05-13 | Will Ospreay vs Ace Austin | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-05-13-ospreay-vs-ace-austin-aew-dynamite.md) |
+| 2026-05-12 | Kendal Grey vs Kelani Jordan | WWE / NXT | FS·WE | en-investigacion | 1 | [→](2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md) |
+| 2026-05-12 | Noam Dar vs Jackson Drake | WWE / NXT | FS·WE | en-investigacion | 1 | [→](2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md) |
+| 2026-05-12 | The Birthright vs los faces (3 vs 3) | WWE / NXT | WE | en-investigacion | 1 | [→](2026-05-12-birthright-vs-faces-3v3-wwe-nxt.md) |
+| 2026-05-12 | Nikkita Lyons & Zaria vs Tatum Paxley & Lizzy Rain | WWE / NXT | WE | en-investigacion | 1 | [→](2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md) |
+| 2026-05-11 | Dominik Mysterio vs El Grande Americano Original (AAA Mega Championship) | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md) |
 | 2026-05-09 | Jacob Fatu vs Roman Reigns (main event) | WWE / Backlash | FS·WE | en-investigacion | 1 | [→](2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md) |
 | 2026-05-09 | Asuka vs Iyo Sky | WWE / Backlash | FS | en-investigacion | 1 | [→](2026-05-09-asuka-vs-iyo-sky-wwe-backlash.md) |
 | 2026-05-09 | The Miz & Kit Wilson vs Danhausen & Minihausen | WWE / Backlash | PW·FS·WE | en-investigacion | 1 | [→](2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md) |
@@ -67,6 +72,7 @@ con cada cambio de estado.
 | 2026-05-08 | Fatal Influence vs Irresistible Forces (3 vs 3) | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md) |
 | 2026-05-08 | Kiana James vs Tiffany Stratton | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-05-08 | Ricky Saints vs Matt Cardona | WWE / SmackDown | FS | en-investigacion | 1 | [→](2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md) |
+| 2026-05-05 | Debut de Mason Rook en NXT | WWE / NXT | WE | en-investigacion | 1 | [→](2026-05-05-mason-rook-debut-wwe-nxt.md) |
 | 2026-05-04 | JD McDonagh vs Finn Bálor (rematch, con interferencia de Judgment Day) | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md) |
 | 2026-05-02 | Rey Fénix vs Laredo Kid | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md) |
 | 2026-05-02 | Hijo del Vikingo vs Mini Vikingo | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md) |

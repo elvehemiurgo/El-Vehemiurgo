@@ -80,8 +80,10 @@ rivalidad. Ver
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NJPW/Bullet Club/AEW.
-- [ ] Confirmar pertenencia exacta a "The Dogs" vs "Bang Bang
-      Gang" (relación entre ambas etiquetas) — [verif].
+- [x] ~~Confirmar pertenencia~~ → **RESUELTO (s47)**: **Bang Bang
+      Gang** (con Jay White) — nunca fue Dog; The Dogs (Finlay +
+      Connors) son la facción RIVAL. En el rematch del 6/6,
+      "Connors vs Juice" era cruce entre equipos.
 - [ ] Finish/duración del rematch vs The Guns y de la dog collar
       vs Finlay & Connors.
 

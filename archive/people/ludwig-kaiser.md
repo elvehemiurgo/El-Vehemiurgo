@@ -58,6 +58,22 @@ dictado ya traía correcta. La "lección de booking": Kaiser tenía
 la victoria ante Mysterio y la perdió por imitar el comportamiento
 delincuente del creador del gimmick.
 
+### Sesión 2026-07-14 s47 — Interfiere para que Dominik retenga el Mega ante el Original
+
+**Cita verbatim**:
+
+> *"Y Dom retiene gracias a grande americano kaiser, buen booking,
+> se merece el enterteinment class y el fighting spirit class."*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: el gimmick compartido sigue produciendo
+booking — Kaiser (como El Grande Americano de WWE) interfiere
+contra **El Grande Americano Original** de AAA a favor de Dominik
+Mysterio. Ver
+[`../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md`](../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md)
+y [`./original-grande-americano.md`](./original-grande-americano.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (Imperium, midcard
@@ -68,6 +84,7 @@ delincuente del creador del gimmick.
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)
+- [`../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md`](../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md)
 
 ## Cross-links
 

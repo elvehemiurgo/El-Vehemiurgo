@@ -9,7 +9,7 @@ fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-09 s01 (propuesta + casos fundantes)"
   - "Volcado Vehemiurgo 2026-07-11 (bautizo + primera alta formal: Dani Luna)"
   - "Volcado Vehemiurgo 2026-07-14 s46 (alta doble: Komander + El Clon, AEW Redemption)"
-tags: [runner-ups, mustafa-ali, mike-santana, dani-luna, komander, el-clon, presente-no-futuro, antesala-panteon]
+tags: [runner-ups, mustafa-ali, mike-santana, dani-luna, komander, arez, presente-no-futuro, antesala-panteon]
 ---
 
 # RUNNER UPS — "ganándose mi corazón en tiempo real"
@@ -69,7 +69,7 @@ enfría, queda el registro de por qué no.
   con el acto **completo y balanceado**.
 - Ver ficha [→](../people/dani-luna.md) para el roadmap completo.
 
-### #4 y #5 — Komander y El Clon *(declarados 2026-07-14 s46)*
+### #4 y #5 — Komander y Arez (El Clon) *(declarados 2026-07-14 s46; identidad de Arez confirmada s47)*
 
 > *"es innegable la evolución de Komander y el clon, sus estilos
 > están más pulidos que nunca, muy buen wrestling, añade a Komander
@@ -86,7 +86,8 @@ enfría, queda el registro de por qué no.
   sin que el Vehemiurgo distinga a uno por sobre el otro.
 - Ver
   [→](../people/komander.md) y
-  [→](../people/el-clon.md) para los expedientes completos, y
+  [→](../people/arez.md) (El Clon — identidad confirmada por el
+  Vehemiurgo en s47) para los expedientes completos, y
   [`../matches/2026-07-26-ladder-match-opener-aew-redemption.md`](../matches/2026-07-26-ladder-match-opener-aew-redemption.md).
 
 ## Pendientes

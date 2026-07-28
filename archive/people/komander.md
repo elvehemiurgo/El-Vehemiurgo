@@ -85,6 +85,6 @@ y [`../topics/runner-ups.md`](../topics/runner-ups.md).
 
 - [`./kyle-fletcher.md`](./kyle-fletcher.md) — rival del Perfect
   Match.
-- [`./el-clon.md`](./el-clon.md) — co-protagonista del ladder
+- [`./arez.md`](./arez.md) — co-protagonista del ladder
   match, alta conjunta a RUNNER UPS.
 - [`../topics/runner-ups.md`](../topics/runner-ups.md)

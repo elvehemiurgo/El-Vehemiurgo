@@ -142,9 +142,23 @@ técnica puntual por un golpe de martillo accidentado. Serie contra
 Finn Bálor ahora empatada 1-1. Ver
 [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md).
 
+### Sesión 2026-07-14 s47 — Recibe el ataque sorpresa de Bálor
+
+**Cita verbatim**:
+
+> *"el ataque sorpresa de Balor a JD antes de la lucha de Dominik
+> quedó muy cool, se merece un enterteinment class."*
+>
+> — El Vehemiurgo, 2026-07-14 s47 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — la serie 1-1 con
+Bálor se traslada a la emboscada. Ver
+[`../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md`](../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — vignette dual con Bálor.
 - [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md)
 - [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md)
+- [`../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md`](../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md)

@@ -196,7 +196,11 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   contrastando con resultados y rosters reales del periodo, más
   grep del archivo para no duplicar identidades ya registradas;
   `[verif]` con candidatos solo si el contraste no resuelve.
-  Método completo en el registro de nombres.
+  **El contexto dictado es verdad de tablas**: afiliaciones,
+  alineaciones y resultados declarados para la fecha del show
+  prevalecen sobre hipótesis previas del archivo (precedente
+  Connors/The Dogs, s47). Método completo en el registro de
+  nombres.
 - **Sistema de clases del Vehemiurgo** (no estrellas):
   `glossary/clases-vehemiurgo.md`. Tres clases —
   *Perfect Wrestling Class*, *Fighting Spirit Class*,
