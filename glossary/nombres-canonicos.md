@@ -92,7 +92,18 @@ volcado, el copiloto **resuelve la identidad antes de escribir**:
    leer el dictado ("Finlay y Connors" juntos = The Dogs) y
    corregir el archivo, no el dictado. Las hipótesis del copiloto
    ceden; el dictado manda.
-6. **Confirmar con data real de buenas fuentes**: la identificación
+6. **Leer por fecha de show, no por orden de sección (ley desde
+   s48)**: el Vehemiurgo dicta sus takes en el orden que le
+   conviene, no en orden cronológico — y cada nota lleva **la
+   fecha del show que comenta**. Antes de declarar una
+   contradicción de continuidad, **ordenar las entradas por fecha
+   de show**. Precedente Saquon Shugars: las secciones de su ficha
+   están fuera de orden, y el copiloto dedujo un conflicto
+   ("¿salió o no salió de Dark State?") que no existía — las
+   fechas eran correctas y consecutivas. Las fichas con historial
+   largo llevan **tabla cronológica al inicio** para que el orden
+   real sea legible de un vistazo.
+7. **Confirmar con data real de buenas fuentes**: la identificación
    se apoya en resultados y rosters reales (linajes, facciones,
    historiales tipo War Dogs / Bang Bang Gang) — cuando el dato
    real y el dictado coinciden, la identificación queda cerrada;

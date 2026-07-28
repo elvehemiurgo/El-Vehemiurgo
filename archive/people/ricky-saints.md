@@ -179,6 +179,24 @@ oficina está desarrollando a Ricky con cuidado desde su debut. Ver
 y
 [`../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s48 — Primer Perfect Match en main roster, vs Carmelo Hayes
+
+**Cita verbatim**:
+
+> *"Carmelo vs Ricky estuvo buena, se merece las 3 clases, incluso
+> cuando se tropezaron lo mantuvieron real, si le metieron muy
+> oldschool, me gustó mucho"*
+>
+> — El Vehemiurgo, 2026-07-14 s48 (verbatim)
+
+**Lectura sintética**: **Perfect Match** — cierre del arco de
+desarrollo seguido desde su debut de main roster: crítica de
+fundamentos y sobreexposición de repertorio (s41), confirmación de
+que "lo están armando muy bien" (s42), y ahora la nota máxima dos
+semanas después. El tropiezo del match no resta porque
+"lo mantuvieron real". Ver
+[`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
@@ -187,5 +205,6 @@ y
 - [`../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md)
 - [`../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md`](../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md)
 - [`../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md)
+- [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md)
 - (Pendiente: matches y segmentos NXT 2025-2026 + main roster
   post-WM42.)

@@ -35,6 +35,27 @@ fuentes_principales:
   trasciende el ring hasta su presencia en redes sociales y vida
   pública.
 
+## Trayectoria condensada (orden cronológico por fecha de show)
+
+> ⚠ **Las secciones de "Notas editoriales" de abajo NO están en
+> orden cronológico** — el Vehemiurgo dictó sus takes en distinto
+> orden, y cada nota lleva la fecha del show que comenta. **Esta
+> tabla es la referencia de orden real.**
+
+| Fecha de show | Pieza | Clase |
+|---|---|---|
+| 7/4/2026 (NXT) | 8-man tag con Dark State vs Hendry/Page/Saints/D'Angelo | — |
+| 14/4/2026 (NXT Revenge Wk1) | Segmento con Myles Borne + Dark State — *"brillante, a otro nivel"* | — |
+| 21/4/2026 (NXT Revenge Wk2) | Segmento backstage con Dark State | — |
+| 28/4/2026 (NXT) | Cash-in vs Myles Borne — *"de verdad se me hace el futuro"*; arranca **su salida de Dark State** | PW·FS·WE |
+| 12/5/2026 (NXT) | Promo Vanity Project + Dark State — *"como siempre a otro nivel"* | WE |
+
+**Nota de continuidad**: la *"salida de Dark State"* que el
+Vehemiurgo celebra el 28/4 es el **arranque de un arco**, no un
+corte consumado — el 12/5 sigue apareciendo con el stable. No hay
+contradicción en el archivo: las fechas de show son correctas y
+consecutivas.
+
 ## Datos duros
 
 - **Debut WWE NXT**: pendiente fecha exacta.
@@ -202,10 +223,11 @@ State, con expectativa alta declarada para un run en singles. Ver
 **Lectura sintética**: Wrestling Entertainment (segmento coral con
 Vanity Project). Tercera vez que el Vehemiurgo lo declara **por
 encima de su propio stable** (s35, s40, ahora s47) — el patrón
-está consolidado. ⚠ Nota de continuidad: en s40 su salida de Dark
-State se registró como el protagonismo narrativo de la noche, y
-aquí vuelve a promocionar con ellos — [verif] estado actual de esa
-separación. Ver
+está consolidado. Nota de continuidad (resuelta s48 por el
+Vehemiurgo): la salida de Dark State celebrada el 28/4 es el
+**arranque del arco**, no un corte consumado — que el 12/5 siga
+promocionando con el stable es continuidad normal, no
+contradicción. Ver la tabla cronológica al inicio de la ficha. Ver
 [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md).
 
 ## Piezas del Vehemiurgo donde aparece

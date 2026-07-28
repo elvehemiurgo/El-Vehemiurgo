@@ -199,8 +199,11 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   **El contexto dictado es verdad de tablas**: afiliaciones,
   alineaciones y resultados declarados para la fecha del show
   prevalecen sobre hipótesis previas del archivo (precedente
-  Connors/The Dogs, s47). Método completo en el registro de
-  nombres.
+  Connors/The Dogs, s47). **Continuidad por fecha de show**: los
+  takes no llegan en orden cronológico y las secciones de una
+  ficha pueden estar desordenadas — antes de declarar una
+  contradicción, ordenar por fecha de show (precedente Saquon
+  Shugars, s48). Método completo en el registro de nombres.
 - **Sistema de clases del Vehemiurgo** (no estrellas):
   `glossary/clases-vehemiurgo.md`. Tres clases —
   *Perfect Wrestling Class*, *Fighting Spirit Class*,

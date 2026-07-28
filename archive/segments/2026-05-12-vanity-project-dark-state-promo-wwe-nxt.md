@@ -52,16 +52,17 @@ tags: [vanity-project, jackson-drake, blake-monroe, dark-state, saquon-shugars, 
    del patrón que el archivo viene registrando desde s35 —
    Saquon Shugars destacando **por encima de su propio stable**
    (ver [`../people/saquon-shugars.md`](../people/saquon-shugars.md),
-   sesiones s35 y s40). Nota adicional: en s40 el Vehemiurgo
-   celebraba su salida de Dark State, y aquí vuelve a aparecer con
-   ellos — [verif] estado actual de esa separación.
+   sesiones s35 y s40). Nota de continuidad: la salida
+   de Dark State celebrada el 28/4 es el arranque del arco, no un
+   corte consumado — seguir con el stable el 12/5 es continuidad
+   normal (aclarado por el Vehemiurgo en s48).
 
 ## Pendientes
 
 - [ ] Composición exacta de ambas facciones en el segmento.
-- [ ] **[verif] estado de Saquon dentro de Dark State** — su
-      salida se registró como protagonismo narrativo el 28/4
-      (s40), y aquí vuelve a promocionar con el stable.
+- [x] ~~[verif] estado de Saquon dentro de Dark State~~ →
+      **RESUELTO (s48)**: la salida del 28/4 es el arranque del
+      arco, no un corte consumado. Sin contradicción.
 - [ ] Contenido exacto + duración.
 
 ## Cross-links

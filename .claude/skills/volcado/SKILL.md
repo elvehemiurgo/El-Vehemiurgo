@@ -24,6 +24,12 @@ Ejecutar los pasos EN ORDEN. Fuente de doctrina: CLAUDE.md §§4-6.
    resultados). El verbatim del Vehemiurgo se preserva con typos;
    TODO lo demás (slugs, títulos, prosa, tags) usa el canónico
    completo.
+1b. **Continuidad por fecha de show**: las notas del Vehemiurgo
+   no llegan en orden cronológico y las secciones de una ficha
+   pueden estar desordenadas. **Antes de marcar una contradicción
+   de continuidad, ordenar por fecha de show** (precedente Saquon
+   Shugars, s48). Si una ficha acumula muchas entradas, sumarle
+   tabla cronológica al inicio.
 2. **Duplicados**: grep en `notebook/2026-05-09-2-lista-personal-completa.md`
    y en `archive/matches/index.md` + `archive/segments/index.md`
    por fecha + participantes. Si el match YA tiene ficha, esto es
