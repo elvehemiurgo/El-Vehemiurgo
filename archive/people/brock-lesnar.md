@@ -105,9 +105,24 @@ leyenda leído **por su función**: el beneficiario es Oba Femi.
 Continuidad del pass-over rub de WrestleMania 42. Ver
 [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md).
 
+### Sesión 2026-07-14 s52 — Gráficos del matchcard vs Oba Femi
+
+**Cita verbatim**:
+
+> *"los gráficos del matchcard para Oba vs Brok, excepcionalmente
+> cool, merece un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — material
+promocional puro, continuidad del regreso de Lesnar (s49) como
+catalizador de la proyección de carrera de Oba Femi. Ver
+[`../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md`](../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md`](../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md)
+- [`../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md`](../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md)
 - [`../matches/2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md`](../matches/2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md)
 - [`../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md`](../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md)
 - [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md)

@@ -54,6 +54,20 @@ propio — parte del dúo "freak" que dispara la doctrina Rosemary
 sobre Tatum Paxley. Ver
 [`../topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
 
+### Sesión 2026-07-14 s52 — vs Charlie Dempsey: Wrestling Entertainment
+
+**Cita verbatim**:
+
+> *"CHarlie Dempsey vs Shiloh estuvo cool [...] Se merece un
+> enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — el elogio recae
+principalmente sobre el oficio de Dempsey construyendo la lucha,
+con Shilo Hill como rival funcional. Ver
+[`../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md`](../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa en NXT.
@@ -64,6 +78,7 @@ sobre Tatum Paxley. Ver
 
 - [`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
 - [`../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md)
+- [`../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md`](../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md)
 
 ## Cross-links
 

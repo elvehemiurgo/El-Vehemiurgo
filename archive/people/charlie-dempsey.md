@@ -179,8 +179,33 @@ las tres capas (familia + ring name + faction).
 - [`../promotions/wrenqcc.md`](../promotions/wrenqcc.md) —
   contexto del split (rechazó a Kendal, Wren se quedó con la
   marca catch).
+- [`../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md`](../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md)
 - (Pendientes: matches Heritage Cup vs Noam Dar, vs D'Angelo,
   vs Lexis King; segments con Regal; disolución NQCC.)
+
+### Sesión 2026-07-14 s52 — vs Shilo Hill: repertorio cerrado, doctrina de madurar antes de coronar
+
+**Cita verbatim**:
+
+> *"CHarlie Dempsey vs Shiloh estuvo cool, Dempsey ya tiene bien
+> cerrado su repertorio y su forma de armar sus luchas y vender para
+> su oponente, muy oldschool, mucha atención a los detalles, de
+> hecho su gimmick es muy duro siempre kayfabe, siempre le pone
+> ganas al enterteinment a su manera. Se merece un enterteinment
+> class. Se estan guardando a Dempsey más tiempo, supongo que
+> quieren que madure más para un run más dominante lejos del tropo
+> de joven prodigio, ojalá, espero que no se les pase y el payoff
+> sea satisfactorio"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — validación de
+oficio completo (repertorio y construcción ya cerrados) más
+doctrina de booking nueva: la oficina lo retiene deliberadamente
+para evitar el tropo de "joven prodigio" y construir un run más
+dominante, con expectativa (no certeza) de payoff satisfactorio.
+Ver
+[`../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md`](../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md).
 
 ### Sesión 2026-07-14 s35 — Interacción con Wren, Wrestling Entertainment
 

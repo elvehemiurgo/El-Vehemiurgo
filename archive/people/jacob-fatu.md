@@ -231,6 +231,25 @@ muy único"*. **Resuelve la crítica de mic sostenida desde s38**:
 las promos ya son su activo, no su carencia. Ver
 [`../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md`](../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md).
 
+### Sesión 2026-07-14 s52 — "Ya suena muy completo, muy maduro como main eventer"
+
+**Cita verbatim**:
+
+> *"el segmento final se puso bueno, la última parte cuando Jacob
+> dice que habrá consecuencias, ahi empieza lo premium, esa parte
+> final se merece un enterteinment class. Jacob en esta fecha ya
+> suena muy completo, muy maduro como main eventer, back and forth
+> con Roman, super cómodo, yo lo vi listo"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment acotado a la parte
+final del segmento. Consolidación definitiva de la Doctrina Fatu
+(s47): ya no solo tiene el gimmick y las promos resueltas, sino que
+el Vehemiurgo lo declara *"listo"* para el peldaño de main eventer.
+Ver
+[`../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md`](../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología MLW completa con fechas de title runs.
@@ -246,6 +265,7 @@ las promos ya son su activo, no su carencia. Ver
 - [`../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md`](../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md)
 - [`../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md`](../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md)
 - [`../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md`](../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md)
+- [`../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md`](../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md)
 - [`solo-sikoa.md`](./solo-sikoa.md) — líder MFTs, oponente
   interno.
 - [`tama-tonga.md`](./tama-tonga.md) — co-miembro MFTs.

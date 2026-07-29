@@ -49,6 +49,23 @@ Snatcher (finisher de Sol Ruca) "no terminó de conectar" — la
 clase se sostiene igual por la fuerza de las promos. Ver
 [`./sol-ruca.md`](./sol-ruca.md).
 
+### Sesión 2026-07-14 s52 — vs Sol Ruca (SNME): reserva sobre conducir como heel
+
+**Cita verbatim**:
+
+> *"Becky puede trabajar una lucha oldschool, pero ahora que ella
+> está a cargo de la las llamadas como heel en la lucha, pues no me
+> gusta, felizmente dura poco y optan por una dq, está buena la
+> decisión yo creo"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: sin clase — reserva explícita sobre su
+conducción del match como heel, mismo eje de la doctrina del
+heel-como-ring-general (s50, Lash Legend), aplicada ahora a una
+veterana consolidada. Ver
+[`../matches/2026-05-23-sol-ruca-vs-becky-lynch-wwe-snme.md`](../matches/2026-05-23-sol-ruca-vs-becky-lynch-wwe-snme.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,
@@ -58,6 +75,7 @@ clase se sostiene igual por la fuerza de las promos. Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-04-sol-ruca-becky-lynch-segmento-wwe-raw.md`](../segments/2026-05-04-sol-ruca-becky-lynch-segmento-wwe-raw.md)
+- [`../matches/2026-05-23-sol-ruca-vs-becky-lynch-wwe-snme.md`](../matches/2026-05-23-sol-ruca-vs-becky-lynch-wwe-snme.md)
 
 ## Cross-links
 

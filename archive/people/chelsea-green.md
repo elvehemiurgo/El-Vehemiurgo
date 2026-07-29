@@ -114,6 +114,22 @@ La mención *"KLR... no, alba fire"* es una sola ausencia:
    armarse muy bien, mucho talento en el micrófono"* — mismo
    veredicto que el dado al midcard masculino en la misma sesión.
 
+### Sesión 2026-07-14 s52 — Segmento con Tiffany: "sigue siendo must see Chelsea"
+
+**Cita verbatim**:
+
+> *"Chelsea en su segmento con Tiffany fue muy entretenido, además
+> reci´pen lo veo como la brecha generacional entre ambas para hacer
+> chistes, sigue siendo must see CHlesea"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: sin clase, pero continuidad del veredicto
+de estatus de s51 ("la estrella de SmackDown") — nuevo matiz: la
+brecha generacional con Tiffany Stratton se explota como fuente de
+comedia dentro del ángulo de manipulación ya establecido. Ver
+[`../segments/2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md`](../segments/2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -135,6 +151,7 @@ La mención *"KLR... no, alba fire"* es una sola ausencia:
 - [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)
 - [`../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md`](../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md)
 - [`../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md`](../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md)
+- [`../segments/2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md`](../segments/2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md)
 
 ## Cross-links
 

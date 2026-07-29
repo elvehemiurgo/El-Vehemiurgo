@@ -116,15 +116,41 @@ contundencia física que el Vehemiurgo premia en la división
 femenina de NXT. Cierra el círculo del cluster WrenQCC/Kelani. Ver
 [`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md).
 
+### Sesión 2026-07-14 s52 — Title challenge vs Wren Sinclair: "full main eventer" como retadora
+
+**Cita verbatim**:
+
+> *"Kelani full main eventer como retadora contra Wren, buen
+> selling, buen kayfabe, me gusta que venta los stakes [...] Kelani
+> por su lado lideró muy bien, tenia que trabajar la pierna y se
+> puso creativa de forma efectiva, se ve bien así heavyweight, tiene
+> un buen estilo [...] este heel va a trabajar con todas las face
+> mid del roster principal muy pronto [...] es el proyecto
+> perfecto"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment
+por el título Speed — cuarto capítulo del expediente vs Wren
+Sinclair, con Kelani liderando el match como retadora "full main
+eventer" y proyección de carrera declarada hacia un futuro call-up
+de main roster. Ver
+[`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md)
+y
+[`../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md`](../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Fecha exacta del heel turn.
 - [ ] Finish/duración de ambos matches vs Jaida Parker y del match vs Wren
-      Sinclair (28/4/2026).
+      Sinclair (28/4/2026 y 26/5/2026).
+- [ ] Resultado del title challenge del 26/5 — ¿cambia el título?
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md)
+- [`../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md`](../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md)
 - [`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md)
 - [`../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md)
 - [`../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md)

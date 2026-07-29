@@ -110,6 +110,21 @@ Chelsea Green se posiciona como aliada interesada, ayudándola
 ringside con intención de manipulación. Ver
 [`./chelsea-green.md`](./chelsea-green.md).
 
+### Sesión 2026-07-14 s52 — Segmento con Chelsea Green: brecha generacional
+
+**Cita verbatim**:
+
+> *"Chelsea en su segmento con Tiffany fue muy entretenido, además
+> reci´pen lo veo como la brecha generacional entre ambas para hacer
+> chistes, sigue siendo must see CHlesea"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: sin clase — continuidad directa del ángulo
+de manipulación de Chelsea Green (s51), ahora con comedia de
+brecha generacional entre ambas. Ver
+[`./chelsea-green.md`](./chelsea-green.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -123,6 +138,7 @@ ringside con intención de manipulación. Ver
 - [`../matches/2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md)
 - [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)
 - [`../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md`](../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md)
+- [`../segments/2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md`](../segments/2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md)
 
 ## Cross-links
 

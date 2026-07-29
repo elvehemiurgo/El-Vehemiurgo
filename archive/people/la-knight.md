@@ -81,6 +81,30 @@ oportunidad de los Wyatt Sicks):
 
 (Pendiente.)
 
+### Sesión 2026-07-14 s52 — Segmento propio en Raw: la fricción correcta para Bron Breaker
+
+**Cita verbatim**:
+
+> *"por fin tenemos LA Knight en un segmento propio [...] empieza
+> muy babyface felicitando a las tropas, y luego sigue lo suyo con
+> the vision, este es el rival que necesitan Breaker, no Rollins,
+> esto puede ser la fricción que termine de pulir a Bron por fin
+> como main eventer [...] quiero ndarle la enterteinment class a
+> sus últimas lineas contra Jimmy y el bloodline, top tier
+> wrestling, buenisima promo"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment acotado a sus
+líneas finales contra Jimmy Uso y el Bloodline. Primer segmento
+propio real post-WrestleMania, y doctrina de booking mayor: LA
+Knight se propone como la fricción correcta para pulir a Bron
+Breaker como main eventer — resolviendo directamente la decepción
+de booking documentada en el expediente de Breaker (forzarlo a
+luchar "al estilo Rollins", s42/s46). Ver
+[`../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md`](../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md)
+y [`./bron-breaker.md`](./bron-breaker.md).
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el
@@ -89,9 +113,11 @@ oportunidad de los Wyatt Sicks):
 - [ ] Datos contractuales — esperar
       [`topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md).
 - [ ] Episodios de podcast donde discuta su run y techos creative.
+- [ ] Composición exacta de "The Vision" — [verif].
 
 ## Piezas relacionadas
 
 - [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)
   — costo de oportunidad.
+- [`../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md`](../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md)
 - (Pendiente material en futuras sesiones.)

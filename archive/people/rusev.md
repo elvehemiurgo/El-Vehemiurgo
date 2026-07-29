@@ -35,11 +35,26 @@ tags: [rusev, wwe-raw-2026, primer-registro-mencion]
 propio todavía. Ver
 [`../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md).
 
+### Sesión 2026-07-14 s52 — Enfrentado a Mysterio por maniobra de Ethan Page
+
+**Cita verbatim**:
+
+> *"Ethan juega backstage y logra enfrentar a Rusev con Mysterio,
+> metiendose con la decisión de Pierce"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: sin clase — mención de referencia, Rusev
+como pieza del midcard que Ethan Page mueve a su conveniencia. Ver
+[`../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md`](../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, trayectoria, empresa, contexto exacto
       de la interferencia.
+- [ ] Resultado del match vs Rey Mysterio del 25/5 — [verif].
 
 ## Cross-links
 
 - [`./ethan-page.md`](./ethan-page.md)
+- [`./rey-mysterio.md`](./rey-mysterio.md)

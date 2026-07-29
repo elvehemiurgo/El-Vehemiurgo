@@ -87,16 +87,38 @@ prospecto heavyweight al que la oficina fuerce a imitar el estilo
 del veterano rival en vez de confiar en el propio. Ver
 [`../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md`](../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md).
 
+### Sesión 2026-07-14 s52 — LA Knight se propone como la fricción correcta
+
+**Cita verbatim**:
+
+> *"este es el rival que necesitan Breaker, no Rollins, esto puede
+> ser la fricción que termine de pulir a Bron por fin como main
+> eventer"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: LA Knight identifica y se propone
+explícitamente como la solución al problema de booking que el
+Vehemiurgo viene señalando desde s42/s46 — la fricción con Seth
+Rollins que expuso a Breaker forzándolo a luchar "a su estilo". El
+archivo marca este segmento como el posible punto de inflexión
+hacia el booking correcto. Ver
+[`../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md`](../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md)
+y [`./la-knight.md`](./la-knight.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Rol exacto en la órbita de Heyman.
-- [ ] Seguir evolución del booking en shows posteriores.
+- [ ] Seguir evolución del booking en shows posteriores — ¿se
+      concreta el cruce con LA Knight?
+- [ ] Composición exacta de "The Vision" — [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md`](../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md)
 - [`../matches/2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash.md`](../matches/2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash.md)
+- [`../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md`](../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md)
 
 ## Cross-links
 

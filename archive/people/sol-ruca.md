@@ -204,6 +204,25 @@ Entertainment, debutando el Soul Snatcher. Ver
 y
 [`../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md`](../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md).
 
+### Sesión 2026-07-14 s52 — vs Becky Lynch (SNME): doctrina de estilo, sin clase
+
+**Cita verbatim**:
+
+> *"queria ver a Sol, no creí que diera una lucha que me guste, el
+> estilo de ella y Becky es muy developmental para mi, además de
+> que Sol hace este 450 clothesline y de más 450s innecesarios [...]
+> su estilo debe evolucionar a algo más heavyweight para que sea
+> perfecto"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: sin clase — reserva sobre el exceso de
+repertorio aéreo repetido ("450s innecesarios") y prescripción de
+desarrollo declarada: evolucionar hacia un estilo más heavyweight.
+La DQ que corta el match temprano se lee como decisión de booking
+acertada, dado que Sol ya se había expuesto mucho. Ver
+[`../matches/2026-05-23-sol-ruca-vs-becky-lynch-wwe-snme.md`](../matches/2026-05-23-sol-ruca-vs-becky-lynch-wwe-snme.md).
+
 ### Sesión 2026-07-14 s39 — Grudge match vs Zaria: payoff mutuo, doble clase
 
 **Cita verbatim**:

@@ -217,6 +217,28 @@ midcard entero se valida como "combustible" acumulado. Ver
 y
 [`../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md`](../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s52 — Draw triple clase: "un clásico instantáneo"
+
+**Cita verbatim**:
+
+> *"La lucha se merece todas las clases, pusieron un clásico
+> instantaneo; además el booking es básico pero tiene mucho
+> sentido, a Ricky todavia le cuesta obtener una victoria, en
+> realidad si es pura boca, eso es crucial para su gimmick, así que
+> un draw es cool [...] perder contra Cody lo dejó motivado y
+> picado, pero tambien vio el potencial de su acto [...] Muy premium
+> la escena del titulo US estas fechas"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: **Perfect Match** que termina en **draw** —
+la incapacidad de ganar se lee como coherente con su gimmick de
+"pura boca", no como fallo de booking. El oponente **no fue
+dictado**; queda [verif]. Cierra con el veredicto de conjunto sobre
+la escena del título US (pago del hilo abierto en s51 con Trick
+Williams y Carmelo Hayes). Ver
+[`../matches/2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md`](../matches/2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
@@ -228,5 +250,6 @@ y
 - [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md)
 - [`../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md`](../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md)
 - [`../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md`](../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md)
+- [`../matches/2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md`](../matches/2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md)
 - (Pendiente: matches y segmentos NXT 2025-2026 + main roster
   post-WM42.)

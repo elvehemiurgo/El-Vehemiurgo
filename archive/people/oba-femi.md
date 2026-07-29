@@ -96,10 +96,26 @@ que es la construcción larga del babyface que la doctrina del
 archivo defiende. Ver
 [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md) y [`./gunther.md`](./gunther.md).
 
+### Sesión 2026-07-14 s52 — Gráficos del matchcard vs Brock: "excepcionalmente cool"
+
+**Cita verbatim**:
+
+> *"los gráficos del matchcard para Oba vs Brok, excepcionalmente
+> cool, merece un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — continuidad de la
+proyección de carrera hacia un título babyface (probablemente vs
+Gunther en WrestleMania, s49), con Brock Lesnar reapareciendo en el
+material promocional. Ver
+[`../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md`](../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md).
+
 ## Piezas relacionadas
 
 - [`../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md`](../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md)
 - [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md)
+- [`../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md`](../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md)
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
 - [`../../dossiers/draft-nxt-2025-2026-stand-deliver-callups.md`](../../dossiers/draft-nxt-2025-2026-stand-deliver-callups.md)
 - [`./jacob-fatu.md`](./jacob-fatu.md) — paralelo monster heel

@@ -172,6 +172,49 @@ escenario perfecto para All Ego"*). La oficina lo puso en ese
 camino. Ver
 [`../segments/2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md`](../segments/2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md).
 
+### Sesión 2026-07-14 s52 — Promo como retador WE, y vs Penta con la doctrina del techo MJF
+
+**Cita verbatim** (promo):
+
+> *"Ethan Page corta una promo buenísima como retador, super listo
+> para TV, bien oldschool, super fitting para su personaje, se
+> merece un enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Cita verbatim** (match vs Penta):
+
+> *"Ethan realmente cambia el ritmo con una catapulta en la mesa de
+> comentaristas, y como heel, sabe moverse muy heavyweight, muy
+> HHH, muy oldschool. Se merece un fighting spirit y un
+> enterteinment class, seria perfecta si no fuera por los vicios
+> indie mark que tiene [...] porque Ethan no creció al estilo MJF
+> [...] Ethan nunca a roto ese techo"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Cita verbatim** (maniobra backstage):
+
+> *"Ethan juega backstage y logra enfrentar a Rusev con Mysterio,
+> metiendose con la decisión de Pierce [...] Ethan hace funcionar el
+> midcard, le da el enterteinning que le falta al resto de talento"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment para la promo
+(pago de la proyección de s42), Fighting Spirit + Wrestling
+Entertainment para el match vs Penta con reserva técnica ("vicios
+indie mark"), y **doctrina nueva sobre su techo de carrera**: el
+Vehemiurgo compara explícitamente con MJF — ambos vienen de un
+repertorio "indie mudshow", pero Ethan *"nunca ha roto ese techo"*
+hacia ser main eventer consistente. Además, sin clase, demuestra
+capacidad de influencia backstage forzando el cruce Rusev vs
+Mysterio por encima de Adam Pearce. Ver
+[`../segments/2026-05-23-ethan-page-promo-retador-wwe-snme.md`](../segments/2026-05-23-ethan-page-promo-retador-wwe-snme.md),
+[`../matches/2026-05-23-ethan-page-vs-penta-wwe-snme.md`](../matches/2026-05-23-ethan-page-vs-penta-wwe-snme.md)
+y
+[`../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md`](../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
@@ -180,5 +223,8 @@ camino. Ver
 - [`../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md)
 - [`../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md`](../segments/2026-05-04-ethan-page-promo-rampa-wwe-raw.md)
 - [`../segments/2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md`](../segments/2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md)
+- [`../segments/2026-05-23-ethan-page-promo-retador-wwe-snme.md`](../segments/2026-05-23-ethan-page-promo-retador-wwe-snme.md)
+- [`../matches/2026-05-23-ethan-page-vs-penta-wwe-snme.md`](../matches/2026-05-23-ethan-page-vs-penta-wwe-snme.md)
+- [`../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md`](../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md)
 - (Pendiente: matches y segmentos de la lista — Ethan tiene
   presencia recurrente en NXT 2025-2026 y Raw post-WM42.)

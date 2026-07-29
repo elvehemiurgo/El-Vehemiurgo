@@ -187,6 +187,21 @@ sintieron" de verdad. Ver
 arco con Fatu tras Backlash, ahora con los Usos sumados. Ver
 [`../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md`](../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md).
 
+### Sesión 2026-07-14 s52 — Back and forth con un Jacob Fatu "listo" como main eventer
+
+**Cita verbatim**:
+
+> *"Jacob en esta fecha ya suena muy completo, muy maduro como main
+> eventer, back and forth con Roman, super cómodo, yo lo vi listo"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment (acotado a la parte
+final del segmento) — Roman Reigns como la mitad institucional que
+recibe la declaración de consecuencias de Jacob Fatu, ahora leído
+como listo para el peldaño de main eventer. Ver
+[`../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md`](../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md).
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

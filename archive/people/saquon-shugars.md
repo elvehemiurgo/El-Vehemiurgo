@@ -50,6 +50,7 @@ fuentes_principales:
 | 28/4/2026 (NXT) | Cash-in vs Myles Borne — *"de verdad se me hace el futuro"*; arranca **su salida de Dark State** | PW·FS·WE |
 | 12/5/2026 (NXT) | Promo Vanity Project + Dark State — *"como siempre a otro nivel"* | WE |
 | **19/5/2026 (NXT)** | Tag titular vs Vanity Project — **el destierro de Dark State y el FACE TURN** | FS·WE |
+| 26/5/2026 (NXT) | Acecha desde el techo de un carro (cierre de show) | WE |
 
 **Nota de continuidad — ARCO CERRADO (19/5/2026)**: la *"salida
 de Dark State"* que el Vehemiurgo celebra el 28/4 era el
@@ -266,10 +267,25 @@ promocionando con el stable es continuidad normal, no
 contradicción. Ver la tabla cronológica al inicio de la ficha. Ver
 [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md).
 
+### Sesión 2026-07-14 s52 — Acecha desde el techo de un carro
+
+**Cita verbatim**:
+
+> *"Saquon asechando desde el techo de un carro se vio cool, asi
+> atras al final del show, estuvo cool, se merece un enterteinment
+> class"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — imagen visual de
+cierre que continúa el face turn consumado en s50. Ver
+[`../segments/2026-05-26-saquon-shugars-acecho-techo-carro-wwe-nxt.md`](../segments/2026-05-26-saquon-shugars-acecho-techo-carro-wwe-nxt.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
 - [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)
+- [`../segments/2026-05-26-saquon-shugars-acecho-techo-carro-wwe-nxt.md`](../segments/2026-05-26-saquon-shugars-acecho-techo-carro-wwe-nxt.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md)
   — 8-man tag, primer registro editorial dedicado.
 - [`../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md`](../matches/2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md)

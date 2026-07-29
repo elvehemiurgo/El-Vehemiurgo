@@ -44,13 +44,18 @@ con cada cambio de estado.
 | 2026-06-03 | MJF vs Rush | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-06-03-mjf-vs-rush-aew-dynamite.md) |
 | 2026-05-30 | The Guns vs The Dogs | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-30-guns-vs-dogs-aew-collision.md) |
 | 2026-05-30 | Hazuki vs Maya World | AEW / Collision | — | stub | 1 | [→](2026-05-30-hazuki-vs-maya-world-aew-collision.md) |
+| 2026-05-29 | Ricky Saints vs [verif] | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md) |
 | 2026-05-27 | Ace Austin vs Andrade | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-27-ace-austin-vs-andrade-aew-collision.md) |
 | 2026-05-27 | Mark Davis vs Jack Perry — revancha | AEW / Dynamite & Collision | — | stub | 1 | [→](2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md) |
+| 2026-05-26 | Charlie Dempsey vs Shilo Hill | WWE / NXT | WE | en-investigacion | 1 | [→](2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md) |
+| 2026-05-26 | Kelani Jordan vs Wren Sinclair (title challenge) | WWE / NXT | FS·WE | en-investigacion | 1 | [→](2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md) |
 | 2026-05-24 | Darby Allin vs MJF — main event | AEW / Double or Nothing | — | stub | 1 | [→](2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md) |
 | 2026-05-24 | Multi-man con Chris Jericho y otros [verif participantes] | AEW / Double or Nothing | — | stub | 1 | [→](2026-05-24-multiman-jericho-aew-double-or-nothing.md) |
 | 2026-05-24 | Will Ospreay vs Samoa Joe | AEW / Double or Nothing | PW·FS·WE | stub | 1 | [→](2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md) |
 | 2026-05-24 | Okada vs Konosuke Takeshita | AEW / Double or Nothing | — | stub | 1 | [→](2026-05-24-okada-vs-takeshita-aew-double-or-nothing.md) |
 | 2026-05-24 | Cope & Christian Cage vs FTR (Dax Harwood & Cash Wheeler) — Street Fight | AEW / Double or Nothing | PW·FS·WE | stub | 1 | [→](2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md) |
+| 2026-05-23 | Ethan Page vs Penta | WWE / Saturday Night's Main Event XLIV | FS·WE | en-investigacion | 1 | [→](2026-05-23-ethan-page-vs-penta-wwe-snme.md) |
+| 2026-05-23 | Sol Ruca vs Becky Lynch | WWE / Saturday Night's Main Event XLIV | — | en-investigacion | 1 | [→](2026-05-23-sol-ruca-vs-becky-lynch-wwe-snme.md) |
 | 2026-05-23 | Los Americanos Hermanos (Julio y Bruno) vs Rayo & Bravo | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md) |
 | 2026-05-23 | Rey Fénix vs Laredo Kid (revancha) | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md) |
 | 2026-05-22 | Fallon Henley & Lainey Reid vs Rhea Ripley & Charlotte Flair | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md) |

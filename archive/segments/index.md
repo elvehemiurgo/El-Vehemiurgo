@@ -53,13 +53,22 @@ cada alta y con cada cambio de estado.
 | 2026-06-03 | Promo — Thekla (campeona) contra STARDOM | AEW / Dynamite | promo | — | stub | 1 | [→](2026-06-03-thekla-promo-vs-stardom-aew-dynamite.md) |
 | 2026-06-03 | Build — promo de apertura de Rush + backstage con Andrade | AEW / Dynamite | promo (apertura + backstage) | — | stub | 1 | [→](2026-06-03-rush-build-mjf-aew-dynamite.md) |
 | 2026-05-30 | Post-match — momento de Persephone | AEW / Collision | promo (post-match) | — | stub | 1 | [→](2026-05-30-persephone-post-match-aew-collision.md) |
+| 2026-05-29 | Segmento de Chelsea Green con Tiffany Stratton | WWE / SmackDown | backstage / comedia | — | en-investigacion | 1 | [→](2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md) |
 | 2026-05-27 | Backstage — Ospreay vs Mark Davis (booking de la lesión de cuello) | AEW / Dynamite & Collision | promo (backstage) | — | stub | 1 | [→](2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md) |
 | 2026-05-27 | Post-match — Don Callis & Kyle Fletcher, con la interrupción de Takeshita (expulsión) | AEW / Dynamite & Collision | angle | — | stub | 1 | [→](2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md) |
 | 2026-05-27 | Promo post-match — Don Callis amenaza a Ospreay | AEW / Dynamite & Collision | promo (post-match) | — | stub | 1 | [→](2026-05-27-don-callis-amenaza-ospreay-aew-dynamite-collision.md) |
 | 2026-05-27 | Segmento — MJF & Rush | AEW / Dynamite & Collision | promo | WE | stub | 1 | [→](2026-05-27-mjf-rush-aew-dynamite-collision.md) |
+| 2026-05-26 | Saquon Shugars acecha desde el techo de un carro | WWE / NXT | cierre de show / imagen visual | WE | en-investigacion | 1 | [→](2026-05-26-saquon-shugars-acecho-techo-carro-wwe-nxt.md) |
+| 2026-05-26 | Promo de Axiom contra The Birthright | WWE / NXT | promo (faces) | — | en-investigacion | 1 | [→](2026-05-26-axiom-promo-vs-birthright-wwe-nxt.md) |
+| 2026-05-26 | Segmento post-match: poniendo más over a Kelani Jordan | WWE / NXT | post-match | — | en-investigacion | 1 | [→](2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md) |
+| 2026-05-25 | Cierre de Raw: Jacob Fatu declara consecuencias | WWE / Raw | cierre de show | WE | en-investigacion | 1 | [→](2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md) |
+| 2026-05-25 | Gráficos del matchcard: Oba Femi vs Brock Lesnar | WWE / Raw | gráfico de TV / matchcard | WE | en-investigacion | 1 | [→](2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md) |
+| 2026-05-25 | Ethan Page maniobra backstage: Rusev vs Mysterio | WWE / Raw | backstage / booking angle | — | en-investigacion | 1 | [→](2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md) |
+| 2026-05-25 | Segmento propio de LA Knight — The Vision y el Bloodline | WWE / Raw | backstage / promo propia | WE | en-investigacion | 1 | [→](2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md) |
 | 2026-05-24 | Video de entrada — equipo face (Jericho & MVP) | AEW / Double or Nothing | video package (entrada) | WE | stub | 1 | [→](2026-05-24-video-entrada-jericho-mvp-aew-double-or-nothing.md) |
 | 2026-05-24 | Post-match — Don Callis interviene, Kyle Fletcher: turn babyface de Takeshita | AEW / Double or Nothing | angle / turn | — | stub | 1 | [→](2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md) |
 | 2026-05-24 | Segmento — Mick Foley, Darby Allin & MJF | AEW / Double or Nothing | promo | WE | stub | 1 | [→](2026-05-24-foley-darby-mjf-aew-double-or-nothing.md) |
+| 2026-05-23 | Promo de Ethan Page como retador al título IC | WWE / Saturday Night's Main Event XLIV | promo pre-match | WE | en-investigacion | 1 | [→](2026-05-23-ethan-page-promo-retador-wwe-snme.md) |
 | 2026-05-23 | Promo video de la rivalidad de los Grandes Americanos | AAA / Worldwide | video de hype / promo grabada | WE | en-investigacion | 1 | [→](2026-05-23-promo-video-rivalidad-grandes-americanos-aaa-worldwide.md) |
 | 2026-05-22 | Debut de Blake Monroe en main roster — burla a Chelsea Green | WWE / SmackDown | backstage / debut de talent | WE | en-investigacion | 1 | [→](2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md) |
 | 2026-05-22 | Ricky Saints y Carmelo Hayes backstage | WWE / SmackDown | backstage | — | en-investigacion | 1 | [→](2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md) |

@@ -152,6 +152,7 @@ y [`charlie-dempsey.md`](./charlie-dempsey.md).
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md)
+- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md)
 - [`../promotions/wrenqcc.md`](../promotions/wrenqcc.md) — tag
   team activo (mitad).
 - [`../promotions/nqcc.md`](../promotions/nqcc.md) — ex-miembro
@@ -218,3 +219,23 @@ con reserva menor sobre "momentos accidentados típicos del estilo
 developmental" — incluyendo una lesión de pierna dentro de la
 lucha — que no rompe el entretenimiento general. Ver
 [`../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md).
+
+### Sesión 2026-07-14 s52 — Defiende el título Speed vs Kelani: reserva sobre vender como face top
+
+**Cita verbatim**:
+
+> *"Wren todavia está verde en la esfera de vender como wrestler,
+> todavia se ve preocupada de performace durante la ejecución de
+> sus movimientos y ring positioning, la atención a los detalles
+> oldschool todavia no la dejan tener una lucha perfecta solo como
+> babyface"*
+>
+> — El Vehemiurgo, 2026-07-14 s52 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment,
+con reserva técnica detallada sobre su venta como campeona
+babyface — preocupación visible por la performance y el ring
+positioning le impide alcanzar el Perfect Match en ese rol. El
+Vehemiurgo cita a **Bryan Danielson** como modelo de venta de
+título a seguir. Ver
+[`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md).
