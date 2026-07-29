@@ -88,11 +88,31 @@ antes de unirlas como aliadas. Ver
 [`../promotions/irresistible-forces.md`](../promotions/irresistible-forces.md),
 [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s51 — Team allstar con Rhea, booking de protección para Fatal Influence
+
+**Cita verbatim**:
+
+> *"muy bein pensada la psicología entre las faces para cuidar a
+> las heels [...] Me gustó que todos los vicios soft developmental
+> de las veteranas se camuflan con lo oldaschool que traen las
+> nuevas heels"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment.
+Continuidad directa de su lectura como "veterana protectora" (s41)
+y de la nota sobre "developmental soft roof" de su generación
+(s41) — aquí ese vicio queda camuflado por el old-school de las
+rivales jóvenes, dentro de un match que aun así entra con doble
+clase. Ver
+[`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Confirmar nombre real, debut, trayectoria completa (carrera
       extensísima, pendiente catalogar en el archivo).
-- [ ] Finish/duración del match vs Jacy Jayne.
+- [ ] Finish/duración del match vs Jacy Jayne y del debut tag vs
+      Fatal Influence.
 - [ ] Seguir si el gimmick evoluciona hacia la dirección "Ric Flair
       senil" pedida por el Vehemiurgo.
 
@@ -101,6 +121,7 @@ antes de unirlas como aliadas. Ver
 - [`../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md)
 - [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
 - [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)
+- [`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md)
 
 ## Cross-links
 

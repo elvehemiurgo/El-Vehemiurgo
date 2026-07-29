@@ -60,6 +60,10 @@ cada alta y con cada cambio de estado.
 | 2026-05-24 | Video de entrada — equipo face (Jericho & MVP) | AEW / Double or Nothing | video package (entrada) | WE | stub | 1 | [→](2026-05-24-video-entrada-jericho-mvp-aew-double-or-nothing.md) |
 | 2026-05-24 | Post-match — Don Callis interviene, Kyle Fletcher: turn babyface de Takeshita | AEW / Double or Nothing | angle / turn | — | stub | 1 | [→](2026-05-24-don-callis-fletcher-takeshita-post-match-aew-double-or-nothing.md) |
 | 2026-05-24 | Segmento — Mick Foley, Darby Allin & MJF | AEW / Double or Nothing | promo | WE | stub | 1 | [→](2026-05-24-foley-darby-mjf-aew-double-or-nothing.md) |
+| 2026-05-23 | Promo video de la rivalidad de los Grandes Americanos | AAA / Worldwide | video de hype / promo grabada | WE | en-investigacion | 1 | [→](2026-05-23-promo-video-rivalidad-grandes-americanos-aaa-worldwide.md) |
+| 2026-05-22 | Debut de Blake Monroe en main roster — burla a Chelsea Green | WWE / SmackDown | backstage / debut de talent | WE | en-investigacion | 1 | [→](2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md) |
+| 2026-05-22 | Ricky Saints y Carmelo Hayes backstage | WWE / SmackDown | backstage | — | en-investigacion | 1 | [→](2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md) |
+| 2026-05-22 | Segmento previo Trick Williams, Carmelo Hayes y Lil Yachty | WWE / SmackDown | promo / build previo a match | — | en-investigacion | 1 | [→](2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md) |
 | 2026-05-20 | Post-match — MJF (con Kevin Knight) | AEW / Dynamite & Collision | promo (post-match) | — | stub | 1 | [→](2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md) |
 | 2026-05-20 | Apertura — Young Bucks & Chris Jericho | AEW / Dynamite & Collision | promo (apertura de show) | WE | stub | 1 | [→](2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md) |
 | 2026-05-19 | Segmento de Mason Rook con Kam Hendrix | WWE / NXT | promo / confrontación (rookies) | — | en-investigacion | 1 | [→](2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md) |

@@ -197,6 +197,26 @@ semanas después. El tropiezo del match no resta porque
 "lo mantuvieron real". Ver
 [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s51 — "Recolectando derrotas", pero abre reclamo por el título US
+
+**Cita verbatim**:
+
+> *"ahora Rickyh tambien quiere el titulo US [...] Ricky y CDarmelo
+> la siguen backstage, hasta ahora Ricky está recolectando
+> derrotas, la calidad de ese midcard si impresiona, tienen
+> combustible para hacer algo genial"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: sin clase, pero doble movimiento de
+storyline — declara interés por el título US (tercer vértice sobre
+ese cinturón, junto a Trick Williams y Carmelo Hayes) y acumula
+derrotas sin que el Vehemiurgo lo lea como estancamiento: el
+midcard entero se valida como "combustible" acumulado. Ver
+[`../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md`](../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md)
+y
+[`../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md`](../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
@@ -206,5 +226,7 @@ semanas después. El tropiezo del match no resta porque
 - [`../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md`](../segments/2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md)
 - [`../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md`](../matches/2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md)
 - [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md)
+- [`../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md`](../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md)
+- [`../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md`](../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md)
 - (Pendiente: matches y segmentos NXT 2025-2026 + main roster
   post-WM42.)

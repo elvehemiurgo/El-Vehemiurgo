@@ -81,20 +81,49 @@ tags: [creed-brothers, julio, bruno, americanos-hermanos, el-grande-americano, a
    apariciones, dos lecturas separadas en la misma semana
    editorial.
 
+### Sesión 2026-07-14 s51 — vs Rayo & Bravo: Perfect Match, "lo más relevante que han sido"
+
+**Cita verbatim**:
+
+> *"los americanos hermanos vs los americanos, el booking es tan
+> genial que este encuentro tenia hype, tenia stakes, tenia
+> sentimiento [...] esto es lo más relevante que han sido los
+> creed brothers,, además visualmente es perfecto, los americanos
+> hermanos son más grandes, no hablan español, no les importa los
+> fans, son todo lo opuesto a rayo y bravo, el tino y la lectura
+> que hizo wwe este año con esta historia es más que destacable.
+> Esta lucha se merece las 3 clases, es wrestling"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: Perfect Match, y veredicto explícito de
+pico de carrera dentro del ángulo Americano: *"lo más relevante
+que han sido los Creed Brothers"*. Cruzan camino con Rayo & Bravo,
+explotando al máximo el contraste físico y de idioma como
+estructura del match. El elogio final es de conjunto — todo el año
+de booking del ángulo Americano (firma de contrato s41, debut de
+refuerzo, 3v3 s42, y este cruce), no solo esta lucha puntual. Ver
+[`../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md`](../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [x] ~~Confirmar identidad de "Julio" y "Bruno"~~ → **RESUELTO
       (s44)**: Julio = Julius Creed, Bruno = Brutus Creed
       (hispanización del gimmick).
-- [ ] Contenido completo de ambos segmentos.
+- [ ] Contenido completo de todos los segmentos y del match del
+      23/5.
 - [ ] Trayectoria pre-rebrand de Creed Brothers en NXT/main roster.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-02-firma-contrato-grandes-americanos-creed-brothers-aaa-worldwide.md`](../segments/2026-05-02-firma-contrato-grandes-americanos-creed-brothers-aaa-worldwide.md)
 - [`../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md`](../segments/2026-05-04-julio-bruno-debut-americanos-hermanos-wwe-raw.md)
+- [`../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md`](../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md)
+- [`../segments/2026-05-23-promo-video-rivalidad-grandes-americanos-aaa-worldwide.md`](../segments/2026-05-23-promo-video-rivalidad-grandes-americanos-aaa-worldwide.md)
 
 ## Cross-links
 
 - [`../people/el-grande-americano.md`](../people/el-grande-americano.md)
   — cabeza del ángulo Americano.
+- [`../people/rayo.md`](../people/rayo.md) ·
+  [`../people/bravo.md`](../people/bravo.md) — rivales del 23/5.

@@ -50,21 +50,46 @@ Perfect Match, con el elogio de que **el tropiezo no rompió la
 ilusión**: lo mantuvieron real. Ver
 [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s51 — vs Trick Williams: Fighting Spirit + Wrestling Entertainment
+
+**Cita verbatim**:
+
+> *"trick y melo tuvieron un buen segmento [...] Melo vs Trick
+> merece un fighting spirit class y el enterteinment class [...]
+> Luego Ricky y CDarmelo la siguen backstage, hasta ahora Ricky
+> está recolectando derrotas, la calidad de ese midcard si
+> impresiona, tienen combustible para hacer algo genial"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: segunda clase consecutiva de Carmelo Hayes
+en el archivo (tras el Perfect Match vs Ricky Saints, s48), ahora
+del otro lado del midcard masculino. El segmento backstage
+posterior con Ricky Saints queda sin clase propia, pero reafirma
+el elogio de conjunto al nivel del midcard. Ver
+[`../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md`](../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md)
+y
+[`../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md`](../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (run NXT + main
       roster).
 - [ ] Registro completo de las apariciones previas de la lista
       personal (13/2 y 27/2 de 2026).
-- [ ] Finish/duración del match vs Ricky Saints.
+- [ ] Finish/duración del match vs Ricky Saints y vs Trick
+      Williams.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md)
+- [`../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md`](../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md)
+- [`../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md`](../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md)
 
 ## Cross-links
 
 - [`./ricky-saints.md`](./ricky-saints.md) — rival del Perfect
-  Match.
+  Match y compañero del backstage posterior.
+- [`./trick-williams.md`](./trick-williams.md) — rival del 22/5.
 - [`./matt-cardona.md`](./matt-cardona.md) — rival previo (lista
   personal).

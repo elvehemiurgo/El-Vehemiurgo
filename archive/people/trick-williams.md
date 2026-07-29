@@ -115,6 +115,23 @@ bien pensado"* — el elogio de oficio más alto que le ha dado.
 Cuarta clase consecutiva en tres shows. Ver
 [`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md).
 
+### Sesión 2026-07-14 s51 — Racha sostenida: "es excepcional", más FS·WE vs Carmelo Hayes
+
+**Cita verbatim**:
+
+> *"trick y melo tuvieron un buen segmento [...] Trick si es super
+> entretenido de ver, es excepcional, buenas promos [...] Melo vs
+> Trick merece un fighting spirit class y el enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment —
+quinto registro consecutivo de elogio desde s41, ahora calificado
+directamente de *"excepcional"*. Ver
+[`../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md`](../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md)
+y
+[`../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md`](../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main
@@ -134,3 +151,5 @@ Cuarta clase consecutiva en tres shows. Ver
 - [`../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md)
 - [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md)
 - [`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md)
+- [`../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md`](../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md)
+- [`../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md`](../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md)

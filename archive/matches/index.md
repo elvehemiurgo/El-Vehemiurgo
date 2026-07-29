@@ -51,6 +51,10 @@ con cada cambio de estado.
 | 2026-05-24 | Will Ospreay vs Samoa Joe | AEW / Double or Nothing | PW·FS·WE | stub | 1 | [→](2026-05-24-ospreay-vs-samoa-joe-aew-double-or-nothing.md) |
 | 2026-05-24 | Okada vs Konosuke Takeshita | AEW / Double or Nothing | — | stub | 1 | [→](2026-05-24-okada-vs-takeshita-aew-double-or-nothing.md) |
 | 2026-05-24 | Cope & Christian Cage vs FTR (Dax Harwood & Cash Wheeler) — Street Fight | AEW / Double or Nothing | PW·FS·WE | stub | 1 | [→](2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md) |
+| 2026-05-23 | Los Americanos Hermanos (Julio y Bruno) vs Rayo & Bravo | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md) |
+| 2026-05-23 | Rey Fénix vs Laredo Kid (revancha) | AAA / Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md) |
+| 2026-05-22 | Fallon Henley & Lainey Reid vs Rhea Ripley & Charlotte Flair | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md) |
+| 2026-05-22 | Carmelo Hayes vs Trick Williams | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md) |
 | 2026-05-22 | Tiffany Stratton vs Lash Legend | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md) |
 | 2026-05-20 | Darby Allin vs Speedball Mike Bailey | AEW / Dynamite & Collision | — | stub | 1 | [→](2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md) |
 | 2026-05-20 | Opener 3 contra 3 [verif participantes] | AEW / Dynamite & Collision | FS | stub | 1 | [→](2026-05-20-opener-3-contra-3-aew-dynamite-collision.md) |

@@ -93,10 +93,29 @@ para ellas"* incluye a Tiffany — contraste con el 8/5, donde el
 Vehemiurgo celebraba que se había puesto "más stiff" ante Kiana
 James. Ver [`../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md`](../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s51 — Contexto añadido: Chelsea Green la manipula, ayuda ringside
+
+**Cita verbatim**:
+
+> *"la estan poniendo con Tiffany, se ve que quiere juntarse con
+> ella y manipularla para conseguirse una nueva sidekick o ayuda
+> para ganar oro otra vez, entonces ayuda a Tiffany ringside y por
+> eswo se mete en problemas con Nia y Lash"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: sin clase — contexto añadido a la misma
+fecha de show (22/5) que su match sin clase vs Lash Legend (s50).
+Chelsea Green se posiciona como aliada interesada, ayudándola
+ringside con intención de manipulación. Ver
+[`./chelsea-green.md`](./chelsea-green.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
 - [ ] Finish/duración de todos los matches registrados.
+- [ ] Naturaleza exacta de la ayuda ringside de Chelsea Green —
+      [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 

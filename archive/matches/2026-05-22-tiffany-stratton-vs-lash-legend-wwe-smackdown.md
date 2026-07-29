@@ -91,17 +91,32 @@ donde el Vehemiurgo celebraba que se había puesto *"más stiff"*
 frente a Kiana James (FS·WE) — acá no alcanzó para sacar el match
 adelante.
 
+### Contexto añadido (s51) — la intervención ringside de Chelsea Green
+
+Según la doctrina de booking registrada en s51 (ver
+[`../people/chelsea-green.md`](../people/chelsea-green.md)),
+Chelsea Green se acerca a Tiffany Stratton con intención de
+manipularla como nueva sidekick, y **ayuda a Tiffany ringside** —
+lo que la mete en conflicto con **Nia Jax** y con **Lash Legend**.
+Esta intervención pertenece a la misma fecha de show (22/5) y
+enmarca el diagnóstico de desarrollo de Lash Legend con presión
+externa adicional: no solo cargaba sola el rol de ring general,
+sino que enfrentaba interferencia activa desde fuera del ring.
+
 ## Pendientes
 
 - [ ] Finish, ganadora, duración, ciudad/recinto.
 - [ ] Con quién forma Lash Legend el tag team que la protege —
       [verif].
 - [ ] Título en juego, si lo hubo.
+- [ ] Detalle exacto de la interferencia de Chelsea Green (momento,
+      naturaleza) — [verif].
 
 ## Cross-links
 
 - [`../people/tiffany-stratton.md`](../people/tiffany-stratton.md) ·
-  [`../people/lash-legend.md`](../people/lash-legend.md)
+  [`../people/lash-legend.md`](../people/lash-legend.md) ·
+  [`../people/chelsea-green.md`](../people/chelsea-green.md)
 - [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)
   — contraste: Tiffany "más stiff" dos semanas antes.
 - [`../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md)

@@ -161,6 +161,8 @@ EE.UU.). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md`](../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md)
+- [`../segments/2026-05-23-promo-video-rivalidad-grandes-americanos-aaa-worldwide.md`](../segments/2026-05-23-promo-video-rivalidad-grandes-americanos-aaa-worldwide.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
 - [`../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md`](../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md)
 - [`../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md`](../segments/2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md)

@@ -108,6 +108,24 @@ Spirit + Wrestling Entertainment del 3v3 debut. Ver
 y
 [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s51 — Debut en tag team: "esfuerzo triple" para compensar tamaño
+
+**Cita verbatim**:
+
+> *"bookearon a Fallon y Layne en tag team contra el team all star
+> de Rhea y CHarlotte, muy buen showcase y booking para proteger a
+> Faral Influence [...] Fatal Influence está juntando victorias
+> importantes contra la generación anterior [...] La lucha se
+> merece el fighting spirit class y el enterteinment class"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment —
+primer debut de Fatal Influence como tag team formal, con
+protección explícita vía psicología face de las veteranas y
+contraste de tamaño/estilo a favor de las heels jóvenes. Ver
+[`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -122,6 +140,7 @@ y
 - [`../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md`](../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md)
 - [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
 - [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)
+- [`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md)
 
 ## Cross-links
 

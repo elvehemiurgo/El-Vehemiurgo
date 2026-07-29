@@ -10,7 +10,7 @@ fuentes_principales:
   - "Reorganización completa del panteón 2026-05-26"
   - "Expansión a 42 + doctrina top-7 dioses, dictada por el Vehemiurgo 2026-06-17"
   - "Fact-sheets individuales de cada héroe"
-tags: [heroes-fundamentales-vehemiurgia, panteon-vehemiurgo, dioses-del-wrestling-top-7, dioses-del-wrestling-tier-2, christian-cage, cm-punk, stone-cold-steve-austin, samoa-joe, jeff-hardy, dynamite-kid, roderick-strong, bret-hart, aj-styles, kurt-angle, american-wolves, kyle-oreilly, ric-flair, mjf, young-bucks, hazuki, austin-aries, kira, arn-anderson, matt-hardy, mark-rocco, shawn-michaels, hhh, hayabusa, rvd, zack-gibson, filthy-generation, la-knight, psicosis, jt-dunn, david-starr, chris-benoit, kay-lee-ray, hana-kimura, mei-seira, myron-reed, fallon-henley, lainey-reid, scott-hall, randy-savage, hulk-hogan, british-bulldogs, mark-davis, redragon, bobby-fish, kazarian, christopher-daniels, bad-influence, the-addiction, darby-allin, zack-sabre-jr, claudemd-sec-7-referentes]
+tags: [heroes-fundamentales-vehemiurgia, panteon-vehemiurgo, dioses-del-wrestling-top-7, dioses-del-wrestling-tier-2, christian-cage, cm-punk, stone-cold-steve-austin, samoa-joe, jeff-hardy, dynamite-kid, roderick-strong, bret-hart, aj-styles, kurt-angle, american-wolves, kyle-oreilly, ric-flair, mjf, young-bucks, hazuki, austin-aries, kira, arn-anderson, matt-hardy, mark-rocco, shawn-michaels, hhh, hayabusa, rvd, zack-gibson, filthy-generation, la-knight, psicosis, jt-dunn, david-starr, chris-benoit, kay-lee-ray, hana-kimura, mei-seira, myron-reed, fallon-henley, lainey-reid, scott-hall, randy-savage, hulk-hogan, british-bulldogs, mark-davis, redragon, bobby-fish, kazarian, christopher-daniels, bad-influence, the-addiction, darby-allin, zack-sabre-jr, finn-balor, rey-fenix, laredo-kid, claudemd-sec-7-referentes]
 ---
 
 # Héroes fundamentales del Vehemiurgo — el panteón
@@ -33,7 +33,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
   de dioses, creado 2026-06-17 (segunda ronda). Por debajo del Tier 1
   pero por encima de los Fundamentales. *(Orden interno: a confirmar —
   por ahora se respeta el orden ya establecido.)*
-- **Fundamentales (#26-47)**: igual de fundamentales que el Tier 2 en
+- **Fundamentales (#26-50)**: igual de fundamentales que el Tier 2 en
   cuanto a pertenecer al panteón, **pero sin orden particular** — el
   número es **slot de registro**, no posición de mérito.
 
@@ -72,7 +72,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 24 | **RVD (Rob Van Dam)** | ECW / highspot carny | _(ficha pendiente)_ |
 | 25 | **Kira** (luchadora mexicana CMLL) | Lucha libre / heredera local | [→](../people/kira.md) |
 
-### Fundamentales (#26-48, sin orden — todos pesan igual)
+### Fundamentales (#26-50, sin orden — todos pesan igual)
 
 | # | Héroe | Rama | Ficha |
 |---|---|---|---|
@@ -99,6 +99,8 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 46 | **Darby Allin** | AEW moderno / daredevil-real | [→](../people/darby-allin.md) |
 | 47 | **Zack Sabre Jr** | Mat wrestling / submisiones técnicas | [→](../people/zack-sabre-jr.md) |
 | 48 | **Finn Bálor / Prince Devitt** | Bullet Club original / Demon gimmick | [→](../people/finn-balor.md) |
+| 49 | **Rey Fénix** | Lucha libre mexicana / high-flying (AAA) | [→](../people/rey-fenix.md) |
+| 50 | **Laredo Kid** | Lucha libre mexicana / high-flying (AAA) | [→](../people/laredo-kid.md) |
 
 ## Notas de la expansión 2026-06-17
 
@@ -219,6 +221,37 @@ El panteón ahora tiene **tres niveles de jerarquía**:
   ambas etapas de su carrera (NJPW Bullet Club original + WWE),
   no solo la actual.
 - **Panteón total: 48 entradas.**
+
+## Notas de la alta 2026-07-14 s51 — Rey Fénix (#49) y Laredo Kid (#50)
+
+> *"Pongamos a Fénix y Laredo Kid en el panteón de heroes de una
+> vez"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+- **Rey Fénix entra como Héroe Fundamental #49** y **Laredo Kid
+  como Héroe Fundamental #50** — alta doble, sin tier ni número
+  especificado por el Vehemiurgo; se registran al final de los
+  Fundamentales (#26-50), mismo protocolo que Darby Allin (#46),
+  Zack Sabre Jr (#47) y Finn Bálor (#48). A diferencia de esos
+  casos, **no cuentan como uno** (no es tag team permanente): son
+  dos altas individuales dentro de la misma declaración.
+- **Contexto de la alta**: llega en el cierre de la trilogía de
+  Perfect Matches entre ambos — el primero el 2/5/2026 (s41,
+  *"tambien fue la lucha perfecta, se merce las 3 clases"*) y la
+  revancha del 23/5/2026 (s51), la primera lucha bookeada en la
+  nueva era de AAA con Rey Mysterio como gerente general. Ver
+  [`../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md)
+  y
+  [`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md).
+- **El elogio es a la trilogía completa, no a un pico aislado**:
+  *"Laredo Kid... siempre pone shows increíbles"*, y de Fénix:
+  *"es legendario, sus luchas sí venden, sabe cómo armar un
+  underground épico"* — veredicto sobre la calidad sostenida de
+  ambos como duplas de trabajo, reforzado por la decisión de
+  booking (Fénix babyface "desde abajo" en AAA para no duplicar la
+  historia de Je'Von Evans en el roster principal de WWE).
+- **Panteón total: 50 entradas.**
 
 ## Notas de la alta 2026-07-14 — Psicosis (#29, ratificación + ficha creada)
 

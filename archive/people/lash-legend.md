@@ -81,6 +81,23 @@ tags: [lash-legend, wwe-smackdown-2026, heavyweight, oldschool-en-formacion, rin
    mismo eje con el que el archivo evalúa a Raquel Rodríguez e
    Izzi Dame.
 
+### Sesión 2026-07-14 s51 — Conflicto con Chelsea Green vía la manipulación de Tiffany
+
+**Cita verbatim**:
+
+> *"ayuda a Tiffany ringside y por eswo se mete en problemas con
+> Nia y Lash"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim; canónico Nia Jax)
+
+**Lectura sintética**: sin clase — contexto añadido a la misma
+fecha de show (22/5): la intervención ringside de Chelsea Green a
+favor de Tiffany Stratton la pone en conflicto directo con Lash
+Legend y con Nia Jax, sumando presión externa al diagnóstico de
+desarrollo ya registrado (heel que aún no puede conducir sola un
+singles). Ver
+[`./chelsea-green.md`](./chelsea-green.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -88,6 +105,8 @@ tags: [lash-legend, wwe-smackdown-2026, heavyweight, oldschool-en-formacion, rin
       personal.
 - [ ] Con quién forma el tag team que la protege — [verif].
 - [ ] Seguir el pronóstico: ¿puede conducir un singles en 2027?
+- [ ] Detalle exacto del conflicto con Chelsea Green y Nia Jax —
+      [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -96,6 +115,8 @@ tags: [lash-legend, wwe-smackdown-2026, heavyweight, oldschool-en-formacion, rin
 ## Cross-links
 
 - [`./tiffany-stratton.md`](./tiffany-stratton.md) — rival.
+- [`./chelsea-green.md`](./chelsea-green.md) — conflicto por la
+  manipulación de Tiffany.
 - [`./raquel-rodriguez.md`](./raquel-rodriguez.md) ·
   [`./izzi-dame.md`](./izzi-dame.md) — el eje heavyweight
   femenino del archivo.

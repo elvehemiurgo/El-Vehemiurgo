@@ -67,6 +67,19 @@ Uso carny ortodoxo de una figura pop: entra al servicio del gimmick
 del luchador, no por encima de él. Ver
 [`./trick-williams.md`](./trick-williams.md).
 
+### Sesión 2026-07-14 s51 — Acompaña sin destacar: "lo hizo ok"
+
+**Cita verbatim**:
+
+> *"trick y melo tuvieron un buen segmento, lil yatchy tambien lo
+> hizo ok"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: sin clase — primer registro donde su
+aporte es meramente funcional, sin el elogio explícito de s43. Ver
+[`../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md`](../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Fecha de incorporación al acto de Trick Williams y naturaleza
@@ -79,6 +92,7 @@ del luchador, no por encima de él. Ver
 
 - [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md)
 - [`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md)
+- [`../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md`](../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md)
 
 ## Cross-links
 

@@ -7,19 +7,22 @@ estado: vivo
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
-tags: [laredo-kid, identidad-consolidada, aaa, fighting-spirit, golpes-duros, primer-registro-individual]
+tags: [laredo-kid, identidad-consolidada, aaa, fighting-spirit, wrestling-entertainment, perfect-wrestling, golpes-duros, heroe-fundamental-50, panteon, heel-turn, primer-registro-individual]
 ---
 
 # Laredo Kid
 
-> **Corrección de identidad (2026-07-14 s44)**: registrado como
-> *"Laredo"* (dictado). Es **Laredo Kid** — veterano AAA real que
-> la propia lista personal del Vehemiurgo ya nombraba completo
-> ("Laredo Kid" en el conteo de luchadores).
+> **Héroe Fundamental #50 del Vehemiurgo**
+> ([panteón](../topics/heroes-fundamentales-vehemiurgia.md),
+> declarado 2026-07-14 s51). **Corrección de identidad (2026-07-14
+> s44)**: registrado como *"Laredo"* (dictado). Es **Laredo Kid** —
+> veterano AAA real que la propia lista personal del Vehemiurgo ya
+> nombraba completo ("Laredo Kid" en el conteo de luchadores).
 >
 > Primer registro individual del archivo. Match físico contra
 > Wagner con Fighting Spirit, "con ratos accidentados" pero golpes
-> duros reales.
+> duros reales. Protagonista de la trilogía de Perfect Matches
+> contra Rey Fénix, con protagonismo de heel turn en la revancha.
 
 ## Identificación
 
@@ -61,16 +64,40 @@ contundencia física validada.
 **Lectura sintética**: Perfect Match — triple clase. Ver
 [`../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md).
 
+### Sesión 2026-07-14 s51 — Revancha vs Fénix: protagonismo, heel turn, y alta al panteón
+
+**Cita verbatim**:
+
+> *"la calidad es altísima, además de darle protagonismo a Laredo
+> Kid que siempre pone shows increibles, lopusieron a cortar
+> promos y hacer el heelturn [...] esta lucha se merece las 3
+> clases [...] Pongamos a Fénix y Laredo Kid en el panteón de
+> heroes de una vez"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: Perfect Match — segundo consecutivo del
+expediente vs Rey Fénix, y **alta al panteón como Héroe
+Fundamental #50**. Recibe el protagonismo narrativo completo de la
+revancha: corta las promos y consuma el heel turn, mientras Fénix
+queda posicionado del otro lado. Ver
+[`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
-- [ ] Finish/duración de ambos matches.
+- [ ] Finish/duración de todos los matches registrados.
+- [ ] Contenido exacto de la promo del heel turn — [verif].
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md`](../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md)
 - [`../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md)
+- [`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md)
 
 ## Cross-links
 
 - [`./hijo-de-dr-wagner-jr.md`](./hijo-de-dr-wagner-jr.md) — rival.
+- [`./rey-fenix.md`](./rey-fenix.md) — rival de la trilogía.
+- [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)
+  — panteón, #50.

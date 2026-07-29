@@ -224,9 +224,29 @@ el old-school del conjunto elogiado, y un final enredado que
 funciona como disparador del destierro de Saquon Shugars de Dark
 State. Ver [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md).
 
+### Sesión 2026-07-14 s51 — Debut en programación de main roster: burla a Chelsea Green
+
+**Cita verbatim**:
+
+> *"vemos a Blake debutar en la programación y aprovecha para
+> burlarse de CHelsea en una interacción que merece el
+> enterteinment class, top tier performers aqui"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: Wrestling Entertainment — llega el call-up
+que el archivo venía marcando como pendiente desde la alta a THE
+FUTURE in 2026 (s35, con Jackson Drake) y el elogio de s39 (Blake
+como talent que "eleva el producto" uniendo oficio técnico y
+entertainment). Debuta en **programación de main roster
+(SmackDown)** burlándose de Chelsea Green en un segmento backstage.
+Ver [`./chelsea-green.md`](./chelsea-green.md) y
+[`../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md`](../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
+- [`../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md`](../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md)
 - [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)
 - [`matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
   — Multi-clase Perfect Wrestling + Wrestling Entertainment.

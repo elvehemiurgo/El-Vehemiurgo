@@ -72,6 +72,25 @@ Reid. Ver
 [`../promotions/irresistible-forces.md`](../promotions/irresistible-forces.md),
 [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s51 — Team allstar con Charlotte vs el debut tag de Fatal Influence
+
+**Cita verbatim**:
+
+> *"bookearon a Fallon y Layne en tag team contra el team all star
+> de Rhea y CHarlotte, muy buen showcase y booking para proteger a
+> Faral Influence, muy bein pensada la psicología entre las faces
+> para cuidar a las heels [...] buen uso del tropo del team allstar
+> que no es cohesivo como el tag team de las heels que si están en
+> la misma página"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment —
+Rhea forma con Charlotte un "team allstar" deliberadamente no
+cohesivo, leído como herramienta de protección para las heels
+jóvenes de Fatal Influence, no como derrota que las opaca. Ver
+[`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -84,6 +103,7 @@ Reid. Ver
 - [`../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md)
 - [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
 - [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)
+- [`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md)
 
 ## Cross-links
 

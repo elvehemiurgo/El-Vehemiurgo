@@ -215,6 +215,21 @@ fértil sobre cross-pollination cultural sostenida**.
 - [ ] **AAA-WWE working agreement Rey bridge 2024+** — pieza
       editorial cross-promotion.
 
+### Sesión 2026-07-14 s51 — Gerente general de la nueva era AAA
+
+**Cita verbatim**:
+
+> *"es la primera lucha bookeada en esta era de AAA con Rey
+> Mysterio como gerente general"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: mención de contexto — Rey Mysterio pasa a
+ejercer de **gerente general de AAA**, marcando el arranque de una
+nueva era de booking en la promoción, con la revancha Fénix vs
+Laredo Kid como primera lucha bookeada bajo su gestión. Ver
+[`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md).
+
 ### Sesión 2026-07-14 s39 — vs El Grande Americano: Perfect Match corto
 
 **Cita verbatim**:
@@ -231,6 +246,8 @@ Noche de los Grandes (AAA). Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)
+- [`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md)
+  — gerente general de la nueva era AAA.
 
 ### Centerpieces principales
 - [`../matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md`](../matches/1996-12-13-rey-mysterio-jr-vs-ultimo-dragon-war.md)

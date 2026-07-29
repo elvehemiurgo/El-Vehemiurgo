@@ -73,6 +73,47 @@ La mención *"KLR... no, alba fire"* es una sola ausencia:
 **KLR = Kay Lee Ray = Alba Fyre**, la misma persona (resuelto s44). Ver
 [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s51 — Doctrina: "la estrella de SmackDown", manipulando a Tiffany
+
+**Cita verbatim**:
+
+> *"hablemos del bookeo de CHelsea Green, ella es la estrella de
+> smackdown, ahora que ya termino la temporada de los patrihots y
+> el gimmick de miss america y secret hervice que fue genial, la
+> estan poniendo con Tiffany, se ve que quiere juntarse con ella y
+> manipularla para conseguirse una nueva sidekick o ayuda para
+> ganar oro otra vez, entonces ayuda a Tiffany ringside y por eswo
+> se mete en problemas con Nia y Lash, además en un segmento
+> backstage, vemos a Blake debutar en la programación y aprovecha
+> para burlarse de CHelsea en una interacción que merece el
+> enterteinment class, top tier performers aqui, este midcard
+> tambien empieza a armarse muy bien, mucho talento en el
+> microfono"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim; canónicos Nia Jax,
+> Lash Legend, Blake Monroe)
+
+**Lectura sintética — doctrina de booking, sin clase propia**:
+
+1. **Veredicto de estatus**: *"ella es la estrella de SmackDown"*
+   — el elogio más alto que el archivo registra sobre Chelsea
+   Green, tras el cierre valorado en retrospectiva de la temporada
+   Miss America / Secret Service ("Patriots").
+2. **Nuevo ángulo — manipulación como mecánica declarada**: se
+   acerca a Tiffany Stratton con la intención explícita de
+   convertirla en su nueva sidekick para volver a ganar oro —
+   ayudándola ringside, lo que la mete en conflicto con **Nia Jax**
+   y **Lash Legend**. Esto conecta directamente con el diagnóstico
+   de desarrollo de Lash Legend registrado en el mismo show (s50,
+   ver [`./lash-legend.md`](./lash-legend.md)): la intervención de
+   Chelsea añade presión externa sobre esa misma historia.
+3. **Debut de Blake Monroe en main roster, burlándose de ella**:
+   Wrestling Entertainment — *"top tier performers aquí"*. Ver
+   [`./blake-monroe.md`](./blake-monroe.md).
+4. **Cierre de conjunto**: *"este midcard también empieza a
+   armarse muy bien, mucho talento en el micrófono"* — mismo
+   veredicto que el dado al midcard masculino en la misma sesión.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -83,13 +124,25 @@ La mención *"KLR... no, alba fire"* es una sola ausencia:
       Stratton/Lash Legend, con Sol Ruca).
 - [x] ~~Identificar "KLR"~~ → **RESUELTO (s44)**: Kay Lee Ray =
       Alba Fyre, misma persona, fuera del roster.
+- [ ] Detalle completo de la temporada "Patriots"/Miss
+      America/Secret Service — [verif].
+- [ ] Confirmar identidad de "Nia" como Nia Jax — mención de
+      contexto, sin ficha individual abierta todavía.
 
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md`](../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md)
 - [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)
+- [`../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md`](../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md)
+- [`../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md`](../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md)
 
 ## Cross-links
 
 - [`./giulia.md`](./giulia.md) — protagonista del desarrollo
   dirigido leído en el segmento.
+- [`./tiffany-stratton.md`](./tiffany-stratton.md) — objetivo de
+  la manipulación declarada.
+- [`./lash-legend.md`](./lash-legend.md) — conflicto derivado de
+  la intervención ringside.
+- [`./blake-monroe.md`](./blake-monroe.md) — se burla de ella en su
+  debut de main roster.

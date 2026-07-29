@@ -89,6 +89,24 @@ explícitamente: **Lainey Reid vs Rhea Ripley**. Ver
 y
 [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md).
 
+### Sesión 2026-07-14 s51 — Debut en tag team: "se esforzó el triple para conectar"
+
+**Cita verbatim**:
+
+> *"En la secuencia final, Lainey tuvo que esforzarse el triple
+> para conectar, porque es más pequeña, pero fue lo suficientemente
+> buena para compensar"*
+>
+> — El Vehemiurgo, 2026-07-14 s51 (verbatim)
+
+**Lectura sintética**: Fighting Spirit + Wrestling Entertainment
+compartida con Fallon Henley. Detalle de ejecución individual
+dentro del match: su desventaja física exige más esfuerzo en la
+secuencia de cierre, y el Vehemiurgo la valida como suficiente —
+continuidad de su lectura previa como "la más indie, pero ya se
+mueve como wrestler real" (s42). Ver
+[`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -99,6 +117,7 @@ y
 
 - [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
 - [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)
+- [`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md)
 
 ## Cross-links
 
