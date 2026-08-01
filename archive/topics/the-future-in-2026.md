@@ -211,6 +211,56 @@ Tres ejes del criterio:
 - **Match anchor**: vs Finn Bálor, WWE Raw, 20/4/2026 (Perfect
   Match).
 
+### #17 — Lash Legend *(declarada 2026-08-01 s02, en bloque con Roxanne Perez)*
+
+> *"Lash tienee la oportunidad de mandar como heavyweight aprender a
+> trabajar con las mejores, lo hizo muy bien, es de los talentos jovenes
+> que le presta atención a los detalles oldschool y de hecho tiene buen
+> ring positioning, hay que ponerla en la lista de FUTURE 2026"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+- **Empresa**: WWE (SmackDown / Raw, 2026).
+- **Por qué entra**: los dos ejes que el Vehemiurgo premia en un joven —
+  **atención a los detalles old-school** y **buen ring positioning**—, y
+  el veredicto comparativo que lo remata: en el mismo match, *"una rookie
+  como Lash tiene mejor idea de cómo conectar una secuencia con otra"*
+  que Giulia.
+- **Confirmación en la misma sesión**: cuatro días después, ringside en
+  SmackDown, es *"rookie pero con mucho potencial old-school"* y **gana
+  por fuerza** ante Chelsea Green en un Perfect Match.
+- **Corrección de trayectoria**: el archivo la registraba en s50 como
+  incapaz de conducir un match (*"dejarla sola como la heel de la lucha
+  casi la ahoga"*). **Dos semanas después, el diagnóstico se revierte.**
+- **Ficha**: [`../people/lash-legend.md`](../people/lash-legend.md).
+- **Match anchor**: fatal 4-way vs Iyo Sky, Giulia y Roxanne Perez, Raw
+  1/6/2026
+  ([→](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)).
+
+### #18 — Roxanne Perez *(declarada 2026-08-01 s02, en bloque con Lash Legend)*
+
+> *"junto con Roxanne Perez que esta temporada ya tiene más protagonismo
+> en el booing [sic — 'booking'] del judgement day"*
+>
+> *"yo quiero ver a Roxanne como protagonista ya mismo, así que me
+> intriga, esto va a ser buena competencia para Liv, y juntas pueden
+> presionar a Vaquer para que se convierta en el paquete completo"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+- **Empresa**: WWE (Raw, 2026) — Judgment Day.
+- **Por qué entra**: protagonismo creciente en el booking del Judgment
+  Day, con tensión declarada frente a Raquel Rodríguez. El Vehemiurgo la
+  quiere **de protagonista ya mismo**.
+- **Función de sistema**: la lee como competencia para **Liv Morgan** y,
+  junto a ella, como **presión sobre Stephanie Vaquer** *"para que se
+  convierta en el paquete completo"*. La alta no es solo por mérito
+  propio: es por lo que su ascenso le exige al resto de la división.
+- **Ficha**: [`../people/roxanne-perez.md`](../people/roxanne-perez.md).
+- **Match anchor**: fatal 4-way, Raw 1/6/2026
+  ([→](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)),
+  + [`../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md`](../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md).
+
 ## El advertencia editorial — *"no como Santana"*
 
 El Vehemiurgo encuadra la lista con una **advertencia comparativa**

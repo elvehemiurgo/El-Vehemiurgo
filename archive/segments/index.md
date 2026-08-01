@@ -45,13 +45,27 @@ cada alta y con cada cambio de estado.
 | 2026-06-10 | Promo video — Zack Sabre Jr vs Kenny Omega | AEW / Dynamite Summer Blockbuster | video package (promo) | WE | stub | 1 | [→](2026-06-10-zsj-vs-omega-promo-video-aew-dynamite-summer-blockbuster.md) |
 | 2026-06-10 | Kevin Knight & Don Callis — regreso de Darby Allin | AEW / Dynamite Summer Blockbuster | promo | WE | stub | 1 | [→](2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md) |
 | 2026-06-10 | Apertura — Ciampa vs Jericho, entrevista con Tony Schiavone | AEW / Dynamite Summer Blockbuster | promo (entrevista de apertura) | — | stub | 1 | [→](2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md) |
+| 2026-06-06 | Escenas post-match con Los Americanos | AAA / AAA Worldwide | post-match / escenas de archivo | WE | en-investigacion | 1 | [→](2026-06-06-post-match-americanos-aaa-worldwide.md) |
 | 2026-06-06 | Entrada de Persephone | AEW / Collision | entrada | — | stub | 1 | [→](2026-06-06-persephone-entrada-aew-collision.md) |
 | 2026-06-06 | Promo post-match — The Dogs | AEW / Collision | promo (post-match) | WE | stub | 1 | [→](2026-06-06-the-dogs-promo-post-match-aew-collision.md) |
 | 2026-06-06 | Ciampa — squash + promo de amenaza | AEW / Collision | squash + promo | — | stub | 1 | [→](2026-06-06-ciampa-squash-amenaza-aew-collision.md) |
+| 2026-06-05 | Promo de Trick Williams y careo con Bron Breakker | WWE / SmackDown | promo + careo | — | en-investigacion | 1 | [→](2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md) |
+| 2026-06-05 | Promo backstage de Jacy Jayne | WWE / SmackDown | promo backstage / ataque | WE | en-investigacion | 1 | [→](2026-06-05-jacy-jayne-promo-backstage-wwe-smackdown.md) |
+| 2026-06-05 | Gunther abre el show — promo por lo de Clash in Italy | WWE / SmackDown | in-ring promo (apertura de show) | WE | en-investigacion | 1 | [→](2026-06-05-gunther-promo-apertura-wwe-smackdown.md) |
+| 2026-06-05 | Promo video de Blake Monroe — rivalidad unilateral | WWE / SmackDown | promo video | — | en-investigacion | 1 | [→](2026-06-05-blake-monroe-promo-video-wwe-smackdown.md) |
 | 2026-06-03 | Backstage — Don Callis (cede el momento a Okada) | AEW / Dynamite | promo (backstage) | — | stub | 1 | [→](2026-06-03-don-callis-okada-backstage-aew-dynamite.md) |
 | 2026-06-03 | Backstage — The Dogs | AEW / Dynamite | promo (backstage) | — | stub | 1 | [→](2026-06-03-the-dogs-backstage-aew-dynamite.md) |
 | 2026-06-03 | Promo — Thekla (campeona) contra STARDOM | AEW / Dynamite | promo | — | stub | 1 | [→](2026-06-03-thekla-promo-vs-stardom-aew-dynamite.md) |
 | 2026-06-03 | Build — promo de apertura de Rush + backstage con Andrade | AEW / Dynamite | promo (apertura + backstage) | — | stub | 1 | [→](2026-06-03-rush-build-mjf-aew-dynamite.md) |
+| 2026-06-02 | Ataque backstage de Zaria | WWE / NXT | ataque backstage | WE | en-investigacion | 1 | [→](2026-06-02-zaria-ataque-backstage-wwe-nxt.md) |
+| 2026-06-02 | Saquon Shugars ataca a Dark State en su entrada | WWE / NXT | ataque / angle de entrada | WE | en-investigacion | 1 | [→](2026-06-02-saquon-shugars-ataca-dark-state-entrada-wwe-nxt.md) |
+| 2026-06-01 | Video especial de Chad Gable — saga Grande vs Grande | WWE / Monday Night Raw | video package | WE | en-investigacion | 1 | [→](2026-06-01-video-especial-chad-gable-grande-vs-grande-wwe-raw.md) |
+| 2026-06-01 | Segmento del Tribal Chief con Jacob Fatu | WWE / Monday Night Raw | segmento de facción | WE | en-investigacion | 1 | [→](2026-06-01-tribal-chief-fatu-segmento-wwe-raw.md) |
+| 2026-06-01 | Roxanne Perez deja escapar sus planes para el Judgment Day | WWE / Monday Night Raw | segmento de facción | — | en-investigacion | 1 | [→](2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md) |
+| 2026-06-01 | Segmento de LA Knight | WWE / Monday Night Raw | in-ring promo | WE | en-investigacion | 1 | [→](2026-06-01-la-knight-segmento-wwe-raw.md) |
+| 2026-06-01 | Promo de Dominik Mysterio | WWE / Monday Night Raw | promo | — | en-investigacion | 1 | [→](2026-06-01-dominik-mysterio-promo-wwe-raw.md) |
+| 2026-05-31 | Video opener de Clash in Italy | WWE / Clash in Italy | video package / opener de producción | WE | en-investigacion | 1 | [→](2026-05-31-video-opener-wwe-clash-in-italy.md) |
+| 2026-05-31 | Post-match Jacob Fatu / Roman Reigns | WWE / Clash in Italy | post-match angle | WE | en-investigacion | 1 | [→](2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md) |
 | 2026-05-30 | Post-match — momento de Persephone | AEW / Collision | promo (post-match) | — | stub | 1 | [→](2026-05-30-persephone-post-match-aew-collision.md) |
 | 2026-05-29 | Segmento de Chelsea Green con Tiffany Stratton | WWE / SmackDown | backstage / comedia | — | en-investigacion | 1 | [→](2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md) |
 | 2026-05-27 | Backstage — Ospreay vs Mark Davis (booking de la lesión de cuello) | AEW / Dynamite & Collision | promo (backstage) | — | stub | 1 | [→](2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md) |

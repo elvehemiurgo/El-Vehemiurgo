@@ -90,10 +90,72 @@ enfría, queda el registro de por qué no.
   Vehemiurgo en s47) para los expedientes completos, y
   [`../matches/2026-07-26-ladder-match-opener-aew-redemption.md`](../matches/2026-07-26-ladder-match-opener-aew-redemption.md).
 
+### #6 y #7 — Cody Rhodes y Brock Lesnar *(declarados 2026-08-01 s02, en bloque)*
+
+> *"Pongamos a Cody Rhodes y Brock Lesnar en los luchadores que se
+> ganaron mi corazón."*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+- **Contexto**: WWE **Clash in Italy**, 31/5/2026. Dos matches en la
+  misma noche.
+- **Cody Rhodes** — Gunther vs Cody, doble clase (FS + WE). La razón está
+  dicha: *"Cody es un gran babyface, **independientemente de que su
+  booking esté caliente o no, siempre es efectivo**"*. Entra por
+  **fiabilidad estructural**, no por un pico.
+  [→](../people/cody-rhodes.md) ·
+  [`../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md`](../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md)
+- **Brock Lesnar** — vs Oba Femi, **Perfect Match**. Entra por la
+  **doctrina del retiro carny** que su booking encarna (*"te retiras como
+  Lesnar en tu país, y luego aceptas una que otra lucha fuera por ahí
+  para cobrar, es wrestling"*) y por poner todo el espectáculo al
+  servicio de construir a Femi.
+  [→](../people/brock-lesnar.md) ·
+  [`../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md`](../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md)
+
+### #8 — Jackson Drake *(declarado 2026-08-01 s02)*
+
+> *"otra buena lucha producida por Jackson Drake, ponlo en la lista de
+> FUTURE 2025 si aun no está, y tamvien en la lista de los que se ganaron
+> un lugar en mi corazón"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+- **Contexto**: showcase vs Tate Wilder, WWE NXT 2/6/2026. Sin clase
+  declarada — la alta va por acumulación, no por un match.
+- **La palabra que la justifica es *producida***: el Vehemiurgo le
+  atribuye **autoría del match**, no solo participación.
+- **Doble pertenencia**: ya era **#11 de THE FUTURE IN 2026** (declarado
+  2026-07-14 s35); acá se **ratifica** y se suma a esta lista.
+  [→](../people/jackson-drake.md) ·
+  [`../matches/2026-06-02-jackson-drake-vs-tate-wilder-wwe-nxt.md`](../matches/2026-06-02-jackson-drake-vs-tate-wilder-wwe-nxt.md)
+
+### #9 — Las Tóxicas *(declaradas 2026-08-01 s02, en bloque como unidad)*
+
+> *"las tóxicas, full formation contra las faces, tienen la lucha
+> perfecta, se merece las 3 clases [...] Muy entretenida y muy oldschool
+> las tóxicas, me encantan. Pongamos a las tóxicas juntas en la lista de
+> los que se ganaron mi corazón"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+- **Contexto**: AAA Worldwide, 6/6/2026. **Perfect Match** en formación
+  completa contra el equipo face.
+- **Entran como UNIDAD, no como individuales** — *"pongamos a las Tóxicas
+  juntas"*. Es la primera alta de una **facción** a esta lista.
+- **La razón es de escuela**: *"muy entretenida y **muy old-school** las
+  Tóxicas"* — trabajan con lógica de rudas de toda la vida.
+- **La medida del elogio es el dardo colateral**: *"hasta olvidé que
+  Bayley está aquí bajando el nivel"*.
+  [→](../promotions/las-toxicas.md) ·
+  [`../matches/2026-06-06-toxicas-vs-faces-aaa-worldwide.md`](../matches/2026-06-06-toxicas-vs-faces-aaa-worldwide.md)
+
 ## Pendientes
 
 - [ ] Ratificar alcance: ¿solo TNA o cross-promotion? ¿con orden o
       sin orden? ¿criterio de salida (sube al panteón / se cae)?
+- [ ] **Alineación exacta de Las Tóxicas** en la fecha de su alta
+      (6/6/2026) — [verif].
 - [ ] Match/show exacto del 9/4/2026 de Dani Luna — [verif rival,
       finish, título en juego].
 
