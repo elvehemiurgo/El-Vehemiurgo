@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: robert-stone
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Robert Stone / Robbie E"
   - "Cobertura TNA / Impact 2010s — Robbie E + The BroMans"
@@ -134,6 +134,16 @@ Stone como caso paradigmático del worker-entertainer**:
 sobre Stone como **caso de versatilidad sostenida que el oficio
 respeta**, paralelo con voces que el manifiesto del Vehemiurgo
 ya elogia.)
+
+### Sesión 2026-08-01 s04 — "Soy muy fan de Robert Stone y toda su carrera" — la declaración más alta de los tres
+
+**Cita verbatim**:
+
+> *"aunque de WWE, Rey Mysterio y Robert Stone como gerentes me gustan más en camaras, soy muy fan de Robert Stone y toda su carrera, me parece un gran talento y muy bueno para tv es genial que este en NXT"*
+>
+> — El Vehemiurgo, 2026-08-01 s04 (verbatim)
+
+**Lectura sintética**: **La declaración más alta que recibe cualquiera de los tres gerentes comparados** — no se limita al rol de GM interino de NXT, abarca *"toda su carrera"*. **Confirma y profundiza el take denso de s-2026-05-10**, que ya lo llamaba *"top tier wrestler y entertainer"* y *"mago del entretenimiento"*. El elogio nuevo es específico de TV: *"gran talento y muy bueno para TV"*, y *"es genial que esté en NXT"* — aprobación directa de su ubicación actual en el roster. Ver [`./adam-pearce.md`](./adam-pearce.md) y [`./rey-mysterio.md`](./rey-mysterio.md).
 
 ## Pendientes / huecos
 

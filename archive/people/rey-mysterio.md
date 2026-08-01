@@ -210,6 +210,16 @@ fértil sobre cross-pollination cultural sostenida**.
 
 **Lectura sintética**: Sin clase propia (la triple corresponde al match). **Presencia en el ring al inicio del máscara contra máscara** de Arena Monterrey — un mes después de haber sido nombrado **General Manager de AAA** (23/5/2026). Su rol exacto en la escena queda `[verif]`. El **guitarrazo** que abre la lucha fue de un mariachi enmascarado que **research identificó como Pimpinela Escarlata**.
 
+### Sesión 2026-08-01 s04 — El GM de AAA gana la comparación de gerentes en cámara
+
+**Cita verbatim**:
+
+> *"aunque de WWE, Rey Mysterio y Robert Stone como gerentes me gustan más en cámaras"*
+>
+> — El Vehemiurgo, 2026-08-01 s04 (verbatim)
+
+**Lectura sintética**: Registro nuevo, distinto de su carrera como luchador: el Vehemiurgo lo trae a la conversación **en su rol de General Manager de AAA** (nombrado 23/5/2026) y lo prefiere en cámara por encima de Adam Pearce como gerente de WWE Raw. **Es la primera evaluación editorial de Rey Mysterio como figura de autoridad on-screen**, separada de su expediente como wrestler. Ver [`./adam-pearce.md`](./adam-pearce.md) y [`./robert-stone.md`](./robert-stone.md).
+
 ## Pendientes / huecos
 
 - [ ] **WCW Halloween Havoc 1997 mask match vs Eddie** —
