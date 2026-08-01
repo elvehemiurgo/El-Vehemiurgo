@@ -104,6 +104,16 @@ ya es leyenda consagrada. Ver
 
 **Lectura sintética**: **FS+WE.** Primera defensa del AAA World Cruiserweight Championship —ganado en Noche de los Grandes— en televisión mayor de WWE, ante Axiom. Progresión de estilo reconocida en continuidad directa con s53. Research confirma una segunda defensa el 26/6 ante Nathan Frazer.
 
+### Sesión 2026-08-01 s06 — ALTA a "Dioses del Wrestling" (criterio objetivo) — triple clase defendiendo el crucero
+
+**Cita verbatim**:
+
+> *"Y la 3 way por el título con fenix vs laredo vs lince estuvo genial! se merece las 3 clases, son dioses del wrestling"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: **Perfect Match** defendiendo el **AAA World Cruiserweight Championship** en un 3-way ante Laredo Kid y Lince Dorado, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo` — criterio distinto y complementario al panteón: acá no es devoción, es reconocimiento de que **no se puede negar que es wrestling del bueno**. Ver [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lince-dorado
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
 tags: [lince, aaa, perfect-wrestling, fighting-spirit, wrestling-entertainment, primer-registro-individual]
@@ -56,6 +56,16 @@ protagonismo singularizado más allá del elogio de conjunto.
 **Lectura sintética**: Fighting Spirit, sin protagonismo
 singularizado más allá del elogio de conjunto. Ver
 [`../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md).
+
+### Sesión 2026-08-01 s06 — ALTA a "Dioses del Wrestling" (criterio objetivo) — cobra la contendencia ganada el 6/6
+
+**Cita verbatim**:
+
+> *"Y la 3 way por el título con fenix vs laredo vs lince estuvo genial! se merece las 3 clases, son dioses del wrestling"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: **Perfect Match**, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo` — su primer registro con protagonismo propio en el archivo. **Cobra el hilo abierto el 6/6/2026**: ganó el fatal 5-way de *Noche de los Grandes* Night 2 con un Shooting Star Press sobre Joaquín Wilde, ganándose esta contendencia. Ver [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md) y [`../matches/2026-06-06-5-way-contendencia-crucero-aaa-noche-de-los-grandes-night-2.md`](../matches/2026-06-06-5-way-contendencia-crucero-aaa-noche-de-los-grandes-night-2.md).
 
 ## Pendientes / huecos
 

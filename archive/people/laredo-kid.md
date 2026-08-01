@@ -93,6 +93,16 @@ queda posicionado del otro lado. Ver
 
 **Lectura sintética**: **FS + WE**, con **reserva técnica puntual declarada sobre él**: el tropiezo en **su comeback con el powerbomb** al inicio. Después, *"todo muy brutal, buenos spots"*. **Research**: **pierde el AAA World Cruiserweight Championship ante Rey Fénix** tras un reinado de **500+ días** — antes del finish había metido un **low blow** a espaldas del réferi y un Frog Splash. El Vehemiurgo destaca que los dos *"están empezando a hablar como superstars ahora con WWE"*.
 
+### Sesión 2026-08-01 s06 — ALTA a "Dioses del Wrestling" (criterio objetivo) — retador en el 3-way
+
+**Cita verbatim**:
+
+> *"Y la 3 way por el título con fenix vs laredo vs lince estuvo genial! se merece las 3 clases, son dioses del wrestling"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: **Perfect Match** como retador en el 3-way por el **AAA World Cruiserweight Championship** ante Rey Fénix y Lince Dorado, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo`. Ver [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
