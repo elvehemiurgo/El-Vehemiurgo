@@ -196,6 +196,19 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   contrastando con resultados y rosters reales del periodo, más
   grep del archivo para no duplicar identidades ya registradas;
   `[verif]` con candidatos solo si el contraste no resuelve.
+  **Sub-agentes obligatorios para completar nombres (ley desde
+  2026-08-01)**: *"siempre que tengas la fecha y nombre del show
+  disponible, manda los sub-agentes que necesites para completar
+  nombres de luchadores o roles que no haya especificado yo;
+  cuando no especifico es porque espero que lo averigües y
+  completes por mí"* (verbatim del Vehemiurgo). **La omisión de un
+  nombre es un encargo, no una laguna aceptable.** Con fecha +
+  show en el dictado, se lanza sub-agente **sin pedir permiso** y
+  se cierran participantes, roles, finishes y títulos en juego.
+  `[verif]` queda **solo** para lo que el research tampoco cierra.
+  Precedente: el 5-way y Las Tóxicas de *Noche de los Grandes*
+  Night 2 (s02→s53), donde el research además destapó que dos
+  fichas registraban un show inexistente.
   **El contexto dictado es verdad de tablas**: afiliaciones,
   alineaciones y resultados declarados para la fecha del show
   prevalecen sobre hipótesis previas del archivo (precedente

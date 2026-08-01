@@ -14,7 +14,13 @@ Ejecutar los pasos EN ORDEN. Fuente de doctrina: CLAUDE.md §§4-6.
    identificación"). Ante nombre parcial/dudoso: (a) ubicar show y
    fecha dictados, (b) contrastar con resultados y rosters reales
    del periodo, (c) grep en el archivo por si ya existe bajo otra
-   grafía — nunca duplicar identidad, (d) solo si no resuelve →
+   grafía — nunca duplicar identidad, (d) **si el dictado trae
+   FECHA + NOMBRE DE SHOW, lanzar sub-agente de research SIN PEDIR
+   PERMISO** para cerrar participantes, roles, finishes y títulos
+   en juego (ley 2026-08-01: *"cuando no especifico es porque
+   espero que lo averigües y completes por mí"*). El sub-agente va
+   con briefing anti-fabricación y advertencia 403. (e) solo si el
+   research tampoco resuelve →
    `[verif]` con candidatos. **(e) El contexto dictado es verdad de
    tablas**: afiliaciones, alineaciones y resultados que el
    Vehemiurgo declara para la fecha del show prevalecen sobre
