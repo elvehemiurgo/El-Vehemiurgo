@@ -74,10 +74,86 @@ Mysterio. Ver
 [`../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md`](../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md)
 y [`./original-grande-americano.md`](./original-grande-americano.md).
 
+### Research 2026-08-01 — Estaba en la puerta de salida: seis segundos y un Hall of Famer que no sabía que existía
+
+**Fuente**: sub-agente A, research
+`stakes-grandes-americanos-vs-drew-fatu-comparativa-2026` (closed).
+Dossier íntegro:
+[`../../dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md`](../../dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md).
+**Advertencia**: material snippet-level (muro 403).
+
+**Identificación completa**: **Marcel Barthel**, alemán, 35 años. Pre-WWE
+venía del circuito europeo en el stable **Ringkampf** con Gunther
+(entonces WALTER); firmaron con WWE en 2019. Lema heredado de Ringkampf:
+***"Die Matte ist heilig"*** — "el tapiz es sagrado". Dos veces **NXT Tag
+Team Champion** con Fabian Aichner (13/5/2020 y 26/10/2021). En wXw: dos
+veces World Tag Team Champion y **una vez Unified World Wrestling
+Champion**.
+
+**El rol en Imperium era explícito: el hombre del micrófono.** Hacía las
+presentaciones grandilocuentes de Gunther. El escudero que vendía al rey.
+
+**La disolución fue idea suya**, on-record: quería salir de la sombra de
+Gunther y hacer carrera propia; Gunther aceptó. **Imperium se disolvió
+oficialmente el 23/12/2024**, cuando ya solo quedaban ellos dos (Kaiser
+había destrozado a Giovanni Vinci el 22/4/2024).
+
+**Y lo que vino no fue push — fue la puerta:**
+
+- **Royal Rumble 2025 (1/2)**: entra en el puesto **#13** y **Penta lo
+  elimina en SEIS SEGUNDOS — el tiempo más corto de todo el evento,
+  contando ambas Rumbles.** Tuvo que reaccionar públicamente al asunto.
+- **Récord 2025** (solo TV, base terciaria, orientativo): **5-6 en 11
+  matches**.
+- **Defector** lo describió trabajando como *"a vaguely fascist-coded
+  flunky"* en Imperium y **"seemingly on his way to being released"**.
+
+**El dato editorial más potente del expediente**: en abril de 2026, en
+*The Ariel Helwani Show*, **Ric Flair** despotricó contra Kaiser
+describiéndolo como **un inglés de 24 años** — es **alemán, de 35** — y
+**se sorprendió de enterarse de que seguía en el roster y luchando en
+México**. Al disculparse después reconoció su habilidad profesional
+***"which I have heard is very good"***.
+
+> **De oídas.** Un Hall of Famer de primer nivel, en 2026, no sabía la
+> nacionalidad, la edad ni el estatus laboral de un worker con siete años
+> en la compañía, y nunca lo había visto trabajar. **Esa es la medida
+> exacta de cuán invisible era antes de la máscara.**
+
+**Bajo la máscara — la transformación**: primera aparición **30/6/2025**,
+segmento backstage de American Made. **WWE nunca lo reconoció en
+comentarios**: la confirmación fue **visual y deliberada**. En AAA (desde
+julio 2025) **abrazó la cultura mexicana, bajó las banderas americanas
+del ring gear y cortó promos en español fluido**. Lidera **Los
+Americanos** con **Pete Dunne (Rayo Americano)** y **Tyler Bate (Bravo
+Americano)** — dos ex-NXT UK igualmente infrautilizados que encontraron
+rol dentro del mismo gimmick inventado.
+
+**La recepción mexicana** (dossier §5.3): **La Jornada** tituló *"Los dos
+rostros del Grande Americano: sátira en EU y héroe en México"*; **RÉCORD**,
+*"al nivel de Místico"*. La explicación publicada: funcionó porque
+**abrazó el absurdo sin parecer superior** — el público percibió que
+jugaba con los códigos, no que los atacaba. **Heterodoxia sostenida sobre
+ortodoxia entendida.** La crítica que se preserva: parte de la prensa lo
+leyó como **visión malinchista**. Ver
+[`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
+
+**Contexto factual no editorial**: arrestado el **20/5/2026** en Florida
+por *simple battery*, liberado bajo fianza de US$ 1.000. AAA canceló y
+reprogramó una aparición; **WWE no aplicó disciplina**. Impactó la
+logística del ángulo diez días antes de Monterrey.
+
 ## Pendientes / huecos
 
-- [ ] Nombre real, debut, trayectoria completa (Imperium, midcard
-      runs).
+- [ ] **Citas on-record de Cornette, Pollock, JR o Meltzer sobre su
+      infrautilización** — `[no encontrado]`. Existen episodios de *The
+      Jim Cornette Experience* que lo tratan; contenido no extraído.
+- [ ] Booking de **Giovanni Vinci** post-abril 2024 — `[no encontrado]`.
+- [ ] Registrar el clímax del **30/5/2026** (gana la máscara de Gable en
+      Arena Monterrey) en `archive/matches/` — volcado s53 pendiente.
+- [x] ~~Nombre real~~ → **Marcel Barthel**, alemán, 35 años (research
+      2026-08-01).
+- [ ] Debut y trayectoria completa (Imperium, midcard runs).
 - [ ] Cronología exacta de sus apariciones bajo la máscara del
       Americano vs las de Gable.
 

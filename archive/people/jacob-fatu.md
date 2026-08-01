@@ -250,9 +250,84 @@ el Vehemiurgo lo declara *"listo"* para el peldaño de main eventer.
 Ver
 [`../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md`](../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md).
 
+### Research 2026-08-01 — Sí convirtió: el que "no quedó grabado" es el que vende camisetas
+
+**Fuente**: sub-agente B, research
+`stakes-grandes-americanos-vs-drew-fatu-comparativa-2026` (closed).
+Dossier íntegro:
+[`../../dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md`](../../dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md).
+**Advertencia**: material snippet-level (muro 403).
+
+**MLW, con fechas cerradas**: gana el **MLW World Heavyweight
+Championship a Tom Lawlor el 6/7/2019** (*Kings of Colosseum*); reinado
+de **819 días — el más largo en la historia del título**; lo pierde ante
+**Alex Hammerstone en *Fightland*, octubre de 2021**. También **MLW
+National Openweight Champion**. Al salir se lo describía como *"the
+baddest talented Indy worker on the scene"*. **Agente libre confirmado el
+2/2/2024** [F4WOnline]; **debut en WWE el 21/6/2024** en SmackDown, como
+enforcer de Solo Sikoa.
+
+**WWE United States Championship**: ganado en **WrestleMania 41
+(19/4/2025)** ante LA Knight — primer título singles de main roster,
+**con Haku abrazándolo post-match**. Perdido en **Night of Champions
+(28/6/2025, Riyadh)** ante Solo Sikoa, con ayuda de Tonga Loa y el
+debutante Hikuleo. **Reinado: 70 días.**
+
+**El turn**: **Money in the Bank 2025 (7/6)**, Fatu traiciona a Solo
+tirándole de la pierna cuando iba por el maletín, permitiendo que Rollins
+gane. Semilla declarada: Solo lo había llamado ***"All gas, no
+brains"***.
+
+**Sobre el micrófono — el arco está cerrado y documentado**: Fatu
+reconoce on-record que **hablar era su punto más débil** y que no estaba
+cómodo en absoluto; **Tama Tonga** fue quien lo empujó — *"Just talk like
+yourself"*. Esto **corrobora en el registro real la crítica del
+Vehemiurgo en s38** y su resolución en s47.
+
+**LA CORRECCIÓN AL TAKE DEL VEHEMIURGO (2026-08-01)**: el archivo lo leía
+como el beneficiario de una rivalidad que no dejó marca. **El dato dice
+que sí convirtió, y rápido:**
+
+- **Backlash 2026 (9/5, Tampa)**: **Roman Reigns vs Jacob Fatu por el
+  World Heavyweight Championship, 18:02.** Hicieron falta **tres spears**
+  y el finish llegó con **turnbuckle expuesto**. Post-match destrozó a
+  Reigns, al réferi, a **Adam Pearce** y a los productores. **Deadspin**:
+  *"Jacob Fatu Becomes a Star Against Roman Reigns."* → **Tres semanas
+  después del blowoff estaba en un main event de PLE por el título
+  mundial.**
+- **Top-10 de vendedores de merchandising de WWE Shop 2025** — **pese a
+  estar 11 semanas fuera de TV por lesión**. `[Wrestlenomics]`
+  **Drew McIntyre no figura en esa lista.**
+- **Fatu, on-record en *Cheap Heat*, atribuyéndole el estrellato a Drew**:
+  *"I feel like it would have never happened if it wasn't Drew. […] if it
+  wasn't Drew McIntyre, none of this would have happened."* Y a Daniel
+  Cormier: *"shout out to Drew, though, for bringing the dog out of me
+  yesterday."*
+
+> **Eso es una afirmación de draw, no de workrate — y la evidencia de
+> Backlash le da la razón.**
+
+**Lo que sí falló fue el diseño, no él**: el feud nació de un descarte
+(el pitch original era Drew vs Cody en Hell in a Cell por el título), la
+estipulación se degradó de Hell in a Cell a **Unsanctioned Match**, y el
+whodunit del 17/10/2025 —el ataque bajo el rig de producción que cubría
+su lesión dental real— **nunca se reveló on-screen**. Ver
+[`./drew-mcintyre.md`](./drew-mcintyre.md) y
+[`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
+
+**Sobre "la aprobación total de TKO"**: `[no confirmado]`. No existe
+reporte on-record. Es inferencia razonable de booking, no declaración
+documentada.
+
 ## Pendientes / huecos
 
-- [ ] Cronología MLW completa con fechas de title runs.
+- [x] ~~Cronología MLW completa con fechas de title runs~~ →
+      **RESUELTO (research 2026-08-01)**: 6/7/2019–oct 2021, **819 días**,
+      récord del título.
+- [ ] Duración exacta del match de WrestleMania 42 — `[no encontrado]`.
+- [ ] Star rating de Meltzer para Fatu vs McIntyre en WM42 — `[no
+      encontrado]`, muro 403.
+- [ ] Resultado del Fatal 4-Way de Backlash 2025 — `[no confirmado]`.
 - [ ] Run WWE 2024–2026 detallado: matches, segmentos, ubicación
       en card, momentos *over* clave.
 - [ ] Cronología del angle Jacob vs Solo dentro de MFTs (cuándo

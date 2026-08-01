@@ -63,9 +63,67 @@ coronaría a Oba Femi como campeón babyface, con WrestleMania como
 escenario probable. Ver
 [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md) y [`./oba-femi.md`](./oba-femi.md).
 
+### Research 2026-08-01 — El contrafactual: el protegido que salió caro
+
+**Fuente**: sub-agente A, research
+`stakes-grandes-americanos-vs-drew-fatu-comparativa-2026` (closed).
+Dossier íntegro:
+[`../../dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md`](../../dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md).
+**Advertencia**: material snippet-level (muro 403).
+
+**Identificación**: **WALTER** en NXT UK. Pre-WWE venía del circuito
+europeo en el stable **Ringkampf** junto a **Marcel Barthel** (hoy
+[`./ludwig-kaiser.md`](./ludwig-kaiser.md)); firmaron en 2019. **Imperium
+nace el 22/5/2019** en NXT UK y **se disuelve oficialmente el
+23/12/2024**.
+
+**Los datos duros:**
+
+| Hito | Dato |
+|---|---|
+| Reinado Intercontinental | **666 días** — récord absoluto, superando los **454** del Honky Tonk Man (1987-88) |
+| Fin del reinado | **6/4/2024, WrestleMania 40 Noche 1, Filadelfia** — pierde ante **Sami Zayn** en poco más de 15 min, en el match previo al main event |
+| Vehículo de ascenso | **King of the Ring 2024**, final ante **Randy Orton** |
+| World title | **3/8/2024, SummerSlam** — vence a **Damian Priest**; finish con **Finn Bálor traicionando a Priest** |
+| Defensa | 30/11/2024, Survivor Series, retiene ante Priest |
+
+**Por qué él saltó y Gable/Kaiser no**: Triple H lo tenía marcado desde
+NXT UK —citado describiendo a WALTER como *"straight money"* y a Gunther
+como *"family"*—, y el propio Gunther declaró on-record que **Triple H es
+muy disciplinado sosteniendo planes de largo plazo**.
+
+> **Gunther tenía plan. Gable y Kaiser tenían asignaciones.** Y el
+> Intercontinental le sirvió de **plataforma**; a Chad Gable el mismo
+> título le sirvió de **muro** — tres shots en cinco semanas de 2023,
+> cero victorias con el cinturón en juego.
+
+**El costo de oportunidad es literal**: la lesión que le costó a Gable
+siete meses de 2025 se originó **luchando contra Gunther en un live event
+sin cámaras en Reino Unido, octubre de 2024**. Ver
+[`./el-grande-americano.md`](./el-grande-americano.md).
+
+**Y el remate del contrafactual**: reportes de 2026 señalan que WWE tiene
+**dificultades para encontrarle oponentes**, que "rara vez pierde" y que
+**no es fácil de bookear**, con periodos sin planes claros para
+WrestleMania pese a victorias sobre Goldberg, John Cena y AJ Styles.
+Esto **corrobora con data real la lectura del Vehemiurgo en s49**, que ya
+lo ubicaba como el top heel de referencia esperando a un babyface que lo
+destronara.
+
+> **Al protegido desde arriba le dieron 666 días, un King of the Ring y
+> un título mundial, y en 2026 la compañía no sabe qué hacer con él. A
+> los dos que estaban en la puerta de salida no les dieron nada, se
+> inventaron un acto, y produjeron la historia más caliente de la empresa
+> en un edificio de Monterrey.**
+
+Ver
+[`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
+
 ## Pendientes / huecos
 
-- [ ] Nombre real, debut, trayectoria completa.
+- [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo
+      resuelto: WALTER** (NXT UK, Ringkampf).
+- [ ] Debut y trayectoria completa pre-WWE.
 - [ ] Contenido exacto de la emboscada + estipulación del match
       anunciado.
 - [ ] Naturaleza exacta de la conexión con Paul Heyman en este

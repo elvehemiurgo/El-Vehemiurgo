@@ -147,8 +147,82 @@ de cláusula contractual territorial (aplica en México, no en
 EE.UU.). Ver
 [`../segments/2026-05-04-los-americanos-3v3-entradas-clausulas-wwe-raw.md`](../segments/2026-05-04-los-americanos-3v3-entradas-clausulas-wwe-raw.md).
 
+### Research 2026-08-01 — Chad Gable: diez años de techo, y el gimmick como única salida
+
+**Fuente**: sub-agente A, research
+`stakes-grandes-americanos-vs-drew-fatu-comparativa-2026` (closed).
+Dossier íntegro:
+[`../../dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md`](../../dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md).
+**Advertencia**: todo el material es snippet-level (muro 403); ninguna
+fuente primaria fue leída en su documento.
+
+**El techo documentado (2016-2025)**: un reinado de Raw Tag Team de
+**56 días** (ene-mar 2022, con Otis), **tres shots fallidos al
+Intercontinental de Gunther** en cinco semanas de 2023 — incluyendo la
+primera victoria en singles sobre Gunther en main roster, **pero por
+count-out** (21/8/2023) y la derrota limpia del 4/9/2023 que aseguró el
+récord de 666 días. **Cero apariciones en cualquier reporte de planes de
+world title entre 2022 y 2025.**
+
+**Cita on-record de Gable sobre ese run** *(Fightful / Wrestling Inc.)*:
+
+> *"He's on this insane run right now… that I don't think I ever got
+> closure with. If I had it my way, I'd like to finish that up. I'd like
+> to finish that story."*
+
+**No hay evidencia de promesa incumplida del IC** — solo especulación de
+Meltzer sobre una revancha en Fastlane. `[no confirmado]`
+
+**El acto nació de una propuesta del talento**: Alpha Academy fue un
+pitch de Gable — *"Holy crap, they're letting us do this thing"*. Y El
+Grande Americano nació de una derrota de kayfabe: **13/1/2025, Gable
+pierde ante Penta en Raw** y la frustración lo lanza a "estudiar las
+artes oscuras de la lucha libre". **Debut in-ring del personaje: 24/3/2025
+vs Dragon Lee.**
+
+**El spot que define al personaje**: desenmascara a Dragon Lee en pleno
+match y le mete **una placa de metal a la máscara** — la inversión total
+de la liturgia mexicana, el gringo que hace trampa *con* la máscara.
+
+**Detalle carny de primer orden**: el **WWE Speed Championship no cambió
+de manos cuando cambió el hombre bajo la máscara**. Gable lo ganó en
+mayo de 2025, se lesionó, y **Kaiser continuó el reinado como el mismo
+campeón — porque el campeón era el gimmick, no el worker.**
+
+**El costo físico**: la lesión que le costó siete meses de 2025
+—**rotator cuff desgarrado más el tendón del bíceps**, lo que él llamó
+*"bonus surgery"*, cirugía el 1/7/2025 en Birmingham— se originó en una
+**gira de live events en Reino Unido en octubre de 2024, luchando contra
+Gunther**, sin cámaras. → **Gable pagó el precio físico de un programa
+cuyo beneficio se lo llevó el otro.** Ver [`./gunther.md`](./gunther.md).
+
+**Y el vuelco de 2026 llegó por la ruta del gimmick, no del push**: el
+empuje interno reportado (WrestleVotes vía Fightful Select) es
+**posterior a Monterrey**. Forbes, 19/6/2026: *"WWE Has Found Its Next
+Main Event Star In Chad Gable"*. Gable en *The Hot Tag*: *"I'm capable of
+that. I know it and I think people now know it, and **the right people
+now know it**."*
+
+> **La oficina reaccionó al over; no lo fabricó.** Diez años sin entrar a
+> la conversación de world title, y entró **después** de inventarse un
+> gimmick, perderlo, ser desenmascarado y volver babyface.
+
+**El linaje del gimmick** (dossier §5): el **primer luchador enmascarado
+de México fue un americano** — Corbin James Massey (*Ciclón MacKey* → *La
+Maravilla Enmascarada*), traído por Lutteroth en 1933-34. Y el
+antecedente directo del arquetipo son **Los Gringos Locos** (Eddie
+Guerrero & Art Barr) perdiendo cabelleras contra las máscaras de El Hijo
+del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
+[`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
+
 ## Pendientes / huecos
 
+- [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania
+      41** (abr 2025) — `[no confirmado]`, no se cerró con fuente.
+- [ ] Fecha en que Americano pierde el **WWE Speed Championship** en NXT
+      — `[no encontrada]`.
+- [ ] Registrar el clímax del **30/5/2026** (máscara vs máscara, Arena
+      Monterrey) en `archive/matches/` — volcado s53 pendiente.
 - [x] ~~Aclarar si "Gable" y "Kaiser" son dos personas distintas~~
       → **RESUELTO (s44, contraste con resultados reales)**: el
       gimmick es compartido — creado por **Chad Gable**, también
