@@ -153,6 +153,16 @@ logística del ángulo diez días antes de Monterrey.
 
 **Lectura sintética**: WE para las escenas post-match en AAA, complementarias del video especial dedicado a Chad Gable en Raw. ***"Su histórica lucha"*** — el adjetivo del Vehemiurgo sobre el máscara contra máscara del 30/5, que él ganó. Ver [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
 
+### Sesión s53 (capturada 2026-08-01) — "Es un babyface nivel Terry Funk" — gana la máscara en Monterrey
+
+**Cita verbatim**:
+
+> *"detras de las máscaras, tenemos Kaiser vs Gable, o sea, de lo mejor del wrestling contemporaneo de europa y américa [...] Kaiser ha absorvido y estudiado de forma muy intensa y oldschool como ser un babyface, especialmente en méxico en este contexto oldschool, o sea, es un babyface nivel terry funk, eso es mucho decir, pero es que de verdad le entendió, lo hizo real [...] Crearon estos stakes solo con el deseo de Kaiser de tener protagonismo en WWE, CHad se lesiona y Kaiser simplemente lo reemplaza para poder seguir luchando en TV, ese deso primordial, y el reconocimiento como underdog subestimado que tenia Kaiser entre los fans"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **Perfect Match, gana la máscara de Chad Gable**, y recibe ***el elogio más alto que el archivo le da a nadie en 2026***: ***"es un babyface nivel Terry Funk"*** — con el propio Vehemiurgo marcando que *"eso es mucho decir"*. La razón: **estudió cómo ser babyface de forma intensa y old-school, en México y en contexto old-school**, y *"lo hizo real"*. **Y la tesis de los stakes, dictada meses antes de que el research la documentara**: el ángulo se creó *"solo con el deseo de Kaiser de tener protagonismo en WWE"* — Chad se lesiona, Kaiser lo reemplaza para seguir en TV, *"ese deseo primordial"*, más el **reconocimiento como underdog subestimado** entre los fans. **Coincide punto por punto con lo que el research encontró después** (seis segundos en la Rumble 2025, reporte de salida inminente, Flair sin saber que seguía contratado). Finish por **running headbutt**; **Andrea Bazarte** en primera fila. Ver [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
+
 ## Pendientes / huecos
 
 - [ ] **Citas on-record de Cornette, Pollock, JR o Meltzer sobre su
@@ -169,6 +179,10 @@ logística del ángulo diez días antes de Monterrey.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md)
+- [`../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md)
+- [`../segments/2026-05-30-promo-post-match-gable-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-promo-post-match-gable-aaa-noche-de-los-grandes.md)
+- [`../segments/2026-05-30-americanos-llegada-al-edificio-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-americanos-llegada-al-edificio-aaa-noche-de-los-grandes.md)
 - [`../segments/2026-06-06-post-match-americanos-aaa-worldwide.md`](../segments/2026-06-06-post-match-americanos-aaa-worldwide.md)
 - [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)
 - [`../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md`](../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md)

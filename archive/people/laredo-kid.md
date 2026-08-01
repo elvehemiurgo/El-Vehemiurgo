@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: laredo-kid
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [laredo-kid, identidad-consolidada, aaa, fighting-spirit, wrestling-entertainment, perfect-wrestling, golpes-duros, heroe-fundamental-50, panteon, heel-turn, primer-registro-individual]
@@ -83,6 +83,16 @@ revancha: corta las promos y consuma el heel turn, mientras Fénix
 queda posicionado del otro lado. Ver
 [`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md).
 
+### Sesión s53 (capturada 2026-08-01) — Pierde el crucero tras 500+ días en el opener de Monterrey
+
+**Cita verbatim**:
+
+> *"buena rivalidad, básica fundamental y buen escenario para ambos que estan empezando a hablar como superstars ahora con WWE [...] lo mantienen real y solo al inicio como que se tropiezan en el comeback de laredo con el powerbomb, pero luego todo muy brutal, buenos spots"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **FS + WE**, con **reserva técnica puntual declarada sobre él**: el tropiezo en **su comeback con el powerbomb** al inicio. Después, *"todo muy brutal, buenos spots"*. **Research**: **pierde el AAA World Cruiserweight Championship ante Rey Fénix** tras un reinado de **500+ días** — antes del finish había metido un **low blow** a espaldas del réferi y un Frog Splash. El Vehemiurgo destaca que los dos *"están empezando a hablar como superstars ahora con WWE"*.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -91,6 +101,7 @@ queda posicionado del otro lado. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md)
 - [`../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md`](../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md)
 - [`../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md)
 - [`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md)

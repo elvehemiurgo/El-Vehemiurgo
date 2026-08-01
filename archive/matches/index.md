@@ -37,10 +37,11 @@ con cada cambio de estado.
 | 2026-06-20 | Maya World vs Athena | AEW / Collision | FS | stub | 1 | [→](2026-06-20-maya-world-vs-athena-aew-collision.md) |
 | 2026-06-20 | Zack Sabre Jr vs Adam Priest | AEW / Collision | FS | stub | 1 | [→](2026-06-20-zsj-vs-adam-priest-aew-collision.md) |
 | 2026-06-11 | Myron Reed vs Kevin Knight | AEW / Collision Summer Blockbuster | PW·FS·WE | stub | 1 | [→](2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md) |
-| 2026-06-06 | Las Tóxicas vs equipo face | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-06-06-toxicas-vs-faces-aaa-worldwide.md) |
-| 2026-06-06 | 5-way de apertura | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-06-06-5-way-apertura-aaa-worldwide.md) |
+| 2026-06-06 | Bayley, Lola Vice & La Catalina vs Las Tóxicas (Flammer, La Hiedra & Maravilla) | AAA / Noche de los Grandes — Night 2 | PW·FS·WE | en-investigacion | 1 | [→](2026-06-06-bayley-lola-catalina-vs-toxicas-aaa-noche-de-los-grandes-night-2.md) |
+| 2026-06-06 | Lince Dorado vs Octagón Jr. vs Cruz del Toro vs Mini Vikingo vs Joaquín Wilde | AAA / Noche de los Grandes — Night 2 | PW·FS·WE | en-investigacion | 1 | [→](2026-06-06-5-way-contendencia-crucero-aaa-noche-de-los-grandes-night-2.md) |
 | 2026-06-06 | Persephone vs Hazuki | AEW / Collision | FS·WE | stub | 1 | [→](2026-06-06-persephone-vs-hazuki-aew-collision.md) |
 | 2026-06-06 | The Dogs vs The Guns — rematch | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-06-06-dogs-vs-guns-rematch-aew-collision.md) |
+| 2026-06-05 | Fatal 4-way | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-06-05-4-way-wwe-smackdown.md) |
 | 2026-06-05 | Ricky Saints vs Carmelo Hayes | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md) |
 | 2026-06-05 | Chelsea Green vs Lash Legend | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md) |
 | 2026-06-03 | Will Ospreay vs Mark Davis | AEW / Dynamite | FS | stub | 1 | [→](2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md) |
@@ -54,8 +55,12 @@ con cada cambio de estado.
 | 2026-05-31 | Roman Reigns vs Jacob Fatu | WWE / Clash in Italy | WE | en-investigacion | 1 | [→](2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md) |
 | 2026-05-31 | Gunther vs Cody Rhodes | WWE / Clash in Italy | FS·WE | en-investigacion | 1 | [→](2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md) |
 | 2026-05-31 | Brock Lesnar vs Oba Femi | WWE / Clash in Italy | PW·FS·WE | en-investigacion | 1 | [→](2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md) |
+| 2026-05-30 | Rey Fénix vs Laredo Kid | AAA / Noche de los Grandes | FS·WE | en-investigacion | 1 | [→](2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md) |
+| 2026-05-30 | El Hijo de Dr. Wagner Jr. vs El Hijo del Vikingo | AAA / Noche de los Grandes | PW·FS·WE | en-investigacion | 1 | [→](2026-05-30-hijo-de-dr-wagner-jr-vs-hijo-del-vikingo-aaa-noche-de-los-grandes.md) |
+| 2026-05-30 | El Grande Americano (Ludwig Kaiser) vs Original El Grande Americano (Chad Gable) — máscara vs máscara | AAA / Noche de los Grandes | PW·FS·WE | en-investigacion | 1 | [→](2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md) |
 | 2026-05-30 | The Guns vs The Dogs | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-30-guns-vs-dogs-aew-collision.md) |
 | 2026-05-30 | Hazuki vs Maya World | AEW / Collision | — | stub | 1 | [→](2026-05-30-hazuki-vs-maya-world-aew-collision.md) |
+| 2026-05-29 | Chelsea Green vs Nia Jax | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md) |
 | 2026-05-29 | Ricky Saints vs [verif] | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md) |
 | 2026-05-27 | Ace Austin vs Andrade | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-27-ace-austin-vs-andrade-aew-collision.md) |
 | 2026-05-27 | Mark Davis vs Jack Perry — revancha | AEW / Dynamite & Collision | — | stub | 1 | [→](2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md) |

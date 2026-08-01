@@ -58,6 +58,16 @@ Dos criterios, ambos centrales a la doctrina:
 Su función en el match es de **presencia ringside**, amplificando la situación
 de underdog de Chelsea Green sin necesidad de intervenir.
 
+### Sesión s53 (capturada 2026-08-01) — Dirigiendo el regreso de Chelsea Green
+
+**Cita verbatim**:
+
+> *"esta lucha con Nia si protegió a CHelsea, fue genial verla trabajar con una heavyweight así, normalmente Chelsea es la heel pero aqui Nia estaba dirigiendo"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **FS+WE para el match** (clase del combate). **Registro de oficio de primer orden**: es **Nia quien dirige la lucha**, y esa conducción es lo que **protege** a Chelsea Green en su regreso tras cuatro meses. Trabajar de heavyweight conduciendo a una rival más chica —y que la rival salga fortalecida perdiendo— es exactamente el trabajo que el Vehemiurgo premia. Una semana después vuelve, esta vez ringside, en el Perfect Match de Chelsea vs Lash Legend.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -69,6 +79,7 @@ de underdog de Chelsea Green sin necesidad de intervenir.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md`](../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md)
 - [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)
 
 ## Cross-links

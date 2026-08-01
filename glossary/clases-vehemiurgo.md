@@ -160,6 +160,31 @@ de character / promo en mesa puede ser **Wrestling Entertainment
 **Wrestling Entertainment + Fighting Spirit + Perfect Wrestling**
 es el techo absoluto del oficio.
 
+### Precedente "está ok" (2026-08-01) — comentario sin clase
+
+**Regla declarada por el Vehemiurgo**:
+
+> *"Si digo que algo está ok, es porque quería comentarlo pero **no merece
+> ninguna clase**."*
+>
+> — El Vehemiurgo, 2026-08-01 (verbatim)
+
+**Consecuencias operativas, las dos igual de vinculantes**:
+
+1. ***"Está ok"* NUNCA da clase.** No se infla, no se marca "por lectura",
+   no se deja como candidatura. Es un veredicto cerrado: **sin clase**.
+2. ***"Está ok"* SÍ obliga a registrar la entrada.** El Vehemiurgo lo dice
+   porque **quería comentarlo**. Saltear una entrada porque *"solo dijo
+   ok"* es un error de archivo — la pieza va a `matches/` o `segments/`
+   con `clases_vehemiurgo: []` y su cita.
+
+**Cuidado con el ámbito del *"ok"***: el adverbio puede calificar **una
+parte** y no la entrada entera. Ejemplo del mismo volcado:
+*"Gunther vs Cody me gustó, no invertí en los stakes porque **se me hace
+ok**, by the book […] así que se merece una WE class y un FS class"* — acá
+el *"ok"* recae sobre **los stakes**, y la clase está declarada aparte. Se
+lee la frase completa antes de aplicar la regla.
+
 #### Precedente "WE masiva" (2026-08-01) — la clase cubre lo que funciona *a pesar* del booking
 
 **Pregunta planteada**: si la regla dura es que **booking ≠ clase**

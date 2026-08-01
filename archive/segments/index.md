@@ -66,7 +66,14 @@ cada alta y con cada cambio de estado.
 | 2026-06-01 | Promo de Dominik Mysterio | WWE / Monday Night Raw | promo | — | en-investigacion | 1 | [→](2026-06-01-dominik-mysterio-promo-wwe-raw.md) |
 | 2026-05-31 | Video opener de Clash in Italy | WWE / Clash in Italy | video package / opener de producción | WE | en-investigacion | 1 | [→](2026-05-31-video-opener-wwe-clash-in-italy.md) |
 | 2026-05-31 | Post-match Jacob Fatu / Roman Reigns | WWE / Clash in Italy | post-match angle | WE | en-investigacion | 1 | [→](2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md) |
+| 2026-05-30 | Video opener de Noche de los Grandes | AAA / Noche de los Grandes | video package / opener de producción | WE | en-investigacion | 1 | [→](2026-05-30-video-opener-aaa-noche-de-los-grandes.md) |
+| 2026-05-30 | Promo post-match de Chad Gable tras perder la máscara | AAA / Noche de los Grandes | promo post-match | WE | en-investigacion | 1 | [→](2026-05-30-promo-post-match-gable-aaa-noche-de-los-grandes.md) |
+| 2026-05-30 | Las entradas del máscara vs máscara | AAA / Noche de los Grandes | entradas / presentación de main event | WE | en-investigacion | 1 | [→](2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md) |
+| 2026-05-30 | Los Americanos llegando al edificio | AAA / Noche de los Grandes | tomas de producción / llegada | WE | en-investigacion | 1 | [→](2026-05-30-americanos-llegada-al-edificio-aaa-noche-de-los-grandes.md) |
 | 2026-05-30 | Post-match — momento de Persephone | AEW / Collision | promo (post-match) | — | stub | 1 | [→](2026-05-30-persephone-post-match-aew-collision.md) |
+| 2026-05-29 | Promo package de Tribal Combat — Jacob Fatu y Roman Reigns | WWE / SmackDown | promo package / video | — | en-investigacion | 1 | [→](2026-05-29-promo-package-tribal-combat-fatu-reigns-wwe-smackdown.md) |
+| 2026-05-29 | Fatal Influence interrumpe a las campeonas | WWE / SmackDown | interrupción / promo de facción | — | en-investigacion | 1 | [→](2026-05-29-fatal-influence-interrumpe-campeonas-wwe-smackdown.md) |
+| 2026-05-29 | Presentación backstage de Chelsea Green — apertura del show | WWE / SmackDown | presentación backstage / apertura | WE | en-investigacion | 1 | [→](2026-05-29-chelsea-green-presentacion-backstage-wwe-smackdown.md) |
 | 2026-05-29 | Segmento de Chelsea Green con Tiffany Stratton | WWE / SmackDown | backstage / comedia | — | en-investigacion | 1 | [→](2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md) |
 | 2026-05-27 | Backstage — Ospreay vs Mark Davis (booking de la lesión de cuello) | AEW / Dynamite & Collision | promo (backstage) | — | stub | 1 | [→](2026-05-27-ospreay-mark-davis-backstage-lesion-cuello-aew-dynamite-collision.md) |
 | 2026-05-27 | Post-match — Don Callis & Kyle Fletcher, con la interrupción de Takeshita (expulsión) | AEW / Dynamite & Collision | angle | — | stub | 1 | [→](2026-05-27-don-callis-fletcher-takeshita-expulsion-aew-dynamite-collision.md) |

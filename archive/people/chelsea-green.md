@@ -140,6 +140,16 @@ comedia dentro del ángulo de manipulación ya establecido. Ver
 
 **Lectura sintética**: **Perfect Match con reserva técnica puntual declarada** (un spot de tercera cuerda que *"se vio terrible"*; la clase vale igual). **EL GIRO DEL RUN**: deja de ser personaje 100% de humor con subtexto emotivo y pasa a **empatía como spotlight** — underdog **legítima**, *"no producto de robarse algo o tomar atajos, sino por puro deseo de ser campeona"*. **Es el reverso exacto del ángulo de manipulación de s51.** Los **stakes son sus sueños** — si va a poder seguir viviendo el sueño o no. Y **la venta empieza antes de la campana**: el segmento backstage donde Tiffany Stratton le dice que no la va a acompañar, después la entrada. Confirma el veredicto de estatus de s51 (*"la estrella de SmackDown"*): **la trabaja como top babyface** y pierde limpio porque Lash Legend es más fuerte. **DOCTRINA que sale de acá**: *"para mí el wrestling está en hacer que la lucha importe, y que sea una lucha de verdad"*.
 
+### Sesión s53 (capturada 2026-08-01) — ALTA AL PANTEÓN (#51): "Chelsea es wrestling"
+
+**Cita verbatim**:
+
+> *"Chelsea y su presentación backstage los segundos iniciales del show se merecen un enterteinment class, es una experta, pongamos a Chelsea en el panteon de heroes de una vez [...] su kayfabe y amor por el gimmick es lo mejor; aunque no es tan oldschool y su finisher lo aplica muy debil [...] la recontra vive, CHelsea es wrestling [...] yo veo smackdown para ver como Chelsea sigue luchando por su sueño, sigue sin rendirse [...] esta lucha con Nia si protegió a CHelsea, fue genial verla trabajar con una heavyweight así, normalmente Chelsea es la heel pero aqui Nia estaba dirigiendo"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **ALTA AL PANTEÓN DE HÉROES FUNDAMENTALES — #51**, más WE para su presentación backstage y **FS+WE para el match vs Nia Jax**, su regreso tras unos cuatro meses. **La alta es doctrinalmente atípica y por eso importa**: llega **con el defecto técnico declarado en la misma frase** (*"no es tan old-school y su finisher lo aplica muy débil"*). El criterio no es técnico — es **oficio habitado**: *"su kayfabe y amor por el gimmick es lo mejor"*, *"la recontra vive"*, y el sello final, ***"Chelsea es wrestling"***. **La definición del personaje, completa**: babyface natural y a la vez heel muy identificable; no es fuerte como para sostenerse sola, pero su sueño es ser la estrella, así que **compensa con creatividad y política** y termina sobreviviendo en las ligas grandes. *"Yo veo SmackDown para ver cómo Chelsea sigue luchando por su sueño."* En el match, **la inversión de roles la protege**: *"normalmente Chelsea es la heel pero aquí Nia estaba dirigiendo"*. Ver [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -157,6 +167,8 @@ comedia dentro del ángulo de manipulación ya establecido. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-05-29-chelsea-green-presentacion-backstage-wwe-smackdown.md`](../segments/2026-05-29-chelsea-green-presentacion-backstage-wwe-smackdown.md)
+- [`../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md`](../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md)
 - [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)
 - [`../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md`](../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md)
 - [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)

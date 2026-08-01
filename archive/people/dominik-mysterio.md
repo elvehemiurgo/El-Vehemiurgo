@@ -98,6 +98,16 @@ sección 4.
 
 **Lectura sintética**: Sin clase (*"buena promo"* es aprobación, no llamado). **Veredicto comparativo**: su trabajo en México es la vara con la que se lo mide a sí mismo. Cuando trae esa versión a Raw, funciona. El mérito reconocido es de **esfuerzo declarado** — *"le puso ganitas"*.
 
+### Sesión s53 (capturada 2026-08-01) — Nombrado como el objetivo del arco de Rey Fénix + el tributo a Los Gringos Locos
+
+**Cita verbatim**:
+
+> *"es un booking tranquilo para construir a Fénix como futuro babyface, unos meses más y se convertirá en el antidoto pra Dominik probablemente si no es que El Grande Americano Kayser llega al título antes [...] tambien me emocioné asi con el tributo a los gringos locos cuando grande y dominik hicieron tag team"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: Sin clase propia. Dos registros: **(1)** queda nombrado como **el heel a destronar** del arco largo de Rey Fénix — *"el antídoto para Dominik"* en unos meses, salvo que El Grande Americano (Kaiser) llegue al título antes. **(2) DATO DE ARCHIVO VALIOSO**: el Vehemiurgo menciona **el tributo a Los Gringos Locos cuando El Grande Americano y Dominik hicieron tag team** — **identificó por su cuenta el mismo linaje que el research documentó después** (Eddie Guerrero y Art Barr perdiendo cabelleras contra las máscaras de El Hijo del Santo y Octagón, *When Worlds Collide*, 6/11/1994). Ese tag team **no está registrado en el archivo** — pendiente. Ver [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.
@@ -174,6 +184,7 @@ Kaiser bajo la máscara del Americano. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md)
 - [`../segments/2026-06-01-dominik-mysterio-promo-wwe-raw.md`](../segments/2026-06-01-dominik-mysterio-promo-wwe-raw.md)
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — Dominik en post-match.

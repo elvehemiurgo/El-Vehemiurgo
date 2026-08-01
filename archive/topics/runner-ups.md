@@ -148,7 +148,7 @@ enfría, queda el registro de por qué no.
 - **La medida del elogio es el dardo colateral**: *"hasta olvidé que
   Bayley está aquí bajando el nivel"*.
   [→](../promotions/las-toxicas.md) ·
-  [`../matches/2026-06-06-toxicas-vs-faces-aaa-worldwide.md`](../matches/2026-06-06-toxicas-vs-faces-aaa-worldwide.md)
+  [`../matches/2026-06-06-bayley-lola-catalina-vs-toxicas-aaa-noche-de-los-grandes-night-2.md`](../matches/2026-06-06-bayley-lola-catalina-vs-toxicas-aaa-noche-de-los-grandes-night-2.md)
 
 ## Pendientes
 

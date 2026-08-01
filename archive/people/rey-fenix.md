@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rey-fenix
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [rey-fenix, aaa, fighting-spirit, wrestling-entertainment, perfect-wrestling, heroe-fundamental-49, panteon, primer-registro-individual]
@@ -84,6 +84,16 @@ para Je'Von Evans en el roster principal, mientras en México Fénix
 ya es leyenda consagrada. Ver
 [`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md).
 
+### Sesión s53 (capturada 2026-08-01) — Doble clase y el título crucero — "sería perfecta, pero los strikes innecesarios le restan"
+
+**Cita verbatim**:
+
+> *"El show abre con Fenix vs Laredo Kid, buena rivalidad, básica fundamental [...] es un booking tranquilo para construir a Fénix como futuro babyface, unos meses más y se convertirá en el antidoto pra Dominik probablemente si no es que El Grande Americano Kayser llega al título antes [...] sería perfecta, pero los strikes inecesarios le restan, si precindieran de esto y simplemente le metieran más al selling, se habrían consagrado [...] Solo no me gustaron los lariats de Fénix, tiene muy buenos strikes, pero lo vi muy mid con ese comeback [...] Además Fénix haciendo el sweet chin music fue genial!"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **FS + WE, con el Perfect Match perdido por causa nombrada**: *"los strikes innecesarios le restan"*, más una reserva puntual sobre **sus lariats** (*"lo vi muy mid con ese comeback"*). **Research 2026-08-01**: era por el **AAA World Cruiserweight Championship** y **Fénix se lo ganó a Laredo Kid**, cortando un reinado de 500+ días con su segundo **Mexican Muscle Buster** — o sea que el *"booking tranquilo para construirlo como futuro babyface"* venía con título encima. **PROYECCIÓN DECLARADA**: en unos meses, **el antídoto para Dominik Mysterio**, salvo que El Grande Americano (Kaiser) llegue al título antes. Detalle celebrado: ***"Fénix haciendo el sweet chin music fue genial"***.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -91,6 +101,7 @@ ya es leyenda consagrada. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md)
 - [`../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md`](../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md)
 - [`../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md)
 - [`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md)

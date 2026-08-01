@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: hijo-de-dr-wagner-jr
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [hijo-de-dr-wagner-jr, aaa, linaje-wagner, identidad-consolidada, fighting-spirit, golpes-duros, primer-registro-individual]
@@ -74,6 +74,16 @@ clase otorgado a esa lucha. Ver
 y
 [`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md).
 
+### Sesión s53 (capturada 2026-08-01) — Perfect Match perdiendo el Latinoamericano: "menos strikes, más secuencias de storyline"
+
+**Cita verbatim**:
+
+> *"Wagner AAA que es el hijo de Wagner Jr vs hijo del vikingo estuvo muy emocionante, buena calidad, menos cosas innecesarias, menos strikes, y más secuencias de storyline, spots de tv como para seguir contando una historia, lucha muy producida [...] Esta lucha se merece las 3 clases, le quedó perfecta con intervenciones y todo"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **Perfect Match sin reserva.** El elogio es **comparativo dentro de la misma noche**: exactamente lo que le faltó al opener (Fénix vs Laredo) —*"menos cosas innecesarias, menos strikes"*— es lo que acá está resuelto. *"Más secuencias de storyline, spots de TV como para seguir contando una historia."* **Las intervenciones suman y el Vehemiurgo las incluye en el elogio.** **Research**: era por el **AAA Latin American Championship** y **lo pierde ante El Hijo del Vikingo** en ~8 minutos; su hermano **Galeno del Mal** intervino atacando a Omos, y el finish llegó cuando **Omos lo jaló de la tercera cuerda**.
+
 ## Pendientes / huecos
 
 - [x] ~~Confirmar identidad exacta~~ → **RESUELTO (s45)**: es
@@ -85,6 +95,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-30-hijo-de-dr-wagner-jr-vs-hijo-del-vikingo-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-hijo-de-dr-wagner-jr-vs-hijo-del-vikingo-aaa-noche-de-los-grandes.md)
 - [`../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md`](../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md)
 - [`../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md`](../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md)
 - [`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md)

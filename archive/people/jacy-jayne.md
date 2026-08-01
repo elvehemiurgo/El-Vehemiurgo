@@ -144,6 +144,16 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
 
 **Lectura sintética**: **Wrestling Entertainment.** Dos virtudes de oficio: **economía** (*"cortita"*) y **decisión** — estaba por arrancar la pipebomb y **corta el discurso para ir a la acción**. La fórmula que la clase premia queda dicha entera: *"un ataque backstage de toda la vida, pero con la inyección de entertainment necesaria"*. **Declaración de preferencia de roster**: es el Fatal Influence que el Vehemiurgo quiere en SmackDown *"en vez de las veteranas mid"*. Motor declarado del stable: ***heels hambrientas***.
 
+### Sesión s53 (capturada 2026-08-01) — La pipebomb que el Vehemiurgo reclama: "esa promo ya debe llegar"
+
+**Cita verbatim**:
+
+> *"Fatal Influence interrumpiendo a las campeonas y tratando de intimidarlas; hasta ahora han tenido promos ok, pero todavia no tenemos la promo de Jacy auditando el locker room y lanzando una pipebomb, lo hizo en NXT, lo hizo en TNA, y espero que llegue el momento indicado para que se ponga a humillar a todo el roster porque tiene mucho material mid para insultar, esa promo ya debe llegar"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **Sin clase, por regla del *"ok"*** (*"hasta ahora han tenido promos ok"*). Pero el registro es de **expectativa nombrada con precisión**: falta **la promo auditando el locker room y lanzando una pipebomb** — *"lo hizo en NXT, lo hizo en TNA"*. El Vehemiurgo la reclama **por precedente propio de la worker**, y da el argumento: *"tiene mucho material mid para insultar"*. **Seguimiento**: una semana después (5/6) **estaba por empezar la pipebomb y decide meterse con las campeonas** — corta el discurso y va a la acción, y ese segmento sí se lleva WE. El hilo sigue abierto.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.
@@ -156,6 +166,7 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-05-29-fatal-influence-interrumpe-campeonas-wwe-smackdown.md`](../segments/2026-05-29-fatal-influence-interrumpe-campeonas-wwe-smackdown.md)
 - [`../segments/2026-06-05-jacy-jayne-promo-backstage-wwe-smackdown.md`](../segments/2026-06-05-jacy-jayne-promo-backstage-wwe-smackdown.md)
 - [`promotions/fatal-influence.md`](../promotions/fatal-influence.md)
   — líder de la faction.

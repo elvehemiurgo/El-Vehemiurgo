@@ -4,7 +4,7 @@ slug: heroes-fundamentales-vehemiurgia
 tipo: topic
 categoria: doctrina-tradicion
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebooks del Vehemiurgo (declaraciones dispersas 2026-05-09 → 2026-06-17)"
   - "Reorganización completa del panteón 2026-05-26"
@@ -101,6 +101,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 48 | **Finn Bálor / Prince Devitt** | Bullet Club original / Demon gimmick | [→](../people/finn-balor.md) |
 | 49 | **Rey Fénix** | Lucha libre mexicana / high-flying (AAA) | [→](../people/rey-fenix.md) |
 | 50 | **Laredo Kid** | Lucha libre mexicana / high-flying (AAA) | [→](../people/laredo-kid.md) |
+| 51 | **Chelsea Green** | WWE moderno / kayfabe y amor por el gimmick | [→](../people/chelsea-green.md) |
 
 ## Notas de la expansión 2026-06-17
 
@@ -252,6 +253,45 @@ El panteón ahora tiene **tres niveles de jerarquía**:
   booking (Fénix babyface "desde abajo" en AAA para no duplicar la
   historia de Je'Von Evans en el roster principal de WWE).
 - **Panteón total: 50 entradas.**
+
+## Notas de la alta 2026-08-01 s53 — Chelsea Green (#51)
+
+**Cita verbatim**:
+
+> *"Chelsea y su presentación backstage los segundos iniciales del show se
+> merecen un enterteinment class, es una experta, **pongamos a Chelsea en el
+> panteon de heroes de una vez**, todo lo que hace me parece fantástico y su
+> kayfabe y amor por el gimmick es lo mejor; aunque no es tan oldschool y su
+> finisher lo aplica muy debil, la verdad me gusta mucho como luchadora, y la
+> recontra vive, **CHelsea es wrestling**"*
+>
+> — El Vehemiurgo, 2026-08-01 s53 (verbatim; visión directa WWE SmackDown,
+> 29/5/2026)
+
+**Por qué entra — y por qué la alta es doctrinalmente importante:**
+
+- **El criterio NO es técnico.** El Vehemiurgo declara la alta **junto con las
+  reservas**, en la misma frase: *"no es tan old-school y **su finisher lo
+  aplica muy débil**"*. Es la primera alta del panteón que llega **con un
+  defecto técnico explícito sobre la mesa**.
+- **El criterio es de oficio habitado**: *"su **kayfabe y amor por el gimmick**
+  es lo mejor"*, *"**la recontra vive**"*. Entra por **vivir el personaje**, que
+  es el eje de la vehemiurgia — la liturgia sostenida entre promotor, luchador y
+  fan.
+- **El veredicto que la sella**: ***"Chelsea es wrestling"***.
+- **Contexto de run**: la alta llega en el punto exacto del **giro empático** de
+  su booking — underdog legítima, *"no producto de robarse algo o tomar atajos,
+  sino por puro deseo de ser campeona"*. El Vehemiurgo ya la había declarado
+  *"la estrella de SmackDown"* (s51) y *"must see"* (s52).
+- **Cosecha inmediata**: en la semana siguiente acumula **Fighting Spirit +
+  Wrestling Entertainment** vs Nia Jax (29/5) y un **Perfect Match** vs Lash
+  Legend (5/6).
+
+**Piezas**:
+[`../segments/2026-05-29-chelsea-green-presentacion-backstage-wwe-smackdown.md`](../segments/2026-05-29-chelsea-green-presentacion-backstage-wwe-smackdown.md)
+· [`../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md`](../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md)
+· [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)
+· [`../people/chelsea-green.md`](../people/chelsea-green.md)
 
 ## Notas de la alta 2026-07-14 — Psicosis (#29, ratificación + ficha creada)
 

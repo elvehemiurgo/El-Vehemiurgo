@@ -225,6 +225,16 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 **Lectura sintética**: **Dos piezas WE en la misma semana, en las dos empresas del cruce**, poniendo over la saga tras el máscara contra máscara. El Vehemiurgo valora **el acto de reconocimiento corporativo**: WWE dedicándole un video al hombre que acaba de **perder** la máscara, recapitulando **desde su ángulo**. Es lógica old-school pura — proteger al derrotado para que la apuesta valga. Y llama a la lucha del 30/5 ***"su histórica lucha"***, confirmando en una palabra la tesis del dossier de stakes. Ver [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
 
+### Sesión s53 (capturada 2026-08-01) — Pierde la máscara — "partes aún verdes" y la promo post-match sublime
+
+**Cita verbatim**:
+
+> *"creo que pudimos ver partes aun verdes de Chad Gable, como en su entrada como heel, no pudo quitarle la máscara a un fan, y tampoco es como si hubiera farmeado lo más posible esos abucheos [...] no es como un super heel como Ric Flair o Hollywood Hulk Hogan, o Roman Reigns o Brock Lesnar [...] cuando hizo ese spot en las gradas que fue como un angle slam pero invertido y no se vió tan cool [...] estos detalles son los que hacen que WWE no vea a Gable como personalidad de tv [...] la promo post match de Gable, super seria, muy genial, como hombres, estos chicos la rompieron, esta es su vida, estan asi de locos, son reales [...] simplemente sublime, solemne e histórico para ambos"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **Perfect Match perdiendo la máscara**, más **WE para la promo post-match**. **EL DIAGNÓSTICO MÁS DETALLADO DEL ARCHIVO SOBRE GABLE**, con tres ejemplos concretos de *"partes aún verdes"*: en su entrada heel **no pudo quitarle la máscara a un fan**; **no farmeó los abucheos** todo lo posible; y el spot en las gradas *"como un angle slam pero invertido"* no se vio bien. Veredicto: **no es un super heel** como **Ric Flair, Hollywood Hulk Hogan, Roman Reigns o Brock Lesnar** — y el Vehemiurgo conecta eso con **por qué WWE no lo ve como personalidad de TV**, con la salvedad honesta de que *"le han dado mucho mic y siempre lo hace bien desde que estaba en NXT"*. El **tamaño** también pesa: tendría que ser popular *"nivel Rey Mysterio"*. **Pero el cierre lo redime entero**: la promo post-match es *"sublime, solemne e histórica para ambos"*, y **research** cerró su contenido — dice que se puso la máscara **para aprender lucha libre y vencer a los luchadores que odiaba**, que aprendió todo sobre AAA, México y la cultura mexicana, y **presenta a su esposa e hijos en el ring**.
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania
@@ -245,6 +255,9 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md)
+- [`../segments/2026-05-30-promo-post-match-gable-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-promo-post-match-gable-aaa-noche-de-los-grandes.md)
+- [`../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md)
 - [`../segments/2026-06-01-video-especial-chad-gable-grande-vs-grande-wwe-raw.md`](../segments/2026-06-01-video-especial-chad-gable-grande-vs-grande-wwe-raw.md)
 - [`../segments/2026-06-06-post-match-americanos-aaa-worldwide.md`](../segments/2026-06-06-post-match-americanos-aaa-worldwide.md)
 - [`../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md`](../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md)

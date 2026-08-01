@@ -329,6 +329,16 @@ documentada.
 
 **Lectura sintética**: **Tres entradas: el match vs Reigns (WE), el post-match (WE) y el segmento del Tribal Chief (WE, y el llamado es explícitamente por su performance).** El booking **paga** el *"lado rebelde del linaje"* identificado en s43: esa motivación quedó *"empaquetada en algo súper relatable"*. **DISTINCIÓN DOCTRINAL**: *"no es un delirio de WWE, la gente está respondiendo"* — el Vehemiurgo marca acá el borde del género que nombró en s01. Maneja el tono usando a **Jey Uso como escape de humor** sin perder la seriedad del personaje. Reserva: el match *"no es tan emocionante como para no perderse ningún momento"*, y hay un spot con objetos donde **duda, el posicionamiento sale raro y el público no reacciona** — hasta que **Roman le enseña cómo se hace**, que el Vehemiurgo lee como *"la rivalidad en esencia"*.
 
+### Sesión s53 (capturada 2026-08-01) — Promo package de Tribal Combat: "highlight del año", pero sin clase
+
+**Cita verbatim**:
+
+> *"el promo package para Tirbal Combat con Fatu y Reigns estuvo genial, la verdad es un highlight del año, el buildup me gusta, nmo es que esté pegadísimo con esta historia, pero Jacob es cool, además me gusta cuando venden la revancha así, esto va hasta wrestlemania"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **Sin clase declarada, pese al elogio más alto de la fecha** — *"highlight del año"*. Doctrina: clase solo si el Vehemiurgo la declara; queda como candidatura no disparada. La **reserva de enganche** es la misma que atraviesa toda su cobertura de esta rivalidad desde s42: *"no es que esté pegadísimo con esta historia"*. **Proyección declarada**: ***"esto va hasta WrestleMania"*** — el programa Fatu/Reigns leído como arco anual, con la estipulación **Tribal Combat** ya nombrada.
+
 ## Pendientes / huecos
 
 - [x] ~~Cronología MLW completa con fechas de title runs~~ →
@@ -347,6 +357,7 @@ documentada.
 
 ## Piezas relacionadas
 
+- [`../segments/2026-05-29-promo-package-tribal-combat-fatu-reigns-wwe-smackdown.md`](../segments/2026-05-29-promo-package-tribal-combat-fatu-reigns-wwe-smackdown.md)
 - [`../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md`](../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md)
 - [`../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md`](../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md)
 - [`../segments/2026-06-01-tribal-chief-fatu-segmento-wwe-raw.md`](../segments/2026-06-01-tribal-chief-fatu-segmento-wwe-raw.md)

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: hijo-del-vikingo
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026"
   - "AAA media + entrevistas retrospectivas + Súper Luchas"
@@ -62,6 +62,7 @@ tags: [hijo-del-vikingo, aaa-mega-champion, lucha-mexicana, junior-heavyweight, 
 
 ## Piezas relacionadas
 
+- [`../matches/2026-05-30-hijo-de-dr-wagner-jr-vs-hijo-del-vikingo-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-hijo-de-dr-wagner-jr-vs-hijo-del-vikingo-aaa-noche-de-los-grandes.md)
 - [`../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md`](../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md)
 - [`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md)
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
@@ -100,6 +101,16 @@ lista para programas gigantes"), con un cierre marcado por una
 posible lesión real en el finisher desde el esquinero y el rescate
 de Dr. Wagner Jr. Ver
 [`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md).
+
+### Sesión s53 (capturada 2026-08-01) — Gana el Latinoamericano en un Perfect Match — y la "historia del mini Vikingo"
+
+**Cita verbatim**:
+
+> *"estuvo muy emocionante, buena calidad, menos cosas innecesarias, menos strikes, y más secuencias de storyline [...] con toda la historia del mini vikingo que la verdad les quedó muy cool [...] Esta lucha se merece las 3 clases, le quedó perfecta con intervenciones y todo"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: **Perfect Match**, y **gana el AAA Latin American Championship**. **La "historia del mini Vikingo" queda resuelta por research**: **Mini Vikingo apareció con un springboard dropkick sobre Wagner** — y una semana después compite en el 5-way de Night 2 por la contendencia crucero, así que el hilo sigue. Salió acompañado de **Dorian Roldán** y **Omos**; remató con **450 Splash + 630 senton**. La lucha es el ejemplo que el Vehemiurgo usa para demostrar que **el spot al servicio del relato vale más que el intercambio de golpes**.
 
 ## Pendientes
 

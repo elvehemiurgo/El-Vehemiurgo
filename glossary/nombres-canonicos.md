@@ -59,6 +59,10 @@
 | **Matt Cardona** | Canónico completo. *"Cardona"* a secas es **segunda mención legítima** en prosa, no variante prohibida — lo que estaba mal era la ficha suelta `cardona.md` (corregida s43). |
 | **Cruz del Toro** | Canónico completo (ex-LWO / Legado del Fantasma, hoy AAA; "del" minúscula). El Vehemiurgo lo dicta *"del Toro"* / *"El Toro"*. *"Del Toro"* a secas es segunda mención legítima; lo que estaba mal era la ficha suelta `el-toro.md` (corregida s43). |
 | **Nikkita Lyons** | Canónico completo. *"Nikkita"* a secas es segunda mención legítima (registrada así en dictados; ficha `nikkita-lyons.md`, corregida s44). |
+| **Flammer** | Líder de Las Tóxicas (AAA). Canónico **Flammer** — forma de AAA y de la cobertura mayoritaria 2026. *Lady Flammer* es el billing de WWE.com, variante legítima en prosa (research 2026-08-01). |
+| **Maravilla** | Integrante de Las Tóxicas (AAA). Canónico **Maravilla**. *Lady Maravilla* es el nombre histórico previo, variante legítima (research 2026-08-01). |
+| **Las Tóxicas** | Nombre canónico sin variante. Trío: **Flammer** (líder), **La Hiedra** y **Maravilla**. Formadas en noviembre de 2021 (research 2026-08-01). |
+| **Mini Vikingo** | Distinto de **El Hijo del Vikingo**. Interviene a su favor en Noche de los Grandes Night 1 (30/5/2026) y compite en el 5-way de Night 2. |
 | **Laredo Kid** | Canónico completo. *"Laredo"* a secas es segunda mención legítima (ficha `laredo-kid.md`, corregida s44). |
 | **KLR / Kay Lee Ray / Alba Fyre** | **Misma persona**: KLR = sigla de Kay Lee Ray (ring name pre-WWE); Alba Fyre = nombre WWE. Un dictado que nombra ambas no implica dos ausencias/personas. |
 | **El Grande Americano (Gable/Kaiser)** | Gimmick enmascarado **compartido**: creado por **Chad Gable**, portado también por **Ludwig Kaiser** (precedente real 2025). "Gable" y "Kaiser" en un dictado sobre el Americano = dos personas distintas del mismo ángulo. |

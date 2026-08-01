@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rey-mysterio
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones"
   - "Dossier WWE SmackDown 2002 + Dossier AAA + AEW 2026"
@@ -200,6 +200,16 @@ elegante del legacy. Rey como **anchor generacional** que
 conecta AAA 1992 → WWE 2002 → AAA 2024+. **Pieza editorial
 fértil sobre cross-pollination cultural sostenida**.
 
+### Sesión s53 (capturada 2026-08-01) — En el ring al inicio del máscara vs máscara
+
+**Cita verbatim**:
+
+> *"La lucha comienza con el guitarrazo, mysterio en el ring tambien, tiene que sonar la campana igual, y de frente toda la atmosfera lucha de apuestas sin reglas en méxico"*
+>
+> — El Vehemiurgo, s53 (verbatim)
+
+**Lectura sintética**: Sin clase propia (la triple corresponde al match). **Presencia en el ring al inicio del máscara contra máscara** de Arena Monterrey — un mes después de haber sido nombrado **General Manager de AAA** (23/5/2026). Su rol exacto en la escena queda `[verif]`. El **guitarrazo** que abre la lucha fue de un mariachi enmascarado que **research identificó como Pimpinela Escarlata**.
+
 ## Pendientes / huecos
 
 - [ ] **WCW Halloween Havoc 1997 mask match vs Eddie** —
@@ -245,6 +255,7 @@ Noche de los Grandes (AAA). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md)
 - [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)
 - [`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md)
   — gerente general de la nueva era AAA.
