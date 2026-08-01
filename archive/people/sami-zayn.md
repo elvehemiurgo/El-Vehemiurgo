@@ -83,6 +83,16 @@ Ver
 
 **Lectura sintética**: Sin clase, y **con reserva explícita**: su presencia en el segmento de apertura de Gunther **resta**. Es la razón por la que el Vehemiurgo **acota la clase a la actuación de Gunther** en vez de dársela al segmento entero — precedente útil de clase recortada por un tercero que diluye.
 
+### Sesión 2026-08-01 s06 — El árbitro que decide el título dos veces — camino a ganar el suyo propio
+
+**Cita verbatim**:
+
+> *"el inicio y todo lo de cody vs gunther con zayn y todo, me parecio genial, se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: Sin clase propia (la triple corresponde al match). **Como árbitro especial, decide el destino del Undisputed WWE Championship dos veces en la misma noche**: primero comprado a favor de Cody con un fast count, después descalificando a Gunther con una Helluva Kick — y de paso golpeando a Cody con el título. El caos que genera **le abre la puerta a un lugar en el triple threat de Night of Champions**, donde —fuera de este registro— terminó ganando su primer WWE Championship.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,
@@ -91,6 +101,7 @@ Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md`](../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md)
 - [`../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md`](../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md)
 - [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md)
 - [`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md)

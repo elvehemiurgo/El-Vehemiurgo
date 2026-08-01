@@ -226,6 +226,16 @@ regreso de CM Punk. Ver
 
 **Lectura sintética**: **Doble clase (FS + WE) para el match vs Gunther y alta a RUNNER UPS.** Es el elogio estructural más limpio que el archivo registra sobre él: la efectividad **no depende del push**. La reserva del Vehemiurgo va sobre los stakes del programa (*"by the book"*), no sobre él. Además entretiene en el micrófono a la par de Gunther, y la secuencia final de sleeper y cutters es lo que el Vehemiurgo destaca por nombre. Ver [`../topics/runner-ups.md`](../topics/runner-ups.md).
 
+### Sesión 2026-08-01 s06 — Perfect Match abriendo SmackDown — árbitro comprado y doble caída
+
+**Cita verbatim**:
+
+> *"el inicio y todo lo de cody vs gunther con zayn y todo, me parecio genial, se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: **Perfect Match.** Abre el show en frío, sin promo previa, defendiendo el **Undisputed WWE Championship** con **Sami Zayn de árbitro especial** —elección de Gunther tras la revancha ganada en Clash in Italy—. Retiene dos veces: primero por fast count comprado por Zayn, después Zayn le da DQ a Gunther con una Helluva Kick, golpeando de paso a Cody con el propio título. Cierra pidiendo el **triple threat de Night of Champions** (27/6), donde —fuera de este registro— terminó perdiendo el título ante Zayn.
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza
@@ -243,6 +253,7 @@ regreso de CM Punk. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md`](../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md)
 - [`../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md`](../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md)
 ### Centerpieces principales
 - [`../matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](../matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md)

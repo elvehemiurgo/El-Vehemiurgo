@@ -91,6 +91,16 @@ y
 
 **Lectura sintética**: El elogio de micrófono más alto que recibe en toda esta sesión. Compara a Trick Williams con Dr. Seuss por el abuso de su catchphrase antes de conectar un Dirty Diana en el brawl a tres. Queda agendado en #1 Contender's Match vs Ricky Saints por el US Title el 19/6.
 
+### Sesión 2026-08-01 s06 — Tercera derrota — "se golpea la nuca contra el acero expuesto"
+
+**Cita verbatim**:
+
+> *"Carmelo vs Satins estuvo bien, se meree un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: Sin clase propia (WE corresponde al match). Pierde por tercera vez consecutiva ante Ricky Saints, esta vez con un **turnbuckle expuesto** como instrumento del finish. Research revela que la rivalidad tiene **más capítulos de los que el archivo tenía registrados** (ataque backstage 22/5, doble count-out 29/5) — pendiente de decisión editorial sobre sumarlos.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (run NXT + main
@@ -102,6 +112,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md`](../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md)
 - [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)
 - [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
 - [`../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md`](../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md)

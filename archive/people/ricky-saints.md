@@ -124,6 +124,16 @@ tres top guys distintos a la vez"*.
 
 **Lectura sintética**: Reserva técnica puntual sobre fundamentos —los punches old-school—, con el matiz constructivo de esfuerzo reconocido: "le está poniendo ganitas". Recibe un Dirty Diana de Carmelo Hayes en el brawl a tres. Va al #1 Contender's Match por el US Title el 19/6.
 
+### Sesión 2026-08-01 s06 — Tercera victoria consecutiva con trampa — contendiente al título US
+
+**Cita verbatim**:
+
+> *"Carmelo vs Satins estuvo bien, se meree un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: WE. **Gana por segunda vez seguida con un turnbuckle expuesto** (la vez anterior, agarrándose de las mallas) y se convierte en **contendiente #1 al United States Championship** — irá por **Trick Williams**. El propio WWE tituló el video *"Ricky Saints cheats to become No. 1 Contender"*, confirmando en su propio canal el patrón que el archivo viene registrando: su gimmick de *"pura boca"* no incluye ganar limpio.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar grafía oficial WWE** — *Ricky Saints* o *Ricky
@@ -261,6 +271,7 @@ Williams y Carmelo Hayes). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md`](../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md)
 - [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)
 - [`../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md`](../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).

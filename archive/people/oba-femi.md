@@ -113,6 +113,7 @@ material promocional. Ver
 
 ## Piezas relacionadas
 
+- [`../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md`](../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md)
 - [`../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md`](../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md)
 - [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
 - [`../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md`](../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md)
@@ -133,6 +134,16 @@ material promocional. Ver
 > — El Vehemiurgo, 2026-08-01 s02 (verbatim)
 
 **Lectura sintética**: **Dos Perfect Matches en dos días.** El hallazgo de lectura es de continuidad: Femi **vende el brazo** de la derrota ante Lesnar en el fatal 4-way del día siguiente, y el Vehemiurgo lo lee como **la única forma de humanizar a un monstruo invicto** — la vulnerabilidad se hereda de otro programa, no se inventa. Su entrada, con una secuencia en medio, entra en el elogio del 4-way.
+
+### Sesión 2026-08-01 s06 — Squash de 4:35 en main event — "tremendo show"
+
+**Cita verbatim**:
+
+> *"el main event de Oba Femi y Dominik tambien se merece las 3 clases, tremendo show"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: **Perfect Match**, semifinal del King of the Ring en el main event. Research confirma que fue, literal, un **squash de 4:35** — los propios titulares de cobertura lo dicen sin eufemismo. Post-match, llama a **Brock Lesnar** por no haber dado la cara, dato de continuidad con la serie empatada 1-1 de Clash in Italy. **Avanza a la final del torneo contra Jey Uso.**
 
 ## Pendientes
 

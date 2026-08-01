@@ -34,8 +34,13 @@ con cada cambio de estado.
 | 2026-06-28 | PAC vs Umino | AEW x NJPW / Forbidden Door | PW·FS·WE | stub | 1 | [→](2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Kenny Omega vs Zack Sabre Jr | AEW x NJPW / Forbidden Door | FS·WE | stub | 1 | [→](2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md) |
 | 2026-06-24 | Will Ospreay vs Fantasmo | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md) |
+| 2026-06-20 | Rey Fénix vs Laredo Kid vs Lince Dorado | AAA / AAA on FOX #23 | PW·FS·WE | en-investigacion | 1 | [→](2026-06-20-rey-fenix-vs-laredo-kid-vs-lince-dorado-aaa-on-fox.md) |
 | 2026-06-20 | Maya World vs Athena | AEW / Collision | FS | stub | 1 | [→](2026-06-20-maya-world-vs-athena-aew-collision.md) |
 | 2026-06-20 | Zack Sabre Jr vs Adam Priest | AEW / Collision | FS | stub | 1 | [→](2026-06-20-zsj-vs-adam-priest-aew-collision.md) |
+| 2026-06-19 | Ricky Saints vs Carmelo Hayes | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md) |
+| 2026-06-19 | Cody Rhodes vs Gunther — árbitro especial Sami Zayn | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md) |
+| 2026-06-15 | Oba Femi vs Dominik Mysterio | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md) |
+| 2026-06-15 | Je'Von Evans vs Austin Theory | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-06-15-je-von-evans-vs-austin-theory-wwe-raw.md) |
 | 2026-06-13 | El Fiscal, Octagon Jr. y La Parka vs Los Vipers | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-06-13-los-vipers-vs-fiscal-octagon-parka-aaa-worldwide.md) |
 | 2026-06-12 | Scream Mode (Brie Bella & Paige) vs Fatal Influence (Fallon Henley & Lainey Reid) | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md) |
 | 2026-06-12 | Rey Fénix vs Axiom | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md) |

@@ -135,6 +135,16 @@ Ver
 
 **Lectura sintética**: Sin clase — segmento de contexto. Le exige a Nick Aldis elegir personalmente al réferi de su match contra Cody Rhodes por el Undisputed WWE Championship, y termina eligiendo a **Sami Zayn** — coherencia directa con la doctrina de "villano purista" fijada en s02 (el heat nace de creer en las reglas más que nadie). Sami Zayn terminaría ganando el título en Night of Champions.
 
+### Sesión 2026-08-01 s06 — Pierde dos veces en la misma noche, pero retiene el argumento del árbitro comprado
+
+**Cita verbatim**:
+
+> *"el inicio y todo lo de cody vs gunther con zayn y todo, me parecio genial, se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: **Perfect Match.** Usó su cláusula de revancha para elegir a **Sami Zayn** como árbitro especial, apostando a la tensión previa entre Zayn y Cody Rhodes — la apuesta se le vuelve en contra dos veces: pierde el título por fast count sin saberlo, y en el reinicio **Zayn lo descalifica con una Helluva Kick**. Casi somete a Cody con su propia Figure-Four en el camino.
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo
@@ -147,6 +157,7 @@ Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md`](../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md)
 - [`../segments/2026-06-12-gunther-elige-referee-sami-zayn-wwe-smackdown.md`](../segments/2026-06-12-gunther-elige-referee-sami-zayn-wwe-smackdown.md)
 - [`../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md`](../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md)
 - [`../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md`](../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md)

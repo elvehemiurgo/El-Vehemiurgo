@@ -108,6 +108,16 @@ sección 4.
 
 **Lectura sintética**: Sin clase propia. Dos registros: **(1)** queda nombrado como **el heel a destronar** del arco largo de Rey Fénix — *"el antídoto para Dominik"* en unos meses, salvo que El Grande Americano (Kaiser) llegue al título antes. **(2) DATO DE ARCHIVO VALIOSO**: el Vehemiurgo menciona **el tributo a Los Gringos Locos cuando El Grande Americano y Dominik hicieron tag team** — **identificó por su cuenta el mismo linaje que el research documentó después** (Eddie Guerrero y Art Barr perdiendo cabelleras contra las máscaras de El Hijo del Santo y Octagón, *When Worlds Collide*, 6/11/1994). Ese tag team **no está registrado en el archivo** — pendiente. Ver [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
 
+### Sesión 2026-08-01 s06 — "Siempre queda como flojo" — la crítica de conjunto más específica del archivo, y una promo sólida en AAA
+
+**Cita verbatim**:
+
+> *"aunque Dominik siempre queda como flojo un poco, ojalá apretara más su acto y su físico [...] la promo de Dom estuvo solida, me gustó, se merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s06 (verbatim)
+
+**Lectura sintética**: **Dos registros el mismo día, en dos empresas.** En WWE: reserva de conjunto sobre el match del KOTR — *"siempre queda como flojo, ojalá apretara más su acto y su físico"*. El research confirma el fondo (fue booked como squash total, kick-out a la cuenta de uno) pero no encontró cobertura que discuta específicamente su físico — la lectura del Vehemiurgo coincide con el consenso crítico externo en la sustancia. **En AAA, como Mega Campeón**, la promo del mismo día recibe WE: se declara *"main event de Triplemanía"* y *"King of the Luchadores"*, sin retador nombrado todavía — **El Grande Americano** declara intenciones sobre su título en el cierre del mismo show.
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.
@@ -184,6 +194,8 @@ Kaiser bajo la máscara del Americano. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md`](../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md)
+- [`../segments/2026-06-20-dominik-mysterio-promo-aaa-on-fox.md`](../segments/2026-06-20-dominik-mysterio-promo-aaa-on-fox.md)
 - [`../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md)
 - [`../segments/2026-06-01-dominik-mysterio-promo-wwe-raw.md`](../segments/2026-06-01-dominik-mysterio-promo-wwe-raw.md)
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)

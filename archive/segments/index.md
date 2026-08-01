@@ -35,10 +35,13 @@ cada alta y con cada cambio de estado.
 | 2026-06-24 | Tensión MJF/Andrade — cierre de show | AEW / Dynamite | promo (cierre de show) | — | stub | 1 | [→](2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md) |
 | 2026-06-24 | Backstage — Cope & Cage vs The Dogs | AEW / Dynamite | promo (backstage) | — | stub | 1 | [→](2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md) |
 | 2026-06-24 | Promo video — MJF vs Mark Briscoe, rivalidad retomada | AEW / Dynamite | video package (promo) | — | stub | 1 | [→](2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md) |
+| 2026-06-20 | Promo video: Fénix vs Laredo Kid | AAA / AAA on FOX #23 | video package | WE | en-investigacion | 1 | [→](2026-06-20-promo-video-fenix-vs-laredo-aaa-on-fox.md) |
+| 2026-06-20 | Promo de Dominik Mysterio | AAA / AAA on FOX #23 | promo backstage | WE | en-investigacion | 1 | [→](2026-06-20-dominik-mysterio-promo-aaa-on-fox.md) |
 | 2026-06-20 | Promo histórica — The Dogs | AEW / Collision | promo | WE | stub | 1 | [→](2026-06-20-the-dogs-promo-historica-aew-collision.md) |
 | 2026-06-20 | Continuación del feud — Ciampa vs Jericho (segmento + promo backstage) | AEW / Collision | promo | — | stub | 1 | [→](2026-06-20-ciampa-jericho-continuacion-aew-collision.md) |
 | 2026-06-17 | Continuación del booking — ZSJ vs Kenny Omega (build a AEW Forbidden Door) | AEW / Dynamite | angle / build | — | stub | 1 | [→](2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md) |
 | 2026-06-17 | Apertura — DCMJF (Don Callis Family + MJF, todos los heels) | AEW / Dynamite | promo (apertura de show) | WE | stub | 1 | [→](2026-06-17-dcmjf-apertura-heels-aew-dynamite.md) |
+| 2026-06-15 | Je'Von Evans y The Vision — reclutamiento forzado | WWE / Monday Night Raw | in-ring promo / reclutamiento | WE | en-investigacion | 1 | [→](2026-06-15-jevon-evans-the-vision-segmento-wwe-raw.md) |
 | 2026-06-15 | El Bloodline ataca a Eric André | WWE / Monday Night Raw | segmento de apertura + ataque a celebridad | WE | en-investigacion | 1 | [→](2026-06-15-bloodline-ataca-eric-andre-wwe-raw.md) |
 | 2026-06-12 | LA Knight — promo con Cathy Kelley antes del King of the Ring | WWE / SmackDown | entrevista backstage | WE | en-investigacion | 1 | [→](2026-06-12-la-knight-promo-cathy-kelley-wwe-smackdown.md) |
 | 2026-06-12 | Trick Williams — promo, y careo con Carmelo Hayes y Ricky Saints | WWE / SmackDown | in-ring promo + brawl | WE | en-investigacion | 1 | [→](2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md) |
