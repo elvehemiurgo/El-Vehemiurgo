@@ -220,6 +220,16 @@ fértil sobre cross-pollination cultural sostenida**.
 
 **Lectura sintética**: Registro nuevo, distinto de su carrera como luchador: el Vehemiurgo lo trae a la conversación **en su rol de General Manager de AAA** (nombrado 23/5/2026) y lo prefiere en cámara por encima de Adam Pearce como gerente de WWE Raw. **Es la primera evaluación editorial de Rey Mysterio como figura de autoridad on-screen**, separada de su expediente como wrestler. Ver [`./adam-pearce.md`](./adam-pearce.md) y [`./robert-stone.md`](./robert-stone.md).
 
+### Sesión 2026-08-01 s05 — Luchando "como en los tempranos 2000s" — y le arrancan la máscara
+
+**Cita verbatim**:
+
+> *"Rey estaba luchando como en los tempranos 2000s, y de hecho Rey es el que hacia los comebacks y Penta dominaba [...] hasta que Mysterio casi se mata con esa poison rana, rare move for Rey, se vio brutal [...] Rusev le quitó la máscara. ¿van a construir algo??"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **Perfect Match**, con la comparación histórica más alta que recibe en el archivo: *"luchando como en los tempranos 2000s"*. Trabajó de babyface vendiendo, con una **poison rana** —*"rare move for Rey"*— que se vio brutal pese a lo imposible del spot. **En el post-match, Rusev le arranca la máscara**, y el Vehemiurgo lo trata como un activo narrativo caro que exige payoff — pendiente de si WWE construye algo con eso.
+
 ## Pendientes / huecos
 
 - [ ] **WCW Halloween Havoc 1997 mask match vs Eddie** —
@@ -265,6 +275,8 @@ Noche de los Grandes (AAA). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-08-penta-vs-rey-mysterio-wwe-raw.md`](../matches/2026-06-08-penta-vs-rey-mysterio-wwe-raw.md)
+- [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)
 - [`../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md)
 - [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)
 - [`../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md`](../matches/2026-05-23-rey-fenix-vs-laredo-kid-revancha-aaa-worldwide.md)

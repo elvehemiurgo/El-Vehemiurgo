@@ -119,6 +119,16 @@ de stakes en la división tag. Ver
 
 **Lectura sintética**: **Alta a THE FUTURE IN 2026 (#18).** La alta no es solo por mérito propio sino **por función de sistema**: el Vehemiurgo la lee como competencia para **Liv Morgan** y, junto a ella, como **presión sobre Stephanie Vaquer** *"para que se convierta en el paquete completo"*. Dentro del Judgment Day, la tensión con **Raquel Rodríguez** crece. En el fatal 4-way participa además de la **falsa alianza con Giulia** que el Vehemiurgo califica de *"inteligente"*. Ver [`../topics/the-future-in-2026.md`](../topics/the-future-in-2026.md).
 
+### Sesión 2026-08-01 s05 — Sospecha de Liv Morgan — la tensión que el Vehemiurgo venía pidiendo
+
+**Cita verbatim**:
+
+> *"Roxanne y Raquel si tienen sus sospechas y tambien tienen sus secretos, así que es la tensión de heels en tv esperando quien golpea primero"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **WE para el segmento con Liv Morgan.** Confirma en pantalla la lectura de s03: el Vehemiurgo ya pedía verla *"como protagonista ya mismo"* y anticipaba tensión con Raquel Rodríguez. Acá esa tensión se activa — **sospecha de Liv, con secretos propios sin revelar**.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.
@@ -127,6 +137,7 @@ de stakes en la división tag. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md`](../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md)
 - [`../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md`](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)
 - [`../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md`](../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md)
 - [`../segments/2026-03-30-roxanne-perez-regreso-wwe-raw.md`](../segments/2026-03-30-roxanne-perez-regreso-wwe-raw.md)

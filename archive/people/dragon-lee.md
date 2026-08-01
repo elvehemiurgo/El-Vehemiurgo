@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dragon-lee
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + WM42 cluster"
   - "Cagematch + AAA media + NJPW retrospectivas"
@@ -68,10 +68,21 @@ tags: [dragon-lee, lucha-mexicana, casas-family-legacy, njpw-junior-heavyweight,
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)
 - [`../matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md`](../matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md)
 - [`../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md`](../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md)
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
+
+### Sesión 2026-08-01 s05 — "Vistieron a Dragon Lee como jobber"
+
+**Cita verbatim**:
+
+> *"Y POrque vistieron a Dragon Lee como jobber"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Sin clase. Registro breve y duro: en el post-match del 8/6, el booking lo devalúa — **caído en la salvada, presentado con estatus de jobber** en lugar de protegerlo como talento del bloque de lucha libre mexicana que viene construyéndose (junto a Penta, Rey Mysterio y Chad Gable).
 
 ## Pendientes
 

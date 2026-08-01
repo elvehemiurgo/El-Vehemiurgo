@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rusev
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (mención — WWE Raw, 20/4/2026)"
 tags: [rusev, wwe-raw-2026, primer-registro-mencion]
@@ -47,6 +47,16 @@ propio todavía. Ver
 **Lectura sintética**: sin clase — mención de referencia, Rusev
 como pieza del midcard que Ethan Page mueve a su conveniencia. Ver
 [`../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md`](../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md).
+
+### Sesión 2026-08-01 s05 — "Genera cero reacción" — el error de casting del post-match
+
+**Cita verbatim**:
+
+> *"para empezar porque Rusev le quitó la máscara, van a construir algo?? es bastante importante un spot así en wwe tv, y en vez de que lo haga alguien con futuro como Ethan, lo hace alguien que genera cero racción"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Sin clase. **El diagnóstico más duro que el archivo le da a nadie en esta sesión**: le toca a él ejecutar el desenmascaramiento de Rey Mysterio —un spot con peso histórico— y **"genera cero reacción"**. El Vehemiurgo específica que debería haberlo hecho **Ethan Page**, un talent con futuro, no él.
 
 ## Pendientes / huecos
 

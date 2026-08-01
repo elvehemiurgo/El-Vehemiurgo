@@ -90,6 +90,16 @@ momentos brillantes. Ver
 
 **Lectura sintética**: **Triple clase en el fatal 4-way**, con **reserva técnica puntual declarada sobre él**: es el único de los cuatro que estuvo *"cerca de pasarse y caer en vicios indie"* con los strikes. La clase vale igual (precedente Slater vs Nemeth), pero el matiz queda registrado — el balance de golpes del resto es lo elogiado.
 
+### Sesión 2026-08-01 s05 — Perfect Match vs Mysterio — "se está moviendo como main eventer por fin"
+
+**Cita verbatim**:
+
+> *"bookearon Penta vs Muysterio, despues de el éxito de Noche de los Grandes, insistieron mucho con Mysterio y la lucha libre y que Penta es el fururo [...] Vi más medido a Penta, ese estilo WWE prime time si le está haciendo bien, sobre todo por su edad y las lesiones que tiene, se está moviendo como main eventer por fin"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **Perfect Match reteniendo el Intercontinental Championship ante Rey Mysterio.** El elogio central es de madurez de estilo: **"más medido"**, con el registro **prime time de WWE** favoreciéndolo *"sobre todo por su edad y las lesiones que tiene"*. **Trabajó de heel dominante ante un Mysterio que hacía los comebacks** — la oficina lo protegió como worker, no solo como resultado. **"Se está moviendo como main eventer por fin."** El post-match, sin embargo, es leído como daño colateral a su momentum: *"esto de forzar a Rusev y dilatar el ascenso de Ethan solo está matando el momentum de Penta y todos."*
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.
@@ -98,6 +108,8 @@ momentos brillantes. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-08-penta-vs-rey-mysterio-wwe-raw.md`](../matches/2026-06-08-penta-vs-rey-mysterio-wwe-raw.md)
+- [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)
 - [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)
 - [`../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md`](../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md)

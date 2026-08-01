@@ -235,6 +235,16 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 **Lectura sintética**: **Perfect Match perdiendo la máscara**, más **WE para la promo post-match**. **EL DIAGNÓSTICO MÁS DETALLADO DEL ARCHIVO SOBRE GABLE**, con tres ejemplos concretos de *"partes aún verdes"*: en su entrada heel **no pudo quitarle la máscara a un fan**; **no farmeó los abucheos** todo lo posible; y el spot en las gradas *"como un angle slam pero invertido"* no se vio bien. Veredicto: **no es un super heel** como **Ric Flair, Hollywood Hulk Hogan, Roman Reigns o Brock Lesnar** — y el Vehemiurgo conecta eso con **por qué WWE no lo ve como personalidad de TV**, con la salvedad honesta de que *"le han dado mucho mic y siempre lo hace bien desde que estaba en NXT"*. El **tamaño** también pesa: tendría que ser popular *"nivel Rey Mysterio"*. **Pero el cierre lo redime entero**: la promo post-match es *"sublime, solemne e histórica para ambos"*, y **research** cerró su contenido — dice que se puso la máscara **para aprender lucha libre y vencer a los luchadores que odiaba**, que aprendió todo sobre AAA, México y la cultura mexicana, y **presenta a su esposa e hijos en el ring**.
 
+### Sesión 2026-08-01 s05 — Salva a Rey Mysterio, pero "no fue tan épico como creyeron"
+
+**Cita verbatim**:
+
+> *"el salve de Gable no fue tan épico como creyeron"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Sin clase propia. **Crítica directa de ejecución**: el salve backstage a Rey Mysterio **no alcanzó el impacto que la oficina esperaba**. Continúa su *apology tour* de la semana (ver research 2026-08-01 en [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md)): sigue reparando su relación con la lucha libre mexicana tras perder la máscara en Monterrey, pero el booking no está capitalizando el momento.
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania
@@ -255,6 +265,7 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)
 - [`../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md)
 - [`../segments/2026-05-30-promo-post-match-gable-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-promo-post-match-gable-aaa-noche-de-los-grandes.md)
 - [`../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md)

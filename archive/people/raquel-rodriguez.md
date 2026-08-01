@@ -163,6 +163,16 @@ de la herramienta. Ver
 
 **Lectura sintética**: Sin clase. La facción se tensiona **desde adentro**: *"cada vez se codean más"*. El Vehemiurgo lee la división femenina como sistema —Roxanne como competencia para Liv Morgan y presión conjunta sobre Stephanie Vaquer—, no como matches sueltos.
 
+### Sesión 2026-08-01 s05 — Sospechas compartidas con Roxanne sobre Liv Morgan
+
+**Cita verbatim**:
+
+> *"Roxanne y Raquel si tienen sus sospechas y tambien tienen sus secretos"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Sin clase propia (la WE corresponde al segmento). Se suma a la lectura interna del Judgment Day: **sospechas compartidas con Roxanne Perez sobre las intenciones de Liv Morgan**, con secretos propios todavía sin revelar.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y segmentos del 2025 que sustentan la
@@ -177,6 +187,7 @@ de la herramienta. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md`](../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md)
 - [`../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md`](../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md)
 - [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
   — Wrestling Entertainment (minutos finales), selling del crossbody.

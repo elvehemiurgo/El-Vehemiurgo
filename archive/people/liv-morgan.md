@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: liv-morgan
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Liv Morgan"
   - "Cobertura WWE 2014–2026 (Riott Squad, Money in the Bank cash-in 2022, Judgment Day affiliation)"
@@ -132,6 +132,16 @@ sección 6.
 notebook 2026-05-09, con el cruce a Vaquer y a la lectura de
 Judgment Day como vehículo.)
 
+### Sesión 2026-08-01 s05 — Genera heat real manipulando a Roxanne — "cree que es muy smooth"
+
+**Cita verbatim**:
+
+> *"Liv si me genera heat cuando está manipulando a Roxanne, o bueno, es más emocionante porque Liv cree que es muy smooth pero Roxanne y Raquel si tienen sus sospechas"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **WE para el segmento backstage con Roxanne Perez.** Genera **heat real** en su rol de manipuladora dentro del Judgment Day — el matiz que lo hace más rico es que **su manipulación no es invisible**: *"cree que es muy smooth"*, pero Roxanne y Raquel Rodríguez ya sospechan y tienen sus propios secretos. **"Estas chicas sí pueden vender un ángulo."**
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run como Women's World Champion (fecha
@@ -185,6 +195,7 @@ asistencia de Zaria (también debutando). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md`](../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md)
 - [`../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md`](../matches/2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md)
 - [`../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md`](../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md)
 - [`../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md`](../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md)
