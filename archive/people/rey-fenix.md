@@ -94,6 +94,16 @@ ya es leyenda consagrada. Ver
 
 **Lectura sintética**: **FS + WE, con el Perfect Match perdido por causa nombrada**: *"los strikes innecesarios le restan"*, más una reserva puntual sobre **sus lariats** (*"lo vi muy mid con ese comeback"*). **Research 2026-08-01**: era por el **AAA World Cruiserweight Championship** y **Fénix se lo ganó a Laredo Kid**, cortando un reinado de 500+ días con su segundo **Mexican Muscle Buster** — o sea que el *"booking tranquilo para construirlo como futuro babyface"* venía con título encima. **PROYECCIÓN DECLARADA**: en unos meses, **el antídoto para Dominik Mysterio**, salvo que El Grande Americano (Kaiser) llegue al título antes. Detalle celebrado: ***"Fénix haciendo el sweet chin music fue genial"***.
 
+### Sesión 2026-08-01 s05 — Segunda defensa cross-promotion en menos de dos semanas — "más oldschool poco a poco"
+
+**Cita verbatim**:
+
+> *"Fénix se está moviendo más oldschool poco a poco, su reinado empieza buenisimo después del clásico que puso con Laredo kid en méxico"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **FS+WE.** Primera defensa del AAA World Cruiserweight Championship —ganado en Noche de los Grandes— en televisión mayor de WWE, ante Axiom. Progresión de estilo reconocida en continuidad directa con s53. Research confirma una segunda defensa el 26/6 ante Nathan Frazer.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -101,6 +111,7 @@ ya es leyenda consagrada. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md`](../matches/2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md)
 - [`../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md)
 - [`../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md`](../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md)
 - [`../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md`](../matches/2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md)

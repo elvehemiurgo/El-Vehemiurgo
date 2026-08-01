@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-parka
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [la-parka, aaa, fighting-spirit, wrestling-entertainment, doctrina-todas-sus-luchas, primer-registro-individual]
@@ -45,6 +45,16 @@ formada — el Vehemiurgo declara que "todas las luchas de la Parka"
 merecen Wrestling Entertainment, patrón sostenido de calidad
 independiente del rival o contexto puntual.
 
+### Sesión 2026-08-01 s05 — Trío rudo/técnico leído como old-school puro
+
+**Cita verbatim**:
+
+> *"esto si es oldschool, se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **Perfect Match.** Aporta el shine y el ritmo carny del trios (research: enzuigiri a Taurus tras su baile característico) que el Vehemiurgo lee explícitamente como estructura old-school.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -52,6 +62,7 @@ independiente del rival o contexto puntual.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-13-los-vipers-vs-fiscal-octagon-parka-aaa-worldwide.md`](../matches/2026-06-13-los-vipers-vs-fiscal-octagon-parka-aaa-worldwide.md)
 - [`../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md`](../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md)
 
 ## Cross-links

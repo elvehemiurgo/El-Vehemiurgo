@@ -129,6 +129,12 @@ Ver
 
 **Lectura sintética**: **Doble clase en el match vs Cody (FS + WE) y WE acotada a su actuación en la promo de apertura del 5/6** — el Vehemiurgo excluye explícitamente el resto del segmento: *"poner a Sami en medio creo que resta"*. **La mejor definición del personaje en el archivo**: el heel cuyo heat nace de **creer en las reglas más que nadie**. Y el programa mejora al cambiar de premisa: el estratega **perdió la paciencia**, lo que da *"una premisa más frenética que el anterior buildup"*.
 
+### Sesión 2026-08-01 s05 — Elige personalmente al réferi — coherencia del villano purista
+
+**Sin verbatim propio del Vehemiurgo** en este volcado — registrado por research (sub-agente `card-wwe-smackdown-120626`) por continuidad directa del ángulo que el archivo viene siguiendo.
+
+**Lectura sintética**: Sin clase — segmento de contexto. Le exige a Nick Aldis elegir personalmente al réferi de su match contra Cody Rhodes por el Undisputed WWE Championship, y termina eligiendo a **Sami Zayn** — coherencia directa con la doctrina de "villano purista" fijada en s02 (el heat nace de creer en las reglas más que nadie). Sami Zayn terminaría ganando el título en Night of Champions.
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo
@@ -141,6 +147,7 @@ Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-12-gunther-elige-referee-sami-zayn-wwe-smackdown.md`](../segments/2026-06-12-gunther-elige-referee-sami-zayn-wwe-smackdown.md)
 - [`../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md`](../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md)
 - [`../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md`](../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md)
 - [`../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md`](../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md)

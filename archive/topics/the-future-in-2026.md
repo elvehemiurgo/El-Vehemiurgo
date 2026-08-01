@@ -157,6 +157,11 @@ Tres ejes del criterio:
   tipo de personajes"*.
 - **Ficha**: [`../people/zaria.md`](../people/zaria.md).
 - **Match anchor**: mismo triple threat 17/3/2026.
+- **Actualización 2026-08-01 s05**: **gana el NXT Women's North American
+  Championship** ante Tatum Paxley — *"se va definiendo una Zaria match así de
+  explosiva y heavyweight y con esa intención de impactar"*. Primer título
+  individual del registro.
+  ([→](../matches/2026-06-09-tatum-paxley-vs-zaria-wwe-nxt.md)).
 
 ### #11 — Jackson Drake *(declarado 2026-07-14 s35, en bloque con Blake Monroe)*
 

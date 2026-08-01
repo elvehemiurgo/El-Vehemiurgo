@@ -114,6 +114,16 @@ tres top guys distintos a la vez"*.
 
 **Lectura sintética**: **Perfect Match y el pago del arco completo.** El draw del 29/5 se leía como coherente con su gimmick de *"pura boca"*, con la incapacidad de ganar como rasgo de personaje; **acá cobra**. Segundo Perfect Match del par Saints/Hayes. El veredicto de conjunto sobre el call-up cierra la secuencia que el archivo viene siguiendo: crítica de fundamentos y sobreexposición (s41) → *"lo están armando muy bien"* (s42) → Perfect Match (s48) → draw con sentido (s52) → **victoria**.
 
+### Sesión 2026-08-01 s05 — Reserva técnica: "todavía se ve verde con las cosas fundamentales"
+
+**Cita verbatim**:
+
+> *"Ricky todavia se ve verde con las cosas fundamentales como los punches oldschool, pero fuera de eso si le está poniendo ganitas"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Reserva técnica puntual sobre fundamentos —los punches old-school—, con el matiz constructivo de esfuerzo reconocido: "le está poniendo ganitas". Recibe un Dirty Diana de Carmelo Hayes en el brawl a tres. Va al #1 Contender's Match por el US Title el 19/6.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar grafía oficial WWE** — *Ricky Saints* o *Ricky
@@ -251,6 +261,7 @@ Williams y Carmelo Hayes). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)
 - [`../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md`](../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)

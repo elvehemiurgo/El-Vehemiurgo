@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: axiom
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — AAA Worldwide, 4/4/2026)"
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE NXT, 26/5/2026)"
@@ -75,6 +75,16 @@ aperturas de midcard de NXT y protegiéndolo como face con
 proyección. Ver
 [`../segments/2026-05-26-axiom-promo-vs-birthright-wwe-nxt.md`](../segments/2026-05-26-axiom-promo-vs-birthright-wwe-nxt.md).
 
+### Sesión 2026-08-01 s05 — Rival de la primera defensa cross-promotion de Fénix
+
+**Cita verbatim**:
+
+> *"Fenix vs Axiom estuvo cool, se merece un WE class y un FS class"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **FS+WE** del lado perdedor — casi le arrebata el AAA World Cruiserweight Championship a Rey Fénix con un Spanish Fly de near-fall, cayendo ante tres Animo Kicks y el Mexican Musclebuster.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -87,5 +97,6 @@ proyección. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md`](../matches/2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md)
 - [`../matches/2026-04-04-tres-contra-tres-europeo-axiom-aaa-worldwide.md`](../matches/2026-04-04-tres-contra-tres-europeo-axiom-aaa-worldwide.md)
 - [`../segments/2026-05-26-axiom-promo-vs-birthright-wwe-nxt.md`](../segments/2026-05-26-axiom-promo-vs-birthright-wwe-nxt.md)

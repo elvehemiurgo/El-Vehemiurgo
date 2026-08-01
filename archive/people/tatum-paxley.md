@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tatum-paxley
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3/2026)"
 tags: [tatum-paxley, wwe-nxt-2026, estilo-experimental, selling, primer-registro-individual]
@@ -118,6 +118,16 @@ Ruca de Raw. De compañeras de tag (12/5) a rivales amistosas en
 una semana. Ver
 [`../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md`](../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md).
 
+### Sesión 2026-08-01 s05 — Pierde el titulo — doctrina de strikes fuera de lugar
+
+**Cita verbatim**:
+
+> *"esta generación se ve ridicula forzando strikes mma en su repertorio cuando nada que ver, que tendrá que ver tatum con strikes estilo rvd o mcmg, o sea, si es la freak con innovaciones de lucha libre y planchas cruzadas [...] Pero Tatum me la baja, esos strikes restan mucho"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **WE, con el Perfect Match explícitamente descartado por el Vehemiurgo** debido al striking. **Pierde el NXT Women's North American Championship ante Zaria** (F-5, spear, segundo F-5). Disparadora de la doctrina de **fundamentos fuera de lugar**: su gimmick es *"la freak con innovaciones de lucha libre y planchas cruzadas"*, y forzar strikes de muay thai es incoherente con ese personaje. Research no pudo verificar el striking MMA contra texto — queda como lectura de video pendiente de confirmación. Dato de contexto: Fightful Select reporta que WWE discute internamente su call-up al main roster tras esta derrota.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -127,6 +137,7 @@ una semana. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-09-tatum-paxley-vs-zaria-wwe-nxt.md`](../matches/2026-06-09-tatum-paxley-vs-zaria-wwe-nxt.md)
 - [`../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md`](../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md)
 - [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md)
 - [`../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md`](../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md)

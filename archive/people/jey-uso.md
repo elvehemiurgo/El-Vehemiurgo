@@ -65,6 +65,22 @@ Knight. **Los dos segmentos están encadenados** — el backstage arma la promo.
 el fatal 4-way de King of the Ring (con Finn Bálor y Royce Keys), tras un Samoan
 Spike de **Solo Sikoa** sobre Knight.
 
+### Sesión 2026-08-01 s05 — Gana el 4-way robándole el remate a Solo Sikoa y Royce Keys
+
+**Cita verbatim**:
+
+> *"tenemos LA vs Royve vs Balor vs Jey, de verdad podia haber sido la lucha perfecta, pero el peso muerto de Jey y Royce fue demasiado"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Sin clase propia — parte del "peso muerto" que le costó el Perfect Match al 4-way, aunque **gana avanzando a semifinales de King of the Ring**. CORRECCIÓN de research: la interferencia de Solo Sikoa **no estaba armada para él**, sino para Royce Keys — Jey le robó el remate saltando del top rope antes de la cuenta. Avanza contra Je'Von Evans (19/6) y pierde la final ante Oba Femi en Night of Champions.
+
+### Sesión 2026-08-01 s05 — Queda incómodo cuando Reigns elige a Fatu por encima de él
+
+**Sin verbatim propio del Vehemiurgo** en este volcado — registrado por research (sub-agente `card-wwe-raw-150626`) por continuidad directa del segmento del Bloodline.
+
+**Lectura sintética**: Sin clase propia. Reclama en el micrófono que Fatu no ha "acknowledgeado" al grupo — y queda visiblemente incómodo cuando **Reigns le entrega el Ula Fala a Fatu por encima de él y de Jimmy**. Es el otro lado de la grieta que Fatu abrió el 8/6 al decir que no reconocía a los Usos.
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, trayectoria, empresa.

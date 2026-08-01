@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kendal-grey
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Sub-agente nqcc-charlie-dempsey-2026 (research/closed.md, dossier completo)"
   - "Wikipedia — Kendal Grey, NAIA Women's Wrestling history"
@@ -143,6 +143,16 @@ contundencia física que el Vehemiurgo premia en la división
 femenina de NXT. Cierra el círculo del cluster WrenQCC/Kelani. Ver
 [`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md).
 
+### Sesión 2026-08-01 s05 — Gana la contendencia con Shades of Grey — shot a Lola Vice en Great American Bash
+
+**Cita verbatim**:
+
+> *"BUenas secuencia, yo la veria otra ves. Se merece todas las clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **Perfect Match**, gana con **Shades of Grey** y se gana el shot a **Lola Vice (c)** en NXT The Great American Bash. Su contra-argumento en el segmento previo: gano el **Iron Survivor Challenge**, pineando a Jordan y a Vice.
+
 ## Pendientes / huecos
 
 - [ ] Cobertura específica de la run NAIA — FloWrestling, NCAA
@@ -157,6 +167,7 @@ femenina de NXT. Cierra el círculo del cluster WrenQCC/Kelani. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-09-kelani-jordan-vs-kendal-grey-wwe-nxt.md`](../matches/2026-06-09-kelani-jordan-vs-kendal-grey-wwe-nxt.md)
 - [`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md)
 - [`../promotions/wrenqcc.md`](../promotions/wrenqcc.md) — tag
   team activo (mitad).

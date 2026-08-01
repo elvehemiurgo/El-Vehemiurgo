@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: paige
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE Raw, 11/5/2026)"
   - "Mención previa: s41 ('las bellas y paige')"
@@ -52,6 +52,16 @@ Vehemiurgo valida como efectivo dentro del segmento WE (la
 táctica "recupera el heat", que es exactamente para lo que
 existe).
 
+### Sesión 2026-08-01 s05 — Parte de Scream Mode — "la nostalgia que no puedo esperar a que termine"
+
+**Cita verbatim**:
+
+> *"no puedo esperar a que esta nostalgia de Paige y las otras veteranas mid termine"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Primer registro individual, con el veredicto más frío del archivo sobre ella: parte de la generación de "veteranas mid" cuya nostalgia el Vehemiurgo espera que termine. Compañera de Brie Bella en **Scream Mode**, campeonas de parejas desde WrestleMania 42.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad y título** — [verif].
@@ -59,6 +69,7 @@ existe).
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md`](../matches/2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md)
 - [`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md)
 
 ## Cross-links

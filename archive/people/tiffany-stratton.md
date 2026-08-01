@@ -135,6 +135,16 @@ brecha generacional entre ambas. Ver
 
 **Lectura sintética**: Sin clase propia (la triple corresponde al match de Chelsea Green vs Lash Legend). **Movimiento de storyline con consecuencia**: le dice a Chelsea que **no la va a acompañar**, y ese abandono es **lo primero que Chelsea vende**, antes incluso de la entrada. Cierre —o giro— del ángulo de manipulación abierto en s51, ahora con Chelsea en posición de underdog genuina.
 
+### Sesión 2026-08-01 s05 — Salvada por Chelsea Green con kendo stick — el storyline que toma impulso
+
+**Cita verbatim**:
+
+> *"este storyline con tIFFANY VA TOMANDO IMPULSO, realmente es lo más interesante que tienen"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Sin clase. Confirmado como **WWE Women's United States Champion** en esta fecha (título ganado a Giulia el 24/4). Salvada por Chelsea Green de un ataque de Michin y B-Fab durante una entrevista backstage.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -144,6 +154,7 @@ brecha generacional entre ambas. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-12-chelsea-green-salve-kendo-stick-wwe-smackdown.md`](../segments/2026-06-12-chelsea-green-salve-kendo-stick-wwe-smackdown.md)
 - [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)
 - [`../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md`](../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md)
 - [`../matches/2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md)

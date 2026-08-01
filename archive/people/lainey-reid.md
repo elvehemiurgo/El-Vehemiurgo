@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lainey-reid
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — WWE SmackDown, 17/4/2026)"
 tags: [lainey-reid, wwe-nxt, heroe-fundamental-38, panteon, titulos-en-pareja-femeninos-excepcion]
@@ -107,6 +107,16 @@ continuidad de su lectura previa como "la más indie, pero ya se
 mueve como wrestler real" (s42). Ver
 [`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s05 — Fatal Influence destruyendo la mitología de las divas — sin ella el ángulo no cierra
+
+**Cita verbatim**:
+
+> *"muy buenas heels desde el inicio, luchan circulos al rededor de las veteranas"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Sin clase propia (la triple corresponde solo a la participación conjunta de Fatal Influence, según el llamado del Vehemiurgo). Parte del dúo que "luchan círculos alrededor de las veteranas" en el showcase no titular contra Scream Mode.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -115,6 +125,7 @@ mueve como wrestler real" (s42). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md`](../matches/2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md)
 - [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
 - [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)
 - [`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md)

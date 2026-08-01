@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kelani-jordan
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 31/3/2026)"
 tags: [kelani-jordan, wwe-nxt-2026, heel-turn, wrestling-entertainment, primer-registro-individual]
@@ -139,6 +139,16 @@ de main roster. Ver
 y
 [`../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md`](../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md).
 
+### Sesión 2026-08-01 s05 — Perfect Match — la contendencia se construye citando titulos externos
+
+**Cita verbatim**:
+
+> *"se nota que no estan al nivel NXT o verdes como los otros, estas chicas ya estan simulando prime time, se quieren mover como main eventers y su dan muy duro"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **Perfect Match** en la #1 Contender's al NXT Women's Championship, perdiendo ante Kendal Grey. Research confirma el mecanismo detras del elogio del Vehemiurgo: en el segmento previo (2/6) reclama nunca haber tenido shot al titulo de NXT y contrasta con haberse ido a **TNA** y ganar el Knockouts Championship, siendo ridiculizada por eso, mientras a Lola Vice la elogiaron por su AAA Mixed Tag Title. La rivalidad se construye citando el estatus ganado fuera de WWE.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -149,6 +159,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-09-kelani-jordan-vs-kendal-grey-wwe-nxt.md`](../matches/2026-06-09-kelani-jordan-vs-kendal-grey-wwe-nxt.md)
 - [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md)
 - [`../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md`](../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md)
 - [`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md)

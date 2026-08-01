@@ -164,6 +164,16 @@ lo mira fijo y se lo devuelve** para que se lo tire de nuevo.
 4,5 M de horas — el número de horas más bajo del año para Raw.** El 12/6, en el
 King of the Ring, **Jey Uso lo pinea** tras un Samoan Spike de Solo Sikoa.
 
+### Sesión 2026-08-01 s05 — "Programación premium en cualquier lugar" — sostiene dos segmentos en la misma noche
+
+**Cita verbatim**:
+
+> *"LA es programación premium en cualquier lugar"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **WE por partida doble**: la promo con Cathy Kelley antes del 4-way, y su performance dentro del propio 4-way de King of the Ring. "Incluso cuando se tropieza lo usa a su favor" — el elogio de oficio más específico de la sesión.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el
@@ -176,6 +186,8 @@ King of the Ring, **Jey Uso lo pinea** tras un Samoan Spike de Solo Sikoa.
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-12-la-knight-promo-cathy-kelley-wwe-smackdown.md`](../segments/2026-06-12-la-knight-promo-cathy-kelley-wwe-smackdown.md)
+- [`../matches/2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md`](../matches/2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md)
 - [`../segments/2026-06-08-la-knight-segmento-campana-adam-pearce-wwe-raw.md`](../segments/2026-06-08-la-knight-segmento-campana-adam-pearce-wwe-raw.md)
 - [`../segments/2026-06-01-la-knight-segmento-wwe-raw.md`](../segments/2026-06-01-la-knight-segmento-wwe-raw.md)
 - [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)

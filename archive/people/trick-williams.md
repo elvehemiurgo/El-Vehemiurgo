@@ -142,6 +142,16 @@ y
 
 **Lectura sintética**: Sin clase declarada — la reserva sobre Bron Breakker pesa sobre el conjunto del segmento. **Trick sigue rindiendo en el micrófono**, línea sostenida en el archivo. Contexto: torneo **King of the Ring 2026** en curso.
 
+### Sesión 2026-08-01 s05 — Nivel main eventer sosteniendo el título US ante dos retadores a la vez
+
+**Cita verbatim**:
+
+> *"Trick Williams se mando tremenda promo, le quedó genial, ese nivel main eventer [...] Trick como heel dominante esperando entrar al main event se ve perfecto"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **WE.** CORRECCIÓN de research: no es build de King of the Ring —admite haber perdido su clasificatorio el 5/6— sino la escena del **WWE United States Championship**, del que sigue siendo campeón. Cierra el segmento clavándole un Book End a Ricky Saints, quedando solo de pie. Deja agendado el #1 Contender's Match Hayes vs Saints para el 19/6.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main
@@ -157,6 +167,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)
 - [`../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md`](../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md)
 - [`../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md)
 - [`../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md)

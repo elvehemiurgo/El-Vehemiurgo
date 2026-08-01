@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kiana-james
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (mención — WWE SmackDown, 24/4/2026)"
 tags: [kiana-james, giulia, wwe-smackdown-2026, heel-run, primer-registro-mencion]
@@ -55,6 +55,16 @@ intensidad de apuesta de carrera declarada explícitamente, con las
 tensiones con Giulia todavía sin resolver de fondo. Ver
 [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s05 — Buena como heel, pero "se ve más cómoda que Giulia"
+
+**Cita verbatim**:
+
+> *"James es buena como heel, si le está metiendo ganas, le dieron material aquí, es la underdog, pero se ve más cómoda que GIulia"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Elogio de progresión con ventaja comparativa explícita sobre Giulia. Le reclama a Giulia haberle conseguido los matches y ser la razón de su reinado (perdido en abril); Giulia responde que solo necesitó ayuda con el inglés y los contratos, y le da una cachetada. Payoff: Giulia le gana el 26/6.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -63,6 +73,7 @@ tensiones con Giulia todavía sin resolver de fondo. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-12-giulia-cachetea-kiana-james-wwe-smackdown.md`](../segments/2026-06-12-giulia-cachetea-kiana-james-wwe-smackdown.md)
 - [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)
 
 ## Cross-links

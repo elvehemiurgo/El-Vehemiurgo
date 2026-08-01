@@ -150,6 +150,16 @@ comedia dentro del ángulo de manipulación ya establecido. Ver
 
 **Lectura sintética**: **ALTA AL PANTEÓN DE HÉROES FUNDAMENTALES — #51**, más WE para su presentación backstage y **FS+WE para el match vs Nia Jax**, su regreso tras unos cuatro meses. **La alta es doctrinalmente atípica y por eso importa**: llega **con el defecto técnico declarado en la misma frase** (*"no es tan old-school y su finisher lo aplica muy débil"*). El criterio no es técnico — es **oficio habitado**: *"su kayfabe y amor por el gimmick es lo mejor"*, *"la recontra vive"*, y el sello final, ***"Chelsea es wrestling"***. **La definición del personaje, completa**: babyface natural y a la vez heel muy identificable; no es fuerte como para sostenerse sola, pero su sueño es ser la estrella, así que **compensa con creatividad y política** y termina sobreviviendo en las ligas grandes. *"Yo veo SmackDown para ver cómo Chelsea sigue luchando por su sueño."* En el match, **la inversión de roles la protege**: *"normalmente Chelsea es la heel pero aquí Nia estaba dirigiendo"*. Ver [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md).
 
+### Sesión 2026-08-01 s05 — El salve con kendo stick — "ellas son el futuro"
+
+**Cita verbatim**:
+
+> *"chELSEA HACE EL SALVE BACKSTAGE, Y ESTE STORYLINE CON tIFFANY VA TOMANDO IMPULSO, realmente es lo más interesante que tienen, obviamente aparte de Fatal Influence, ellas son el futuro"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Sin clase — declaración de proyección de storyline. Confirmado por research: llega armada con un **kendo stick** y ahuyenta a Michin y B-Fab, salvando a Tiffany Stratton en plena entrevista con Cathy Kelley. Junto a Stratton, declarada "el futuro" del roster femenino de SmackDown, a la par de Fatal Influence.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -167,6 +177,7 @@ comedia dentro del ángulo de manipulación ya establecido. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-12-chelsea-green-salve-kendo-stick-wwe-smackdown.md`](../segments/2026-06-12-chelsea-green-salve-kendo-stick-wwe-smackdown.md)
 - [`../segments/2026-05-29-chelsea-green-presentacion-backstage-wwe-smackdown.md`](../segments/2026-05-29-chelsea-green-presentacion-backstage-wwe-smackdown.md)
 - [`../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md`](../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md)
 - [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)

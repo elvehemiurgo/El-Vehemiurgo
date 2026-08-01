@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: octagon-jr
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s37 (visión directa — AAA Worldwide, 11/4/2026)"
 tags: [octagon-jr, aaa, el-grande-americano, fighting-spirit, wrestling-entertainment, primer-registro-individual]
@@ -59,6 +59,16 @@ en Octagón Jr. individualmente. Ver
 singularizado. Ver
 [`../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md).
 
+### Sesión 2026-08-01 s05 — Cierra el trios de Perfect Match con el slam sobre Taurus
+
+**Cita verbatim**:
+
+> *"la segunda lucha del show es los vipers vs el fiscal, octagon y la parka, estuvo genial, esto si es oldschool, se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **Perfect Match.** Research: hace el shine inicial y **cierra el finish cubriendo a Taurus con un slam desde la tercera cuerda**, mientras el pleito personal de El Fiscal con Abismo Negro Jr. se resuelve fuera del ring.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa AAA.
@@ -66,6 +76,7 @@ singularizado. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-13-los-vipers-vs-fiscal-octagon-parka-aaa-worldwide.md`](../matches/2026-06-13-los-vipers-vs-fiscal-octagon-parka-aaa-worldwide.md)
 - [`../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md`](../matches/2026-04-11-octagon-jr-vs-el-grande-americano-aaa-worldwide.md)
 - [`../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md`](../matches/2026-05-09-cruz-del-toro-vs-octagon-jr-vs-lince-aaa-worldwide.md)
 

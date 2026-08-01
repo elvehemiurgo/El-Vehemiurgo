@@ -81,6 +81,16 @@ y
 
 **Lectura sintética**: **Triple clase en el fatal 4-way de Raw**, con **crédito nominal por el ring positioning** — el detalle técnico que el Vehemiurgo más premia en el archivo, atribuido a él por nombre. Cuatro días después **pierde la revancha ante Ricky Saints** en otro Perfect Match, cerrando el programa más productivo del midcard de SmackDown en el registro.
 
+### Sesión 2026-08-01 s05 — "Un gran face ahora mismo, puede hablar como los grandes"
+
+**Cita verbatim**:
+
+> *"Carmelo es un gran face ahora mismo, puede hablar como los grandes, la división está muy nutrida, es muy entretenida"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: El elogio de micrófono más alto que recibe en toda esta sesión. Compara a Trick Williams con Dr. Seuss por el abuso de su catchphrase antes de conectar un Dirty Diana en el brawl a tres. Queda agendado en #1 Contender's Match vs Ricky Saints por el US Title el 19/6.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (run NXT + main
@@ -92,6 +102,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)
 - [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
 - [`../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md`](../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md)
 - [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md)

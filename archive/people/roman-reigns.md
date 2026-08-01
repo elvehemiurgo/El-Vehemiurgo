@@ -82,6 +82,7 @@ tags: [roman-reigns, the-tribal-chief, head-of-the-table, bloodline, the-shield,
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-15-bloodline-ataca-eric-andre-wwe-raw.md`](../segments/2026-06-15-bloodline-ataca-eric-andre-wwe-raw.md)
 - [`../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md`](../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md)
 - [`../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md`](../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md)
 - [`../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md)
@@ -228,6 +229,16 @@ como listo para el peldaño de main eventer. Ver
 - **8/6**: sin aparecer en pantalla, es **el blanco último de la promo de LA
   Knight**, que le disputa el título de Tribal Chief (*"en este barrio, yo soy
   The Chief"*) y acusa a **Adam Pearce** de favorecerlo institucionalmente.
+
+### Sesión 2026-08-01 s05 — El único freno de Fatu — y elige soltarlo
+
+**Cita verbatim**:
+
+> *"todo este turn del bloodline se sintió orgánico, o sea, Roman si la hizo muy bien"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **WE para el segmento.** Confirma la mecánica exacta que el Vehemiurgo elogia: es **el único que puede frenar a Fatu**, lo frena una vez, y **después cambia de opinión y le ordena repetir el splash sobre Eric André**. Elige a Fatu por encima de sus propios primos (los Usos). Dato no verificado, marcado como rumor de fans: los micrófonos habrían captado un susurro suyo mencionando a Seth Rollins.
 
 ## Pendientes
 

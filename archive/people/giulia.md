@@ -146,6 +146,16 @@ No genera clase ni nota dedicada — mención cruzada.
 
 **Lectura sintética**: **El diagnóstico más duro del archivo sobre ella**, y disparador de la **doctrina de los fundamentos ausentes en el wrestling moderno**: talentos impresionantes que **no se sueltan a improvisar como wrestlers old-school**. El agravante es de contexto — se congela en un **irish whip simple**, siendo babyface y local. El veredicto comparativo remata: *"una rookie como Lash tiene mejor idea de cómo conectar una secuencia con otra, no puede ser"*. **Pero el cierre es constructivo**: *"cuando se pulen, queda un producto bonito"*. Y el booking la acompaña — apuestan por **face Giulia** con una **falsa alianza con Roxanne Perez** para generar empatía y a la vez heat para Roxanne por meterse con la local: *"inteligente"*.
 
+### Sesión 2026-08-01 s05 — "Su técnica está muy bien ejecutada" — y el techo de carisma silencioso
+
+**Cita verbatim**:
+
+> *"a Giulia se le va a hacer más dificil ir over como face yo creo [...] Giulia, si gana esta rivalidad, tienee que meterle a las promos o convertirse en algo como Iyo que tiene ese techo de carisma silencioso"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: CORRECCIÓN DE EXPEDIENTE (research): **no tiene título en esta fecha** — lo perdió ante Tiffany Stratton el 24/4 tras 111 días de reinado. Le da una cachetada a Kiana James cerrando la ruptura de su alianza, declarando que ya tiene las palabras para decirlo en inglés. **Doctrina del techo de carisma silencioso**: riesgo de quedar topeada como Iyo Sky si no mejora en el micrófono. Le gana la revancha a James el 26/6.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa STARDOM (títulos,
@@ -158,6 +168,7 @@ No genera clase ni nota dedicada — mención cruzada.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-12-giulia-cachetea-kiana-james-wwe-smackdown.md`](../segments/2026-06-12-giulia-cachetea-kiana-james-wwe-smackdown.md)
 - [`../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md`](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)
 - [`../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md`](../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md)
 - [`../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md`](../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md)

@@ -365,6 +365,16 @@ WrestleMania"* sobre el promo package del 29/5. El match se resolvió el 31/5,
 pero el hilo continúa — la línea Knight/Bloodline desemboca en **Jacob Fatu vs
 LA Knight, Raw 20/7/2026**.
 
+### Sesión 2026-08-01 s05 — Recibe el Ula Fala y sella el heel turn de facto contra los Usos
+
+**Cita verbatim**:
+
+> *"el segmento de the bloodline y todo más el ataque a Eric Andre, estuvo cool, se merece una WE class, les quedó bueno, se supone que jacob está frustrado y confrontandose a si mismo todo loco, pero lo transmte muy bien, de hecho todo este turn del bloodline se sintió orgánico"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **WE.** Research cierra la secuencia completa: **Roman Reigns le entrega su propio Ula Fala**, metiéndolo formalmente al Bloodline por encima de los Usos, que quedan visiblemente incómodos. Camino a la rampa, ataca al comediante **Eric André** (cameo real, cross-promo con la película *Street Fighter*), sube al top turnbuckle, **se detiene y mira a Reigns** — que primero lo frena y después le ordena ejecutar, dos veces. La lectura del Vehemiurgo (*"frustrado, confrontándose a sí mismo"*) es compatible con esa pausa, aunque no está documentada en texto por ninguna fuente. Sella su heel turn de facto: acepta el Ula Fala y ejecuta a un civil por orden. Cierra la secuencia de tres semanas: 31/5 (pierde el Tribal Combat) → 1/6 (reconoce a Reigns) → 8/6 (no reconoce a los Usos) → 15/6 (recompensado por elegir a Reigns).
+
 ## Pendientes / huecos
 
 - [x] ~~Cronología MLW completa con fechas de title runs~~ →
@@ -383,6 +393,7 @@ LA Knight, Raw 20/7/2026**.
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-15-bloodline-ataca-eric-andre-wwe-raw.md`](../segments/2026-06-15-bloodline-ataca-eric-andre-wwe-raw.md)
 - [`../segments/2026-05-29-promo-package-tribal-combat-fatu-reigns-wwe-smackdown.md`](../segments/2026-05-29-promo-package-tribal-combat-fatu-reigns-wwe-smackdown.md)
 - [`../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md`](../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md)
 - [`../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md`](../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md)

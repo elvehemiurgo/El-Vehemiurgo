@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: fallon-henley
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3/2026)"
 tags: [fallon-henley, wwe-nxt, heroe-fundamental-37, triple-corona-midcard, panteon, nxt-speed-championship]
@@ -126,6 +126,16 @@ protección explícita vía psicología face de las veteranas y
 contraste de tamaño/estilo a favor de las heels jóvenes. Ver
 [`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s05 — Guiando a Brie Bella — "prácticamente guió a Brie"
+
+**Cita verbatim**:
+
+> *"Fallon por ejhemplo prácticamente guió a Brie que toda su carrera se ha visto como Rookie"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **Sin clase para el match, pero mención directa dentro del veredicto de triple clase reservado para Fatal Influence.** El Vehemiurgo la señala guiando literalmente a Brie Bella dentro del combate — la nueva generación conduciendo a las veteranas. Research confirma que el match fue **no titular** contra Scream Mode (Brie Bella & Paige), y que perdieron por una reversión de Brie sobre el small package de Fallon.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -137,6 +147,7 @@ contraste de tamaño/estilo a favor de las heels jóvenes. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md`](../matches/2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md)
 - [`../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md`](../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md)
 - [`../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md`](../segments/2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md)
 - [`../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md`](../matches/2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md)

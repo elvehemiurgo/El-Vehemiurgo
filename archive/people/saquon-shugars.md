@@ -177,6 +177,16 @@ era IG"*.)
 
 **Lectura sintética**: **Wrestling Entertainment.** El criterio decisivo no es lo lucido del spot sino la **coherencia**: *"va con su gimmick"* — es un ataque que el personaje **haría**. Y la elección del momento es carny puro: atacar durante la entrada del rival, cuando está vendiendo y no está listo.
 
+### Sesión 2026-08-01 s05 — Cuarto capítulo de la venganza: bate de béisbol contra Osiris Griffin
+
+**Cita verbatim**:
+
+> *"Saquon continua su venganza, y le quedó muy cool la emboscada en este capitulo, tiene mucho carisma, me encantó"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **WE.** Research cierra el objetivo (**DarkState**, la facción que lo desterró) y el contenido exacto: distrae a Dion Lennox desde el titantron durante su match, y en el post-match **ataca a Osiris Griffin con un bate de béisbol**, escapando entre el público riéndose. Cuarto capítulo de escalada: destierro (19/5) → acecho (26/5) → ataque en la entrada (2/6) → bate de béisbol (9/6). Payoff posterior: vence a Lennox en NXT Great American Bash, con DarkState atacándolo en respuesta.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT.
@@ -293,6 +303,7 @@ cierre que continúa el face turn consumado en s50. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-09-saquon-shugars-ataca-darkstate-bate-wwe-nxt.md`](../segments/2026-06-09-saquon-shugars-ataca-darkstate-bate-wwe-nxt.md)
 - [`../segments/2026-06-02-saquon-shugars-ataca-dark-state-entrada-wwe-nxt.md`](../segments/2026-06-02-saquon-shugars-ataca-dark-state-entrada-wwe-nxt.md)
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
 - [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)

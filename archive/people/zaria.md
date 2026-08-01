@@ -117,6 +117,16 @@ protagonismo singularizado. Ver
 
 **Lectura sintética**: **Dos entradas en el mismo show, y solo la corta se lleva clase.** El match con Lizzy Rain queda **sin clase** (*"estuvo cool"* es aprobación, no llamado); el **ataque backstage se lleva WE** por *"cortito efectivo"* — el criterio de **timing y duración** de la definición canónica: *el segmento sabe cuándo termina*.
 
+### Sesión 2026-08-01 s05 — Nueva campeona — "se va definiendo una Zaria match"
+
+**Cita verbatim**:
+
+> *"Zaria puso una gran heel en el ring, me gusta que se va definiendo una "Zaria match" asi de explosiva y heavyweight y con esa intención de impactar"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: **WE — nueva NXT Women's North American Champion**, venciendo a Tatum Paxley con F-5, spear y segundo F-5. El Vehemiurgo identifica un **estilo de autor en formación**: explosiva, heavyweight, con intención de impactar — mismo criterio que ya le había dado WE por el ataque backstage "cortito efectivo" del 2/6. Zaria es #10 de THE FUTURE IN 2026.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT y configuración inicial del *monster
@@ -130,6 +140,7 @@ protagonismo singularizado. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-09-tatum-paxley-vs-zaria-wwe-nxt.md`](../matches/2026-06-09-tatum-paxley-vs-zaria-wwe-nxt.md)
 - [`../matches/2026-06-02-lizzy-rain-vs-zaria-wwe-nxt.md`](../matches/2026-06-02-lizzy-rain-vs-zaria-wwe-nxt.md)
 - [`../segments/2026-06-02-zaria-ataque-backstage-wwe-nxt.md`](../segments/2026-06-02-zaria-ataque-backstage-wwe-nxt.md)
 - [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md)

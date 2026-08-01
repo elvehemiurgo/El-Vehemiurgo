@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: brie-bella
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE Raw, 11/5/2026)"
   - "Mención previa: s41 ('las bellas y paige')"
@@ -44,6 +44,16 @@ tags: [brie-bella, wwe-raw-2026, campeona-tag-verif, veterana, primer-registro-i
 valoración positiva directa — la química con Roxanne funciona
 dentro de un segmento WE.
 
+### Sesión 2026-08-01 s05 — Del lado equivocado de la doctrina — "toda su carrera se ha visto como rookie"
+
+**Cita verbatim**:
+
+> *"para mi la historia es Fatal Influence destruyendo la mitologia de las divas revolution y todo ese marketing de Stephanie McMahon que es un fraude, de hecho las bellas solo son famosas porque cooperaban con Laurinatis"*
+>
+> — El Vehemiurgo, 2026-08-01 s05 (verbatim)
+
+**Lectura sintética**: Primer registro individual, y es la pieza doctrinal más dura del volcado. El Vehemiurgo la usa como caso testigo de la **crítica a la Divas Revolution**: célebre por cooperar con John Laurinaitis, presentada como parte de un lavado de imagen orquestado por Stephanie McMahon. Research confirma el dato duro: es campeona de parejas junto a **Paige ("Scream Mode")**, ganado en WrestleMania 42, y esta vez **retiene** ganándole a Fatal Influence (no titular) revirtiendo el small package de Fallon Henley.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad y título** — [verif].
@@ -51,6 +61,7 @@ dentro de un segmento WE.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md`](../matches/2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md)
 - [`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md)
 
 ## Cross-links

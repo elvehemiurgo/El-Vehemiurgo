@@ -36,7 +36,13 @@ con cada cambio de estado.
 | 2026-06-24 | Will Ospreay vs Fantasmo | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md) |
 | 2026-06-20 | Maya World vs Athena | AEW / Collision | FS | stub | 1 | [→](2026-06-20-maya-world-vs-athena-aew-collision.md) |
 | 2026-06-20 | Zack Sabre Jr vs Adam Priest | AEW / Collision | FS | stub | 1 | [→](2026-06-20-zsj-vs-adam-priest-aew-collision.md) |
+| 2026-06-13 | El Fiscal, Octagon Jr. y La Parka vs Los Vipers | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-06-13-los-vipers-vs-fiscal-octagon-parka-aaa-worldwide.md) |
+| 2026-06-12 | Scream Mode (Brie Bella & Paige) vs Fatal Influence (Fallon Henley & Lainey Reid) | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md) |
+| 2026-06-12 | Rey Fénix vs Axiom | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md) |
+| 2026-06-12 | Jey Uso vs LA Knight vs Finn Bálor vs Royce Keys | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md) |
 | 2026-06-11 | Myron Reed vs Kevin Knight | AEW / Collision Summer Blockbuster | PW·FS·WE | stub | 1 | [→](2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md) |
+| 2026-06-09 | Tatum Paxley vs Zaria | WWE / NXT | WE | en-investigacion | 1 | [→](2026-06-09-tatum-paxley-vs-zaria-wwe-nxt.md) |
+| 2026-06-09 | Kelani Jordan vs Kendal Grey | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-06-09-kelani-jordan-vs-kendal-grey-wwe-nxt.md) |
 | 2026-06-08 | Penta vs Rey Mysterio | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-06-08-penta-vs-rey-mysterio-wwe-raw.md) |
 | 2026-06-06 | Bayley, Lola Vice & La Catalina vs Las Tóxicas (Flammer, La Hiedra & Maravilla) | AAA / Noche de los Grandes — Night 2 | PW·FS·WE | en-investigacion | 1 | [→](2026-06-06-bayley-lola-catalina-vs-toxicas-aaa-noche-de-los-grandes-night-2.md) |
 | 2026-06-06 | Lince Dorado vs Octagón Jr. vs Cruz del Toro vs Mini Vikingo vs Joaquín Wilde | AAA / Noche de los Grandes — Night 2 | PW·FS·WE | en-investigacion | 1 | [→](2026-06-06-5-way-contendencia-crucero-aaa-noche-de-los-grandes-night-2.md) |
