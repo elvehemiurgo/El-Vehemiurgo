@@ -339,6 +339,32 @@ documentada.
 
 **Lectura sintética**: **Sin clase declarada, pese al elogio más alto de la fecha** — *"highlight del año"*. Doctrina: clase solo si el Vehemiurgo la declara; queda como candidatura no disparada. La **reserva de enganche** es la misma que atraviesa toda su cobertura de esta rivalidad desde s42: *"no es que esté pegadísimo con esta historia"*. **Proyección declarada**: ***"esto va hasta WrestleMania"*** — el programa Fatu/Reigns leído como arco anual, con la estipulación **Tribal Combat** ya nombrada.
 
+### Research 2026-08-01 — Reconoce a Reigns el 1/6 — pero solo a él: "no reconozco a los Usos"
+
+**Fuente**: sub-agente `card-wwe-raw-080626` (research 2026-08-01, closed).
+**Advertencia**: material snippet-level — 403 total, incluido wwe.com.
+
+**El Tribal Combat de Clash in Italy, cerrado**: era **por el World Heavyweight
+Championship**, con la estipulación de que **Fatu debía reconocer a Reigns como
+Tribal Chief**. **Reigns retuvo** (spear a través de una mesa, spear final), y
+**el 1/6, en Raw, Fatu lo reconoció** en una ceremonia del Bloodline.
+
+**Pero el reconocimiento no lo volvió obediente: lo volvió selectivo.** El 8/6,
+backstage, **Jey Uso le reclama por qué no corrió la jugada si están en el mismo
+equipo**, y Fatu responde que **no reconoce a los Usos — solo reconoce a "The
+OTC" Roman Reigns**, y se burla de los gemelos **por no callar a LA Knight cuando
+habla mal del Bloodline**. Ese segmento es **el set-up directo de la promo de LA
+Knight** de esa noche.
+
+> Es la continuación más fiel posible del *"lado rebelde del linaje"* que el
+> archivo identificó en s43 como la clave de todo su booking: **acata al jefe y
+> desprecia a los primos**.
+
+**Y la predicción del Vehemiurgo sigue viva**: dijo *"esto va hasta
+WrestleMania"* sobre el promo package del 29/5. El match se resolvió el 31/5,
+pero el hilo continúa — la línea Knight/Bloodline desemboca en **Jacob Fatu vs
+LA Knight, Raw 20/7/2026**.
+
 ## Pendientes / huecos
 
 - [x] ~~Cronología MLW completa con fechas de title runs~~ →

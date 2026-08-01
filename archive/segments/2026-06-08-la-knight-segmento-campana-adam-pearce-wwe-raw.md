@@ -2,15 +2,15 @@
 segmento: "LA Knight — segunda semana de campaña contra Adam Pearce"
 slug: "2026-06-08-la-knight-segmento-campana-adam-pearce-wwe-raw"
 tipo_segmento: "in-ring promo"
-protagonistas: ["LA Knight", "Adam Pearce"]
+protagonistas: ["LA Knight", "Jey Uso", "Jimmy Uso", "Adam Pearce", "Roman Reigns"]
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-06-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "París, Francia"
+recinto: "Accor Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
-linea_textual: "\"I'm the chief\" · \"screw your family\" (citadas por el Vehemiurgo; contexto y destinatario [verif])"
+linea_textual: "\"Screw your family\" (a Jey Uso, confirmada como frase; sin verificación contra video) · \"en este barrio, yo soy The Chief\" / \"Chief LA Knight\" (el \"I'm the chief\" del dictado es paráfrasis — no verificado en esa forma literal)"
 gimmick_momento: "LA Knight recreándose como babyface anti-autoridad — la historia de LA vs WWE"
 storyline: "Campaña de LA Knight contra Adam Pearce y la autoridad de WWE. Segunda semana consecutiva con segmento relevante, tras el del 1/6/2026."
 attendance_anunciada: ""
@@ -52,10 +52,66 @@ tags: [wwe-2026, raw, la-knight, adam-pearce, anti-autoridad, la-vs-wwe, babyfac
 
 ## Pendientes / huecos
 
-- [ ] **Destinatario exacto de "I'm the chief" y "screw your family"** — [verif]. ¿Adam Pearce, el Bloodline, Roman Reigns, Jacob Fatu?
-- [ ] Origen y fecha de arranque de la campaña contra Adam Pearce.
-- [ ] Contenido del segmento del 1/6 (registrado sin detalle).
-- [ ] Ubicación en el show, duración, ciudad y recinto.
+- [ ] **Verificación contra video de ambas frases** — *"screw your family"* está
+      confirmada como frase por múltiples fuentes secundarias, pero **ninguna
+      primaria leída**. *"I'm the chief"* queda registrada **como paráfrasis**.
+- [ ] Ubicación en el show y duración.
+
+### Datos cerrados por research (2026-08-01)
+
+**Fuente**: sub-agente `card-wwe-raw-080626` (research 2026-08-01, closed).
+**Advertencia**: material snippet-level — 403 total, incluido wwe.com.
+
+- **Show**: **Accor Arena, París**, con horario especial (2 PM ET para prime time
+  francés). 108 minutos. **2,4 M de espectadores a 7 días y 4,5 M de horas
+  vistas — el número de horas más bajo del año para Raw** [Wrestlenomics, T2].
+- **Video oficial WWE**: *"LA Knight verbally unloads on **Jey Uso**"*.
+
+**LAS DOS FRASES, RESUELTAS — y una corrige al dictado:**
+
+1. ***"Screw your family"* va contra JEY USO, cara a cara**, referida al
+   Bloodline. Knight le desea suerte para su match de King of the Ring del
+   viernes y remata con el *"screw your family"* seco. **Jey se saca la camiseta
+   y va hacia él; Jimmy Uso lo frena.**
+2. ***"I'm the chief"* no está verificado en esa forma literal.** Lo reportado es
+   que Knight **no recibe órdenes de Roman Reigns ni se pone en fila detrás del
+   Tribal Chief**, y que *"en este barrio, yo soy The Chief"* — autodenominándose
+   **"Chief LA Knight"**. **La pulla es a Roman Reigns**, usurpándole el título
+   de Tribal Chief. **No va contra Jacob Fatu.**
+
+**El resto de la promo** [Slam Wrestling, Cageside, T2]: Reigns *"estafó a todo
+el mundo"* y su imperio se desmorona; no está enojado con los franceses que
+cantan por Reigns porque *"The OTC"* los engañó; anticipa que **alguien del
+Bloodline va a interferir** en su match de KOTR del viernes; **vuelve a acusar a
+Adam Pearce de favorecer al Bloodline**; y cierra con el eje *unchosen* — *"puede
+que yo sea el no elegido, pero la gente me eligió y yo me elegí a mí mismo"*.
+Cageside lo describió como ***"casi un worked shoot"***.
+
+**Detalle carny que el Vehemiurgo iba a disfrutar**: un stagehand le tira mal el
+micrófono, Knight **no lo agarra, lo mira fijo y se lo devuelve** para que se lo
+tire de nuevo.
+
+**LA CAMPAÑA CONTRA PEARCE — arranca el 1 de junio, confirmada.** El segmento
+del 1/6 que el archivo tenía registrado sin detalle **era exactamente esto**:
+video oficial *"LA Knight accuses Adam Pearce of aligning with Roman Reigns"*.
+Backstage, Knight le reclama a Pearce que se la pasa en el vestuario de Reigns
+mientras el resto lo persigue por los pasillos, lo llama **"mouthpiece" del
+Bloodline** y le dice que **"bien podría ser un Uce honorario"**. Pearce se
+altera y responde que Reigns es el campeón mundial, que Jacob Fatu es peligroso,
+y que él trataba de **mantener unida a la familia**. Knight remata:
+***"Te voy a sacar de tu retiro y te voy a meter de vuelta en él"*** — y **le
+agarra la mano para obligarlo a hacer el gesto del "one" del Bloodline** antes de
+irse.
+
+**El set-up del segmento está en la misma noche**: minutos antes, backstage, Jey
+Uso le reclama a Jacob Fatu por qué no corrió la jugada si están en el mismo
+equipo, y **Fatu responde que no reconoce a los Usos — solo reconoce a "The OTC"
+Roman Reigns**, burlándose de los gemelos **por no callar a LA Knight cuando
+habla mal del Bloodline**.
+
+**Contexto de la fecha**: Roman Reigns es **World Heavyweight Champion** desde
+WrestleMania 42 (venció a CM Punk el 19/4). **Fatu lo reconoció como Tribal Chief
+el 1/6**, tras perder el **Tribal Combat** de Clash in Italy.
 
 ## Piezas relacionadas
 

@@ -109,6 +109,39 @@ top guys distintos a la vez"*.)
 
 **Lectura sintética**: **Wrestling Entertainment.** El eje del elogio es ***"lo político de su personaje"***: no trabaja el gimmick del rebelde que grita, sino el del **operador que negocia** — *"directamente negociando con la gerencia"*, posicionándose contra **Adam Pearce** de frente. **Continuidad limpia de expediente**: es el mismo registro del talent que cortaba promo desde la rampa *"mucho más entretenido que Rollins"* (s42) y que negociaba en cámara con Michael Cole antes del IC en SNME (s49). **El personaje-operador es su línea estable.** La entrevista fue con **Byron Saxton**.
 
+### Research 2026-08-01 — La promo, cerrada — y NO está en Vanity Project
+
+**Fuente**: sub-agente `card-wwe-raw-080626` (research 2026-08-01, closed).
+**Advertencia**: material snippet-level — 403 total, incluido wwe.com.
+
+**El contenido de la promo con Byron Saxton, confirmado**: lleva **dos meses en
+la marca y ya luchó por el título en un PLE**; ***"tenía a Penta vencido"***, y
+pregunta cuánto tardó Penta en conseguir esas oportunidades; ***"hay favoritismo
+en esta marca, gracias a Adam Pearce"***; ***"¿dónde está mi rematch?"***; se
+declara ***"el hombre más inteligente del lugar"***. Cierra prometiendo el
+rematch **gane quien gane** esa noche.
+
+> Confirma entera la lectura del Vehemiurgo: **no es "quiero pelear contigo", es
+> "el sistema está amañado y yo sé cómo funciona"**. Ataca la asignación de
+> oportunidades y nombra al GM.
+
+**CORRECCIÓN DE EXPEDIENTE**: **no está en Vanity Project.** Vanity Project es un
+stable de **NXT liderado por Jackson Drake**, que lo asistió en febrero de 2026
+cuando ganó el NXT North American. **En Raw trabaja en dupla con Rusev**, y su
+programa activo es Page + Rusev contra el bloque de lucha libre: **Penta, Rey
+Mysterio, Dragon Lee y Chad Gable**.
+
+**Esa misma noche**: él y Rusev **le arrancan la máscara a Rey Mysterio** durante
+el match por el IC, y atacan a Penta y Rey en el post-match. **Chad Gable** entra
+con German suplexes, le aplica el **ankle lock** —Page escapa con ayuda de
+Rusev— y ayuda a Rey a recuperar la máscara.
+
+**Pendiente de payoff**: el rematch por el IC contra Penta **no aparece
+reportado**. Page derivó a la línea con Rey Mysterio y Chad Gable. `[no encontrado]`
+
+**Aviso de continuidad**: existe una **segunda entrevista Page/Saxton el
+27/7/2026** — no confundir.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de NXT Champion run.

@@ -214,6 +214,21 @@ como listo para el peldaño de main eventer. Ver
 
 **Lectura sintética**: **WE para el match y para el post-match.** El hallazgo de lectura no es un spot lucido sino **un spot fallido corregido en vivo**: Fatu duda, el público no reacciona, y Roman ejecuta la versión correcta delante de él. El Vehemiurgo lo lee como **la tesis entera de la rivalidad** — el jefe de la casa enseñándole el oficio al heredero indisciplinado. Clásica de fórmula OTC en PLE, sólida sin ser imperdible.
 
+### Research 2026-08-01 — Retiene el mundial en Tribal Combat y obtiene el reconocimiento de Fatu
+
+**Fuente**: sub-agente `card-wwe-raw-080626` (research 2026-08-01, closed).
+**Advertencia**: material snippet-level — 403 total, incluido wwe.com.
+
+- **World Heavyweight Champion desde WrestleMania 42** (venció a **CM Punk** el
+  19/4/2026), primer reinado con ese título.
+- **Clash in Italy, 31/5**: **retiene ante Jacob Fatu en Tribal Combat**, con la
+  estipulación de que Fatu debía reconocerlo como Tribal Chief. Finish con spear
+  a través de una mesa y spear final.
+- **1/6, Raw**: **Fatu lo reconoce** en una ceremonia del Bloodline.
+- **8/6**: sin aparecer en pantalla, es **el blanco último de la promo de LA
+  Knight**, que le disputa el título de Tribal Chief (*"en este barrio, yo soy
+  The Chief"*) y acusa a **Adam Pearce** de favorecerlo institucionalmente.
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

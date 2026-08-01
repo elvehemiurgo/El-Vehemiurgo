@@ -52,7 +52,18 @@ tags: [wwe-2026, smackdown, jacob-fatu, roman-reigns, tribal-combat, highlight-d
 ## Pendientes / huecos
 
 - [ ] Contenido exacto del paquete.
-- [ ] Definición de la estipulación Tribal Combat y fecha del match.
+
+### Datos cerrados por research (2026-08-01)
+
+- **El match era dos días después**: **Clash in Italy, 31/5/2026**. **Tribal
+  Combat por el World Heavyweight Championship**, con la estipulación de que
+  **Fatu debía reconocer a Reigns como Tribal Chief** si perdía.
+- **Reigns retuvo**, y **el 1/6, en Raw, Fatu lo reconoció** en una ceremonia del
+  Bloodline.
+- **La predicción del Vehemiurgo sigue viva**: dijo *"esto va hasta
+  WrestleMania"*. El match se resolvió, pero el hilo continuó — el 8/6 Fatu
+  declara que **no reconoce a los Usos, solo a "The OTC"**, y la línea
+  Knight/Bloodline desemboca en **Fatu vs LA Knight el 20/7**.
 
 ## Piezas relacionadas
 

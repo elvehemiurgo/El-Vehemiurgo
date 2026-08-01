@@ -45,6 +45,26 @@ propio. Ver
 
 **Lectura sintética**: Sin clase propia. **Función estructural reconocida**: Jey es **el escape de humor** que le permite a Jacob Fatu sostener la seriedad de su personaje sin ahogarlo. *"El acting de los Usos es carny"* — descripción, no reproche; *"Jimmy sí puede vender un poco"*. El eje del segmento, sin embargo, es **el pase de antorcha para Jacob**.
 
+### Research 2026-08-01 — Destinatario del "screw your family" — y el reclamo a Fatu
+
+**Fuente**: sub-agente `card-wwe-raw-080626` (research 2026-08-01, closed).
+**Advertencia**: material snippet-level — 403 total, incluido wwe.com.
+
+**Es el destinatario de *"screw your family"***, cara a cara, en el segmento de
+LA Knight del 8/6 en el Accor Arena. Knight le desea suerte para su match de King
+of the Ring del viernes y remata con la frase; **Jey se saca la camiseta y va
+hacia él, y Jimmy Uso lo frena**. Video oficial WWE: *"LA Knight verbally unloads
+on Jey Uso"*.
+
+**Antes, esa misma noche**: le reclama a **Jacob Fatu** por qué no corrió la
+jugada si están en el mismo equipo, y Fatu le responde que **no reconoce a los
+Usos, solo a "The OTC" Roman Reigns**, burlándose de los gemelos por no callar a
+Knight. **Los dos segmentos están encadenados** — el backstage arma la promo.
+
+**Cierre del hilo**: el **12/6, en SmackDown**, **Jey Uso pinea a LA Knight** en
+el fatal 4-way de King of the Ring (con Finn Bálor y Royce Keys), tras un Samoan
+Spike de **Solo Sikoa** sobre Knight.
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, trayectoria, empresa.

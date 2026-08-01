@@ -8,10 +8,10 @@ fecha: 2026-05-31
 ciudad: "[verif]"
 recinto: "[verif]"
 tipo_match: "singles"
-estipulacion: "standard"
+estipulacion: "Tribal Combat — World Heavyweight Championship; Fatu debe reconocer a Reigns como Tribal Chief"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Spear a través de una mesa y spear final"
+ganador: "Roman Reigns — retiene el World Heavyweight Championship"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -48,6 +48,22 @@ tags: [wwe-2026, clash-in-italy, roman-reigns, jacob-fatu, otc-formula, spot-obj
 - **El hallazgo de lectura es el spot fallido**: Jacob **duda** con los objetos, el posicionamiento sale raro, **el público no reacciona** — y entonces **Roman le enseña cómo se hace**. El Vehemiurgo no lo lee como botch: lo lee como **la rivalidad en su esencia**, el veterano corrigiendo al heredero indisciplinado dentro del propio match.
 - **Reserva de enganche honesta**: *"no es tan emocionante como para no perderse ningún momento y escucharse los segmentos enteros"*. Continuidad directa de la reserva de s42 sobre la firma de contrato.
 - **Los stakes y el booking para Fatu sí convencen** — lo que falla es la intensidad momento a momento, no el diseño.
+
+### Datos cerrados por research (2026-08-01)
+
+- **Era TRIBAL COMBAT por el World Heavyweight Championship**, con la
+  estipulación de que **Fatu debía reconocer a Reigns como Tribal Chief**.
+  **Reigns retiene** — spear a través de una mesa y spear final.
+- **El pago fue inmediato y en pantalla**: **el 1 de junio, en Raw, Jacob Fatu
+  reconoce a Roman Reigns** en una ceremonia del Bloodline.
+- **Pero la historia no se cerró ahí, y ese es el matiz**: el 8/6, backstage,
+  **Fatu le dice a Jey Uso que él no reconoce a los Usos — solo a "The OTC"** — y
+  se burla de los gemelos por no callar a LA Knight. **El reconocimiento no lo
+  volvió obediente: lo volvió selectivo.**
+- Esto **cierra el hilo abierto en s53**: el promo package del 29/5 vendía
+  **este** match. La predicción del Vehemiurgo —*"esto va hasta WrestleMania"*—
+  sigue viva por otra vía: la línea Knight/Bloodline desemboca en **Jacob Fatu vs
+  LA Knight, Raw 20/7/2026**.
 
 ## Pendientes / huecos
 

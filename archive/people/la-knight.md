@@ -125,6 +125,45 @@ y [`./bron-breaker.md`](./bron-breaker.md).
 
 **Lectura sintética**: **Wrestling Entertainment, segunda semana consecutiva** tras el segmento del 1/6 — y el Vehemiurgo lo declara explícitamente: *"súper sólido el booking de las últimas dos semanas"*. La receta ya la había formulado la semana anterior (*"le dieron material, le dieron tiempo"*); acá confirma que no fue casualidad. **EL APORTE DOCTRINAL está en un verbo**: la campaña contra **Adam Pearce** está ***"canalizando la demografía que quiere más LA Knight"*** — la oficina **identificó un público que ya existía y le dio un vehículo**, en vez de fabricar demanda. Es lectura carny pura: el heat no se crea, se recoge. **La historia pedida por nombre**: *"queremos la historia de **LA vs WWE**, la antiautoridad"*, y un run que deje que **LA se recree como babyface** — el verbo es *recrearse*, no reinventarse: el mismo acto reencontrando su función. Dos frases celebradas: ***"I'm the chief"*** y ***"screw your family"*** (destinatario `[verif]`). *"LA exprimiendo cada segundo"* — el worker que rentabiliza todo el tiempo de aire que le dan.
 
+### Research 2026-08-01 — Las frases resueltas — y la campaña arranca el 1 de junio
+
+**Fuente**: sub-agente `card-wwe-raw-080626` (research 2026-08-01, closed).
+**Advertencia**: material snippet-level — 403 total, incluido wwe.com.
+
+**CORRECCIÓN AL DICTADO**: las dos frases que el Vehemiurgo celebró **no van
+contra Jacob Fatu**.
+
+1. ***"Screw your family"* va contra JEY USO, cara a cara**, referida al
+   Bloodline. Knight le desea suerte para su King of the Ring del viernes y
+   remata con el *"screw your family"* seco. **Jey se saca la camiseta y va
+   hacia él; Jimmy Uso lo frena.** Video oficial WWE: *"LA Knight verbally
+   unloads on Jey Uso"*.
+2. ***"I'm the chief"* no está verificado en esa forma literal** — queda
+   registrada **como paráfrasis**. Lo reportado: Knight **no recibe órdenes de
+   Roman Reigns ni se pone en fila detrás del Tribal Chief**, y *"en este barrio,
+   yo soy The Chief"* — autodenominándose **"Chief LA Knight"**. **La pulla es a
+   Roman Reigns**, usurpándole el título.
+
+**LA CAMPAÑA CONTRA ADAM PEARCE ARRANCA EL 1/6**, y eso reordena el expediente:
+el segmento de esa fecha —que el archivo tenía como *"le dieron material, le
+dieron tiempo"*— **era el capítulo 1**. Ahí llamó a Pearce **"mouthpiece" del
+Bloodline** y **"Uce honorario"**, le dijo ***"te voy a sacar de tu retiro y te
+voy a meter de vuelta en él"***, y **le agarró la mano para obligarlo a hacer el
+gesto del "one"**. Por eso el 8/6 el Vehemiurgo lee *"súper sólido el booking de
+las últimas dos semanas"*: no eran dos segmentos sueltos, era una campaña.
+
+**El eje declarado del acto**: el *unchosen* — *"puede que yo sea el no elegido,
+pero la gente me eligió y yo me elegí a mí mismo"*. Cageside lo describió como
+***"casi un worked shoot"***, que es exactamente la *"historia de LA vs WWE"* que
+el Vehemiurgo pidió por nombre.
+
+**Detalle carny**: un stagehand le tira mal el micrófono y Knight **no lo agarra,
+lo mira fijo y se lo devuelve** para que se lo tire de nuevo.
+
+**Contexto**: Accor Arena, París, con horario especial. **2,4 M de espectadores y
+4,5 M de horas — el número de horas más bajo del año para Raw.** El 12/6, en el
+King of the Ring, **Jey Uso lo pinea** tras un Samoan Spike de Solo Sikoa.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el
