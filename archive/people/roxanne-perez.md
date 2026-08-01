@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: roxanne-perez
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 30/3/2026)"
 tags: [roxanne-perez, wwe-raw-2026, regreso, wrestling-entertainment, primer-registro-individual]
@@ -109,6 +109,16 @@ victoria, respuesta directa al diagnóstico del 11/5 sobre la falta
 de stakes en la división tag. Ver
 [`../segments/2026-05-18-judgment-day-promo-post-derrota-wwe-raw.md`](../segments/2026-05-18-judgment-day-promo-post-derrota-wwe-raw.md).
 
+### Sesión 2026-08-01 s02 — Alta a THE FUTURE IN 2026 — "quiero verla como protagonista ya mismo"
+
+**Cita verbatim**:
+
+> *"junto con Roxanne Perez que esta temporada ya tiene más protagonismo en el booking del judgement day [...] Roxanne deja escapar sus verdaderos planes para el judgement day, Roxanne y Raquel cada vez se codean más, buena tensión, yo quiero ver a Roxanne como protagonista ya mismo [...] esto va a ser buena competencia para Liv, y juntas pueden presionar a Vaquer para que se convierta en el paquete completo"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Alta a THE FUTURE IN 2026 (#18).** La alta no es solo por mérito propio sino **por función de sistema**: el Vehemiurgo la lee como competencia para **Liv Morgan** y, junto a ella, como **presión sobre Stephanie Vaquer** *"para que se convierta en el paquete completo"*. Dentro del Judgment Day, la tensión con **Raquel Rodríguez** crece. En el fatal 4-way participa además de la **falsa alianza con Giulia** que el Vehemiurgo califica de *"inteligente"*. Ver [`../topics/the-future-in-2026.md`](../topics/the-future-in-2026.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.
@@ -117,6 +127,8 @@ de stakes en la división tag. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md`](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)
+- [`../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md`](../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md)
 - [`../segments/2026-03-30-roxanne-perez-regreso-wwe-raw.md`](../segments/2026-03-30-roxanne-perez-regreso-wwe-raw.md)
 - [`../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md`](../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md)
 - [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)

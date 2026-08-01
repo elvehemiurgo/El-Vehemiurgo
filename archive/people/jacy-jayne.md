@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jacy-jayne
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Jacy Jayne"
   - "Cobertura WWE NXT 2021-2026"
@@ -134,6 +134,16 @@ fuentes_principales:
 *"Jacy Jayne como heel veterana NXT que ejecuta la despedida
 ortodoxa"* — caso paradigmático de la doctrina old-school.)
 
+### Sesión 2026-08-01 s02 — Promo backstage: "el Fatal Influence que quiero ver en SmackDown"
+
+**Cita verbatim**:
+
+> *"Jacy corta una promo backstage, muy buena, se merece un WE class, cortita y estaba por empezar la pipebomb pero decide meterse con las campeonas, buen segmento y es el Fatal Influence que quiero ver en smackdown en vez de las veteranas mid. Fue un segmento de ataque backstage de toda la vida, pero con la inyección de enterteinment necesaria para seguir la historia de estas heels hambrientas"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Wrestling Entertainment.** Dos virtudes de oficio: **economía** (*"cortita"*) y **decisión** — estaba por arrancar la pipebomb y **corta el discurso para ir a la acción**. La fórmula que la clase premia queda dicha entera: *"un ataque backstage de toda la vida, pero con la inyección de entertainment necesaria"*. **Declaración de preferencia de roster**: es el Fatal Influence que el Vehemiurgo quiere en SmackDown *"en vez de las veteranas mid"*. Motor declarado del stable: ***heels hambrientas***.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.
@@ -146,6 +156,7 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-05-jacy-jayne-promo-backstage-wwe-smackdown.md`](../segments/2026-06-05-jacy-jayne-promo-backstage-wwe-smackdown.md)
 - [`promotions/fatal-influence.md`](../promotions/fatal-influence.md)
   — líder de la faction.
 - [`segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md`](../segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md)

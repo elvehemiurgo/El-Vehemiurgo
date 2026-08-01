@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tiffany-stratton
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — WWE SmackDown, 17/4/2026)"
   - "Mención previa: match vs Giulia (27/3/2026, WWE SmackDown)"
@@ -125,6 +125,16 @@ de manipulación de Chelsea Green (s51), ahora con comedia de
 brecha generacional entre ambas. Ver
 [`./chelsea-green.md`](./chelsea-green.md).
 
+### Sesión 2026-08-01 s02 — No acompaña a Chelsea Green — y eso es parte de la venta
+
+**Cita verbatim**:
+
+> *"desde su segmento backstage donde Tiffany le dice que no la va a acompañar, luego durante su entrada, vende por completo la historia"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase propia (la triple corresponde al match de Chelsea Green vs Lash Legend). **Movimiento de storyline con consecuencia**: le dice a Chelsea que **no la va a acompañar**, y ese abandono es **lo primero que Chelsea vende**, antes incluso de la entrada. Cierre —o giro— del ángulo de manipulación abierto en s51, ahora con Chelsea en posición de underdog genuina.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -134,6 +144,7 @@ brecha generacional entre ambas. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)
 - [`../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md`](../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md)
 - [`../matches/2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md)
 - [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)

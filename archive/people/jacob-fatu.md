@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jacob-fatu
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Jacob Fatu"
   - "Cobertura MLW (2018–2024) — múltiples MLW World Heavyweight Title runs"
@@ -319,6 +319,16 @@ su lesión dental real— **nunca se reveló on-screen**. Ver
 reporte on-record. Es inferencia razonable de booking, no declaración
 documentada.
 
+### Sesión 2026-08-01 s02 — Tres registros en dos días — y el límite del "delirio WWE"
+
+**Cita verbatim**:
+
+> *"el booking le ha dado stakes a su idea de rebeldia, empaquetó toda esa motivación en algo super relatable y que va funvionando cada vez mejor en tv [...] la cosa es el pase de antorcha para Jacob, tiene un edge muy cool, y no es un delirio de WWE, la gente está respondiendo. Solo porque el performance de Jacob aqui está imperdible, este segmento se merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Tres entradas: el match vs Reigns (WE), el post-match (WE) y el segmento del Tribal Chief (WE, y el llamado es explícitamente por su performance).** El booking **paga** el *"lado rebelde del linaje"* identificado en s43: esa motivación quedó *"empaquetada en algo súper relatable"*. **DISTINCIÓN DOCTRINAL**: *"no es un delirio de WWE, la gente está respondiendo"* — el Vehemiurgo marca acá el borde del género que nombró en s01. Maneja el tono usando a **Jey Uso como escape de humor** sin perder la seriedad del personaje. Reserva: el match *"no es tan emocionante como para no perderse ningún momento"*, y hay un spot con objetos donde **duda, el posicionamiento sale raro y el público no reacciona** — hasta que **Roman le enseña cómo se hace**, que el Vehemiurgo lee como *"la rivalidad en esencia"*.
+
 ## Pendientes / huecos
 
 - [x] ~~Cronología MLW completa con fechas de title runs~~ →
@@ -337,6 +347,9 @@ documentada.
 
 ## Piezas relacionadas
 
+- [`../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md`](../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md)
+- [`../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md`](../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md)
+- [`../segments/2026-06-01-tribal-chief-fatu-segmento-wwe-raw.md`](../segments/2026-06-01-tribal-chief-fatu-segmento-wwe-raw.md)
 - [`../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md`](../segments/2026-05-04-firma-contrato-jacob-fatu-roman-reigns-wwe-raw.md)
 - [`../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md`](../matches/2026-05-09-jacob-fatu-vs-roman-reigns-wwe-backlash.md)
 - [`../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md`](../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md)

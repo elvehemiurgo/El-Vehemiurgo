@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: giulia
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-09 (lista personal completa + takes rivalidades vigentes)"
   - "Volcado Vehemiurgo 2026-07-14 s28 (visión directa — comparación con Thekla)"
@@ -136,6 +136,16 @@ Kiana y Giulia como telón de fondo. Ver
 [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md).
 No genera clase ni nota dedicada — mención cruzada.
 
+### Sesión 2026-08-01 s02 — Diagnóstico duro: expuesta como muy indie, congelada en un irish whip
+
+**Cita verbatim**:
+
+> *"un botch de Giulia con Roxanne, o sea, estas como baby face, como local, y te congelas en un spot sencillo de irish whip, lamentablemente hay talentos impresionantes pero no se sueltan a improvisar como wrestlers oldschool, son fundamentos ausentes o debiles en el wrestling moderno [...] se expuso Giulia como muy indie, sobretodo con su ring positioning, o sea una rookie como Lash tiene mejor idea de como conectar una secuencia con otra, no puede ser"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **El diagnóstico más duro del archivo sobre ella**, y disparador de la **doctrina de los fundamentos ausentes en el wrestling moderno**: talentos impresionantes que **no se sueltan a improvisar como wrestlers old-school**. El agravante es de contexto — se congela en un **irish whip simple**, siendo babyface y local. El veredicto comparativo remata: *"una rookie como Lash tiene mejor idea de cómo conectar una secuencia con otra, no puede ser"*. **Pero el cierre es constructivo**: *"cuando se pulen, queda un producto bonito"*. Y el booking la acompaña — apuestan por **face Giulia** con una **falsa alianza con Roxanne Perez** para generar empatía y a la vez heat para Roxanne por meterse con la local: *"inteligente"*.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa STARDOM (títulos,
@@ -148,6 +158,7 @@ No genera clase ni nota dedicada — mención cruzada.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md`](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)
 - [`../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md`](../matches/2026-03-27-giulia-vs-tiffany-stratton-smackdown.md)
 - [`../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md`](../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md)
 - [`../../notebook/2026-05-09-takes-rivalidades-vigentes.md`](../../notebook/2026-05-09-takes-rivalidades-vigentes.md)

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: el-grande-americano
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s36 (visión directa — WWE NXT Stand & Deliver, 4/4/2026 [fecha inferida])"
   - "Mención previa en dossier AAA/AEW 2026 cluster (gimmick nWo carny de Chad Gable)"
@@ -215,6 +215,16 @@ Guerrero & Art Barr) perdiendo cabelleras contra las máscaras de El Hijo
 del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
 
+### Sesión 2026-08-01 s02 — WWE le dedica un video especial a Chad Gable: "un gesto genial"
+
+**Cita verbatim**:
+
+> *"pusieron over la saga de Grande vs Grande, y le hicieron un video especial a Chad Gable, me gustó, es un gesto genial y la recapitulación desde ese ángulo les quedó cool [...] muestran las escenas post match con los americanos, justo despues de su histórica lucha"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Dos piezas WE en la misma semana, en las dos empresas del cruce**, poniendo over la saga tras el máscara contra máscara. El Vehemiurgo valora **el acto de reconocimiento corporativo**: WWE dedicándole un video al hombre que acaba de **perder** la máscara, recapitulando **desde su ángulo**. Es lógica old-school pura — proteger al derrotado para que la apuesta valga. Y llama a la lucha del 30/5 ***"su histórica lucha"***, confirmando en una palabra la tesis del dossier de stakes. Ver [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania
@@ -235,6 +245,8 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-01-video-especial-chad-gable-grande-vs-grande-wwe-raw.md`](../segments/2026-06-01-video-especial-chad-gable-grande-vs-grande-wwe-raw.md)
+- [`../segments/2026-06-06-post-match-americanos-aaa-worldwide.md`](../segments/2026-06-06-post-match-americanos-aaa-worldwide.md)
 - [`../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md`](../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md)
 - [`../segments/2026-05-23-promo-video-rivalidad-grandes-americanos-aaa-worldwide.md`](../segments/2026-05-23-promo-video-rivalidad-grandes-americanos-aaa-worldwide.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)

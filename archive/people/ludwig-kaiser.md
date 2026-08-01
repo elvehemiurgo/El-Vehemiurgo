@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ludwig-kaiser
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE Raw, 27/4/2026, como El Grande Americano)"
   - "Resolución de identidad s44 por contraste con resultados reales (precedente 2025: Kaiser bajo la máscara del Americano)"
@@ -143,6 +143,16 @@ por *simple battery*, liberado bajo fianza de US$ 1.000. AAA canceló y
 reprogramó una aparición; **WWE no aplicó disciplina**. Impactó la
 logística del ángulo diez días antes de Monterrey.
 
+### Sesión 2026-08-01 s02 — Las dos empresas ponen over la saga tras Monterrey
+
+**Cita verbatim**:
+
+> *"muestran las escenas post match con los americanos, justo despues de su histórica lucha, se merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: WE para las escenas post-match en AAA, complementarias del video especial dedicado a Chad Gable en Raw. ***"Su histórica lucha"*** — el adjetivo del Vehemiurgo sobre el máscara contra máscara del 30/5, que él ganó. Ver [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
+
 ## Pendientes / huecos
 
 - [ ] **Citas on-record de Cornette, Pollock, JR o Meltzer sobre su
@@ -159,6 +169,7 @@ logística del ángulo diez días antes de Monterrey.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-06-post-match-americanos-aaa-worldwide.md`](../segments/2026-06-06-post-match-americanos-aaa-worldwide.md)
 - [`../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md`](../matches/2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md)
 - [`../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md`](../matches/2026-05-11-dominik-mysterio-vs-original-grande-americano-mega-wwe-raw.md)
 

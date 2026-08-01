@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: raquel-rodriguez
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Raquel Rodriguez"
   - "Cobertura WWE 2021–2026 (NXT, SmackDown, Raw, Judgment Day affiliation 2025–2026)"
@@ -153,6 +153,16 @@ de la herramienta. Ver
 (Pendiente. Material para una pieza editorial específica:
 *"Raquel Rodriguez, la subestimada del 2025"*.)
 
+### Sesión 2026-08-01 s02 — Tensión creciente con Roxanne Perez dentro del Judgment Day
+
+**Cita verbatim**:
+
+> *"Roxanne deja escapar sus verdaderos planes para el judgement day, Roxanne y Raquel cada vez se codean más, buena tensión"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase. La facción se tensiona **desde adentro**: *"cada vez se codean más"*. El Vehemiurgo lee la división femenina como sistema —Roxanne como competencia para Liv Morgan y presión conjunta sobre Stephanie Vaquer—, no como matches sueltos.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y segmentos del 2025 que sustentan la
@@ -167,6 +177,7 @@ de la herramienta. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md`](../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md)
 - [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
   — Wrestling Entertainment (minutos finales), selling del crossbody.
 - [`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md)

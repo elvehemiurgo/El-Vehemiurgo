@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lash-legend
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s50 (visión directa — WWE SmackDown, 22/5/2026)"
   - "Menciones previas en la lista personal (5 apariciones registradas: vs Charlotte Flair 26/12/2025, triple threat con Chelsea Green y Tiffany Stratton 06/02/2026, four-way con Nia Jax/Rhea/Iyo 27/02/2026, entre otras)"
@@ -98,6 +98,16 @@ desarrollo ya registrado (heel que aún no puede conducir sola un
 singles). Ver
 [`./chelsea-green.md`](./chelsea-green.md).
 
+### Sesión 2026-08-01 s02 — Alta a THE FUTURE IN 2026 — el diagnóstico de s50 se revierte en dos semanas
+
+**Cita verbatim**:
+
+> *"Lash tienee la oportunidad de mandar como heavyweight aprender a trabajar con las mejores, lo hizo muy bien, es de los talentos jovenes que le presta atención a los detalles oldschool y de hecho tiene buen ring positioning, hay que ponerla en la lista de FUTURE 2026 [...] enfrentandose a Lash, que es rookie pero con muhco potencial oldschool"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Alta a THE FUTURE IN 2026 (#17)** y **triple clase en el match vs Chelsea Green**, que **gana por fuerza, sin trampa**. Los dos ejes premiados son los que el Vehemiurgo reserva para un joven: **atención a los detalles old-school** y **buen ring positioning**. **CORRECCIÓN DE TRAYECTORIA IMPORTANTE**: en s50 (22/5) el archivo la registraba como incapaz de conducir un match — *"dejarla sola como la heel de la lucha casi la ahoga"*. **Dos semanas después el diagnóstico se revierte**, y encima sirve de vara comparativa contra Giulia. Ver [`../topics/the-future-in-2026.md`](../topics/the-future-in-2026.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -110,6 +120,8 @@ singles). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md`](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)
+- [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)
 - [`../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md`](../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md)
 
 ## Cross-links

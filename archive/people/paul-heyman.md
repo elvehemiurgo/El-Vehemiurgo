@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: paul-heyman
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
 tags: [paul-heyman, wwe-smackdown-2026, wrestling-entertainment, mic-work, primer-registro-individual]
@@ -48,6 +48,16 @@ el segmento — mic work reconocido dentro del build hacia el match
 Cody vs Gunther. Ver [`./cody-rhodes.md`](./cody-rhodes.md),
 [`./gunther.md`](./gunther.md).
 
+### Sesión 2026-08-01 s02 — Pieza de la venganza de Lesnar en el Perfect Match contra Oba Femi
+
+**Cita verbatim**:
+
+> *"la venganza de Lesnar con Paul Heyman y todo el espectaculo para poner over a Femi, muy cool y muy emocionante"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase propia (la triple corresponde al match). Figura como **pieza de la venganza de Lesnar** dentro del espectáculo cuya función declarada es **poner over a Oba Femi**. Naturaleza exacta de su rol en el ángulo: [verif].
+
 ## Pendientes / huecos
 
 - [ ] Rol exacto y continuidad de Heyman en este ángulo vs otros
@@ -56,6 +66,7 @@ Cody vs Gunther. Ver [`./cody-rhodes.md`](./cody-rhodes.md),
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md`](../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md)
 - [`../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md`](../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md)
 
 ## Cross-links

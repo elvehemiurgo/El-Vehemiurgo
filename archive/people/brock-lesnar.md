@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: brock-lesnar
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 + WM42 + WWE MITB 2013"
   - "Múltiples retrospectivas + Paul Heyman material on-record"
@@ -121,6 +121,7 @@ catalizador de la proyección de carrera de Oba Femi. Ver
 
 ## Piezas relacionadas
 
+- [`../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md`](../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md)
 - [`../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md`](../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md)
 - [`../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md`](../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md)
 - [`../matches/2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md`](../matches/2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md)
@@ -128,6 +129,16 @@ catalizador de la proyección de carrera de Oba Femi. Ver
 - [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md)
 - [`../../dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md`](../../dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md)
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
+
+### Sesión 2026-08-01 s02 — Perfect Match vs Oba Femi y la doctrina del retiro carny + alta a RUNNER UPS
+
+**Cita verbatim**:
+
+> *"Lesnar vs Oba fue todo lo que esperaba, se merece las 3 clases, fue genial, continuando el booking con una revancha, que de hecho es muy oldschool, te retiras como Lesnar en tu pais, y luego aceptas una que otra lucha fuera por ahi para cobrar, es wrestling, y la venganza de Lesnar con Paul Heyman y todo el espectaculo para poner over a Femi [...] Solo ese maldito chockeslam botcheado"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Perfect Match con reserva técnica puntual declarada** (el chokeslam botcheado; la clase vale igual). **DOCTRINA DEL RETIRO CARNY**: el Vehemiurgo **legitima** la práctica de retirarse en el país propio y después cobrar luchas afuera — *"es wrestling"*, no devaluación. Y todo el espectáculo, con **Paul Heyman** de por medio, está **al servicio de poner over a Oba Femi**: la leyenda paga la construcción del joven. Serie **1-1**, *"gran final"* pendiente. Alta a [`../topics/runner-ups.md`](../topics/runner-ups.md).
 
 ## Pendientes
 

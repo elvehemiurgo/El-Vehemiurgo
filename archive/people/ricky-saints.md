@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ricky-saints
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Ricky Starks (anteriormente conocido)"
   - "Cobertura indie 2010s, NWA, AEW (2020-2024), WWE NXT (2025-2026), WWE main roster (2026)"
@@ -103,6 +103,16 @@ tres top guys distintos a la vez"*.
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente.)
+
+### Sesión 2026-08-01 s02 — Primera gran victoria en main roster: triple clase en la revancha del draw
+
+**Cita verbatim**:
+
+> *"Saints vs Carmelo, la revancha despues del draw, y estuvo buenisima, se merece las 3 clases, primera gran victoria para Ricky, y buenas primeras semanas en el main roster. Me encantó esta lucha"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Perfect Match y el pago del arco completo.** El draw del 29/5 se leía como coherente con su gimmick de *"pura boca"*, con la incapacidad de ganar como rasgo de personaje; **acá cobra**. Segundo Perfect Match del par Saints/Hayes. El veredicto de conjunto sobre el call-up cierra la secuencia que el archivo viene siguiendo: crítica de fundamentos y sobreexposición (s41) → *"lo están armando muy bien"* (s42) → Perfect Match (s48) → draw con sentido (s52) → **victoria**.
 
 ## Pendientes / huecos
 
@@ -241,6 +251,7 @@ Williams y Carmelo Hayes). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md`](../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
 - [`../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md`](../segments/2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md)

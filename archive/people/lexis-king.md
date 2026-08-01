@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lexis-king
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Brian Pillman Jr. / Lexis King"
   - "Cobertura MLW (~2018-2023), WWE NXT (2023-2026)"
@@ -95,6 +95,16 @@ Pillman** — desde Flyin' Brian hasta Lexis King — y cómo se
 traduce el gimmick aristocrático heel del padre a la generación
 actual.)
 
+### Sesión 2026-08-01 s02 — "Ya está perfeccionando su estilo oldschool"
+
+**Cita verbatim**:
+
+> *"me gusta la lucha babyface que vendió Romeo, pero se ve muy safe, me gusta cuando Lexis se pone stiff, ya está perfeccionando su estilo oldschool, la lucha merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **WE para el match.** Progresión reconocida sin matices: ***"ya está perfeccionando su estilo old-school"***. El contraste dentro del propio combate es el eje de la lectura — Romeo Moreno *"se ve muy safe"* y **el que se pone stiff es el que se lleva el elogio de oficio**.
+
 ## Pendientes / huecos
 
 - [ ] Run completo MLW con fechas.
@@ -121,6 +131,7 @@ sink or swim" aplicada como marco de superación. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-02-romeo-moreno-vs-lexis-king-wwe-nxt.md`](../matches/2026-06-02-romeo-moreno-vs-lexis-king-wwe-nxt.md)
 - [`matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md`](../matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md)
   — primer registro editorial dedicado, multi-class doble.
 - [`../matches/2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md`](../matches/2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md)

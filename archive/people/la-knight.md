@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-knight
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — LA Knight"
   - "El Vehemiurgo, notebook 2026-05-09 (mención editorial breve)"
@@ -105,6 +105,16 @@ luchar "al estilo Rollins", s42/s46). Ver
 [`../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md`](../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md)
 y [`./bron-breaker.md`](./bron-breaker.md).
 
+### Sesión 2026-08-01 s02 — La receta en una línea: material y tiempo
+
+**Cita verbatim**:
+
+> *"LA Knight tiene un segmento como los que no tenia hace tiempo, le dieron material, le dieron tiempo, y el hizo lo que hace mejor, puro wrestling, brillante, es muy cool, sigue evolucionando, me encanta"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Wrestling Entertainment.** La fórmula dicha sin adornos: ***"le dieron material, le dieron tiempo, y él hizo lo que hace mejor"***. El diagnóstico implícito es que la carencia previa era **de la oficina, no del worker**. Y *"puro wrestling"* aplicado a una promo confirma la doctrina: para el Vehemiurgo el trabajo de micrófono old-school **es** wrestling, no un anexo.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el
@@ -117,6 +127,7 @@ y [`./bron-breaker.md`](./bron-breaker.md).
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-01-la-knight-segmento-wwe-raw.md`](../segments/2026-06-01-la-knight-segmento-wwe-raw.md)
 - [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)
   — costo de oportunidad.
 - [`../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md`](../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md)

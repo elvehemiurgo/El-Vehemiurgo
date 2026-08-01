@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dominik-mysterio
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Dominik Mysterio"
   - "Cobertura WWE 2020–2026 (debut, heel turn 2022 Judgment Day, run 2024–2026)"
@@ -88,6 +88,16 @@ sección 4.
 
 (Pendiente.)
 
+### Sesión 2026-08-01 s02 — "Este es el Dominik AAA"
+
+**Cita verbatim**:
+
+> *"Otro que le puso ganitas a su promo es Dominik, este es el dominik AAA, se mando una buena promo"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase (*"buena promo"* es aprobación, no llamado). **Veredicto comparativo**: su trabajo en México es la vara con la que se lo mide a sí mismo. Cuando trae esa versión a Raw, funciona. El mérito reconocido es de **esfuerzo declarado** — *"le puso ganitas"*.
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.
@@ -164,6 +174,7 @@ Kaiser bajo la máscara del Americano. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-01-dominik-mysterio-promo-wwe-raw.md`](../segments/2026-06-01-dominik-mysterio-promo-wwe-raw.md)
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — Dominik en post-match.
 - [`../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md`](../segments/2026-03-23-dominik-promo-pregrabada-wwe-raw.md)

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: zaria
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Zaria (wrestler)"
   - "Cobertura PWTorch / 411mania / TJR Wrestling — NXT 2024–2026"
@@ -107,6 +107,16 @@ matches a sumar.)
 protagonismo singularizado. Ver
 [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md).
 
+### Sesión 2026-08-01 s02 — La pieza corta rinde más que el match: "cortito efectivo"
+
+**Cita verbatim**:
+
+> *"Lizzy Rain vs Zaria estuvo cool, muy atleticas y buenos gimmicks [...] el ataque backstage de Zaria se merece un WE class, les quedó muy cool, cortito efectivo"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Dos entradas en el mismo show, y solo la corta se lleva clase.** El match con Lizzy Rain queda **sin clase** (*"estuvo cool"* es aprobación, no llamado); el **ataque backstage se lleva WE** por *"cortito efectivo"* — el criterio de **timing y duración** de la definición canónica: *el segmento sabe cuándo termina*.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT y configuración inicial del *monster
@@ -120,6 +130,8 @@ protagonismo singularizado. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-02-lizzy-rain-vs-zaria-wwe-nxt.md`](../matches/2026-06-02-lizzy-rain-vs-zaria-wwe-nxt.md)
+- [`../segments/2026-06-02-zaria-ataque-backstage-wwe-nxt.md`](../segments/2026-06-02-zaria-ataque-backstage-wwe-nxt.md)
 - [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md)
 - [`matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md`](../matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md)
   — última pieza on-screen como tag con Sol (ZaRuca). **Fighting

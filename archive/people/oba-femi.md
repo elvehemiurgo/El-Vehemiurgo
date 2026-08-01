@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: oba-femi
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster NXT 2025-2026 + WM42 cluster"
   - "Wikipedia + WWE.com perfil"
@@ -113,6 +113,8 @@ material promocional. Ver
 
 ## Piezas relacionadas
 
+- [`../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md`](../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md)
+- [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
 - [`../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md`](../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md)
 - [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md)
 - [`../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md`](../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md)
@@ -121,6 +123,16 @@ material promocional. Ver
 - [`./jacob-fatu.md`](./jacob-fatu.md) — paralelo monster heel
   arc.
 - [`./brock-lesnar.md`](./brock-lesnar.md) — pass-over rub.
+
+### Sesión 2026-08-01 s02 — Perfect Match ante Lesnar y el brazo vendido: la única forma de hacerlo vulnerable
+
+**Cita verbatim**:
+
+> *"Femi vendiendo el brazo despues de perder contra Lesnar, es la única forma de ponerlo algo vulnerable y de hecho Solo aprovecha muy bien esto para posicionarse [...] la entrada de Gemi [sic] con una secuencia en medio, les quedó cool"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Dos Perfect Matches en dos días.** El hallazgo de lectura es de continuidad: Femi **vende el brazo** de la derrota ante Lesnar en el fatal 4-way del día siguiente, y el Vehemiurgo lo lee como **la única forma de humanizar a un monstruo invicto** — la vulnerabilidad se hereda de otro programa, no se inventa. Su entrada, con una secuencia en medio, entra en el elogio del 4-way.
 
 ## Pendientes
 

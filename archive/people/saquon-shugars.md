@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: saquon-shugars
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Saquon Shugars"
   - "Cobertura WWE NXT 2025-2026"
@@ -167,6 +167,16 @@ IG / TikTok / podcast del propio talent. Saquon Shugars como caso
 *"Saquon Shugars y el gimmick que respira: carny clásico en la
 era IG"*.)
 
+### Sesión 2026-08-01 s02 — Momentazo en la entrada de Dark State: "va con su gimmick"
+
+**Cita verbatim**:
+
+> *"Saquon tiene un momentaso en la entrada de darkstate atacandolos, se vio muy cool, va con su gimmick"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Wrestling Entertainment.** El criterio decisivo no es lo lucido del spot sino la **coherencia**: *"va con su gimmick"* — es un ataque que el personaje **haría**. Y la elección del momento es carny puro: atacar durante la entrada del rival, cuando está vendiendo y no está listo.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT.
@@ -283,6 +293,7 @@ cierre que continúa el face turn consumado en s50. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-02-saquon-shugars-ataca-dark-state-entrada-wwe-nxt.md`](../segments/2026-06-02-saquon-shugars-ataca-dark-state-entrada-wwe-nxt.md)
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
 - [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)
 - [`../segments/2026-05-26-saquon-shugars-acecho-techo-carro-wwe-nxt.md`](../segments/2026-05-26-saquon-shugars-acecho-techo-carro-wwe-nxt.md)

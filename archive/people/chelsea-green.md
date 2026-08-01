@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chelsea-green
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
   - "Mención previa en notebook 2026-05-09 (lista personal completa) — vs Giulia 02/01/2026, vs Jordynne Grace 16/01/2026, vs Tiffany Stratton/Lash Legend 06/02/2026, con Sol Ruca NXT 23/12/2025"
@@ -130,6 +130,16 @@ brecha generacional con Tiffany Stratton se explota como fuente de
 comedia dentro del ángulo de manipulación ya establecido. Ver
 [`../segments/2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md`](../segments/2026-05-29-chelsea-green-tiffany-segmento-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s02 — Perfect Match y el giro empático: underdog por deseo, no por atajo
+
+**Cita verbatim**:
+
+> *"este run es más empatico [...] la estan poniendo en situaciones de underdog, pero no producto de robarse algo o tomar atajos, si no por puro deseo de ser campeona [...] desde su segmento backstage donde Tiffany le dice que no la va a acompañar, luego durante su entrada, vende por completo la historia [...] el gimmick y la atención al detalle es top tier [...] Chelsea la lucha como un top babyface [...] para mi el wrestling está en hacer que la lucha importe, y que sea una lucha de verdad, y eso es lo que vendió Chelsea [...] Redondo, esta lucha se merece las 3 clases, dejaron que Chelsea haga lo suyo y Chelsea como siempre cumplió"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Perfect Match con reserva técnica puntual declarada** (un spot de tercera cuerda que *"se vio terrible"*; la clase vale igual). **EL GIRO DEL RUN**: deja de ser personaje 100% de humor con subtexto emotivo y pasa a **empatía como spotlight** — underdog **legítima**, *"no producto de robarse algo o tomar atajos, sino por puro deseo de ser campeona"*. **Es el reverso exacto del ángulo de manipulación de s51.** Los **stakes son sus sueños** — si va a poder seguir viviendo el sueño o no. Y **la venta empieza antes de la campana**: el segmento backstage donde Tiffany Stratton le dice que no la va a acompañar, después la entrada. Confirma el veredicto de estatus de s51 (*"la estrella de SmackDown"*): **la trabaja como top babyface** y pierde limpio porque Lash Legend es más fuerte. **DOCTRINA que sale de acá**: *"para mí el wrestling está en hacer que la lucha importe, y que sea una lucha de verdad"*.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -147,6 +157,7 @@ comedia dentro del ángulo de manipulación ya establecido. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)
 - [`../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md`](../segments/2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md)
 - [`../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md)
 - [`../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md`](../matches/2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md)

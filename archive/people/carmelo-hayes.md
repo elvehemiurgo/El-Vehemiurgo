@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: carmelo-hayes
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s48 (visión directa — WWE SmackDown, 15/5/2026)"
   - "Menciones previas en la lista personal: vs Matt Cardona (SmackDown 27/2/2026), 10-man tag vs MFTs (SmackDown 13/2/2026)"
@@ -71,6 +71,16 @@ el elogio de conjunto al nivel del midcard. Ver
 y
 [`../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md`](../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s02 — "Muy bueno para esos detalles" — el crédito de ring positioning
+
+**Cita verbatim**:
+
+> *"estuvo muy bueno el ring positioning en secuencias y spots, muy bien hecho, carmelo es muy bueno para esos detalles"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Triple clase en el fatal 4-way de Raw**, con **crédito nominal por el ring positioning** — el detalle técnico que el Vehemiurgo más premia en el archivo, atribuido a él por nombre. Cuatro días después **pierde la revancha ante Ricky Saints** en otro Perfect Match, cerrando el programa más productivo del midcard de SmackDown en el registro.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (run NXT + main
@@ -82,6 +92,8 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
+- [`../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md`](../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md)
 - [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md)
 - [`../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md`](../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md)
 - [`../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md`](../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md)

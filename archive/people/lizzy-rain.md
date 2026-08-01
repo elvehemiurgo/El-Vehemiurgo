@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lizzy-rain
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026, debut)"
 tags: [lizzy-rain, wwe-nxt-2026, debut, cantera-australiana, face, wrestling-entertainment, primer-registro-individual]
@@ -97,6 +97,16 @@ Ruca de Raw. De compañeras de tag (12/5) a rivales amistosas en
 una semana. Ver
 [`../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md`](../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md).
 
+### Sesión 2026-08-01 s02 — Match con Zaria: atletismo y gimmicks legibles
+
+**Cita verbatim**:
+
+> *"Lizzy Rain vs Zaria estuvo cool, muy atleticas y buenos gimmicks"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase — *"estuvo cool"* es aprobación, no llamado; no se infla. Los dos ejes del elogio son **atletismo** y **gimmicks legibles**.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria pre-WWE, circuito australiano
@@ -106,6 +116,7 @@ una semana. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-02-lizzy-rain-vs-zaria-wwe-nxt.md`](../matches/2026-06-02-lizzy-rain-vs-zaria-wwe-nxt.md)
 - [`../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md`](../matches/2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md)
 - [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md)
 - [`../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md`](../matches/2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md)

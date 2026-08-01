@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: solo-sikoa
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Solo Sikoa"
   - "Cobertura WWE 2022–2026 (Bloodline original, interim Tribal Chief 2024, Solo's Bloodline)"
@@ -161,6 +161,16 @@ top guy que no terminó de cerrarse"*.
 
 (Pendiente.)
 
+### Sesión 2026-08-01 s02 — Aprovecha la vulnerabilidad de Femi: "muy carismático"
+
+**Cita verbatim**:
+
+> *"Solo aprovecha muy bien esto para posicionarse un poco tener unos spots importantes, muy carismático"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Triple clase en el fatal 4-way.** Registro **positivo poco frecuente** sobre él en el archivo: lee la vulnerabilidad del brazo lesionado de Oba Femi y **la usa para posicionarse**, quedándose con spots importantes. *"Muy carismático"* — contraste con la lectura de s-anteriores, donde figuraba como el candidato a top que no se terminó de cerrar.
+
 ## Pendientes / huecos
 
 - [ ] Cronología detallada Bloodline original / interim Tribal
@@ -172,5 +182,6 @@ top guy que no terminó de cerrarse"*.
 
 ## Piezas relacionadas
 
+- [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
 - [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
 - [`tama-tonga.md`](./tama-tonga.md) — miembro stable.

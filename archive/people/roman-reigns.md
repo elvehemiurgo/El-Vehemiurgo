@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: roman-reigns
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster WrestleMania 42 + Bloodline arc"
   - "Múltiples retrospectivas WWE media + Pat McAfee Show"
@@ -82,6 +82,8 @@ tags: [roman-reigns, the-tribal-chief, head-of-the-table, bloodline, the-shield,
 
 ## Piezas relacionadas
 
+- [`../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md`](../matches/2026-05-31-roman-reigns-vs-jacob-fatu-wwe-clash-in-italy.md)
+- [`../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md`](../segments/2026-05-31-post-match-fatu-reigns-wwe-clash-in-italy.md)
 - [`../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md)
 - [`../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md`](../segments/2026-04-27-jacob-fatu-roman-reigns-cierre-wwe-raw.md)
 - [`../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md`](../segments/2026-05-11-fatu-brawl-usos-reigns-wwe-raw.md)
@@ -201,6 +203,16 @@ final del segmento) — Roman Reigns como la mitad institucional que
 recibe la declaración de consecuencias de Jacob Fatu, ahora leído
 como listo para el peldaño de main eventer. Ver
 [`../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md`](../segments/2026-05-25-jacob-fatu-consecuencias-cierre-wwe-raw.md).
+
+### Sesión 2026-08-01 s02 — "Roman le enseña cómo se hace" — el veterano corrigiendo al heredero dentro del match
+
+**Cita verbatim**:
+
+> *"En la lucha hay un momento donde Jacob como que quiere usar objetos pero lo piensa pero el posicionamiento es raro y la gente no reacciona, luego Roman le enseña como se hace, y pues esa es la rivalidad en escencia"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **WE para el match y para el post-match.** El hallazgo de lectura no es un spot lucido sino **un spot fallido corregido en vivo**: Fatu duda, el público no reacciona, y Roman ejecuta la versión correcta delante de él. El Vehemiurgo lo lee como **la tesis entera de la rivalidad** — el jefe de la casa enseñándole el oficio al heredero indisciplinado. Clásica de fórmula OTC en PLE, sólida sin ser imperdible.
 
 ## Pendientes
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: gunther
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
 tags: [gunther, wwe-smackdown-2026, wrestling-entertainment, contract-signing, emboscada, primer-registro-individual]
@@ -119,6 +119,16 @@ destronara.
 Ver
 [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
 
+### Sesión 2026-08-01 s02 — Villano purista — el heel cuyo heat nace de creer en las reglas
+
+**Cita verbatim**:
+
+> *"Gunther el estratega ya paredió la paciencia, ahora sabe que puede llegar hasta agotar a Cody, si el refer no fuera un inutil Gunther sería camepon [...] Gunther vende muy bien su gimmick, de verdad se sienre ofendido insultado por esa falta a las reglas, me encanta como villano purista. Pero poner a Sami en medio creo que resta, solo quiero destacar la actuación de Gunter en este episodio con un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Doble clase en el match vs Cody (FS + WE) y WE acotada a su actuación en la promo de apertura del 5/6** — el Vehemiurgo excluye explícitamente el resto del segmento: *"poner a Sami en medio creo que resta"*. **La mejor definición del personaje en el archivo**: el heel cuyo heat nace de **creer en las reglas más que nadie**. Y el programa mejora al cambiar de premisa: el estratega **perdió la paciencia**, lo que da *"una premisa más frenética que el anterior buildup"*.
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo
@@ -131,6 +141,8 @@ Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md`](../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md)
+- [`../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md`](../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md)
 - [`../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md`](../segments/2026-05-08-cody-gunther-heyman-firma-contrato-emboscada-wwe-smackdown.md)
 - [`../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md`](../segments/2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md)
 

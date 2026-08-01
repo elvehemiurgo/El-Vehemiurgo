@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: bron-breaker
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (mención — WWE Raw, 20/4/2026)"
 tags: [bron-breaker, wwe-raw-2026, heyman-group, seth-rollins-riesgo, primer-registro-mencion]
@@ -106,6 +106,16 @@ hacia el booking correcto. Ver
 [`../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md`](../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md)
 y [`./la-knight.md`](./la-knight.md).
 
+### Sesión 2026-08-01 s02 — Diagnóstico duro: "cada vez más mini Rollins y aburrido"
+
+**Cita verbatim**:
+
+> *"el careo con Bron fue cool, si no fuero porque Bron cada vez es más mini Rollins y aburrido"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase. **Acusación de derivación de personaje**: el gimmick está **copiando en vez de construir**. Es el reproche vehemiúrgico clásico —imitar la superficie de un acto que funciona sin entender qué lo sostiene— aplicado por primera vez a él en el archivo, y con la agravante de que el diagnóstico es de **tendencia**: *"cada vez más"*.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -116,6 +126,7 @@ y [`./la-knight.md`](./la-knight.md).
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md`](../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md)
 - [`../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md`](../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md)
 - [`../matches/2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash.md`](../matches/2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash.md)
 - [`../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md`](../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md)

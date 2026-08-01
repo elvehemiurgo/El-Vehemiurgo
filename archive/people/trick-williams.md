@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: trick-williams
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
   - "Mención previa en notebook 2026-05-09 (lista personal completa) — vs Rey Fénix 09/01 y 13/02/2026, backstage con Jacob Fatu y Nick Aldis 13/03/2026, vs Jacob Fatu 13/03/2026, backstage con Sami Zayn 20/03/2026"
@@ -132,6 +132,16 @@ directamente de *"excepcional"*. Ver
 y
 [`../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md`](../matches/2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s02 — Gran promo rumbo al King of the Ring
+
+**Cita verbatim**:
+
+> *"Trick corta una gran promo antes de su lucha en el torneo king of the ring, y el careo con Bron fue cool, si no fuero porque Bron cada vez es más mini Rollins y aburrido"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase declarada — la reserva sobre Bron Breakker pesa sobre el conjunto del segmento. **Trick sigue rindiendo en el micrófono**, línea sostenida en el archivo. Contexto: torneo **King of the Ring 2026** en curso.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main
@@ -147,6 +157,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md`](../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md)
 - [`../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md)
 - [`../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-promo-backstage-wwe-smackdown.md)
 - [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md)

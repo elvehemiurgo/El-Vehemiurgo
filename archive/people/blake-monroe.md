@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: blake-monroe
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Blake Monroe (presunción — verificar grafía oficial WWE)"
   - "Cobertura WWE NXT 2025-2026"
@@ -111,6 +111,16 @@ caso del **integrador que eleva el producto**.
 
 (Pendiente. Material para una pieza específica sobre la doble
 dimensión del oficio.)
+
+### Sesión 2026-08-01 s02 — Rivalidad unilateral antes de debutar: "una premisa que me intriga"
+
+**Cita verbatim**:
+
+> *"un promo video de Blake Monroe, que inicia una rivalidad unilateral, esta interesante, no es tan comun, pero que Blake amenace a la campeona US antes de debutar y todo, es una premisa que me intriga"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase — el registro es de **intriga por la premisa**, no de aprobación de ejecución. **El mecanismo nombrado**: *"rivalidad unilateral"*, donde una sola parte construye el conflicto — *"no es tan común"*. Amenazar a la campeona US **antes de debutar** invierte el orden habitual: normalmente el retador se gana el derecho a hablar.
 
 ## Pendientes / huecos
 
@@ -245,6 +255,7 @@ Ver [`./chelsea-green.md`](./chelsea-green.md) y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-05-blake-monroe-promo-video-wwe-smackdown.md`](../segments/2026-06-05-blake-monroe-promo-video-wwe-smackdown.md)
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
 - [`../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md`](../segments/2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md)
 - [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)

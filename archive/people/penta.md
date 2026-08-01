@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: penta
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 23/3/2026)"
 tags: [penta, wwe, aaa, lucha-libre, primer-registro-individual]
@@ -80,6 +80,16 @@ dominante en TV, defensor de título activo, trabajador duro con
 momentos brillantes. Ver
 [`../matches/2026-05-23-ethan-page-vs-penta-wwe-snme.md`](../matches/2026-05-23-ethan-page-vs-penta-wwe-snme.md).
 
+### Sesión 2026-08-01 s02 — Clásico instantáneo, con la reserva: cerca de los vicios indie
+
+**Cita verbatim**:
+
+> *"Me gustó como balancearon los strikes, solo penta estuvo cerca de pasarse y caer en vicios indie"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: **Triple clase en el fatal 4-way**, con **reserva técnica puntual declarada sobre él**: es el único de los cuatro que estuvo *"cerca de pasarse y caer en vicios indie"* con los strikes. La clase vale igual (precedente Slater vs Nemeth), pero el matiz queda registrado — el balance de golpes del resto es lo elogiado.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.
@@ -88,6 +98,7 @@ momentos brillantes. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)
 - [`../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md`](../matches/2026-04-11-hijo-del-vikingo-vs-penta-aaa-worldwide.md)
 - [`../matches/2026-05-23-ethan-page-vs-penta-wwe-snme.md`](../matches/2026-05-23-ethan-page-vs-penta-wwe-snme.md)

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jackson-drake
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3 y 21/4/2026)"
 tags: [jackson-drake, vanity-project, blake-monroe, wwe-nxt-2026, the-future-in-2026, primer-registro-individual]
@@ -94,6 +94,16 @@ Project** en la promo coral del mismo show (WE). Ver
 y
 [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md).
 
+### Sesión 2026-08-01 s02 — Alta a RUNNER UPS — "otra buena lucha producida por Jackson Drake"
+
+**Cita verbatim**:
+
+> *"Jackson Drake tiene un buen showcase contra Tate Wilder, me encanta el gear a lo bryan danielson, y otra buena lucha producida por Jackson Drake, ponlo en la lista de FUTURE 2025 si aun no está, y tamvien en la lista de los que se ganaron un lugar en mi corazón"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase declarada, pero **alta a RUNNER UPS** y **ratificación de su lugar en THE FUTURE IN 2026 (#11)**. La palabra que sostiene todo es ***producida***: el Vehemiurgo le atribuye **autoría del match**, no participación. El **gear a lo Bryan Danielson** se registra como detalle de gimmick celebrado. Ver [`../topics/runner-ups.md`](../topics/runner-ups.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -118,6 +128,7 @@ State. Ver [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-02-jackson-drake-vs-tate-wilder-wwe-nxt.md`](../matches/2026-06-02-jackson-drake-vs-tate-wilder-wwe-nxt.md)
 - [`../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md`](../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md)
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
 - [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)

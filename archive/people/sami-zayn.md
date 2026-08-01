@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: sami-zayn
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
 tags: [sami-zayn, wwe-smackdown-2026, face, wrestling-entertainment, trick-williams, primer-registro-individual]
@@ -73,6 +73,16 @@ clásico, y el motivo por el que el match recibe la nota máxima.
 Ver
 [`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md).
 
+### Sesión 2026-08-01 s02 — "Poner a Sami en medio creo que resta"
+
+**Cita verbatim**:
+
+> *"Pero poner a Sami en medio creo que resta, solo quiero destacar la actuación de Gunter en este episodio con un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s02 (verbatim)
+
+**Lectura sintética**: Sin clase, y **con reserva explícita**: su presencia en el segmento de apertura de Gunther **resta**. Es la razón por la que el Vehemiurgo **acota la clase a la actuación de Gunther** en vez de dársela al segmento entero — precedente útil de clase recortada por un tercero que diluye.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,
@@ -81,6 +91,7 @@ Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md`](../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md)
 - [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md)
 - [`../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md`](../matches/2026-05-09-sami-zayn-vs-trick-williams-wwe-backlash.md)
 
