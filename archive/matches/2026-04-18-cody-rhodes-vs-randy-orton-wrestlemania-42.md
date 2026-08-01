@@ -22,10 +22,10 @@ rating_tv: ""
 buy_rate: ""
 encuentros_previos: "[verif] — múltiples Legacy era WWE 2008-2010 + cruces post"
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: ""
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Súper entretenido, los wrestlers ejecutan genial, pero el booking es desastroso en el sentido de algo que no puedes dejar de ver — WE declarada 2026-08-01"
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WrestleMania 42 cluster"
 tags: [wrestlemania-42, wm42-day-1, cody-rhodes, randy-orton, legacy-era-callback, hijos-de-leyendas, takeover-period]
@@ -72,7 +72,47 @@ tags: [wrestlemania-42, wm42-day-1, cody-rhodes, randy-orton, legacy-era-callbac
 
 ## Lectura del Vehemiurgo
 
-(Pendiente verbatim del match per se.)
+### Sesión 2026-08-01 s01 — **Wrestling Entertainment declarada**: "booking desastroso en el sentido de algo que no puedes dejar de ver"
+
+**Cita verbatim**:
+
+> *"la gente simplemente no queria abuchear a Orton, le hicieron hacer
+> todas estas cosas en el buildup, pero Randy podría haber ganado el
+> título y los fans hubieran animado, es decir, solo pone en peligro a
+> Cody, de hecho es full heel gran parte de su lucha en wrestlemania, o
+> sea, fue super entretenido y los wrestlers ejecutan genial, pero el
+> booking es desastrozo en el sentido de algo que no puedes dejar de
+> ver"*
+>
+> — El Vehemiurgo, 2026-08-01 s01 (verbatim)
+
+**Clase: Wrestling Entertainment — declarada explícita** el 2026-08-01,
+bajo el precedente *"WE masiva"*: *"es tan sin sentido que entretiene"*.
+
+**Lectura sintética**:
+
+- **El heel turn de Orton falló por ventana, no por ejecución.** El
+  público no quería abuchearlo; Orton podía haber ganado el título y el
+  edificio hubiera animado igual. **Consecuencia técnica: el turn solo
+  pone en peligro a Cody** — no genera heat contra Orton, genera duda
+  sobre el babyface. Orton trabaja **full heel gran parte de la lucha** y
+  la premisa no se compra.
+- **Causa estructural**: Orton en **posición de leyenda viviente**. Nadie
+  va a abuchear nada de lo que haga.
+- **Las dos ventanas donde el mismo turn sí habría cobrado**: (1) Orton
+  retirando a Cena —*"Cena vs Orton como la última lucha de Cena, Orton
+  mata a Cena"*—, *"cualquier fecha después de eso es imposible"*; (2)
+  justo después de Rollins vs Rhodes, con Cody recién regresado, para
+  cobrar **la revancha years in the making**.
+- **La clase se sostiene sobre la ejecución, no sobre el diseño**: los
+  wrestlers ejecutan genial y el resultado es imposible de dejar de ver.
+  **El booking desastroso no anula la clase — la produce**, y ese es
+  precisamente el precedente doctrinal fijado en esta sesión.
+- **Las entradas de WrestleMania**: *"súper pomposas, es un delirio
+  completo"*.
+
+Doctrina completa en
+[`../topics/wwe-2026-desconexion-y-el-genero-outlaw.md`](../topics/wwe-2026-desconexion-y-el-genero-outlaw.md).
 
 **Lectura sintética desde el dossier**: pieza editorial sólida
 del cluster — booking ortodoxo carny aplicado a feud con

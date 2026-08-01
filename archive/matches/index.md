@@ -120,7 +120,7 @@ con cada cambio de estado.
 | 2026-04-18 | Zima Ion vs Lince vs Aerostar | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-04-18-zima-ion-vs-lince-vs-aerostar-aaa-worldwide.md) |
 | 2026-04-18 | Liv Morgan vs Stephanie Vaquer | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md) |
 | 2026-04-18 | Jacob Fatu vs Drew McIntyre | WWE / WrestleMania 42 Día 1 | WE | en-investigacion | 1 | [→](2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md) |
-| 2026-04-18 | Cody Rhodes vs Randy Orton | WWE / WrestleMania 42 Día 1 | — | en-investigacion | 1 | [→](2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md) |
+| 2026-04-18 | Cody Rhodes vs Randy Orton | WWE / WrestleMania 42 Día 1 | WE | en-investigacion | 1 | [→](2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md) |
 | 2026-04-17 | Jordynne Grace vs Tiffany Stratton | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-04-15 | Will Ospreay vs Hechicero | AEW / Spring BreakThru | PW·FS·WE | stub | 1 | [→](2026-04-15-ospreay-vs-hechicero-aew-spring-breakthru.md) |
 | 2026-04-14 | Jaida Parker vs Kelani Jordan | WWE / NXT Revenge — Week 1 | FS·WE | en-investigacion | 1 | [→](2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md) |

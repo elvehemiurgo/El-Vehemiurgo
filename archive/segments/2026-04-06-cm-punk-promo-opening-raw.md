@@ -19,10 +19,10 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Promo of the year — old CM Punk, kind of heelish, really over, really great"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Promo of the year — old CM Punk, kind of heelish, really over, really great — WE declarada 2026-08-01 ('es WE masiva, es tan sin sentido que entretiene')"
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, Raw 2026-04-06 (anotación en notebook list)"
 tags: [wwe-2026, raw, cm-punk, opening-promo, promo-of-the-year, road-to-mania-42]
@@ -68,9 +68,18 @@ tags: [wwe-2026, raw, cm-punk, opening-promo, promo-of-the-year, road-to-mania-4
 
 ## Clase del Vehemiurgo
 
-(Pendiente. *"Promo of the year"* es declaración fuerte —
-candidatura **Wrestling Entertainment Class** sostenida. Espera
-disparo del Vehemiurgo para asignar.)
+**Wrestling Entertainment — declarada explícita el 2026-08-01**, dentro
+del llamado de conjunto sobre el ángulo Cody/Orton/TKO de WrestleMania 42:
+
+> *"es WE masiva, es tan sin sentido que entretiene"*
+>
+> — El Vehemiurgo, 2026-08-01 s01 (verbatim)
+
+**Precedente que la habilita**: la Wrestling Entertainment Class **cubre
+entretenimiento que funciona a pesar del booking**. *"Promo of the year"*
+ya sostenía la clase por mérito propio; el llamado de agosto la confirma
+y la encuadra dentro del frame *"real wrestlers vs play wrestlers"*. Ver
+[`../topics/wwe-2026-desconexion-y-el-genero-outlaw.md`](../topics/wwe-2026-desconexion-y-el-genero-outlaw.md).
 
 ## Pendientes / huecos
 

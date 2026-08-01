@@ -160,6 +160,39 @@ de character / promo en mesa puede ser **Wrestling Entertainment
 **Wrestling Entertainment + Fighting Spirit + Perfect Wrestling**
 es el techo absoluto del oficio.
 
+#### Precedente "WE masiva" (2026-08-01) — la clase cubre lo que funciona *a pesar* del booking
+
+**Pregunta planteada**: si la regla dura es que **booking ≠ clase**
+(elogio al diseño narrativo no asigna clase, precedente Hometown Man
+vs Kazarian), ¿qué pasa con el caso **inverso** — booking desastroso
+y ejecución brillante?
+
+**Resolución del Vehemiurgo**:
+
+> *"Sí, exacto, **es WE masiva, es tan sin sentido que entretiene**."*
+>
+> *"es un booking desastrozo, pero **sigue siendo wrestling**, y tuvo
+> segmentos muy entretenidos y brillantes **incluso producto de este
+> delirio** que tiene la compañia con ciertas historias"*
+>
+> — El Vehemiurgo, 2026-08-01 s01 (verbatim)
+
+**Regla derivada**: la Wrestling Entertainment Class **no exige que el
+booking sea bueno**. Cubre el entretenimiento que el talento produce
+**a pesar** del diseño, e incluso el que sale **como producto directo
+del delirio de la oficina**. La clase se asigna sobre la
+**ejecución y la autoconciencia en el kayfabe**, no sobre la coherencia
+de la storyline.
+
+**Simetría con la regla dura**: booking bueno **no da** clase; booking
+malo **no la quita**. Los dos ejes son independientes — que es
+exactamente lo que la regla original quería decir.
+
+**Caso canónico**: el ángulo **Cody Rhodes vs Randy Orton + el frame
+TKO/McAfee, WrestleMania 42 (2026)** — cinco entradas asignadas WE en
+bloque el 2026-08-01. Doctrina completa en
+[`../archive/topics/wwe-2026-desconexion-y-el-genero-outlaw.md`](../archive/topics/wwe-2026-desconexion-y-el-genero-outlaw.md).
+
 ---
 
 ## Multi-clasificación

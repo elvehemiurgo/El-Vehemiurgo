@@ -19,10 +19,10 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Real wrestlers vs play wrestlers story great"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Real wrestlers vs play wrestlers story great — WE declarada 2026-08-01 ('es WE masiva, es tan sin sentido que entretiene')"
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-04-10 (anotación en notebook list)"
 tags: [wwe-2026, smackdown, cody-rhodes, real-vs-play-wrestlers, tko-feud, cm-punk-allied, road-to-mania-42]
@@ -73,12 +73,27 @@ tags: [wwe-2026, smackdown, cody-rhodes, real-vs-play-wrestlers, tko-feud, cm-pu
 
 ## Clase del Vehemiurgo
 
-(Pendiente. Material editorial extremadamente denso — el
-Vehemiurgo lo nombra explícitamente como **storyline cohesiva
-multi-segmento** que cruza shows. Candidatura **Wrestling
-Entertainment Class** muy sostenida, posible multi-clase con
-Perfect Wrestling si el Vehemiurgo lo considera industry-defining
-en su lectura final.)
+**Wrestling Entertainment — declarada explícita el 2026-08-01**
+(*"es WE masiva, es tan sin sentido que entretiene"*). **Sin multi-clase**:
+el Vehemiurgo no llamó Perfect Wrestling, y la candidatura que este
+archivo especulaba en mayo queda descartada por su propia relectura.
+
+**Relectura fechada (2026-08-01)** — la anotación de abril queda intacta:
+
+> *"WWE prefiere mentirse a si misma que observar la realidad
+> simplemente, y eso hace tv muy loca ridicula y es wrestling tambien, es
+> carny, es una feria de promos y shoots y spots, o sea, todo el peso
+> sobre los luchadores […] luego mandan a Cody a que haga un shoot para
+> tratar de dar sentido a la locura que estan haciendo"*
+>
+> — El Vehemiurgo, 2026-08-01 s01 (verbatim)
+
+**Las dos lecturas conviven**: la storyline *era* buena idea —el frame
+"real wrestlers vs play wrestlers" sigue siendo el mejor material
+conceptual de WWE 2026— **y** la ejecución de la oficina la volvió
+delirio, con Cody mandado a hacer un shoot para tapar el agujero. **Si
+necesitás un shoot para explicar tu kayfabe, tu kayfabe falló.** Ver
+[`../topics/wwe-2026-desconexion-y-el-genero-outlaw.md`](../topics/wwe-2026-desconexion-y-el-genero-outlaw.md).
 
 ## Pendientes / huecos
 

@@ -171,15 +171,30 @@ agranda; si es delirante, la vuelve espectacular.**
 
 ## 7. Inventario del caso — estado en el archivo (2026-08-01)
 
-### Registrado, **sin clase asignada** (esperando disparo del Vehemiurgo)
+### **RESUELTO 2026-08-01 — WE en bloque** (5 entradas)
 
-| Fecha | Entrada | Verbatim en archivo |
-|---|---|---|
-| 3/4/2026 | [Cody le dice a Stephanie McMahon "no es su padre"](../segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md) | *"cool moment… the Cody promo is actually great… Cody was brilliant and Stephanie was cringe"* |
-| 10/4/2026 | [Pat McAfee — promo contra CM Punk](../segments/2026-04-10-pat-mcafee-promo-against-cm-punk-smackdown.md) | *"Just brilliant."* |
-| 10/4/2026 | [Cody Rhodes — promo contra Pat McAfee y TKO](../segments/2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md) | *"this whole CM Punk and Cody vs TKO story of real wrestlers and play wrestlers, is great"* |
-| 6/4/2026 | [CM Punk — promo de apertura, Raw](../segments/2026-04-06-cm-punk-promo-opening-raw.md) | *(promo of the year — abre el frame)* |
-| **18/4/2026** | **[Cody Rhodes vs Randy Orton — WrestleMania 42 Día 1](../matches/2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md)** | **sin verbatim del match todavía** |
+> *"Sí, exacto, **es WE masiva, es tan sin sentido que entretiene**."*
+> · *"es un booking desastrozo, pero **sigue siendo wrestling**, y tuvo
+> segmentos muy entretenidos y brillantes **incluso producto de este
+> delirio**"* — El Vehemiurgo, 2026-08-01 s01 (verbatim)
+
+| Fecha | Entrada | Clase | Verbatim que la sostiene |
+|---|---|---|---|
+| 3/4/2026 | [Cody le dice a Stephanie McMahon "no es su padre"](../segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md) | **WE** | *"cool moment… the Cody promo is actually great… Cody was brilliant and Stephanie was cringe"* |
+| 6/4/2026 | [CM Punk — promo de apertura, Raw](../segments/2026-04-06-cm-punk-promo-opening-raw.md) | **WE** | *"promo of the year — old CM Punk, kind of heelish, really over"* |
+| 10/4/2026 | [Pat McAfee — promo contra CM Punk](../segments/2026-04-10-pat-mcafee-promo-against-cm-punk-smackdown.md) | **WE** | *"Just brilliant."* + relectura: *"la parte más psicodélica y wtf de todo"* |
+| 10/4/2026 | [Cody Rhodes — promo contra Pat McAfee y TKO](../segments/2026-04-10-cody-rhodes-promo-pat-tko-smackdown.md) | **WE** | *"real wrestlers vs play wrestlers, is great"* + relectura del shoot como parche |
+| **18/4/2026** | **[Cody Rhodes vs Randy Orton — WM42 Día 1](../matches/2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md)** | **WE** | *"súper entretenido y los wrestlers ejecutan genial, pero el booking es desastroso en el sentido de algo que no puedes dejar de ver"* |
+
+**Sin multi-clase en ninguna.** El Vehemiurgo llamó WE, no PW ni FS — la
+candidatura a Perfect Wrestling que este archivo especulaba en mayo para
+el promo de Cody queda **descartada por su propia relectura**.
+
+**Sobre las relecturas fechadas**: las anotaciones de abril (*"is great"*,
+*"just brilliant"*) **quedan intactas**. Las de agosto se suman encima con
+fecha. Criterio confirmado por el Vehemiurgo: **las dos lecturas conviven
+y ninguna anula a la otra** — la idea era buena, la ejecución de la
+oficina la volvió delirio, y el talento la salvó.
 
 ### Registrado, **con clase ya asignada**
 
@@ -208,10 +223,29 @@ agranda; si es delirante, la vuelve espectacular.**
 - `CODY, JEY, SAMI & ORTON VS THE VISION` — SmackDown 30/1/2026
   *(pre-build: Orton todavía aliado de Cody)*
 
+## 8. El precedente doctrinal fijado acá
+
+**Pregunta**: la regla dura del sistema de clases dice **booking ≠
+clase** — el elogio al diseño narrativo no asigna clase (precedente
+Hometown Man vs Kazarian). ¿Qué pasa con el caso **inverso**, booking
+desastroso y ejecución brillante?
+
+**Resolución del Vehemiurgo (2026-08-01)**: **la Wrestling Entertainment
+Class cubre el entretenimiento que funciona *a pesar* del booking**, e
+incluso el que sale **como producto directo del delirio de la oficina**.
+
+> **Simetría**: booking bueno **no da** clase; booking malo **no la
+> quita**. Los dos ejes son independientes — que es exactamente lo que la
+> regla original quería decir.
+
+La clase se asigna sobre la **ejecución y la autoconciencia en el
+kayfabe**, no sobre la coherencia de la storyline. Registrado en
+`glossary/clases-vehemiurgo.md` §Wrestling Entertainment.
+
 ## Pendientes / huecos
 
-- [ ] **Asignación de clase** a las 5 entradas registradas sin clase —
-      pedido explícito del Vehemiurgo, en curso.
+- [x] ~~Asignación de clase a las 5 entradas registradas~~ →
+      **RESUELTO 2026-08-01: WE en bloque**, precedente "WE masiva".
 - [ ] **Abrir ficha de Randy Orton** — no existe, pese a ser el
       protagonista del caso.
 - [ ] Registrar los 10 bullets del build sin ficha.

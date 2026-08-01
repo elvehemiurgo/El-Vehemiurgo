@@ -20,10 +20,10 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Cool moment, Cody promo great, único uso útil de Stephanie en WWE programming"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Cool moment, Cody promo great, único uso útil de Stephanie en WWE programming — WE declarada 2026-08-01 ('es WE masiva, es tan sin sentido que entretiene')"
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-04-03 (anotación en notebook list)"
 tags: [wwe-2026, smackdown, cody-rhodes, stephanie-mcmahon, cody-promo, road-to-mania-42]
@@ -73,9 +73,18 @@ con Pat McAfee como representante TKO en el SmackDown del 10 abr
 
 ## Clase del Vehemiurgo
 
-(Pendiente. "Cody promo actually great" + "brilliant" sugieren
-fuerte candidatura **Wrestling Entertainment Class**. Espera
-disparo del Vehemiurgo para asignar.)
+**Wrestling Entertainment — declarada explícita el 2026-08-01**, dentro
+del llamado de conjunto sobre el ángulo Cody/Orton/TKO:
+
+> *"es WE masiva, es tan sin sentido que entretiene"*
+>
+> — El Vehemiurgo, 2026-08-01 s01 (verbatim)
+
+**Precedente que la habilita**: la Wrestling Entertainment Class **cubre
+entretenimiento que funciona a pesar del booking**, no solo el que
+funciona gracias a él. Ver
+[`../topics/wwe-2026-desconexion-y-el-genero-outlaw.md`](../topics/wwe-2026-desconexion-y-el-genero-outlaw.md)
+y `glossary/clases-vehemiurgo.md`.
 
 ## Pendientes / huecos
 

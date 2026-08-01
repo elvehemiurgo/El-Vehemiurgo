@@ -19,10 +19,10 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Just brilliant"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Just brilliant — WE declarada 2026-08-01 ('es WE masiva, es tan sin sentido que entretiene')"
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-04-10 (anotación en notebook list)"
 tags: [wwe-2026, smackdown, pat-mcafee, cm-punk-feud, real-vs-play-wrestlers, road-to-mania-42]
@@ -59,9 +59,27 @@ tags: [wwe-2026, smackdown, pat-mcafee, cm-punk-feud, real-vs-play-wrestlers, ro
 
 ## Clase del Vehemiurgo
 
-(Pendiente. *"Just brilliant"* es declaración fuerte —
-candidatura **Wrestling Entertainment Class** sostenida.
-Espera disparo del Vehemiurgo para asignar.)
+**Wrestling Entertainment — declarada explícita el 2026-08-01**
+(*"es WE masiva, es tan sin sentido que entretiene"*).
+
+**Relectura fechada (2026-08-01)** — la anotación de abril queda intacta,
+esta se suma encima. Con el ángulo entero a la vista, el Vehemiurgo
+relee a McAfee como **el síntoma en estado puro**:
+
+> *"Pat fue la parte más psicodélica y wtf de todo, o sea, un obvio
+> talking head corporativo mascota, hablando en contra de TKO diciendo no
+> compren tickets y al minuto siguiente dejando un codigo de descuento
+> para comprar, y diciendo que la attitude era esto y todo fuera de
+> fechas"*
+>
+> — El Vehemiurgo, 2026-08-01 s01 (verbatim)
+
+**Las dos lecturas conviven y ninguna anula a la otra**: el promo era
+*"just brilliant"* como pieza de ejecución, **y** el personaje encarna la
+contradicción corporativa que el ángulo entero no resolvió — el vocero de
+TKO haciendo de anti-TKO mientras vende el producto en el mismo segmento.
+**Esa contradicción no es error de guion: es el diagnóstico.** Ver
+[`../topics/wwe-2026-desconexion-y-el-genero-outlaw.md`](../topics/wwe-2026-desconexion-y-el-genero-outlaw.md).
 
 ## Pendientes / huecos
 
