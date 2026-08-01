@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ethan-page
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Ethan Page"
   - "Cobertura indie 2010s, Impact Wrestling, AEW (2020-2024), WWE NXT (2024-2026), WWE main roster (2026)"
@@ -98,6 +98,16 @@ exactamente lo de Ethan.
 (Pendiente. Material editorial al horno: pieza cruzada *"El
 triángulo Ethan / Ricky / Joe: cómo NXT 2025-2026 fabricó tres
 top guys distintos a la vez"*.)
+
+### Sesión 2026-08-01 s03 — El gimmick político: negociando con la gerencia, no reclamándole
+
+**Cita verbatim**:
+
+> *"Ethan Page corta una gran promo con Byron, me gusta lo político de su personaje y posicionandose contra Pierce directamente, directamente negociando con la gerencia, estuvo muy buena, se merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s03 (verbatim)
+
+**Lectura sintética**: **Wrestling Entertainment.** El eje del elogio es ***"lo político de su personaje"***: no trabaja el gimmick del rebelde que grita, sino el del **operador que negocia** — *"directamente negociando con la gerencia"*, posicionándose contra **Adam Pearce** de frente. **Continuidad limpia de expediente**: es el mismo registro del talent que cortaba promo desde la rampa *"mucho más entretenido que Rollins"* (s42) y que negociaba en cámara con Michael Cole antes del IC en SNME (s49). **El personaje-operador es su línea estable.** La entrevista fue con **Byron Saxton**.
 
 ## Pendientes / huecos
 
@@ -217,6 +227,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-08-ethan-page-promo-byron-saxton-wwe-raw.md`](../segments/2026-06-08-ethan-page-promo-byron-saxton-wwe-raw.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
 - [`../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md`](../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md)

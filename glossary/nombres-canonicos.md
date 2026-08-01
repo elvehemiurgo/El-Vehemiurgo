@@ -59,6 +59,8 @@
 | **Matt Cardona** | Canónico completo. *"Cardona"* a secas es **segunda mención legítima** en prosa, no variante prohibida — lo que estaba mal era la ficha suelta `cardona.md` (corregida s43). |
 | **Cruz del Toro** | Canónico completo (ex-LWO / Legado del Fantasma, hoy AAA; "del" minúscula). El Vehemiurgo lo dicta *"del Toro"* / *"El Toro"*. *"Del Toro"* a secas es segunda mención legítima; lo que estaba mal era la ficha suelta `el-toro.md` (corregida s43). |
 | **Nikkita Lyons** | Canónico completo. *"Nikkita"* a secas es segunda mención legítima (registrada así en dictados; ficha `nikkita-lyons.md`, corregida s44). |
+| **Adam Pearce** | General Manager on-screen de WWE. El Vehemiurgo lo escribe *"Adam Pierce"* / *"Pierce"* — canónico **Adam Pearce**. Antagonista común de las campañas de LA Knight y Ethan Page en Raw, junio 2026. |
+| **Byron Saxton** | El *"Byron"* de los dictados WWE es **Byron Saxton**, entrevistador backstage. |
 | **Flammer** | Líder de Las Tóxicas (AAA). Canónico **Flammer** — forma de AAA y de la cobertura mayoritaria 2026. *Lady Flammer* es el billing de WWE.com, variante legítima en prosa (research 2026-08-01). |
 | **Maravilla** | Integrante de Las Tóxicas (AAA). Canónico **Maravilla**. *Lady Maravilla* es el nombre histórico previo, variante legítima (research 2026-08-01). |
 | **Las Tóxicas** | Nombre canónico sin variante. Trío: **Flammer** (líder), **La Hiedra** y **Maravilla**. Formadas en noviembre de 2021 (research 2026-08-01). |

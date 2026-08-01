@@ -115,6 +115,16 @@ y [`./bron-breaker.md`](./bron-breaker.md).
 
 **Lectura sintética**: **Wrestling Entertainment.** La fórmula dicha sin adornos: ***"le dieron material, le dieron tiempo, y él hizo lo que hace mejor"***. El diagnóstico implícito es que la carencia previa era **de la oficina, no del worker**. Y *"puro wrestling"* aplicado a una promo confirma la doctrina: para el Vehemiurgo el trabajo de micrófono old-school **es** wrestling, no un anexo.
 
+### Sesión 2026-08-01 s03 — Segunda semana seguida — y la doctrina de "canalizar la demografía"
+
+**Cita verbatim**:
+
+> *"más LA Knight, segunda semana que le dan un segmento relevante, LA exprimiendo cada segundo, super satisfactorio verlo hacer lo suyo, se merece un WE class. esta campaña contra Adam Pierce es muy entretenida, canalizando la demografía que quiere más LA Knight, queremos la historia de LA vs WWE, la antiautoridad, un run que deje que LA se recree como babyface, super solido el booking de las ultimas dos semanas. Las frases de "I'm the chief" y "screw your family" fueron geniales"*
+>
+> — El Vehemiurgo, 2026-08-01 s03 (verbatim)
+
+**Lectura sintética**: **Wrestling Entertainment, segunda semana consecutiva** tras el segmento del 1/6 — y el Vehemiurgo lo declara explícitamente: *"súper sólido el booking de las últimas dos semanas"*. La receta ya la había formulado la semana anterior (*"le dieron material, le dieron tiempo"*); acá confirma que no fue casualidad. **EL APORTE DOCTRINAL está en un verbo**: la campaña contra **Adam Pearce** está ***"canalizando la demografía que quiere más LA Knight"*** — la oficina **identificó un público que ya existía y le dio un vehículo**, en vez de fabricar demanda. Es lectura carny pura: el heat no se crea, se recoge. **La historia pedida por nombre**: *"queremos la historia de **LA vs WWE**, la antiautoridad"*, y un run que deje que **LA se recree como babyface** — el verbo es *recrearse*, no reinventarse: el mismo acto reencontrando su función. Dos frases celebradas: ***"I'm the chief"*** y ***"screw your family"*** (destinatario `[verif]`). *"LA exprimiendo cada segundo"* — el worker que rentabiliza todo el tiempo de aire que le dan.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el
@@ -127,6 +137,7 @@ y [`./bron-breaker.md`](./bron-breaker.md).
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-08-la-knight-segmento-campana-adam-pearce-wwe-raw.md`](../segments/2026-06-08-la-knight-segmento-campana-adam-pearce-wwe-raw.md)
 - [`../segments/2026-06-01-la-knight-segmento-wwe-raw.md`](../segments/2026-06-01-la-knight-segmento-wwe-raw.md)
 - [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)
   — costo de oportunidad.
