@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: cm-punk
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones cross-cluster"
   - "Dossieres WrestleMania 42 + Money in the Bank 2013 + cluster Eddie/Punk IWA"
@@ -217,6 +217,16 @@ Reigns en WrestleMania 42. Wrestling Entertainment compartida con
 la entrada de Cody Rhodes. Ver
 [`../segments/2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md`](../segments/2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md).
 
+### Sesión 2026-08-01 s08 — Regresa en Chicago y se lleva el título — take cortado a mitad de frase
+
+**Cita verbatim**:
+
+> *"el regreso de Punk en chicago, buenisimo, ahora si se pone interesante el booking, con toda esta idea de"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **Take incompleto — el dictado se corta en "con toda esta idea de...".** No se fabrica el cierre. Lo cerrado por research: Nick Aldis (suspendido) lo trae a Chicago para reemplazar a Cody Rhodes, hospitalizado tras el ataque de Gunther; Punk entra con Cult of Personality y gana el Undisputed WWE Championship a Sami Zayn con Helluva Kick + GTS.
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment
@@ -233,6 +243,7 @@ la entrada de Cody Rhodes. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md)
 ### Centerpieces principales
 - [`../matches/2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md`](../matches/2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md)
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md)

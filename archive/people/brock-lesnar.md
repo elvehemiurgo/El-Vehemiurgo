@@ -121,6 +121,7 @@ catalizador de la proyección de carrera de Oba Femi. Ver
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md`](../segments/2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md)
 - [`../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md`](../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md)
 - [`../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md`](../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md)
 - [`../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md`](../segments/2026-05-25-graficos-matchcard-oba-vs-brock-wwe-raw.md)
@@ -139,6 +140,16 @@ catalizador de la proyección de carrera de Oba Femi. Ver
 > — El Vehemiurgo, 2026-08-01 s02 (verbatim)
 
 **Lectura sintética**: **Perfect Match con reserva técnica puntual declarada** (el chokeslam botcheado; la clase vale igual). **DOCTRINA DEL RETIRO CARNY**: el Vehemiurgo **legitima** la práctica de retirarse en el país propio y después cobrar luchas afuera — *"es wrestling"*, no devaluación. Y todo el espectáculo, con **Paul Heyman** de por medio, está **al servicio de poner over a Oba Femi**: la leyenda paga la construcción del joven. Serie **1-1**, *"gran final"* pendiente. Alta a [`../topics/runner-ups.md`](../topics/runner-ups.md).
+
+### Sesión 2026-08-01 s08 — Reto a Hell in a Cell — tercer capítulo de la serie con Oba Femi
+
+**Cita verbatim**:
+
+> *"el regreso de lesnar y todo westuvo bueno, se merec eun we class"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **WE.** Interrumpe la coronación de Oba Femi como King of the Ring con un F5 tras low blow, y acepta saldar la serie empatada 1-1 de Clash in Italy con un tercer capítulo: **Hell in a Cell en SummerSlam**.
 
 ## Pendientes
 

@@ -245,6 +245,16 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 **Lectura sintética**: Sin clase propia. **Crítica directa de ejecución**: el salve backstage a Rey Mysterio **no alcanzó el impacto que la oficina esperaba**. Continúa su *apology tour* de la semana (ver research 2026-08-01 en [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md)): sigue reparando su relación con la lucha libre mexicana tras perder la máscara en Monterrey, pero el booking no está capitalizando el momento.
 
+### Sesión 2026-08-01 s08 — Cruce con Judgment Day, sin ser parte formal del apology tour
+
+**Cita verbatim**:
+
+> *"Gable vs McDonah se merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **WE.** Vence a JD McDonagh con ankle lock tras una distracción de Danhausen sobre Dominik Mysterio. No es capítulo declarado del apology tour — es un cruce independiente con la facción del Mega Campeón de AAA, que lo mantiene orbitando el eje de la lucha libre mexicana.
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania
@@ -265,6 +275,7 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-29-chad-gable-vs-jd-mcdonagh-wwe-raw.md`](../matches/2026-06-29-chad-gable-vs-jd-mcdonagh-wwe-raw.md)
 - [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)
 - [`../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md)
 - [`../segments/2026-05-30-promo-post-match-gable-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-promo-post-match-gable-aaa-noche-de-los-grandes.md)

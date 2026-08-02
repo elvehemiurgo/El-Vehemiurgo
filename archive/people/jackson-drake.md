@@ -104,6 +104,16 @@ y
 
 **Lectura sintética**: Sin clase declarada, pero **alta a RUNNER UPS** y **ratificación de su lugar en THE FUTURE IN 2026 (#11)**. La palabra que sostiene todo es ***producida***: el Vehemiurgo le atribuye **autoría del match**, no participación. El **gear a lo Bryan Danielson** se registra como detalle de gimmick celebrado. Ver [`../topics/runner-ups.md`](../topics/runner-ups.md).
 
+### Sesión 2026-08-01 s08 — Doble aparición: campeón de tag protegiendo a los Galenos, y singles con reservas de estilo
+
+**Cita verbatim**:
+
+> *"la lucha tag team de los compañeros de Jackson Drake en el Vanity Project apostaron por una lucha al estilo de los galénos, más oldschool, y les quedó más apretada y me gustó más [...] Jackson Drake tuvo su lucha con Mason y estuvo cool, me gustó, pero todavia es muy exagerado sus faciales"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **Triple clase como parte de Vanity Project** defendiendo el título de tag ante los hermanos Wagner/Galeno del Mal — el Vehemiurgo temía un jobbeo de los retadores y en cambio los vio protegidos. **WE en su singles contra Mason Rook** (nombre resuelto por research), con reserva sostenida sobre sus faciales exagerados y una secuencia final "muy ambiciosa experimental" que no terminó de aterrizar.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -128,6 +138,8 @@ State. Ver [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md`](../matches/2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md)
+- [`../matches/2026-06-30-jackson-drake-vs-mason-rook-wwe-nxt.md`](../matches/2026-06-30-jackson-drake-vs-mason-rook-wwe-nxt.md)
 - [`../matches/2026-06-02-jackson-drake-vs-tate-wilder-wwe-nxt.md`](../matches/2026-06-02-jackson-drake-vs-tate-wilder-wwe-nxt.md)
 - [`../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md`](../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md)
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)

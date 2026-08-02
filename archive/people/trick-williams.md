@@ -162,6 +162,16 @@ y
 
 **Lectura sintética**: **WE — "como siempre"**, la fórmula que reconoce consistencia de oficio. Abre el show volviendo de su luna de miel con Lil Yachty, anuncia a Ricky Saints como rival de Night of Champions, y cierra el segmento noqueado por dos cheap shots de Saints, uno con micrófono en mano. Carmelo Hayes queda fuera del cuadro desde el 19/6 — el programa pasó de triangular a mano a mano.
 
+### Sesión 2026-08-01 s08 — Retiene el US Title con el engañador engañado en el post-match
+
+**Cita verbatim**:
+
+> *"Trick vs Saints tambien un FS y WE classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **FS+WE.** Retiene el United States Championship pese al engaño de Saints con el kendo stick (incrimina a Lil Yachty, lo hace expulsar); cierra con Lemon Pepper Steppers, Book End y Trick Shot. Yachty vuelve al post-match y le da a Saints su propia dosis con un People's Elbow.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main
@@ -177,6 +187,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-27-trick-williams-vs-ricky-saints-wwe-night-of-champions.md`](../matches/2026-06-27-trick-williams-vs-ricky-saints-wwe-night-of-champions.md)
 - [`../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md`](../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md)
 - [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)
 - [`../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md`](../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md)

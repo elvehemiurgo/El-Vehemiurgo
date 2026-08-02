@@ -124,6 +124,16 @@ ya es leyenda consagrada. Ver
 
 **Lectura sintética**: **FS + WE.** Retiene el AAA World Cruiserweight Championship ante **Nathan Frazer** con un Mexican Muscle Buster desde la tercera cuerda — la segunda mitad de **Fraxiom** que cae ante él en dos semanas y media, tras someter a Axiom el 12/6. *"Fénix nunca decepciona"* — veredicto de trayectoria.
 
+### Sesión 2026-08-01 s08 — Retiene el crucero ante El Hijo del Vikingo, con una lesión real detrás de cámara
+
+**Cita verbatim**:
+
+> *"tuvimos fenix vs hijo del vikingo, medio protegieron a vikingo con un ataque en NXT esa semana y que resista el frogsplash, pero el moveset de vikingo es muy arriesgado, no siempre aterriza; se merece un FS y WE classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **FS+WE**, reteniendo el AAA World Cruiserweight Championship. Research reveló que el ataque previo en NXT que "protegía" a Vikingo cubría en realidad una lesión real de rodilla — el match ya estaba grabado cuando ocurrió la lesión, así que la protección fue de emisión, no de guion.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -131,6 +141,7 @@ ya es leyenda consagrada. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-03-rey-fenix-vs-hijo-del-vikingo-wwe-smackdown.md`](../matches/2026-07-03-rey-fenix-vs-hijo-del-vikingo-wwe-smackdown.md)
 - [`../matches/2026-06-26-rey-fenix-vs-nathan-frazer-wwe-smackdown.md`](../matches/2026-06-26-rey-fenix-vs-nathan-frazer-wwe-smackdown.md)
 - [`../matches/2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md`](../matches/2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md)
 - [`../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md)

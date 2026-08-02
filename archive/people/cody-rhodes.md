@@ -236,6 +236,16 @@ regreso de CM Punk. Ver
 
 **Lectura sintética**: **Perfect Match.** Abre el show en frío, sin promo previa, defendiendo el **Undisputed WWE Championship** con **Sami Zayn de árbitro especial** —elección de Gunther tras la revancha ganada en Clash in Italy—. Retiene dos veces: primero por fast count comprado por Zayn, después Zayn le da DQ a Gunther con una Helluva Kick, golpeando de paso a Cody con el propio título. Cierra pidiendo el **triple threat de Night of Champions** (27/6), donde —fuera de este registro— terminó perdiendo el título ante Zayn.
 
+### Sesión 2026-08-01 s08 — Primer título mundial de Sami Zayn le cuesta a Cody el suyo, y una semana después el puertazo de Gunther
+
+**Cita verbatim**:
+
+> *"el main event con sami vs cody vs gunther estuvo cool, se merece un fs y un we classes [...] el ataque de Gunther a Cody y el puertazo estuvo genial"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **FS+WE en el triple threat de Night of Champions**, donde pierde el título ante Zayn en un roll-up tras un doble Cross Rhodes. Una semana después queda **fuera de la revancha titular de Chicago**: Gunther lo ataca en el estacionamiento, lo powerbombea a través de una mesa y le estrella la puerta del auto contra la cabeza — termina hospitalizado mientras Nick Aldis mete a CM Punk en su lugar.
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza
@@ -253,6 +263,8 @@ regreso de CM Punk. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md`](../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md)
+- [`../segments/2026-07-06-gunther-ataca-cody-rhodes-puertazo-wwe-raw.md`](../segments/2026-07-06-gunther-ataca-cody-rhodes-puertazo-wwe-raw.md)
 - [`../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md`](../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md)
 - [`../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md`](../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md)
 ### Centerpieces principales

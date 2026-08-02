@@ -150,12 +150,32 @@ enfría, queda el registro de por qué no.
   [→](../promotions/las-toxicas.md) ·
   [`../matches/2026-06-06-bayley-lola-catalina-vs-toxicas-aaa-noche-de-los-grandes-night-2.md`](../matches/2026-06-06-bayley-lola-catalina-vs-toxicas-aaa-noche-de-los-grandes-night-2.md)
 
+### #10 — Galeno del Mal *(declarado 2026-08-01 s08)*
+
+> *"vienen de una escuela muy oldschool que me gusta mucho, sobre todo el
+> galeno del mal, pongamoslo en la lista de los que se ganaron mi
+> corazón"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+- **Contexto**: dream match AAA-NXT, **Vanity Project (c) vs El Hijo de
+  Dr. Wagner Jr. & Galeno del Mal**, NXT Tag Team Championship,
+  30/6/2026 — **Perfect Match**.
+- **Por qué entra**: el Vehemiurgo temía que el booking los hiciera
+  jobbear, y en cambio los vio protegidos en la derrota — *"se
+  preocuparon de dejarlos fuertes"*. La alta es específica sobre Galeno
+  del Mal, no sobre el hermano.
+  [→](../people/hijo-de-dr-wagner-jr.md) ·
+  [`../matches/2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md`](../matches/2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md)
+
 ## Pendientes
 
 - [ ] Ratificar alcance: ¿solo TNA o cross-promotion? ¿con orden o
       sin orden? ¿criterio de salida (sube al panteón / se cae)?
 - [ ] **Alineación exacta de Las Tóxicas** en la fecha de su alta
       (6/6/2026) — [verif].
+- [ ] Abrir ficha individual de **Galeno del Mal** — actualmente
+      registrado dentro de la ficha de su hermano.
 - [ ] Match/show exacto del 9/4/2026 de Dani Luna — [verif rival,
       finish, título en juego].
 

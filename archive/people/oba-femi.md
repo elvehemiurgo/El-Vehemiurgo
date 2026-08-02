@@ -113,6 +113,7 @@ material promocional. Ver
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md`](../segments/2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md)
 - [`../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md`](../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md)
 - [`../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md`](../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md)
 - [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
@@ -144,6 +145,16 @@ material promocional. Ver
 > — El Vehemiurgo, 2026-08-01 s06 (verbatim)
 
 **Lectura sintética**: **Perfect Match**, semifinal del King of the Ring en el main event. Research confirma que fue, literal, un **squash de 4:35** — los propios titulares de cobertura lo dicen sin eufemismo. Post-match, llama a **Brock Lesnar** por no haber dado la cara, dato de continuidad con la serie empatada 1-1 de Clash in Italy. **Avanza a la final del torneo contra Jey Uso.**
+
+### Sesión 2026-08-01 s08 — Corona de King of the Ring, interrumpida por el regreso de Lesnar
+
+**Cita verbatim**:
+
+> *"el regreso de lesnar y todo westuvo bueno, se merec eun we class"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: Sin clase propia. Recién coronado King of the Ring (venció a Jey Uso en la final de Night of Champions), es interrumpido por el regreso de Lesnar — F5 tras low blow. Responde retándolo a Hell in a Cell en SummerSlam, cerrando la serie 1-1 con un tercer capítulo.
 
 ## Pendientes
 

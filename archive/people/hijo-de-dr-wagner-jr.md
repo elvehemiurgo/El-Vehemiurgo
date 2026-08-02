@@ -84,6 +84,16 @@ y
 
 **Lectura sintética**: **Perfect Match sin reserva.** El elogio es **comparativo dentro de la misma noche**: exactamente lo que le faltó al opener (Fénix vs Laredo) —*"menos cosas innecesarias, menos strikes"*— es lo que acá está resuelto. *"Más secuencias de storyline, spots de TV como para seguir contando una historia."* **Las intervenciones suman y el Vehemiurgo las incluye en el elogio.** **Research**: era por el **AAA Latin American Championship** y **lo pierde ante El Hijo del Vikingo** en ~8 minutos; su hermano **Galeno del Mal** intervino atacando a Omos, y el finish llegó cuando **Omos lo jaló de la tercera cuerda**.
 
+### Sesión 2026-08-01 s08 — Perfect Match protegido en la derrota, junto a su hermano Galeno del Mal
+
+**Cita verbatim**:
+
+> *"los galenos, hijo del dr wagner jr y galeno del mal vs the vanity project, estuvo muy buena, solo no me gustaron las strikes innecesarios de wagner, pero lo demás esuvo genial"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **Perfect Match con reserva técnica puntual** sobre sus strikes innecesarios. Pierde el título de tag de NXT junto a su hermano Galeno del Mal, pero el Vehemiurgo temía un jobbeo y en cambio los vio protegidos en la derrota — "victoria importantísima para Vanity Project", no devaluación de los retadores.
+
 ## Pendientes / huecos
 
 - [x] ~~Confirmar identidad exacta~~ → **RESUELTO (s45)**: es
@@ -95,6 +105,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md`](../matches/2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md)
 - [`../matches/2026-05-30-hijo-de-dr-wagner-jr-vs-hijo-del-vikingo-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-hijo-de-dr-wagner-jr-vs-hijo-del-vikingo-aaa-noche-de-los-grandes.md)
 - [`../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md`](../matches/2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md)
 - [`../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md`](../segments/2026-05-02-segmento-apertura-el-ojo-wagner-aaa-worldwide.md)

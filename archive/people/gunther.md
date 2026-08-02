@@ -145,6 +145,16 @@ Ver
 
 **Lectura sintética**: **Perfect Match.** Usó su cláusula de revancha para elegir a **Sami Zayn** como árbitro especial, apostando a la tensión previa entre Zayn y Cody Rhodes — la apuesta se le vuelve en contra dos veces: pierde el título por fast count sin saberlo, y en el reinicio **Zayn lo descalifica con una Helluva Kick**. Casi somete a Cody con su propia Figure-Four en el camino.
 
+### Sesión 2026-08-01 s08 — Pierde el título en un roll-up y responde con el puertazo
+
+**Cita verbatim**:
+
+> *"el main event con sami vs cody vs gunther estuvo cool, se merece un fs y un we classes [...] el ataque de Gunther a Cody y el puertazo estuvo genial, su prmo tambien"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **FS+WE en Night of Champions**, perdiendo el Undisputed en un roll-up de último segundo. Una semana después, **WE por el ataque a Cody Rhodes en el estacionamiento** —powerbomb a través de una mesa, puertazo de auto— y la promo donde le declara la guerra a Sami Zayn, llamándolo *"fluke"*. Origen: culpó a Nick Aldis por costarle el título, lo que deriva en **Gunther vs Aldis en SummerSlam**.
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo
@@ -157,6 +167,8 @@ Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md`](../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md)
+- [`../segments/2026-07-06-gunther-ataca-cody-rhodes-puertazo-wwe-raw.md`](../segments/2026-07-06-gunther-ataca-cody-rhodes-puertazo-wwe-raw.md)
 - [`../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md`](../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md)
 - [`../segments/2026-06-12-gunther-elige-referee-sami-zayn-wwe-smackdown.md`](../segments/2026-06-12-gunther-elige-referee-sami-zayn-wwe-smackdown.md)
 - [`../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md`](../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md)

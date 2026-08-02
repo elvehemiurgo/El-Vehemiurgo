@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: joe-hendry
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Joe Hendry"
   - "Cobertura ITV World of Sport reboot, ICW, TNA / Impact (2021-2025), WWE NXT (2025-2026), WWE main roster (2026)"
@@ -128,6 +128,16 @@ canta sobrevivió al call-up WWE"*.)
   a Mike Santana. Booking de transición bien diseñado — pieza que
   sirve al ecosistema aun al irse.
 
+### Sesión 2026-08-01 s08 — Se mide contra Logan Paul en su propio terreno, y lo hace citándolo
+
+**Cita verbatim**:
+
+> *"la promo de Hendry estuvo muy buena, o sea Logan Paul ya es muy entretenido, pero Hendry quiere estar en esa liga"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **WE.** En entrevista backstage con Byron Saxton, reclama el Intercontinental Championship de Penta y le canta a Logan Paul la canción que le escribió sobre él — la referencia es del propio Hendry, no lectura externa, confirmando que compite deliberadamente en el terreno del micrófono de los "considerados buenos".
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas TNA World Title run.
@@ -179,6 +189,7 @@ un nuevo feud en el main roster. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-06-joe-hendry-promo-backstage-wwe-raw.md`](../segments/2026-07-06-joe-hendry-promo-backstage-wwe-raw.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)
 - [`../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md`](../segments/2026-04-27-hendry-vs-logan-paul-intro-wwe-raw.md)

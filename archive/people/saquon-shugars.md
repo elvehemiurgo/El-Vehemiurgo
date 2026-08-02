@@ -187,6 +187,16 @@ era IG"*.)
 
 **Lectura sintética**: **WE.** Research cierra el objetivo (**DarkState**, la facción que lo desterró) y el contenido exacto: distrae a Dion Lennox desde el titantron durante su match, y en el post-match **ataca a Osiris Griffin con un bate de béisbol**, escapando entre el público riéndose. Cuarto capítulo de escalada: destierro (19/5) → acecho (26/5) → ataque en la entrada (2/6) → bate de béisbol (9/6). Payoff posterior: vence a Lennox en NXT Great American Bash, con DarkState atacándolo en respuesta.
 
+### Sesión 2026-08-01 s08 — Booking genérico de face de NXT — la crítica más dura del archivo sobre su presentación
+
+**Cita verbatim**:
+
+> *"el booking de Saquon se puso aburrido, ya es único y puede hablar, pero decidieron ponerlo en el paquete de NXT face generico, incluso con el estereotipo de mostrar donde creció, solo porque es de color negro"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **Sin clase** (regla del *"ok"* — la lucha con Lennox fue *"ok"*). **La crítica más dura del archivo sobre su presentación**, y research no encontró cobertura de prensa que la respalde ni la contradiga — es lectura propia, preservada sin forzar corroboración. Gana igual, pese a interferencia de DarkState; post-match, DarkState lo arrasa y **Lennox lo golpea con su propio bate de béisbol**.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT.
@@ -303,6 +313,7 @@ cierre que continúa el face turn consumado en s50. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-28-saquon-shugars-vs-dion-lennox-nxt-gab.md`](../matches/2026-06-28-saquon-shugars-vs-dion-lennox-nxt-gab.md)
 - [`../segments/2026-06-09-saquon-shugars-ataca-darkstate-bate-wwe-nxt.md`](../segments/2026-06-09-saquon-shugars-ataca-darkstate-bate-wwe-nxt.md)
 - [`../segments/2026-06-02-saquon-shugars-ataca-dark-state-entrada-wwe-nxt.md`](../segments/2026-06-02-saquon-shugars-ataca-dark-state-entrada-wwe-nxt.md)
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)

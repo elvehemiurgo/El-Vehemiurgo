@@ -93,6 +93,16 @@ Ver
 
 **Lectura sintética**: Sin clase propia (la triple corresponde al match). **Como árbitro especial, decide el destino del Undisputed WWE Championship dos veces en la misma noche**: primero comprado a favor de Cody con un fast count, después descalificando a Gunther con una Helluva Kick — y de paso golpeando a Cody con el título. El caos que genera **le abre la puerta a un lugar en el triple threat de Night of Champions**, donde —fuera de este registro— terminó ganando su primer WWE Championship.
 
+### Sesión 2026-08-01 s08 — Primer título mundial de su carrera
+
+**Cita verbatim**:
+
+> *"el main event con sami vs cody vs gunther estuvo cool, se merece un fs y un we classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **FS+WE.** Gana su **primer título mundial** en un triple threat, zafándose de un Cross Rhodes de Cody y enrollándolo para el pin. Lo pierde nueve días después ante CM Punk, que regresa en Chicago con Nick Aldis metiéndolo por izquierda al main event.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,
@@ -101,6 +111,8 @@ Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md`](../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md)
+- [`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md)
 - [`../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md`](../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md)
 - [`../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md`](../segments/2026-06-05-gunther-promo-apertura-wwe-smackdown.md)
 - [`../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md`](../segments/2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md)

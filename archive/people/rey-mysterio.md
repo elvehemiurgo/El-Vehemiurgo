@@ -230,6 +230,16 @@ fértil sobre cross-pollination cultural sostenida**.
 
 **Lectura sintética**: **Perfect Match**, con la comparación histórica más alta que recibe en el archivo: *"luchando como en los tempranos 2000s"*. Trabajó de babyface vendiendo, con una **poison rana** —*"rare move for Rey"*— que se vio brutal pese a lo imposible del spot. **En el post-match, Rusev le arranca la máscara**, y el Vehemiurgo lo trata como un activo narrativo caro que exige payoff — pendiente de si WWE construye algo con eso.
 
+### Sesión 2026-08-01 s08 — Cobra el desenmascaramiento del 8/6, sin clase declarada por la regla del "ok"
+
+**Cita verbatim**:
+
+> *"Ethan Page vs Rey Mysterio, la drea match, estuvo ok, fue perfecta"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: Sin clase (regla del "ok"). Cobra la afrenta del 8/6 con 619 + frog splash ante Ethan Page, que había intentado arrancarle la máscara antes del side slam. La serie no cierra acá: Page se cobra revancha el 27/7.
+
 ## Pendientes / huecos
 
 - [ ] **WCW Halloween Havoc 1997 mask match vs Eddie** —
@@ -275,6 +285,7 @@ Noche de los Grandes (AAA). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md`](../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md)
 - [`../matches/2026-06-08-penta-vs-rey-mysterio-wwe-raw.md`](../matches/2026-06-08-penta-vs-rey-mysterio-wwe-raw.md)
 - [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)
 - [`../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md)

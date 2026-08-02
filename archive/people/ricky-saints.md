@@ -144,6 +144,16 @@ tres top guys distintos a la vez"*.
 
 **Lectura sintética**: Sin clase propia (WE corresponde al segmento). **Ejecuta el golpe que cierra el segmento**: tumba a Trick Williams y a Lil Yachty con cheap shots, uno con micrófono en mano. Camino a Night of Champions por el US Championship — donde, fuera de este registro, terminó perdiendo tras engañar al réferi con el kendo stick de Yachty.
 
+### Sesión 2026-08-01 s08 — Pierde el US Title pese al engaño del kendo stick
+
+**Cita verbatim**:
+
+> *"Trick vs Saints tambien un FS y WE classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **FS+WE.** Pierde ante Trick Williams en Night of Champions pese a incriminar a Lil Yachty con el kendo stick para hacerlo expulsar del ringside — tercer capítulo consecutivo de su gimmick de "pura boca" trabajando sucio.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar grafía oficial WWE** — *Ricky Saints* o *Ricky
@@ -281,6 +291,7 @@ Williams y Carmelo Hayes). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-27-trick-williams-vs-ricky-saints-wwe-night-of-champions.md`](../matches/2026-06-27-trick-williams-vs-ricky-saints-wwe-night-of-champions.md)
 - [`../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md`](../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md)
 - [`../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md`](../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md)
 - [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)

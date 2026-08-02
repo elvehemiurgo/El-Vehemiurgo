@@ -27,12 +27,25 @@ con cada cambio de estado.
 | 2026-07-08 | Gauntlet Match: Maya World vs. Athena vs. Mercedes Moné (y otras [verif]) | AEW / Beach Break | — | en-investigacion | 1 | [→](2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md) |
 | 2026-07-08 | Kyle Fletcher vs Konosuke Takeshita | AEW / Beach Break | FS | en-investigacion | 1 | [→](2026-07-08-fletcher-vs-takeshita-aew-beach-break.md) |
 | 2026-07-08 | Ciampa vs Chris Jericho | AEW / Beach Break | PW·FS·WE | en-investigacion | 1 | [→](2026-07-08-ciampa-vs-jericho-aew-beach-break.md) |
+| 2026-07-06 | CM Punk vs Sami Zayn | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md) |
+| 2026-07-04 | Lady Shani vs Flammer | WWE / AAA on FOX #25 | PW·FS·WE | en-investigacion | 1 | [→](2026-07-04-lady-shani-vs-flammer-aaa-on-fox.md) |
+| 2026-07-04 | El Fiscal vs Abismo Negro Jr. | WWE / AAA on FOX #25 | FS·WE | en-investigacion | 1 | [→](2026-07-04-el-fiscal-vs-abismo-negro-jr-aaa-on-fox.md) |
+| 2026-07-03 | Rey Fénix vs El Hijo del Vikingo | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-07-03-rey-fenix-vs-hijo-del-vikingo-wwe-smackdown.md) |
 | 2026-07-01 | MJF vs Mark Briscoe | AEW / Dynamite | WE | en-investigacion | 1 | [→](2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md) |
+| 2026-06-30 | The Vanity Project (Brad Baylor & Ricky Smokes) vs El Hijo de Dr. Wagner Jr. & Galeno del Mal | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md) |
+| 2026-06-30 | Jackson Drake vs Mason Rook | WWE / NXT | WE | en-investigacion | 1 | [→](2026-06-30-jackson-drake-vs-mason-rook-wwe-nxt.md) |
+| 2026-06-29 | Ethan Page vs Rey Mysterio | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md) |
+| 2026-06-29 | Chad Gable vs JD McDonagh | WWE / Monday Night Raw | WE | en-investigacion | 1 | [→](2026-06-29-chad-gable-vs-jd-mcdonagh-wwe-raw.md) |
+| 2026-06-28 | Kendal Grey vs Lola Vice | WWE / NXT Great American Bash 2026 | WE | en-investigacion | 1 | [→](2026-06-28-kendal-grey-vs-lola-vice-nxt-gab.md) |
+| 2026-06-28 | Saquon Shugars vs Dion Lennox | WWE / NXT Great American Bash 2026 | — | en-investigacion | 1 | [→](2026-06-28-saquon-shugars-vs-dion-lennox-nxt-gab.md) |
+| 2026-06-28 | Wren Sinclair vs Arianna Grace | WWE / NXT Great American Bash 2026 | WE | en-investigacion | 1 | [→](2026-06-28-wren-sinclair-vs-arianna-grace-nxt-gab.md) |
 | 2026-06-28 | DCMJF vs faces (6 vs 6) | AEW x NJPW / Forbidden Door | — | stub | 1 | [→](2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | The Dogs vs Cope & Cage | AEW x NJPW / Forbidden Door | — | stub | 1 | [→](2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Thekla vs Starlight Kid | AEW x NJPW / Forbidden Door | PW·FS·WE | stub | 1 | [→](2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | PAC vs Umino | AEW x NJPW / Forbidden Door | PW·FS·WE | stub | 1 | [→](2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Kenny Omega vs Zack Sabre Jr | AEW x NJPW / Forbidden Door | FS·WE | stub | 1 | [→](2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md) |
+| 2026-06-27 | Trick Williams vs Ricky Saints | WWE / Night of Champions | FS·WE | en-investigacion | 1 | [→](2026-06-27-trick-williams-vs-ricky-saints-wwe-night-of-champions.md) |
+| 2026-06-27 | Cody Rhodes vs Gunther vs Sami Zayn | WWE / Night of Champions | FS·WE | en-investigacion | 1 | [→](2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md) |
 | 2026-06-27 | La Hiedra vs Lola Vice | AAA / WWE NXT (crossover) / Lucha Libre AAA (AAA on FOX, emisión semanal 2 de la grabación del 20/6) | FS·WE | en-investigacion | 1 | [→](2026-06-27-la-hiedra-vs-lola-vice-aaa-worldwide.md) |
 | 2026-06-26 | Rey Fénix vs Nathan Frazer | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-06-26-rey-fenix-vs-nathan-frazer-wwe-smackdown.md) |
 | 2026-06-24 | Will Ospreay vs Fantasmo | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md) |

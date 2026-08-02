@@ -152,6 +152,16 @@ reportado**. Page derivó a la línea con Rey Mysterio y Chad Gable. `[no encont
 
 **Lectura sintética**: **FS + WE.** Continuación directa del ángulo del desenmascaramiento de Rey Mysterio (8/6) — gana con un low blow no visto por el réferi, rompiendo con astucia sucia el primer round singles del programa contra el bloque de lucha libre mexicana. La semana siguiente Rey Mysterio le cobra la derrota.
 
+### Sesión 2026-08-01 s08 — Perfect Match sin clase declarada — la regla del "ok" y la crítica de booking confuso
+
+**Cita verbatim**:
+
+> *"Ethan Page vs Rey Mysterio, la drea match, estuvo ok, fue perfecta, el bookeo para Ethan parece confuso, ojalá pueda canjear esta lose rápido, sus promossiempre levantan, asi que se ve bien, todavia es un bookjing entretenido"*
+>
+> — El Vehemiurgo, 2026-08-01 s08 (verbatim)
+
+**Lectura sintética**: **Sin clase, por la regla del *"ok"*** — "fue perfecta" es comentario descriptivo, no disparo de clase. **La crítica es de booking, no de talento**: pierde el dream match ante Rey Mysterio cobrando el desenmascaramiento del 8/6, con reserva de que su presente competitivo "parece confuso" pero sus promos "siempre levantan". La serie con Rey sigue: gana la revancha del 27/7 con el Egoplex, dejando la máscara todavía en juego camino a SummerSlam.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de NXT Champion run.
@@ -270,6 +280,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md`](../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md)
 - [`../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md`](../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md)
 - [`../segments/2026-06-08-ethan-page-promo-byron-saxton-wwe-raw.md`](../segments/2026-06-08-ethan-page-promo-byron-saxton-wwe-raw.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).

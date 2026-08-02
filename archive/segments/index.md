@@ -27,7 +27,13 @@ cada alta y con cada cambio de estado.
 | 2026-07-15 | The Dogs atacan a Cope & Cage + retoma el Bang Bang Gang | AEW / Dynamite | angle / ataque | — | stub | 1 | [→](2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md) |
 | 2026-07-08 | Post-match: promo de Fletcher con Callis y Foley + promo de Andrade | AEW / Beach Break | promo post-match | WE | stub | 1 | [→](2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md) |
 | 2026-07-08 | Promo backstage: MJF se burla del booking de Ospreay | AEW / Beach Break | promo backstage | WE | stub | 1 | [→](2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md) |
+| 2026-07-06 | Promo del Judgment Day en el clubhouse | WWE / Monday Night Raw | promo de facción | WE | en-investigacion | 1 | [→](2026-07-06-judgment-day-clubhouse-promo-wwe-raw.md) |
+| 2026-07-06 | Promo backstage de Joe Hendry | WWE / Monday Night Raw | entrevista backstage | WE | en-investigacion | 1 | [→](2026-07-06-joe-hendry-promo-backstage-wwe-raw.md) |
+| 2026-07-06 | Gunther ataca a Cody Rhodes en el estacionamiento — el puertazo | WWE / Monday Night Raw | ataque / promo | WE | en-investigacion | 1 | [→](2026-07-06-gunther-ataca-cody-rhodes-puertazo-wwe-raw.md) |
+| 2026-07-04 | Debut de Damian Priest en AAA | WWE / AAA on FOX #25 | presentación / rueda de prensa | — | en-investigacion | 1 | [→](2026-07-04-debut-damian-priest-aaa-on-fox.md) |
 | 2026-07-01 | Promo backstage: MJF sobre Andrade | AEW / Dynamite | promo backstage | WE | stub | 1 | [→](2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md) |
+| 2026-06-30 |  | WWE / NXT | backstage / gag | WE | en-investigacion | 1 | [→](2026-06-30-lizzy-rain-segmento-absurdo-wwe-nxt.md) |
+| 2026-06-29 | Brock Lesnar regresa e interrumpe a Oba Femi — reto a Hell in a Cell | WWE / Monday Night Raw | in-ring confrontation / desafío | WE | en-investigacion | 1 | [→](2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md) |
 | 2026-06-28 | Promo video: DCMJF vs faces (6 vs 6) | AEW x NJPW / Forbidden Door | promo video (hype package) | — | stub | 1 | [→](2026-06-28-dcmjf-vs-faces-promo-video-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Regreso de Jay White | AEW x NJPW / Forbidden Door | return moment | — | stub | 1 | [→](2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Promo video: The Dogs vs Cope & Cage | AEW x NJPW / Forbidden Door | promo video (hype package) | WE | stub | 1 | [→](2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md) |
