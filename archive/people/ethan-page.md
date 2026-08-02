@@ -142,6 +142,16 @@ reportado**. Page derivó a la línea con Rey Mysterio y Chad Gable. `[no encont
 **Aviso de continuidad**: existe una **segunda entrevista Page/Saxton el
 27/7/2026** — no confundir.
 
+### Sesión 2026-08-01 s07 — Roba la primera victoria singles del bloque de lucha libre
+
+**Cita verbatim**:
+
+> *"Ethan vs Dragon Lee estuvo buena, se merece un FS y WE classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s07 (verbatim)
+
+**Lectura sintética**: **FS + WE.** Continuación directa del ángulo del desenmascaramiento de Rey Mysterio (8/6) — gana con un low blow no visto por el réferi, rompiendo con astucia sucia el primer round singles del programa contra el bloque de lucha libre mexicana. La semana siguiente Rey Mysterio le cobra la derrota.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de NXT Champion run.
@@ -260,6 +270,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md`](../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md)
 - [`../segments/2026-06-08-ethan-page-promo-byron-saxton-wwe-raw.md`](../segments/2026-06-08-ethan-page-promo-byron-saxton-wwe-raw.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)

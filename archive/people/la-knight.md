@@ -174,6 +174,16 @@ King of the Ring, **Jey Uso lo pinea** tras un Samoan Spike de Solo Sikoa.
 
 **Lectura sintética**: **WE por partida doble**: la promo con Cathy Kelley antes del 4-way, y su performance dentro del propio 4-way de King of the Ring. "Incluso cuando se tropieza lo usa a su favor" — el elogio de oficio más específico de la sesión.
 
+### Sesión 2026-08-01 s07 — "Como siempre" — rechaza a un Solo Sikoa completamente aislado
+
+**Cita verbatim**:
+
+> *"LA Knight como siempre un segmente WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s07 (verbatim)
+
+**Lectura sintética**: **WE — "como siempre".** El ángulo migró: ya no es la campaña contra Adam Pearce. Solo Sikoa, recién abandonado por Tama y Talla Tonga, le ofrece alianza contra el Bloodline por odio compartido — Knight prefiere manejarlo solo. Mismo programa donde Solo queda completamente aislado.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el
@@ -186,6 +196,7 @@ King of the Ring, **Jey Uso lo pinea** tras un Samoan Spike de Solo Sikoa.
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md`](../segments/2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md)
 - [`../segments/2026-06-12-la-knight-promo-cathy-kelley-wwe-smackdown.md`](../segments/2026-06-12-la-knight-promo-cathy-kelley-wwe-smackdown.md)
 - [`../matches/2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md`](../matches/2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md)
 - [`../segments/2026-06-08-la-knight-segmento-campana-adam-pearce-wwe-raw.md`](../segments/2026-06-08-la-knight-segmento-campana-adam-pearce-wwe-raw.md)

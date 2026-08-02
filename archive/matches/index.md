@@ -33,7 +33,10 @@ con cada cambio de estado.
 | 2026-06-28 | Thekla vs Starlight Kid | AEW x NJPW / Forbidden Door | PW·FS·WE | stub | 1 | [→](2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | PAC vs Umino | AEW x NJPW / Forbidden Door | PW·FS·WE | stub | 1 | [→](2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Kenny Omega vs Zack Sabre Jr | AEW x NJPW / Forbidden Door | FS·WE | stub | 1 | [→](2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md) |
+| 2026-06-27 | La Hiedra vs Lola Vice | AAA / WWE NXT (crossover) / Lucha Libre AAA (AAA on FOX, emisión semanal 2 de la grabación del 20/6) | FS·WE | en-investigacion | 1 | [→](2026-06-27-la-hiedra-vs-lola-vice-aaa-worldwide.md) |
+| 2026-06-26 | Rey Fénix vs Nathan Frazer | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-06-26-rey-fenix-vs-nathan-frazer-wwe-smackdown.md) |
 | 2026-06-24 | Will Ospreay vs Fantasmo | AEW / Dynamite | FS·WE | stub | 1 | [→](2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md) |
+| 2026-06-22 | Ethan Page vs Dragon Lee | WWE / Monday Night Raw | FS·WE | en-investigacion | 1 | [→](2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md) |
 | 2026-06-20 | Rey Fénix vs Laredo Kid vs Lince Dorado | AAA / AAA on FOX #23 | PW·FS·WE | en-investigacion | 1 | [→](2026-06-20-rey-fenix-vs-laredo-kid-vs-lince-dorado-aaa-on-fox.md) |
 | 2026-06-20 | Maya World vs Athena | AEW / Collision | FS | stub | 1 | [→](2026-06-20-maya-world-vs-athena-aew-collision.md) |
 | 2026-06-20 | Zack Sabre Jr vs Adam Priest | AEW / Collision | FS | stub | 1 | [→](2026-06-20-zsj-vs-adam-priest-aew-collision.md) |

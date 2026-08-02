@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lola-vice
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Lola Vice"
   - "Cobertura WWE NXT 2023-2026"
@@ -123,6 +123,16 @@ mic-side**. Cruce con Vaquer como caso paralelo.
 como caso de elevación bien bookeada con techo top-tier todavía
 distante.)
 
+### Sesión 2026-08-01 s07 — Retiene el NXT Women's Title en México — crossover histórico
+
+**Cita verbatim**:
+
+> *"hiedra vs lola fue genial, todo el show y todo se merece un FS y WE clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s07 (verbatim)
+
+**Lectura sintética**: **FS + WE.** Retiene el NXT Women's Championship en la **primera defensa de ese título en la historia de AAA**, superando la interferencia de Las Tóxicas con ayuda de La Catalina y cerrando con su spinning backfist ("305"). Continuidad directa del cruce del 6/6 (Bayley, Vice y La Catalina vs Las Tóxicas) — llega hasta *Verano de Escándalo*, donde pierde el título de parejas mixtas ante La Hiedra y Laredo Kid.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de obtención del NXT Women's Title (Stand &
@@ -177,6 +187,7 @@ Catalina en AAA. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-27-la-hiedra-vs-lola-vice-aaa-worldwide.md`](../matches/2026-06-27-la-hiedra-vs-lola-vice-aaa-worldwide.md)
 - [`segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md`](../segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md)
   — segmento celebración post-título salvado por Jacy.
 - [`../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md)

@@ -32,6 +32,8 @@ cada alta y con cada cambio de estado.
 | 2026-06-28 | Regreso de Jay White | AEW x NJPW / Forbidden Door | return moment | — | stub | 1 | [→](2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Promo video: The Dogs vs Cope & Cage | AEW x NJPW / Forbidden Door | promo video (hype package) | WE | stub | 1 | [→](2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Promo video: Thekla vs Starlight Kid | AEW x NJPW / Forbidden Door | promo video (hype package) | WE | stub | 1 | [→](2026-06-28-thekla-vs-starlight-kid-promo-video-aew-njpw-forbidden-door.md) |
+| 2026-06-26 | Trick Williams & Lil Yachty vs Ricky Saints — apertura del show | WWE / SmackDown | in-ring promo / cheap shots | WE | en-investigacion | 1 | [→](2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md) |
+| 2026-06-26 | LA Knight rechaza la alianza de Solo Sikoa | WWE / SmackDown | in-ring confrontation | WE | en-investigacion | 1 | [→](2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md) |
 | 2026-06-24 | Tensión MJF/Andrade — cierre de show | AEW / Dynamite | promo (cierre de show) | — | stub | 1 | [→](2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md) |
 | 2026-06-24 | Backstage — Cope & Cage vs The Dogs | AEW / Dynamite | promo (backstage) | — | stub | 1 | [→](2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md) |
 | 2026-06-24 | Promo video — MJF vs Mark Briscoe, rivalidad retomada | AEW / Dynamite | video package (promo) | — | stub | 1 | [→](2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md) |

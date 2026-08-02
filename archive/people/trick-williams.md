@@ -152,6 +152,16 @@ y
 
 **Lectura sintética**: **WE.** CORRECCIÓN de research: no es build de King of the Ring —admite haber perdido su clasificatorio el 5/6— sino la escena del **WWE United States Championship**, del que sigue siendo campeón. Cierra el segmento clavándole un Book End a Ricky Saints, quedando solo de pie. Deja agendado el #1 Contender's Match Hayes vs Saints para el 19/6.
 
+### Sesión 2026-08-01 s07 — "Como siempre" — vuelve casado y Ricky Saints lo tumba con el micrófono
+
+**Cita verbatim**:
+
+> *"el segmento de Trick como siempre merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s07 (verbatim)
+
+**Lectura sintética**: **WE — "como siempre"**, la fórmula que reconoce consistencia de oficio. Abre el show volviendo de su luna de miel con Lil Yachty, anuncia a Ricky Saints como rival de Night of Champions, y cierra el segmento noqueado por dos cheap shots de Saints, uno con micrófono en mano. Carmelo Hayes queda fuera del cuadro desde el 19/6 — el programa pasó de triangular a mano a mano.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main
@@ -167,6 +177,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md`](../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md)
 - [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)
 - [`../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md`](../segments/2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md)
 - [`../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md`](../segments/2026-05-01-trick-williams-gingerbread-man-wwe-smackdown.md)

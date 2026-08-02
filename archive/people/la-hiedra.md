@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-hiedra
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
   - "Mención previa en dossier AAA/AEW 2026 cluster (roster AAA Knockouts)"
@@ -51,6 +51,16 @@ alta — pese a la polémica que rodea al talento, el Vehemiurgo la
 ve como potencial "paquete completo" heel. El feud sostenido con
 Lola se lee como desarrollo útil bajo el nuevo régimen TKO.
 
+### Sesión 2026-08-01 s07 — Cae ante Lola Vice en la primera defensa histórica del NXT Women's Title en AAA
+
+**Cita verbatim**:
+
+> *"hiedra vs lola fue genial, todo el show y todo se merece un FS y WE clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s07 (verbatim)
+
+**Lectura sintética**: **FS + WE.** Primera defensa del **NXT Women's Championship** en la historia de AAA / en México. Ataca antes de la campana buscando un Michinoku Driver rápido, y con apoyo de Las Tóxicas (Flammer distrayendo, Maravilla castigando) casi consigue el título — **La Catalina** neutraliza la interferencia y Lola Vice remata con el spinning backfist.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -61,6 +71,7 @@ Lola se lee como desarrollo útil bajo el nuevo régimen TKO.
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-27-la-hiedra-vs-lola-vice-aaa-worldwide.md`](../matches/2026-06-27-la-hiedra-vs-lola-vice-aaa-worldwide.md)
 - [`../matches/2026-04-18-dinamico-hiedra-vs-iguana-lola-aaa-worldwide.md`](../matches/2026-04-18-dinamico-hiedra-vs-iguana-lola-aaa-worldwide.md)
 
 ## Cross-links

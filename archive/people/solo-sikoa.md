@@ -171,6 +171,16 @@ top guy que no terminó de cerrarse"*.
 
 **Lectura sintética**: **Triple clase en el fatal 4-way.** Registro **positivo poco frecuente** sobre él en el archivo: lee la vulnerabilidad del brazo lesionado de Oba Femi y **la usa para posicionarse**, quedándose con spots importantes. *"Muy carismático"* — contraste con la lectura de s-anteriores, donde figuraba como el candidato a top que no se terminó de cerrar.
 
+### Sesión 2026-08-01 s07 — Completamente aislado — abandonado por los Tonga, rechazado por LA Knight
+
+**Cita verbatim**:
+
+> *"LA Knight como siempre un segmente WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s07 (verbatim)
+
+**Lectura sintética**: Sin clase propia. Le propone a LA Knight una alianza contra el Bloodline por odio compartido —admite que "toda su familia lo abandonó"— y Knight lo rechaza. El mismo programa, Tama y Talla Tonga rompen con los MFTs ("we're out"), dejándolo sin nadie.
+
 ## Pendientes / huecos
 
 - [ ] Cronología detallada Bloodline original / interim Tribal
@@ -182,6 +192,7 @@ top guy que no terminó de cerrarse"*.
 
 ## Piezas relacionadas
 
+- [`../segments/2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md`](../segments/2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md)
 - [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
 - [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
 - [`tama-tonga.md`](./tama-tonga.md) — miembro stable.

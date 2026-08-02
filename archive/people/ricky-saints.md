@@ -134,6 +134,16 @@ tres top guys distintos a la vez"*.
 
 **Lectura sintética**: WE. **Gana por segunda vez seguida con un turnbuckle expuesto** (la vez anterior, agarrándose de las mallas) y se convierte en **contendiente #1 al United States Championship** — irá por **Trick Williams**. El propio WWE tituló el video *"Ricky Saints cheats to become No. 1 Contender"*, confirmando en su propio canal el patrón que el archivo viene registrando: su gimmick de *"pura boca"* no incluye ganar limpio.
 
+### Sesión 2026-08-01 s07 — Golpe con micrófono a Trick y Lil Yachty — heel dominante camino a Night of Champions
+
+**Cita verbatim**:
+
+> *"el segmento de Trick como siempre merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s07 (verbatim)
+
+**Lectura sintética**: Sin clase propia (WE corresponde al segmento). **Ejecuta el golpe que cierra el segmento**: tumba a Trick Williams y a Lil Yachty con cheap shots, uno con micrófono en mano. Camino a Night of Champions por el US Championship — donde, fuera de este registro, terminó perdiendo tras engañar al réferi con el kendo stick de Yachty.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar grafía oficial WWE** — *Ricky Saints* o *Ricky
@@ -271,6 +281,7 @@ Williams y Carmelo Hayes). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md`](../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md)
 - [`../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md`](../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md)
 - [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)
 - [`../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md`](../matches/2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md)

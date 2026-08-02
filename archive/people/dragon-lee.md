@@ -68,6 +68,7 @@ tags: [dragon-lee, lucha-mexicana, casas-family-legacy, njpw-junior-heavyweight,
 
 ## Piezas relacionadas
 
+- [`../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md`](../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md)
 - [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)
 - [`../matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md`](../matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md)
 - [`../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md`](../matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md)
@@ -83,6 +84,16 @@ tags: [dragon-lee, lucha-mexicana, casas-family-legacy, njpw-junior-heavyweight,
 > — El Vehemiurgo, 2026-08-01 s05 (verbatim)
 
 **Lectura sintética**: Sin clase. Registro breve y duro: en el post-match del 8/6, el booking lo devalúa — **caído en la salvada, presentado con estatus de jobber** en lugar de protegerlo como talento del bloque de lucha libre mexicana que viene construyéndose (junto a Penta, Rey Mysterio y Chad Gable).
+
+### Sesión 2026-08-01 s07 — Arranque en ráfaga, pierde por trampa — el bloque de lucha libre lo respalda
+
+**Cita verbatim**:
+
+> *"Ethan vs Dragon Lee estuvo buena, se merece un FS y WE classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s07 (verbatim)
+
+**Lectura sintética**: **FS + WE.** Arranque en ráfaga —running hurricanrana, dropkick, una suicide plancha con tanto impulso que termina sobre la mesa de comentaristas— antes de caer por un low blow no visto por el réferi. Llega al match respaldado explícitamente por **Rey Mysterio** (que le recuerda el desenmascaramiento) y **Penta** (pep talk en español).
 
 ## Pendientes
 

@@ -114,6 +114,16 @@ ya es leyenda consagrada. Ver
 
 **Lectura sintética**: **Perfect Match** defendiendo el **AAA World Cruiserweight Championship** en un 3-way ante Laredo Kid y Lince Dorado, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo` — criterio distinto y complementario al panteón: acá no es devoción, es reconocimiento de que **no se puede negar que es wrestling del bueno**. Ver [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md).
 
+### Sesión 2026-08-01 s07 — Segunda mitad de Fraxiom que cae — "nunca decepciona"
+
+**Cita verbatim**:
+
+> *"la lucha de Fenix vs Fresiher se merece una FS y un WE classes, Fenix nunca decepciona"*
+>
+> — El Vehemiurgo, 2026-08-01 s07 (verbatim)
+
+**Lectura sintética**: **FS + WE.** Retiene el AAA World Cruiserweight Championship ante **Nathan Frazer** con un Mexican Muscle Buster desde la tercera cuerda — la segunda mitad de **Fraxiom** que cae ante él en dos semanas y media, tras someter a Axiom el 12/6. *"Fénix nunca decepciona"* — veredicto de trayectoria.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -121,6 +131,7 @@ ya es leyenda consagrada. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-06-26-rey-fenix-vs-nathan-frazer-wwe-smackdown.md`](../matches/2026-06-26-rey-fenix-vs-nathan-frazer-wwe-smackdown.md)
 - [`../matches/2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md`](../matches/2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md)
 - [`../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md)
 - [`../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md`](../matches/2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md)
