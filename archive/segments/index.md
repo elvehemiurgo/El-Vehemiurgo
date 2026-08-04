@@ -25,8 +25,10 @@ cada alta y con cada cambio de estado.
 | 2026-07-15 | Celebración de Kenny Omega, interrumpida por Kevin Knight | AEW / Dynamite | celebración de título + interrupción | — | stub | 1 | [→](2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md) |
 | 2026-07-15 | Promo backstage: Andrade revela más planes (roba el anillo de MJF) | AEW / Dynamite | promo backstage | — | stub | 1 | [→](2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md) |
 | 2026-07-15 | The Dogs atacan a Cope & Cage + retoma el Bang Bang Gang | AEW / Dynamite | angle / ataque | — | stub | 1 | [→](2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md) |
+| 2026-07-10 | CM Punk y Cody Rhodes pactan SummerSlam | WWE / SmackDown | in-ring promo / face-off | WE | en-investigacion | 1 | [→](2026-07-10-cm-punk-cody-rhodes-pactan-summerslam-wwe-smackdown.md) |
 | 2026-07-08 | Post-match: promo de Fletcher con Callis y Foley + promo de Andrade | AEW / Beach Break | promo post-match | WE | stub | 1 | [→](2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md) |
 | 2026-07-08 | Promo backstage: MJF se burla del booking de Ospreay | AEW / Beach Break | promo backstage | WE | stub | 1 | [→](2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md) |
+| 2026-07-07 | Promo backstage de Saquon Shugars | WWE / NXT | entrevista backstage | — | en-investigacion | 1 | [→](2026-07-07-saquon-shugars-promo-backstage-wwe-nxt.md) |
 | 2026-07-06 | Promo del Judgment Day en el clubhouse | WWE / Monday Night Raw | promo de facción | WE | en-investigacion | 1 | [→](2026-07-06-judgment-day-clubhouse-promo-wwe-raw.md) |
 | 2026-07-06 | Promo backstage de Joe Hendry | WWE / Monday Night Raw | entrevista backstage | WE | en-investigacion | 1 | [→](2026-07-06-joe-hendry-promo-backstage-wwe-raw.md) |
 | 2026-07-06 | Gunther ataca a Cody Rhodes en el estacionamiento — el puertazo | WWE / Monday Night Raw | ataque / promo | WE | en-investigacion | 1 | [→](2026-07-06-gunther-ataca-cody-rhodes-puertazo-wwe-raw.md) |

@@ -197,6 +197,16 @@ era IG"*.)
 
 **Lectura sintética**: **Sin clase** (regla del *"ok"* — la lucha con Lennox fue *"ok"*). **La crítica más dura del archivo sobre su presentación**, y research no encontró cobertura de prensa que la respalde ni la contradiga — es lectura propia, preservada sin forzar corroboración. Gana igual, pese a interferencia de DarkState; post-match, DarkState lo arrasa y **Lennox lo golpea con su propio bate de béisbol**.
 
+### Sesión 2026-08-01 s09 — "Colocando sus frases" con puro relleno — y un "Dave" sin resolver
+
+**Cita verbatim**:
+
+> *"Saquon cortó una buena promo, no le están dando la blood feud super producida, pero con el relleno que le dieron, está colocando sus frases, está quedando como dave cool, me gusta"*
+>
+> — El Vehemiurgo, 2026-08-01 s09 (verbatim)
+
+**Lectura sintética**: Sin clase declarada (elogio real, sin la fórmula de disparo). El diagnóstico de booking se sostiene: sin video packages ni segmentos dedicados, con solo un walk-and-bat entre el público y 60-90 segundos de backstage, coloca tres frases de personaje — incluida la catchphrase activa *"up next / up never"*. **"Dave" queda `[verif]`**: research agotado, sin talento de ese nombre en NXT 2026 ni precedente claro en el archivo — a preguntar directamente.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT.
@@ -313,6 +323,7 @@ cierre que continúa el face turn consumado en s50. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-07-saquon-shugars-promo-backstage-wwe-nxt.md`](../segments/2026-07-07-saquon-shugars-promo-backstage-wwe-nxt.md)
 - [`../matches/2026-06-28-saquon-shugars-vs-dion-lennox-nxt-gab.md`](../matches/2026-06-28-saquon-shugars-vs-dion-lennox-nxt-gab.md)
 - [`../segments/2026-06-09-saquon-shugars-ataca-darkstate-bate-wwe-nxt.md`](../segments/2026-06-09-saquon-shugars-ataca-darkstate-bate-wwe-nxt.md)
 - [`../segments/2026-06-02-saquon-shugars-ataca-dark-state-entrada-wwe-nxt.md`](../segments/2026-06-02-saquon-shugars-ataca-dark-state-entrada-wwe-nxt.md)

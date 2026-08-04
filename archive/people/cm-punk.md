@@ -227,6 +227,16 @@ la entrada de Cody Rhodes. Ver
 
 **Lectura sintética**: **Take incompleto — el dictado se corta en "con toda esta idea de...".** No se fabrica el cierre. Lo cerrado por research: Nick Aldis (suspendido) lo trae a Chicago para reemplazar a Cody Rhodes, hospitalizado tras el ataque de Gunther; Punk entra con Cult of Personality y gana el Undisputed WWE Championship a Sami Zayn con Helluva Kick + GTS.
 
+### Sesión 2026-08-01 s09 — Pacta SummerSlam con Cody — sin violencia, con el callback a "Just say when"
+
+**Cita verbatim**:
+
+> *"Punk y Cody pactan la lucha para summer slam en un segmento in ring muy cool, no fue wrestlemania 17 pero empieza muy bien, se merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s09 (verbatim)
+
+**Lectura sintética**: **WE.** Celebra su título nuevo retando a todo el vestuario y marcando distancia del *"otro campeón de WWE"* (dardo a Reigns); Cody le devuelve la simetría del ojo morado y ambos admiten que venían esquivando el match. Cierra con el callback a *"Just say when"* → *"When"* → *"SummerSlam"*, y un apretón de manos. Sin contract signing, sin violencia — el tono cordial se rompe rápido en las semanas siguientes.
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment
@@ -243,6 +253,7 @@ la entrada de Cody Rhodes. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-10-cm-punk-cody-rhodes-pactan-summerslam-wwe-smackdown.md`](../segments/2026-07-10-cm-punk-cody-rhodes-pactan-summerslam-wwe-smackdown.md)
 - [`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md)
 ### Centerpieces principales
 - [`../matches/2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md`](../matches/2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md)

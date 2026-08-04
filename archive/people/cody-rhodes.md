@@ -246,6 +246,16 @@ regreso de CM Punk. Ver
 
 **Lectura sintética**: **FS+WE en el triple threat de Night of Champions**, donde pierde el título ante Zayn en un roll-up tras un doble Cross Rhodes. Una semana después queda **fuera de la revancha titular de Chicago**: Gunther lo ataca en el estacionamiento, lo powerbombea a través de una mesa y le estrella la puerta del auto contra la cabeza — termina hospitalizado mientras Nick Aldis mete a CM Punk en su lugar.
 
+### Sesión 2026-08-01 s09 — "How's your eye?" — devuelve la simetría y cierra el pacto
+
+**Cita verbatim**:
+
+> *"Punk y Cody pactan la lucha para summer slam en un segmento in ring muy cool, no fue wrestlemania 17 pero empieza muy bien"*
+>
+> — El Vehemiurgo, 2026-08-01 s09 (verbatim)
+
+**Lectura sintética**: Sin clase propia (WE corresponde al segmento). Sale de vestir, le pregunta a Punk por el ojo morado que él mismo cargó la vez anterior que compartieron ring, y hace el callback a su propia frase post-WrestleMania — *"Just say when"* — para cerrar el match de SummerSlam.
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza
@@ -263,6 +273,7 @@ regreso de CM Punk. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-10-cm-punk-cody-rhodes-pactan-summerslam-wwe-smackdown.md`](../segments/2026-07-10-cm-punk-cody-rhodes-pactan-summerslam-wwe-smackdown.md)
 - [`../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md`](../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md)
 - [`../segments/2026-07-06-gunther-ataca-cody-rhodes-puertazo-wwe-raw.md`](../segments/2026-07-06-gunther-ataca-cody-rhodes-puertazo-wwe-raw.md)
 - [`../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md`](../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md)
