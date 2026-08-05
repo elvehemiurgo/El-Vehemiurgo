@@ -23,6 +23,16 @@ con cada cambio de estado.
 | 2026-07-22 | Darby Allin vs Kevin Knight | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md) |
 | 2026-07-15 | Komander vs Kyle Fletcher | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md) |
 | 2026-07-15 | Andrade vs Jake Doyle | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md) |
+| 2026-07-14 | Zaria vs Izzi Dame vs Lizzy Rain vs Nikkita Lyons | WWE / NXT | FS·WE | en-investigacion | 1 | [→](2026-07-14-zaria-vs-izzi-dame-vs-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md) |
+| 2026-07-14 | Lola Vice vs Kelani Jordan vs Kali Armstrong | WWE / NXT | WE | en-investigacion | 1 | [→](2026-07-14-lola-vice-vs-kelani-jordan-vs-kali-armstrong-wwe-nxt.md) |
+| 2026-07-13 | Roxanne Perez vs Iyo Sky | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-07-13-roxanne-perez-vs-iyo-sky-wwe-raw.md) |
+| 2026-07-13 | Je'Von Evans vs Dragon Lee | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-07-13-jevon-evans-vs-dragon-lee-gauntlet-wwe-raw.md) |
+| 2026-07-13 | Dominik Mysterio vs Joe Hendry | WWE / Monday Night Raw | WE | en-investigacion | 1 | [→](2026-07-13-dominik-mysterio-vs-joe-hendry-wwe-raw.md) |
+| 2026-07-13 | Chad Gable vs Ethan Page | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-07-13-chad-gable-vs-ethan-page-gauntlet-wwe-raw.md) |
+| 2026-07-11 | Money Machine vs Epydemius Jr. & Noisy Boy | AAA / AAA on FOX #26 | WE | en-investigacion | 1 | [→](2026-07-11-money-machine-vs-epydemius-jr-noisy-boy-aaa-on-fox.md) |
+| 2026-07-11 | Mini Vikingo vs Dragon Lee vs Jack Cartwheel | AAA / AAA on FOX #26 | PW·FS·WE | en-investigacion | 1 | [→](2026-07-11-mini-vikingo-vs-dragon-lee-vs-jack-cartwheel-aaa-on-fox.md) |
+| 2026-07-10 | Trick Williams vs Carmelo Hayes | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-10-trick-williams-vs-carmelo-hayes-4-wwe-smackdown.md) |
+| 2026-07-10 | Finn Bálor vs Tama Tonga | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-07-10-finn-balor-vs-tama-tonga-wwe-smackdown.md) |
 | 2026-07-08 | MJF vs Kenny Omega | AEW / Beach Break | — | en-investigacion | 1 | [→](2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md) |
 | 2026-07-08 | Gauntlet Match: Maya World vs. Athena vs. Mercedes Moné (y otras [verif]) | AEW / Beach Break | — | en-investigacion | 1 | [→](2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md) |
 | 2026-07-08 | Kyle Fletcher vs Konosuke Takeshita | AEW / Beach Break | FS | en-investigacion | 1 | [→](2026-07-08-fletcher-vs-takeshita-aew-beach-break.md) |

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mini-vikingo
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — AAA Worldwide, 2/5/2026)"
 tags: [mini-vikingo, aaa-2026, mini-estrella, grudge-match, triple-clase, primer-registro-individual]
@@ -50,6 +50,16 @@ intensa y booking "bien curado". El selling de ambos descrito como
 "de otro nivel", "muy cuidado, muy duro". Ver
 [`./hijo-del-vikingo.md`](./hijo-del-vikingo.md).
 
+### Sesión 2026-08-01 s10 — Perfect Match ganando la contendencia crucero, capitalizando la lesión de su hermano
+
+**Cita verbatim**:
+
+> *"me gust amucho porque tevenden su gimmick luchando por su vida, no están precupados por que se vea bonito como en NXT [...] minivikingo se tardó en hacer su finisher, que es un phoenix 630 increíble"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **Perfect Match** en el opener triple amenaza, ganando la contendencia al crucero de Rey Fénix. Capitaliza además la ausencia de su hermano lesionado con una línea backstage (*"escogiste al Vikingo equivocado"*) — WE. Finisher elogiado: Phoenix 630.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -58,6 +68,8 @@ intensa y booking "bien curado". El selling de ambos descrito como
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-11-mini-vikingo-vs-dragon-lee-vs-jack-cartwheel-aaa-on-fox.md`](../matches/2026-07-11-mini-vikingo-vs-dragon-lee-vs-jack-cartwheel-aaa-on-fox.md)
+- [`../segments/2026-07-11-mini-vikingo-backstage-dorian-roldan-omos-aaa-on-fox.md`](../segments/2026-07-11-mini-vikingo-backstage-dorian-roldan-omos-aaa-on-fox.md)
 - [`../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md`](../matches/2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md)
 
 ## Cross-links

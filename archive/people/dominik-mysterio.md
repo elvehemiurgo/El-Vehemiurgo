@@ -118,6 +118,16 @@ sección 4.
 
 **Lectura sintética**: **Dos registros el mismo día, en dos empresas.** En WWE: reserva de conjunto sobre el match del KOTR — *"siempre queda como flojo, ojalá apretara más su acto y su físico"*. El research confirma el fondo (fue booked como squash total, kick-out a la cuenta de uno) pero no encontró cobertura que discuta específicamente su físico — la lectura del Vehemiurgo coincide con el consenso crítico externo en la sustancia. **En AAA, como Mega Campeón**, la promo del mismo día recibe WE: se declara *"main event de Triplemanía"* y *"King of the Luchadores"*, sin retador nombrado todavía — **El Grande Americano** declara intenciones sobre su título en el cierre del mismo show.
 
+### Sesión 2026-08-01 s10 — Salva a El Grande Americano y reta a Los Perros para Verano de Escándalo — más el gauntlet en WWE
+
+**Cita verbatim**:
+
+> *"corta la promo final muy bien, tienen con que trabajar, en este punto luce genial [...] es el peak del enterteinment en 2026 [...] decisión rara quemar a Hendry así limpiamente"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE** en AAA salvando a El Grande Americano con una silla y retando a Los Perros del Mal para Verano de Escándalo. **WE también en WWE** el mismo bloque de fechas: su caída ante Joe Hendry en el gauntlet del Intercontinental es *"el peak del entretenimiento en 2026"*, con reserva de booking sobre quemar a Hendry tan limpiamente. Doble aparición de alto perfil en las dos empresas en la misma semana.
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.
@@ -194,6 +204,9 @@ Kaiser bajo la máscara del Americano. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-11-perros-del-mal-grande-americano-dominik-mysterio-aaa-on-fox.md`](../segments/2026-07-11-perros-del-mal-grande-americano-dominik-mysterio-aaa-on-fox.md)
+- [`../matches/2026-07-13-dominik-mysterio-vs-joe-hendry-wwe-raw.md`](../matches/2026-07-13-dominik-mysterio-vs-joe-hendry-wwe-raw.md)
+- [`../segments/2026-07-13-jd-mcdonagh-dominik-promo-danhausen-wwe-raw.md`](../segments/2026-07-13-jd-mcdonagh-dominik-promo-danhausen-wwe-raw.md)
 - [`../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md`](../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md)
 - [`../segments/2026-06-20-dominik-mysterio-promo-aaa-on-fox.md`](../segments/2026-06-20-dominik-mysterio-promo-aaa-on-fox.md)
 - [`../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md`](../segments/2026-05-30-entradas-grande-vs-grande-aaa-noche-de-los-grandes.md)

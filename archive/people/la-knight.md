@@ -184,6 +184,16 @@ King of the Ring, **Jey Uso lo pinea** tras un Samoan Spike de Solo Sikoa.
 
 **Lectura sintética**: **WE — "como siempre".** El ángulo migró: ya no es la campaña contra Adam Pearce. Solo Sikoa, recién abandonado por Tama y Talla Tonga, le ofrece alianza contra el Bloodline por odio compartido — Knight prefiere manejarlo solo. Mismo programa donde Solo queda completamente aislado.
 
+### Sesión 2026-08-01 s10 — Completa la acción del turn de Solo Sikoa con un reto de six-man para SummerSlam
+
+**Cita verbatim**:
+
+> *"esta parte del segmento hacia el final, se merece una WE class, porque luego llega LA Knight y completa la acción"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE** por su intervención con silla de acero contra Jacob Fatu, rematando el ángulo de la traición de Solo Sikoa. Lanza el reto de six-man tag para SummerSlam: Knight, Solo y Royce Keys vs Fatu y los Usos.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el
@@ -196,6 +206,7 @@ King of the Ring, **Jey Uso lo pinea** tras un Samoan Spike de Solo Sikoa.
 
 ## Piezas relacionadas
 
+- [`../segments/2026-07-13-solo-sikoa-traiciona-bloodline-la-knight-wwe-raw.md`](../segments/2026-07-13-solo-sikoa-traiciona-bloodline-la-knight-wwe-raw.md)
 - [`../segments/2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md`](../segments/2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md)
 - [`../segments/2026-06-12-la-knight-promo-cathy-kelley-wwe-smackdown.md`](../segments/2026-06-12-la-knight-promo-cathy-kelley-wwe-smackdown.md)
 - [`../matches/2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md`](../matches/2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md)

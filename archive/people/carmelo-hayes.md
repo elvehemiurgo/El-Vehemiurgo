@@ -101,6 +101,16 @@ y
 
 **Lectura sintética**: Sin clase propia (WE corresponde al match). Pierde por tercera vez consecutiva ante Ricky Saints, esta vez con un **turnbuckle expuesto** como instrumento del finish. Research revela que la rivalidad tiene **más capítulos de los que el archivo tenía registrados** (ataque backstage 22/5, doble count-out 29/5) — pendiente de decisión editorial sobre sumarlos.
 
+### Sesión 2026-08-01 s10 — Cuarto capítulo maduro contra Trick, y la receta LA Knight para su promo
+
+**Cita verbatim**:
+
+> *"es muy entretenido como babyface sin volverse aburrido, vendiendo su lifestyle muy bien con el wrestling [...] debe apostar todo por ese estilo, hacer un LA Knight y ser su versión full TV exagerada [...] con Melo pisa el acelerador y si han aprendido mucho en estos últimos meses, se notan más cómodos moviendose como main eventers"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE en su promo** contra Lil Yachty, con receta de carrera explícita del Vehemiurgo (*"hacer un LA Knight"*). **Triple clase en el cuarto capítulo contra Trick Williams**, interrumpido por el regreso de Baron Corbin — *"pisa el acelerador"* frente a un Trick con margen de pulido.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (run NXT + main
@@ -112,6 +122,8 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-10-carmelo-hayes-promo-lil-yachty-wwe-smackdown.md`](../segments/2026-07-10-carmelo-hayes-promo-lil-yachty-wwe-smackdown.md)
+- [`../matches/2026-07-10-trick-williams-vs-carmelo-hayes-4-wwe-smackdown.md`](../matches/2026-07-10-trick-williams-vs-carmelo-hayes-4-wwe-smackdown.md)
 - [`../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md`](../matches/2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md)
 - [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)
 - [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)

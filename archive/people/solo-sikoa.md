@@ -181,6 +181,16 @@ top guy que no terminó de cerrarse"*.
 
 **Lectura sintética**: Sin clase propia. Le propone a LA Knight una alianza contra el Bloodline por odio compartido —admite que "toda su familia lo abandonó"— y Knight lo rechaza. El mismo programa, Tama y Talla Tonga rompen con los MFTs ("we're out"), dejándolo sin nadie.
 
+### Sesión 2026-08-01 s10 — El turn a lo DDP contra la nWo — ventana de face que puede ser un paquete completo
+
+**Cita verbatim**:
+
+> *"engaña al bloodline, les hace creer que se une, y luego los traiciona, un momento a lo DDP con la NWO, me gustó mucho [...] esta ventana como face que se presenta puede crear un paquete completo"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE**, acotada al tramo final del segmento. Finge reconciliarse con el Bloodline —*"blood is thicker than water"*— y traiciona a Jimmy Uso con un Samoan Spike apenas baja la guardia; **el propio research confirma que el público estaba con Fatu, no con él**, dato que matiza el turn. El Vehemiurgo ve en esta ventana de face la posibilidad de *"un paquete completo"*.
+
 ## Pendientes / huecos
 
 - [ ] Cronología detallada Bloodline original / interim Tribal
@@ -192,6 +202,7 @@ top guy que no terminó de cerrarse"*.
 
 ## Piezas relacionadas
 
+- [`../segments/2026-07-13-solo-sikoa-traiciona-bloodline-la-knight-wwe-raw.md`](../segments/2026-07-13-solo-sikoa-traiciona-bloodline-la-knight-wwe-raw.md)
 - [`../segments/2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md`](../segments/2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md)
 - [`../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md`](../matches/2026-06-01-penta-carmelo-solo-oba-femi-wwe-raw.md)
 - [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).

@@ -237,6 +237,16 @@ la entrada de Cody Rhodes. Ver
 
 **Lectura sintética**: **WE.** Celebra su título nuevo retando a todo el vestuario y marcando distancia del *"otro campeón de WWE"* (dardo a Reigns); Cody le devuelve la simetría del ojo morado y ambos admiten que venían esquivando el match. Cierra con el callback a *"Just say when"* → *"When"* → *"SummerSlam"*, y un apretón de manos. Sin contract signing, sin violencia — el tono cordial se rompe rápido en las semanas siguientes.
 
+### Sesión 2026-08-01 s10 — Reta a todo el vestuario y siembra con Bálor la misma noche
+
+**Cita verbatim**:
+
+> *"si WWE no les dejó hacer algo mejor, no sé porque no arriesgar todo en un segmento con Punk y cambiar de gimmick"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: Sin clase propia en el segmento con Candice LeRae y Johnny Gargano (registrado sin clase, regla del "ok"), pero el Vehemiurgo señala que un cruce con Punk era la oportunidad ideal para relanzar el gimmick de LeRae — booking que no se aprovechó del todo. El mismo día, Finn Bálor le da la bienvenida en un foreshadowing con clase WE.
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment
@@ -253,6 +263,8 @@ la entrada de Cody Rhodes. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-10-candice-lerae-johnny-gargano-cm-punk-wwe-smackdown.md`](../segments/2026-07-10-candice-lerae-johnny-gargano-cm-punk-wwe-smackdown.md)
+- [`../segments/2026-07-10-finn-balor-foreshadowing-cm-punk-wwe-smackdown.md`](../segments/2026-07-10-finn-balor-foreshadowing-cm-punk-wwe-smackdown.md)
 - [`../segments/2026-07-10-cm-punk-cody-rhodes-pactan-summerslam-wwe-smackdown.md`](../segments/2026-07-10-cm-punk-cody-rhodes-pactan-summerslam-wwe-smackdown.md)
 - [`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md)
 ### Centerpieces principales

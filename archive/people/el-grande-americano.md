@@ -255,6 +255,26 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 **Lectura sintética**: **WE.** Vence a JD McDonagh con ankle lock tras una distracción de Danhausen sobre Dominik Mysterio. No es capítulo declarado del apology tour — es un cruce independiente con la facción del Mega Campeón de AAA, que lo mantiene orbitando el eje de la lucha libre mexicana.
 
+### Sesión 2026-08-01 s10 — Escalada con Los Perros del Mal, con Dominik Mysterio de aliado camino a Triplemanía
+
+**Cita verbatim**:
+
+> *"y daga como heredero tiene todo el sentido y aprobación de la gente [...] Dominik que aqui corta la promo final muy bien, tienen con que trabajar, en este punto luce genial"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE.** Los Perros del Mal escalan el ataque; Dominik Mysterio se ofrece como aliado hasta su propio match por el Mega Championship en Triplemanía 34 — **confirmado por research**: Dominik Mysterio vs El Grande Americano por el AAA Mega Championship en Triplemanía 34.
+
+### Sesión 2026-08-01 s10 — Gana el gauntlet del Intercontinental en Raw — "cada día más Kurt Angle", con crítica de paquete de face
+
+**Cita verbatim**:
+
+> *"hicieron lucir a Gable como una máquina de luchar, se ve muy genial, cada día más Kurt Agnle, buen booking, solo que debe ser más cool el paquete de Gable como face, no sé porque no se dejó la barba y ahora en cambio esta aplaudiendo como un tonto, muy face cookie tambien, WWE deberia encontrar un balance"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **Perfect Match** ganando el gauntlet completo del Intercontinental sobre Ethan Page con Olympic Slam y Ankle Lock, convirtiéndose en #1 contender de Penta en SummerSlam. **Comparación más alta que el archivo le da a Gable**: *"cada día más Kurt Angle"*. **CRÍTICA DE PAQUETE DE PERSONAJE, no de ejecución**: el babyface actual —sin barba, aplaudiendo— le queda *"muy face cookie"*; el Vehemiurgo pide que WWE encuentre **balance** entre la máquina de luchar y el babyface genérico en que lo están presentando. Antes en el mismo gauntlet, gana también sobre Rusev con victory roll tras escapar del Accolade. Ver [`../matches/2026-07-13-chad-gable-vs-ethan-page-gauntlet-wwe-raw.md`](../matches/2026-07-13-chad-gable-vs-ethan-page-gauntlet-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania
@@ -275,6 +295,7 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-11-perros-del-mal-grande-americano-dominik-mysterio-aaa-on-fox.md`](../segments/2026-07-11-perros-del-mal-grande-americano-dominik-mysterio-aaa-on-fox.md)
 - [`../matches/2026-06-29-chad-gable-vs-jd-mcdonagh-wwe-raw.md`](../matches/2026-06-29-chad-gable-vs-jd-mcdonagh-wwe-raw.md)
 - [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)
 - [`../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md`](../matches/2026-05-30-grande-americano-vs-original-grande-americano-mascara-vs-mascara-aaa-noche-de-los-grandes.md)

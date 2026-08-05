@@ -57,6 +57,16 @@ sobreexposición de strikes. Ver
 
 **Lectura sintética**: **WE para el fatal 4-way.** El diagnóstico es **de booking, no de ella**: el problema nunca fue Iyo Sky, era el nivel de la oposición que le daban. En cuanto la ponen con Giulia, Lash Legend y Roxanne Perez, el Vehemiurgo vuelve a disfrutarla.
 
+### Sesión 2026-08-01 s10 — Perfect Match venciendo a Roxanne Perez, y "la mejor babyface de Raw"
+
+**Cita verbatim**:
+
+> *"una completa dream match [...] Iyo es la mejor abyface que tienen en RAW, así que solo estamos esperando que vuelva Vaquer"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **Perfect Match**, con veredicto de conjunto del Vehemiurgo: *"la mejor babyface que tienen en Raw"*. Post-match, el Judgment Day la embosca en trío, dejándola como blanco de la facción camino a un posible reto por el título de Liv Morgan.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa
@@ -65,6 +75,8 @@ sobreexposición de strikes. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-13-roxanne-perez-vs-iyo-sky-wwe-raw.md`](../matches/2026-07-13-roxanne-perez-vs-iyo-sky-wwe-raw.md)
+- [`../segments/2026-07-13-judgment-day-emboscada-iyo-sky-wwe-raw.md`](../segments/2026-07-13-judgment-day-emboscada-iyo-sky-wwe-raw.md)
 - [`../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md`](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)
 - [`../matches/2026-05-09-asuka-vs-iyo-sky-wwe-backlash.md`](../matches/2026-05-09-asuka-vs-iyo-sky-wwe-backlash.md)
 

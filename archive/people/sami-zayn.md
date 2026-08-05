@@ -103,6 +103,16 @@ Ver
 
 **Lectura sintética**: **FS+WE.** Gana su **primer título mundial** en un triple threat, zafándose de un Cross Rhodes de Cody y enrollándolo para el pin. Lo pierde nueve días después ante CM Punk, que regresa en Chicago con Nick Aldis metiéndolo por izquierda al main event.
 
+### Sesión 2026-08-01 s10 — La recap de su promo post-derrota pide más metraje
+
+**Cita verbatim**:
+
+> *"recapitulan la promo de Sami justo despues de perder el título, les quedó genial ese detalle, deberían de haberlo extendido, se merece un WE"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE** para la recapitulación de su promo furiosa del 6/7. La reserva es de tratamiento televisivo —*"deberían de haberlo extendido"*— no de contenido.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,
@@ -111,6 +121,7 @@ Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-10-recap-promo-sami-zayn-wwe-smackdown.md`](../segments/2026-07-10-recap-promo-sami-zayn-wwe-smackdown.md)
 - [`../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md`](../matches/2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md)
 - [`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md)
 - [`../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md`](../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md)

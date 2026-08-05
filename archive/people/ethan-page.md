@@ -162,6 +162,16 @@ reportado**. Page derivó a la línea con Rey Mysterio y Chad Gable. `[no encont
 
 **Lectura sintética**: **Sin clase, por la regla del *"ok"*** — "fue perfecta" es comentario descriptivo, no disparo de clase. **La crítica es de booking, no de talento**: pierde el dream match ante Rey Mysterio cobrando el desenmascaramiento del 8/6, con reserva de que su presente competitivo "parece confuso" pero sus promos "siempre levantan". La serie con Rey sigue: gana la revancha del 27/7 con el Egoplex, dejando la máscara todavía en juego camino a SummerSlam.
 
+### Sesión 2026-08-01 s10 — Cae por sumisión en la final del gauntlet ante Chad Gable
+
+**Cita verbatim**:
+
+> *"Gable y Ethan Page pusieron una gran lucha, muy buenos gimmicks, y se merecen las 3 clases tambien estos 2"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **Perfect Match**, entrando último al gauntlet —posición protegida— para hacer el job por Ankle Lock ante Chad Gable, que se corona nuevo contendiente al Intercontinental.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de NXT Champion run.
@@ -280,6 +290,7 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-13-chad-gable-vs-ethan-page-gauntlet-wwe-raw.md`](../matches/2026-07-13-chad-gable-vs-ethan-page-gauntlet-wwe-raw.md)
 - [`../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md`](../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md)
 - [`../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md`](../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md)
 - [`../segments/2026-06-08-ethan-page-promo-byron-saxton-wwe-raw.md`](../segments/2026-06-08-ethan-page-promo-byron-saxton-wwe-raw.md)

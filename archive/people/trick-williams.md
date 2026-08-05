@@ -172,6 +172,16 @@ y
 
 **Lectura sintética**: **FS+WE.** Retiene el United States Championship pese al engaño de Saints con el kendo stick (incrimina a Lil Yachty, lo hace expulsar); cierra con Lemon Pepper Steppers, Book End y Trick Shot. Yachty vuelve al post-match y le da a Saints su propia dosis con un People's Elbow.
 
+### Sesión 2026-08-01 s10 — Cuarto capítulo por el US Title, interrumpido por Baron Corbin
+
+**Cita verbatim**:
+
+> *"solo Trick tiene algunos momentos que le falta pulir [...] está cool que los protejan con una intervención, solo que nunca me gustó Corbin, no me emocionó mucho, pero para lucha en cuestión, estuvo impecable"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **Triple clase** defendiendo el US Championship ante Carmelo Hayes, con reserva puntual (*"algunos momentos que le falta pulir"*). El regreso de Baron Corbin corta el match sin desgaste de derrota limpia para ninguno — *"nunca me gustó Corbin"* es reserva de gusto personal, no de ejecución.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main
@@ -187,6 +197,8 @@ y
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-10-trick-williams-vs-carmelo-hayes-4-wwe-smackdown.md`](../matches/2026-07-10-trick-williams-vs-carmelo-hayes-4-wwe-smackdown.md)
+- [`../segments/2026-07-10-trick-williams-lil-yachty-backstage-wwe-smackdown.md`](../segments/2026-07-10-trick-williams-lil-yachty-backstage-wwe-smackdown.md)
 - [`../matches/2026-06-27-trick-williams-vs-ricky-saints-wwe-night-of-champions.md`](../matches/2026-06-27-trick-williams-vs-ricky-saints-wwe-night-of-champions.md)
 - [`../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md`](../segments/2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md)
 - [`../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md`](../segments/2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md)

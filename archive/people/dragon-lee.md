@@ -68,6 +68,7 @@ tags: [dragon-lee, lucha-mexicana, casas-family-legacy, njpw-junior-heavyweight,
 
 ## Piezas relacionadas
 
+- [`../matches/2026-07-11-mini-vikingo-vs-dragon-lee-vs-jack-cartwheel-aaa-on-fox.md`](../matches/2026-07-11-mini-vikingo-vs-dragon-lee-vs-jack-cartwheel-aaa-on-fox.md)
 - [`../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md`](../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md)
 - [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)
 - [`../matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md`](../matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md)
@@ -94,6 +95,16 @@ tags: [dragon-lee, lucha-mexicana, casas-family-legacy, njpw-junior-heavyweight,
 > — El Vehemiurgo, 2026-08-01 s07 (verbatim)
 
 **Lectura sintética**: **FS + WE.** Arranque en ráfaga —running hurricanrana, dropkick, una suicide plancha con tanto impulso que termina sobre la mesa de comentaristas— antes de caer por un low blow no visto por el réferi. Llega al match respaldado explícitamente por **Rey Mysterio** (que le recuerda el desenmascaramiento) y **Penta** (pep talk en español).
+
+### Sesión 2026-08-01 s10 — Perfect Match en el opener de AAA, con reserva puntual de strikes
+
+**Cita verbatim**:
+
+> *"se les hace fácil con esta escuela de méxico poner luchas brutales y reales, muy buen selling [...] excepto por unos strikes innecesarios entre Cartwheel y Dragon Lee"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **Perfect Match**, con reserva técnica puntual sobre strikes innecesarios contra Jack Cartwheel. Aplica el Styles Clash que deja a Cartwheel listo para el 630 de Mini Vikingo.
 
 ## Pendientes
 

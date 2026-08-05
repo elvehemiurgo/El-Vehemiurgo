@@ -129,6 +129,16 @@ de stakes en la división tag. Ver
 
 **Lectura sintética**: **WE para el segmento con Liv Morgan.** Confirma en pantalla la lectura de s03: el Vehemiurgo ya pedía verla *"como protagonista ya mismo"* y anticipaba tensión con Raquel Rodríguez. Acá esa tensión se activa — **sospecha de Liv, con secretos propios sin revelar**.
 
+### Sesión 2026-08-01 s10 — Perfect Match como heel ejecutora del Judgment Day contra Iyo Sky
+
+**Cita verbatim**:
+
+> *"ahora que Roxanne está más establecida en RAW, es perfecto verla trabajar con face Iyo, muy buen showcase para la heel y vendió por completo el gimmick"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **Perfect Match** — showcase de heel plena, ya establecida en el roster de Raw. Distrae al réferi con ayuda de Raquel Rodríguez para forzar el finish. Participa después en la emboscada de facción contra Sky.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.
@@ -137,6 +147,8 @@ de stakes en la división tag. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-13-roxanne-perez-vs-iyo-sky-wwe-raw.md`](../matches/2026-07-13-roxanne-perez-vs-iyo-sky-wwe-raw.md)
+- [`../segments/2026-07-13-judgment-day-emboscada-iyo-sky-wwe-raw.md`](../segments/2026-07-13-judgment-day-emboscada-iyo-sky-wwe-raw.md)
 - [`../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md`](../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md)
 - [`../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md`](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)
 - [`../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md`](../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md)

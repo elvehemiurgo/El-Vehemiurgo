@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tama-tonga
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Tama Tonga"
   - "Cobertura NJPW (2010–2024) — Bullet Club / Bullet Club Guerrillas / War Dogs"
@@ -109,6 +109,16 @@ sección 12.
 
 (Pendiente.)
 
+### Sesión 2026-08-01 s10 — Vendido como heel midcard creíble tras el éxodo de los MFTs
+
+**Cita verbatim**:
+
+> *"vemos a Tama hablando más, de hecho es entretenido y es cool, aprovechar todo el pasado del bulletclub como subtexto estuvo cool [...] tienen esta impronta de dinastia con su padre Haku"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE** en su derrota ante Finn Bálor. El match cumplió su función declarada: *"vender a Tama como heel midcard creíble en TV"*, con el pasado del Bullet Club como subtexto y la impronta de dinastía —hijo de Haku— sosteniendo el acto.
+
 ## Pendientes / huecos
 
 - [ ] Cronología Bullet Club / Bullet Club Guerrillas / War Dogs
@@ -122,5 +132,6 @@ sección 12.
 
 ## Piezas relacionadas
 
+- [`../matches/2026-07-10-finn-balor-vs-tama-tonga-wwe-smackdown.md`](../matches/2026-07-10-finn-balor-vs-tama-tonga-wwe-smackdown.md)
 - [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md).
 - [`solo-sikoa.md`](./solo-sikoa.md) — líder faction actual.

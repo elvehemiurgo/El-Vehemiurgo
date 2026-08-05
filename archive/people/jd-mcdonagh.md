@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jd-mcdonagh
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — JD McDonagh"
   - "Insight with Chris Van Vliet — entrevista 13 mar 2025 (lesión pulmón perforado)"
@@ -103,6 +103,16 @@ sección 3.
 
 (Pendiente.)
 
+### Sesión 2026-08-01 s10 — Promo efectiva atrapada en un ángulo "muy mid" con Danhausen
+
+**Cita verbatim**:
+
+> *"son efectivos y ya saben hablar como wrestlers en tv, pero están en un ángulo con Danhausen asi que es muy mid todo"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: Sin clase — la reserva sobre el ángulo pesa sobre el conjunto. Elogio de oficio real: *"ya saben hablar como wrestlers en TV"*, con la expectativa de que consigan un rival de mayor peso pronto.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut profesional.
@@ -175,6 +185,7 @@ superado, no como valor agregado. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-13-jd-mcdonagh-dominik-promo-danhausen-wwe-raw.md`](../segments/2026-07-13-jd-mcdonagh-dominik-promo-danhausen-wwe-raw.md)
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — vignette dual con Bálor.
 - [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md)

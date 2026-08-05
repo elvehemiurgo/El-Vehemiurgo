@@ -138,6 +138,16 @@ canta sobrevivió al call-up WWE"*.)
 
 **Lectura sintética**: **WE.** En entrevista backstage con Byron Saxton, reclama el Intercontinental Championship de Penta y le canta a Logan Paul la canción que le escribió sobre él — la referencia es del propio Hendry, no lectura externa, confirmando que compite deliberadamente en el terreno del micrófono de los "considerados buenos".
 
+### Sesión 2026-08-01 s10 — "El peak del entretenimiento en 2026" ante Dominik Mysterio
+
+**Cita verbatim**:
+
+> *"es el peak del enterteinment en 2026, estos dos han conseguido cosas geniales en sus carreras recientemente, y se supone quie son must see tv [...] decisión rara quemar a Hendry así limpiamente en esta estipulación, parece que pasará una temporada como luchador de comedia principalmente asi como danhausen"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE** con la declaración de máximo nivel del Vehemiurgo: *"el peak del entretenimiento en 2026"*. Pierde la primera caída del gauntlet ante Dominik Mysterio (con ayuda de JD McDonagh), con reserva de booking sobre quemarlo tan limpio — proyección de que pasará una temporada como luchador de comedia antes de una historia competitiva.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas TNA World Title run.
@@ -189,6 +199,7 @@ un nuevo feud en el main roster. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-13-dominik-mysterio-vs-joe-hendry-wwe-raw.md`](../matches/2026-07-13-dominik-mysterio-vs-joe-hendry-wwe-raw.md)
 - [`../segments/2026-07-06-joe-hendry-promo-backstage-wwe-raw.md`](../segments/2026-07-06-joe-hendry-promo-backstage-wwe-raw.md)
 - [`matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md`](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md).
 - [`../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md)

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: finn-balor
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Finn Bálor"
   - "Insight with Chris Van Vliet — entrevistas varias"
@@ -153,6 +153,16 @@ sección 5.
 2026-05-09; segmento del 20/4 con Bálor como contraplano de
 McDonagh.)
 
+### Sesión 2026-08-01 s10 — Vence a Tama Tonga y siembra a CM Punk en la misma noche
+
+**Cita verbatim**:
+
+> *"esta lucha debia vender a Tama como heel midcard creible en tv, así que dieron una lucha de tv bien ejecutada [...] Finn sigue en el kayfabe como ex campeón dificil de derrotar así que está bien, y es coherente con su nuevo repertorio má conservador donde cabe, pero sigue dandonos un especáculo como en los días del Prince"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE** en su match vs Tama Tonga (Coup de Grâce tras suicide senton) y **WE en el foreshadowing con CM Punk** la misma noche. Sigue funcionando en kayfabe como *"ex campeón difícil de derrotar"*, con un repertorio *"más conservador"* que igual da espectáculo *"como en los días del Prince"*.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de los runs como Demon gimmick.
@@ -262,6 +272,8 @@ superado, no como valor agregado. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-10-finn-balor-vs-tama-tonga-wwe-smackdown.md`](../matches/2026-07-10-finn-balor-vs-tama-tonga-wwe-smackdown.md)
+- [`../segments/2026-07-10-finn-balor-foreshadowing-cm-punk-wwe-smackdown.md`](../segments/2026-07-10-finn-balor-foreshadowing-cm-punk-wwe-smackdown.md)
 - [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md)
   — vignette dual con McDonagh.
 - [`../matches/2026-03-23-dominik-vs-penta-wwe-raw.md`](../matches/2026-03-23-dominik-vs-penta-wwe-raw.md)

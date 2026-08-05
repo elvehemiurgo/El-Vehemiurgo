@@ -240,6 +240,16 @@ fértil sobre cross-pollination cultural sostenida**.
 
 **Lectura sintética**: Sin clase (regla del "ok"). Cobra la afrenta del 8/6 con 619 + frog splash ante Ethan Page, que había intentado arrancarle la máscara antes del side slam. La serie no cierra acá: Page se cobra revancha el 27/7.
 
+### Sesión 2026-08-01 s10 — Bloquea a Dorian Roldán y declara vacante el título Latinoamericano
+
+**Cita verbatim**:
+
+> *"el ratito entre Omos y Mysterio estuvo cool tambien, tenia a la gente interesada, realmetne los fans hicieron que esta parte del segmente fuera cool"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE**, con el mérito puesto en la reacción del público. Como GM de AAA, bloquea el intento de Dorian Roldán de coronar a Omos campeón Latinoamericano por decreto, y termina declarando el título vacante tras que Omos le estrellara el cinturón en el pecho.
+
 ## Pendientes / huecos
 
 - [ ] **WCW Halloween Havoc 1997 mask match vs Eddie** —
@@ -285,6 +295,7 @@ Noche de los Grandes (AAA). Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-11-omos-rey-mysterio-titulo-vacante-aaa-on-fox.md`](../segments/2026-07-11-omos-rey-mysterio-titulo-vacante-aaa-on-fox.md)
 - [`../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md`](../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md)
 - [`../matches/2026-06-08-penta-vs-rey-mysterio-wwe-raw.md`](../matches/2026-06-08-penta-vs-rey-mysterio-wwe-raw.md)
 - [`../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md`](../segments/2026-06-08-post-match-caos-ethan-page-rusev-chad-gable-wwe-raw.md)

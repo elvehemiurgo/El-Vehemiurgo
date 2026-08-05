@@ -121,6 +121,7 @@ catalizador de la proyección de carrera de Oba Femi. Ver
 
 ## Piezas relacionadas
 
+- [`../segments/2026-07-13-brock-lesnar-oba-femi-policia-wwe-raw.md`](../segments/2026-07-13-brock-lesnar-oba-femi-policia-wwe-raw.md)
 - [`../segments/2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md`](../segments/2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md)
 - [`../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md`](../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md)
 - [`../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md`](../matches/2002-10-31-brock-lesnar-vs-rey-mysterio-wwe-smackdown.md)
@@ -150,6 +151,16 @@ catalizador de la proyección de carrera de Oba Femi. Ver
 > — El Vehemiurgo, 2026-08-01 s08 (verbatim)
 
 **Lectura sintética**: **WE.** Interrumpe la coronación de Oba Femi como King of the Ring con un F5 tras low blow, y acepta saldar la serie empatada 1-1 de Clash in Italy con un tercer capítulo: **Hell in a Cell en SummerSlam**.
+
+### Sesión 2026-08-01 s10 — Usa a la policía contra Oba Femi, y termina huyendo
+
+**Cita verbatim**:
+
+> *"el segmento de Brock y Oba al final la última parte si fue enterteinment, se merece un WE buenos minutos de programación"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE**, acotada al cierre cómico: Heyman despliega una orden de restricción y policías contra Femi, que los destroza a todos, obligando a Lesnar y Heyman a huir corriendo. Confirma el Hell in a Cell de SummerSlam.
 
 ## Pendientes
 

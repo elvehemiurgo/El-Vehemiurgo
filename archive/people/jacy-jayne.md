@@ -154,6 +154,16 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
 
 **Lectura sintética**: **Sin clase, por regla del *"ok"*** (*"hasta ahora han tenido promos ok"*). Pero el registro es de **expectativa nombrada con precisión**: falta **la promo auditando el locker room y lanzando una pipebomb** — *"lo hizo en NXT, lo hizo en TNA"*. El Vehemiurgo la reclama **por precedente propio de la worker**, y da el argumento: *"tiene mucho material mid para insultar"*. **Seguimiento**: una semana después (5/6) **estaba por empezar la pipebomb y decide meterse con las campeonas** — corta el discurso y va a la acción, y ese segmento sí se lleva WE. El hilo sigue abierto.
 
+### Sesión 2026-08-01 s10 — Ya pagaron suficientes pins — hora de ganar títulos
+
+**Cita verbatim**:
+
+> *"ok tuvieron que poner over a gante mid que son campeonas, pero creo que ya pagaron suficientes pins, ahora pueden empezar a ganar luchas titulares, y como siempre las promos de Jayce se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE, "como siempre"**, para el recap de Fatal Influence. El Vehemiurgo marca un punto de inflexión de booking con fecha declarada: el trío ya cumplió su cuota de poner over a las veteranas y debería empezar a ganar títulos.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.
@@ -166,6 +176,7 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-07-10-recap-fatal-influence-wwe-smackdown.md`](../segments/2026-07-10-recap-fatal-influence-wwe-smackdown.md)
 - [`../segments/2026-05-29-fatal-influence-interrumpe-campeonas-wwe-smackdown.md`](../segments/2026-05-29-fatal-influence-interrumpe-campeonas-wwe-smackdown.md)
 - [`../segments/2026-06-05-jacy-jayne-promo-backstage-wwe-smackdown.md`](../segments/2026-06-05-jacy-jayne-promo-backstage-wwe-smackdown.md)
 - [`promotions/fatal-influence.md`](../promotions/fatal-influence.md)

@@ -55,6 +55,16 @@ psicología.
 
 **Lectura sintética**: **Perfect Match** disparado por rechazar el reclutamiento forzado de **The Vision** (Logan Paul, en TV pese a estar lesionado, le exige unirse; Evans dice que no). El elogio es de fondo: **"puede armar luchas excelentes con quien sea"** — mérito atribuido al talent, no al contexto. Gana por DQ tras un spear de Bron Breakker. **Street Profits hacen el save** post-match, armando un title match para la semana siguiente. La misma semana disputa la semifinal del **King of the Ring** contra Jey Uso en SmackDown.
 
+### Sesión 2026-08-01 s10 — Perfect Match en el gauntlet — "saca lo mejor de los luchadores más old-school"
+
+**Cita verbatim**:
+
+> *"de verdad se mueven como wrestlers, Jevon saca lo mejor de los luchadores más oldschool, esta fue una dream match con mucha calidad [...] podrían poner una lucha muy impresionante los dos en un PLE"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **Perfect Match** contra Dragon Lee dentro del gauntlet del Intercontinental, con reserva técnica puntual sobre un tropiezo cubierto por selling en vivo. Elimina antes a Dominik Mysterio con ayuda de Danhausen. Proyección: podrían dar una lucha impresionante en un PLE.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -76,6 +86,7 @@ psicología más marcada. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-07-13-jevon-evans-vs-dragon-lee-gauntlet-wwe-raw.md`](../matches/2026-07-13-jevon-evans-vs-dragon-lee-gauntlet-wwe-raw.md)
 - [`../segments/2026-06-15-jevon-evans-the-vision-segmento-wwe-raw.md`](../segments/2026-06-15-jevon-evans-the-vision-segmento-wwe-raw.md)
 - [`../matches/2026-06-15-je-von-evans-vs-austin-theory-wwe-raw.md`](../matches/2026-06-15-je-von-evans-vs-austin-theory-wwe-raw.md)
 - [`../matches/2026-03-23-waller-vs-jevon-evans-wwe-raw.md`](../matches/2026-03-23-waller-vs-jevon-evans-wwe-raw.md)

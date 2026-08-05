@@ -113,6 +113,7 @@ material promocional. Ver
 
 ## Piezas relacionadas
 
+- [`../segments/2026-07-13-brock-lesnar-oba-femi-policia-wwe-raw.md`](../segments/2026-07-13-brock-lesnar-oba-femi-policia-wwe-raw.md)
 - [`../segments/2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md`](../segments/2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md)
 - [`../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md`](../matches/2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md)
 - [`../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md`](../matches/2026-05-31-brock-lesnar-vs-oba-femi-wwe-clash-in-italy.md)
@@ -155,6 +156,16 @@ material promocional. Ver
 > — El Vehemiurgo, 2026-08-01 s08 (verbatim)
 
 **Lectura sintética**: Sin clase propia. Recién coronado King of the Ring (venció a Jey Uso en la final de Night of Champions), es interrumpido por el regreso de Lesnar — F5 tras low blow. Responde retándolo a Hell in a Cell en SummerSlam, cerrando la serie 1-1 con un tercer capítulo.
+
+### Sesión 2026-08-01 s10 — Arrasa con la policía de Heyman en la apertura de Raw
+
+**Cita verbatim**:
+
+> *"el segmento de Brock y Oba al final la última parte si fue enterteinment"*
+>
+> — El Vehemiurgo, 2026-08-01 s10 (verbatim)
+
+**Lectura sintética**: **WE.** Camina hacia el ring pese a la amenaza de arresto y destroza a todos los policías desplegados por Heyman, mandando a huir a Lesnar. Confirma Hell in a Cell en SummerSlam.
 
 ## Pendientes
 
