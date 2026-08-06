@@ -133,6 +133,14 @@ distante.)
 
 **Lectura sintética**: **FS + WE.** Retiene el NXT Women's Championship en la **primera defensa de ese título en la historia de AAA**, superando la interferencia de Las Tóxicas con ayuda de La Catalina y cerrando con su spinning backfist ("305"). Continuidad directa del cruce del 6/6 (Bayley, Vice y La Catalina vs Las Tóxicas) — llega hasta *Verano de Escándalo*, donde pierde el título de parejas mixtas ante La Hiedra y Laredo Kid.
 
+### Sesión 2026-08-01 s12 — Su título mixto queda en la mira de La Hiedra y Laredo Kid
+
+**Contexto**: campeona del AAA World Mixed Tag Team Championship junto
+a Mr. Iguana desde el 7/2/2026. El triunfo de La Hiedra & Laredo Kid
+(AAA Worldwide, 18/7/2026) los deja como contendientes #1. Research
+confirma que pierden el título ante ellos en Verano de Escándalo
+(25/7/2026), fuera de esta ventana.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de obtención del NXT Women's Title (Stand &

@@ -136,6 +136,26 @@ contraste de tamaño/estilo a favor de las heels jóvenes. Ver
 
 **Lectura sintética**: **Sin clase para el match, pero mención directa dentro del veredicto de triple clase reservado para Fatal Influence.** El Vehemiurgo la señala guiando literalmente a Brie Bella dentro del combate — la nueva generación conduciendo a las veteranas. Research confirma que el match fue **no titular** contra Scream Mode (Brie Bella & Paige), y que perdieron por una reversión de Brie sobre el small package de Fallon.
 
+### Sesión 2026-08-01 s12 — Se corona campeona de parejas con Fatal Influence
+
+**Contexto**: Saturday Night's Main Event NYC, 18/7/2026. Fatal
+Influence (Henley & Lainey Reid) vencen a Paige & Brie Bella por el
+WWE Women's Tag Team Championship, con Jacy Jayne interviniendo desde
+el ringside en el conteo final.
+
+**Cita verbatim**:
+
+> *"fue todo lo que esperaba de una oportunidad para Fallon y Layne, se
+> vieron increible [...] el selling y estilo de Fatal Influence levanta
+> cualquier lucha, lo mantuvieron real [...] al final la coronación les
+> quedó bien, y empieza el reinado, muy buena acción, me encantan sus
+> luchas"*
+>
+> — El Vehemiurgo, 2026-08-01 s12 (verbatim)
+
+**Lectura sintética**: sin clase declarada, elogio de conjunto.
+Termina un reinado de 92 días y 4 defensas de Paige & Brie Bella.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

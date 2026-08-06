@@ -43,6 +43,17 @@ tags: [mr-iguana, aaa, wrestling-entertainment, primer-registro-individual]
 **Lectura sintética**: primer registro individual, sin
 protagonismo singularizado.
 
+### Sesión 2026-08-01 s12 — Su título mixto queda en la mira de La Hiedra y Laredo Kid
+
+**Contexto**: research revela que el triunfo de La Hiedra & Laredo Kid
+sobre Joaquín Wilde & Faby Apache (AAA Worldwide, 18/7/2026) los deja
+como contendientes #1 al **AAA World Mixed Tag Team Championship**,
+que Mr. Iguana comparte con **Lola Vice** desde el 7/2/2026. Mr.
+Iguana es ex pareja en trama de La Hiedra — el motor narrativo del
+"amor" que cita el Vehemiurgo. Confirmado por research: pierde el
+título ante Hiedra/Laredo en Verano de Escándalo (25/7/2026), fuera de
+esta ventana.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

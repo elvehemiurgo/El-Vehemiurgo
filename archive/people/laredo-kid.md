@@ -103,6 +103,18 @@ queda posicionado del otro lado. Ver
 
 **Lectura sintética**: **Perfect Match** como retador en el 3-way por el **AAA World Cruiserweight Championship** ante Rey Fénix y Lince Dorado, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo`. Ver [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md).
 
+### Sesión 2026-08-01 s12 — Motivado tras el ángulo con Fénix, forma equipo con La Hiedra
+
+**Contexto**: AAA Worldwide, 18/7/2026. Distrae a Faby Apache para que
+La Hiedra remate con Stunner — el Vehemiurgo lo lee como wrestler
+"motivado después de su ángulo con Fénix". Research confirma:
+Laredo Kid perdió el AAA World Cruiserweight Championship ante Rey
+Fénix en Noche de los Grandes (30/5/2026) tras retener tramposamente
+el 23/5; hubo triple threat de continuidad el 20/6 (Fénix vs Laredo Kid
+vs Lince Dorado).
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -177,6 +177,17 @@ favoritos, pero funcional como corporate darling egoísta, contraste
 directo con Cody. Match termina en no contest por interferencia de
 Sami Zayn sobre CM Punk.
 
+### Sesión 2026-08-01 s12 — Pierde el main event de SNME por el screwjob de Nick Aldis
+
+**Contexto**: Saturday Night's Main Event NYC, 18/7/2026. Gunther
+recupera el título indisputado y powerbombea a Cody Rhodes con él; Nick
+Aldis saca al réferi sustituto y golpea a Gunther con el cinturón,
+pagando una cuenta pendiente desde que Gunther lo atacó en el
+SmackDown del 10/7. Punk remata con GTS.
+
+**Lectura sintética**: **PW·FS·WE** en el match (declarada sobre el
+conjunto). Abre arco Gunther vs Aldis camino a SummerSlam.
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo

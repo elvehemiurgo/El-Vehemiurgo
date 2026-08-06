@@ -94,6 +94,16 @@ y
 
 **Lectura sintética**: **Perfect Match con reserva técnica puntual** sobre sus strikes innecesarios. Pierde el título de tag de NXT junto a su hermano Galeno del Mal, pero el Vehemiurgo temía un jobbeo y en cambio los vio protegidos en la derrota — "victoria importantísima para Vanity Project", no devaluación de los retadores.
 
+### Sesión 2026-08-01 s12 — Gana el three-way, primer clasificado a Triplemanía 34
+
+**Contexto**: AAA Worldwide, 18/7/2026 (taping 11/7). Vence a Texano
+Jr. y Abismo Negro Jr. a los 8:35 con discus strike + Wagner Driver,
+tras fallar Abismo un golpe con nudillera. Queda como primer
+clasificado confirmado a un Fatal 4-Way por el AAA Latin American
+Championship vacante, Triplemanía 34.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [x] ~~Confirmar identidad exacta~~ → **RESUELTO (s45)**: es

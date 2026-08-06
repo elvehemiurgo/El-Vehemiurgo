@@ -54,6 +54,18 @@ dentro de un segmento WE.
 
 **Lectura sintética**: Primer registro individual, y es la pieza doctrinal más dura del volcado. El Vehemiurgo la usa como caso testigo de la **crítica a la Divas Revolution**: célebre por cooperar con John Laurinaitis, presentada como parte de un lavado de imagen orquestado por Stephanie McMahon. Research confirma el dato duro: es campeona de parejas junto a **Paige ("Scream Mode")**, ganado en WrestleMania 42, y esta vez **retiene** ganándole a Fatal Influence (no titular) revirtiendo el small package de Fallon Henley.
 
+### Sesión 2026-08-01 s12 — Pierde el título de parejas, "el asterisco de la lucha"
+
+**Cita verbatim**:
+
+> *"carrearon a Brie que es el asterisco de la lucha"*
+>
+> — El Vehemiurgo, 2026-08-01 s12 (verbatim)
+
+**Lectura sintética**: sin clase declarada. Crítica contenida —
+desempeño diferenciado respecto a Paige en la misma derrota ante Fatal
+Influence (WWE Women's Tag Team Championship, SNME NYC 18/7/2026).
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad y título** — [verif].

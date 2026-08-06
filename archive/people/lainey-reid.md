@@ -117,6 +117,16 @@ mueve como wrestler real" (s42). Ver
 
 **Lectura sintética**: Sin clase propia (la triple corresponde solo a la participación conjunta de Fatal Influence, según el llamado del Vehemiurgo). Parte del dúo que "luchan círculos alrededor de las veteranas" en el showcase no titular contra Scream Mode.
 
+### Sesión 2026-08-01 s12 — Se corona campeona de parejas con Fatal Influence
+
+**Contexto**: mismo match que Fallon Henley (ver su ficha para la cita
+completa) — Saturday Night's Main Event NYC, 18/7/2026. Reid participa
+en el trío de Fatal Influence; Jacy Jayne interviene desde el ringside
+para sellar el título.
+
+**Lectura sintética**: sin clase declarada, elogio de conjunto al
+estilo y selling de Fatal Influence.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

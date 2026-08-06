@@ -270,6 +270,21 @@ Punk (no estrictamente "post match" sino durante), derivando en el
 brawl grupal de cierre. Adam Pearce anunció el stipulation hacia
 SummerSlam.
 
+### Sesión 2026-08-01 s12 — Gana el main event de SNME; "dos eras colisionando" con Zayn
+
+**Cita verbatim**:
+
+> *"pensar en Punk vs Zayn es genial, es muy romántico, dos eras del
+> wrestling colisionando en WWE, y con los stakes que les pusieron, es
+> un booking brillante"*
+>
+> — El Vehemiurgo, 2026-08-01 s12 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** en el tag match completo. El
+Vehemiurgo enmarca a Punk vs Zayn como el eje emocional central del
+match, por encima del propio Cody vs Gunther. Punk remata con GTS
+sobre Gunther tras la interferencia de Nick Aldis.
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

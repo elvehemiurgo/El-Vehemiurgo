@@ -128,6 +128,18 @@ sección 4.
 
 **Lectura sintética**: **WE** en AAA salvando a El Grande Americano con una silla y retando a Los Perros del Mal para Verano de Escándalo. **WE también en WWE** el mismo bloque de fechas: su caída ante Joe Hendry en el gauntlet del Intercontinental es *"el peak del entretenimiento en 2026"*, con reserva de booking sobre quemar a Hendry tan limpiamente. Doble aparición de alto perfil en las dos empresas en la misma semana.
 
+### Sesión 2026-08-01 s12 — Reta a Daga y Los Perros del Mal para Verano de Escándalo
+
+**Contexto**: AAA Worldwide, 18/7/2026. En el segmento de Los Perros
+del Mal (ver [`daga.md`](./daga.md)), **Daga acepta un reto de tag
+lanzado por Dominik Mysterio** para Verano de Escándalo (25/7/2026),
+continuando el ángulo Perros del Mal / El Grande Americano ya en curso
+desde el 11/7.
+
+**Lectura sintética**: sin clase declarada — dato de continuidad, no
+comentado directamente por el Vehemiurgo en este volcado más allá del
+segmento de Daga.
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.

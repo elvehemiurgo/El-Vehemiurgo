@@ -273,6 +273,23 @@ que Rhodes soltara la llave. El take es en gran parte una teoría de
 personaje sobre Gunther (ver su ficha), con Cody funcionando como
 contraste directo: "corporate darling" generoso vs. tirano egoísta.
 
+### Sesión 2026-08-01 s12 — Gana el main event de SNME gracias al screwjob de Aldis sobre Gunther
+
+**Cita verbatim**:
+
+> *"Cody & Punk vs Gunther & Sami [...] muy emocionante desde el
+> inicio, muy stiff, muy acelerada, muy cardiaca, me encantó, se merece
+> las 3 clases [...] el desenlace con la venganza de Aldis y todo, les
+> quedó muy cool, buen booking, buenos stakes y buena tensión para
+> summer slam"*
+>
+> — El Vehemiurgo, 2026-08-01 s12 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Nick Aldis saca al réferi
+sustituto y golpea a Gunther con el título tras un powerbomb sobre
+Rhodes; Punk remata con GTS y Rhodes se queda con el pin. El título
+indisputado de SummerSlam queda mano a mano Rhodes-Punk.
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

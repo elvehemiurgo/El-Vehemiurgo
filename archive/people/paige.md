@@ -62,6 +62,19 @@ existe).
 
 **Lectura sintética**: Primer registro individual, con el veredicto más frío del archivo sobre ella: parte de la generación de "veteranas mid" cuya nostalgia el Vehemiurgo espera que termine. Compañera de Brie Bella en **Scream Mode**, campeonas de parejas desde WrestleMania 42.
 
+### Sesión 2026-08-01 s12 — Pierde el título de parejas ante Fatal Influence
+
+**Cita verbatim**:
+
+> *"Paige lo hizo muy bien aquí, y carrearon a Brie que es el asterisco
+> de la lucha"*
+>
+> — El Vehemiurgo, 2026-08-01 s12 (verbatim)
+
+**Lectura sintética**: sin clase declarada. Elogio específico a Paige
+por encima de su compañera en la derrota — reinado de 92 días y 4
+defensas termina ante Fatal Influence, con interferencia de Jacy Jayne.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad y título** — [verif].

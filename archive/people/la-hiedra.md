@@ -61,6 +61,26 @@ Lola se lee como desarrollo útil bajo el nuevo régimen TKO.
 
 **Lectura sintética**: **FS + WE.** Primera defensa del **NXT Women's Championship** en la historia de AAA / en México. Ataca antes de la campana buscando un Michinoku Driver rápido, y con apoyo de Las Tóxicas (Flammer distrayendo, Maravilla castigando) casi consigue el título — **La Catalina** neutraliza la interferencia y Lola Vice remata con el spinning backfist.
 
+### Sesión 2026-08-01 s12 — Se adueña de la Stunner, contendiente #1 al título mixto
+
+**Cita verbatim**:
+
+> *"la hiedra tiene mucho carisma, me encanta como enterteiner y tiene
+> una esfera de estratega con las tóxicas y aqui que aprovecha a Laredo
+> motivado despues de su ángulo con Fénix, forma un muy buen team, pone
+> la promo, y consigue su victoria, muy carismatica, muy odiosa, buen
+> combustible, además de que aprovecha para adueñarse de la stunner
+> como finisher, derrotando a Fabi Apache"*
+>
+> — El Vehemiurgo, 2026-08-01 s12 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Vence junto a Laredo Kid a Joaquín
+Wilde & Faby Apache, quedando contendiente #1 al AAA World Mixed Tag
+Team Championship de Mr. Iguana & Lola Vice — el "amor" entre Iguana y
+Vice, con Iguana como ex pareja en trama de Hiedra, es el motor
+narrativo. Research confirma payoff real: le quita el título a
+Iguana/Vice en Verano de Escándalo (25/7/2026).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -41,6 +41,15 @@ tags: [abismo-negro-jr, aaa-2026, los-vipers, el-fiscal, gimmick-heredado-de-ofi
 **DOCTRINA DE LA RIVALIDAD DILATADA** — cronología cerrada por research 2026-08-01: el conflicto de legitimidad de nombre y máscara está activo desde **Triplemanía XXXII (2024)**, cuando El Fiscal casi le aplica el martinete y **Psicosis II lo detiene**. Cuatro capítulos en 2026 sin finish limpio entre ambos, hasta que **Los Perros del Mal secuestran el ángulo** el 4/7. Ver
 [`./el-fiscal.md`](./el-fiscal.md).
 
+### Sesión 2026-08-01 s12 — Cae en el three-way clasificatorio a Triplemanía 34
+
+**Contexto**: AAA Worldwide, 18/7/2026 (taping 11/7). Pierde ante El
+Hijo de Dr. Wagner Jr. tras fallar un golpe con nudillera —
+Texano Jr. completa el three-way.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo, sin
+distinción individual en la derrota.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

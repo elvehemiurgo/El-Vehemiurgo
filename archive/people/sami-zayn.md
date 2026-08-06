@@ -133,6 +133,21 @@ dato real de que Zayn perdió el US Championship ante Trick Williams en
 WrestleMania 42, aunque no está confirmada como diálogo on-air de este
 segmento específico.
 
+### Sesión 2026-08-01 s12 — "Dos eras colisionando" con Punk en el main event de SNME
+
+**Cita verbatim**:
+
+> *"luego Sami y Punk con el brawl super intenso, el booking si se
+> apretó las últimas dos semanas antes de este show, y definió el peak
+> de ambas rivalidades [...] pensar en Punk vs Zayn es genial, es muy
+> romántico, dos eras del wrestling colisionando en WWE"*
+>
+> — El Vehemiurgo, 2026-08-01 s12 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** en el match completo. El
+Vehemiurgo posiciona a Zayn como contraparte generacional de Punk,
+el eje emocional del tag match de SNME.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

@@ -21,6 +21,10 @@ con cada cambio de estado.
 | 2026-07-26 | Ladder match (opener) | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-ladder-match-opener-aew-redemption.md) |
 | 2026-07-22 | Jay White vs Clark Connors | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md) |
 | 2026-07-22 | Darby Allin vs Kevin Knight | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md) |
+| 2026-07-18 | La Hiedra & Laredo Kid vs Joaquín Wilde & Faby Apache | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-07-18-la-hiedra-laredo-kid-vs-joaquin-wilde-faby-apache-aaa-worldwide.md) |
+| 2026-07-18 | Texano Jr. vs El Hijo de Dr. Wagner Jr. vs Abismo Negro Jr. | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-07-18-texano-jr-vs-hijo-de-dr-wagner-jr-vs-abismo-negro-jr-aaa-worldwide.md) |
+| 2026-07-18 | Cody Rhodes & CM Punk vs Gunther & Sami Zayn | WWE / Saturday Night's Main Event | PW·FS·WE | en-investigacion | 1 | [→](2026-07-18-cody-rhodes-cm-punk-vs-gunther-sami-zayn-wwe-snme.md) |
+| 2026-07-18 | Fatal Influence (Fallon Henley & Lainey Reid) vs Paige & Brie Bella | WWE / Saturday Night's Main Event | — | en-investigacion | 1 | [→](2026-07-18-fatal-influence-vs-paige-brie-bella-wwe-snme.md) |
 | 2026-07-17 | Cody Rhodes vs Gunther | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-17-cody-rhodes-vs-gunther-wwe-smackdown.md) |
 | 2026-07-17 | Trick Williams vs Carmelo Hayes (5ta) | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-07-17-trick-williams-vs-carmelo-hayes-5-wwe-smackdown.md) |
 | 2026-07-17 | Jacy Jayne vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-17-jacy-jayne-vs-tiffany-stratton-wwe-smackdown.md) |

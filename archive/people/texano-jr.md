@@ -44,6 +44,18 @@ tags: [texano-jr, aaa, el-grande-americano, sin-clase, primer-registro-individua
 **Lectura sintética**: primer registro individual — su rol es de
 validador de veteranía para el gimmick de El Grande Americano.
 
+### Sesión 2026-08-01 s12 — Three-way clasificatorio hacia Triplemanía 34
+
+**Cita verbatim**: ver ficha del match para el texto completo — *"la
+lucha buenisima, se merece las 3 clases, AAA siempre produce peleas asi
+brutales y stiff y oldschool"*.
+
+— El Vehemiurgo, 2026-08-01 s12 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Cae ante El Hijo de Dr. Wagner Jr.
+en la primera qualifying match hacia un Fatal 4-Way por el AAA Latin
+American Championship vacante en Triplemanía 34.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
