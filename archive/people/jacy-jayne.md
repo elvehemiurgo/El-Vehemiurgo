@@ -164,6 +164,27 @@ ortodoxa"* — caso paradigmático de la doctrina old-school.)
 
 **Lectura sintética**: **WE, "como siempre"**, para el recap de Fatal Influence. El Vehemiurgo marca un punto de inflexión de booking con fecha declarada: el trío ya cumplió su cuota de poner over a las veteranas y debería empezar a ganar títulos.
 
+### Sesión 2026-08-01 s11 — Clasificatorio al Interim Ladder Match vs Tiffany Stratton
+
+**Cita verbatim**:
+
+> *"Jacy vs Tiffany fue un espectaculo [...] Jacy obvio siempre pone
+> todo muy oldschool, me gusta mucho como heel en tv [...] esta lucha
+> se merece las 3 clases [...] hay partes donde Jacy se queda atras por
+> el atletismo de Tiffany, pero en vez de verse perdida, se ve
+> abrumada, superada por el estilo de Tiffany, y la protegen lo
+> suficiente para que se pierda summerslam pero no se vea debil"*
+>
+> — El Vehemiurgo, 2026-08-01 s11 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**, triple clase. Research corrige la
+estipulación: no fue defensa de título de Stratton, sino clasificatorio
+al Interim WWE Women's Championship Ladder Match de SummerSlam. Jayne
+pierde protegida — "abrumada, superada", no "perdida" — con la reserva
+del propio Vehemiurgo de que aún le falta alcanzar a Tiffany en el
+kayfabe. Especulación editorial (no instrucción de archivo): posible
+programación futura como "la anti-Chelsea" frente a Chelsea Green.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.

@@ -111,6 +111,20 @@ y
 
 **Lectura sintética**: **WE en su promo** contra Lil Yachty, con receta de carrera explícita del Vehemiurgo (*"hacer un LA Knight"*). **Triple clase en el cuarto capítulo contra Trick Williams**, interrumpido por el regreso de Baron Corbin — *"pisa el acelerador"* frente a un Trick con margen de pulido.
 
+### Sesión 2026-08-01 s11 — No contest vs Trick Williams (5ta), interferencia de Baron Corbin
+
+**Contexto**: el mismo super-segmento elogiado sobre la división del US
+Championship — ver ficha de Trick Williams para la cita completa.
+Research confirma que el match del 17/7 terminó en **no contest** por
+interferencia de **Baron Corbin** ("The Nomad"); segmento backstage
+posterior donde Hayes acusa a Williams de buscar un "loophole" para no
+defenderle el título.
+
+**Lectura sintética**: sin clase declarada para este match puntual —
+elogio de conjunto a Hayes y Williams como "completos
+wrestler-entertainers" que sostuvieron el prestigio del US
+Championship vía promos y segmentos.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (run NXT + main

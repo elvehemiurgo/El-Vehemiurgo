@@ -145,6 +145,25 @@ brecha generacional entre ambas. Ver
 
 **Lectura sintética**: Sin clase. Confirmado como **WWE Women's United States Champion** en esta fecha (título ganado a Giulia el 24/4). Salvada por Chelsea Green de un ataque de Michin y B-Fab durante una entrevista backstage.
 
+### Sesión 2026-08-01 s11 — Se clasifica al Interim Ladder Match venciendo a Jacy Jayne
+
+**Cita verbatim**:
+
+> *"jamás vi a Tiffy tan pro, incluso metiendo unos chops, de hecho
+> imitando timing de main eventer, me gustó la evolución [...] esta
+> lucha se merece las 3 clases, de verdad se lucieron aqui, pusieron
+> algo muy oldschool, les quedó cool, nada indie, pero si tuvo mucho
+> protagonismo los fans y los comentaristas"*
+>
+> — El Vehemiurgo, 2026-08-01 s11 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Research confirma: Stratton
+contrarresta el Rolling Encore de Jayne y remata con Prettiest
+Moonsault Ever, siendo la primera mujer en clasificarse al Interim WWE
+Women's Championship Ladder Match de SummerSlam (no defensa de su
+propio título). Evolución de performer destacada explícitamente por el
+Vehemiurgo — "timing de main eventer".
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

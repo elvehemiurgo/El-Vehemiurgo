@@ -155,6 +155,28 @@ Ver
 
 **Lectura sintética**: **FS+WE en Night of Champions**, perdiendo el Undisputed en un roll-up de último segundo. Una semana después, **WE por el ataque a Cody Rhodes en el estacionamiento** —powerbomb a través de una mesa, puertazo de auto— y la promo donde le declara la guerra a Sami Zayn, llamándolo *"fluke"*. Origen: culpó a Nick Aldis por costarle el título, lo que deriva en **Gunther vs Aldis en SummerSlam**.
 
+### Sesión 2026-08-01 s11 — No contest vs Cody Rhodes; teoría de personaje del Vehemiurgo
+
+**Cita verbatim**:
+
+> *"no sé si están desnaturalizando el booking de Gunther, o más bien
+> evolucionando [...] no va a ser una bestia como Brock, ni es un
+> fenómeno físico como Oba, sino que tiene los stats perfectamente
+> optimizados, incluyendo el stat de politiqueo backstage y psicología
+> muy fuerte [...] a su forma es también un corporate darling, es el
+> sueño de cualquier ejecutivo en TKO, pero es egoísta, no es como
+> Cody, es un tirano [...] esta lucha se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s11 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. El Vehemiurgo articula la
+mitología de Gunther como ring general de "stats optimizados"
+(incluyendo politiqueo backstage), distinto de Lesnar (bestia) u Oba
+Femi (fenómeno físico) — heel que se alimenta de odio y frustrar
+favoritos, pero funcional como corporate darling egoísta, contraste
+directo con Cody. Match termina en no contest por interferencia de
+Sami Zayn sobre CM Punk.
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo

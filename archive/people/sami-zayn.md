@@ -113,6 +113,26 @@ Ver
 
 **Lectura sintética**: **WE** para la recapitulación de su promo furiosa del 6/7. La reserva es de tratamiento televisivo —*"deberían de haberlo extendido"*— no de contenido.
 
+### Sesión 2026-08-01 s11 — Ataca a CM Punk, resentido tras perder el US Championship
+
+**Cita verbatim**:
+
+> *"ya había destacado a Sami resentido después de perder el título, y
+> aqui en este post match ataca a Punk y de verdad vende su
+> frustración, está muy bien hehco, y el brawl tambien se vendió muy
+> bien, se vio bien oldschool, se merece la WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s11 (verbatim)
+
+**Lectura sintética**: **WE**. Research corrige la secuencia: el
+ataque a Punk ocurre **durante** el match de Cody Rhodes vs Gunther
+(interrumpiendo la Figure-Four), no estrictamente "post match", aunque
+sí deriva en el brawl grupal de cierre. Motivación leída por el
+Vehemiurgo (resentimiento por perder el título) es consistente con el
+dato real de que Zayn perdió el US Championship ante Trick Williams en
+WrestleMania 42, aunque no está confirmada como diálogo on-air de este
+segmento específico.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

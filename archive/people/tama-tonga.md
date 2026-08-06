@@ -119,6 +119,20 @@ sección 12.
 
 **Lectura sintética**: **WE** en su derrota ante Finn Bálor. El match cumplió su función declarada: *"vender a Tama como heel midcard creíble en TV"*, con el pasado del Bullet Club como subtexto y la impronta de dinastía —hijo de Haku— sosteniendo el acto.
 
+### Sesión 2026-08-01 s11 — Interfiere de nuevo, ahora por su hermano
+
+**Contexto**: Finn Bálor vs Talla Tonga, SmackDown 17/7/2026 —
+escalada directa de la derrota de Tama ante Bálor el 10/7. Tama
+interfiere activamente en la esquina de su hermano (clothesline a
+espaldas del réferi, intento de chokebomb) sin éxito — Bálor lo
+neutraliza con DDT y Sling Blade.
+
+**Lectura sintética**: sin clase declarada sobre Tama puntualmente —
+la WE de este match ([`../matches/2026-07-17-finn-balor-vs-talla-tonga-wwe-smackdown.md`](../matches/2026-07-17-finn-balor-vs-talla-tonga-wwe-smackdown.md))
+recae sobre la ejecución de Bálor. Confirma el patrón: Tama como
+ejecutor/respaldo familiar del ángulo, no como protagonista directo de
+esta fecha.
+
 ## Pendientes / huecos
 
 - [ ] Cronología Bullet Club / Bullet Club Guerrillas / War Dogs

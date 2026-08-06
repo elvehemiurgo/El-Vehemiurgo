@@ -21,6 +21,10 @@ con cada cambio de estado.
 | 2026-07-26 | Ladder match (opener) | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-ladder-match-opener-aew-redemption.md) |
 | 2026-07-22 | Jay White vs Clark Connors | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md) |
 | 2026-07-22 | Darby Allin vs Kevin Knight | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md) |
+| 2026-07-17 | Cody Rhodes vs Gunther | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-17-cody-rhodes-vs-gunther-wwe-smackdown.md) |
+| 2026-07-17 | Trick Williams vs Carmelo Hayes (5ta) | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-07-17-trick-williams-vs-carmelo-hayes-5-wwe-smackdown.md) |
+| 2026-07-17 | Jacy Jayne vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-17-jacy-jayne-vs-tiffany-stratton-wwe-smackdown.md) |
+| 2026-07-17 | Finn Bálor vs Talla Tonga | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-07-17-finn-balor-vs-talla-tonga-wwe-smackdown.md) |
 | 2026-07-15 | Komander vs Kyle Fletcher | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md) |
 | 2026-07-15 | Andrade vs Jake Doyle | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md) |
 | 2026-07-14 | Zaria vs Izzi Dame vs Lizzy Rain vs Nikkita Lyons | WWE / NXT | FS·WE | en-investigacion | 1 | [→](2026-07-14-zaria-vs-izzi-dame-vs-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md) |

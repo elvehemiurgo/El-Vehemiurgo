@@ -20,6 +20,9 @@ cada alta y con cada cambio de estado.
 | 2026-07-22 | Post-match: David Finlay interrumpe, Bang Bang Gang salva a Jay White | AEW / Dynamite | post-match / run-in | — | stub | 1 | [→](2026-07-22-post-match-finlay-interrumpe-bang-bang-gang-salva-aew-dynamite.md) |
 | 2026-07-22 | Bang Bang Gang: entrada completa | AEW / Dynamite | entrance / posicionamiento de facción | — | stub | 1 | [→](2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md) |
 | 2026-07-22 | Post-match: Kyle Fletcher interrumpe a Kevin Knight, entra Okada — implosión de la Don Callis Family | AEW / Dynamite | in-ring / tensión de facción | WE | stub | 1 | [→](2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md) |
+| 2026-07-17 | Sami Zayn ataca a CM Punk — brawl de cierre | WWE / SmackDown | brawl / angle | WE | en-investigacion | 1 | [→](2026-07-17-sami-zayn-ataca-cm-punk-wwe-smackdown.md) |
+| 2026-07-17 |  | WWE / SmackDown | face a face / build | WE | en-investigacion | 1 | [→](2026-07-17-cm-punk-cody-rhodes-see-you-tomorrow-wwe-smackdown.md) |
+| 2026-07-17 | LA Knight — recap de su promo en Fanatics Fest NYC | WWE / SmackDown | recap / promo | WE | en-investigacion | 1 | [→](2026-07-17-la-knight-recap-fanatics-fest-wwe-smackdown.md) |
 | 2026-07-15 | Promo backstage: Fletcher (con Okada) vende Bandido para Redemption | AEW / Dynamite | promo backstage | WE | stub | 1 | [→](2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md) |
 | 2026-07-15 | Post-match Komander vs Fletcher: foreshadowing Okada vs Fletcher | AEW / Dynamite | post-match / foreshadowing | — | stub | 1 | [→](2026-07-15-komander-fletcher-post-match-foreshadowing-okada-aew-dynamite.md) |
 | 2026-07-15 | Celebración de Kenny Omega, interrumpida por Kevin Knight | AEW / Dynamite | celebración de título + interrupción | — | stub | 1 | [→](2026-07-15-kenny-omega-celebracion-kevin-knight-interrumpe-aew-dynamite.md) |

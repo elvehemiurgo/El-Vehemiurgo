@@ -247,6 +247,29 @@ la entrada de Cody Rhodes. Ver
 
 **Lectura sintética**: Sin clase propia en el segmento con Candice LeRae y Johnny Gargano (registrado sin clase, regla del "ok"), pero el Vehemiurgo señala que un cruce con Punk era la oportunidad ideal para relanzar el gimmick de LeRae — booking que no se aprovechó del todo. El mismo día, Finn Bálor le da la bienvenida en un foreshadowing con clase WE.
 
+### Sesión 2026-08-01 s11 — "I'll see you tomorrow" con Cody, y el ataque de Sami Zayn
+
+**Cita verbatim**:
+
+> *"el segmento con Punk y Cody con el 'I'll see you tomorrow' y todo,
+> estuvo cool, o sea, son faces entretenidos nada cringe, es un
+> segmento muy bueno, merece una WE class [...] el segmento post match
+> me encantó, ya había destacado a Sami resentido después de perder el
+> título, y aqui en este post match ataca a Punk y de verdad vende su
+> frustración, está muy bien hehco, y el brawl tambien se vendió muy
+> bien, se vio bien oldschool, se merece la WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s11 (verbatim)
+
+**Lectura sintética**: **WE** en ambos segmentos. Research: la línea
+"I'll see you tomorrow" no aparece citada verbatim en cobertura
+externa — se preserva sin confirmación de fuente. Sí confirmado:
+Punk acompañó a Cody en el ringside la víspera de Saturday Night's Main
+Event; Sami Zayn interrumpió el match de Cody vs Gunther atacando a
+Punk (no estrictamente "post match" sino durante), derivando en el
+brawl grupal de cierre. Adam Pearce anunció el stipulation hacia
+SummerSlam.
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

@@ -182,6 +182,25 @@ y
 
 **Lectura sintética**: **Triple clase** defendiendo el US Championship ante Carmelo Hayes, con reserva puntual (*"algunos momentos que le falta pulir"*). El regreso de Baron Corbin corta el match sin desgaste de derrota limpia para ninguno — *"nunca me gustó Corbin"* es reserva de gusto personal, no de ejecución.
 
+### Sesión 2026-08-01 s11 — No contest vs Carmelo Hayes (5ta), interferencia de Baron Corbin
+
+**Cita verbatim**:
+
+> *"tenemos un super segmento con Trick y Melo, son completos wrestlers
+> enterteiners, gimmicks muy fuertes, hicieron que el titulo US se
+> vuelva un Stake importante y codiciado [...] de hecho Trick por si
+> solo todavia debe ponerse más brutal para armar luchas perfectas,
+> pero con el rival correcto si puede emocionarte"*
+>
+> — El Vehemiurgo, 2026-08-01 s11 (verbatim)
+
+**Lectura sintética**: sin clase declarada para este match puntual — el
+elogio es sobre la división del US Championship en conjunto. Research
+revela que el match terminó en **no contest** por interferencia de
+**Baron Corbin** (regresando como "The Nomad"), no mencionado en el
+dictado. Reserva explícita del Vehemiurgo sobre Trick: le falta
+"ponerse más brutal" para armar luchas perfectas.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main

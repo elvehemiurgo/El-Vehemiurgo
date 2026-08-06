@@ -256,6 +256,23 @@ regreso de CM Punk. Ver
 
 **Lectura sintética**: Sin clase propia (WE corresponde al segmento). Sale de vestir, le pregunta a Punk por el ojo morado que él mismo cargó la vez anterior que compartieron ring, y hace el callback a su propia frase post-WrestleMania — *"Just say when"* — para cerrar el match de SummerSlam.
 
+### Sesión 2026-08-01 s11 — "I'll see you tomorrow" y no contest vs Gunther
+
+**Cita verbatim**:
+
+> *"Cody vs Gunther [...] así que esta lucha se merece las 3 clases,
+> Cody y Gunterr hace una gran rivalidad"*
+>
+> — El Vehemiurgo, 2026-08-01 s11 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** en el match vs Gunther; **WE**
+también en el segmento previo con Punk ("I'll see you tomorrow").
+Research confirma que el match terminó en no contest — Sami Zayn
+interrumpió la Figure-Four atacando a CM Punk en el ringside, forzando
+que Rhodes soltara la llave. El take es en gran parte una teoría de
+personaje sobre Gunther (ver su ficha), con Cody funcionando como
+contraste directo: "corporate darling" generoso vs. tirano egoísta.
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

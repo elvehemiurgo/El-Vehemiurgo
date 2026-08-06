@@ -194,6 +194,24 @@ King of the Ring, **Jey Uso lo pinea** tras un Samoan Spike de Solo Sikoa.
 
 **Lectura sintética**: **WE** por su intervención con silla de acero contra Jacob Fatu, rematando el ángulo de la traición de Solo Sikoa. Lanza el reto de six-man tag para SummerSlam: Knight, Solo y Royce Keys vs Fatu y los Usos.
 
+### Sesión 2026-08-01 s11 — Recap de su promo en Fanatics Fest NYC
+
+**Cita verbatim**:
+
+> *"LA Knight otra vez un highlight, recapitulan su segmento en el
+> fanatics fest NYC, una super promo, top tier wrestling, fue épico, LA
+> haciendo lo suyo, revivió el wrestling estas fechas con un retador
+> babyface como LA Knight en television, este segmento se merece un WE
+> class"*
+>
+> — El Vehemiurgo, 2026-08-01 s11 (verbatim)
+
+**Lectura sintética**: **WE**. Research confirma el evento real:
+Fanatics Fest NYC (Javits Center, 16-19/7), donde Knight, junto a
+Royce Keys y Solo Sikoa, se burló de Jey y Jimmy Uso de cara al
+six-man de SummerSlam. Ese material se recapituló en el SmackDown del
+17/7.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

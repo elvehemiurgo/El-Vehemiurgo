@@ -163,6 +163,25 @@ McDonagh.)
 
 **Lectura sintética**: **WE** en su match vs Tama Tonga (Coup de Grâce tras suicide senton) y **WE en el foreshadowing con CM Punk** la misma noche. Sigue funcionando en kayfabe como *"ex campeón difícil de derrotar"*, con un repertorio *"más conservador"* que igual da espectáculo *"como en los días del Prince"*.
 
+### Sesión 2026-08-01 s11 — Escalada del ángulo Bullet Club: Talla Tonga
+
+**Cita verbatim**:
+
+> *"pudimos ver a Finn trabajar como face contra un heel rookie contra
+> Tala Tonga, buen showcase, ejecución de Finn experimentado perfecta,
+> se merece una WE class solo por la joya que es en 2026 ver un
+> performance del Prince así oldschool dominante en este ángulo que
+> tiene"*
+>
+> — El Vehemiurgo, 2026-08-01 s11 (verbatim)
+
+**Lectura sintética**: **WE**. Research corrige la premisa del
+dictado — el oponente no es un rookie, es **Talla Tonga (Hikuleo)**,
+hermano de Tama Tonga y veterano de NJPW/Bullet Club. Bálor gana en
+~10 minutos pese a la interferencia de Tama, neutralizada con DDT y
+Sling Blade antes del doble Coup de Grace. El elogio es puntual sobre
+la ejecución de Bálor como veterano ("oldschool dominante").
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de los runs como Demon gimmick.
