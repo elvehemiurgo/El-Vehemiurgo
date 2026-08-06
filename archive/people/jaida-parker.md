@@ -61,6 +61,22 @@ rival sin desarrollo individual propio todavía.
 mejora explícita sobre el primer encuentro (31/3/2026). Ver
 [`../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md`](../matches/2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md).
 
+### Sesión 2026-08-01 s13 — Vence a Natalya con el propio Sharpshooter de la rival
+
+**Cita verbatim**:
+
+> *"Jayda vs Nattie me sorprendió, estuvo buena [...] esta lucha se
+> merece las 3 clases, estuvo muy buena, y lo de la toalla es muy loco,
+> es muy irónico y les quedó cool [...] fue una lección muy ruda, Jayda
+> de hecho salió más cool de esta lucha"*
+>
+> — El Vehemiurgo, 2026-08-01 s13 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Gana atrapando a Natalya en el
+propio Sharpshooter de esta, rematado por Thea Hail arrojando la
+toalla desde el ringside. El Vehemiurgo la ve fortalecida por la
+victoria pese al mecanismo asistido.
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, grafía exacta, trayectoria, empresa.

@@ -79,6 +79,16 @@ tags: [nikkita-lyons, identidad-consolidada, wwe-nxt-2026, face, gimmick-en-desa
 protagonismo singularizado. Ver
 [`../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md`](../matches/2026-05-12-nikkita-lyons-zaria-vs-tatum-lizzy-wwe-nxt.md).
 
+### Sesión 2026-08-01 s13 — Mencionada dentro del elogio a la facción de Natalya
+
+**Contexto**: NXT, 21/7/2026, Jaida Parker vs Natalya. El Vehemiurgo
+elogia el "empaque inteligente premium" que Natalya construyó para
+Nikkita Lyons y Karmen Petrovic — ver ficha de Natalya para la cita
+completa.
+
+**Lectura sintética**: sin clase individual — mención dentro del
+elogio a la facción, no take directo en este volcado.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

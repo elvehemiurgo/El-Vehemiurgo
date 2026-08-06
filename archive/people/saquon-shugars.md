@@ -207,6 +207,22 @@ era IG"*.)
 
 **Lectura sintética**: Sin clase declarada (elogio real, sin la fórmula de disparo). El diagnóstico de booking se sostiene: sin video packages ni segmentos dedicados, con solo un walk-and-bat entre el público y 60-90 segundos de backstage, coloca tres frases de personaje — incluida la catchphrase activa *"up next / up never"*. **"Dave" queda `[verif]`**: research agotado, sin talento de ese nombre en NXT 2026 ni precedente claro en el archivo — a preguntar directamente.
 
+### Sesión 2026-08-01 s13 — "A otro nivel" junto a Noam Dar, cae ante Darkstate
+
+**Cita verbatim**:
+
+> *"Noam Dar y Saquon están a otro nivel, ellos elevan la lucha y la
+> ponen muy oldschool, además de su ejecución perfecta [...] Saquon
+> solo tiene un par de strikes que no me parecen, pero después todo lo
+> que hace me parece perfecto"*
+>
+> — El Vehemiurgo, 2026-08-01 s13 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** para el match completo (NXT,
+21/7/2026, vs Darkstate — Dion Lennox, Cutler James, Osiris Griffin).
+Reserva puntual sobre un par de strikes, resto calificado de
+"perfecto".
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT.

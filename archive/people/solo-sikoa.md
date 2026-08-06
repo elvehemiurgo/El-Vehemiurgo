@@ -191,6 +191,16 @@ top guy que no terminó de cerrarse"*.
 
 **Lectura sintética**: **WE**, acotada al tramo final del segmento. Finge reconciliarse con el Bloodline —*"blood is thicker than water"*— y traiciona a Jimmy Uso con un Samoan Spike apenas baja la guardia; **el propio research confirma que el público estaba con Fatu, no con él**, dato que matiza el turn. El Vehemiurgo ve en esta ventana de face la posibilidad de *"un paquete completo"*.
 
+### Sesión 2026-08-01 s13 — Ataque de Jey Uso backstage, continuidad del arco de SummerSlam
+
+**Contexto**: Raw, 20/7/2026. Research confirma un ataque de Jey Uso a
+Sikoa backstage esa misma noche, en paralelo a la promo de LA Knight y
+al main event contra Fatu — continuidad del six-man pactado para
+SummerSlam (Knight/Sikoa/Royce Keys vs Fatu/los Usos).
+
+**Lectura sintética**: sin clase — dato de continuidad de research, no
+comentado directamente por el Vehemiurgo en este volcado.
+
 ## Pendientes / huecos
 
 - [ ] Cronología detallada Bloodline original / interim Tribal

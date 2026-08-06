@@ -140,6 +140,15 @@ desde el 11/7.
 comentado directamente por el Vehemiurgo en este volcado más allá del
 segmento de Daga.
 
+### Sesión 2026-08-01 s13 — Segunda derrota consecutiva ante Joe Hendry
+
+**Contexto**: Raw, 20/7/2026 (no-title, AAA Mega Championship no en
+juego). Pierde ante Hendry tras el Danhausen Death Drop, con Liv
+Morgan interfiriendo a su favor sin éxito y siendo neutralizada por
+Iyo Sky.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.

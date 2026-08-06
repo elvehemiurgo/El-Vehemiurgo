@@ -51,6 +51,16 @@ calificativo *"legítimamente brillante"* refuerza que no es un
 elogio de indulgencia hacia lo cómico. Ver
 [`../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md).
 
+### Sesión 2026-08-01 s13 — Death Drop decisivo sobre Dominik
+
+**Contexto**: Raw, 20/7/2026. Danhausen conecta el Danhausen Death Drop
+sobre Dominik Mysterio tras la neutralización de Liv Morgan por Iyo
+Sky, permitiendo el pin de Joe Hendry. Origen del ángulo: Judgment Day
+intentó robarle dinero falso a Danhausen backstage esa misma noche.
+
+**Lectura sintética**: **PW·FS·WE** en el match completo (declarada
+sobre el conjunto).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (recorrido indie y

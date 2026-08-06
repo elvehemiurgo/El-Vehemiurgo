@@ -57,6 +57,14 @@ wrestling real también es áspero. Es exactamente lo contrario de
 señala a Jackson Drake en el mismo match. Ver
 [`../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md`](../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md).
 
+### Sesión 2026-08-01 s13 — "A otro nivel" junto a Saquon, eleva el six-man vs Darkstate
+
+**Contexto**: mismo elogio que Saquon Shugars (ver su ficha para la
+cita completa) — NXT, 21/7/2026, ejecución perfecta y ritmo oldschool
+frente a Darkstate.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT UK, Heritage

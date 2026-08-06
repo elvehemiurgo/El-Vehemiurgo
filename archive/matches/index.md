@@ -21,6 +21,10 @@ con cada cambio de estado.
 | 2026-07-26 | Ladder match (opener) | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-ladder-match-opener-aew-redemption.md) |
 | 2026-07-22 | Jay White vs Clark Connors | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md) |
 | 2026-07-22 | Darby Allin vs Kevin Knight | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md) |
+| 2026-07-21 | Jaida Parker vs Natalya | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-07-21-jaida-parker-vs-natalya-wwe-nxt.md) |
+| 2026-07-21 | Saquon Shugars, Romeo Moreno & Noam Dar vs Darkstate | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-07-21-saquon-shugars-romeo-moreno-noam-dar-vs-darkstate-wwe-nxt.md) |
+| 2026-07-20 | LA Knight vs Jacob Fatu | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-07-20-la-knight-vs-jacob-fatu-wwe-raw.md) |
+| 2026-07-20 | Dominik Mysterio vs Joe Hendry (2da) | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-07-20-dominik-mysterio-vs-joe-hendry-2-wwe-raw.md) |
 | 2026-07-18 | La Hiedra & Laredo Kid vs Joaquín Wilde & Faby Apache | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-07-18-la-hiedra-laredo-kid-vs-joaquin-wilde-faby-apache-aaa-worldwide.md) |
 | 2026-07-18 | Texano Jr. vs El Hijo de Dr. Wagner Jr. vs Abismo Negro Jr. | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-07-18-texano-jr-vs-hijo-de-dr-wagner-jr-vs-abismo-negro-jr-aaa-worldwide.md) |
 | 2026-07-18 | Cody Rhodes & CM Punk vs Gunther & Sami Zayn | WWE / Saturday Night's Main Event | PW·FS·WE | en-investigacion | 1 | [→](2026-07-18-cody-rhodes-cm-punk-vs-gunther-sami-zayn-wwe-snme.md) |

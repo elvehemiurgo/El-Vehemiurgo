@@ -375,6 +375,15 @@ LA Knight, Raw 20/7/2026**.
 
 **Lectura sintética**: **WE.** Research cierra la secuencia completa: **Roman Reigns le entrega su propio Ula Fala**, metiéndolo formalmente al Bloodline por encima de los Usos, que quedan visiblemente incómodos. Camino a la rampa, ataca al comediante **Eric André** (cameo real, cross-promo con la película *Street Fighter*), sube al top turnbuckle, **se detiene y mira a Reigns** — que primero lo frena y después le ordena ejecutar, dos veces. La lectura del Vehemiurgo (*"frustrado, confrontándose a sí mismo"*) es compatible con esa pausa, aunque no está documentada en texto por ninguna fuente. Sella su heel turn de facto: acepta el Ula Fala y ejecuta a un civil por orden. Cierra la secuencia de tres semanas: 31/5 (pierde el Tribal Combat) → 1/6 (reconoce a Reigns) → 8/6 (no reconoce a los Usos) → 15/6 (recompensado por elegir a Reigns).
 
+### Sesión 2026-08-01 s13 — Vence a LA Knight con ayuda de Jimmy Uso
+
+**Contexto**: Raw, 20/7/2026, main event. Jimmy Uso distrae al réferi
+tras un BFT limpio de Knight; Fatu remonta con Samoan Drop + doble
+moonsault. Post-match: somete a Knight con Tongan Death Grip mientras
+los Usos aplican el 1-D a Royce Keys — Bloodline cierra el show de pie.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [x] ~~Cronología MLW completa con fechas de title runs~~ →

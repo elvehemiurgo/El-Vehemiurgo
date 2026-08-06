@@ -148,6 +148,20 @@ canta sobrevivió al call-up WWE"*.)
 
 **Lectura sintética**: **WE** con la declaración de máximo nivel del Vehemiurgo: *"el peak del entretenimiento en 2026"*. Pierde la primera caída del gauntlet ante Dominik Mysterio (con ayuda de JD McDonagh), con reserva de booking sobre quemarlo tan limpio — proyección de que pasará una temporada como luchador de comedia antes de una historia competitiva.
 
+### Sesión 2026-08-01 s13 — Vence de nuevo a Dominik Mysterio
+
+**Cita verbatim**:
+
+> *"Dominik vs Joe Hendry estuvo genial, se merece las 3 clases, con
+> las interferencias de Liv y Danhausen y todo, estuvo genial"*
+>
+> — El Vehemiurgo, 2026-08-01 s13 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Segunda victoria consecutiva sobre
+Dominik Mysterio (Raw, 20/7/2026), capitalizando tras el Danhausen
+Death Drop — Iyo Sky neutraliza a Liv Morgan en el cierre, dato que
+research suma al dictado original.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas TNA World Title run.

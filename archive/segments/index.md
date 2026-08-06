@@ -20,6 +20,7 @@ cada alta y con cada cambio de estado.
 | 2026-07-22 | Post-match: David Finlay interrumpe, Bang Bang Gang salva a Jay White | AEW / Dynamite | post-match / run-in | — | stub | 1 | [→](2026-07-22-post-match-finlay-interrumpe-bang-bang-gang-salva-aew-dynamite.md) |
 | 2026-07-22 | Bang Bang Gang: entrada completa | AEW / Dynamite | entrance / posicionamiento de facción | — | stub | 1 | [→](2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md) |
 | 2026-07-22 | Post-match: Kyle Fletcher interrumpe a Kevin Knight, entra Okada — implosión de la Don Callis Family | AEW / Dynamite | in-ring / tensión de facción | WE | stub | 1 | [→](2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md) |
+| 2026-07-20 | LA Knight — promo sobre Roman Reigns y Jacob Fatu | WWE / Monday Night Raw | promo en ring | WE | en-investigacion | 1 | [→](2026-07-20-la-knight-promo-roman-fatu-wwe-raw.md) |
 | 2026-07-18 | Los Perros del Mal — promo de Daga | AAA / AAA Worldwide | promo de facción | WE | en-investigacion | 1 | [→](2026-07-18-perros-del-mal-daga-promo-aaa-worldwide.md) |
 | 2026-07-17 | Sami Zayn ataca a CM Punk — brawl de cierre | WWE / SmackDown | brawl / angle | WE | en-investigacion | 1 | [→](2026-07-17-sami-zayn-ataca-cm-punk-wwe-smackdown.md) |
 | 2026-07-17 |  | WWE / SmackDown | face a face / build | WE | en-investigacion | 1 | [→](2026-07-17-cm-punk-cody-rhodes-see-you-tomorrow-wwe-smackdown.md) |

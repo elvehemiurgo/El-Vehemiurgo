@@ -142,6 +142,16 @@ Judgment Day como vehículo.)
 
 **Lectura sintética**: **WE para el segmento backstage con Roxanne Perez.** Genera **heat real** en su rol de manipuladora dentro del Judgment Day — el matiz que lo hace más rico es que **su manipulación no es invisible**: *"cree que es muy smooth"*, pero Roxanne y Raquel Rodríguez ya sospechan y tienen sus propios secretos. **"Estas chicas sí pueden vender un ángulo."**
 
+### Sesión 2026-08-01 s13 — Interfiere por Dominik, neutralizada por Iyo Sky
+
+**Contexto**: Raw, 20/7/2026, Dominik Mysterio vs Joe Hendry. Interfiere
+repetidas veces a favor de Dominik, pero **Iyo Sky** la neutraliza en
+el cierre, despejando el camino para el Danhausen Death Drop.
+
+**Lectura sintética**: sin clase individual — dato de research que
+completa el dictado del Vehemiurgo, quien solo mencionó "las
+interferencias de Liv y Danhausen".
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run como Women's World Champion (fecha

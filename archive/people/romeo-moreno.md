@@ -47,6 +47,15 @@ la lucha babyface reconocida. **La reserva es de estilo, no de talento**:
 compromete el cuerpo. El contraste dentro del propio match lo remata: el que se
 pone stiff es Lexis King, y es el que se lleva el elogio de oficio.
 
+### Sesión 2026-08-01 s13 — Recibe el finish de Darkstate, "algo verde" pero con margen
+
+**Contexto**: NXT, 21/7/2026. Junto a Saquon Shugars y Noam Dar, cae
+ante Darkstate — Osiris Griffin remata con powerbomb doble asistida
+sobre Moreno. El Vehemiurgo señala a los compañeros de Saquon/Dar como
+"algo verdes" pero con potencial si siguen el ritmo.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa.

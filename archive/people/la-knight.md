@@ -212,6 +212,26 @@ Royce Keys y Solo Sikoa, se burló de Jey y Jimmy Uso de cara al
 six-man de SummerSlam. Ese material se recapituló en el SmackDown del
 17/7.
 
+### Sesión 2026-08-01 s13 — Promo sobre Roman, y main event vs Jacob Fatu
+
+**Cita verbatim**:
+
+> *"LO más cool de RAW ahora mismo es LA Knight [...] esta promo es
+> buenísima, sobre que LA es todo lo que WWE quería que Roman fuera
+> desde el principio [...] este segmento se merece un WE class [...]
+> LA Knight vs Fatu fue increíble, se merece las 3 clases, ya hay
+> confianza de parte de WWE, y el estilo que traen es imbatible"*
+>
+> — El Vehemiurgo, 2026-08-01 s13 (verbatim)
+
+**Lectura sintética**: **WE** en la promo, **PW·FS·WE** en el match vs
+Fatu. Corrección de research: "fact of life" no es callback a Roman
+Reigns, es catchphrase propio de Knight desde su etapa como Eli Drake.
+Pierde el match por distracción de Jimmy Uso; en el post-match, Royce
+Keys ataca a Fatu, los Usos le aplican el 1-D, y Fatu somete a Knight
+con el Tongan Death Grip — Bloodline de pie, sienta el six-man de
+SummerSlam.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

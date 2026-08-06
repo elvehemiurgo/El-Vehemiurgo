@@ -58,6 +58,20 @@ NXT (ver el 3v3 de Birthright del 12/5, *"verde en varios
 aspectos"*). La contrapartida: **se está poniendo más stiff**, que
 es exactamente la dirección de mejora que el Vehemiurgo premia.
 
+### Sesión 2026-08-01 s13 — Del lado de Darkstate, "más oldschool, más seguro, más heavyweight"
+
+**Cita verbatim**:
+
+> *"vi a Lennox más oldschool, más seguro más heavyweight"*
+>
+> — El Vehemiurgo, 2026-08-01 s13 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** para el match completo (NXT,
+21/7/2026). Research confirma su lugar en Darkstate junto a Cutler
+James y Osiris Griffin, incluyendo un spot siendo llevado por Shugars
+a través del perch de LFG. Progreso de personaje leído explícitamente
+por el Vehemiurgo, consistente con su registro previo (s08).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

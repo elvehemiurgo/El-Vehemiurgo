@@ -67,6 +67,15 @@ sobreexposición de strikes. Ver
 
 **Lectura sintética**: **Perfect Match**, con veredicto de conjunto del Vehemiurgo: *"la mejor babyface que tienen en Raw"*. Post-match, el Judgment Day la embosca en trío, dejándola como blanco de la facción camino a un posible reto por el título de Liv Morgan.
 
+### Sesión 2026-08-01 s13 — Neutraliza a Liv Morgan, dato no mencionado en el dictado
+
+**Contexto**: research revela que Iyo Sky apareció junto a Danhausen en
+el cierre de Dominik Mysterio vs Joe Hendry (Raw, 20/7/2026),
+neutralizando a Liv Morgan — el Vehemiurgo no la menciona en su
+dictado original, solo a Liv y Danhausen.
+
+**Lectura sintética**: sin clase individual — dato de research.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa

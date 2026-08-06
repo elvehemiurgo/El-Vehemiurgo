@@ -240,6 +240,17 @@ como listo para el peldaño de main eventer. Ver
 
 **Lectura sintética**: **WE para el segmento.** Confirma la mecánica exacta que el Vehemiurgo elogia: es **el único que puede frenar a Fatu**, lo frena una vez, y **después cambia de opinión y le ordena repetir el splash sobre Eric André**. Elige a Fatu por encima de sus propios primos (los Usos). Dato no verificado, marcado como rumor de fans: los micrófonos habrían captado un susurro suyo mencionando a Seth Rollins.
 
+### Sesión 2026-08-01 s13 — Referencia central en la promo de LA Knight
+
+**Contexto**: Raw, 20/7/2026. LA Knight lo menciona directamente en
+promo, declarándose "todo lo que WWE quería que Roman fuera desde el
+principio" y usando eso para subir stakes de cara a un posible cruce
+personal en TV. Reigns no aparece físicamente en el segmento —
+research no confirma su presencia en el show.
+
+**Lectura sintética**: sin clase — Reigns es referencia retórica, no
+participante directo del segmento.
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)
