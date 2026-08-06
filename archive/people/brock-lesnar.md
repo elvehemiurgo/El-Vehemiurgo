@@ -162,6 +162,21 @@ catalizador de la proyección de carrera de Oba Femi. Ver
 
 **Lectura sintética**: **WE**, acotada al cierre cómico: Heyman despliega una orden de restricción y policías contra Femi, que los destroza a todos, obligando a Lesnar y Heyman a huir corriendo. Confirma el Hell in a Cell de SummerSlam.
 
+### Sesión 2026-08-01 s15 — Encierra a Oba Femi en la Hell in a Cell durante el weigh-in
+
+**Cita verbatim**:
+
+> *"estuvo cool la parte donde Oba y Lesnar están frente a frente
+> separados por la Hell in a Cell, fue un buen momento, se merece una
+> WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s15 (verbatim)
+
+**Lectura sintética**: **WE**. Research corrige el framing "frente a
+frente" — fue Lesnar quien encerró a Femi dentro de la cell con
+cadena y candado, guardándose la llave en la boca, jugada de poder no
+neutral, de cara al Hell in a Cell de SummerSlam.
+
 ## Pendientes
 
 - [ ] WrestleMania XX 2004 loss vs Eddie — pieza editorial

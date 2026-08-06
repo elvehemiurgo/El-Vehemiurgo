@@ -250,6 +250,15 @@ fértil sobre cross-pollination cultural sostenida**.
 
 **Lectura sintética**: **WE**, con el mérito puesto en la reacción del público. Como GM de AAA, bloquea el intento de Dorian Roldán de coronar a Omos campeón Latinoamericano por decreto, y termina declarando el título vacante tras que Omos le estrellara el cinturón en el pecho.
 
+### Sesión 2026-08-01 s15 — Cae ante Ethan Page en revancha
+
+**Contexto**: Raw, 27/7/2026. Pierde tras un contrarresto de Page al
+619 (tirón de lona) rematado con Ego-Plex. El Vehemiurgo lo describe
+como "líder del locker room face midcard" — caracterización propia, no
+hallada en cobertura de prensa ligada a este show.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] **WCW Halloween Havoc 1997 mask match vs Eddie** —

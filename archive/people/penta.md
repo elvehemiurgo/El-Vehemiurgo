@@ -100,6 +100,21 @@ momentos brillantes. Ver
 
 **Lectura sintética**: **Perfect Match reteniendo el Intercontinental Championship ante Rey Mysterio.** El elogio central es de madurez de estilo: **"más medido"**, con el registro **prime time de WWE** favoreciéndolo *"sobre todo por su edad y las lesiones que tiene"*. **Trabajó de heel dominante ante un Mysterio que hacía los comebacks** — la oficina lo protegió como worker, no solo como resultado. **"Se está moviendo como main eventer por fin."** El post-match, sin embargo, es leído como daño colateral a su momentum: *"esto de forzar a Rusev y dilatar el ascenso de Ethan solo está matando el momentum de Penta y todos."*
 
+### Sesión 2026-08-01 s15 — Booking contrastante: mantenido deliberadamente oculto en WWE
+
+**Cita verbatim**:
+
+> *"Penta está súper relacionado con los Perros, y están optando por
+> mantenerlo oculto, bookear a Penta con tiempo en AAA para que él
+> mismo diga qué pasa, entonces este booking está bien"*
+>
+> — El Vehemiurgo, 2026-08-01 s15 (verbatim)
+
+**Lectura sintética**: sin clase — análisis de estrategia de booking,
+contrastado explícitamente con el manejo opuesto de Bronco Nima (ver
+[`bronco-nima.md`](./bronco-nima.md)), ambos evaluados positivamente
+por el Vehemiurgo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.

@@ -201,6 +201,20 @@ SummerSlam (Knight/Sikoa/Royce Keys vs Fatu/los Usos).
 **Lectura sintética**: sin clase — dato de continuidad de research, no
 comentado directamente por el Vehemiurgo en este volcado.
 
+### Sesión 2026-08-01 s15 — Interrumpe a los Usos junto a LA Knight, "highlight de la programación"
+
+**Cita verbatim**:
+
+> *"Solo Sikoa interrumpe a los Uso, y así como va full babyface se ve
+> bien, remontó el segmento y de hecho es un highlight de la
+> programación [...] se merecen una WE class todos por este segmento"*
+>
+> — El Vehemiurgo, 2026-08-01 s15 (verbatim)
+
+**Lectura sintética**: **WE**. Aplica Samoan Spike a Jacob Fatu en el
+cierre del segmento (Raw, 27/7/2026), escalada final hacia el six-man
+de SummerSlam.
+
 ## Pendientes / huecos
 
 - [ ] Cronología detallada Bloodline original / interim Tribal

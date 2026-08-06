@@ -116,6 +116,20 @@ notebook 2026-05-09; el segmento del 24/3/2026; los matches de Stand
 menor (el Soul Snatcher no conectó del todo). Ver
 [`../segments/2026-05-04-sol-ruca-becky-lynch-segmento-wwe-raw.md`](../segments/2026-05-04-sol-ruca-becky-lynch-segmento-wwe-raw.md).
 
+### Sesión 2026-08-01 s15 — Pierde el título Intercontinental ante Raquel, "lección muy ruda"
+
+**Cita verbatim**:
+
+> *"Sol todavía está verde en aspectos de presión e improvisación y
+> ring positioning [...] es una lección muy ruda para Sol y tiene que
+> seguir poniéndose oldschool"*
+>
+> — El Vehemiurgo, 2026-08-01 s15 (verbatim)
+
+**Lectura sintética**: **FS·WE** para el match completo. Pierde el
+título ante Raquel Rodríguez tras un moonsault propio fuera del ring
+que le abre sangre a Raquel; Iyo Sky interviene a su favor sin éxito.
+
 ## Pendientes / huecos
 
 - [ ] Fecha y duración del run como NXT Women's North American

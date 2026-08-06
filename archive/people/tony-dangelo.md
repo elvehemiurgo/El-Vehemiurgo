@@ -59,6 +59,18 @@ ortodoxo: un gimmick de arquetipo reconocible, ejecutado con
 convicción. Ver
 [`../segments/2026-05-12-mason-rook-segmento-inring-dangelo-wwe-nxt.md`](../segments/2026-05-12-mason-rook-segmento-inring-dangelo-wwe-nxt.md).
 
+### Sesión 2026-08-01 s15 — Su reinado "sin stakes" es blanco de Grayson Waller y Cruz Montana
+
+**Contexto**: NXT, 28/7/2026. Grayson Waller lo señala como objetivo
+en su promo de regreso; en el cierre del show, minimiza el reto de
+Cruz Montana (Mike Santana) hasta que Waller irrumpe y ataca a
+Montana, terminando a golpes con D'Angelo. Sigue siendo NXT Champion
+(desde Stand & Deliver 2026) al cierre de este registro.
+
+**Lectura sintética**: sin lectura individual de clase — "bookeado sin
+stakes" es lectura editorial propia del Vehemiurgo, sin corroboración
+de prensa.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar qué título sostiene** — [verif].

@@ -12,6 +12,11 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-07-28 | Bronco Nima — dilema entre Los Perros del Mal y su tag team regular en NXT | WWE / NXT | análisis de booking / continuidad | — | en-investigacion | 1 | [→](2026-07-28-bronco-nima-dilema-perros-tag-team-wwe-nxt.md) |
+| 2026-07-28 | Cierre de show — Cruz Montana reta a Tony D'Angelo, Grayson Waller ataca a ambos | WWE / NXT | promo / brawl de cierre | — | en-investigacion | 1 | [→](2026-07-28-cruz-montana-tony-dangelo-grayson-waller-cierre-wwe-nxt.md) |
+| 2026-07-28 | Grayson Waller — promo tipo shoot | WWE / NXT | promo | WE | en-investigacion | 1 | [→](2026-07-28-grayson-waller-promo-wwe-nxt.md) |
+| 2026-07-27 | Solo Sikoa y LA Knight interrumpen y emboscan a los Usos | WWE / Monday Night Raw | angle / emboscada | WE | en-investigacion | 1 | [→](2026-07-27-solo-sikoa-la-knight-emboscan-usos-wwe-raw.md) |
+| 2026-07-27 | Oba Femi y Brock Lesnar — weigh-in dentro de la Hell in a Cell | WWE / Monday Night Raw | weigh-in / angle | WE | en-investigacion | 1 | [→](2026-07-27-oba-femi-brock-lesnar-weigh-in-hell-in-a-cell-wwe-raw.md) |
 | 2026-07-26 | Segmento final de Redemption: Ospreay dropea a Moxley, tease Omega vs Ospreay | AEW / Redemption | cierre de show / ruptura de facción + ataque post-match | — | en-investigacion | 1 | [→](2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md) |
 | 2026-07-26 | Promo video: Kevin Knight vs Kenny Omega | AEW / Redemption | video de producción (build) | WE | en-investigacion | 1 | [→](2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md) |
 | 2026-07-26 | Promo video: Guns vs Dogs | AEW / Redemption | video de producción (build) | WE | en-investigacion | 1 | [→](2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md) |

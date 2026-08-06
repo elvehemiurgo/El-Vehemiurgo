@@ -384,6 +384,16 @@ los Usos aplican el 1-D a Royce Keys — Bloodline cierra el show de pie.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s15 — Recibe el Samoan Spike de Sikoa en la emboscada
+
+**Contexto**: Raw, 27/7/2026. Llega a ayudar a los Usos tras el
+ataque de Sikoa y Knight, pero termina recibiendo Samoan Spike de
+Sikoa, spinebuster de Royce Keys y BFT de Knight — cierre de la
+emboscada camino al six-man de SummerSlam.
+
+**Lectura sintética**: sin lectura individual — parte del ataque
+grupal.
+
 ## Pendientes / huecos
 
 - [x] ~~Cronología MLW completa con fechas de title runs~~ →

@@ -152,6 +152,15 @@ el cierre, despejando el camino para el Danhausen Death Drop.
 completa el dictado del Vehemiurgo, quien solo mencionó "las
 interferencias de Liv y Danhausen".
 
+### Sesión 2026-08-01 s15 — Interfiere a favor de Raquel, enfrentada por Iyo Sky
+
+**Contexto**: Raw, 27/7/2026, Raquel vs Sol Ruca (título
+Intercontinental). Baja a ringside por Raquel; Iyo Sky la enfrenta del
+lado de Sol Ruca/Judgment Day, despejando el camino para el finish.
+
+**Lectura sintética**: sin lectura individual de clase — dato de
+research, mencionado dentro del elogio de conjunto al match.
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run como Women's World Champion (fecha

@@ -173,6 +173,24 @@ de la herramienta. Ver
 
 **Lectura sintética**: Sin clase propia (la WE corresponde al segmento). Se suma a la lectura interna del Judgment Day: **sospechas compartidas con Roxanne Perez sobre las intenciones de Liv Morgan**, con secretos propios todavía sin revelar.
 
+### Sesión 2026-08-01 s15 — Nueva campeona Intercontinental femenina, "se lo tiene súper merecido"
+
+**Cita verbatim**:
+
+> *"Raquel tiene una presencia de heavyweight genial, siempre pone
+> luchas con sentido y entretenidas [...] me encantó el resultado con
+> Raquel como campeona, definitivamente es más divertido que Becky vs
+> AJ Lee, esto no tiene comparación, Raquel se lo tiene súper merecido,
+> ha perfeccionado su estilo y es muy efectiva"*
+>
+> — El Vehemiurgo, 2026-08-01 s15 (verbatim)
+
+**Lectura sintética**: **FS·WE**. Gana el WWE Women's Intercontinental
+Championship ante Sol Ruca (Raw, 27/7/2026) — primer título individual
+de main roster. Sangra de la nariz tras un moonsault de Sol Ruca fuera
+del ring, remata con Tejana Bomb en medio de interferencias cruzadas
+de Roxanne Perez, Liv Morgan e Iyo Sky.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y segmentos del 2025 que sustentan la

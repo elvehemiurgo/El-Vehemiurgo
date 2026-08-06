@@ -167,6 +167,15 @@ material promocional. Ver
 
 **Lectura sintética**: **WE.** Camina hacia el ring pese a la amenaza de arresto y destroza a todos los policías desplegados por Heyman, mandando a huir a Lesnar. Confirma Hell in a Cell en SummerSlam.
 
+### Sesión 2026-08-01 s15 — Encerrado por Lesnar en el weigh-in de la Hell in a Cell
+
+**Contexto**: Raw, 27/7/2026. En el weigh-in oficial de cara al Hell
+in a Cell match en SummerSlam, Lesnar lo encierra dentro de la propia
+cell con cadena y candado, quedándose él afuera. Femi termina a golpes
+con personal de seguridad tras el cruce.
+
+**Lectura sintética**: **WE** para el segmento.
+
 ## Pendientes
 
 - [ ] NXT World Championship reigns — pieces editoriales.

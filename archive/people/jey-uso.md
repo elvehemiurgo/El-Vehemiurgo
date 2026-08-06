@@ -81,6 +81,16 @@ Spike de **Solo Sikoa** sobre Knight.
 
 **Lectura sintética**: Sin clase propia. Reclama en el micrófono que Fatu no ha "acknowledgeado" al grupo — y queda visiblemente incómodo cuando **Reigns le entrega el Ula Fala a Fatu por encima de él y de Jimmy**. Es el otro lado de la grieta que Fatu abrió el 8/6 al decir que no reconocía a los Usos.
 
+### Sesión 2026-08-01 s15 — Interrumpido por Sikoa y Knight junto a Jimmy
+
+**Contexto**: Raw, 27/7/2026. Corta promo junto a Jimmy Uso antes de
+SummerSlam; Sikoa interrumpe, Knight llega, ambos atacan; Jacob Fatu
+aparece a ayudar. Termina con el trío Knight/Sikoa/Royce Keys parado
+sobre la Bloodline.
+
+**Lectura sintética**: sin lectura individual — parte del ataque
+grupal, elogio de conjunto en el segmento ("WE todos").
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, trayectoria, empresa.

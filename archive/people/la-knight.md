@@ -232,6 +232,14 @@ Keys ataca a Fatu, los Usos le aplican el 1-D, y Fatu somete a Knight
 con el Tongan Death Grip — Bloodline de pie, sienta el six-man de
 SummerSlam.
 
+### Sesión 2026-08-01 s15 — Emboscada a los Usos, "trae el entertainment otra vez"
+
+**Contexto**: mismo segmento que Solo Sikoa (ver su ficha para la cita
+completa) — Raw, 27/7/2026. Remata con BFT sobre Jacob Fatu, cerrando
+el trío (Knight/Sikoa/Royce Keys) parado sobre la Bloodline.
+
+**Lectura sintética**: **WE** para el segmento.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

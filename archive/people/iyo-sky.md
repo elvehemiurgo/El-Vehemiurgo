@@ -76,6 +76,16 @@ dictado original, solo a Liv y Danhausen.
 
 **Lectura sintética**: sin clase individual — dato de research.
 
+### Sesión 2026-08-01 s15 — Interfiere por Sol Ruca/Judgment Day, enfrenta a Liv Morgan
+
+**Contexto**: Raw, 27/7/2026, Raquel vs Sol Ruca (título
+Intercontinental). Baja a ringside por el lado de Sol Ruca/Judgment
+Day, enfrentando a Liv Morgan — mientras se ocupa de ella, Roxanne
+Perez interfiere de nuevo a favor de Raquel.
+
+**Lectura sintética**: sin lectura individual — mencionada dentro del
+elogio de conjunto ("interferencias del Judgment Day e Iyo").
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa

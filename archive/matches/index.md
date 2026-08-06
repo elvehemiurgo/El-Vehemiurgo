@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-07-27 | Raquel Rodríguez vs Sol Ruca | WWE / Monday Night Raw | FS·WE | en-investigacion | 1 | [→](2026-07-27-raquel-rodriguez-vs-sol-ruca-wwe-raw.md) |
+| 2026-07-27 | Ethan Page vs Rey Mysterio | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-07-27-ethan-page-vs-rey-mysterio-wwe-raw.md) |
 | 2026-07-26 | Kevin Knight vs Kenny Omega | AEW / Redemption | PW·FS·WE | en-investigacion | 1 | [→](2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md) |
 | 2026-07-26 | Andrade vs Mark Davis | AEW / Redemption | PW·FS·WE | en-investigacion | 1 | [→](2026-07-26-andrade-vs-mark-davis-aew-redemption.md) |
 | 2026-07-26 | Jay White & Juice Robinson vs David Finlay & Clark Connors | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md) |

@@ -196,6 +196,29 @@ mencionando a Alisha — escalada mutua estilo Attitude Era. El
 salve de Slater lo protege cuando Cedric emboscó. Ver
 [`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md).
 
+### Sesión 2026-08-01 s15 — Nuevo nombre de ring: Cruz Montana (debut hablado en NXT)
+
+**Contexto**: research confirma que **"Cruz Montana"** es el nuevo
+nombre de ring de Mike Santana en su etapa WWE NXT (2026) — tributo a
+su padre fallecido. Salió de TNA a mediados de julio 2026 y firmó con
+WWE; primera aparición física el 21/7/2026 (irrumpió sin hablar tras
+una defensa de título de Tony D'Angelo), reveló el nombre el 27/7, y
+dio su primera promo hablada como Cruz Montana en el episodio del
+28/7/2026 — saliendo del público para declararse futuro NXT Champion,
+retando a D'Angelo, con Grayson Waller irrumpiendo para atacarlo.
+
+**Lectura del Vehemiurgo**:
+
+> *"me alegra que todo esto esté para Cruz Montana ahora que viene
+> listo a trabajar y cortar las mejores promos de su vida, un comienzo
+> ok, pero tiene potencial"*
+>
+> — El Vehemiurgo, 2026-08-01 s15 (verbatim)
+
+**Lectura sintética**: sin clase — regla "ok". Se preserva la
+identidad bajo esta misma ficha (mismo talent real), no se abre
+ficha nueva.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

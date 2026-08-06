@@ -139,6 +139,20 @@ de stakes en la división tag. Ver
 
 **Lectura sintética**: **Perfect Match** — showcase de heel plena, ya establecida en el roster de Raw. Distrae al réferi con ayuda de Raquel Rodríguez para forzar el finish. Participa después en la emboscada de facción contra Sky.
 
+### Sesión 2026-08-01 s15 — Interfiere a favor de Raquel, booking que "interesa más" al Vehemiurgo
+
+**Cita verbatim**:
+
+> *"el booking de Roxanne y Raquel es el que me interesa más que Liv o
+> Sol o el regreso de Vaquer"*
+>
+> — El Vehemiurgo, 2026-08-01 s15 (verbatim)
+
+**Lectura sintética**: sin lectura individual de clase — dato de
+continuidad editorial. Interfiere dos veces a favor de Raquel en el
+match por el título Intercontinental femenino (Raw, 27/7/2026),
+frustrando un Sol Snatcher con el réferi distraído.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.

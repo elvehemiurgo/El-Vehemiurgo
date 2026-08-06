@@ -172,6 +172,21 @@ reportado**. Page derivó a la línea con Rey Mysterio y Chad Gable. `[no encont
 
 **Lectura sintética**: **Perfect Match**, entrando último al gauntlet —posición protegida— para hacer el job por Ankle Lock ante Chad Gable, que se corona nuevo contendiente al Intercontinental.
 
+### Sesión 2026-08-01 s15 — Vence a Rey Mysterio con un final "polémico"
+
+**Cita verbatim**:
+
+> *"me gustó mucho, aunque el final sí es polémico, fue un gran
+> showcase para Ethan, dream match y derrotando al líder del locker
+> room face midcard [...] Ethan tiene espacio y rivales para
+> consagrarse en la midcard como entertainer"*
+>
+> — El Vehemiurgo, 2026-08-01 s15 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Contrarresta el 619 tirando de la
+lona del apron, remata con Ego-Plex — WWE.com lo describe como victoria
+"cunning", sosteniendo el "final polémico" señalado.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de NXT Champion run.
