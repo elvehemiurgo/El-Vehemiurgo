@@ -47,6 +47,21 @@ tags: [damian-666, aaa, x-law, hardcore-tijuana, primer-registro-individual, wre
 **Lectura sintética**: primer registro individual, con mención
 nominal directa dentro del elogio de conjunto.
 
+### Sesión 2026-08-01 s14 — Respalda a Los Perros del Mal como preludio de la traición de Dominik
+
+**Cita verbatim**:
+
+> *"aparece Damian 666 como reafirmación para el ángulo [...] me
+> gustan todos los involucrados, fue un buen momento"*
+>
+> — El Vehemiurgo, 2026-08-01 s14 (verbatim)
+
+**Lectura sintética**: sin clase declarada. Research confirma que
+aparece con playera de Los Perros del Mal y le dice a El Grande
+Americano "Remember… few are chosen" (AAA Verano de Escándalo Noche 1,
+25/7/2026), preludio de la traición de Dominik Mysterio que se
+confirma en el main event de la noche.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa X-LAW/AAA.

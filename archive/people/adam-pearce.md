@@ -76,6 +76,17 @@ registra igual porque el Vehemiurgo quería comentarlo.
   [`./rey-mysterio.md`](./rey-mysterio.md) y
   [`./robert-stone.md`](./robert-stone.md).
 
+### Sesión 2026-08-01 s14 — Conduce la firma de contrato Aldis-Gunther, asume el control de ambos shows
+
+**Contexto**: SmackDown, 24/7/2026. Pearce oficia el segmento de firma
+de contrato entre Nick Aldis y Gunther para SummerSlam; con Aldis
+renunciando transitoriamente a la gerencia de SmackDown, Pearce queda
+al frente de Raw y SmackDown mientras dure el interinato.
+
+**Lectura sintética**: sin clase declarada — el elogio del Vehemiurgo
+es de linaje NWA compartido con Aldis, no un take individual sobre
+Pearce.
+
 ## Pendientes / huecos
 
 - [ ] **Carrera indie completa** — el Vehemiurgo declaró que *"ya

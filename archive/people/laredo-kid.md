@@ -115,6 +115,15 @@ vs Lince Dorado).
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s14 — Nuevo campeón mixto junto a La Hiedra
+
+**Contexto**: mismo match que La Hiedra (ver su ficha para la cita
+completa) — AAA Verano de Escándalo Noche 1, 25/7/2026. Manda a Mr.
+Iguana contra las escaleras en el ringside, habilitando el finish de
+Hiedra.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

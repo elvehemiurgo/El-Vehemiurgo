@@ -290,6 +290,15 @@ sustituto y golpea a Gunther con el título tras un powerbomb sobre
 Rhodes; Punk remata con GTS y Rhodes se queda con el pin. El título
 indisputado de SummerSlam queda mano a mano Rhodes-Punk.
 
+### Sesión 2026-08-01 s14 — Invita a Punk a un último intercambio antes de SummerSlam
+
+**Contexto**: mismo segmento que CM Punk (ver su ficha para la cita
+completa) — SmackDown, 24/7/2026. Research confirma que fue Cody quien
+invitó a Punk al ring, en el contexto de la fricción backstage tras
+SNME (donde Punk lo golpeó accidentalmente con el título).
+
+**Lectura sintética**: sin clase declarada.
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

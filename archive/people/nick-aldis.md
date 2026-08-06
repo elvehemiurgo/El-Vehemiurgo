@@ -41,6 +41,17 @@ el pin. Es pago directo de la cuenta pendiente, no un giro gratuito.
 Consecuencia confirmada: detona un arco Gunther vs Aldis camino a
 SummerSlam, fuera del horizonte de este registro.
 
+### Sesión 2026-08-01 s14 — Firma contrato con Gunther para SummerSlam, renuncia transitoria a GM
+
+**Contexto**: SmackDown, 24/7/2026. Firma el contrato para enfrentar a
+Gunther en SummerSlam — el acto mismo termina de inmediato
+(transitoriamente) su mandato como GM de SmackDown; Adam Pearce asume
+el control de ambos shows. El segmento escala a brawl: Gunther le
+aplica low blow y powerbomb a través de la mesa.
+
+**Lectura sintética**: sin clase declarada — elogio de linaje NWA sin
+fórmula de disparo (ver segmento).
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de la rivalidad Gunther vs Aldis.

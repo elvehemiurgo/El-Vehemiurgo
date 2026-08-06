@@ -54,6 +54,15 @@ Iguana es ex pareja en trama de La Hiedra — el motor narrativo del
 título ante Hiedra/Laredo en Verano de Escándalo (25/7/2026), fuera de
 esta ventana.
 
+### Sesión 2026-08-01 s14 — Pierde el título mixto ante La Hiedra y Laredo Kid
+
+**Contexto**: AAA Verano de Escándalo Noche 1, 25/7/2026. Pierde el
+AAA World Mixed Tag Team Championship junto a Lola Vice — Laredo Kid
+lo manda contra las escaleras en el ringside, habilitando el finish
+sobre Vice. Cierra el arco anticipado desde el 18/7/2026 (s12).
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

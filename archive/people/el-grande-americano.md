@@ -275,6 +275,15 @@ del Santo y Octagón en *When Worlds Collide*, 6/11/1994. Detalle en
 
 **Lectura sintética**: **Perfect Match** ganando el gauntlet completo del Intercontinental sobre Ethan Page con Olympic Slam y Ankle Lock, convirtiéndose en #1 contender de Penta en SummerSlam. **Comparación más alta que el archivo le da a Gable**: *"cada día más Kurt Angle"*. **CRÍTICA DE PAQUETE DE PERSONAJE, no de ejecución**: el babyface actual —sin barba, aplaudiendo— le queda *"muy face cookie"*; el Vehemiurgo pide que WWE encuentre **balance** entre la máquina de luchar y el babyface genérico en que lo están presentando. Antes en el mismo gauntlet, gana también sobre Rusev con victory roll tras escapar del Accolade. Ver [`../matches/2026-07-13-chad-gable-vs-ethan-page-gauntlet-wwe-raw.md`](../matches/2026-07-13-chad-gable-vs-ethan-page-gauntlet-wwe-raw.md).
 
+### Sesión 2026-08-01 s14 — Traicionado por Dominik ante Los Perros del Mal
+
+**Contexto**: mismo match que Dominik Mysterio (ver su ficha para la
+cita completa) — AAA Verano de Escándalo Noche 1, 25/7/2026. Se
+arrastra pidiendo el relevo; Dominik lo abandona sin hacer el tag,
+dejándolo a merced de Ángel Garza y Daga, que rematan con doble stomp.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania

@@ -19,6 +19,9 @@ con cada cambio de estado.
 | 2026-07-26 | Bandido vs Kyle Fletcher | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md) |
 | 2026-07-26 | Will Ospreay & Jon Moxley vs Young Bucks | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md) |
 | 2026-07-26 | Ladder match (opener) | AEW / Redemption | WE | en-investigacion | 1 | [→](2026-07-26-ladder-match-opener-aew-redemption.md) |
+| 2026-07-25 | Dominik Mysterio & El Grande Americano vs Ángel Garza & Daga | AAA / Verano de Escándalo (Noche 1) | PW·FS·WE | en-investigacion | 1 | [→](2026-07-25-dominik-mysterio-el-grande-americano-vs-angel-garza-daga-aaa-verano-de-escandalo.md) |
+| 2026-07-25 | Mr. Iguana & Lola Vice (c) vs La Hiedra & Laredo Kid | AAA / Verano de Escándalo (Noche 1) | PW·FS·WE | en-investigacion | 1 | [→](2026-07-25-mr-iguana-lola-vice-vs-la-hiedra-laredo-kid-aaa-verano-de-escandalo.md) |
+| 2026-07-24 | Lainey Reid vs Brie Bella | WWE / SmackDown | — | en-investigacion | 1 | [→](2026-07-24-lainey-reid-vs-brie-bella-wwe-smackdown.md) |
 | 2026-07-22 | Jay White vs Clark Connors | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md) |
 | 2026-07-22 | Darby Allin vs Kevin Knight | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md) |
 | 2026-07-21 | Jaida Parker vs Natalya | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-07-21-jaida-parker-vs-natalya-wwe-nxt.md) |

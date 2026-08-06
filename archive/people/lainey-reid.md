@@ -127,6 +127,22 @@ para sellar el título.
 **Lectura sintética**: sin clase declarada, elogio de conjunto al
 estilo y selling de Fatal Influence.
 
+### Sesión 2026-08-01 s14 — Cae ante Brie Bella, carga la lucha como heel
+
+**Cita verbatim**:
+
+> *"Lainey como heel tuvo que cargar la lucha, y pudo meter sus
+> movimientos con cuidado siempre esperando a Brie [...] sí fue un
+> éxito en cuanto a performance y posicionamiento de Layne en
+> SmackDown"*
+>
+> — El Vehemiurgo, 2026-08-01 s14 (verbatim)
+
+**Lectura sintética**: sin clase declarada. Research confirma que
+Brie Bella la venció por pinfall (roll-up); tras la derrota, Fatal
+Influence ataca y es repelida por el regreso de Nikki Bella, que reta
+al trío a un Six-Woman Tag en SummerSlam.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

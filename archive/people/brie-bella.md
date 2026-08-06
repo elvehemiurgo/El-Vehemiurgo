@@ -66,6 +66,17 @@ dentro de un segmento WE.
 desempeño diferenciado respecto a Paige en la misma derrota ante Fatal
 Influence (WWE Women's Tag Team Championship, SNME NYC 18/7/2026).
 
+### Sesión 2026-08-01 s14 — Vence a Lainey Reid, regreso de Nikki post-match
+
+**Contexto**: SmackDown, 24/7/2026. Vence a Lainey Reid por pinfall
+(roll-up). El Vehemiurgo la describe como parte de "la generación de
+luchadoras de WWE acostumbradas a que les aplaudan por intentarlo" —
+crítica de escuela, no elogio directo. Post-match: regresa Nikki
+Bella (de lesión) tras el ataque de Fatal Influence, retando al trío
+a un Six-Woman Tag en SummerSlam.
+
+**Lectura sintética**: sin clase declarada para el match.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad y título** — [verif].

@@ -81,6 +81,21 @@ Vice, con Iguana como ex pareja en trama de Hiedra, es el motor
 narrativo. Research confirma payoff real: le quita el título a
 Iguana/Vice en Verano de Escándalo (25/7/2026).
 
+### Sesión 2026-08-01 s14 — Nueva campeona mixta, payoff de la aspiración declarada en s12
+
+**Cita verbatim**:
+
+> *"Mr. Iguana & Lola Vice vs Hiedra y Laredo Kid, estuvo genial, se
+> merece las 3 clases, nuevos campeones, y vendieron una lucha muy
+> dura"*
+>
+> — El Vehemiurgo, 2026-08-01 s14 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Se corona campeona del AAA World
+Mixed Tag Team Championship junto a Laredo Kid, rematando con
+face-first slam sobre Lola Vice — payoff directo de la aspiración de
+campeonato declarada en el volcado s12 (18/7/2026).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

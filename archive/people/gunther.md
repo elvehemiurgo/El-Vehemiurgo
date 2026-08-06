@@ -188,6 +188,20 @@ SmackDown del 10/7. Punk remata con GTS.
 **Lectura sintética**: **PW·FS·WE** en el match (declarada sobre el
 conjunto). Abre arco Gunther vs Aldis camino a SummerSlam.
 
+### Sesión 2026-08-01 s14 — Firma contrato con Aldis, escala a brawl
+
+**Cita verbatim**:
+
+> *"es de hecho un sueño tener a Gunther trabajando contra lo mejor de
+> NWA en distintas eras como Nick Aldis y Adam Pearce"*
+>
+> — El Vehemiurgo, 2026-08-01 s14 (verbatim)
+
+**Lectura sintética**: sin clase declarada. Cuestiona el legado de
+Aldis y amenaza con sumarlo a su lista de leyendas retiradas; cierra
+el segmento con low blow y powerbomb a Aldis a través de la mesa de
+firma, camino a SummerSlam.
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo

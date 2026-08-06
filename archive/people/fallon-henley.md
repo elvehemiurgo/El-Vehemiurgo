@@ -156,6 +156,18 @@ el ringside en el conteo final.
 **Lectura sintética**: sin clase declarada, elogio de conjunto.
 Termina un reinado de 92 días y 4 defensas de Paige & Brie Bella.
 
+### Sesión 2026-08-01 s14 — "Nivel midcard" en la promo previa al match de Reid
+
+**Cita verbatim**:
+
+> *"nivel midcard de parte de Layne y Fallon"*
+>
+> — El Vehemiurgo, 2026-08-01 s14 (verbatim)
+
+**Lectura sintética**: sin clase declarada — jerarquía interna del
+trío leída explícitamente por el Vehemiurgo, por debajo de la ambición
+de Jacy Jayne.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

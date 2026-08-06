@@ -47,6 +47,22 @@ de Dominik Mysterio para Verano de Escándalo (25/7/2026). La crítica
 de producción (tema genérico, gráficos de IA) no tiene corroboración
 de prensa — se registra como lectura visual directa del Vehemiurgo.
 
+### Sesión 2026-08-01 s14 — Remata la traición de Dominik con victoria sobre El Grande Americano
+
+**Cita verbatim**:
+
+> *"la tag team de Dominik y Grande vs Garza y Daga, Los Perros del
+> Mal, estuvo buena, me gusta cómo tratan esto como ángulo heavyweight
+> de tv [...] se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s14 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Remata con doble stomp desde la
+esquina superior sobre El Grande Americano tras la traición de
+Dominik Mysterio. Karmen Petrovic y Bronco Nima participan en las
+interferencias que definen el match (AAA Verano de Escándalo Noche 1,
+25/7/2026).
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de carrera pre-2026 (debut, cronología de títulos).

@@ -196,6 +196,19 @@ Saturday Night's Main Event NYC (18/7/2026).
 **Lectura sintética**: sin clase declarada — dato de research, no
 comentado directamente por el Vehemiurgo en este volcado.
 
+### Sesión 2026-08-01 s14 — Reclama su lugar en el ladder match, promo antes del match de Reid
+
+**Cita verbatim**:
+
+> *"pero Jacy sí quiere competir con main eventers, y lo hizo bien"*
+>
+> — El Vehemiurgo, 2026-08-01 s14 (verbatim)
+
+**Lectura sintética**: sin clase declarada. Research confirma que en
+la promo (SmackDown, 24/7) reclama su lugar en el Interim Women's
+Championship Ladder Match tras perder ante Tiffany Stratton, y le
+avisa que el título de EE.UU. femenino "será suyo".
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.

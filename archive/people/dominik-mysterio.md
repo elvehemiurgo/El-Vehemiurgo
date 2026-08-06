@@ -149,6 +149,22 @@ Iyo Sky.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s14 — Traiciona a El Grande Americano, se alía con Omos y Dorian Roldán
+
+**Cita verbatim**:
+
+> *"la tag team de Dominik y Grande vs Garza y Daga, Los Perros del
+> Mal, estuvo buena [...] se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s14 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** para el match completo (AAA Verano
+de Escándalo Noche 1, 25/7/2026). Se deja caer del apron sin hacer el
+tag, abandonando a El Grande Americano ante Los Perros del Mal —
+confirma sin ambigüedad la traición insinuada durante semanas.
+Post-match: se alía con Omos y Dorian Roldán (dato no mencionado en el
+dictado, sumado por research).
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.

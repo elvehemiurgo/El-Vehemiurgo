@@ -141,6 +141,15 @@ a Mr. Iguana desde el 7/2/2026. El triunfo de La Hiedra & Laredo Kid
 confirma que pierden el título ante ellos en Verano de Escándalo
 (25/7/2026), fuera de esta ventana.
 
+### Sesión 2026-08-01 s14 — Pierde el título mixto ante La Hiedra y Laredo Kid
+
+**Contexto**: AAA Verano de Escándalo Noche 1, 25/7/2026. Conecta un
+superkick a La Hiedra en el tramo previo, roto por Laredo Kid antes
+del conteo; cae ante el face-first slam de Hiedra, perdiendo el AAA
+World Mixed Tag Team Championship junto a Mr. Iguana.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de obtención del NXT Women's Title (Stand &

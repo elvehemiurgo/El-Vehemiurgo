@@ -285,6 +285,21 @@ Vehemiurgo enmarca a Punk vs Zayn como el eje emocional central del
 match, por encima del propio Cody vs Gunther. Punk remata con GTS
 sobre Gunther tras la interferencia de Nick Aldis.
 
+### Sesión 2026-08-01 s14 — Cara a cara personal con Cody, "los últimos 10 años encapsulados"
+
+**Cita verbatim**:
+
+> *"el segmento entre Punk y Cody estuvo genial, este ángulo son los
+> últimos 10 años de wrestling encapsulados [...] la idea de que Punk
+> hizo el pipebomb y 'conquistó' WWE, pero Cody fue el que hizo
+> físicamente todo lo que decía en la promo"*
+>
+> — El Vehemiurgo, 2026-08-01 s14 (verbatim)
+
+**Lectura sintética**: sin clase declarada. El paralelismo
+pipebomb/ejecución física es teoría propia del Vehemiurgo, sin eco en
+cobertura de prensa consultada por research.
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment
