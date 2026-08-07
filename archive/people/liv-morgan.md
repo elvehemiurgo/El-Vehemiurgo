@@ -161,6 +161,14 @@ lado de Sol Ruca/Judgment Day, despejando el camino para el finish.
 **Lectura sintética**: sin lectura individual de clase — dato de
 research, mencionado dentro del elogio de conjunto al match.
 
+### Sesión 2026-08-01 s19 — Interfiere provocando la DQ en Roxanne Perez vs Sol Ruca
+
+**Contexto**: Raw, 3/8/2026. Golpea a Sol Ruca desde afuera con el
+réferi distraído, provocando la descalificación a favor de Ruca —
+dato de research, no comentado directamente por el Vehemiurgo.
+
+**Lectura sintética**: sin clase individual.
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run como Women's World Champion (fecha

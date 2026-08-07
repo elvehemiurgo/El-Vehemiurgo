@@ -65,6 +65,21 @@ psicología.
 
 **Lectura sintética**: **Perfect Match** contra Dragon Lee dentro del gauntlet del Intercontinental, con reserva técnica puntual sobre un tropiezo cubierto por selling en vivo. Elimina antes a Dominik Mysterio con ayuda de Danhausen. Proyección: podrían dar una lucha impresionante en un PLE.
 
+### Sesión 2026-08-01 s19 — Vence a Ethan Page en el clásico de 2026, atacado por Big Cass
+
+**Cita verbatim**:
+
+> *"este año este versus se ha vuelto un clásico, ambos se complementan
+> muy bien, no me quejo del final, porque es importante que Jevon
+> salga over como héroe underdog, está muy fuerte su trabajo y
+> selling"*
+>
+> — El Vehemiurgo, 2026-08-01 s19 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Vence a Ethan Page con OG Cutter
+(Raw, 3/8/2026) — segundo cruce del año, primero que gana Evans.
+Post-match: Big Cass regresa y lo ataca.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

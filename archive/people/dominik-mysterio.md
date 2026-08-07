@@ -194,6 +194,16 @@ su favor.
 **Lectura sintética**: sin clase — "entretenido... no lo vería
 completo" (El Vehemiurgo, s17).
 
+### Sesión 2026-08-01 s19 — Intenta hacer trampa con un martillo, cae ante Gable y Penta
+
+**Contexto**: Raw, 3/8/2026. Intenta usar un martillo escondido en la
+bota durante un 619; Gable se lo quita y lo entrega al réferi,
+rematando con rolling German suplex. El Vehemiurgo lee esto como
+Dominik "persiguiendo el título" IC de Gable — dato no confirmado
+como línea editorial explícita por research.
+
+**Lectura sintética**: **WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.

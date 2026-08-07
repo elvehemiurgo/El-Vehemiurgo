@@ -12,6 +12,8 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-03 | Becky Lynch confronta a Liv Morgan — regreso de Stephanie Vaquer | WWE / Monday Night Raw | promo / regreso doble | WE | en-investigacion | 1 | [→](2026-08-03-becky-lynch-stephanie-vaquer-regreso-wwe-raw.md) |
+| 2026-08-03 | LA Knight molesta al Bloodline backstage | WWE / Monday Night Raw | backstage / provocación | — | en-investigacion | 1 | [→](2026-08-03-la-knight-molesta-bloodline-backstage-wwe-raw.md) |
 | 2026-08-03 | LA Knight confronta a Roman Reigns | WWE / Monday Night Raw | promo / confrontación en ring | WE | en-investigacion | 1 | [→](2026-08-03-la-knight-confronta-roman-reigns-wwe-raw.md) |
 | 2026-08-01 | Nikki y Brie Bella traicionan a Paige — turn heel | WWE / SummerSlam (Noche 1) | post-match / turn heel | — | en-investigacion | 1 | [→](2026-08-01-bella-twins-traicionan-paige-wwe-summerslam.md) |
 | 2026-08-01 | Dominik Mysterio — promo de apertura | AAA / Verano de Escándalo (Noche 2) | promo | WE | en-investigacion | 1 | [→](2026-08-01-dominik-mysterio-promo-apertura-aaa-verano-de-escandalo.md) |

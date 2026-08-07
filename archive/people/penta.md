@@ -124,6 +124,14 @@ Championship tras un Destroyer contrarrestado y ankle lock.
 **Lectura sintética**: **WE** para el match completo, con reserva de
 gusto personal del Vehemiurgo sobre el estilo (no sobre la ejecución).
 
+### Sesión 2026-08-01 s19 — Hace equipo con su ex-rival Gable, vence a Dominik y JD
+
+**Contexto**: mismo match que El Grande Americano (ver su ficha) —
+Raw, 3/8/2026. Hace pareja con Chad Gable, quien le ganó el título
+Intercontinental el día anterior en SummerSlam.
+
+**Lectura sintética**: **WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.

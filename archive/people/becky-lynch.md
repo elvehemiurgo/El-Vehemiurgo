@@ -66,6 +66,21 @@ heel-como-ring-general (s50, Lash Legend), aplicada ahora a una
 veterana consolidada. Ver
 [`../matches/2026-05-23-sol-ruca-vs-becky-lynch-wwe-snme.md`](../matches/2026-05-23-sol-ruca-vs-becky-lynch-wwe-snme.md).
 
+### Sesión 2026-08-01 s19 — Regresa y confronta a Liv Morgan, "entretenida pero apesta en el ring"
+
+**Cita verbatim**:
+
+> *"Becky interrumpe y de hecho es entretenida, pero apesta en el
+> ring, yo diría que Lynch es entretenida así como Don Callis es
+> entretenido, en el mic, pero no soy nada fan de su trabajo in ring"*
+>
+> — El Vehemiurgo, 2026-08-01 s19 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento. Regresa tras casi dos
+meses (Raw, 3/8/2026) y confronta a Liv Morgan por el Women's
+Intercontinental Championship, en el mismo bloque que el regreso de
+Stephanie Vaquer.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

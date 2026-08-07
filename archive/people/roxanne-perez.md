@@ -153,6 +153,20 @@ continuidad editorial. Interfiere dos veces a favor de Raquel en el
 match por el título Intercontinental femenino (Raw, 27/7/2026),
 frustrando un Sol Snatcher con el réferi distraído.
 
+### Sesión 2026-08-01 s19 — "El prodigy" heel, no logra el pinfall ante Sol Ruca pero remata post-match
+
+**Cita verbatim**:
+
+> *"Roxanne es el prodigy, ahora como heel cobrando más protagonismo
+> cada semana, muy buenas promos [...] esta lucha sí me gustó, le doy
+> las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s19 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** para el match completo (Raw,
+3/8/2026) — pierde por DQ tras interferencia de Liv Morgan, pero
+remata a Sol Ruca post-match con "Pop Rox" junto al Judgment Day.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.

@@ -111,6 +111,20 @@ debut).
 *"La distancia al promo Cody/Punk: lo que falta entre la
 performance y el micrófono"* usando a Vaquer como caso central.)
 
+### Sesión 2026-08-01 s19 — Regresa de lesión, "sigue igual de silenciosa"
+
+**Cita verbatim**:
+
+> *"aunque sigue siendo underwhelming porque Vaquer sigue igual de
+> silenciosa, y el careo con Becky no hace nada por mí"*
+>
+> — El Vehemiurgo, 2026-08-01 s19 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento de conjunto, con
+reserva explícita sobre su careo puntual con Lynch. Regresa tras ~4
+meses fuera (esguince AC, 27/4/2026), atacando a Raquel y Roxanne y
+persiguiendo a Liv Morgan (Raw, 3/8/2026).
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run NJPW STARDOM (fechas, IWGP Women's

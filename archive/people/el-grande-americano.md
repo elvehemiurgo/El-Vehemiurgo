@@ -301,6 +301,21 @@ título individual de Gable en WWE tras casi 13 años**. Research
 confirma que en esta cobertura específica aparece como Chad Gable
 directo, sin la gimmick de El Grande Americano.
 
+### Sesión 2026-08-01 s19 — Defiende el título Intercontinental en pareja con Penta, campaña "all american" criticada
+
+**Cita verbatim**:
+
+> *"entiendo por qué la campaña all american good guy de Gable, pero
+> no soy la demografía [...] es propaganda yankee y todo eso [...] le
+> daría a esta lucha una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s19 (verbatim)
+
+**Lectura sintética**: **WE**, con reserva de gusto explícita sobre el
+gimmick (no la ejecución). Vence junto a Penta a Dominik Mysterio y JD
+McDonagh (Raw, 3/8/2026) con rolling German suplex, presentado como
+nuevo campeón Intercontinental.
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania

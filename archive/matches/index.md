@@ -13,6 +13,9 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-03 | Chad Gable & Penta vs Dominik Mysterio & JD McDonagh | WWE / Monday Night Raw | WE | en-investigacion | 1 | [→](2026-08-03-chad-gable-penta-vs-dominik-mysterio-jd-mcdonagh-wwe-raw.md) |
+| 2026-08-03 | Roxanne Perez vs Sol Ruca | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-03-roxanne-perez-vs-sol-ruca-wwe-raw.md) |
+| 2026-08-03 | Jevon Evans vs Ethan Page (2do encuentro de 2026) | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-03-jevon-evans-vs-ethan-page-2-wwe-raw.md) |
 | 2026-08-02 | Chad Gable vs Penta | WWE / SummerSlam (Noche 2) | WE | en-investigacion | 1 | [→](2026-08-02-chad-gable-vs-penta-wwe-summerslam.md) |
 | 2026-08-02 | Dominik Mysterio vs Danhausen | WWE / SummerSlam (Noche 2) | — | en-investigacion | 1 | [→](2026-08-02-dominik-mysterio-vs-danhausen-wwe-summerslam.md) |
 | 2026-08-02 | Ladder Match — Interim WWE Women's Championship | WWE / SummerSlam (Noche 2) | FS·WE | en-investigacion | 1 | [→](2026-08-02-ladder-match-interim-womens-championship-wwe-summerslam.md) |

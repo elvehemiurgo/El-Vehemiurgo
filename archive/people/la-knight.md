@@ -269,6 +269,19 @@ felicita con sarcasmo, lo llama fraude, pide título shot singles —
 Reigns responde en el mismo segmento y ordena al Bloodline no
 atacarlo. Sin match pactado aún.
 
+### Sesión 2026-08-01 s19 — Provoca al Bloodline backstage, "es como ver la Attitude Era"
+
+**Cita verbatim**:
+
+> *"LA Knight es muy cool, backstage molestando al Bloodline, muy
+> efectivo, ahora está súper afilado, es como ver la Attitude Era"*
+>
+> — El Vehemiurgo, 2026-08-01 s19 (verbatim)
+
+**Lectura sintética**: sin clase. Segmento backstage (Raw, 3/8/2026)
+previo al careo de ring con Reigns ya registrado en s17 — Reigns
+prohíbe a los Usos tocarlo, Knight lo aprovecha para provocar.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

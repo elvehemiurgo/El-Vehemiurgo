@@ -191,6 +191,15 @@ de main roster. Sangra de la nariz tras un moonsault de Sol Ruca fuera
 del ring, remata con Tejana Bomb en medio de interferencias cruzadas
 de Roxanne Perez, Liv Morgan e Iyo Sky.
 
+### Sesión 2026-08-01 s19 — Remata a Sol Ruca post-match junto al Judgment Day
+
+**Contexto**: Raw, 3/8/2026. Clothesline y Tejana Bomb sobre Sol Ruca
+en el castigo post-match del Judgment Day, tras la DQ de Roxanne Perez
+vs Sol Ruca — dato de research, no comentado directamente por el
+Vehemiurgo en este volcado.
+
+**Lectura sintética**: sin clase individual.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y segmentos del 2025 que sustentan la

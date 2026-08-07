@@ -135,6 +135,13 @@ sin éxito a favor de Dominik en el Human Monies vs Danhausen
 (SummerSlam Noche 2, 2/8/2026) y recibe un DDT de "Toritohausen" (El
 Torito disfrazado de Minihausen).
 
+### Sesión 2026-08-01 s19 — Cae junto a Dominik ante Gable y Penta
+
+**Contexto**: mismo match que Dominik Mysterio (ver su ficha) — Raw,
+3/8/2026.
+
+**Lectura sintética**: **WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut profesional.

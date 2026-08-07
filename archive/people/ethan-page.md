@@ -187,6 +187,19 @@ reportado**. Page derivó a la línea con Rey Mysterio y Chad Gable. `[no encont
 lona del apron, remata con Ego-Plex — WWE.com lo describe como victoria
 "cunning", sosteniendo el "final polémico" señalado.
 
+### Sesión 2026-08-01 s19 — Cae ante Jevon Evans, "trabajo magistral" como veterano
+
+**Cita verbatim**:
+
+> *"Ethan hizo un trabajo magistral como heavyweight y luchador más
+> oldschool, cuidando su estilo y validando las innovaciones de Jevon
+> como un profesional"*
+>
+> — El Vehemiurgo, 2026-08-01 s19 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Pierde el segundo cruce del año
+ante Jevon Evans (Raw, 3/8/2026) tras fallar exponer el turnbuckle.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de NXT Champion run.

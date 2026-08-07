@@ -262,6 +262,16 @@ ordena al Bloodline no atacarlo, dejando el conflicto personal.
 **Lectura sintética**: **WE** para el segmento de Raw (ver ficha de
 LA Knight para la cita completa).
 
+### Sesión 2026-08-01 s19 — Prohíbe al Bloodline tocar a LA Knight backstage
+
+**Contexto**: Raw, 3/8/2026. Reclama a los Usos y Jacob Fatu la
+derrota del six-man de SummerSlam; los Usos se ofrecen a "sacar" a
+Knight, pero Reigns lo prohíbe explícitamente — deja el conflicto en
+el plano personal, consistente con su decisión en el careo de ring
+posterior (s17).
+
+**Lectura sintética**: sin clase.
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

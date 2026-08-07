@@ -130,6 +130,20 @@ menor (el Soul Snatcher no conectó del todo). Ver
 título ante Raquel Rodríguez tras un moonsault propio fuera del ring
 que le abre sangre a Raquel; Iyo Sky interviene a su favor sin éxito.
 
+### Sesión 2026-08-01 s19 — "Rookie babyface del momento" ante Roxanne Perez, apaleada post-match
+
+**Cita verbatim**:
+
+> *"tienes a Sol como face nuevo innovador que está buscando
+> establecerse y balancear su estilo para algo 100% efectivo y que
+> conecte realmente"*
+>
+> — El Vehemiurgo, 2026-08-01 s19 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** para el match completo. Gana por
+DQ (interferencia de Liv Morgan a su favor), pero el Judgment Day la
+apalea post-match (Raw, 3/8/2026).
+
 ## Pendientes / huecos
 
 - [ ] Fecha y duración del run como NXT Women's North American
