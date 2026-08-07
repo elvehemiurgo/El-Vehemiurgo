@@ -60,6 +60,6 @@ tags: [wwe-2026, smackdown, rey-fenix, hijo-del-vikingo, aaa-cruiserweight-champ
 
 - [`../people/rey-fenix.md`](../people/rey-fenix.md)
 - [`../people/hijo-del-vikingo.md`](../people/hijo-del-vikingo.md)
-- [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md)
+- [`../topics/vehemiurgia-legacy.md`](../topics/vehemiurgia-legacy.md)
 
 - Volcado: [`../../notebook/2026-08-01-s08-noc-270626-raw-290626-nxt-gab-280626-nxt-300626-smackdown-030726-aaa-040726-raw-060726.md`](../../notebook/2026-08-01-s08-noc-270626-raw-290626-nxt-gab-280626-nxt-300626-smackdown-030726-aaa-040726-raw-060726.md)

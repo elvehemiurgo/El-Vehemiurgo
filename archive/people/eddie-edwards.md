@@ -14,7 +14,7 @@ tags: [eddie-edwards, tna, the-system, lider-de-faction, american-wolves, panteo
 
 # Eddie Edwards
 
-> **Dios del Wrestling Tier 2 #11 del Vehemiurgo** (como
+> **Pillar of Wrestling #11 del Vehemiurgo** (como
 > **American Wolves**, tag con Davey Richards) — recién ahora con
 > ficha individual. Líder de **The System** en la era corporativa
 > de TNA 2026, con *"dinero invertido en TNA"* [kayfabe/shoot —

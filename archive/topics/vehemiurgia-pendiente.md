@@ -1,6 +1,6 @@
 ---
 topic: "Luchadores que el Vehemiurgo quiere conocer más — lista de estudio"
-slug: luchadores-conocer-mas-vehemiurgo
+slug: vehemiurgia-pendiente
 tipo: topic
 categoria: pendiente-de-ver
 estado: vivo
@@ -10,7 +10,11 @@ fuentes_principales:
 tags: [conocer-mas, lista-de-estudio, watchlist-personal, satoru-sayama, perro-aguayo-jr, hayabusa, taka-michinoku, dos-caras, jinsei-shinzaki, johnny-saint, the-great-sasuke, mil-mascaras, volk-han, lucha-libre, puroresu, junior-heavyweight-highspeed-1990s]
 ---
 
-# Luchadores que el Vehemiurgo quiere conocer más
+# VEHEMIURGIA PENDIENTE — luchadores que el Vehemiurgo quiere conocer más
+
+> **Renombrada el 2026-08-01 s18** — antes "Luchadores que el
+> Vehemiurgo quiere conocer más". El criterio no cambia: backlog de
+> estudio en orden de prioridad.
 
 > **Lista de estudio** declarada por el Vehemiurgo (2026-06-17),
 > *"empezando del top 1"*. **Es una lista ordenada** — la prioridad

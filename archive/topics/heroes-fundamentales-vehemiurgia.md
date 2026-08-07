@@ -29,13 +29,17 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 - **Tier 1 — Dioses del Wrestling (#1-7)**: jerarquía real. El top
   7 SÍ es un orden — *"realmente los dioses del wrestling"* para el
   Vehemiurgo.
-- **Tier 2 — Dioses del Wrestling Tier 2 (#8-25)**: segundo nivel
-  de dioses, creado 2026-06-17 (segunda ronda). Por debajo del Tier 1
-  pero por encima de los Fundamentales. *(Orden interno: a confirmar —
-  por ahora se respeta el orden ya establecido.)*
-- **Fundamentales (#26-50)**: igual de fundamentales que el Tier 2 en
-  cuanto a pertenecer al panteón, **pero sin orden particular** — el
-  número es **slot de registro**, no posición de mérito.
+- **Tier 2 — The Pillars of Wrestling (#8-25)**: segundo nivel,
+  creado 2026-06-17 (segunda ronda) como "Dioses del Wrestling Tier 2"
+  y **renombrado "The Pillars of Wrestling" el 2026-08-01 s18** por
+  declaración del Vehemiurgo. Por debajo del Tier 1 pero por encima de
+  los Fundamentales. *(Orden interno: a confirmar — por ahora se
+  respeta el orden ya establecido.)*
+- **Tier 3 — Los Fundamentales (#26+)**: igual de fundamentales que el
+  Tier 2 en cuanto a pertenecer al panteón, **pero sin orden
+  particular** — el número es **slot de registro**, no posición de
+  mérito. Formalizado como "Tier 3" en la renovación de nombres
+  2026-08-01 s18.
 
 ### Tier 1 — Los 7 Dioses del Wrestling (orden real, jerárquico)
 
@@ -49,9 +53,9 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 6 | **Dynamite Kid** | British / Wigan (wrestling puro) | [→](../people/dynamite-kid.md) |
 | 7 | **Roderick Strong** | Worker de oficio (ROH/PWG) | [→](../people/roderick-strong.md) |
 
-### Tier 2 — Dioses del Wrestling Tier 2 (#8-25)
+### Tier 2 — The Pillars of Wrestling (#8-25)
 
-| # | Dios Tier 2 | Rama | Ficha |
+| # | Pillar | Rama | Ficha |
 |---|---|---|---|
 | 8 | **Bret Hart** | Worker de oficio (excelencia técnica) | [→](../people/bret-hart.md) |
 | 9 | **AJ Styles** | Worker de oficio (indie→TNA→NJPW→WWE) | [→](../people/aj-styles.md) |
@@ -72,7 +76,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 24 | **RVD (Rob Van Dam)** | ECW / highspot carny | _(ficha pendiente)_ |
 | 25 | **Kira** (luchadora mexicana CMLL) | Lucha libre / heredera local | [→](../people/kira.md) |
 
-### Fundamentales (#26-50, sin orden — todos pesan igual)
+### Tier 3 — Los Fundamentales (sin orden — todos pesan igual)
 
 | # | Héroe | Rama | Ficha |
 |---|---|---|---|
@@ -103,6 +107,37 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 50 | **Laredo Kid** | Lucha libre mexicana / high-flying (AAA) | [→](../people/laredo-kid.md) |
 | 51 | **Chelsea Green** | WWE moderno / kayfabe y amor por el gimmick | [→](../people/chelsea-green.md) |
 | 52 | **Nick Aldis** | NWA / estilo clásico, GM-luchador | [→](../people/nick-aldis.md) |
+
+## Notas de la renovación de nombres 2026-08-01 s18
+
+**Declaración del Vehemiurgo** (verbatim de la instrucción):
+
+> *"Ahora solo confirmemos y renovemos los nombres de las listas: 1. El
+> Panteón de Héroes Fundamentales — Tier 1 - Los 7 Dioses del
+> Wrestling, Tier 2 - The Pillars of Wrestling, Tier 3 - Los
+> Fundamentales; 2. THE FUTURE IN 2026; 3. RUNNER UPS; 4. VEHEMIURGIA
+> LEGACY; 5. VEHEMIURGIA PENDIENTE"*
+>
+> — El Vehemiurgo, 2026-08-01 s18
+
+**Cambios aplicados**:
+
+- **Tier 2** pasa de "Dioses del Wrestling Tier 2" a **"The Pillars of
+  Wrestling"** — resuelve de paso la colisión de nombre con la lista
+  objetiva (ex "Dioses del Wrestling (objetivo)", ahora VEHEMIURGIA
+  LEGACY): "Dioses del Wrestling" queda reservado EXCLUSIVAMENTE para
+  el Tier 1 del panteón.
+- **Fundamentales** se formaliza como **"Tier 3 — Los Fundamentales"**
+  (sin cambio de criterio: sin orden interno, slot de registro).
+- Marcador de ficha Tier 2 actualizado: `Pillar of Wrestling #N del
+  Vehemiurgo` (antes `Dios del Wrestling Tier 2 #N del Vehemiurgo`).
+  El marcador de Tier 3 (`Héroe Fundamental #N del Vehemiurgo`) no
+  cambia.
+- **VEHEMIURGIA LEGACY** = ex "Dioses del Wrestling (criterio
+  objetivo)" → [`./vehemiurgia-legacy.md`](./vehemiurgia-legacy.md).
+- **VEHEMIURGIA PENDIENTE** = ex "Luchadores que quiero conocer más" →
+  [`./vehemiurgia-pendiente.md`](./vehemiurgia-pendiente.md).
+- THE FUTURE IN 2026 y RUNNER UPS conservan sus nombres.
 
 ## Notas de la expansión 2026-06-17
 
@@ -432,7 +467,7 @@ El panteón no es monolítico. Conviven varias ramas:
 - [`../../glossary/clases-vehemiurgo.md`](../../glossary/clases-vehemiurgo.md)
   — las clases (sistema distinto: mide oficio en piezas, no declara
   héroes).
-- [`./luchadores-conocer-mas-vehemiurgo.md`](./luchadores-conocer-mas-vehemiurgo.md)
+- [`./vehemiurgia-pendiente.md`](./vehemiurgia-pendiente.md)
   — lista de luchadores que el Vehemiurgo quiere conocer más (lista
   distinta del panteón).
 - CLAUDE.md sec. 7 — referentes y héroes del proyecto.

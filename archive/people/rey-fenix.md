@@ -112,7 +112,7 @@ ya es leyenda consagrada. Ver
 >
 > — El Vehemiurgo, 2026-08-01 s06 (verbatim)
 
-**Lectura sintética**: **Perfect Match** defendiendo el **AAA World Cruiserweight Championship** en un 3-way ante Laredo Kid y Lince Dorado, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo` — criterio distinto y complementario al panteón: acá no es devoción, es reconocimiento de que **no se puede negar que es wrestling del bueno**. Ver [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md).
+**Lectura sintética**: **Perfect Match** defendiendo el **AAA World Cruiserweight Championship** en un 3-way ante Laredo Kid y Lince Dorado, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo` — criterio distinto y complementario al panteón: acá no es devoción, es reconocimiento de que **no se puede negar que es wrestling del bueno**. Ver [`../topics/vehemiurgia-legacy.md`](../topics/vehemiurgia-legacy.md).
 
 ### Sesión 2026-08-01 s07 — Segunda mitad de Fraxiom que cae — "nunca decepciona"
 

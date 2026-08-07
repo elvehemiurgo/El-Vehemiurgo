@@ -1,16 +1,23 @@
 ---
-topic: "DIOSES DEL WRESTLING (criterio objetivo) — lista nueva del Vehemiurgo: wrestling innegablemente bueno, no necesariamente favorito"
-slug: dioses-del-wrestling-objetivo
+topic: "VEHEMIURGIA LEGACY — wrestling innegablemente bueno, no necesariamente favorito (ex Dioses del Wrestling criterio objetivo)"
+slug: vehemiurgia-legacy
 tipo: topic
 categoria: lista-oficial
 estado: vivo
 ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s06 (declaración de la lista + altas fundantes)"
-tags: [dioses-del-wrestling-objetivo, lista-oficial, criterio-objetivo-no-devocion, rey-fenix, laredo-kid, lince-dorado, aaa-cruiserweight, distincion-vs-panteon]
+  - "Renovación de nombres 2026-08-01 s18 (rebautizada VEHEMIURGIA LEGACY)"
+tags: [vehemiurgia-legacy, dioses-del-wrestling-objetivo, lista-oficial, criterio-objetivo-no-devocion, rey-fenix, laredo-kid, lince-dorado, aaa-cruiserweight, distincion-vs-panteon]
 ---
 
-# DIOSES DEL WRESTLING (criterio objetivo)
+# VEHEMIURGIA LEGACY
+
+> **Renombrada el 2026-08-01 s18** — nació el 2026-08-01 s06 como
+> "DIOSES DEL WRESTLING (criterio objetivo)". El nuevo nombre elimina
+> definitivamente la colisión con el panteón: "Dioses del Wrestling"
+> queda reservado en exclusiva para el Tier 1 de héroes fundamentales.
+> El criterio de esta lista NO cambia con el rename.
 
 > **ADVERTENCIA DE NOMBRE — leer antes de usar esta lista.** El panteón
 > (`heroes-fundamentales-vehemiurgia.md`) ya usa el término **"Dioses del
@@ -31,10 +38,9 @@ tags: [dioses-del-wrestling-objetivo, lista-oficial, criterio-objetivo-no-devoci
 > mide **cuánto los ama el Vehemiurgo**; esta mide **si el wrestling es
 > innegablemente bueno, lo ame o no**. Para evitar confundirlas en prosa
 > y cross-links: el panteón se cita como *"el panteón"* o *"los Dioses del
-> Tier 1/2"*; esta lista se cita como **"Dioses del Wrestling (objetivo)"**
-> o simplemente **"la lista objetiva"**. El slug del archivo
-> (`dioses-del-wrestling-objetivo`) lleva el calificador para que nunca se
-> confundan por nombre de archivo.
+> Tier 1/2"*; esta lista se cita como **"VEHEMIURGIA
+> LEGACY"** o simplemente **"la lista objetiva"** (desde el rename
+> 2026-08-01 s18, que disolvió la colisión de nombre por completo).
 
 ## El criterio
 

@@ -21,7 +21,7 @@ tags: [aj-styles, phenomenal-one, tna-original-pillar, christian-coalition-worke
 > compañías + 7+ entradas indie + TNA pillar + NJPW Bullet
 > Club + WWE 2016+**.
 >
-> **Dios del Wrestling Tier 2 #9 del Vehemiurgo** — panteón
+> **Pillar of Wrestling #9 del Vehemiurgo** — panteón
 > ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
 > rama worker de oficio (declarado 2026-05-26).
 

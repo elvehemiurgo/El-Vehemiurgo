@@ -13,7 +13,7 @@ tags: [kurt-angle, olympic-shooter, wwe-champion-wrestlemania-2000, smackdown-si
 
 # Kurt Angle
 
-> **Dios del Wrestling Tier 2 #10 del Vehemiurgo** — panteón
+> **Pillar of Wrestling #10 del Vehemiurgo** — panteón
 > ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md);
 > alta 2026-06-17, slot que dejó Mark Rocco al moverse a #20).
 >

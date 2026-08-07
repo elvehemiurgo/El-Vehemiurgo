@@ -21,7 +21,7 @@ tags: [bret-hart, the-hitman, the-best-there-is, hart-foundation, hart-family, w
 > sec. 5 del notebook *"Bret Hart deep cuts — carny
 > tradition"*.
 >
-> **Dios del Wrestling Tier 2 #8 del Vehemiurgo** — panteón
+> **Pillar of Wrestling #8 del Vehemiurgo** — panteón
 > ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
 > rama worker de oficio (declarado 2026-05-26, #8).
 

@@ -58,6 +58,6 @@ tags: [wwe-2026, smackdown, rey-fenix, nathan-frazer, aaa-cruiserweight-champion
 
 - [`../people/rey-fenix.md`](../people/rey-fenix.md)
 - [`../people/axiom.md`](../people/axiom.md)
-- [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md)
+- [`../topics/vehemiurgia-legacy.md`](../topics/vehemiurgia-legacy.md)
 
 - Volcado: [`../../notebook/2026-08-01-s07-raw-220626-smackdown-260626-aaa-270626.md`](../../notebook/2026-08-01-s07-raw-220626-smackdown-260626-aaa-270626.md)

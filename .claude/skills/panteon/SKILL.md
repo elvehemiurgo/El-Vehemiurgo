@@ -6,9 +6,10 @@ description: Mutaciones del panteón de héroes fundamentales (altas, bajas, mov
 # /panteon — gestión del panteón
 
 **Source of truth**: `archive/topics/heroes-fundamentales-vehemiurgia.md`.
-Estructura: Tier 1 Dioses #1-7 (orden REAL) · Tier 2 Dioses #8-25
-(orden interno sin confirmar) · Fundamentales #26-45 (sin orden,
-slot de registro).
+Estructura (nombres renovados 2026-08-01 s18): Tier 1 — Los 7
+Dioses del Wrestling #1-7 (orden REAL) · Tier 2 — The Pillars of
+Wrestling #8-25 (orden interno sin confirmar) · Tier 3 — Los
+Fundamentales #26+ (sin orden, slot de registro).
 
 ## Alta / movida / baja — protocolo atómico (un solo commit)
 
@@ -19,8 +20,8 @@ slot de registro).
 3. **Marcadores en fichas**: TODA ficha afectada actualiza su
    blockquote-lead en el MISMO commit. Etiquetas exactas:
    - Tier 1 → `DIOS DEL WRESTLING #N (Tier 1) del Vehemiurgo`
-   - Tier 2 → `Dios del Wrestling Tier 2 #N del Vehemiurgo`
-   - 26-45  → `Héroe Fundamental #N del Vehemiurgo`
+   - Tier 2 → `Pillar of Wrestling #N del Vehemiurgo`
+   - Tier 3 (#26+) → `Héroe Fundamental #N del Vehemiurgo`
 4. **Fichas sin abrir**: fila queda `_(ficha pendiente)_`; NO abrir
    stubs masivos por alta al panteón (se abren a demanda).
 5. **Descartes**: registrarlos en la sección "Candidatos /

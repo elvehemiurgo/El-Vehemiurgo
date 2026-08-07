@@ -18,7 +18,7 @@ tags: [mjf, maxwell-jacob-friedman, aew-world-champion, cm-punk-feud-2022, dog-c
 > AEW founding generation talent + AEW World Champion múltiples
 > runs + feud Hangman Adam Page peak 2026 cluster.
 >
-> **Dios del Wrestling Tier 2 #14 del Vehemiurgo** — panteón
+> **Pillar of Wrestling #14 del Vehemiurgo** — panteón
 > ([`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)),
 > rama modern heel old-school (declarado 2026-05-26).
 

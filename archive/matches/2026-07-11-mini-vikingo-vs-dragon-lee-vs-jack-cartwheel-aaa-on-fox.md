@@ -60,6 +60,6 @@ tags: [aaa-2026, aaa-on-fox, mini-vikingo, dragon-lee, jack-cartwheel, cruiserwe
 - [`../people/mini-vikingo.md`](../people/mini-vikingo.md)
 - [`../people/dragon-lee.md`](../people/dragon-lee.md)
 - [`../people/rey-fenix.md`](../people/rey-fenix.md)
-- [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md)
+- [`../topics/vehemiurgia-legacy.md`](../topics/vehemiurgia-legacy.md)
 
 - Volcado: [`../../notebook/2026-08-01-s10-smackdown-100726-aaa-110726-raw-130726-nxt-140726.md`](../../notebook/2026-08-01-s10-smackdown-100726-aaa-110726-raw-130726-nxt-140726.md)

@@ -101,7 +101,7 @@ queda posicionado del otro lado. Ver
 >
 > — El Vehemiurgo, 2026-08-01 s06 (verbatim)
 
-**Lectura sintética**: **Perfect Match** como retador en el 3-way por el **AAA World Cruiserweight Championship** ante Rey Fénix y Lince Dorado, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo`. Ver [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md).
+**Lectura sintética**: **Perfect Match** como retador en el 3-way por el **AAA World Cruiserweight Championship** ante Rey Fénix y Lince Dorado, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo`. Ver [`../topics/vehemiurgia-legacy.md`](../topics/vehemiurgia-legacy.md).
 
 ### Sesión 2026-08-01 s12 — Motivado tras el ángulo con Fénix, forma equipo con La Hiedra
 

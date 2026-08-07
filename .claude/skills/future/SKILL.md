@@ -1,6 +1,6 @@
 ---
 name: future
-description: Altas y consultas de THE FUTURE in 2026 (lista anual de prospectos del Vehemiurgo) y de la lista "luchadores que quiero conocer más". Usar cuando el Vehemiurgo suma prospectos ("añade a X al FUTURE"), o pide el estado de esas listas.
+description: Altas y consultas de THE FUTURE in 2026 (lista anual de prospectos del Vehemiurgo) y de VEHEMIURGIA PENDIENTE (ex "luchadores que quiero conocer más"). Usar cuando el Vehemiurgo suma prospectos ("añade a X al FUTURE"), o pide el estado de esas listas.
 ---
 
 # /future — listas prospectivas del Vehemiurgo
@@ -29,7 +29,7 @@ Distinciones que NO confundir:
 - Elogio a un dúo no mete a ambos ("Grace & Hudson lucieron
   geniales" → solo Myla Grace fue declarada; Hudson quedó fuera).
 
-## Conocer más — `archive/topics/luchadores-conocer-mas-vehemiurgo.md`
+## VEHEMIURGIA PENDIENTE (ex Conocer más) — `archive/topics/vehemiurgia-pendiente.md`
 
 Lista ORDENADA de estudio (deseo de profundizar ≠ devoción). Altas
 al final salvo que el Vehemiurgo dé posición. Fichas a demanda, no

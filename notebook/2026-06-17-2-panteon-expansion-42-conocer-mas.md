@@ -95,7 +95,7 @@ Hulk Hogan · 41 The British Bulldogs · 42 Mark Davis.
 
 ### 5. Lista "conocer más" — 10 luchadores
 
-**Distribución**: `archive/topics/luchadores-conocer-mas-vehemiurgo.md` (nuevo).
+**Distribución**: `archive/topics/vehemiurgia-pendiente.md` (nuevo).
 
 - **Lista ordenada** (top 1 hacia abajo). Distinta del panteón:
   no es devoción, es **deseo de profundizar**.

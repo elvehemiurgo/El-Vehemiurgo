@@ -14,7 +14,7 @@ tags: [hazuki, reo-hazuki-real-name, stardom-pillar-2014, hzk-era-2017-2018, que
 
 # Hazuki
 
-> **Dios del Wrestling Tier 2 #16 del Vehemiurgo + favorita ever**
+> **Pillar of Wrestling #16 del Vehemiurgo + favorita ever**
 > ([panteón](../topics/heroes-fundamentales-vehemiurgia.md);
 > reorganización 2026-05-26: de #5 a #16).
 > Declaración categórica máxima del Vehemiurgo (2026-05-10):
@@ -235,7 +235,7 @@ Hazuki entra al **cluster de figuras centrales del proyecto**:
 > — El Vehemiurgo, 2026-07-14 s19 (verbatim)
 
 **Lectura sintética**: sin clase declarada, pero reafirmación
-consistente de su lugar en el panteón (Dios del Wrestling Tier 2
+consistente de su lugar en el panteón (Pillar of Wrestling
 #16) — el Vehemiurgo la trata como garantía segura de calidad
 babyface. Ver
 [`../matches/2026-05-30-hazuki-vs-maya-world-aew-collision.md`](../matches/2026-05-30-hazuki-vs-maya-world-aew-collision.md).
