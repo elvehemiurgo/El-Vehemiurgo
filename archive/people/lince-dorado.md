@@ -67,6 +67,15 @@ singularizado más allá del elogio de conjunto. Ver
 
 **Lectura sintética**: **Perfect Match**, y **alta fundante a la lista objetiva** `dioses-del-wrestling-objetivo` — su primer registro con protagonismo propio en el archivo. **Cobra el hilo abierto el 6/6/2026**: ganó el fatal 5-way de *Noche de los Grandes* Night 2 con un Shooting Star Press sobre Joaquín Wilde, ganándose esta contendencia. Ver [`../topics/dioses-del-wrestling-objetivo.md`](../topics/dioses-del-wrestling-objetivo.md) y [`../matches/2026-06-06-5-way-contendencia-crucero-aaa-noche-de-los-grandes-night-2.md`](../matches/2026-06-06-5-way-contendencia-crucero-aaa-noche-de-los-grandes-night-2.md).
 
+### Sesión 2026-08-01 s16 — Cae en el clasificatorio hacia Triplemanía 34
+
+**Contexto**: mismo three-way que La Parka (ver su ficha) — AAA
+Verano de Escándalo Noche 2, 1/8/2026. Se alía primero con Mecha Wolf
+contra La Parka, luego se traicionan; Dorado conecta backstabber sobre
+Parka pero no cierra el match.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [x] ~~Confirmar identidad~~ → **RESUELTO (s44)**: **Lince

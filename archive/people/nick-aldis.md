@@ -12,6 +12,10 @@ fuentes_principales:
 
 # Nick Aldis
 
+> **Héroe Fundamental #52 del Vehemiurgo** ([panteón](../topics/heroes-fundamentales-vehemiurgia.md),
+> alta 2026-08-01 s16 — *"ponlo en el panteón de héroes de una vez"*,
+> tras Gunther vs Aldis en SummerSlam Noche 1, pese a la derrota).
+
 ## Identificación
 
 - **Rol actual (julio 2026)**: General Manager de WWE SmackDown.

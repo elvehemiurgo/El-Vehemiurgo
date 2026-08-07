@@ -133,6 +133,16 @@ recae sobre la ejecución de Bálor. Confirma el patrón: Tama como
 ejecutor/respaldo familiar del ángulo, no como protagonista directo de
 esta fecha.
 
+### Sesión 2026-08-01 s16 — Emboscada a Priest/R-Truth/War Raiders, junto a Haku
+
+**Contexto**: SmackDown, 31/7/2026. Ataca a Damian Priest, R-Truth y
+War Raiders con Cut-Throat sobre Erik, tras el no-contest en el match
+de tag titles. **Haku aparece en persona** y les pide a sus hijos
+recuperar el temor que inspiraba la familia Tonga.
+
+**Lectura sintética**: sin clase — *"me parece buena idea, luce cool"*
+(El Vehemiurgo, s16).
+
 ## Pendientes / huecos
 
 - [ ] Cronología Bullet Club / Bullet Club Guerrillas / War Dogs

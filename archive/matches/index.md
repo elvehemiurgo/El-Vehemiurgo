@@ -13,6 +13,13 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-01 | Fatal Influence vs Nikki Bella, Brie Bella & Paige | WWE / SummerSlam (Noche 1) | FS·WE | en-investigacion | 1 | [→](2026-08-01-fatal-influence-vs-nikki-brie-bella-paige-wwe-summerslam.md) |
+| 2026-08-01 | Nick Aldis vs Gunther | WWE / SummerSlam (Noche 1) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-01-nick-aldis-vs-gunther-wwe-summerslam.md) |
+| 2026-08-01 | LA Knight, Solo Sikoa & Royce Keys vs Jacob Fatu, Jey Uso & Jimmy Uso | WWE / SummerSlam (Noche 1) | WE | en-investigacion | 1 | [→](2026-08-01-la-knight-solo-sikoa-royce-keys-vs-jacob-fatu-jey-uso-jimmy-uso-wwe-summerslam.md) |
+| 2026-08-01 | Rey Fénix vs Mini Vikingo | AAA / Verano de Escándalo (Noche 2) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-01-rey-fenix-vs-mini-vikingo-aaa-verano-de-escandalo.md) |
+| 2026-08-01 | La Parka vs Mecha Wolf vs Lince Dorado | AAA / Verano de Escándalo (Noche 2) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-01-la-parka-vs-mecha-wolf-vs-lince-dorado-aaa-verano-de-escandalo.md) |
+| 2026-07-31 | Giulia vs Lash Legend | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-31-giulia-vs-lash-legend-wwe-smackdown.md) |
+| 2026-07-31 | Rey Fénix vs JD McDonagh | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-31-rey-fenix-vs-jd-mcdonagh-wwe-smackdown.md) |
 | 2026-07-27 | Raquel Rodríguez vs Sol Ruca | WWE / Monday Night Raw | FS·WE | en-investigacion | 1 | [→](2026-07-27-raquel-rodriguez-vs-sol-ruca-wwe-raw.md) |
 | 2026-07-27 | Ethan Page vs Rey Mysterio | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-07-27-ethan-page-vs-rey-mysterio-wwe-raw.md) |
 | 2026-07-26 | Kevin Knight vs Kenny Omega | AEW / Redemption | PW·FS·WE | en-investigacion | 1 | [→](2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md) |

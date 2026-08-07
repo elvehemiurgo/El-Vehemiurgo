@@ -148,6 +148,23 @@ segmento específico.
 Vehemiurgo posiciona a Zayn como contraparte generacional de Punk,
 el eje emocional del tag match de SNME.
 
+### Sesión 2026-08-01 s16 — Full heel, "corporate poster boy number 2" contra Punk
+
+**Cita verbatim**:
+
+> *"esta promo de Sami full heel está muy buena, siempre habla muy
+> bien, pero ahora que está como full heel, puedo disfrutar más sus
+> promos, especialmente contra face Punk, es perfecto [...] ahora como
+> Sami lo llama 'corporate poster boy', este setup está muy caliente"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: sin clase — segmento de hype (SmackDown,
+31/7/2026) de cara al match #1 contender vs Finn Bálor (anunciado
+realmente el 24/7). Cita completa confirmada: *"Congratulations CM
+Punk, you've ascended to the high rank of Corporate Poster Boy number
+2"*.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

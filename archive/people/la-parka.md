@@ -55,6 +55,22 @@ independiente del rival o contexto puntual.
 
 **Lectura sintética**: **Perfect Match.** Aporta el shine y el ritmo carny del trios (research: enzuigiri a Taurus tras su baile característico) que el Vehemiurgo lee explícitamente como estructura old-school.
 
+### Sesión 2026-08-01 s16 — Gana el segundo clasificatorio hacia Triplemanía 34
+
+**Cita verbatim**:
+
+> *"otra 3 way en el torneo por el título latinoamericano que dejó
+> vacante Vikingo, estuvo larga y muy dura, la verdad solo se
+> tropezaron una vez e incluso eso tuvo buen selling, fue brutal, se
+> merece todas las clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Remata a Mecha Wolf con
+Bonebreaker (AAA Verano de Escándalo Noche 2, 1/8/2026), clasificando
+al Fatal 4-Way por el AAA Latin American Championship vacante en
+Triplemanía 34 — segundo clasificado junto a El Hijo de Dr. Wagner Jr.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

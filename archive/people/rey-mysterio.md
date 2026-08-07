@@ -259,6 +259,17 @@ hallada en cobertura de prensa ligada a este show.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s16 — En la mesa de comentarios del main event de AAA
+
+**Contexto**: AAA Verano de Escándalo Noche 2, 1/8/2026. Comenta junto
+a Corey Graves y JBL el main event Fénix vs Mini Vikingo, como GM de
+AAA. El Vehemiurgo lo cita como parte de "contar esta historia" en
+comentarios — la frase "ultimate underdog" atribuida a Graves no se
+confirmó textual por research.
+
+**Lectura sintética**: sin clase individual — rol de comentarista, no
+de competidor en esta entrada.
+
 ## Pendientes / huecos
 
 - [ ] **WCW Halloween Havoc 1997 mask match vs Eddie** —

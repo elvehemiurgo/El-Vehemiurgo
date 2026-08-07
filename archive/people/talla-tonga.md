@@ -54,6 +54,13 @@ pierde por dropkick de esquina + doble Coup de Grace, con Tama
 interfiriendo activamente en su esquina (clothesline a espaldas del
 réferi, intento de chokebomb) sin éxito.
 
+### Sesión 2026-08-01 s16 — Chokeslam a Damian Priest, junto a Haku y Tama
+
+**Contexto**: mismo segmento que Tama Tonga (ver su ficha) — SmackDown,
+31/7/2026. Conecta chokeslam a Damian Priest.
+
+**Lectura sintética**: sin clase.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de firma/incorporación a WWE.

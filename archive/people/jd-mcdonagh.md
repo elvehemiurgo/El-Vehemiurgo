@@ -113,6 +113,15 @@ sección 3.
 
 **Lectura sintética**: Sin clase — la reserva sobre el ángulo pesa sobre el conjunto. Elogio de oficio real: *"ya saben hablar como wrestlers en TV"*, con la expectativa de que consigan un rival de mayor peso pronto.
 
+### Sesión 2026-08-01 s16 — Reta a Fénix por el título Cruiserweight, casi gana
+
+**Contexto**: SmackDown, 31/7/2026. Identificado por research como el
+"VD" del dictado del Vehemiurgo. Casi gana con Spanish Fly (kickout de
+Fénix); pierde tras la expulsión de Dominik Mysterio de ringside y la
+revancha de Danhausen sobre Dom.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut profesional.

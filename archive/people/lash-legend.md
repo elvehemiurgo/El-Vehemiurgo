@@ -108,6 +108,21 @@ singles). Ver
 
 **Lectura sintética**: **Alta a THE FUTURE IN 2026 (#17)** y **triple clase en el match vs Chelsea Green**, que **gana por fuerza, sin trampa**. Los dos ejes premiados son los que el Vehemiurgo reserva para un joven: **atención a los detalles old-school** y **buen ring positioning**. **CORRECCIÓN DE TRAYECTORIA IMPORTANTE**: en s50 (22/5) el archivo la registraba como incapaz de conducir un match — *"dejarla sola como la heel de la lucha casi la ahoga"*. **Dos semanas después el diagnóstico se revierte**, y encima sirve de vara comparativa contra Giulia. Ver [`../topics/the-future-in-2026.md`](../topics/the-future-in-2026.md).
 
+### Sesión 2026-08-01 s16 — Clasifica a la ladder match venciendo a Giulia, "sigue siendo el futuro"
+
+**Cita verbatim**:
+
+> *"el selling de Lash, que es mejor que el promedio de su generación,
+> si le presta atención a los detalles, y la ejecución de spots
+> deadlift o de powerhouse le quedó genial [...] el proyecto Lash sí
+> está evolucionando, sigue siendo el futuro"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Vence a Giulia con Lash Extension
+(SmackDown, 31/7/2026), clasificando al Interim WWE Women's
+Championship Ladder Match de SummerSlam.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

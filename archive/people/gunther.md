@@ -202,6 +202,21 @@ Aldis y amenaza con sumarlo a su lista de leyendas retiradas; cierra
 el segmento con low blow y powerbomb a Aldis a través de la mesa de
 firma, camino a SummerSlam.
 
+### Sesión 2026-08-01 s16 — Vence a Nick Aldis con sleeper hold en SummerSlam
+
+**Cita verbatim**:
+
+> *"Gunther vs Aldis fue histórico, sí le dieron la presentación y
+> peso con todo el presupuesto [...] la lucha se merece las 3 clases,
+> estuvo perfecta"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Somete a Aldis con sleeper hold
+hasta el tap out (SummerSlam Noche 1, 1/8/2026) — la victoria de
+Gunther no le resta al Vehemiurgo elogio a la actuación de Aldis, a
+quien sube al panteón como Héroe Fundamental #52 en el mismo aliento.
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo

@@ -240,6 +240,20 @@ el trío (Knight/Sikoa/Royce Keys) parado sobre la Bloodline.
 
 **Lectura sintética**: **WE** para el segmento.
 
+### Sesión 2026-08-01 s16 — Cierra su "campaña" contra el Bloodline en SummerSlam
+
+**Cita verbatim**:
+
+> *"la 3 contra 3 de LA Knight se merece un WE class solo por la
+> campaña de LA Knight y su victoria sobre el Bloodline, su actuación
+> estuvo perfecta"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **WE**. Remata a Jey Uso con BFT tras el Samoan
+Spike de Sikoa (SummerSlam Noche 1, 1/8/2026) — cierre de la campaña
+construida desde el 13/7.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

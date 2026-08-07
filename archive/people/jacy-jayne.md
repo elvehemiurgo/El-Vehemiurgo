@@ -209,6 +209,21 @@ la promo (SmackDown, 24/7) reclama su lugar en el Interim Women's
 Championship Ladder Match tras perder ante Tiffany Stratton, y le
 avisa que el título de EE.UU. femenino "será suyo".
 
+### Sesión 2026-08-01 s16 — Remata a Paige con Rolling Encore en SummerSlam
+
+**Cita verbatim**:
+
+> *"Fatal Influence derrotan a las veteranas, tuvieron una actuación
+> increíble, y cargaron con las Bellas [...] esta lucha se merece una
+> FS y WE classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **FS·WE**. Cubre a Paige con Rolling Encore en
+el Six-Woman Tag de SummerSlam Noche 1 (1/8/2026) — victoria del trío,
+con el propio Vehemiurgo señalando que Nikki Bella debería "reescribir
+su historia" como heel para competir con ella de verdad.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.

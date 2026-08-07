@@ -168,6 +168,14 @@ Termina un reinado de 92 días y 4 defensas de Paige & Brie Bella.
 trío leída explícitamente por el Vehemiurgo, por debajo de la ambición
 de Jacy Jayne.
 
+### Sesión 2026-08-01 s16 — Parte del trío ganador en el Six-Woman Tag de SummerSlam
+
+**Contexto**: mismo match que Jacy Jayne (ver su ficha) — SummerSlam
+Noche 1, 1/8/2026. Fatal Influence vence a Nikki Bella, Brie Bella y
+Paige.
+
+**Lectura sintética**: **FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

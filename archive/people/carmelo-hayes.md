@@ -125,6 +125,16 @@ elogio de conjunto a Hayes y Williams como "completos
 wrestler-entertainers" que sostuvieron el prestigio del US
 Championship vía promos y segmentos.
 
+### Sesión 2026-08-01 s16 — Mencionado como rival preferido para Trick en SummerSlam
+
+**Contexto**: SmackDown, 31/7/2026. El Vehemiurgo, criticando el
+booking de Trick Williams vs Baron Corbin, declara que hubiera
+preferido "Melo vs Trick para SummerSlam" para hacer la rivalidad más
+grande — propuesta editorial, no dato de archivo.
+
+**Lectura sintética**: sin clase — mención comparativa, no acción
+puntual.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (run NXT + main

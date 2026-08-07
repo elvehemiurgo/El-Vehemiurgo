@@ -300,6 +300,24 @@ sobre Gunther tras la interferencia de Nick Aldis.
 pipebomb/ejecución física es teoría propia del Vehemiurgo, sin eco en
 cobertura de prensa consultada por research.
 
+### Sesión 2026-08-01 s16 — Blanco de Zayn ("corporate poster boy #2"), brawl de cierre con Cody
+
+**Cita verbatim**:
+
+> *"el segmento final, con Punk y Cody, ahora sí la fricción escaló, la
+> hostilidad, y se siente la grudge match [...] se merece la WE class.
+> Es una rivalidad de ensueño la verdad, Cody tuvo su época dorada
+> fuera de WWE justo cuando Punk también pasaba por su éxodo, ambos
+> definieron 2 décadas de wrestling americano"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **WE** en el brawl de cierre (SmackDown,
+31/7/2026) — le ofrece a Rhodes un golpe gratis, este lo aprovecha
+para sacarlo del ring con clothesline. También blanco de la promo full
+heel de Sami Zayn el mismo show. Sin heel turn confirmado para
+ninguno.
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

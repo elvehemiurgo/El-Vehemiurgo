@@ -165,6 +165,25 @@ confirma sin ambigüedad la traición insinuada durante semanas.
 Post-match: se alía con Omos y Dorian Roldán (dato no mencionado en el
 dictado, sumado por research).
 
+### Sesión 2026-08-01 s16 — Expulsado de ringside, promo de apertura confirmando alianza con Omos/Roldán
+
+**Cita verbatim**:
+
+> *"Fénix y JD con Dominik, tuvieron un rato backstage [...] este
+> segmento se merece una WE class [...] Dominik abre con una promo muy
+> buena, realmente está hablando como wrestler, poniéndose más duro
+> cada semana, esta promo se merece una WE class porque es la
+> evolución"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **WE** en el backstage armando el match de
+Fénix (SmackDown, 31/7) y **WE** en su promo de apertura en AAA
+Verano de Escándalo Noche 2 (1/8), donde confirma su alianza con Omos
+y Dorian Roldán (cita: *"What did you expect from Dirty Dom? [...]
+the Dirtiest of the Dirty, the King of the Wrestlers?"*). Interfiere
+sin éxito en el match de Fénix vs McDonagh y es expulsado de ringside.
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.

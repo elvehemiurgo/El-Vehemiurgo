@@ -299,6 +299,16 @@ SNME (donde Punk lo golpeó accidentalmente con el título).
 
 **Lectura sintética**: sin clase declarada.
 
+### Sesión 2026-08-01 s16 — Codazo accidental en house show, brawl de cierre con Punk
+
+**Contexto**: mismo segmento que CM Punk (ver su ficha para la cita
+completa) — SmackDown, 31/7/2026. Research corrige: el recap de house
+show muestra un codazo trasero accidental, no un "empujón" literal.
+En el brawl de cierre, conecta el golpe gratis que Punk le ofrece y lo
+saca del ring con clothesline.
+
+**Lectura sintética**: **WE** para el segmento de cierre.
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

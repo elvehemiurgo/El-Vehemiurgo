@@ -156,6 +156,22 @@ No genera clase ni nota dedicada — mención cruzada.
 
 **Lectura sintética**: CORRECCIÓN DE EXPEDIENTE (research): **no tiene título en esta fecha** — lo perdió ante Tiffany Stratton el 24/4 tras 111 días de reinado. Le da una cachetada a Kiana James cerrando la ruptura de su alianza, declarando que ya tiene las palabras para decirlo en inglés. **Doctrina del techo de carisma silencioso**: riesgo de quedar topeada como Iyo Sky si no mejora en el micrófono. Le gana la revancha a James el 26/6.
 
+### Sesión 2026-08-01 s16 — Face metódica ante Lash Legend, clasificatorio a la ladder match
+
+**Cita verbatim**:
+
+> *"quería ver a Giulia como face, trabajando con una rookie heel como
+> Lash [...] tuvimos a la face stealth viper Giulia, muy metódica al
+> inicio [...] se merece las 3 clases [...] Aunque el booking para
+> Giulia está difícil por ahora"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Pierde ante Lash Legend en el
+clasificatorio final para el Interim WWE Women's Championship Ladder
+Match de SummerSlam (SmackDown, 31/7/2026) — reserva explícita sobre
+su booking actual, pese al elogio al match.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa STARDOM (títulos,

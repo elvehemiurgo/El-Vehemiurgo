@@ -60,6 +60,21 @@ intensa y booking "bien curado". El selling de ambos descrito como
 
 **Lectura sintética**: **Perfect Match** en el opener triple amenaza, ganando la contendencia al crucero de Rey Fénix. Capitaliza además la ausencia de su hermano lesionado con una línea backstage (*"escogiste al Vikingo equivocado"*) — WE. Finisher elogiado: Phoenix 630.
 
+### Sesión 2026-08-01 s16 — Cae ante Fénix en main event titular, "mejores crucifijos"
+
+**Cita verbatim**:
+
+> *"Mini Vikingo tiene los mejores crucifijos, vi una ejecución y
+> espectáculo excepcional, y era innovación con sentido [...] muy buen
+> selling, y el desenlace brillante"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Cae ante Rey Fénix (AAA World
+Cruiserweight Championship, Verano de Escándalo Noche 2, 1/8/2026,
+10:54) tras un Spanish Fly de nearfall y un rollup revertido al
+Mexican Muscle Buster.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -12,6 +12,15 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-01 | Nikki y Brie Bella traicionan a Paige — turn heel | WWE / SummerSlam (Noche 1) | post-match / turn heel | — | en-investigacion | 1 | [→](2026-08-01-bella-twins-traicionan-paige-wwe-summerslam.md) |
+| 2026-08-01 | Dominik Mysterio — promo de apertura | AAA / Verano de Escándalo (Noche 2) | promo | WE | en-investigacion | 1 | [→](2026-08-01-dominik-mysterio-promo-apertura-aaa-verano-de-escandalo.md) |
+| 2026-08-01 | Video promocional — recap del main event de Noche 1 | AAA / Verano de Escándalo (Noche 2) | video de recap | WE | en-investigacion | 1 | [→](2026-08-01-video-recap-noche-1-aaa-verano-de-escandalo.md) |
+| 2026-07-31 | CM Punk y Cody Rhodes — brawl de cierre | WWE / SmackDown | brawl de cierre | WE | en-investigacion | 1 | [→](2026-07-31-cm-punk-cody-rhodes-brawl-cierre-wwe-smackdown.md) |
+| 2026-07-31 | Rey Fénix, JD McDonagh y Dominik Mysterio — backstage armando la lucha | WWE / SmackDown | backstage / armado de match | WE | en-investigacion | 1 | [→](2026-07-31-rey-fenix-jd-mcdonagh-dominik-backstage-wwe-smackdown.md) |
+| 2026-07-31 | Trick Williams confronta a Baron Corbin | WWE / SmackDown | promo / confrontación in-ring | — | en-investigacion | 1 | [→](2026-07-31-trick-williams-vs-baron-corbin-confrontacion-wwe-smackdown.md) |
+| 2026-07-31 | Recap de house show (Cody/Punk) y Trick Williams interrumpe a Punk | WWE / SmackDown | recap + interrupción backstage | WE | en-investigacion | 1 | [→](2026-07-31-house-show-recap-trick-williams-interrumpe-punk-wwe-smackdown.md) |
+| 2026-07-31 | Haku aparece — emboscada de Tama y Talla Tonga | WWE / SmackDown | angle / emboscada | — | en-investigacion | 1 | [→](2026-07-31-haku-emboscada-tonga-wwe-smackdown.md) |
+| 2026-07-31 | Sami Zayn y Finn Bálor — promos de hype de cara a SummerSlam | WWE / SmackDown | promo en ring | — | en-investigacion | 1 | [→](2026-07-31-sami-zayn-finn-balor-promo-hype-wwe-smackdown.md) |
 | 2026-07-28 | Bronco Nima — dilema entre Los Perros del Mal y su tag team regular en NXT | WWE / NXT | análisis de booking / continuidad | — | en-investigacion | 1 | [→](2026-07-28-bronco-nima-dilema-perros-tag-team-wwe-nxt.md) |
 | 2026-07-28 | Cierre de show — Cruz Montana reta a Tony D'Angelo, Grayson Waller ataca a ambos | WWE / NXT | promo / brawl de cierre | — | en-investigacion | 1 | [→](2026-07-28-cruz-montana-tony-dangelo-grayson-waller-cierre-wwe-nxt.md) |
 | 2026-07-28 | Grayson Waller — promo tipo shoot | WWE / NXT | promo | WE | en-investigacion | 1 | [→](2026-07-28-grayson-waller-promo-wwe-nxt.md) |

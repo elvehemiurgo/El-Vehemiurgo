@@ -77,6 +77,17 @@ a un Six-Woman Tag en SummerSlam.
 
 **Lectura sintética**: sin clase declarada para el match.
 
+### Sesión 2026-08-01 s16 — Cae ante Fatal Influence, traiciona a Paige junto a Nikki
+
+**Contexto**: SummerSlam Noche 1, 1/8/2026. Cae junto a Nikki Bella y
+Paige ante Fatal Influence. **Post-match**: remata el ataque de Nikki
+sobre Paige — turn heel confirmado por research, no comentado
+directamente por el Vehemiurgo en este volcado. Ver
+[`../segments/2026-08-01-bella-twins-traicionan-paige-wwe-summerslam.md`](../segments/2026-08-01-bella-twins-traicionan-paige-wwe-summerslam.md).
+
+**Lectura sintética**: **FS·WE** para el match; sin clase para el
+turn post-match.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad y título** — [verif].

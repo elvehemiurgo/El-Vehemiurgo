@@ -215,6 +215,15 @@ comentado directamente por el Vehemiurgo en este volcado.
 cierre del segmento (Raw, 27/7/2026), escalada final hacia el six-man
 de SummerSlam.
 
+### Sesión 2026-08-01 s16 — "Se roba la escena" venciendo a su hermano Jey en SummerSlam
+
+**Contexto**: mismo six-man que LA Knight (ver su ficha) — SummerSlam
+Noche 1, 1/8/2026. Aplica Samoan Spike a Jimmy Uso, habilitando el
+BFT de Knight sobre Jey. Prensa lo describe "robándose la escena" por
+dominar a su propio hermano.
+
+**Lectura sintética**: **WE** para el segmento/match completo.
+
 ## Pendientes / huecos
 
 - [ ] Cronología detallada Bloodline original / interim Tribal

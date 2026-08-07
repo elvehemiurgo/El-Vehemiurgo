@@ -134,6 +134,23 @@ ya es leyenda consagrada. Ver
 
 **Lectura sintética**: **FS+WE**, reteniendo el AAA World Cruiserweight Championship. Research reveló que el ataque previo en NXT que "protegía" a Vikingo cubría en realidad una lesión real de rodilla — el match ya estaba grabado cuando ocurrió la lesión, así que la protección fue de emisión, no de guion.
 
+### Sesión 2026-08-01 s16 — Doble defensa del título Cruiserweight en 48 horas (SmackDown y AAA)
+
+**Cita verbatim**:
+
+> *"Fénix se vió muy cómodo en su regreso como campeón crucero [...]
+> tuvimos VD vs Fénix, una lucha muy buena, perfecta para tv [...] se
+> merece las 3 clases [...] el main event, Fénix vs Mini Vikingo,
+> estuvo increíble, se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** en ambas defensas — retiene el AAA
+World Cruiserweight Championship ante JD McDonagh (SmackDown, 31/7,
+Mexican Muscle Buster tras interferencia frustrada de Dominik) y ante
+Mini Vikingo (AAA Verano de Escándalo Noche 2, 1/8, 10:54, Mexican
+Muscle Buster).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

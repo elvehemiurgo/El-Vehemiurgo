@@ -75,6 +75,19 @@ existe).
 por encima de su compañera en la derrota — reinado de 92 días y 4
 defensas termina ante Fatal Influence, con interferencia de Jacy Jayne.
 
+### Sesión 2026-08-01 s16 — Cae ante Fatal Influence, traicionada por las Bellas post-match
+
+**Contexto**: SummerSlam Noche 1, 1/8/2026. Cae junto a Nikki y Brie
+Bella ante Fatal Influence (Rolling Encore de Jayne). **Post-match, no
+comentado por el Vehemiurgo en este volcado**: Nikki Bella la
+clotheslinea por sorpresa, Brie remata, Nikki aplica Rack Attack 2.0
+sobre su cuello quirúrgicamente reparado — turn heel de las Bella
+Twins contra ella. Ver
+[`../segments/2026-08-01-bella-twins-traicionan-paige-wwe-summerslam.md`](../segments/2026-08-01-bella-twins-traicionan-paige-wwe-summerslam.md).
+
+**Lectura sintética**: **FS·WE** para el match; sin clase para el
+turn post-match (no comentado directamente).
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad y título** — [verif].

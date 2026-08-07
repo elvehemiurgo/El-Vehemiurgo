@@ -102,6 +102,7 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 49 | **Rey Fénix** | Lucha libre mexicana / high-flying (AAA) | [→](../people/rey-fenix.md) |
 | 50 | **Laredo Kid** | Lucha libre mexicana / high-flying (AAA) | [→](../people/laredo-kid.md) |
 | 51 | **Chelsea Green** | WWE moderno / kayfabe y amor por el gimmick | [→](../people/chelsea-green.md) |
+| 52 | **Nick Aldis** | NWA / estilo clásico, GM-luchador | [→](../people/nick-aldis.md) |
 
 ## Notas de la expansión 2026-06-17
 
@@ -292,6 +293,47 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 · [`../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md`](../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md)
 · [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)
 · [`../people/chelsea-green.md`](../people/chelsea-green.md)
+
+## Notas de la alta 2026-08-01 s16 — Nick Aldis (#52)
+
+**Cita verbatim**:
+
+> *"Gunther vs Aldis fue histórico, sí le dieron la presentación y peso
+> con todo el presupuesto, y Aldis lo hizo genial, olvidé lo mucho que
+> me gusta su estilo, ponlo en el panteón de héroes de una vez, la
+> lucha se merece las 3 clases, estuvo perfecta"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim; visión directa WWE
+> SummerSlam Noche 1, 1/8/2026)
+
+**Por qué entra:**
+
+- **El criterio, otra vez, no es el resultado.** Aldis **pierde** el
+  match — Gunther lo somete con sleeper hold hasta el tap out — y aun
+  así el Vehemiurgo pide la alta sin condicionarla a la victoria. El
+  criterio es puro estilo y ejecución: *"Aldis lo hizo genial, olvidé
+  lo mucho que me gusta su estilo"*. Confirma el patrón ya sentado por
+  Chelsea Green (#51): booking/resultado y panteón son ejes distintos.
+- **Contexto de regreso**: primer match de Aldis en tres años, tras
+  renunciar transitoriamente a su cargo de GM de SmackDown para firmar
+  el contrato (24/7/2026). Pese a perder, recibió standing ovation y
+  coro de "you still got it" — dato que sostiene la lectura de
+  "histórico".
+- **Linaje NWA declarado por el propio Vehemiurgo** desde la firma de
+  contrato (24/7): *"un sueño tener a Gunther trabajando contra lo
+  mejor de NWA en distintas eras como Nick Aldis y Adam Pearce"* — la
+  alta corona ese arco de tres semanas, no solo el match de SummerSlam.
+- **Triple clase en el mismo match** (Perfect Wrestling + Fighting
+  Spirit + Wrestling Entertainment) — de las pocas altas al panteón
+  acompañadas de las tres clases simultáneas en la misma pieza que
+  dispara la entrada.
+
+**Piezas**:
+[`../matches/2026-08-01-nick-aldis-vs-gunther-wwe-summerslam.md`](../matches/2026-08-01-nick-aldis-vs-gunther-wwe-summerslam.md)
+·
+[`../segments/2026-07-24-nick-aldis-gunther-firma-contrato-wwe-smackdown.md`](../segments/2026-07-24-nick-aldis-gunther-firma-contrato-wwe-smackdown.md)
+·
+[`../people/nick-aldis.md`](../people/nick-aldis.md)
 
 ## Notas de la alta 2026-07-14 — Psicosis (#29, ratificación + ficha creada)
 

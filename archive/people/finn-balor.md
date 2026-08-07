@@ -182,6 +182,21 @@ hermano de Tama Tonga y veterano de NJPW/Bullet Club. Bálor gana en
 Sling Blade antes del doble Coup de Grace. El elogio es puntual sobre
 la ejecución de Bálor como veterano ("oldschool dominante").
 
+### Sesión 2026-08-01 s16 — Oportunidad de face en el caos Zayn/Punk
+
+**Cita verbatim**:
+
+> *"me encanta que este caos sea una oportunidad para Finn como face en
+> TV, especialmente mezclarlos con la frustración de Gunther, ahora que
+> él no es retador número uno, la escena pasó de ser solo Cody vs
+> Gunther, a ser una división all star de ensueño"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: sin clase — ganó el Fatal 4-Way #1 contender el
+24/7/2026 (dato confirmado por research, fuera del registro previo del
+archivo); el segmento del 31/7 es hype del match vs Sami Zayn.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de los runs como Demon gimmick.

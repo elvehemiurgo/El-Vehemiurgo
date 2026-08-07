@@ -201,6 +201,25 @@ revela que el match terminó en **no contest** por interferencia de
 dictado. Reserva explícita del Vehemiurgo sobre Trick: le falta
 "ponerse más brutal" para armar luchas perfectas.
 
+### Sesión 2026-08-01 s16 — Interrumpe a Punk, y booking criticado con Corbin
+
+**Cita verbatim**:
+
+> *"lo especial llega luego con Trick Williams interrumpiendo a Punk,
+> este careo foreshadowing es muy emocionante, se merece un WE class
+> [...] Trick tiene un buen segmento in ring, y de hecho él es la razón
+> por la que esto no es aburridísimo, porque Corbin sale y sigue siendo
+> el mismo heel WWE genérico [...] está desinflando el momentum de
+> Trick [...] deberían haber decidido por Melo vs Trick para
+> SummerSlam"*
+>
+> — El Vehemiurgo, 2026-08-01 s16 (verbatim)
+
+**Lectura sintética**: **WE** en la interrupción a Punk (foreshadowing
+de un feud generacional). **Sin clase, con crítica dura al booking**
+en la confrontación con Baron Corbin — el Vehemiurgo lo lee como peso
+muerto sin stakes reales de cara al US Title match de SummerSlam.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main
