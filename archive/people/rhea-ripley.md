@@ -91,6 +91,17 @@ cohesivo, leído como herramienta de protección para las heels
 jóvenes de Fatal Influence, no como derrota que las opaca. Ver
 [`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s17 — Su lesión indefinida motiva el título interino
+
+**Contexto**: research confirma que el ladder match de SummerSlam
+Noche 2 fue por el **Interim WWE Women's Championship** precisamente
+porque Ripley está lesionada indefinidamente — WWE optó por coronar
+campeona interina en vez de vacar el título principal. El Vehemiurgo
+declara explícitamente: *"pónganle buenas rivales [a Chelsea Green]
+hasta que vuelva Rhea"*.
+
+**Lectura sintética**: sin clase — mención de contexto/ausencia.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

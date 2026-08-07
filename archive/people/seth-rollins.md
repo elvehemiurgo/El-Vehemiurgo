@@ -56,6 +56,16 @@ a Breakker a luchar "al estilo Rollins" — exponiéndolo como
 resultado, no protegiéndolo. Ver
 [`./bron-breaker.md`](./bron-breaker.md).
 
+### Sesión 2026-08-01 s17 — Pierde el título mundial ante Roman Reigns en SummerSlam
+
+**Contexto**: SummerSlam Noche 2, 2/8/2026, main event (~33 min).
+Reigns contrarresta un Curbstomp con spear y cierra con un segundo
+spear. Intercambio de finishers y powerbombs a través de la mesa de
+comentaristas; choque de puños respetuoso post-match.
+
+**Lectura sintética**: sin clase declarada por el Vehemiurgo en este
+volcado — dato de contexto para el segmento de LA Knight en Raw.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

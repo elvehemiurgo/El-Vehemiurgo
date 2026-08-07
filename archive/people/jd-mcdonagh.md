@@ -122,6 +122,19 @@ revancha de Danhausen sobre Dom.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s17 — "Actuación especial" en el Human Monies, recibe DDT de Toritohausen
+
+**Cita verbatim**:
+
+> *"quiero destacar la actuación de JD de verdad"*
+>
+> — El Vehemiurgo, 2026-08-01 s17 (verbatim)
+
+**Lectura sintética**: sin clase declarada para el match. Interfiere
+sin éxito a favor de Dominik en el Human Monies vs Danhausen
+(SummerSlam Noche 2, 2/8/2026) y recibe un DDT de "Toritohausen" (El
+Torito disfrazado de Minihausen).
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut profesional.

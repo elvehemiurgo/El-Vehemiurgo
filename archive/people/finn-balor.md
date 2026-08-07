@@ -197,6 +197,14 @@ la ejecución de Bálor como veterano ("oldschool dominante").
 24/7/2026 (dato confirmado por research, fuera del registro previo del
 archivo); el segmento del 31/7 es hype del match vs Sami Zayn.
 
+### Sesión 2026-08-01 s17 — Cae en el fatal 4-way ante Kevin Owens
+
+**Contexto**: mismo match que Sami Zayn (ver su ficha) — SummerSlam
+Noche 2, 2/8/2026. Cae ante el Stunner de Owens, primero de los tres
+en recibirlo.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de los runs como Demon gimmick.

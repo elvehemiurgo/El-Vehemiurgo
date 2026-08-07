@@ -13,6 +13,11 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-02 | Chad Gable vs Penta | WWE / SummerSlam (Noche 2) | WE | en-investigacion | 1 | [→](2026-08-02-chad-gable-vs-penta-wwe-summerslam.md) |
+| 2026-08-02 | Dominik Mysterio vs Danhausen | WWE / SummerSlam (Noche 2) | — | en-investigacion | 1 | [→](2026-08-02-dominik-mysterio-vs-danhausen-wwe-summerslam.md) |
+| 2026-08-02 | Ladder Match — Interim WWE Women's Championship | WWE / SummerSlam (Noche 2) | FS·WE | en-investigacion | 1 | [→](2026-08-02-ladder-match-interim-womens-championship-wwe-summerslam.md) |
+| 2026-08-02 | Sami Zayn vs Finn Bálor vs Gunther vs Kevin Owens | WWE / SummerSlam (Noche 2) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-02-sami-zayn-vs-finn-balor-vs-gunther-vs-kevin-owens-wwe-summerslam.md) |
+| 2026-08-01 | Oba Femi vs Brock Lesnar | WWE / SummerSlam (Noche 1) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-01-oba-femi-vs-brock-lesnar-wwe-summerslam.md) |
 | 2026-08-01 | Fatal Influence vs Nikki Bella, Brie Bella & Paige | WWE / SummerSlam (Noche 1) | FS·WE | en-investigacion | 1 | [→](2026-08-01-fatal-influence-vs-nikki-brie-bella-paige-wwe-summerslam.md) |
 | 2026-08-01 | Nick Aldis vs Gunther | WWE / SummerSlam (Noche 1) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-01-nick-aldis-vs-gunther-wwe-summerslam.md) |
 | 2026-08-01 | LA Knight, Solo Sikoa & Royce Keys vs Jacob Fatu, Jey Uso & Jimmy Uso | WWE / SummerSlam (Noche 1) | WE | en-investigacion | 1 | [→](2026-08-01-la-knight-solo-sikoa-royce-keys-vs-jacob-fatu-jey-uso-jimmy-uso-wwe-summerslam.md) |

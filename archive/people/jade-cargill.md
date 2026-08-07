@@ -54,6 +54,16 @@ una "guerra de tercias" en el roster femenino. Ver
 [`../promotions/irresistible-forces.md`](../promotions/irresistible-forces.md),
 [`../promotions/fatal-influence.md`](../promotions/fatal-influence.md).
 
+### Sesión 2026-08-01 s17 — Atrapa a Tiffany en un spot destacado, cae en el forcejeo final
+
+**Contexto**: mismo match que Tiffany Stratton (ver su ficha) —
+Interim WWE Women's Championship, SummerSlam Noche 2, 2/8/2026.
+Forcejea con Charlotte Flair por el título; ambas caen, dejando el
+camino libre para que Chelsea Green se corone. B-Fab y Michin
+interfieren a su favor contra Green.
+
+**Lectura sintética**: **FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

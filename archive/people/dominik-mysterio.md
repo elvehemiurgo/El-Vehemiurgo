@@ -184,6 +184,16 @@ y Dorian Roldán (cita: *"What did you expect from Dirty Dom? [...]
 the Dirtiest of the Dirty, the King of the Wrestlers?"*). Interfiere
 sin éxito en el match de Fénix vs McDonagh y es expulsado de ringside.
 
+### Sesión 2026-08-01 s17 — Pierde el "Human Monies on a Pole match" ante Danhausen
+
+**Contexto**: SummerSlam Noche 2, 2/8/2026. Estipulación real: $100,000
+colgados en una bolsa. Agarra la bolsa primero, pero Danhausen la
+maldice y explota con pirotecnia. JD McDonagh interfiere sin éxito a
+su favor.
+
+**Lectura sintética**: sin clase — "entretenido... no lo vería
+completo" (El Vehemiurgo, s17).
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.

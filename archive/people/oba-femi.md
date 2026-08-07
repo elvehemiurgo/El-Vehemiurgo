@@ -176,6 +176,20 @@ con personal de seguridad tras el cruce.
 
 **Lectura sintética**: **WE** para el segmento.
 
+### Sesión 2026-08-01 s17 — Vence a Brock Lesnar en Hell in a Cell, recibe el rub
+
+**Cita verbatim**:
+
+> *"Femi vs Lesnar fue todo lo que me esperaba, fue más larga por la
+> estipulación, pero es histórico y son gimmicks importantes, así que
+> le daré las 3 clases, me parece un clásico"*
+>
+> — El Vehemiurgo, 2026-08-01 s17 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Vence a Lesnar (SummerSlam Noche
+1, 1/8/2026) con Fall from Grace tras resistir múltiples F5 — Lesnar
+alza su mano y dice "This is the future", rub explícito.
+
 ## Pendientes
 
 - [ ] NXT World Championship reigns — pieces editoriales.

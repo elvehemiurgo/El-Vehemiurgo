@@ -165,6 +165,14 @@ realmente el 24/7). Cita completa confirmada: *"Congratulations CM
 Punk, you've ascended to the high rank of Corporate Poster Boy number
 2"*.
 
+### Sesión 2026-08-01 s17 — Cae en el fatal 4-way ante Kevin Owens
+
+**Contexto**: SummerSlam Noche 2, 2/8/2026. El match original vs Finn
+Bálor se amplía a fatal 4-way (sumando a Gunther y Kevin Owens) por
+decisión de Nick Aldis. Cae ante el Stunner de Owens.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

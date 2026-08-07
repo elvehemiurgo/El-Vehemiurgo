@@ -284,6 +284,23 @@ dejándolo a merced de Ángel Garza y Daga, que rematan con doble stomp.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s17 — Gana el WWE Intercontinental Championship como Chad Gable, sin la máscara
+
+**Cita verbatim**:
+
+> *"Gable vs Penta, no es mi tipo de lucha, pero sí dieron un show, le
+> pondría un WE class, porque los destroyers y strikes así a mí no me
+> gustan, pero no puedo negar el espectáculo"*
+>
+> — El Vehemiurgo, 2026-08-01 s17 (verbatim)
+
+**Lectura sintética**: **WE**, con reserva de gusto personal. Vence a
+Penta por el WWE Intercontinental Championship (SummerSlam Noche 2,
+2/8/2026, ankle lock tras contrarrestar un Destroyer) — **primer
+título individual de Gable en WWE tras casi 13 años**. Research
+confirma que en esta cobertura específica aparece como Chad Gable
+directo, sin la gimmick de El Grande Americano.
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania

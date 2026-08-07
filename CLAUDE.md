@@ -217,6 +217,15 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   ficha pueden estar desordenadas — antes de declarar una
   contradicción, ordenar por fecha de show (precedente Saquon
   Shugars, s48). Método completo en el registro de nombres.
+  **Silencio editorial (ley desde 2026-08-01 s17)**: *"si no
+  menciono un segmento o algo, es porque o no lo he visto, o no me
+  pareció destacable"* (verbatim del Vehemiurgo). La ausencia de un
+  segmento en el dictado **no dispara research ni se marca como
+  hueco a completar** — es una omisión deliberada, distinta de un
+  nombre incompleto (que sí dispara la ley de sub-agentes de
+  arriba). Si el Vehemiurgo menciona explícitamente que algo "no le
+  interesó" o le pareció "mid" sin darle clase, se registra esa
+  frase como la lectura completa — no se infiere una lectura mayor.
 - **Sistema de clases del Vehemiurgo** (no estrellas):
   `glossary/clases-vehemiurgo.md`. Tres clases —
   *Perfect Wrestling Class*, *Fighting Spirit Class*,

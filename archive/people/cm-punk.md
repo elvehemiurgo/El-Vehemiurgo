@@ -318,6 +318,16 @@ para sacarlo del ring con clothesline. También blanco de la promo full
 heel de Sami Zayn el mismo show. Sin heel turn confirmado para
 ninguno.
 
+### Sesión 2026-08-01 s17 — Blanco de la especulación de un feud generacional con Kevin Owens
+
+**Contexto**: SummerSlam Noche 2, 2/8/2026. Tras el regreso y triunfo
+de Kevin Owens en el fatal 4-way #1 contender, el Vehemiurgo anticipa
+explícitamente un cruce Owens vs Punk como "rivalidad generacional
+histórica" — Owens es ahora el contendiente #1 a su título indisputado.
+
+**Lectura sintética**: sin clase — mención especulativa de
+continuidad, no acción puntual.
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

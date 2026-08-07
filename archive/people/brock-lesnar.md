@@ -177,6 +177,16 @@ frente" — fue Lesnar quien encerró a Femi dentro de la cell con
 cadena y candado, guardándose la llave en la boca, jugada de poder no
 neutral, de cara al Hell in a Cell de SummerSlam.
 
+### Sesión 2026-08-01 s17 — Pierde ante Oba Femi en Hell in a Cell, le da el rub
+
+**Contexto**: SummerSlam Noche 1, 1/8/2026. Golpea a Femi con las
+escaleras y conecta múltiples F5, pero Femi resiste y remata con Fall
+from Grace. Post-match: Lesnar dice "This is the future" y le alza la
+mano — coherente con la doctrina del retiro carny ya registrada sobre
+Lesnar en este archivo.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes
 
 - [ ] WrestleMania XX 2004 loss vs Eddie — pieza editorial

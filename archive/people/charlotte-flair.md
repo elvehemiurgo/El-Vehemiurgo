@@ -107,6 +107,15 @@ rivales jóvenes, dentro de un match que aun así entra con doble
 clase. Ver
 [`../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md`](../matches/2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s17 — Forcejea por el título en el cierre del ladder match
+
+**Contexto**: Interim WWE Women's Championship, SummerSlam Noche 2,
+2/8/2026. Forcejea con Jade Cargill por el título en el tramo final;
+ambas caen, dejando a Chelsea Green sola para coronarse. No mencionada
+individualmente por el Vehemiurgo en el dictado.
+
+**Lectura sintética**: **FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Confirmar nombre real, debut, trayectoria completa (carrera

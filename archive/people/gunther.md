@@ -217,6 +217,14 @@ hasta el tap out (SummerSlam Noche 1, 1/8/2026) — la victoria de
 Gunther no le resta al Vehemiurgo elogio a la actuación de Aldis, a
 quien sube al panteón como Héroe Fundamental #52 en el mismo aliento.
 
+### Sesión 2026-08-01 s17 — Sumado al fatal 4-way por Nick Aldis, cae ante Owens
+
+**Contexto**: SummerSlam Noche 2, 2/8/2026. Nick Aldis lo suma al
+match Zayn-Bálor, un día después de vencerlo por sumisión. Cae ante el
+segundo Stunner de Kevin Owens.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo

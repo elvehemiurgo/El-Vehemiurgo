@@ -251,6 +251,17 @@ research no confirma su presencia en el show.
 **Lectura sintética**: sin clase — Reigns es referencia retórica, no
 participante directo del segmento.
 
+### Sesión 2026-08-01 s17 — Vence a Rollins en SummerSlam, confrontado por LA Knight en Raw
+
+**Contexto**: vence a Seth Rollins en el main event de SummerSlam
+Noche 2 (2/8/2026, ~33 min, spear tras contrarrestar Curbstomp),
+reteniendo el título mundial. En Raw (3/8/2026), LA Knight lo
+confronta con sarcasmo; Reigns responde llamándolo fraude también y
+ordena al Bloodline no atacarlo, dejando el conflicto personal.
+
+**Lectura sintética**: **WE** para el segmento de Raw (ver ficha de
+LA Knight para la cita completa).
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

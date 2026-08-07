@@ -254,6 +254,21 @@ el trío (Knight/Sikoa/Royce Keys) parado sobre la Bloodline.
 Spike de Sikoa (SummerSlam Noche 1, 1/8/2026) — cierre de la campaña
 construida desde el 13/7.
 
+### Sesión 2026-08-01 s17 — Confronta a Roman Reigns en la apertura de Raw
+
+**Cita verbatim**:
+
+> *"me encanta el booking de LA los últimos dos meses, aquí lo sacan
+> para meterse con Roman, se burla felicitándolo por ganarle a Rollins
+> sin ayuda en SummerSlam, muy buen segmento, se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s17 (verbatim)
+
+**Lectura sintética**: **WE**. Interrumpe a Reigns (Raw, 3/8/2026), lo
+felicita con sarcasmo, lo llama fraude, pide título shot singles —
+Reigns responde en el mismo segmento y ordena al Bloodline no
+atacarlo. Sin match pactado aún.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

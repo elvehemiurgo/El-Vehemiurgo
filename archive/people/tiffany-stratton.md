@@ -164,6 +164,21 @@ Women's Championship Ladder Match de SummerSlam (no defensa de su
 propio título). Evolución de performer destacada explícitamente por el
 Vehemiurgo — "timing de main eventer".
 
+### Sesión 2026-08-01 s17 — "Puso un super show" en el ladder match, atrapada por Jade
+
+**Cita verbatim**:
+
+> *"Tiffany puso un super show, se está convirtiendo en algo genial,
+> Jade atrapó muy bien a Tiffany en ese full impresionante,
+> felizmente"*
+>
+> — El Vehemiurgo, 2026-08-01 s17 (verbatim)
+
+**Lectura sintética**: **FS·WE** para el match completo (Interim WWE
+Women's Championship, SummerSlam Noche 2, 2/8/2026). No se corona —
+gana Chelsea Green — pero el Vehemiurgo destaca su actuación
+individual como en ascenso ("se está convirtiendo en algo genial").
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

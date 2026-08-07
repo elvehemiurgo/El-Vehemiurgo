@@ -123,6 +123,15 @@ singles). Ver
 (SmackDown, 31/7/2026), clasificando al Interim WWE Women's
 Championship Ladder Match de SummerSlam.
 
+### Sesión 2026-08-01 s17 — Participa en el ladder match del Interim Women's Championship
+
+**Contexto**: SummerSlam Noche 2, 2/8/2026. Parte del campo de cinco
+(junto a Green, Cargill, Flair y Stratton) — no mencionada
+individualmente por el Vehemiurgo en el dictado, confirmada por
+research como parte del match.
+
+**Lectura sintética**: **FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

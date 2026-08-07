@@ -42,10 +42,21 @@ a Brie — Rack Attack 2.0 sobre el cuello quirúrgicamente reparado de
 Paige, gritando "This is my house!" y "The real Bellas are back". Ver
 [`../segments/2026-08-01-bella-twins-traicionan-paige-wwe-summerslam.md`](../segments/2026-08-01-bella-twins-traicionan-paige-wwe-summerslam.md).
 
+### Sesión 2026-08-01 s17 — Cierre editorial: "no me interesó, me parece mid"
+
+**Cita verbatim**:
+
+> *"para el caso de las Bella Twins traicionaron a Paige no me
+> interesó y no lo voy a comentar porque me parece mid"*
+>
+> — El Vehemiurgo, 2026-08-01 s17 (verbatim)
+
+**Lectura sintética**: cierre explícito, no hueco — resuelve el
+pendiente anterior. Desinterés declarado, no clase.
+
 ## Pendientes / huecos
 
-- [ ] Preguntar al Vehemiurgo si vio el turn heel y quiere darle
-      lectura propia.
+- (sin pendientes activos sobre este punto)
 
 ## Piezas relacionadas
 

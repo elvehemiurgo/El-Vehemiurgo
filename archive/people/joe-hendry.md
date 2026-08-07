@@ -162,6 +162,20 @@ Dominik Mysterio (Raw, 20/7/2026), capitalizando tras el Danhausen
 Death Drop — Iyo Sky neutraliza a Liv Morgan en el cierre, dato que
 research suma al dictado original.
 
+### Sesión 2026-08-01 s17 — Interviene con guitarra al estilo Jeff Jarrett
+
+**Cita verbatim**:
+
+> *"Joe Hendry haciendo un Jeff Jarrett, no sé si eso ya se queda como
+> parte de su acto, pero fue cool verlo así full slap nutz"*
+>
+> — El Vehemiurgo, 2026-08-01 s17 (verbatim)
+
+**Lectura sintética**: sin clase. Interviene con guitarra en el Human
+Monies vs Danhausen (SummerSlam Noche 2, 2/8/2026), ayudando a
+Danhausen — confirmado por research, aunque el detalle exacto "slap
+nutz" no se halló en cobertura.
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas TNA World Title run.

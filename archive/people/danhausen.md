@@ -61,6 +61,18 @@ intentó robarle dinero falso a Danhausen backstage esa misma noche.
 **Lectura sintética**: **PW·FS·WE** en el match completo (declarada
 sobre el conjunto).
 
+### Sesión 2026-08-01 s17 — Gana el "Human Monies", con los Minihausens y Toritohausen
+
+**Contexto**: mismo match que Dominik Mysterio (ver su ficha) —
+SummerSlam Noche 2, 2/8/2026. Maldice la bolsa de dinero, provoca la
+explosión con pirotecnia y se queda con los $100,000. Uno de sus
+Minihausens es revelado en vivo por Michael Cole como **El Torito**
+("Toritohausen"), que le da un DDT a JD McDonagh. Joe Hendry
+interviene con guitarra a su favor.
+
+**Lectura sintética**: sin clase — "me entretuvo, no lo vería
+completo".
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (recorrido indie y

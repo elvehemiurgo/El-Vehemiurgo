@@ -160,6 +160,27 @@ comedia dentro del ángulo de manipulación ya establecido. Ver
 
 **Lectura sintética**: Sin clase — declaración de proyección de storyline. Confirmado por research: llega armada con un **kendo stick** y ahuyenta a Michin y B-Fab, salvando a Tiffany Stratton en plena entrevista con Cathy Kelley. Junto a Stratton, declarada "el futuro" del roster femenino de SmackDown, a la par de Fatal Influence.
 
+### Sesión 2026-08-01 s17 — Se corona campeona interina en ladder match, "muy Chelsea traicionar a Tiffany"
+
+**Cita verbatim**:
+
+> *"la coronación de Chelsea es genial, muy bien pensado, bien
+> capitalizado, y es muy Chelsea también traicionar a Tiffany por el
+> título, el booking está genial, de verdad quiero seguir viendo, ahora
+> espero que deje de trabajar con B-Fab y Jade, pónganle buenas
+> rivales hasta que vuelva Rhea"*
+>
+> — El Vehemiurgo, 2026-08-01 s17 (verbatim)
+
+**Lectura sintética**: **FS·WE** para el match completo. Se corona
+**Interim WWE Women's Championship** (SummerSlam Noche 2, 2/8/2026),
+escalando sola tras la caída de Charlotte Flair y Jade Cargill.
+**Tensión declarada con research**: la fuente más detallada describe
+la secuencia con Stratton como cooperación táctica, no traición activa
+— se preserva la lectura del Vehemiurgo, marcada `[verif]` frente a
+esa fuente. Deseo editorial explícito: rivales nuevas, no Jade/B-Fab,
+hasta el regreso de Rhea Ripley.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

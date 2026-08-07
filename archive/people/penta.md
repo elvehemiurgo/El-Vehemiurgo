@@ -115,6 +115,15 @@ contrastado explícitamente con el manejo opuesto de Bronco Nima (ver
 [`bronco-nima.md`](./bronco-nima.md)), ambos evaluados positivamente
 por el Vehemiurgo.
 
+### Sesión 2026-08-01 s17 — Pierde el título Intercontinental ante Chad Gable
+
+**Contexto**: mismo match que El Grande Americano/Chad Gable (ver su
+ficha) — SummerSlam Noche 2, 2/8/2026. Pierde el WWE Intercontinental
+Championship tras un Destroyer contrarrestado y ankle lock.
+
+**Lectura sintética**: **WE** para el match completo, con reserva de
+gusto personal del Vehemiurgo sobre el estilo (no sobre la ejecución).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.

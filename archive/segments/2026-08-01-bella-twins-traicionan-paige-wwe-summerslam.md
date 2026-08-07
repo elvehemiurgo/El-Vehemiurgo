@@ -29,8 +29,8 @@ tags: [wwe-2026, summerslam, nikki-bella, brie-bella, paige, heel-turn, sin-clas
 
 # Nikki y Brie Bella traicionan a Paige — SummerSlam Noche 1 (1/8/2026)
 
-> Sin clase — swerve confirmado por research, no mencionado
-> directamente por el Vehemiurgo en el dictado de este volcado.
+> Sin clase — swerve confirmado por research; el Vehemiurgo lo vio y
+> declaró explícitamente que no le interesa comentarlo (s17).
 
 ## Contexto
 
@@ -62,12 +62,25 @@ camino que este segmento abre. Blanco elegido para el ataque: el
 cuello de Paige, quien tuvo una cirugía cervical real documentada
 fuera de kayfabe — dato de peso narrativo si el ángulo lo explota.
 
+## Cierre editorial (2026-08-01 s17)
+
+**Cita verbatim**:
+
+> *"para el caso de las Bella Twins traicionaron a Paige no me
+> interesó y no lo voy a comentar porque me parece mid"*
+>
+> — El Vehemiurgo, 2026-08-01 s17 (verbatim)
+
+**Lectura sintética**: cierre explícito, no hueco. Confirma la doctrina
+de "silencio editorial" (CLAUDE.md §4) — la ausencia de comentario en
+el volcado original no era omisión por no haberlo visto, sino
+desinterés declarado. No se abre ninguna pregunta pendiente sobre este
+punto.
+
 ## Pendientes / huecos
 
-- [ ] Preguntar al Vehemiurgo si vio este segmento y quiere darle
-      clase o lectura propia.
 - [ ] Seguimiento del arco post-turn — fuera del horizonte de este
-      registro.
+      registro (sin interés editorial declarado del Vehemiurgo).
 
 ## Piezas relacionadas
 
