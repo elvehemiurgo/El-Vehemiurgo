@@ -57,4 +57,4 @@ titulado `VEHEMIURGIA: <Era>`.
 
 | Sesión | Archivo | Estado |
 |---|---|---|
-| VEHEMIURGIA: CZW 2017 - 2018 | [`czw-2017-2018.md`](./czw-2017-2018.md) | en construcción |
+| VEHEMIURGIA: CZW 2017 - 2018 | [`czw-2017-2018.md`](./czw-2017-2018.md) | **guía completa** — 25 shows, lista para el visionado |
