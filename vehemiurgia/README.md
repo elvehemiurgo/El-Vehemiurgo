@@ -53,6 +53,12 @@ titulado `VEHEMIURGIA: <Era>`.
 - Las guías viven en esta carpeta y son piezas vivas: se corrigen si
   el visionado revela errores de la fuente.
 
+**Especificación de máximos**: [`sesion-ideal.md`](./sesion-ideal.md)
+— qué contiene una sesión VEHEMIURGIA hecha sin concesiones (ciclo de
+vida completo, anatomía de la guía sección por sección, estándares de
+research, fases de renombrado/visionado/volcado, anti-patrones y
+checklists). Toda guía nueva se mide contra ese documento.
+
 ## Sesiones
 
 | Sesión | Archivo | Estado |
