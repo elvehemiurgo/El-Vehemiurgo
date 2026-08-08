@@ -18,8 +18,11 @@ Ejecutar los pasos EN ORDEN. Fuente de doctrina: CLAUDE.md §§4-6.
    FECHA + NOMBRE DE SHOW, lanzar sub-agente de research SIN PEDIR
    PERMISO** para cerrar participantes, roles, finishes y títulos
    en juego (ley 2026-08-01: *"cuando no especifico es porque
-   espero que lo averigües y completes por mí"*). El sub-agente va
-   con briefing anti-fabricación y advertencia 403. (e) solo si el
+   espero que lo averigües y completes por mí"*; ampliada s20: el
+   **resultado — ganador + finish — se cierra SIEMPRE igual que
+   los nombres**, y va al frontmatter de toda ficha nueva de
+   match). El sub-agente va con briefing anti-fabricación y
+   advertencia 403. (e) solo si el
    research tampoco resuelve →
    `[verif]` con candidatos. **(e) El contexto dictado es verdad de
    tablas**: afiliaciones, alineaciones y resultados que el

@@ -38,6 +38,44 @@ los otros tres, quedando como nuevo contendiente #1 al título
 indisputado de **CM Punk** — payoff directo de la expectativa del
 Vehemiurgo de un cruce generacional entre ambos.
 
+### Sesión 2026-08-01 s20 — Cara a cara con Punk: "el feudo generacional del año"
+
+**Cita verbatim**:
+
+> *"la promo de Owens, en gran parte es mentira [...] no es nada
+> creativo a estas alturas [...] igual levantó la promo al final
+> cuando lo insulta y vota el micrófono y se acerca, estuvo genial, fue
+> histórico. Este es el feudo generacional del año, todo lo que
+> representa este versus, Kevin Steen se quedó en las indies después
+> de que Punk firmara con WWE, es otra era de ROH y con PWG y CZW"*
+>
+> — El Vehemiurgo, 2026-08-01 s20 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento, con crítica de
+dirección de promo (el ángulo moral gastado) y reconocimiento del
+cierre. Match titular pactado: vs Punk, SmackDown 21/8/2026, Toronto.
+La tesis generacional disparó el research
+`punk-vs-owens-historia-completa-2026` (dossier en integración).
+
+### Research 2026-08-01 — Historia completa con CM Punk (dossier)
+
+**Hallazgo central del research `punk-vs-owens-historia-completa-2026`**
+(3 sub-agentes, dossier en
+[`../../dossiers/draft-punk-vs-owens-historia-completa.md`](../../dossiers/draft-punk-vs-owens-historia-completa.md)):
+**cero luchas contra Punk en toda la historia** — Toronto 21/8/2026
+será la primera. Claves del expediente: el **T-Shirt Incident** (ROH,
+16/4/2005) como herida fundacional, contada por el propio Steen en
+shoots; la frialdad on-record sostenida (*"We're not friends"*, Daily
+Mail 2024); el **patrón de las camisetas** como puñalada pública
+(tuit post-Brawl Out 2022, "I made it in a t-shirt" 2024, foto sin
+contexto 2025); estuvo **a semanas de firmar con AEW** (contrato
+vencía 31/1/2022, re-firmó dic. 2021 por ~$2-3M/año según Meltzer);
+y su promo de campeón ROH 2012 contra el público que coreaba a Punk.
+Cierra pendiente previo: lesión anunciada 4/4/2025, **fusión cervical
+de un nivel en julio 2025**, 17 meses fuera. Dato carny del build
+actual: Wade Barrett declaró que los "higher-ups" ordenaron NO
+mencionar el heat real en comentario.
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).

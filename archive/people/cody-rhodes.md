@@ -309,6 +309,24 @@ saca del ring con clothesline.
 
 **Lectura sintética**: **WE** para el segmento de cierre.
 
+### Sesión 2026-08-01 s20 — Sospecha de alianza Punk/Orton, "ya no tengo que ser el buen tipo"
+
+**Cita verbatim**:
+
+> *"Cody hizo muy bien su parte, lo de pensar si Punk está aliado con
+> Orton es algo que no se me ocurrió [...] yo pienso que solo se
+> arriesgan a que la gente abuchee a Cody, pero igual es entretenido,
+> este segmento se merece un WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s20 (verbatim)
+
+**Lectura sintética**: **WE**. Research cierra el contexto que faltaba:
+perdió el título ante Punk en SummerSlam N1 por el RKO del regresado
+Randy Orton (ref bump mediante). El 7/8 plantea la sospecha de
+alianza, Punk la niega y Cody la acepta; en segmento posterior
+confronta a Orton ("eres la última leyenda que queda en WWE") y
+declara que ya no tiene que ser "el buen tipo".
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

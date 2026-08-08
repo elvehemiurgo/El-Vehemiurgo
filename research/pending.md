@@ -7,6 +7,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | _(vacío)_ | | | | | |
 
+> `punk-vs-owens-historia-completa-2026` cerrada e integrada el
+> 2026-08-01 (3 sub-agentes) — ver [`closed.md`](./closed.md).
+
 > `stakes-grandes-americanos-vs-drew-fatu-comparativa-2026` cerrada e
 > integrada el 2026-08-01 (3 sub-agentes) — ver
 > [`closed.md`](./closed.md).

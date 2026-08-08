@@ -205,6 +205,14 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   nombre es un encargo, no una laguna aceptable.** Con fecha +
   show en el dictado, se lanza sub-agente **sin pedir permiso** y
   se cierran participantes, roles, finishes y títulos en juego.
+  **Ampliación (ley desde 2026-08-01 s20)**: *"cada vez que ingrese
+  una nueva lucha o segmento, así como completas los nombres de
+  acuerdo a la fecha y show, también hazlo con el resultado de la
+  lucha"* (verbatim del Vehemiurgo) — el **resultado (ganador +
+  finish)** tiene el mismo estatus que los nombres: si el dictado
+  no lo trae, el research lo cierra siempre, y el archivo registra
+  ganador y mecanismo del finish en el frontmatter de toda ficha
+  nueva de match.
   `[verif]` queda **solo** para lo que el research tampoco cierra.
   Precedente: el 5-way y Las Tóxicas de *Noche de los Grandes*
   Night 2 (s02→s53), donde el research además destapó que dos

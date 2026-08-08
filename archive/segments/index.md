@@ -12,6 +12,8 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-07 | Kevin Owens y CM Punk — cara a cara de retador y campeón | WWE / SmackDown | cara a cara / promo | WE | en-investigacion | 1 | [→](2026-08-07-kevin-owens-cm-punk-cara-a-cara-wwe-smackdown.md) |
+| 2026-08-07 | Cody Rhodes — sospecha de alianza Punk/Orton | WWE / SmackDown | promo / confrontación | WE | en-investigacion | 1 | [→](2026-08-07-cody-rhodes-sospecha-punk-orton-wwe-smackdown.md) |
 | 2026-08-03 | Becky Lynch confronta a Liv Morgan — regreso de Stephanie Vaquer | WWE / Monday Night Raw | promo / regreso doble | WE | en-investigacion | 1 | [→](2026-08-03-becky-lynch-stephanie-vaquer-regreso-wwe-raw.md) |
 | 2026-08-03 | LA Knight molesta al Bloodline backstage | WWE / Monday Night Raw | backstage / provocación | — | en-investigacion | 1 | [→](2026-08-03-la-knight-molesta-bloodline-backstage-wwe-raw.md) |
 | 2026-08-03 | LA Knight confronta a Roman Reigns | WWE / Monday Night Raw | promo / confrontación en ring | WE | en-investigacion | 1 | [→](2026-08-03-la-knight-confronta-roman-reigns-wwe-raw.md) |

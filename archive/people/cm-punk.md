@@ -328,6 +328,38 @@ histórica" — Owens es ahora el contendiente #1 a su título indisputado.
 **Lectura sintética**: sin clase — mención especulativa de
 continuidad, no acción puntual.
 
+### Sesión 2026-08-01 s20 — Retuvo en SummerSlam con ayuda involuntaria de Orton; cara a cara con Owens
+
+**Cita verbatim**:
+
+> *"Punk le dio material porque se descontroló y lo empezó a insultar
+> por indie y por ser humilde antes, como si Punk no viniera de ahí"*
+>
+> — El Vehemiurgo, 2026-08-01 s20 (verbatim)
+
+**Lectura sintética**: **WE** en ambos segmentos del 7/8 (Cody y
+Owens). Research cierra el resultado que faltaba: **retuvo el título
+indisputado ante Cody en SummerSlam N1** (GTS tras el RKO sorpresa de
+Orton). En el cara a cara con Owens, el insulto por "indie"
+(*"moliéndose en las indies y pidiéndole boletos"*) es leído por el
+Vehemiurgo como el material que Owens debió capitalizar. Match titular
+pactado: vs Owens, SmackDown 21/8, Toronto.
+
+### Research 2026-08-01 — Historia completa con Kevin Owens (dossier)
+
+**Hallazgo central del research `punk-vs-owens-historia-completa-2026`**
+(3 sub-agentes, dossier en
+[`../../dossiers/draft-punk-vs-owens-historia-completa.md`](../../dossiers/draft-punk-vs-owens-historia-completa.md)):
+**cero luchas contra Owens en toda la historia** — el match del
+21/8/2026 en Toronto será el primero absoluto. La herida original es
+el **T-Shirt Incident** (ROH Stalemate, 16/4/2005): Punk, líder del
+locker room, humilló al rookie Steen delante del vestidor por pedir
+luchar en camiseta. La única respuesta de Punk en 20 años es un tuit
+culpando a Gabe Sapolsky. Su lado del expediente es **silencio
+total**: ninguna declaración sobre Owens fuera de kayfabe salvo
+"Happy for Kev" (2022). El insulto por "indie" del 7/8/2026 replica,
+en worked-shoot, el desprecio original de 2005.
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment
