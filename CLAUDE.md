@@ -394,6 +394,7 @@ Cuando vuelva, integro y cito.
 | Segmento / promo (registro personal) | `archive/segments/` | vivo, irregular | `templates/segment.md` |
 | Bitácora cronológica del Vehemiurgo | `notebook/` | por sesión de volcado | descrito en `notebook/README.md` |
 | Dashboard de research delegado | `research/pending.md` + `research/closed.md` | actualizado por evento | descrito en `research/README.md` |
+| Watch party guiado (VEHEMIURGIA) | `vehemiurgia/` | a demanda, por corpus de shows | descrito en `vehemiurgia/README.md` |
 
 Cada pieza arranca como `draft-` y se renombra al pasar la edición.
 
