@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "git -C ../El-Vehemiurgo pull --ff-only 2>&1 | tail -1; echo \"VEHEMIURGIA @ $(git -C ../El-Vehemiurgo log -1 --format='%h %s' 2>/dev/null)\"; echo \"guias vehemiurgia: $(ls ../El-Vehemiurgo/vehemiurgia/ 2>/dev/null | grep -v README | tr '\\n' ' ')\""
+          }
+        ]
+      }
+    ]
+  }
+}

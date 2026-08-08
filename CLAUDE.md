@@ -538,6 +538,17 @@ el satélite nunca escribe este repo. Kit de arranque y templates:
 `satelite-tiktok/`. La producción TikTok (estilo, formatos,
 cadencia) NO se maneja en este repo.
 
+### Satélite LOCAL / mediateca (autorizado 2026-08-01 s22)
+
+Segundo satélite, mismo contrato: Claude Code en la PC del
+Vehemiurgo **con acceso a sus carpetas locales** (mediateca
+`E:\VEHEWRES\...`). Sus tareas: ejecutar las tablas de renombrado
+de las guías `vehemiurgia/`, organizar la mediateca, y acompañar
+los watch parties en vivo. **Read-only sobre este repo**; los
+takes que surjan en visionado se dictan ACÁ vía `/volcado` (el
+satélite solo los anota como borrador temporal). Kit de arranque
+y templates: `satelite-local/`.
+
 ---
 
 ## 9. Estado del proyecto
