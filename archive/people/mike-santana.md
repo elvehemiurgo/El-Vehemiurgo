@@ -219,6 +219,22 @@ retando a D'Angelo, con Grayson Waller irrumpiendo para atacarlo.
 identidad bajo esta misma ficha (mismo talent real), no se abre
 ficha nueva.
 
+### Sesión 2026-08-01 s21 — Cruz Montana, criticado por "repetir la historia de TNA"
+
+**Cita verbatim**:
+
+> *"Cruz Montana sigue con la historia de superación, o sea, solo
+> quieren repetir lo que hizo en TNA, pero es difícil para él, se le
+> está haciendo más difícil competir con Grayson"*
+>
+> — El Vehemiurgo, 2026-08-01 s21 (verbatim)
+
+**Lectura sintética**: sin clase. Confronta a Waller defendiendo su
+historia de superación ("me pruebo en el ring, no en el micrófono");
+Waller le responde preguntando cuántas veces más la va a repetir —
+línea que sostiene la crítica del Vehemiurgo. Anunciado vs Waller
+para el #1 contender del 11/8/2026.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

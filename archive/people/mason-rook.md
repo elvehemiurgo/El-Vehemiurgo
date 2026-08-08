@@ -94,6 +94,14 @@ tres apariciones — y ubicado explícitamente por delante de Kam
 Hendrix en desarrollo. Ver
 [`../segments/2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md`](../segments/2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md).
 
+### Sesión 2026-08-01 s21 — Confronta a Waller, atacado por Kam Hendrix
+
+**Contexto**: NXT, 4/8/2026. Encara a Waller por llamar "soft" al
+roster masculino; Kam Hendrix lo ataca por la espalda y terminan a
+golpes mientras Waller observa sin intervenir.
+
+**Lectura sintética**: **WE** para el segmento de conjunto.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar el episodio exacto del debut** — hipótesis

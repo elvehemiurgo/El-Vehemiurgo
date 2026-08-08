@@ -179,6 +179,17 @@ Women's Championship, SummerSlam Noche 2, 2/8/2026). No se corona —
 gana Chelsea Green — pero el Vehemiurgo destaca su actuación
 individual como en ascenso ("se está convirtiendo en algo genial").
 
+### Sesión 2026-08-01 s21 — Blanco de la disculpa de Chelsea, retada por Jacy Jayne al título US
+
+**Contexto**: SmackDown, 7/8/2026. Recibe la disculpa de Chelsea Green
+por el empujón de SummerSlam; Jacy Jayne la reta por el WWE Women's
+United States Championship para la semana siguiente. Cae junto a
+Green ante Henley & Reid en el match de parejas, y es atacada
+post-match por Nia Jax & Lash Legend.
+
+**Lectura sintética**: **WE** en el segmento, **PW·FS·WE** en el
+match.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

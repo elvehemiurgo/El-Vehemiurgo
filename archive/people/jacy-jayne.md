@@ -224,6 +224,20 @@ el Six-Woman Tag de SummerSlam Noche 1 (1/8/2026) — victoria del trío,
 con el propio Vehemiurgo señalando que Nikki Bella debería "reescribir
 su historia" como heel para competir con ella de verdad.
 
+### Sesión 2026-08-01 s21 — Reta a Stratton al título US, interfiere en el match de parejas
+
+**Cita verbatim**:
+
+> *"solo Jacy dijo algo realmente entretenido"*
+>
+> — El Vehemiurgo, 2026-08-01 s21 (verbatim)
+
+**Lectura sintética**: **WE** en el segmento (dato de research:
+interfiere en el match posterior con un Rolling Encore sobre Chelsea
+Green, sin competir oficialmente — no está en el match, no recibe la
+clase PW·FS·WE del mismo). Reta a Tiffany Stratton por el título US
+femenino (SmackDown, 7/8/2026).
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.

@@ -71,6 +71,16 @@ Montana, terminando a golpes con D'Angelo. Sigue siendo NXT Champion
 stakes" es lectura editorial propia del Vehemiurgo, sin corroboración
 de prensa.
 
+### Sesión 2026-08-01 s21 — Señala que Waller nunca fue campeón, anuncia el #1 contender del 11/8
+
+**Contexto**: NXT, 4/8/2026. Trae a colación el WarGames 2021
+(Breakker, Hayes, Trick Williams) para señalar que Waller fue el
+único de ese grupo sin título — dato que el Vehemiurgo leyó como
+"stakes orgánico" atribuido a Waller. Anuncia Waller vs Cruz Montana
+como #1 contender para el 11/8, con el ganador retándolo en Heatwave.
+
+**Lectura sintética**: sin clase individual.
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar qué título sostiene** — [verif].

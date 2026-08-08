@@ -77,6 +77,15 @@ propio Sharpshooter de esta, rematado por Thea Hail arrojando la
 toalla desde el ringside. El Vehemiurgo la ve fortalecida por la
 victoria pese al mecanismo asistido.
 
+### Sesión 2026-08-01 s21 — Vence junto a Thea Hail, neutraliza la interferencia de Natalya
+
+**Contexto**: NXT, 4/8/2026. Junto a Thea Hail, vence a Nikkita Lyons
+& Karmen Petrovic — neutraliza una interferencia de Natalya antes del
+senton final de Hail.
+
+**Lectura sintética**: **WE** para el match completo (elogio de
+conjunto, no comentado individualmente por el Vehemiurgo).
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, grafía exacta, trayectoria, empresa.

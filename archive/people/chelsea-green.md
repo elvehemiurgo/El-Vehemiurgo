@@ -181,6 +181,23 @@ la secuencia con Stratton como cooperación táctica, no traición activa
 esa fuente. Deseo editorial explícito: rivales nuevas, no Jade/B-Fab,
 hasta el regreso de Rhea Ripley.
 
+### Sesión 2026-08-01 s21 — Se disculpa con Tiffany, título de parejas defendido junto a ella
+
+**Cita verbatim**:
+
+> *"me gustó el booking para Chelsea como campeona, el asunto con
+> Tiffany que está así sugerente y me gusta la tensión [...] esta
+> lucha se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s21 (verbatim)
+
+**Lectura sintética**: **WE** en el segmento, **PW·FS·WE** en el match
+(SmackDown, 7/8/2026). Se disculpa verbalmente con Stratton por el
+empujón de SummerSlam; ambas caen ante Henley & Reid por el título de
+parejas (Jayne interfiere) y son atacadas post-match por Nia Jax &
+Lash Legend — Jax le arrebata el título interino y se insinúa
+retadora.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

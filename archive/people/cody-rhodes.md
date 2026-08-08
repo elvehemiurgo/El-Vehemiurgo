@@ -327,6 +327,23 @@ alianza, Punk la niega y Cody la acepta; en segmento posterior
 confronta a Orton ("eres la última leyenda que queda en WWE") y
 declara que ya no tiene que ser "el buen tipo".
 
+### Sesión 2026-08-01 s21 — Elaboración: lectura de posible heel turn
+
+**Cita verbatim**:
+
+> *"Cody lo volvió interesante, dijo que ya no era campeón, ni
+> retador, y que ya no tiene que ser el bueno [...] creo que están
+> apostando por el heel turn entonces, me parece genial, no creo que
+> se venga algo radical para Cody, pero me gusta este giro"*
+>
+> — El Vehemiurgo, 2026-08-01 s21 (verbatim)
+
+**Lectura sintética**: sin clase nueva — elaboración sobre el segmento
+ya registrado en s20 (ver
+[`../segments/2026-08-07-cody-rhodes-sospecha-punk-orton-wwe-smackdown.md`](../segments/2026-08-07-cody-rhodes-sospecha-punk-orton-wwe-smackdown.md)).
+El Vehemiurgo lee una apuesta moderada por un heel turn, sin esperar
+un cambio radical e inmediato.
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

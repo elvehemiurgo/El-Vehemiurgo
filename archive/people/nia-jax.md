@@ -68,6 +68,18 @@ de underdog de Chelsea Green sin necesidad de intervenir.
 
 **Lectura sintética**: **FS+WE para el match** (clase del combate). **Registro de oficio de primer orden**: es **Nia quien dirige la lucha**, y esa conducción es lo que **protege** a Chelsea Green en su regreso tras cuatro meses. Trabajar de heavyweight conduciendo a una rival más chica —y que la rival salga fortalecida perdiendo— es exactamente el trabajo que el Vehemiurgo premia. Una semana después vuelve, esta vez ringside, en el Perfect Match de Chelsea vs Lash Legend.
 
+### Sesión 2026-08-01 s21 — Ataca a Green y Stratton post-match, se queda con el título interino
+
+**Contexto**: SmackDown, 7/8/2026. Junto a Lash Legend (The
+Irresistible Forces), ataca a Chelsea Green y Tiffany Stratton tras
+el match de parejas; le arrebata el título interino a Green y lo
+levanta parada sobre su cuerpo, insinuándose primera retadora — dato
+de research, no comentado directamente por el Vehemiurgo en este
+volcado, aunque coincide con su deseo editorial explícito de sumarla
+a la mezcla.
+
+**Lectura sintética**: sin clase individual — dato de continuidad.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

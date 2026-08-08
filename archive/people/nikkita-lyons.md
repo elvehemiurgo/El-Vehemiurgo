@@ -89,6 +89,20 @@ completa.
 **Lectura sintética**: sin clase individual — mención dentro del
 elogio a la facción, no take directo en este volcado.
 
+### Sesión 2026-08-01 s21 — Pierde ante Jaida Parker & Thea Hail, "obteniendo ese edge que le faltaba"
+
+**Cita verbatim**:
+
+> *"realmente han restado cosas innecesarias a su repertorio, y con
+> Nattie, se han puesto más stiff, más oldschool [...] están
+> obteniendo ese edge que les faltaba"*
+>
+> — El Vehemiurgo, 2026-08-01 s21 (verbatim)
+
+**Lectura sintética**: **WE** para el match completo (NXT, 4/8/2026),
+pese a la derrota — el elogio es de evolución de estilo, no de
+resultado.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

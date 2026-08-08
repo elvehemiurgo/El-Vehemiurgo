@@ -43,6 +43,14 @@ del Vehemiurgo al trabajo de "empaque" que Natalya le da a su facción
 misma persona que lidera Los Perros del Mal en AAA (doble rol activo
 NXT/AAA).
 
+### Sesión 2026-08-01 s21 — Interfiere sin éxito por Nikkita Lyons y Karmen Petrovic
+
+**Contexto**: NXT, 4/8/2026. Intenta interferir a favor de su
+facción (Lyons/Petrovic) en el match ante Jaida Parker & Thea Hail;
+Parker la neutraliza.
+
+**Lectura sintética**: sin clase individual — dato de research.
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de carrera (no cubiertos en este registro puntual).

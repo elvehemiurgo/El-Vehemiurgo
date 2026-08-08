@@ -47,6 +47,14 @@ pero Kam sostiene su parte y ambos *"se ven bien"*. El calificativo
 va con la vara ajustada al nivel: *"para ser rookies"*. Ver
 [`./mason-rook.md`](./mason-rook.md).
 
+### Sesión 2026-08-01 s21 — Ataca a Mason Rook por la espalda
+
+**Contexto**: NXT, 4/8/2026. Ataca a Mason Rook por la espalda
+mientras este confronta a Waller; terminan a golpes hasta que
+seguridad los separa.
+
+**Lectura sintética**: **WE** para el segmento de conjunto.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-WWE.

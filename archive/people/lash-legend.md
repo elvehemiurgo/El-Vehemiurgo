@@ -132,6 +132,13 @@ research como parte del match.
 
 **Lectura sintética**: **FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s21 — Ataca a Green y Stratton post-match junto a Nia Jax
+
+**Contexto**: mismo post-match que Nia Jax (ver su ficha) — SmackDown,
+7/8/2026. The Irresistible Forces atacan a Green y Stratton.
+
+**Lectura sintética**: sin clase individual — dato de continuidad.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

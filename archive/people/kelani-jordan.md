@@ -149,6 +149,16 @@ y
 
 **Lectura sintética**: **Perfect Match** en la #1 Contender's al NXT Women's Championship, perdiendo ante Kendal Grey. Research confirma el mecanismo detras del elogio del Vehemiurgo: en el segmento previo (2/6) reclama nunca haber tenido shot al titulo de NXT y contrasta con haberse ido a **TNA** y ganar el Knockouts Championship, siendo ridiculizada por eso, mientras a Lola Vice la elogiaron por su AAA Mixed Tag Title. La rivalidad se construye citando el estatus ganado fuera de WWE.
 
+### Sesión 2026-08-01 s21 — Intercambio de respeto con Waller
+
+**Contexto**: NXT, 4/8/2026. Le dice a Waller que hará lo que él
+nunca hizo: ganar el título grande en su primer intento; Waller la
+despide con aliento — el único de los tres beats del segmento sin
+fricción.
+
+**Lectura sintética**: **WE** para el segmento de conjunto (ver ficha
+de Grayson Waller).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

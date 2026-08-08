@@ -67,6 +67,30 @@ tags: [wwe-2026, smackdown, cody-rhodes, cm-punk, randy-orton, summerslam-fallou
   revivir la rivalidad con Orton) queda como pronóstico editorial
   falsable, a seguir en el arco.
 
+### Sesión 2026-08-01 s21 — Elaboración: lectura de posible heel turn
+
+**Cita verbatim**:
+
+> *"el segmento con Randy y Cody, me gustó, pensé que insistirían con
+> lo mismo del road to WrestleMania, pero Cody lo volvió interesante,
+> dijo que ya no era campeón, ni retador, y que ya no tiene que ser el
+> bueno, así que puede ser la peor versión de sí mismo si quiere, y
+> creo que están apostando por el heel turn entonces, me parece
+> genial, no creo que se venga algo radical para Cody, pero me gusta
+> este giro, Cody es muy creativo, de verdad es bueno para crear
+> stakes"*
+>
+> — El Vehemiurgo, 2026-08-01 s21 (verbatim)
+
+**Lectura sintética**: sin clase nueva (la WE de s20 ya cubre el
+segmento completo) — es elaboración sobre la misma pieza, no una
+entrada distinta. El Vehemiurgo lee en la línea "ya no tiene que ser
+el bueno" una apuesta deliberada por abrir la puerta a un heel turn de
+Cody, con la reserva explícita de que no espera "algo radical" —
+lectura moderada, no un pronóstico de turn inminente y completo.
+Elogio de fondo: Cody como creador de stakes, no solo ejecutor de
+ángulos ya escritos.
+
 ## Pendientes / huecos
 
 - [ ] Confirmar recinto exacto.

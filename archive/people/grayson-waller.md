@@ -46,6 +46,23 @@ administración" y del título de D'Angelo como "sin stakes" son lectura
 editorial propia del Vehemiurgo, sin confirmación de prensa. Se roba
 también el segmento de cierre del episodio, atacando a Cruz Montana.
 
+### Sesión 2026-08-01 s21 — "El show de Grayson Waller ahora", tres segmentos consecutivos
+
+**Cita verbatim**:
+
+> *"este es el show de Grayson Waller ahora, no tiene competencia [...]
+> este tipo es el salvador de NXT"*
+>
+> — El Vehemiurgo, 2026-08-01 s21 (verbatim)
+
+**Lectura sintética**: **WE** en los tres segmentos del 4/8/2026 —
+video de apertura (recap de su promo del 28/7), continuación con
+D'Angelo y Cruz Montana (corrección: es D'Angelo quien señala que
+Waller nunca fue campeón, no introspección espontánea), y los tres
+beats con Kelani Jordan, Mason Rook y Kam Hendrix (corrección: no es
+un "rub" uniforme, con Rook/Hendrix es fricción que presencia, no
+eleva). Se anuncia Waller vs Cruz Montana, #1 contender, 11/8/2026.
+
 ## Pendientes / huecos
 
 - [ ] Transcripción completa verbatim de la promo.

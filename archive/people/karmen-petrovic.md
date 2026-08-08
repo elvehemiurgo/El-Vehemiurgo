@@ -36,6 +36,13 @@ Nikkita Lyons — ver ficha de Natalya para la cita completa.
 **Lectura sintética**: sin clase individual — mención dentro del
 elogio a la facción, no take directo sobre su trabajo en el ring.
 
+### Sesión 2026-08-01 s21 — Pierde junto a Nikkita Lyons, elogiada por su evolución de gimmick
+
+**Contexto**: mismo match que Nikkita Lyons (ver su ficha) — NXT,
+4/8/2026.
+
+**Lectura sintética**: **WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de su run en NXT 2023–2026.

@@ -151,6 +151,13 @@ Paige.
 
 **Lectura sintética**: **FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s21 — Retiene el título de parejas junto a Fallon Henley
+
+**Contexto**: mismo match que Fallon Henley (ver su ficha) —
+SmackDown, 7/8/2026.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

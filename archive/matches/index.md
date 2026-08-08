@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-07 | Fallon Henley & Lainey Reid (c) vs Chelsea Green & Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-07-fallon-henley-lainey-reid-vs-chelsea-green-tiffany-stratton-wwe-smackdown.md) |
+| 2026-08-04 | Nikkita Lyons & Karmen Petrovic vs Jaida Parker & Thea Hail | WWE / NXT | WE | en-investigacion | 1 | [→](2026-08-04-nikkita-lyons-karmen-petrovic-vs-jaida-parker-thea-hail-wwe-nxt.md) |
 | 2026-08-03 | Chad Gable & Penta vs Dominik Mysterio & JD McDonagh | WWE / Monday Night Raw | WE | en-investigacion | 1 | [→](2026-08-03-chad-gable-penta-vs-dominik-mysterio-jd-mcdonagh-wwe-raw.md) |
 | 2026-08-03 | Roxanne Perez vs Sol Ruca | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-03-roxanne-perez-vs-sol-ruca-wwe-raw.md) |
 | 2026-08-03 | Jevon Evans vs Ethan Page (2do encuentro de 2026) | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-03-jevon-evans-vs-ethan-page-2-wwe-raw.md) |

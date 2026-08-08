@@ -48,6 +48,14 @@ planteó y desactivó en el mismo show — Punk negó saber, Cody aceptó.
 El pronóstico del Vehemiurgo (riesgo de que abucheen a Cody al revivir
 la rivalidad) queda como predicción falsable a seguir.
 
+### Sesión 2026-08-01 s21 — Blanco de la elaboración sobre el posible heel turn de Cody
+
+**Contexto**: SmackDown, 7/8/2026. Mismo segmento ya registrado en
+s20 — el Vehemiurgo elabora su lectura del enfrentamiento con Cody
+como posible detonante de un heel turn de este último.
+
+**Lectura sintética**: sin clase nueva.
+
 ## Pendientes / huecos
 
 - [ ] Resultado exacto de Cody vs Orton en WrestleMania 42 — snippets
