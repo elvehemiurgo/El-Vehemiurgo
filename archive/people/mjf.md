@@ -593,6 +593,47 @@ Vehemiurgo**, no como dato duro.
 [vs Dezmond Xavier](../matches/2017-11-11-mjf-vs-dezmond-xavier-czw-night-of-infamy.md) (PW·FS·WE) ·
 [vs Janela, revancha COD19](../matches/2017-12-09-mjf-vs-joey-janela-revancha-czw-cage-of-death-19.md) (todas las clases)
 
+### Sesión 2026-08-01 s27 — Campeón mundial de CZW: la preview de Briscoe, Hangman y Kingston
+
+**Citas verbatim**:
+
+> *"bookean una firma de contrato con MJF y RSP, les quedó muy cool, en
+> contraste y los gimmicks, hacen que se escriba solo todo [...] Se
+> merecen una WE class."*
+
+> *"MJF atacando psicologicamente sin honor, mientras RSP quiere probar
+> que es mejor que MJF y está más luchando contra el estigma, con la
+> cabeza muy llena de variables, entonces es el juego de MJF, que
+> incluso lo hizo firmar para no usar el ultra violent, asi que es una
+> gran historia, como una preview de lo que MJF haría luego con Mark
+> Briscoe, Hangman o Eddie Kingston. La lucha se merece las 3 clases,
+> además el desenlace con MJF usando una silla así todo irónico, es
+> genial, buen booking, lo disfruté mucho."*
+>
+> — El Vehemiurgo, 2026-08-01 s27 (verbatim)
+
+**El main event del show pivote del bienio**: MJF derrota a **Rickey
+Shane Page** por Fujiwara armbar con ref stoppage (RSP inconsciente en
+su propia sangre) y se convierte en **campeón mundial de CZW**,
+cediendo el Wired esa misma noche. **Triple clase.**
+
+**La comparación más grande que el Vehemiurgo ha trazado sobre MJF en
+todo el corpus**: *"una preview de lo que MJF haría luego con Mark
+Briscoe, Hangman o Eddie Kingston"*. La jugada que identifica —
+desarmar al rival por contrato antes del campanazo, prohibiéndole a
+RSP usar su propio estilo ultra violento— es, según esta lectura, el
+mismo método que MJF llevaría a escala mayor en AEW años después.
+
+**Post-main event**: MJF desprecia y abandona el CZW Wired Championship
+en el mismo ring — **WE class** al segmento completo, que además cierra
+con **David Starr** coronado como el próximo retador natural.
+
+**Piezas de la sesión**:
+[firma de contrato con RSP](../segments/2018-03-10-firma-contrato-mjf-rsp-czw-proving-grounds.md) (WE) ·
+[tag con Claxton vs Colon & RSP](../matches/2018-03-10-colon-rsp-vs-claxton-mjf-czw-proving-grounds.md) (WE) ·
+[vs RSP, título mundial](../matches/2018-04-14-mjf-vs-rickey-shane-page-czw-botb17.md) (PW·FS·WE) ·
+[post-main event, desprecia el Wired](../segments/2018-04-14-mjf-post-main-event-david-starr-cierra-czw-botb17.md) (WE)
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual

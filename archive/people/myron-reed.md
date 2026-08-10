@@ -119,6 +119,24 @@ no hay draw. Reed queda nombrado como una de las dos excepciones, y
 en la misma sesión asciende al Tier 0. El criterio del tier encaja:
 influencia real por encima del reconocimiento recibido.
 
+### Sesión 2026-08-01 s27 — Primera ronda de Best of the Best 17
+
+**Cita verbatim**:
+
+> *"Wentz vence a Reed y Miguel (los tres de Ohio, respeto post-match)
+> - Muy buen showcase [...] esta lucha es increible, muy buena escuela
+> igual; la lucha se merece las 3 clases."*
+>
+> — El Vehemiurgo, 2026-08-01 s27 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Reed cae en primera ronda del
+torneo Best of the Best 17 ante Zachary Wentz y Trey Miguel, en un
+match que el Vehemiurgo elogia como *"muy buena escuela"* pese a la
+derrota — consistente con su lectura ya registrada de Reed como uno de
+los dos herederos fieles del estilo OI4K (junto a Jake Crist).
+
+**Pieza**: [vs Zachary Wentz y Trey Miguel](../matches/2018-04-14-zachary-wentz-vs-myron-reed-trey-miguel-czw-botb17.md) (PW·FS·WE)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, edad.

@@ -4,10 +4,11 @@ tipo: fact-sheet
 categoria: people
 slug: tessa-blanchard
 estado: vivo
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #10 (en comentarios del cluster protección Arianna)"
   - "Lista personal verbatim: 2 entradas Tessa Blanchard"
+  - "El Vehemiurgo, notebook 2026-08-01 s27 (VISIONADO DIRECTO — CZW Best of the Best 17 14/4/2018, VEHEMIURGIA)"
 tags: [tessa-blanchard, tully-blanchard-hija, four-horsemen-legacy, tna-knockouts-world-champion-historico-2020, tna-2025-2026-veterana, comentarios-tna-impact-2026, wwe-controversial-departure-history]
 ---
 
@@ -103,6 +104,49 @@ tags: [tessa-blanchard, tully-blanchard-hija, four-horsemen-legacy, tna-knockout
   polémica real y la kayfabe se retroalimentan (el caso Tessa
   Blanchard)"*.
 
+### Sesión 2026-08-01 s27 — El booking intergénero de la era CZW 2017-2018, y la genealogía Candice LeRae / Taya Valkyrie
+
+**Cita verbatim**:
+
+> *"Starr Y Tessa Blanchard avanzan ambos (sumisión sobre Avalon), el
+> booking de Tessa en esta era en general es super cool, tiene buenos
+> momentos, algunas buenas luchas, y esta 3 way como tal, me pareció
+> muy buena, dentro del booking de Tessa se conserva algo de sentido
+> aunque el kayfabe es que Tessa es el talento que trasciende la
+> división femenina, para el momento, desde Candice Lerae en PWG, no
+> habia otro booking así de aceptado y entretenido y cuidado de alguna
+> forma, efectivo dentro de todo, tal vez Taya Valkerie es otra que
+> tuvo booking intergenero cuidado y prolifico en america. Y estos 3
+> son gimmicks fuertes, esta versión de 2017-2018 de Tessa más
+> wrestler wrestler así menos pop, me parece más badass que la tessa
+> moderna que es más estereotipica y pop mexicano, en general es un
+> año de personajes muy badass 2017. Esta lucha se merece las 3
+> clases."*
+>
+> — El Vehemiurgo, 2026-08-01 s27 (verbatim)
+
+**Lectura sintética — el take de género y booking más extenso que el
+archivo tiene sobre ella**:
+
+- **Genealogía editorial propia**: el Vehemiurgo traza una línea de
+  booking intergénero cuidado en América — **Candice LeRae en PWG**
+  como precedente de referencia, **Tessa Blanchard en CZW 2017-2018** y
+  **Taya Valkyrie** como los otros dos casos *"cuidados y prolíficos"*.
+  No es elogio suelto: es una tesis de trayectoria del oficio.
+- **El kayfabe explicado, no solo aceptado**: *"Tessa es el talento
+  que trasciende la división femenina"* — el Vehemiurgo distingue
+  entre booking intergénero **con sentido** (el caso de Tessa en esta
+  era) y la variante vacía que la doctrina rechaza.
+- **Juicio de declive de gimmick, consistente con su método en toda la
+  sesión**: *"esta versión de 2017-2018 de Tessa [...] me parece más
+  badass que la tessa moderna que es más estereotipica y pop
+  mexicano"*. Es la misma familia de crítica que aplicó a **Zachary
+  Wentz** un párrafo después en el mismo volcado — el archivo registra
+  el patrón: el Vehemiurgo compara sistemáticamente versiones
+  tempranas y actuales de un mismo talento, y no siempre gana la
+  actual.
+- **Triple clase** para el match completo (3-way ante Peter Avalon).
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar exacto de nacimiento.
@@ -129,3 +173,6 @@ tags: [tessa-blanchard, tully-blanchard-hija, four-horsemen-legacy, tna-knockout
   beneficiaria del cluster protección.
 - [`../people/jodi-threat.md`](../people/jodi-threat.md) — oponente
   signature 19 feb 2026 + match anchor.
+- [`../matches/2018-04-14-david-starr-tessa-blanchard-avalon-czw-botb17.md`](../matches/2018-04-14-david-starr-tessa-blanchard-avalon-czw-botb17.md)
+- [`../matches/2018-04-14-david-starr-vs-matt-riddle-tessa-blanchard-czw-botb17.md`](../matches/2018-04-14-david-starr-vs-matt-riddle-tessa-blanchard-czw-botb17.md)
+- [`../../vehemiurgia/czw-2017-2018.md`](../../vehemiurgia/czw-2017-2018.md)

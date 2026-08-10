@@ -134,6 +134,35 @@ robó la marca al promotor** es influencia real. Y en 2026 está del
 otro lado de la mesa, comprando empresas y diciendo en público lo
 mismo que dice esta doctrina sobre draw.
 
+### Sesión 2026-08-01 s27 — La coronación de MJF, protegido en la derrota
+
+**Cita verbatim**:
+
+> *"MJF atacando psicologicamente sin honor, mientras RSP quiere probar
+> que es mejor que MJF y está más luchando contra el estigma, con la
+> cabeza muy llena de variables, entonces es el juego de MJF, que
+> incluso lo hizo firmar para no usar el ultra violent [...] La lucha
+> se merece las 3 clases."*
+>
+> — El Vehemiurgo, 2026-08-01 s27 (verbatim)
+
+**El reinado mundial de RSP termina en Best of the Best 17
+(14/4/2018)**: pierde ante MJF por Fujiwara armbar y ref stoppage,
+quedando inconsciente en su propia sangre sin llegar a rendirse.
+**Triple clase** para el match.
+
+**Lectura sintética — "protegido en la derrota"**: el Vehemiurgo lee a
+RSP *"luchando contra el estigma, con la cabeza muy llena de
+variables"* — el booking cuida su credibilidad incluso perdiendo el
+título, porque la narrativa (la firma de contrato, la prohibición del
+ultra violent) ya lo había puesto a competir contra algo más grande
+que el rival físico.
+
+**Piezas de la sesión**:
+[firma de contrato](../segments/2018-03-10-firma-contrato-mjf-rsp-czw-proving-grounds.md) (WE) ·
+[con Alex Colon, vs Claxton & MJF](../matches/2018-03-10-colon-rsp-vs-claxton-mjf-czw-proving-grounds.md) (WE) ·
+[vs MJF, pierde el título mundial](../matches/2018-04-14-mjf-vs-rickey-shane-page-czw-botb17.md) (PW·FS·WE)
+
 ## Pendientes / huecos
 
 - [ ] Confirmación por fuente del cash-in de CZW 2017.

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: trey-miguel
 estado: vivo
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #12 (*'babyface cool, un poco cringe a veces, pero sólido'*)"
   - "Lista personal verbatim: 3 entradas Trey 2025-2026"
@@ -100,6 +100,28 @@ completo (Sacrifice → 9/4 → Rebellion, donde perdió el
 International con Ali) lo deja mejor posicionado que antes del
 título: el que pierde bien también sale elevado. Ver
 [`../matches/2026-04-09-mustafa-ali-vs-trey-miguel-tna-impact.md`](../matches/2026-04-09-mustafa-ali-vs-trey-miguel-tna-impact.md).
+
+### Sesión 2026-08-01 s27 — Primera ronda de Best of the Best 17, y el mismo ablandamiento que Wentz
+
+**Cita verbatim**:
+
+> *"Wentz vence a Reed y Miguel (los tres de Ohio, respeto post-match)
+> - Muy buen showcase, irónicamente Wentz gana aqui, pero justo aqui
+> empieza su nerfeo, el personaje se vuleve más infantil y su estilo
+> progresivamente más safe, igual con Miguel, pero esta lucha es
+> increible, muy buena escuela igual; la lucha se merece las 3
+> clases."*
+>
+> — El Vehemiurgo, 2026-08-01 s27 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Miguel cae en primera ronda ante
+Wentz y Reed. El Vehemiurgo extiende **la misma crítica de trayectoria
+que aplica a Wentz** en el mismo párrafo: *"igual con Miguel"* — el
+declive de gimmick no es un caso aislado sino un patrón que el
+Vehemiurgo lee en toda la generación de Scarlet & Graves / los futuros
+Rascalz.
+
+**Pieza**: [vs Zachary Wentz y Myron Reed](../matches/2018-04-14-zachary-wentz-vs-myron-reed-trey-miguel-czw-botb17.md) (PW·FS·WE)
 
 ## Pendientes / huecos
 

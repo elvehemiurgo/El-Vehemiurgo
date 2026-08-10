@@ -298,6 +298,12 @@ con cada cambio de estado.
 | 2021-11-13 | Hangman Adam Page vs Kenny Omega — AEW World Heavyweight Championship | AEW / Full Gear 2021 | — | en-investigacion | 1 | [→](2021-11-13-hangman-adam-page-vs-kenny-omega-aew-full-gear-2021.md) |
 | 2019-05-03 | Dragon Lee vs Taiji Ishimori | NJPW (New Japan Pro Wrestling) / Wrestling Dontaku 2019 | — | en-investigacion | 1 | [→](2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) |
 | 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
+| 2018-04-14 | David Starr vs Zachary Wentz | CZW / Best of the Best 17 | — | en-investigacion | 1 | [→](2018-04-14-david-starr-vs-zachary-wentz-final-czw-botb17.md) |
+| 2018-04-14 | MJF vs Rickey Shane Page | CZW / Best of the Best 17 | PW·FS·WE | en-investigacion | 1 | [→](2018-04-14-mjf-vs-rickey-shane-page-czw-botb17.md) |
+| 2018-04-14 | David Starr vs Matt Riddle vs Tessa Blanchard | CZW / Best of the Best 17 | PW·FS·WE | en-investigacion | 1 | [→](2018-04-14-david-starr-vs-matt-riddle-tessa-blanchard-czw-botb17.md) |
+| 2018-04-14 | Zachary Wentz vs Myron Reed vs Trey Miguel | CZW / Best of the Best 17 | PW·FS·WE | en-investigacion | 1 | [→](2018-04-14-zachary-wentz-vs-myron-reed-trey-miguel-czw-botb17.md) |
+| 2018-04-14 | David Starr & Tessa Blanchard vs Peter Avalon | CZW / Best of the Best 17 | PW·FS·WE | en-investigacion | 1 | [→](2018-04-14-david-starr-tessa-blanchard-avalon-czw-botb17.md) |
+| 2018-03-10 | Alex Colon & Rickey Shane Page vs Conor Claxton & MJF | CZW / Proving Grounds | WE | en-investigacion | 1 | [→](2018-03-10-colon-rsp-vs-claxton-mjf-czw-proving-grounds.md) |
 | 2017-12-09 | MJF vs Joey Janela (revancha) | CZW / Cage of Death 19 | PW·FS·WE | en-investigacion | 1 | [→](2017-12-09-mjf-vs-joey-janela-revancha-czw-cage-of-death-19.md) |
 | 2017-12-09 | Nick Aldis vs Tim Storm | CZW / Cage of Death 19 | WE | en-investigacion | 1 | [→](2017-12-09-nick-aldis-vs-tim-storm-czw-cage-of-death-19.md) |
 | 2017-12-09 | The Rep vs Scarlet and Graves vs oVe vs Alex Reynolds & Matt Palmer | CZW / Cage of Death 19 | FS·WE | en-investigacion | 1 | [→](2017-12-09-tag-titles-4-way-the-rep-gana-czw-cage-of-death-19.md) |

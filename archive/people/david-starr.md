@@ -137,6 +137,52 @@ no es descuido: *"no pueden evitar ser asi de indies"*.
 [vs Tim Donst](../matches/2017-11-11-tim-donst-vs-david-starr-czw-night-of-infamy.md) (FS·WE) ·
 [vs Ethan Page](../matches/2017-12-09-david-starr-vs-ethan-page-czw-cage-of-death-19.md) (sin clase declarada)
 
+### Sesión 2026-08-01 s27 — Ganador de Best of the Best 17, y el fin de la racha ante Riddle
+
+**Citas verbatim**:
+
+> *"Starr Y Tessa Blanchard avanzan ambos (sumisión sobre Avalon) [...]
+> Esta lucha se merece las 3 clases."*
+
+> *"Starr vence a Riddle y Blanchard (straitjacket German; cubre a
+> Riddle — que nunca le había ganado)- Muy buena lucha [...] y David
+> por fin le gana a Riddle, esta lucha se merece las 3 clases."*
+
+> *"DAVID STARR vence a Wentz, gran lucha, tienen muy buen footwork y
+> atletismo por eso se compensa los aspectos verdes de selling y
+> detalles oldschool [...] le puedo perdonar los vicios de indie
+> strongstyle porque es la final de un torneo, y el desenlace les
+> quedó muy cool, buena lucha."*
+>
+> — El Vehemiurgo, 2026-08-01 s27 (verbatim)
+
+**El día que cierra el arco que el archivo venía siguiendo**: Starr
+**gana el torneo Best of the Best 17** en tres pasos — 3-way sobre
+Peter Avalon (**PW·FS·WE**), semifinal venciendo por fin a **Matt
+Riddle** con su straitjacket German de firma (**PW·FS·WE**), y la
+final ante **Zachary Wentz**, elogiada extensamente pero **sin clase
+declarada** — el Vehemiurgo razona el perdón de los "vicios de indie
+strongstyle" por tratarse de una final de torneo, y no cruza a
+clasificar.
+
+**Lectura sintética — consistencia del método crítico**: en el match
+final, el mismo defecto que en s26 (ante Tim Donst) le costó la
+Perfect Wrestling — *"aspectos verdes de selling"* — reaparece, pero
+esta vez **se compensa**: *"si están vendiendo, si hay stakes, si les
+dieron motivaciones intrínsicas, y con sentido en el booking"*. El
+archivo registra que la vara del Vehemiurgo no es fija — depende del
+contexto de la ocasión, y él mismo lo explicita.
+
+**El torneo consagra su arco 2018**: retador #1 (vence a Jimmy Lloyd
+en *New Heights*) y única defensa mano a mano confirmada del reinado
+de MJF (*Better Than Our Best*, 13/10/2018) — ambos ya registrados en
+la ficha, ahora con el eslabón que faltaba.
+
+**Piezas de la sesión**:
+[vs Peter Avalon, con Tessa Blanchard](../matches/2018-04-14-david-starr-tessa-blanchard-avalon-czw-botb17.md) (PW·FS·WE) ·
+[vs Matt Riddle, con Tessa Blanchard](../matches/2018-04-14-david-starr-vs-matt-riddle-tessa-blanchard-czw-botb17.md) (PW·FS·WE) ·
+[vs Zachary Wentz, final](../matches/2018-04-14-david-starr-vs-zachary-wentz-final-czw-botb17.md) (sin clase declarada)
+
 ## Pendientes / huecos
 
 - [ ] Su rol en el grupo con Strickland en CZW — **"JML" identificado
