@@ -299,6 +299,11 @@ con cada cambio de estado.
 | 2019-05-03 | Dragon Lee vs Taiji Ishimori | NJPW (New Japan Pro Wrestling) / Wrestling Dontaku 2019 | — | en-investigacion | 1 | [→](2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) |
 | 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
 | 2017-07-07 | AJ Styles vs Kevin Owens | WWE / Live event MSG | — | en-investigacion | 1 | [→](2017-07-07-aj-styles-vs-kevin-owens-wwe-msg.md) |
+| 2017-05-13 | Lio Rush vs Joe Gacy | CZW / Sacrifices | FS·WE | en-investigacion | 1 | [→](2017-05-13-lio-rush-vs-joe-gacy-czw-sacrifices.md) |
+| 2017-05-13 | Shane Strickland vs Sami Callihan | CZW / Sacrifices | PW·FS·WE | en-investigacion | 1 | [→](2017-05-13-shane-strickland-vs-sami-callihan-czw-sacrifices.md) |
+| 2017-05-13 | Zack Sabre Jr. vs David Starr | CZW / Sacrifices | PW·FS·WE | en-investigacion | 1 | [→](2017-05-13-zack-sabre-jr-vs-david-starr-czw-sacrifices.md) |
+| 2017-05-13 | MJF vs Johnny Yuma | CZW / Sacrifices | PW·FS·WE | en-investigacion | 1 | [→](2017-05-13-mjf-vs-johnny-yuma-czw-sacrifices.md) |
+| 2017-05-13 | Private Party vs The Dub Boys | CZW / Sacrifices | FS·WE | en-investigacion | 1 | [→](2017-05-13-private-party-vs-dub-boys-czw-sacrifices.md) |
 | 2017-01-14 | Dave Crist vs Sami Callihan | CZW / Awakening | PW·FS·WE | en-investigacion | 1 | [→](2017-01-14-dave-crist-vs-sami-callihan-czw-awakening.md) |
 | 2017-01-14 | Scarlet & Graves (c) vs The Dub Boys | CZW / Awakening | FS·WE | en-investigacion | 1 | [→](2017-01-14-scarlet-and-graves-vs-dub-boys-czw-awakening.md) |
 | 2017-01-14 | Ace Austin vs Jimmy Lloyd | CZW / Awakening | PW·FS·WE | en-investigacion | 1 | [→](2017-01-14-ace-austin-vs-jimmy-lloyd-czw-awakening.md) |

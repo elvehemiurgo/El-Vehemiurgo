@@ -45,6 +45,15 @@ declaración que la de los Crist — el trío de Ohio como núcleo de
 *"la innovación y talentos que representan el workhorse indie con
 estilo y conocimiento oldschool"*.
 
+### Sesión 2026-08-01 s24 — VEHEMIURGIA: cae ante Strickland, "muy brutal"
+
+**Contexto**: CZW Sacrifices, 13/5/2017. Pierde ante Shane
+Strickland en el camino de este hacia el título mundial — el
+Vehemiurgo lo describe como "muy brutal", consistente con el
+arquetipo del Tier 0 ya fundado en el show anterior de la guía.
+
+**Lectura sintética**: **PW·FS·WE** para el match completo.
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa CZW pre-2017 (Switchblade Conspiracy,

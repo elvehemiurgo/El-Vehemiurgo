@@ -508,6 +508,25 @@ Awakening (14/1/2017), junto a Maria Manic, cuando aún se escribía
 origen: el personaje que AEW compró hecho ya estaba completo en un
 gimnasio de NJ.
 
+### Sesión 2026-08-01 s24 — VEHEMIURGIA: gana el Wired, humilla a Maria Manic
+
+**Cita verbatim**:
+
+> *"es increíble cómo MJF sube los stakes de la división sin siquiera
+> ganar el título, con sus promos contra Yuma y CZW, además la lucha
+> es una grudge match, bien construida, el atletismo de MJF y la
+> ejecución es top tier wrestling [...] se merece las 3 clases, aunque
+> el finisher de MJF no me convence, es como un standing heat seeker,
+> se ve raro"*
+>
+> — El Vehemiurgo, 2026-08-01 s24 (verbatim, visionado directo)
+
+**Lectura sintética**: **PW·FS·WE**. Vence a Johnny Yuma (CZW
+Sacrifices, 13/5/2017) y arranca su reinado de 336 días como Wired
+Champion. Post-match, humilla a Maria Manic — sin clase (regla
+"ok"). Reserva técnica declarada sobre el finisher, ubicada en la
+era de los destroyers/piledrivers de la época.
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual

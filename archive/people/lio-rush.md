@@ -43,6 +43,22 @@ perder sustancia). *"Performer perfecto"* es elogio descriptivo,
 no declaración de clase Vehemiurgia (no aplica a personas, solo a
 matches/segments).
 
+### Sesión 2026-08-01 s24 — VEHEMIURGIA: gana el título mundial a Gacy
+
+**Cita verbatim**:
+
+> *"Ya había nacido blackheart Lio Rush, es una street fight
+> interesante, disfrutable, le doy un FS y WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s24 (verbatim, visionado directo)
+
+**Lectura sintética**: **FS·WE**. Gana el CZW World Heavyweight
+Championship a Joe Gacy (Street Fight, CZW Sacrifices, 13/5/2017) —
+payoff del screwjob de Decisions (8/4/2017); arranca un reinado de
+56 días antes de despedirse rumbo a WWE. El Vehemiurgo lee el matiz
+"blackheart" del personaje ya presente acá — antecedente directo de
+su persona actual en AEW.
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, trayectoria, empresa actual, match/segment

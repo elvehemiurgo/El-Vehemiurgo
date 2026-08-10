@@ -101,6 +101,20 @@ Fundamental #47 — el elogio cubre todo el build, no solo el
 match final. Ver
 [`../matches/2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md`](../matches/2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md).
 
+### Sesión 2026-08-01 s24 — VEHEMIURGIA: clínic de chain wrestling vs David Starr
+
+**Cita verbatim**:
+
+> *"ZSJ desde aquí se ve como muy experimentado para mejorar esos
+> escenarios de chain wrestling; crearon algo brutal [...] se merece
+> las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s24 (verbatim, visionado directo — CZW
+> Sacrifices, 13/5/2017)
+
+**Lectura sintética**: **PW·FS·WE**. Vence a David Starr en lo que
+reseñas de época señalaron como "match of the night" del show.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (indies UK/NJPW/
