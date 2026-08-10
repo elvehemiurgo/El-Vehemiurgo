@@ -64,6 +64,16 @@ oldschool" en los hechos. Segundo Perfect Match suyo en el
 archivo. Ver
 [`../matches/2026-05-27-ace-austin-vs-andrade-aew-collision.md`](../matches/2026-05-27-ace-austin-vs-andrade-aew-collision.md).
 
+### Sesión 2026-08-01 s23 — VEHEMIURGIA: "GCW antes de GCW" en Awakening 2017
+
+**Contexto**: CZW Awakening, 14/1/2017 — no contest de 2:15 vs Jimmy
+Lloyd (ataque de Dan O'Hare y SHLAK), talentos del Dojo en show
+grande. Triple clase declarada al match como "cápsula del estilo que
+se venía".
+
+**Lectura sintética**: **PW·FS·WE** para el match completo — "ambos
+talentos tienen su lado oldschool".
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (¿TNA X-Division previo a

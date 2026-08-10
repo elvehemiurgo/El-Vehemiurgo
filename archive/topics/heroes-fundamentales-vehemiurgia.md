@@ -24,8 +24,16 @@ tags: [heroes-fundamentales-vehemiurgia, panteon-vehemiurgo, dioses-del-wrestlin
 
 ## Doctrina del orden (actualizada 2026-06-17 — segunda ronda)
 
-El panteón ahora tiene **tres niveles de jerarquía**:
+El panteón ahora tiene **cuatro niveles** — dos cumbres gemelas y
+dos tiers de profundidad:
 
+- **Tier 0 — Indie Wrestling Gods (sin orden interno)**: creado
+  2026-08-01 s23, **jerárquicamente IGUAL al Tier 1** — no está por
+  encima ni por debajo: es su cumbre gemela, *"la sombra de los 7
+  dioses"*. Representa la innovación y el workhorse indie con estilo
+  y conocimiento old-school — héroes menos reconocidos, pero igual o
+  más influyentes. Su propósito declarado incluye **ascender talentos
+  del Tier 2 y Tier 3** según influencia y estilo.
 - **Tier 1 — Dioses del Wrestling (#1-7)**: jerarquía real. El top
   7 SÍ es un orden — *"realmente los dioses del wrestling"* para el
   Vehemiurgo.
@@ -40,6 +48,16 @@ El panteón ahora tiene **tres niveles de jerarquía**:
   particular** — el número es **slot de registro**, no posición de
   mérito. Formalizado como "Tier 3" en la renovación de nombres
   2026-08-01 s18.
+
+### Tier 0 — Indie Wrestling Gods (cumbre gemela del Tier 1, sin orden interno)
+
+| Dios Indie | Rama | Ficha |
+|---|---|---|
+| **Sami Callihan** | Escuela de Ohio / CZW-indie ultraviolento | [→](../people/sami-callihan.md) |
+| **Dave Crist** | Escuela de Ohio / OI4K (flying cutters, y2k nu metal) | [→](../people/dave-crist.md) |
+| **Jake Crist** | Escuela de Ohio / OI4K ("Prince", full wrestler) | [→](../people/jake-crist.md) |
+| **JT Dunn** | Indie americano (deathmatch / tag) — ascendido del Tier 3 (#30) | _(ficha pendiente)_ |
+| **David Starr** | Indie americano/British workhorse — ascendido del Tier 3 (#31) | [→](../people/david-starr.md) |
 
 ### Tier 1 — Los 7 Dioses del Wrestling (orden real, jerárquico)
 
@@ -84,13 +102,13 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 27 | **The Filthy Generation** (facción) | British indie moderno (facción) | _(ficha pendiente)_ |
 | 28 | **LA Knight** | Carny / promo-driven moderno | [→](../people/la-knight.md) |
 | 29 | **Psicosis** | Lucha libre / cruiser 90s | [→](../people/psicosis.md) |
-| 30 | **JT Dunn** | Indie americano (deathmatch / tag) | _(ficha pendiente)_ |
-| 31 | **David Starr** | Indie americano/British | _(ficha pendiente)_ |
+| 30 | ~~JT Dunn~~ → **ascendido a Tier 0** (2026-08-01 s23) | Indie americano (deathmatch / tag) | _(slot preservado)_ |
+| 31 | ~~David Starr~~ → **ascendido a Tier 0** (2026-08-01 s23) | Indie americano/British | _(slot preservado)_ |
 | 32 | **Chris Benoit** | Worker de oficio (Wild Pegasus / WCW-WWE) | _(ficha pendiente)_ |
 | 33 | **Kay Lee Ray** (entrada individual) | Joshi-British / STARDOM-WWE | _(ficha pendiente)_ |
 | 34 | **Hana Kimura** | Joshi (STARDOM) — fallecida 2020 | _(ficha pendiente)_ |
 | 35 | **Mei Seira** | Joshi (STARDOM) | _(ficha pendiente)_ |
-| 36 | **Myron Reed** | Indie americano / highspeed (MLW) | _(ficha pendiente)_ |
+| 36 | **Myron Reed** | Indie americano / highspeed (MLW) | [→](../people/myron-reed.md) |
 | 37 | **Fallon Henley** | WWE NXT | [→](../people/fallon-henley.md) |
 | 38 | **Lainey Reid** | WWE NXT | [→](../people/lainey-reid.md) |
 | 39 | **Scott Hall** | Carny / draw histórico (Razor / nWo) | _(ficha pendiente)_ |
@@ -107,6 +125,54 @@ El panteón ahora tiene **tres niveles de jerarquía**:
 | 50 | **Laredo Kid** | Lucha libre mexicana / high-flying (AAA) | [→](../people/laredo-kid.md) |
 | 51 | **Chelsea Green** | WWE moderno / kayfabe y amor por el gimmick | [→](../people/chelsea-green.md) |
 | 52 | **Nick Aldis** | NWA / estilo clásico, GM-luchador | [→](../people/nick-aldis.md) |
+
+## Notas de la creación del Tier 0 — Indie Wrestling Gods (2026-08-01 s23)
+
+**Cita verbatim**:
+
+> *"Creemos un nuevo Tier en el panteón de heroes, que sea
+> jerarquicamente igual de importante que el Tier 1, que este al mismo
+> nivel, que se llame Tier 0 - Indie Wrestling Gods y pongamos a
+> Callihan y los hermanos Crist de forma independiente a todos como
+> dioses independientes del wrestling, tambien a JT Dunn y David
+> Starr. Esta lista representa la innovación y talentos que
+> representan el workhorse indie con estilo y conocimiento oldschool,
+> son heroes menos reconocidos, pero igual o más influyentes que los 7
+> dioses, son como la sombra de los 7 dioses. EL propósito es ascender
+> a varios talentos del Tier 2 y Tier 3, a los escogidos según su
+> influencia y estilo."*
+>
+> — El Vehemiurgo, 2026-08-01 s23 (verbatim; declarado viendo CZW
+> Awakening 14/1/2017, primera sesión VEHEMIURGIA)
+
+**Decisiones de registro**:
+
+- **Tier 0 NO está por encima del Tier 1** — son cumbres gemelas por
+  declaración explícita ("al mismo nivel"). La numeración #1-7 del
+  Tier 1 no cambia.
+- **Sin orden interno** en Tier 0 (no declarado); se lista en orden de
+  declaración: Callihan, Dave Crist, Jake Crist, JT Dunn, David Starr.
+- **Los hermanos Crist entran "de forma independiente"** — dos
+  entradas individuales, no una entrada tag (verbatim: "de forma
+  independiente a todos como dioses independientes").
+- **Ascensos desde Tier 3**: JT Dunn (#30) y David Starr (#31) suben a
+  Tier 0. **Sin corrimientos**: sus slots #30 y #31 quedan preservados
+  como registro histórico (el número del Tier 3 es slot de registro,
+  no posición de mérito — doctrina 2026-06-17), evitando renumerar
+  #32-52 y romper marcadores en 20+ fichas.
+- **Marcador de ficha Tier 0**: `Indie Wrestling God (Tier 0) del
+  Vehemiurgo`.
+- **Contexto de la declaración**: Dave Crist vence limpio a Callihan
+  en el show que el Vehemiurgo estaba viendo — la alta llega con el
+  take más largo del volcado sobre Dave Crist (gimmick y2k nu metal,
+  influencia de las flying cutters) y la nota editorial sobre Starr y
+  Dave Crist como *"las pérdidas más grandes del wrestling americano
+  de nuestra generación"* tras las funas (lectura editorial del
+  Vehemiurgo, registrada como tal).
+
+**Piezas**: [`../matches/2017-01-14-dave-crist-vs-sami-callihan-czw-awakening.md`](../matches/2017-01-14-dave-crist-vs-sami-callihan-czw-awakening.md)
+· [`../../vehemiurgia/czw-2017-2018.md`](../../vehemiurgia/czw-2017-2018.md)
+· fichas de los cinco (JT Dunn pendiente).
 
 ## Notas de la renovación de nombres 2026-08-01 s18
 

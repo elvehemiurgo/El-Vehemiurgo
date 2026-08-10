@@ -492,6 +492,22 @@ y
 - [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md)
 - [`../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md`](../segments/2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md)
 
+### Sesión 2026-08-01 s23 — VEHEMIURGIA: el MJF embrionario de CZW Awakening 2017
+
+**Cita verbatim**:
+
+> *"es solo MJF contrastando con el crowd y todo lo que es CZW, está
+> genial, es el MJF que luego veríamos en TV, todo el profesionalismo
+> y heat están desde aquí"*
+>
+> — El Vehemiurgo, 2026-08-01 s23 (verbatim, visionado directo)
+
+**Lectura sintética**: **WE** para su segmento de presentación en CZW
+Awakening (14/1/2017), junto a Maria Manic, cuando aún se escribía
+"Maxwell Jacob Feinstein". La tesis del Pillar #14 capturada en su
+origen: el personaje que AEW compró hecho ya estaba completo en un
+gimnasio de NJ.
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual

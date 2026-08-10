@@ -299,6 +299,10 @@ con cada cambio de estado.
 | 2019-05-03 | Dragon Lee vs Taiji Ishimori | NJPW (New Japan Pro Wrestling) / Wrestling Dontaku 2019 | — | en-investigacion | 1 | [→](2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) |
 | 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
 | 2017-07-07 | AJ Styles vs Kevin Owens | WWE / Live event MSG | — | en-investigacion | 1 | [→](2017-07-07-aj-styles-vs-kevin-owens-wwe-msg.md) |
+| 2017-01-14 | Dave Crist vs Sami Callihan | CZW / Awakening | PW·FS·WE | en-investigacion | 1 | [→](2017-01-14-dave-crist-vs-sami-callihan-czw-awakening.md) |
+| 2017-01-14 | Scarlet & Graves (c) vs The Dub Boys | CZW / Awakening | FS·WE | en-investigacion | 1 | [→](2017-01-14-scarlet-and-graves-vs-dub-boys-czw-awakening.md) |
+| 2017-01-14 | Ace Austin vs Jimmy Lloyd | CZW / Awakening | PW·FS·WE | en-investigacion | 1 | [→](2017-01-14-ace-austin-vs-jimmy-lloyd-czw-awakening.md) |
+| 2017-01-14 | Anthony Henry vs Sean Carr | CZW / Awakening | FS | en-investigacion | 1 | [→](2017-01-14-anthony-henry-vs-sean-carr-czw-awakening.md) |
 | 2016-02-05 | AJ Styles vs Corey Hollis | GPW / indie show 2016 | — | en-investigacion | 1 | [→](2016-02-05-aj-styles-vs-corey-hollis-gpw.md) |
 | 2014-04-06 | Brock Lesnar vs The Undertaker — Streak Match | WWE / WrestleMania XXX | — | en-investigacion | 1 | [→](2014-04-06-brock-lesnar-vs-undertaker-wrestlemania-xxx-streak-breaker.md) |
 | 2013-07-14 | Money in the Bank ladder match — Christian vs RVD vs CM Punk vs Daniel Bryan vs Sheamus vs Randy Orton | WWE / Money in the Bank 2013 | — | en-investigacion | 1 | [→](2013-07-14-mitb-ladder-christian-rvd-punk-bryan-sheamus-orton-wwe.md) |

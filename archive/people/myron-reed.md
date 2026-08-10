@@ -81,6 +81,22 @@ Okada, 11/4) — mensaje del Vehemiurgo termina en la coma, sin
 desarrollo adicional. Ver
 [`../matches/2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md`](../matches/2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md).
 
+### Sesión 2026-08-01 s23 — "El heredero" del estilo OI4K
+
+**Cita verbatim**:
+
+> *"solo Myron Reed, que es el heredero de todo esto con Trey Miguel,
+> solo Myron ha evolucionado este estilo a algo más real, violento y
+> oldschool"*
+>
+> — El Vehemiurgo, 2026-08-01 s23 (verbatim, viendo Scarlet & Graves
+> en CZW Awakening 2017)
+
+**Lectura sintética**: sin clase individual — declaración de linaje
+de estilo: el único de la descendencia OI4K que evolucionó el estilo
+en la dirección correcta (más real, violento y old-school), mientras
+el resto "se fue ablandando". Refuerza su lugar como Fundamental #36.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, edad.

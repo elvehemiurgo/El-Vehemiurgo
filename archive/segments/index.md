@@ -270,6 +270,8 @@ cada alta y con cada cambio de estado.
 | 2025-12-11 | Kazarian's 'I Am Your King' Opening Promo | TNA / Impact | opening promo | — | en-investigacion | 1 | [→](2025-12-11-kazarian-i-am-your-king-promo-tna-impact.md) |
 | 2025-11-13 | NXT Stars Invade Impact + Kazarian cashes in trophy winning TNA World Title | TNA / Impact | invasion + title change | — | en-investigacion | 1 | [→](2025-11-13-nxt-invasion-kazarian-cash-in-tna-impact.md) |
 | 2020-08-23 | Roman Reigns Tribal Chief heel turn | WWE / SummerSlam 2020 | heel turn moment + character work reset | — | en-investigacion | 1 | [→](2020-08-23-roman-reigns-tribal-chief-heel-turn-summerslam.md) |
+| 2017-01-14 | Jake Crist — debut de 'The Artist Formerly Known as Jake Crist' y el beso a Callihan | CZW / Awakening | angle post-match | WE | en-investigacion | 1 | [→](2017-01-14-jake-crist-beso-oi4k-czw-awakening.md) |
+| 2017-01-14 | MJF (Maxwell Jacob Feinstein) — presentación in-ring con Maria Manic | CZW / Awakening | promo / presentación de personaje | WE | en-investigacion | 1 | [→](2017-01-14-mjf-segmento-in-ring-czw-awakening.md) |
 | 2013-07-08 | Bray Wyatt debut promo + Wyatt Family attack Kane | WWE / Raw | character debut + in-ring attack | — | en-investigacion | 1 | [→](2013-07-08-bray-wyatt-debut-promo-wwe-raw.md) |
 | 2011-06-27 | CM Punk Pipebomb Promo | WWE / Raw | in-ring promo / shoot-style worked promo | — | en-investigacion | 1 | [→](2011-06-27-cm-punk-pipebomb-promo-wwe-raw.md) |
 | 2008-12-06 | Promo video: Nicho el Millonario, Joe Líder vs. Teddy Hart, Jack Evans | AAA / AAA (show del 6 dic 2008) | promo video (hype package) | WE | stub | 1 | [→](2008-12-06-nicho-joe-lider-vs-teddy-hart-jack-evans-promo-video-aaa.md) |
