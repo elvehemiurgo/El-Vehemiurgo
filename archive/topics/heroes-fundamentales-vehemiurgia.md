@@ -56,8 +56,9 @@ dos tiers de profundidad:
 | **Sami Callihan** | Escuela de Ohio / CZW-indie ultraviolento | [→](../people/sami-callihan.md) |
 | **Dave Crist** | Escuela de Ohio / OI4K (flying cutters, y2k nu metal) | [→](../people/dave-crist.md) |
 | **Jake Crist** | Escuela de Ohio / OI4K ("Prince", full wrestler) | [→](../people/jake-crist.md) |
-| **JT Dunn** | Indie americano (deathmatch / tag) — ascendido del Tier 3 (#30) | _(ficha pendiente)_ |
+| **JT Dunn** | Indie americano (deathmatch / tag) — ascendido del Tier 3 (#30) | [→](../people/jt-dunn.md) |
 | **David Starr** | Indie americano/British workhorse — ascendido del Tier 3 (#31) | [→](../people/david-starr.md) |
+| **Trevor Lee** | Indie americano / X-Division (CWF Mid-Atlantic, TNA) — alta 2026-08-01 s25 | [→](../people/trevor-lee.md) |
 
 ### Tier 1 — Los 7 Dioses del Wrestling (orden real, jerárquico)
 
@@ -173,6 +174,24 @@ dos tiers de profundidad:
 **Piezas**: [`../matches/2017-01-14-dave-crist-vs-sami-callihan-czw-awakening.md`](../matches/2017-01-14-dave-crist-vs-sami-callihan-czw-awakening.md)
 · [`../../vehemiurgia/czw-2017-2018.md`](../../vehemiurgia/czw-2017-2018.md)
 · fichas de los cinco (JT Dunn pendiente).
+
+**Alta posterior — Trevor Lee (2026-08-01 s25)**: sexto miembro del
+tier, declarado en la misma sesión VEHEMIURGIA viendo su match vs MJF
+por el Wired Championship (CZW Evilution, 8/7/2017).
+
+> *"desde siempre Trevor Lee era un espectáculo premium del wrestling
+> [...] estos dos son de lo mejor que ha producido el wrestling
+> americano actualmente, solo que Lee nunca recibió una oportunidad
+> como heel en tv, fuera de IMPACT donde sí pudo brillar en la x
+> division, extraño ver a Trevor Lee en acción. [...] Pongamos a
+> Trevor Lee en el Tier 0"*
+>
+> — El Vehemiurgo, 2026-08-01 s25 (verbatim)
+
+Encaja con el criterio fundacional del tier: talento de influencia y
+estilo old-school, **menos reconocido de lo que merece** — el eje
+declarado ("nunca recibió una oportunidad como heel en tv") es
+exactamente la definición de "la sombra de los 7 dioses".
 
 ## Notas de la renovación de nombres 2026-08-01 s18
 

@@ -298,6 +298,20 @@ con cada cambio de estado.
 | 2021-11-13 | Hangman Adam Page vs Kenny Omega — AEW World Heavyweight Championship | AEW / Full Gear 2021 | — | en-investigacion | 1 | [→](2021-11-13-hangman-adam-page-vs-kenny-omega-aew-full-gear-2021.md) |
 | 2019-05-03 | Dragon Lee vs Taiji Ishimori | NJPW (New Japan Pro Wrestling) / Wrestling Dontaku 2019 | — | en-investigacion | 1 | [→](2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) |
 | 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
+| 2017-10-14 | JT Dunn vs John Silver vs Trey Miguel vs Space Monkey (4-way) | CZW / The Wolf of Wrestling | WE | en-investigacion | 1 | [→](2017-10-14-jt-dunn-gana-4-way-czw-wolf-of-wrestling.md) |
+| 2017-09-09 | Shane Strickland vs Jason Cade | CZW / Down With the Sickness | WE | en-investigacion | 1 | [→](2017-09-09-shane-strickland-vs-jason-cade-czw-dwts.md) |
+| 2017-09-09 | Sami Callihan vs Jimmy Lloyd | CZW / Down With the Sickness | — | en-investigacion | 1 | [→](2017-09-09-sami-callihan-vs-jimmy-lloyd-czw-dwts.md) |
+| 2017-09-09 | OI4K vs The Ugly Ducklings | CZW / Down With the Sickness | FS·WE | en-investigacion | 1 | [→](2017-09-09-oi4k-vs-ugly-ducklings-czw-dwts.md) |
+| 2017-09-09 | MJF vs Ace Romero | CZW / Down With the Sickness | PW·FS·WE | en-investigacion | 1 | [→](2017-09-09-mjf-vs-ace-romero-czw-dwts.md) |
+| 2017-09-09 | John Silver vs David Starr | CZW / Down With the Sickness | WE | en-investigacion | 1 | [→](2017-09-09-john-silver-vs-david-starr-czw-dwts.md) |
+| 2017-09-09 | Chris Ca$h Memorial Ladder Match: The REP vs Private Party | CZW / Down With the Sickness | WE | en-investigacion | 1 | [→](2017-09-09-chris-cash-memorial-ladder-the-rep-vs-private-party-czw-dwts.md) |
+| 2017-08-05 | Tim Donst vs Ace Austin | CZW / Once in a Lifetime | WE | en-investigacion | 1 | [→](2017-08-05-tim-donst-vs-ace-austin-czw-once-in-a-lifetime.md) |
+| 2017-08-05 | Shane Strickland vs MASADA | CZW / Once in a Lifetime | PW·FS·WE | en-investigacion | 1 | [→](2017-08-05-shane-strickland-vs-masada-czw-once-in-a-lifetime.md) |
+| 2017-08-05 | MJF vs John Silver | CZW / Once in a Lifetime | PW·FS·WE | en-investigacion | 1 | [→](2017-08-05-mjf-vs-john-silver-czw-once-in-a-lifetime.md) |
+| 2017-07-08 | The REP vs Private Party | CZW / Evilution | FS·WE | en-investigacion | 1 | [→](2017-07-08-the-rep-vs-private-party-czw-evilution.md) |
+| 2017-07-08 | Shane Strickland vs Lio Rush (c) vs Joe Gacy vs Davey Richards | CZW / Evilution | PW·FS·WE | en-investigacion | 1 | [→](2017-07-08-shane-strickland-gana-mundial-4-way-czw-evilution.md) |
+| 2017-07-08 | Scarlet & Graves + Trey Miguel vs OI4K (tornado 6-man) | CZW / Evilution | PW·FS·WE | en-investigacion | 1 | [→](2017-07-08-scarlet-graves-trey-miguel-vs-oi4k-czw-evilution.md) |
+| 2017-07-08 | MJF vs Trevor Lee | CZW / Evilution | PW·FS·WE | en-investigacion | 1 | [→](2017-07-08-mjf-vs-trevor-lee-czw-evilution.md) |
 | 2017-07-07 | AJ Styles vs Kevin Owens | WWE / Live event MSG | — | en-investigacion | 1 | [→](2017-07-07-aj-styles-vs-kevin-owens-wwe-msg.md) |
 | 2017-05-13 | Lio Rush vs Joe Gacy | CZW / Sacrifices | FS·WE | en-investigacion | 1 | [→](2017-05-13-lio-rush-vs-joe-gacy-czw-sacrifices.md) |
 | 2017-05-13 | Shane Strickland vs Sami Callihan | CZW / Sacrifices | PW·FS·WE | en-investigacion | 1 | [→](2017-05-13-shane-strickland-vs-sami-callihan-czw-sacrifices.md) |
