@@ -200,6 +200,48 @@ lona del apron, remata con Ego-Plex — WWE.com lo describe como victoria
 **Lectura sintética**: **PW·FS·WE**. Pierde el segundo cruce del año
 ante Jevon Evans (Raw, 3/8/2026) tras fallar exponer el turnbuckle.
 
+### Sesión 2026-08-01 s26 — ALTA AL TIER 0, y el medidor de madurez del corpus CZW
+
+**Alta al Tier 0 — Indie Wrestling Gods** en la expansión masiva de
+la sesión (primer nombre de la lista dictada). Ver
+[panteón](../topics/heroes-fundamentales-vehemiurgia.md).
+
+**Citas verbatim**:
+
+> *"tenemos Ethan Page vs Swerve por el título mundial, dos de los
+> agentes libres más geniales de esa época, buenos stakes, buenisimo
+> el shoow de Ethan como retador outsider [...] La lucha se merece las
+> 3 clases, el oldschool de Ethan hace lucir muy bien a Swerve."*
+>
+> *"Ethan Page con su segmento in ring con Tim Stone, les quedó algo
+> cool, y desde este año ya era explosivo mezclarlo con MJF, este
+> segmento tiene todo, les quedó mejor que mucho de lo que había en tv
+> en esemomento."*
+>
+> *"Ethan claramente más maduro que David, pero pusieron un super
+> show."*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim)
+
+**Lectura sintética**: en el corpus CZW 2017, Page es **el medidor de
+madurez de oficio** contra el que el Vehemiurgo evalúa a los demás.
+Tres apariciones, tres funciones distintas y todas old-school:
+
+1. **Retador outsider** que hace lucir al campeón — *"el oldschool de
+   Ethan hace lucir muy bien a Swerve"*. El trabajo del retador es
+   hacer al campeón, principio Cornette puro.
+2. **Heel que gana rajándose**: consigue el shot del campeón mundial
+   de la NWA y **lo rechaza** diciendo que no lo quiere en Sewell NJ.
+   El heat está en la negación, no en el cinturón.
+3. **Veterano en batalla de egos** ante David Starr — *"tremenda dream
+   match de la época"*, el cruce de dos Indie Wrestling Gods del Tier
+   0 (aunque el Vehemiurgo no declaró clase para ese match).
+
+**Piezas de la sesión**:
+[vs Shane Strickland](../matches/2017-10-14-ethan-page-vs-shane-strickland-czw-wolf-of-wrestling.md) (PW·FS·WE) ·
+[segmento con Tim Storm](../segments/2017-12-09-ethan-page-segmento-tim-storm-czw-cage-of-death-19.md) (WE) ·
+[vs David Starr](../matches/2017-12-09-david-starr-vs-ethan-page-czw-cage-of-death-19.md) (sin clase declarada)
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de NXT Champion run.

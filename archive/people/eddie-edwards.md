@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: "eddie-edwards"
 estado: stub
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 y s02"
   - "Volcado Vehemiurgo 2026-06-17 (panteón Tier 2 #11 — American Wolves)"
@@ -118,6 +118,21 @@ Del dossier `maclin-lesion-y-rebellion-build-2026` (closed):
 "by the book" a confrontación noventera. Cedric emboscó del lado
 System; Leon Slater hizo el salve. Ver
 [`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md).
+
+### Sesión 2026-08-01 s26 — Alta al Tier 0 (expansión masiva)
+
+**Ascendido del tier 2 (#11, entrada individual) al Tier 0 — Indie Wrestling Gods**, en la declaración de 33
+nombres de un tirón que llevó el tier de 4 a 37 miembros. Slot de
+origen preservado como registro histórico. Ver
+[panteón](../topics/heroes-fundamentales-vehemiurgia.md).
+
+Nota: la entrada tag de **The American Wolves** en el slot #11 se preserva; Edwards y Richards ascienden por separado — mismo precedente que los hermanos Crist.
+
+**Lectura del tier tras la expansión**: el Tier 0 deja de ser
+estrictamente "indie" en el sentido de escena y pasa a registrar
+**workhorses de influencia desproporcionada a su reconocimiento** a
+través de eras, escenas y empresas. La declaración fue una lista sin
+argumentación pieza por pieza — el criterio queda leído del conjunto.
 
 ## Pendientes / huecos
 

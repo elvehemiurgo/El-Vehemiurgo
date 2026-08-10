@@ -282,6 +282,33 @@ atacarlo. Sin match pactado aún.
 previo al careo de ring con Reigns ya registrado en s17 — Reigns
 prohíbe a los Usos tocarlo, Knight lo aprovecha para provocar.
 
+### Sesión 2026-08-01 s26 — ASCENSO AL TIER 0, y el what if de Eli Drake vs MJF
+
+**Ascendido del Tier 3 (#28) al Tier 0 — Indie Wrestling Gods** en la
+expansión masiva de la sesión (dictado como *"LA Knight Eli Drake"*).
+Slot #28 preservado. Ver
+[panteón](../topics/heroes-fundamentales-vehemiurgia.md).
+
+**Cita verbatim** (cierre del volcado, tras Cage of Death 19):
+
+> *"Y pensar que hubo un momento donde MJF estaba buscando contactar a
+> IMACT wrestling para trabajar, y no tuvieron vision, hay un universo
+> alterno donde MJF conquista IMPACT antes de ir a WWE y tenemos MJF
+> vs Eli Drake como feudo generacional definitivo redentor de IMPACT,
+> pero bueno."*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim)
+
+**Lectura sintética**: el what if más grande que dejó la sesión —
+**Eli Drake vs MJF como feudo generacional en la IMPACT de finales de
+los 2010s**. Dos promo-driven de escuelas distintas, uno consagrado y
+otro en ascenso, en la empresa que necesitaba exactamente eso. La
+lectura del Vehemiurgo es que IMPACT *"no tuvieron vision"*.
+
+**Nota de fuente**: la afirmación de que MJF buscó contactar a IMPACT
+**está pendiente de fuente on-record**. Se registra como nota
+editorial del Vehemiurgo, no como dato duro del archivo.
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

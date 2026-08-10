@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: low-ki
 estado: vivo
-ultima_actualizacion: 2026-07-13
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-13 s01 (modelo doctrinal de gimmick completo)"
 tags: [low-ki, senshi, junior-heavyweight-highspeed-1990s-2000s, roh-founding-era, tna-x-division, gimmick-completo-modelo, doctrina-gimmick-extension-del-artista]
@@ -69,6 +69,21 @@ tags: [low-ki, senshi, junior-heavyweight-highspeed-1990s-2000s, roh-founding-er
    positivos de la doctrina del gimmick como extensión del
    artista. Ver
    [`../topics/doctrina-gimmick-extension-del-artista.md`](../topics/doctrina-gimmick-extension-del-artista.md).
+
+### Sesión 2026-08-01 s26 — Alta al Tier 0 (expansión masiva)
+
+**Alta directa al Tier 0 — Indie Wrestling Gods**, en la declaración de 33
+nombres de un tirón que llevó el tier de 4 a 37 miembros. Slot de
+origen preservado como registro histórico. Ver
+[panteón](../topics/heroes-fundamentales-vehemiurgia.md).
+
+Nota: rama indie americano / strong style puro.
+
+**Lectura del tier tras la expansión**: el Tier 0 deja de ser
+estrictamente "indie" en el sentido de escena y pasa a registrar
+**workhorses de influencia desproporcionada a su reconocimiento** a
+través de eras, escenas y empresas. La declaración fue una lista sin
+argumentación pieza por pieza — el criterio queda leído del conjunto.
 
 ## Pendientes / huecos
 

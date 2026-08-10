@@ -54,6 +54,37 @@ Y el veredicto que define el criterio del tier entero:
 ***"infravalorado de forma violenta en la historia, pero un
 espectáculo siempre"***.
 
+### Sesión 2026-08-01 s26 — "Un clásico de la época", y la lesión como patrón
+
+**Cita verbatim**:
+
+> *"tenemos JT Dunn vs Ace ROmero, un clásico de la época, y la
+> interacción con los fans estuvo cool, incómodo real, crowd
+> problemático por defecto, encima la lucha es buenisima, porque estos
+> dos trabajaron mucho juntos, lo mantuvieron real, muy cool, merecen
+> las 3 clases. Aunque es corta por la lesión de JT, siempre mal
+> timing con JT, pero ni modo."*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. El fundamento declarado es el
+**kilometraje compartido** — *"estos dos trabajaron mucho juntos, lo
+mantuvieron real"* — no el atletismo. Y la triple clase sobrevive a un
+match corto: el criterio del Vehemiurgo no es duración ni cantidad de
+spots, sino lo que el match logra ser en el tiempo que tuvo.
+
+**"Siempre mal timing con JT"** cierra el círculo con el take
+fundacional de s25 (*"infravalorado de forma violenta en la
+historia"*): la interrupción física es parte de por qué la carrera de
+Dunn no escaló como su oficio merecía. El archivo lo registra como
+**patrón**, no como accidente aislado.
+
+**Corrección de card**: el match fue **triple threat con Josh
+Briggs**; Dunn ganó con el rolling elbow sobre Romero, con
+interferencia de Chrissy Rivera en el tramo final.
+
+**Pieza**: [vs Ace Romero y Josh Briggs, Night of Infamy](../matches/2017-11-11-jt-dunn-vs-ace-romero-czw-night-of-infamy.md) (PW·FS·WE)
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de carrera (Beyond Wrestling, Death Before

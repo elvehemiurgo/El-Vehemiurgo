@@ -198,6 +198,21 @@ parejas (Jayne interfiere) y son atacadas post-match por Nia Jax &
 Lash Legend — Jax le arrebata el título interino y se insinúa
 retadora.
 
+### Sesión 2026-08-01 s26 — Alta al Tier 0 (expansión masiva)
+
+**Ascendida del tier 3 (#51) al Tier 0 — Indie Wrestling Gods**, en la declaración de 33
+nombres de un tirón que llevó el tier de 4 a 37 miembros. Slot de
+origen preservado como registro histórico. Ver
+[panteón](../topics/heroes-fundamentales-vehemiurgia.md).
+
+Nota: rama WWE moderno — kayfabe y amor por el gimmick.
+
+**Lectura del tier tras la expansión**: el Tier 0 deja de ser
+estrictamente "indie" en el sentido de escena y pasa a registrar
+**workhorses de influencia desproporcionada a su reconocimiento** a
+través de eras, escenas y empresas. La declaración fue una lista sin
+argumentación pieza por pieza — el criterio queda leído del conjunto.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -298,6 +298,16 @@ con cada cambio de estado.
 | 2021-11-13 | Hangman Adam Page vs Kenny Omega — AEW World Heavyweight Championship | AEW / Full Gear 2021 | — | en-investigacion | 1 | [→](2021-11-13-hangman-adam-page-vs-kenny-omega-aew-full-gear-2021.md) |
 | 2019-05-03 | Dragon Lee vs Taiji Ishimori | NJPW (New Japan Pro Wrestling) / Wrestling Dontaku 2019 | — | en-investigacion | 1 | [→](2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) |
 | 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
+| 2017-12-09 | MJF vs Joey Janela (revancha) | CZW / Cage of Death 19 | PW·FS·WE | en-investigacion | 1 | [→](2017-12-09-mjf-vs-joey-janela-revancha-czw-cage-of-death-19.md) |
+| 2017-12-09 | Nick Aldis vs Tim Storm | CZW / Cage of Death 19 | WE | en-investigacion | 1 | [→](2017-12-09-nick-aldis-vs-tim-storm-czw-cage-of-death-19.md) |
+| 2017-12-09 | The Rep vs Scarlet and Graves vs oVe vs Alex Reynolds & Matt Palmer | CZW / Cage of Death 19 | FS·WE | en-investigacion | 1 | [→](2017-12-09-tag-titles-4-way-the-rep-gana-czw-cage-of-death-19.md) |
+| 2017-12-09 | David Starr vs Ethan Page | CZW / Cage of Death 19 | — | en-investigacion | 1 | [→](2017-12-09-david-starr-vs-ethan-page-czw-cage-of-death-19.md) |
+| 2017-11-11 | Brandon Kirk vs Jimmy Lloyd | CZW / Night of Infamy | WE | en-investigacion | 1 | [→](2017-11-11-brandon-kirk-vs-jimmy-lloyd-czw-night-of-infamy.md) |
+| 2017-11-11 | MJF vs Dezmond Xavier | CZW / Night of Infamy | PW·FS·WE | en-investigacion | 1 | [→](2017-11-11-mjf-vs-dezmond-xavier-czw-night-of-infamy.md) |
+| 2017-11-11 | Tim Donst vs David Starr | CZW / Night of Infamy | FS·WE | en-investigacion | 1 | [→](2017-11-11-tim-donst-vs-david-starr-czw-night-of-infamy.md) |
+| 2017-11-11 | JT Dunn vs Ace Romero vs Josh Briggs | CZW / Night of Infamy | PW·FS·WE | en-investigacion | 1 | [→](2017-11-11-jt-dunn-vs-ace-romero-czw-night-of-infamy.md) |
+| 2017-10-14 | MJF vs Joey Janela | CZW / The Wolf of Wrestling | PW·FS·WE | en-investigacion | 1 | [→](2017-10-14-mjf-vs-joey-janela-czw-wolf-of-wrestling.md) |
+| 2017-10-14 | Ethan Page vs Shane Strickland | CZW / The Wolf of Wrestling | PW·FS·WE | en-investigacion | 1 | [→](2017-10-14-ethan-page-vs-shane-strickland-czw-wolf-of-wrestling.md) |
 | 2017-10-14 | JT Dunn vs John Silver vs Trey Miguel vs Space Monkey (4-way) | CZW / The Wolf of Wrestling | WE | en-investigacion | 1 | [→](2017-10-14-jt-dunn-gana-4-way-czw-wolf-of-wrestling.md) |
 | 2017-09-09 | Shane Strickland vs Jason Cade | CZW / Down With the Sickness | WE | en-investigacion | 1 | [→](2017-09-09-shane-strickland-vs-jason-cade-czw-dwts.md) |
 | 2017-09-09 | Sami Callihan vs Jimmy Lloyd | CZW / Down With the Sickness | — | en-investigacion | 1 | [→](2017-09-09-sami-callihan-vs-jimmy-lloyd-czw-dwts.md) |

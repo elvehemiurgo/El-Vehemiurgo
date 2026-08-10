@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mjf
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + CM Punk feud 2022"
   - "MJF Talk Is Jericho appearances + media on-record extenso"
@@ -526,6 +526,72 @@ Sacrifices, 13/5/2017) y arranca su reinado de 336 días como Wired
 Champion. Post-match, humilla a Maria Manic — sin clase (regla
 "ok"). Reserva técnica declarada sobre el finisher, ubicada en la
 era de los destroyers/piledrivers de la época.
+
+### Sesión 2026-08-01 s26 — El cierre de 2017: el heel que sostiene una casa entera
+
+**Cuatro piezas clasificadas en una sesión** (Wolf of Wrestling, Night
+of Infamy, Cage of Death 19). Citas verbatim:
+
+> *"Luego tenemos MJF en un segmento in ring, contra todo el CZW
+> crowd, momento historico, y buen booking, y brillante la rivalidad
+> MJF vs DJ Hyde y Matt Tremont, cada frase de MJF es icónica, y es
+> top tier indie wrestling la verdad."*
+>
+> *"MJF le da una lucha legítima, de hecho usa esa frustración de que
+> los fans se están burlando de su lucha por culpa de Janela que es un
+> idiota, y eas mezcla es rarisima, es definitivamente memorable."*
+>
+> *"es buena programación de MJF, buen show, buena promo, este feudo
+> este tipo de gimmicks en sus rivales sacan lo mejor de MJF."*
+>
+> *"MJF le sacó una gran lucha [a Dezmond Xavier], es un sueño tener a
+> Dez con esta presentación trabajando con el mejor."*
+>
+> *"MJF usa a su favor todo lo que implica luchar con Janela, es muy
+> inteligente, esta lucha se merece todas las clases."*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim)
+
+**Lectura sintética — la tesis central del expediente CZW de MJF**:
+el heel se define **por oposición al entorno**, y en 2017 el entorno
+de CZW era su mejor materia prima. Tres frentes simultáneos sin
+diluir ninguno: la administración (DJ Hyde), la dirección hardcore
+(Matt Tremont) y el rival personal (Janela). Contra un Janela que
+convierte todo en comedia, MJF se vuelve el único adulto de la sala —
+y en la revancha, cuando Janela entrega *"una lucha más profesional"*,
+MJF sigue ganando el intercambio porque **usa el contexto del rival
+como material propio**.
+
+**"Trabajando con el mejor"** — la declaración más directa que el
+archivo tiene del Vehemiurgo sobre MJF en este corpus.
+
+**El ángulo del *injunction*** merece registro aparte: MJF pierde el
+Wired el 14/10, sale el 11/11 con **Mark Sterling en ringside — ya en
+2017** — anunciando que la medida cautelar pasó y dándole a Janela
+*"hasta diciembre"*, y **recupera el título el 9/12**. Booking con
+reloj, memoria y cierre, siete años antes de que la fórmula del
+abogado se volviera moneda corriente en AEW.
+
+**El what if de IMPACT** (registro editorial, base factual pendiente):
+
+> *"Y pensar que hubo un momento donde MJF estaba buscando contactar a
+> IMACT wrestling para trabajar, y no tuvieron vision, hay un universo
+> alterno donde MJF conquista IMPACT antes de ir a WWE y tenemos MJF
+> vs Eli Drake como feudo generacional definitivo redentor de IMPACT,
+> pero bueno."*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim)
+
+Pendiente de fuente on-record (podcast/entrevista) que documente el
+acercamiento. Hasta entonces se registra como **nota editorial del
+Vehemiurgo**, no como dato duro.
+
+**Piezas de la sesión**:
+[segmento vs el crowd](../segments/2017-10-14-mjf-segmento-in-ring-crowd-czw-wolf-of-wrestling.md) (WE) ·
+[vs Janela, Wolf of Wrestling](../matches/2017-10-14-mjf-vs-joey-janela-czw-wolf-of-wrestling.md) (PW·FS·WE) ·
+[pregrabado + in-ring del injunction](../segments/2017-11-11-mjf-pregrabado-e-in-ring-czw-night-of-infamy.md) (WE) ·
+[vs Dezmond Xavier](../matches/2017-11-11-mjf-vs-dezmond-xavier-czw-night-of-infamy.md) (PW·FS·WE) ·
+[vs Janela, revancha COD19](../matches/2017-12-09-mjf-vs-joey-janela-revancha-czw-cage-of-death-19.md) (todas las clases)
 
 ## Pendientes
 

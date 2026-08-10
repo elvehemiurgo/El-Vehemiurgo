@@ -54,6 +54,29 @@ arquetipo del Tier 0 ya fundado en el show anterior de la guía.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s26 — El endorsement a la rama ultraviolenta
+
+**Cita verbatim** (CZW Night of Infamy, 11/11/2017):
+
+> *"Luego, Kirk vs Lloyd, no soy fan del death match, pero si me
+> hicieron interesar por esa rivalidad, cortita, y brutal, se merece
+> una WE class toda la lucha y Callihan con el endorsement, están
+> locos."*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim)
+
+**Lectura sintética**: el endorsement de Callihan entra dentro del
+paquete clasificado. La función es de **certificación**: el Indie
+Wrestling God del Tier 0 validando la rama deathmatch de la casa en el
+momento en que la casa cambiaba de dirección hacia lo ultraviolento
+(Tremont como accionista desde septiembre). *"Están locos"* es
+aprobación, no reproche.
+
+**Pendiente**: contenido exacto del endorsement — el research de card
+no lo registró; el Vehemiurgo lo vio en video.
+
+**Pieza**: [Brandon Kirk vs Jimmy Lloyd](../matches/2017-11-11-brandon-kirk-vs-jimmy-lloyd-czw-night-of-infamy.md) (WE)
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa CZW pre-2017 (Switchblade Conspiracy,

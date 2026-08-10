@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: myron-reed
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s04 (visión directa — AEW Collision 11/4/2026)"
 tags: [myron-reed, aew, mlw, high-flyer, gran-babyface, buenas-promos, por-que-nunca-fue-el-elegido, pregunta-editorial-abierta]
@@ -96,6 +96,28 @@ desarrollo adicional. Ver
 de estilo: el único de la descendencia OI4K que evolucionó el estilo
 en la dirección correcta (más real, violento y old-school), mientras
 el resto "se fue ablandando". Refuerza su lugar como Fundamental #36.
+
+### Sesión 2026-08-01 s26 — ASCENSO AL TIER 0, y la excepción entre los Rascalz
+
+**Ascendido del Tier 3 (#36) al Tier 0 — Indie Wrestling Gods** en la
+expansión masiva de la sesión. Slot #36 preservado. Ver
+[panteón](../topics/heroes-fundamentales-vehemiurgia.md).
+
+**Cita verbatim** (derrame editorial desde el match MJF vs Dezmond
+Xavier, CZW Night of Infamy 11/11/2017):
+
+> *"los rascalz deberian volver a esta presentación y seriedad, de
+> verdad no sé que estan haciendo con el estilo que heredaron, solo
+> Myron Reed y Jake Crist son buenos ahora."*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim)
+
+**Lectura sintética**: la queja del Vehemiurgo contra la escena
+heredera no es de habilidad sino de **pérdida de seriedad de
+presentación** — que en doctrina es pérdida de gimmick, y sin gimmick
+no hay draw. Reed queda nombrado como una de las dos excepciones, y
+en la misma sesión asciende al Tier 0. El criterio del tier encaja:
+influencia real por encima del reconocimiento recibido.
 
 ## Pendientes / huecos
 

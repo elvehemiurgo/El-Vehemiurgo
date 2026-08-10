@@ -97,6 +97,46 @@ Ospreay) — si el Vehemiurgo quiere desarrollar esa hipótesis, sería
 **columna editorial original de El Vehemiurgo**, no síntesis de
 cobertura ya escrita.
 
+### Sesión 2026-08-01 s26 — El fin de la racha perdedora, y el dream match con Page
+
+**Citas verbatim**:
+
+> *"Tim Donst le saca una gran lucha a David Starr, su gimmick y
+> personalidad es perfecta para picar a David después de su racha de
+> perdidas y todo el ángulo que hicieron como si les sobrara tiempo
+> [...] hay lapsos donde solo es back and forth así muy indie, pudo
+> haber sido un clásico instantaneo pero no pueden evitar ser asi de
+> indies, pero buena lucha de David Starr, merece una FS y WE
+> classes."*
+>
+> *"Starr vence a Ethan Page, tremenda dream match de la época, peak
+> wrestling, así en etapa temprana, Ethan claramente más maduro que
+> David, pero pusieron un super show. David full babyface todo
+> motivado y atlético, si lo prefiero de heel, pero es buen material
+> para armar luchas así de batalla de egos, les quedó algo muy
+> genial."*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim)
+
+**El dato de booking que cierra el año**: la victoria sobre Donst en
+Night of Infamy (11/11/2017, cross arm German suplex pinning
+combination) **corta la racha perdedora de un año de Starr** — el
+ángulo que el archivo venía siguiendo desde la derrota ante John
+Silver en *Down With the Sickness*. Un mes después vence a Ethan Page
+en Cage of Death 19.
+
+**Lectura sintética — la consistencia del juicio**: la reserva de s24
+sobre su selling como babyface (*"más ansioso de aplicar su counter
+que de vender el castigo actual"*) reaparece acá como preferencia de
+alineación — *"si lo prefiero de heel"*. El Vehemiurgo identifica
+además el marco que sí le funciona: **la batalla de egos**. Y la
+ausencia de Perfect Wrestling en el match con Donst está argumentada,
+no es descuido: *"no pueden evitar ser asi de indies"*.
+
+**Piezas**:
+[vs Tim Donst](../matches/2017-11-11-tim-donst-vs-david-starr-czw-night-of-infamy.md) (FS·WE) ·
+[vs Ethan Page](../matches/2017-12-09-david-starr-vs-ethan-page-czw-cage-of-death-19.md) (sin clase declarada)
+
 ## Pendientes / huecos
 
 - [ ] Su rol en el grupo con Strickland en CZW — **"JML" identificado

@@ -56,6 +56,39 @@ aplica low blow y powerbomb a través de la mesa.
 **Lectura sintética**: sin clase declarada — elogio de linaje NWA sin
 fórmula de disparo (ver segmento).
 
+### Sesión 2026-08-01 s26 — ALTA AL TIER 0, y los Ten Pounds of Gold cambiando de manos en CZW
+
+**Ascendido del Tier 3 (#52) al Tier 0 — Indie Wrestling Gods** en la
+expansión masiva de la sesión (dictado como *"Nick Aldis Magnus"*).
+Slot #52 preservado como registro histórico. Ver
+[panteón](../topics/heroes-fundamentales-vehemiurgia.md).
+
+**Cita verbatim**:
+
+> *"Luego Nick Aldis con todo y su tema de TNA, y hacen el cambio de
+> campeon con Tim Storm así, hitórico dentro de todo, además la promo
+> post match de Aldis es buenisima, así que le doy un WE class a todo
+> esto"*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim)
+
+**El hecho**: el **9/12/2017, en CZW Cage of Death 19** (Rastelli
+Complex, Sewell NJ), Aldis vence a **Tim Storm** y gana el **NWA
+Worlds Heavyweight Championship**, cortando un reinado de **414 días**
+— reinado 93 en la historia del título. Con **Austin Idol** de retorno
+sorpresa como vocero en su esquina. Es el arranque de la era de los
+*Ten Pounds of Gold*.
+
+**Lectura sintética**: la **WE class va al paquete completo** —
+entrada con el tema de TNA, el match, el cambio de título y la promo
+post-match. *"Con todo y su tema de TNA"* es el detalle carny que el
+Vehemiurgo no deja pasar: el talento llega con el envase de su casa
+anterior y eso lo hace más grande, no menos. Y **explicar qué
+significa tener el cinturón** —la promo post-match— es tan parte del
+acto como ganarlo.
+
+**Pieza**: [vs Tim Storm, Cage of Death 19](../matches/2017-12-09-nick-aldis-vs-tim-storm-czw-cage-of-death-19.md) (WE)
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de la rivalidad Gunther vs Aldis.
