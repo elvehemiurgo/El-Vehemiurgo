@@ -6,8 +6,9 @@ slug: brandon-kirk
 estado: vivo
 ultima_actualizacion: 2026-08-01
 fuentes_principales:
-  - "El Vehemiurgo, notebook 2026-08-01 s26 (VISIONADO DIRECTO — CZW Night of Infamy 11/11/2017 y Cage of Death 19 9/12/2017, VEHEMIURGIA)"
+  - "El Vehemiurgo, notebook 2026-08-01 s26, s28 (VISIONADO DIRECTO — CZW Night of Infamy 11/11/2017, Cage of Death 19 9/12/2017 y Down With the Sickness 8/9/2018, VEHEMIURGIA)"
   - "Sub-agente brandon-kirk-hoy (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
+  - "Sub-agente czw-dwts-2018-max-caster (research 2026-08-01)"
 ---
 
 # Brandon Kirk
@@ -91,6 +92,18 @@ fuentes_principales:
   Invitational 9** ante **Sawyer Wreck** (el título estaba en juego en
   la final). Reinado de ~5 semanas. [411mania.com, 16-17/11/2024]
 
+### CZW 2018 — camino a The Office
+
+- **11/8/2018**: hace equipo con **Conor Claxton**, venciendo a Mance
+  Warner & Mitch Vallen en hardcore rules — el arranque documentado de
+  la dupla de trabajo que después se formaliza como **The Office**.
+- **8/9/2018, Down With the Sickness**: **vence a Max Caster** en
+  singles. El stable completo de 4 (Kirk, Claxton, Kasey Catal, Kit
+  Osbourne) bajo el nombre **The Office** solo aparece confirmado por
+  research a partir del 9/12/2018 (Cage of Death 20) — el nombre pudo
+  no estar acuñado todavía esta noche, aunque la pareja de trabajo con
+  Claxton ya era real.
+
 ### El retiro (enero 2025) — declaración propia, no rumor
 
 El 17-18/1/2025 anuncia que su participación en el **DLC (Doors,
@@ -165,6 +178,45 @@ Champion**, destronando el reinado de 791 días de Rina Yamashita) y se
 retiró siete años después de este corpus, **por decisión propia
 declarada on-record**, sin lesión y sin escándalo. El ladrón de
 oportunidades terminó robándose la más grande de su escena.
+
+### Sesión 2026-08-01 s28 — Un año más maduro, y la elección de nunca ser "enterteiner"
+
+**Cita verbatim**:
+
+> *"vemos a Brandon ya más maduro, tomando el micrófono con confianza,
+> su versión office, junto a Claxton que le cayó bien el personaje, se
+> nota que se divierte con el gimmick [...] si me enganchó la historia
+> de Brandon Kirk, creo que está loco, y de hecho, decidió seguir por
+> el camino de las deathmatch y nunca hacer la transición a
+> enterteiner, me gusta mucho su selling, y pues hubiera querido que
+> sea más coacheable y se hubiera inclinado por una carrera más
+> oldschool, pero sigue siendo interesante verlo en 2018 contra Max
+> [...] Brandon sigue siendo wrestling, un loco de New Jersey que me
+> cautivo con su deseo ultra violent. Esta pieza se merece una WE
+> class."*
+>
+> — El Vehemiurgo, 2026-08-01 s28 (verbatim)
+
+**Lectura sintética**: **WE class**. El Vehemiurgo registra la
+evolución de Kirk en tiempo real — de *"The Rogue"* ladrón de
+oportunidades en 2017 (s26) a una versión *"más madura, tomando el
+micrófono con confianza"* en 2018, ya en pareja de trabajo con
+**Conor Claxton**, germen de lo que sería **The Office**.
+
+**La reserva más honesta del expediente**: por primera vez el
+Vehemiurgo declara qué hubiera preferido para la carrera de Kirk —
+*"hubiera querido que sea más coacheable y se hubiera inclinado por
+una carrera más oldschool"* — y aun así no retira el afecto: *"Brandon
+sigue siendo wrestling"*. Es la misma tensión que atraviesa todo el
+expediente: el archivo documenta tanto lo que un talento fue como lo
+que el crítico hubiera querido que fuera, sin confundir las dos cosas.
+
+**El contraste de carrera con Max Caster** queda registrado como
+lectura de **elección deliberada, no de talento desperdiciado**: *"su
+idea de éxito"* — distinto del "techo autoimpuesto" que el Vehemiurgo
+aplicó a RSP o Trevor Lee en otras piezas del corpus.
+
+**Pieza**: [vs Max Caster](../matches/2018-09-08-brandon-kirk-vs-max-caster-czw-dwts.md) (WE)
 
 ## Pendientes / huecos
 
