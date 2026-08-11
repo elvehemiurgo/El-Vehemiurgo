@@ -88,6 +88,32 @@ booking y gimmick son ejes distintos.
 Vehemiurgo, empieza a perder el personaje. El triunfo deportivo no es
 garantía de trayectoria de gimmick.
 
+### Sesión 2026-08-01 s30 — Alta a los DEATH GODS OF WRESTLING
+
+**Alta a la lista** ([DEATH GODS](../topics/death-gods-of-wrestling.md)),
+segunda tanda del 2026-08-01 s30.
+
+**Cita verbatim**:
+
+> *"ojalá Oliuver hubiera madurado este estilo ahora no seria un slime
+> ball nerfeado como wentz y dezmond xavier [...] tambien sumemos a la
+> lista a Dezmon Xavier, Zachary Wentz y EYFBO como tag team"*
+>
+> — El Vehemiurgo, 2026-08-01 s30 (verbatim)
+
+**Lectura sintética — el cierre del arco de diagnóstico**: el archivo
+venía registrando esta lectura sobre Wentz desde **s24** (*"esta
+versión de Zach Wentz es impresionante, ojalá se pusiera así de rudo
+ahora [...] lo nerfea mucho su personaje actual"*) y **s27**, donde el
+Vehemiurgo ubicó el **punto de inflexión exacto** en su victoria de
+Best of the Best 17. Acá el diagnóstico se formaliza: **alta a la
+lista de los talentos cuya proyección no se cobró**.
+
+**Nota de cruce**: en la misma declaración entró **EYFBO** — los
+campeones a los que Wentz y Dezmond Xavier les ganaron los CZW Tag
+Team Championships el 10/12/2016 como **Scarlet and Graves**. Los dos
+equipos de ese cambio de título están ahora en la misma lista.
+
 ## Pendientes / huecos
 
 - [ ] Fecha de nacimiento y datos de identificación completos.

@@ -92,6 +92,37 @@ de seriedad de presentación**, que en doctrina es pérdida de gimmick,
 y sin gimmick no hay draw. Las dos excepciones que salva (**Myron Reed
 y Jake Crist**) están hoy en el **Tier 0** del panteón.
 
+### Sesión 2026-08-01 s30 — Alta a los DEATH GODS OF WRESTLING
+
+**Alta a la lista** ([DEATH GODS](../topics/death-gods-of-wrestling.md)),
+segunda tanda del 2026-08-01 s30.
+
+**Cita verbatim**:
+
+> *"ojalá Oliuver hubiera madurado este estilo ahora no seria un slime
+> ball nerfeado como wentz y dezmond xavier [...] tambien sumemos a la
+> lista a Dezmon Xavier, Zachary Wentz y EYFBO como tag team"*
+>
+> — El Vehemiurgo, 2026-08-01 s30 (verbatim)
+
+**Lectura sintética**: el alta llega **inmediatamente después** de que
+el Vehemiurgo lo agrupara con **Zachary Wentz y Jordan Oliver** como
+los tres casos del *"nerfeo"* de la camada. **Los Death Gods absorben
+a los talentos cuya proyección no se cobró** — que es exactamente lo
+que dice la cláusula fundacional de la lista: *"representan wrestling
+y vehemiurgia dentro de sus posibilidades"*.
+
+**Continuidad del diagnóstico**: es la tercera vez que el archivo
+registra esta lectura sobre él. En **s26** fue *"los Rascalz deberían
+volver a esta presentación y seriedad, de verdad no sé qué están
+haciendo con el estilo que heredaron"*; acá el juicio se endurece y se
+formaliza en un alta a lista.
+
+**Nota de cruce**: en la misma declaración entró **EYFBO** — los
+campeones a los que Xavier y Wentz les ganaron los CZW Tag Team
+Championships el 10/12/2016 como **Scarlet and Graves**. Los dos
+equipos de ese cambio de título están ahora en la misma lista.
+
 ## Pendientes / huecos
 
 - [ ] Confirmación por fuente del reinado tag de Scarlet and Graves.

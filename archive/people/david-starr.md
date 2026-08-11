@@ -183,6 +183,79 @@ la ficha, ahora con el eslabón que faltaba.
 [vs Matt Riddle, con Tessa Blanchard](../matches/2018-04-14-david-starr-vs-matt-riddle-tessa-blanchard-czw-botb17.md) (PW·FS·WE) ·
 [vs Zachary Wentz, final](../matches/2018-04-14-david-starr-vs-zachary-wentz-final-czw-botb17.md) (sin clase declarada)
 
+### Sesión 2026-08-01 s29 — El careo con MJF: "de verdad crearon un gran babyface"
+
+**Cita verbatim** (CZW *Better Than Our Best*, 13/10/2018):
+
+> *"por fin el careo MJF y David Starr, top stars, buenas promos,
+> buenos stakes, el storyline de Starr en la compañia, viajando solo
+> para poner over gente en CZW mientras la rompe en el resto del
+> mundo, de verdad crearon un gran babyface, además que the product
+> david starr era muy bueno con esas promos tipo american dream, y
+> polémico al mismo tiempo, es de los luchadores muy políticos en esa
+> era tan canceladora [...] David es bueno, pero su único stake
+> siempre es "I love professional wrestling" como que quiere ser el
+> mejor mejor que nadie más, y es muy mtivador y agradecido y emotivo
+> [...] es una campaña como la de Strickland, con ese discurso sobre
+> representar nuestra generación, representar indie wrestling, pero la
+> epicidad, depende del villano de la historia [...] pero si Starr
+> sigue verde en aspectos más oldschool."*
+>
+> — El Vehemiurgo, 2026-08-01 s29 (verbatim)
+
+**Lectura sintética — el cobro de un arco que el archivo tiene
+documentado entero**:
+
+- **"De verdad crearon un gran babyface"**: la racha perdedora de un
+  año, el corte ante Tim Donst (11/11/2017), el torneo Best of the
+  Best 17 (14/4/2018) — este match es el payoff de esa paciencia. El
+  argumento del Vehemiurgo es de **storyline de compañía**: *"viajando
+  solo para poner over gente en CZW mientras la rompe en el resto del
+  mundo"*.
+- **"Promos tipo american dream"**: la comparación con **Dusty
+  Rhodes** es el elogio de promo más alto que le ha dado en el corpus.
+- **El límite, nombrado con precisión**: *"su único stake siempre es
+  'I love professional wrestling'"* — motivación emotiva, no material.
+  Por eso MJF *"luce mucho mejor: es el que dirige [...] porque él
+  está poniendo los stakes"*. Comparación interna del corpus: *"es una
+  campaña como la de Strickland"*.
+- **La ley del villano**: *"la epicidad depende del villano de la
+  historia"* — formulación de doctrina, no observación de un match.
+- **La reserva se sostiene por tercera sesión consecutiva**: *"Starr
+  sigue verde en aspectos más oldschool"* — igual que en s26 (ante
+  Donst) y s27 (final del torneo). **Triple clase igual.**
+
+**Nota documental — el activismo político.** El volcado dice que Starr
+*"se declaró abiertamente anti zionista"*. Verificación delegada
+(CLAUDE.md §5): **su activismo está documentado y es extenso**. Se
+identifica públicamente como judío (*"The Jewish Canon"*, entrevista
+propia 2017); se autodenominó *"the Bernie Sanders of professional
+wrestling"*; fundó **We The Independent** (2019), merch de izquierda
+cuyos ingresos pagaban cuotas de Equity UK para luchadores.
+
+**El episodio duro y on-record es de marzo de 2019**: grabó un promo
+para su match ante **Jay Lethal** en el *Passover Bash* de la IPWA
+(Netanya, Israel, 21/4/2019) atacando a **Sinclair Broadcast Group**
+—dueña de ROH— como *"far-right wing extremist corporate propaganda
+machine"*, y diciendo que Israel *"is supposed to be a place that
+doesn't deprive its citizens of basic civil human rights"*.
+**ROH/Sinclair contactaron al promotor de IPWA para exigir la baja del
+video**; Starr lo borró y tuiteó que se lo pidieron *"the powers that
+be"*. [PWTorch, 22/3/2019; Newsweek 2019; Jerusalem Post 2019]
+
+**Precisión de registro**: la etiqueta *"antisionista"* aparece en
+caracterizaciones de terceros, **no como autodefinición suya** en las
+fuentes rastreadas.
+
+**CORRECCIÓN CRÍTICA QUE ESTA FICHA DEBE SOSTENER**: su salida del
+wrestling en **junio de 2020 NO fue por su política** — fue por las
+acusaciones de #SpeakingOut, ya registradas arriba con la jerarquía de
+fuentes correspondiente. **Son dos episodios distintos con causas
+distintas: 2019 = censura del promo (causa política); 2020 = ruptura
+total (causa #SpeakingOut).** Fusionarlos sería error factual grave.
+
+**Pieza**: [vs MJF, Better Than Our Best](../matches/2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) (PW·FS·WE)
+
 ## Pendientes / huecos
 
 - [ ] Su rol en el grupo con Strickland en CZW — **"JML" identificado

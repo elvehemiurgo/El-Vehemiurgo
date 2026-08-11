@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mike-santana
 estado: vivo
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #5 (caso testigo 'breakout tardío' THE FUTURE in 2026 — advertencia editorial)"
   - "Volcado Vehemiurgo 2026-06-17 #8 (tag partner Leon Slater, main event TNA presente)"
@@ -234,6 +234,55 @@ historia de superación ("me pruebo en el ring, no en el micrófono");
 Waller le responde preguntando cuántas veces más la va a repetir —
 línea que sostiene la crítica del Vehemiurgo. Anunciado vs Waller
 para el #1 contender del 11/8/2026.
+
+### Sesión 2026-08-01 s30 — EYFBO al DEATH GODS OF WRESTLING
+
+**Alta a la lista como parte de EYFBO**
+([DEATH GODS](../topics/death-gods-of-wrestling.md)) — el Vehemiurgo
+declaró el alta **al equipo, no a los individuos**.
+
+**Cita verbatim**:
+
+> *"tambien sumemos a la lista a Dezmon Xavier, Zachary Wentz y EYFBO
+> como tag team"*
+>
+> — El Vehemiurgo, 2026-08-01 s30 (verbatim)
+
+**HALLAZGO DE RESEARCH — corrección de identidad**: **Mike Draztik ES
+Mike Santana.** EYFBO = **Mark Sanchez (Mike Draztik / Mike Santana)
++ Miguel Molina (Angel Ortiz / Ortiz)**, formados en **2012** en el
+circuito independiente americano. El acrónimo significa ***"Entertain
+Your F\*\*\*ing Balls Off"***.
+
+**Trayectoria del equipo**:
+
+- **CZW World Tag Team Champions** — 1 reinado. **Pierden los
+  cinturones el 10/12/2016, en Cage of Death 18, ante Scarlet and
+  Graves** (Dezmond Xavier & Zachary Wentz), en un match descrito como
+  *quick*. `[fecha de conquista no resuelta — ventana mayo-diciembre
+  2016]`
+- También **AAW Tag Team Champions** y **House of Glory Tag Team
+  Champions** (3 reinados contando EYFBO + LAX).
+- **Al firmar con Impact en 2017 se renombraron Santana y Ortiz** y
+  formaron **LAX** con **Konnan**. **4x Impact World Tag Team
+  Champions.**
+- Equipo **2012-2023 — doce años**. **Rift interno reportado en 2023**;
+  **ruptura formal en 2024**, cuando **Santana pidió su release de
+  AEW**.
+- **Su versión on-record** (Chris Van Vliet, *Insight*, marzo 2024):
+  *"we just grew apart over time and, also, our visions for the tag
+  team and its future and its success — we weren't on the same page
+  when it came to a lot of those things"*. Suma que su deseo de hacer
+  más singles generó fricción, y declara *"I hold no hate, no grudge,
+  nothing"*. En entrevista posterior confirmó que **no hay
+  comunicación entre ambos**.
+
+**Cruce con el corpus VEHEMIURGIA**: EYFBO son los campeones a los que
+**Scarlet and Graves** les ganaron los cinturones — el reinado que el
+corpus siguió hasta que The Rep se lo quitó en Cage of Death 19. **Los
+tres equipos de esa cadena están hoy en el archivo, y EYFBO más los
+dos miembros de Scarlet and Graves entraron a los Death Gods en la
+misma declaración.**
 
 ## Pendientes / huecos
 

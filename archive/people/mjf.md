@@ -634,6 +634,79 @@ con **David Starr** coronado como el próximo retador natural.
 [vs RSP, título mundial](../matches/2018-04-14-mjf-vs-rickey-shane-page-czw-botb17.md) (PW·FS·WE) ·
 [post-main event, desprecia el Wired](../segments/2018-04-14-mjf-post-main-event-david-starr-cierra-czw-botb17.md) (WE)
 
+### Sesión 2026-08-01 s29 — El careo con Starr, y la tesis del "paquete completo"
+
+**Citas verbatim** (CZW *Better Than Our Best*, 13/10/2018):
+
+> *"por fin el careo MJF y David Starr, top stars, buenas promos,
+> buenos stakes [...] era dificil aceptar que el estilo de MJF se
+> había pulid más rápido que el de Starr solo porque apostó por el
+> enterteinment en lugar de las luchas indie 5 estrellas [...] Por eso
+> mismo MJF luece mucho mejor en esat lucha, es el que dirige, no solo
+> porque es el heel, si no porque él esta poniendo los stakes."*
+
+> *"mjf le regala otro momento memorable a CZW y RSP, con la firma de
+> contrato para Cage of Death XX [...] se merece una WE class todo
+> este segmento final."*
+>
+> — El Vehemiurgo, 2026-08-01 s29 (verbatim)
+
+**La única defensa mano a mano confirmada de su reinado mundial de
+CZW** — retiene ante David Starr con pin tras el **Best Shot**.
+**Triple clase.**
+
+**Lectura sintética — dos formulaciones de doctrina en un solo take**:
+
+1. **Dirigir ≠ ser heel.** *"Es el que dirige, no solo porque es el
+   heel, sino porque él está poniendo los stakes."* MJF no controla el
+   match por alineación: lo controla **por ser dueño de lo que está en
+   juego**. El límite de Starr queda nombrado por contraste — *"su
+   único stake siempre es 'I love professional wrestling'"*.
+2. **La apuesta al enterteinment como acelerador.** El Vehemiurgo
+   admite que le costó aceptarlo: el estilo de MJF *"se había pulido
+   más rápido"* precisamente por no perseguir *"las luchas indie 5
+   estrellas"*. Ejemplo canónico que da: **Gunther vs. Cesaro**.
+
+**El segmento final** — la firma de contrato ante RSP para Cage of
+Death XX — le vale **WE class** aparte. El ángulo: **MJF firmó y solo
+después se dio cuenta de que el match sería dentro de la Cage of
+Death**. El heel atrapado por no leer la letra chica que él mismo
+suele usar como arma.
+
+**Y el contrato nunca se cumplió**: el **29/11/2018 MJF fue despojado
+del título por lesión**. Cage of Death XX coronó a **Mance Warner**
+sobre RSP por el vacante. MJF recuperaría el cinturón ante Warner el
+**13/4/2019** en Best of the Best 18. [Last Word on Pro Wrestling,
+29/11/2018]
+
+**Nota documental — el dato político del volcado.** El Vehemiurgo
+afirmó que MJF *"se declaró abiertamente anti zionista"*. Verificación
+delegada (CLAUDE.md §5): **sí existe declaración on-record**, en *The
+Ariel Helwani Show* — *"I'm not in support of what's going on right
+now in Israel [...] I personally don't like Netanyahu, not a fan."*
+Sobre el sionismo dijo que la palabra ya no significa lo que le
+enseñaron de chico. Y rechazó la conflación identidad/gobierno:
+*"Last time I checked, I am not in the Israeli government."* Reportó
+además un **aumento de ataques antisemitas** en su contra.
+[WrestlingNews.co; PWMania] `[fecha del episodio por verificar]`
+**Precisión de registro**: la etiqueta *"antisionista"* aparece en
+caracterizaciones de terceros, **no como autodefinición suya**.
+Sobre su identidad judía y el antisemitismo en el oficio sí hay
+registro amplio y propio: promo en *Dynamite* (feb. 2022) sobre el
+bullying sufrido de chico, y declaraciones de estar *"very proud"* de
+ser judío. [Wrestling Inc., 4/2022; Algemeiner, 6/4/2022]
+
+**Cruce con el presente (s30)**: en **enero de 2026**, MJF anunció en
+**Limitless Wrestling** que **Jordan Oliver y Alec Price son All
+Elite** — preguntándole al público si los querían como *"pro
+wrestlers"* o *"sports entertainers"*. El mismo MJF del corpus CZW,
+ocho años después, apadrinando al chico que fue campeón Wired a los 19
+en la misma casa.
+
+**Piezas de la sesión**:
+[vs David Starr](../matches/2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) (PW·FS·WE) ·
+[firma de contrato con RSP para COD XX](../segments/2018-10-13-firma-contrato-mjf-rsp-cage-of-death-xx-czw.md) (WE)
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual

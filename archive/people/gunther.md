@@ -225,6 +225,35 @@ segundo Stunner de Kevin Owens.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s29 — El modelo declarado del "paquete completo"
+
+**Cita verbatim** (durante el análisis de MJF vs David Starr, CZW
+*Better Than Our Best* 13/10/2018):
+
+> *"es una distracción real para muchos talentos que después descuidan
+> su microfono, solo vean la diferencia entre Gunther y Cesaro, ambos
+> tenian gran potencial, pero GUnther se centró en el enterteinment y
+> se convirtió en el paquete completo, mientras Cesaro sigue siendo un
+> indie darling y un workhorse mid card, son distintos tipos de éxito,
+> pero obviamente lo que me gusta ami es lo oldschool."*
+>
+> — El Vehemiurgo, 2026-08-01 s29 (verbatim)
+
+**Lectura sintética**: **Gunther es el modelo positivo declarado** de
+la tesis central del Vehemiurgo sobre *enterteinment vs. workrate*.
+Dos trabajadores del mismo nivel de potencial de partida; **Gunther
+apostó al enterteinment y "se convirtió en el paquete completo"**,
+mientras **Cesaro** *"sigue siendo un indie darling y un workhorse mid
+card"*.
+
+**El matiz que el archivo debe preservar**: *"son distintos tipos de
+éxito"*. El Vehemiurgo **no descalifica** el camino de Cesaro —
+declara su preferencia. Y la remata conectándola con la escuela de
+rating: *"me parece absurda el ratings de estrellas de Meltzer, es
+puro marketing"*.
+
+**Pieza**: [MJF vs David Starr](../matches/2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) (PW·FS·WE)
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo

@@ -297,6 +297,9 @@ con cada cambio de estado.
 | 2022-03-06 | CM Punk vs MJF — Dog Collar Match | AEW / Revolution 2022 | — | en-investigacion | 1 | [→](2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md) |
 | 2021-11-13 | Hangman Adam Page vs Kenny Omega — AEW World Heavyweight Championship | AEW / Full Gear 2021 | — | en-investigacion | 1 | [→](2021-11-13-hangman-adam-page-vs-kenny-omega-aew-full-gear-2021.md) |
 | 2019-05-03 | Dragon Lee vs Taiji Ishimori | NJPW (New Japan Pro Wrestling) / Wrestling Dontaku 2019 | — | en-investigacion | 1 | [→](2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) |
+| 2018-12-09 | Jordan Oliver vs KC Navarro | CZW / Cage of Death XX | PW·FS·WE | en-investigacion | 1 | [→](2018-12-09-jordan-oliver-vs-kc-navarro-czw-cage-of-death-xx.md) |
+| 2018-10-13 | MJF vs David Starr | CZW / Better Than Our Best | PW·FS·WE | en-investigacion | 1 | [→](2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) |
+| 2018-09-08 | Blackwater vs Ace Austin vs KC Navarro vs Jordan Oliver | CZW / Down With the Sickness | — | en-investigacion | 1 | [→](2018-09-08-4-way-wired-blackwater-gana-czw-dwts.md) |
 | 2018-09-08 | Brandon Kirk vs Max Caster | CZW / Down With the Sickness | WE | en-investigacion | 1 | [→](2018-09-08-brandon-kirk-vs-max-caster-czw-dwts.md) |
 | 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
 | 2018-04-14 | David Starr vs Zachary Wentz | CZW / Best of the Best 17 | — | en-investigacion | 1 | [→](2018-04-14-david-starr-vs-zachary-wentz-final-czw-botb17.md) |

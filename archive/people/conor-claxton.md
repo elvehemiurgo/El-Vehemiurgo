@@ -83,6 +83,33 @@ evaluación más directa que el archivo tiene sobre la comodidad de
 Claxton con su propio rol dentro de la dupla que germinaría en **The
 Office**.
 
+### Sesión 2026-08-01 s29 — Alta a los DEATH GODS OF WRESTLING
+
+**Alta a la lista** ([DEATH GODS](../topics/death-gods-of-wrestling.md)),
+en la declaración fundacional del 2026-08-01 s29 (dictado como
+*"Connor Claxton de CZW"*; el canónico es **Conor Claxton**).
+
+**Cita verbatim**:
+
+> *"añadamos a la lista a Jordynne Grace, Lewis Garvin, Lionheart,
+> Connor Claxton de CZW, Chris Brookes, Kid Lykos y Chris Hero"*
+>
+> — El Vehemiurgo, 2026-08-01 s29 (verbatim)
+
+**Lectura sintética**: alta sin argumentación individual, bajo el
+criterio general de la lista. **Nota de linaje**: Claxton fue miembro
+de **The Nation of Intoxication** junto a **Danny Havoc** — el
+fundador de esta misma lista. Los dos comparten stable y ahora
+comparten lista.
+
+**Actualización de estado (research)**: producto del **CZW Dojo**;
+ganó el Tournament of Valor para ser el primer **Medal of Valor
+Champion**. Tras el hiato de CZW en 2020 su base pasó a **H2O**, donde
+trabaja sobre todo **formando y guiando talento joven**. Registro más
+reciente cruzado: triple threat ante Joel Bateman y Tim Donst en H2O
+durante **WrestleMania Weekend 2024**. **Cero cobertura accesible de
+2025-2026** — `[verif]`.
+
 ## Pendientes / huecos
 
 - [ ] Fecha de nacimiento y datos de identificación completos.

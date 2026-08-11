@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jordynne-grace
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — WWE SmackDown, 17/4/2026)"
 tags: [jordynne-grace, wwe-smackdown-2026, ano-accidentado, prolija-main-roster, primer-registro-individual]
@@ -45,6 +45,31 @@ tags: [jordynne-grace, wwe-smackdown-2026, ano-accidentado, prolija-main-roster,
 **Lectura sintética**: entra al archivo con un diagnóstico de
 booking incierto pero con una mejora técnica reconocida —
 expectativa declarada de mayor uso futuro.
+
+### Sesión 2026-08-01 s29 — Alta a los DEATH GODS OF WRESTLING
+
+**Alta a la lista** ([DEATH GODS](../topics/death-gods-of-wrestling.md)),
+en la declaración fundacional del 2026-08-01 s29.
+
+**Cita verbatim**:
+
+> *"añadamos a la lista a Jordynne Grace, Lewis Garvin, Lionheart,
+> Connor Claxton de CZW, Chris Brookes, Kid Lykos y Chris Hero"*
+>
+> — El Vehemiurgo, 2026-08-01 s29 (verbatim)
+
+**Lectura sintética**: alta dentro del bloque fundacional, **sin
+argumentación individual**. Aplica el criterio general de la lista:
+*"me cautivaron, pero no los pondría en ningún panteón [...]
+representan wrestling y vehemiurgia dentro de sus posibilidades"*.
+
+**Actualización de estado (research 2026-08-01)**: firmó con **WWE**
+con **contrato multianual de cinco años, hasta 2029**. Pasó **un año
+en NXT** y en **enero de 2026 subió al main roster, marca
+SmackDown**, firmando el contrato en pantalla en el SmackDown desde
+**Berlín**. Programa actual: cruces con **Chelsea Green** y con la
+**WWE Women's Champion Jade Cargill**. Sin títulos WWE vigentes al día
+de hoy. [WrestlingInc / SI, 2026]
 
 ## Pendientes / huecos
 
