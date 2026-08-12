@@ -120,6 +120,26 @@ Ningún tema queda fuera por geografía o década. La línea oficial del Vehemiu
 - **El merchandising es importante**, los canales son nuevos, pero la lógica
   vieja sigue rigiendo: si el gimmick no tiene heat o draw, no vende, lo
   llamen como lo llamen los marketers.
+- **La política y el contexto social moldean el wrestling, y el
+  historiador los incorpora** (ley desde 2026-08-01 s31): *"está bien
+  separar al artista del arte [...] pero vemos que sí existe la censura
+  y obviamente la política y contexto social moldean el wrestling y la
+  escena. Como historiador me interesa incorporar estas esferas en mi
+  análisis"* (verbatim del Vehemiurgo). Extiende el eje carny de arriba:
+  el wrestling no solo **refleja** la sociedad — está **moldeado** por
+  ella, censura incluida. **Cuatro cláusulas irrenunciables**: (1)
+  separar al artista de la obra sigue vigente; (2) la postura personal
+  del Vehemiurgo se registra como tal y **nunca es criterio de clase**;
+  (3) lo político **no entra** al juicio in-ring (booking, draw, heat,
+  gimmick) pero **sí entra** a la historia del oficio (censura,
+  condiciones laborales, presiones de empresa, clima de época); (4) el
+  archivo **no adjudica** — registra lo declarado, lo reportado y las
+  consecuencias documentadas, con la jerarquía de fuentes de §5,
+  distinguiendo **autodefinición de caracterización ajena** y **sin
+  fusionar episodios de causas distintas** (precedente Starr: 2019 =
+  censura del promo, causa política; 2020 = #SpeakingOut, otra causa).
+  Doctrina completa en
+  `archive/topics/doctrina-politica-y-contexto-social-como-esfera-de-analisis.md`.
 
 ### Lo que rechazamos sin matiz
 

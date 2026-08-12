@@ -6,17 +6,18 @@ slug: chris-hero
 estado: vivo
 ultima_actualizacion: 2026-08-01
 fuentes_principales:
-  - "El Vehemiurgo, notebook 2026-08-01 s26 (alta al Tier 0 del panteón) y s29 (alta a los DEATH GODS OF WRESTLING)"
+  - "El Vehemiurgo, notebook 2026-08-01 s26 (alta al Tier 0), s29 (alta a los DEATH GODS) y s31 (fallo: baja de los DEATH GODS)"
   - "Sub-agente death-gods-roster (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
 ---
 
 # Chris Hero
 
-> **Indie Wrestling God (Tier 0 del panteón)** — alta 2026-08-01 s26.
-> **Y DEATH GOD OF WRESTLING** — alta 2026-08-01 s29.
+> **Indie Wrestling God (Tier 0 del panteón)** — alta 2026-08-01 s26,
+> vigente.
 >
-> **⚠ Doble membresía en conflicto declarado — pendiente de fallo del
-> Vehemiurgo.** Ver abajo.
+> Entró a los **DEATH GODS OF WRESTLING** en s29 y fue **dado de baja
+> en s31**: *"se rehusó a ponerse en forma y dedicarse más al
+> enterteiner"*. **El techo no fue una condición; fue una decisión.**
 
 ## Identificación
 
@@ -53,27 +54,15 @@ World, wXw World Heavyweight.
 - On-record dijo querer estar en el estado físico y mental correcto
   antes de volver full-time.
 
-## ⚠ Conflicto de listas — pendiente de fallo
+## Estado de listas — resuelto (2026-08-01 s31)
 
-**Chris Hero está en dos listas oficiales cuyos criterios se
-excluyen mutuamente:**
+- **Tier 0 del panteón — Indie Wrestling Gods**: **SÍ**, alta en la
+  expansión masiva del 2026-08-01 s26, registrado como *"el workhorse
+  maestro"*. **Sin cambios.**
+- **DEATH GODS OF WRESTLING**: **NO — dado de baja el 2026-08-01 s31**,
+  tras haber entrado en la fundación de la lista (s29).
 
-1. **Tier 0 del panteón — Indie Wrestling Gods**, alta en la
-   expansión masiva del **2026-08-01 s26**, descrito en el registro
-   como *"el workhorse maestro"*.
-2. **DEATH GODS OF WRESTLING**, alta en la fundación de la lista el
-   **2026-08-01 s29** — cuyo criterio declarado dice explícitamente
-   ***"no los pondría en ningún panteón"***.
-
-**El archivo no resuelve la contradicción por su cuenta.** Registra a
-Hero en las dos listas y deja el fallo al Vehemiurgo. Tres salidas
-posibles:
-
-1. **Baja del Tier 0** (la lista nueva prevalece).
-2. **Baja de los Death Gods** (el panteón prevalece).
-3. **Membresía doble permitida** — la cláusula *"no los pondría en
-   ningún panteón"* se leería como criterio general de la lista, no
-   como exclusión absoluta caso por caso.
+Ver el fallo completo en las notas editoriales de abajo.
 
 ## Notas editoriales del Vehemiurgo
 
@@ -98,9 +87,49 @@ presencia previa en el Tier 0**. El archivo interpreta esto como
 posible descuido, no como declaración de baja, y por eso **no toca el
 panteón** hasta tener el fallo.
 
+### Sesión 2026-08-01 s31 — EL FALLO: baja de los Death Gods, permanece en el Tier 0
+
+**Cita verbatim**:
+
+> *"Sobre Chris Hero baja de los Death Gods, porque su estilo no
+> evolucionó como esperaba, se volvió muy indie y se reusó a ponerse en
+> forma y dedicarse más al enterteiner"*
+>
+> — El Vehemiurgo, 2026-08-01 s31 (verbatim)
+
+**Resolución ejecutada**: **Hero sale de los DEATH GODS OF WRESTLING.
+Permanece en el Tier 0 del panteón**, con su slot intacto.
+
+**Lectura sintética — el fallo aclara el criterio de la lista entera**:
+el argumento no es que Hero valga menos. Es que **no cumple la
+cláusula**. Los Death Gods piden *"representar wrestling y vehemiurgia
+**dentro de sus posibilidades**"* — dar el máximo dentro del techo
+real. Lo que el Vehemiurgo le señala a Hero no es un techo: es una
+**negativa**. *"Se rehusó a ponerse en forma y dedicarse más al
+enterteiner"* — no es un talento limitado por sus condiciones, es un
+talento que declinó ampliarlas.
+
+**Precedente que este fallo fija para la lista**: **se distingue techo
+de decisión.** Jordan Oliver entra porque *"se nerfeó el estilo, mal
+coaching"* — factor externo. Hero sale porque la limitación fue
+elección propia. **Los Death Gods no premian la negativa a
+evolucionar.**
+
+**"Se volvió muy indie"** entra además en la línea editorial que el
+Vehemiurgo formuló en s29 con el par **Gunther / Cesaro**: el *indie
+darling* como categoría que no se traduce en paquete completo. Hero
+queda del lado de Cesaro en esa dicotomía — con la diferencia de que
+en su caso el Vehemiurgo lo lee como **rechazo voluntario**, no como
+inercia.
+
+**Y sin embargo permanece en el Tier 0**: la influencia histórica es un
+eje distinto del rendimiento dentro del techo. Hero es objetivamente
+*"el workhorse maestro"* — triple campeón mundial fuera de WWE, la
+escuela de una generación entera del indie americano. **Los dos juicios
+conviven sin contradicción**, y este fallo es el que lo demuestra.
+
 ## Pendientes / huecos
 
-- [ ] **FALLO DEL VEHEMIURGO sobre el conflicto Tier 0 / Death Gods.**
 - [ ] Fecha exacta del regreso vs. Timothy Thatcher (probablemente
       17/11/2023).
 - [ ] Qué luchó en 2024.

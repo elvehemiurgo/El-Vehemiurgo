@@ -256,6 +256,46 @@ total (causa #SpeakingOut).** Fusionarlos sería error factual grave.
 
 **Pieza**: [vs MJF, Better Than Our Best](../matches/2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) (PW·FS·WE)
 
+### Sesión 2026-08-01 s31 — La posición editorial declarada, y la ley que originó
+
+**Cita verbatim**:
+
+> *"sobre lo polémico de antizionismo, está bien separar al artista del
+> arte, pero de acuerdo a mis valores, las posturas políticas de MJF y
+> Starr al respecto me parecen apropiadas, solo sobre ese tema, que no
+> es relevante para el wrestling in ring, pero vemos que si existe la
+> censura y obviamente la política y contexto social moldean el
+> wrestling y la escena. Como historiador me interesa incorporar estas
+> esferas en mi análisis."*
+>
+> — El Vehemiurgo, 2026-08-01 s31 (verbatim)
+
+**Lectura sintética — cómo el archivo registra esto**:
+
+- **La postura del Vehemiurgo queda registrada como posición editorial
+  declarada, no como criterio de evaluación.** Él mismo acota el
+  alcance: *"solo sobre ese tema, que no es relevante para el wrestling
+  in ring"*. **Ninguna clase de Starr en el archivo se mueve por esto**
+  — sus PW/FS/WE se sostienen exclusivamente en oficio.
+- **"Está bien separar al artista del arte" sigue vigente como
+  principio**, y esta ficha es el caso donde más se pone a prueba:
+  registra su carrera y sus matches clasificados **y** las acusaciones
+  de #SpeakingOut de 2020, sin que una cosa anule la otra ni el archivo
+  adjudique el fondo.
+- **El caso Starr es el que originó una ley editorial nueva.** Su
+  episodio de censura de marzo de 2019 —**ROH/Sinclair exigiendo la
+  baja del promo**, y Starr borrándolo citando a *"the powers that
+  be"*— es el hecho probatorio de que **la política y el contexto
+  social moldean el wrestling de forma material, no decorativa**.
+  Doctrina completa:
+  [`../topics/doctrina-politica-y-contexto-social-como-esfera-de-analisis.md`](../topics/doctrina-politica-y-contexto-social-como-esfera-de-analisis.md),
+  codificada en `CLAUDE.md` §3.
+- **Las dos precisiones de s29 quedan como precedente permanente**:
+  (1) la etiqueta *"antisionista"* aparece en caracterizaciones de
+  terceros, **no como autodefinición suya**; (2) **2019 = censura del
+  promo (causa política) y 2020 = ruptura total (causa #SpeakingOut)
+  son episodios distintos con causas distintas** y no deben fusionarse.
+
 ## Pendientes / huecos
 
 - [ ] Su rol en el grupo con Strickland en CZW — **"JML" identificado

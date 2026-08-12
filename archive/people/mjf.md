@@ -707,6 +707,40 @@ en la misma casa.
 [vs David Starr](../matches/2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) (PW·FS·WE) ·
 [firma de contrato con RSP para COD XX](../segments/2018-10-13-firma-contrato-mjf-rsp-cage-of-death-xx-czw.md) (WE)
 
+### Sesión 2026-08-01 s31 — La posición editorial declarada del Vehemiurgo
+
+**Cita verbatim**:
+
+> *"sobre lo polémico de antizionismo, está bien separar al artista del
+> arte, pero de acuerdo a mis valores, las posturas políticas de MJF y
+> Starr al respecto me parecen apropiadas, solo sobre ese tema, que no
+> es relevante para el wrestling in ring, pero vemos que si existe la
+> censura y obviamente la política y contexto social moldean el
+> wrestling y la escena. Como historiador me interesa incorporar estas
+> esferas en mi análisis."*
+>
+> — El Vehemiurgo, 2026-08-01 s31 (verbatim)
+
+**Lectura sintética**: la postura del Vehemiurgo se registra como
+**posición editorial declarada, no como criterio de evaluación**. Él
+mismo acota el alcance —*"solo sobre ese tema, que no es relevante
+para el wrestling in ring"*— y **ninguna clase de MJF en el archivo se
+mueve por esto**: sus PW/FS/WE se sostienen exclusivamente en oficio.
+
+Lo que sí entra al análisis, por ley editorial nueva
+([doctrina](../topics/doctrina-politica-y-contexto-social-como-esfera-de-analisis.md),
+codificada en `CLAUDE.md` §3), es **el contexto social como factor que
+moldea la escena**. En el caso de MJF el archivo ya tenía el material
+relevante: el **aumento de ataques antisemitas** que él reportó
+públicamente, y su rechazo on-record a la conflación
+identidad/gobierno — *"Last time I checked, I am not in the Israeli
+government."* Eso es historia del oficio, no tribuna.
+
+**Precisión de registro que queda como precedente**: la etiqueta
+*"antisionista"* aparece en caracterizaciones de terceros, **no como
+autodefinición suya**. Lo documentado es lo citado arriba en la nota
+de s29.
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual
