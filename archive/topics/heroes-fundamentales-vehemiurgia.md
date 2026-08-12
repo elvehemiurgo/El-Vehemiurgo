@@ -63,7 +63,7 @@ dos tiers de profundidad:
 | **Josh Alexander** | Indie canadiense / técnico completo | _(ficha pendiente)_ |
 | **Finn Bálor / Prince Devitt** | Bullet Club original / Demon — **ascendido del Tier 3 (#48)** | [→](../people/finn-balor.md) |
 | **Adam Cole** | Indie americano (PWG/ROH) → NXT/AEW | _(ficha pendiente)_ |
-| **Chris Hero** | Indie americano — el workhorse maestro | _(ficha pendiente)_ |
+| ~~**Chris Hero**~~ | ~~Indie americano — el workhorse maestro~~ — **BAJA 2026-08-01 s32**, pasa a los [DEATH GODS](./death-gods-of-wrestling.md) | [→](../people/chris-hero.md) |
 | **Kyle O'Reilly** | Strong style / ROH — **ascendido del Tier 2 (#12)** | _(ficha pendiente)_ |
 | **TJP** | Junior heavyweight / técnico | _(ficha pendiente)_ |
 | **Myron Reed** | Indie americano / highspeed (MLW) — **ascendido del Tier 3 (#36)** | [→](../people/myron-reed.md) |
@@ -90,6 +90,25 @@ dos tiers de profundidad:
 | **LA Knight / Eli Drake** | Carny / promo-driven — **ascendido del Tier 3 (#28)** | [→](../people/la-knight.md) |
 | **EC3** | IMPACT Wrestling | _(ficha pendiente)_ |
 | **Bryan Danielson** | Worker de oficio total | _(ficha pendiente)_ |
+
+**Baja del Tier 0 — Chris Hero (2026-08-01 s32)**
+
+> *"Sobre Chris Hero, hay que sacarlo del tier 0 y solo dejarlo en los
+> death gods"*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+Argumento dado en el fallo previo (s31): *"su estilo no evolucionó
+como esperaba, se volvió muy indie y se rehusó a ponerse en forma y
+dedicarse más al enterteiner"*. **Hero sale del panteón y queda solo
+en los DEATH GODS OF WRESTLING**, que suben así a **13 entradas**.
+
+**Lo que fija este fallo**: el Tier 0 mide **influencia de escala
+histórica sostenida**; la negativa a evolucionar la corta. El
+Vehemiurgo no discute el pasado de Hero — discute que el pasado
+alcance por sí solo para sostener un lugar en el panteón. La entrada
+queda tachada con el slot preservado, como todo movimiento del
+panteón.
 
 ### Tier 1 — Los 7 Dioses del Wrestling (orden real, jerárquico)
 

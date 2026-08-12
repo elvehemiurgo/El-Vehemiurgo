@@ -13,6 +13,9 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-10 | Sol Ruca & IYO SKY vs Raquel Rodriguez & Roxanne Perez | WWE / Raw | — | en-investigacion | 1 | [→](2026-08-10-sol-ruca-iyo-sky-vs-raquel-roxanne-raw.md) |
+| 2026-08-10 | Dragon Lee vs Dominik Mysterio | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-10-dragon-lee-vs-dominik-mysterio-raw.md) |
+| 2026-08-10 | Penta vs Laredo Kid | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-10-penta-vs-laredo-kid-raw.md) |
 | 2026-08-07 | Fallon Henley & Lainey Reid (c) vs Chelsea Green & Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-07-fallon-henley-lainey-reid-vs-chelsea-green-tiffany-stratton-wwe-smackdown.md) |
 | 2026-08-04 | Nikkita Lyons & Karmen Petrovic vs Jaida Parker & Thea Hail | WWE / NXT | WE | en-investigacion | 1 | [→](2026-08-04-nikkita-lyons-karmen-petrovic-vs-jaida-parker-thea-hail-wwe-nxt.md) |
 | 2026-08-03 | Chad Gable & Penta vs Dominik Mysterio & JD McDonagh | WWE / Monday Night Raw | WE | en-investigacion | 1 | [→](2026-08-03-chad-gable-penta-vs-dominik-mysterio-jd-mcdonagh-wwe-raw.md) |

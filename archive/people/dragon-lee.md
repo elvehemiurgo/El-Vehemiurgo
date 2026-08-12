@@ -106,6 +106,52 @@ tags: [dragon-lee, lucha-mexicana, casas-family-legacy, njpw-junior-heavyweight,
 
 **Lectura sintética**: **Perfect Match**, con reserva técnica puntual sobre strikes innecesarios contra Jack Cartwheel. Aplica el Styles Clash que deja a Cartwheel listo para el 630 de Mini Vikingo.
 
+### Sesión 2026-08-01 s32 — "La mejor promo en inglés", y el selling por encima del moveset
+
+**Dos piezas en el mismo Raw (10/8/2026), las dos clasificadas.**
+
+> *"Dominik interrumpe Rey Mysterio en una entrevista backstage, y lo
+> hace muy bien, además saca lo mejor de Dragon Lee, esta tiene que ser
+> la mejor promo de Dragon Lee en inglés, ambos se ven evolucionados,
+> me gustó me alegró verlos tan duros"*
+
+> *"vi a Lee preocupado de su selling de sus faciales de insultar a
+> DOm, mucho mejor que solo hacer moves a lo inde [...] Si tiene sus
+> tropiezos sobre todo con los strikes que se están volviendo muy safe,
+> como que Lee se está contagiando del estilo de Penta un poco, pero si
+> sacaron buenas secuencias. La lucha se merece una FS y WE classes."*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**Lectura sintética**:
+
+- **Un techo de idioma superado**: *"esta tiene que ser la mejor promo
+  de Dragon Lee en inglés"*. Cruce directo con
+  [`english-promo-limitation`](../topics/english-promo-limitation.md) —
+  el archivo lleva registro de ese límite como factor de carrera para
+  el talento latino en WWE, y esta es una **entrada de avance**.
+- **El elogio in-ring es de prioridades, no de ejecución**: *"preocupado
+  de su selling, de sus faciales, de insultar a Dom, mucho mejor que
+  solo hacer moves a lo indie"*. **Doctrina pura** — el gesto que vende
+  la historia vale más que la secuencia.
+- **Y la reserva, que es de escena**: *"los strikes se están volviendo
+  muy safe, como que Lee se está contagiando del estilo de Penta un
+  poco"*. El Vehemiurgo conecta los dos matches del mismo show: le
+  criticó el estilo safe a Penta en el primero y lo detecta
+  transmitiéndose en el segundo.
+- **En las dos piezas, el mérito compartido va a Dominik**: *"lo hace
+  muy bien, además saca lo mejor de Dragon Lee"* y *"Dominik le sacó
+  una gran lucha"*.
+
+**Resultado (research)**: **ganó Dragon Lee** con **Operation Dragon**
+(10:23), tras levantar las rodillas ante el Frog Splash. Post-match,
+**Big Cass** lo atacó, y también a Je'Von Evans. Sigue en el torneo:
+enfrenta a **El Hijo del Dr. Wagner Jr.** el 17/8/2026.
+
+**Piezas**:
+[segmento backstage con Rey y Dominik](../segments/2026-08-10-dominik-interrumpe-rey-dragon-lee-backstage-raw.md) (WE) ·
+[vs Dominik Mysterio](../matches/2026-08-10-dragon-lee-vs-dominik-mysterio-raw.md) (FS·WE)
+
 ## Pendientes
 
 - [ ] CMLL early career + Best of Super Juniors NJPW pieces.

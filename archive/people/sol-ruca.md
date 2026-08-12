@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: sol-ruca
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Sol Ruca"
   - "Cagematch — Sol Ruca"
@@ -143,6 +143,46 @@ que le abre sangre a Raquel; Iyo Sky interviene a su favor sin éxito.
 **Lectura sintética**: **PW·FS·WE** para el match completo. Gana por
 DQ (interferencia de Liv Morgan a su favor), pero el Judgment Day la
 apalea post-match (Raw, 3/8/2026).
+
+### Sesión 2026-08-01 s32 — Verde, pero bien bookeada (Raw 10/8/2026)
+
+**Cita verbatim**:
+
+> *"está cool la lucha, muy by the book, y se nota verde Sol todavia,
+> aunque ese booking que le estan dando a lo Jeff Hardy face está bien,
+> tiene que seguir validando su trabajo in ring con rivales buenos y
+> cariados, y es lo que estan haciendo, si Becky no fuera tan mala in
+> ring, esa rivalidad la habría posicionado más, pero el rub con Becky
+> es malo."*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**Sin clase declarada** — *"estuvo ok"*.
+
+**Lectura sintética**:
+
+- **El diagnóstico y la aprobación conviven**: *"se nota verde
+  todavía, **aunque** ese booking que le están dando a lo Jeff Hardy
+  face está bien"*. Lo que el Vehemiurgo aprueba es **el método**:
+  *"tiene que seguir validando su trabajo in-ring con rivales buenos y
+  curtidos, y es lo que están haciendo"*. Doctrina de desarrollo — al
+  talento verde se lo cura con oposición de oficio, no con
+  protección.
+- **"A lo Jeff Hardy face"** — el arquetipo que el Vehemiurgo usa dos
+  veces en el mismo volcado (también para Vaquer): el babyface
+  espectacular que **vende el gimmick** aunque no sea el mejor
+  técnico.
+- **Y la reserva no es sobre ella**: *"si Becky no fuera tan mala
+  in-ring, esa rivalidad la habría posicionado más, pero el rub con
+  Becky es malo"*. **El techo que le señala es del rival, no suyo.**
+
+**Contexto (research)**: **Sol Ruca es WWE Women's Intercontinental
+Champion desde el 31/5/2026** (Clash in Italy, Turín), donde **le ganó
+el título a Becky Lynch** cortando un reinado de 43 días. En este Raw
+**ganó el tag junto a IYO SKY**, cerrando con el **Sol Snatcher** tras
+revertir el Pop Rox.
+
+**Pieza**: [tag con IYO SKY vs Raquel y Roxanne](../matches/2026-08-10-sol-ruca-iyo-sky-vs-raquel-roxanne-raw.md) (sin clase declarada)
 
 ## Pendientes / huecos
 

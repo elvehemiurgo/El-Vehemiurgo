@@ -132,6 +132,37 @@ Intercontinental el día anterior en SummerSlam.
 
 **Lectura sintética**: **WE** para el match completo.
 
+### Sesión 2026-08-01 s32 — "Histórico", con reserva de estilo (Raw 10/8/2026)
+
+> *"ocurre el histórico Laredo Kid vs Penta, en el torneo para que
+> alguien de AAA rete a Reigns en CDMX, es muy cool el booking, pero no
+> me gusta el estilo safe que tiene Penta ahora, pero si se dieron
+> duro, la lucha se merece las FS y WE classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**FS + WE, sin PW — y el motivo está declarado**: *"no me gusta el
+estilo safe que tiene Penta ahora"*. Es la misma familia de crítica
+que atraviesa el archivo desde el corpus CZW: el ablandamiento del
+trabajo como pérdida de credibilidad.
+
+**El elogio va al contexto y a la física**: *"histórico"* por el hecho
+industrial —un torneo cruzado **WWE + AAA** decidiendo en Raw quién
+reta a Roman Reigns en Ciudad de México— y *"pero sí se dieron duro"*
+por lo que entregaron esa noche. El Vehemiurgo separa **la tendencia
+de estilo** de **lo que hicieron acá**.
+
+**El contagio, detectado en el mismo show**: en el segundo match de la
+noche el Vehemiurgo escribe que *"Lee se está contagiando del estilo de
+Penta un poco"*. **Diagnóstico de escena, no de individuo** — Penta
+queda registrado como **vector** de una tendencia, no solo como caso.
+
+**Resultado (research)**: **Penta ganó** con el **Mexican Destroyer**,
+tras un tornillo fallado de Laredo Kid desde la tercera. Avanza en el
+bracket rumbo al Raw del 14/9/2026 en Ciudad de México.
+
+**Pieza**: [vs Laredo Kid](../matches/2026-08-10-penta-vs-laredo-kid-raw.md) (FS·WE)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.

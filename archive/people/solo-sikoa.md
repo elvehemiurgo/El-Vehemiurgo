@@ -224,6 +224,29 @@ dominar a su propio hermano.
 
 **Lectura sintética**: **WE** para el segmento/match completo.
 
+### Sesión 2026-08-01 s32 — "Tiene muy buen material" (Raw 10/8/2026)
+
+> *"Solo tiene un gran segmento molestando a Jey y burlandose del
+> bloodline, tiene muy buen material, su promo aqui se merece una WE
+> class"*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**WE class** a la promo de apertura. *"Tiene muy buen material"* es
+elogio de **munición de personaje**: Sikoa entra con algo real que
+decir —el historial de Jey Uso— y eso es lo que sostiene una promo de
+apertura. El heel sin material grita; el que lo tiene, pincha.
+
+**Contexto**: era **el último holdout del Bloodline**. La estipulación
+que sale del segmento (si pierde, vuelve a la fila y es entregado a
+Roman Reigns) **se cobra esa misma noche**: Jey Uso lo vence en el
+main event con intervención de Jimmy. En el mismo show cumple además
+la función de **frustrador** de Jacob Fatu y de LA Knight — la pinza
+de booking que el Vehemiurgo elogia aparte.
+
+**Piezas**: [promo de apertura](../segments/2026-08-10-solo-sikoa-promo-jey-bloodline-raw.md) (WE) ·
+[cruce LA Knight / Jacob Fatu](../segments/2026-08-10-la-knight-jacob-fatu-raw.md) (WE)
+
 ## Pendientes / huecos
 
 - [ ] Cronología detallada Bloodline original / interim Tribal

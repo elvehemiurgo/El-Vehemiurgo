@@ -6,18 +6,18 @@ slug: chris-hero
 estado: vivo
 ultima_actualizacion: 2026-08-01
 fuentes_principales:
-  - "El Vehemiurgo, notebook 2026-08-01 s26 (alta al Tier 0), s29 (alta a los DEATH GODS) y s31 (fallo: baja de los DEATH GODS)"
+  - "El Vehemiurgo, notebook 2026-08-01 s26 (alta al Tier 0), s29 (alta a los DEATH GODS), s31-s32 (fallo: baja del Tier 0, queda en los DEATH GODS)"
   - "Sub-agente death-gods-roster (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
 ---
 
 # Chris Hero
 
-> **Indie Wrestling God (Tier 0 del panteón)** — alta 2026-08-01 s26,
-> vigente.
+> **DEATH GOD OF WRESTLING** — alta 2026-08-01 s29, vigente.
 >
-> Entró a los **DEATH GODS OF WRESTLING** en s29 y fue **dado de baja
-> en s31**: *"se rehusó a ponerse en forma y dedicarse más al
-> enterteiner"*. **El techo no fue una condición; fue una decisión.**
+> Estuvo en el **Tier 0 del panteón** desde s26 y fue **dado de baja
+> el 2026-08-01 s32**: *"se rehusó a ponerse en forma y dedicarse más
+> al enterteiner"*. **El techo no fue una condición; fue una
+> decisión.**
 
 ## Identificación
 
@@ -54,13 +54,14 @@ World, wXw World Heavyweight.
 - On-record dijo querer estar en el estado físico y mental correcto
   antes de volver full-time.
 
-## Estado de listas — resuelto (2026-08-01 s31)
+## Estado de listas — resuelto (2026-08-01 s32)
 
-- **Tier 0 del panteón — Indie Wrestling Gods**: **SÍ**, alta en la
-  expansión masiva del 2026-08-01 s26, registrado como *"el workhorse
-  maestro"*. **Sin cambios.**
-- **DEATH GODS OF WRESTLING**: **NO — dado de baja el 2026-08-01 s31**,
-  tras haber entrado en la fundación de la lista (s29).
+- **DEATH GODS OF WRESTLING**: **SÍ**, alta en la fundación de la
+  lista (s29). **Miembro pleno y vigente.**
+- **Tier 0 del panteón — Indie Wrestling Gods**: **NO — dado de baja
+  el 2026-08-01 s32**, tras haber entrado en la expansión masiva de
+  s26 como *"el workhorse maestro"*. Su entrada queda tachada con el
+  slot preservado.
 
 Ver el fallo completo en las notas editoriales de abajo.
 
@@ -87,9 +88,9 @@ presencia previa en el Tier 0**. El archivo interpreta esto como
 posible descuido, no como declaración de baja, y por eso **no toca el
 panteón** hasta tener el fallo.
 
-### Sesión 2026-08-01 s31 — EL FALLO: baja de los Death Gods, permanece en el Tier 0
+### Sesión 2026-08-01 s31 → s32 — EL FALLO: sale del Tier 0, queda en los Death Gods
 
-**Cita verbatim**:
+**Primer fallo (s31)** — el argumento:
 
 > *"Sobre Chris Hero baja de los Death Gods, porque su estilo no
 > evolucionó como esperaba, se volvió muy indie y se reusó a ponerse en
@@ -97,36 +98,45 @@ panteón** hasta tener el fallo.
 >
 > — El Vehemiurgo, 2026-08-01 s31 (verbatim)
 
-**Resolución ejecutada**: **Hero sale de los DEATH GODS OF WRESTLING.
-Permanece en el Tier 0 del panteón**, con su slot intacto.
+**Fallo definitivo (s32)** — la dirección, aclarada:
 
-**Lectura sintética — el fallo aclara el criterio de la lista entera**:
-el argumento no es que Hero valga menos. Es que **no cumple la
-cláusula**. Los Death Gods piden *"representar wrestling y vehemiurgia
-**dentro de sus posibilidades**"* — dar el máximo dentro del techo
-real. Lo que el Vehemiurgo le señala a Hero no es un techo: es una
-**negativa**. *"Se rehusó a ponerse en forma y dedicarse más al
-enterteiner"* — no es un talento limitado por sus condiciones, es un
-talento que declinó ampliarlas.
+> *"Sobre Chris Hero, hay que sacarlo del tier 0 y solo dejarlo en los
+> death gods"*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
 
-**Precedente que este fallo fija para la lista**: **se distingue techo
-de decisión.** Jordan Oliver entra porque *"se nerfeó el estilo, mal
-coaching"* — factor externo. Hero sale porque la limitación fue
-elección propia. **Los Death Gods no premian la negativa a
-evolucionar.**
+**RESOLUCIÓN EJECUTADA**: **Hero sale del Tier 0 del panteón y queda
+como miembro pleno de los DEATH GODS OF WRESTLING.**
 
-**"Se volvió muy indie"** entra además en la línea editorial que el
-Vehemiurgo formuló en s29 con el par **Gunther / Cesaro**: el *indie
-darling* como categoría que no se traduce en paquete completo. Hero
-queda del lado de Cesaro en esa dicotomía — con la diferencia de que
-en su caso el Vehemiurgo lo lee como **rechazo voluntario**, no como
-inercia.
+**Lectura sintética — el argumento no lo descalifica de los Death
+Gods: lo define para ellos.** Los Death Gods son *"los que cautivaron
+pero no entran a ningún panteón [...] y representan wrestling y
+vehemiurgia dentro de sus posibilidades"*. Una carrera que se detuvo
+por decisión propia encaja exactamente ahí — con techo autoimpuesto
+incluido.
 
-**Y sin embargo permanece en el Tier 0**: la influencia histórica es un
-eje distinto del rendimiento dentro del techo. Hero es objetivamente
-*"el workhorse maestro"* — triple campeón mundial fuera de WWE, la
-escuela de una generación entera del indie americano. **Los dos juicios
-conviven sin contradicción**, y este fallo es el que lo demuestra.
+**Lo que separa las dos listas, ahora con caso probatorio**:
+
+| Lista | Mide | Hero |
+|---|---|---|
+| **Tier 0 del panteón** | Influencia de escala histórica **sostenida** | **No** — la negativa a evolucionar la corta |
+| **DEATH GODS** | Haber cautivado, y el oficio dentro del techo real | **Sí** |
+
+**Lo que el Vehemiurgo está diciendo de fondo**: no discute el pasado
+de Hero — discute que **el pasado alcance por sí solo** para sostener
+un lugar en el panteón. Triple campeón mundial fuera de WWE y escuela
+de una generación entera del indie americano no compran permanencia si
+la carrera se estanca por elección.
+
+**Nota de linaje editorial**: *"se volvió muy indie"* engancha directo
+con el par **Gunther / Cesaro** que el Vehemiurgo formuló en s29 — el
+*indie darling* como categoría que no se traduce en paquete completo.
+Hero queda del lado de Cesaro, con la diferencia de que acá el
+Vehemiurgo lo lee como **rechazo voluntario**, no como inercia.
+
+**Precedente fijado**: la membresía en el panteón y en los Death Gods
+es **mutuamente excluyente**, y el paso de una lista a otra es posible
+en las dos direcciones. **Este es el primer caso.**
 
 ## Pendientes / huecos
 

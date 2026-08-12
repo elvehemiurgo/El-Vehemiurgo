@@ -394,6 +394,40 @@ emboscada camino al six-man de SummerSlam.
 **Lectura sintética**: sin lectura individual — parte del ataque
 grupal.
 
+### Sesión 2026-08-01 s32 — El booking de acumulación: "más beneficioso para Jacob"
+
+**Cita verbatim** (Raw 10/8/2026):
+
+> *"el segmento con LA Knight y Jacob Fatu estuvo intenso, muy cool,
+> mucho material, y si está funcionando mantener a Jacob prisionero del
+> bloodline y usar a LA y Solo para frustrarlo aun más y acumular
+> rabia, está dando muy buenas interacciones y definitivamente es más
+> beneficioso para Jacob, este segmento se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**WE class. El take de booking más elogioso del volcado.**
+
+**Lectura sintética — booking de acumulación**: el babyface atrapado
+**gana más cuanto más tiempo lo tengan preso**, siempre que la
+frustración se cobre. Es el principio old-school del *heat* diferido:
+no se paga temprano. Y el juicio del Vehemiurgo es **de carrera, no de
+segmento** — *"definitivamente es más beneficioso para Jacob"*:
+aprueba que el personaje esté peor colocado en kayfabe porque eso lo
+hace más grande a la salida.
+
+**Los dos frustradores cumplen funciones opuestas**: **LA Knight**
+desde afuera del Bloodline, **Solo Sikoa** desde el propio linaje. La
+pinza es lo que produce las *"muy buenas interacciones"*.
+
+**Cómo llegó a ser el prisionero (research)**: cayó ante **Roman
+Reigns** en Backlash y en Clash in Italy (*Tribal Combat*), y quedó
+absorbido — **obligado a servir al hombre que lo sometió**. En este
+show encara a Knight: si quiere meterse con el OTC, primero pasa por
+él.
+
+**Pieza**: [cruce con LA Knight](../segments/2026-08-10-la-knight-jacob-fatu-raw.md) (WE)
+
 ## Pendientes / huecos
 
 - [x] ~~Cronología MLW completa con fechas de title runs~~ →

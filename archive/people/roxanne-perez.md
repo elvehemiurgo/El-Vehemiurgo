@@ -167,6 +167,28 @@ frustrando un Sol Snatcher con el réferi distraído.
 3/8/2026) — pierde por DQ tras interferencia de Liv Morgan, pero
 remata a Sol Ruca post-match con "Pop Rox" junto al Judgment Day.
 
+### Sesión 2026-08-01 s32 — "Se ven muy bien, muy listas" (Raw 10/8/2026)
+
+**Cita verbatim**:
+
+> *"Esta lucha estuvo ok, me gusta la evolución del performance de
+> Roxanne y Raquel, se ven muy bien, muy listas."*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**Sin clase declarada** para el match, pero **el elogio de la noche se
+lo llevan las que perdieron**: *"me gusta la evolución del
+performance"*. El criterio es de **progresión**, el mismo con el que
+el Vehemiurgo evalúa a LA Knight en el mismo show.
+
+**Contexto**: Perez y Raquel Rodriguez cayeron ante **Sol Ruca e IYO
+SKY** (Sol Snatcher, tras revertir el Pop Rox). En el mismo Raw,
+**Stephanie Vaquer la llamó "mujer muerta"** en su promo — en kayfabe,
+Perez es quien la lesionó con una caja de equipo backstage, causándole
+el esguince AC que la sacó ~3-4 meses.
+
+**Pieza**: [tag vs Sol Ruca e IYO SKY](../matches/2026-08-10-sol-ruca-iyo-sky-vs-raquel-roxanne-raw.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.

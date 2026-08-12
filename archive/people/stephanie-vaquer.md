@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: stephanie-vaquer
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Stephanie Vaquer"
   - "Cobertura NJPW STARDOM 2022–2024 (IWGP Women's Champion run)"
@@ -124,6 +124,66 @@ performance y el micrófono"* usando a Vaquer como caso central.)
 reserva explícita sobre su careo puntual con Lynch. Regresa tras ~4
 meses fuera (esguince AC, 27/4/2026), atacando a Raquel y Roxanne y
 persiguiendo a Liv Morgan (Raw, 3/8/2026).
+
+### Sesión 2026-08-01 s32 — "Tiene que convertirse en el paquete completo"
+
+**Cita verbatim** (Raw 10/8/2026):
+
+> *"el esperadisimo regreso de Vaquer, estuvo ok su promo, si la vi más
+> agresiva, más confiada, es un paso en la dirección correcta, pero
+> nada cool realmente, o sea, son sus rivales y el judgement day
+> huyendo de Stephanie como si fuera Kane, eso es el material, eso es
+> lo que sostiene las promos debiles de Vaquer, y está bien que WWE la
+> presione, tiene que convertirse en el paquete completo, porque no
+> deberia ponerse un techo de babyface con promos mid tipo Rey
+> Mysterio, podría incluso evolucionar a algo no tan mid como Jeff
+> Hardy que más o menos le mete pero te vende el gimmick y es agresivo;
+> y en este episodio la ponen con Becky que es buena en el mic, Vaquer
+> podría sacarle una buena lucha, está buena la mezcla, me parece buena
+> decisión de booking. Estuvo ok el segmento."*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**Sin clase declarada** — *"estuvo ok"*. Y sin embargo, el take de
+proyección más denso de la sesión.
+
+**Lectura sintética**:
+
+- **El avance se reconoce y se acota en la misma frase**: *"sí la vi
+  más agresiva, más confiada, es un paso en la dirección correcta,
+  pero nada cool realmente"*.
+- **Lo que sostiene el segmento no es ella**: *"son sus rivales y el
+  Judgment Day huyendo de Stephanie como si fuera Kane, eso es el
+  material, eso es lo que sostiene las promos débiles de Vaquer"*.
+  Lectura de booking pura — **el entorno carga a la protagonista**.
+- **La presión de la empresa, aprobada**: *"está bien que WWE la
+  presione, tiene que convertirse en el paquete completo"*. Misma
+  tesis que el Vehemiurgo formuló en s29 con **Gunther vs. Cesaro**:
+  el trabajo in-ring sin envase tiene techo.
+- **Dos techos nombrados con precisión**: no debería conformarse con
+  *"un techo de babyface con promos mid tipo Rey Mysterio"*, y podría
+  aspirar a algo *"no tan mid como Jeff Hardy, que más o menos le mete
+  pero te vende el gimmick y es agresivo"*. **Jeff Hardy como piso
+  aceptable, no como modelo**: incluso un promo limitado sirve si
+  vende el gimmick y tiene agresividad.
+- **El booking con Becky, aprobado y acotado al micrófono**: *"Becky
+  es buena en el mic, Vaquer podría sacarle una buena lucha, está
+  buena la mezcla, me parece buena decisión de booking"*. **El juicio
+  in-ring del Vehemiurgo sobre Becky llega más tarde en el mismo
+  volcado y es demoledor** — elogia el micrófono, no la trabajadora.
+  Y cierra con un temor explícito: *"espero que no termine de quitar
+  toda credibilidad a Vaquer ahora in-ring"*.
+
+**Contexto (research)**: **había regresado el 3/8/2026** — este es su
+segundo Raw de vuelta. Estuvo fuera **~3-4 meses** por un **esguince
+AC de segundo grado en el hombro** (en kayfabe, obra de **Roxanne
+Perez** con una caja de equipo backstage), tras perder el **Women's
+World Championship ante Liv Morgan en WrestleMania 42**. En el
+segmento llama a Perez **"mujer muerta"** y reclama el título; sale
+**Becky Lynch**, y **Liv Morgan la ataca por la espalda**. **No se
+anunció match Vaquer vs Becky.**
+
+**Pieza**: [el regreso, con Becky](../segments/2026-08-10-regreso-stephanie-vaquer-becky-raw.md) (sin clase declarada)
 
 ## Pendientes / huecos
 

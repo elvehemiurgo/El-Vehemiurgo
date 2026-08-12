@@ -200,6 +200,25 @@ Vehemiurgo en este volcado.
 
 **Lectura sintética**: sin clase individual.
 
+### Sesión 2026-08-01 s32 — "Se ven muy bien, muy listas" (Raw 10/8/2026)
+
+**Cita verbatim**:
+
+> *"Esta lucha estuvo ok, me gusta la evolución del performance de
+> Roxanne y Raquel, se ven muy bien, muy listas."*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**Sin clase declarada** para el match, pero el elogio nominal va a las
+dos derrotadas. El criterio es de **progresión de performance**, no de
+resultado.
+
+**Contexto**: Rodriguez y Roxanne Perez, del Judgment Day, cayeron ante
+**Sol Ruca e IYO SKY**. Finish: **Sol Snatcher** tras revertir el Pop
+Rox de Perez.
+
+**Pieza**: [tag vs Sol Ruca e IYO SKY](../matches/2026-08-10-sol-ruca-iyo-sky-vs-raquel-roxanne-raw.md)
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y segmentos del 2025 que sustentan la

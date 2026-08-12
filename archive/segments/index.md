@@ -12,6 +12,11 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-10 | LA Knight y Jacob Fatu se cruzan — el prisionero del Bloodline marcando territorio | WWE / Raw | confrontación backstage / angle | WE | en-investigacion | 1 | [→](2026-08-10-la-knight-jacob-fatu-raw.md) |
+| 2026-08-10 | LA Knight le exige el shot a Adam Pearce — 'liar' y 'coward' para Roman Reigns | WWE / Raw | promo in-ring | WE | en-investigacion | 1 | [→](2026-08-10-promo-la-knight-raw.md) |
+| 2026-08-10 | Stephanie Vaquer llama 'mujer muerta' a Roxanne Perez — y aparece Becky Lynch | WWE / Raw | promo in-ring / angle | — | en-investigacion | 1 | [→](2026-08-10-regreso-stephanie-vaquer-becky-raw.md) |
+| 2026-08-10 | Dominik interrumpe la entrevista de Rey Mysterio — 'no necesitas otro handout' | WWE / Raw | backstage / promo de armado de match | WE | en-investigacion | 1 | [→](2026-08-10-dominik-interrumpe-rey-dragon-lee-backstage-raw.md) |
+| 2026-08-10 | Solo Sikoa se burla del Bloodline y Jey Uso lo encara — la apuesta que lo devuelve a la fila | WWE / Raw | promo de apertura / stipulation match | WE | en-investigacion | 1 | [→](2026-08-10-solo-sikoa-promo-jey-bloodline-raw.md) |
 | 2026-08-07 | Chelsea Green y Tiffany Stratton — brindis interrumpido por Fatal Influence | WWE / SmackDown | promo / celebración interrumpida | WE | en-investigacion | 1 | [→](2026-08-07-chelsea-green-tiffany-stratton-fatal-influence-wwe-smackdown.md) |
 | 2026-08-07 | Kevin Owens y CM Punk — cara a cara de retador y campeón | WWE / SmackDown | cara a cara / promo | WE | en-investigacion | 1 | [→](2026-08-07-kevin-owens-cm-punk-cara-a-cara-wwe-smackdown.md) |
 | 2026-08-07 | Cody Rhodes — sospecha de alianza Punk/Orton | WWE / SmackDown | promo / confrontación | WE | en-investigacion | 1 | [→](2026-08-07-cody-rhodes-sospecha-punk-orton-wwe-smackdown.md) |

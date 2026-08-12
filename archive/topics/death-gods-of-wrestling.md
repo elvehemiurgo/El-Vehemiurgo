@@ -8,7 +8,7 @@ ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s29 (fundación + roster inaugural completo)"
   - "Volcado Vehemiurgo 2026-08-01 s30 (segunda tanda: Oliver, Xavier, Wentz, EYFBO)"
-  - "Volcado Vehemiurgo 2026-08-01 s31 (fallo: baja de Chris Hero)"
+  - "Volcado Vehemiurgo 2026-08-01 s31 y s32 (fallo Chris Hero: sale del Tier 0, queda en esta lista)"
   - "Sub-agente death-gods-roster (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
 tags: [death-gods-of-wrestling, lista-oficial, danny-havoc, brandon-kirk, jordan-oliver, eyfbo, deathmatch, czw, icw-escocia, indie-britanico, vehemiurgia-czw]
 ---
@@ -82,7 +82,7 @@ wrestling y deathmatch me impactaron y para mi son wrestling"*.
 | **Conor Claxton** | CZW → H2O | Activo | [→](../people/conor-claxton.md) |
 | **Chris Brookes** | Indie británico → DDT (Japón) | Activo | [→](../people/chris-brookes.md) |
 | **Kid Lykos** | Indie británico / PROGRESS | Activo | [→](../people/kid-lykos.md) |
-| ~~**Chris Hero**~~ | ~~Indie americano / WWE (Kassius Ohno)~~ | **DADO DE BAJA 2026-08-01 s31** | [→](../people/chris-hero.md) |
+| **Chris Hero** | Indie americano / WWE (Kassius Ohno) | Activo — coach en AEW | [→](../people/chris-hero.md) |
 
 **Nota de identificación (research)**: el dictado dice *"Lewis
 Garvin"*. El nombre canónico es **Lewis Girvan**, escocés de Renfrew,
@@ -144,14 +144,14 @@ firmaron con AEW** con los Rascalz en enero de 2026; **Mike Santana es
 TNA World Champion** (2º reinado, desde el 15/1/2026) y **Ortiz sigue
 en AEW**, de vuelta en TV desde diciembre de 2025.
 
-## Fallo resuelto — la baja de Chris Hero (2026-08-01 s31)
+## Fallo resuelto — el caso Chris Hero (s31 → s32)
 
-**El punto abierto que dejó la fundación quedó cerrado.** Chris Hero
-había entrado a esta lista en s29 estando ya en el **Tier 0 del
-panteón** desde s26, en contradicción directa con la cláusula
-*"no los pondría en ningún panteón"*.
+**El punto abierto que dejó la fundación quedó cerrado en dos pasos.**
+Hero había entrado a esta lista en s29 estando ya en el **Tier 0 del
+panteón** desde s26, en contradicción con la cláusula *"no los pondría
+en ningún panteón"*.
 
-**Cita verbatim del fallo**:
+**Primer fallo (s31)** — el argumento:
 
 > *"Sobre Chris Hero baja de los Death Gods, porque su estilo no
 > evolucionó como esperaba, se volvió muy indie y se reusó a ponerse en
@@ -159,35 +159,44 @@ panteón** desde s26, en contradicción directa con la cláusula
 >
 > — El Vehemiurgo, 2026-08-01 s31 (verbatim)
 
-**Resolución**: **Hero sale de los DEATH GODS. Permanece en el Tier 0
-del panteón**, sin cambios en su slot.
+**Fallo definitivo (s32)** — la dirección, aclarada:
 
-**Lectura del fallo — y el criterio que aclara para toda la lista**:
-el argumento del Vehemiurgo no es que Hero sea menos importante. Es
-que **no cumple la cláusula de la lista**. Los Death Gods piden
-*"representar wrestling y vehemiurgia **dentro de sus
-posibilidades**"* — dar el máximo dentro del techo real. Lo que el
-Vehemiurgo señala en Hero es lo contrario de un techo: es una
-**negativa** — *"se rehusó a ponerse en forma y dedicarse más al
-enterteiner"*. No es un talento limitado por sus condiciones; es un
-talento que declinó ampliarlas.
+> *"Sobre Chris Hero, hay que sacarlo del tier 0 y solo dejarlo en los
+> death gods"*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
 
-**Precedente que queda fijado**: **la lista distingue techo de
-decisión.** Jordan Oliver entra porque *"se nerfeó el estilo, mal
-coaching"* — factor externo. Hero sale porque la limitación fue
-elección propia. **Los Death Gods no premian la negativa a
-evolucionar.**
+**RESOLUCIÓN EJECUTADA**: **Hero sale del Tier 0 del panteón y queda
+como miembro pleno de los DEATH GODS OF WRESTLING.** Su entrada en el
+panteón queda tachada con el slot preservado.
 
-**Los dos ejes quedan separados con claridad**:
+**Lectura — lo que este fallo establece para las dos listas**:
 
-| Lista | Mide |
-|---|---|
-| **Tier 0 del panteón** | Influencia y oficio de escala histórica — Hero califica |
-| **DEATH GODS** | Máximo rendimiento dentro del techo real — Hero no califica |
+El argumento (*"se rehusó a ponerse en forma y dedicarse más al
+enterteiner"*) **no lo descalifica de esta lista: lo define para
+ella**. Los Death Gods son *"los que cautivaron pero no entran a
+ningún panteón"* — y el criterio de salida del panteón es
+exactamente el que Hero cumple: **una carrera que se detuvo por
+decisión propia**.
 
-## Roster vigente — **12 entradas**
+**El Tier 0 mide influencia de escala histórica sostenida**; la
+negativa a evolucionar la corta. **Los Death Gods miden haber
+cautivado y haber representado el oficio dentro del techo real** —
+y ahí Hero sí entra, con techo autoimpuesto incluido.
 
-*9 fundacionales (s29) + 4 de la segunda tanda (s30) − 1 baja (s31).*
+**Precedente que queda fijado**: la membresía en las dos listas es
+**mutuamente excluyente**, y el paso de una a otra es un movimiento
+posible en las dos direcciones. Este es el primer caso.
+
+**Nota de linaje editorial**: *"se volvió muy indie"* engancha directo
+con el par **Gunther / Cesaro** que el Vehemiurgo formuló en s29 — el
+*indie darling* como categoría que no se traduce en paquete completo.
+Hero queda del lado de Cesaro, con la diferencia de que acá el
+Vehemiurgo lo lee como **rechazo voluntario**, no como inercia.
+
+## Roster vigente — **13 entradas**
+
+*9 fundacionales (s29) + 4 de la segunda tanda (s30). Sin bajas.*
 
 | Death God | Escena | Estado |
 |---|---|---|
@@ -199,12 +208,13 @@ evolucionar.**
 | **Conor Claxton** | CZW → H2O | Activo |
 | **Chris Brookes** | Indie británico → DDT | Activo |
 | **Kid Lykos** | Indie británico / PROGRESS | Activo |
+| **Chris Hero** | Indie americano / WWE (Kassius Ohno) | Activo — coach en AEW |
 | **Jordan Oliver** | CZW → GCW → AEW | Activo |
 | **Dezmond Xavier** | CZW → TNA → WWE → AEW | Activo |
 | **Zachary Wentz** | CZW → TNA → AEW | Activo |
 | **EYFBO** *(tag team)* | Indie NY → CZW → Impact | Separados (2024) |
 
-**Bajas**: Chris Hero (2026-08-01 s31).
+**Bajas**: ninguna. *(Chris Hero fue dado de baja del **Tier 0 del panteón** en s32 y quedó como miembro pleno de esta lista — ver el fallo arriba.)*
 
 ## Observación de composición (lectura del copiloto, no declarada)
 
@@ -212,8 +222,8 @@ El roster cruza **cuatro escenas que no comparten estilo**: el
 **deathmatch americano de CZW** (Havoc, Kirk, Claxton), el **indie
 escocés de ICW** (Lionheart, Girvan), el **indie británico de
 PROGRESS/DDT** (Brookes, Lykos), y la **camada highspeed americana**
-(Oliver, Xavier, Wentz, EYFBO), más un caso de alcance mayor (Grace).
-**Dos de los doce están fallecidos** (Havoc y Lionheart) y un tercero
+(Oliver, Xavier, Wentz, EYFBO), más dos casos de alcance mayor (Grace, Hero).
+**Dos de los trece están fallecidos** (Havoc y Lionheart) y un tercero
 está retirado (Kirk).
 
 *Esta observación no se atribuye al Vehemiurgo — él declaró el

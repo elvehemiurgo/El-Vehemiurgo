@@ -309,6 +309,49 @@ lectura del Vehemiurgo es que IMPACT *"no tuvieron vision"*.
 **está pendiente de fuente on-record**. Se registra como nota
 editorial del Vehemiurgo, no como dato duro del archivo.
 
+### Sesión 2026-08-01 s32 — "Cada día más Stone Cold" (Raw 10/8/2026)
+
+**Dos piezas en el mismo show, las dos con WE class.**
+
+> *"Luego una verdadera promo, LA Knight en una run muy cool, cada
+> semana disparando más, hablando como campeon, cada día más stone
+> cold, buen babyface, esta promo merece una WE class"*
+
+> *"el segmento con LA Knight y Jacob Fatu estuvo intenso, muy cool,
+> mucho material, y si está funcionando mantener a Jacob prisionero del
+> bloodline y usar a LA y Solo para frustrarlo aun más y acumular
+> rabia [...] este segmento se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**Lectura sintética**:
+
+- **"Cada día más Stone Cold" es la comparación más alta que el
+  archivo tiene sobre él**, y en doctrina no es gratuita: Stone Cold
+  *"funciona porque tiene causa"* (CLAUDE.md §3), y acá la causa está
+  — el campeón que no da la cara.
+- **"Hablando como campeón" es lectura de porte, no de estatus.**
+  Precisión de research: **Knight no tiene título en agosto de 2026**;
+  el World Heavyweight Championship lo tiene Roman Reigns. Lo que el
+  Vehemiurgo describe es **autoridad de promo** — hablar con el peso
+  del que ya carga el cinturón sin tenerlo. Es el elogio exacto que un
+  retador necesita.
+- **La progresión como criterio**: *"cada semana disparando más"*. No
+  clasifica un pico aislado, clasifica **una curva**.
+- **En el segundo segmento cumple función de booking, no de
+  protagonista**: junto a Solo Sikoa es uno de los dos **frustradores**
+  de Jacob Fatu — Knight desde afuera del Bloodline, Sikoa desde el
+  linaje. La pinza es lo que produce las *"muy buenas interacciones"*.
+
+**Contexto**: exige el shot ante Reigns, lo llama **"liar" y
+"coward"**, y le pide a **Adam Pearce** una máscara de luchador para
+meterse al torneo. Pearce le promete el match de número uno
+**después** del torneo.
+
+**Piezas**:
+[promo con Adam Pearce](../segments/2026-08-10-promo-la-knight-raw.md) (WE) ·
+[cruce con Jacob Fatu](../segments/2026-08-10-la-knight-jacob-fatu-raw.md) (WE)
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

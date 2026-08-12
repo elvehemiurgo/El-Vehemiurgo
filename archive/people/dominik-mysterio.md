@@ -204,6 +204,38 @@ como línea editorial explícita por research.
 
 **Lectura sintética**: **WE** para el match completo.
 
+### Sesión 2026-08-01 s32 — El heel que eleva al rival, dos veces en una noche
+
+**Cita verbatim** (Raw 10/8/2026):
+
+> *"Dominik interrumpe Rey Mysterio en una entrevista backstage, y lo
+> hace muy bien, además saca lo mejor de Dragon Lee [...] el segmento
+> se merece una WE class."*
+
+> *"Dominik vs Dragon Lee empieza como grudge match [...] Dominik le
+> sacó una gran lucha, se pusieron físicos y fue entretenido [...] La
+> lucha se merece una FS y WE classes."*
+>
+> — El Vehemiurgo, 2026-08-01 s32 (verbatim)
+
+**Lectura sintética**: **dos veces en el mismo show el Vehemiurgo le
+atribuye a Dominik el mérito de elevar a Dragon Lee** — primero en la
+promo (*"saca lo mejor de Dragon Lee"*), después en el ring (*"le sacó
+una gran lucha"*). Es exactamente el criterio con el que el archivo
+evalúa a MJF en todo el corpus CZW: **el antagonista se mide por lo
+que logra sacarle al otro**, no solo por su propia línea.
+
+**El segmento**: Dominik interrumpe una entrevista de **Rey Mysterio**
+reclamando que su padre lo dejó fuera del torneo rumbo a CDMX. **Rey le
+responde que no necesita *otro* handout** — la línea que arma el match.
+
+**Resultado**: **perdió ante Dragon Lee** (Operation Dragon, 10:23).
+Llegaba como **AAA Mega Champion**; el título no estaba en juego.
+
+**Piezas**:
+[interrumpe a Rey Mysterio](../segments/2026-08-10-dominik-interrumpe-rey-dragon-lee-backstage-raw.md) (WE) ·
+[vs Dragon Lee](../matches/2026-08-10-dragon-lee-vs-dominik-mysterio-raw.md) (FS·WE)
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.
