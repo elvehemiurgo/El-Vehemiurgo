@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chris-jericho
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster Raw 2004-2005 + WCW 1999"
   - "Talk Is Jericho podcast (host) — material on-record extensivo"
@@ -159,6 +159,66 @@ dentro del mismo roster de cómo hacer un feud "real" vs uno
 **Lectura sintética**: payoff del feud (triple clase), con
 Jericho superando el reto de trabajar como babyface protector. Ver
 [`../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md`](../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md).
+
+### Sesión 2026-08-01 s33 — El caso AEW de la doctrina del "rub malo", y la excepción Ciampa
+
+**Cita verbatim** (fragmento; declaración completa en
+[doctrina del rub malo](../topics/doctrina-el-rub-malo.md)):
+
+> *"es como tener una rivalidad con Jericho en AEW, nadie sale
+> elevado, y solo haces que los talentos jovenes se vean expuestos y
+> verdes por estar esperando a Jericho y este Jericho se fuerza a
+> luchar estilo indie mark como si pudiera y el resultado son luchas
+> debiles y solo resta al enterteinment que podría ofrecer; solo
+> Ciampa recientemente logró sacar un beneficio, buenas promos y
+> segmentos y revivir al Jericho cool que puede armar algo memorable,
+> y lo hicieron bien ambos, pero luego tuvieron una streetfight que
+> los hizo lucir como garbage wrestlers exponiendo todo y dando un
+> espectaculo indie, no arruinaron por completo a Ciampa, pero tampoco
+> es que lo hayan convertido en estrella, y lo único que consiguió
+> fueron más clips en botchamania"*
+>
+> — El Vehemiurgo, 2026-08-01 s33 (verbatim)
+
+**Nota de registro**: **opinión editorial declarada sobre el trabajo
+in-ring de un luchador en activo. No es dato de archivo.**
+
+**El mecanismo que le atribuye — distinto del de Rollins**: no es solo
+ego, es **desajuste entre lo que el cuerpo da y lo que el acto pide**.
+*"Este Jericho se fuerza a luchar estilo indie mark como si pudiera."*
+
+**Y el efecto de espera**: *"los talentos jóvenes se ven expuestos y
+verdes **por estar esperando a Jericho**"* — el ritmo del veterano
+obliga al joven a trabajar por debajo del suyo.
+
+**LA EXCEPCIÓN PARCIAL — el caso que hace útil la tesis**: con
+**Tommaso Ciampa** el rub **sí funcionó en el terreno de la palabra**:
+*"buenas promos y segmentos, y revivir al Jericho cool que puede armar
+algo memorable, y lo hicieron bien ambos"*. Y falló en el ring. **De
+ahí la contribución doctrinal de la sesión: el rub de promo y el rub
+de ring son monedas distintas.**
+
+**Contraste documental (research) — CORRECCIÓN DE ETIQUETA**:
+
+- **Origen**: Dynamite del **27/5/2026** — Ciampa lo targetea tras su
+  match con Ricochet.
+- **Match 1 — Dynamite: Beach Break (8/7/2026)**, Clearwater Beach FL:
+  **gana Ciampa**.
+- **Match 2 — AEW Redemption (26/7/2026)**, **Bell Centre, Montreal**:
+  **NO fue street fight — fue No Holds Barred.** **Gana Jericho** como
+  *"The Painmaker"*. Plunder: palo de hockey, lija, mesa de barbed
+  wire, paneles de vidrio, pucks con tachuelas, extintor, arena.
+  **Finish: Ciampa va por el taladro, Jericho le escupe mist verde y
+  termina usando el taladro sobre la frente de Ciampa.**
+
+**El match que el Vehemiurgo describe es ese** — solo cambia el nombre
+de la estipulación, y el contenido reportado encaja exacto con su
+descripción.
+
+**Estado del contrato**: a inicios de 2026 se reportó su contrato
+*"congelado"* por el tiempo libre de 2025; **firmó nuevo contrato con
+AEW en abril de 2026**, con el regreso de *"The List"*. **Sigue en
+AEW.**
 
 ## Pendientes
 

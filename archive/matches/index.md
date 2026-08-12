@@ -13,6 +13,7 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-11 | Lizzy Rain & EK Prosper vs The Culling (Izzi Dame & Niko Vance) | WWE / NXT | — | en-investigacion | 1 | [→](2026-08-11-lizzy-rain-ek-prosper-vs-the-culling-nxt.md) |
 | 2026-08-10 | Sol Ruca & IYO SKY vs Raquel Rodriguez & Roxanne Perez | WWE / Raw | — | en-investigacion | 1 | [→](2026-08-10-sol-ruca-iyo-sky-vs-raquel-roxanne-raw.md) |
 | 2026-08-10 | Dragon Lee vs Dominik Mysterio | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-10-dragon-lee-vs-dominik-mysterio-raw.md) |
 | 2026-08-10 | Penta vs Laredo Kid | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-10-penta-vs-laredo-kid-raw.md) |

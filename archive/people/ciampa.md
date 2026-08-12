@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ciampa
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s21 (visión directa — AEW Dynamite, 3/6/2026)"
 tags: [ciampa, tommaso-ciampa, hhh-darling, nxt-burbuja, gargano, jericho-feud-2026, promos-cripticas-peor-que-moxley, primer-registro-escéptico]
@@ -148,6 +148,55 @@ Ciampa, con triple clase y reserva puntual sobre sus rodillazos.
 Jericho lo pone over como heel — el Vehemiurgo espera que la
 racha continúe ("ojalá siga por ahí"). Ver
 [`../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md`](../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md).
+
+### Sesión 2026-08-01 s33 — La excepción parcial de la doctrina del "rub malo"
+
+**Cita verbatim** (fragmento; declaración completa en
+[doctrina del rub malo](../topics/doctrina-el-rub-malo.md)):
+
+> *"solo Ciampa recientemente logró sacar un beneficio, buenas promos
+> y segmentos y revivir al Jericho cool que puede armar algo memorable,
+> y lo hicieron bien ambos, pero luego tuvieron una streetfight que los
+> hizo lucir como garbage wrestlers exponiendo todo y dando un
+> espectaculo indie, no arruinaron por completo a Ciampa, pero tampoco
+> es que lo hayan convertido en estrella, y lo único que consiguió
+> fueron más clips en botchamania"*
+>
+> — El Vehemiurgo, 2026-08-01 s33 (verbatim)
+
+**Lectura sintética — Ciampa es el caso que hace útil toda la tesis.**
+Es el **único** al que el Vehemiurgo le concede beneficio de un cruce
+con un veterano al que critica, y aun así lo condiciona:
+
+- **Funcionó en la palabra**: *"buenas promos y segmentos, y revivir al
+  Jericho cool que puede armar algo memorable, y lo hicieron bien
+  ambos"*.
+- **Falló en el ring**: *"los hizo lucir como garbage wrestlers,
+  exponiendo todo y dando un espectáculo indie"*.
+- **Saldo**: *"no arruinaron por completo a Ciampa, pero tampoco es
+  que lo hayan convertido en estrella"*.
+
+**La contribución doctrinal que sale de acá**: **el rub de promo y el
+rub de ring son monedas distintas.** Un consagrado puede transferir
+personaje y no poder transferir credibilidad in-ring. Es lo que separa
+esta tesis de un exabrupto.
+
+**Contraste documental (research) — corrección de etiqueta**:
+
+- **Origen**: Dynamite del **27/5/2026** — Ciampa lo targetea tras el
+  match de Jericho con Ricochet.
+- **Match 1 — Dynamite: Beach Break (8/7/2026)**, Clearwater Beach FL:
+  **gana Ciampa**.
+- **Match 2 — AEW Redemption (26/7/2026)**, Bell Centre, Montreal:
+  **NO fue street fight — fue No Holds Barred.** **Gana Jericho** como
+  *"The Painmaker"*, **usando un taladro sobre la frente de Ciampa**
+  tras escupirle mist verde. Plunder de nueve elementos (palo de
+  hockey, lija, mesa de barbed wire, paneles de vidrio, pucks con
+  tachuelas, extintor, arena).
+
+**El match que el Vehemiurgo describe es ese** — solo cambia el nombre
+de la estipulación, y el contenido reportado encaja exacto con su
+descripción.
 
 ## Pendientes / huecos
 

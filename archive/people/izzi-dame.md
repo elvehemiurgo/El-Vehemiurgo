@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: izzi-dame
 estado: vivo
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Wikipedia — Izzi Dame"
   - "Cobertura WWE NXT 2024–2026"
@@ -130,6 +130,36 @@ como caso paralelo. Cruce con el costo de oportunidad de WWE
 `topics/tko-contracts-2025-2026.md`: si Raquel se siente
 subestimada con todo lo que tiene, ¿qué falta para que Izzi no
 caiga en la misma situación cuando salte a main roster?)
+
+### Sesión 2026-08-01 s33 — "Realmente evolucionando" (NXT 11/8/2026)
+
+**Cita verbatim**:
+
+> *"están bookeando Izzy vs Lizzy ya unas semanas, y ambas son cool,
+> están realmente evolucionando, son mejores prospectos que Tarum
+> Paxley que en estas fechas ya llegó al roster principal"*
+>
+> — El Vehemiurgo, 2026-08-01 s33 (verbatim)
+
+**Sin clase declarada.**
+
+**Lectura sintética**: el elogio es **compartido y de curva** — las dos
+suben, no una a costa de la otra. Y la comparación con **Tatum Paxley**
+—ya en roster principal desde el 7/8/2026— funciona como **crítica del
+criterio de call-up de WWE**.
+
+**Datos de identificación (research)**: nombre real **Franki Carissa
+Strefling**, n. **13/7/1999**, Buchanan MI. **Ex voleibolista
+profesional**, billed 5'10". **Ex NXT Women's North American
+Champion**. En **The Culling desde la fundación del stable, el
+13/8/2024**.
+
+**Estado de The Culling en agosto de 2026**: **Izzi Dame + Niko
+Vance**, sin líder declarado. **Echaron a Shawn Spears el 23/6/2026**
+—Dame participó de la expulsión— y es el **tercer expulsado del
+stable**, tras Brooks Jensen y **Tatum Paxley**.
+
+**Pieza**: [mixed tag vs Lizzy Rain y EK Prosper](../matches/2026-08-11-lizzy-rain-ek-prosper-vs-the-culling-nxt.md) (sin clase declarada)
 
 ## Pendientes / huecos
 

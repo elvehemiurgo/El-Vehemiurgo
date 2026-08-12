@@ -133,6 +133,63 @@ Main Event. **Esa es *"esa rivalidad"* del dictado.**
 [el regreso de Vaquer](../segments/2026-08-10-regreso-stephanie-vaquer-becky-raw.md) ·
 [tag Sol Ruca & IYO SKY vs Raquel & Roxanne](../matches/2026-08-10-sol-ruca-iyo-sky-vs-raquel-roxanne-raw.md)
 
+### Sesión 2026-08-01 s33 — La tesis del "rub malo", desarrollada
+
+El Vehemiurgo **elabora y acota** el juicio que había soltado en s32.
+Doctrina completa en
+[el rub malo](../topics/doctrina-el-rub-malo.md).
+
+**Cita verbatim** (fragmento):
+
+> *"sobre los tres casos que le atribuí al mal rub de Becky (Bianca,
+> Zoey Stark, y el temor sobre Vaquer), si sé que hay más factores, me
+> refiero a que esas rivalidades solo dejaron bien parada a Becky, su
+> 'estilo' de lucha fake super safe solo expuso a Sol, Bianca y Zoey,
+> las hizo lucir verdes y debiles, mi percepción de esas luchadoras
+> decayó drasticamente por sus performances inring durante sus
+> programaciones con Becky [...] es el ego de Becky y Rollins que
+> tienen que ser protgagonistas de algo si o si [...] sus luchas son
+> terribles y dañan la percepción de cualquier prospecto"*
+>
+> — El Vehemiurgo, 2026-08-01 s33 (verbatim)
+
+**LA PRECISIÓN QUE CAMBIA EL REGISTRO**: el Vehemiurgo **acota el
+alcance en la primera línea** — *"sí sé que hay más factores"*. El
+argumento **no es monocausal y él lo declara antes de desarrollarlo**.
+Lo que sostiene es más fino que una atribución de culpa por carreras
+destruidas: es un **juicio de percepción de espectador**.
+
+> *"Mi percepción de esas luchadoras decayó drásticamente **por sus
+> performances in-ring durante sus programaciones** con Becky."*
+
+**Así queda registrado**: opinión editorial declarada en primera
+persona sobre lo que él vio. **La ficha corrige el registro de s32**,
+que había dejado los tres casos como afirmaciones pendientes de
+contraste — el propio Vehemiurgo reformuló el reclamo en términos de
+**exposición y percepción**, no de causalidad única.
+
+**Los dos mecanismos que le atribuye**:
+
+1. **El *safe* que se ve falso expone al que menos oficio tiene** —
+   *"su 'estilo' de lucha fake super safe solo expuso a Sol, Bianca y
+   Zoey, las hizo lucir verdes y débiles"*. El veterano sobrevive al
+   match por reputación; el joven no tiene de dónde agarrarse.
+2. **El ego que exige protagonismo** — *"tienen que ser protagonistas
+   de algo sí o sí"*. El rub requiere que el consagrado **sirva**; si
+   capitaliza, la transferencia va al revés.
+
+**Dato que el archivo anota junto a la lectura**: **Sol Ruca le ganó
+el WWE Women's Intercontinental Championship a Becky en Clash in Italy
+(31/5/2026, Turín)**, cortando un reinado de 43 días. **El programa
+existió y terminó con la joven ganando el título** — y la tesis del
+Vehemiurgo sostiene precisamente que **ganar el título no es lo mismo
+que salir elevada**.
+
+**Coherencia con el elogio de s32**: sigue sosteniendo que **es buena
+en el micrófono** (*"Becky es buena en el mic"*, sobre el cruce con
+Vaquer). **Separación de ejes, no contradicción** — y de ahí su
+propuesta: **manager o GM**.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

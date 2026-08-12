@@ -128,6 +128,42 @@ una semana. Ver
 
 **Lectura sintética**: **WE, con el Perfect Match explícitamente descartado por el Vehemiurgo** debido al striking. **Pierde el NXT Women's North American Championship ante Zaria** (F-5, spear, segundo F-5). Disparadora de la doctrina de **fundamentos fuera de lugar**: su gimmick es *"la freak con innovaciones de lucha libre y planchas cruzadas"*, y forzar strikes de muay thai es incoherente con ese personaje. Research no pudo verificar el striking MMA contra texto — queda como lectura de video pendiente de confirmación. Dato de contexto: Fightful Select reporta que WWE discute internamente su call-up al main roster tras esta derrota.
 
+### Sesión 2026-08-01 s33 — El call-up cuestionado (NXT 11/8/2026)
+
+**Cita verbatim**:
+
+> *"están bookeando Izzy vs Lizzy ya unas semanas, y ambas son cool,
+> están realmente evolucionando, son mejores prospectos que Tarum
+> Paxley que en estas fechas ya llegó al roster principal"*
+>
+> — El Vehemiurgo, 2026-08-01 s33 (verbatim)
+
+**Lectura sintética**: **crítica implícita del criterio de call-up de
+WWE** — el Vehemiurgo sostiene que **Izzi Dame y Lizzy Rain son
+mejores prospectos**, y que WWE ascendió a la menos lista.
+
+**Nota de continuidad — no es contradicción**: el archivo tiene un
+elogio suyo a Paxley en **s49** (el face vs face ante Lizzy Rain,
+*"más reñida y más oldschool"*). Lo de acá es **comparación relativa**
+entre tres prospectos de la misma división, no una baja de juicio
+sobre ella.
+
+**Contexto del call-up (research)**: **subió el 7/8/2026 en
+SmackDown** — cuatro días antes del NXT que el Vehemiurgo cubre.
+Debutó **alineándose con Alexa Bliss y Charlotte Flair**: Bliss la
+presenta como nueva aliada y Paxley saca a Michin y B-Fab para que
+Charlotte le gane a Jade Cargill.
+
+**Reporte backstage (dirt sheet, NO on-record)**: se atribuye a
+**Charlotte Flair haber pedido el call-up**; otra versión reporta que
+fue a SmackDown para igualar el schedule de viaje de su pareja
+**Damian Priest**. **Se registra como reporte de tercera línea, no
+como hecho.**
+
+**Hilo de continuidad**: Paxley **también fue expulsada de The
+Culling** en su momento — el mismo stable del que echaron a Shawn
+Spears el 23/6/2026 y del que sigue siendo pieza Izzi Dame.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

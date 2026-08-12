@@ -107,6 +107,55 @@ una semana. Ver
 
 **Lectura sintética**: Sin clase — *"estuvo cool"* es aprobación, no llamado; no se infla. Los dos ejes del elogio son **atletismo** y **gimmicks legibles**.
 
+### Sesión 2026-08-01 s33 — "Mejor prospecto que Tatum Paxley" (NXT 11/8/2026)
+
+**Cita verbatim**:
+
+> *"están bookeando Izzy vs Lizzy ya unas semanas, y ambas son cool,
+> están realmente evolucionando, son mejores prospectos que Tarum
+> Paxley que en estas fechas ya llegó al roster principal, hicieeron
+> las coas interesantes aqui con la lucha en parejas de Lizzy & Spears
+> vs The Culling; parecia que Spears decidió abandonar a Lizzy y esta
+> última inicia con una buena promo y luego con todo tipo grudge
+> match,"*
+>
+> — El Vehemiurgo, 2026-08-01 s33 (verbatim)
+
+**Sin clase declarada.**
+
+**Lectura sintética**:
+
+- **El elogio es de programa sostenido**: *"están bookeando Izzy vs
+  Lizzy ya unas semanas"* — criterio de **curva**, no de match suelto.
+- **LA COMPARACIÓN QUE IMPORTA**: *"son mejores prospectos que Tatum
+  Paxley, que en estas fechas ya llegó al roster principal"*. Es una
+  **crítica implícita del criterio de call-up de WWE** — research
+  confirma que Paxley subió el **7/8/2026 en SmackDown**, cuatro días
+  antes de este show. **Nota de continuidad**: el Vehemiurgo elogió a
+  Paxley en s49; no es contradicción, es **comparación relativa**
+  dentro de la misma división.
+- **La secuencia de booking es lo que compra**: abandono → promo →
+  grudge match.
+
+**Contexto (research)**: el match fue **mixed tag — Lizzy Rain & EK
+Prosper vs The Culling (Izzi Dame & Niko Vance)**, ganado por Rain y
+Prosper (moonsault de Prosper sobre Vance). **Shawn Spears estaba
+anunciado como su partner y no apareció**; Rain salió sola diciendo
+*"Looks like I'm going on alone"* y **EK Prosper bajó a ocupar el
+lugar** — primera vez que hacen equipo. **La ausencia no recibió
+explicación en pantalla**: el swerve está sembrado, no pagado.
+
+**Cronología del arco con Izzi Dame**: 21/7 Rain frustra a Dame en
+ringside y le cuesta la lucha a Niko Vance ante Spears → **28/7 Rain
+vence a Dame en singles**, con Spears en su esquina → 11/8 el mixed
+tag. **Rain va arriba en el score.**
+
+**Pendiente**: la *"buena promo"* y el grudge match que el Vehemiurgo
+describe **no aparecen en el registro de este show** — puede referirse
+al singles del 28/7 o a material posterior. `[verif]`
+
+**Pieza**: [mixed tag vs The Culling](../matches/2026-08-11-lizzy-rain-ek-prosper-vs-the-culling-nxt.md) (sin clase declarada)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria pre-WWE, circuito australiano
