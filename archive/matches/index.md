@@ -13,10 +13,16 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-11 | Cruz Montana vs Grayson Waller | WWE / NXT | WE | en-investigacion | 1 | [→](2026-08-11-cruz-montana-vs-grayson-waller-debut-zilla-fatu-nxt.md) |
+| 2026-08-11 | Lexis King vs Lucien Price | WWE / NXT | — | en-investigacion | 1 | [→](2026-08-11-lexis-king-vs-lucien-price-nxt.md) |
+| 2026-08-11 | Kam Hendrix vs Mason Rook | WWE / NXT | WE | en-investigacion | 1 | [→](2026-08-11-kam-hendrix-vs-mason-rook-nxt.md) |
+| 2026-08-11 | Saquon Shugars vs Dion Lennox | WWE / NXT | WE | en-investigacion | 1 | [→](2026-08-11-saquon-shugars-vs-dion-lennox-nxt.md) |
 | 2026-08-11 | Lizzy Rain & EK Prosper vs The Culling (Izzi Dame & Niko Vance) | WWE / NXT | — | en-investigacion | 1 | [→](2026-08-11-lizzy-rain-ek-prosper-vs-the-culling-nxt.md) |
 | 2026-08-10 | Sol Ruca & IYO SKY vs Raquel Rodriguez & Roxanne Perez | WWE / Raw | — | en-investigacion | 1 | [→](2026-08-10-sol-ruca-iyo-sky-vs-raquel-roxanne-raw.md) |
 | 2026-08-10 | Dragon Lee vs Dominik Mysterio | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-10-dragon-lee-vs-dominik-mysterio-raw.md) |
 | 2026-08-10 | Penta vs Laredo Kid | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-10-penta-vs-laredo-kid-raw.md) |
+| 2026-08-08 | Lady Shani vs Flammer vs La Catalina | AAA / Verano De Escándalo (Semana 3) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-08-shani-vs-flammer-vs-catalina-aaa-verano-3.md) |
+| 2026-08-08 | El Fiscal vs Psycho Clown vs Cruz Del Toro | AAA / Verano De Escándalo (Semana 3) | WE | en-investigacion | 1 | [→](2026-08-08-el-fiscal-vs-psycho-clown-vs-cruz-del-toro-aaa-verano-3.md) |
 | 2026-08-07 | Fallon Henley & Lainey Reid (c) vs Chelsea Green & Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-07-fallon-henley-lainey-reid-vs-chelsea-green-tiffany-stratton-wwe-smackdown.md) |
 | 2026-08-04 | Nikkita Lyons & Karmen Petrovic vs Jaida Parker & Thea Hail | WWE / NXT | WE | en-investigacion | 1 | [→](2026-08-04-nikkita-lyons-karmen-petrovic-vs-jaida-parker-thea-hail-wwe-nxt.md) |
 | 2026-08-03 | Chad Gable & Penta vs Dominik Mysterio & JD McDonagh | WWE / Monday Night Raw | WE | en-investigacion | 1 | [→](2026-08-03-chad-gable-penta-vs-dominik-mysterio-jd-mcdonagh-wwe-raw.md) |

@@ -12,11 +12,15 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-11 | Grayson Waller alienta a Saquon Shugars a vengarse de Dark State en la sala médica | WWE / NXT | backstage / sala médica | WE | en-investigacion | 1 | [→](2026-08-11-grayson-waller-rub-saquon-shugars-medica-nxt.md) |
+| 2026-08-11 | Keanu Carver interrumpe el agradecimiento de Cruz Montana a Robert Stone — el tercero en discordia | WWE / NXT | backstage | WE | en-investigacion | 1 | [→](2026-08-11-keanu-carver-cruz-montana-robert-stone-backstage-nxt.md) |
 | 2026-08-10 | LA Knight y Jacob Fatu se cruzan — el prisionero del Bloodline marcando territorio | WWE / Raw | confrontación backstage / angle | WE | en-investigacion | 1 | [→](2026-08-10-la-knight-jacob-fatu-raw.md) |
 | 2026-08-10 | LA Knight le exige el shot a Adam Pearce — 'liar' y 'coward' para Roman Reigns | WWE / Raw | promo in-ring | WE | en-investigacion | 1 | [→](2026-08-10-promo-la-knight-raw.md) |
 | 2026-08-10 | Stephanie Vaquer llama 'mujer muerta' a Roxanne Perez — y aparece Becky Lynch | WWE / Raw | promo in-ring / angle | — | en-investigacion | 1 | [→](2026-08-10-regreso-stephanie-vaquer-becky-raw.md) |
 | 2026-08-10 | Dominik interrumpe la entrevista de Rey Mysterio — 'no necesitas otro handout' | WWE / Raw | backstage / promo de armado de match | WE | en-investigacion | 1 | [→](2026-08-10-dominik-interrumpe-rey-dragon-lee-backstage-raw.md) |
 | 2026-08-10 | Solo Sikoa se burla del Bloodline y Jey Uso lo encara — la apuesta que lo devuelve a la fila | WWE / Raw | promo de apertura / stipulation match | WE | en-investigacion | 1 | [→](2026-08-10-solo-sikoa-promo-jey-bloodline-raw.md) |
+| 2026-08-08 | Dominik explica por qué traicionó a El Grande Americano — irrumpe Liv Morgan | AAA / Verano De Escándalo (Semana 3) | entrevista | WE | en-investigacion | 1 | [→](2026-08-08-dominik-entrevista-traicion-el-grande-americano-aaa-verano-3.md) |
+| 2026-08-08 | Los Perros del Mal atacan a Jack Cartwheel y Noisy Boy — Damián 666 se une formalmente al grupo | AAA / Verano De Escándalo (Semana 3) | promo + ataque post-match / incorporación a facción | WE | en-investigacion | 1 | [→](2026-08-08-perros-del-mal-damian-666-se-une-aaa-verano-3.md) |
 | 2026-08-07 | Chelsea Green y Tiffany Stratton — brindis interrumpido por Fatal Influence | WWE / SmackDown | promo / celebración interrumpida | WE | en-investigacion | 1 | [→](2026-08-07-chelsea-green-tiffany-stratton-fatal-influence-wwe-smackdown.md) |
 | 2026-08-07 | Kevin Owens y CM Punk — cara a cara de retador y campeón | WWE / SmackDown | cara a cara / promo | WE | en-investigacion | 1 | [→](2026-08-07-kevin-owens-cm-punk-cara-a-cara-wwe-smackdown.md) |
 | 2026-08-07 | Cody Rhodes — sospecha de alianza Punk/Orton | WWE / SmackDown | promo / confrontación | WE | en-investigacion | 1 | [→](2026-08-07-cody-rhodes-sospecha-punk-orton-wwe-smackdown.md) |

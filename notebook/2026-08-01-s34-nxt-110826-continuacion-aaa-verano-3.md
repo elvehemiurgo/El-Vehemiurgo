@@ -7,7 +7,7 @@ contexto: "Continuación del NXT 11/8/2026 (resto del card) + AAA Verano De Esc�
 shows_cubiertos:
   - "WWE NXT (11/8/2026) — continuación"
   - "AAA Verano De Escándalo 3 (8/8/2026)"
-estado: en-investigacion
+estado: verificado
 ultima_actualizacion: 2026-08-01
 ---
 
@@ -133,58 +133,62 @@ un show completo de **AAA — Verano De Escándalo 3** (8/8/2026).
 
 ---
 
-## Takes por tópico — pendiente de research para nombres canónicos, resultados y contexto
-
-*Esta sección se completa tras el research delegado. Piezas
-provisionales:*
+## Takes por tópico — resueltos por research
 
 ### WWE NXT 11/8/2026 (continuación)
 
-| Pieza | Clases |
-|---|---|
-| Lizzy Rain & EK Prosper vs The Culling (elaboración) | **WE** |
-| Segmento Keanu Karver + Santana/Cruz Montana + Stone backstage | **WE** |
-| Saquon Shugars vs [Lennox] | **WE** |
-| Grayson Waller rub, con Jaquon backstage | **WE** |
-| Kam Hendrix vs Mason [Rook] | **WE** |
-| Lexis King vs [Lucien] Price | _(sin clase — "está ok")_ |
-| Cruz Montana vs Grayson Waller (+ debut Zilla Fatu) | **WE** |
+| Pieza | Resultado | Clases |
+|---|---|---|
+| Lizzy Rain & EK Prosper vs The Culling (elaboración) | gana Rain & Prosper | **WE** |
+| Keanu Carver + Cruz Montana + Robert Stone, backstage | — | **WE** |
+| Saquon Shugars vs Dion Lennox | gana Lennox | **WE** |
+| Grayson Waller + Saquon Shugars, sala médica | — | **WE** |
+| Kam Hendrix vs Mason Rook | gana Hendrix | **WE** |
+| Lexis King vs Lucien Price | gana Lexis King | _(sin clase — "está ok")_ |
+| Cruz Montana vs Grayson Waller (+ debut Zilla Fatu) | No Contest | **WE** |
+
+**Identidades resueltas**: *"Keanu Karver"* = **Keanu Carver**.
+*"Santana"* = **Cruz Montana** (mismo luchador; nombre de ring
+anterior en TNA/indies, ya establecido en el archivo). *"Stone"* =
+**Robert Stone**, GM de NXT. *"Jaquon"* = **Saquon Shugars** (mishearing
+fonético). **Lexis King = Brian Pillman Jr.** (ya en archivo).
 
 ### AAA Verano De Escándalo 3 (8/8/2026)
 
-| Pieza | Clases |
-|---|---|
-| El Fiscal vs Psycho Clown vs [Del Toro] | **WE** |
-| Los Perros del Mal, promo + momento con Bestia 666 | **WE** |
-| Entrevista a Dominik sobre la traición al Grande (Rey Mysterio) | **WE** |
-| Shani vs [Flamer] vs [La] Catalina (main event) | **PW · FS · WE** |
+| Pieza | Resultado | Clases |
+|---|---|---|
+| El Fiscal vs Psycho Clown vs Cruz Del Toro | gana El Fiscal (7:46) | **WE** |
+| Los Perros del Mal, promo + Damián 666 se une | — | **WE** |
+| Entrevista a Dominik sobre la traición a El Grande Americano | — | **WE** |
+| Lady Shani vs Flammer vs La Catalina (main event) | retiene Flammer (9:09) | **PW · FS · WE** |
 
----
+**Correcciones clave de research**:
 
-## Research delegado (2 sub-agentes en curso)
-
-1. **NXT 11/8/2026 — identidades y contexto**: Keanu Karver, "Santana"
-   (¿= Cruz Montana?), Stone, el arco de Cruz Montana la semana previa
-   (tag vs Dark State), "Jaquon", la pipebomb de Grayson Waller y la
-   reacción en redes, gimmick de Kam Hendrix, background de Lexis King
-   y Lucien Price (¿conexión real con Perros del Mal / AAA?), y el
-   contexto de los Kofi Kingston pants de Waller.
-2. **AAA Verano De Escándalo 3 — card completo**: identidad de "Del
-   Toro", El Fiscal (hijo de Averno), Los Perros del Mal actuales,
-   Bestia 666, contexto de la traición de Dominik a Rey Mysterio,
-   nombres canónicos de "Flamer" y "Catalina", el título en juego en
-   el main event, y aclaración sobre la mención de Bayley (posible
-   confusión de mi fuente con un cruce WWE-AAA).
-
----
-
-## Próximos pasos
-
-- [ ] Completar fichas y clases al volver el research.
-- [ ] Confirmar si "Santana" del segmento backstage es Cruz Montana.
-- [ ] Verificar la mención de Bayley en el contexto de Shani vs Flamer
-      vs Catalina — posible error de continuidad a corregir con el
-      Vehemiurgo si el research no lo resuelve.
+1. **El Fiscal NO es hijo de Averno** — es **hijo del Abismo Negro
+   original**; feuda con **Abismo Negro Jr.** (usurpador del
+   gimmick sin ser hijo de sangre).
+2. **"El Grande"** de la traición de Dominik **no es Rey Mysterio —
+   es El Grande Americano**, su compañero en "Los Gringos Locos 2.0".
+   Dominik lo abandonó el 25/7/2026 y reveló su alianza con Dorian
+   Roldán y Omos en la facción "El Ojo".
+3. **"Bestia 666" es probablemente Damián 666** (su padre) —
+   confusión por parecido de gimmick. Bestia 666 no figura en el
+   roster actual de Los Perros del Mal.
+4. **"Flamer" es Flammer** (no La Flama Azul); superó los 1.000 días
+   de reinado como campeona Reina de Reinas.
+5. **Bayley SÍ tuvo un arco real en este feudo** (debutó en AAA Rey
+   de Reyes 14/3/2026 retando a Flammer) — no es error ni mezcla de
+   continentes; es cruce editorial legítimo WWE-AAA post-compra de
+   AAA por TKO. Por qué quedó fuera del cierre no está explicado en
+   cobertura textual.
+6. **El hip attack de la secuencia final lo conecta Catalina sobre
+   Shani**, no Flammer sobre Catalina — corrección de detalle de
+   secuencia.
+7. **El show es Semana 3 de una serie de tres tapings co-producidos
+   WWE-AAA**, grabados en Arena San Marcos, Aguascalientes.
+8. **Bronco Nima ("Numa") es real y está en Los Perros del Mal** —
+   el cruce con el arco de Lucien Price en NXT es legítimo, no
+   confusión de continentes.
 
 ---
 

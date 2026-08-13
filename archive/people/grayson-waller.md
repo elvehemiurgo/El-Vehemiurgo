@@ -63,6 +63,50 @@ beats con Kelani Jordan, Mason Rook y Kam Hendrix (corrección: no es
 un "rub" uniforme, con Rook/Hendrix es fricción que presencia, no
 eleva). Se anuncia Waller vs Cruz Montana, #1 contender, 11/8/2026.
 
+### Sesión 2026-08-01 s34 — El diagnóstico más duro: "el main roster le falló"
+
+**Cita verbatim** (main event vs Cruz Montana, 11/8/2026):
+
+> *"primero es raro que Waller siga usando los Kofi Kingston pants, y
+> entra serio como una grudge match y lo primero que hace es bailar y
+> dar patadas ridículas, fue muy raro y me mató el hype un poco [...]
+> El performance de Waller fue intermitente, su tontería realmente
+> resta al realismo que quiere vender [...] Pues Waller me deja así, no
+> se ve listo y como que el main roster le falló, porque aquí está
+> demostrando que está listo, se vió como inmaduro y que de hecho está
+> bien que siga en NXT."*
+>
+> — El Vehemiurgo, 2026-08-01 s34 (verbatim)
+
+**El gear, con causa real (research)**: los *"Kofi Kingston pants"* no
+son error — Waller **estrenó ese diseño el 19/3/2026** como guiño de
+pertenencia a **New Day**, tras alinearse con ellos cuando Austin
+Theory se lesionó. Es tributo de stable, no parodia. La objeción del
+Vehemiurgo es de **ejecución dentro de un tono serio**, no de
+concepto.
+
+**El hipotético de CM Punk** —*"se imaginan si después del pipebomb de
+Punk, Punk regresara y se pondría a bailar"*— es la formulación más
+precisa que el archivo tiene sobre por qué la comedia desarma un
+ángulo serio.
+
+**Contraste documental — el diagnóstico coincide con el registro
+real**: Waller tuvo **solo tres luchas en Raw/SmackDown en 2026, las
+tres perdidas** (la más reciente ante Oba Femi en abril); él mismo
+culpó a la política backstage. Volvió a NXT esencialmente reenviado
+hacia abajo. **El Vehemiurgo no está especulando: el push falló, y el
+archivo lo puede probar.**
+
+**Cierre de sesión — la síntesis anual**:
+
+> *"Creo que este año WWE low balled los perros del mal y greyson
+> waller, la empresa no sintió la visión con estos casos [...] no es
+> necesariamente un fracaso, pero sí algo que decepciona."*
+>
+> — El Vehemiurgo, 2026-08-01 s34 (verbatim)
+
+**Pieza**: [vs Cruz Montana, debut de Zilla Fatu](../matches/2026-08-11-cruz-montana-vs-grayson-waller-debut-zilla-fatu-nxt.md) (WE)
+
 ## Pendientes / huecos
 
 - [ ] Transcripción completa verbatim de la promo.
