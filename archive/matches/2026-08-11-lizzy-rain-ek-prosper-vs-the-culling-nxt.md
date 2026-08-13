@@ -19,20 +19,22 @@ gate: ""
 rating_tv: ""
 buy_rate: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Hicieron las cosas interesantes aquí con la lucha en parejas; parecía que Spears decidió abandonar a Lizzy, y esta última inicia con una buena promo y luego con todo tipo grudge match"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Hicieron las cosas interesantes aquí con la lucha en parejas; parecía que Spears decidió abandonar a Lizzy, y esta última inicia con una buena promo y luego con todo tipo grudge match; se merece una WE class; sigue sin convencer el selling; el thunderstruck countered into a powerbomb quedó perfecto"
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
 ultima_actualizacion: 2026-08-01
 fuentes_principales:
-  - "Volcado Vehemiurgo 2026-08-01 s33 (VISIONADO DIRECTO — WWE NXT 11/8/2026)"
+  - "Volcado Vehemiurgo 2026-08-01 s33 y s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026)"
   - "Sub-agente nxt-110826 (research 2026-08-01) — card, identidades y contexto del ángulo"
 tags: [wwe-2026, nxt, lizzy-rain, ek-prosper, izzi-dame, niko-vance, the-culling, shawn-spears, sin-clase-declarada]
 ---
 
 # Lizzy Rain & EK Prosper vs The Culling — WWE NXT (11/8/2026)
 
-> **Sin clase declarada.** El elogio del Vehemiurgo es de **secuencia
-> de booking**, no del match: abandono → promo → grudge.
+> Wrestling Entertainment (declarada en s34, elaboración de la
+> sesión s33). El elogio central sigue siendo de **secuencia de
+> booking** — abandono → promo → grudge — más un spot puntual que el
+> Vehemiurgo aísla como perfecto.
 
 **Identificaciones (research)**: *"Izzy"* = **Izzi Dame**; *"Lizzy"* =
 **Lizzy Rain**; *"Spears"* = **Shawn Spears**. Y el dato que ordena
@@ -73,6 +75,39 @@ booking lo tenía del lado de Rain.
   interesantes aquí [...] parecía que Spears decidió abandonar a
   Lizzy, y esta última inicia con una buena promo y luego con todo
   tipo grudge match"*. Tres piezas que se pagan una a la otra.
+
+### Sesión 2026-08-01 s34 — Elaboración: WE class, la reserva de selling, y el spot perfecto
+
+**Cita verbatim**:
+
+> *"la lucha en parejas de Lizzy & Spears vs The Culling, además de lo
+> que ya comenté, se merece una WE class, sigue sin convencerme el
+> selling todavia, EK prosper que se unio a la lucha reemplazando a
+> Spears, estuvo cool, y el spot del thunderstrock countered into a
+> powerbomb les quedó perfecto, esuvo increible, estuvo buena."*
+>
+> — El Vehemiurgo, 2026-08-01 s34 (verbatim)
+
+**WE class — declarada explícita, en la sesión siguiente a la del
+primer take.**
+
+**Lectura sintética**:
+
+- **La clase llega en la elaboración, no en la primera pasada** — el
+  archivo registra el patrón: el Vehemiurgo a veces necesita una
+  segunda mirada sobre el mismo material para cerrar el veredicto de
+  clase.
+- **La reserva se sostiene**: *"sigue sin convencerme el selling
+  todavía"* — la palabra *"sigue"* liga esto a una crítica previa sobre
+  el trabajo de venta del roster femenino joven de NXT, consistente en
+  varias sesiones del archivo.
+- **EK Prosper, elogio de debut de pareja**: *"estuvo cool"* — su
+  primera vez haciendo equipo con Rain queda con nota positiva.
+- **El spot aislado como pieza técnica perfecta**: *"el thunderstruck
+  countered into a powerbomb les quedó perfecto"*. Es la reserva
+  técnica puntual que la doctrina permite dentro de una clase
+  declarada (CLAUDE.md §4, regla 3) — el selling general no convence,
+  pero un spot específico se salva entero.
 
 ## Contexto de booking
 
