@@ -296,6 +296,78 @@ total (causa #SpeakingOut).** Fusionarlos sería error factual grave.
   promo (causa política) y 2020 = ruptura total (causa #SpeakingOut)
   son episodios distintos con causas distintas** y no deben fusionarse.
 
+### Sesión 2026-08-01 s35 — El cierre de la etapa CZW: campeón mundial, y la última noche
+
+**Confirmado por research: Best of the Best 18 (13/4/2019) es la
+última aparición documentada de David Starr en CZW.** No vuelve a
+aparecer en los cards grandes de la casa el resto de 2019; su
+siguiente registro es el 17/4/2019 en Defiant Wrestling (UK). La funa
+de #SpeakingOut llegaría más de un año después, en junio de 2020 —
+son dos hechos separados, sin relación de causa entre sí.
+
+**Citas verbatim**:
+
+> *"tenemos a Anthony Green full retrosexual y full gimmick [...] aqui
+> se enfrenta a david starr, the product, alguien que viene de un
+> gimmick parecido, es como una versión madura de Green [...] se ve
+> mejor Starr así calmado, explosivo pero con tiempo [...] se merecen
+> las 3 clases."*
+
+> *"Starr está en una 4 way contra Jimmy Rave (tremenda dream match)
+> [...] Starr gana con la única king kong lariat que vale, eat your
+> heart out Moxley you fake garbage wrestle"*
+
+> *"llega la revancha Green vs Starr, ahora por el título de CZW [...]
+> la lucha se merece las 3 clases [...] una especie de cierre a la
+> carrera de Starr en CZW."*
+
+> *"David tiene que defender el título en la final del troneo contra
+> Silver, ojalá se hubiera despedido con un mejor rival, pero si
+> sacaron una buena lucha [...] esta lucha se merece las 3 clases, de
+> verdad estuvo emocionante, y es muy especial para mi como fan de
+> Starr."*
+>
+> — El Vehemiurgo, 2026-08-01 s35 (verbatim)
+
+**Lectura sintética — el arco completo, en cuatro matches de dos
+shows**:
+
+1. **Cage of Death XX (9/12/2018)**: pierde ante Anthony Greene
+   (piledriver) — **PW·FS·WE**. El Vehemiurgo lee a Greene y Starr
+   como *"the retrosexual"* y su *"versión madura"*, el mismo
+   arquetipo carny en distinto grado — y nota que **Starr rinde mejor
+   calmado y con tiempo**, contra la crítica de aceleración sin venta
+   que el archivo le había registrado en s26 y s27.
+2. **Best of the Best 18, cuarto de final (13/4/2019)**: vence en
+   4-way a **Jimmy Rave, Darius Lockhart y Joey Lynch** — **WE**. La
+   dream match con una leyenda de ROH/TNA, con el deseo declarado de
+   *"ver Rave vs Starr más"*, y la línea más filosa que el Vehemiurgo
+   ha dado en todo el corpus: *"eat your heart out Moxley you fake
+   garbage wrestle"*.
+3. **Best of the Best 18, semifinal**: vence a **Anthony Greene** por
+   sumisión y **se convierte en el 54º campeón mundial de CZW** —
+   **PW·FS·WE**, con la crítica ya fijada de que el spot del
+   *whiplash*, repetido de diciembre, no rindió igual la segunda vez.
+4. **Best of the Best 18, final**: pierde el título ante **John
+   Silver** — **PW·FS·WE**. Con reserva declarada sobre el rival
+   (*"ojalá se hubiera despedido con un mejor rival"*) y, pese a eso,
+   **la declaración de afecto personal más directa que el Vehemiurgo
+   ha hecho sobre un talento en todo el corpus**: *"es muy especial
+   para mí como fan de Starr"*.
+
+**El campeón mundial de CZW por una sola noche** — gana el título en
+la semifinal y lo pierde en la final del mismo torneo, el mismo día.
+Es el cierre exacto de la construcción que el archivo viene
+documentando desde 2017: la racha perdedora, el torneo de 2018, el
+retador constante ante MJF, y finalmente el título — sostenido apenas
+horas, en la última noche de su carrera en la casa.
+
+**Piezas de la sesión**:
+[vs Anthony Greene, Cage of Death XX](../matches/2018-12-09-anthony-greene-vs-david-starr-czw-cage-of-death-xx.md) (PW·FS·WE) ·
+[4-way con Jimmy Rave](../matches/2019-04-13-david-starr-vs-jimmy-rave-vs-darius-lockhart-vs-joey-lynch-czw-botb18.md) (WE) ·
+[vs Anthony Greene, título mundial](../matches/2019-04-13-anthony-greene-vs-david-starr-revancha-czw-botb18.md) (PW·FS·WE) ·
+[vs John Silver, final](../matches/2019-04-13-david-starr-vs-john-silver-final-czw-botb18.md) (PW·FS·WE)
+
 ## Pendientes / huecos
 
 - [ ] Su rol en el grupo con Strickland en CZW — **"JML" identificado

@@ -741,6 +741,24 @@ government."* Eso es historia del oficio, no tribuna.
 autodefinición suya**. Lo documentado es lo citado arriba en la nota
 de s29.
 
+### Sesión 2026-08-01 s35 — El what if de la Cage of Death que nunca llegó
+
+**Cita verbatim**:
+
+> *"el main event de esa noche es la cage of death, y es un what if
+> importante, MJF dejó vacante el título justo antes por una lesion en
+> el codo, así que MJF en la COD estuvo apunto de suceder, y era el
+> cierre perfecto para RSP, pero nunca se dio y Mancer reemplazó a MJF
+> esa noche. Es un dato historico,"*
+>
+> — El Vehemiurgo, 2026-08-01 s35 (verbatim)
+
+**Sin clase — registro histórico**. MJF fue despojado del título por
+lesión de codo el 29/11/2018, diez días antes de Cage of Death XX,
+donde estaba firmado para defenderlo ante RSP. **Mance Warner lo
+reemplazó** y se llevó el título. Ver
+[ficha del match](../matches/2018-12-09-mance-warner-vs-rsp-czw-cage-of-death-xx.md).
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual

@@ -125,6 +125,27 @@ Oliver.** La línea YDNB (2018) → YDNP / Bustah & The Brain (2026) es
 propia del Vehemiurgo y se registra como tal**, no como hecho
 documentado.
 
+### Sesión 2026-08-01 s35 — "En su prime": el contrapunto cronológico del "nerfeo"
+
+**Cita verbatim**:
+
+> *"Guevara vs Travis vs Myron Reed vs Jordan Oliver, la lucha se
+> merece una WE, esta época Oliver estaba en su prime, metiendole muy
+> inteligente al enterteinment."*
+>
+> — El Vehemiurgo, 2026-08-01 s35 (verbatim)
+
+**Lectura sintética**: este match es de **abril de 2019** — posterior
+al diagnóstico de *"nerfeo"* que el Vehemiurgo registró sobre Oliver
+en Cage of Death XX (diciembre de 2018). Y sin embargo lo lee acá
+*"en su prime"*. **El archivo registra la tensión sin resolverla**: no
+fue un declive lineal desde un punto fijo, sino una lectura que el
+propio Vehemiurgo no ha reconciliado explícitamente entre sesiones —
+elogio de pico en un show posterior a la fecha en que ya había fechado
+el comienzo del declive.
+
+**Pieza**: [4-way, Best of the Best 18](../matches/2019-04-13-jordan-oliver-vs-sammy-guevara-vs-myron-reed-vs-matt-travis-czw-botb18.md) (WE)
+
 ## Pendientes / huecos
 
 - [ ] **Promo post-match de Cage of Death XX**: ningún reporte de

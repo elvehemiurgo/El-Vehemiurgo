@@ -137,6 +137,25 @@ los dos herederos fieles del estilo OI4K (junto a Jake Crist).
 
 **Pieza**: [vs Zachary Wentz y Trey Miguel](../matches/2018-04-14-zachary-wentz-vs-myron-reed-trey-miguel-czw-botb17.md) (PW·FS·WE)
 
+### Sesión 2026-08-01 s35 — "Siempre fue espectacular", ratificación en Best of the Best 18
+
+**Cita verbatim**:
+
+> *"Guevara vs Travis vs Myron Reed vs Jordan Oliver, la lucha se
+> merece una WE, esta época Oliver estaba en su prime, metiendole muy
+> inteligente al enterteinment, y Myron siempre fue espectacular, el
+> mejor heredero del estilo OI4K junto con Ace Austin. La lucha se
+> merece una WE class."*
+>
+> — El Vehemiurgo, 2026-08-01 s35 (verbatim)
+
+**Lectura sintética**: ratificación directa del juicio ya sostenido en
+el archivo — Reed como uno de los dos herederos fieles del estilo
+OI4K (junto a Jake Crist en el corpus 2017, y ahora junto a **Ace
+Austin** en esta lectura de 2019).
+
+**Pieza**: [4-way, Best of the Best 18](../matches/2019-04-13-jordan-oliver-vs-sammy-guevara-vs-myron-reed-vs-matt-travis-czw-botb18.md) (WE)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, edad.

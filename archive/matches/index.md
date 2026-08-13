@@ -307,6 +307,13 @@ con cada cambio de estado.
 | 2022-03-06 | CM Punk vs MJF — Dog Collar Match | AEW / Revolution 2022 | — | en-investigacion | 1 | [→](2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md) |
 | 2021-11-13 | Hangman Adam Page vs Kenny Omega — AEW World Heavyweight Championship | AEW / Full Gear 2021 | — | en-investigacion | 1 | [→](2021-11-13-hangman-adam-page-vs-kenny-omega-aew-full-gear-2021.md) |
 | 2019-05-03 | Dragon Lee vs Taiji Ishimori | NJPW (New Japan Pro Wrestling) / Wrestling Dontaku 2019 | — | en-investigacion | 1 | [→](2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) |
+| 2019-04-13 | David Starr vs John Silver | CZW / Best of the Best 18 | PW·FS·WE | en-investigacion | 1 | [→](2019-04-13-david-starr-vs-john-silver-final-czw-botb18.md) |
+| 2019-04-13 | Anthony Greene vs David Starr (revancha) | CZW / Best of the Best 18 | PW·FS·WE | en-investigacion | 1 | [→](2019-04-13-anthony-greene-vs-david-starr-revancha-czw-botb18.md) |
+| 2019-04-13 | Jordan Oliver vs Sammy Guevara vs Myron Reed vs Matt Travis | CZW / Best of the Best 18 | WE | en-investigacion | 1 | [→](2019-04-13-jordan-oliver-vs-sammy-guevara-vs-myron-reed-vs-matt-travis-czw-botb18.md) |
+| 2019-04-13 | David Starr vs Jimmy Rave vs Darius Lockhart vs Joey Lynch | CZW / Best of the Best 18 | WE | en-investigacion | 1 | [→](2019-04-13-david-starr-vs-jimmy-rave-vs-darius-lockhart-vs-joey-lynch-czw-botb18.md) |
+| 2018-12-09 | Mance Warner vs Rickey Shane Page | CZW / Cage of Death XX | — | en-investigacion | 1 | [→](2018-12-09-mance-warner-vs-rsp-czw-cage-of-death-xx.md) |
+| 2018-12-09 | Shane Strickland vs John Silver vs Rich Swann | CZW / Cage of Death XX | FS·WE | en-investigacion | 1 | [→](2018-12-09-strickland-vs-silver-vs-swann-czw-cage-of-death-xx.md) |
+| 2018-12-09 | Anthony Greene vs David Starr | CZW / Cage of Death XX | PW·FS·WE | en-investigacion | 1 | [→](2018-12-09-anthony-greene-vs-david-starr-czw-cage-of-death-xx.md) |
 | 2018-12-09 | Jordan Oliver vs KC Navarro | CZW / Cage of Death XX | PW·FS·WE | en-investigacion | 1 | [→](2018-12-09-jordan-oliver-vs-kc-navarro-czw-cage-of-death-xx.md) |
 | 2018-10-13 | MJF vs David Starr | CZW / Better Than Our Best | PW·FS·WE | en-investigacion | 1 | [→](2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) |
 | 2018-09-08 | Blackwater vs Ace Austin vs KC Navarro vs Jordan Oliver | CZW / Down With the Sickness | — | en-investigacion | 1 | [→](2018-09-08-4-way-wired-blackwater-gana-czw-dwts.md) |

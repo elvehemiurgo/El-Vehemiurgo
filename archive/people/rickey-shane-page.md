@@ -163,6 +163,27 @@ que el rival físico.
 [con Alex Colon, vs Claxton & MJF](../matches/2018-03-10-colon-rsp-vs-claxton-mjf-czw-proving-grounds.md) (WE) ·
 [vs MJF, pierde el título mundial](../matches/2018-04-14-mjf-vs-rickey-shane-page-czw-botb17.md) (PW·FS·WE)
 
+### Sesión 2026-08-01 s35 — El pago negado por tercera vez, registrado como *what if*
+
+**Cita verbatim**:
+
+> *"el main event de esa noche es la cage of death, y es un what if
+> importante, MJF dejó vacante el título justo antes por una lesion en
+> el codo, así que MJF en la COD estuvo apunto de suceder, y era el
+> cierre perfecto para RSP, pero nunca se dio y Mancer reemplazó a MJF
+> esa noche. Es un dato historico,"*
+>
+> — El Vehemiurgo, 2026-08-01 s35 (verbatim)
+
+**Sin clase — registro histórico.** El Vehemiurgo confirma
+explícitamente lo que el archivo ya venía leyendo: la Cage of Death
+XX **"era el cierre perfecto para RSP"** de su arco de persecución del
+título mundial, negado por una lesión ajena — la tercera vez que el
+payoff no llega (Best of the Best 17, Tournament of Death 17, y ahora
+esto). Pierde también ante el reemplazo, **Mance Warner**.
+
+**Pieza**: [vs Mance Warner](../matches/2018-12-09-mance-warner-vs-rsp-czw-cage-of-death-xx.md) (sin clase declarada)
+
 ## Pendientes / huecos
 
 - [ ] Confirmación por fuente del cash-in de CZW 2017.
