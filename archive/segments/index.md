@@ -24,6 +24,7 @@ cada alta y con cada cambio de estado.
 | 2026-08-07 | Chelsea Green y Tiffany Stratton — brindis interrumpido por Fatal Influence | WWE / SmackDown | promo / celebración interrumpida | WE | en-investigacion | 1 | [→](2026-08-07-chelsea-green-tiffany-stratton-fatal-influence-wwe-smackdown.md) |
 | 2026-08-07 | Kevin Owens y CM Punk — cara a cara de retador y campeón | WWE / SmackDown | cara a cara / promo | WE | en-investigacion | 1 | [→](2026-08-07-kevin-owens-cm-punk-cara-a-cara-wwe-smackdown.md) |
 | 2026-08-07 | Cody Rhodes — sospecha de alianza Punk/Orton | WWE / SmackDown | promo / confrontación | WE | en-investigacion | 1 | [→](2026-08-07-cody-rhodes-sospecha-punk-orton-wwe-smackdown.md) |
+| 2026-08-05 | MJF embosca a Andrade y reclama que le robaron el main event de Wembley | AEW / Grand Slam Mexico | ambush + promo in-ring | — | en-investigacion | 1 | [→](2026-08-05-mjf-embosca-andrade-main-event-robado-aew-gsm.md) |
 | 2026-08-04 | Grayson Waller — tres beats con Kelani Jordan, Mason Rook y Kam Hendrix | WWE / NXT | backstage / fricción encadenada | WE | en-investigacion | 1 | [→](2026-08-04-grayson-waller-kelani-mason-kam-wwe-nxt.md) |
 | 2026-08-04 | Grayson Waller, Tony D'Angelo y Cruz Montana — continuación | WWE / NXT | promo / confrontación | WE | en-investigacion | 1 | [→](2026-08-04-grayson-waller-tony-dangelo-cruz-montana-continuacion-wwe-nxt.md) |
 | 2026-08-04 | Video de apertura — recap de la promo de Grayson Waller | WWE / NXT | video package | WE | en-investigacion | 1 | [→](2026-08-04-video-opener-grayson-waller-wwe-nxt.md) |
@@ -39,6 +40,9 @@ cada alta y con cada cambio de estado.
 | 2026-07-31 | Recap de house show (Cody/Punk) y Trick Williams interrumpe a Punk | WWE / SmackDown | recap + interrupción backstage | WE | en-investigacion | 1 | [→](2026-07-31-house-show-recap-trick-williams-interrumpe-punk-wwe-smackdown.md) |
 | 2026-07-31 | Haku aparece — emboscada de Tama y Talla Tonga | WWE / SmackDown | angle / emboscada | — | en-investigacion | 1 | [→](2026-07-31-haku-emboscada-tonga-wwe-smackdown.md) |
 | 2026-07-31 | Sami Zayn y Finn Bálor — promos de hype de cara a SummerSlam | WWE / SmackDown | promo en ring | — | en-investigacion | 1 | [→](2026-07-31-sami-zayn-finn-balor-promo-hype-wwe-smackdown.md) |
+| 2026-07-30 | El segmento y brawl entre Kyle Fletcher y Mike Bailey — se derrama al ring | AEW / Collision | entrevista + brawl | WE | en-investigacion | 1 | [→](2026-07-30-fletcher-bailey-brawl-aew-collision.md) |
+| 2026-07-30 | The Dogs emboscan al Bang Bang Gang — Motor City Machine Guns hacen el save | AEW / Collision | post-match / brawl | WE | en-investigacion | 1 | [→](2026-07-30-dogs-emboscan-guns-mcmg-salva-aew-collision.md) |
+| 2026-07-30 | Regreso de Motor City Machine Guns | AEW / Collision | promo in-ring / debut de firma | WE | en-investigacion | 1 | [→](2026-07-30-mcmg-regreso-aew-collision.md) |
 | 2026-07-29 | Kenny Omega abofetea a Ospreay — el shift heel que salva el arco, hacia Wembley | AEW / Dynamite | promo in-ring / confrontación | WE | en-investigacion | 1 | [→](2026-07-29-kenny-omega-ospreay-segmento-aew-dynamite.md) |
 | 2026-07-29 | Mick Foley con Bang Bang Gang: los Gunns retan a The Dogs y Death Riders para Collision | AEW / Dynamite | promo in-ring | WE | en-investigacion | 1 | [→](2026-07-29-mick-foley-gunns-promo-aew-dynamite.md) |
 | 2026-07-29 | Mark Davis reta a Ospreay para Grand Slam Mexico | AEW / Dynamite | promo in-ring | WE | en-investigacion | 1 | [→](2026-07-29-mark-davis-promo-aew-dynamite.md) |

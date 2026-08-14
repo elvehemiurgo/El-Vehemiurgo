@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kyle-fletcher
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
 tags: [kyle-fletcher, aussie-open, don-callis-family-verif, aew, primer-registro, turn-babyface-takeshita]
@@ -132,6 +132,33 @@ y
 oficio consolidado ("levanta cualquier lucha"), pagando el build
 vendido en su promo del 15/7. Ver
 [`../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md`](../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md).
+
+### Sesión 2026-08-01 s37 — El brawl que se ganó su main event, y el clásico instantáneo
+
+**Citas verbatim**:
+
+> *"el segmento y brawl entre Fletcher y Bayley [...] Fletcher siempre
+> saca lo mejor de sus rivales, hace ver real a cualquier rival. todo
+> este segmento se merece una WE class"*
+
+> *"Fletcher vs Bayley fue un clásico instantaneo [...] se merece las 3
+> clases, fue muy cardiaca"*
+>
+> — El Vehemiurgo, 2026-08-01 s37 (verbatim)
+
+**Lectura sintética**: el elogio recurrente sobre Fletcher —*"siempre
+saca lo mejor de sus rivales"*, ya registrado en s36 sobre el
+six-man de Dynamite— se ratifica dos veces más en la misma semana
+narrativa: el brawl de Collision (**WE**) y el título Internacional en
+juego en Grand Slam Mexico (**PW·FS·WE**, *"clásico instantáneo"*,
+16:40). El arco completo —Collision siembra, Grand Slam Mexico paga—
+es uno de los ejemplos más limpios del archivo de **booking de reloj
+corto bien ejecutado**.
+
+**Piezas de la sesión**:
+[brawl con Mike Bailey](../segments/2026-07-30-fletcher-bailey-brawl-aew-collision.md) (WE) ·
+[vs Mike Bailey, título Internacional](../matches/2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md) (PW·FS·WE)
+
 
 ## Pendientes / huecos
 

@@ -9,6 +9,7 @@ fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s29 (fundación + roster inaugural completo)"
   - "Volcado Vehemiurgo 2026-08-01 s30 (segunda tanda: Oliver, Xavier, Wentz, EYFBO)"
   - "Volcado Vehemiurgo 2026-08-01 s31 y s32 (fallo Chris Hero: sale del Tier 0, queda en esta lista)"
+  - "Volcado Vehemiurgo 2026-08-01 s37 (tercera tanda: Jay Lethal)"
   - "Sub-agente death-gods-roster (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
 tags: [death-gods-of-wrestling, lista-oficial, danny-havoc, brandon-kirk, jordan-oliver, eyfbo, deathmatch, czw, icw-escocia, indie-britanico, vehemiurgia-czw]
 ---
@@ -194,9 +195,10 @@ con el par **Gunther / Cesaro** que el Vehemiurgo formuló en s29 — el
 Hero queda del lado de Cesaro, con la diferencia de que acá el
 Vehemiurgo lo lee como **rechazo voluntario**, no como inercia.
 
-## Roster vigente — **13 entradas**
+## Roster vigente — **14 entradas**
 
-*9 fundacionales (s29) + 4 de la segunda tanda (s30). Sin bajas.*
+*9 fundacionales (s29) + 4 de la segunda tanda (s30) + 1 alta s37. Sin
+bajas.*
 
 | Death God | Escena | Estado |
 |---|---|---|
@@ -213,8 +215,29 @@ Vehemiurgo lo lee como **rechazo voluntario**, no como inercia.
 | **Dezmond Xavier** | CZW → TNA → WWE → AEW | Activo |
 | **Zachary Wentz** | CZW → TNA → AEW | Activo |
 | **EYFBO** *(tag team)* | Indie NY → CZW → Impact | Separados (2024) |
+| **Jay Lethal** | ROH → TNA → AEW | Activo |
 
 **Bajas**: ninguna. *(Chris Hero fue dado de baja del **Tier 0 del panteón** en s32 y quedó como miembro pleno de esta lista — ver el fallo arriba.)*
+
+## Tercera tanda — 2026-08-01 s37 (1 alta)
+
+**Cita verbatim** (AEW Collision, 30/7/2026, sobre su match ante
+Komander):
+
+> *"Jay Lethal le sacó una gran lucha a komander, Jay es una leyenda,
+> pongamoslo en la lista de death gods, y lethal hizo ver muy real a
+> komander, me gustó se merece todas las clases, es un lujo ver a
+> lethal con todo el repertorio y el strut asi en 2026, fue genial."*
+>
+> — El Vehemiurgo, 2026-08-01 s37 (verbatim)
+
+**Lectura**: primera alta desde un contexto **ajeno al corpus CZW** —
+las trece entradas anteriores nacieron todas de VEHEMIURGIA: CZW
+2017-2018 o de su continuidad directa. Lethal entra por **visionado en
+vivo de AEW 2026**, con el mismo criterio de fidelidad de oficio:
+*"todo el repertorio y el strut así en 2026"* — un veterano sosteniendo
+intacto un gimmick heredado (el *strut* de Ric Flair) en pleno
+presente.
 
 ## Observación de composición (lectura del copiloto, no declarada)
 
@@ -222,9 +245,10 @@ El roster cruza **cuatro escenas que no comparten estilo**: el
 **deathmatch americano de CZW** (Havoc, Kirk, Claxton), el **indie
 escocés de ICW** (Lionheart, Girvan), el **indie británico de
 PROGRESS/DDT** (Brookes, Lykos), y la **camada highspeed americana**
-(Oliver, Xavier, Wentz, EYFBO), más dos casos de alcance mayor (Grace, Hero).
-**Dos de los trece están fallecidos** (Havoc y Lionheart) y un tercero
-está retirado (Kirk).
+(Oliver, Xavier, Wentz, EYFBO), más tres casos de alcance mayor
+(Grace, Hero, Lethal).
+**Dos de los catorce están fallecidos** (Havoc y Lionheart) y un
+tercero está retirado (Kirk).
 
 *Esta observación no se atribuye al Vehemiurgo — él declaró el
 criterio y los nombres, no una tesis sobre la composición del

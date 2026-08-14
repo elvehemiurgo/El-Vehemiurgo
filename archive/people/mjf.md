@@ -759,6 +759,39 @@ donde estaba firmado para defenderlo ante RSP. **Mance Warner lo
 reemplazó** y se llevó el título. Ver
 [ficha del match](../matches/2018-12-09-mance-warner-vs-rsp-czw-cage-of-death-xx.md).
 
+### Sesión 2026-08-01 s37 — "El main event robado": MJF reclama Wembley
+
+**Cita verbatim**:
+
+> *"MJF toma el micrófono y hace un check up de toda la escena,
+> entierra a Omega y Ospreay como se merecen, y la verdadera historia
+> aquí es el main event robado de MJF, le robaron el main event de
+> Wembley, esa es la verdadera historia para el título mundial."*
+>
+> — El Vehemiurgo, 2026-08-01 s37 (verbatim)
+
+**Sin clase declarada al segmento.** **Lectura sintética**: research
+confirma el contenido — MJF sostiene que tenía a **Kenny Omega
+vencido** en su match titular de Beach Break hasta que **Will Ospreay
+se metió**, de ahí que llame a Omega *"campeón de papel"* con un
+*"cinturón de juguete"*, y al Omega vs Ospreay de All In un *"fake main
+event"*. Anuncia su entrada al calificatorio del Casino Gauntlet.
+
+**Cruce con el arco crítico externo del archivo**: la tesis de MJF
+dentro de la ficción —que le robaron un lugar que le correspondía— es
+la **misma objeción de fondo** que el Vehemiurgo viene sosteniendo
+desde afuera sobre el booking de Death Riders desde s10 (ficha de
+Ospreay). El heel articula en pantalla el reclamo que el crítico hace
+desde la butaca.
+
+**"Una rivalidad con MJF no puede salir mal, siempre eleva"** —
+ratificación directa de la tesis más repetida del archivo sobre él,
+esta vez aplicada a **Andrade El Ídolo**, a quien la emboscada le da
+*"la mejor oportunidad que ha tenido en TV en USA"*.
+
+**Pieza**: [emboscada a Andrade](../segments/2026-08-05-mjf-embosca-andrade-main-event-robado-aew-gsm.md) (sin clase declarada)
+
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual

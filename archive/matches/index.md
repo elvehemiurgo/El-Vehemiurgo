@@ -24,6 +24,9 @@ con cada cambio de estado.
 | 2026-08-08 | Lady Shani vs Flammer vs La Catalina | AAA / Verano De Escándalo (Semana 3) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-08-shani-vs-flammer-vs-catalina-aaa-verano-3.md) |
 | 2026-08-08 | El Fiscal vs Psycho Clown vs Cruz Del Toro | AAA / Verano De Escándalo (Semana 3) | WE | en-investigacion | 1 | [→](2026-08-08-el-fiscal-vs-psycho-clown-vs-cruz-del-toro-aaa-verano-3.md) |
 | 2026-08-07 | Fallon Henley & Lainey Reid (c) vs Chelsea Green & Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-07-fallon-henley-lainey-reid-vs-chelsea-green-tiffany-stratton-wwe-smackdown.md) |
+| 2026-08-05 | Kyle Fletcher vs Mike Bailey | AEW / Grand Slam Mexico | PW·FS·WE | en-investigacion | 1 | [→](2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md) |
+| 2026-08-05 | Andrade El Ídolo vs Tommaso Ciampa vs Komander | AEW / Grand Slam Mexico | WE | en-investigacion | 1 | [→](2026-08-05-andrade-vs-ciampa-vs-komander-national-aew-gsm.md) |
+| 2026-08-05 | Christian Cage, Edge & The Young Bucks vs The Death Riders | AEW / Grand Slam Mexico | WE | en-investigacion | 1 | [→](2026-08-05-christian-cope-young-bucks-vs-death-riders-aew-gsm.md) |
 | 2026-08-04 | Nikkita Lyons & Karmen Petrovic vs Jaida Parker & Thea Hail | WWE / NXT | WE | en-investigacion | 1 | [→](2026-08-04-nikkita-lyons-karmen-petrovic-vs-jaida-parker-thea-hail-wwe-nxt.md) |
 | 2026-08-03 | Chad Gable & Penta vs Dominik Mysterio & JD McDonagh | WWE / Monday Night Raw | WE | en-investigacion | 1 | [→](2026-08-03-chad-gable-penta-vs-dominik-mysterio-jd-mcdonagh-wwe-raw.md) |
 | 2026-08-03 | Roxanne Perez vs Sol Ruca | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-03-roxanne-perez-vs-sol-ruca-wwe-raw.md) |
@@ -40,6 +43,10 @@ con cada cambio de estado.
 | 2026-08-01 | La Parka vs Mecha Wolf vs Lince Dorado | AAA / Verano de Escándalo (Noche 2) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-01-la-parka-vs-mecha-wolf-vs-lince-dorado-aaa-verano-de-escandalo.md) |
 | 2026-07-31 | Giulia vs Lash Legend | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-31-giulia-vs-lash-legend-wwe-smackdown.md) |
 | 2026-07-31 | Rey Fénix vs JD McDonagh | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-31-rey-fenix-vs-jd-mcdonagh-wwe-smackdown.md) |
+| 2026-07-30 | Jay Lethal vs Komander | AEW / Collision | PW·FS·WE | en-investigacion | 1 | [→](2026-07-30-jay-lethal-vs-komander-aew-collision.md) |
+| 2026-07-30 | Bang Bang Gang vs The Death Riders | AEW / Collision | PW·FS·WE | en-investigacion | 1 | [→](2026-07-30-bang-bang-gang-vs-death-riders-aew-collision.md) |
+| 2026-07-30 | Hazuki & The Brawling Birds vs Athena, Billie Starkz & Diamante | AEW / Collision | WE | en-investigacion | 1 | [→](2026-07-30-hazuki-brawling-birds-vs-athena-starkz-diamante-aew-collision.md) |
+| 2026-07-30 | The Demand vs The Rascalz | AEW / Collision | FS·WE | en-investigacion | 1 | [→](2026-07-30-rascalz-vs-the-demand-trios-aew-collision.md) |
 | 2026-07-29 | Maya World vs Persephone | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-29-maya-world-vs-persephone-tbs-aew-dynamite.md) |
 | 2026-07-29 | Kyle Fletcher, Brian Cage & Jake Doyle vs Mike Bailey, Brody King & Bandido | AEW / Dynamite | WE | en-investigacion | 1 | [→](2026-07-29-fletcher-doyle-cage-vs-brodido-bailey-aew-dynamite.md) |
 | 2026-07-29 | Jon Moxley vs Komander | AEW / Dynamite | — | en-investigacion | 1 | [→](2026-07-29-jon-moxley-vs-komander-aew-dynamite.md) |
