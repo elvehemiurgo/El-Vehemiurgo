@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: will-ospreay
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026"
   - "Multiple retrospectivas Cornette critical + Meltzer favorable"
@@ -314,6 +314,61 @@ post-match y paralelismo con AJ Styles. Ver
 [`../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md`](../matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md)
 y
 [`../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md`](../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md).
+
+### Sesión 2026-08-01 s36 — Dynamite post-Redemption: el redcon deliberado, y "el Will que necesitamos"
+
+**Contexto**: primer Dynamite tras el payoff de Redemption (s46). El
+Vehemiurgo declara un método editorial explícito: **decide borrar el
+mal booking de Death Riders de su memoria de análisis** para poder
+evaluar el presente sin ese lastre — no como negación, sino como
+gestión consciente de qué material vale la pena seguir cargando.
+
+**Cita verbatim** (apertura):
+
+> *"la tonteria de booking con Moxley [...] si redconeas todo, y
+> retomas desde Kenny atacando a Ospreay al final de Redemption, y te
+> quedas con la desconfianza entre Kenny y Will como combustible [...]
+> entonces si me esfuerzo por borrar el mal booking de mi mente, puede
+> empezar a disfrutar a Ospreay como face solitario rumb a Wembley."*
+
+**Cita verbatim** (segmento con Kenny Omega):
+
+> *"incluso en esta promo Will resta porque solo habla de que extraña
+> a los death ryders, así alucinando, porque lo cuenta todo
+> romantizado, cuando en realidad fue programación aburrida [...] que
+> ganas de convertir a Will en mark de Moxley, cada episodio se me baja
+> más la percepción de él gracias al booking [...] pero el Will del
+> final de este segmento, este Will es el que necesitamos."*
+>
+> — El Vehemiurgo, 2026-08-01 s36 (verbatim)
+
+**Lectura sintética**:
+
+- **El redcon como cierre operativo del arco crítico sostenido desde
+  s10**: el Vehemiurgo no reescribe el juicio de fondo (*"la tontería
+  de booking"* sigue siendo tontería) — **decide dejar de usarlo como
+  filtro de lectura** del presente. Es la primera vez que el archivo
+  documenta el mecanismo de la crítica, no solo su contenido.
+- **La reserva reaparece dentro del propio segmento con Omega**: cuando
+  Ospreay habla con nostalgia de Death Riders, el Vehemiurgo se niega
+  a dejarlo pasar — *"que ganas de convertir a Will en mark de
+  Moxley"* es la frase más dura que le ha dedicado en todo el corpus.
+  El redcon declarado en la apertura **no es una licencia
+  incondicional**: si el propio personaje reintroduce la nostalgia por
+  el arco fallido, la crítica vuelve.
+- **Y el personaje se recupera dentro de la misma pieza**: *"el Will
+  del final de este segmento, este Will es el que necesitamos"* — el
+  archivo registra que el arco puede fallar y recuperarse en el mismo
+  bloque, sin que eso invalide la WE class otorgada al conjunto.
+- **La proyección hacia Wembley queda formulada con precisión de
+  causa**: *"mucho más interesante que cualquier cosa que hayan
+  intentado para forzar a Moxley"* — Omega vs Ospreay, confirmado como
+  main event de AEW All In: London, se lee como la prueba de que el
+  interés real nunca necesitó el andamiaje de Death Riders.
+
+**Piezas de la sesión**:
+[apertura, ruptura formal con Death Riders](../segments/2026-07-29-apertura-ospreay-death-riders-aew-dynamite.md) (sin clase — nota de método) ·
+[segmento con Kenny Omega](../segments/2026-07-29-kenny-omega-ospreay-segmento-aew-dynamite.md) (WE)
 
 ## Pendientes
 

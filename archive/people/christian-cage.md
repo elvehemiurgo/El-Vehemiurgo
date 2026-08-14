@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: christian-cage
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 1 'Christian Cage como héroe fundamental'"
   - "Dossieres TNA 2007 + WWE Raw 2004-2005 + WWE SmackDown 2002 + WWE MITB 2013 + AEW 2026"
@@ -311,6 +311,25 @@ veteranía.
 Christian Cage como héroe fundamental Vehemiurgia"** con las
 5 fases cross-linkeadas + doctrina vehículo vs facción
 evolucionando + análisis sustentado por dossieres existentes.
+
+### Sesión 2026-08-01 s36 — "Con dos frases los revuelca y expone"
+
+**Cita verbatim**:
+
+> *"Christian se deboro a todos, que es eso de hablar dando pena [...]
+> Christian los expuso, les dujo 'me parece que estas tratando de
+> convencerte a ti mismo' [...] Christian con dos frases los revuelca y
+> expone; CHristian y solo Christian se merece una WE class por su
+> performance aqui"*
+>
+> — El Vehemiurgo, 2026-08-01 s36 (verbatim)
+
+**WE class — declarada explícita y restringida a Christian**, dentro
+de un sit-down con Edge y los Young Bucks que el Vehemiurgo calificó
+de decepcionante en conjunto. Precedente poco común: la clase se le
+otorga a **una sola actuación dentro de una pieza colectiva débil**.
+Ver [ficha del segmento](../segments/2026-07-29-christian-cope-young-bucks-aew-dynamite.md).
+
 
 ## Pendientes / huecos
 

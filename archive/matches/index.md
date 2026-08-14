@@ -40,6 +40,9 @@ con cada cambio de estado.
 | 2026-08-01 | La Parka vs Mecha Wolf vs Lince Dorado | AAA / Verano de Escándalo (Noche 2) | PW·FS·WE | en-investigacion | 1 | [→](2026-08-01-la-parka-vs-mecha-wolf-vs-lince-dorado-aaa-verano-de-escandalo.md) |
 | 2026-07-31 | Giulia vs Lash Legend | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-31-giulia-vs-lash-legend-wwe-smackdown.md) |
 | 2026-07-31 | Rey Fénix vs JD McDonagh | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-07-31-rey-fenix-vs-jd-mcdonagh-wwe-smackdown.md) |
+| 2026-07-29 | Maya World vs Persephone | AEW / Dynamite | PW·FS·WE | en-investigacion | 1 | [→](2026-07-29-maya-world-vs-persephone-tbs-aew-dynamite.md) |
+| 2026-07-29 | Kyle Fletcher, Brian Cage & Jake Doyle vs Mike Bailey, Brody King & Bandido | AEW / Dynamite | WE | en-investigacion | 1 | [→](2026-07-29-fletcher-doyle-cage-vs-brodido-bailey-aew-dynamite.md) |
+| 2026-07-29 | Jon Moxley vs Komander | AEW / Dynamite | — | en-investigacion | 1 | [→](2026-07-29-jon-moxley-vs-komander-aew-dynamite.md) |
 | 2026-07-27 | Raquel Rodríguez vs Sol Ruca | WWE / Monday Night Raw | FS·WE | en-investigacion | 1 | [→](2026-07-27-raquel-rodriguez-vs-sol-ruca-wwe-raw.md) |
 | 2026-07-27 | Ethan Page vs Rey Mysterio | WWE / Monday Night Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-07-27-ethan-page-vs-rey-mysterio-wwe-raw.md) |
 | 2026-07-26 | Kevin Knight vs Kenny Omega | AEW / Redemption | PW·FS·WE | en-investigacion | 1 | [→](2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md) |

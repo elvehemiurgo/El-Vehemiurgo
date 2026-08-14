@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kenny-omega
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
 tags: [kenny-omega, tyson-smith, the-cleaner, the-elite, bullet-club-leader, njpw-okada-saga, aew-founding-evp, primer-aew-world-champion, one-winged-angel, acto-polarizante-vehemiurgia, frikismo-videojuegos-critica-doctrinal, meltzer-school-workrate-first-opuesto-editorial]
@@ -188,6 +188,30 @@ declarada desde el promo video previo (s24: "la lucha seguro va a
 estar buena") — aunque el protagonismo editorial de la sesión
 recae enteramente en ZSJ (alta al panteón). Ver
 [`../matches/2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md`](../matches/2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md).
+
+### Sesión 2026-08-01 s36 — "Mejor como heel en el mic": el turn que reemplaza a Moxley
+
+**Cita verbatim**:
+
+> *"Omega es mejor como heel en el mic, este sería un buen turn ya que
+> no hay mjf, un run con the cleaner para enfrentar a Ospreay en
+> Wembley, les quedó un segmento cool, mucho más interesante que
+> cualquier cosa que hayan intentado para forzar a Moxley [...] Kenny
+> lo hizo cool [...] cada bofetada de Kenny representa cada decepción
+> de este booking idiota forzado por Moxley."*
+>
+> — El Vehemiurgo, 2026-08-01 s36 (verbatim)
+
+**WE class** al segmento completo con Ospreay. **Lectura sintética**:
+el Vehemiurgo identifica un **casting de gimmick invertido que
+funciona mejor** — Omega como heel de micrófono, llenando el vacío que
+deja la ausencia de MJF en el mapa de AEW. La sugerencia de *"un run
+con The Cleaner"* conecta con su gimmick histórico. Registrado como el
+arco que **reemplaza con éxito** el experimento fallido de Death
+Riders — ver
+[ficha del match/segmento](../segments/2026-07-29-kenny-omega-ospreay-segmento-aew-dynamite.md)
+y la lectura paralela en la [ficha de Ospreay](./will-ospreay.md).
+
 
 ## Pendientes / huecos
 
