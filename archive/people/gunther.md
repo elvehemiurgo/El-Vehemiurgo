@@ -278,6 +278,21 @@ suplex), sobrevive un near fall del Rough Ryder tras un low blow, y
 en TD Garden— hasta el tap out. Ver
 [`../matches/2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md`](../matches/2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s39 — Cruce backstage con Finn Bálor: "solo su sombra"
+
+**Contexto**: SmackDown, 14/8/2026 — tercera pieza de su noche, tras
+escalar el segmento de la lesión de Chelsea Green y vencer a Cardona.
+Interrumpe a Bálor y Nick Aldis quejándose de haber tenido que luchar
+**en street clothes**, y le dice a Bálor que ya no lo ve a él, **"solo
+su sombra"**; Bálor lo llama *"condescending prick"*. Ambos sin título
+tras caer en el fatal 4-way de SummerSlam.
+
+**Lectura sintética**: **WE** para el segmento (a ambos), otorgada por
+contraposición al segmento de Kevin Owens de la misma noche — *"nada
+de estar llorando como Owens"*. Detalle carny que aporta el research:
+**usa su propia victoria como queja**. Ver
+[`../segments/2026-08-14-gunther-finn-balor-backstage-wwe-smackdown.md`](../segments/2026-08-14-gunther-finn-balor-backstage-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo

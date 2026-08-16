@@ -12,6 +12,9 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-14 | Cody Rhodes y Randy Orton — el brawl que cancela el contendiente #1 | WWE / SmackDown | emboscada / brawl de cierre | WE | en-investigacion | 1 | [→](2026-08-14-brawl-cody-rhodes-randy-orton-wwe-smackdown.md) |
+| 2026-08-14 | Gunther y Finn Bálor — cruce backstage tras SummerSlam | WWE / SmackDown | promo / confrontación backstage | WE | en-investigacion | 1 | [→](2026-08-14-gunther-finn-balor-backstage-wwe-smackdown.md) |
+| 2026-08-14 | CM Punk y Kevin Owens — segundo cara a cara, una semana antes del first time ever | WWE / SmackDown | promo / cara a cara in-ring | WE | en-investigacion | 1 | [→](2026-08-14-cm-punk-kevin-owens-segmento-in-ring-wwe-smackdown.md) |
 | 2026-08-14 | Nia Jax y Lash Legend amenazan a Chelsea Green — Tiffany Stratton atacada antes de su título | WWE / SmackDown | confrontación / ataque backstage-ringside | WE | en-investigacion | 1 | [→](2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md) |
 | 2026-08-14 | Chelsea Green y Nick Aldis — la lesión del hueso orbital, con Gunther escalando el segmento | WWE / SmackDown | promo de apertura / angle de lesión | WE | en-investigacion | 1 | [→](2026-08-14-chelsea-green-nick-aldis-gunther-lesion-orbital-wwe-smackdown.md) |
 | 2026-08-11 | Grayson Waller alienta a Saquon Shugars a vengarse de Dark State en la sala médica | WWE / NXT | backstage / sala médica | WE | en-investigacion | 1 | [→](2026-08-11-grayson-waller-rub-saquon-shugars-medica-nxt.md) |

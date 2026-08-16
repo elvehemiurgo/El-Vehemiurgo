@@ -6,7 +6,7 @@ slug: smackdown-140826-continuacion
 contexto: "WWE SmackDown (14/8/2026) — resto del card: el fumble de Kevin Owens ante CM Punk, Gunther/Bálor, Jacy Jayne corona, y el brawl Cody/Orton"
 shows_cubiertos:
   - "WWE SmackDown (14/8/2026) — continuación"
-estado: en-investigacion
+estado: verificado
 ultima_actualizacion: 2026-08-01
 ---
 
@@ -72,16 +72,68 @@ Punk**. Suma la coronación de Jacy Jayne y el brawl Cody/Orton.
 
 ---
 
-## Takes por tópico — pendiente de research
+## Takes por tópico — resueltos por research
 
-*Se completa tras el research delegado.*
+| Pieza | Resultado | Clases |
+|---|---|---|
+| CM Punk y Kevin Owens, segmento in-ring | — | **WE** (solo a Punk) |
+| Gunther y Finn Bálor, backstage | — | **WE** |
+| Tiffany Stratton vs Jacy Jayne, Women's US Championship | **gana Jayne — nueva campeona** (Rolling Encore) | **FS · WE** |
+| Brawl Cody Rhodes / Randy Orton | cancela el match de contendiente #1 | **WE** |
 
-| Pieza | Clases provisionales |
-|---|---|
-| CM Punk y Kevin Owens, segmento in-ring | **WE** (solo a Punk) |
-| Gunther y Finn Bálor, segmento | **WE** |
-| Tiffany Stratton vs Jacy Jayne, Women's US Championship | **FS · WE** |
-| Brawl Cody Rhodes / Randy Orton | **WE** |
+**Correcciones y hallazgos clave de research**:
+
+1. **El "ponte más específico" está confirmado, con otro disparador**:
+   Punk lo dice cuando Owens afirma que maltrata a sus amigos —
+   *"Oh, which ones? Think you're going to have to be a little more
+   specific"*, sobre **cuáles amigos**, no sobre ROH. La sustancia de
+   la lectura del Vehemiurgo se sostiene: Owens hablaba en vago y Punk
+   le exigió concreción en cámara.
+2. **La ironía que el archivo ya tenía documentada**: el agravio de
+   ROH que Owens no nombró con precisión **tiene fecha y detalle** en
+   el dossier propio — el **T-Shirt Incident, ROH Stalemate,
+   16/4/2005**. El material específico existía y Owens fue en vago.
+3. **"Rivalidad generacional" es encuadre propio del Vehemiurgo**, no
+   de la prensa: son contemporáneos de la misma era indie. La
+   jerarquía sí era real (Punk top guy y head trainer; Steen rookie).
+   Se preserva como tesis del Vehemiurgo, marcada.
+4. **Discrepancia de kayfabe registrada**: Punk dice haberlo conocido
+   en **2006**, pero el récord lo ubica fuera de ROH desde agosto de
+   2005.
+5. **Gunther/Bálor fue backstage**, no in-ring, con **Nick Aldis**
+   presente. Gunther usa su propia victoria como queja (*"me hicieron
+   luchar en street clothes"*) y llama a Bálor **"solo su sombra"**;
+   Bálor responde **"condescending prick"**. Ambos sin título; **sin
+   match anunciado**.
+6. **El finish de Tiffany vs Jacy confirma literalmente la lectura del
+   Vehemiurgo**: Stratton elige salvar a Chelsea Green con un
+   crossbody sobre Henley y Reid en vez de rematar, y al volver come
+   el Rolling Encore. *"Pierde su título en parte por ayudar a
+   Chelsea"* es el mecanismo, no una interpretación.
+7. **El backbreaker NO está confirmado como botch**: research lo
+   reporta como spot bookeado durante el corte comercial (Reid
+   distrae, Jacy manda a Stratton de cara al top turnbuckle). Se
+   preserva la lectura del Vehemiurgo, marcada frente a la fuente.
+8. **La rivalidad Tiffany/Jacy lleva cuatro capítulos en 2026**, no
+   dos.
+9. **Fatal Influence queda con las tres integrantes con oro** tras
+   esta coronación.
+10. **El brawl canceló el match Cody vs Sami Zayn** por la
+    contendencia #1 — la preferencia editorial del Vehemiurgo
+    (*"mejor idea que Cody vs Sami"*) es lo que el booking ejecutó.
+    **Sin resolución reportada** sobre a quién le queda la
+    contendencia.
+11. **"Cody casi pierde el control" es más literal de lo emitido**: la
+    seguridad tuvo que desarmarlo, y **off-air siguió golpeando a
+    Orton** hasta que lo soltaron; a Orton se lo llevaron cargado al
+    hombro. Prensa unánime leyendo tease de heel turn.
+12. **Match pactado**: Cody Rhodes vs Randy Orton, **Sunday Night's
+    Main Event, 6/9/2026, State Farm Arena, Atlanta**, sin títulos.
+13. **El match Punk vs Owens es el 21/8/2026** (Scotiabank Arena,
+    Toronto, ciudad natal de Owens) — una semana **después** de este
+    segmento, tal como lo ubicó el Vehemiurgo. **First time ever
+    confirmado en sustancia** por el dossier propio: cero luchas entre
+    ambos en toda su historia.
 
 **Ejes editoriales preliminares**:
 
@@ -116,13 +168,15 @@ Punk**. Suma la coronación de Jacy Jayne y el brawl Cody/Orton.
 
 ---
 
-## Research delegado (1 sub-agente en curso)
+## Research delegado (cerrado)
 
-Contenido de los segmentos Punk/Owens y Gunther/Bálor, fecha y evento
-del first time ever Punk vs Owens, historia real Punk/Kevin Steen en
-ROH, finish y duración de Tiffany vs Jacy (nombre del finisher de
-Jayne), y detalle del brawl Cody/Orton más el destino de la lucha
-programada Cody vs Sami Zayn.
+Card y segmentos confirmados vía WebSearch (WWE.com, Fightful,
+PWTorch/Keller, Pro Wrestling Dot Net/Barnett, 411mania, ITR
+Wrestling, POST Wrestling, Cageside Seats, Athlon Sports, F4WOnline).
+**Nota de entorno**: WebFetch devolvió `EGRESS_BLOCKED` en TODOS los
+dominios de wrestling probados —no solo Cagematch/Wikipedia—, así que
+todo el dossier sale de snippets. Ver correcciones en la tabla de
+arriba.
 
 ---
 

@@ -56,6 +56,22 @@ como posible detonante de un heel turn de este último.
 
 **Lectura sintética**: sin clase nueva.
 
+### Sesión 2026-08-01 s39 — Embosca a Cody y cancela el contendiente #1; match pactado para SNME
+
+**Contexto**: SmackDown, 14/8/2026, Boston. Embosca a Cody Rhodes por
+la espalda durante la entrada de Sami Zayn, **cancelando el match de
+contendiente #1 al Undisputed WWE Championship antes de la campana**.
+Draping DDT, steel steps a la cabeza, brawl hasta las gradas y montaje
+de un conchairto — hasta que Cody lo frena con un low blow e invierte
+posiciones. Termina desarmado por seguridad, y **off-air Cody siguió
+golpeándolo**: a Orton se lo llevaron al backstage cargado al hombro.
+
+**Lectura sintética**: **WE** para el segmento (ver ficha). **Match
+pactado**: Cody Rhodes vs Randy Orton, **Sunday Night's Main Event,
+6/9/2026, State Farm Arena, Atlanta** — singles, sin títulos en juego,
+revancha de WrestleMania 42 Noche 1 (que ganó Rhodes). Ver
+[`../segments/2026-08-14-brawl-cody-rhodes-randy-orton-wwe-smackdown.md`](../segments/2026-08-14-brawl-cody-rhodes-randy-orton-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Resultado exacto de Cody vs Orton en WrestleMania 42 — snippets

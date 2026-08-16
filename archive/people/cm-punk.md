@@ -360,6 +360,31 @@ total**: ninguna declaración sobre Owens fuera de kayfabe salvo
 "Happy for Kev" (2022). El insulto por "indie" del 7/8/2026 replica,
 en worked-shoot, el desprecio original de 2005.
 
+### Sesión 2026-08-01 s39 — "Lo trató como un niño y salvó su promo": la clase que se lleva solo
+
+**Cita verbatim**:
+
+> *"la primera interacción la ganó Punk definitivamente, ahora tambien
+> Punk empieza siendo más cool [...] incluso Punk tuvo que decirle
+> "ponte más específico" porque solo hablaba en terminos vagos [...] y
+> Punk lo trató como un niño y salvó su promo [...] De verdad Punk lo
+> revolcó [...] Este segmento se merece una WE por como Punk expuso a
+> Owens, y solo Punk hizo esto entretenido"*
+>
+> — El Vehemiurgo, 2026-08-01 s39 (verbatim)
+
+**Lectura sintética**: **WE declarada explícitamente solo a él** —
+segundo precedente reciente de clase restringida a un participante
+dentro de un segmento (tras Christian Cage, s36). Segundo cara a cara
+con Kevin Owens (SmackDown, 14/8/2026, Boston), una semana antes de su
+**primer match en 20 años de carreras paralelas** (21/8, Scotiabank
+Arena, Toronto — Undisputed WWE Championship, segunda defensa).
+Research confirma la línea de exigencia de concreción —*"Oh, which
+ones? Think you're going to have to be a little more specific"*, sobre
+cuáles amigos, no sobre ROH— y el argumento del linaje: Owens como
+*greenhorn* que lleva 20 años llorando las consecuencias. Ver
+[`../segments/2026-08-14-cm-punk-kevin-owens-segmento-in-ring-wwe-smackdown.md`](../segments/2026-08-14-cm-punk-kevin-owens-segmento-in-ring-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

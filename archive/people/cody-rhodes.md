@@ -344,6 +344,30 @@ ya registrado en s20 (ver
 El Vehemiurgo lee una apuesta moderada por un heel turn, sin esperar
 un cambio radical e inmediato.
 
+### Sesión 2026-08-01 s39 — El brawl donde casi pierde el control, y la seguridad tiene que desarmarlo
+
+**Cita verbatim**:
+
+> *"el brawl entre Cody y Orton, estuvo cool que Cody casi pierda el
+> control, mejor idea que Cody vs Sami la verdad, estuvo cool, se
+> merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s39 (verbatim)
+
+**Lectura sintética**: **WE**. La preferencia editorial la ejecutó el
+booking: Orton lo embosca durante la entrada de Sami Zayn y **el match
+de contendiente #1 nunca arranca**. Tras el draping DDT, los steel
+steps a la cabeza y un brawl que llega a las gradas, Orton arma un
+conchairto; **Cody lo frena con low blow e invierte posiciones**, y
+**la seguridad de WWE tiene que desarmarlo** para impedir el sillazo.
+**Off-air siguió golpeándolo** hasta que lo convencieron de soltarlo —
+a Orton se lo llevaron cargado al hombro. La prensa lo leyó
+unánimemente como tease de heel turn, lo que mantiene **tracking la
+predicción de s20** (revivir la rivalidad con Orton arriesga que
+abucheen a Cody). Match pactado: **vs Orton, Sunday Night's Main
+Event, 6/9/2026, Atlanta**, sin títulos en juego. Ver
+[`../segments/2026-08-14-brawl-cody-rhodes-randy-orton-wwe-smackdown.md`](../segments/2026-08-14-brawl-cody-rhodes-randy-orton-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

@@ -190,6 +190,30 @@ post-match por Nia Jax & Lash Legend.
 **Lectura sintética**: **WE** en el segmento, **PW·FS·WE** en el
 match.
 
+### Sesión 2026-08-01 s39 — Pierde el título por salvar a Chelsea: "ha madurado mucho"
+
+**Cita verbatim**:
+
+> *"Tiffany tambien, al principio la subestima pero cuando baja Chelsea
+> a apoyar ya se pone más seria, muy buenas secuencias [...] Tiffany ha
+> madurado mucho, ahora si llega a vender la lucha, se ve muy bien full
+> baby face en este booking de Chelsea Green [...] la polémica con
+> Tiffany perdiendo su titulo en parte por ayudar a Chelsea [...] esta
+> lucha se merece una WE y FS classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s39 (verbatim)
+
+**Lectura sintética**: **FS·WE** — elaboración con clase del match que
+en s38 quedó registrado solo como contexto. **Pierde el WWE Women's
+United States Championship ante Jacy Jayne**, y el mecanismo del
+finish confirma literalmente la lectura del Vehemiurgo: con las
+costillas lastimadas, **elige lanzarse afuera con un crossbody sobre
+Henley y Reid para salvar a Chelsea Green en vez de rematar en el
+ring**, y al volver come el Rolling Encore. Continuidad del eje de
+evolución que el archivo sigue desde 2026-07-14 s38 ("cada vez más
+wrestler"), ahora consolidado como **full babyface**. Ver
+[`../matches/2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md`](../matches/2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md).
+
 ### Sesión 2026-08-01 s38 — Sale a defender a Chelsea, atacada antes de perder el título US
 
 **Contexto**: SmackDown, 14/8/2026, Boston. Interviene para frenar a

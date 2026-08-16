@@ -220,6 +220,28 @@ estrictamente "indie" en el sentido de escena y pasa a registrar
 través de eras, escenas y empresas. La declaración fue una lista sin
 argumentación pieza por pieza — el criterio queda leído del conjunto.
 
+### Sesión 2026-08-01 s39 — Cruce backstage con Gunther: "nada de estar llorando como Owens"
+
+**Cita verbatim**:
+
+> *"Gunther y Balor tienen un segmento muy cool, buenas promos, nada de
+> estar llorando como Owens, gran segmento, se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s39 (verbatim)
+
+**Lectura sintética**: **WE** — y la clase llega **por contraposición
+explícita** al segmento de Kevin Owens de la misma noche: dos
+luchadores con la misma queja estructural que Owens (les cerraron el
+camino al título en el fatal 4-way de SummerSlam) y el Vehemiurgo
+premia que la resuelvan como wrestlers y no como agravio personal.
+Research confirma el contenido: Bálor se queja con Nick Aldis, Gunther
+interrumpe quejándose de su street clothes match contra Cardona y le
+dice que ya no lo ve a él **"solo su sombra"**; Bálor lo llama
+**"condescending prick"** y declara que pasará por encima de quien sea
+por otra oportunidad titular. Ambos sin título en este punto. **Sin
+match anunciado** al cierre del research. Ver
+[`../segments/2026-08-14-gunther-finn-balor-backstage-wwe-smackdown.md`](../segments/2026-08-14-gunther-finn-balor-backstage-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de los runs como Demon gimmick.

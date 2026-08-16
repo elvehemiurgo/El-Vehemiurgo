@@ -76,6 +76,34 @@ de un nivel en julio 2025**, 17 meses fuera. Dato carny del build
 actual: Wade Barrett declaró que los "higher-ups" ordenaron NO
 mencionar el heat real en comentario.
 
+### Sesión 2026-08-01 s39 — "El fumble del año": el veredicto más duro del archivo
+
+**Cita verbatim**:
+
+> *"creo que Kevin perdió su edge, hasta Eddie Kingstone lo hizo mejor
+> en su rivalidad con Punk, hasta Jack Perry lo hizo mejor, la promo de
+> Owens fue aburrida, se estaba ahogando [...] como si no se hubiera
+> prerado nada realmente [...] debia ser una rivalidad generacional,
+> pero Kevin la convirtió en quejas y lloros, patetico [...] Kevin con
+> esta rivalidad acaba de hacer el fumble del año [...] durante su
+> rivalidad con Cody estuvo brillante, pero este Owens es debil"*
+>
+> — El Vehemiurgo, 2026-08-01 s39 (verbatim)
+
+**Lectura sintética**: **queda expresamente FUERA de la clase** — la
+WE del segmento va *"solo a Punk"*, *"por cómo Punk expuso a Owens"*.
+Es el veredicto más severo que el archivo le registra, y **cobra la
+advertencia de s20**: allí el Vehemiurgo ya le había marcado que el
+ángulo moral estaba gastado y que debía atacar *"con algo más nuevo y
+realista"*; siete días después vuelve al agravio de ROH en términos
+vagos. **La ironía documentada por el dossier propio**: el agravio
+existía con fecha y detalle —el T-Shirt Incident, ROH Stalemate,
+16/4/2005— y Owens fue en vago igual, hasta que Punk le exigió
+concreción en cámara. Comparado desfavorablemente con **Eddie
+Kingston** y **Jack Perry**, ambos con heat real documentado contra
+Punk en AEW. Ver
+[`../segments/2026-08-14-cm-punk-kevin-owens-segmento-in-ring-wwe-smackdown.md`](../segments/2026-08-14-cm-punk-kevin-owens-segmento-in-ring-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).

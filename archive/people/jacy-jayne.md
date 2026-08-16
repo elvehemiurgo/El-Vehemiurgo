@@ -238,6 +238,32 @@ Green, sin competir oficialmente — no está en el match, no recibe la
 clase PW·FS·WE del mismo). Reta a Tiffany Stratton por el título US
 femenino (SmackDown, 7/8/2026).
 
+### Sesión 2026-08-01 s39 — La coronación, elaborada: "el finisher de Jacy está protegidísimo"
+
+**Cita verbatim**:
+
+> *"me encanta que ya es una rivalidad en curso y Jacy va defrente al
+> abdomen porque ahi atacó Nia Jax [...] Jacy si vendió los stakes,
+> estaba muy dura dispuesta a todo [...] el finisher de Jacy está
+> protegidisimo, la polémica con Tiffany perdiendo su titulo en parte
+> por ayudar a Chelsea [...] esta lucha se merece una WE y FS classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s39 (verbatim)
+
+**Lectura sintética**: **FS·WE** — elaboración con clase del match que
+en s38 quedó registrado solo como contexto. **Gana el WWE Women's
+United States Championship.** El elogio central es de psicología:
+ataca abdomen y costillas desde temprano, explotando la lesión de
+storyline que Stratton sufrió esa misma noche protegiendo a Chelsea
+Green. **El finish paga la tesis al pie de la letra**: Stratton elige
+salvar a Green con un crossbody sobre Henley y Reid en vez de rematar,
+y al volver come el **Rolling Encore** de inmediato. La protección del
+finisher tiene respaldo de registro: no hay kick-out limpio reciente —
+en la clasificatoria del 17/7 Stratton lo **contrarrestó**, no lo
+aguantó. Con este título, **las tres de Fatal Influence quedan con
+oro**. Ver
+[`../matches/2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md`](../matches/2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md).
+
 ### Sesión 2026-08-01 s38 — Se corona campeona US femenina, y su finisher explica la lesión de Green
 
 **Contexto**: SmackDown, 14/8/2026, Boston. Su finisher del match del
