@@ -80,6 +80,27 @@ a la mezcla.
 
 **Lectura sintética**: sin clase individual — dato de continuidad.
 
+### Sesión 2026-08-01 s38 — Junto a Lash Legend, amenaza a Chelsea y detona el ataque a Tiffany
+
+**Cita verbatim**:
+
+> *"con Nia Jax y Lash entrando a amenazarla, ambas tienen buenas
+> promos, y tener a Chelsea en este tipo de stakes y aprietos, dios,
+> de verdad es la historia definitiva del año para smackdown [...]
+> Además de que el booking hace que Tiffany salga al rescate y es
+> atacada por nia y lash cuando tiene una lucha titular esa misma
+> noche. Este segmento se merece una WE."*
+>
+> — El Vehemiurgo, 2026-08-01 s38 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento (SmackDown, 14/8/2026,
+Boston). Junto a Lash Legend (The Irresistible Forces), reclama que
+en SummerSlam "se la robaron" y exige la oportunidad titular contra
+Chelsea Green; Tiffany Stratton interviene y es golpeada por ambas,
+lesión de costillas en storyline que le condiciona la defensa del
+título US femenino esa misma noche ante Jacy Jayne (la pierde). Ver
+[`../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md`](../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

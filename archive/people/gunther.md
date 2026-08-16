@@ -254,6 +254,30 @@ puro marketing"*.
 
 **Pieza**: [MJF vs David Starr](../matches/2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) (PW·FS·WE)
 
+### Sesión 2026-08-01 s38 — Escala el segmento de Chelsea Green, gana por Boston Crab
+
+**Cita verbatim**:
+
+> *"la promo de Gunther fue brutal, esta interacción estuvo muy
+> intensa, es un buen rub para Chelsea, y mucho spotlight, y Gunther
+> si es capaz de hacer una locura, y sacar a Cardona para hacerlo más
+> real todavia, fue genial, esta es peak WWE tv [...] tenemos Cardona
+> vs Gunther [...] esta lucha se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s38 (verbatim)
+
+**Lectura sintética**: **WE** en el segmento de apertura, **PW·FS·WE**
+en el match — SmackDown, 14/8/2026, Boston. En este punto ya no es
+campeón mundial (perdió el Undisputed ante CM Punk). Interrumpe el
+segmento de la lesión de Chelsea Green reclamando sus propias
+aspiraciones titulares y escala hasta sacar a Matt Cardona a
+defenderla. En el street clothes match resultante, castiga a Cardona
+por fuera del ring (powerbomb contra barricada, mesa y apron; Saito
+suplex), sobrevive un near fall del Rough Ryder tras un low blow, y
+**cierra con un segundo powerbomb y un Boston Crab** —guiño de ciudad
+en TD Garden— hasta el tap out. Ver
+[`../matches/2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md`](../matches/2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo

@@ -12,6 +12,8 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-14 | Nia Jax y Lash Legend amenazan a Chelsea Green — Tiffany Stratton atacada antes de su título | WWE / SmackDown | confrontación / ataque backstage-ringside | WE | en-investigacion | 1 | [→](2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md) |
+| 2026-08-14 | Chelsea Green y Nick Aldis — la lesión del hueso orbital, con Gunther escalando el segmento | WWE / SmackDown | promo de apertura / angle de lesión | WE | en-investigacion | 1 | [→](2026-08-14-chelsea-green-nick-aldis-gunther-lesion-orbital-wwe-smackdown.md) |
 | 2026-08-11 | Grayson Waller alienta a Saquon Shugars a vengarse de Dark State en la sala médica | WWE / NXT | backstage / sala médica | WE | en-investigacion | 1 | [→](2026-08-11-grayson-waller-rub-saquon-shugars-medica-nxt.md) |
 | 2026-08-11 | Keanu Carver interrumpe el agradecimiento de Cruz Montana a Robert Stone — el tercero en discordia | WWE / NXT | backstage | WE | en-investigacion | 1 | [→](2026-08-11-keanu-carver-cruz-montana-robert-stone-backstage-nxt.md) |
 | 2026-08-10 | LA Knight y Jacob Fatu se cruzan — el prisionero del Bloodline marcando territorio | WWE / Raw | confrontación backstage / angle | WE | en-investigacion | 1 | [→](2026-08-10-la-knight-jacob-fatu-raw.md) |

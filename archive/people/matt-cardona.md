@@ -79,6 +79,27 @@ rival de oficio dentro del desarrollo cuidado de Ricky Saints en su
 primer mes de main roster. Ver
 [`./ricky-saints.md`](./ricky-saints.md).
 
+### Sesión 2026-08-01 s38 — Defiende a Chelsea Green de Gunther: "la mejor forma de usar a Matt"
+
+**Cita verbatim**:
+
+> *"esta es la mejor forma de usar a Matt, estos stakes, luchar por su
+> mujer y defenderla de Gunther, es lo más interesante que va a
+> hacer, además de que es un duro, su estilo es stiff y el mix con
+> Gunther en una lucha así en street clothes y con stakes intensos, es
+> un gran setup, es una draem match con un booking muy inteligente,
+> esta lucha se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s38 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** — SmackDown, 14/8/2026, Boston.
+El Vehemiurgo lee el stipulation de defender a **Chelsea Green, su
+esposa en la vida real** —dato que el ángulo explota abiertamente,
+confirmado por research— como el techo narrativo del personaje.
+Conecta un near fall con el **Rough Ryder** (tras un low blow) antes
+de caer por **Boston Crab**. Ver
+[`../matches/2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md`](../matches/2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Registro completo de ambas etapas WWE y del periodo indie

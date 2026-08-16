@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-14 | Carmelo Hayes vs Baron Corbin (c) — WWE United States Championship | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md) |
+| 2026-08-14 | Matt Cardona vs Gunther — Street Clothes Match | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md) |
 | 2026-08-11 | Cruz Montana vs Grayson Waller | WWE / NXT | WE | en-investigacion | 1 | [→](2026-08-11-cruz-montana-vs-grayson-waller-debut-zilla-fatu-nxt.md) |
 | 2026-08-11 | Lexis King vs Lucien Price | WWE / NXT | — | en-investigacion | 1 | [→](2026-08-11-lexis-king-vs-lucien-price-nxt.md) |
 | 2026-08-11 | Kam Hendrix vs Mason Rook | WWE / NXT | WE | en-investigacion | 1 | [→](2026-08-11-kam-hendrix-vs-mason-rook-nxt.md) |

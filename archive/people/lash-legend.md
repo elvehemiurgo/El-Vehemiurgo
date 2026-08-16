@@ -139,6 +139,15 @@ research como parte del match.
 
 **Lectura sintética**: sin clase individual — dato de continuidad.
 
+### Sesión 2026-08-01 s38 — Junto a Nia Jax, amenaza a Chelsea y detona el ataque a Tiffany
+
+**Contexto**: SmackDown, 14/8/2026, Boston. Mismo segmento que Nia Jax
+(ver su ficha) — The Irresistible Forces amenazan a Chelsea Green;
+Tiffany Stratton interviene y es atacada por ambas.
+
+**Lectura sintética**: **WE** para el segmento. Ver
+[`../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md`](../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

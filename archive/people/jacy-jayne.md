@@ -238,6 +238,23 @@ Green, sin competir oficialmente — no está en el match, no recibe la
 clase PW·FS·WE del mismo). Reta a Tiffany Stratton por el título US
 femenino (SmackDown, 7/8/2026).
 
+### Sesión 2026-08-01 s38 — Se corona campeona US femenina, y su finisher explica la lesión de Green
+
+**Contexto**: SmackDown, 14/8/2026, Boston. Su finisher del match del
+7/8 (Rolling Encore sobre Chelsea Green) es señalado en kayfabe como
+causa de la fractura de hueso orbital de Green — ver
+[`../segments/2026-08-14-chelsea-green-nick-aldis-gunther-lesion-orbital-wwe-smackdown.md`](../segments/2026-08-14-chelsea-green-nick-aldis-gunther-lesion-orbital-wwe-smackdown.md).
+Esa misma noche, **derrota a Tiffany Stratton y se corona nueva WWE
+Women's United States Champion**, tras el ataque previo de Nia Jax y
+Lash Legend que dejó a Stratton con costillas comprometidas, con Green
+en el ringside e interferencia de Fatal Influence. No comentado
+directamente por el Vehemiurgo como pieza aparte — dato de research.
+
+**Lectura sintética**: sin clase individual — dato de continuidad,
+cumple la expectativa de título propio marcada por el Vehemiurgo en
+s10 ("ya pagaron suficientes pins, ahora pueden empezar a ganar
+títulos").
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.

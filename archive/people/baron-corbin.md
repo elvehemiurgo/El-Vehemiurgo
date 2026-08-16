@@ -43,10 +43,37 @@ al talento en sí, pero de las más duras del registro. El Vehemiurgo lo
 lee como "peso muerto" para Trick Williams, sin stakes reales de cara
 al US Title match de SummerSlam.
 
+### Sesión 2026-08-01 s38 — Retiene el US Title ante Carmelo Hayes, entrada en motocicleta
+
+**Cita verbatim**:
+
+> *"no sé porque decidieron apostar por Corbin con el gimmick de
+> motociclista peligroso afiliado a grupos de motociclistas reales y
+> eso, no se si es muy prolífico, pero habiendo talento que está todo
+> el año ahi dando buenas luchas, vas y contratas a Corbin [...] pero
+> luego el selling de Corbin estuvo flojo"*
+>
+> — El Vehemiurgo, 2026-08-01 s38 (verbatim)
+
+**Lectura sintética**: sin clase individual — la WE del match recae
+"sobre todo" en Carmelo Hayes, con el selling de Corbin señalado
+explícitamente como flojo. **Confirma la crítica de casting ya
+registrada en s16**: el Vehemiurgo cuestiona la apuesta de empresa por
+su gimmick de motociclista peligroso en vez de invertir en talento más
+consistente. **Research no puede confirmar** una "pandilla" o stable
+de motociclistas real —solo el elemento individual de entrada en
+moto—, confirmado como WWE United States Champion, reteniendo con
+**End of Days** tras contrarrestar el intento de Nothing But Net de
+Hayes. Ver
+[`../matches/2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md`](../matches/2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de carrera pre-2026.
 - [ ] Seguimiento del US Title match de SummerSlam.
+- [x] ~~Confirmar gimmick de motociclista~~ → **RESUELTO (s38)**:
+      entrada individual en motocicleta confirmada; "pandilla"/stable
+      no confirmado por research.
 
 ## Piezas relacionadas
 

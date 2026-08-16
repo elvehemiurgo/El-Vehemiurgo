@@ -213,6 +213,34 @@ estrictamente "indie" en el sentido de escena y pasa a registrar
 través de eras, escenas y empresas. La declaración fue una lista sin
 argumentación pieza por pieza — el criterio queda leído del conjunto.
 
+### Sesión 2026-08-01 s38 — La lesión del hueso orbital: "me hizo sentir el wrestling al nivel de CM Punk"
+
+**Cita verbatim**:
+
+> *"esta promo está a otro nivel, Chelsea está a otro nivel [...] me
+> hizo sentir el wrestling al nivel de CM Punk o Steve Austin o Hogan
+> o Savage [...] nuca voy a olvidar este booking y esta promo [...]
+> Chelsea Green ahora mismo tiene mejores promos que Kevin Owens"*
+>
+> — El Vehemiurgo, 2026-08-01 s38 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento de apertura (SmackDown,
+14/8/2026), Boston. Sale marcada por una fractura de hueso orbital
+—confirmada real por POST Wrestling, integrada al kayfabe y atribuida
+al finisher de Jacy Jayne del match del 7/8— y arranca un angle que el
+Vehemiurgo compara con los picos históricos de "hacer sentir real" el
+wrestling. Nick Aldis le da 30 días de gracia como campeona interina;
+Gunther escala el segmento hasta que sale Matt Cardona (su esposo en
+la vida real) a defenderla, desembocando en el street clothes match de
+esa noche —**PW·FS·WE**, pierde Cardona por Boston Crab— ver
+[`../matches/2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md`](../matches/2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md).
+Más tarde, **WE** para el segmento donde Nia Jax y Lash Legend la
+amenazan y Tiffany Stratton sale a defenderla y termina atacada,
+perdiendo su título esa noche ante Jacy Jayne — ver
+[`../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md`](../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md).
+El Vehemiurgo declara este arco *"la historia definitiva del año para
+SmackDown"*.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

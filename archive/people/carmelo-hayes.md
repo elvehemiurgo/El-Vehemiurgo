@@ -135,6 +135,26 @@ grande — propuesta editorial, no dato de archivo.
 **Lectura sintética**: sin clase — mención comparativa, no acción
 puntual.
 
+### Sesión 2026-08-01 s38 — vs Baron Corbin por el US Title: "vendió esta oportunidad muy fuerte"
+
+**Cita verbatim**:
+
+> *"queria ver si Carmelo le saca una buena lucha a Corbin, ya que
+> tiene buenos stakes, ahora puede ganarle a Corbin y humillar a Trick
+> con esa victoria, Carmelo vendió esta oportunidad muy fuerte, el
+> tipo es un completo enterteiner [...] Carmelo si le sacó una buena
+> lucha, con el contraste de tamaños sacaron spots muy cool [...] se
+> merecen una WE sobre todo por el esfuerzo de Carmelo y su selling"*
+>
+> — El Vehemiurgo, 2026-08-01 s38 (verbatim)
+
+**Lectura sintética**: **WE**, con el mérito señalado explícitamente
+como suyo por encima del de su rival (SmackDown, 14/8/2026, Boston).
+Pierde el WWE United States Championship ante Baron Corbin (End of
+Days), pero el elogio se sostiene en la venta de los stakes y el
+selling. Ver
+[`../matches/2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md`](../matches/2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (run NXT + main

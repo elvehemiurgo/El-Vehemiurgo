@@ -89,6 +89,26 @@ acto como ganarlo.
 
 **Pieza**: [vs Tim Storm, Cage of Death 19](../matches/2017-12-09-nick-aldis-vs-tim-storm-czw-cage-of-death-19.md) (WE)
 
+### Sesión 2026-08-01 s38 — Le da 30 días de gracia a Chelsea Green: "top tier pro wrestling"
+
+**Cita verbatim**:
+
+> *"Nick Aldis estuvo perfecto tambien, de verdad, top tier pro
+> wrestling, piensen tambien en la relación CHelsea y Aldis, estos dos
+> son smackdown desde hace mucho tiempo [...] Aldis le dejara seguir
+> siendo campeona por 30 días para que se recupere, de verdad es
+> heat"*
+>
+> — El Vehemiurgo, 2026-08-01 s38 (verbatim)
+
+**Lectura sintética**: sin clase individual (la WE corresponde al
+segmento completo). Como GM, abre amenazando con despojar a Chelsea
+Green del título interino por la lesión de hueso orbital, y cede
+dándole **30 días** de plazo — jugada leída como heat de autoridad, no
+regalo. Oficializa después, durante un corte comercial, el street
+clothes match Cardona vs Gunther que cierra la noche. Ver
+[`../segments/2026-08-14-chelsea-green-nick-aldis-gunther-lesion-orbital-wwe-smackdown.md`](../segments/2026-08-14-chelsea-green-nick-aldis-gunther-lesion-orbital-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de la rivalidad Gunther vs Aldis.

@@ -190,6 +190,21 @@ post-match por Nia Jax & Lash Legend.
 **Lectura sintética**: **WE** en el segmento, **PW·FS·WE** en el
 match.
 
+### Sesión 2026-08-01 s38 — Sale a defender a Chelsea, atacada antes de perder el título US
+
+**Contexto**: SmackDown, 14/8/2026, Boston. Interviene para frenar a
+Nia Jax y Lash Legend cuando amenazan a Chelsea Green y termina
+golpeada por ambas — daño de costillas en storyline que condiciona su
+defensa del **WWE Women's United States Championship** esa misma
+noche ante **Jacy Jayne**, con Green en el ringside e interferencia
+repetida de Fatal Influence. **Pierde el título.** No comentado
+directamente por el Vehemiurgo como pieza aparte — dato de research
+dentro del segmento de Nia Jax y Lash Legend, sin clase propia.
+
+**Lectura sintética**: sin clase individual — dato de continuidad.
+Ver
+[`../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md`](../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
