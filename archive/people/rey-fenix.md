@@ -151,6 +151,23 @@ Mexican Muscle Buster tras interferencia frustrada de Dominik) y ante
 Mini Vikingo (AAA Verano de Escándalo Noche 2, 1/8, 10:54, Mexican
 Muscle Buster).
 
+### Sesión 2026-08-01 s42 — Vence a El Fiscal en su debut: reserva de estilo generacional
+
+**Cita verbatim**:
+
+> *"aqui Fénix que está más americanizado, no tiene tan buenos strikes
+> como el fiscal, pero pusieron una gran lucha. Se merece las 3
+> clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s42 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**, con reserva de estilo — el
+Vehemiurgo lo lee *"más americanizado"* y con peores strikes que el
+debutante, El Fiscal, en el match que avanza en el World Heavyweight
+Championship No. 1 Contender's Tournament. Gana con **Mexican Muscle
+Buster**, contrarrestando el Martinete de El Fiscal. Ver
+[`../matches/2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md`](../matches/2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

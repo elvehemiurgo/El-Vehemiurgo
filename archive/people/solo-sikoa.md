@@ -247,6 +247,27 @@ de booking que el Vehemiurgo elogia aparte.
 **Piezas**: [promo de apertura](../segments/2026-08-10-solo-sikoa-promo-jey-bloodline-raw.md) (WE) ·
 [cruce LA Knight / Jacob Fatu](../segments/2026-08-10-la-knight-jacob-fatu-raw.md) (WE)
 
+### Sesión 2026-08-01 s42 — Entregado, humillado y traiciona a Roman: face turn con LA Knight
+
+**Cita verbatim**:
+
+> *"las faciales de Solo y todos son buenas, estilo reality wwe [...]
+> luego Solo atacando a Roman, son buenos momentos, estan poniendo
+> buena programación para sus faces, construyendo proyectos
+> viables"*
+>
+> — El Vehemiurgo, 2026-08-01 s42 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento completo (no clase
+individual). Entregado por los Usos, humillado por Reigns y castigado
+por Jacob Fatu (Tongan Death Grip), recibe la orden de rematar a LA
+Knight y en su lugar **le clava el Samoan Spike a Roman Reigns** —
+descrito por la cobertura como la ovación más grande de su carrera en
+WWE. Limpia el ring junto a Knight (segundo Samoan Spike a Jey Uso) y
+se retira con él. **Face turn confirmado**, leído por la prensa como
+decisión en el momento, no plan pre-armado. Ver
+[`../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md`](../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología detallada Bloodline original / interim Tribal

@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-17 | Chad Gable (c) vs Rey Mysterio — WWE Intercontinental Championship | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-17-chad-gable-vs-rey-mysterio-ic-title-wwe-raw.md) |
+| 2026-08-17 | El Fiscal vs Rey Fénix — World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md) |
 | 2026-08-17 | Je'Von Evans vs JD McDonagh | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-17-jevon-evans-vs-jd-mcdonagh-wwe-raw.md) |
 | 2026-08-14 | Tiffany Stratton (c) vs Jacy Jayne — WWE Women's United States Championship | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md) |
 | 2026-08-14 | Carmelo Hayes vs Baron Corbin (c) — WWE United States Championship | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md) |

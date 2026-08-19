@@ -58,6 +58,19 @@ Cody vs Gunther. Ver [`./cody-rhodes.md`](./cody-rhodes.md),
 
 **Lectura sintética**: Sin clase propia (la triple corresponde al match). Figura como **pieza de la venganza de Lesnar** dentro del espectáculo cuya función declarada es **poner over a Oba Femi**. Naturaleza exacta de su rol en el ángulo: [verif].
 
+### Sesión 2026-08-01 s42 — Árbitro entre Breakker y Femi, sin casarse con ninguno
+
+**Contexto**: Raw, 17/8/2026 (raíz en el segmento matriz del
+3/8/2026). **WE** para el segmento
+([→](../segments/2026-08-17-bron-breakker-oba-femi-heyman-wwe-raw.md)).
+Arbitra el reclamo de Breakker por reconocimiento como "el futuro"
+sacando a Femi en su lugar, y confirma el match Oba Femi vs Bron
+Breakker en Sunday Night's Main Event (Atlanta) sin declarar favorito
+— le da la mano a ambos al cerrar.
+
+**Lectura sintética**: sin clase individual — la WE corresponde al
+segmento completo.
+
 ## Pendientes / huecos
 
 - [ ] Rol exacto y continuidad de Heyman en este ángulo vs otros

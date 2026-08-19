@@ -270,6 +270,15 @@ confirmó textual por research.
 **Lectura sintética**: sin clase individual — rol de comentarista, no
 de competidor en esta entrada.
 
+### Sesión 2026-08-01 s42 — Cae ante Gable en la primera defensa del IC Title, cierre sin rencor
+
+**Contexto**: Raw, 17/8/2026, Buffalo. **FS·WE** para el match — cae
+ante Chad Gable (primera defensa del Intercontinental Championship)
+por victory roll tras intercambio de ankle lock y 619s. Post-match
+(dato de research, no comentado individualmente): abraza a Gable y le
+pide colocarse el cinturón él mismo. Ver
+[`../matches/2026-08-17-chad-gable-vs-rey-mysterio-ic-title-wwe-raw.md`](../matches/2026-08-17-chad-gable-vs-rey-mysterio-ic-title-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] **WCW Halloween Havoc 1997 mask match vs Eddie** —

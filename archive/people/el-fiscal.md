@@ -42,6 +42,25 @@ tags: [el-fiscal, aaa-2026, abismo-negro, hijo-de-sangre, rivalidad-dilatada, ma
 **DOCTRINA DE LA RIVALIDAD DILATADA** — cronología cerrada por research 2026-08-01: el conflicto de legitimidad de nombre y máscara está activo desde **Triplemanía XXXII (2024)**. Cuatro capítulos documentados en 2026 (21/2 DQ, 28/3 victoria + mesa rota, 13/6 este trios, 4/7 no contest por interferencia de Los Perros del Mal), **ninguno con finish limpio entre ambos** — apuesta clásica a un máscara vs máscara sin anuncio oficial todavía. Ver
 [`./abismo-negro-jr.md`](./abismo-negro-jr.md).
 
+### Sesión 2026-08-01 s42 — Debut en WWE contra Rey Fénix: 29 años después de Abismo Negro
+
+**Cita verbatim**:
+
+> *"El Fiscal hizo su debut contra Fénix como parte del torneo, con
+> toda la presentación, buen showcase [...] pusieron una gran lucha.
+> Se merece las 3 clases, lo mantuvieron real."*
+>
+> — El Vehemiurgo, 2026-08-01 s42 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**, con reserva de estilo
+generacional (irish whips, strikes). **Debuta en WWE** —no solo en el
+torneo hacia Roman Reigns—, 29 años después de que su padre, **Abismo
+Negro**, debutara en el show rojo de WWE en 1997. Cae ante Rey Fénix
+tras intentar el **Martinete**, el finisher de su padre, contrarrestado
+con un Mexican Muscle Buster. Publicó un mensaje emotivo post-show
+dedicado a Abismo Negro. Ver
+[`../matches/2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md`](../matches/2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

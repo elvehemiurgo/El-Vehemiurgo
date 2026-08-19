@@ -12,6 +12,8 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-17 | Roman Reigns nombra capitanes a los Usos y humilla a Solo Sikoa — Sikoa lo traiciona con LA Knight | WWE / Raw | segmento coral de cierre / traición | WE | en-investigacion | 1 | [→](2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md) |
+| 2026-08-17 | Bron Breakker, Oba Femi y Paul Heyman — el rescate de booking en curso | WWE / Raw | promo / confrontación | WE | en-investigacion | 1 | [→](2026-08-17-bron-breakker-oba-femi-heyman-wwe-raw.md) |
 | 2026-08-17 | Big Cass ataca a Je'Von Evans (post-match), con Dominik Mysterio sumándose | WWE / Raw | ataque post-match | — | en-investigacion | 1 | [→](2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md) |
 | 2026-08-17 | Dominik Mysterio y JD McDonagh se quejan del torneo — Jevon Evans los reta | WWE / Raw | promo / confrontacion (corte comercial) | WE | en-investigacion | 1 | [→](2026-08-17-dominik-jd-jevon-evans-torneo-cdmx-wwe-raw.md) |
 | 2026-08-17 | Liv Morgan y Stephanie Vaquer — apertura fallida, con Becky Lynch de por medio | WWE / Raw | promo / brawl de apertura | — | en-investigacion | 1 | [→](2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md) |

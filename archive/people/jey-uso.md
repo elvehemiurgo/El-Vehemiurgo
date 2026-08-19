@@ -91,6 +91,24 @@ sobre la Bloodline.
 **Lectura sintética**: sin lectura individual — parte del ataque
 grupal, elogio de conjunto en el segmento ("WE todos").
 
+### Sesión 2026-08-01 s42 — Capitán del Bloodline, protegido comercialmente pese al enhancement
+
+**Cita verbatim**:
+
+> *"usando a los uso de enhacement como se debe, sin descuidar a Jey
+> para que siga vendiendo merchandising"*
+>
+> — El Vehemiurgo, 2026-08-01 s42 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento completo (no clase
+individual). Entrega a su hermano Solo a Roman Reigns; es nombrado
+"capitán" del Bloodline con ula fala negro; en el cierre recibe un
+segundo Samoan Spike de Sikoa. **La lectura de "protegido
+comercialmente" es interpretación del Vehemiurgo** sobre el patrón de
+booking, no un dato declarado por ninguna fuente — se preserva
+marcada. Ver
+[`../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md`](../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, trayectoria, empresa.

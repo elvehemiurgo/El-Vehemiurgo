@@ -352,6 +352,24 @@ meterse al torneo. Pearce le promete el match de número uno
 [promo con Adam Pearce](../segments/2026-08-10-promo-la-knight-raw.md) (WE) ·
 [cruce con Jacob Fatu](../segments/2026-08-10-la-knight-jacob-fatu-raw.md) (WE)
 
+### Sesión 2026-08-01 s42 — Detona el turn de Sikoa, limpia el ring del Bloodline
+
+**Cita verbatim**:
+
+> *"buen setup para LA Knight con el salve, y un perfortmance
+> perfecto, todo lo que debia salir bien, toda la actitud"*
+>
+> — El Vehemiurgo, 2026-08-01 s42 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento completo (no clase
+individual). Irrumpe atacando a los Usos, absorbe un Superman Punch de
+Roman Reigns, y su interrupción —no un rescate directo— es lo que le
+da a Sikoa la ventana para traicionar a Reigns en vez de rematarlo.
+Limpia el ring junto a Sikoa: BFT a Jimmy Uso y otro BFT contrarrestando
+el segundo Superman Punch de Reigns. Se retira con Sikoa entre choque
+de puños. Ver
+[`../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md`](../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

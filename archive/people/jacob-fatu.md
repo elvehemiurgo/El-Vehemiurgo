@@ -428,6 +428,26 @@ show encara a Knight: si quiere meterse con el OTC, primero pasa por
 
 **Pieza**: [cruce con LA Knight](../segments/2026-08-10-la-knight-jacob-fatu-raw.md) (WE)
 
+### Sesión 2026-08-01 s42 — Castiga a Sikoa, pero no defiende a Roman: distanciamiento sin resolver
+
+**Cita verbatim**:
+
+> *"tienes al público de Jacob contra el público de LA Knight felices
+> con el protagonismo que premia a los más carismáticos del roster"*
+>
+> — El Vehemiurgo, 2026-08-01 s42 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento completo (no clase
+individual). Castiga a Sikoa con superkick y Tongan Death Grip por
+orden de Reigns, pero **no interviene por ningún bando** cuando Sikoa
+lo traiciona — se aparta y sale caminando solo, con los brazos
+cruzados. **Reserva de research**: no se pudo confirmar "el público de
+Jacob" como pop diferenciado (la ovación mayor de la noche fue para el
+turn de Sikoa), y una sola nota de prensa especula fisura con Reigns
+sin que el segmento lo declare — se registra como observación de
+comportamiento, no como swerve confirmado. Ver
+[`../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md`](../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [x] ~~Cronología MLW completa con fechas de title runs~~ →

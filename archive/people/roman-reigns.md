@@ -272,6 +272,26 @@ posterior (s17).
 
 **Lectura sintética**: sin clase.
 
+### Sesión 2026-08-01 s42 — Nombra capitanes, humilla a Sikoa, y es traicionado
+
+**Cita verbatim**:
+
+> *"el segmento de Roman y Solo con el bloodline, es genial [...] buen
+> heat, buen setup para LA Knight con el salve [...] es la historia,
+> tiene que ser la historia, vamos hasta wrestlemania con esto [...]
+> gran booking allstar, el segmento se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s42 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento (Raw, 17/8/2026,
+Buffalo). Recibe a Sikoa entregado por los Usos, lo humilla
+(pisotea sus lentes, lo arrodilla, deja que Fatu lo castigue con
+Tongan Death Grip), nombra "capitanes" a Jey y Jimmy con ula fala
+negro, y ordena a Sikoa rematar a LA Knight — **Sikoa lo traiciona con
+un Samoan Spike** en su lugar. Cierra el segmento recibiendo otro BFT
+de Knight. Ver
+[`../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md`](../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md).
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

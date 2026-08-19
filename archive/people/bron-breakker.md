@@ -102,6 +102,25 @@ prueba —Austin Theory con más protagonismo y el pivote hacia Oba
 Femi— están confirmados por research.** Su conclusión sigue siendo
 inferencia editorial, pero **apoyada en hechos, no en impresión**.
 
+### Sesión 2026-08-01 s42 — El rescate de booking, en curso: "levantando el booking gracias a Femi"
+
+**Cita verbatim**:
+
+> *"estan levanando el booking de Breaker gracias a Femi, este
+> segmento con ellos y Heyman estuvo cool, se merece una WE class."*
+>
+> — El Vehemiurgo, 2026-08-01 s42 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento (Raw, 17/8/2026, con
+raíz en el segmento matriz del 3/8/2026). **Pago directo de la
+doctrina del rub malo** que el archivo fijó en s33 sobre su programa
+fallido con Seth Rollins — el pivote hacia Oba Femi, ya anticipado
+como consecuencia observable, se ejecuta acá. Match pactado: **Oba
+Femi vs Bron Breakker, Sunday Night's Main Event, Atlanta** (ciudad
+natal de Breakker), como definición de "el futuro de WWE". Heyman
+arbitra sin casarse con ninguno de los dos. Ver
+[`../segments/2026-08-17-bron-breakker-oba-femi-heyman-wwe-raw.md`](../segments/2026-08-17-bron-breakker-oba-femi-heyman-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos (nombre real, fecha de
