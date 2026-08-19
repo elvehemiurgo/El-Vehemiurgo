@@ -13,6 +13,7 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|
+| 2026-08-17 | Je'Von Evans vs JD McDonagh | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-17-jevon-evans-vs-jd-mcdonagh-wwe-raw.md) |
 | 2026-08-14 | Tiffany Stratton (c) vs Jacy Jayne — WWE Women's United States Championship | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md) |
 | 2026-08-14 | Carmelo Hayes vs Baron Corbin (c) — WWE United States Championship | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md) |
 | 2026-08-14 | Matt Cardona vs Gunther — Street Clothes Match | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md) |

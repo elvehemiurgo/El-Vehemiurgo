@@ -190,6 +190,19 @@ en el micrófono** (*"Becky es buena en el mic"*, sobre el cruce con
 Vaquer). **Separación de ejes, no contradicción** — y de ahí su
 propuesta: **manager o GM**.
 
+### Sesión 2026-08-01 s41 — Entra de refuerzo y golpea a Vaquer por error
+
+**Contexto**: Raw, 17/8/2026, Buffalo. Dato de research dentro del
+segmento de apertura de Vaquer y Liv Morgan, no comentado
+individualmente por el Vehemiurgo. Entra de refuerzo contra Judgment
+Day pero golpea por error a Vaquer; ambas terminan peleando entre sí.
+La prensa (PWTorch) marca el cruce como un miss del show. Ver
+[`../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md`](../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md).
+
+**Lectura sintética**: sin clase individual — dato de continuidad,
+parte del veredicto negativo general del Vehemiurgo sobre el
+segmento.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

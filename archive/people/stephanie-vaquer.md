@@ -185,6 +185,27 @@ anunció match Vaquer vs Becky.**
 
 **Pieza**: [el regreso, con Becky](../segments/2026-08-10-regreso-stephanie-vaquer-becky-raw.md) (sin clase declarada)
 
+### Sesión 2026-08-01 s41 — Apertura fallida vs Liv Morgan: reversión del diagnóstico
+
+**Cita verbatim**:
+
+> *"Liv Morgan y Vaquer tuvieron uno de los peores segmentos de año,
+> incluso dañó la percepción y progreso de Raquel y Roxanne; super
+> decepcionante, Vaquer sigue siendo meh, mediocre todo"*
+>
+> — El Vehemiurgo, 2026-08-01 s41 (verbatim)
+
+**Lectura sintética**: **sin clase — veredicto negativo explícito.**
+**Reversión del avance declarado en s35** (2026-07-14: *"le faltaba
+esa agresividad... pero sí ha evolucionado"*) sobre la tensión de base
+de 2026-05-09 (*"performer sí, promo todavía no"*). Este take no
+repite el diagnóstico viejo: lo empeora. Reta a Liv Morgan en la
+apertura (Raw, 17/8/2026), es superada en número por Judgment Day
+(Morgan + Raquel Rodríguez + Roxanne Perez), y termina peleando contra
+**Becky Lynch** por un choque accidental en vez de contra las heels.
+Ver
+[`../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md`](../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run NJPW STARDOM (fechas, IWGP Women's

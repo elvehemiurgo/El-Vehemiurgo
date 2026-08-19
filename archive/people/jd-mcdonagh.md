@@ -212,6 +212,16 @@ igual"* es la clave: la estipulación hardcore se lee como riesgo
 superado, no como valor agregado. Ver
 [`../matches/2026-05-18-finn-balor-vs-jd-mcdonagh-street-fight-wwe-raw.md`](../matches/2026-05-18-finn-balor-vs-jd-mcdonagh-street-fight-wwe-raw.md).
 
+### Sesión 2026-08-01 s41 — Se mete tras el reclamo de Dominik, cae ante Jevon Evans
+
+**Contexto**: Raw, 17/8/2026, Buffalo. Se suma al reclamo de Dominik
+Mysterio por el torneo — **WE** para el segmento
+([→](../segments/2026-08-17-dominik-jd-jevon-evans-torneo-cdmx-wwe-raw.md)).
+En el match impromptu resultante contra Je'Von Evans, trabaja la
+rodilla del rival y conecta un brainbuster, pero cae al fallar un
+moonsault ante el OG Cutter — **PW·FS·WE**
+([→](../matches/2026-08-17-jevon-evans-vs-jd-mcdonagh-wwe-raw.md)).
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-07-13-jd-mcdonagh-dominik-promo-danhausen-wwe-raw.md`](../segments/2026-07-13-jd-mcdonagh-dominik-promo-danhausen-wwe-raw.md)

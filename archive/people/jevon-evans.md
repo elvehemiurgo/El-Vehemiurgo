@@ -80,6 +80,29 @@ psicología.
 (Raw, 3/8/2026) — segundo cruce del año, primero que gana Evans.
 Post-match: Big Cass regresa y lo ataca.
 
+### Sesión 2026-08-01 s41 — "Jevon contra el mundo": increpa a Dominik, vence a JD, cae ante Cass
+
+**Cita verbatim**:
+
+> *"Jevon Evans interrumpe la promo de Dominik cuando se quejaba de no
+> estar en el torneo de AAA para enfrentar a Reigns [...] es Jevon
+> contra el mundo, es lo que queremos ver [...] Jevon vs JD se merece
+> las 3 clases [...] son el presente, tienen que ser el presente"*
+>
+> — El Vehemiurgo, 2026-08-01 s41 (verbatim)
+
+**Lectura sintética**: **WE** en el segmento donde increpa a Dominik y
+JD McDonagh
+([→](../segments/2026-08-17-dominik-jd-jevon-evans-torneo-cdmx-wwe-raw.md)),
+**PW·FS·WE** en el match resultante contra JD McDonagh (gana con OG
+Cutter tras interferencia de Dominik que no altera el resultado —
+[→](../matches/2026-08-17-jevon-evans-vs-jd-mcdonagh-wwe-raw.md)), y
+**sin clase** en el ataque post-match de Big Cass (tercera semana
+consecutiva apuntándole, con Dominik sumándose) —
+[→](../segments/2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md).
+**Fórmula editorial central**: *"son el presente, tienen que ser el
+presente"* — describe y exige booking en la misma frase.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

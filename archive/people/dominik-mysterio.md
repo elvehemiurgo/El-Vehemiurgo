@@ -236,6 +236,20 @@ Llegaba como **AAA Mega Champion**; el título no estaba en juego.
 [interrumpe a Rey Mysterio](../segments/2026-08-10-dominik-interrumpe-rey-dragon-lee-backstage-raw.md) (WE) ·
 [vs Dragon Lee](../matches/2026-08-10-dragon-lee-vs-dominik-mysterio-raw.md) (FS·WE)
 
+### Sesión 2026-08-01 s41 — Segundo reclamo por el torneo, interfiere y se suma al ataque de Cass
+
+**Contexto**: Raw, 17/8/2026, Buffalo. Se queja de nuevo (segunda vez
+registrada, tras el 10/8) de quedar fuera del World Heavyweight
+Championship No. 1 Contender's Tournament rumbo a Roman Reigns, pese a
+ser AAA Mega Champion. Jevon Evans lo increpa — **WE** para el
+segmento
+([→](../segments/2026-08-17-dominik-jd-jevon-evans-torneo-cdmx-wwe-raw.md)).
+Interfiere una vez en el match resultante (Evans vs JD McDonagh) sin
+alterar el resultado, y **se suma al ataque de Big Cass** post-match
+mandando a Evans contra el poste — sin clase individual, dato de
+continuidad. Ver
+[`../segments/2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md`](../segments/2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.

@@ -220,6 +220,18 @@ mayor. Ver
 asistencia de Zaria (también debutando). Ver
 [`../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md`](../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md).
 
+### Sesión 2026-08-01 s41 — Apertura contra Vaquer, uno de los peores segmentos del año
+
+**Contexto**: Raw, 17/8/2026, Buffalo. Recibe el reto de Vaquer en la
+apertura junto a todo Judgment Day femenino (Raquel Rodríguez y
+Roxanne Perez); cierra con Codebreaker sobre Vaquer tras el choque
+accidental de esta con Becky Lynch. Ver
+[`../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md`](../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md).
+
+**Lectura sintética**: sin clase — el veredicto negativo del
+Vehemiurgo (*"uno de los peores segmentos del año"*) recae sobre el
+segmento completo, no comentado individualmente sobre su actuación.
+
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md`](../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md)

@@ -219,6 +219,22 @@ Rox de Perez.
 
 **Pieza**: [tag vs Sol Ruca e IYO SKY](../matches/2026-08-10-sol-ruca-iyo-sky-vs-raquel-roxanne-raw.md)
 
+### Sesión 2026-08-01 s41 — Daño colateral del peor segmento del año
+
+**Cita verbatim**:
+
+> *"Liv Morgan y Vaquer tuvieron uno de los peores segmentos de año,
+> incluso dañó la percepción y progreso de Raquel y Roxanne"*
+>
+> — El Vehemiurgo, 2026-08-01 s41 (verbatim)
+
+**Lectura sintética**: sin clase — no es protagonista del beef
+central (Morgan/Vaquer/Lynch), pero el Vehemiurgo declara que la mala
+ejecución del segmento **arrastra su percepción y progreso** aunque
+estuvo activa en el ring como músculo de Judgment Day (Raw, 17/8/2026,
+Buffalo). Ver
+[`../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md`](../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y segmentos del 2025 que sustentan la
