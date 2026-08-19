@@ -141,6 +141,21 @@ Match corto que funciona *por* la historia — la escalera se subió
 en orden. Ver
 [`../matches/2026-03-27-moose-vs-eddie-edwards-tna-sacrifice.md`](../matches/2026-03-27-moose-vs-eddie-edwards-tna-sacrifice.md).
 
+### Sesión 2026-08-01 s40 — Expone a Alisha y conecta un spear en el main event de Rebellion
+
+**Contexto**: TNA Rebellion, 11/4/2026. Dato de research dentro del
+main event Santana vs Edwards, no comentado individualmente por el
+Vehemiurgo. Expone en el titantron que **Alisha Edwards trabajaba en
+secreto con Eddie** contra Santana (y que su lesión de tobillo era un
+work); es atacado por Myers y Bronson al intentar llegar hasta ella;
+**conecta un spear sobre Eddie Edwards**, que resiste. Ver
+[`../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md`](../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md).
+
+**Lectura sintética**: sin clase individual — dato de continuidad.
+Confirma su separación de The System (ya registrada en el archivo
+desde febrero) y anticipa el enfrentamiento directo con Eddie Edwards
+en Slammiversary 2026.
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).

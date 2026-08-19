@@ -284,6 +284,32 @@ tres equipos de esa cadena están hoy en el archivo, y EYFBO más los
 dos miembros de Scarlet and Graves entraron a los Death Gods en la
 misma declaración.**
 
+### Sesión 2026-08-01 s40 — Retiene el título mundial vs Eddie Edwards: la doctrina del techo
+
+**Cita verbatim**:
+
+> *"Santana y toda su campaña, boston vs ny, dos eras de tag team
+> wrestling colisionando [...] igual que EYFBO en su momento [...] Me
+> gusta que hayan heecho a Santana vender el brazo [...] es el tipo de
+> spots wwe main event que debe apuntar hacer, se supone que Santana
+> va para esas ligas, para luchas con Roman Reigns y COdy Rhodes, no
+> está yendo para ser un midcard"*
+>
+> — El Vehemiurgo, 2026-08-01 s40 (verbatim)
+
+**Lectura sintética**: **FS·WE**, con reserva por el final (TNA
+Rebellion, 11/4/2026, Cleveland). **Retiene el TNA World
+Championship** ante Eddie Edwards (cash-in de Feast or Fired) con dos
+Spin the Block, tras vender el brazo lesionado en un spot fallado
+contra el poste. **Doctrina de techo declarada**: el Vehemiurgo lo
+ubica explícitamente en la liga de Roman Reigns y Cody Rhodes, no en
+el midcard — lectura de proyección de carrera más alta que el archivo
+le registra. **Confirmado por research**: nombre real **Mark
+Sanchez**, del **Bronx, Nueva York**; **EYFBO** (con Ortiz,
+2012-2017) ganó los títulos de AAW, CZW y House of Glory antes de
+pasar a LAX en Impact. Ver
+[`../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md`](../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

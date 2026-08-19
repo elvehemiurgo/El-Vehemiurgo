@@ -151,6 +151,45 @@ en el patrón MNM / American Wolves?
   TNA dependerá de que Dutch + Vincent sigan construyendo su
   identidad propia paralela al rub**. No basta con la rivalidad.
 
+## Caso D — TNA 2026, The System se corona sobre los Hardys
+
+**11/4/2026, TNA Rebellion**: Brian Myers y **Bear Bronson** le quitan
+el TNA World Tag Team Championship a los Hardys, con **Bronson
+cubriendo a Jeff**. El Vehemiurgo declara el proyecto explícito:
+*"es el proyecto para toda esta rivalidad, construir a Bear Bronson"*.
+Ver
+[`../matches/2026-04-11-hardys-vs-the-system-tag-title-tna-rebellion.md`](../matches/2026-04-11-hardys-vs-the-system-tag-title-tna-rebellion.md).
+
+**La tensión que este caso mete a la doctrina**: el beneficiario no es
+un talento nuevo — es **Eddie Edwards**, mitad del **Caso B**
+(American Wolves), quien ya recibió el rub de los Hardys en 2014-2015
+y, según el veredicto de esta misma tesis, *"no se consolidó
+necesariamente"* como tag act, aunque sí consolidó como singles
+workhorse. Ahora **dirige** la operación que corona a otro (Bronson) a
+costa de los mismos Hardys que antes lo elevaron a él.
+
+**Dos lecturas en competencia, sin resolver todavía**:
+
+1. **A favor de la regla**: si Eddie no se consolidó por el rub sino
+   por trabajo propio de singles, entonces el proyecto Bronson corre
+   el mismo riesgo — necesitará masa crítica propia (microfono, look,
+   identidad) más allá del pin sobre Jeff Hardy, o repetirá el patrón
+   MNM/Wolves.
+2. **Contra la regla, o matiz nuevo**: a diferencia de MNM y los
+   Wolves —que llegaban ya semi-hechos a la rivalidad—, acá el
+   Vehemiurgo describe a Bronson **literalmente en formación**
+   (*"aprendiendo, vendiendo"*, *"lo están protegiendo muy bien"*).
+   Si consolida, sería el primer caso donde la plataforma Hardys **sí
+   fabrica** una estrella desde una base más verde que Young Bucks
+   pero con dirección de un mentor (Eddie) que conoce el mecanismo
+   desde adentro por haberlo vivido como beneficiario.
+
+**Pendiente de resolución**: si Bronson consolida como acto propio en
+2026-2027, el Caso D reescribe la regla destilada ("el rub no
+construye, corona") con una excepción — plataforma **dirigida por un
+ex-beneficiario consciente del mecanismo**. Si no consolida, confirma
+la regla con un cuarto ejemplo.
+
 ## Cross-links
 
 - [`./doctrina-workhorse-vivir-como-wrestlers.md`](./doctrina-workhorse-vivir-como-wrestlers.md)

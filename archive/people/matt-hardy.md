@@ -71,6 +71,18 @@ el finish de The System sobre Jeff & Vincent. En **Rebellion
 Bronson [PWTorch, 13-abr-2026]. La promo del 2/4 (techo del mic)
 cae en medio de ese programa.
 
+### Sesión 2026-08-01 s40 — Tables match: Twist of Fate a Vincent, retienen el tag title
+
+**Contexto**: TNA iMPACT!, 9/4/2026, Alario Center (New Orleans/
+Westwego). **WE** para el conjunto del show
+([→](../matches/2026-04-09-hardys-vs-righteous-tna-impact.md)).
+Manda a Dutch a través de una mesa junto a Jeff; conecta **Twist of
+Fate a Vincent** sobre otra mesa para que Jeff cierre con Swanton
+Bomb. Retienen el TNA World Tag Team Championship — lo perderán dos
+días después ante The System en Rebellion
+([→](../matches/2026-04-11-hardys-vs-the-system-tag-title-tna-rebellion.md),
+**FS·WE**).
+
 ## Pendientes / huecos
 
 - [ ] Títulos y reinados con fechas (WWE, TNA, ROH, AEW).

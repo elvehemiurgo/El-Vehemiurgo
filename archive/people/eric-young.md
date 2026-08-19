@@ -90,6 +90,26 @@ tags: [eric-young, tna-legacy-2004-presente, ex-impact-world-champion, ex-roode-
   mic: el veterano-mentor elevando al presente de la empresa a
   triple clase.
 
+### Sesión 2026-08-01 s40 — Invoca a Dixie Carter y regresa a EC3
+
+**Cita verbatim**:
+
+> *"EY corta una promo muy oldschool muy genial, elevando a EC3, yh lo
+> hizo genial [...] fue buena idea setearlo con EY que habló de Dixie
+> y todo el gimmick EC3 [...] se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s40 (verbatim)
+
+**Lectura sintética**: **WE**, compartida con EC3 (TNA Rebellion,
+11/4/2026, Cleveland). Sale a llamarlo y —según research— lo hace
+**burlándose** (*"nepo baby"*, *"Aunt Dixie isn't here to protect you
+anymore"*), no elogiándolo; la lectura del Vehemiurgo se sostiene
+igual porque lo que premia es que **reconstruya el gimmick entero
+antes de que aparezca**, mecanismo old-school de heel que eleva al
+babyface por contraste. Brawl inmediato, EC3 lo desafía para el
+iMPACT del 16/4 (no contest a los 2:05). Ver
+[`../segments/2026-04-11-eric-young-promo-regreso-ec3-tna-rebellion.md`](../segments/2026-04-11-eric-young-promo-regreso-ec3-tna-rebellion.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).

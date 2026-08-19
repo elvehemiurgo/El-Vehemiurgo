@@ -123,6 +123,18 @@ Division Title). La derrota no entierra: el opener de PPV a este
 nivel es plataforma. Ver
 [`../matches/2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md`](../matches/2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md).
 
+### Sesión 2026-08-01 s40 — Run-in por The System en el main event, tras perder el X Division Title
+
+**Contexto**: TNA Rebellion, 11/4/2026. Dato de research, no
+comentado individualmente por el Vehemiurgo. Más temprano esa misma
+noche pierde el **X Division Championship** ante Leon Slater; en el
+main event, con el réferi distraído por Alisha Edwards, **entra a
+atacar a Santana a favor de Eddie Edwards** — Santana lo baja con un
+**Rolling Cutter**. Confirma su alineación activa con The System. Ver
+[`../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md`](../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md).
+
+**Lectura sintética**: sin clase individual — dato de continuidad.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento exacta.

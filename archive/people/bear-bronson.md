@@ -74,6 +74,33 @@ Del dossier `maclin-lesion-y-rebellion-build-2026` (closed):
    [PWTorch, 13-abr-2026]. La "plataforma para Bear" de s01
    terminó en oro en dos semanas.
 
+### Sesión 2026-08-01 s40 — Cubre a Jeff Hardy, gana su primer título en TNA: "el proyecto"
+
+**Cita verbatim**:
+
+> *"Bear Bronson estaba ahi con puros profesionales, aprendiendo,
+> vendiendo, de verdad disfruté la lucha [...] Y Bronson tuvo su
+> momento con Jeff, resistiendo el finisher de sumisión, lo están
+> protegiendo muy bien. Es el proyecto para toda esta rivalidad,
+> construir a Bear Bronson [...] es buen heat hacerle pin a Jeff"*
+>
+> — El Vehemiurgo, 2026-08-01 s40 (verbatim)
+
+**Lectura sintética**: **FS·WE** — TNA Rebellion, 11/4/2026. Con
+Brian Myers, **le arrebata el TNA World Tag Team Championship a los
+Hardys** (**primer título de Bronson en TNA**), cubriendo a Jeff con
+un sit-out tombstone piledriver tras un superkick de Myers.
+**Declaración central de la lectura**: *"construir a Bear Bronson"* es
+el proyecto explícito de toda la rivalidad — the Hardys como
+plataforma, protegido resistiendo (o siendo protegido de) el finisher
+de sumisión de Jeff. **Cruce doctrinal**: es el primer caso donde el
+beneficiario de la plataforma Hardys es dirigido por un ex-beneficiario
+de la misma tesis — Eddie Edwards, de los American Wolves (Caso B del
+topic). Ver
+[`../matches/2026-04-11-hardys-vs-the-system-tag-title-tna-rebellion.md`](../matches/2026-04-11-hardys-vs-the-system-tag-title-tna-rebellion.md)
+y
+[`../topics/hardys-como-plataforma-mentor.md`](../topics/hardys-como-plataforma-mentor.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + origen.

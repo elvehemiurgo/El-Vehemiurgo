@@ -123,6 +123,25 @@ Rascalz.
 
 **Pieza**: [vs Zachary Wentz y Myron Reed](../matches/2018-04-14-zachary-wentz-vs-myron-reed-trey-miguel-czw-botb17.md) (PW·FS·WE)
 
+### Sesión 2026-08-01 s40 — Pierde el International Title: "se pone stiff cuando necesita"
+
+**Cita verbatim**:
+
+> *"vi que Trey se pone stiff cuando necesita, me gusta esa actitud
+> [...] esta rivalidad elevó el regreso de Trey"*
+>
+> — El Vehemiurgo, 2026-08-01 s40 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** para el match (Rebellion,
+11/4/2026) — **pierde el TNA International Championship** ante
+Mustafa Ali por interferencia de Order 4 (The Great Hands golpean con
+cascos de utilería, distracción de Tasha Steelz, 450 splash). Había
+ganado el título en No Surrender (13/2/2026) ante Channing "Stacks"
+Lorenzo con el Lightning Spiral — primer reinado, cerrado acá.
+Confirma un cutter cazando a Ali en pleno 450 y un twisting Canadian
+Destroyer como spots destacados. Ver
+[`../matches/2026-04-11-mustafa-ali-vs-trey-miguel-international-tna-rebellion.md`](../matches/2026-04-11-mustafa-ali-vs-trey-miguel-international-tna-rebellion.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad de origen.

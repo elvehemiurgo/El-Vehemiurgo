@@ -216,6 +216,29 @@ International en Rebellion) es el expediente de un heel protegido
 elevando a un babyface en maduración. Ver
 [`../matches/2026-04-09-mustafa-ali-vs-trey-miguel-tna-impact.md`](../matches/2026-04-09-mustafa-ali-vs-trey-miguel-tna-impact.md).
 
+### Sesión 2026-08-01 s40 — Se corona International Champion: "un arquitecto"
+
+**Cita verbatim**:
+
+> *"Ali es un arquitecto todas sus luchas son geniales, ha
+> evolucionado como enterteiner y cada día está más oldschool [...]
+> esta rivalidad elevó el regreso de Trey y le está dando forma a la
+> división midcard al rededor del titulo internacional. La lucha se
+> merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s40 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**, con reserva técnica declarada
+(spots *"no tan prolijos"*, *"menos es más"*) y un **error de booking
+nombrado**: el research confirma que el "spot de las máscaras" que el
+Vehemiurgo marca como error fueron en realidad **los cascos de
+utilería de la entrada sci-fi de Order 4**, usados por The Great
+Hands para golpear a Trey mientras Tasha Steelz distraía al réferi —
+Ali cierra con **450 splash**. **Se corona nuevo TNA International
+Champion** (Rebellion, 11/4/2026). *"Ali es un arquitecto"* es el
+elogio estructural más alto que el archivo le registra. Ver
+[`../matches/2026-04-11-mustafa-ali-vs-trey-miguel-international-tna-rebellion.md`](../matches/2026-04-11-mustafa-ali-vs-trey-miguel-international-tna-rebellion.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo + nacimiento.

@@ -255,6 +255,7 @@ cada alta y con cada cambio de estado.
 | 2026-04-13 | Segmento in-ring de CM Punk | WWE / Raw | promo in-ring | WE | stub | 1 | [→](2026-04-13-cm-punk-segmento-in-ring-wwe-raw.md) |
 | 2026-04-13 | Promo video: CM Punk | WWE / Raw | promo video (hype package) | WE | stub | 1 | [→](2026-04-13-cm-punk-promo-video-wwe-raw.md) |
 | 2026-04-13 | LA Knight — hot tag | WWE / Monday Night Raw | spot aislado | — | en-investigacion | 1 | [→](2026-04-13-la-knight-hot-tag-raw.md) |
+| 2026-04-11 | Eric Young invoca a Dixie Carter y regresa EC3 | TNA Wrestling / Rebellion 2026 | promo / regreso sorpresa | WE | en-investigacion | 1 | [→](2026-04-11-eric-young-promo-regreso-ec3-tna-rebellion.md) |
 | 2026-04-11 | Post-match: confrontación entre los Americanos + reto máscara vs máscara (cierre de show) | AAA / AAA Worldwide | post-match / confrontación de facción + reto de cierre de show | PW·FS·WE | stub | 1 | [→](2026-04-11-post-match-americanos-reto-mascara-vs-mascara-aaa-worldwide.md) |
 | 2026-04-11 | Celebración de Flammer y Las Tóxicas (900+ días) + debut de La Catalina | AAA / AAA Worldwide | celebración de título + debut de retadora | WE | stub | 1 | [→](2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md) |
 | 2026-04-11 | Windsor & Hayter cortan una promo | AEW / Collision | promo (tag/dúo) | FS·WE | stub | 1 | [→](2026-04-11-windsor-hayter-promo-aew-collision.md) |

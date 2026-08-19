@@ -134,6 +134,38 @@ estrictamente "indie" en el sentido de escena y pasa a registrar
 través de eras, escenas y empresas. La declaración fue una lista sin
 argumentación pieza por pieza — el criterio queda leído del conjunto.
 
+### Sesión 2026-08-01 s40 — Cobra Feast or Fired vs Santana: "una serpiente como CM Punk"
+
+**Cita verbatim**:
+
+> *"Eddie Edwards full heel, si esposa sin amigos, el temaso de the
+> system, contra Santana [...] los american wolves definieron tag
+> team wrestling en las indies de los US [...] me gusta Eddie así
+> como leyenda viviente que se sabe todas y su vida es el negocio, es
+> una serpiente como CM Punk, un verdadero wrestler, no puedes creer
+> nada de lo que dice, y es muy oldschool, tiene ese feeling de dojo
+> violento [...] esta lucha se merecía las 3 clases pero el final
+> enredado salió mal [...] se merece una WE y FS classes"*
+>
+> — El Vehemiurgo, 2026-08-01 s40 (verbatim)
+
+**Lectura sintética**: **FS·WE**, con reserva declarada por el final
+(TNA Rebellion, 11/4/2026, Cleveland — TNA World Championship, cobra
+el maletín Feast or Fired). **Cae ante Mike Santana**, que retiene
+tras dos Spin the Block, en un cierre con tres capas de interferencia
+apiladas: Alisha revela que trabajaba con él contra Moose, Moose
+conecta un spear que Edwards resiste, y Cedric Alexander (miembro de
+The System) hace un run-in que Santana neutraliza. **Definición de
+personaje de primer orden**: *"una serpiente como CM Punk"* —
+imposible de creerle nada, con *"feeling de dojo violento"*.
+**Confirmado por research**: es de **Boston** (nombre real Eric
+Maher), y **American Wolves** (con Davey Richards) ganaron **7 títulos
+mundiales de parejas** (2x ROH, 5x TNA) entre 2008 y 2017/2021-2023 —
+el propio Vehemiurgo lo compara con EYFBO de Santana como "dos eras
+del tag team wrestling colisionando". Trabaja el brazo de Santana
+sistemáticamente tras un poste fallado. Ver
+[`../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md`](../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md).
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).

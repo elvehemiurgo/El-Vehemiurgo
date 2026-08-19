@@ -122,6 +122,17 @@ antes de perder los tag titles en Rebellion, la evidencia semanal
 sigue. Ver
 [`../matches/2026-04-09-hardys-vs-righteous-tna-impact.md`](../matches/2026-04-09-hardys-vs-righteous-tna-impact.md).
 
+### Sesión 2026-08-01 s40 — Retiene el tag title, luego cae ante The System (dos días después)
+
+**Contexto**: TNA iMPACT! (9/4) — Swanton Bomb sobre Vincent a través
+de una mesa, retienen el TNA World Tag Team Championship. **WE**
+([→](../matches/2026-04-09-hardys-vs-righteous-tna-impact.md)). Dos
+días después, en Rebellion (11/4), **Bear Bronson lo cubre** y cierra
+un reinado de 265 días — el Vehemiurgo lee que Bronson resiste su
+finisher de sumisión antes de caer; research registra el quiebre por
+interferencia de Myers. **FS·WE**
+([→](../matches/2026-04-11-hardys-vs-the-system-tag-title-tna-rebellion.md)).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia
