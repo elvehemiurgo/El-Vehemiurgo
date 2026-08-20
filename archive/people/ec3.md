@@ -73,6 +73,25 @@ aparezca es la decisión correcta, porque reconstruye el contexto que
 hace que el personaje signifique algo. Ver
 [`../segments/2026-04-11-eric-young-promo-regreso-ec3-tna-rebellion.md`](../segments/2026-04-11-eric-young-promo-regreso-ec3-tna-rebellion.md).
 
+### Sesión 2026-08-01 s43 — "It's not a comeback, it's a crusade"
+
+**Cita verbatim**:
+
+> *"esa noche tenemos una promo de EC3, y es el viejo EC3, TNA EC3,
+> buenisima la promo, se merece una WE class, esto si me emociona"*
+>
+> — El Vehemiurgo, 2026-08-01 s43 (verbatim)
+
+**Lectura sintética**: **WE** — pre-tape del mismo episodio del no
+contest vs Eric Young (16/4/2026). Confirma en vivo la doctrina fijada
+en s40: el gimmick reconstruido en su contexto original entrega.
+Habla de su exilio de TNA y de haber forjado "su propio estándar" en
+el tiempo afuera; línea central: *"it's not a comeback — it's a
+crusade"*. Research no pudo confirmar mención textual a Dixie Carter
+ni al catchphrase "trouble, trouble, trouble" en esta promo puntual.
+Ver
+[`../segments/2026-04-16-ec3-promo-cruzada-tna-impact.md`](../segments/2026-04-16-ec3-promo-cruzada-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Número exacto de reinados mundiales TNA y fechas/rivales.

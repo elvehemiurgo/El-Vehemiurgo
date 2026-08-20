@@ -237,6 +237,7 @@ con cada cambio de estado.
 | 2026-04-18 | Jacob Fatu vs Drew McIntyre | WWE / WrestleMania 42 Día 1 | WE | en-investigacion | 1 | [→](2026-04-18-jacob-fatu-vs-drew-mcintyre-wrestlemania-42.md) |
 | 2026-04-18 | Cody Rhodes vs Randy Orton | WWE / WrestleMania 42 Día 1 | WE | en-investigacion | 1 | [→](2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md) |
 | 2026-04-17 | Jordynne Grace vs Tiffany Stratton | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md) |
+| 2026-04-16 | AJ Francis vs KC Navarro | TNA Wrestling / iMPACT! | PW·FS·WE | en-investigacion | 1 | [→](2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md) |
 | 2026-04-15 | Will Ospreay vs Hechicero | AEW / Spring BreakThru | PW·FS·WE | stub | 1 | [→](2026-04-15-ospreay-vs-hechicero-aew-spring-breakthru.md) |
 | 2026-04-14 | Jaida Parker vs Kelani Jordan | WWE / NXT Revenge — Week 1 | FS·WE | en-investigacion | 1 | [→](2026-04-14-jaida-parker-vs-kelani-jordan-nxt-revenge-week-1.md) |
 | 2026-04-14 | Kali Armstrong vs Skylar Rae | WWE / NXT Revenge — Week 1 | FS | en-investigacion | 1 | [→](2026-04-14-kali-armstrong-vs-skylar-rae-nxt-revenge-week-1.md) |

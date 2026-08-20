@@ -166,6 +166,15 @@ del tag team wrestling colisionando". Trabaja el brazo de Santana
 sistemáticamente tras un poste fallado. Ver
 [`../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md`](../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md).
 
+### Sesión 2026-08-01 s43 — Culpa a Moose, arranca la rivalidad rumbo a Slammiversary
+
+**Contexto**: TNA iMPACT!, 16/4/2026. Culpa a Moose por su derrota en
+Rebellion, escalando verbalmente y sacando pop de la multitud al
+nombrarlo — dato de research dentro del segmento coral de The System.
+**WE** para el segmento completo. Confirma el arranque de la rivalidad
+que desemboca en Eddie Edwards vs Moose en Slammiversary 2026. Ver
+[`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).

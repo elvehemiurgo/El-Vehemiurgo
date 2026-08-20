@@ -100,6 +100,25 @@ tags: [aj-francis, ex-top-dolla-wwe-hit-row, ex-nfl-player, tna-2025-2026-heel-m
   TNA este año"*. Tag en Sacrifice:
   [`../matches/2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md`](../matches/2026-03-27-kazarian-aj-francis-vs-elijah-cody-deaner-tna-sacrifice.md).
 
+### Sesión 2026-08-01 s43 — Cae ante Navarro: "definitivamente puede hablar, es como Joe Hendry"
+
+**Cita verbatim**:
+
+> *"Francis no siempre ha tenido buenos segmentos pero definitivamente
+> puede hablar, es como Joe Hendry, es un tema de producción y
+> dirección para aprovecharlo mejor"*
+>
+> — El Vehemiurgo, 2026-08-01 s43 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** para el match (TNA iMPACT!,
+16/4/2026). Cae ante KC Navarro por victory roll tras la distracción
+de Nic Nemeth desde la mesa de comentarios. **Diagnóstico de mic
+comparado con Joe Hendry** — lectura propia del Vehemiurgo; research
+no encontró esa comparación en prensa, pero confirma de forma
+independiente que Francis tiene fama real de buen promo poco
+explotado. Ver
+[`../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md`](../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha exacta de nacimiento.

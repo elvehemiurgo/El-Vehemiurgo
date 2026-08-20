@@ -72,6 +72,25 @@ Navarro está hoy en el roster de TNA, retando por el título mundial.
 Ver [ficha del match](../matches/2018-12-09-jordan-oliver-vs-kc-navarro-czw-cage-of-death-xx.md)
 — **PW·FS·WE** declaradas.
 
+### Sesión 2026-08-01 s43 — Vence a AJ Francis: el pago de la proyección del archivo
+
+**Cita verbatim**:
+
+> *"KC estuvo totalmente a la altura de la oportunidad, esta es su
+> historia de underdog en tv, con un comeback emotivo y todo, lo
+> hicieron muy bien, la lucha se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s43 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** (TNA iMPACT!, 16/4/2026). Vence a
+AJ Francis con victory roll, ayudado por la distracción indirecta de
+Nic Nemeth. **Es su primer match real de regreso** tras el desgarro de
+LCA que lo sacó de acción en 2025 — su aparición en Rebellion (11/4)
+fue solo interferencia como run-in, no lucha. Declaró después que este
+match fue "la primera vez que se sintió de vuelta a sí mismo",
+confirmando el "comeback emotivo" que lee el Vehemiurgo. Ver
+[`../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md`](../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Naturaleza de la lesión que lo sacó hasta Rebellion 2026.

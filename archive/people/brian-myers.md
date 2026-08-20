@@ -119,6 +119,24 @@ estrictamente "indie" en el sentido de escena y pasa a registrar
 través de eras, escenas y empresas. La declaración fue una lista sin
 argumentación pieza por pieza — el criterio queda leído del conjunto.
 
+### Sesión 2026-08-01 s43 — Celebra el título, pero el foco se lo lleva Edwards/Moose
+
+**Cita verbatim**:
+
+> *"Bryan Myers celebrando su victoria, quisiera que él sea el
+> protagonista, pero van a apostar por Edwards y Moose otra ves en
+> una rivalidad para lo que queda del año, es lo que es"*
+>
+> — El Vehemiurgo, 2026-08-01 s43 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento completo (TNA
+iMPACT!, 16/4/2026). Celebra el TNA World Tag Team Championship
+ganado a los Hardys en Rebellion junto a Bear Bronson y Alisha
+Edwards. El Vehemiurgo declara preferencia editorial explícita por
+verlo como protagonista, contrastada con la decisión de booking real
+de centrar el arco en Eddie Edwards vs Moose. Ver
+[`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de nacimiento + confirmación Long Island.

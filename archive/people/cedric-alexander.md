@@ -135,6 +135,24 @@ atacar a Santana a favor de Eddie Edwards** — Santana lo baja con un
 
 **Lectura sintética**: sin clase individual — dato de continuidad.
 
+### Sesión 2026-08-01 s43 — Reclama revancha a Slater, "su momento" en el segmento de The System
+
+**Cita verbatim**:
+
+> *"le dan a Cedric su momento para retar a Lion otra vez, Lion sale y
+> ese intercambio estuvo muy bien, le pusieron muchas ganas"*
+>
+> — El Vehemiurgo, 2026-08-01 s43 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento completo (TNA
+iMPACT!, 16/4/2026). Reclama que Leon Slater le hizo trampa al
+arrebatarle el X Division Championship en el opener de Rebellion y
+exige revancha. El reclamo deriva en el 4-on-2 handicap match de esa
+noche (The System vs Slater y Moose), donde Cedric conecta un rollup
+counter a Lumbar Check sobre Slater sin que el título esté en juego.
+Ver
+[`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento exacta.

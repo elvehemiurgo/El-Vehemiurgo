@@ -156,6 +156,21 @@ Confirma su separación de The System (ya registrada en el archivo
 desde febrero) y anticipa el enfrentamiento directo con Eddie Edwards
 en Slammiversary 2026.
 
+### Sesión 2026-08-01 s43 — "Tuvo material para cortar una buena promo" contra The System
+
+**Cita verbatim**:
+
+> *"Incluso Moose tuvo material para cortar una buena promo, el
+> segmento se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s43 (verbatim)
+
+**Lectura sintética**: **WE** para el segmento completo (TNA
+iMPACT!, 16/4/2026). Acusa a The System de poner excusas, cargando el
+intercambio verbal con Eddie Edwards que arranca la rivalidad hacia
+Slammiversary 2026. Ver
+[`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).

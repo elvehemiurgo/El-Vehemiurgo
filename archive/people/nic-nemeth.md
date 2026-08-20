@@ -122,6 +122,21 @@ hombres es **oficio Cornette-school** puro.
 - **Candidato fuerte a panteón Fundamental** si el Vehemiurgo lo
   declara explícito. Pregunta abierta.
 
+### Sesión 2026-08-01 s43 — Distrae a Francis desde comentarios, ayuda indirecta a Navarro
+
+**Contexto**: TNA iMPACT!, 16/4/2026. Dato de research dentro del
+match AJ Francis vs KC Navarro, comentado por el Vehemiurgo como
+continuidad de rivalidad: *"incluyendo el detalle de Nemeth ayudando
+indirectamente, apuestan por seguir la rivalidad AJ vs Nick y tratan
+de escalarla ahora con KC, puede ser buena idea"*. Está en la mesa de
+comentarios con su "victory cup" (venció a Francis en Rebellion);
+Francis lo provoca, Nemeth se levanta y le rompe la concentración
+justo antes del counter de Navarro. Sube a la rampa a ayudarlo
+post-match. Ver
+[`../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md`](../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md).
+
+**Lectura sintética**: sin clase individual — dato de continuidad.
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).

@@ -241,6 +241,22 @@ improvisación + psicología + spots + secuencias oldschool. El
 salve del contract signing (2/4) pagó en el ring. Ver
 [`../matches/2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md`](../matches/2026-04-11-cedric-alexander-vs-leon-slater-x-division-tna-rebellion.md).
 
+### Sesión 2026-08-01 s43 — "Un paquete completo muy confiable" frente al reclamo de Cedric
+
+**Cita verbatim**:
+
+> *"Lion se está convirtiendo en un paquete completo muy confiable"*
+>
+> — El Vehemiurgo, 2026-08-01 s43 (verbatim; "Lion" = Leon Slater)
+
+**Lectura sintética**: **WE** para el segmento completo (TNA
+iMPACT!, 16/4/2026). Responde al reclamo de revancha de Cedric
+Alexander declarando que ganó el X Division Championship limpio en
+Rebellion, y reta a Cedric y Eddie Edwards a enfrentarlo junto a
+Moose — deriva en el 4-on-2 handicap match de esa noche, donde cae
+ante Cedric sin que el título cambie de manos. Ver
+[`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.
