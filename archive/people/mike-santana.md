@@ -310,6 +310,14 @@ Sanchez**, del **Bronx, Nueva York**; **EYFBO** (con Ortiz,
 pasar a LAX en Impact. Ver
 [`../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md`](../matches/2026-04-11-mike-santana-vs-eddie-edwards-tna-world-title-rebellion.md).
 
+### Sesión 2026-08-01 s44 — Open challenge a Rich Swann, oficializado la semana siguiente
+
+**Contexto**: TNA iMPACT!, 16/4/2026. **WE** para el segmento — lanza
+un open challenge por el TNA World Championship, Rich Swann lo acepta,
+pero Daria Rae no aparece a oficializar el match esa noche; se disputa
+el 23/4/2026 (retiene Santana, 19:08). Ver
+[`../segments/2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact.md`](../segments/2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

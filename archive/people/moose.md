@@ -171,6 +171,14 @@ intercambio verbal con Eddie Edwards que arranca la rivalidad hacia
 Slammiversary 2026. Ver
 [`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
 
+### Sesión 2026-08-01 s44 — Buena química con Bronson en el 4-on-2
+
+**Contexto**: TNA iMPACT!, 16/4/2026. **PW·FS·WE** en el main event —
+derriba a Bear Bronson saltando las cuerdas, y protagoniza el spot
+donde Myers falla un spear dirigido a él y golpea a Bronson por error;
+cae junto a Leon Slater. Ver
+[`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).

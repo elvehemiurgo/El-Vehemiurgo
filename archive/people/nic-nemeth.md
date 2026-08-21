@@ -137,6 +137,14 @@ post-match. Ver
 
 **Lectura sintética**: sin clase individual — dato de continuidad.
 
+### Sesión 2026-08-01 s44 — Ryan celoso de su atención a Navarro; Bear Bronson lo reta
+
+**Contexto**: TNA iMPACT!, 16/4/2026, backstage. **WE** para el
+segmento — su hermano Ryan muestra celos por la atención que le da a
+KC Navarro; The System irrumpe a burlarse de ambos, y **Bear Bronson
+reta a Nic Nemeth** a un match (se concreta el 23/4/2026). Ver
+[`../segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md`](../segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).

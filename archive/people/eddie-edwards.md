@@ -175,6 +175,17 @@ nombrarlo — dato de research dentro del segmento coral de The System.
 que desemboca en Eddie Edwards vs Moose en Slammiversary 2026. Ver
 [`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
 
+### Sesión 2026-08-01 s44 — Cierra el 4-on-2 con Blue Thunderbomb, el dojo violento de ROH conecta con Cedric
+
+**Contexto**: TNA iMPACT!, 16/4/2026. **PW·FS·WE** en el main event —
+conecta un Blue Thunderbomb sobre Leon Slater en la secuencia final
+antes del pin de Cedric Alexander. El Vehemiurgo lee el estilo
+*"violento de dojo old-school"* de su época en ROH como el hilo que
+conecta con Cedric Alexander en The System — ambos veteranos de la
+misma escena, aunque como rivales, no compañeros de facción, en su
+paso original por ahí. Ver
+[`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).

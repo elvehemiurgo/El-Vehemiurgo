@@ -68,6 +68,23 @@ tags: [rich-swann, ex-wwe-205-live-cruiserweight-champion, ex-tna-impact-world-c
   El Vehemiurgo trata al dúo como **unidad emergente**, no por
   CVs separados.
 
+### Sesión 2026-08-01 s44 — Acepta el open challenge de Santana: "puede ser un entertainer completo"
+
+**Cita verbatim**:
+
+> *"Rich Swann lo hizo genial con Santana, Swann puede ser un
+> enterteiner completo, deberían darle un run full heel así como
+> campeón, es muy oldschool en sus promos, me encanta"*
+>
+> — El Vehemiurgo, 2026-08-01 s44 (verbatim)
+
+**Lectura sintética**: **WE**. Acepta el open challenge de Mike
+Santana por el TNA World Championship (TNA iMPACT!, 16/4/2026), pero
+Daria Rae no aparece a oficializar el match esa noche — se disputa
+recién el 23/4/2026. **Propuesta de carrera explícita del
+Vehemiurgo**: un run full heel como campeón. Ver
+[`../segments/2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact.md`](../segments/2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.

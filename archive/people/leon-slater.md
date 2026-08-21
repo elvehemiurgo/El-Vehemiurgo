@@ -257,6 +257,25 @@ Moose — deriva en el 4-on-2 handicap match de esa noche, donde cae
 ante Cedric sin que el título cambie de manos. Ver
 [`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
 
+### Sesión 2026-08-01 s44 — Hot tag "simplemente increíble", estrella generacional rodeado de veteranos
+
+**Cita verbatim**:
+
+> *"Lion Slater con el hot tag simplemente increible y efectivo
+> siempre, está más afilado que nunca, si aprendió de NXT lo del
+> enterteinment y promos, pero no se volvió soft o muy safe para
+> nada, golpea duro y le gusta lo oldschool, eso se nota, aquí rodeado
+> de veteranos se vio como una estrella generacional"*
+>
+> — El Vehemiurgo, 2026-08-01 s44 (verbatim; "Lion" = Leon Slater)
+
+**Lectura sintética**: **PW·FS·WE** — cae en el main event 4-on-2
+(TNA iMPACT!, 16/4/2026) tras un roll-up contrado por Cedric Alexander
+con Lumbar Check. El elogio central: absorbió el pulido de
+entretenimiento/promos de NXT **sin ablandarse ni volverse safe** —
+sigue golpeando duro y old-school. Ver
+[`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.

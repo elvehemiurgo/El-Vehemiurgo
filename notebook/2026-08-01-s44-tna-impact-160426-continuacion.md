@@ -6,7 +6,7 @@ slug: tna-impact-160426-continuacion
 contexto: "TNA iMPACT! (16/4/2026) — continuación: Ali celebrando, el proyecto Bear Bronson, Rich Swann vs Santana, EC3 vs Eric Young, el regreso de Allie, los Hardys, y el main event The System vs Moose & Leon Slater"
 shows_cubiertos:
   - "TNA iMPACT! (16/4/2026) — continuación"
-estado: en-investigacion
+estado: verificado
 ultima_actualizacion: 2026-08-01
 ---
 
@@ -92,19 +92,54 @@ clase en s43, ahora elaborado con triple clase.
 
 ---
 
-## Takes por tópico — pendiente de research
+## Takes por tópico — resueltos por research
 
-*Se completa tras el research delegado.*
+| Pieza | Resultado | Clases |
+|---|---|---|
+| Mustafa Ali, segmento celebrando | — | _(sin clase — "nada destacable")_ |
+| Segmento Nemeths + KC Navarro + The System (proyecto Bear Bronson) | Bronson reta a Nic Nemeth | **WE** |
+| Rich Swann acepta open challenge de Santana | sin match esa noche | **WE** |
+| EC3 vs Eric Young | no contest (2:05) | **FS · WE** |
+| Regreso de Allie, segmento in-ring | Allie ataca a Diamond Collective | **WE** (con crítica dura de booking) |
+| Segmento de los Hardys | llaman a The Righteous | **WE** |
+| Main event: The System vs Moose & Leon Slater (4-on-2) | gana The System (Cedric pinea a Slater) | **PW · FS · WE** |
 
-| Pieza | Clases provisionales |
-|---|---|
-| Mustafa Ali, segmento celebrando | _(sin clase — "nada destacable")_ |
-| Segmento Nemeths + KC Navarro + The System (proyecto Bear Bronson) | **WE** |
-| Rich Swann vs Santana | **WE** |
-| EC3 vs Eric Young | **FS · WE** |
-| Regreso de Allie, segmento in-ring | **WE** (con crítica dura de booking) |
-| Segmento de los Hardys | **WE** |
-| Main event: The System vs Moose & Leon Slater | **PW · FS · WE** |
+**Correcciones y hallazgos clave de research**:
+
+1. **Rich Swann vs Santana NO fue un match** — fue un open challenge
+   aceptado que Daria Rae no oficializó esa noche. El título se
+   disputó recién el 23/4/2026 (gana Santana).
+2. **EC3 vs Eric Young — discrepancia sin resolver**: el no contest a
+   los 2:05 está confirmado por múltiples fuentes, sin spot de
+   gradas ni final real. La descripción de un "desenlace" completo no
+   corresponde a la cobertura del 16/4 — el detalle más cercano
+   (finish real con piledrivers, gana Eric Young) pertenece a la
+   revancha del 7/5/2026, y tampoco esa fecha menciona gradas. Se
+   preserva íntegra la lectura y clase del Vehemiurgo, marcada la
+   discrepancia para verificación futura.
+3. **La crítica sobre Rosemary como autora de booking no tiene
+   respaldo en prensa** — no hay documentación de que Holly Letkeman
+   ejerza rol creativo backstage. Se preserva como lectura editorial
+   propia, y se registró como doctrina DISTINTA de la ya archivada
+   "doctrina Rosemary" (performer, citada por Tatum Paxley en WWE) —
+   ambas conviven en la ficha de Rosemary sin fusionarse.
+4. **"Sonia" = Daria Rae (Sonya Deville)**, Director of Operations de
+   TNA desde enero 2026. La comparación con Santino Marella no es
+   hipotética: él ya ocupa el cargo paralelo de Director of Authority
+   desde el 13/1/2023.
+5. **CORRECCIÓN IMPORTANTE — genealogía de Cedric Alexander
+   invertida**: nunca fue miembro de The Decade — fue su **rival**
+   en ROH 2014 (enfrentó repetidamente a BJ Whitmer, Jimmy Jacobs y
+   Roderick Strong). El pedigrí ROH es real y sostiene la lectura del
+   Vehemiurgo sobre la conexión de estilo con Eddie Edwards, pero
+   como rival de época, no compañero de facción.
+6. **La secuencia completa del main event 4-on-2 fue reconstruida**:
+   dive de Slater → Moose derriba a Bronson → Myers falla un spear a
+   Moose y golpea a Bronson por error → hot tag a Slater (leg lariat +
+   handspring double back elbow) → secuencia final (crossbody, Blue
+   Thunderbomb de Edwards, elbow drop de Myers, frog splash de
+   Alexander) → **Cedric contra el roll-up de Slater con Lumbar
+   Check** para el pin.
 
 **Ejes editoriales preliminares**:
 
@@ -162,18 +197,13 @@ clase en s43, ahora elaborado con triple clase.
 
 ---
 
-## Research delegado (1 sub-agente en curso)
+## Research delegado (cerrado)
 
-Card completo de iMPACT! 16/4/2026 (continuación del mismo episodio de
-s43): contenido de la celebración de Ali, el segmento Nemeths/KC/The
-System sobre Bear Bronson, Rich Swann vs Santana, reconciliación del
-desenlace completo de EC3 vs Eric Young contra el dato de no contest
-ya archivado, el regreso de Allie y el contenido de la crítica de
-Rosemary como autora creativa, el segmento de los Hardys, identidad de
-la GM "Sonia", y reconstrucción completa del main event 4-on-2
-(estrategia de Myers, momentos de Bear con Moose, hot tag de Slater,
-secuencia final con Cedric) más confirmación de la genealogía de
-Cedric Alexander en The Decade con BJ Whitmer y Roderick Strong.
+Card y segmentos confirmados vía WebSearch (Fightful, Cageside Seats,
+PWTorch, Wrestling Inc, POST Wrestling, PWMania, OWW, TNA Wrestling
+oficial, Blog of Doom, Wikipedia). **Nota de entorno**: WebFetch
+devolvió bloqueo en dominios de wrestling; todo el dossier sale de
+snippets. Ver correcciones y hallazgos en la tabla de arriba.
 
 ---
 

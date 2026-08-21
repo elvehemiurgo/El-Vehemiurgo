@@ -94,6 +94,24 @@ vacío que el Vehemiurgo rechaza (CLAUDE.md sec. 3 blacklist):
 Santino **no es** comic relief geek — es **carny cómico con
 oficio y background real**.
 
+### Sesión 2026-08-01 s44 — Referencia comparativa: preferido sobre Daria Rae como GM
+
+**Cita verbatim**:
+
+> *"un Gm más carismático seria mejor para el producto, ahora mismo
+> Sonia no añade nada, realmente no veo el punto de tener esa figura
+> en vez de Santino"*
+>
+> — El Vehemiurgo, 2026-08-01 s44 (verbatim)
+
+**Lectura sintética**: sin clase — mención comparativa, no acción
+puntual (TNA iMPACT!, 16/4/2026). Research confirma que **ya ocupa un
+cargo de autoridad paralelo real** en TNA: Director of Authority desde
+el 13/1/2023 (Hard to Kill) — la preferencia del Vehemiurgo no es
+hipotética, hay una figura con más credibilidad de kayfabe ya
+disponible en el propio roster de autoridad. Ver
+[`../people/daria-rae.md`](../people/daria-rae.md).
+
 ## Pendientes / huecos
 
 - [ ] Confirmar título exacto en TNA (Director of Authority).

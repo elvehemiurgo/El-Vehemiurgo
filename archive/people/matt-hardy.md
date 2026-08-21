@@ -83,6 +83,13 @@ días después ante The System en Rebellion
 ([→](../matches/2026-04-11-hardys-vs-the-system-tag-title-tna-rebellion.md),
 **FS·WE**).
 
+### Sesión 2026-08-01 s44 — Llama a The Righteous: "the Broken season"
+
+**Contexto**: TNA iMPACT!, 16/4/2026, backstage. **WE** para el
+segmento — llama a The Righteous junto a Jeff, declarando *"the
+Broken season"*. Ver
+[`../segments/2026-04-16-hardys-llaman-a-the-righteous-tna-impact.md`](../segments/2026-04-16-hardys-llaman-a-the-righteous-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Títulos y reinados con fechas (WWE, TNA, ROH, AEW).

@@ -137,6 +137,19 @@ verlo como protagonista, contrastada con la decisión de booking real
 de centrar el arco en Eddie Edwards vs Moose. Ver
 [`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
 
+### Sesión 2026-08-01 s44 — "Toda su estrategia se vio genial" en el 4-on-2
+
+**Cita verbatim**:
+
+> *"Myers y toda su estrategia se vio genial"*
+>
+> — El Vehemiurgo, 2026-08-01 s44 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE**. Protagoniza el spot de colisión
+accidental con Bear Bronson (buscando un spear contra Moose) y agrega
+un elbow drop en la secuencia final del main event 4-on-2. Ver
+[`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de nacimiento + confirmación Long Island.

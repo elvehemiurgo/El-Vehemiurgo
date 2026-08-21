@@ -133,6 +133,13 @@ finisher de sumisión antes de caer; research registra el quiebre por
 interferencia de Myers. **FS·WE**
 ([→](../matches/2026-04-11-hardys-vs-the-system-tag-title-tna-rebellion.md)).
 
+### Sesión 2026-08-01 s44 — Llama a The Righteous, teasea el regreso de Willow
+
+**Contexto**: TNA iMPACT!, 16/4/2026, backstage. **WE** para el
+segmento — llama a The Righteous junto a Matt y teasea el regreso de
+su gimmick **Willow**. Ver
+[`../segments/2026-04-16-hardys-llaman-a-the-righteous-tna-impact.md`](../segments/2026-04-16-hardys-llaman-a-the-righteous-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia

@@ -91,6 +91,13 @@ match fue "la primera vez que se sintió de vuelta a sí mismo",
 confirmando el "comeback emotivo" que lee el Vehemiurgo. Ver
 [`../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md`](../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md).
 
+### Sesión 2026-08-01 s44 — En el centro del segmento Nemeth/System, post-victoria
+
+**Contexto**: TNA iMPACT!, 16/4/2026, backstage tras su victoria sobre
+AJ Francis. **WE** para el segmento — Ryan Nemeth muestra celos por la
+atención que Nic le da a Navarro; The System irrumpe a burlarse. Ver
+[`../segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md`](../segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Naturaleza de la lesión que lo sacó hasta Rebellion 2026.

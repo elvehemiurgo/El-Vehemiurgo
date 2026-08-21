@@ -101,6 +101,25 @@ topic). Ver
 y
 [`../topics/hardys-como-plataforma-mentor.md`](../topics/hardys-como-plataforma-mentor.md).
 
+### Sesión 2026-08-01 s44 — Reta a Nic Nemeth, y cierra el main event con "buena química" ante Moose
+
+**Cita verbatim**:
+
+> *"todo lo que están haciendo para construir a Bear me parece cool,
+> deberian acelerarle más [...] le dieron buenos momentos a Bear, su
+> química con Moose es muy buena"*
+>
+> — El Vehemiurgo, 2026-08-01 s44 (verbatim)
+
+**Lectura sintética**: **WE** en el segmento donde reta a Nic Nemeth
+(TNA iMPACT!, 16/4/2026 —
+[→](../segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md)),
+y **PW·FS·WE** en el main event 4-on-2 de esa misma noche, donde
+protagoniza el spot de colisión con Moose (Myers falla un spear a
+Moose y lo conecta contra Bronson por error) —
+[→](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
+Mandato editorial explícito de acelerar su push.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + origen.

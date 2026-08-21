@@ -153,6 +153,31 @@ counter a Lumbar Check sobre Slater sin que el título esté en juego.
 Ver
 [`../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md`](../segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md).
 
+### Sesión 2026-08-01 s44 — Pinea a Slater y queda over: "este talento es especial"
+
+**Cita verbatim**:
+
+> *"la secuencia final con Cedric, les salió perfecta, deja muy over a
+> Cedric y lo coloca como amenaza más creíble ahora en el mid card,
+> este talento es especial [...] Cedric era muy joven cuando entró y
+> esta en The Decade con BJ Whitmer y Roderick Strong, así que la
+> conección de estilos existe"*
+>
+> — El Vehemiurgo, 2026-08-01 s44 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** — main event 4-on-2 (TNA
+iMPACT!, 16/4/2026). Cierra con un frog splash y luego contra un
+roll-up de Leon Slater con un **Lumbar Check** para el pin, dejándolo
+"over" como amenaza de mid card. **CORRECCIÓN DE RESEARCH sobre su
+genealogía**: **nunca fue miembro de The Decade** — fue su rival
+encarnizado en ROH (2014), enfrentando a BJ Whitmer, Jimmy Jacobs y
+Roderick Strong repetidamente (derrotas y victorias cruzadas, incluido
+un submission match ganado a Strong en Best in the World). El pedigrí
+ROH es real y sostiene igual la lectura del Vehemiurgo sobre la
+conexión de estilo con Eddie Edwards — pero como rival de época, no
+compañero de facción. Ver
+[`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento exacta.

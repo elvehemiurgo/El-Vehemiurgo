@@ -239,6 +239,14 @@ Champion** (Rebellion, 11/4/2026). *"Ali es un arquitecto"* es el
 elogio estructural más alto que el archivo le registra. Ver
 [`../matches/2026-04-11-mustafa-ali-vs-trey-miguel-international-tna-rebellion.md`](../matches/2026-04-11-mustafa-ali-vs-trey-miguel-international-tna-rebellion.md).
 
+### Sesión 2026-08-01 s44 — Celebra el título, lanza open challenge: "nada destacable"
+
+**Contexto**: TNA iMPACT!, 16/4/2026. Celebra el TNA International
+Championship y lanza un open challenge. **Sin clase** — el propio
+Vehemiurgo lo marca explícitamente: *"buena promo, pero nada
+destacable"*. Ver
+[`../segments/2026-04-16-mustafa-ali-celebracion-tna-impact.md`](../segments/2026-04-16-mustafa-ali-celebracion-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo + nacimiento.

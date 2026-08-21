@@ -92,6 +92,29 @@ ni al catchphrase "trouble, trouble, trouble" en esta promo puntual.
 Ver
 [`../segments/2026-04-16-ec3-promo-cruzada-tna-impact.md`](../segments/2026-04-16-ec3-promo-cruzada-tna-impact.md).
 
+### Sesión 2026-08-01 s44 — No contest vs Eric Young: "la cruzada, mientras lo haga así de bien"
+
+**Cita verbatim**:
+
+> *"EC3 vs Young no decepcionó [...] la idea de la cruzada de EC3 me
+> parece genial, mientras lo haga así de bien como siempre,
+> claramente no es main event ni nada así, pero incluso con ese techo
+> se puede hacer magia [...] se merece una FS class y una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s44 (verbatim)
+
+**Lectura sintética**: **FS·WE**. Mismo episodio de la promo "it's not
+a comeback, it's a crusade". Termina en **no contest a los 2:05**
+—confirmado por múltiples fuentes— tras un clothesline que manda a
+Young y al réferi fuera del ring al mismo tiempo. **Discrepancia
+registrada sin resolver**: la descripción del Vehemiurgo de un
+desenlace completo con spot en las gradas no corresponde a la
+cobertura disponible de esta fecha — ver ficha del match para el
+detalle completo. El Vehemiurgo reconoce explícitamente el techo de
+personaje del proyecto (*"no es main event"*) sin que eso le reste
+mérito. Ver
+[`../matches/2026-04-16-ec3-vs-eric-young-tna-impact.md`](../matches/2026-04-16-ec3-vs-eric-young-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Número exacto de reinados mundiales TNA y fechas/rivales.

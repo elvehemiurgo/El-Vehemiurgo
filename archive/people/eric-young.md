@@ -110,6 +110,15 @@ babyface por contraste. Brawl inmediato, EC3 lo desafía para el
 iMPACT del 16/4 (no contest a los 2:05). Ver
 [`../segments/2026-04-11-eric-young-promo-regreso-ec3-tna-rebellion.md`](../segments/2026-04-11-eric-young-promo-regreso-ec3-tna-rebellion.md).
 
+### Sesión 2026-08-01 s44 — No contest vs EC3, nostalgia de una época de caos en TNA
+
+**Contexto**: TNA iMPACT!, 16/4/2026. **FS·WE** para el match — lo
+emboscó en la entrada, no contest a los 2:05 tras un clothesline que
+saca a Young y al réferi juntos; post-match le envuelve el cuello con
+la silla a EC3. El Vehemiurgo lee el booking como *"mucha nostalgia de
+una época de caos e incertidumbre en TNA"*. Ver
+[`../matches/2026-04-16-ec3-vs-eric-young-tna-impact.md`](../matches/2026-04-16-ec3-vs-eric-young-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).
