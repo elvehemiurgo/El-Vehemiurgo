@@ -120,6 +120,30 @@ Moose y lo conecta contra Bronson por error) —
 [→](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
 Mandato editorial explícito de acelerar su push.
 
+### Sesión 2026-08-01 s45 — Cae ante Nic Nemeth: el showcase esperado, "aún verde" pero con oldschool
+
+**Cita verbatim**:
+
+> *"esperaba un showcase y una evolución de Bear en TV, y eso es lo
+> que dieron [...] si estan dandole una chance real a Bear para hacer
+> algo importante, no es un talento generacional pero tiene la
+> oportunidad de posicionarse como performer world class y aprender
+> de los mejores, y lo está haciendo bien [...] no es perfecta y se
+> ve aun verde Bear como heel principal, pero el oldschool está ahi"*
+>
+> — El Vehemiurgo, 2026-08-01 s45 (verbatim)
+
+**Lectura sintética**: **FS·WE** (TNA iMPACT!, 23/4/2026). Domina la
+mayor parte del match con ofensiva de poder (castigo de esquina,
+choke, spinebuster, sitting splash) antes de caer ante el Danger Zone
+de Nic Nemeth, tras la interferencia de Alisha Edwards y la distracción
+de KC Navarro. Prensa especializada confirma en paralelo la lectura
+del Vehemiurgo sin usar sus mismas palabras: *"Bronson ha superado
+completamente las expectativas en su tiempo aquí"* (411mania), con
+crítica de booking (finish de distracción reciclada) que no cuestiona
+su trabajo. Ver
+[`../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md`](../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + origen.

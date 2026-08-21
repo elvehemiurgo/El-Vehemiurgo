@@ -220,6 +220,7 @@ con cada cambio de estado.
 | 2026-04-25 | La Parka & Rey Fénix vs Money Machine | AAA / AAA Worldwide | FS·WE | en-investigacion | 1 | [→](2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md) |
 | 2026-04-24 | Jacy Jayne vs Rhea Ripley | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md) |
 | 2026-04-24 | Giulia vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md) |
+| 2026-04-23 | Bear Bronson vs Nic Nemeth | TNA Wrestling / iMPACT! | FS·WE | en-investigacion | 1 | [→](2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md) |
 | 2026-04-22 | Darby Allin (c) vs Tomasso [sic — presumido Tomohiro Ishii] — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md) |
 | 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |
 | 2026-04-21 | Sol Ruca vs Zaria (grudge match) | WWE / NXT Revenge — Week 2 | FS·WE | en-investigacion | 1 | [→](2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md) |

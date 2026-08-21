@@ -98,6 +98,18 @@ AJ Francis. **WE** para el segmento — Ryan Nemeth muestra celos por la
 atención que Nic le da a Navarro; The System irrumpe a burlarse. Ver
 [`../segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md`](../segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md).
 
+### Sesión 2026-08-01 s45 — Distrae a todo The System, habilita el finish de Nemeth
+
+**Contexto**: TNA iMPACT!, 23/4/2026. Dato de research dentro del
+match Bear Bronson vs Nic Nemeth, no comentado individualmente por el
+Vehemiurgo. Sale a distraer a todo The System tras el choke de Alisha
+Edwards sobre Nemeth, permitiendo que Ryan lo meta de vuelta al ring
+para el Danger Zone. Pago directo de los celos de Ryan Nemeth
+registrados en el segmento del 16/4. Ver
+[`../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md`](../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md).
+
+**Lectura sintética**: sin clase individual — dato de continuidad.
+
 ## Pendientes / huecos
 
 - [ ] Naturaleza de la lesión que lo sacó hasta Rebellion 2026.

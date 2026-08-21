@@ -145,6 +145,14 @@ KC Navarro; The System irrumpe a burlarse de ambos, y **Bear Bronson
 reta a Nic Nemeth** a un match (se concreta el 23/4/2026). Ver
 [`../segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md`](../segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md).
 
+### Sesión 2026-08-01 s45 — Vence a Bear Bronson con el Danger Zone, pago del feud con The System
+
+**Contexto**: TNA iMPACT!, 23/4/2026. **FS·WE** para el match — cae
+bajo el dominio de poder de Bronson hasta que la distracción de KC
+Navarro sobre The System le permite a Ryan meterlo de nuevo al ring
+para el superkick + Danger Zone. Ver
+[`../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md`](../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).

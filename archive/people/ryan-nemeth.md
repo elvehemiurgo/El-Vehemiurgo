@@ -40,6 +40,18 @@ match 11 dic 2025 (gauntlet con BDE, Something, Cedric Alexander,
 Dezmond Xavier, Jason Hotch). **Pieza de ensemble**, no anchor del
 take.
 
+### Sesión 2026-08-01 s45 — En comentarios, empuja a Nic de vuelta al ring: "por culpa de KC Navarro"
+
+**Contexto**: TNA iMPACT!, 23/4/2026. Dato de research dentro del
+match de Nic Nemeth vs Bear Bronson, no comentado individualmente por
+el Vehemiurgo — **FS·WE** corresponde al match completo. En la mesa de
+comentarios con el trofeo "Call Your Shot" de Nic, declara que el
+match ocurre *"por culpa de KC Navarro"* — pago directo de los celos
+mostrados en el segmento del 16/4/2026. Empuja a Nic de vuelta al
+ring tras la distracción de Navarro sobre The System, habilitando el
+Danger Zone. Ver
+[`../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md`](../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Confirmar identidad **Briley Pierce** (WWE) → Ryan Nemeth.
