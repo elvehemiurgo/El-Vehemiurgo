@@ -4,14 +4,15 @@ slug: eventos-watch-list-vehemiurgo
 tipo: topic
 categoria: watch-list
 estado: vivo
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-08-22
 fuentes_principales:
   - "Lista personal verbatim: notebook/2026-05-09-2-lista-personal-completa.md"
   - "Derivado de archive/topics/lista-personal-maestra-indice.md"
+  - "Generador: bin/regen_vistas.py"
 tags: [watch-list, pendientes, lista-personal-maestra, eventos-cluster]
 ---
 
-> **VISTA GENERADA — no editar a mano.** Regenerar con sub-agente o `/regen-vistas` tras integrar fichas. Última regeneración: 2026-07-05.
+> **VISTA GENERADA — no editar a mano.** Regenerar con `python3 bin/regen_vistas.py` tras integrar fichas. Última regeneración: 2026-08-22.
 
 # Eventos / shows pendientes de ver — watch-list del Vehemiurgo
 
@@ -21,12 +22,13 @@ maestra que **todavía no tienen marca `(✓)` ni ficha individual** en
 3+ bullets corresponden al mismo show (típicamente PPV o programa con
 cobertura densa); el resto va como matches/segments sueltos.
 
-**Conteo actual (2026-07-05)**: **625 entradas pendientes** —
-**86 eventos agrupados** (461 entradas) +
-**164 sueltos**. Todo lo que ya tiene ficha fue
+**Conteo actual (2026-08-22)**: **625 entradas pendientes** —
+**74 eventos agrupados** (385 entradas) +
+**240 sueltos**. Todo lo que ya tiene ficha fue
 removido de esta vista.
 
-Orden: **cronológico moderno primero** (2026 arriba, 1980s abajo).
+Orden: **cronológico moderno primero** (2026 arriba, décadas viejas
+abajo).
 
 ---
 
@@ -45,7 +47,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — CODY RHODES POST MANIA PROMO WWE SmackDown 24.04.2026
 - *segment* — BROCK LESNAR PROMO VIDEO WWE SmackDown 24.04.2026
 - *match* — JACOB FATU VS SOLO SIKOA WWE SmackDown 24.04.2026
-- *segment* — JACOB FATU DESTROYS EVERYONE WWE SmackDown 24.04.2026
+- *match* — JACOB FATU DESTROYS EVERYONE WWE SmackDown 24.04.2026
 
 ### 2026-04-20 — Raw (10 entradas)
 
@@ -55,18 +57,10 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — IYO SKY & RHEA RIPLEY VS KABUKI WARRIORS WWE Raw 20.04.2026
 - *segment* — LIV MORGAN CELEBRATION PROMO WWE Raw 20.04.2026
 - *match* — SOL RUCA VS LIV MORGAN WWE Raw 20.04.2026
-- *match* — FINN BÁLOR VS JD McDonagh WWE Raw 20.04.2026
+- *match* — FINN BÁLOR VS JD MCDONAGH WWE Raw 20.04.2026
 - *segment* — LA KNIGHT PROMO WITH GUNTHER WWE Raw 20.04.2026
 - *segment* — RHEA RIPLEY AND LIV MORGAN MOMENT BACKSTAGE WWE Raw 20.04.2026
 - *segment* — ROMAN REIGNS AND JACOB FATU SEGMENT WWE Raw 20.04.2026
-
-### 2026-04-19 — WrestleMania 42 Día 2 (5 entradas)
-
-- *match* — JD McDonagh IN WWE WrestleMania 42 Día 2
-- *match* — TRICK WILLIAMS VS SAMI ZAYN WWE WrestleMania 42 Día 2
-- *match* — DOMINIK MYSTERIO VS FINN BÁLOR WWE WrestleMania 42 Día 2
-- *match* — CM PUNK VS ROMAN REIGNS PROMO VIDEO WWE WrestleMania 42 Día 2
-- *segment* — CM PUNK MISERIA CANTARE PROMO VIDEO WWE WrestleMania 42 Día 2
 
 ### 2026-04-13 — Raw (4 entradas)
 
@@ -81,27 +75,21 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — DREW MCINTYRE VIDEO PROMO WWE SmackDown 10.04.2026
 - *segment* — TRICK AND MELO SEGMENT BACKSTAGE WWE SmackDown 10.04.2026
 - *match* — JACOB FATU VS TAMA TONGA WWE SmackDown 10.04.2026
-- *match* — LESNAR VS FEMI PROMO VIDEO WWE SmackDown 10.04.2026
+- *segment* — LESNAR VS FEMI PROMO VIDEO WWE SmackDown 10.04.2026
 - *match* — KIT WILSON VS DANHAUSEN WWE SmackDown 10.04.2026
 
 ### 2026-04-06 — Raw (4 entradas)
 
 - *segment* — THE VISION SEGMENT BACKSTAGE WITH SPEED AND THE SCRAPDADDY ADAM PIERCE WWE Raw 06.04.2026
 - *match* — LOS AMERICANOS VS JEVON EVANS, DRAGON LEE & PENTA WWE Raw 06.04.2026
-- *segment* — LESNAR AND FEMI CONTRACT SIGNING WWE Raw 06.04.2026
+- *match* — LESNAR AND FEMI CONTRACT SIGNING WWE Raw 06.04.2026
 - *segment* — FINN BÁLOR VIDEO PROMO WWE Raw 06.04.2026
 
-### 2026-04-04 — NXT Stand & Deliver 2026 (3 entradas)
+### 2026-04-04 — Stand & Deliver (3 entradas)
 
 - *match* — LOS AMERICANOS VS VANITY PROJECT NXT Stand & Deliver 04.04.2026
-- *match* — MILES BORNE VS JOHNNY GARGANO NXT Stand & Deliver 04.04.2026
+- *match* — MYLES BORNE VS JOHNNY GARGANO NXT Stand & Deliver 04.04.2026
 - *match* — TATUM PAXLEY VS BLAKE MONROE NXT Stand & Deliver 04.04.2026
-
-### 2026-03-31 — NXT (3 entradas)
-
-- *match* — JAYDA PARKER VS KELANI JORDAN NXT 31.03.2026
-- *segment* — WHC CONTRACT SIGNING WITH ETHAN PAGE, RICKY, JOE & GABAGOOL NXT 31.03.2026
-- *match* — LOLA VICE VS KENDAL GREY NXT 31.03.2026
 
 ### 2026-03-30 — Raw (3 entradas)
 
@@ -111,12 +99,12 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 
 ### 2026-03-27 — SmackDown (4 entradas)
 
-- *match* — RANDY ORTON VS CODY RHODES VIDEO PROMO WWE SmackDown 27.03.2026
+- *segment* — RANDY ORTON VS CODY RHODES VIDEO PROMO WWE SmackDown 27.03.2026
 - *segment* — TRICK WILLIAMS AND NICK ALDIS SEGMENT WWE SmackDown 27.03.2026
 - *segment* — RANDY ORTON SEGMENT BACKSTAGE WITH NICK ALDIS WWE SmackDown 27.03.2026
 - *match* — EVERYTHING KIT WILSON DOES HERE WWE SmackDown 27.03.2026
 
-### 2026-03-25 — AEW Dynamite (5 entradas)
+### 2026-03-25 — Dynamite (5 entradas)
 
 - *segment* — WILL OSPREAY PROMO AEW Dynamite 25.03.2026
 - *match* — MIKE BAILEY VS ROCKY ROMERO AEW Dynamite 25.03.2026
@@ -124,28 +112,19 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — CASH WHEELER PROMO AEW Dynamite 25.03.2026
 - *match* — DAVID FINLAY & CLARK CONNORS VS RODERICK STRONG & CASSIDY AEW Dynamite 25.03.2026
 
-### 2026-03-24 — NXT (6 entradas)
-
-- *match* — FATAL INFLUENCE VS WRN QCC NXT 24.03.2026
-- *match* — CHARLIE DEMPSEY VS DOCTOR THIRST JACKSON DRAKE VS SHYLO VS JOHNNY GARGANO NXT 24.03.2026
-- *match* — LOS AMERICANOS VS THE CULLING NXT 24.03.2026
-- *segment* — JOSH BRIGGS IN HIS SEGMENT BACKSTAGE NXT 24.03.2026
-- *match* — OTM & MIKE SANTANA VS DARK STATE NXT 24.03.2026
-- *match* — LOS AMERICANOS VS THE BIRTHRIGHT NXT 24.03.2026
-
 ### 2026-03-23 — Raw (7 entradas)
 
 - *segment* — BROCK LESNAR AND OBA FEMI SEGMENT WWE Raw 23.03.2026
 - *segment* — LOS AMERICANOS PROMO WWE Raw 23.03.2026
 - *match* — GREYSON WALLER VS JEVON EVANS WWE Raw 23.03.2026
 - *segment* — ORIGINAL GRANDE AMERICANO PROMO WWE Raw 23.03.2026
-- *segment* — STEPHANIE VAQUER ATTACKS LIV MORGAN WWE Raw 23.03.2026
+- *match* — STEPHANIE VAQUER ATTACKS LIV MORGAN WWE Raw 23.03.2026
 - *segment* — FINN BÁLOR RETURNS WWE Raw 23.03.2026
 - *segment* — CM PUNK AND THE BLOODLINE SEGMENT WWE Raw 23.03.2026
 
 ### 2026-03-20 — SmackDown (11 entradas)
 
-- *segment* — KIT WILSON IN THE OPENING OF WWE SmackDown 20.03.2026
+- *match* — KIT WILSON IN THE OPENING OF WWE SmackDown 20.03.2026
 - *match* — DREW MCINTYRE VS JACOB FATU BRAWL WWE SmackDown 20.03.2026
 - *segment* — TRICK WILLIAMS BACKSTAGE WITH SAMI ZAYN WWE SmackDown 20.03.2026
 - *segment* — DANHAUSEN AND CANDICE LERAE SEGMENT WWE SmackDown 20.03.2026
@@ -153,26 +132,17 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — LASH LEGEND & NIA JAX PROMO VIDEO WWE SmackDown 20.03.2026
 - *segment* — RHEA RIPLEY AND JADE CARGILL IN-RING SEGMENT WWE SmackDown 20.03.2026
 - *match* — CARMELO HAYES VS ILJA DRAGUNOV WWE SmackDown 20.03.2026
-- *match* — OBA FEMI VS BROCK LESNAR VIDEO PACKAGE WWE SmackDown 20.03.2026
-- *segment* — KIT WILSON POETRY SLAM WWE SmackDown 20.03.2026
-- *segment* — LASH LEGEND & NIA JAX POST MATCH ATTACK WWE SmackDown 20.03.2026
+- *segment* — OBA FEMI VS BROCK LESNAR VIDEO PACKAGE WWE SmackDown 20.03.2026
+- *match* — KIT WILSON POETRY SLAM WWE SmackDown 20.03.2026
+- *match* — LASH LEGEND & NIA JAX POST MATCH ATTACK WWE SmackDown 20.03.2026
 
-### 2026-03-18 — AEW Dynamite (5 entradas)
+### 2026-03-18 — Dynamite (5 entradas)
 
 - *match* — CHRISTIAN BLAKE VS WILL OSPREAY AEW Dynamite 18.03.2026
-- *segment* — WILL OSPREAY ATTACKS MOXLEY AEW Dynamite 18.03.2026
+- *match* — WILL OSPREAY ATTACKS MOXLEY AEW Dynamite 18.03.2026
 - *segment* — GABE KIDD PROMO VIDEO AEW Dynamite 18.03.2026
 - *segment* — GABE KIDD PARKING LOT PROMO AEW Dynamite 18.03.2026
 - *match* — MARK DAVIS VS MIKE BAILEY AEW Dynamite 18.03.2026
-
-### 2026-03-17 — NXT (6 entradas)
-
-- *match* — JACY JAYNE VS SOL RUCA VS SARIA NXT 17.03.2026
-- *segment* — ETHAN PAGE, RICKY STARKS AND JOE HENDRY SEGMENT NXT 17.03.2026
-- *segment* — THE BIRTHRIGHT AND ROBERT STONE SEGMENT NXT 17.03.2026
-- *match* — THE VANITY PROJECT VS LOS AMERICANOS NXT 17.03.2026
-- *match* — WREN SINCLAIR VS FALLON HENLEY NXT 17.03.2026
-- *match* — TATUM PAXLEY VS IZZI DAME NXT 17.03.2026
 
 ### 2026-03-16 — Raw (7 entradas)
 
@@ -184,11 +154,11 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — RAQUEL VS STEPHANIE VAQUER WWE Raw 16.03.2026
 - *segment* — CM PUNK AND ROMAN REIGNS IN-RING SEGMENT WWE Raw 16.03.2026
 
-### 2026-03-15 — AEW Revolution (4 entradas)
+### 2026-03-15 — Revolution (4 entradas)
 
-- *segment* — TONI STORM ENTRANCE AEW Revolution 15.03.2026
-- *segment* — KRIS STATLANDER AND Thekla VIDEO PROMO AEW Revolution 15.03.2026
-- *match* — KRIS STATLANDER VS Thekla AEW Revolution 15.03.2026
+- *match* — TONI STORM ENTRANCE AEW Revolution 15.03.2026
+- *segment* — KRIS STATLANDER AND THEKLA VIDEO PROMO AEW Revolution 15.03.2026
+- *match* — KRIS STATLANDER VS THEKLA AEW Revolution 15.03.2026
 - *match* — ANDRADE VS BANDIDO AEW Revolution 15.03.2026
 
 ### 2026-03-13 — SmackDown (15 entradas)
@@ -196,7 +166,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — DREW VS CODY COLD OPENING WWE SmackDown 13.03.2026
 - *segment* — DREW MCINTYRE "I QUIT" RINGSIDE SEGMENT AGAINST NICK ALDIS WWE SmackDown 13.03.2026
 - *segment* — JACOB FATU AND DREW MCINTYRE IN-RING SEGMENT WWE SmackDown 13.03.2026
-- *match* — CM PUNK VS ROMAN REIGNS WRESTLEMANIA PROMO WWE SmackDown 13.03.2026
+- *segment* — CM PUNK VS ROMAN REIGNS WRESTLEMANIA PROMO WWE SmackDown 13.03.2026
 - *segment* — TRICK WILLIAMS AND JACOB FATU BACKSTAGE SEGMENT WITH NICK ALDIS WWE SmackDown 13.03.2026
 - *segment* — GIULIA AND KIANA PROMO BACKSTAGE WWE SmackDown 13.03.2026
 - *segment* — RHEA RIPLEY PROMO AGAINST JADE CARGILL WWE SmackDown 13.03.2026
@@ -207,44 +177,34 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — TIFFANY STRATTON VS KIANA JAMES WWE SmackDown 13.03.2026
 - *segment* — TRICK WILLIAMS PROMO BACKSTAGE WWE SmackDown 13.03.2026
 - *match* — TRICK WILLIAMS VS JACOB FATU WWE SmackDown 13.03.2026
-- *segment* — RANDY ORTON AND CODY RHODES WRESTLEMANIA CONTRACT SIGNING WWE SmackDown 13.03.2026
+- *match* — RANDY ORTON AND CODY RHODES WRESTLEMANIA CONTRACT SIGNING WWE SmackDown 13.03.2026
 
-### 2026-03-12 — TNA Impact (5 entradas)
+### 2026-03-12 — Impact (5 entradas)
 
 - *match* — THE HARDYS VS SINNER & SAINT TNA Impact 12.03.2026
 - *segment* — SANTANA AND MACLIN BACKSTAGE SEGMENT TNA Impact 12.03.2026
-- *segment* — Arianna Grace AND STACKS ATTACK HARTWELL BACKSTAGE TNA Impact 12.03.2026
+- *segment* — ARIANNA GRACE AND STACKS ATTACK HARTWELL BACKSTAGE TNA Impact 12.03.2026
 - *segment* — STEVE MACLIN IN-RING COMEBACK SEGMENT TNA Impact 12.03.2026
 - *segment* — ROSEMARY AND SWINGER'S "SWINGER'S PALACE" SEGMENT TNA Impact 12.03.2026
 
-### 2026-03-11 — AEW Dynamite (5 entradas)
+### 2026-03-11 — Dynamite (5 entradas)
 
 - *match* — KYLE FLETCHER VS MIKE BAILEY AEW Dynamite 11.03.2026
 - *match* — PERSEPHONE VS WILLOW AEW Dynamite 11.03.2026
 - *match* — YOUNG BUCKS & MARK BRISCOE VS FTR & CIAMPA AEW Dynamite 11.03.2026
-- *match* — MJF VS HANGMAN REVOLUTION PROMO VIDEO AEW Dynamite 11.03.2026
+- *segment* — MJF VS HANGMAN REVOLUTION PROMO VIDEO AEW Dynamite 11.03.2026
 - *match* — MJF AND HANGMAN PRESS CONFERENCE PRE REVOLUTION AEW Dynamite 11.03.2026
 
-### 2026-03-10 — NXT (7 entradas)
+### 2026-03-07 — NXT Vengeance Day (4 entradas)
 
-- *segment* — OPENING VIDEO NXT 10.03.2026
-- *segment* — TATUM PAXLEY AND IZZI DAME SEGMENT NXT 10.03.2026
-- *segment* — ROBERT STONE AND SHILOH BACKSTAGE NXT 10.03.2026
-- *segment* — WREN QCC SEGMENT WITH HENDRY AND BORNE NXT 10.03.2026
-- *match* — LAINEY REID VS SOL RUCA NXT 10.03.2026
-- *segment* — TATUM PAXLEY AND IZZI DAME BACKSTAGE BRAWL NXT 10.03.2026
-- *match* — ETHAN PAGE & RICKY STARKS VS JOE HENDRY & MILES BORNE NXT 10.03.2026
-
-### 2026-03-07 — NXT Vengeance Day 2026 (4 entradas)
-
-- *match* — JAYDA PARKER VS BLAKE MONROE NXT Vengeance Day 07.03.2026
+- *match* — JAIDA PARKER PARKER VS BLAKE MONROE NXT Vengeance Day 07.03.2026
 - *match* — IZZI DAME VS TATUM PAXLEY NXT Vengeance Day 07.03.2026
 - *segment* — FATAL INFLUENCE SEGMENT NXT Vengeance Day 07.03.2026
-- *match* — KELANI JORDAN VS LOLA VICE PROMO VIDEO NXT Vengeance Day 07.03.2026
+- *segment* — KELANI JORDAN VS LOLA VICE PROMO VIDEO NXT Vengeance Day 07.03.2026
 
-### 2026-03-07 — WWE AAA (Worldwide) (3 entradas)
+### 2026-03-07 — Worldwide (3 entradas)
 
-- *segment* — LADY FLAMER PROMO VIDEO WWE AAA Worldwide 07.03.2026
+- *segment* — FLAMMER PROMO VIDEO WWE AAA Worldwide 07.03.2026
 - *match* — ABISMO NEGRO JR VS PSICO CLOWN VS MR IGUANA VS SANTOS WWE AAA Worldwide 07.03.2026
 - *match* — ORIGINAL GRANDE AMERICANO VS LA PARKA WWE AAA Worldwide 07.03.2026
 
@@ -264,7 +224,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — MEI SEIRA & STARLIGHT KID VS LLUVIA & LA JAROCHITA CMLL 06.03.2026
 - *match* — PERSEPHONE VS MONE CMLL 06.03.2026
 
-### 2026-03-05 — TNA Impact (5 entradas)
+### 2026-03-05 — Impact (5 entradas)
 
 - *match* — SINNER & SAINT VS THE SYSTEM'S MYERS & BRONSON VS THE RIGHTEOUS VS SWANN & BDE TNA Impact 05.03.2026
 - *segment* — MOOSE PROMO IN-RING AGAINST THE SYSTEM TNA Impact 05.03.2026
@@ -272,7 +232,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — AJ FRANCIS PROMO IN ATLANTA TNA Impact 05.03.2026
 - *segment* — KAZARIAN KING'S SPEECH SEGMENT TNA Impact 05.03.2026
 
-### 2026-03-04 — AEW Dynamite (10 entradas)
+### 2026-03-04 — Dynamite (10 entradas)
 
 - *match* — MJF VS KEVIN KNIGHT AEW Dynamite 04.03.2026
 - *match* — CLARK CONNORS & GABE KIDD VS DARBY ALLIN & CASSIDY AEW Dynamite 04.03.2026
@@ -280,18 +240,10 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — MJF PROMO WITH HANGMAN AEW Dynamite 04.03.2026
 - *segment* — DON CALLIS FAMILY TRIOS PROMO AEW Dynamite 04.03.2026
 - *segment* — YOUNG BUCKS AND FTR FACE TO FACE SEGMENT AEW Dynamite 04.03.2026
-- *match* — Thekla VS THUNDER ROSA AEW Dynamite 04.03.2026
+- *match* — THEKLA VS THUNDER ROSA AEW Dynamite 04.03.2026
 - *segment* — TONI STORM PROMO AEW Dynamite 04.03.2026
 - *segment* — FTR AND CIAMPA RINGSIDE SEGMENT AEW Dynamite 04.03.2026
 - *match* — PROTOKADA & MARK DAVIS VS JETSET RODEO AEW Dynamite 04.03.2026
-
-### 2026-03-03 — NXT (5 entradas)
-
-- *segment* — OPENING VIDEO NXT 03.03.2026
-- *match* — MILES BORNE VS ETHAN PAGE NXT 03.03.2026
-- *match* — WREN SINCLAIR VS NIKKITA LYONS NXT 03.03.2026
-- *match* — VANITY PROJECT VS SHILOH, HANK & TANK NXT 03.03.2026
-- *segment* — BLAKE MONROE PROMO NXT 03.03.2026
 
 ### 2026-03-02 — Raw (4 entradas)
 
@@ -300,7 +252,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — DOMINIK MYSTERIO VS PENTA WWE Raw 02.03.2026
 - *match* — CM PUNK & ROMAN REIGNS "I'M GONNA BURY YOU" WWE Raw 02.03.2026
 
-### 2026-03-01 — ROH on HonorClub (6 entradas)
+### 2026-03-01 — on HonorClub (6 entradas)
 
 - *segment* — PERSEPHONE PROMO VIDEO AEW ROH on HonorClub 01.03.2026
 - *match* — PERSEPHONE VS SARA LEON AEW ROH on HonorClub 01.03.2026
@@ -309,7 +261,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — TOMMY BILLINGTON & ADAM PRIEST VS WORK HORSEMEN (ANTHONY HENRY & JD DRAKE) AEW ROH on HonorClub 01.03.2026
 - *match* — ZAYDA STEEL VS MINA SHIRAKAWA AEW ROH on HonorClub 01.03.2026
 
-### 2026-02-28 — WWE AAA (Worldwide) (3 entradas)
+### 2026-02-28 — Worldwide (3 entradas)
 
 - *segment* — GRANDE AMERICANO PROMO WWE AAA Worldwide 28.02.2026
 - *segment* — GRANDE AMERICANO AND PIMPI AMBULANCE SEGMENT WWE AAA Worldwide 28.02.2026
@@ -329,7 +281,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — PERSEPHONE VS OLYMPIA CMLL 27.02.2026
 - *match* — JOHNNY CONSEJO VS ANGEL DE ORO CMLL 27.02.2026
 
-### 2026-02-25 — AEW Dynamite (5 entradas)
+### 2026-02-25 — Dynamite (5 entradas)
 
 - *segment* — KEVIN KNIGHT IN-RING PROMO AEW Dynamite 25.02.2026
 - *segment* — MJF IN-RING SEGMENT WITH HANGMAN AEW Dynamite 25.02.2026
@@ -337,118 +289,76 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — AEW COLLISION PROMO VIDEO AEW Dynamite 25.02.2026
 - *match* — MYRON REED AND TOA LIONA IN THE HIGH MILE MADNESS AEW Dynamite 25.02.2026
 
-### 2026-02-24 — NXT (11 entradas)
-
-- *match* — THE VANITY PROJECT VS DARK STATE NXT 24.02.2026
-- *segment* — WREN QCC SEGMENT WITH KELANI JORDAN NXT 24.02.2026
-- *match* — ELIO LEFLEUR VS ELI KNIGHT VS JASPER TROY — first ever NXT Speed 3-way match NXT 24.02.2026
-- *segment* — ETHAN PAGE, THE VANITY PROJECT AND RICKY SEGMENT NXT 24.02.2026
-- *segment* — JOE HENDRY PROMO VIDEOS NXT 24.02.2026
-- *segment* — DARK STATE, LOLA VICE AND ROBERT STONE SEGMENT NXT 24.02.2026
-- *segment* — SARIA BETRAYS SOL RUCA BEFORE HER MATCH NXT 24.02.2026
-- *match* — JACY JAYNE VS SOL RUCA NXT 24.02.2026
-- *match* — BLAKE MONROE VS THEA NXT 24.02.2026
-- *segment* — FATAL INFLUENCE SEGMENT WITH SARIA NXT 24.02.2026
-- *segment* — VANITY PROJECT SEGMENT NXT 24.02.2026
-
-### 2026-02-21 — WWE AAA (Worldwide) (11 entradas)
+### 2026-02-21 — AAA (10 entradas)
 
 - *match* — TJP VS LAREDO KID WWE AAA 21.02.2026
 - *segment* — VIKINGO'S VIDEO AT THE HOSPITAL WWE AAA 21.02.2026
 - *match* — END OF CONTRACT SIGNING VIKINGO VS DOMINIK WWE AAA 21.02.2026
 - *match* — EL FISCAL VS ABISMO NEGRO WWE AAA 21.02.2026
-- *match* — EL FISCAL VS ABISMO NEGRO JR PROMO VIDEO WWE AAA 21.02.2026
+- *segment* — EL FISCAL VS ABISMO NEGRO JR PROMO VIDEO WWE AAA 21.02.2026
 - *match* — ABISMO NEGRO VS EL FISCAL WWE AAA 21.02.2026
 - *segment* — VIKINGO DOCTOR SEGMENT WWE AAA 21.02.2026
-- *match* — TJ PERKINS VS LAREDO KID WWE AAA Sábado 21.02.2026
 - *segment* — VIKINGO'S VIDEO AT THE HOSPITAL WWE AAA 21.02.2026
 - *match* — END OF CONTRACT SIGNING VIKINGO VS DOMINIK WWE AAA 21.02.2026
 - *match* — EL FISCAL VS ABISMO NEGRO WWE AAA 21.02.2026
 
-### 2026-02-19 — TNA Impact (6 entradas)
+### 2026-02-19 — Impact (6 entradas)
 
-- *match* — HEATHER BY ELEGANCE VS Indi Hartwell TNA Impact 19.02.2026
-- *segment* — Leon Slater, MIKE SANTANA, NICK AND RYAN NEMETH SEGMENT TNA Impact 19.02.2026
-- *segment* — Arianna Grace PROMO AS NEW KOS CHAMPION TNA Impact 19.02.2026
-- *match* — TESSA BLANCHARD VS Jodi Threat TNA Impact 19.02.2026
+- *match* — HEATHER BY ELEGANCE VS INDI HARTWELL TNA Impact 19.02.2026
+- *segment* — LEON SLATER, MIKE SANTANA, NICK AND RYAN NEMETH SEGMENT TNA Impact 19.02.2026
+- *segment* — ARIANNA GRACE PROMO AS NEW KOS CHAMPION TNA Impact 19.02.2026
+- *match* — TESSA BLANCHARD VS JODI THREAT TNA Impact 19.02.2026
 - *match* — SINNER & SAINT VS SWANN & BDE TNA Impact 19.02.2026
 - *segment* — AJ FRANCIS FIGHTS MANCER BACKSTAGE TNA Impact 19.02.2026
 
-### 2026-02-18 — AEW Dynamite (5 entradas)
+### 2026-02-18 — Dynamite (5 entradas)
 
 - *segment* — MJF AND HANGMAN SEGMENT AEW Dynamite 18.02.2026
 - *match* — CLARK CONNORS & GABE KIDD VS ISHII & CASSIDY AEW Dynamite 18.02.2026
-- *segment* — JOSH ALEXANDER & THE DON CALLIS FAMILY RESPOND TO MOXLEY AEW Dynamite 18.02.2026
+- *match* — JOSH ALEXANDER & THE DON CALLIS FAMILY RESPOND TO MOXLEY AEW Dynamite 18.02.2026
 - *segment* — KRIS STATLANDER PROMO AEW Dynamite 18.02.2026
 - *segment* — KEVIN KNIGHT PROMO AEW Dynamite 18.02.2026
 
-### 2026-02-17 — NXT (8 entradas)
-
-- *match* — THE VANITY PROJECT VS THE CULLING VS OTM VS HANK & TANK NXT 17.02.2026
-- *segment* — FATAL INFLUENCE JACY JAYNE CHAMPION SEGMENT NXT 17.02.2026
-- *match* — HELIO LEFLUX VS ELI KNIGHT NXT 17.02.2026
-- *segment* — MILES BORNE AND SHILOH SEGMENT BACKSTAGE NXT 17.02.2026
-- *match* — ROBERT STONE, FALLON HENLEY AND BLAKE MONROE NXT 17.02.2026
-- *match* — ETHAN PAGE VS SHILOH NXT 17.02.2026
-- *match* — KELANI JORDAN VS LOLA VICE NXT 17.02.2026
-- *match* — Kelani Jordan VS LOLA VICE WWE NXT 17.02.2026
-
-### 2026-02-14 — AEW Grand Slam Australia (3 entradas)
+### 2026-02-14 — Grand Slam Australia (3 entradas)
 
 - *match* — ANDRADE VS ADAM PAGE AEW Grand Slam Australia 14.02.2026
 - *match* — MJF VS BRODY KING AEW Grand Slam Australia 14.02.2026
-- *segment* — Thekla AND STATLANDER PROMO VIDEO AEW Grand Slam Australia 14.02.2026
+- *segment* — THEKLA AND STATLANDER PROMO VIDEO AEW Grand Slam Australia 14.02.2026
 
-### 2026-02-14 — WWE AAA (Worldwide) (4 entradas)
+### 2026-02-14 — AAA (3 entradas)
 
 - *match* — LA PARKA VS JACK CARTWHEEL WWE AAA 14.02.2026
-- *match* — LAS TÓXICAS (LA HIEDRA, LADY FLAMER & MARAVILLA) VS JESSY JACKSON, FABI APACHE & ADELICIOUS WWE AAA 14.02.2026
+- *match* — LAS TÓXICAS (LA HIEDRA, FLAMMER & MARAVILLA) VS JESSY JACKSON, FABI APACHE & ADELICIOUS WWE AAA 14.02.2026
 - *match* — MONEY MACHINE VS RAYO & BRAVO VS WAR MACHINE WWE AAA 14.02.2026
-- *match* — LAS TÓXICAS VS ADELICIOUS, FABI APACHE & J JACKSON WWE AAA Worldwide 14.02.2026
 
 ### 2026-02-13 — SmackDown (3 entradas)
 
 - *match* — GIULIA VS ALEXA BLISS VS ZELINA WWE SmackDown 13.02.2026
-- *match* — Shinsuke Nakamura, Carmelo Hayes, Ilja Dragunov, Matt Cardona & Apollo Crews vs. Solo Sikoa, Tama Tonga, Tanga Loa, JC Mateo & Talla Tonga (MFTs) WWE SmackDown 13.02.2026
+- *match* — **Shinsuke Nakamura, Carmelo Hayes, Ilja Dragunov, Matt Cardona & Apollo Crews vs. Solo Sikoa, Tama Tonga, Tanga Loa, JC Mateo & Talla Tonga (MFTs) WWE SmackDown 13.02.2026**
 - *match* — TRICK WILLIAMS VS REY FENIX WWE SmackDown 13.02.2026
 
-### 2026-02-13 — TNA No Surrender (6 entradas)
+### 2026-02-13 — No Surrender (6 entradas)
 
-- *match* — Jodi Threat WINNING THE BATTLE ROYAL TNA No Surrender 13.02.2026
+- *match* — JODI THREAT WINNING THE BATTLE ROYAL TNA No Surrender 13.02.2026
 - *match* — ERIC YOUNG VS BDE TNA No Surrender 13.02.2026
-- *segment* — Jodi Threat AND TESSA BLANCHARD BACKSTAGE PROMOS TNA No Surrender 13.02.2026
-- *segment* — Arianna Grace PROMO BEFORE HER TITLE MATCH TNA No Surrender 13.02.2026
+- *segment* — JODI THREAT AND TESSA BLANCHARD BACKSTAGE PROMOS TNA No Surrender 13.02.2026
+- *segment* — ARIANNA GRACE PROMO BEFORE HER TITLE MATCH TNA No Surrender 13.02.2026
 - *match* — HARDYS & THE RIGHTEOUS VS ORDER 4 TNA No Surrender 13.02.2026
-- *match* — EDDIE EDWARDS & NIC NEMETH VS Leon Slater & MIKE SANTANA TNA No Surrender 13.02.2026
+- *match* — EDDIE EDWARDS & NIC NEMETH VS LEON SLATER & MIKE SANTANA TNA No Surrender 13.02.2026
 
-### 2026-02-12 — TNA Impact (4 entradas)
+### 2026-02-12 — Impact (4 entradas)
 
 - *segment* — ERIC YOUNG & BDE SEGMENT IN-RING TNA Impact 12.02.2026
 - *segment* — JDC "IMMERSED" PROMO FOR FIGHT NETWORK TNA Impact 12.02.2026
 - *segment* — MUSTAFA ALI AND ELIJAH PROMO VIDEO TNA Impact 12.02.2026
 - *match* — THE SYSTEM VS SANTANA, HARDYS & MOOSE TNA Impact 12.02.2026
 
-### 2026-02-11 — AEW Dynamite (4 entradas)
+### 2026-02-11 — Dynamite (4 entradas)
 
-- *match* — STATLANDER VS Thekla AEW Dynamite 11.02.2026
-- *segment* — CLARK CONNORS DURING HIS MATCH AND DARBY ALLIN'S ATTACK AEW Dynamite 11.02.2026
+- *match* — STATLANDER VS THEKLA AEW Dynamite 11.02.2026
+- *match* — CLARK CONNORS DURING HIS MATCH AND DARBY ALLIN'S ATTACK AEW Dynamite 11.02.2026
 - *segment* — TONY STORM PROMO AEW Dynamite 11.02.2026
 - *segment* — ANDRADE AND DON CALLIS PROMO AEW Dynamite 11.02.2026
-
-### 2026-02-10 — NXT (12 entradas)
-
-- *match* — WREN SINCLAIR & KENDAL GREY VS SOL RUCA NXT 10.02.2026
-- *segment* — BOOKER T SINGING JOE HENDRY'S ENTRANCE NXT 10.02.2026
-- *segment* — ROBERT STONE SEGMENT BACKSTAGE NXT 10.02.2026
-- *match* — JAYDA PARKER VS BLAKE MONROE NXT 10.02.2026
-- *segment* — TATUM PAXLEY PROMO VIDEO NXT 10.02.2026
-- *segment* — BOOKER & VIC "TELL ME YOU DID NOT JUST SAID THAT" SEGMENT NXT 10.02.2026
-- *segment* — KELANI JORDAN ATTACKS LOLA VICE NXT 10.02.2026
-- *match* — DARK STATE VS THE CULLING NXT 10.02.2026
-- *segment* — ETHAN PAGE, SHILOH & ROBERT STONE SEGMENT NXT 10.02.2026
-- *match* — THE VANITY PROJECT VS HANK & TANK NXT 10.02.2026
-- *segment* — ROBERT STONE AND MILES BORNE SEGMENT NXT 10.02.2026
-- *match* — WREN QCC VS SOL RUCA NXT 10.02.2026
 
 ### 2026-02-06 — SmackDown (5 entradas)
 
@@ -458,25 +368,25 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — TAMA TONGA VS NAKAMURA WWE SmackDown 06.02.2026
 - *match* — LIV MORGAN & RAQUEL RODRIGUEZ VS JORDYNNE GRACE & JADE CARGILL WWE SmackDown 06.02.2026
 
-### 2026-02-05 — TNA Impact (4 entradas)
+### 2026-02-05 — Impact (4 entradas)
 
-- *segment* — COLD OPEN TNA Impact 05.02.2026
+- *match* — COLD OPEN TNA Impact 05.02.2026
 - *match* — TREY MIGUEL VS BROOKES TNA Impact 05.02.2026
-- *segment* — STEVE MACLIN'S GOODBYE TNA Impact 05.02.2026
-- *segment* — MOOSE SHOCKS THE SYSTEM TNA Impact 05.02.2026
+- *match* — STEVE MACLIN'S GOODBYE TNA Impact 05.02.2026
+- *match* — MOOSE SHOCKS THE SYSTEM TNA Impact 05.02.2026
 
-### 2026-01-29 — TNA Impact (6 entradas)
+### 2026-01-29 — Impact (6 entradas)
 
 - *match* — NIC NEMETH VS BDE TNA Impact 29.01.2026
 - *match* — JASON HOTCH VS ELIAS TNA Impact 29.01.2026
-- *segment* — FEAST OR FIRED REVEAL TNA Impact 29.01.2026
+- *match* — FEAST OR FIRED REVEAL TNA Impact 29.01.2026
 - *segment* — THE SYSTEM AND SANTANA SEGMENT TNA Impact 29.01.2026
-- *segment* — AJ FRANCIS PEDIGREE ON RICH SWANN TNA Impact 29.01.2026
+- *match* — AJ FRANCIS PEDIGREE ON RICH SWANN TNA Impact 29.01.2026
 - *match* — AJ FRANCIS VS RICH SWANN TNA Impact 29.01.2026
 
-### 2026-01-28 — AEW Dynamite (3 entradas)
+### 2026-01-28 — Dynamite (3 entradas)
 
-- *match* — Thekla VS STATLANDER AEW Dynamite 28.01.2026
+- *match* — THEKLA VS STATLANDER AEW Dynamite 28.01.2026
 - *match* — ANDRADE VS SWERVE AEW Dynamite 28.01.2026
 - *match* — DOYLE & DAVIS VS FTR AEW Dynamite 28.01.2026
 
@@ -487,65 +397,47 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — AUSTIN THEORY VS REY MYSTERIO WWE Raw 26.01.2026
 - *match* — TOZAWA & OTIS VS RAYO & BRAVO VS NEW DAY WWE Raw 26.01.2026
 
-### 2026-01-22 — TNA Impact (5 entradas)
+### 2026-01-22 — Impact (5 entradas)
 
 - *match* — MOOSE VS CEDRIC ALEXANDER TNA Impact 22.01.2026
-- *segment* — M BY ELEGANCE PUTTING OVER Indi Hartwell TNA Impact 22.01.2026
+- *match* — M BY ELEGANCE PUTTING OVER INDI HARTWELL TNA Impact 22.01.2026
 - *match* — JEFF HARDY VS MUSTAFA ALI TNA Impact 22.01.2026
-- *segment* — THE SYSTEM RESET — TNA Impact 22.01.2026
+- *match* — THE SYSTEM RESET — TNA Impact 22.01.2026
 - *segment* — NIC NEMETH AND BDE SEGMENT TNA Impact 22.01.2026
 
-### 2026-01-17 — TNA Genesis (4 entradas)
+### 2026-01-17 — Genesis (4 entradas)
 
 - *match* — JDC VS EDDIE EDWARDS TNA Genesis 17.01.2026
 - *match* — LEI YING LEE VS SARIA TNA Genesis 17.01.2026
 - *match* — MOOSE VS JOE HENDRY VS CEDRIC ALEXANDER TNA Genesis 17.01.2026
 - *segment* — JDC VIDEO PACKAGE TNA Genesis 17.01.2026
 
-### 2026-01-06 — NXT (3 entradas)
-
-- *match* — IZZI DAME VS TATUM PAXLEY NXT 06.01.2026
-- *match* — JACY JAYNE VS KENDAL GREY NXT 06.01.2026
-- *match* — Leon Slater VS OBA FEMI NXT 06.01.2026
-
-### 2025-12-30 — NXT (3 entradas)
-
-- *match* — ETHAN PAGE VS MOOSE NXT 30.12.2025
-- *match* — JACY JAYNE VS WREN SINCLAIR NXT 30.12.2025
-- *match* — JEVON EVANS VS RICKY SAINTS NXT 30.12.2025
-
-### 2025-12-23 — NXT (3 entradas)
-
-- *match* — IZZI DAME VS LOLA VICE NXT 23.12.2025
-- *segment* — KELANI JORDAN POST MATCH ATTACK NXT 23.12.2025
-- *match* — CHELSEA GREEN VS SOL RUCA NXT 23.12.2025
-
-### 2025-12-18 — TNA Impact (4 entradas)
+### 2025-12-18 — Impact (4 entradas)
 
 - *segment* — TEAM TNA PROMO AGAINST TEAM — TNA Impact 18.12.2025
 - *segment* — BEAR BRONSON PROMO AFTER WINNING THE #1 CONTENDER'S GAUNTLET FOR THE TNA WORLD CHAMPIONSHIP — TNA Impact 18.12.2025
-- *segment* — TOM CALLING BEAR "A BERSERKER IS GUNNING FOR THE WORLD TITLE" — TNA Impact 18.12.2025
+- *match* — TOM CALLING BEAR "A BERSERKER IS GUNNING FOR THE WORLD TITLE" — TNA Impact 18.12.2025
 - *match* — TESSA BLANCHARD & MOORE VS XIA BROOKSIDE & LEE TNA Impact 18.12.2025
 
-### 2025-12-11 — TNA Impact (5 entradas)
+### 2025-12-11 — Impact (5 entradas)
 
 - *segment* — NXT GUYS PROMO AGAINST TNA BEFORE THEIR STEEL CAGE MATCH — TNA Impact 11.12.2025
 - *match* — HEATHER & M BY ELEGANCE VS MYLA GRACE & HARLEY HUDSON TNA Impact 11.12.2025
 - *match* — BDE VS SOMETHING VS CEDRIC ALEXANDER VS DEZMOND XAVIER VS JASON HOTCH VS RYAN NEMETH — X Division match TNA Impact 11.12.2025
 - *match* — EDWARDS & MYERS VS SINNER & SAINT TNA Impact 11.12.2025
-- *match* — DANI LUNA VS Indi Hartwell TNA Impact 11.12.2025
+- *match* — DANI LUNA VS INDI HARTWELL TNA Impact 11.12.2025
 
-### 2025-12-05 — TNA Final Resolution (5 entradas)
+### 2025-12-05 — Final Resolution (5 entradas)
 
 - *match* — STACKS VS STEVE MACLIN TNA Final Resolution 05.12.2025
 - *match* — XIA BROOKSIDE VS LEI YING LEE TNA Final Resolution 05.12.2025
 - *match* — ORDER 4 VS THE RASCALZ TNA Final Resolution 05.12.2025
-- *match* — Leon Slater VS AJ FRANCIS TNA Final Resolution 05.12.2025
+- *match* — LEON SLATER VS AJ FRANCIS TNA Final Resolution 05.12.2025
 - *match* — KAZARIAN VS JDC TNA Final Resolution 05.12.2025
 
-### 2025-12-04 — TNA Impact (8 entradas)
+### 2025-12-04 — Impact (8 entradas)
 
-- *segment* — TNA ON AMC ANNOUNCEMENT — TNA Impact 04.12.2025
+- *match* — TNA ON AMC ANNOUNCEMENT — TNA Impact 04.12.2025
 - *match* — BROOKES JENSEN VS TOWN MAN TNA Impact 04.12.2025
 - *segment* — TREE HOUSE RASCALZ SEGMENT — TNA Impact 04.12.2025
 - *segment* — TESSA BLANCHARD INTERRUMPS THE IINSPIRATION SEGMENT — TNA Impact 04.12.2025
@@ -554,45 +446,43 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — FRANKIE KAZARIAN'S PROMO — TNA Impact 04.12.2025
 - *match* — TREY MIGUEL VS MUSTAFA ALI TNA Impact 04.12.2025
 
-### 2025-11-14 — TNA Turning Point (4 entradas)
+### 2025-11-14 — Turning Point (4 entradas)
 
-- *match* — M BY ELEGANCE VS Kelani Jordan TNA Turning Point 14.11.2025
-- *match* — DANI LUNA VS Indi Hartwell TNA Turning Point 14.11.2025
+- *match* — M BY ELEGANCE VS KELANI JORDAN TNA Turning Point 14.11.2025
+- *match* — DANI LUNA VS INDI HARTWELL TNA Turning Point 14.11.2025
 - *match* — LEON SLATER VS RICH SWANN TNA Turning Point 14.11.2025
 - *match* — KAZARIAN & NIC NEMETH VS SANTANA & MACLIN TNA Turning Point 14.11.2025
 
-### 2025-11-13 — TNA Impact (3 entradas)
+### 2025-11-13 — Impact (3 entradas)
 
-- *match* — HEATHER BY ELEGANCE VS Kelani Jordan TNA Impact 13.11.2025
+- *match* — HEATHER BY ELEGANCE VS KELANI JORDAN TNA Impact 13.11.2025
 - *match* — JASON HOTCH VS CEDRIC ALEXANDER TNA Impact 13.11.2025
-- *segment* — Kelani Jordan CHECKS THE KOS DIVISION BACKSTAGE — TNA Impact 13.11.2025
+- *segment* — KELANI JORDAN CHECKS THE KOS DIVISION BACKSTAGE — TNA Impact 13.11.2025
+
+### 2013-XX-XX — MITB 2013 (6 entradas)
+
+- *match* — MITB MATCH FANDANGO VS CODY RHODES VS BARRETT VS SANDOW VS SWAGGER VS CESARO WWE MITB 2013
+- *match* — THE MIZ VS CURTIS AXEL WWE MITB 2013
+- *segment* — WWE PERFORMANCE CENTER DEBUT PROMO VIDEO WWE MITB 2013
+- *match* — ALBERTO DEL RIO VS DOLPH ZIGGLER WWE MITB 2013
+- *segment* — MITB PROMO VIDEO FOR ALBERTO DEL RIO VS DOLPH ZIGGLER WWE MITB 2013
+- *segment* — WYATT FAMILY PROMO VIDEO WWE MITB 2013
 
 ### 2013-07-08 — Raw (5 entradas)
 
-- *segment* — THE WYATT FAMILY ATTACK KANE WWE Raw 08.07.2013
+- *match* — THE WYATT FAMILY ATTACK KANE WWE Raw 08.07.2013
 - *segment* — MITB MARK HENRY PROMO VIDEO WWE Raw 08.07.2013
 - *segment* — CM PUNK PROMO WWE Raw 08.07.2013
 - *match* — CM PUNK VS RANDY ORTON WWE Raw 08.07.2013
 - *match* — KAITLYN SPEARS AJ LEE WWE Raw 08.07.2013
 
-### 2013-XX-XX — Money in the Bank (8 entradas)
-
-- *segment* — OPENING VIDEO WWE Money in the Bank 2013
-- *segment* — ZEB COLTER PROMO WWE Money in the Bank 2013
-- *match* — MITB MATCH FANDANGO VS CODY RHODES VS BARRETT VS SANDOW VS SWAGGER VS CESARO WWE MITB 2013
-- *match* — THE MIZ VS CURTIS AXEL WWE MITB 2013
-- *segment* — WWE PERFORMANCE CENTER DEBUT PROMO VIDEO WWE MITB 2013
-- *match* — ALBERTO DEL RIO VS DOLPH ZIGGLER WWE MITB 2013
-- *match* — MITB PROMO VIDEO FOR ALBERTO DEL RIO VS DOLPH ZIGGLER WWE MITB 2013
-- *segment* — WYATT FAMILY PROMO VIDEO WWE MITB 2013
-
-### 2007-08-16 — TNA Impact (3 entradas)
+### 2007-08-16 — Impact (3 entradas)
 
 - *segment* — R TRUTH PROMO TNA Impact 16.08.2007
 - *segment* — CHRISTOPHER DANIELS AND JIM CORNETTE SEGMENT TNA Impact 16.08.2007
 - *segment* — CHRISTIAN AND JIM CORNETTE SEGMENT TNA Impact 16.08.2007
 
-### 2007-08-09 — TNA Impact (5 entradas)
+### 2007-08-09 — Impact (5 entradas)
 
 - *segment* — TEAM 3D IN JIM CORNETTE'S OFFICE SEGMENT TNA Impact 09.08.2007
 - *segment* — KURT ANGLE AND JB SEGMENT BACKSTAGE TNA Impact 09.08.2007
@@ -600,7 +490,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — KEVIN NASH AND KURT ANGLE "YOU'RE PERFECT" SEGMENT TNA Impact 09.08.2007
 - *segment* — SAMOA JOE, KURT ANGLE AND TEAM 3D SEGMENT IN-RING TNA Impact 09.08.2007
 
-### 2007-08-02 — TNA Impact (7 entradas)
+### 2007-08-02 — Impact (7 entradas)
 
 - *segment* — OPENER VIDEO AND SEGMENT WITH CHRISTIAN COALITION, CORNETTE AND ANGLE TNA Impact 02.08.2007
 - *segment* — SAMOA JOE PROMO TNA Impact 02.08.2007
@@ -610,27 +500,27 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — ANDREW MARTIN PROMO BACKSTAGE TNA Impact 02.08.2007
 - *segment* — ANGLE AND JOE IN-RING SEGMENT TNA Impact 02.08.2007
 
-### 2007-07-26 — TNA Impact (6 entradas)
+### 2007-07-26 — Impact (6 entradas)
 
 - *segment* — CHRISTIAN COALITION "CAGE SECURITY" BACKSTAGE SEGMENT WITH BOBBY ROODE TNA Impact 26.07.2007
 - *match* — BOBBY ROODE VS STING TNA Impact 26.07.2007
-- *segment* — KURT ANGLE INTERVIEW TNA Impact 26.07.2007
+- *match* — KURT ANGLE INTERVIEW TNA Impact 26.07.2007
 - *match* — MCMG VS LAX TNA Impact 26.07.2007
-- *match* — TEAM 3D VS STEINER BROTHERS "SCOTT'S RETURN FROM INJURY" IN-RING SEGMENT WITH VKM AND LAX TNA Impact 26.07.2007
+- *segment* — TEAM 3D VS STEINER BROTHERS "SCOTT'S RETURN FROM INJURY" IN-RING SEGMENT WITH VKM AND LAX TNA Impact 26.07.2007
 - *match* — AJ STYLES VS ABYSS TNA Impact 26.07.2007
 
-### 2007-07-19 — TNA Impact (8 entradas)
+### 2007-07-19 — Impact (8 entradas)
 
 - *match* — XXX VS RAVEN'S FLOCK TNA Impact 19.07.2007
 - *segment* — KURT ANGLE AND JB "TANNING" SEGMENTS TNA Impact 19.07.2007
 - *segment* — CHRISTIAN COALITION AND JAMES STORM "I DIDN'T KNOW YOU SPEAK SPANISH?" SEGMENT BACKSTAGE TNA Impact 19.07.2007
 - *match* — KURT ANGLE LOOKING FOR HIS STUFF TNA Impact 19.07.2007
 - *match* — JAMES STORM & CHRISTIAN VS RHINO & CHRIS HARRIS TNA Impact 19.07.2007
-- *segment* — STING SURPRISES CHRISTIAN AND HELPS ABYSS TNA Impact 19.07.2007
+- *match* — STING SURPRISES CHRISTIAN AND HELPS ABYSS TNA Impact 19.07.2007
 - *segment* — CHRISTIAN RUNNING OUT FROM THE IMPACT ZONE SEGMENT WITH AJ, ROODE AND ABYSS TNA Impact 19.07.2007
 - *segment* — SAMOA JOE AND KURT ANGLE IN-RING SEGMENT TNA Impact 19.07.2007
 
-### 2007-07-15 — TNA Victory Road (7 entradas)
+### 2007-07-15 — Victory Road (7 entradas)
 
 - *match* — GAUNTLET ULTIMATE X MATCH TNA Victory Road 15.07.2007 (featuring Kaz & Daniels Super Cutter)
 - *segment* — KURT ANGLE DOUBLE CHAMP PROMO TNA Victory Road 15.07.2007
@@ -640,32 +530,32 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — CHRISTIAN VS CHRIS HARRIS TNA Victory Road 15.07.2007
 - *match* — MCMG VS JERRY LYNN & BOB BACKLUND TNA Victory Road 15.07.2007
 
-### 2007-07-12 — TNA Impact (5 entradas)
+### 2007-07-12 — Impact (5 entradas)
 
 - *segment* — VICTORY ROAD CHAMPIONSHIP MATCH VIDEO PACKAGE WITH ANGLE, JOE AND 3D TNA Impact 12.07.2007
 - *segment* — ULTIMATE X PROMO VIDEO FOR VICTORY ROAD TNA Impact 12.07.2007
 - *segment* — TNA PRESENTS VICTORY ROAD 2007 VIDEO TNA Impact 12.07.2007
-- *match* — EYE SPY OLD SCHOOL VS NEW SCHOOL SEGMENT WITH NASH, MCMG, BACKLUND AND LYNN TNA Impact 12.07.2007
+- *segment* — EYE SPY OLD SCHOOL VS NEW SCHOOL SEGMENT WITH NASH, MCMG, BACKLUND AND LYNN TNA Impact 12.07.2007
 - *match* — THE CHRISTIAN COALITION AND BOBBY ROODE VS ANGLE, JOE & TEAM 3D TNA Impact 12.07.2007
 
-### 2007-07-05 — TNA Impact (4 entradas)
+### 2007-07-05 — Impact (4 entradas)
 
 - *match* — LAX VS AJ STYLES & CHRIS DANIELS VS TEAM 3D TNA Impact 05.07.2007
 - *segment* — SAMOA JOE PROMO AGAINST KURT ANGLE "YOU WILL BE BROKEN" TNA Impact 05.07.2007
 - *segment* — JIM CORNETTE AND CHRISTIAN CAGE SEGMENT RINGSIDE TNA Impact 05.07.2007
 - *segment* — KURT ANGLE TNA & IWGP WORLD CHAMPION SEGMENT WITH TEAM 3D AND SAMOA JOE TNA Impact 05.07.2007
 
-### 2007-06-21 — TNA Impact (5 entradas)
+### 2007-06-21 — Impact (5 entradas)
 
 - *match* — JAMES STORM & BOBBY ROODE VS ERIC YOUNG & RHINO TNA Impact 21.06.2007
-- *segment* — TNA VICTORY ROAD 2007 AD TNA Impact 21.06.2007
-- *segment* — TNA LIVE AD TNA Impact 21.06.2007
+- *match* — TNA VICTORY ROAD 2007 AD TNA Impact 21.06.2007
+- *match* — TNA LIVE AD TNA Impact 21.06.2007
 - *match* — RAVEN VS CHRIS HARRIS TNA Impact 21.06.2007
 - *match* — SAMOA JOE VS CHRIS SABIN VS JAY LETHAL TNA Impact 21.06.2007
 
-### 2007-06-17 — TNA Slammiversary (10 entradas)
+### 2007-06-17 — Slammiversary (10 entradas)
 
-- *segment* — OPENING TNA Slammiversary 17.06.2007
+- *match* — OPENING TNA Slammiversary 17.06.2007
 - *match* — LAX VS RHINO & LOW KI TNA Slammiversary 17.06.2007
 - *segment* — JAMES STORM PROMO TNA Slammiversary 17.06.2007
 - *match* — JAMES STORM & RON KILLINGS VS JERRY LYNN & FRANK W TNA Slammiversary 17.06.2007
@@ -676,13 +566,13 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — CHRISTIAN COALITION BACKSTAGE SEGMENT TNA Slammiversary 17.06.2007
 - *match* — TOMKO VS ABYSS CRAZY SPOTS TNA Slammiversary 17.06.2007
 
-### 2007-06-14 — TNA Impact (3 entradas)
+### 2007-06-14 — Impact (3 entradas)
 
 - *match* — TEAM 3D VS STEINER BROTHERS VS B&D VS VKM TNA Impact 14.06.2007
 - *match* — AJ STYLES, SAMOA JOE & KURT ANGLE VS RHINO & STING TNA Impact 14.06.2007
 - *match* — ABYSS VS CHRISTIAN CAGE TNA Impact 14.06.2007
 
-### 2007-06-07 — TNA Impact (7 entradas)
+### 2007-06-07 — Impact (7 entradas)
 
 - *match* — BOBBY ROODE VS JERRY LYNN TNA Impact 07.06.2007
 - *segment* — THE GURU SONJAY DUTT SEGMENT WITH KEVIN NASH AND JAY LETHAL TNA Impact 07.06.2007
@@ -692,7 +582,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — TOMKO AND CHRISTIAN CONFRONTATION TNA Impact 07.06.2007
 - *match* — JAMES STORM VS CHRIS HARRIS TNA Impact 07.06.2007
 
-### 2007-05-31 — TNA Impact (6 entradas)
+### 2007-05-31 — Impact (6 entradas)
 
 - *segment* — ERIC YOUNG AND JIM CORNETTE OFFICE SEGMENT WITH ROBERT ROODE TNA Impact 31.05.2007
 - *match* — HOMICIDE VS RHINO TNA Impact 31.05.2007
@@ -701,7 +591,7 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — CHRIS SABIN VS KAZARIAN TNA Impact 31.05.2007
 - *match* — AJ STYLES VS TOMKO TNA Impact 31.05.2007
 
-### 2007-05-24 — TNA Impact (5 entradas)
+### 2007-05-24 — Impact (5 entradas)
 
 - *segment* — STEINER BROTHERS AND TEAM 3D IN-RING SEGMENT TNA Impact 24.05.2007
 - *segment* — CHRISTIAN & TOMKO BACKSTAGE SEGMENT TNA Impact 24.05.2007
@@ -709,30 +599,30 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — LAX VS CHRISTIAN & TOMKO TNA Impact 24.05.2007
 - *match* — SAMOA JOE VS STING TNA Impact 24.05.2007
 
-### 2007-05-17 — TNA Impact (4 entradas)
+### 2007-05-17 — Impact (4 entradas)
 
 - *match* — MCMG VS TIGER MASK & JERRY LYNN TNA Impact 17.05.2007
 - *segment* — ERIC YOUNG "FREE AT LAST" IN-RING SEGMENT WITH ROBERT ROODE TNA Impact 17.05.2007
 - *match* — KURT ANGLE VS RHINO TNA Impact 17.05.2007
 - *segment* — STEINER BROTHERS AND JIM CORNETTE SEGMENT TO END IMPACT TNA Impact 17.05.2007
 
-### 2007-05-13 — TNA Sacrifice (6 entradas)
+### 2007-05-13 — Sacrifice (6 entradas)
 
-- *segment* — COLD OPEN TNA Sacrifice 13.05.2007
+- *match* — COLD OPEN TNA Sacrifice 13.05.2007
 - *match* — CHRIS SABIN VS SONJAY DUTT VS JAY LETHAL TNA Sacrifice 13.05.2007
 - *match* — BOBBY ROODE VS JEFF JARRETT TNA Sacrifice 13.05.2007
 - *match* — CHRIS DANIELS VS RHINO TNA Sacrifice 13.05.2007
 - *segment* — AMW RIVALRY VIDEOPACKAGE TNA Sacrifice 13.05.2007
 - *match* — LAX VS TEAM 3D VS TOMKO & SCOTT STEINER TNA Sacrifice 13.05.2007
 
-### 2007-05-10 — TNA Impact (4 entradas)
+### 2007-05-10 — Impact (4 entradas)
 
 - *match* — HOMICIDE VS SCOTT STEINER VS DEVON TNA Impact 10.05.2007
 - *match* — MCMG VS SONJAY DUTT & LETHAL TNA Impact 10.05.2007
 - *segment* — CHRISTIAN CAGE, STING & ANGLE SEGMENT — last words before Sacrifice — TNA Impact 10.05.2007
 - *match* — AJ STYLES, JAMES STORM & CHRIS DANIELS VS SAMOA JOE, CHRIS HARRIS & RHINO TNA Impact 10.05.2007
 
-### 2003-02-08 — ROH One Year Anniversary Show (3 entradas)
+### 2003-02-08 — One Year Anniversary Show (3 entradas)
 
 - *match* — CW ANDERSON VS CM PUNK ROH One Year Anniversary Show 08.02.2003
 - *match* — SAMOA JOE VS BRYAN DANIELSON ROH One Year Anniversary Show 08.02.2003
@@ -750,223 +640,262 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — LOS GUERREROS VS EDGE & REY MYSTERIO WWE SmackDown 24.10.2002
 - *match* — CHRIS BENOIT VS KURT ANGLE WWE SmackDown 24.10.2002
 
-### 1999-01-04 — WCW Nitro (3 entradas)
+### 1999-01-04 — Nitro (3 entradas)
 
 - *match* — PERRY SATURN VS CHRIS JERICHO WCW Nitro 04.01.1999
 - *match* — BILLY KIDMAN & REY MYSTERIO VS PSICOSIS & JUVENTUD GUERRERA WCW Nitro 04.01.1999
 - *match* — SCOTT STEINER VS KONNAN WCW Nitro 04.01.1999
 
----
-
 ## Matches / segments sueltos pendientes
 
-Una o dos entradas por show. Para programas semanales esto suele
-ser un match o segmento *spotlight* aislado.
-
-| Fecha | Tipo | Show | Entrada |
-|---|---|---|---|
-| 2026-04-27 | match | Raw | BECKY LYNCH VS IYO SKY WWE Monday Night Raw 27.04.2026 |
-| 2026-04-27 | match | Raw | ETHAN PAGE DURING PENTA VS RUSEV WWE Monday Night Raw 27.04.2026 |
-| 2026-04-17 | segment | SmackDown | ROMAN REIGNS PROMO VIDEO WWE SmackDown 17.04.2026 |
-| 2026-04-17 | segment | SmackDown | JACOB FATU SEGMENT WWE SmackDown 17.04.2026 |
-| 2026-03-14 | match | AAA Rey de Reyes | DOMINIK MYSTERIO VS HIJO DEL VIKINGO AAA Rey de Reyes Week 1, 14.03.2026 |
-| 2026-03-09 | segment | Raw | THE JUDGMENT DAY BETRAY FINN BÁLOR WWE Raw 09.03.2026 |
-| 2026-03-09 | match | Raw | CM PUNK PROMO SEGMENT IN-RING VS THE BLOODLINE WWE Raw 09.03.2026 |
-| 2026-03-06 | segment | CMLL La Noche de las Amazonas | PERSEPHONE PROMO IN-RING CMLL La Noche de las Amazonas Arena Mexico 06.03.2026 |
-| 2026-03-03 | match | CMLL | VOLADOR JR VS NEON CMLL Martes Arena Mexico 03.03.2026 |
-| 2026-02-28 | match | WWE Elimination Chamber 2026 | WOMEN'S ELIMINATION CHAMBER WWE Elimination Chamber 28.02.2026 |
-| 2026-02-28 | match | WWE Elimination Chamber 2026 | CM PUNK VS FINN BÁLOR WWE Elimination Chamber 28.02.2026 |
-| 2026-02-27 | match | NXT | KELANI JORDAN VS LOLA VICE NXT 27.02.2026 |
-| 2026-02-20 | match | SmackDown | GIULIA VS RHEA RIPLEY SmackDown 20.02.2026 |
-| 2026-02-20 | match | SmackDown | RANDY ORTON VS ALEISTER BLACK SmackDown 20.02.2026 |
-| 2026-02-16 | match | Raw | NATTY VS ASUKA VS BAYLEY WWE Raw 16.02.2026 |
-| 2026-02-09 | match | Raw | RAYO & BRAVO VS JEVON EVANS & ORIGINAL GRANDE AMERICANO WWE Raw 09.02.2026 |
-| 2026-02-09 | match | Raw | LA KNIGHT VS AUSTIN THEORY VS PENTA WWE Raw 09.02.2026 |
-| 2026-02-07 | match | WWE AAA (Worldwide) | EL GRANDE AMERICANO VS REY FENIX VS OCTAGON JR VS DRAGON LEE WWE AAA 07.02.2026 |
-| 2026-02-04 | match | AEW Dynamite | MARK DAVIS VS ADAM PAGE AEW Dynamite 04.02.2026 |
-| 2026-02-04 | match | AEW Dynamite | ANDRADE VS OMEGA AEW Dynamite 04.02.2026 |
-| 2026-02-03 | match | NXT | CHARLIE DEMPSEY VS ELIO LEFLOIRE NXT 03.02.2026 |
-| 2026-02-03 | segment | NXT | BAD INFLUENCE SEGMENT NXT 03.02.2026 |
-| 2026-02-02 | match | Raw | RAQUEL RODRIGUEZ VS STEPHANIE VAQUER WWE Raw 02.02.2026 |
-| 2026-02-02 | match | WWE Main Event | MCMG VS RAYO & BRAVO WWE Main Event 02.02.2026 |
-| 2026-01-31 | match | Royal Rumble | AJ STYLES VS GUNTHER WWE Royal Rumble 31.01.2026 |
-| 2026-01-30 | match | SmackDown | REY FENIX VS CARMELO HAYES WWE SmackDown 30.01.2026 |
-| 2026-01-30 | match | SmackDown | CODY, JEY, SAMI & ORTON VS THE VISION WWE SmackDown 30.01.2026 |
-| 2026-01-27 | segment | NXT | THE CULLING ATTACKS DARK STATE POST MATCH NXT 27.01.2026 |
-| 2026-01-24 | match | Saturday Night's Main Event | LIV MORGAN & ROXANNE PEREZ VS RHEA RIPLEY & IYO SKY SNME 24.01.2026 |
-| 2026-01-24 | match | Saturday Night's Main Event | AJ STYLES VS NAKAMURA WWE SNME 24.01.2026 |
-| 2026-01-23 | match | SmackDown | ILJA DRAGUNOV VS CARMELO HAYES SmackDown 23.01.2026 |
-| 2026-01-21 | match | AEW Dynamite | SAMOA JOE VS MIKE BAILEY AEW Dynamite 21.01.2026 |
-| 2026-01-20 | match | NXT | FALLON HENLEY & LAINEY REID VS SOL RUCA VS WREN QCC NXT 20.01.2026 |
-| 2026-01-19 | match | Raw | CM PUNK VS FINN BÁLOR WWE Raw 19.01.2026 |
-| 2026-01-16 | match | SmackDown | Leon Slater VS CARMELO HAYES WWE SmackDown 16.01.2026 |
-| 2026-01-16 | match | SmackDown | JORDYNNE GRACE VS CHELSEA GREEN WWE SmackDown 16.01.2026 |
-| 2026-01-15 | match | TNA Impact | ORDER 4 VS THE HARDYS & ELIAS TNA Impact 15.01.2026 |
-| 2026-01-15 | match | [show desconocido] | KAZARIAN VS SANTANA TNA 15.01.2026 |
-| 2026-01-13 | segment | NXT | OPENING SEGMENT WITH RICKY SAINTS AND THE ROSTER AND POTENTIAL CALLUPS NXT 13.01.2026 |
-| 2026-01-13 | match | NXT | KELANI JORDAN VS LOLA VICE NXT 13.01.2026 |
-| 2026-01-12 | match | Raw | AJ STYLES VS GUNTHER WWE Raw 12.01.2026 |
-| 2026-01-09 | match | SmackDown | TRICK WILLIAMS VS REY FENIX WWE SmackDown 09.01.2026 |
-| 2026-01-08 | segment | TNA Impact | MUSTAFA ALI IN-RING SEGMENT TNA Impact 08.01.2026 |
-| 2026-01-08 | match | TNA Impact | THE SYSTEM VS THE HARDYS, LEON SLATER & CEDRIC ALEXANDER TNA Impact 08.01.2026 |
-| 2026-01-05 | match | Raw | RHEA RIPLEY & IYO SKY VS ASUKA & KAIRI SANE WWE Raw 05.01.2026 |
-| 2026-01-05 | match | Raw | CM PUNK VS BRON BREAKKER WWE Raw 05.01.2026 |
-| 2026-01-02 | match | SmackDown | CHELSEA GREEN VS GIULIA WWE SmackDown 02.01.2026 |
-| 2026-01-01 | match | TNA Impact | HEATHER & M BY ELEGANCE VS XIA BROOKSIDE & LEE TNA Impact 01.01.2026 |
-| 2026-01-01 | match | TNA Impact | KAZARIAN VS BEAR BRONSON TNA Impact 01.01.2026 |
-| 2025-12-29 | match | Raw | NIKKI BELLA VS STEPHANIE VAQUER VS RAQUEL RODRIGUEZ WWE Raw 29.12.2025 |
-| 2025-12-29 | match | Raw | AUSTIN THEORY VS REY MYSTERIO WWE Raw 29.12.2025 |
-| 2025-12-26 | match | SmackDown | LASH LEGEND VS CHARLOTTE FLAIR WWE SmackDown 26.12.2025 |
-| 2025-12-26 | match | SmackDown | CARMELO HAYES VS ILJA DRAGUNOV WWE SmackDown 26.12.2025 |
-| 2025-12-17 | match | AEW Dynamite | KYLE FLETCHER VS PAC AEW Dynamite 17.12.2025 |
-| 2025-12-16 | match | NXT | FALLON HENLEY & LAINEY REID VS KENDAL GREY & WREN SINCLAIR NXT 16.12.2025 |
-| 2025-12-13 | match | AEW Collision | JOSH ALEXANDER VS SWERVE STRICKLAND AEW Collision 13.12.2025 |
-| 2025-12-09 | match | NXT | KELANI JORDAN VS JORDYNNE GRACE NXT 09.12.2025 |
-| 2025-12-09 | match | NXT | WREN SINCLAIR VS SOL RUCA NXT 09.12.2025 |
-| 2025-12-06 | match | NXT Deadline 2025 | WOMEN'S IRON SURVIVOR MATCH NXT Deadline 06.12.2025 |
-| 2025-11-27 | match | TNA Impact | THE SYSTEM & LEON SLATER VS AJ FRANCIS, JAKE SOMETHING, RYAN NEMETH & RICH SWANN TNA Impact 27.11.2… |
-| 2025-11-25 | match | NXT | JACY JAYNE VS TATUM PAXLEY NXT 25.11.2025 |
-| 2025-11-25 | match | NXT | KELANI JORDAN VS JORDYNNE GRACE VS LEE NXT 25.11.2025 |
-| 2025-11-20 | match | TNA Impact | MYRON REED VS JOHN SKYLER TNA Impact 20.11.2025 |
-| 2025-11-20 | match | TNA Impact | JDC VS ERIC YOUNG TNA Impact 20.11.2025 |
-| 2025-11-06 | match | TNA Impact | DANI LUNA VS JODI THREAT TNA Impact 06.11.2025 |
-| 2025-11-06 | match | TNA Impact | MIKE SANTANA VS CEDRIC ALEXANDER TNA Impact 06.11.2025 |
-| 2025-11-XX | match | NXT | JEVON EVANS VS SAQUON SHUGARS WWE NXT NOVEMBER 2025 |
-| 2025-09-XX | match | TNA Impact | MUSTAFA ALI & TRICK WILLIAMS VS Leon Slater & MIKE SANTANA TNA Impact septiembre 2025 |
-| 2025-XX-XX | match | TNA Bound for Glory | Leon Slater VS JEVON EVANS TNA 2025 Bound for Glory |
-| 2025-XX-XX | match | Survivor Series | DOMINIK MYSTERIO VS JOHN CENA Survivor Series 2025 |
-| 2025-XX-XX | match | GCW Spring Break | SABU VS JOEY JANELA GCW Spring Break 2025 |
-| 2025-XX-XX | segment | TNA Impact | JOE HENDRY & JEFF HARDY CONCERT TNA Impact 2025 |
-| 2023-07-21 | match | SmackDown | LA KNIGHT VS SHEAMUS VS TREVOR LEE VS Rey Mysterio WWE SmackDown 21.07.2023 |
-| 2021-XX-XX | match | [show desconocido] | JACOB FATU VS ALEX HAMMERSTONE MLW Fightland 2021 |
-| 2016-XX-XX | match | [show desconocido] | CHRIS HERO VS ZACK SABRE JR Limitless Wrestling 2016 |
-| 2015-11-23 | match | [show desconocido] | ROB VAN DAM VS AMAZING RED HOG 23.11.2015 |
-| 2013-07-12 | match | SmackDown | KAITLYN SPEARS AJ LEE WWE SmackDown 12.07.2013 |
-| 2013-06-02 | match | [show desconocido] | AJ Styles vs. Kurt Angle TNA 02.06.2013 |
-| 2013-XX-XX | match | [show desconocido] | RICOCHET VS PRINCE DEVITT RPW Uprising 2013 |
-| 2012-04-19 | match | TNA Impact | AJ Styles vs Kurt Angle — TNA Impact 19.04.2012 |
-| 2010-05-07 | match | [show desconocido] | KEVIN STEEN VS CHRISTOPHER DANIELS ROH Civil War 07.05.2010 |
-| 2010-01-29 | match | SmackDown | SHAWN MICHAELS VS REY MYSTERIO WWE SmackDown 29.01.2010 |
-| 2010-01-04 | match | TNA Impact | AJ Styles vs Kurt Angle — TNA Impact 04.01.2010 |
-| 2009-10-06 | match | TNA Impact | AJ Styles vs. Kurt Angle TNA Impact 06.10.2009 |
-| 2007-06-28 | match | TNA Impact | KURT ANGLE VS CHRISTIAN CAGE VS RHINO TNA Impact 28.06.2007 |
-| 2006-08-24 | match | [show desconocido] | Alex Shelley vs Chris Sabin — ZERO1-MAX Tenka Ichi Jr 2006, Tag 1 (24.08.2006) |
-| 2006-02-11 | match | [show desconocido] | SUPER DRAGON VS KEVIN STEEN VS RUCKUS CZW Seven Years Strong 11.02.2006 |
-| 2005-05-02 | match | Raw | CHRIS BENOIT VS HHH WWE Raw 02.05.2005 |
-| 2005-05-02 | match | Raw | SHELTON BENJAMIN VS SHAWN MICHAELS WWE Raw 02.05.2005 |
-| 2005-04-04 | match | Raw | CHRISTIAN VS SHELTON BENJAMIN VS CHRIS JERICHO WWE Raw 04.04.2005 |
-| 2005-03-21 | match | Raw | EDGE & CHRISTIAN VS JERICHO & SHELTON BENJAMIN WWE Raw 21.03.2005 |
-| 2005-03-07 | match | Raw | CHRISTIAN VS KANE WWE Raw 07.03.2005 |
-| 2005-02-21 | match | Raw | HBK & ORTON VS EDGE & CHRISTIAN WWE Raw 21.02.2005 |
-| 2005-02-14 | match | Raw | CHRISTIAN VS ORTON WWE Raw 14.02.2005 |
-| 2005-02-07 | match | Raw | HBK VS RIC FLAIR WWE Raw 07.02.2005 |
-| 2005-01-17 | match | Raw | CHRISTIAN VS HBK WWE Raw 17.01.2005 |
-| 2005-01-10 | match | Raw | CHRISTIAN & TOMKO VS BENOIT & TOMKO WWE Raw 10.01.2005 |
-| 2004-12-27 | match | Raw | CHRISTIAN VS CHRIS JERICHO WWE Raw 27.12.2004 |
-| 2004-12-27 | match | Raw | CHRISTIAN VS JERICHO WWE Raw 27.12.2004 |
-| 2004-12-06 | match | Raw | CHRISTIAN VS BENJAMIN WWE Raw 06.12.2004 |
-| 2004-11-15 | match | Raw | EDGE & CHRISTIAN VS BENOIT & BENJAMIN WWE Raw 15.11.2004 |
-| 2004-10-25 | match | Raw | SHELTON BENJAMIN VS CHRIS JERICHO WWE Raw 25.10.2004 |
-| 2004-10-04 | match | Raw | CHRISTIAN VS SHAWN MICHAELS WWE Raw 04.10.2004 |
-| 2004-10-04 | match | Raw | CHRISTIAN VS HBK WWE Raw 04.10.2004 |
-| 2004-09-20 | match | Raw | HBK VS CHRIS JERICHO WWE Raw 20.09.2004 |
-| 2004-09-20 | match | Raw | CHRISTIAN & TOMKO VS JERICHO & HBK WWE Raw 20.09.2004 |
-| 2004-06-19 | match | [show desconocido] | SABU VS RUCKUS 3PW Splintered 19.06.2004 |
-| 2004-06-14 | match | Raw | CHRISTIAN & TOMKO VS JERICHO & HBK WWE Raw 14.06.2004 |
-| 2004-05-16 | match | Raw | CHRIS BENOIT VS TAJIRI WWE Raw 16.05.2004 |
-| 2004-04-19 | match | Raw | CHRISTIAN VS CHRIS JERICHO WWE Raw 19.04.2004 |
-| 2004-04-05 | match | Raw | CHRIS JERICHO VS MATT HARDY WWE Raw 05.04.2004 |
-| 2004-02-02 | match | Raw | CHRISTIAN & JERICHO VS RIC FLAIR & BATISTA WWE Raw 02.02.2004 |
-| 2004-01-19 | match | Raw | CHRISTIAN & MATT HARDY VS RVD & BOOKER T WWE Raw 19.01.2004 |
-| 2004-01-12 | match | Raw | MATT HARDY & CHRISTIAN VS BOOKER T & RVD WWE Raw 12.01.2004 |
-| 2004-01-12 | match | Raw | CHRIS JERICHO VS MARK HENRY WWE Raw 12.01.2004 |
-| 2004-01-05 | match | Raw | CHRISTIAN & JERICHO VS HURRICANE & ROSEY WWE Raw 05.01.2004 |
-| 2003-07-04 | match | Raw | JEFF HARDY VS THE ROCK WWE Raw 04.07.2003 |
-| 2003-04-26 | match | [show desconocido] | CHRISTOPHER DANIELS VS AMAZING RED ROH Retribution 26.04.2003 |
-| 2002-12-19 | match | SmackDown | CHRIS BENOIT VS KURT ANGLE WWE SmackDown 19.12.2002 |
-| 2002-12-12 | match | SmackDown | KURT ANGLE & EDGE VS BIG SHOW & ALBERT WWE SmackDown 12.12.2002 |
-| 2002-11-28 | match | SmackDown | MATT HARDY & JOHN CENA VS REY MYSTERIO & EDGE WWE SmackDown 28.11.2002 |
-| 2002-11-28 | match | SmackDown | LOS GUERREROS VS BENOIT & ANGLE WWE SmackDown 28.11.2002 |
-| 2002-11-21 | match | SmackDown | REY MYSTERIO VS JAMIE NOBLE WWE SmackDown 21.11.2002 |
-| 2002-11-21 | match | SmackDown | CHAVO GUERRERO VS CHRIS BENOIT WWE SmackDown 21.11.2002 |
-| 2002-11-14 | match | SmackDown | CHAVO GUERRERO VS EDGE WWE SmackDown 14.11.2002 |
-| 2002-11-14 | match | SmackDown | CHRIS BENOIT VS KURT ANGLE WWE SmackDown 14.11.2002 |
-| 2002-11-07 | match | SmackDown | REY MYSTERIO & EDGE VS ANGLE & BENOIT WWE SmackDown 07.11.2002 |
-| 2002-10-17 | match | SmackDown | KURT ANGLE & CHRIS BENOIT VS LOS GUERREROS (EDDIE & CHAVO) WWE SmackDown 17.10.2002 |
-| 2002-10-10 | match | SmackDown | BROCK LESNAR & TAJIRI VS EDGE & MYSTERIO WWE SmackDown 10.10.2002 |
-| 2002-10-03 | match | [show desconocido] | CHRIS BENOIT VS REY MYSTERIO 03.10.2002 |
-| 2002-09-12 | match | SmackDown | REY MYSTERIO VS KURT ANGLE WWE SmackDown 12.09.2002 |
-| 2002-09-05 | match | SmackDown | BILLY GUNN VS REY MYSTERIO WWE SmackDown 05.09.2002 |
-| 2002-08-29 | match | SmackDown | REY MYSTERIO VS RICO WWE SmackDown 29.08.2002 |
-| 2002-08-29 | match | SmackDown | UNDERTAKER VS CHRIS BENOIT VS KURT ANGLE WWE SmackDown 29.08.2002 |
-| 2002-07-10 | match | Raw | RVD & JEFF HARDY VS JERICHO & CHRISTIAN VS BUBBA & SPIKE DUDLEY VS KANE WWE Raw 10.07.2002 |
-| 2002-XX-XX | match | No Mercy | RIC FLAIR VS RVD WWE No Mercy 2002 |
-| 2001-05-24 | match | SmackDown | THE HARDYS VS THE DUDLEY BOYZ VS EDGE & CHRISTIAN VS JERICHO & BENOIT WWF SmackDown 24.05.2001 |
-| 2001-03-03 | match | [show desconocido] | KURT ANGLE VS HHH MCW 03.03.2001 |
-| 1999-01-07 | match | WCW Thunder | EDDIE GUERRERO VS LA PARKA WCW Thunder 07.01.1999 |
-| 1999-XX-XX | match | WCW Starrcade | JEFF JARRETT VS CHRIS BENOIT WCW Starrcade 1999 (ladder match) |
-| 1998-07-20 | segment | WCW Nitro | BUFF BAGWELL BETRAYS RICK STEINER — NWO SCOTT STEINER SET UP WCW Nitro 20.07.1998 |
-| 1997-06-06 | match | [show desconocido] | LANCE STORM VS MASAAKI MOCHIZUKI 06.06.1997 |
-| 1997-02-02 | match | WWF Superstars | ABISMO NEGRO VS HIJO DEL PERRO AGUAYO WWF Superstars 02.02.1997 |
-| 1996-11-16 | match | [show desconocido] | TAKA MICHINOKU VS HAYABUSA FMW 16.11.1996 |
-| 1996-05-11 | match | [show desconocido] | SHAWN MICHAELS VS MARTY JANNETTY WWF 11.05.1996 |
-| 1996-XX-XX | match | King of the Ring | SHAWN MICHAELS VS BRITISH BULLDOG WWF King of the Ring 1996 |
-| 1995-07-26 | match | [show desconocido] | BRET HART & SHAWN MICHAELS VS JERRY LAWLER & HAKUSHI WWF 26.07.1995 |
-| 1995-07-24 | match | [show desconocido] | BRET HART & SHAWN MICHAELS VS JACOB & ELI BLU WWF 24.07.1995 |
-| 1995-01-09 | match | Raw | RAZOR RAMON VS OWEN HART WWF Raw 09.01.1995 |
-| 1995-XX-XX | match | In Your House | JEFF JARRETT VS SHAWN MICHAELS WWF 1995 In Your House 2 |
-| 1995-XX-XX | match | In Your House | BRET HART VS JEAN PIERRE LEFIT WWF 1995 In Your House 2 |
-| 1995-XX-XX | match | [show desconocido] | JEFF JARRETT VS BOB BACKLUND WWF Sunday Night Slam 3 (1995) |
-| 1993-12-13 | match | Raw | RANDY SAVAGE VS HEADSHRINKER FATU WWF Raw 13.12.1993 |
-| 1993-01-16 | match | [show desconocido] | RICKY STEAMBOAT VS DUSTIN RHODES WCW Saturday Night 16.01.1993 |
-| 1992-06-20 | match | WCW Beach Blast | STING VS CACTUS JACK WCW Beach Blast 20.06.1992 |
-| 1992-XX-XX | match | NJPW G1 Climax | ARN ANDERSON VS STEVE AUSTIN NJPW G1 Climax 1992 |
-| 1989-05-XX | match | [show desconocido] | EDDIE GUERRERO VS TERRY FUNK WCW mayo 1989 |
-| [verif] | match | [show desconocido] | DOMINIK MYSTERIO & GRANDE AMERICANO VS HIJO DEL VIKINGO Y DRAGON LEE AAA |
-| [verif] | match | [show desconocido] | DOMINIK MYSTERIO VS HIJO DEL VIKINGO AAA |
-| [verif] | match | [show desconocido] | BRYAN DANIELSON VS KENTA ROH Glory By Honor |
-| [verif] | match | [show desconocido] | THE HART FOUNDATION VS THE ROCKERS WWF |
-| [verif] | match | [show desconocido] | BRET HART VS TED DIBIASE WWF |
-| [verif] | segment | [show desconocido] | RODERICK STRONG PROTECTS CASSIDY |
-| [verif] | match | King of the Ring | SHANE MCMAHON VS KURT ANGLE WWE King of the Ring street fight |
-
----
+- 2026-04-27 · *match* — BECKY LYNCH VS IYO SKY WWE Monday Night Raw 27.04.2026
+- 2026-04-27 · *match* — ETHAN PAGE DURING PENTA VS RUSEV WWE Monday Night Raw 27.04.2026
+- 2026-04-17 · *segment* — ROMAN REIGNS PROMO VIDEO WWE SmackDown 17.04.2026
+- 2026-04-17 · *segment* — JACOB FATU SEGMENT WWE SmackDown 17.04.2026
+- 2026-03-31 · *match* — JAIDA PARKER PARKER VS KELANI JORDAN NXT 31.03.2026
+- 2026-03-31 · *match* — WHC CONTRACT SIGNING WITH ETHAN PAGE, RICKY, JOE & GABAGOOL NXT 31.03.2026
+- 2026-03-31 · *match* — LOLA VICE VS KENDAL GREY NXT 31.03.2026
+- 2026-03-24 · *match* — FATAL INFLUENCE VS WRN QCC NXT 24.03.2026
+- 2026-03-24 · *match* — CHARLIE DEMPSEY VS DOCTOR THIRST JACKSON DRAKE VS SHYLO VS JOHNNY GARGANO NXT 24.03.2026
+- 2026-03-24 · *match* — LOS AMERICANOS VS THE CULLING NXT 24.03.2026
+- 2026-03-24 · *segment* — JOSH BRIGGS IN HIS SEGMENT BACKSTAGE NXT 24.03.2026
+- 2026-03-24 · *match* — OTM & MIKE SANTANA VS DARK STATE NXT 24.03.2026
+- 2026-03-24 · *match* — LOS AMERICANOS VS THE BIRTHRIGHT NXT 24.03.2026
+- 2026-03-17 · *match* — JACY JAYNE VS SOL RUCA VS SARIA NXT 17.03.2026
+- 2026-03-17 · *segment* — ETHAN PAGE, RICKY STARKS AND JOE HENDRY SEGMENT NXT 17.03.2026
+- 2026-03-17 · *segment* — THE BIRTHRIGHT AND ROBERT STONE SEGMENT NXT 17.03.2026
+- 2026-03-17 · *match* — THE VANITY PROJECT VS LOS AMERICANOS NXT 17.03.2026
+- 2026-03-17 · *match* — WREN SINCLAIR VS FALLON HENLEY NXT 17.03.2026
+- 2026-03-17 · *match* — TATUM PAXLEY VS IZZI DAME NXT 17.03.2026
+- 2026-03-14 · *match* — DOMINIK MYSTERIO VS HIJO DEL VIKINGO AAA Rey de Reyes Week 1, 14.03.2026
+- 2026-03-10 · *segment* — OPENING VIDEO NXT 10.03.2026
+- 2026-03-10 · *segment* — TATUM PAXLEY AND IZZI DAME SEGMENT NXT 10.03.2026
+- 2026-03-10 · *segment* — ROBERT STONE AND SHILOH BACKSTAGE NXT 10.03.2026
+- 2026-03-10 · *segment* — WREN QCC SEGMENT WITH HENDRY AND BORNE NXT 10.03.2026
+- 2026-03-10 · *match* — LAINEY REID VS SOL RUCA NXT 10.03.2026
+- 2026-03-10 · *segment* — TATUM PAXLEY AND IZZI DAME BACKSTAGE BRAWL NXT 10.03.2026
+- 2026-03-10 · *match* — ETHAN PAGE & RICKY STARKS VS JOE HENDRY & MYLES BORNE NXT 10.03.2026
+- 2026-03-09 · *match* — THE JUDGMENT DAY BETRAY FINN BÁLOR WWE Raw 09.03.2026
+- 2026-03-09 · *segment* — CM PUNK PROMO SEGMENT IN-RING VS THE BLOODLINE WWE Raw 09.03.2026
+- 2026-03-06 · *segment* — PERSEPHONE PROMO IN-RING CMLL La Noche de las Amazonas Arena Mexico 06.03.2026
+- 2026-03-03 · *segment* — OPENING VIDEO NXT 03.03.2026
+- 2026-03-03 · *match* — MYLES BORNE VS ETHAN PAGE NXT 03.03.2026
+- 2026-03-03 · *match* — WREN SINCLAIR VS NIKKITA LYONS NXT 03.03.2026
+- 2026-03-03 · *match* — VANITY PROJECT VS SHILOH, HANK & TANK NXT 03.03.2026
+- 2026-03-03 · *segment* — BLAKE MONROE PROMO NXT 03.03.2026
+- 2026-03-03 · *match* — VOLADOR JR VS NEON CMLL Martes Arena Mexico 03.03.2026
+- 2026-02-28 · *match* — WOMEN'S ELIMINATION CHAMBER WWE Elimination Chamber 28.02.2026
+- 2026-02-28 · *match* — CM PUNK VS FINN BÁLOR WWE Elimination Chamber 28.02.2026
+- 2026-02-27 · *match* — KELANI JORDAN VS LOLA VICE NXT 27.02.2026 [verificar fecha exacta — NXT no necesariamente sale 27]
+- 2026-02-24 · *match* — THE VANITY PROJECT VS DARK STATE NXT 24.02.2026
+- 2026-02-24 · *segment* — WREN QCC SEGMENT WITH KELANI JORDAN NXT 24.02.2026
+- 2026-02-24 · *match* — ELIO LEFLEUR VS ELI KNIGHT VS JASPER TROY — first ever NXT Speed 3-way match NXT 24.02.2026
+- 2026-02-24 · *segment* — ETHAN PAGE, THE VANITY PROJECT AND RICKY SEGMENT NXT 24.02.2026
+- 2026-02-24 · *segment* — JOE HENDRY PROMO VIDEOS NXT 24.02.2026
+- 2026-02-24 · *segment* — DARK STATE, LOLA VICE AND ROBERT STONE SEGMENT NXT 24.02.2026
+- 2026-02-24 · *match* — SARIA BETRAYS SOL RUCA BEFORE HER MATCH NXT 24.02.2026
+- 2026-02-24 · *match* — JACY JAYNE VS SOL RUCA NXT 24.02.2026
+- 2026-02-24 · *match* — BLAKE MONROE VS THEA NXT 24.02.2026
+- 2026-02-24 · *segment* — FATAL INFLUENCE SEGMENT WITH SARIA NXT 24.02.2026
+- 2026-02-24 · *segment* — VANITY PROJECT SEGMENT NXT 24.02.2026
+- 2026-02-21 · *match* — TJ PERKINS VS LAREDO KID WWE AAA Sábado 21.02.2026
+- 2026-02-20 · *match* — GIULIA VS RHEA RIPLEY SmackDown 20.02.2026
+- 2026-02-20 · *match* — RANDY ORTON VS ALEISTER BLACK SmackDown 20.02.2026
+- 2026-02-17 · *match* — THE VANITY PROJECT VS THE CULLING VS OTM VS HANK & TANK NXT 17.02.2026
+- 2026-02-17 · *segment* — FATAL INFLUENCE JACY JAYNE CHAMPION SEGMENT NXT 17.02.2026
+- 2026-02-17 · *match* — HELIO LEFLUX VS ELI KNIGHT NXT 17.02.2026
+- 2026-02-17 · *segment* — MYLES BORNE AND SHILOH SEGMENT BACKSTAGE NXT 17.02.2026
+- 2026-02-17 · *match* — ROBERT STONE, FALLON HENLEY AND BLAKE MONROE NXT 17.02.2026
+- 2026-02-17 · *match* — ETHAN PAGE VS SHILOH NXT 17.02.2026
+- 2026-02-17 · *match* — KELANI JORDAN VS LOLA VICE NXT 17.02.2026
+- 2026-02-17 · *match* — KELANI JORDAN VS LOLA VICE WWE NXT 17.02.2026
+- 2026-02-16 · *match* — NATTY VS ASUKA VS BAYLEY WWE Raw 16.02.2026
+- 2026-02-14 · *match* — LAS TÓXICAS VS ADELICIOUS, FABI APACHE & J JACKSON WWE AAA Worldwide 14.02.2026
+- 2026-02-10 · *match* — WREN SINCLAIR & KENDAL GREY VS SOL RUCA NXT 10.02.2026
+- 2026-02-10 · *match* — WREN QCC VS SOL RUCA NXT 10.02.2026
+- 2026-02-10 · *match* — BOOKER T SINGING JOE HENDRY'S ENTRANCE NXT 10.02.2026
+- 2026-02-10 · *segment* — ROBERT STONE SEGMENT BACKSTAGE NXT 10.02.2026
+- 2026-02-10 · *match* — JAIDA PARKER PARKER VS BLAKE MONROE NXT 10.02.2026
+- 2026-02-10 · *segment* — TATUM PAXLEY PROMO VIDEO NXT 10.02.2026
+- 2026-02-10 · *segment* — BOOKER & VIC "TELL ME YOU DID NOT JUST SAID THAT" SEGMENT NXT 10.02.2026
+- 2026-02-10 · *match* — KELANI JORDAN ATTACKS LOLA VICE NXT 10.02.2026
+- 2026-02-10 · *match* — DARK STATE VS THE CULLING NXT 10.02.2026
+- 2026-02-10 · *segment* — ETHAN PAGE, SHILOH & ROBERT STONE SEGMENT NXT 10.02.2026
+- 2026-02-10 · *match* — THE VANITY PROJECT VS HANK & TANK NXT 10.02.2026
+- 2026-02-10 · *segment* — ROBERT STONE AND MYLES BORNE SEGMENT NXT 10.02.2026
+- 2026-02-09 · *match* — RAYO & BRAVO VS JEVON EVANS & ORIGINAL GRANDE AMERICANO WWE Raw 09.02.2026
+- 2026-02-09 · *match* — LA KNIGHT VS AUSTIN THEORY VS PENTA WWE Raw 09.02.2026
+- 2026-02-07 · *match* — EL GRANDE AMERICANO VS REY FENIX VS OCTAGON JR VS DRAGON LEE WWE AAA 07.02.2026
+- 2026-02-04 · *match* — MARK DAVIS VS ADAM PAGE AEW Dynamite 04.02.2026
+- 2026-02-04 · *match* — ANDRADE VS OMEGA AEW Dynamite 04.02.2026
+- 2026-02-03 · *match* — CHARLIE DEMPSEY VS ELIO LEFLOIRE NXT 03.02.2026
+- 2026-02-03 · *segment* — BAD INFLUENCE SEGMENT NXT 03.02.2026
+- 2026-02-02 · *match* — RAQUEL RODRIGUEZ VS STEPHANIE VAQUER WWE Raw 02.02.2026
+- 2026-02-02 · *match* — MCMG VS RAYO & BRAVO WWE Main Event 02.02.2026
+- 2026-01-31 · *match* — AJ STYLES VS GUNTHER WWE Royal Rumble 31.01.2026
+- 2026-01-30 · *match* — REY FENIX VS CARMELO HAYES WWE SmackDown 30.01.2026
+- 2026-01-30 · *match* — CODY, JEY, SAMI & ORTON VS THE VISION WWE SmackDown 30.01.2026
+- 2026-01-27 · *match* — THE CULLING ATTACKS DARK STATE POST MATCH NXT 27.01.2026
+- 2026-01-24 · *match* — LIV MORGAN & ROXANNE PEREZ VS RHEA RIPLEY & IYO SKY SNME 24.01.2026
+- 2026-01-24 · *match* — AJ STYLES VS NAKAMURA WWE SNME 24.01.2026
+- 2026-01-23 · *match* — ILJA DRAGUNOV VS CARMELO HAYES SmackDown 23.01.2026
+- 2026-01-21 · *match* — SAMOA JOE VS MIKE BAILEY AEW Dynamite 21.01.2026
+- 2026-01-20 · *match* — FALLON HENLEY & LAINEY REID VS SOL RUCA VS WREN QCC NXT 20.01.2026
+- 2026-01-19 · *match* — CM PUNK VS FINN BÁLOR WWE Raw 19.01.2026
+- 2026-01-16 · *match* — LEON SLATER VS CARMELO HAYES WWE SmackDown 16.01.2026
+- 2026-01-16 · *match* — JORDYNNE GRACE VS CHELSEA GREEN WWE SmackDown 16.01.2026
+- 2026-01-15 · *match* — ORDER 4 VS THE HARDYS & ELIAS TNA Impact 15.01.2026
+- 2026-01-15 · *match* — KAZARIAN VS SANTANA TNA 15.01.2026
+- 2026-01-13 · *segment* — OPENING SEGMENT WITH RICKY SAINTS AND THE ROSTER AND POTENTIAL CALLUPS NXT 13.01.2026
+- 2026-01-13 · *match* — KELANI JORDAN VS LOLA VICE NXT 13.01.2026
+- 2026-01-12 · *match* — AJ STYLES VS GUNTHER WWE Raw 12.01.2026
+- 2026-01-09 · *match* — TRICK WILLIAMS VS REY FENIX WWE SmackDown 09.01.2026
+- 2026-01-08 · *segment* — MUSTAFA ALI IN-RING SEGMENT TNA Impact 08.01.2026
+- 2026-01-08 · *match* — THE SYSTEM VS THE HARDYS, LEON SLATER & CEDRIC ALEXANDER TNA Impact 08.01.2026
+- 2026-01-06 · *match* — IZZI DAME VS TATUM PAXLEY NXT 06.01.2026
+- 2026-01-06 · *match* — JACY JAYNE VS KENDAL GREY NXT 06.01.2026
+- 2026-01-06 · *match* — LEON SLATER VS OBA FEMI NXT 06.01.2026
+- 2026-01-05 · *match* — RHEA RIPLEY & IYO SKY VS ASUKA & KAIRI SANE WWE Raw 05.01.2026
+- 2026-01-05 · *match* — CM PUNK VS BRON BREAKKER WWE Raw 05.01.2026
+- 2026-01-02 · *match* — CHELSEA GREEN VS GIULIA WWE SmackDown 02.01.2026
+- 2026-01-01 · *match* — HEATHER & M BY ELEGANCE VS XIA BROOKSIDE & LEE TNA Impact 01.01.2026
+- 2026-01-01 · *match* — KAZARIAN VS BEAR BRONSON TNA Impact 01.01.2026
+- 2025-XX-XX · *match* — JEVON EVANS VS SAQUON SHUGARS WWE NXT NOVEMBER 2025
+- 2025-XX-XX · *match* — LEON SLATER VS JEVON EVANS TNA 2025 Bound for Glory
+- 2025-XX-XX · *match* — DOMINIK MYSTERIO VS JOHN CENA Survivor Series 2025
+- 2025-XX-XX · *match* — SABU VS JOEY JANELA GCW Spring Break 2025
+- 2025-XX-XX · *match* — MUSTAFA ALI & TRICK WILLIAMS VS LEON SLATER & MIKE SANTANA TNA Impact septiembre 2025
+- 2025-XX-XX · *match* — JOE HENDRY & JEFF HARDY CONCERT TNA Impact 2025
+- 2025-12-30 · *match* — ETHAN PAGE VS MOOSE NXT 30.12.2025
+- 2025-12-30 · *match* — JACY JAYNE VS WREN SINCLAIR NXT 30.12.2025
+- 2025-12-30 · *match* — JEVON EVANS VS RICKY SAINTS NXT 30.12.2025
+- 2025-12-29 · *match* — NIKKI BELLA VS STEPHANIE VAQUER VS RAQUEL RODRIGUEZ WWE Raw 29.12.2025
+- 2025-12-29 · *match* — AUSTIN THEORY VS REY MYSTERIO WWE Raw 29.12.2025
+- 2025-12-26 · *match* — LASH LEGEND VS CHARLOTTE FLAIR WWE SmackDown 26.12.2025
+- 2025-12-26 · *match* — CARMELO HAYES VS ILJA DRAGUNOV WWE SmackDown 26.12.2025
+- 2025-12-23 · *match* — IZZI DAME VS LOLA VICE NXT 23.12.2025
+- 2025-12-23 · *match* — KELANI JORDAN POST MATCH ATTACK NXT 23.12.2025
+- 2025-12-23 · *match* — CHELSEA GREEN VS SOL RUCA NXT 23.12.2025
+- 2025-12-17 · *match* — KYLE FLETCHER VS PAC AEW Dynamite 17.12.2025
+- 2025-12-16 · *match* — FALLON HENLEY & LAINEY REID VS KENDAL GREY & WREN SINCLAIR NXT 16.12.2025
+- 2025-12-13 · *match* — JOSH ALEXANDER VS SWERVE STRICKLAND AEW Collision 13.12.2025
+- 2025-12-09 · *match* — KELANI JORDAN VS JORDYNNE GRACE NXT 09.12.2025
+- 2025-12-09 · *match* — WREN SINCLAIR VS SOL RUCA NXT 09.12.2025
+- 2025-12-06 · *match* — WOMEN'S IRON SURVIVOR MATCH NXT Deadline 06.12.2025
+- 2025-11-27 · *match* — THE SYSTEM & LEON SLATER VS AJ FRANCIS, JAKE SOMETHING, RYAN NEMETH & RICH SWANN TNA Impact 27.11.2025
+- 2025-11-25 · *match* — JACY JAYNE VS TATUM PAXLEY NXT 25.11.2025
+- 2025-11-25 · *match* — KELANI JORDAN VS JORDYNNE GRACE VS LEE NXT 25.11.2025
+- 2025-11-20 · *match* — MYRON REED VS JOHN SKYLER TNA Impact 20.11.2025
+- 2025-11-20 · *match* — JDC VS ERIC YOUNG TNA Impact 20.11.2025
+- 2025-11-06 · *match* — DANI LUNA VS JODI THREAT TNA Impact 06.11.2025
+- 2025-11-06 · *match* — MIKE SANTANA VS CEDRIC ALEXANDER TNA Impact 06.11.2025
+- 2023-07-21 · *match* — LA KNIGHT VS SHEAMUS VS TREVOR LEE VS REY MISTERYIO WWE SmackDown 21.07.2023
+- 2021-XX-XX · *match* — JACOB FATU VS ALEX HAMMERSTONE MLW Fightland 2021
+- 2016-XX-XX · *match* — CHRIS HERO VS ZACK SABRE JR Limitless Wrestling 2016
+- 2015-11-23 · *match* — ROB VAN DAM VS AMAZING RED HOG 23.11.2015
+- 2013-XX-XX · *match* — RICOCHET VS PRINCE DEVITT RPW Uprising 2013
+- 2013-XX-XX · *segment* — OPENING VIDEO WWE Money in the Bank 2013
+- 2013-XX-XX · *segment* — ZEB COLTER PROMO WWE Money in the Bank 2013
+- 2013-07-12 · *match* — KAITLYN SPEARS AJ LEE WWE SmackDown 12.07.2013
+- 2013-06-02 · *match* — AJ Styles vs. Kurt Angle TNA 02.06.2013
+- 2012-04-19 · *match* — AJ Styles vs Kurt Angle — TNA Impact 19.04.2012
+- 2010-05-07 · *match* — KEVIN STEEN VS CHRISTOPHER DANIELS ROH Civil War 07.05.2010
+- 2010-01-29 · *match* — SHAWN MICHAELS VS REY MYSTERIO WWE SmackDown 29.01.2010
+- 2010-01-04 · *match* — AJ Styles vs Kurt Angle — TNA Impact 04.01.2010
+- 2009-10-06 · *match* — AJ Styles vs. Kurt Angle TNA Impact 06.10.2009
+- 2007-06-28 · *match* — KURT ANGLE VS CHRISTIAN CAGE VS RHINO TNA Impact 28.06.2007
+- 2006-08-24 · *match* — Alex Shelley vs Chris Sabin — ZERO1-MAX Tenka Ichi Jr 2006, Tag 1 (24.08.2006)
+- 2006-02-11 · *match* — SUPER DRAGON VS KEVIN STEEN VS RUCKUS CZW Seven Years Strong 11.02.2006
+- 2005-05-02 · *match* — CHRIS BENOIT VS HHH WWE Raw 02.05.2005
+- 2005-05-02 · *match* — SHELTON BENJAMIN VS SHAWN MICHAELS WWE Raw 02.05.2005
+- 2005-04-04 · *match* — CHRISTIAN VS SHELTON BENJAMIN VS CHRIS JERICHO WWE Raw 04.04.2005
+- 2005-03-21 · *match* — EDGE & CHRISTIAN VS JERICHO & SHELTON BENJAMIN WWE Raw 21.03.2005
+- 2005-03-07 · *match* — CHRISTIAN VS KANE WWE Raw 07.03.2005
+- 2005-02-21 · *match* — HBK & ORTON VS EDGE & CHRISTIAN WWE Raw 21.02.2005
+- 2005-02-14 · *match* — CHRISTIAN VS ORTON WWE Raw 14.02.2005
+- 2005-02-07 · *match* — HBK VS RIC FLAIR WWE Raw 07.02.2005
+- 2005-01-17 · *match* — CHRISTIAN VS HBK WWE Raw 17.01.2005
+- 2005-01-10 · *match* — CHRISTIAN & TOMKO VS BENOIT & TOMKO WWE Raw 10.01.2005
+- 2004-12-27 · *match* — CHRISTIAN VS CHRIS JERICHO WWE Raw 27.12.2004
+- 2004-12-27 · *match* — CHRISTIAN VS JERICHO WWE Raw 27.12.2004
+- 2004-12-06 · *match* — CHRISTIAN VS BENJAMIN WWE Raw 06.12.2004
+- 2004-11-15 · *match* — EDGE & CHRISTIAN VS BENOIT & BENJAMIN WWE Raw 15.11.2004
+- 2004-10-25 · *match* — SHELTON BENJAMIN VS CHRIS JERICHO WWE Raw 25.10.2004
+- 2004-10-04 · *match* — CHRISTIAN VS SHAWN MICHAELS WWE Raw 04.10.2004
+- 2004-10-04 · *match* — CHRISTIAN VS HBK WWE Raw 04.10.2004
+- 2004-09-20 · *match* — HBK VS CHRIS JERICHO WWE Raw 20.09.2004
+- 2004-09-20 · *match* — CHRISTIAN & TOMKO VS JERICHO & HBK WWE Raw 20.09.2004
+- 2004-06-19 · *match* — SABU VS RUCKUS 3PW Splintered 19.06.2004
+- 2004-06-14 · *match* — CHRISTIAN & TOMKO VS JERICHO & HBK WWE Raw 14.06.2004
+- 2004-05-16 · *match* — CHRIS BENOIT VS TAJIRI WWE Raw 16.05.2004
+- 2004-04-19 · *match* — CHRISTIAN VS CHRIS JERICHO WWE Raw 19.04.2004
+- 2004-04-05 · *match* — CHRIS JERICHO VS MATT HARDY WWE Raw 05.04.2004
+- 2004-02-02 · *match* — CHRISTIAN & JERICHO VS RIC FLAIR & BATISTA WWE Raw 02.02.2004
+- 2004-01-19 · *match* — CHRISTIAN & MATT HARDY VS RVD & BOOKER T WWE Raw 19.01.2004
+- 2004-01-12 · *match* — MATT HARDY & CHRISTIAN VS BOOKER T & RVD WWE Raw 12.01.2004
+- 2004-01-12 · *match* — CHRIS JERICHO VS MARK HENRY WWE Raw 12.01.2004
+- 2004-01-05 · *match* — CHRISTIAN & JERICHO VS HURRICANE & ROSEY WWE Raw 05.01.2004
+- 2003-07-04 · *match* — JEFF HARDY VS THE ROCK WWE Raw 04.07.2003
+- 2003-04-26 · *match* — CHRISTOPHER DANIELS VS AMAZING RED ROH Retribution 26.04.2003
+- 2002-XX-XX · *match* — RIC FLAIR VS RVD WWE No Mercy 2002
+- 2002-12-19 · *match* — CHRIS BENOIT VS KURT ANGLE WWE SmackDown 19.12.2002
+- 2002-12-12 · *match* — KURT ANGLE & EDGE VS BIG SHOW & ALBERT WWE SmackDown 12.12.2002
+- 2002-11-28 · *match* — MATT HARDY & JOHN CENA VS REY MYSTERIO & EDGE WWE SmackDown 28.11.2002
+- 2002-11-28 · *match* — LOS GUERREROS VS BENOIT & ANGLE WWE SmackDown 28.11.2002
+- 2002-11-21 · *match* — REY MYSTERIO VS JAMIE NOBLE WWE SmackDown 21.11.2002
+- 2002-11-21 · *match* — CHAVO GUERRERO VS CHRIS BENOIT WWE SmackDown 21.11.2002
+- 2002-11-14 · *match* — CHAVO GUERRERO VS EDGE WWE SmackDown 14.11.2002
+- 2002-11-14 · *match* — CHRIS BENOIT VS KURT ANGLE WWE SmackDown 14.11.2002
+- 2002-11-07 · *match* — REY MYSTERIO & EDGE VS ANGLE & BENOIT WWE SmackDown 07.11.2002
+- 2002-10-17 · *match* — KURT ANGLE & CHRIS BENOIT VS LOS GUERREROS (EDDIE & CHAVO) WWE SmackDown 17.10.2002
+- 2002-10-10 · *match* — BROCK LESNAR & TAJIRI VS EDGE & MYSTERIO WWE SmackDown 10.10.2002
+- 2002-10-03 · *match* — CHRIS BENOIT VS REY MYSTERIO 03.10.2002
+- 2002-09-12 · *match* — REY MYSTERIO VS KURT ANGLE WWE SmackDown 12.09.2002
+- 2002-09-05 · *match* — BILLY GUNN VS REY MYSTERIO WWE SmackDown 05.09.2002
+- 2002-08-29 · *match* — REY MYSTERIO VS RICO WWE SmackDown 29.08.2002
+- 2002-08-29 · *match* — UNDERTAKER VS CHRIS BENOIT VS KURT ANGLE WWE SmackDown 29.08.2002
+- 2002-07-10 · *match* — RVD & JEFF HARDY VS JERICHO & CHRISTIAN VS BUBBA & SPIKE DUDLEY VS KANE WWE Raw 10.07.2002
+- 2001-05-24 · *match* — THE HARDYS VS THE DUDLEY BOYZ VS EDGE & CHRISTIAN VS JERICHO & BENOIT WWF SmackDown 24.05.2001
+- 2001-03-03 · *match* — KURT ANGLE VS HHH MCW 03.03.2001
+- 1999-XX-XX · *match* — JEFF JARRETT VS CHRIS BENOIT WCW Starrcade 1999 (ladder match)
+- 1999-01-07 · *match* — EDDIE GUERRERO VS LA PARKA WCW Thunder 07.01.1999
+- 1998-07-20 · *match* — BUFF BAGWELL BETRAYS RICK STEINER — NWO SCOTT STEINER SET UP WCW Nitro 20.07.1998
+- 1997-06-06 · *match* — LANCE STORM VS MASAAKI MOCHIZUKI 06.06.1997
+- 1997-02-02 · *match* — ABISMO NEGRO VS HIJO DEL PERRO AGUAYO WWF Superstars 02.02.1997
+- 1996-XX-XX · *match* — SHAWN MICHAELS VS BRITISH BULLDOG WWF King of the Ring 1996
+- 1996-11-16 · *match* — TAKA MICHINOKU VS HAYABUSA FMW 16.11.1996
+- 1996-05-11 · *match* — SHAWN MICHAELS VS MARTY JANNETTY WWF 11.05.1996
+- 1995-XX-XX · *match* — JEFF JARRETT VS SHAWN MICHAELS WWF 1995 In Your House 2
+- 1995-XX-XX · *match* — BRET HART VS JEAN PIERRE LEFIT WWF 1995 In Your House 2
+- 1995-XX-XX · *match* — JEFF JARRETT VS BOB BACKLUND WWF Sunday Night Slam 3 (1995)
+- 1995-07-26 · *match* — BRET HART & SHAWN MICHAELS VS JERRY LAWLER & HAKUSHI WWF 26.07.1995
+- 1995-07-24 · *match* — BRET HART & SHAWN MICHAELS VS JACOB & ELI BLU WWF 24.07.1995
+- 1995-01-09 · *match* — RAZOR RAMON VS OWEN HART WWF Raw 09.01.1995
+- 1993-12-13 · *match* — RANDY SAVAGE VS HEADSHRINKER FATU WWF Raw 13.12.1993
+- 1993-01-16 · *match* — RICKY STEAMBOAT VS DUSTIN RHODES WCW Saturday Night 16.01.1993
+- 1992-XX-XX · *match* — ARN ANDERSON VS STEVE AUSTIN NJPW G1 Climax 1992
+- 1992-06-20 · *match* — STING VS CACTUS JACK WCW Beach Blast 20.06.1992
+- 1989-XX-XX · *match* — EDDIE GUERRERO VS TERRY FUNK WCW mayo 1989
+- s/f · *match* — DOMINIK MYSTERIO & GRANDE AMERICANO VS HIJO DEL VIKINGO Y DRAGON LEE AAA
+- s/f · *match* — DOMINIK MYSTERIO VS HIJO DEL VIKINGO AAA
+- s/f · *match* — BRYAN DANIELSON VS KENTA ROH Glory By Honor
+- s/f · *match* — SHANE MCMAHON VS KURT ANGLE WWE King of the Ring street fight
+- s/f · *match* — THE HART FOUNDATION VS THE ROCKERS WWF
+- s/f · *match* — BRET HART VS TED DIBIASE WWF
+- s/f · *match* — RODERICK STRONG PROTECTS CASSIDY
+- s/f · *match* — JD MCDONAGH IN WWE WrestleMania 42 Día 2
+- s/f · *match* — TRICK WILLIAMS VS SAMI ZAYN WWE WrestleMania 42 Día 2
+- s/f · *match* — DOMINIK MYSTERIO VS FINN BÁLOR WWE WrestleMania 42 Día 2
+- s/f · *segment* — CM PUNK VS ROMAN REIGNS PROMO VIDEO WWE WrestleMania 42 Día 2
+- s/f · *segment* — CM PUNK MISERIA CANTARE PROMO VIDEO WWE WrestleMania 42 Día 2
 
 ## Notas operativas
 
-- **Las entradas integradas no aparecen acá**: la watch-list es por
-  definición lo no-visto-todavía-con-ficha. Cuando se abre una ficha
-  para una entrada, su `(✓)` en el notebook la saca del pendiente y
-  de esta tabla.
-- **Eventos grandes vs sueltos**: el corte 3+ entradas es heurístico
-  para identificar **PPVs/PLEs** o programas con cobertura densa
-  donde tiene sentido planear un *watch session* completo, vs
-  *spots* aislados.
-- **Clusters ya procesados pueden aparecer acá**: los Updates
-  2026-05-10 del notebook declaran 8 clusters cerrados (TNA 2007
-  Coalition, Raw 2004-2005, SmackDown 2002, TNA 2025-2026,
-  WrestleMania 42, NXT 2025-2026 S&D, AAA+AEW 2026, MITB 2013).
-  Cada cluster tiene dossier + 6-8 centerpieces, pero los bullets
-  individuales no-centerpiece **siguen pendientes de ficha 1-a-1**
-  y aparecen acá.
-
-## Limitaciones del parseo
-
-- **Detección de show**: heurística por keyword (WRESTLEMANIA,
-  SMACKDOWN, NXT, etc.). Cuando el bullet no menciona el programa
-  explícito, cae en `[show desconocido]`.
-- **WrestleMania 42**: los bullets sin fecha explícita del Día 1 /
-  Día 2 reciben fecha inferida (2026-04-18 / 2026-04-19) para que el
-  evento agrupe correctamente.
-- **Fecha como clave de agrupación**: placeholders `XX` agrupan por
-  año — puede sobre-agrupar entries que no son del mismo show.
-- **Programas semanales sobre-representados**: cada Raw o SmackDown
-  cubierto típicamente tiene 3-8 bullets entre matches y segments.
-  Esto los promociona automáticamente a *evento completo* aunque no
-  sean PPV. La distinción PPV vs semanal se hace leyendo el header
-  de sección original del notebook.
 - **Texto cuasi-verbatim**: las entradas se muestran como fueron
-  dictadas, PERO con los nombres normalizados al canon
-  (`glossary/nombres-canonicos.md`: Leon Slater, McDonagh, Thekla,
-  Arianna Grace, Jodi Threat, Indi Hartwell, Kelani Jordan, Mickie
-  James…). El verbatim con typos vive solo en el notebook.
+  dictadas, con los nombres normalizados al canon
+  (`../../glossary/nombres-canonicos.md`). El verbatim con typos vive
+  solo en el notebook.
+- **Show**: derivado del texto del bullet (empresa por keyword + lo
+  que sigue hasta la fecha); bullets sin fecha o sin grupo de 3+ van
+  a sueltos.
+- Generado por `bin/regen_vistas.py`.

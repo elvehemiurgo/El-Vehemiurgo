@@ -348,9 +348,16 @@ Cuando vuelva, integro y cito.
   - `bin/reconciliar_lista.py [--apply]` — marcas (✓) en la lista
     personal derivadas de los índices (dry-run por defecto).
   - `bin/lint_archivo.py` — validador (sync índices, orden, links,
-    clases, estados, panteón, nombres). Corre solo en cada commit
-    (pre-commit hook, `bin/githooks/`) y en el arranque de sesión
-    (`bin/estado-sesion.sh` vía hook SessionStart).
+    clases, estados, panteón, nombres — el chequeo de nombres corre
+    también en el gate). Corre solo en cada commit (pre-commit hook,
+    `bin/githooks/`) y en el arranque de sesión
+    (`bin/estado-sesion.sh` vía hook SessionStart). `--stats` da los
+    conteos operativos.
+  - `bin/regen_vistas.py` — regenera las tres vistas derivadas
+    determinísticamente (ver abajo).
+  - `bin/archivo_lib.py` — núcleo compartido (frontmatter, corpus de
+    fichas, registro de nombres, bullets de la lista): los scripts
+    lo importan; el conocimiento de schema vive ahí, una sola vez.
 - **Skills** (`.claude/skills/`): `/volcado` (pipeline completo de
   un take), `/clase`, `/panteon`, `/future`, `/research`,
   `/donde-quede`, `/pista` (tracking de THE FUTURE + RUNNER UPS:
@@ -367,8 +374,10 @@ Cuando vuelva, integro y cito.
   vivo | fallecido`. Nada ad-hoc.
 - **Vistas derivadas** (`lista-personal-maestra-indice`,
   `luchadores-conteo-personal`, `eventos-watch-list-vehemiurgo`):
-  **generadas, no se editan a mano**; se regeneran (sub-agente)
-  al cierre de toda sesión que agregue fichas.
+  **generadas, no se editan a mano**; se regeneran con
+  `python3 bin/regen_vistas.py` (determinístico; las secciones
+  curadas del conteo se preservan) al cierre de toda sesión que
+  agregue fichas.
 - **Guiones editoriales** (`guiones/`): ante "hazme un guion" /
   "quiero otro guion" sobre un take, correr el pipeline de
   `guiones/README.md` — cruda corregida → memoria del archivo →
