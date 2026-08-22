@@ -3,7 +3,7 @@ nombre: "Terry Funk"
 tipo: fact-sheet
 categoria: people
 slug: terry-funk
-estado: vivo-post-research-integrado
+estado: fallecido
 ultima_actualizacion: 2026-05-22
 fuentes_principales:
   - "Sub-agente terry-funk-vs-stan-hansen-ajpw-1982-research-2026 (dossier 2026-05-22, research closed)"

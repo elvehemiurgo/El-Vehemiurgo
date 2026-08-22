@@ -32,6 +32,8 @@ QUIET = "--pre-commit" in sys.argv
 errors, warnings = [], []
 
 ESTADOS_OK = {"stub", "en-investigacion", "verificado", "vivo", "fallecido"}
+# promotions además admiten su ciclo de vida (CLAUDE.md §4)
+ESTADO_PROMO_RE = re.compile(r"^(cerrada|disuelta)(-\d{4}(-\d{2}(-\d{2})?)?)?$")
 ROW_RE = re.compile(r"^\| (\d{4}-[\dX]{2}-[\dX]{2}) \|")
 LINK_RE = re.compile(r"\]\((?!https?:)((?:\.\.?/)?[^)#\s:]+\.md)\)")
 
@@ -98,7 +100,8 @@ def check_frontmatter():
             fm = al.parse_fm(f.read_text())
             estado = fm.get("estado")
             if isinstance(estado, str) and estado and estado not in ESTADOS_OK:
-                warnings.append(f"W1 {f.relative_to(ROOT)} estado fuera de vocabulario: {estado}")
+                if not (sub == "archive/promotions" and ESTADO_PROMO_RE.match(estado)):
+                    warnings.append(f"W1 {f.relative_to(ROOT)} estado fuera de vocabulario: {estado}")
             clases = fm.get("clases_vehemiurgo")
             for v in clases if isinstance(clases, list) else []:
                 if v not in al.CLASES_OK:

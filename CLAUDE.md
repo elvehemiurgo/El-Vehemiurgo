@@ -372,7 +372,10 @@ Cuando vuelva, integro y cito.
 - **Estilo de links**: `./x.md` dentro de la misma carpeta,
   `../dir/x.md` cruzando carpetas.
 - **Vocabulario `estado`**: `stub | en-investigacion | verificado |
-  vivo | fallecido`. Nada ad-hoc.
+  vivo | fallecido`. **Promotions** además admiten su ciclo de vida:
+  `cerrada[-fecha]` / `disuelta[-fecha]` (p. ej. `cerrada-1973`,
+  `disuelta-2026-03-10`). Nada ad-hoc fuera de eso — la metadata de
+  workflow no se incrusta en `estado`.
 - **Vistas derivadas** (`lista-personal-maestra-indice`,
   `luchadores-conteo-personal`, `eventos-watch-list-vehemiurgo`):
   **generadas, no se editan a mano**; se regeneran con
