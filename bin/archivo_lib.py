@@ -26,10 +26,8 @@ PANTEON = ROOT / "archive/topics/heroes-fundamentales-vehemiurgia.md"
 CLASES_OK = {"perfect-wrestling", "fighting-spirit", "wrestling-entertainment"}
 ABBR = {"perfect-wrestling": "PW", "fighting-spirit": "FS", "wrestling-entertainment": "WE"}
 
-# Equivalencias que el registro documenta en prosa (tabla "Atención",
-# no machine-readable todavía) — ver glossary/nombres-canonicos.md.
-# TODO(C3): mover a una columna parseable del registro.
-EXTRA_EQUIVALENCIAS = {"elias": "elijah"}
+# (Las equivalencias legacy tipo elias→elijah viven en el registro,
+# sección "Equivalencias de matching" — ver load_equivalencias().)
 
 SEG_KEYS = ("PROMO", "SEGMENT", "RETURN", "VIDEO", "PACKAGE", "IN-RING", "BACKSTAGE")
 
@@ -176,6 +174,25 @@ def load_variantes():
     return out
 
 
+def load_equivalencias():
+    """token → token desde la tabla 'Equivalencias de matching' del
+    registro: nombres legacy/de época que resuelven al canónico sin
+    ser variantes prohibidas (no alimentan W2)."""
+    if not REGISTRO.exists():
+        return {}
+    out, in_t = {}, False
+    for ln in REGISTRO.read_text().split("\n"):
+        if ln.startswith("## Equivalencias de matching"):
+            in_t = True
+            continue
+        if in_t and ln.startswith("## "):
+            break
+        m = re.match(r"\| ([^|]+) \| ([^|]+) \|", ln)
+        if in_t and m and "Token" not in m.group(1) and "---" not in m.group(1):
+            out[norm(m.group(1)).strip()] = norm(m.group(2)).strip()
+    return out
+
+
 def token_map():
     """token de variante → token canónico, por posición.
 
@@ -192,7 +209,7 @@ def token_map():
             if tok in ct:
                 continue
             vmap[tok] = ct[i] if i < len(vt) == len(ct) else ct[-1]
-    vmap.update(EXTRA_EQUIVALENCIAS)
+    vmap.update(load_equivalencias())
     return vmap
 
 

@@ -72,6 +72,19 @@
 | **Zima Ion (AAA 2026)** | Gimmick portado por **Joaquin Wilde** (ex-LWO) según dictado del Vehemiurgo — **no confundir con Zema Ion (DJZ)**, talent distinto; grafía Zima/Zema [verif]. La fila de "Variantes prohibidas" solo aplica a menciones de DJZ. |
 | **Je'Von Evans** | Grafía real con apóstrofe; slug `jevon-evans`. El Vehemiurgo dicta "Jevon Evans". |
 
+## Equivalencias de matching (machine-readable, no linteadas)
+
+Pares token→token que los scripts (`bin/archivo_lib.py: token_map`)
+usan para el matching del reconciliador y las vistas: nombres legacy o
+de época que resuelven al canónico actual **sin ser variantes
+prohibidas** — no disparan W2 (la regla de contexto vive en la tabla
+"Atención" de arriba). Agregar acá cualquier equivalencia nueva de
+este tipo; los scripts la leen en la próxima corrida.
+
+| Token | Resuelve a |
+|---|---|
+| elias | elijah |
+
 ## Método de identificación (ley operativa desde s44)
 
 Ante **cualquier** nombre parcial, apodo o grafía dudosa en un
