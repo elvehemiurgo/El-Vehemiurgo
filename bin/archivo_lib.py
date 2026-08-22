@@ -153,6 +153,21 @@ def iter_fichas(kinds=("matches", "segments")):
                 yield ficha
 
 
+# ── filas de índice ──────────────────────────────────────────────
+
+ROW_RE = re.compile(r"^\| (\d{4}-[\dX]{2}-[\dX]{2}) \|")
+
+
+def format_index_row(f):
+    """La fila de índice de una Ficha — única definición del formato."""
+    cell = lambda s: s.replace("|", "\\|")
+    if f.kind == "matches":
+        return (f"| {f.fecha} | {cell(f.titulo)} | {cell(f.emp)} | {f.clase_abbr} "
+                f"| {f.estado} | {f.veces} | [→]({f.path.name}) |")
+    return (f"| {f.fecha} | {cell(f.titulo)} | {cell(f.emp)} | {cell(f.tipo_segmento)} "
+            f"| {f.clase_abbr} | {f.estado} | {f.veces} | [→]({f.path.name}) |")
+
+
 # ── registro de nombres canónicos ────────────────────────────────
 
 def load_variantes():

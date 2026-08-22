@@ -342,9 +342,10 @@ Cuando vuelva, integro y cito.
 
 - **Scripts** (`bin/` — determinísticos, correr en vez de editar a
   mano):
-  - `bin/index_add.py <ficha>` — fila de índice desde el
-    frontmatter, inserción ordenada. **Las tablas de índice no se
-    editan a mano.**
+  - `bin/index_add.py <ficha>` — valida la ficha y regenera los dos
+    índices completos desde el corpus (vía `bin/regen_index.py`;
+    renames sin pasos extra, el viejo `--rm` es no-op de
+    compatibilidad). **Las tablas de índice no se editan a mano.**
   - `bin/reconciliar_lista.py [--apply]` — marcas (✓) en la lista
     personal derivadas de los índices (dry-run por defecto).
   - `bin/lint_archivo.py` — validador (sync índices, orden, links,

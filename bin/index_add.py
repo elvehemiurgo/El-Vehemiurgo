@@ -1,121 +1,43 @@
 #!/usr/bin/env python3
-"""Inserta (o actualiza) la fila de un match/segment en su índice,
-manteniendo orden por fecha descendente. Deriva la fila del
-frontmatter del archivo — nunca editar la tabla a mano.
+"""Shim de compatibilidad: valida las fichas nombradas y regenera los
+índices completos vía regen_index.py.
 
-Uso:
-  python3 bin/index_add.py archive/matches/2026-XX-XX-slug.md [más archivos...]
+El mantenimiento incremental (inserción ordenada, modo --rm con danza
+de dos comandos para renames) se retiró: el índice es 100% derivable
+del corpus, así que cada corrida regenera las dos tablas enteras —
+estados inválidos irrepresentables, renames sin pasos extra. La
+auditoría 2026-08-22 encontró 62 filas (~8%) desincronizadas de su
+ficha por el modelo incremental; la regeneración total lo hace
+imposible.
 
-Renames: tras un `git mv`, retirar la fila vieja (el archivo ya no
-existe) y sumar la nueva:
-  python3 bin/index_add.py --rm archive/matches/slug-viejo.md
-  python3 bin/index_add.py archive/matches/slug-nuevo.md
+Uso (contrato de siempre — /volcado paso 3):
+  python3 bin/index_add.py archive/matches/2026-XX-XX-slug.md [más...]
+  python3 bin/index_add.py --rm archive/matches/slug-viejo.md   # no-op:
+      tras un `git mv` basta cualquier corrida; se acepta por
+      compatibilidad.
 """
-import re, sys
+import re
+import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-ABBR = {"perfect-wrestling": "PW", "fighting-spirit": "FS", "wrestling-entertainment": "WE"}
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import archivo_lib as al
+import regen_index
 
-
-def fm_get(fm, key, default=""):
-    m = re.search(rf'^{re.escape(key)}:[ \t]*(.*)$', fm, re.M)
-    if not m:
-        return default
-    v = m.group(1).strip()
-    if v.startswith('"'):
-        # valor entre comillas, respetando \" escapadas
-        mm = re.match(r'"((?:[^"\\]|\\.)*)"', v)
-        return mm.group(1).replace('\\"', '"') if mm else default
-    # sin comillas: cortar comentario inline de template
-    return v.split("#")[0].strip() or default
-
-
-def fm_clases(fm):
-    """Lista de clases en estilo inline (["a", "b"]) o bloque (- a)."""
-    m = re.search(r"clases_vehemiurgo:\s*\[([^\]]*)\]", fm, re.S)
-    if m:
-        inner = m.group(1)
-        return re.findall(r'"([^"]+)"', inner) or re.findall(r"[\w][\w-]*", inner)
-    m = re.search(r"^clases_vehemiurgo:\s*\n((?:[ \t]+-[^\n]*\n?)+)", fm, re.M)
-    return re.findall(r'-\s*"?([\w-]+)"?', m.group(1)) if m else []
-
-
-def build_row(path):
-    text = path.read_text()
-    if not text.startswith("---"):
-        sys.exit(f"sin frontmatter: {path.name}")
-    end = text.find("\n---", 3)
-    if end == -1:
-        sys.exit(f"frontmatter sin cierre: {path.name}")
-    fm = text[:end]
-    fecha = fm_get(fm, "fecha")
-    if not re.match(r"\d{4}-[\dX]{2}-[\dX]{2}$", fecha):
-        sys.exit(f"fecha inválida o ausente ({fecha!r}): {path.name}")
-    empresa = fm_get(fm, "empresa")
-    programa = fm_get(fm, "programa")
-    estado = fm_get(fm, "estado", "stub")
-    veces = fm_get(fm, "veces_visto_vehemiurgo", "0")
-    clases = fm_clases(fm)
-    clase = "·".join(ABBR.get(c, c) for c in clases) or "—"
-    emp = f"{empresa} / {programa}" if programa else empresa
-    # celdas de tabla: | interno escapado para no ganar columnas fantasma
-    cell = lambda s: s.replace("|", "\\|")
-    if path.parent.name == "matches":
-        titulo = cell(fm_get(fm, "match"))
-        row = f"| {fecha} | {titulo} | {cell(emp)} | {clase} | {estado} | {veces} | [→]({path.name}) |"
-    else:
-        titulo = cell(fm_get(fm, "segmento"))
-        tipo = cell(fm_get(fm, "tipo_segmento"))
-        row = f"| {fecha} | {titulo} | {cell(emp)} | {tipo} | {clase} | {estado} | {veces} | [→]({path.name}) |"
-    return fecha, row
-
-
-def insert(index_path, fecha, row, fname):
-    lines = index_path.read_text().split("\n")
-    row_re = re.compile(r"^\| (\d{4}-[\dX]{2}-[\dX]{2}) \|")
-    idxs = [i for i, ln in enumerate(lines) if row_re.match(ln)]
-    # update si ya existe fila para este archivo
-    for i in idxs:
-        if f"({fname})" in lines[i]:
-            lines[i] = row
-            index_path.write_text("\n".join(lines))
-            return "actualizada"
-    pos = None
-    for i in idxs:
-        if row_re.match(lines[i]).group(1) <= fecha:
-            pos = i
-            break
-    if pos is None:
-        pos = (idxs[-1] + 1) if idxs else len(lines)
-    lines.insert(pos, row)
-    index_path.write_text("\n".join(lines))
-    return "insertada"
-
-
-def remove(index_path, fname):
-    lines = index_path.read_text().split("\n")
-    keep = [ln for ln in lines if f"({fname})" not in ln]
-    if len(keep) == len(lines):
-        return "sin fila"
-    index_path.write_text("\n".join(keep))
-    return "retirada"
-
-
-args = sys.argv[1:]
-rm_mode = args and args[0] == "--rm"
-if rm_mode:
-    args = args[1:]
+args = [a for a in sys.argv[1:] if a != "--rm"]
 
 for arg in args:
-    p = (ROOT / arg).resolve() if not Path(arg).is_absolute() else Path(arg)
-    index = p.parent / "index.md"
-    if rm_mode:
-        result = remove(index, p.name)
-        print(f"{result}: {p.name} <- {index.relative_to(ROOT)}")
-        continue
+    p = (al.ROOT / arg).resolve() if not Path(arg).is_absolute() else Path(arg)
     if not p.exists():
+        if "--rm" in sys.argv:
+            continue  # retirada: el archivo ya no existe, la regen la absorbe
         sys.exit(f"no existe: {arg}")
-    fecha, row = build_row(p)
-    result = insert(index, fecha, row, p.name)
-    print(f"{result}: {p.name} -> {index.relative_to(ROOT)}")
+    ficha = al.load_ficha(p)
+    if ficha is None:
+        sys.exit(f"frontmatter ilegible o sin cierre: {p.name}")
+    if not re.match(r"\d{4}-[\dX]{2}-[\dX]{2}$", ficha.fecha):
+        sys.exit(f"fecha inválida o ausente ({ficha.fecha!r}): {p.name}")
+    print(f"ok: {p.name}")
+
+regen_index.regen("matches")
+regen_index.regen("segments")
