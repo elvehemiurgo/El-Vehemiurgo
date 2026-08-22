@@ -385,6 +385,27 @@ cuáles amigos, no sobre ROH— y el argumento del linaje: Owens como
 *greenhorn* que lleva 20 años llorando las consecuencias. Ver
 [`../segments/2026-08-14-cm-punk-kevin-owens-segmento-in-ring-wwe-smackdown.md`](../segments/2026-08-14-cm-punk-kevin-owens-segmento-in-ring-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s46 — Retiene en Toronto, heel por multitud, cierra el primer match de la historia
+
+**Cita verbatim**:
+
+> *"Punk siendo abucheado en Toronto [...] me ecantó como armaron la
+> lucha con Punk como heel efectivamente [...] fue historico. Esta
+> lucha se merece las 3 clases."*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: **WE** en el promo video, **PW·FS·WE** en el
+main event (SmackDown, 21/8/2026, Toronto) — **primer enfrentamiento
+absoluto de sus carreras** contra Kevin Owens, pago del arco abierto
+en s39. Toronto lo abuchea toda la noche, convirtiéndolo en heel de
+facto por contexto de multitud sin turn narrativo formal. Retiene el
+Undisputed WWE Championship con GTS tras la ruptura de Sami Zayn con
+Owens en pleno clímax. Ver
+[`../segments/2026-08-21-promo-video-punk-vs-owens-wwe-smackdown.md`](../segments/2026-08-21-promo-video-punk-vs-owens-wwe-smackdown.md)
+y
+[`../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md`](../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

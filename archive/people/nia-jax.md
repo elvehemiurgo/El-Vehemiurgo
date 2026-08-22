@@ -101,6 +101,17 @@ lesión de costillas en storyline que le condiciona la defensa del
 título US femenino esa misma noche ante Jacy Jayne (la pierde). Ver
 [`../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md`](../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s46 — The Irresistible Forces atacan a Tiffany post-match
+
+**Contexto**: SmackDown, 21/8/2026, Toronto. Dato de research dentro
+del match Lash Legend vs Tiffany Stratton, no comentado
+individualmente por el Vehemiurgo. Junto a Lash Legend (The
+Irresistible Forces), ataca a Tiffany post-match hasta el save de
+Chelsea Green con kendo stick. Ver
+[`../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md).
+
+**Lectura sintética**: sin clase individual — dato de continuidad.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

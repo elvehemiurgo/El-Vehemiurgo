@@ -148,6 +148,25 @@ Tiffany Stratton interviene y es atacada por ambas.
 **Lectura sintética**: **WE** para el segmento. Ver
 [`../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md`](../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s46 — "Un monster heel impresionante" en singles contra Tiffany
+
+**Cita verbatim**:
+
+> *"Lash es muy oldschool y esta programación la ha convertido en
+> alguien confiable [...] Lash si se vió como un moster heel
+> impresionante"*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** — vence a Tiffany Stratton con el
+Lash Extension (SmackDown, 21/8/2026, Toronto, 7:21, sin título en
+juego). Cierra el arco de desarrollo que el archivo viene siguiendo
+desde el diagnóstico original ("dejarla sola como la heel de la lucha
+casi la ahoga"): ahora conduce un singles completo como monster heel
+confiable. Post-match, junto a Nia Jax (The Irresistible Forces),
+ataca a Tiffany hasta el save de Chelsea Green con kendo stick. Ver
+[`../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

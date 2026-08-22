@@ -12,6 +12,11 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-21 | Promo video: CM Punk vs Kevin Owens, el primer enfrentamiento de sus carreras | WWE / SmackDown | promo video / hype package | WE | en-investigacion | 1 | [→](2026-08-21-promo-video-punk-vs-owens-wwe-smackdown.md) |
+| 2026-08-21 | Blake Monroe — promo de presentación, 'The Glamour' | WWE / SmackDown | promo de hype | WE | en-investigacion | 1 | [→](2026-08-21-blake-monroe-promo-glamour-wwe-smackdown.md) |
+| 2026-08-21 | Chelsea Green, Tiffany Stratton, Paige y Fatal Influence | WWE / SmackDown | promo / confrontacion backstage | WE | en-investigacion | 1 | [→](2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md) |
+| 2026-08-21 | Cody Rhodes y Randy Orton — Aldis impone la regla de no contact | WWE / SmackDown | promo in-ring / confrontacion | WE | en-investigacion | 1 | [→](2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md) |
+| 2026-08-21 | Promo video: Cody Rhodes vs Randy Orton, camino a Sunday Night's Main Event | WWE / SmackDown | promo video / hype package | WE | en-investigacion | 1 | [→](2026-08-21-promo-video-cody-vs-randy-wwe-smackdown.md) |
 | 2026-08-17 | Roman Reigns nombra capitanes a los Usos y humilla a Solo Sikoa — Sikoa lo traiciona con LA Knight | WWE / Raw | segmento coral de cierre / traición | WE | en-investigacion | 1 | [→](2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md) |
 | 2026-08-17 | Bron Breakker, Oba Femi y Paul Heyman — el rescate de booking en curso | WWE / Raw | promo / confrontación | WE | en-investigacion | 1 | [→](2026-08-17-bron-breakker-oba-femi-heyman-wwe-raw.md) |
 | 2026-08-17 | Big Cass ataca a Je'Von Evans (post-match), con Dominik Mysterio sumándose | WWE / Raw | ataque post-match | — | en-investigacion | 1 | [→](2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md) |

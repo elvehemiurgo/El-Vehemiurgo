@@ -368,6 +368,30 @@ abucheen a Cody). Match pactado: **vs Orton, Sunday Night's Main
 Event, 6/9/2026, Atlanta**, sin títulos en juego. Ver
 [`../segments/2026-08-14-brawl-cody-rhodes-randy-orton-wwe-smackdown.md`](../segments/2026-08-14-brawl-cody-rhodes-randy-orton-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s46 — Convierte a Orton en "última leyenda que queda", regla de no contact
+
+**Cita verbatim**:
+
+> *"el trabajo en el micrófono de Cody sigue siendo genial, convirtió
+> esta rivalidad en algo histórico, superando la desconección con los
+> fans que no quieren abuchear a Randy [...] traer al legend killer
+> como la última leyenda que queda me parece un gimmick genial"*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: **WE** en el promo video y **WE** en el
+segmento in-ring (SmackDown, 21/8/2026, Toronto). Con su trabajo de
+mic resuelve el problema de que el público no quiere abuchear a
+Orton. Nick Aldis impone una regla de no contact hasta Sunday Night's
+Main Event (6/9, Atlanta) bajo estipulación "American Daydream": si
+cualquiera de los dos toca al otro antes, pierde toda oportunidad
+titular mundial futura. Línea confirmada: *"the one who will kill the
+Legend Killer will be me. And that's not a prediction, it's a
+spoiler."* Ver
+[`../segments/2026-08-21-promo-video-cody-vs-randy-wwe-smackdown.md`](../segments/2026-08-21-promo-video-cody-vs-randy-wwe-smackdown.md)
+y
+[`../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md`](../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

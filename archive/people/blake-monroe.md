@@ -122,6 +122,30 @@ dimensión del oficio.)
 
 **Lectura sintética**: Sin clase — el registro es de **intriga por la premisa**, no de aprobación de ejecución. **El mecanismo nombrado**: *"rivalidad unilateral"*, donde una sola parte construye el conflicto — *"no es tan común"*. Amenazar a la campeona US **antes de debutar** invierte el orden habitual: normalmente el retador se gana el derecho a hablar.
 
+### Sesión 2026-08-01 s46 — "The Glamour": "es Toni Storm básicamente", pero emboscada confirmada
+
+**Cita verbatim**:
+
+> *"es Tony Storm basicamente, pero Blake siempre tuvo buenas promos,
+> es buena para tv, siempre tiene un comeback listo [...] Blake saca
+> adelante cualquier idea"*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: **WE** en la promo de presentación y **WE** en
+la emboscada a Giulia (SmackDown, 21/8/2026, Toronto). **Confirmado
+por research que no es coincidencia de gimmick sino identidad real**:
+Blake Monroe es Mariah May, rival directa de Toni Storm en
+Stardom/AEW (Owen Hart Cup 2024, le quitó el AEW Women's World
+Championship en All In London 2024, cerró la historia en el
+"Hollywood Ending" de AEW Revolution), y usó el propio Storm Zero
+como parte de su arsenal antes de desarrollar movimiento propio.
+Emboscó a Giulia durante su entrada —sin campana— cerrando con el
+Neutralizer. Ver
+[`../segments/2026-08-21-blake-monroe-promo-glamour-wwe-smackdown.md`](../segments/2026-08-21-blake-monroe-promo-glamour-wwe-smackdown.md)
+y
+[`../matches/2026-08-21-giulia-vs-blake-monroe-wwe-smackdown.md`](../matches/2026-08-21-giulia-vs-blake-monroe-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar grafía oficial WWE del nombre**.

@@ -104,6 +104,30 @@ Kingston** y **Jack Perry**, ambos con heat real documentado contra
 Punk en AEW. Ver
 [`../segments/2026-08-14-cm-punk-kevin-owens-segmento-in-ring-wwe-smackdown.md`](../segments/2026-08-14-cm-punk-kevin-owens-segmento-in-ring-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s46 — Se niega a hacer trampa, traicionado por Zayn en el clímax
+
+**Cita verbatim**:
+
+> *"independientemente de la mediocridad que Owens trajo al inicio de
+> esta rivalidad, todavia se puede contar algo top in ring [...]
+> Owens vs Zayn otra vez este año suena bien, y Owens puede practicar
+> sus promos para volver al main event"*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: **WE** en el promo video, **PW·FS·WE** en el
+main event (SmackDown, 21/8/2026, Toronto) — recibe la ovación más
+fuerte de la noche en su país natal. Conecta un Stunner para un near
+fall "cardíaco" tras la interferencia de Sami Zayn; **se niega a usar
+el cinturón como arma** cuando Zayn se lo ofrece, y por eso Zayn lo
+golpea con el título — ruptura formal de su alianza. Cae ante Punk vía
+GTS. El Vehemiurgo reconoce el arranque flojo de la rivalidad
+("mediocridad", ya registrado como "el fumble del año" en s39) pero
+valora la entrega in-ring pese a eso. Ver
+[`../segments/2026-08-21-promo-video-punk-vs-owens-wwe-smackdown.md`](../segments/2026-08-21-promo-video-punk-vs-owens-wwe-smackdown.md)
+y
+[`../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md`](../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).

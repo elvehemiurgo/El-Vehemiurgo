@@ -241,6 +241,15 @@ perdiendo su título esa noche ante Jacy Jayne — ver
 El Vehemiurgo declara este arco *"la historia definitiva del año para
 SmackDown"*.
 
+### Sesión 2026-08-01 s46 — Intenta reconciliar con Tiffany, hace el save con kendo stick
+
+**Contexto**: SmackDown, 21/8/2026, Toronto. **WE** en el segmento con
+Fatal Influence y Paige — intenta reconciliarse con Tiffany Stratton,
+quien la frena para no arriesgar su reinado. Más tarde, tras el ataque
+de The Irresistible Forces sobre Tiffany, **sale con el kendo stick a
+hacer el save** — arranque efectivo de la alianza Chelsea/Tiffany. Ver
+[`../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md`](../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

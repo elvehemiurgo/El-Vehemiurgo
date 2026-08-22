@@ -72,6 +72,24 @@ pactado**: Cody Rhodes vs Randy Orton, **Sunday Night's Main Event,
 revancha de WrestleMania 42 Noche 1 (que ganó Rhodes). Ver
 [`../segments/2026-08-14-brawl-cody-rhodes-randy-orton-wwe-smackdown.md`](../segments/2026-08-14-brawl-cody-rhodes-randy-orton-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s46 — "The American Daydream": la última leyenda que queda
+
+**Cita verbatim**:
+
+> *"Randy como heel que trae la vieja escuela y quiere venganza [...]
+> traer al legend killer como la última leyenda que queda me parece
+> un gimmick genial"*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: **WE** en el promo video y **WE** en el
+segmento in-ring (SmackDown, 21/8/2026, Toronto). Llama a Cody "the
+American Daydream" —nombre que termina bautizando la estipulación de
+Sunday Night's Main Event (6/9, Atlanta)— y promete humillarlo delante
+de su familia. Aldis impone la regla de no contact: tocarse antes del
+match cuesta toda oportunidad titular mundial futura para ambos. Ver
+[`../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md`](../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Resultado exacto de Cody vs Orton en WrestleMania 42 — snippets

@@ -206,6 +206,26 @@ apertura (Raw, 17/8/2026), es superada en número por Judgment Day
 Ver
 [`../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md`](../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md).
 
+### Sesión 2026-08-01 s46 — Mención cruzada: agrupada con Giulia bajo "no quiere evolucionar"
+
+**Cita verbatim**:
+
+> *"no siento que Giulia quiera evolucionar, igual que Vaquer, a
+> diferencia de La Catalina, ella si quiere evolucionar y todo lo que
+> supuestamente son Vaquer y Giulia en verdaad es la Catalina, ella
+> está más lista."*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: sin clase — mención cruzada dentro de la ficha
+de Giulia (match vs Blake Monroe, SmackDown, 21/8/2026). Extensión
+directa de la tensión "performer sí, promo todavía no" ya registrada
+desde 2026-05-09 — acá el Vehemiurgo la agrupa con Giulia bajo un
+diagnóstico de **falta de voluntad de evolucionar** (idioma, mic), y
+falla a favor de **La Catalina** como quien efectivamente encarna lo
+que ambas solo prometen. Ver [`./giulia.md`](./giulia.md) y
+[`./la-catalina.md`](./la-catalina.md).
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run NJPW STARDOM (fechas, IWGP Women's

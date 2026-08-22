@@ -173,6 +173,28 @@ decisión de Nick Aldis. Cae ante el Stunner de Owens.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-08-01 s46 — Rompe con Owens en pleno main event, tras quejarse con Aldis por Orton
+
+**Cita verbatim**:
+
+> *"el near fall despues de la interferencia de Sami fue super
+> cardiaco, de verdad salté de mi asiento, y me gustó el desenlace,
+> Owens vs Zayn otra vez este año suena bien"*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: **WE** en el segmento de apertura (SmackDown,
+21/8/2026, Toronto) —donde, con la mano rota, le reclama a Aldis que
+Randy Orton le bloquea oportunidades— y parte del **PW·FS·WE** del
+main event, donde interfiere en el clímax: tira a Punk contra el poste
+para que Owens conecte un Stunner (near fall "cardíaco"), le ofrece a
+Owens el título como arma para ganar haciendo trampa, y al ser
+rechazado **golpea a Owens con el cinturón** — ruptura formal de su
+alianza, dejando sembrado un futuro Owens vs Zayn. Ver
+[`../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md`](../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md)
+y
+[`../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md`](../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

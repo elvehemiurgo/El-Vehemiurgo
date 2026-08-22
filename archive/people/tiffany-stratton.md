@@ -229,6 +229,26 @@ dentro del segmento de Nia Jax y Lash Legend, sin clase propia.
 Ver
 [`../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md`](../segments/2026-08-14-nia-jax-lash-legend-amenazan-chelsea-tiffany-atacada-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s46 — Frena a Chelsea, cae ante Lash Legend: "aprendió, más stiff, más real"
+
+**Cita verbatim**:
+
+> *"Tiffany aprendió está más stiff más real, todavia no es tan
+> oldschool en algunas cosas, pero yo vi wrestling, habia stakes,
+> habia booking"*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: **WE** en el segmento con Chelsea Green y
+Fatal Influence, **PW·FS·WE** en el match — cae ante Lash Legend
+(Lash Extension, 7:21, sin título en juego) tras frenar el intento de
+reconciliación de Chelsea Green por miedo a arriesgar su reinado.
+Post-match, The Irresistible Forces la atacan hasta que Chelsea sale
+con el kendo stick. Ver
+[`../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md`](../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md)
+y
+[`../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

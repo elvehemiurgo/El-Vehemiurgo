@@ -281,6 +281,16 @@ cumple la expectativa de título propio marcada por el Vehemiurgo en
 s10 ("ya pagaron suficientes pins, ahora pueden empezar a ganar
 títulos").
 
+### Sesión 2026-08-01 s46 — Fatal Influence apunta contra Paige
+
+**Contexto**: SmackDown, 21/8/2026, Toronto. **WE** para el segmento
+(con Fallon Henley y Lainey Reid) — apunta contra Paige por defender a
+Chelsea Green: *"no deberías escuchar a alguien que no puede retener
+sus propios títulos"*. **Corrección de nombre**: el dictado la
+identifica como "Bad Influence" — es Fatal Influence, mishearing ya
+observado también en otra sesión temprana del archivo. Ver
+[`../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md`](../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.

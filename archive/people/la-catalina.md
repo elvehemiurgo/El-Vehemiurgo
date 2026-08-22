@@ -119,6 +119,23 @@ contemporary:
 - [`../topics/tko-contracts-2025-2026.md`](../topics/tko-contracts-2025-2026.md)
   — doctrina TKO contracts + AAA absorption.
 
+### Sesión 2026-08-01 s46 — Mención cruzada: "ella está más lista" que Giulia y Vaquer
+
+**Cita verbatim**:
+
+> *"a diferencia de La Catalina, ella si quiere evolucionar y todo lo
+> que supuestamente son Vaquer y Giulia en verdaad es la Catalina,
+> ella está más lista."*
+>
+> — El Vehemiurgo, 2026-08-01 s46 (verbatim)
+
+**Lectura sintética**: sin clase — mención cruzada dentro de la ficha
+de Giulia (SmackDown, 21/8/2026). El Vehemiurgo la usa como vara de
+comparación positiva frente a Giulia y Stephanie Vaquer en cuanto a
+**voluntad de evolucionar** (idioma, mic) — el elogio más alto que
+recibe en esta comparación de tres. Ver [`./giulia.md`](./giulia.md)
+y [`./stephanie-vaquer.md`](./stephanie-vaquer.md).
+
 ## Pendientes / huecos
 
 - [ ] **Fecha exacta firma WWE + AAA**.

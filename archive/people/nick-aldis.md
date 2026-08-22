@@ -109,6 +109,15 @@ regalo. Oficializa después, durante un corte comercial, el street
 clothes match Cardona vs Gunther que cierra la noche. Ver
 [`../segments/2026-08-14-chelsea-green-nick-aldis-gunther-lesion-orbital-wwe-smackdown.md`](../segments/2026-08-14-chelsea-green-nick-aldis-gunther-lesion-orbital-wwe-smackdown.md).
 
+### Sesión 2026-08-01 s46 — Impone la regla de no contact entre Cody y Orton
+
+**Contexto**: SmackDown, 21/8/2026, Toronto. **WE** para el segmento
+([→](../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md)).
+Como GM, establece que si Cody Rhodes o Randy Orton se tocan antes de
+Sunday Night's Main Event (6/9, Atlanta), ninguno de los dos vuelve a
+tener oportunidad titular mundial nunca más — nombra la estipulación
+"American Daydream".
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de la rivalidad Gunther vs Aldis.

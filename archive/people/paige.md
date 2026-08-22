@@ -88,6 +88,17 @@ Twins contra ella. Ver
 **Lectura sintética**: **FS·WE** para el match; sin clase para el
 turn post-match (no comentado directamente).
 
+### Sesión 2026-08-01 s46 — Apoya a Chelsea, apunta al título de Estados Unidos
+
+**Contexto**: SmackDown, 21/8/2026, Toronto. **WE** para el segmento —
+le dice a Chelsea Green que está orgullosa de ella; Fatal Influence la
+ataca verbalmente por no poder retener sus propios títulos; responde
+que extraña el oro y que va por el **Campeonato de Estados Unidos**.
+**Corrección de research**: no está aliada con las Bellas —al
+contrario, Nikki y Brie Bella le hicieron heel turn en SummerSlam
+2026, venciéndola junto a Fatal Influence. Ver
+[`../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md`](../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad y título** — [verif].
