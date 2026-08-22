@@ -6,116 +6,48 @@ envuelve en negrita + se agrega el link).
 
 Matching: fecha exacta (DD.MM.YYYY del bullet vs fecha del archivo)
 + solapamiento de tokens distintivos (≥2, o ≥1 si la fecha es
-inequívoca), con mapa de variantes de glossary/nombres-canonicos.md.
+inequívoca), con el registro canónico vía archivo_lib.
 
 Uso:
   python3 bin/reconciliar_lista.py            # dry-run (propuestas)
   python3 bin/reconciliar_lista.py --apply    # escribe las marcas
 """
-import re, sys, unicodedata
+import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-LISTA = ROOT / "notebook/2026-05-09-2-lista-personal-completa.md"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import archivo_lib as al
+
 APPLY = "--apply" in sys.argv
+VMAP = al.token_map()
 
-STOP = {"the", "and", "with", "match", "team", "title", "wwe", "aew", "tna",
-        "nxt", "raw", "smackdown", "impact", "dynamite", "collision", "njpw",
-        "roh", "wcw", "wwf", "cmll", "aaa", "stardom", "night", "week",
-        "thursday", "monday", "live", "event", "house", "show", "ppv", "vs"}
-
-
-def norm(s):
-    s = unicodedata.normalize("NFD", s).encode("ascii", "ignore").decode().lower()
-    return re.sub(r"[^a-z0-9 ]", " ", s)
-
-
-def variant_map():
-    reg = ROOT / "glossary/nombres-canonicos.md"
-    vmap = {}
-    if reg.exists():
-        in_t = False
-        for ln in reg.read_text().split("\n"):
-            if ln.startswith("## Variantes prohibidas"):
-                in_t = True; continue
-            if in_t and ln.startswith("## "):
-                break
-            m = re.match(r"\| ([^|]+) \| ([^|]+) \|", ln)
-            if in_t and m and "Canónico" not in m.group(1):
-                canon_tokens = norm(m.group(1)).split()
-                for v in m.group(2).split(","):
-                    for tok in norm(v).split():
-                        if tok not in canon_tokens and canon_tokens:
-                            vmap[tok] = canon_tokens[-1]  # apellido canónico
-    vmap.update({"elias": "elijah", "mickey": "mickie"})
-    return vmap
-
-
-VMAP = variant_map()
-
-
-def tokens(s):
-    out = set()
-    for t in norm(s).split():
-        t = VMAP.get(t, t)
-        if len(t) >= 4 and t not in STOP and not t.isdigit():
-            out.add(t)
-    return out
-
-
-def archive_entries():
-    entries = []
-    for sub in ("archive/matches", "archive/segments"):
-        for f in (ROOT / sub).glob("*.md"):
-            if f.name in ("index.md", "README.md"):
-                continue
-            m = re.search(r"^fecha:\s*(\d{4}-\d{2}-\d{2})", f.read_text(), re.M)
-            if m:
-                entries.append((m.group(1), f))
-    return entries
-
-
-ENTRIES = archive_entries()
+# fichas por fecha
 BY_DATE = {}
-for d, f in ENTRIES:
-    BY_DATE.setdefault(d, []).append(f)
+for ficha in al.iter_fichas():
+    BY_DATE.setdefault(ficha.fecha, []).append(ficha.path)
 
-lines = LISTA.read_text().split("\n")
-
-# límites: solo la sección "## La lista" (verbatim), no el análisis posterior
-start = next((i for i, l in enumerate(lines) if l.startswith("## La lista")), 0)
-end = next((i for i in range(start + 1, len(lines)) if lines[i].startswith("## ")), len(lines))
+lines = al.LISTA.read_text().split("\n")
+bullets = al.lista_bullets()
 
 # archivos ya linkeados desde alguna línea (✓) no se vuelven a proponer
-ya_linkeados = set(re.findall(r"archive/(?:matches|segments)/([^)`\s]+\.md)", "\n".join(lines)))
-
-SEG_KEYS = ("PROMO", "SEGMENT", "RETURN", "VIDEO", "PACKAGE", "IN-RING", "BACKSTAGE")
+ya_linkeados = {b.link.split("/")[-1] for b in bullets if b.link}
 
 proposals, applied = [], 0
-for i, ln in enumerate(lines):
-    if not (start < i < end):
+for b in bullets:
+    if b.marked or not b.fecha:
         continue
-    if not ln.startswith("- ") or ln.startswith("- (✓)"):
-        continue
-    dm = re.search(r"(\d{2})\.(\d{2})\.(\d{4})", ln)
-    if not dm:
-        continue
-    fecha = f"{dm.group(3)}-{dm.group(2)}-{dm.group(1)}"
-    up = ln.upper()
-    cands = [f for f in BY_DATE.get(fecha, []) if f.name not in ya_linkeados]
-    # filtro de tipo: " VS " → solo matches; keyword de segmento → solo
-    # segments; ambiguo → sin filtro. (La versión anterior anulaba el
-    # filtro de segments con un `or` que lo dejaba sin efecto.)
-    if " VS " in up:
+    cands = [f for f in BY_DATE.get(b.fecha, []) if f.name not in ya_linkeados]
+    tipo = al.bullet_tipo(b.texto)
+    if tipo == "match":
         cands = [f for f in cands if f.parent.name == "matches"]
-    elif any(k in up for k in SEG_KEYS):
+    elif tipo == "segment":
         cands = [f for f in cands if f.parent.name == "segments"]
     if not cands:
         continue
-    btoks = tokens(ln)
+    btoks = al.tokens(b.raw, VMAP)
     best, best_n, best_cov = None, 0, 0.0
     for f in cands:
-        ft = tokens(f.stem)
+        ft = al.tokens(f.stem, VMAP)
         n = len(btoks & ft)
         cov = n / len(ft) if ft else 0
         if (n, cov) > (best_n, best_cov):
@@ -124,16 +56,16 @@ for i, ln in enumerate(lines):
         best_n >= 2 or (best_n == 1 and len(cands) == 1 and best_cov >= 0.67))
     if ok:
         rel = f"../archive/{best.parent.name}/{best.name}"
-        texto = ln[2:].strip()
+        texto = b.raw[2:].strip()
         nuevo = f"- (✓) **{texto}** → [`archive/{best.parent.name}/{best.name}`]({rel}) (reconciliación automática)"
-        proposals.append((i + 1, texto[:60], best.name, f"{best_n}/{best_cov:.2f}"))
+        proposals.append((b.lineno, texto[:60], best.name, f"{best_n}/{best_cov:.2f}"))
         ya_linkeados.add(best.name)
         if APPLY:
-            lines[i] = nuevo
+            lines[b.lineno - 1] = nuevo
             applied += 1
 
 for n, txt, f, score in proposals:
     print(f"L{n} [{score}] {txt}  ->  {f}")
 print(f"\n{len(proposals)} propuestas" + (f", {applied} aplicadas" if APPLY else " (dry-run; usar --apply)"))
 if APPLY and applied:
-    LISTA.write_text("\n".join(lines))
+    al.LISTA.write_text("\n".join(lines))

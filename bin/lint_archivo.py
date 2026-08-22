@@ -5,35 +5,48 @@ Checks (ERROR = exit 1; WARNING = solo informa):
   E1  index <-> files sync (matches y segments, ambas direcciones)
   E2  filas duplicadas en los índices
   E3  índices ordenados por fecha descendente
-  E4  links relativos rotos en archive/**
+  E4  links relativos rotos en archive/** (incluye same-dir)
   E5  clases_vehemiurgo con vocabulario inválido (solo slugs)
   E6  links de tabla del panteón (SoT) a fichas inexistentes
   W1  estado fuera de vocabulario {stub, en-investigacion, verificado, vivo, fallecido}
   W2  variantes de nombre prohibidas (glossary/nombres-canonicos.md)
       fuera de notebook/ y fuera de líneas quote (>)
 
+W2 corre siempre (también en --pre-commit): el conteo del resumen es
+honesto. En --pre-commit solo se imprimen errores, no los warnings.
+
 Uso:
-  python3 bin/lint_archivo.py            # todo, warnings incluidos
+  python3 bin/lint_archivo.py               # todo, warnings listados
   python3 bin/lint_archivo.py --pre-commit  # solo errores, salida corta
+  python3 bin/lint_archivo.py --stats       # métricas para estado-sesion
 """
-import re, sys, unicodedata
+import re
+import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import archivo_lib as al
+
+ROOT = al.ROOT
 QUIET = "--pre-commit" in sys.argv
 errors, warnings = [], []
 
-CLASES_OK = {"perfect-wrestling", "fighting-spirit", "wrestling-entertainment"}
 ESTADOS_OK = {"stub", "en-investigacion", "verificado", "vivo", "fallecido"}
 ROW_RE = re.compile(r"^\| (\d{4}-[\dX]{2}-[\dX]{2}) \|")
-LINK_RE = re.compile(r"\]\(((?:\.\.?/)[^)#\s]+\.md)\)")
+LINK_RE = re.compile(r"\]\((?!https?:)((?:\.\.?/)?[^)#\s:]+\.md)\)")
 
 
-def frontmatter(text):
-    if not text.startswith("---"):
-        return ""
-    end = text.find("\n---", 3)
-    return text[:end] if end != -1 else ""
+def stats():
+    """Métricas con las definiciones correctas, para estado-sesion.sh."""
+    counts = {}
+    for kind in ("matches", "segments", "people", "topics"):
+        counts[kind] = sum(1 for f in (ROOT / "archive" / kind).glob("*.md")
+                           if f.name not in ("index.md", "README.md"))
+    bullets = al.lista_bullets()
+    print(f"fichas: {counts['matches']} matches · {counts['segments']} segments "
+          f"· {counts['people']} people · {counts['topics']} topics")
+    print(f"lista personal: {sum(1 for b in bullets if b.marked)} de {len(bullets)} "
+          f"bullets reconciliados (✓)")
 
 
 def check_index(index_path, files_dir):
@@ -82,76 +95,60 @@ def check_frontmatter():
         for f in (ROOT / sub).glob("*.md"):
             if f.name in ("index.md", "README.md"):
                 continue
-            fm = frontmatter(f.read_text())
-            m = re.search(r"^estado:\s*([\w-]+)", fm, re.M)
-            if m and m.group(1) not in ESTADOS_OK:
-                warnings.append(f"W1 {f.relative_to(ROOT)} estado fuera de vocabulario: {m.group(1)}")
-            # inline (["a", "b"]) o bloque (- a) — mismas dos formas que index_add
-            cm = re.search(r"clases_vehemiurgo:\s*\[([^\]]*)\]", fm, re.S)
-            if cm:
-                vals = re.findall(r'"([^"]+)"', cm.group(1)) or re.findall(r"[\w][\w-]*", cm.group(1))
-            else:
-                bm = re.search(r"^clases_vehemiurgo:\s*\n((?:[ \t]+-[^\n]*\n?)+)", fm, re.M)
-                vals = re.findall(r'-\s*"?([\w-]+)"?', bm.group(1)) if bm else []
-            for v in vals:
-                if v not in CLASES_OK:
+            fm = al.parse_fm(f.read_text())
+            estado = fm.get("estado")
+            if isinstance(estado, str) and estado and estado not in ESTADOS_OK:
+                warnings.append(f"W1 {f.relative_to(ROOT)} estado fuera de vocabulario: {estado}")
+            clases = fm.get("clases_vehemiurgo")
+            for v in clases if isinstance(clases, list) else []:
+                if v not in al.CLASES_OK:
                     errors.append(f"E5 {f.relative_to(ROOT)} clase inválida: \"{v}\" (usar slugs)")
 
 
 def check_panteon():
-    sot = ROOT / "archive/topics/heroes-fundamentales-vehemiurgia.md"
-    text = sot.read_text()
+    text = al.PANTEON.read_text()
     for m in re.finditer(r"\[→\]\((\.\./people/[^)]+\.md)\)", text):
-        if not (sot.parent / m.group(1)).resolve().exists():
+        if not (al.PANTEON.parent / m.group(1)).resolve().exists():
             errors.append(f"E6 panteón SoT linkea ficha inexistente: {m.group(1)}")
 
 
-def norm(s):
-    return unicodedata.normalize("NFD", s).encode("ascii", "ignore").decode().lower()
-
-
 def check_names():
-    reg = ROOT / "glossary/nombres-canonicos.md"
-    if not reg.exists():
+    variants = al.load_variantes()
+    if not variants:
         return
-    variants = []  # (variante, canonico)
-    in_table = False
-    for ln in reg.read_text().split("\n"):
-        if ln.startswith("## Variantes prohibidas"):
-            in_table = True
-            continue
-        if in_table and ln.startswith("## "):
-            break
-        m = re.match(r"\| ([^|]+) \| ([^|]+) \|", ln)
-        if in_table and m and "Canónico" not in m.group(1):
-            canon = m.group(1).strip()
-            for v in m.group(2).split(","):
-                variants.append((v.strip(), canon))
+    # precompilado: alternación única como descarte rápido + regex por
+    # variante para atribuir. Baja el costo de ~14 s a <0,5 s y permite
+    # que W2 corra también en el gate diario.
+    per = [(re.compile(rf"\b{re.escape(al.norm(v))}\b"), v, al.norm(c), c)
+           for v, c in variants]
+    alt = re.compile("|".join(rf"\b{re.escape(al.norm(v))}\b" for v, _ in variants))
+    dash = re.compile(r"[-_]")
     for base in ("archive", "dossiers"):
         for f in (ROOT / base).rglob("*.md"):
             for i, ln in enumerate(f.read_text().split("\n"), 1):
                 if ln.lstrip().startswith(">"):
                     continue  # quotes verbatim exentos
-                lnn = norm(ln)
-                for v, canon in variants:
+                lnn = dash.sub(" ", al.norm(ln))
+                if not alt.search(lnn):
+                    continue
+                for rx, v, ncanon, canon in per:
                     # El canónico en la misma línea desactiva el chequeo:
-                    # cubre variantes que son subcadena del canónico
-                    # ("Cardona" en "Matt Cardona") y las glosas legítimas
-                    # que declaran la equivalencia en la propia ficha.
-                    # guiones a espacios para que los slugs cuenten
-                    # como el canónico (matt-cardona.md == Matt Cardona)
-                    resto = re.sub(r"[-_]", " ", lnn).replace(norm(canon), " ")
-                    if re.search(rf"\b{re.escape(norm(v))}\b", resto):
+                    # cubre variantes que son subcadena del canónico y las
+                    # glosas legítimas que declaran la equivalencia.
+                    if rx.search(lnn.replace(ncanon, " ")):
                         warnings.append(f"W2 {f.relative_to(ROOT)}:{i} variante \"{v}\" (canónico: {canon})")
 
+
+if "--stats" in sys.argv:
+    stats()
+    sys.exit(0)
 
 check_index("archive/matches/index.md", "archive/matches")
 check_index("archive/segments/index.md", "archive/segments")
 check_links()
 check_frontmatter()
 check_panteon()
-if not QUIET:
-    check_names()
+check_names()
 
 for e in errors:
     print(f"ERROR  {e}")
