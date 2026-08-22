@@ -226,7 +226,7 @@ con cada cambio de estado.
 | 2026-04-24 | Jacy Jayne vs Rhea Ripley | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md) |
 | 2026-04-24 | Giulia vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-04-23 | Mike Santana (c) vs Rich Swann — TNA World Championship | TNA Wrestling / iMPACT! | PW·FS·WE | en-investigacion | 1 | [→](2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md) |
-| 2026-04-23 |  | TNA Wrestling / iMPACT! | PW·FS·WE | en-investigacion | 1 | [→](2026-04-23-matt-hardy-vs-dutch-tna-impact.md) |
+| 2026-04-23 | Matt Hardy ("Broken") vs Dutch | TNA Wrestling / iMPACT! | PW·FS·WE | en-investigacion | 1 | [→](2026-04-23-matt-hardy-vs-dutch-tna-impact.md) |
 | 2026-04-23 | Bear Bronson vs Nic Nemeth | TNA Wrestling / iMPACT! | FS·WE | en-investigacion | 1 | [→](2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md) |
 | 2026-04-22 | Darby Allin (c) vs Tomasso [sic — presumido Tomohiro Ishii] — main event | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md) |
 | 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |

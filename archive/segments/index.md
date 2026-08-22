@@ -86,7 +86,7 @@ cada alta y con cada cambio de estado.
 | 2026-07-20 | LA Knight — promo sobre Roman Reigns y Jacob Fatu | WWE / Monday Night Raw | promo en ring | WE | en-investigacion | 1 | [→](2026-07-20-la-knight-promo-roman-fatu-wwe-raw.md) |
 | 2026-07-18 | Los Perros del Mal — promo de Daga | AAA / AAA Worldwide | promo de facción | WE | en-investigacion | 1 | [→](2026-07-18-perros-del-mal-daga-promo-aaa-worldwide.md) |
 | 2026-07-17 | Sami Zayn ataca a CM Punk — brawl de cierre | WWE / SmackDown | brawl / angle | WE | en-investigacion | 1 | [→](2026-07-17-sami-zayn-ataca-cm-punk-wwe-smackdown.md) |
-| 2026-07-17 |  | WWE / SmackDown | face a face / build | WE | en-investigacion | 1 | [→](2026-07-17-cm-punk-cody-rhodes-see-you-tomorrow-wwe-smackdown.md) |
+| 2026-07-17 | CM Punk y Cody Rhodes — "I'll see you tomorrow" | WWE / SmackDown | face a face / build | WE | en-investigacion | 1 | [→](2026-07-17-cm-punk-cody-rhodes-see-you-tomorrow-wwe-smackdown.md) |
 | 2026-07-17 | LA Knight — recap de su promo en Fanatics Fest NYC | WWE / SmackDown | recap / promo | WE | en-investigacion | 1 | [→](2026-07-17-la-knight-recap-fanatics-fest-wwe-smackdown.md) |
 | 2026-07-15 | Promo backstage: Fletcher (con Okada) vende Bandido para Redemption | AEW / Dynamite | promo backstage | WE | stub | 1 | [→](2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md) |
 | 2026-07-15 | Post-match Komander vs Fletcher: foreshadowing Okada vs Fletcher | AEW / Dynamite | post-match / foreshadowing | — | stub | 1 | [→](2026-07-15-komander-fletcher-post-match-foreshadowing-okada-aew-dynamite.md) |
@@ -115,7 +115,7 @@ cada alta y con cada cambio de estado.
 | 2026-07-06 | Gunther ataca a Cody Rhodes en el estacionamiento — el puertazo | WWE / Monday Night Raw | ataque / promo | WE | en-investigacion | 1 | [→](2026-07-06-gunther-ataca-cody-rhodes-puertazo-wwe-raw.md) |
 | 2026-07-04 | Debut de Damian Priest en AAA | WWE / AAA on FOX #25 | presentación / rueda de prensa | — | en-investigacion | 1 | [→](2026-07-04-debut-damian-priest-aaa-on-fox.md) |
 | 2026-07-01 | Promo backstage: MJF sobre Andrade | AEW / Dynamite | promo backstage | WE | stub | 1 | [→](2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md) |
-| 2026-06-30 |  | WWE / NXT | backstage / gag | WE | en-investigacion | 1 | [→](2026-06-30-lizzy-rain-segmento-absurdo-wwe-nxt.md) |
+| 2026-06-30 | Segmento de Lizzy Rain: "I'm making it rain, baby!" | WWE / NXT | backstage / gag | WE | en-investigacion | 1 | [→](2026-06-30-lizzy-rain-segmento-absurdo-wwe-nxt.md) |
 | 2026-06-29 | Brock Lesnar regresa e interrumpe a Oba Femi — reto a Hell in a Cell | WWE / Monday Night Raw | in-ring confrontation / desafío | WE | en-investigacion | 1 | [→](2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md) |
 | 2026-06-28 | Promo video: DCMJF vs faces (6 vs 6) | AEW x NJPW / Forbidden Door | promo video (hype package) | — | stub | 1 | [→](2026-06-28-dcmjf-vs-faces-promo-video-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Regreso de Jay White | AEW x NJPW / Forbidden Door | return moment | — | stub | 1 | [→](2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md) |

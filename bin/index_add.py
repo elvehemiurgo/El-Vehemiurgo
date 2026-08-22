@@ -19,8 +19,16 @@ ABBR = {"perfect-wrestling": "PW", "fighting-spirit": "FS", "wrestling-entertain
 
 
 def fm_get(fm, key, default=""):
-    m = re.search(rf'^{key}:\s*"?([^"\n]*)"?\s*$', fm, re.M)
-    return m.group(1).strip() if m else default
+    m = re.search(rf'^{re.escape(key)}:[ \t]*(.*)$', fm, re.M)
+    if not m:
+        return default
+    v = m.group(1).strip()
+    if v.startswith('"'):
+        # valor entre comillas, respetando \" escapadas
+        mm = re.match(r'"((?:[^"\\]|\\.)*)"', v)
+        return mm.group(1).replace('\\"', '"') if mm else default
+    # sin comillas: cortar comentario inline de template
+    return v.split("#")[0].strip() or default
 
 
 def build_row(path):

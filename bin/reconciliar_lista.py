@@ -102,10 +102,14 @@ for i, ln in enumerate(lines):
         continue
     fecha = f"{dm.group(3)}-{dm.group(2)}-{dm.group(1)}"
     up = ln.upper()
-    es_segment = any(k in up for k in SEG_KEYS) and " VS " not in up
     cands = [f for f in BY_DATE.get(fecha, []) if f.name not in ya_linkeados]
-    cands = [f for f in cands
-             if (f.parent.name == "segments") == es_segment or " VS " not in up]
+    # filtro de tipo: " VS " → solo matches; keyword de segmento → solo
+    # segments; ambiguo → sin filtro. (La versión anterior anulaba el
+    # filtro de segments con un `or` que lo dejaba sin efecto.)
+    if " VS " in up:
+        cands = [f for f in cands if f.parent.name == "matches"]
+    elif any(k in up for k in SEG_KEYS):
+        cands = [f for f in cands if f.parent.name == "segments"]
     if not cands:
         continue
     btoks = tokens(ln)
