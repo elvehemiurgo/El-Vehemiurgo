@@ -272,8 +272,8 @@ con cada cambio de estado.
 | 2026-04-08 | Takeshita, Andrade & Mark Davis vs [trío rival] — six-man tag | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md) |
 | 2026-04-08 | United Empire en acción (showcase) | AEW / Dynamite | — | stub | 1 | [→](2026-04-08-united-empire-showcase-aew-dynamite.md) |
 | 2026-04-07 | Sol Ruca vs Izzi Dame | WWE / NXT (TV semanal) | FS·WE | en-investigacion | 1 | [→](2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |
-| 2026-04-07 | Chazz 'Starboy' Hall vs Lexis King — WWE Speed (1ra ronda) | WWE / NXT (TV semanal) | PW·FS | verificado | 1 | [→](2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md) |
-| 2026-04-07 | Jackson Drake & Blake Monroe vs Shilo Hill & Tatum Paxley | WWE / NXT (TV semanal) | — | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md) |
+| 2026-04-07 | Lexis King vs Chazz "Starboy" Hall — WWE Speed Title Tournament 1ra ronda | WWE / NXT (TV semanal) | PW·FS | verificado | 1 | [→](2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md) |
+| 2026-04-07 | Jackson Drake & Blake Monroe vs Shilo Hill & Tatum Paxley | WWE / NXT (TV semanal) | PW·WE | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md) |
 | 2026-04-07 | Dark State vs Joe Hendry, Ethan Page, Ricky Saints & Tony D'Angelo | WWE / NXT TV (semanal) | — | en-investigacion | 1 | [→](2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md) |
 | 2026-04-06 | LA Knight vs Austin Theory | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-06-la-knight-vs-austin-theory-raw.md) |
 | 2026-04-04 | Rayo & Bravo vs Vanity Project | WWE / NXT Stand & Deliver 2026 [fecha inferida por flujo narrativo, no confirmada] | PW·FS·WE | en-investigacion | 1 | [→](2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md) |

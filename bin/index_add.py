@@ -31,26 +31,43 @@ def fm_get(fm, key, default=""):
     return v.split("#")[0].strip() or default
 
 
+def fm_clases(fm):
+    """Lista de clases en estilo inline (["a", "b"]) o bloque (- a)."""
+    m = re.search(r"clases_vehemiurgo:\s*\[([^\]]*)\]", fm, re.S)
+    if m:
+        inner = m.group(1)
+        return re.findall(r'"([^"]+)"', inner) or re.findall(r"[\w][\w-]*", inner)
+    m = re.search(r"^clases_vehemiurgo:\s*\n((?:[ \t]+-[^\n]*\n?)+)", fm, re.M)
+    return re.findall(r'-\s*"?([\w-]+)"?', m.group(1)) if m else []
+
+
 def build_row(path):
     text = path.read_text()
+    if not text.startswith("---"):
+        sys.exit(f"sin frontmatter: {path.name}")
     end = text.find("\n---", 3)
+    if end == -1:
+        sys.exit(f"frontmatter sin cierre: {path.name}")
     fm = text[:end]
     fecha = fm_get(fm, "fecha")
+    if not re.match(r"\d{4}-[\dX]{2}-[\dX]{2}$", fecha):
+        sys.exit(f"fecha inválida o ausente ({fecha!r}): {path.name}")
     empresa = fm_get(fm, "empresa")
     programa = fm_get(fm, "programa")
     estado = fm_get(fm, "estado", "stub")
     veces = fm_get(fm, "veces_visto_vehemiurgo", "0")
-    cm = re.search(r"clases_vehemiurgo:\s*\[([^\]]*)\]", fm, re.S)
-    clases = re.findall(r'"([^"]+)"', cm.group(1)) if cm else []
+    clases = fm_clases(fm)
     clase = "·".join(ABBR.get(c, c) for c in clases) or "—"
     emp = f"{empresa} / {programa}" if programa else empresa
+    # celdas de tabla: | interno escapado para no ganar columnas fantasma
+    cell = lambda s: s.replace("|", "\\|")
     if path.parent.name == "matches":
-        titulo = fm_get(fm, "match")
-        row = f"| {fecha} | {titulo} | {emp} | {clase} | {estado} | {veces} | [→]({path.name}) |"
+        titulo = cell(fm_get(fm, "match"))
+        row = f"| {fecha} | {titulo} | {cell(emp)} | {clase} | {estado} | {veces} | [→]({path.name}) |"
     else:
-        titulo = fm_get(fm, "segmento")
-        tipo = fm_get(fm, "tipo_segmento")
-        row = f"| {fecha} | {titulo} | {emp} | {tipo} | {clase} | {estado} | {veces} | [→]({path.name}) |"
+        titulo = cell(fm_get(fm, "segmento"))
+        tipo = cell(fm_get(fm, "tipo_segmento"))
+        row = f"| {fecha} | {titulo} | {cell(emp)} | {tipo} | {clase} | {estado} | {veces} | [→]({path.name}) |"
     return fecha, row
 
 

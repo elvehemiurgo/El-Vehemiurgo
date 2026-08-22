@@ -86,12 +86,16 @@ def check_frontmatter():
             m = re.search(r"^estado:\s*([\w-]+)", fm, re.M)
             if m and m.group(1) not in ESTADOS_OK:
                 warnings.append(f"W1 {f.relative_to(ROOT)} estado fuera de vocabulario: {m.group(1)}")
+            # inline (["a", "b"]) o bloque (- a) — mismas dos formas que index_add
             cm = re.search(r"clases_vehemiurgo:\s*\[([^\]]*)\]", fm, re.S)
             if cm:
-                vals = re.findall(r'"([^"]+)"', cm.group(1))
-                for v in vals:
-                    if v not in CLASES_OK:
-                        errors.append(f"E5 {f.relative_to(ROOT)} clase inválida: \"{v}\" (usar slugs)")
+                vals = re.findall(r'"([^"]+)"', cm.group(1)) or re.findall(r"[\w][\w-]*", cm.group(1))
+            else:
+                bm = re.search(r"^clases_vehemiurgo:\s*\n((?:[ \t]+-[^\n]*\n?)+)", fm, re.M)
+                vals = re.findall(r'-\s*"?([\w-]+)"?', bm.group(1)) if bm else []
+            for v in vals:
+                if v not in CLASES_OK:
+                    errors.append(f"E5 {f.relative_to(ROOT)} clase inválida: \"{v}\" (usar slugs)")
 
 
 def check_panteon():
