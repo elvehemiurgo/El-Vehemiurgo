@@ -186,6 +186,21 @@ misma escena, aunque como rivales, no compañeros de facción, en su
 paso original por ahí. Ver
 [`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
 
+### Sesión 2026-08-01 s47 — Varía su estilo de promo, aunque el problema de Alisha persiste
+
+**Cita verbatim**:
+
+> *"Eddie si le está metiendo, variando su estilo de promo
+> caracteristico, está quedando cool"*
+>
+> — El Vehemiurgo, 2026-08-01 s47 (verbatim)
+
+**Lectura sintética**: **WE** para la promo de facción (23/4/2026,
+parking lot) — cierra el segmento reafirmando que "no se puede vencer
+a The System", con una variación de estilo que el Vehemiurgo destaca
+puntualmente. Ver
+[`../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md`](../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).

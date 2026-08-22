@@ -115,6 +115,14 @@ personaje del proyecto (*"no es main event"*) sin que eso le reste
 mérito. Ver
 [`../matches/2026-04-16-ec3-vs-eric-young-tna-impact.md`](../matches/2026-04-16-ec3-vs-eric-young-tna-impact.md).
 
+### Sesión 2026-08-01 s47 — "Trial by combat": el Act 3 arranca con Eric Young
+
+**Contexto**: TNA iMPACT!, 23/4/2026. **WE** para la promo — con la
+silla del ataque del 16/4 como prop, enmarca el regreso como "trial by
+combat" y anuncia el "Act 3 starring EC3". Continuidad de la doctrina
+del gimmick reconstruido en su contexto (s40). Ver
+[`../segments/2026-04-23-ec3-promo-trial-by-combat-tna-impact.md`](../segments/2026-04-23-ec3-promo-trial-by-combat-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Número exacto de reinados mundiales TNA y fechas/rivales.

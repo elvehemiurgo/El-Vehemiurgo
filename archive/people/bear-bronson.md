@@ -144,6 +144,14 @@ crítica de booking (finish de distracción reciclada) que no cuestiona
 su trabajo. Ver
 [`../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md`](../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md).
 
+### Sesión 2026-08-01 s47 — Promete revancha contra Nic Nemeth
+
+**Contexto**: TNA iMPACT!, 23/4/2026, parking lot. Dato de research
+dentro de la promo de facción, no comentado individualmente — **WE**
+corresponde al segmento completo. Promete cobrarse contra Nic Nemeth
+tras la derrota registrada en s45. Ver
+[`../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md`](../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + origen.

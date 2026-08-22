@@ -130,6 +130,27 @@ En el take Mustafa Ali run generacional, el Vehemiurgo destaca:
   sostiene el lado babyface del programa que el Vehemiurgo llama
   *"programación legítimamente buena"*.
 
+### Sesión 2026-08-01 s47 — Interrumpe a Kazarian imitándolo, anuncia el Guitar Strap Match
+
+**Contexto**: TNA iMPACT!, 23/4/2026. **WE** para el segmento
+([→](../segments/2026-04-23-kazarian-burla-elijah-guitar-strap-tna-impact.md)).
+Sorprende a Kazarian —que lo venía imitando mal en un segmento
+burlón— estrangulándolo con la correa de su propia guitarra, y
+anuncia cantando un Guitar Strap Match entre ambos. **Corrección de
+nombre**: el dictado dice "Elias"; el gimmick en TNA se llama Elijah —
+coincidencia fuerte con el personaje de música/guitarra de WWE, sin
+confirmación explícita de que sea el mismo talento.
+
+### Sesión 2026-08-01 s48 — Gana el Guitar Strap Match con tombstone
+
+**Contexto**: TNA iMPACT!, 30/4/2026. Dato de research dentro de la
+promo de Kazarian, no comentado individualmente por el Vehemiurgo.
+Vence a Kazarian pese a un hand sanitizer en el ojo y un golpe al
+brazo lesionado — cierra con tombstone piledriver y le rompe la
+guitarra en la cabeza antes de que Kazarian toque la cuarta esquina.
+Ver
+[`../segments/2026-04-30-kazarian-promo-guitar-strap-match-tna-impact.md`](../segments/2026-04-30-kazarian-promo-guitar-strap-match-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado.

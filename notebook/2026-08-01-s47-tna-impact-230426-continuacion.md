@@ -6,7 +6,7 @@ slug: tna-impact-230426-continuacion
 contexto: "TNA iMPACT! (23/4/2026) — continuación: Rich Swann, Kazarian vs Elias, EC3, Broken Matt Hardy vs Dutch, y el main event Santana vs Swann"
 shows_cubiertos:
   - "TNA iMPACT! (23/4/2026) — continuación"
-estado: en-investigacion
+estado: verificado
 ultima_actualizacion: 2026-08-01
 ---
 
@@ -74,19 +74,44 @@ challenge sembrado en s44.
 
 ---
 
-## Takes por tópico — pendiente de research
+## Takes por tópico — resueltos por research
 
-*Se completa tras el research delegado.*
+| Pieza | Resultado | Clases |
+|---|---|---|
+| Promo de Rich Swann | — | **WE** |
+| Kazarian imita/burla a Elijah | anuncia Guitar Strap Match | **WE** |
+| Promo de EC3 | — | **WE** |
+| Matt Hardy (Broken) vs Dutch | gana Dutch (interferencia de Vincent) | **PW · FS · WE** |
+| Tomas backstage de Swann y Santana | sin confirmación cruzada | **WE** |
+| Promo de The System | — | **WE** |
+| Mike Santana (c) vs Rich Swann — TNA World Championship | retiene Santana (Spin the Block) | **PW · FS · WE** |
 
-| Pieza | Clases provisionales |
-|---|---|
-| Promo de Rich Swann | **WE** |
-| Kazarian vs/burla a Elias, segmento | **WE** |
-| Promo de EC3 | **WE** |
-| Matt Hardy (Broken) vs Dutch | **PW · FS · WE** |
-| Tomas backstage de Swann y Santana | **WE** |
-| Promo de The System | **WE** |
-| Mike Santana (c) vs Rich Swann — TNA World Championship | **PW · FS · WE** |
+**Correcciones y hallazgos clave de research**:
+
+1. **Falsa alarma resuelta**: el research citó una supuesta
+   "contradicción de canon" sobre Bear Bronson vs Nic Nemeth (s45),
+   afirmando que el archivo tenía a Bronson como ganador. Se verificó
+   directamente la ficha existente: **el archivo ya registraba a Nic
+   Nemeth como ganador** — no había conflicto real, solo una lectura
+   errónea del research anterior por parte del nuevo agente.
+2. **"Elias" corregido a Elijah** — el gimmick en TNA se llama Elijah;
+   coincidencia fuerte de perfil (música/guitarra) con el Elias de
+   WWE, pero sin confirmación explícita de que sea el mismo talento.
+3. **El spot de mesa fallido de Matt Hardy vs Dutch está confirmado**:
+   la mesa no se rompió en el primer intento; Matt la recolocó contra
+   el apron para completarlo. El detalle de "casi se arranca el
+   brazo" no aparece en ninguna fuente — preservado como lectura
+   personal del Vehemiurgo.
+4. **Las "tomas backstage de Swann y Santana" solo se pudieron
+   confirmar parcialmente**: research únicamente localizó la
+   entrevista individual de Swann (ya registrada como pieza aparte);
+   no se encontró un clip conjunto separado con Santana.
+5. **"Cosas de Mike Draztik" en el main event**: contexto genealógico
+   confirmado (Santana = Mark Sanchez = Mike Draztik de EYFBO), pero
+   ningún snippet de cobertura del match menciona callbacks
+   específicos a ese repertorio — preservado como lectura editorial.
+6. **Duración del main event con discrepancia menor**: 19:04 vs
+   19:08 según la fuente.
 
 **Ejes editoriales preliminares**:
 
@@ -113,14 +138,14 @@ challenge sembrado en s44.
 
 ---
 
-## Research delegado (1 sub-agente en curso)
+## Research delegado (cerrado)
 
-Contenido y resultado del segmento Kazarian/Elias (identificar a
-"Elias" en este contexto TNA — ¿el mismo Elias de WWE, o gimmick
-distinto?), promo de EC3, finish de Matt Hardy vs Dutch, contenido de
-la promo de The System, y reconstrucción completa del main event
-Santana vs Swann (finish, duración, movimientos del repertorio de
-Mike Draztik).
+Card y segmentos confirmados vía WebSearch (Fightful, PWTorch, POST
+Wrestling, F4WOnline, Cageside Seats, Wrestling Inc, 411mania, Pro
+Wrestling Dot Net, Blog of Doom, Slam Wrestling, TNA Wrestling
+oficial). **Nota de entorno**: WebFetch devolvió bloqueo en dominios
+de wrestling; todo el dossier sale de snippets. Ver correcciones y
+hallazgos en la tabla de arriba.
 
 ---
 

@@ -318,6 +318,24 @@ pero Daria Rae no aparece a oficializar el match esa noche; se disputa
 el 23/4/2026 (retiene Santana, 19:08). Ver
 [`../segments/2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact.md`](../segments/2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact.md).
 
+### Sesión 2026-08-01 s47 — Retiene ante Swann: "vimos todo el repertorio, incluso cosas de Mike Draztik"
+
+**Cita verbatim**:
+
+> *"Santana vs Swann estuvo genial, muy técnica [...] aqui vimos todo
+> el repertorio de Santana incluso cosas de Mike Draztik, Super main
+> event se merece las 3 clases."*
+>
+> — El Vehemiurgo, 2026-08-01 s47 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** — retiene el TNA World
+Championship (23/4/2026) con Spin the Block, en un match calificado
+por múltiples outlets como candidato a Match of the Year en TNA. La
+lectura de "cosas de Mike Draztik" (su identidad previa en EYFBO) es
+interpretación editorial del Vehemiurgo, sin confirmación de prensa
+sobre callbacks específicos en el match. Ver
+[`../matches/2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md`](../matches/2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

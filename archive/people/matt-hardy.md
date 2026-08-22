@@ -90,6 +90,34 @@ segmento — llama a The Righteous junto a Jeff, declarando *"the
 Broken season"*. Ver
 [`../segments/2026-04-16-hardys-llaman-a-the-righteous-tna-impact.md`](../segments/2026-04-16-hardys-llaman-a-the-righteous-tna-impact.md).
 
+### Sesión 2026-08-01 s47 — "Broken Matt", cada vez más cerca de Mick Foley
+
+**Cita verbatim**:
+
+> *"Broken Matt, cada vez se parece más a Mick Foley, aqui está
+> luchando con Dutch, construyendo algo [...] pueden crear una escuela
+> en TNA; esta lucha estuvo cool, estos dos si pueden vender algo real
+> algo oldschool [...] se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s47 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE** — cae ante Dutch (23/4/2026), con
+un spot de mesa fallido en vivo corregido sobre la marcha (elogio
+explícito al manejo del contratiempo). **Doctrina de veteranía
+creativa comparándolo con Mick Foley**: el acto se apoya en el
+estatus de leyenda viviente sin quedarse ahí, generando material
+experimental que el Vehemiurgo lee como posible "escuela" dentro de
+TNA. Ver
+[`../matches/2026-04-23-matt-hardy-vs-dutch-tna-impact.md`](../matches/2026-04-23-matt-hardy-vs-dutch-tna-impact.md).
+
+### Sesión 2026-08-01 s48 — Debuta el gimmick "Broken" en esta continuidad
+
+**Contexto**: TNA iMPACT!, 30/4/2026. Dato de research dentro del
+match Vincent vs Jeff Hardy — apaga las luces para distraer a Vincent
+en el top rope, habilitando el Swanton de su hermano. **Primera
+aparición del gimmick "Broken" en esta continuidad.** Ver
+[`../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md`](../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Títulos y reinados con fechas (WWE, TNA, ROH, AEW).

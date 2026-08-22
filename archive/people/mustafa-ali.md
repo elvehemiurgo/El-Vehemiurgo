@@ -247,6 +247,21 @@ Vehemiurgo lo marca explícitamente: *"buena promo, pero nada
 destacable"*. Ver
 [`../segments/2026-04-16-mustafa-ali-celebracion-tna-impact.md`](../segments/2026-04-16-mustafa-ali-celebracion-tna-impact.md).
 
+### Sesión 2026-08-01 s48 — Retiene ante Adam Brooks: psicología concentrada en el cierre
+
+**Cita verbatim**:
+
+> *"Ali vs Brookes estuvo cool, buena lucha, no mucha psicología, salvo
+> al final de la forma que fana Ali, se merece una WE class."*
+>
+> — El Vehemiurgo, 2026-08-01 s48 (verbatim; "Brookes" = Adam Brooks)
+
+**Lectura sintética**: **WE**. Retiene el TNA International
+Championship (30/4/2026) con 450 Splash tras esquivar a Brooks en el
+esquinero — prensa coincide en marcar ese quiebre puntual como el
+momento fuerte del match corto. Ver
+[`../matches/2026-04-30-mustafa-ali-vs-adam-brooks-tna-impact.md`](../matches/2026-04-30-mustafa-ali-vs-adam-brooks-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo + nacimiento.

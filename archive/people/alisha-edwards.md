@@ -57,6 +57,20 @@ Danger Zone). El Vehemiurgo valida su función de personaje de apoyo
 pero objeta que el peso de booking no se reparta hacia talento en
 desarrollo como Cedric Alexander o una nueva Knockout.
 
+### Sesión 2026-08-01 s47 — "El mismo problema": la crítica de reparto se reitera
+
+**Cita verbatim**:
+
+> *"siguen con el mismo problema, Alisha y su protagonismo"*
+>
+> — El Vehemiurgo, 2026-08-01 s47 (verbatim)
+
+**Lectura sintética**: sin clase individual — la WE corresponde a la
+promo de facción completa (TNA iMPACT!, 23/4/2026, parking lot). El
+Vehemiurgo no abandona la objeción de reparto que le fijó en s45 —la
+repite explícitamente como problema en curso, no como queja nueva. Ver
+[`../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md`](../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

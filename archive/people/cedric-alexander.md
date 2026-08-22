@@ -178,6 +178,14 @@ conexión de estilo con Eddie Edwards — pero como rival de época, no
 compañero de facción. Ver
 [`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
 
+### Sesión 2026-08-01 s47 — Insiste en que lo estafaron en Rebellion
+
+**Contexto**: TNA iMPACT!, 23/4/2026, parking lot. Dato de research
+dentro de la promo de facción, no comentado individualmente — **WE**
+corresponde al segmento completo. Insiste en que fue estafado en su
+lucha por el X Division Championship en Rebellion. Ver
+[`../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md`](../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento exacta.

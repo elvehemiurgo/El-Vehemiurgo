@@ -119,6 +119,15 @@ la silla a EC3. El Vehemiurgo lee el booking como *"mucha nostalgia de
 una época de caos e incertidumbre en TNA"*. Ver
 [`../matches/2026-04-16-ec3-vs-eric-young-tna-impact.md`](../matches/2026-04-16-ec3-vs-eric-young-tna-impact.md).
 
+### Sesión 2026-08-01 s47 — Blanco de la promo "trial by combat" de EC3
+
+**Contexto**: TNA iMPACT!, 23/4/2026. Dato de continuidad dentro de la
+promo de EC3, no comentado individualmente por el Vehemiurgo — sin
+clase individual. EC3 lo acusa de intentar quitarle "su sustento y su
+aire" y lo enmarca como el rival perfecto para su "trial by combat".
+Ver
+[`../segments/2026-04-23-ec3-promo-trial-by-combat-tna-impact.md`](../segments/2026-04-23-ec3-promo-trial-by-combat-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).

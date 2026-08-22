@@ -232,6 +232,7 @@ cada alta y con cada cambio de estado.
 | 2026-05-01 | Segmento coral de Chelsea Green con Giulia | WWE / SmackDown | promo coral (4 participantes) | — | en-investigacion | 1 | [→](2026-05-01-chelsea-green-giulia-segmento-wwe-smackdown.md) |
 | 2026-05-01 | Promo de Jacy Jayne (Fatal Influence) contra 'Oklahoma' | WWE / SmackDown | promo | — | en-investigacion | 1 | [→](2026-05-01-jacy-jayne-promo-vs-oklahoma-wwe-smackdown.md) |
 | 2026-05-01 | Ricky Saints debuta en SmackDown interrumpiendo a Cody Rhodes | WWE / SmackDown | promo / confrontación (debut main roster) | WE | en-investigacion | 1 | [→](2026-05-01-ricky-saints-debut-interrumpe-cody-wwe-smackdown.md) |
+| 2026-04-30 | Kazarian — promo backstage rumbo al Guitar Strap Match vs Elijah | TNA Wrestling / iMPACT! | promo backstage | WE | en-investigacion | 1 | [→](2026-04-30-kazarian-promo-guitar-strap-match-tna-impact.md) |
 | 2026-04-29 | Ospreay empieza a dejarse coachear por Moxley | AEW / Dynamite | angle / mentoría | — | stub | 1 | [→](2026-04-29-ospreay-coacheado-por-moxley-aew-dynamite.md) |
 | 2026-04-29 | Thekla — gran promo (asistida por Sky Blue) | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-29-thekla-promo-aew-dynamite.md) |
 | 2026-04-28 | Segmento de Vanity Project | WWE / NXT | promo / character segment | — | stub | 1 | [→](2026-04-28-vanity-project-segmento-wwe-nxt.md) |
@@ -247,6 +248,11 @@ cada alta y con cada cambio de estado.
 | 2026-04-24 | Momento de Jacob Fatu — los Usos aburren, Solo Sikoa salva el segmento | WWE / SmackDown | promo in-ring / multi-protagonist | — | stub | 1 | [→](2026-04-24-usos-aburren-solo-salva-segmento-wwe-smackdown.md) |
 | 2026-04-24 | Jacob Fatu — segmento (con promos Jimmy y Fatu + Tama Tonga) | WWE / SmackDown | in-ring promo / multi-protagonist segment | — | en-investigacion | 1 | [→](2026-04-24-jacob-fatu-segment-smackdown.md) |
 | 2026-04-24 | Fatal Influence — debut WWE SmackDown (call-up post-WrestleMania 42) | WWE / SmackDown | faction debut — ataque a la división tag team (primero de dos segmentos de la noche) | WE | en-investigacion | 1 | [→](2026-04-24-fatal-influence-debut-smackdown.md) |
+| 2026-04-23 | The System — promo en el parking lot, tras las derrotas de la noche | TNA Wrestling / iMPACT! | promo de facción | WE | en-investigacion | 1 | [→](2026-04-23-the-system-promo-parking-lot-tna-impact.md) |
+| 2026-04-23 | Tomas backstage cortas de Rich Swann y Mike Santana, pre-main event | TNA Wrestling / iMPACT! | tomas cortas / hype visual | WE | en-investigacion | 1 | [→](2026-04-23-tomas-backstage-swann-santana-tna-impact.md) |
+| 2026-04-23 | EC3 — 'trial by combat', el Act 3 empieza con Eric Young | TNA Wrestling / iMPACT! | promo backstage | WE | en-investigacion | 1 | [→](2026-04-23-ec3-promo-trial-by-combat-tna-impact.md) |
+| 2026-04-23 | Kazarian imita y se burla de Elijah — se pacta el Guitar Strap Match | TNA Wrestling / iMPACT! | segmento comedia / in-ring | WE | en-investigacion | 1 | [→](2026-04-23-kazarian-burla-elijah-guitar-strap-tna-impact.md) |
+| 2026-04-23 | Rich Swann — promo previa a su lucha titular | TNA Wrestling / iMPACT! | promo backstage | WE | en-investigacion | 1 | [→](2026-04-23-rich-swann-promo-pre-titular-tna-impact.md) |
 | 2026-04-22 | MJF — segmento previo al main event | AEW / Dynamite | promo | WE | stub | 1 | [→](2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md) |
 | 2026-04-21 | Promo de Lexis King (Birth Right) | WWE / NXT Revenge — Week 2 | promo in-ring | WE | stub | 1 | [→](2026-04-21-lexis-king-promo-birth-right-wwe-nxt-revenge-week-2.md) |
 | 2026-04-21 | Lola Vice, segmento como campeona face — Izzi Dame interrumpe | WWE / NXT Revenge — Week 2 | promo in-ring / interrupción | — | stub | 1 | [→](2026-04-21-lola-vice-segmento-campeona-izzi-interrumpe-wwe-nxt-revenge-week-2.md) |

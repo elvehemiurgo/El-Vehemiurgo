@@ -172,6 +172,13 @@ Dutch cumple plenamente la doctrina
 - **Workhorse pulible**: del *comedy heavyweight* Beyond/CHIKARA al
   *enforcer cult* ROH/TNA — mismo arquetipo, distintos contextos.
 
+### Sesión 2026-08-01 s47 — Vence a Matt Hardy con interferencia de Vincent
+
+**Contexto**: TNA iMPACT!, 23/4/2026. **PW·FS·WE** para el match —
+cierra con un swinging side slam tras la distracción de Vincent sobre
+el réferi. Ver
+[`../matches/2026-04-23-matt-hardy-vs-dutch-tna-impact.md`](../matches/2026-04-23-matt-hardy-vs-dutch-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [x] Carrera completa mapeada por sub-agente 2026-06-17.

@@ -106,6 +106,31 @@ tags: [vincent, vinny-marseglia, the-horror-king-ex, the-righteous-leader, roh-s
   explícitamente el juicio Vincent vs Dutch dentro del mismo tag.
   Lectura granular, no tag-como-unidad.
 
+### Sesión 2026-08-01 s47 — Distrae al réferi a favor de Dutch
+
+**Contexto**: TNA iMPACT!, 23/4/2026. Dato de research dentro del
+match de Dutch, no comentado individualmente — **PW·FS·WE**
+corresponde al match completo. Sale de abajo del ring con una silla
+para distraer al réferi, habilitando el finish de Dutch sobre Matt
+Hardy. Ver
+[`../matches/2026-04-23-matt-hardy-vs-dutch-tna-impact.md`](../matches/2026-04-23-matt-hardy-vs-dutch-tna-impact.md).
+
+### Sesión 2026-08-01 s48 — Cae ante Jeff Hardy, "hay algo ahí" en su acting post-derrota
+
+**Cita verbatim**:
+
+> *"me gustó el acting de The Righteous despues de perder, hay algo
+> ahí"*
+>
+> — El Vehemiurgo, 2026-08-01 s48 (verbatim)
+
+**Lectura sintética**: **WE** para el match (30/4/2026) — cae ante
+Jeff Hardy tras la distracción del debut de "Broken" Matt Hardy.
+Dentro de un balance de año tibio para The Righteous en conjunto
+(*"no se volvieron estrellas"*), el Vehemiurgo rescata su reacción
+actoral post-derrota como algo con potencial. Ver
+[`../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md`](../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [x] Identidad confirmada (Vinny Marseglia, Rhode Island).

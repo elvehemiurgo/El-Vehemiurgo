@@ -140,6 +140,23 @@ segmento — llama a The Righteous junto a Matt y teasea el regreso de
 su gimmick **Willow**. Ver
 [`../segments/2026-04-16-hardys-llaman-a-the-righteous-tna-impact.md`](../segments/2026-04-16-hardys-llaman-a-the-righteous-tna-impact.md).
 
+### Sesión 2026-08-01 s48 — Vence a Vincent con ayuda de "Broken" Matt: "solo está ok"
+
+**Cita verbatim**:
+
+> *"Jeff tiene ese estilo de lucha de tv TNA en spike tv, bien rápido,
+> al menos el inicio se sintió así, luego creo que se extendieron con
+> el tiempo, la verdad se me hizo larga la lucha [...] no es una
+> lucha buena de Jeff Hardy, solo está ok"*
+>
+> — El Vehemiurgo, 2026-08-01 s48 (verbatim)
+
+**Lectura sintética**: **WE**, con reserva técnica explícita sobre
+ritmo y calidad (TNA iMPACT!, 30/4/2026). Vence a Vincent con Swanton
+tras la distracción del debut del gimmick "Broken" de su hermano Matt.
+Ver
+[`../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md`](../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia

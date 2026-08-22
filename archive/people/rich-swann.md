@@ -85,6 +85,25 @@ recién el 23/4/2026. **Propuesta de carrera explícita del
 Vehemiurgo**: un run full heel como campeón. Ver
 [`../segments/2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact.md`](../segments/2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact.md).
 
+### Sesión 2026-08-01 s47 — Promo pre-titular y "Super main event" contra Santana
+
+**Cita verbatim**:
+
+> *"Rich Swann cortó una gran promo antes de su lucha titular, buena
+> promo, bien oldschool, es un enterteiner solido [...] Santana vs
+> Swann estuvo genial, muy técnica [...] Super main event se merece
+> las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-01 s47 (verbatim)
+
+**Lectura sintética**: **WE** en la promo previa, **PW·FS·WE** en el
+main event por el TNA World Championship (23/4/2026) — cae ante Mike
+Santana (Spin the Block), en un match calificado por múltiples
+outlets como candidato a Match of the Year en TNA. Ver
+[`../segments/2026-04-23-rich-swann-promo-pre-titular-tna-impact.md`](../segments/2026-04-23-rich-swann-promo-pre-titular-tna-impact.md)
+y
+[`../matches/2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md`](../matches/2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.
