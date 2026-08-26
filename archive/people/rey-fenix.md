@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rey-fenix
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [rey-fenix, aaa, fighting-spirit, wrestling-entertainment, perfect-wrestling, heroe-fundamental-49, panteon, primer-registro-individual]
@@ -167,6 +167,33 @@ debutante, El Fiscal, en el match que avanza en el World Heavyweight
 Championship No. 1 Contender's Tournament. Gana con **Mexican Muscle
 Buster**, contrarrestando el Martinete de El Fiscal. Ver
 [`../matches/2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md`](../matches/2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md).
+
+### Sesión 2026-08-26 s49 — "Esto es wrestling en tv" — a la final del torneo (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego tuvimos Dragon Lee vs Fenix, estuvo increible, la velocidad y
+> lo prolijo de su lucha libre, strikes con peso que si conectan, top
+> tier wrestling, se merece las 3 clases, todo estuvo perfecto, solo
+> el primer 'good bye amigo' no conecto totalmente, pero es la única
+> queja, de verdad pusieron una super lucha. Un performance
+> generacional realmente, esto es wrestling en tv."*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada**, con la única reserva del primer *"good
+  bye amigo"*.
+- **El veredicto de escala**: *"un performance generacional realmente,
+  esto es wrestling en tv"* — la segunda mitad es un fallo sobre el
+  formato, no sobre el match: esto es lo que la TV semanal debería
+  entregar.
+- **Gana la semifinal** del torneo WWE/AAA [finish reportado como
+  *Mexican Muscle Buster*, nivel 2-3, **no verificado**] y avanza a la
+  final del 31/8 contra **Penta — hermano contra hermano**. El ganador
+  reta a Roman Reigns en **CDMX el 14/9/2026**.
+- Ver [`../matches/2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md`](../matches/2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md).
 
 ## Pendientes / huecos
 

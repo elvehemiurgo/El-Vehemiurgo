@@ -86,5 +86,5 @@ segmento completo.
 
 - [`./cody-rhodes.md`](./cody-rhodes.md) ·
   [`./gunther.md`](./gunther.md) ·
-  [`./bron-breaker.md`](./bron-breaker.md) — otra órbita de Heyman
+  [`./bron-breakker.md`](./bron-breakker.md) — otra órbita de Heyman
   en el archivo.

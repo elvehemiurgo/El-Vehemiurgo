@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: oba-femi
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster NXT 2025-2026 + WM42 cluster"
   - "Wikipedia + WWE.com perfil"
@@ -208,3 +208,33 @@ segmento completo.
 - [ ] NXT World Championship reigns — pieces editoriales.
 - [ ] NXT Stand & Deliver matches — pieces.
 - [ ] Lion Slater vs Oba Femi NXT 06.01.2026 — pieza individual.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-08-26 s49 — La firma de contrato: "estos dos sí pusieron un show" (Raw 24/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Luego el segmento de firma de contrato entre Femi y Breaker, estuvo
+> fuerte la verdad, promos solidas, mucha confianza [...] esto es lo
+> mejor que se ha visto en RAW desde su debut, fue un acierto, estos
+> dos si pusieron un show, de verdad quieren hacer algo importante. El
+> segmento se merece una WE class."*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento, con el elogio repartido:
+  *"estos dos sí pusieron un show"*.
+- **Match firmado**: Oba Femi vs. Bron Breakker, **Sunday Night's Main
+  Event, 6/9/2026, State Farm Arena, Atlanta**, **sin título en
+  juego**, vendido como *"battle for WWE's future"* [WWE.com, nivel 1].
+- **Su promo, reportada**: llama a Breakker *"an angry orange man"* y
+  le dice que en 2002 o 2015 habría sido la estrella top, *"but this
+  is 2026 and you have the unfortunate privilege of running against
+  me"* [PWTorch/Keller, nivel 2].
+- **El cierre físico**: cuando Austin Theory entra a ayudar a
+  Breakker, **Femi lo powerbombea a través de la mesa de la firma**.
+- Ver [`../segments/2026-08-24-firma-contrato-oba-femi-bron-breakker-wwe-raw.md`](../segments/2026-08-24-firma-contrato-oba-femi-bron-breakker-wwe-raw.md).
+

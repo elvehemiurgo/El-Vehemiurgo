@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: roman-reigns
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster WrestleMania 42 + Bloodline arc"
   - "Múltiples retrospectivas WWE media + Pat McAfee Show"
@@ -300,3 +300,33 @@ de Knight. Ver
 - [ ] Tribal Chief heel turn SummerSlam 2020 — segment.
 - [ ] Bloodline civil war 2024-2025 — pieza editorial
       multi-segment.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-08-26 s49 — El full heel que sostiene la temporada (Raw 24/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"hicieron magia con el bloodline, Roman se ve muy cool así full
+> heel con esta versión de los Uso que en ese rol son super
+> disfrutables en cuanto a enterteinment, y tienen muy buenos activos
+> en LA y Solo, la verdad es una temporada muy destacable y
+> emocionante"*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **El elogio incluye al heel**: el veredicto premia la arquitectura
+  completa —face y heel en el mismo motor—, no solo al lado simpático.
+  *"Muy cool así full heel"* es aprobación del rol, no del personaje
+  suavizado.
+- **Es el blanco declarado del ángulo**: LA Knight lo llama *"capital
+  C coward"* y le marca que **ganó solo en WrestleMania y SummerSlam
+  y desde entonces manda familiares** a hacerle el trabajo
+  [research, nivel 2].
+- **Sigue operando por delegación**: World Heavyweight Champion sin
+  luchar en TV, con el ganador del torneo WWE/AAA esperándolo en
+  **CDMX el 14/9/2026**.
+- Ver [`../segments/2026-08-24-promo-video-apertura-bloodline-wwe-raw.md`](../segments/2026-08-24-promo-video-apertura-bloodline-wwe-raw.md).
+

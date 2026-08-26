@@ -14,6 +14,7 @@
 | Canónico | Variantes prohibidas |
 |---|---|
 | Mickie James | Mickey James |
+| Bron Breakker | Bron Breaker |
 | Leon Slater | Lion Slater, Leon Slather, Lion Slather |
 | Arianna Grace | Ariana Grace |
 | Jodi Threat | Jody Threat, Jody Thread |

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dragon-lee
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + WM42 cluster"
   - "Cagematch + AAA media + NJPW retrospectivas"
@@ -158,3 +158,33 @@ enfrenta a **El Hijo del Dr. Wagner Jr.** el 17/8/2026.
 - [ ] WWE NXT debut 2023 — pieza.
 - [ ] Linaje Casas family — fact-sheet faction file
       (Rush + Mistico II + L.A. Park + La Bestia del Ring).
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-08-26 s49 — "Un performance generacional" ante Rey Fénix (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego tuvimos Dragon Lee vs Fenix, estuvo increible, la velocidad y
+> lo prolijo de su lucha libre, strikes con peso que si conectan, top
+> tier wrestling, se merece las 3 clases, todo estuvo perfecto, solo
+> el primer 'good bye amigo' no conecto totalmente, pero es la única
+> queja, de verdad pusieron una super lucha. Un performance
+> generacional realmente, esto es wrestling en tv."*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada**, con **una sola reserva técnica puntual**
+  —el primer *"good bye amigo"* que no conectó— que la doctrina admite
+  sin bajar la clase, y que el propio Vehemiurgo acota: *"es la única
+  queja"*.
+- **El criterio in-ring es de peso, no de cantidad**: *"strikes con
+  peso que sí conectan"* — la cláusula que separa la lucha libre
+  ejecutada del spotfest.
+- **Pierde la semifinal** del torneo WWE/AAA por el contendiente Nº1
+  al World Heavyweight Championship; post-match felicita a Fénix y se
+  abrazan [research nivel 2].
+- Ver [`../matches/2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md`](../matches/2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md).
+

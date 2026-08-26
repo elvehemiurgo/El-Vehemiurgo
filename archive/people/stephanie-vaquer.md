@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: stephanie-vaquer
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Stephanie Vaquer"
   - "Cobertura NJPW STARDOM 2022–2024 (IWGP Women's Champion run)"
@@ -104,6 +104,32 @@ sección 9.
 Raquel como capaz de pasarla por la derecha si le dan lugar),
 [`zaria.md`](./zaria.md) (Zaria opacada por Giulia y Vaquer en
 debut).
+
+### Sesión 2026-08-26 s49 — Veredicto partido: "muy oldschool in ring, aburrida en el mic" (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"Vaquer es muy cool in ring y muy oldschool, pero es aburrida en el
+> mic, y en vez de pulirla cada vez la exponen más, de verdad quiero
+> que sea cuestion de tiempo para que sea el paquete completo."*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada** para el match ante Roxanne Perez, que
+  **gana** — primer match desde WrestleMania 42, con el butterfly
+  lungblower (SVB) tras esquivar el moonsault [research nivel 2].
+- **El elogio in-ring es alto en este archivo**: *"muy cool in ring y
+  muy oldschool"*.
+- **La crítica es al booking, no a ella**: *"en vez de pulirla cada
+  vez la exponen más"* — exponer un déficit en lugar de corregirlo.
+- **Entra en la vara de prospectos** de esta misma sesión: junto a
+  Leon Slater, Je'Von Evans, Cruz Montana, La Catalina y La Hiedra,
+  debe apuntar a la calidad del acto de LA Knight y Solo Sikoa.
+- **Horizonte**: post-lucha se anuncia **Vaquer vs. Liv Morgan por el
+  Women's World Championship** (≈ 7/9/2026).
+- Ver [`../matches/2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md`](../matches/2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md).
 
 ## Lectura consolidada del Vehemiurgo
 

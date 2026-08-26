@@ -4,7 +4,7 @@ slug: eventos-watch-list-vehemiurgo
 tipo: topic
 categoria: watch-list
 estado: vivo
-ultima_actualizacion: 2026-08-22
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Lista personal verbatim: notebook/2026-05-09-2-lista-personal-completa.md"
   - "Derivado de archive/topics/lista-personal-maestra-indice.md"
@@ -12,7 +12,7 @@ fuentes_principales:
 tags: [watch-list, pendientes, lista-personal-maestra, eventos-cluster]
 ---
 
-> **VISTA GENERADA — no editar a mano.** Regenerar con `python3 bin/regen_vistas.py` tras integrar fichas. Última regeneración: 2026-08-22.
+> **VISTA GENERADA — no editar a mano.** Regenerar con `python3 bin/regen_vistas.py` tras integrar fichas. Última regeneración: 2026-08-26.
 
 # Eventos / shows pendientes de ver — watch-list del Vehemiurgo
 
@@ -22,7 +22,7 @@ maestra que **todavía no tienen marca `(✓)` ni ficha individual** en
 3+ bullets corresponden al mismo show (típicamente PPV o programa con
 cobertura densa); el resto va como matches/segments sueltos.
 
-**Conteo actual (2026-08-22)**: **625 entradas pendientes** —
+**Conteo actual (2026-08-26)**: **625 entradas pendientes** —
 **74 eventos agrupados** (385 entradas) +
 **240 sueltos**. Todo lo que ya tiene ficha fue
 removido de esta vista.

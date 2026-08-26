@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jacob-fatu
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Jacob Fatu"
   - "Cobertura MLW (2018–2024) — múltiples MLW World Heavyweight Title runs"
@@ -95,6 +95,32 @@ sección 12 (clarificación posterior sobre los MFTs).
   + el midcarding de Solo + el tease de protagónico para Tama
   son los tres movimientos internos que el Vehemiurgo identifica
   en la sesión.
+
+### Sesión 2026-08-26 s49 — Degradado dentro del Bloodline: el ula fala como galón (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego el segmento de Jacob backstage con los Use estuvo cool, de
+> verdad fuerte, muy buena programación y el booking para este talento
+> está muy bueno. Se merecen una WE class."*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada.** El elogio es **de programación** —el lugar
+  que le dan en el show—, no de una línea ni un spot.
+- **Se cierra el hueco del 17/8**: research confirma que Fatu explica
+  que **no intervino en la traición de Solo Sikoa porque Roman Reigns
+  se lo ordenó**. El archivo venía registrando su neutralidad como
+  comportamiento sin causa declarada.
+- **La degradación, escenificada con un objeto**: **Jey levanta el ula
+  fala** que Reigns les entregó al nombrarlos capitanes y le marca que
+  **los jefes son él y Jimmy**, y que puede quedarse atrás esa noche.
+  Fatu cierra **pateando un crate de producción**.
+- **Tensión sembrada, turn no ejecutado** — el archivo lo registra
+  como descontento interno, no como quiebre.
+- Ver [`../segments/2026-08-24-jacob-fatu-usos-backstage-wwe-raw.md`](../segments/2026-08-24-jacob-fatu-usos-backstage-wwe-raw.md).
 
 ## Lectura consolidada del Vehemiurgo
 

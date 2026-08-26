@@ -32,7 +32,7 @@ tags: [logan-paul, wwe, speed-storyline, primer-registro-mencion]
 > — El Vehemiurgo, 2026-07-14 s39 (verbatim)
 
 **Lectura sintética**: elogio puntual sin clase declarada,
-subordinado en importancia a Bron Breaker dentro del mismo
+subordinado en importancia a Bron Breakker dentro del mismo
 segmento. Ver
 [`../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md`](../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md).
 
@@ -60,4 +60,4 @@ segmento. Ver
 
 ## Cross-links
 
-- [`./bron-breaker.md`](./bron-breaker.md)
+- [`./bron-breakker.md`](./bron-breakker.md)

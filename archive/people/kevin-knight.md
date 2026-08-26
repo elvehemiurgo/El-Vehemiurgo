@@ -224,7 +224,7 @@ celebración del 15/7), escalada sostenida de cara a Redemption
 **Lectura sintética**: Perfect Match — pago del build sostenido
 desde s33-s34. Knight cumple exactamente la doctrina que el
 Vehemiurgo pidió de antemano (ver
-[`./bron-breaker.md`](./bron-breaker.md) para la referencia
+[`./bron-breakker.md`](./bron-breakker.md) para la referencia
 cross-marca): impone su propio estilo heel heavyweight old-school
 en vez de caer en la dinámica de Omega, vendiendo con peso real.
 Ver

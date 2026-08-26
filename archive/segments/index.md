@@ -12,6 +12,11 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-24 | Dominik Mysterio y JD McDonagh le reclaman a Rey Mysterio por el torneo — Je'Von Evans hace el salve | WWE / Raw | backstage / confrontación con salve | WE | en-investigacion | 1 | [→](2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md) |
+| 2026-08-24 | Firma de contrato Oba Femi vs Bron Breakker — Breakker empuja a Heyman y Femi manda a Theory a través de la mesa | WWE / Raw | firma de contrato / promo con brawl | WE | en-investigacion | 1 | [→](2026-08-24-firma-contrato-oba-femi-bron-breakker-wwe-raw.md) |
+| 2026-08-24 | Jacob Fatu y los Usos backstage — el ula fala como galón y el crate pateado | WWE / Raw | backstage / tensión interna de facción | WE | en-investigacion | 1 | [→](2026-08-24-jacob-fatu-usos-backstage-wwe-raw.md) |
+| 2026-08-24 | LA Knight le pone nombre al culpable — 'capital C coward Roman Reigns', y Solo Sikoa reta a los Usos | WWE / Raw | promo in-ring / armado de main event | WE | en-investigacion | 1 | [→](2026-08-24-la-knight-segmento-in-ring-wwe-raw.md) |
+| 2026-08-24 | Promo video de apertura — la cosecha del booking de LA Knight y Solo Sikoa contra el Bloodline | WWE / Raw | promo video / hype package | WE | en-investigacion | 1 | [→](2026-08-24-promo-video-apertura-bloodline-wwe-raw.md) |
 | 2026-08-21 | Blake Monroe — promo de presentación, 'The Glamour' | WWE / SmackDown | promo de hype | WE | en-investigacion | 1 | [→](2026-08-21-blake-monroe-promo-glamour-wwe-smackdown.md) |
 | 2026-08-21 | Chelsea Green, Tiffany Stratton, Paige y Fatal Influence | WWE / SmackDown | promo / confrontacion backstage | WE | en-investigacion | 1 | [→](2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md) |
 | 2026-08-21 | Cody Rhodes y Randy Orton — Aldis impone la regla de no contact | WWE / SmackDown | promo in-ring / confrontacion | WE | en-investigacion | 1 | [→](2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md) |
@@ -260,7 +265,7 @@ cada alta y con cada cambio de estado.
 | 2026-04-21 | Segmento backstage: Saquon Shugars con Dark State | WWE / NXT Revenge — Week 2 | promo backstage | — | stub | 1 | [→](2026-04-21-saquon-dark-state-segmento-wwe-nxt-revenge-week-2.md) |
 | 2026-04-20 | CM Punk regresa tras perder el título + entrada de Cody Rhodes | WWE / Raw | promo in-ring / entrada | WE | stub | 1 | [→](2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md) |
 | 2026-04-20 | Debut de Ethan Page: backstage con Adam Pearce | WWE / Raw | promo backstage / debut | — | stub | 1 | [→](2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md) |
-| 2026-04-20 | Segmento in-ring: los chicos de Paul Heyman (Bron Breaker, Logan Paul/Speed) | WWE / Raw | in-ring / posicionamiento de grupo | — | stub | 1 | [→](2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md) |
+| 2026-04-20 | Segmento in-ring: los chicos de Paul Heyman (Bron Breakker, Logan Paul/Speed) | WWE / Raw | in-ring / posicionamiento de grupo | — | stub | 1 | [→](2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md) |
 | 2026-04-20 | Promo de Jacob Fatu contra Roman Reigns | WWE / Raw | promo in-ring | — | stub | 1 | [→](2026-04-20-jacob-fatu-promo-vs-roman-wwe-raw.md) |
 | 2026-04-20 | JD McDonagh & Finn Bálor: video promo dual (build pre-match) | WWE / Monday Night Raw — Raw After WrestleMania 42 | vignette dual pre-grabada (paquete de video con voiceover de ambos protagonistas, formato Highlight of the Night) | — | en-investigacion | 0 | [→](2026-04-20-jd-mcdonagh-video-promo-raw.md) |
 | 2026-04-20 | Promo video: Brock Lesnar | WWE / Raw | promo video (hype package) | WE | stub | 1 | [→](2026-04-20-promo-video-brock-lesnar-wwe-raw.md) |

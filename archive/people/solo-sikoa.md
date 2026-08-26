@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: solo-sikoa
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Solo Sikoa"
   - "Cobertura WWE 2022–2026 (Bloodline original, interim Tribal Chief 2024, Solo's Bloodline)"
@@ -156,6 +156,32 @@ juntas trazan el arco:
 
 Material para una pieza editorial específica: *"Solo Sikoa: el
 top guy que no terminó de cerrarse"*.
+
+### Sesión 2026-08-26 s49 — "Un equipo allstar" con LA Knight (Raw 24/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"vimos los frutos del booking de LA y Solo, es perfecto, top tier
+> wrestling todo su acto como faces, cada giro, cada promo, de verdad
+> se la estan viviendo como wrestlers en la plataforma más grande"*
+>
+> *"con Solo la verdad es un equipo allstar, hace tiempo no hay faces
+> enterteiners puros así en TV además de CM Punk y Cody Rhodes"*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **Ratificación del face turn del 17/8**: una semana después del
+  Samoan Spike a Roman Reigns, el archivo registra el acto ya
+  consolidado — *"top tier wrestling todo su acto como faces"*.
+- **Entra al canon corto de faces entertainers puros** del
+  Vehemiurgo, junto a LA Knight, CM Punk y Cody Rhodes.
+- **Confirmado por research**: en el segmento de apertura le agradece
+  a Knight la ayuda de la semana previa y **reta a sus hermanos, los
+  Usos**, a enfrentarlos esa misma noche — arma el main event.
+- **Segundo caso testigo** de
+  [`../topics/doctrina-el-babyface-que-la-empresa-no-quiere.md`](../topics/doctrina-el-babyface-que-la-empresa-no-quiere.md).
 
 ## Lectura consolidada del Vehemiurgo
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-knight
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — LA Knight"
   - "El Vehemiurgo, notebook 2026-05-09 (mención editorial breve)"
@@ -77,11 +77,49 @@ oportunidad de los Wyatt Sicks):
   [`topics/paranormal-gimmicks-wwe.md`](../topics/paranormal-gimmicks-wwe.md)
   como caso del costo de oportunidad.
 
+### Sesión 2026-08-26 s49 — La cosecha, el hallazgo de kayfabe y la doctrina del babyface no querido (Raw 24/8/2026)
+
+**Cita verbatim** (fragmentos; volcado completo en
+[`../../notebook/2026-08-01-s49-raw-240826.md`](../../notebook/2026-08-01-s49-raw-240826.md)):
+
+> *"vimos los frutos del booking de LA y Solo, es perfecto, top tier
+> wrestling todo su acto como faces, cada giro, cada promo, de verdad
+> se la estan viviendo como wrestlers en la plataforma más grande"*
+>
+> *"tremendo pop para su entrada, y de frente menciona a Roman, me
+> gusta que en kayfabe la culpa de que LA no haya sido bookeado así
+> antes, es por la influencia y esfuerzos de Roman y el bloodline, es
+> una historia cautivante y LA sabe como hacer tv picante y
+> entretenida, y con Solo la verdad es un equipo allstar"*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos WE class en la misma noche** por su acto: el promo video de
+  apertura y su segmento in-ring. La clase premia **el acto
+  sostenido**, no un momento.
+- **El hallazgo de kayfabe**: la empresa carga *dentro de la ficción*
+  la culpa de su booking tardío a Roman Reigns y el Bloodline. La
+  queja real del público convertida en motor del ángulo.
+- **Canon de faces entertainers puros** del Vehemiurgo: junto a Solo
+  Sikoa, CM Punk y Cody Rhodes en WWE; Jay White y los Guns y el
+  tweener Christian Cage en AEW; Ospreay *"quizá también un poco pero
+  el bookeo no le ayuda"*. Su acto queda fijado como **vara de
+  calidad** para los prospectos del roster.
+- **Caso testigo de una doctrina nueva**:
+  [`../topics/doctrina-el-babyface-que-la-empresa-no-quiere.md`](../topics/doctrina-el-babyface-que-la-empresa-no-quiere.md)
+  — el patrón WWE que ya operó contra Steve Austin post-KOTR 1996, y
+  cuya única contramedida es que el talento *"se lo crea y se la viva
+  como el mejor wrestler del mundo"*.
+- Ver [`../segments/2026-08-24-la-knight-segmento-in-ring-wwe-raw.md`](../segments/2026-08-24-la-knight-segmento-in-ring-wwe-raw.md)
+  y [`../segments/2026-08-24-promo-video-apertura-bloodline-wwe-raw.md`](../segments/2026-08-24-promo-video-apertura-bloodline-wwe-raw.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente.)
 
-### Sesión 2026-07-14 s52 — Segmento propio en Raw: la fricción correcta para Bron Breaker
+### Sesión 2026-07-14 s52 — Segmento propio en Raw: la fricción correcta para Bron Breakker
 
 **Cita verbatim**:
 
@@ -103,7 +141,7 @@ Breaker como main eventer — resolviendo directamente la decepción
 de booking documentada en el expediente de Breaker (forzarlo a
 luchar "al estilo Rollins", s42/s46). Ver
 [`../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md`](../segments/2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw.md)
-y [`./bron-breaker.md`](./bron-breaker.md).
+y [`./bron-breakker.md`](./bron-breakker.md).
 
 ### Sesión 2026-08-01 s02 — La receta en una línea: material y tiempo
 

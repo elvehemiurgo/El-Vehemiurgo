@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jevon-evans
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 23/3/2026)"
 tags: [jevon-evans, wwe-raw-2026, fighting-spirit, booking-lento-y-cuidadoso, psicologia-en-desarrollo, primer-registro-individual]
@@ -102,6 +102,40 @@ consecutiva apuntándole, con Dominik sumándose) —
 [→](../segments/2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md).
 **Fórmula editorial central**: *"son el presente, tienen que ser el
 presente"* — describe y exige booking en la misma frase.
+
+### Sesión 2026-08-26 s49 — "Se está moviendo como wrestler" — y la derrota que mueve el booking (Raw 24/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"luego Jevon hace el salve atacandolos y es un face muy cool, de
+> verdad tiene carisma y se está moviendo como wrestler, me gusta"*
+>
+> *"el hecho de que Cass ganara gracias a un error milimetrico de
+> Jevon, y que el finisher sea tan brutal, y en el mix entran Dominik
+> y JD, es un midcard realmente interesante y que está dando buen
+> wrestling"*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos piezas en la misma noche**: WE class por el salve backstage a
+  Rey Mysterio, y **triple clase** por el match ante Big Cass —que
+  **pierde**.
+- **La fórmula del elogio**: *"se está moviendo como wrestler"* — la
+  misma vara de intención old-school que el Vehemiurgo aplica al acto
+  de LA Knight y Solo Sikoa esta noche.
+- **La derrota está leída como booking, no como falla**: cae por *"un
+  error milimétrico"* —sube al top rope y Cass lo empuja al vacío,
+  Big Boot y pin [research nivel 2]— y el resultado *"mueve el booking
+  de forma importante"*.
+- **Consecuencia inmediata**: Dominik Mysterio y JD McDonagh lo atacan
+  post-match (Frog Splash de Dominik), cobrando el salve. Arranca el
+  feud **Evans vs. Judgment Day**.
+- **Entra en la vara de prospectos** de esta sesión, junto a Leon
+  Slater, Cruz Montana, La Catalina, La Hiedra y Vaquer.
+- Ver [`../matches/2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md`](../matches/2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md)
+  y [`../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md`](../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md).
 
 ## Pendientes / huecos
 

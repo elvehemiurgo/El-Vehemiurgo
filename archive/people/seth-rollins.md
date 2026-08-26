@@ -7,8 +7,8 @@ estado: vivo
 ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE Backlash, 9/5/2026)"
-  - "Mención previa: s39 (advertencia sobre enredo con Bron Breaker)"
-tags: [seth-rollins, wwe-backlash-2026, sin-clase, decepcion-booking, bron-breaker, sobreproteccion, primer-registro-individual]
+  - "Mención previa: s39 (advertencia sobre enredo con Bron Breakker)"
+tags: [seth-rollins, wwe-backlash-2026, sin-clase, decepcion-booking, bron-breakker, sobreproteccion, primer-registro-individual]
 ---
 
 # Seth Rollins
@@ -54,7 +54,7 @@ en vez de que Bron Breakker imponga su estilo por encima del de
 Rollins de forma decisiva, la oficina sobreprotege a Seth y fuerza
 a Breakker a luchar "al estilo Rollins" — exponiéndolo como
 resultado, no protegiéndolo. Ver
-[`./bron-breaker.md`](./bron-breaker.md).
+[`./bron-breakker.md`](./bron-breakker.md).
 
 ### Sesión 2026-08-01 s17 — Pierde el título mundial ante Roman Reigns en SummerSlam
 
@@ -140,4 +140,4 @@ referencia a un programa actual. `[referencia temporal sin resolver]`
 
 ## Cross-links
 
-- [`./bron-breaker.md`](./bron-breaker.md) — rival.
+- [`./bron-breakker.md`](./bron-breakker.md) — rival.

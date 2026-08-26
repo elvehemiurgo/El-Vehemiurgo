@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: roxanne-perez
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 30/3/2026)"
 tags: [roxanne-perez, wwe-raw-2026, regreso, wrestling-entertainment, primer-registro-individual]
@@ -203,6 +203,39 @@ Raquel Rodríguez. Research confirma que remata el segmento con **Pop
 Rox** sobre Vaquer tras el Codebreaker de Morgan (Raw, 17/8/2026,
 Buffalo). Ver
 [`../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md`](../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md).
+
+### Sesión 2026-08-26 s49 — "En el micrófono le saca ventaja a todas" (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"me gusta que Roxanne este como underdog midcard heel, así tiene la
+> oportunidad de empezar desde abajo y tener toda una historia en WWE,
+> no la veo recolectando pins todavia, pero está demostrando in ring
+> como siempre, pero en el micrófono es donde le saca ventaja a todas,
+> la verdad, es mejor que Vaquer, mejor que Liv, mejor que Raquel,
+> mejor que las Bellas, en fin, honestamente quisiera que Roxanne
+> reemplazara a Becky de una vez en la programación, pero eso no va a
+> pasar, igual esta lucha si estuvo muy buena, se merece las 3 clases,
+> estuvieron brillantes."*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética — el fallo más alto que el archivo le registra**:
+
+- **Triple clase declarada** para el match ante Stephanie Vaquer, que
+  **pierde** (research nivel 2: Vaquer con butterfly lungblower tras
+  esquivar el moonsault). **La derrota no contradice la lectura: la
+  confirma** — *"no la veo recolectando pins todavia"*.
+- **Aprobación explícita del booking**: underdog midcard heel que
+  empieza desde abajo y construye historia. Doctrina old-school pura;
+  apurarle las victorias la quemaría.
+- **Jerarquía declarada en el mic**: por encima de Vaquer, Liv Morgan,
+  Raquel Rodríguez y las Bella. **Postura editorial declarada, no dato
+  de archivo.**
+- **Deseo con su propia resignación**: *"quisiera que Roxanne
+  reemplazara a Becky de una vez en la programación, pero eso no va a
+  pasar"*.
+- Ver [`../matches/2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md`](../matches/2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md).
 
 ## Pendientes / huecos
 

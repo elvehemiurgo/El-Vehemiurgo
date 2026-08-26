@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: big-cass
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s41 (visión directa — WWE Raw, 17/8/2026)"
   - "Sub-agente research-wwe-raw-170826 (research 2026-08-01, closed) — Cageside Seats, WWE.com, 411mania, Yahoo Sports, khelnow"
@@ -67,6 +67,46 @@ tags: [big-cass, william-morrissey, regreso-wwe-2026, monster-heel, jevon-evans,
 del personaje, sin restarle valor funcional como obstáculo dentro del
 arco "Jevon contra el mundo". Ver
 [`../segments/2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md`](../segments/2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md).
+
+### Sesión 2026-08-26 s49 — El monster heel rencoroso: la rehabilitación que no ilumina (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"le dieron tremenda entrada a Big Cass, de verdad luce como super
+> estrella, y tuve oportunidad de verlo in ring, despues de tiempo,
+> porque lo último que me gustó de Big Cass fue en IMPACT contra Josh
+> Alexander, luego en AEW fue un chiste, y ahora tiene una buena
+> historia y un gran rival, definitivamente es un regreso mejor
+> bienvenido y más atractivo que Baron Corbin [...] Cass viene con
+> mucha venganza, es la historia de rehablitación y tocar fondo, pero
+> contada con un moster heel rencoroso que no usa le redención para
+> iluminarse, si no para recordar quienes no lo ayudaron y como tuvo
+> que salir de ese fondo el solo, es un argumento muy emocionante y
+> tenerlo como bully en tv está muy bueno [...] me gusta la idea de
+> Big Cass en la programación. La lucha se merece las 3 clases."*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética — la tesis de gimmick más densa de la sesión**:
+
+- **Triple clase declarada** para el match ante Je'Von Evans, que
+  **gana** — su primer match en un ring de WWE en más de ocho años
+  [research nivel 2].
+- **La inversión que salva el gimmick**: la historia de tocar fondo
+  **no se usa como sermón de redención sino como combustible de
+  rencor** — *"no usa la redención para iluminarse, sino para recordar
+  quiénes no lo ayudaron"*. Heel-work old-school: el público le
+  concede la historia y lo odia igual.
+- **La presentación como inversión de estatus**: *"tremenda entrada
+  [...] luce como super estrella"* — el detalle carny que declara
+  jerarquía antes de la campana.
+- **Historial personal del Vehemiurgo con el talento**: lo último que
+  le gustó fue **en IMPACT contra Josh Alexander**; *"en AEW fue un
+  chiste"*. **Comparación de regresos**: mejor que el de Baron Corbin.
+- **El ángulo ya estaba resuelto antes del match**: *"la rivalidad
+  promos y enterteinment ya lo tienen"* — la incógnita era el in-ring,
+  y quedó saldada.
+- Ver [`../matches/2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md`](../matches/2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md).
 
 ## Pendientes / huecos
 

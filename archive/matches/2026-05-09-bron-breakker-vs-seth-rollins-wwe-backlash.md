@@ -1,7 +1,7 @@
 ---
 match: "Bron Breakker vs Seth Rollins"
 slug: "2026-05-09-bron-breakker-vs-seth-rollins-wwe-backlash"
-participantes: ["Bron Breaker", "Seth Rollins"]
+participantes: ["Bron Breakker", "Seth Rollins"]
 empresa: "WWE"
 programa: "Backlash"
 fecha: 2026-05-09
@@ -21,7 +21,7 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE Backlash, 9/5/2026)"
-tags: [bron-breaker, seth-rollins, wwe-backlash-2026, singles, sin-clase, decepcion-booking, sobreproteccion, error-booking, indie-mark-critica]
+tags: [bron-breakker, seth-rollins, wwe-backlash-2026, singles, sin-clase, decepcion-booking, sobreproteccion, error-booking, indie-mark-critica]
 ---
 
 # Bron Breakker vs Seth Rollins — WWE Backlash (9 may 2026)
@@ -62,7 +62,7 @@ tags: [bron-breaker, seth-rollins, wwe-backlash-2026, singles, sin-clase, decepc
    el booking para Breaker con el tiempo" — no cierra el caso como
    irrecuperable.
 6. Ver
-   [`../people/bron-breaker.md`](../people/bron-breaker.md),
+   [`../people/bron-breakker.md`](../people/bron-breakker.md),
    [`../people/seth-rollins.md`](../people/seth-rollins.md).
 
 ## Pendientes
@@ -74,6 +74,6 @@ tags: [bron-breaker, seth-rollins, wwe-backlash-2026, singles, sin-clase, decepc
 
 ## Cross-links
 
-- [`../people/bron-breaker.md`](../people/bron-breaker.md) ·
+- [`../people/bron-breakker.md`](../people/bron-breakker.md) ·
   [`../people/seth-rollins.md`](../people/seth-rollins.md) ·
   [`../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md`](../segments/2026-04-20-heyman-guys-segmento-logan-speed-wwe-raw.md)

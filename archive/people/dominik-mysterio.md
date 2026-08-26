@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dominik-mysterio
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Dominik Mysterio"
   - "Cobertura WWE 2020–2026 (debut, heel turn 2022 Judgment Day, run 2024–2026)"
@@ -83,6 +83,30 @@ sección 4.
 [`liv-morgan.md`](./liv-morgan.md),
 [`promotions/judgment-day.md`](../promotions/judgment-day.md),
 [`topics/factions-2026.md`](../topics/factions-2026.md).
+
+### Sesión 2026-08-26 s49 — "Ahora hablan bien fuerte como wrestlers" (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego esa noche Dom y JD molestan a Rey Mysterio backstage y con
+> heels muy cool, ahora hablan bien fuerte como wrestlers y luego
+> Jevon hace el salve atacandolos y es un face muy cool [...] el
+> segmento se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada.** El elogio es **de registro**: el heel que
+  suena a peleador vende; el que suena a caricatura no. El *"ahora"*
+  marca cambio respecto de registros previos del archivo.
+- **El motivo del reclamo, confirmado**: le reprochan a Rey Mysterio
+  —GM de AAA y armador del torneo— **no haber metido a Dominik en el
+  torneo** [research nivel 1-2].
+- **El cobro, esa misma noche**: junto a JD McDonagh ataca a Je'Von
+  Evans post-match tras su derrota con Big Cass, cerrando con **Frog
+  Splash**. Arranca el feud Evans vs. Judgment Day.
+- Ver [`../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md`](../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md).
 
 ## Lectura consolidada del Vehemiurgo
 

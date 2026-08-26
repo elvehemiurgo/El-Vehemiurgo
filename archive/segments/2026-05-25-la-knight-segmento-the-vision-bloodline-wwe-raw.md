@@ -2,7 +2,7 @@
 segmento: "Segmento propio de LA Knight — The Vision y el Bloodline"
 slug: "2026-05-25-la-knight-segmento-the-vision-bloodline-wwe-raw"
 tipo_segmento: "backstage / promo propia"
-protagonistas: ["LA Knight", "Bron Breaker", "Jimmy Uso"]
+protagonistas: ["LA Knight", "Bron Breakker", "Jimmy Uso"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-25
@@ -11,7 +11,7 @@ recinto: "[verif]"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif — preservar las líneas finales contra Jimmy Uso si se consigue transcripción]"
-gimmick_momento: "LA Knight arranca babyface felicitando a las tropas, luego se mete con The Vision (Bron Breaker) proponiéndose como su rival correcto, y cierra con líneas contra Jimmy Uso y el Bloodline"
+gimmick_momento: "LA Knight arranca babyface felicitando a las tropas, luego se mete con The Vision (Bron Breakker) proponiéndose como su rival correcto, y cierra con líneas contra Jimmy Uso y el Bloodline"
 storyline: "Post-WrestleMania, LA Knight recupera espacio de promo propia"
 attendance_anunciada: "[verif]"
 veces_visto_vehemiurgo: 1
@@ -21,7 +21,7 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE Raw, 25/5/2026)"
-tags: [la-knight, bron-breaker, jimmy-uso, bloodline, the-vision, wwe-raw-2026, wrestling-entertainment, doctrina-friccion-correcta, heroe-fundamental-28, panteon]
+tags: [la-knight, bron-breakker, jimmy-uso, bloodline, the-vision, wwe-raw-2026, wrestling-entertainment, doctrina-friccion-correcta, heroe-fundamental-28, panteon]
 ---
 
 # Segmento propio de LA Knight — The Vision y el Bloodline — WWE Raw (25 may 2026)
@@ -63,7 +63,7 @@ tags: [la-knight, bron-breaker, jimmy-uso, bloodline, the-vision, wwe-raw-2026, 
    a Bron como main eventer, resolviendo directamente la decepción
    de booking documentada en el expediente de Breaker (s42, s46:
    forzarlo a luchar "al estilo Rollins"). Ver
-   [`../people/bron-breaker.md`](../people/bron-breaker.md).
+   [`../people/bron-breakker.md`](../people/bron-breakker.md).
 4. **Reserva personal + confianza en el talento**: *"si me aburre
    verlo con los Usos más tiempo"*, pero confía en que LA Knight
    sabrá extrapolar valor para su propio nombre. La **Wrestling
@@ -75,12 +75,12 @@ tags: [la-knight, bron-breaker, jimmy-uso, bloodline, the-vision, wwe-raw-2026, 
 
 - [ ] Preservar la transcripción exacta de las líneas finales
       contra Jimmy Uso — [verif].
-- [ ] Composición exacta de "The Vision" (Bron Breaker, Seth
+- [ ] Composición exacta de "The Vision" (Bron Breakker, Seth
       Rollins, ¿otros?) — [verif].
 - [ ] Contenido exacto + duración del segmento.
 
 ## Cross-links
 
 - [`../people/la-knight.md`](../people/la-knight.md) ·
-  [`../people/bron-breaker.md`](../people/bron-breaker.md)
+  [`../people/bron-breakker.md`](../people/bron-breakker.md)
 - [`../people/seth-rollins.md`](../people/seth-rollins.md)

@@ -24,7 +24,7 @@ estado: en-investigacion
 ultima_actualizacion: 2026-08-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — SmackDown, 5/6/2026)"
-tags: [wwe-2026, smackdown, trick-williams, bron-breaker, king-of-the-ring-2026, diagnostico-bron-mini-rollins]
+tags: [wwe-2026, smackdown, trick-williams, bron-breakker, king-of-the-ring-2026, diagnostico-bron-mini-rollins]
 ---
 
 # Promo de Trick Williams y careo con Bron Breakker — SmackDown (5/6/2026)
@@ -56,6 +56,6 @@ tags: [wwe-2026, smackdown, trick-williams, bron-breaker, king-of-the-ring-2026,
 ## Piezas relacionadas
 
 - [`../people/trick-williams.md`](../people/trick-williams.md)
-- [`../people/bron-breaker.md`](../people/bron-breaker.md)
+- [`../people/bron-breakker.md`](../people/bron-breakker.md)
 
 - Volcado: [`../../notebook/2026-08-01-s02-clash-in-italy-310526-raw-010626-nxt-020626-smackdown-050626-aaa-060626.md`](../../notebook/2026-08-01-s02-clash-in-italy-310526-raw-010626-nxt-020626-smackdown-050626-aaa-060626.md)

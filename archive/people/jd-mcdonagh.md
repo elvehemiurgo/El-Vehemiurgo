@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jd-mcdonagh
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — JD McDonagh"
   - "Insight with Chris Van Vliet — entrevista 13 mar 2025 (lesión pulmón perforado)"
@@ -98,6 +98,27 @@ sección 3.
 [`finn-balor.md`](./finn-balor.md),
 [`promotions/judgment-day.md`](../promotions/judgment-day.md),
 [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md).
+
+### Sesión 2026-08-26 s49 — El heel que "habla bien fuerte como wrestler" (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego esa noche Dom y JD molestan a Rey Mysterio backstage y con
+> heels muy cool, ahora hablan bien fuerte como wrestlers y luego
+> Jevon hace el salve atacandolos y es un face muy cool [...] el
+> segmento se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s49 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento. El elogio es de **registro
+  de promo**, no de contenido.
+- **Es quien amenaza a Rey Mysterio** —el gatillo del salve de Je'Von
+  Evans [research nivel 1-2].
+- **Cobra post-match** junto a Dominik Mysterio sobre Evans, tras la
+  derrota de este ante Big Cass.
+- Ver [`../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md`](../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md).
 
 ## Lectura consolidada del Vehemiurgo
 
