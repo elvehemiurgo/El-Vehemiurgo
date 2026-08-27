@@ -183,6 +183,29 @@ top guy que no terminó de cerrarse"*.
 - **Segundo caso testigo** de
   [`../topics/doctrina-el-babyface-que-la-empresa-no-quiere.md`](../topics/doctrina-el-babyface-que-la-empresa-no-quiere.md).
 
+### Sesión 2026-08-26 s50 — "Se la está creyendo como main eventer" (Raw 24/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"en el main event, LA y Solo vs los Uso, estuvo cool, desde las
+> entradas, Solo realmente se la está creyendo como main eventer [...]
+> Solo y LA hubieran tenido una lucha perfecta si tuvieran mejores
+> rivales, pero si fue entretenido y el booking está bueno asi que es
+> muy disfrutable, se merecen la WE y FS class."*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **WE y FS declaradas** para el main event.
+- **La línea que resume su 2026**: *"realmente se la está creyendo
+  como main eventer"* — el mismo criterio de **intención old-school**
+  con que el archivo viene midiendo todo su acto face desde el 17/8.
+  El que se lo cree, dibuja.
+- **Perfect Wrestling descartada por el nivel de los rivales**, no por
+  su trabajo.
+- Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente.)

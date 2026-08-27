@@ -77,6 +77,26 @@ protagonistas del turn (Sikoa y Knight).
   margen, que los hermanos manejan lo suyo [research nivel 2].
 - Ver [`../segments/2026-08-24-jacob-fatu-usos-backstage-wwe-raw.md`](../segments/2026-08-24-jacob-fatu-usos-backstage-wwe-raw.md).
 
+### Sesión 2026-08-26 s50 — "Sí vendieron una grudge match, estaban furiosos" (Raw 24/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"los Uso si vendieron una grudge match, estaban furiosos [...] Solo
+> y LA hubieran tenido una lucha perfecta si tuvieran mejores rivales,
+> pero si fue entretenido y el booking está bueno asi que es muy
+> disfrutable, se merecen la WE y FS class."*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **WE y FS declaradas** para el main event.
+- **El elogio es de venta**: hacer que el match **pareciera personal**.
+  A diferencia de Jey, no recibe reserva individual en este registro.
+- **Queda igualmente dentro** del veredicto de casting: los rivales no
+  alcanzaban para la lucha perfecta.
+- Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

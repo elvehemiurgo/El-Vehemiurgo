@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: penta
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 23/3/2026)"
 tags: [penta, wwe, aaa, lucha-libre, primer-registro-individual]
@@ -162,6 +162,35 @@ tras un tornillo fallado de Laredo Kid desde la tercera. Avanza en el
 bracket rumbo al Raw del 14/9/2026 en Ciudad de México.
 
 **Pieza**: [vs Laredo Kid](../matches/2026-08-10-penta-vs-laredo-kid-raw.md) (FS·WE)
+
+### Sesión 2026-08-26 s50 — Triple clase ante La Parka, con la reserva "muy safe últimamente" (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"en wwe 2026 08 24 Raw bookearon Penta vs la parka, lo cual es muy
+> cool, y si pusieron una gran lucha, iban despues de fenix vs lee, un
+> acto increible dificil de seguir, y apostaron por un pase más
+> calmado, buenas secuencias, buenos gimmicks, y protegieron el
+> finisher de la parka como algo importante, me gustó mucho la lucha,
+> lo mantuvieron real, a pesar de que penta se me hace muy safe
+> ultimamente, pero se merecen las 3 clases."*
+>
+> *"Luego tenemos el careo de fenix y penta en la rampa, muy buenos
+> minutos, es un momento historico, este rato se merece la WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada** para el match, y **WE** para el careo con
+  su hermano en la rampa.
+- **La reserva individual**: *"penta se me hace muy safe
+  ultimamente"* — **reserva de estilo, no del match**, declarada junto
+  al elogio y sin bajar la clase.
+- **Gana la semifinal** del torneo WWE/AAA con **Springboard Mexican
+  Destroyer** y avanza a la final del 31/8 **contra Rey Fénix**.
+- Ver [`../matches/2026-08-24-penta-vs-la-parka-wwe-raw.md`](../matches/2026-08-24-penta-vs-la-parka-wwe-raw.md)
+  y [`../segments/2026-08-24-careo-fenix-penta-rampa-wwe-raw.md`](../segments/2026-08-24-careo-fenix-penta-rampa-wwe-raw.md).
 
 ## Pendientes / huecos
 

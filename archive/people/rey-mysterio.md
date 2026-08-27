@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rey-mysterio
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones"
   - "Dossier WWE SmackDown 2002 + Dossier AAA + AEW 2026"
@@ -178,6 +178,31 @@ notebook *"otra tierra sagrada"*) — sin Rey en SmackDown
 2002, no hay rampa para todo el lucha-libre revival
 2003-2005 + AAA-WWE working relationship 2024-2026 +
 Dragon Lee + Penta + Fenix call-up reciente.
+
+### Sesión 2026-08-26 s50 — "La parte donde Rey se enoja estuvo épica" (AAA Worldwide 15/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"La parte donde Rey se enoja y enfrenta a Dominik estuvo épica, y
+> todos terminaron muy over, les quedó cool"*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento de apertura, del que es
+  pieza central.
+- **Es el pico del segmento según el dictado** — no el brawl, sino el
+  padre metiéndose. Y el veredicto operativo es *"todos terminaron muy
+  over"*: el cruce familiar **no le costó estatus a nadie**.
+- **Confirmado por research**: sale a separar el brawl **en su rol de
+  Gerente General de AAA**, y **Dominik lo empuja** antes de irse.
+  Además está **en la mesa de comentarios en inglés** junto a **Corey
+  Graves y JBL** — doble rol, comentarista y GM.
+- **El mismo mes**, arma el torneo WWE/AAA por el contendiente Nº1 al
+  World Heavyweight Championship, que desemboca en el Raw de CDMX del
+  14/9.
+- Ver [`../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md`](../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md).
 
 ## Lectura consolidada del Vehemiurgo
 

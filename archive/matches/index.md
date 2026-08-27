@@ -15,6 +15,8 @@ con cada cambio de estado.
 |---|---|---|---|---|---|---|
 | 2026-08-24 | Dragon Lee vs Rey Fénix — semifinal, World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md) |
 | 2026-08-24 | Je'Von Evans vs Big Cass | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md) |
+| 2026-08-24 | LA Knight & Solo Sikoa vs The Usos (Jey Uso & Jimmy Uso) | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md) |
+| 2026-08-24 | Penta vs La Parka — semifinal, World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-24-penta-vs-la-parka-wwe-raw.md) |
 | 2026-08-24 | Roxanne Perez vs Stephanie Vaquer | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md) |
 | 2026-08-21 | CM Punk (c) vs Kevin Owens — Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md) |
 | 2026-08-21 | Giulia vs Blake Monroe | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-08-21-giulia-vs-blake-monroe-wwe-smackdown.md) |
@@ -22,6 +24,7 @@ con cada cambio de estado.
 | 2026-08-17 | Chad Gable (c) vs Rey Mysterio — WWE Intercontinental Championship | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-17-chad-gable-vs-rey-mysterio-ic-title-wwe-raw.md) |
 | 2026-08-17 | El Fiscal vs Rey Fénix — World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md) |
 | 2026-08-17 | Je'Von Evans vs JD McDonagh | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-17-jevon-evans-vs-jd-mcdonagh-wwe-raw.md) |
+| 2026-08-15 | Noisy Boy vs Rey Fénix (c) — AAA World Cruiserweight Championship | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md) |
 | 2026-08-14 | Carmelo Hayes vs Baron Corbin (c) — WWE United States Championship | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md) |
 | 2026-08-14 | Matt Cardona vs Gunther — Street Clothes Match | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md) |
 | 2026-08-14 | Tiffany Stratton (c) vs Jacy Jayne — WWE Women's United States Championship | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md) |

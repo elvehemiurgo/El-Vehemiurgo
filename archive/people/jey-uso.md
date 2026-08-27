@@ -133,6 +133,31 @@ marcada. Ver
   puede quedarse atrás sin hacer nada esa noche [research nivel 2].
 - Ver [`../segments/2026-08-24-jacob-fatu-usos-backstage-wwe-raw.md`](../segments/2026-08-24-jacob-fatu-usos-backstage-wwe-raw.md).
 
+### Sesión 2026-08-26 s50 — "Sus tropiezos toda la lucha": segundo registro de la misma reserva (Raw 24/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"los Uso si vendieron una grudge match, estaban furiosos, y LA
+> estuvo perfecto, a diferencia de Jey Uso y sus tropiezos toda la
+> lucha. Solo y LA hubieran tenido una lucha perfecta si tuvieran
+> mejores rivales."*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética — el elogio y la reserva conviven**:
+
+- **WE y FS declaradas** para el match, del que forma parte.
+- **Lo que se le concede**: junto a Jimmy, *"sí vendieron una grudge
+  match, estaban furiosos"* — el elogio es de **actitud y venta**, que
+  es lo que una grudge match debe entregar.
+- **Lo que se le imputa**: *"sus tropiezos toda la lucha"*, y ser
+  parte de los *"mejores rivales"* que faltaban para la lucha
+  perfecta. **Segundo registro del archivo con la misma queja** — el
+  precedente es el 4-way del 12/6/2026, *"el peso muerto de Jey y
+  Royce fue demasiado"*. Ver
+  [`../matches/2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md`](../matches/2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md).
+- Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, trayectoria, empresa.

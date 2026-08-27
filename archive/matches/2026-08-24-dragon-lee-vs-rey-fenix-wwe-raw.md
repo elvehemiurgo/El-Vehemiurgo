@@ -10,7 +10,7 @@ recinto: "Canadian Tire Centre"
 tipo_match: "singles"
 estipulacion: "semifinal de torneo — contendiente Nº1 al World Heavyweight Championship"
 duracion: "≈13-14 minutos [nivel 3 — estimación de snippet, no oficial]"
-finish: "Reportado como Mexican Muscle Buster — pinfall [nivel 2-3, reportado por snippet, NO verificado contra video ni play-by-play]"
+finish: "Mexican Muscle Buster — pinfall [corroborado: es el finisher con que Fénix retuvo el AAA Cruiserweight ante Noisy Boy el 15/8; sigue sin verificación contra video]"
 ganador: "Rey Fénix"
 referee: "[verif]"
 encuentros_previos: 0
@@ -98,9 +98,12 @@ México**.
 
 ## Pendientes
 
-- [ ] **Nombre del finish**: *"Mexican Muscle Buster"* viene de
-      snippet parafraseado (nivel 2-3), **no verificado** contra
-      play-by-play ni video. Confirmar antes de darlo por bueno.
+- [ ] **Nombre del finish**: *"Mexican Muscle Buster"* venía de
+      snippet parafraseado, pero **quedó corroborado de forma
+      independiente**: es el mismo movimiento con que Fénix cerró el
+      15/8 ante Noisy Boy en AAA (ver
+      [`./2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md`](./2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md)).
+      Falta verificación contra video.
 - [ ] Duración oficial (la estimación de ~13-14 min es nivel 3).
 - [ ] Verificar contra video el primer *"good bye amigo"* que el
       Vehemiurgo marca como fallido.

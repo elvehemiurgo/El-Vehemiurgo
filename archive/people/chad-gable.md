@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chad-gable
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s42 (visión directa — WWE Raw, 17/8/2026)"
   - "Sub-agente research-wwe-raw-170826-parte2 (research 2026-08-01, closed) — Wrestling Inc, PWTorch"
@@ -51,6 +51,28 @@ todo el match, no puntual. Retiene el Intercontinental Championship.
 Post-match (dato de research): recibe el gesto de respeto de Mysterio,
 que le pide colocarse el cinturón él mismo — declara después que el
 match fue *"everything I love about pro wrestling"*.
+
+### Sesión 2026-08-26 s50 — El campeón que se queda con la última palabra (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego el segmento backstage con Ethan y Gable estuvo cool, buenas
+> promos, se ve bien el booking para Ethan como amenzaza real, incluso
+> Gable es vio muy cool cerrando el segmento, se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento.
+- **El *"incluso"* es el punto**: el campeón **cierra el segmento** y
+  sale reforzado en el mismo promo donde se construye al retador.
+  Doble ganancia, que es exactamente lo que un segmento de armado
+  debería producir y rara vez produce.
+- Contexto: **WWE Intercontinental Champion**, retuvo ante Rey
+  Mysterio el 17/8/2026; ya había cruzado con Ethan Page en el
+  gauntlet del 13/7.
+- Ver [`../segments/2026-08-24-ethan-page-chad-gable-backstage-wwe-raw.md`](../segments/2026-08-24-ethan-page-chad-gable-backstage-wwe-raw.md).
 
 ## Pendientes / huecos
 

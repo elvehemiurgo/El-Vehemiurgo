@@ -115,6 +115,30 @@ oportunidad de los Wyatt Sicks):
 - Ver [`../segments/2026-08-24-la-knight-segmento-in-ring-wwe-raw.md`](../segments/2026-08-24-la-knight-segmento-in-ring-wwe-raw.md)
   y [`../segments/2026-08-24-promo-video-apertura-bloodline-wwe-raw.md`](../segments/2026-08-24-promo-video-apertura-bloodline-wwe-raw.md).
 
+### Sesión 2026-08-26 s50 — "LA estuvo perfecto" en el main event (Raw 24/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"en el main event, LA y Solo vs los Uso, estuvo cool, desde las
+> entradas [...] y LA estuvo perfecto, a diferencia de Jey Uso y sus
+> tropiezos toda la lucha. Solo y LA hubieran tenido una lucha
+> perfecta si tuvieran mejores rivales, pero si fue entretenido y el
+> booking está bueno asi que es muy disfrutable, se merecen la WE y FS
+> class."*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **WE y FS declaradas** para el main event; **Perfect Wrestling
+  descartada por casting del rival**, no por su ejecución — *"LA estuvo
+  perfecto"*.
+- **Tercera pieza suya de la noche** tras el promo video de apertura y
+  su segmento in-ring, ambos WE.
+- **El match termina sin decisión** por la emboscada de Royce Keys y
+  OTM.
+- Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente.)

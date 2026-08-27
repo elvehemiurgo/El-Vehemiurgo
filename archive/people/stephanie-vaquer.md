@@ -131,6 +131,32 @@ debut).
   Women's World Championship** (≈ 7/9/2026).
 - Ver [`../matches/2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md`](../matches/2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md).
 
+### Sesión 2026-08-26 s50 — "Su mejor promo hasta ahora", sin clase (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego Vaquer corta su mejor promo hasta ahora, no es la gran cosas,
+> pero es en ingles y de hecho tiene buena actitud, pero no veo una
+> super estrella, estuvo ok"*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética — movimiento en un expediente abierto**:
+
+- **Sin clase declarada, y no se infiere ninguna.** El veredicto es
+  *"estuvo ok"*, y esa es la lectura completa.
+- **Récord personal, no elogio absoluto**: *"su mejor promo hasta
+  ahora"* mide contra ella misma, y lo acota de inmediato — *"no es la
+  gran cosas"*.
+- **Lo que sí concede**: *"es en ingles y de hecho tiene buena
+  actitud"*. Cruza con
+  [`../topics/english-promo-limitation.md`](../topics/english-promo-limitation.md).
+- **Continuidad exacta con s49** (*"aburrida en el mic, y en vez de
+  pulirla cada vez la exponen más"*): **la exposición empezó a
+  rendir**, pero el paquete completo sigue sin cerrarse — *"no veo una
+  super estrella"*.
+- Ver [`../segments/2026-08-24-promo-stephanie-vaquer-wwe-raw.md`](../segments/2026-08-24-promo-stephanie-vaquer-wwe-raw.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Material para una pieza editorial específica sobre

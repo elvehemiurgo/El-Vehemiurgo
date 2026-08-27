@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ethan-page
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Ethan Page"
   - "Cobertura indie 2010s, Impact Wrestling, AEW (2020-2024), WWE NXT (2024-2026), WWE main roster (2026)"
@@ -92,6 +92,27 @@ take en match 8-man tag NXT TV 07 abr 2026.
 intervención decisiva en la secuencia final, no solo D'Angelo
 con la spear. Pendiente preservar contra video qué fue
 exactamente lo de Ethan.
+
+### Sesión 2026-08-26 s50 — "Amenaza real": el booking del retador, bien hecho (Raw 24/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego el segmento backstage con Ethan y Gable estuvo cool, buenas
+> promos, se ve bien el booking para Ethan como amenzaza real, incluso
+> Gable es vio muy cool cerrando el segmento, se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento.
+- **El elogio va al booking, no solo a la promo**: *"se ve bien el
+  booking para Ethan como amenaza real"* — la construcción del
+  challenger creíble como condición para que el match venda.
+- **Sin costo para el campeón**: el *"incluso Gable se vio muy cool"*
+  marca que construirlo **no exigió devaluar a Gable**, que es el
+  error habitual del promo de armado.
+- Ver [`../segments/2026-08-24-ethan-page-chad-gable-backstage-wwe-raw.md`](../segments/2026-08-24-ethan-page-chad-gable-backstage-wwe-raw.md).
 
 ## Lectura consolidada del Vehemiurgo
 

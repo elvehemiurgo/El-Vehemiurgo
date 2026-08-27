@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lucien-price
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026)"
   - "Sub-agente nxt-110826-pase2 (research 2026-08-01) — WebSearch; egress bloqueado en dirt sheets"
@@ -60,6 +60,36 @@ Nima**.
 identifica correctamente el trasfondo narrativo (el socio ausente por
 su doble función en AAA) como el material que sostiene su arco actual
 de singles.
+
+### Sesión 2026-08-26 s50 — OTM con Royce Keys: "a la altura de esta escena" (Raw 24/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Y la emboscada al final estuvo cool, es un grupo aparte de los
+> perros del mal, siguen con otm ahora con Royce, y se vio cool [...]
+> está cool el acto, y si se movieron como wrestlers heavyweight,
+> estuvieron a la altura de esta escena [...] pero bueno es OTM, y el
+> booking recien empieza,"*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **Aprobación del acto como unidad**: *"se movieron como wrestlers
+  heavyweight, estuvieron a la altura de esta escena"* — el criterio
+  es de **credibilidad física en un main event**, no de spots.
+- **Precisión de identidad hecha por el Vehemiurgo**: el grupo **es
+  OTM con Royce Keys, no Los Perros del Mal**, y marca como llamativo
+  que WWE no use ese branding teniendo la programación llena de
+  luchadores y de AAA.
+- **Juicio suspendido**: *"el booking recien empieza"*.
+- **Dato de research**: **OTM = "Out The Mud"**, nombre oficial en
+  pantalla; el 24/8 fue el **call-up al main roster** de Price y
+  Bronco Nima. Price es ex jugador de football universitario D-1,
+  contratado por WWE en **2022** y emparejado con Nima desde el
+  primer día. **El trío con Royce Keys no tiene nombre en pantalla** a
+  esta fecha.
+- Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
 
 ## Pendientes / huecos
 

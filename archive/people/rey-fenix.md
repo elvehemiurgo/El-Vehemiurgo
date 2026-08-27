@@ -195,6 +195,43 @@ Buster**, contrarrestando el Martinete de El Fiscal. Ver
   reta a Roman Reigns en **CDMX el 14/9/2026**.
 - Ver [`../matches/2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md`](../matches/2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md).
 
+### Sesión 2026-08-26 s50 — "Realmente construye estrellas": la tesis del constructor (AAA Worldwide 15/8/2026 + Raw 24/8)
+
+**Cita verbatim**:
+
+> *"Luego tuvimos Noisy Boy vs Fenix, lucha estilo Fenix, estuvo
+> genial, muy real, se merece las 3 clases, ambos se vieron creibles,
+> movimientos muy cool, muy duros. Noisi Boy es realmente
+> impresionante, su traje me recuerda a hayabusa y lo vi muy prolijo,
+> de las mejores poison ranas in the game, fue un showcase increible.
+> Fenix realmente construye estrellas, su estilo debe ser más
+> estudiado, su psicología está muy buena."*
+>
+> *"Luego tenemos el careo de fenix y penta en la rampa, muy buenos
+> minutos, es un momento historico, este rato se merece la WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética — el take doctrinal sobre él**:
+
+- **Triple clase declarada** para el match ante Noisy Boy (retiene el
+  **AAA World Cruiserweight Championship** en **5:50**, con Meteora y
+  **Mexican Muscle Buster**), y **WE** para el careo con Penta en el
+  Raw del 24/8.
+- **"Lucha estilo Fénix" como categoría**: el Vehemiurgo le nombra un
+  estilo propio y se lo atribuye como autoría.
+- **La tesis central — no es elogio de workrate, es atribución de
+  oficio**: *"realmente construye estrellas, su estilo debe ser más
+  estudiado, su psicología está muy buena"*. **Construir al otro
+  dentro del match es trabajo de promotor hecho desde adentro del
+  ring** — exactamente lo que este archivo mide y lo que la escuela
+  Meltzer-WON no.
+- **La prueba está en el resultado del showcase**: Noisy Boy sale over
+  perdiendo en menos de seis minutos, y **sin que a Fénix le cueste el
+  título**. Economía carny.
+- Ver [`../matches/2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md`](../matches/2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md)
+  y [`../segments/2026-08-24-careo-fenix-penta-rampa-wwe-raw.md`](../segments/2026-08-24-careo-fenix-penta-rampa-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

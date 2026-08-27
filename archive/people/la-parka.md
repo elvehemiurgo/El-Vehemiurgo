@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-parka
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [la-parka, aaa, fighting-spirit, wrestling-entertainment, doctrina-todas-sus-luchas, primer-registro-individual]
@@ -18,9 +18,26 @@ tags: [la-parka, aaa, fighting-spirit, wrestling-entertainment, doctrina-todas-s
 
 ## Identificación
 
-- **Nombre de gimmick**: La Parka.
-- **Nombre real**: [verif].
+- **Nombre de gimmick**: La Parka. **Tercera encarnación del
+  personaje** (catalogada en bases de datos como *La Parka III*).
+- **Nombre real**: **reportado como Brazo de Oro Jr. (II)**, de la
+  dinastía Alvarado — **atribución de prensa especializada, no
+  reconocida on-screen por AAA**; el personaje es enmascarado.
+  [Cultaholic y Web Is Jericho la titulan explícitamente como
+  reportada. Nivel: secundaria fiable, atribuido.]
 - **Empresa (2026)**: AAA.
+
+### Las tres encarnaciones — para que el archivo no las funda
+
+| Encarnación | Persona | Estado |
+|---|---|---|
+| **La Parka original** | **Adolfo Tapia** | Obligado a dejar el nombre en 2003; desde entonces trabaja como **L.A. Park**. Persona distinta, activo. |
+| **La Parka AAA / II** | **Jesús Alfonso Escoboza Huerta** | Debutó como *La Parka Jr.*; "oficial" desde 2003. **Falleció el 11/1/2020**, a los 54, por las complicaciones del accidente de octubre de 2019. |
+| **La Parka III (actual)** | **Brazo de Oro Jr. (II)** — reportado | AAA presentó la nueva versión el **22/3/2025 en Rey de Reyes**: presentado por **Vampiro**, salió de un ataúd con *Thriller*. Luchador desde 2013, semi-regular en AAA desde fines de 2021. **Es el que luchó ante Penta el 24/8/2026 y ante Psycho Clown el 15/8/2026.** |
+
+**Nota carny**: si la atribución a Brazo de Oro Jr. es correcta,
+**Psycho Clown es su pariente** — lo que carga de sentido el main
+event del 15/8/2026 entre ambos.
 
 ## Trayectoria condensada
 
@@ -70,6 +87,27 @@ independiente del rival o contexto puntual.
 Bonebreaker (AAA Verano de Escándalo Noche 2, 1/8/2026), clasificando
 al Fatal 4-Way por el AAA Latin American Championship vacante en
 Triplemanía 34 — segundo clasificado junto a El Hijo de Dr. Wagner Jr.
+
+### Sesión 2026-08-26 s50 — "Protegieron su finisher como algo importante" (Raw 24/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"bookearon Penta vs la parka, lo cual es muy cool, y si pusieron una
+> gran lucha [...] buenas secuencias, buenos gimmicks, y protegieron
+> el finisher de la parka como algo importante, me gustó mucho la
+> lucha, lo mantuvieron real [...] pero se merecen las 3 clases."*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada** pese a que **pierde** la semifinal del
+  torneo WWE/AAA ante Penta (Springboard Mexican Destroyer).
+- **El elogio central es de protección de gimmick**: *"protegieron el
+  finisher de la parka como algo importante"*. Detalle carny fino —
+  el finisher es el activo del personaje, y tratarlo como evento y no
+  como transición es lo que lo sostiene **aunque el luchador pierda**.
+- Ver [`../matches/2026-08-24-penta-vs-la-parka-wwe-raw.md`](../matches/2026-08-24-penta-vs-la-parka-wwe-raw.md).
 
 ## Pendientes / huecos
 

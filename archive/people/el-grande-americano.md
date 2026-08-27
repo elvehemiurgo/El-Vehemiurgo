@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: el-grande-americano
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s36 (visión directa — WWE NXT Stand & Deliver, 4/4/2026 [fecha inferida])"
   - "Mención previa en dossier AAA/AEW 2026 cluster (gimmick nWo carny de Chad Gable)"
@@ -315,6 +315,50 @@ directo, sin la gimmick de El Grande Americano.
 gimmick (no la ejecución). Vence junto a Penta a Dominik Mysterio y JD
 McDonagh (Raw, 3/8/2026) con rolling German suplex, presentado como
 nuevo campeón Intercontinental.
+
+### Sesión 2026-08-26 s50 — "Un gran babyface, nivel Cody o Punk" (AAA Worldwide 15/8/2026)
+
+**Cita verbatim**:
+
+> *"en wwe 2026 08 15 AAA Worldwide el show inicia con un brawl entre
+> grande y dominik, es cool con JBL en comentarios, y pudieron haber
+> hecho algo más brutal, se vio fake, no son los mejores brawlers,
+> pero el booking esta bueno, y este segmento inicial se merece una WE
+> class. La parte donde Rey se enoja y enfrenta a Dominik estuvo
+> épica, y todos terminaron muy over, les quedó cool, porque la promo
+> final del grande estuvo muy emotiva, y se puso realmente personal,
+> muy buenos stakes, metiendose con el legado de dominik y con su
+> reinado, dos luchadores realmente orgullosos dandose con todo, el
+> Grande americano es un gran babyface la verdad, nivel Cody o Punk,
+> definitivamente puede hablar."*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética — el fallo más alto que el archivo le registra**:
+
+- **WE class declarada** para el segmento de apertura, con **reserva
+  técnica sobre el brawl**: *"pudieron haber hecho algo más brutal, se
+  vio fake, no son los mejores brawlers"*. Crítica de **ejecución
+  física**, no de diseño — el booking sale ileso.
+- **El estatus declarado**: *"un gran babyface la verdad, nivel Cody o
+  Punk, definitivamente puede hablar"*. La comparación es con dos de
+  los cuatro nombres del **censo de faces entertainers puros** que el
+  Vehemiurgo fijó en s49 (LA Knight, Solo Sikoa, CM Punk, Cody
+  Rhodes). **Primera vez que el archivo le registra ese renglón.**
+- **La promo se confirma al pie de la letra**: research verifica los
+  dos ejes que el Vehemiurgo destacó — le niega a Dominik el derecho a
+  ser nombrado junto a **El Santo, Mil Máscaras, Blue Demon y Rey
+  Mysterio** (*el legado*) y declara que le preocupa **cómo será
+  recordada esta era con Dom como Mega Campeón** (*el reinado*). Se
+  proclama **"el único y verdadero El Grande Americano"** y promete
+  **volver a casa en Triplemanía, en CDMX**.
+- **Los stakes, cerrados**: **Dominik (c) vs. El Grande Americano por
+  el AAA Mega Championship en Triplemanía 34, Noche 2 — 13/9/2026,
+  Arena CDMX**.
+- **La lectura de conjunto**: *"dos luchadores realmente orgullosos
+  dándose con todo"*, y *"todos terminaron muy over"* — nadie pagó la
+  cuenta de nadie.
+- Ver [`../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md`](../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md).
 
 ## Pendientes / huecos
 

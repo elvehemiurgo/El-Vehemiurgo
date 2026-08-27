@@ -108,6 +108,38 @@ sección 4.
   Splash**. Arranca el feud Evans vs. Judgment Day.
 - Ver [`../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md`](../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md).
 
+### Sesión 2026-08-26 s50 — El heel que empuja a su propio padre (AAA Worldwide 15/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"el show inicia con un brawl entre grande y dominik [...] La parte
+> donde Rey se enoja y enfrenta a Dominik estuvo épica, y todos
+> terminaron muy over [...] la promo final del grande estuvo muy
+> emotiva, y se puso realmente personal, muy buenos stakes, metiendose
+> con el legado de dominik y con su reinado, dos luchadores realmente
+> orgullosos dandose con todo"*
+>
+> — El Vehemiurgo, 2026-08-26 s50 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento de apertura.
+- **Lo que el Vehemiurgo destaca de él**: el orgullo. *"Dos luchadores
+  realmente orgullosos dándose con todo"* — el heel no está de
+  cobarde, está defendiendo algo.
+- **Confirmado por research**: El Grande Americano lo **embosca en el
+  estacionamiento**; el brawl recorre el edificio hasta ringside;
+  cuando **Rey Mysterio sale a separarlos**, **Dominik le mete un low
+  blow a Americano y empuja a su propio padre**. Ese es el pico que el
+  dictado llama *"épica"*.
+- **Sus dos stakes**: el **legado Mysterio** —Americano le niega el
+  derecho a ser nombrado junto a El Santo, Mil Máscaras, Blue Demon y
+  Rey— y el **AAA Mega Championship**, que carga desde el 12/9/2025
+  (más de 340 días).
+- **Destino**: **Dominik (c) vs. El Grande Americano, Triplemanía 34
+  Noche 2, 13/9/2026, Arena CDMX**.
+- Ver [`../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md`](../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente.)
