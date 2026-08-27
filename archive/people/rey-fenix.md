@@ -232,6 +232,38 @@ Buster**, contrarrestando el Martinete de El Fiscal. Ver
 - Ver [`../matches/2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md`](../matches/2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md)
   y [`../segments/2026-08-24-careo-fenix-penta-rampa-wwe-raw.md`](../segments/2026-08-24-careo-fenix-penta-rampa-wwe-raw.md).
 
+### Sesión 2026-08-26 s51 — El respaldo en NXT y el salve en AAA (18/8 y 22/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"lo interrumpe Fenix, su viejo rival clásico, estos dos
+> especialistas tag team ahora se mueven como main eventers, hablan
+> fuerte y se la creen al cien porciento [...] a Fenix solo le falta un
+> poco de inglés, pero de verdad quiere hablar como wrestler"*
+>
+> *"incluyendo Fenix con el salve y el foreshadowing de los lucha
+> brothers en AAA"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos WE**: el segmento de apertura de NXT con Cruz Montana y el
+  ataque de Los Perros del Mal en AAA, donde **entra primero al salve
+  y también lo superan en número** hasta que llega Dragon Lee.
+- **La reserva, de idioma y no de oficio**: *"solo le falta un poco de
+  inglés, pero de verdad quiere hablar como wrestler"* — cruza con
+  el expediente de la barrera del idioma.
+- **Corrección de tono**: el segmento de NXT **no fue interrupción
+  hostil**; las fuentes lo describen como **reencuentro amistoso**,
+  con Fénix diciéndole a Montana que lo respalda y Montana dándole
+  props por cómo representa la cultura latina.
+- **El foreshadowing de los Lucha Brothers es lectura editorial
+  declarada**: el segmento arma un **trío** (Penta, Fénix y Dragon
+  Lee) bajo el eje *familia real contra facción*, no una reunión de
+  dupla. La reunión formal ya estaba anunciada aparte para
+  Triplemanía.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -36,7 +36,7 @@
 | Kiana James | Kiona James |
 | Lainey Reid | Layney Reed, Layne Reed, Lainey Reed |
 | Joaquin Wilde | Joaquín Wild, Joaquin Wild |
-| Shilo Hill | Shyloh |
+| Shiloh Hill | Shyloh, Shilo Hill |
 
 ## Atención — contexto-dependientes (no linteados)
 
@@ -51,7 +51,7 @@
 | **Jessy Jackson** | Luchadora de AAA. **Grafía ratificada por el Vehemiurgo (s45)**: *"Jessica Jackson es Jessy Jackson, pongámosla como Jessy Jackson"*. Canónico **Jessy Jackson**; *Jessica Jackson* = forma larga registrada, legítima en prosa (no linteada). **No confundir con Jackson Drake** (WWE NXT, Vanity Project). |
 | **El Hijo de Dr. Wagner Jr.** | El *"Wagner"* de los dictados AAA 2026 es **El Hijo de Dr. Wagner Jr.** (confirmado s45), no el veterano Dr. Wagner Jr. *"Wagner"* a secas es segunda mención legítima. Slug `hijo-de-dr-wagner-jr`. |
 | **Kit Wilson** | Mitad de **Pretty Deadly** (WWE). El Vehemiurgo escribió *"Kip"* por error (aclarado s45). **No es Kip Sabian.** *"Kip"* NO se lintea: colisiona con **Kip James** (Billy Gunn en TNA), talent distinto y legítimo en el archivo. |
-| **Shilo Hill** | WWE NXT. El Vehemiurgo lo dicta *"Shyloh"* / *"Shilo"*. Compañero de tag mixto de Tatum Paxley. Grafía *Shilo* vs *Shiloh* [verif menor]. |
+| **Shiloh Hill** | WWE NXT. El Vehemiurgo lo dicta *"Shyloh"* / *"Shilo"*. Compañero de tag mixto de Tatum Paxley. **Grafía cerrada por research (2026-08-26 s51): es *Shiloh*, con H final** — ficha y slug renombrados en consecuencia. |
 | **Arez ("El Clon")** | El luchador mexicano indie **Arez** porta el gimmick "El Clon" en AEW, junto a Hechicero (órbita Don Callis). Confirmado por el Vehemiurgo (s47). Slug `arez`. |
 | **The Dogs / The Guns (AEW 2026)** | **The Dogs = David Finlay + Clark Connors** (War Dogs del linaje Bullet Club) — confirmado por el Vehemiurgo (s47): *"cuando se habla de Connors, pertenece a los Dogs — eso siempre es verdad"*. **The Guns** = facción rival; hipótesis: The Gunns (Austin & Colten Gunn) del **Bang Bang Gang** (Jay White, Juice Robinson). "Guns vs Dogs" = guerra interna del linaje Bullet Club. |
 | **"Davis y Jay" (feud Guns/Dogs)** | En dictados de esta rivalidad, "Davis" = **David Finlay** (no Mark Davis). Corregido s47. |

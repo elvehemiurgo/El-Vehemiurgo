@@ -188,3 +188,21 @@ enfrenta a **El Hijo del Dr. Wagner Jr.** el 17/8/2026.
   abrazan [research nivel 2].
 - Ver [`../matches/2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md`](../matches/2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md).
 
+### Sesión 2026-08-26 s51 — El tercer hombre del salve (AAA 22/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"la idea de Dragon Lee tambien al rescate estuvo buena, fue
+> emocionante"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento del que forma parte.
+- **Su entrada es la que resuelve**: Rey Fénix entra primero al salve
+  y lo superan en número; **Dragon Lee empareja y Los Perros se
+  retiran**.
+- **Queda dentro del trío** que Penta declara *"mi verdadera familia"*
+  y que reta al grupo para **Ola de Calor (30/8)**.
+

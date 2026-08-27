@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: robert-stone
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Robert Stone / Robbie E"
   - "Cobertura TNA / Impact 2010s — Robbie E + The BroMans"
@@ -127,6 +127,28 @@ Stone como caso paradigmático del worker-entertainer**:
   + *"top tier"*. Esto refuta la falsa dicotomía entre worker y
   entertainer que la doctrina del Vehemiurgo critica
   recurrentemente.
+
+### Sesión 2026-08-26 s51 — La oficina del GM como taller de talentos (NXT 18/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"el segmento en la oficina de Stone con Keanu y Kam estuvo cool,
+> estas interracciones estan haciendo mucho por estos talentos, de
+> verdad se ven entretenidos y con ganas, se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos WE en la misma noche** por escenas en su oficina: la de Keanu
+  Carver y Kam Hendrix, y la de Kali Armstrong con Zaria.
+- **El elogio es al dispositivo, no al episodio**: *"estas
+  interacciones están haciendo mucho por estos talentos"*. **La
+  oficina del GM funcionando como taller** — los midcarders adquieren
+  carácter sin gastar tiempo de ring.
+- **Su rol es de árbitro de booking**: le dice a Carver que **tiene
+  que ganarse** el lugar en la lucha titular, y convierte un insulto
+  de Armstrong en un match con consecuencia.
 
 ## Lectura consolidada del Vehemiurgo
 

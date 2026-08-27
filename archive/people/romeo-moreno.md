@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: romeo-moreno
 estado: stub
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — WWE NXT, 2/6/2026)"
 tags: [romeo-moreno, wwe-nxt-2026, lucha-speed, babyface, reserva-safe, primer-registro-individual]
@@ -55,6 +55,33 @@ sobre Moreno. El Vehemiurgo señala a los compañeros de Saquon/Dar como
 "algo verdes" pero con potencial si siguen el ritmo.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
+
+### Sesión 2026-08-26 s51 — La reserva de "safe" retirada (NXT 18/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Rome y EK estuvieron geniales, muy cardiacos, no los veo tan safe
+> como para ser developmental [...] si veo detalles de buen babyface en
+> EK y Moreno, si se preocupan de la psicologia, para ser rookies si
+> los veo pendientes de detalles en el selling, dieron un gran show, se
+> merece las 3 clases."*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada** para el 4-way, donde **come el pin** de
+  EK Prosper.
+- **Corrección explícita de un fallo previo del archivo**: en s02 (NXT
+  2/6/2026) quedó registrado con *"la reserva estándar del Vehemiurgo
+  sobre el trabajo safe"*. **Acá la retira**: *"no los veo tan safe
+  como para ser developmental"*.
+- **El elogio fino**: *"se preocupan de la psicología"*, *"pendientes
+  de detalles en el selling"* — lo más alto que este archivo le
+  concede a un rookie.
+- **Confirmado por research**: es **Jaime Zozaya-García**, n. 11/7/2002
+  en **Madrid**; antes **Zozaya** en PROGRESS, RevPro, **NOAH** y
+  **CMLL**. Salió acompañado por **Noam Dar**.
 
 ## Pendientes / huecos
 

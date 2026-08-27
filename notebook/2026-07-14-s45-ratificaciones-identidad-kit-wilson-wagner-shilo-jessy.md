@@ -4,7 +4,7 @@ sesion: "Ratificaciones de identidad del Vehemiurgo: Kit Wilson, El Hijo de Dr. 
 topicos:
   - kit-wilson-resuelto
   - hijo-de-dr-wagner-jr-resuelto
-  - shilo-hill-resuelto
+  - shiloh-hill-resuelto
   - jessy-jackson-ratificada
 research_delegado: []
 ultima_actualizacion: 2026-07-14

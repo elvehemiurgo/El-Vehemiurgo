@@ -27,8 +27,8 @@ reescribible: parsing posicional, normalización de nombres al canon
 
 **Conteo actual (2026-08-26)**: **732 entradas** en la lista verbatim —
 **107 integradas** (con marca `(✓)` y ficha) · **625 pendientes**.
-El archive tiene **788 fichas individuales** (448 matches +
-340 segments); 107 de ellas están linkeadas 1-a-1 desde bullets
+El archive tiene **807 fichas individuales** (456 matches +
+351 segments); 107 de ellas están linkeadas 1-a-1 desde bullets
 `(✓)` — el resto son piezas abiertas sin bullet propio (centerpieces de
 cluster, drops mid-sesión, dossiers).
 
@@ -83,7 +83,7 @@ abajo), tal como solicitó el Vehemiurgo.
 | 44 | 2026-04-07 | match | SOL RUCA VS IZZI DAME NXT TV 07.04.2026 | WWE | FS·WE | integrado | [→](../matches/2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |
 | 45 | 2026-04-07 | segment | BLAKE MONROE Y EL VANITY PROJECT — ALIANZA HEEL POR CONVENIENCIA NXT TV 07.04.2026 | WWE | WE | integrado | [→](../segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md) |
 | 46 | 2026-04-07 | match | DARK STATE VS HENDRY, ETHAN PAGE, RICKY SAINTS & TONY D'ANGELO — 8-MAN TAG NXT TV 07.04.2026 | WWE | — | integrado | [→](../matches/2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md) |
-| 47 | 2026-04-07 | match | JACKSON DRAKE & BLAKE MONROE VS SHILO HILL & TATUM PAXLEY NXT TV 07.04.2026 | WWE | PW·WE | integrado | [→](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md) |
+| 47 | 2026-04-07 | match | JACKSON DRAKE & BLAKE MONROE VS SHILOH HILL & TATUM PAXLEY NXT TV 07.04.2026 | WWE | PW·WE | integrado | [→](../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md) |
 | 48 | 2026-04-07 | segment | LOLA VICE CELEBRACIÓN POST-TÍTULO — JACY JAYNE SALVA EL SEGMENTO NXT TV 07.04.2026 | WWE | — | integrado | [→](../segments/2026-04-07-lola-vice-celebracion-titulo-jacy-jayne-salva-nxt.md) |
 | 49 | 2026-04-07 | match | CHAZZ STARBOY VS LEXIS KING — NXT SPEED MATCH NXT TV 07.04.2026 | WWE | PW·FS | integrado | [→](../matches/2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md) |
 | 50 | 2026-04-06 | segment | CM PUNK PROMO OPENING WWE Raw 06.04.2026 | WWE | WE | integrado | [→](../segments/2026-04-06-cm-punk-promo-opening-raw.md) |

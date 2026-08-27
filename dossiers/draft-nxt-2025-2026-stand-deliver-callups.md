@@ -160,7 +160,7 @@ canónico Wrestling Entertainment Class** (✓ Batch 1).
   fact-sheet abierto).
 - **7 abr 2026 NXT**: **Blake Monroe y el Vanity Project
   alianza heel por conveniencia** (✓ Batch 1).
-- **7 abr 2026 NXT**: **Jackson Drake & Blake Monroe vs Shilo Hill
+- **7 abr 2026 NXT**: **Jackson Drake & Blake Monroe vs Shiloh Hill
   & Tatum Paxley** — segunda multi-clase operativa Perfect
   Wrestling + Wrestling Entertainment (✓ Batch 1).
 
@@ -169,7 +169,7 @@ Preservados en
 +
 [`../archive/segments/2026-04-14-vanity-project-blake-monroe-robert-stone-segment-nxt-revenge-week-1.md`](../archive/segments/2026-04-14-vanity-project-blake-monroe-robert-stone-segment-nxt-revenge-week-1.md)
 +
-[`../archive/matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../archive/matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md).
+[`../archive/matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md`](../archive/matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md).
 
 ### 6. Sol Ruca + Zaria + Saria — women's arc
 
@@ -210,7 +210,7 @@ identificados como (★).
 07.04.2026  ✓ Sol Ruca vs Izzi Dame NXT TV (Batch 1)
 07.04.2026  ✓ Blake Monroe Vanity Project alliance (Batch 1)
 07.04.2026  ✓ Dark State vs Hendry/Page/Saints/D'Angelo (Batch 1)
-07.04.2026  ✓ Drake & Monroe vs Shilo Hill & Paxley (Batch 1)
+07.04.2026  ✓ Drake & Monroe vs Shiloh Hill & Paxley (Batch 1)
 07.04.2026  ✓ Lola Vice celebración + Jacy salva (Batch 1)
 07.04.2026  ✓ Chazz Starboy vs Lexis King NXT Speed (Batch 1)
 03.02.2026  ✓ Zaruca vs Elegance Brand (Batch 1)

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kali-armstrong
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Cobertura WWE NXT 2025-2026"
   - "Visionado directo del Vehemiurgo, NXT Revenge Week 1 2026-04-14"
@@ -196,6 +196,35 @@ linaje histórico verificable en NXT 2026** queda más acotada y
 a otra: **atletas universitarios D1 reconvertidos a wrestling vía
 WWE Performance Center**. Cohorte diferente pero igualmente fértil
 (Bianca Belair, Bron Breakker, Carmelo Hayes pre-WWE, etc.).
+
+### Sesión 2026-08-26 s51 — Gana el tag y se mete en la unificación (NXT 18/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"le añadieron psicología a la lucha con la frustración de Jordan y
+> Armstrong robandose un tag, y la lesión kayfabe de Kendal [...] se
+> mereen las 3 clases, mucha calidad"*
+>
+> *"Armstrong realmente lo hizo muy bien en su segmento con Zaria en la
+> oficina de Stone, puede ser una face muy cool, se merece una WE
+> class"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos piezas**: **triple clase** por el tag que gana —**Kali
+  Connection sobre Wren Sinclair** a los 10:31— y **WE** por el
+  segmento en la oficina de Robert Stone.
+- **La proyección**: *"puede ser una face muy cool"* — el Vehemiurgo
+  le ve un rol distinto del que trabaja. Lectura de material, no de
+  alineamiento del día.
+- **Su jugada de oficina**: insulta a Zaria (*"red-headed heffer"*) y
+  Stone dictamina **Zaria vs Armstrong, con la unificación de Heatwave
+  volviéndose triple threat si ella gana**. *(El 25/8 le ganó y
+  entró.)*
+- **"Robándose un tag": `[no confirmado]`** — ninguna fuente lo
+  menciona; queda como observación de visionado.
 
 ## Lectura consolidada del Vehemiurgo
 

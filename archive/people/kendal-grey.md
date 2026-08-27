@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kendal-grey
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Sub-agente nqcc-charlie-dempsey-2026 (research/closed.md, dossier completo)"
   - "Wikipedia — Kendal Grey, NAIA Women's Wrestling history"
@@ -120,6 +120,36 @@ importa para la lectura Vehemiurgo-school.
 Grey como caso de talent shoot real subutilizado por el founder
 de la facción que más podría legitimar** — paradoja Cornette-
 school sobre gatekeeping.
+
+### Sesión 2026-08-26 s51 — La oreja, el backstage y el fallo sobre el Underground (NXT 18/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"el segmento de los vanity project con el wrenqcc estuvo entretenido,
+> muy buenas promos, muy buena interacción, especialmente despues del
+> desastre que fue Lola vs Kendall en esa lucha underground"*
+>
+> *"le añadieron psicología a la lucha con [...] la lesión kayfabe de
+> Kendal [...] se mereen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos piezas**: **WE** por el backstage y **triple clase** por el
+  tag, del que **sale lesionada en kayfabe**.
+- **La lesión tiene linaje real de booking**: el vendaje de la oreja
+  viene del **NXT Underground del 4/8/2026 contra Lola Vice**, donde
+  **retuvo el NXT Women's Championship** por armbar y se llevó un tajo
+  en la oreja derecha. **Kelani Jordan lo atacó deliberadamente** en
+  este tag.
+- **El fallo sobre esa lucha, registrado como frase completa**: *"el
+  desastre que fue Lola vs Kendal en esa lucha underground"*. **Va
+  contra el consenso de prensa**, que la reportó como *"epic"*. El
+  archivo registra la frase sin inferir más y **sin abrir ficha
+  propia** — es mención de referencia, no take de pieza.
+- **Defiende el NXT Women's Championship ante Kelani Jordan en
+  Heatwave.**
 
 ## Lectura consolidada del Vehemiurgo
 

@@ -91,6 +91,27 @@ de singles.
   esta fecha.
 - Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
 
+### Sesión 2026-08-26 s51 — El grandote del que Lexis King huye (NXT 18/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"me gustó el acto de Lexis para evitar a Lucien y huir de él, es
+> fresco, están oviendose muy bien [...] la lucha se merece las 3
+> clases"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada** para el match, que **pierde** por
+  interferencia de Birthright (Stacks Lorenzo distrae al referee;
+  Uriah Connors y Charlie Dempsey le sujetan los tobillos).
+- **Su función en el elogio**: es **el peligro del que el campeón
+  huye** — el acto de evasión de King no existe sin alguien de quien
+  valga la pena escapar. *"Están viéndose muy bien"* es para los dos.
+- **Post-match**: lo ataca Birthright y **Bronco Nima hace la
+  salvada**.
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos (nombre real, formación).

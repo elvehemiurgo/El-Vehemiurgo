@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kelani-jordan
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 31/3/2026)"
 tags: [kelani-jordan, wwe-nxt-2026, heel-turn, wrestling-entertainment, primer-registro-individual]
@@ -158,6 +158,31 @@ fricción.
 
 **Lectura sintética**: **WE** para el segmento de conjunto (ver ficha
 de Grayson Waller).
+
+### Sesión 2026-08-26 s51 — La frustración como psicología, y la oreja de Kendal Grey (NXT 18/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"le añadieron psicología a la lucha con la frustración de Jordan y
+> Armstrong robandose un tag, y la lesión kayfabe de Kendal, se ve
+> atractivo este booking, y la ejecución tuvo mucha calidad, se mereen
+> las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada** para el tag que **gana** junto a Kali
+  Armstrong.
+- **Lo que el Vehemiurgo premia es lo que le dieron para trabajar**:
+  la frustración como motor de personaje.
+- **El detalle de oficio confirmado por research**: **atacó
+  deliberadamente la oreja vendada de Kendal Grey** —secuela del NXT
+  Underground del 4/8 contra Lola Vice— y con **drop toe hold contra
+  las escaleras** la sacó de la lucha. **La herida de un show anterior
+  convertida en blanco del siguiente** es continuidad vieja bien
+  hecha.
+- **Reta a Kendal Grey por el NXT Women's Championship en Heatwave.**
 
 ## Pendientes / huecos
 

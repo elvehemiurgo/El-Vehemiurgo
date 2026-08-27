@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: wren-sinclair
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Sub-agente nqcc-charlie-dempsey-2026 (research/closed.md, dossier completo)"
   - "Wikipedia — Wren Sinclair, NWA World Women's Tag Team Championship"
@@ -132,6 +132,31 @@ foreshadowing booking gris pre-disolución.
 Sinclair como custodia post-disolución del lineage catch que
 el founder abandonó**. Cruce con [`kendal-grey.md`](./kendal-grey.md)
 y [`charlie-dempsey.md`](./charlie-dempsey.md).
+
+### Sesión 2026-08-26 s51 — "Muy prolija y muy rápida" (NXT 18/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"Wren se ve muy prolija y muy rápida [...] la ejecución tuvo mucha
+> calidad, se mereen las 3 clases, mucha calidad"*
+>
+> *"el segmento de los vanity project con el wrenqcc estuvo entretenido,
+> muy buenas promos, muy buena interacción [...] se merece una WE
+> class"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos piezas**: **triple clase** por el tag (que **pierde**: come el
+  Kali Connection) y **WE** por el backstage con The Vanity Project.
+- **"Prolija"** es el término con que este archivo separa al ejecutante
+  del que tira spots. Y le tocó la parte más dura: **quedarse sola
+  contra dos** tras la salida de Kendal Grey.
+- **Su línea en el backstage**: que **ella les enseñó a Myles Borne y
+  Tavion Heights todo lo que saben**, de su tiempo en NCCC.
+- **Va a la unificación de títulos en Heatwave** — que terminó siendo
+  triple threat con Zaria y Kali Armstrong.
 
 ## Lectura consolidada del Vehemiurgo
 

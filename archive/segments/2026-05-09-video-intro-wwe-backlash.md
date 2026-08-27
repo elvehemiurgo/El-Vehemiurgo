@@ -39,7 +39,7 @@ tags: [wwe-backlash-2026, wrestling-entertainment, video-de-produccion, apertura
 
 **Lectura sintética**: clase asignada a una pieza de **producción
 pura**, sin talent en acción — precedente poco frecuente en el
-archivo, comparable al video de cierre Tatum Paxley/Shilo Hill
+archivo, comparable al video de cierre Tatum Paxley/Shiloh Hill
 (28/4/2026). El adjetivo *"histórico"* funciona como veredicto de
 que el paquete de apertura sostiene el peso del evento.
 

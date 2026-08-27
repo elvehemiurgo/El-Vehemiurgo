@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dion-lennox
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s50 (visión directa — WWE NXT, 19/5/2026)"
   - "Mención previa como integrante de Dark State (segmento NXT Revenge Week 1, 14/4/2026)"
@@ -71,6 +71,26 @@ es exactamente la dirección de mejora que el Vehemiurgo premia.
 James y Osiris Griffin, incluyendo un spot siendo llevado por Shugars
 a través del perch de LFG. Progreso de personaje leído explícitamente
 por el Vehemiurgo, consistente con su registro previo (s08).
+
+### Sesión 2026-08-26 s51 — El que acepta y sube la apuesta (NXT 18/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego tuvimos un segmento de promos entre Lennox y Saquon Sugars,
+> muy buenas promos, como wrestlers oldschool, muy buena interacción,
+> se merecen una WE class, están dejandolos ser y están tomando forma"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada.** *"Como wrestlers oldschool"* — el registro
+  es el elogio: hablan como peleadores, no como personajes de TV.
+- **"Están dejándolos ser"** es fallo sobre la oficina, no sobre él:
+  cuando la empresa afloja el guion, el talento toma forma.
+- **Su jugada**: Shugars lo reta a **Steel Cage** y **él acepta
+  subiendo la apuesta con la estipulación "Weaponized"** — armas
+  dentro de la estructura. **El que acepta es el que escala.**
 
 ## Pendientes / huecos
 

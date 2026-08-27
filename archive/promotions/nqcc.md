@@ -224,7 +224,7 @@ real-life-becomes-storyline.)
   nunca oficialmente NQCC, miembro WrenQCC.
 - [`fatal-influence.md`](./fatal-influence.md) — facción WWE NXT
   contemporánea + verificación take del Vehemiurgo.
-- [`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
+- [`../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md)
   — Jackson Drake (presunción miembro órbita NQCC pre-disolución)
   en match con multi-clase.
 - [`../topics/factions-2026.md`](../topics/factions-2026.md)

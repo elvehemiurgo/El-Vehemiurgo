@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: daga
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Sub-agente card-aaa-worldwide-180726 (research 2026-08-01, closed) — POST Wrestling, Cageside Seats, Fightful"
   - "El Vehemiurgo, notebook 2026-08-01 s12 (visión directa)"
@@ -62,6 +62,32 @@ esquina superior sobre El Grande Americano tras la traición de
 Dominik Mysterio. Karmen Petrovic y Bronco Nima participan en las
 interferencias que definen el match (AAA Verano de Escándalo Noche 1,
 25/7/2026).
+
+### Sesión 2026-08-26 s51 — "Muy bueno en el mic, se ve cool como líder amenazante" (AAA 15/8 y 22/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"es un gran rub para esta facción ahora con protagonismo, y Daga es
+> muy bueno en el mic, se ve cool como lider amenazante, se merecen una
+> WE class todos"*
+>
+> *"me gustó la actuación de los perros y Penta, le dieron el peso que
+> necesitaba a esta historia"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Primer registro del archivo que le reconoce el rol de líder con
+  elogio de micrófono**: *"muy bueno en el mic, se ve cool como líder
+  amenazante"*.
+- **El rub, nombrado**: *"un gran rub para esta facción ahora con
+  protagonismo"* — el grupo es el que gana en el intercambio con Penta.
+- **Su jugada**: invoca la historia compartida con Penta (2014-2017),
+  le ofrece unirse con **plazo hasta el final de la noche**, y el
+  22/8 **le parte una silla encima a Bronco Nima** tras la derrota y le
+  ofrece a Penta **una playera del grupo** — la invitación convertida
+  en objeto.
 
 ## Pendientes / huecos
 

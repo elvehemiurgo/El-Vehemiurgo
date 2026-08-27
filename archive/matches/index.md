@@ -18,13 +18,21 @@ con cada cambio de estado.
 | 2026-08-24 | LA Knight & Solo Sikoa vs The Usos (Jey Uso & Jimmy Uso) | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md) |
 | 2026-08-24 | Penta vs La Parka — semifinal, World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-24-penta-vs-la-parka-wwe-raw.md) |
 | 2026-08-24 | Roxanne Perez vs Stephanie Vaquer | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md) |
+| 2026-08-22 | Los Americanos vs LWO vs Los Psycho Circus vs Money Machine — contendientes Nº1 al AAA World Tag Team Championship | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-08-22-4-way-parejas-contendientes-aaa-worldwide.md) |
+| 2026-08-22 | Omos vs Galeno del Mal — clasificatorio al AAA Latin American Championship | AAA / AAA Worldwide | — | en-investigacion | 1 | [→](2026-08-22-omos-vs-galeno-del-mal-aaa-worldwide.md) |
+| 2026-08-22 | Penta vs Bronco Nima — si gana Nima, Penta se une a Los Perros del Mal | AAA / AAA Worldwide | FS·WE | en-investigacion | 1 | [→](2026-08-22-penta-vs-bronco-nima-aaa-worldwide.md) |
 | 2026-08-21 | CM Punk (c) vs Kevin Owens — Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md) |
 | 2026-08-21 | Giulia vs Blake Monroe | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-08-21-giulia-vs-blake-monroe-wwe-smackdown.md) |
 | 2026-08-21 | Lash Legend vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md) |
+| 2026-08-18 | EK Prosper vs La Parka vs Tristan Angels vs Romeo Moreno — contendiente Nº1 al AAA World Cruiserweight Championship | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-08-18-4-way-contendiente-crucero-nxt.md) |
+| 2026-08-18 | Lexis King (c) vs Lucien Price — WWE Speed Championship | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-08-18-lexis-king-vs-lucien-price-speed-title-nxt.md) |
+| 2026-08-18 | Shiloh Hill vs Jackson Drake | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-08-18-shiloh-hill-vs-jackson-drake-nxt.md) |
+| 2026-08-18 | WrenQCC (Kendal Grey & Wren Sinclair) vs Kali Armstrong & Kelani Jordan | WWE / NXT | PW·FS·WE | en-investigacion | 1 | [→](2026-08-18-wrenqcc-vs-armstrong-kelani-jordan-nxt.md) |
 | 2026-08-17 | Chad Gable (c) vs Rey Mysterio — WWE Intercontinental Championship | WWE / Raw | FS·WE | en-investigacion | 1 | [→](2026-08-17-chad-gable-vs-rey-mysterio-ic-title-wwe-raw.md) |
 | 2026-08-17 | El Fiscal vs Rey Fénix — World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md) |
 | 2026-08-17 | Je'Von Evans vs JD McDonagh | WWE / Raw | PW·FS·WE | en-investigacion | 1 | [→](2026-08-17-jevon-evans-vs-jd-mcdonagh-wwe-raw.md) |
 | 2026-08-15 | Noisy Boy vs Rey Fénix (c) — AAA World Cruiserweight Championship | AAA / AAA Worldwide | PW·FS·WE | en-investigacion | 1 | [→](2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md) |
+| 2026-08-15 | Psycho Clown vs La Parka — primera ronda, World Heavyweight Championship No. 1 Contender's Tournament | AAA / AAA Worldwide | FS·WE | en-investigacion | 1 | [→](2026-08-15-psycho-clown-vs-la-parka-aaa-worldwide.md) |
 | 2026-08-14 | Carmelo Hayes vs Baron Corbin (c) — WWE United States Championship | WWE / SmackDown | WE | en-investigacion | 1 | [→](2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md) |
 | 2026-08-14 | Matt Cardona vs Gunther — Street Clothes Match | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md) |
 | 2026-08-14 | Tiffany Stratton (c) vs Jacy Jayne — WWE Women's United States Championship | WWE / SmackDown | FS·WE | en-investigacion | 1 | [→](2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md) |
@@ -171,7 +179,7 @@ con cada cambio de estado.
 | 2026-05-29 | Ricky Saints vs [verif] | WWE / SmackDown | PW·FS·WE | en-investigacion | 1 | [→](2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md) |
 | 2026-05-27 | Ace Austin vs Andrade | AEW / Collision | PW·FS·WE | stub | 1 | [→](2026-05-27-ace-austin-vs-andrade-aew-collision.md) |
 | 2026-05-27 | Mark Davis vs Jack Perry — revancha | AEW / Dynamite & Collision | — | stub | 1 | [→](2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md) |
-| 2026-05-26 | Charlie Dempsey vs Shilo Hill | WWE / NXT | WE | en-investigacion | 1 | [→](2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md) |
+| 2026-05-26 | Charlie Dempsey vs Shiloh Hill | WWE / NXT | WE | en-investigacion | 1 | [→](2026-05-26-charlie-dempsey-vs-shiloh-hill-wwe-nxt.md) |
 | 2026-05-26 | Kelani Jordan vs Wren Sinclair (title challenge) | WWE / NXT | FS·WE | en-investigacion | 1 | [→](2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md) |
 | 2026-05-24 | Cope & Christian Cage vs FTR (Dax Harwood & Cash Wheeler) — Street Fight | AEW / Double or Nothing | PW·FS·WE | stub | 1 | [→](2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md) |
 | 2026-05-24 | Darby Allin vs MJF — main event | AEW / Double or Nothing | — | stub | 1 | [→](2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md) |
@@ -279,7 +287,7 @@ con cada cambio de estado.
 | 2026-04-08 | United Empire en acción (showcase) | AEW (All Elite Wrestling) / Dynamite | — | stub | 1 | [→](2026-04-08-united-empire-showcase-aew-dynamite.md) |
 | 2026-04-07 | Lexis King vs Chazz "Starboy" Hall — WWE Speed Title Tournament 1ra ronda | WWE / NXT (TV semanal) | PW·FS | verificado | 1 | [→](2026-04-07-chazz-starboy-hall-vs-lexis-king-speed-match-nxt.md) |
 | 2026-04-07 | Dark State vs Joe Hendry, Ethan Page, Ricky Saints & Tony D'Angelo | WWE / NXT TV (semanal) | — | en-investigacion | 1 | [→](2026-04-07-dark-state-vs-hendry-page-saints-dangelo-nxt.md) |
-| 2026-04-07 | Jackson Drake & Blake Monroe vs Shilo Hill & Tatum Paxley | WWE / NXT (TV semanal) | PW·WE | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md) |
+| 2026-04-07 | Jackson Drake & Blake Monroe vs Shiloh Hill & Tatum Paxley | WWE / NXT (TV semanal) | PW·WE | en-investigacion | 1 | [→](2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md) |
 | 2026-04-07 | Sol Ruca vs Izzi Dame | WWE / NXT (TV semanal) | FS·WE | en-investigacion | 1 | [→](2026-04-07-sol-ruca-vs-izzi-dame-nxt.md) |
 | 2026-04-06 | LA Knight vs Austin Theory | WWE / Monday Night Raw | — | en-investigacion | 1 | [→](2026-04-06-la-knight-vs-austin-theory-raw.md) |
 | 2026-04-04 | Ethan Page vs Ricky Saints vs Joe Hendry vs Tony D'Angelo — fatal 4-way | WWE NXT / Stand & Deliver 2026 | — | en-investigacion | 1 | [→](2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |

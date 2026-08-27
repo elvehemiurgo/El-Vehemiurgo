@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tony-dangelo
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, 12/5/2026)"
   - "Menciones previas: 8-man tag NXT 7/4/2026, fatal 4-way Stand & Deliver 4/4/2026"
@@ -80,6 +80,27 @@ de prensa.
 como #1 contender para el 11/8, con el ganador retándolo en Heatwave.
 
 **Lectura sintética**: sin clase individual.
+
+### Sesión 2026-08-26 s51 — El campeón que no enciende la escena (NXT 18/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"luego D Angelo sale pero el el segmento se prende con Montana y su
+> promo [...] muy buen babyface"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para los dos segmentos donde aparece (la
+  promo de Waller y la firma de Fatu).
+- **Dato de booking que el Vehemiurgo registra sin subrayarlo**: el
+  campeón **sale, pero el segmento se prende con otro**. No es
+  condena: es observación de jerarquía real dentro de la escena.
+- **Su línea**: que se llamen retadores top si quieren, porque
+  **siguen formando fila y él los sigue tumbando**.
+- **Defiende el NXT Championship en el fatal 4-way de Heatwave** ante
+  Montana, Waller y Zilla Fatu.
 
 ## Pendientes / huecos
 

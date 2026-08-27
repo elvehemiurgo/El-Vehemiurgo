@@ -81,6 +81,34 @@ on-screen entre OTM/Keys y la facción.
   contratado por WWE en **2022**.
 - Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
 
+### Sesión 2026-08-26 s51 — El reto que le da aura, el match que lo expone y la expulsión (AAA 15/8 y 22/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"ese reto le da un gran aura a Bronco, se merecen una WE class, son
+> buenos stakes y se aseguran a Penta en el próximo show"*
+>
+> *"Nima se siente un poco safe a veces pero si se mueve como heel, si
+> cuida los detalles [...] Pero si se ve un poco verde Nima todavia, se
+> merecen una WE y FS classes"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **WE por el reto; WE+FS por el match** (que pierde por roll-up en
+  5:29).
+- **El aura viene del desafío, no del talento**: *"ese reto le da un
+  gran aura a Bronco"* — se construye por la altura de a quién desafía
+  y qué pone en juego.
+- **Doble reserva individual**: *"se siente un poco safe a veces"* y
+  *"se ve un poco verde todavía"*. **Lo que le concede es lo que
+  importa**: *"sí se mueve como heel, sí cuida los detalles"*.
+- **La expulsión**: al perder, el grupo lo destroza —Ángel finge
+  ayudarlo, Daga le parte una silla, Karmen Petrovic remata con el
+  Petrifyer— y **queda expulsado en el mismo segmento**. **Dos días
+  después debuta en el main roster de WWE con OTM.**
+
 ## Pendientes / huecos
 
 - [ ] Identificar al compañero regular de Bronco Nima en NXT.

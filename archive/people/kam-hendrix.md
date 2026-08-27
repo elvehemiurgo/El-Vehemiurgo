@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kam-hendrix
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s49 (visión directa — WWE NXT, 19/5/2026)"
 tags: [kam-hendrix, wwe-nxt-2026, rookie, camada-nueva, primer-registro-individual]
@@ -54,6 +54,27 @@ mientras este confronta a Waller; terminan a golpes hasta que
 seguridad los separa.
 
 **Lectura sintética**: **WE** para el segmento de conjunto.
+
+### Sesión 2026-08-26 s51 — Irrumpe en la reunión de Carver (NXT 18/8/2026)
+
+**Cita verbatim**:
+
+> *"el segmento en la oficina de Stone con Keanu y Kam estuvo cool,
+> estas interracciones estan haciendo mucho por estos talentos, de
+> verdad se ven entretenidos y con ganas, se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada**, **colectiva**: el elogio es para el
+  dispositivo y para los dos talentos.
+- **Su función**: irrumpe presumiendo su victoria de la semana
+  anterior y preguntando qué sigue para él; **Keanu Carver le reclama
+  que no ve que están en una reunión**.
+- **El criterio de aprobación**: *"se ven entretenidos y con ganas"* —
+  actitud antes que técnica, que es lo que un segmento de oficina
+  puede entregar.
 
 ## Pendientes / huecos
 

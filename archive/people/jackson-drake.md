@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jackson-drake
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3 y 21/4/2026)"
 tags: [jackson-drake, vanity-project, blake-monroe, wwe-nxt-2026, the-future-in-2026, primer-registro-individual]
@@ -53,7 +53,7 @@ tags: [jackson-drake, vanity-project, blake-monroe, wwe-nxt-2026, the-future-in-
 de match y una segunda Wrestling Entertainment en la misma sesión
 — patrón sostenido de calidad, no un pico aislado.
 
-### Sesión 2026-07-14 s36 — Perfect Match vs Vanity Project (Rayo & Bravo) + discrepancia en vs Tatum/Shilo Hill
+### Sesión 2026-07-14 s36 — Perfect Match vs Vanity Project (Rayo & Bravo) + discrepancia en vs Tatum/Shiloh Hill
 
 **Cita verbatim**:
 
@@ -65,11 +65,11 @@ de match y una segunda Wrestling Entertainment en la misma sesión
 
 **Lectura sintética**: Perfect Match vs Rayo & Bravo, y elogio
 nuevo de "arma peleas de verdad" en el match vs Tatum
-Paxley/Shilo Hill — aunque ese último match tiene una **discrepancia
+Paxley/Shiloh Hill — aunque ese último match tiene una **discrepancia
 de clase sin resolver** (ver nota en el archivo del match). Ver
 [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
 y
-[`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md).
+[`../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md).
 
 ### Sesión 2026-07-14 s47 — vs Noam Dar: doble clase, con la reserva de improvisación
 
@@ -114,6 +114,33 @@ y
 
 **Lectura sintética**: **Triple clase como parte de Vanity Project** defendiendo el título de tag ante los hermanos Wagner/Galeno del Mal — el Vehemiurgo temía un jobbeo de los retadores y en cambio los vio protegidos. **WE en su singles contra Mason Rook** (nombre resuelto por research), con reserva sostenida sobre sus faciales exagerados y una secuencia final "muy ambiciosa experimental" que no terminó de aterrizar.
 
+### Sesión 2026-08-26 s51 — "Es el futuro de WWE no hay duda" (NXT 18/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego tuvimos Shilo vs Jackson Drake, estuvo muy buena, Jackson es
+> el futuro de WWE no hay duda, y esta lucha se merece las 3 clases,
+> acción muy buena, calidad, y gimmicks y ejecución oldschool muy
+> efectiva"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada** para el match, que **gana** con **450
+  splash** tras el mist de **NARAKU**.
+- **Ratificación sin matiz de su alta a THE FUTURE in 2026 (#11)**:
+  el *"no hay duda"* es la parte que pesa — el archivo venía
+  registrando potencial; acá se registra certeza.
+- **"Gimmicks y ejecución oldschool muy efectiva"**: el elogio junta
+  presentación y trabajo, que en este archivo son la misma cosa.
+- **Observación del archivo, no del Vehemiurgo**: el finish llegó por
+  interferencia de un tercero. Booking eficiente —un solo finish sucio
+  compró **dos matches de PLE** para Vanity Project— pero **le resta
+  como draw propio**.
+- **Va por el NXT North American Championship de Myles Borne en
+  Heatwave.**
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -147,7 +174,7 @@ State. Ver [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.
 - [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
 - [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
-- [`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
+- [`../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md)
 
 ## Cross-links
 

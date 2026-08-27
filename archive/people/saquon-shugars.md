@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: saquon-shugars
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Saquon Shugars"
   - "Cobertura WWE NXT 2025-2026"
@@ -160,6 +160,27 @@ moderno + redes sociales** — cómo un gimmick old-school que
 "vive con el talent fuera del ring" se traduce hoy a cuenta de
 IG / TikTok / podcast del propio talent. Saquon Shugars como caso
 2026.
+
+### Sesión 2026-08-26 s51 — "Él mismo puede poner el show" (NXT 18/8/2026)
+
+**Cita verbatim**:
+
+> *"muy buenas promos, como wrestlers oldschool, muy buena interacción,
+> se merecen una WE class, están dejandolos ser y están tomando forma,
+> sobre todo Saquon, él mismo puede poner el show, buenisimo"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento de promos remotas con Dion
+  Lennox.
+- **Veredicto individual fuerte**: *"él mismo puede poner el show"* —
+  capacidad de cargar un programa solo. Es la línea más alta que el
+  archivo le registra, y continúa su curva ascendente.
+- **Su jugada**: pregunta por **Cutler James y Osiris Griffin** y
+  **reta a Lennox a un Steel Cage**, que Lennox convierte en
+  **Weaponized**; el match se disputó el 25/8.
 
 ## Lectura consolidada del Vehemiurgo
 

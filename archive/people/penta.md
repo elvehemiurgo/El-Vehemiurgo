@@ -192,6 +192,43 @@ bracket rumbo al Raw del 14/9/2026 en Ciudad de México.
 - Ver [`../matches/2026-08-24-penta-vs-la-parka-wwe-raw.md`](../matches/2026-08-24-penta-vs-la-parka-wwe-raw.md)
   y [`../segments/2026-08-24-careo-fenix-penta-rampa-wwe-raw.md`](../segments/2026-08-24-careo-fenix-penta-rampa-wwe-raw.md).
 
+### Sesión 2026-08-26 s51 — Tres piezas de AAA: la oferta, el reto y la familia (15/8 y 22/8/2026)
+
+**Cita verbatim** (fragmentos; volcado completo en el notebook):
+
+> *"el segmentaso in ring de Penta retando a Roman Reigns, justo
+> hablando de que el hace las cosas solo y no necesita una facción [...]
+> se merecen una WE class todos"*
+>
+> *"el segmento final entre Bronco y Penta tambien les quedó genial [...]
+> se aseguran a Penta en el próximo show"*
+>
+> *"esta lucha si fue un gan showcase para ambos con buneos stakes [...]
+> se merecen una WE y FS classes"*
+>
+> *"el segmento de los perros atacando a Nima [...] les quedó algo
+> épico [...] incluyendo Fenix con el salve y el foreshadowing de los
+> lucha brothers en AAA"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Cuatro piezas suyas en la sesión**: WE por la promo con la
+  irrupción de Los Perros del Mal, WE por el reto de Nima, **WE+FS**
+  por el match, y WE por el ataque posterior.
+- **El eje de todo el arco es una frase**: *"no necesita una facción ni
+  una familia"* — y el arco termina con él **declarando a Fénix y a
+  Dragon Lee su verdadera familia**. La historia le hace decir lo
+  contrario de donde empezó, en dos semanas de TV.
+- **Confirmado por research**: Penta **fue miembro real de Los Perros
+  del Mal de finales de 2014 a principios de 2017**, con Daga, Joe
+  Líder y Taya Valkyrie, bajo El Hijo del Perro Aguayo. **El pasado
+  que Daga invoca es documentado.**
+- **Gana la estipulación** el 22/8 (roll-up, 5:29) y queda sin
+  obligación de unirse. Reta al grupo a un **trío para Ola de Calor
+  (30/8, Edinburg, Texas)** junto a Rey Fénix y Dragon Lee.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.

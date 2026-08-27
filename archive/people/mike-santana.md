@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mike-santana
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #5 (caso testigo 'breakout tardío' THE FUTURE in 2026 — advertencia editorial)"
   - "Volcado Vehemiurgo 2026-06-17 #8 (tag partner Leon Slater, main event TNA presente)"
@@ -335,6 +335,39 @@ lectura de "cosas de Mike Draztik" (su identidad previa en EYFBO) es
 interpretación editorial del Vehemiurgo, sin confirmación de prensa
 sobre callbacks específicos en el match. Ver
 [`../matches/2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md`](../matches/2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md).
+
+### Sesión 2026-08-26 s51 — "Nada de buscar lástima": el underdog que abre NXT (18/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"Cruz Montana abrió el show con mucha fuerza, ahora si sonando como
+> wrestler, marcando sus objetivos, nada de buscar lástima [...] siempre
+> el underdog, no le importa que todo el hype esté con Zilla [...] se
+> recreó en el micrófono, estuvo perfecto"*
+>
+> *"el segmento se prende con Montana y su promo [...] muy buen
+> babyface"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos WE en la misma noche**: la apertura con Rey Fénix y el
+  segmento in-ring de Waller.
+- **"Nada de buscar lástima"** es el eje del fallo: **el babyface que
+  pide oportunidad, no compasión**. Y *"ahora sí sonando como
+  wrestler"* marca progresión respecto de sus primeros registros en
+  NXT.
+- **El reencuentro con Rey Fénix**: el Vehemiurgo los llama
+  *"especialistas tag team [que] ahora se mueven como main eventers"*
+  — y **la historia común es real y documentada**: como mitad de
+  **LAX / Santana & Ortiz**, se enfrentó a los **Lucha Brothers**, por
+  declaración on-record suya, *"24 o 25 veces por todo el mundo"*.
+- **Va al fatal 4-way de Heatwave** por el NXT Championship, junto a
+  D'Angelo (c), Waller y Zilla Fatu.
+- **Corrección de detalle**: el dictado lo ubica cortando promo *"desde
+  los fans"*; **las fuentes lo ubican entrando por la rampa con su
+  música**. El que apareció desde el público fue Zilla Fatu, el 11/8.
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: grayson-waller
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Sub-agente card-wwe-nxt-280726 (research 2026-08-01, closed) — Wrestling Attitude, RingsideNews, WrestlingHeadlines, Forbes, WrestleZone"
   - "El Vehemiurgo, notebook 2026-08-01 s15 (visión directa)"
@@ -106,6 +106,28 @@ archivo lo puede probar.**
 > — El Vehemiurgo, 2026-08-01 s34 (verbatim)
 
 **Pieza**: [vs Cruz Montana, debut de Zilla Fatu](../matches/2026-08-11-cruz-montana-vs-grayson-waller-debut-zilla-fatu-nxt.md) (WE)
+
+### Sesión 2026-08-26 s51 — "Buenísima promo, super picante" (NXT 18/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"segmento in ring de Waller, buenisima promo contra Zilla, super
+> picante, me encanta y le está dando stakes al campeonato de NXT"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada.** **Cobra sin reservas** — el archivo venía
+  registrando objeciones a su tontería en cámara (s34: *"su tontería
+  resta al realismo"*); acá no hay peros.
+- **El fallo operativo**: *"le está dando stakes al campeonato de
+  NXT"* — el valor del cetro se mide por la furia de las promos que se
+  cortan por él.
+- **Su argumento**: que **otro samoano viene a sacarle el pan de la
+  mesa**, que es de **Western Sydney** y que **antes de que Fatu se
+  metiera, él iba a ser el contendiente Nº1**.
+- **Va al fatal 4-way de Heatwave.**
 
 ## Pendientes / huecos
 

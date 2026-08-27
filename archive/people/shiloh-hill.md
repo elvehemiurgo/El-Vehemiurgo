@@ -1,17 +1,17 @@
 ---
-nombre: "Shilo Hill"
+nombre: "Shiloh Hill"
 tipo: fact-sheet
 categoria: people
-slug: shilo-hill
+slug: shiloh-hill
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026)"
-  - "Mención previa: match del 7/4/2026 (Blake Monroe & Jackson Drake vs Shilo Hill & Tatum Paxley)"
-tags: [shilo-hill, wwe-nxt-2026, freak-carismatico, wrestling-entertainment, identidad-consolidada]
+  - "Mención previa: match del 7/4/2026 (Blake Monroe & Jackson Drake vs Shiloh Hill & Tatum Paxley)"
+tags: [shiloh-hill, wwe-nxt-2026, freak-carismatico, wrestling-entertainment, identidad-consolidada]
 ---
 
-# Shilo Hill
+# Shiloh Hill
 
 > **Identidad resuelta (2026-07-14 s45)**: registrado como
 > *"Shyloh"* — el Vehemiurgo confirmó que es **Shilo Hill**, del
@@ -22,7 +22,7 @@ tags: [shilo-hill, wwe-nxt-2026, freak-carismatico, wrestling-entertainment, ide
 
 ## Identificación
 
-- **Nombre de gimmick**: **Shilo Hill** (variante de dictado
+- **Nombre de gimmick**: **Shiloh Hill** (variante de dictado
   glosada arriba). [verif menor: la grafía oficial WWE podría
   llevar H final — *Shiloh Hill*.]
 - **Nombre real**: [verif].
@@ -33,10 +33,10 @@ tags: [shilo-hill, wwe-nxt-2026, freak-carismatico, wrestling-entertainment, ide
 - **7/4/2026 (WWE NXT)** — tag mixto con Tatum Paxley vs Jackson
   Drake & Blake Monroe: multi-clase (discrepancia registrada, ver archivo
   del match).
-  ([→](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)).
+  ([→](../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md)).
 - **28/4/2026 (WWE NXT)** — video con Tatum Paxley: Wrestling
   Entertainment.
-  ([→](../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md)).
+  ([→](../segments/2026-04-28-video-tatum-shiloh-hill-rosemary-doctrina-wwe-nxt.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -65,8 +65,29 @@ sobre Tatum Paxley. Ver
 
 **Lectura sintética**: Wrestling Entertainment — el elogio recae
 principalmente sobre el oficio de Dempsey construyendo la lucha,
-con Shilo Hill como rival funcional. Ver
-[`../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md`](../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md).
+con Shiloh Hill como rival funcional. Ver
+[`../matches/2026-05-26-charlie-dempsey-vs-shiloh-hill-wwe-nxt.md`](../matches/2026-05-26-charlie-dempsey-vs-shiloh-hill-wwe-nxt.md).
+
+### Sesión 2026-08-26 s51 — El que sostiene el match del futuro de WWE (NXT 18/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Luego tuvimos Shilo vs Jackson Drake, estuvo muy buena [...] esta
+> lucha se merece las 3 clases, acción muy buena, calidad, y gimmicks y
+> ejecución oldschool muy efectiva"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada** para el match, que **pierde** por 450
+  splash tras recibir el mist de NARAKU en la cara. **El finish es
+  sucio: la derrota no lo toca.**
+- **El elogio de *ejecución oldschool*** es para los dos: la clase
+  premia el match, no al ganador.
+- **Nota de nombre canónico**: research cerró la grafía pendiente del
+  registro — es **Shiloh Hill**, con H final. Ficha y slug renombrados
+  en esta sesión.
 
 ## Pendientes / huecos
 
@@ -76,9 +97,9 @@ con Shilo Hill como rival funcional. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shilo-hill-paxley-nxt.md)
-- [`../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shilo-hill-rosemary-doctrina-wwe-nxt.md)
-- [`../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md`](../matches/2026-05-26-charlie-dempsey-vs-shilo-hill-wwe-nxt.md)
+- [`../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md)
+- [`../segments/2026-04-28-video-tatum-shiloh-hill-rosemary-doctrina-wwe-nxt.md`](../segments/2026-04-28-video-tatum-shiloh-hill-rosemary-doctrina-wwe-nxt.md)
+- [`../matches/2026-05-26-charlie-dempsey-vs-shiloh-hill-wwe-nxt.md`](../matches/2026-05-26-charlie-dempsey-vs-shiloh-hill-wwe-nxt.md)
 
 ## Cross-links
 

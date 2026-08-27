@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: zaria
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Zaria (wrestler)"
   - "Cobertura PWTorch / 411mania / TJR Wrestling — NXT 2024–2026"
@@ -87,6 +87,28 @@ sección 1.
 [`segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md),
 `archive/people/giulia.md` (a crear cuando haya material),
 [`stephanie-vaquer.md`](./stephanie-vaquer.md).
+
+### Sesión 2026-08-26 s51 — La unificación sin límite de tiempo, y Armstrong metiéndose (NXT 18/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Armstrong realmente lo hizo muy bien en su segmento con Zaria en la
+> oficina de Stone, puede ser una face muy cool, se merece una WE
+> class"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento, aunque el elogio nominal va
+  a Kali Armstrong.
+- **Lo que se le informa**: su **lucha de unificación de títulos en
+  Heatwave no tendrá límite de tiempo** — ella es **NXT Women's North
+  American Champion** y **Wren Sinclair** es **WWE Women's Speed
+  Champion**.
+- **La complicación**: Armstrong la insulta, Stone booka **Zaria vs
+  Armstrong**, y **si Armstrong gana, la unificación se vuelve triple
+  threat**. *(El 25/8 Armstrong ganó y entró.)*
 
 ## Lectura consolidada del Vehemiurgo
 

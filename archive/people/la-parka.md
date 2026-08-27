@@ -109,6 +109,27 @@ Triplemanía 34 — segundo clasificado junto a El Hijo de Dr. Wagner Jr.
   como transición es lo que lo sostiene **aunque el luchador pierda**.
 - Ver [`../matches/2026-08-24-penta-vs-la-parka-wwe-raw.md`](../matches/2026-08-24-penta-vs-la-parka-wwe-raw.md).
 
+### Sesión 2026-08-26 s51 — Dos noches, dos empresas: "trae un estilazo" (AAA 15/8 y NXT 18/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"Luego tuvimos Psycho Clown vs la parka, estuvo genial, muy dura,
+> solo el code red [...] se merece las WE y FS classes"*
+>
+> *"y obviamente la parka que trae un estilaso"*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **WE+FS** por el main event ante Psycho Clown, que **gana** (9:06,
+  twisting suplex, con interferencia de El Carnicero), y **triple
+  clase** por el 4-way de NXT, donde **pierde**.
+- **El elogio de estilo**: *"trae un estilazo"* — dentro de un cuadro
+  de rookies de NXT, es el veterano de otra escuela.
+- **La reserva del match de AAA no es suya**: es contra el **Code Red**
+  como movimiento, y el Code Red lo hizo **Psycho Clown**.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

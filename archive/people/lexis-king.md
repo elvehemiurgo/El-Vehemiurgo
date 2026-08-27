@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lexis-king
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Brian Pillman Jr. / Lexis King"
   - "Cobertura MLW (~2018-2023), WWE NXT (2023-2026)"
@@ -87,6 +87,32 @@ take en match
 - El match es **multi-class** (Perfect Wrestling + Fighting
   Spirit) — Lexis es co-responsable del logro junto a Starboy,
   aunque la lectura editorial nombra a Starboy como el motor.
+
+### Sesión 2026-08-26 s51 — "El hijo del Loose Cannon se siente como top heel" (NXT 18/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego Lucien vs Lexis por el título speed estuvo cool, me gustó el
+> acto de Lexis para evitar a Lucien y huir de él, es fresco, están
+> oviendose muy bien, el hijo del lose cannon se siente como top heel
+> en esta lucha, muy buen selling, atención a los detalles, la lucha
+> se merece las 3 clases."*
+>
+> — El Vehemiurgo, 2026-08-26 s51 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase declarada** para el match, que **gana reteniendo el
+  WWE Speed Championship** en 4:37 con **Coronation**, tras
+  interferencia de Birthright.
+- **El elogio central es a un recurso viejo**: *"el acto de Lexis para
+  evitar a Lucien y huir de él, es fresco"*. **Huir es trabajar** — el
+  heel que rehúye al grandote construye peligro ajeno y heat propio.
+  El Vehemiurgo lo llama *fresco* porque casi nadie lo usa ya.
+- **El linaje invocado como argumento**: *"el hijo del Loose Cannon"*
+  — es **Brian Zachary Pillman**, hijo de Brian Pillman, ex Brian
+  Pillman Jr. en AEW.
+- **La moneda fina**: *"muy buen selling, atención a los detalles"*.
 
 ## Lectura consolidada del Vehemiurgo
 

@@ -159,7 +159,7 @@ Abismo Negro Jr., Asuka, Bear Bronson, Brody King, Ciampa, Darby Allin, Eddie Ed
 
 ## Cola larga — 1 mención (55 talents)
 
-Adam Priest, Alexa Bliss, Anthony Henry, Bandido, Bayley, Becky Lynch, Brawling Birds, Bray Wyatt, Bron Breakker, Candice LeRae, Cesaro, Charlotte Flair, Chris Hero, David Finlay, Dezmond Xavier, Elayna Black, Frankie Kazarian, Harley Hudson, Hayabusa, Joey Janela, Kenny Omega, Kevin Owens, Keyra, Kira, La Catalina, La Hiedra, Lexis King, Logan Paul, Mara Sadé, Mark Briscoe, Money Machine, Myla Grace, Nikki Bella, Nikkita Lyons, ODB, Octagón Jr., PAC, Pat McAfee, Psicosis, Ricochet, Rosemary, Saquon Shugars, Shilo Hill, Starlight Kid, Talla Tonga, Terry Funk, The Elegance Brand, Toa Liona, Tommy Billington, Tony D'Angelo, Trevor Lee, Trish Stratus, Waller, Zack Sabre Jr, Zaria.
+Adam Priest, Alexa Bliss, Anthony Henry, Bandido, Bayley, Becky Lynch, Brawling Birds, Bray Wyatt, Bron Breakker, Candice LeRae, Cesaro, Charlotte Flair, Chris Hero, David Finlay, Dezmond Xavier, Elayna Black, Frankie Kazarian, Harley Hudson, Hayabusa, Joey Janela, Kenny Omega, Kevin Owens, Keyra, Kira, La Catalina, La Hiedra, Lexis King, Logan Paul, Mara Sadé, Mark Briscoe, Money Machine, Myla Grace, Nikki Bella, Nikkita Lyons, ODB, Octagón Jr., PAC, Pat McAfee, Psicosis, Ricochet, Rosemary, Saquon Shugars, Shiloh Hill, Starlight Kid, Talla Tonga, Terry Funk, The Elegance Brand, Toa Liona, Tommy Billington, Tony D'Angelo, Trevor Lee, Trish Stratus, Waller, Zack Sabre Jr, Zaria.
 
 ## Lectura editorial — qué dice este conteo
 
