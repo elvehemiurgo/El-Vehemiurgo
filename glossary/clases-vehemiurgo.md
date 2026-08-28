@@ -235,14 +235,83 @@ posibles** dicen distintas cosas:
 | `[wrestling-entertainment]` | Promo o segmento puro de gran character work. |
 | `[fighting-spirit]` | Pelea real y old-school, no llegó a definir era. |
 | `[perfect-wrestling]` | Define era / carrera / temporada. *(Raro encontrar Perfect sin alguna de las otras dos en compañía.)* |
-| `[fighting-spirit, wrestling-entertainment]` | Pelea real + great character work. |
+| `[fighting-spirit, wrestling-entertainment]` | Pelea real + great character work. **→ Feeling Crown (FC)** |
 | `[perfect-wrestling, fighting-spirit]` | Real fight + define era. Tipo Misawa-Kawada. |
 | `[perfect-wrestling, wrestling-entertainment]` | Spectacle excepcional + define era. Tipo Hogan-Andre WMIII (lectura tentativa). |
-| `[perfect-wrestling, fighting-spirit, wrestling-entertainment]` | Las tres. **Techo absoluto del oficio**. Casi unicornio. |
+| `[perfect-wrestling, fighting-spirit, wrestling-entertainment]` | Las tres. **Techo absoluto del oficio**. Casi unicornio. **→ Instant Classic Crown (ICC)** |
 
 **Una entrada sin clasificar** lleva el campo vacío (`[]`). **No
 es defecto**: es estado. La asignación ocurre cuando el
 Vehemiurgo revisa con voluntad editorial, no por barrido bulk.
+
+---
+
+## Las coronas — premios derivados de las clases
+
+**Ley del Vehemiurgo (2026-08-26, s52)**, verbatim:
+
+> *"quiero que el combo WE y FS class se llame Feeling Crown, y lo
+> escribiré como FC; no hay que modificar la jerarquía solo agregar
+> premios que se llamaran coronas. Y las luchas que tengan las 3
+> clases, que tengan la corona de Instant Classic Crown"*
+
+### Qué son, y qué no son
+
+**Las coronas son premios, no clases.** El Vehemiurgo lo dejó
+explícito: *"no hay que modificar la jerarquía, solo agregar
+premios"*. Las tres clases siguen siendo las mismas, con las mismas
+definiciones y los mismos triggers. **Una corona es el nombre que
+recibe una combinación de clases que ya existía.**
+
+Consecuencia operativa directa: **una corona nunca se declara ni se
+asigna a mano**. Se **deriva** de `clases_vehemiurgo`. Si el
+Vehemiurgo declara FS y WE, la Feeling Crown aparece sola; si
+después retira una clase, la corona desaparece sola. **No hay campo
+de frontmatter para coronas y no debe haberlo** — sería un estado
+duplicado que puede desincronizarse del que manda.
+
+### Las dos coronas vigentes
+
+| Corona | Sigla | Combinación que la otorga |
+|---|---|---|
+| **Feeling Crown** | **FC** | `fighting-spirit` + `wrestling-entertainment` (sin Perfect Wrestling) |
+| **Instant Classic Crown** | **ICC** | las tres clases: `perfect-wrestling` + `fighting-spirit` + `wrestling-entertainment` |
+
+**Sobre las siglas**: **FC** la fijó el Vehemiurgo (*"lo escribiré
+como FC"*). **ICC** es la abreviatura que el archivo adopta por
+paralelismo, para que la columna de índice sea legible; el nombre
+largo **Instant Classic Crown** es el canónico y el que se usa en
+prosa.
+
+### Por qué "Feeling" y por qué "Instant Classic"
+
+Lectura de archivo, no declaración del Vehemiurgo:
+
+- **Feeling Crown** premia la combinación **pelea real + character
+  work**: la pieza que se *siente*. No define una era —le falta
+  Perfect Wrestling— pero deja algo encima al que la vio.
+- **Instant Classic Crown** premia el unicornio: **las tres a la
+  vez**. Es la corona del techo absoluto, y por construcción va a
+  ser rara.
+
+### Dónde aparecen
+
+- **Índices de `archive/matches/` y `archive/segments/`**: columna
+  **Corona**, generada.
+- **Prosa de fichas**: se nombran en el blockquote-lead cuando
+  corresponde (*"Instant Classic Crown"*, *"Feeling Crown"*).
+- **Vistas derivadas**: se regeneran con el resto.
+
+**Implementación**: `bin/archivo_lib.py` expone `Ficha.corona`, que
+las calcula desde `clases_vehemiurgo`. Ningún script las lee de
+frontmatter porque **no viven en frontmatter**.
+
+### Cómo se agregan coronas nuevas
+
+Igual que la doctrina de clases: **solo por declaración explícita
+del Vehemiurgo**. Una combinación sin corona declarada —por
+ejemplo `[perfect-wrestling, fighting-spirit]`— **no lleva
+ninguna**, y el archivo no inventa una por simetría.
 
 ---
 

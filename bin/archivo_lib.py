@@ -26,6 +26,16 @@ PANTEON = ROOT / "archive/topics/heroes-fundamentales-vehemiurgia.md"
 CLASES_OK = {"perfect-wrestling", "fighting-spirit", "wrestling-entertainment"}
 ABBR = {"perfect-wrestling": "PW", "fighting-spirit": "FS", "wrestling-entertainment": "WE"}
 
+# Coronas: premios DERIVADOS de la combinación de clases (ley del
+# Vehemiurgo 2026-08-26 s52 — "no hay que modificar la jerarquía, solo
+# agregar premios"). Nunca viven en frontmatter: se calculan.
+CORONAS = {
+    frozenset({"fighting-spirit", "wrestling-entertainment"}): "FC",
+    frozenset({"perfect-wrestling", "fighting-spirit",
+               "wrestling-entertainment"}): "ICC",
+}
+CORONA_NOMBRE = {"FC": "Feeling Crown", "ICC": "Instant Classic Crown"}
+
 # (Las equivalencias legacy tipo elias→elijah viven en el registro,
 # sección "Equivalencias de matching" — ver load_equivalencias().)
 
@@ -119,6 +129,11 @@ class Ficha:
         return "·".join(ABBR.get(c, c) for c in self.clases) or "—"
 
     @property
+    def corona(self):
+        """Sigla de la corona que la combinación de clases otorga, o "—"."""
+        return CORONAS.get(frozenset(self.clases), "—")
+
+    @property
     def emp(self):
         return f"{self.empresa} / {self.programa}" if self.programa else self.empresa
 
@@ -163,9 +178,9 @@ def format_index_row(f):
     cell = lambda s: s.replace("|", "\\|")
     if f.kind == "matches":
         return (f"| {f.fecha} | {cell(f.titulo)} | {cell(f.emp)} | {f.clase_abbr} "
-                f"| {f.estado} | {f.veces} | [→]({f.path.name}) |")
+                f"| {f.corona} | {f.estado} | {f.veces} | [→]({f.path.name}) |")
     return (f"| {f.fecha} | {cell(f.titulo)} | {cell(f.emp)} | {cell(f.tipo_segmento)} "
-            f"| {f.clase_abbr} | {f.estado} | {f.veces} | [→]({f.path.name}) |")
+            f"| {f.clase_abbr} | {f.corona} | {f.estado} | {f.veces} | [→]({f.path.name}) |")
 
 
 # ── registro de nombres canónicos ────────────────────────────────

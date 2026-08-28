@@ -270,6 +270,21 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   pendiente de ratificación"* hasta llamado explícito; (5)
   *old-school class* = fighting-spirit, y FS aplica también a
   promos. Skill: `/clase`.
+- **Coronas — premios derivados (ley desde 2026-08-26 s52)**:
+  *"quiero que el combo WE y FS class se llame Feeling Crown, y lo
+  escribiré como FC; no hay que modificar la jerarquía solo agregar
+  premios que se llamaran coronas. Y las luchas que tengan las 3
+  clases, que tengan la corona de Instant Classic Crown"* (verbatim
+  del Vehemiurgo). **La jerarquía de clases no cambia**: las coronas
+  son **nombres de combinaciones que ya existían**. **Feeling Crown
+  (FC)** = `fighting-spirit` + `wrestling-entertainment`; **Instant
+  Classic Crown (ICC)** = las tres clases. **Nunca se declaran ni se
+  escriben en frontmatter**: se **derivan** de `clases_vehemiurgo`
+  (`bin/archivo_lib.py: Ficha.corona`) y se muestran en la columna
+  *Corona* de los índices, que son generados. Coronas nuevas, solo
+  por declaración explícita; una combinación sin corona declarada no
+  lleva ninguna. Doctrina completa en
+  `glossary/clases-vehemiurgo.md`.
 
 ---
 

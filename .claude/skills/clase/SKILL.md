@@ -10,6 +10,13 @@ Vocabulario ÚNICO en frontmatter: `perfect-wrestling`,
 `fighting-spirit`, `wrestling-entertainment` (slugs; en índices
 PW·FS·WE).
 
+**Coronas — NO se escriben, se derivan.** `FS+WE` = **Feeling Crown
+(FC)**; las tres clases = **Instant Classic Crown (ICC)**. Salen
+solas de `clases_vehemiurgo` vía `bin/archivo_lib.py: Ficha.corona`
+y aparecen en la columna *Corona* de los índices. **Nunca agregar un
+campo de corona al frontmatter** — sería estado duplicado. Se
+nombran en prosa (blockquote-lead) cuando corresponde.
+
 ## Asignar / ratificar
 
 1. Localizar la ficha (grep en índices por fecha/participantes).
