@@ -13,6 +13,10 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-25 | BirthRight (Charlie Dempsey, Uriah Connors, Lexis King & Channing 'Stacks' Lorenzo) vs Noam Dar, Romeo Moreno, Dorian Van Dux & Sean Legacy | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-08-25-birthright-vs-faces-8-man-nxt.md) |
+| 2026-08-25 | Kam Hendrix vs Keanu Carver | WWE / NXT | FS·WE | FC | en-investigacion | 1 | [→](2026-08-25-kam-hendrix-vs-keanu-carver-nxt.md) |
+| 2026-08-25 | Rey Fénix (c) vs EK Prosper — AAA World Cruiserweight Championship | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md) |
+| 2026-08-25 | Saquon Shugars vs Dion Lennox — Weaponized Steel Cage Match | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-25-saquon-shugars-vs-dion-lennox-weaponized-cage-nxt.md) |
 | 2026-08-24 | Dragon Lee vs Rey Fénix — semifinal, World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-24-dragon-lee-vs-rey-fenix-wwe-raw.md) |
 | 2026-08-24 | Je'Von Evans vs Big Cass | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md) |
 | 2026-08-24 | LA Knight & Solo Sikoa vs The Usos (Jey Uso & Jimmy Uso) | WWE / Raw | FS·WE | FC | en-investigacion | 1 | [→](2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md) |

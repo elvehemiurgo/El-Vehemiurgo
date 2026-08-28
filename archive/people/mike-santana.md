@@ -369,6 +369,32 @@ sobre callbacks específicos en el match. Ver
   los fans"*; **las fuentes lo ubican entrando por la rampa con su
   música**. El que apareció desde el público fue Zilla Fatu, el 11/8.
 
+### Sesión 2026-08-26 s52 — "El coaching está funcionando" (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Montana está más over, su gimmick funciona, tienen que dejarlo ser,
+> está muy bueno su acto, el coaching está funcionando"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el Summit de cierre, del que es pieza.
+- **Fallo sobre el proceso, no sobre la noche**: *"el coaching está
+  funcionando"*. **Es de las pocas veces que el archivo registra un
+  elogio dirigido al entrenamiento y no al talento** — alguien lo está
+  puliendo y se nota.
+- **"Tienen que dejarlo ser"** — la misma advertencia a la oficina que
+  hizo en s51 sobre Lennox y Shugars: **cuando la empresa afloja, el
+  talento crece**.
+- **"Está más over"** — medición de curva, no de momento.
+- **Nota de continuidad**: acá **sí entra por el público**, confirmado
+  por research. En s51 el archivo había corregido esa observación para
+  el 18/8 (donde entró por la rampa) — **la lectura del Vehemiurgo no
+  era errada de contenido, estaba adelantada una semana**.
+- Ver [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

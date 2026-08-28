@@ -102,6 +102,27 @@ como #1 contender para el 11/8, con el ganador retándolo en Heatwave.
 - **Defiende el NXT Championship en el fatal 4-way de Heatwave** ante
   Montana, Waller y Zilla Fatu.
 
+### Sesión 2026-08-26 s52 — El "incluso" que corrige el fallo de la semana previa (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"luego DAngelo estuvo cool incluso, lo hizo muy bien"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el Summit de cierre.
+- **El *"incluso"* corrige parcialmente el registro de s51**, donde el
+  archivo anotó que **el campeón salía pero el segmento se prendía con
+  otro**. Acá **lo hizo muy bien**.
+- **Su jugada**: sale a discrepar con Waller y **se burla de sus
+  distintas "versiones"**.
+- **Defiende el NXT Championship en el fatal 4-way de Heatwave**, del
+  que termina esta noche tirado en el ring mientras Zilla Fatu posa
+  con su cinturón.
+- Ver [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar qué título sostiene** — [verif].

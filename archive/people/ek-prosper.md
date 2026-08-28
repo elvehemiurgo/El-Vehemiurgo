@@ -70,6 +70,27 @@ tags: [ek-prosper, wwe-nxt-2026, wwe-id, aaa-cruiserweight-championship, rey-fen
 - **Alineación face**: *"detalles de buen babyface"* — **lectura del
   Vehemiurgo; ninguna fuente asigna alineaciones en ese 4-way**.
 
+### Sesión 2026-08-26 s52 — La estrella que Fénix construye (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Fenix creando otra estrella con su estilo, realmente influenciando
+> el futuro [...] Esta lucha se merece las 3 clases, muy real."*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **Las tres clases → Instant Classic Crown**, aunque **pierde** el
+  reto por el AAA World Cruiserweight Championship (11:07).
+- **Es "la otra estrella"** de la frase: el Vehemiurgo lo nombra como
+  producto del trabajo de Fénix, no como víctima del resultado.
+- **El post-match lo confirma**: **le da la mano al campeón y le
+  levanta el brazo** — sale construido, no devaluado.
+- Segunda semana consecutiva con registro editorial fuerte, tras
+  ganar el 4-way del 18/8.
+- Ver [`../matches/2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md`](../matches/2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Entrenamiento, escuela y debut exacto.

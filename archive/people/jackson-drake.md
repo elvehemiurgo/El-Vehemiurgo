@@ -141,6 +141,29 @@ y
 - **Va por el NXT North American Championship de Myles Borne en
   Heatwave.**
 
+### Sesión 2026-08-26 s52 — El pregrabado de la bolera (NXT 25/8/2026)
+
+**Cita verbatim**:
+
+> *"LUego el segmento de Vanity Project pregrabado estuvo cool, me
+> encantó, si hubiera sido más corto sería más memorable, pero esta
+> muy cool, se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada**, con **reserva de duración**: *"si hubiera
+  sido más corto sería más memorable"* — memorabilidad y metraje no
+  son lo mismo.
+- **La facción completa**: él, **Brad Baylor**, **Ricky Smokes** y
+  **Myka Lockwood**, entrevistados por Sarah Schreiber en una bolera.
+  El gag *"Myka Lockmama"* sale de ahí.
+- **La función de booking es doble**: la facción **va por las dos
+  correas de Myles Borne el mismo domingo** — él por el North
+  American, Baylor y Smokes por los tag titles.
+- Ver [`../segments/2026-08-25-vanity-project-pregrabado-nxt.md`](../segments/2026-08-25-vanity-project-pregrabado-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -92,6 +92,33 @@ por el Vehemiurgo, consistente con su registro previo (s08).
   subiendo la apuesta con la estipulación "Weaponized"** — armas
   dentro de la estructura. **El que acepta es el que escala.**
 
+### Sesión 2026-08-26 s52 — La jaula que cierra la rivalidad (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"abrieron con la weaponized steel cage de Saquon y Lennox, estuvo
+> genial, la verdad mucho fighting spirit [...] los gimmicks y el
+> oldschool hacer que se mantenga real incluso en los contados
+> tropiezos o oversells que hubieron, pero si quieren ser wrestlers
+> [...] Se merecen las 3 clases igual"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **Las tres clases → Instant Classic Crown**, aunque **pierde**.
+- **"Sí quieren ser wrestlers"** — el elogio de intención cubre los
+  errores: *"los gimmicks y el oldschool hacen que se mantenga real
+  incluso en los contados tropiezos u oversells"*. Research confirma
+  al menos un spot fallido (la mesa se rompió antes de tiempo).
+- **Su trabajo de psicología**: machaca la rodilla de Shugars con
+  silla hasta dejarlo en una pierna, y **se apropia del bate** para un
+  *bat-assisted Deathlock*. **Es él quien construye el finish del
+  rival** — trepar la jaula lisiado.
+- **Cierra la rivalidad**: tercer encuentro, tras haber expulsado a
+  Shugars de **DarkState** junto a Osiris Griffin y Cutler James.
+- Ver [`../matches/2026-08-25-saquon-shugars-vs-dion-lennox-weaponized-cage-nxt.md`](../matches/2026-08-25-saquon-shugars-vs-dion-lennox-weaponized-cage-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

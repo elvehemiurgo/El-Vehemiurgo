@@ -151,6 +151,30 @@ school sobre gatekeeping.
 - **Defiende el NXT Women's Championship ante Kelani Jordan en
   Heatwave.**
 
+### Sesión 2026-08-26 s52 — "El segmento de las chicas estaba débil" — pero el desenlace levanta (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"el segmento de las chicas estaba debil [...] Les quedó un buen
+> segmento, esa parte y el desenlace de las chicas se vió cool, si
+> ejecutan muy bien [...] Se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el Summit de cierre, del que **abre el
+  bloque** junto a Wren Sinclair.
+- **La crítica y el rescate en la misma frase**: *"estaba débil"*
+  pero *"el desenlace de las chicas se vio cool, sí ejecutan muy
+  bien"*. **Separa el material de la ejecución** — el problema fue lo
+  escrito, no lo trabajado.
+- **Queda de pie en el ring** junto a Sinclair cuando el brawl
+  masculino se lleva la escena.
+- **Defiende el NXT Women's Championship ante Kelani Jordan en
+  Heatwave.**
+- Ver [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Cruce editorial fértil con

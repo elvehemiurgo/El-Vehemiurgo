@@ -83,6 +83,29 @@ sobre Moreno. El Vehemiurgo señala a los compañeros de Saquon/Dar como
   en **Madrid**; antes **Zozaya** en PROGRESS, RevPro, **NOAH** y
   **CMLL**. Salió acompañado por **Noam Dar**.
 
+### Sesión 2026-08-26 s52 — En el bando face del 8-man (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"un 4 vs 4 con the birthright vs los faces noam, romeo, y los demás,
+> la verdad muy cool, buenos spots, si están creciendo frente a
+> nuestros ojos, aunque el booking está muy inofensivo por ahora muy
+> quieto diría, pero merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el 8-man, que **pierde** (Dempsey pina a
+  Noam Dar).
+- **Segunda semana consecutiva con registro positivo**, tras la
+  retirada de la reserva de *safe* en s51.
+- **"Creciendo frente a nuestros ojos"** — elogio de trayectoria
+  visible, no de una noche.
+- **La reserva es de booking, no suya**: *"el booking está muy
+  inofensivo por ahora, muy quieto diría"*.
+- Ver [`../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md`](../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa.

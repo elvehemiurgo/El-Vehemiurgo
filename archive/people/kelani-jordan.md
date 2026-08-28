@@ -184,6 +184,28 @@ de Grayson Waller).
   hecha.
 - **Reta a Kendal Grey por el NXT Women's Championship en Heatwave.**
 
+### Sesión 2026-08-26 s52 — "Se ve como wrestler" (NXT 25/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego el promo video de Kelany estuvo genial, de verdad se ve
+> sólida, se ve como wrestler, les quedó genial! se merece una WE"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para su promo video.
+- **"Se ve como wrestler"** — la fórmula más económica del archivo, y
+  la vara con que mide presencia. No es sobre lo que dice: es sobre
+  **si el paquete la vende como peleadora**.
+- **"Les quedó genial"** — el plural incluye a producción.
+- **Contenido**: declara que **gana el NXT Women's Championship en su
+  primera oportunidad titular**. La prensa la lee como **heel quejosa**
+  que se vende como top de la marca, y agrupó su pretape con el de
+  Zilla Fatu como lo mejor del show en promo.
+- Ver [`../segments/2026-08-25-promo-video-kelani-jordan-nxt.md`](../segments/2026-08-25-promo-video-kelani-jordan-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

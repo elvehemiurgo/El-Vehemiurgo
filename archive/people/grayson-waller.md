@@ -129,6 +129,29 @@ archivo lo puede probar.**
   metiera, él iba a ser el contendiente Nº1**.
 - **Va al fatal 4-way de Heatwave.**
 
+### Sesión 2026-08-26 s52 — "Se está afilando y puede crear cosas memorables" (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Waller interrumpiendo a las chicas estuvo cool, el segmento de las
+> chicas estaba debil, Waller es cool, se está afilando y puede crear
+> cosas memorables yo creo"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el Summit de cierre.
+- **Segunda semana consecutiva cobrando limpio**, tras el *"buenísima
+  promo, super picante"* de s51. El archivo venía registrando
+  objeciones a su tontería en cámara; la curva se invirtió.
+- **La proyección**: *"puede crear cosas memorables yo creo"* —
+  condicional declarado, no consagración.
+- **Su jugada**: interrumpe a las campeonas con sarcasmo (*son lindas
+  de ver pero difíciles de escuchar*), se autoproclama la razón por la
+  que NXT es must-see TV, y explica cómo gana el NXT Championship.
+- Ver [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Transcripción completa verbatim de la promo.

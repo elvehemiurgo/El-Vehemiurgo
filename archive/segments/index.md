@@ -12,6 +12,11 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-08-25 | NXT Heatwave Summit — Waller interrumpe a las campeonas, brawl total, y Zilla Fatu queda de pie con el cinturón | WWE / NXT | cumbre coral de cierre / brawl | WE | — | en-investigacion | 1 | [→](2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md) |
+| 2026-08-25 | Keanu Carver y Robert Stone — el match que sale de la oficina y la victoria sucia que vuelve a ella | WWE / NXT | backstage / oficina del GM | WE | — | en-investigacion | 1 | [→](2026-08-25-keanu-carver-robert-stone-backstage-nxt.md) |
+| 2026-08-25 | Promo video de Kelani Jordan — 'gano el título en mi primera oportunidad' | WWE / NXT | promo video / pregrabado | WE | — | en-investigacion | 1 | [→](2026-08-25-promo-video-kelani-jordan-nxt.md) |
+| 2026-08-25 | Promo video de Zilla Fatu — 'Heatwave se puso más caliente' | WWE / NXT | promo video / pregrabado | WE | — | en-investigacion | 1 | [→](2026-08-25-promo-video-zilla-fatu-nxt.md) |
+| 2026-08-25 | The Vanity Project en la bolera — el pregrabado que dobla el build de Heatwave | WWE / NXT | segmento pregrabado / comedia de facción | WE | — | en-investigacion | 1 | [→](2026-08-25-vanity-project-pregrabado-nxt.md) |
 | 2026-08-24 | Rey Fénix y Penta se miden en la rampa — hermano contra hermano, camino a la final | WWE / Raw | careo / confrontación en la rampa | WE | — | en-investigacion | 1 | [→](2026-08-24-careo-fenix-penta-rampa-wwe-raw.md) |
 | 2026-08-24 | Dominik Mysterio y JD McDonagh le reclaman a Rey Mysterio por el torneo — Je'Von Evans hace el salve | WWE / Raw | backstage / confrontación con salve | WE | — | en-investigacion | 1 | [→](2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md) |
 | 2026-08-24 | Adam Pearce, Chad Gable y Ethan Page backstage — All Ego se habla a sí mismo fuera del title shot | WWE / Raw | backstage / promo de armado | WE | — | en-investigacion | 1 | [→](2026-08-24-ethan-page-chad-gable-backstage-wwe-raw.md) |

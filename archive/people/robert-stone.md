@@ -150,6 +150,31 @@ Stone como caso paradigmático del worker-entertainer**:
   que ganarse** el lugar en la lucha titular, y convierte un insulto
   de Armstrong en un match con consecuencia.
 
+### Sesión 2026-08-26 s52 — Segunda semana premiando el mismo dispositivo (NXT 25/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego el segmento backstage de Keanu y Stone estuvo cool, me gusta
+> esta programación, es una buena idea, se merece una WE calss"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** — **segunda semana consecutiva** premiando la
+  oficina del GM como taller de talentos (en s51: *"estas
+  interacciones están haciendo mucho por estos talentos"*).
+- **Acá el elogio sube de nivel**: *"me gusta esta programación, es
+  una buena idea"* — ya no evalúa el segmento sino **el recurso como
+  política de booking**.
+- **El dispositivo enmarca el match por los dos lados**: antes (de
+  ahí sale el match de Carver) y después (le reprocha haber ganado
+  sucio). Además **advierte a la referí Vic D'Errico**, sembrando el
+  caos del Summit de cierre.
+- **Reserva de dato**: su cargo formal de **General Manager** aparece
+  en un solo reporte secundario. `[verif]`
+- Ver [`../segments/2026-08-25-keanu-carver-robert-stone-backstage-nxt.md`](../segments/2026-08-25-keanu-carver-robert-stone-backstage-nxt.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Material editorial al horno — pieza específica

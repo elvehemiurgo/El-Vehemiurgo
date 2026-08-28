@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: charlie-dempsey
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Sub-agente nqcc-charlie-dempsey-2026 (research/closed.md, dossier completo)"
   - "Wikipedia — Charlie Dempsey, William Regal, Snake Pit (Wigan)"
@@ -151,6 +151,27 @@ Vehemiurgo):
 Dempsey como caso de gimmick old-school con linaje verificable
 en la era 2026** — comparable a pocos contemporáneos que tengan
 las tres capas (familia + ring name + faction).
+
+### Sesión 2026-08-26 s52 — El que cierra el 8-man para BirthRight (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"un 4 vs 4 con the birthright vs los faces noam, romeo, y los demás,
+> la verdad muy cool, buenos spots [...] merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el 8-man, que **gana** para BirthRight
+  **pescando a Noam Dar con un suplex con puente** — finish de escuela
+  catch, coherente con su linaje.
+- **BirthRight a esta fecha**: él, **Uriah Connors**, **Lexis King** y
+  **Channing "Stacks" Lorenzo** — la misma facción que la semana
+  previa interfirió para que King retuviera el Speed Championship.
+- **La reserva del Vehemiurgo es al ritmo del programa**, no a los
+  luchadores: *"el booking está muy inofensivo por ahora, muy quieto"*.
+- Ver [`../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md`](../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md).
 
 ## Lectura consolidada del Vehemiurgo
 

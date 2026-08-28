@@ -264,6 +264,34 @@ Buster**, contrarrestando el Martinete de El Fiscal. Ver
   dupla. La reunión formal ya estaba anunciada aparte para
   Triplemanía.
 
+### Sesión 2026-08-26 s52 — "Así como Psicosis en los 90s": el constructor, ubicado en un linaje (NXT 25/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego Fenix vs EK estuvo genial, Fenix creando otra estrella con su
+> estilo, realmente influenciando el futuro, ahora mismo con esta
+> producción está muy afilado psicológicamente, tiene al público en el
+> bolsillo, así como psicosis en los 90s. Esta lucha se merece las 3
+> clases, muy real."*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética — la tesis del constructor se cierra**:
+
+- **Las tres clases → Instant Classic Crown.** **Retiene** el AAA
+  World Cruiserweight Championship en 11:07 (rolling German +
+  superkick), con **apretón de manos post-match** y Prosper
+  levantándole el brazo.
+- **"Otra estrella"** — el plural implícito. En s51 el construido fue
+  **Noisy Boy**; acá **EK Prosper**. **El archivo ya puede hablar de
+  patrón, no de caso.**
+- **El criterio es psicológico, no atlético**: *"muy afilado
+  psicológicamente"*, *"tiene al público en el bolsillo"*.
+- **La comparación de linaje**: *"así como Psicosis en los 90s"* —
+  ubica su estilo en una tradición mexicana concreta que el archivo ya
+  tiene documentada. Ver [`./psicosis.md`](./psicosis.md).
+- Ver [`../matches/2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md`](../matches/2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

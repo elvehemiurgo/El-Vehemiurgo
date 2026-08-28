@@ -158,6 +158,27 @@ y [`charlie-dempsey.md`](./charlie-dempsey.md).
 - **Va a la unificación de títulos en Heatwave** — que terminó siendo
   triple threat con Zaria y Kali Armstrong.
 
+### Sesión 2026-08-26 s52 — De pie al final del Summit (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"el segmento de las chicas estaba debil [...] esa parte y el
+> desenlace de las chicas se vió cool, si ejecutan muy bien [...] Se
+> merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el Summit, que **abre** junto a Kendal
+  Grey.
+- **El rescate por ejecución**: el Vehemiurgo declara débil el
+  material y aun así premia cómo lo trabajaron.
+- **Queda de pie** junto a Grey al cierre del bloque femenino.
+- **Va a la unificación de títulos en Heatwave**, que esa misma noche
+  pasó a **triple threat** con Zaria y Kali Armstrong.
+- Ver [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Material editorial al horno.)

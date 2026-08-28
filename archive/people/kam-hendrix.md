@@ -76,6 +76,31 @@ seguridad los separa.
   actitud antes que técnica, que es lo que un segmento de oficina
   puede entregar.
 
+### Sesión 2026-08-26 s52 — Feeling Crown en 3:39 (NXT 25/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego Kam vs Keanu estuvo cool, si están verdes pero tienen estilo,
+> quieren moverse y hablar así como main eventers wwe, quieren vivirla
+> realemente, se esfuerzan por mantenerlo real. La duración tambien
+> fue perfecta, se merece la WE y FS classes."*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE y FS → Feeling Crown**: **la primera declarada bajo la ley
+  nueva de coronas**.
+- **Pierde** en 3:39, con Perfect-Plex de Carver tras interferencia de
+  **Mason Rook**.
+- **"Verdes pero tienen estilo"** — la reserva y el elogio juntos, sin
+  que uno anule al otro. Lo verde es de oficio; el estilo, de
+  intención.
+- **La economía como virtud declarada**: *"la duración también fue
+  perfecta"* — tres minutos y medio para dos talentos verdes es la
+  decisión correcta.
+- Ver [`../matches/2026-08-25-kam-hendrix-vs-keanu-carver-nxt.md`](../matches/2026-08-25-kam-hendrix-vs-keanu-carver-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-WWE.

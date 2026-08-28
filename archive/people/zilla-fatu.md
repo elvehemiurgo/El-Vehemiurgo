@@ -78,6 +78,39 @@ para el análisis completo.
 - **Va al fatal 4-way de Heatwave** (30/8, Bert Ogden Arena, Edinburg,
   Texas) por el NXT Championship.
 
+### Sesión 2026-08-26 s52 — El promo video y el outlaw que queda de pie (NXT 25/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"Luego el promo video de Zilla tambien estuvo increible, muy buena
+> promo, está muy cool el booking tambien, se merece una WE class"*
+>
+> *"deciden terminar con Zilla on top como face, no exactamente
+> haciendo cosas de heel, no fue abucheado realmente por interrumpir
+> un main event, así que es un outlaw muy cool ahora mismo, me gusta"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética — el fallo de registro más fino de la sesión**:
+
+- **Dos WE en la misma noche**: el promo video y el Heatwave Summit
+  de cierre.
+- **Zilla como outlaw, no como heel**: el Vehemiurgo **lee el registro
+  por la reacción, no por la acción** — hace cosas de heel
+  (interrumpe un main event, se tira sobre todos, agarra el cinturón)
+  **y el público no lo castiga**, entonces no es heel. Cruza con
+  [`../topics/wwe-2026-desconexion-y-el-genero-outlaw.md`](../topics/wwe-2026-desconexion-y-el-genero-outlaw.md).
+- **Confirmado por research**: **el público coreó su nombre** durante
+  la secuencia y la cobertura lo describe como **posicionamiento de
+  babyface fuerte**. El fallo queda respaldado.
+- **La secuencia**: aparece último, **espera a que el ring esté
+  lleno**, se trepa y cae en plancha sobre los tres rivales, **agarra
+  el NXT Championship** y posa mientras el show sale del aire.
+- **El promo**: *"Heatwave se puso más caliente"* desde que se metió;
+  **todos tienen los ojos puestos en él y así le gusta**.
+- Ver [`../segments/2026-08-25-promo-video-zilla-fatu-nxt.md`](../segments/2026-08-25-promo-video-zilla-fatu-nxt.md)
+  y [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos (nombre real, formación,

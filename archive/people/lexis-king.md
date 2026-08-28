@@ -114,6 +114,26 @@ take en match
   Pillman Jr. en AEW.
 - **La moneda fina**: *"muy buen selling, atención a los detalles"*.
 
+### Sesión 2026-08-26 s52 — En el 8-man de BirthRight (NXT 25/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"un 4 vs 4 con the birthright vs los faces [...] la verdad muy cool,
+> buenos spots, si están creciendo frente a nuestros ojos, aunque el
+> booking está muy inofensivo por ahora muy quieto diría, pero merecen
+> una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el 8-man, que **gana** con BirthRight.
+- Semana siguiente a su triple clase reteniendo el **WWE Speed
+  Championship** ante Lucien Price.
+- **BirthRight opera como unidad**: él, Charlie Dempsey, Uriah Connors
+  y Stacks Lorenzo.
+- Ver [`../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md`](../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Material para una pieza específica sobre **el linaje

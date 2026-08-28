@@ -182,6 +182,38 @@ IG / TikTok / podcast del propio talent. Saquon Shugars como caso
   **reta a Lennox a un Steel Cage**, que Lennox convierte en
   **Weaponized**; el match se disputó el 25/8.
 
+### Sesión 2026-08-26 s52 — Instant Classic Crown, y "un talento que merece atención" (NXT 25/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"abrieron con la weaponized steel cage de Saquon y Lennox, estuvo
+> genial [...] los spots con la silla de Saquon, fueron muy
+> brillantes, creatividad nivel Raven con un hardcore psicológico
+> denso [...] el booking para Squon en singles empezó muy safe muy
+> genérico muy aburrido, pero se redimió las siguientes semanas, es un
+> talento que merece atención [...] Se merecen las 3 clases igual,
+> porque supieron terminar de forma genial."*
+>
+> — El Vehemiurgo, 2026-08-26 s52 (verbatim)
+
+**Lectura sintética**:
+
+- **Las tres clases → Instant Classic Crown**, la primera que el
+  archivo le registra, y **gana** el match (14:45, crossbody desde el
+  tope de la jaula con la rodilla destrozada).
+- **El elogio de linaje**: sus spots con silla son *"creatividad nivel
+  Raven con un hardcore psicológico denso"*. **Raven como vara** — el
+  hardcore que piensa.
+- **Revisión de fallo propio**: el archivo tenía registrado su booking
+  en singles como *"muy safe, muy genérico, muy aburrido"*; acá el
+  Vehemiurgo declara que **se redimió** y que es *"un talento que
+  merece atención"*.
+- **La objeción no es a él**: es al **downselling del bate y los
+  objetos**. Research confirma que **el bate era suyo y el diseño lo
+  puso por encima de la silla** — el reproche es que **la venta no
+  cobró ese diseño**.
+- Ver [`../matches/2026-08-25-saquon-shugars-vs-dion-lennox-weaponized-cage-nxt.md`](../matches/2026-08-25-saquon-shugars-vs-dion-lennox-weaponized-cage-nxt.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente. Material para una pieza editorial específica:
