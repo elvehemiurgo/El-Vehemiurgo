@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jacy-jayne
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Jacy Jayne"
   - "Cobertura WWE NXT 2021-2026"
@@ -127,6 +127,37 @@ fuentes_principales:
   reactiva. Lectura Cornette-school: la facción / talent que
   prepara la transición on-screen llega al main roster lista,
   no haciendo prueba en vivo en SmackDown.
+
+### Sesión 2026-08-26 s54 — Retiene el US Title, y las celebraciones como activo (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"Fatal Influence es obviamente superior a las faces con las que
+> están trabajando pero igual tiene buen material [...] me gusta que
+> la mantuvieron corta y efectiva, Fatal Inlfuence over y todas se
+> vieron cool, se merecen las 3 clases"*
+>
+> *"me encantan las celebraciones de Fatal Influence, super intensas y
+> si te venden su booking de underdogs dispuestas a todo"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase → Instant Classic Crown** para el match, que **gana
+  reteniendo el WWE Women's United States Championship** en 7:43
+  (inside cradle tras el numbers game del grupo).
+- **La celebración como activo del gimmick — elogio raro en este
+  archivo**: lo que se premia no es un movimiento sino **un ritual
+  post-campana** que refuerza la premisa de underdogs del grupo. Puro
+  carny.
+- **El diagnóstico de desnivel, dicho sin vueltas**: *"obviamente
+  superior a las faces con las que están trabajando"* — y aun así
+  aprueba el booking.
+- **Contexto**: le ganó el cetro a **Tiffany Stratton el 14/8**;
+  Fatal Influence a esta fecha es **ella, Fallon Henley y Lainey
+  Reid**, con Henley y Reid como **Women's Tag Team Champions**.
+- Ver [`../matches/2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md`](../matches/2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md).
 
 ## Lectura consolidada del Vehemiurgo
 

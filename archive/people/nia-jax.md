@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nia-jax
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — WWE SmackDown, 5/6/2026)"
   - "Menciones de contexto previas: conflicto con Chelsea Green y Lash Legend (s51, 22/5/2026)"
@@ -111,6 +111,25 @@ Chelsea Green con kendo stick. Ver
 [`../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md).
 
 **Lectura sintética**: sin clase individual — dato de continuidad.
+
+### Sesión 2026-08-26 s54 — "Las heels están muy afiladas" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"y las heels están muy afiladas, se merecen las 3 clases, fue un
+> gran show"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase → Instant Classic Crown** para el tag, que **gana**:
+  **pina a Chelsea Green con el Annihilator** en 9:43.
+- **"Afiladas"** — el elogio es de filo, no de dominio: las heels
+  hacen el trabajo que el ángulo necesita.
+- **La consecuencia**: exigió a Nick Aldis un title match contra
+  Green; Aldis respondió que la campeona debía ser re-evaluada.
+- Ver [`../matches/2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md`](../matches/2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

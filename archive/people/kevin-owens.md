@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-owens
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Sub-agente card-wwe-summerslam-n1-n2-2026 (research 2026-08-01, closed) — Forbes, CBS Sports, Fightful, Wrestling Inc, Last Word on Pro Wrestling"
   - "El Vehemiurgo, notebook 2026-08-01 s17 (visión directa)"
@@ -127,6 +127,45 @@ valora la entrega in-ring pese a eso. Ver
 [`../segments/2026-08-21-promo-video-punk-vs-owens-wwe-smackdown.md`](../segments/2026-08-21-promo-video-punk-vs-owens-wwe-smackdown.md)
 y
 [`../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md`](../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md).
+
+### Sesión 2026-08-26 s54 — "Debería retirarse o hacer un heel turn" — y "KO sí rinde in-ring" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"Owens sigue decepcionando, podría cortar una gran promo pero solo
+> se puso a llorar [...] cuando se volvió tan soft y aburrido [...]
+> Owens definitivamente perdió el filo, todo lo que hace es llorar
+> porque CM Punk no le hizo caso hace 20 años, hasta Eddie Kingstone
+> hizo exactamente el mismo ángulo pero mucho mejor, y Eddie Kingstone
+> ya es un lloron grande, entonces Owens realmente fue expuesto en
+> esta rivalidad, deberia retirarse o hacer un heel turn"*
+>
+> *"KO si rinde in ring y es bueno que lo pongan con Sami ahora hasta
+> que deje de llorar por ser gordo"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética — el fallo más duro del archivo sobre él, y su
+propia excepción**:
+
+- **La condena es de registro, no de oficio**: *"perdió el filo"*,
+  *"soft y aburrido"*, *"realmente fue expuesto en esta rivalidad"*.
+  **El veredicto**: retirarse o girar a heel.
+- **La comparación que remata, y que es de historiador**: *"hasta
+  Eddie Kingston hizo exactamente el mismo ángulo pero mucho mejor, y
+  Eddie Kingston ya es un llorón grande"*. **El agravio no es el
+  llanto: es que otro lo hizo mejor con peor material.**
+- **La excepción, en el mismo volcado**: *"KO sí rinde in-ring"*.
+  **El Vehemiurgo separa al trabajador del personaje** — y aprueba el
+  pivote hacia Sami Zayn.
+- **Precisión de research**: la línea de su madre **apunta a Sami
+  Zayn, no a Punk** — Owens contó que su madre peleó por su vida hace
+  dos años, que viajó igual a Toronto para verlo campeón, y que
+  **Zayn le arruinó ese momento**. El juicio del Vehemiurgo sobre su
+  tono no depende del destinatario, y se registra íntegro.
+- **En el main event**: triple threat sin ganador por interferencia de
+  Zayn. Ver
+  [`../matches/2026-08-28-finn-balor-vs-kevin-owens-vs-gunther-wwe-smackdown.md`](../matches/2026-08-28-finn-balor-vs-kevin-owens-vs-gunther-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: cm-punk
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones cross-cluster"
   - "Dossieres WrestleMania 42 + Money in the Bank 2013 + cluster Eddie/Punk IWA"
@@ -183,6 +183,32 @@ habría evitado. Cross-link con
 
 > *"this whole CM Punk and Cody vs TKO story of real
 > wrestlers and play wrestlers, is great"*
+
+### Sesión 2026-08-26 s54 — La interrupción que activa la clase (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"este segmento se merece una WE class, pero solo desde la
+> interrupción de Punk, antes de eso son solo lloros que Owens
+> aburridos"*
+>
+> *"encima tenemos run in de CM Punk al final, fue un show muy cool"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **La clase de la apertura empieza con él**: el recorte —*"solo desde
+  la interrupción de Punk"*— **le atribuye a su entrada el momento en
+  que el segmento se vuelve premiable**.
+- **Su línea de la noche**: le tiró a Ottawa, amenazando con mandar a
+  Owens de paseo *"como Brady Tkachuk dejando a los Senators"*. WWE
+  tituló el clip **"CM Punk calls out Kevin Owens for a fight"**
+  [primaria].
+- **El run-in del cierre, precisado**: Punk salió corriendo hacia Sami
+  Zayn y **Zayn también lo tumbó con el título**. **Quien queda de pie
+  con el cinturón en alto es Zayn**, y Punk **sale del show sin
+  retador definido**.
 
 ## Lectura consolidada del Vehemiurgo
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: paige
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE Raw, 11/5/2026)"
   - "Mención previa: s41 ('las bellas y paige')"
@@ -98,6 +98,32 @@ que extraña el oro y que va por el **Campeonato de Estados Unidos**.
 contrario, Nikki y Brie Bella le hicieron heel turn en SummerSlam
 2026, venciéndola junto a Fatal Influence. Ver
 [`../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md`](../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md).
+
+### Sesión 2026-08-26 s54 — "Con buenas rivales puede sacar una buena lucha" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Paige puede ponerse oldcshool y con buenas rivales de hecho puede
+> sacar una buena lucha, me gusta que la mantuvieron corta y efectiva
+> [...] se merecen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase → Instant Classic Crown** para el match, que
+  **pierde**: queda atrapada en el numbers game de Fatal Influence y
+  Jacy Jayne la sorprende con inside cradle (7:43).
+- **El elogio es condicionado, y el condicional es el fallo**: *"puede
+  ponerse oldschool y **con buenas rivales** de hecho puede sacar una
+  buena lucha"*. No es que sea buena: es que **con la rival correcta
+  lo es**.
+- **El heat tenía causa**: Fallon Henley y Lainey Reid le habían
+  ganado los **Women's Tag Team Championships a ella y Brie Bella** en
+  el SNME de julio.
+- **Post-match**: **regreso de Nikki Bella**, que sale desde el
+  público y la ataca por la espalda — spear y **Rack Attack 2.0**.
+- Ver [`../matches/2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md`](../matches/2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

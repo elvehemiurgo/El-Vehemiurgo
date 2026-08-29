@@ -12,6 +12,11 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-08-28 | Apertura: Kevin Owens y su madre, la interrupción de CM Punk, y Gunther y Finn Bálor entrando al cuadro | WWE / SmackDown | promo de apertura / armado de main event | WE | — | en-investigacion | 1 | [→](2026-08-28-apertura-owens-punk-balor-gunther-wwe-smackdown.md) |
+| 2026-08-28 | Careo Cody Rhodes y Randy Orton — los padres, el perro muerto, y la mano que no se levanta | WWE / SmackDown | careo in-ring / promo personal | WE | — | en-investigacion | 1 | [→](2026-08-28-careo-cody-randy-orton-wwe-smackdown.md) |
+| 2026-08-28 | Rey Fénix y Ricky Saints backstage — el retador que le recuerda que va a volver a SmackDown | WWE / SmackDown | backstage / entrevista con interrupción | WE | — | en-investigacion | 1 | [→](2026-08-28-fenix-ricky-saints-backstage-wwe-smackdown.md) |
+| 2026-08-28 | Promo de Blake Monroe interrumpida por Giulia — y el veredicto acumulado sobre Giulia | WWE / SmackDown | entrevista backstage / ataque | WE | — | en-investigacion | 1 | [→](2026-08-28-promo-blake-monroe-giulia-wwe-smackdown.md) |
+| 2026-08-28 | Promo video Penta vs Rey Fénix — el crossover, a nivel WrestleMania | WWE / SmackDown | promo video / hype package | WE+ | — | en-investigacion | 1 | [→](2026-08-28-promo-video-penta-vs-fenix-wwe-smackdown.md) |
 | 2026-08-25 | NXT Heatwave Summit — Waller interrumpe a las campeonas, brawl total, y Zilla Fatu queda de pie con el cinturón | WWE / NXT | cumbre coral de cierre / brawl | WE | — | en-investigacion | 1 | [→](2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md) |
 | 2026-08-25 | Keanu Carver y Robert Stone — el match que sale de la oficina y la victoria sucia que vuelve a ella | WWE / NXT | backstage / oficina del GM | WE | — | en-investigacion | 1 | [→](2026-08-25-keanu-carver-robert-stone-backstage-nxt.md) |
 | 2026-08-25 | Promo video de Kelani Jordan — 'gano el título en mi primera oportunidad' | WWE / NXT | promo video / pregrabado | WE | — | en-investigacion | 1 | [→](2026-08-25-promo-video-kelani-jordan-nxt.md) |

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chelsea-green
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
   - "Mención previa en notebook 2026-05-09 (lista personal completa) — vs Giulia 02/01/2026, vs Jordynne Grace 16/01/2026, vs Tiffany Stratton/Lash Legend 06/02/2026, con Sol Ruca NXT 23/12/2025"
@@ -249,6 +249,36 @@ quien la frena para no arriesgar su reinado. Más tarde, tras el ataque
 de The Irresistible Forces sobre Tiffany, **sale con el kendo stick a
 hacer el save** — arranque efectivo de la alianza Chelsea/Tiffany. Ver
 [`../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md`](../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md).
+
+### Sesión 2026-08-26 s54 — "Un reinado memorable a su estilo" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"los stakes de Chelsea y su lesión y su recuperación contra el
+> tiempo con tremendo target encima, está entretenido [...] Chelsea
+> como fighting champion face tiene cautivados a todos, es muy buen
+> booking y está teniendo un reinado memorable a su estilo [...] se
+> merecen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética — el fallo más alto que el archivo le registra**:
+
+- **Triple clase → Instant Classic Crown** para el tag, que **pierde
+  por pinfall** (Annihilator de Nia Jax, 9:43).
+- **"A su estilo"** es la parte fina: **no la mide contra el molde de
+  campeona dominante**, la mide contra lo que ella es. Fighting
+  champion face con el cuerpo roto.
+- **El contexto confirmado**: es **Interim WWE Women's Champion**
+  —título ganado en SummerSlam 2026 en un five-way ladder, creado por
+  la lesión de rodilla de Rhea Ripley—, con **hueso orbital roto**
+  desde el 7/8 (se lo causó Lainey Reid) y una **ventana de 30 días**
+  que le dio Nick Aldis para curarse y encarar una defensa
+  obligatoria. **Luchó con máscara protectora y los médicos
+  intentaron sacarla del match; ella volvió a entrar.**
+- **La consecuencia**: Nia Jax exigió el title match; Aldis dijo que
+  Green debía ser re-evaluada.
+- Ver [`../matches/2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md`](../matches/2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

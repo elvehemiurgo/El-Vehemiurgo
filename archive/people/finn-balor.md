@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: finn-balor
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Finn Bálor"
   - "Insight with Chris Van Vliet — entrevistas varias"
@@ -146,6 +146,31 @@ sección 5.
 [`promotions/judgment-day.md`](../promotions/judgment-day.md),
 [`promotions/the-system.md`](../promotions/the-system.md),
 [`segments/2026-04-20-jd-mcdonagh-video-promo-raw.md`](../segments/2026-04-20-jd-mcdonagh-video-promo-raw.md).
+
+### Sesión 2026-08-26 s54 — "Esta versión de Finn en TV es un lujo" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"los que si se vieron bien fueron FInn Y Gunther, esta rivalidad se
+> está calentando cada semana y ambos están poniendo buenas promos,
+> face Finn es mucho más cool y con mejores promos que face Kevin,
+> deberian darle a él la rivalidad generacional con Punk"*
+>
+> *"tener esta versión de Finn con estos stakes en tv es
+> definitivamente un lujo"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos piezas**: **WE** por la apertura y **triple clase → Instant
+  Classic Crown** por el main event.
+- **"Un lujo"** es la palabra exacta: no que esté bien, sino que
+  **esta versión suya no debería estar disponible en TV semanal**.
+- **Propuesta de booking declarada**: *"face Finn es mucho más cool y
+  con mejores promos que face Kevin, deberían darle a él la rivalidad
+  generacional con Punk"* — el archivo la registra como fallo
+  editorial, no como pronóstico.
 
 ## Lectura consolidada del Vehemiurgo
 

@@ -13,6 +13,9 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-28 | Finn Bálor vs Kevin Owens vs Gunther — contendiente Nº1 al Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-28-finn-balor-vs-kevin-owens-vs-gunther-wwe-smackdown.md) |
+| 2026-08-28 | Paige vs Jacy Jayne (c) — WWE Women's United States Championship | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md) |
+| 2026-08-28 | Tiffany Stratton & Chelsea Green vs The Irresistible Forces (Nia Jax & Lash Legend) | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md) |
 | 2026-08-25 | BirthRight (Charlie Dempsey, Uriah Connors, Lexis King & Channing 'Stacks' Lorenzo) vs Noam Dar, Romeo Moreno, Dorian Van Dux & Sean Legacy | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-08-25-birthright-vs-faces-8-man-nxt.md) |
 | 2026-08-25 | Kam Hendrix vs Keanu Carver | WWE / NXT | FS·WE | FC | en-investigacion | 1 | [→](2026-08-25-kam-hendrix-vs-keanu-carver-nxt.md) |
 | 2026-08-25 | Rey Fénix (c) vs EK Prosper — AAA World Cruiserweight Championship | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md) |

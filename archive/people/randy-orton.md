@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: randy-orton
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Sub-agente card-wwe-smackdown-070826 (research 2026-08-01, closed) — Yahoo Sports, Forbes, ESPN, Fightful, 411mania"
   - "El Vehemiurgo, notebook 2026-08-01 s20 (visión directa)"
@@ -89,6 +89,33 @@ Sunday Night's Main Event (6/9, Atlanta)— y promete humillarlo delante
 de su familia. Aldis impone la regla de no contact: tocarse antes del
 match cuesta toda oportunidad titular mundial futura para ambos. Ver
 [`../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md`](../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md).
+
+### Sesión 2026-08-26 s54 — "Un heel super cerebral y bien oldschool" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Randy respondió super bien, como un completo prick, un heel super
+> cerebral y bien oldschool, esta programación así personal y
+> autorreferencial, realmente está vendiendo a Orton como un completo
+> desgraciado, brutal, es el mejor escenario posible para llevar a
+> Cody al límite [...] un tratamiento premium para cualquier leyenda
+> viviente como Orton [...] Se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el careo. **Cerebral + oldschool** es el
+  elogio máximo que este archivo le da a un heel de promo.
+- **El heel bien construido es inversión en el face**: *"es el mejor
+  escenario posible para llevar a Cody al límite"*.
+- **Lo que dijo, reportado**: fue al hueso — sacó **al perro muerto de
+  Cody**, **a su madre** y **a su esposa**. Cuando Cody lo desafió a
+  pegarle, **no cayó** (la regla de no contact de Aldis le costaría el
+  derecho a pelear por el título para siempre).
+- **Destino**: **Cody Rhodes vs Randy Orton, Sunday Night's Main
+  Event, 6/9/2026, Atlanta**.
+- Ver [`../segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md`](../segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

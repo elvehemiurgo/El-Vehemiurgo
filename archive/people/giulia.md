@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: giulia
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-09 (lista personal completa + takes rivalidades vigentes)"
   - "Volcado Vehemiurgo 2026-07-14 s28 (visión directa — comparación con Thekla)"
@@ -200,6 +200,32 @@ efectivamente encarna lo que Vaquer y Giulia solo prometen: *"todo lo
 que supuestamente son Vaquer y Giulia en verdad es La Catalina, ella
 está más lista"*. Es el juicio más duro que el archivo le registra a
 Giulia, y conecta con la reserva de booking ya anotada en s16.
+
+### Sesión 2026-08-26 s54 — El veredicto acumulativo: "cada vez más y más genérica" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"lo único es que Giulia se vuelve cada vez más y más genérica sigue
+> sin encontrar que hacer, sigue sin aprender ingles, sigue fijandose
+> más en sus accesorios que en aprender del enterteinment o poner
+> promos épicas, una pena, igual este segmento se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética — el fallo más duro que el archivo le registra**:
+
+- **Cuatro cargos, todos con "sigue"**: cada vez más genérica; sigue
+  sin encontrar qué hacer; **sigue sin aprender inglés**; y el más
+  filoso — *"sigue fijándose más en sus accesorios que en aprender del
+  entertainment o poner promos épicas"*. **El adverbio es la
+  condena**: no es un mal show, es una tendencia sin corregir.
+- **El cierre**: *"una pena"* — lamento, no desprecio. El Vehemiurgo
+  registra pérdida de potencial, no falta de talento.
+- **La clase se sostiene igual**: *"**igual** este segmento se merece
+  una WE class"* — el segmento funciona pese al desnivel.
+- **Lo que sí hizo esa noche**: interrumpió la entrevista de Blake
+  Monroe y **la atacó**, cobrando el asalto del 21/8.
+- Cruza con [`../topics/english-promo-limitation.md`](../topics/english-promo-limitation.md).
 
 ## Pendientes / huecos
 

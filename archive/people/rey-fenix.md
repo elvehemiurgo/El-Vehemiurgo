@@ -292,6 +292,35 @@ Buster**, contrarrestando el Martinete de El Fiscal. Ver
   tiene documentada. Ver [`./psicosis.md`](./psicosis.md).
 - Ver [`../matches/2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md`](../matches/2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md).
 
+### Sesión 2026-08-26 s54 — La WE+ del crossover y el careo con Ricky Saints (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"el promo video para Penta vs Fenix estuvo épico [...] nivel
+> wrestlemania, fue tremendo; se merece una WE+"*
+>
+> *"ponen a Fenix cara a cara con Ricky backstage, dandole stakes al
+> cruserwight championship y más razones para tener a Fenix en
+> smackdown, y frente a un talker fuerte como Ricky, Fenix se vio muy
+> cool bajo presión, me encanta este booking para el midcard, se
+> merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos piezas**: **WE+** (la primera del archivo) por el promo video
+  con Penta, y **WE** por el backstage con Ricky Saints.
+- **El elogio del backstage es de arquitectura de midcard**: dos
+  problemas resueltos con un segmento — el título gana peso y él gana
+  motivo de permanencia en SmackDown.
+- **Bajo presión, y con el matiz de idioma implícito**: *"frente a un
+  talker fuerte como Ricky, Fénix se vio muy cool bajo presión"* — el
+  archivo viene registrando el inglés como su techo.
+- **Precisión de título**: el cetro en discusión es el **AAA World
+  Cruiserweight Championship**, que **él ostenta**; **Ricky Saints es
+  el retador**.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

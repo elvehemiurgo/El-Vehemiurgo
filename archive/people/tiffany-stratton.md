@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tiffany-stratton
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — WWE SmackDown, 17/4/2026)"
   - "Mención previa: match vs Giulia (27/3/2026, WWE SmackDown)"
@@ -248,6 +248,26 @@ con el kendo stick. Ver
 [`../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md`](../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md)
 y
 [`../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md).
+
+### Sesión 2026-08-26 s54 — "Ya se siente más stiff" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Tifffany ya se siente más stiff y puede poner buenas luchas
+> seguido [...] se merecen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase → Instant Classic Crown** para el tag, que **pierde**
+  (su compañera Chelsea Green come el pin).
+- **"Stiff" es elogio en este archivo**: golpea de verdad. Y el
+  *"ya"* marca **progresión medida**, no estado.
+- **"Puede poner buenas luchas seguido"** — el criterio es de
+  consistencia, no de pico.
+- Contexto: perdió el **WWE Women's United States Championship** ante
+  Jacy Jayne el 14/8.
 
 ## Pendientes / huecos
 

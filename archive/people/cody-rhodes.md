@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: cody-rhodes
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones"
   - "Dossier WrestleMania 42 + WWE MITB 2013 + cluster cross-link NJPW 2018"
@@ -182,6 +182,35 @@ father"* promo)
 
 (Preservada en
 [`../segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md`](../segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md).)
+
+### Sesión 2026-08-26 s54 — "Se vuelve más cool cada semana" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"una promo muy personal de Cody, realmente metiendose con Rany y su
+> trabajo, intentando bajarlo de su pedestal [...] Es un ángulo
+> importante para el QB de WWE [...] estan poniendo programación tipo
+> attitude era muy premium, cada comeback más personal que el otro, y
+> Cody se vuelve más cool cada semana. Se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el careo — **y la pieza en cuya frase
+  siguiente nace la WE+**. El archivo registra WE (lo declarado) y
+  deja anotada la duda de si le corresponde el escalón nuevo.
+- **"El QB de WWE"** — el Vehemiurgo lo lee como **la franquicia**, y
+  el ángulo como asignación de recursos acorde.
+- **El encuadre de época**: *"programación tipo Attitude Era muy
+  premium, cada comeback más personal que el otro"*.
+- **Su jugada**: preguntó si Orton es **un generational superstar como
+  Dusty** o **un first-class screw-up como Bob Orton Jr.**; y cuando
+  Orton fue al hueso, **lo desafió a pegarle primero** sabiendo que el
+  que rompe la regla de Aldis pierde para siempre el derecho al
+  título. **Orton no cayó, y Cody se llevó la última sonrisa**:
+  *"nos vemos en Atlanta"*.
+- Ver [`../segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md`](../segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md).
 
 ## Lectura consolidada del Vehemiurgo
 

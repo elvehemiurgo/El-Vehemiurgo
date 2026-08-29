@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: gunther
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
 tags: [gunther, wwe-smackdown-2026, wrestling-entertainment, contract-signing, emboscada, primer-registro-individual]
@@ -292,6 +292,31 @@ contraposición al segmento de Kevin Owens de la misma noche — *"nada
 de estar llorando como Owens"*. Detalle carny que aporta el research:
 **usa su propia victoria como queja**. Ver
 [`../segments/2026-08-14-gunther-finn-balor-backstage-wwe-smackdown.md`](../segments/2026-08-14-gunther-finn-balor-backstage-wwe-smackdown.md).
+
+### Sesión 2026-08-26 s54 — "Está mejor que nunca" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"los que si se vieron bien fueron FInn Y Gunther, esta rivalidad se
+> está calentando cada semana y ambos están poniendo buenas promos"*
+>
+> *"y Gunther está mejor que nunca"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **Dos piezas**: **WE** por la apertura y **triple clase → Instant
+  Classic Crown** por el main event.
+- **Superlativo de carrera**: *"está mejor que nunca"*.
+- **Su línea de la noche, reportada**: dijo que **por fin entiende por
+  qué Owens y Punk se detestan — porque cada uno ve reflejados sus
+  propios rasgos arrogantes e insoportables en el otro**, y remató con
+  que se alegra de que la madre de Owens haya salido adelante,
+  **lástima que Owens no**.
+- **Detalle de booking**: Aldis le había garantizado que **no habría
+  shenanigans** en el main event, minutos antes de que Sami Zayn lo
+  destruyera.
 
 ## Pendientes / huecos
 

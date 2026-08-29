@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: blake-monroe
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Wikipedia — Blake Monroe (presunción — verificar grafía oficial WWE)"
   - "Cobertura WWE NXT 2025-2026"
@@ -106,6 +106,38 @@ oficio + entertainment** — material editorial para distinguir
 del *workrate-only* (que cumple oficio sin entertainment) y del
 *charisma-only* (que cumple entertainment sin oficio). Blake como
 caso del **integrador que eleva el producto**.
+
+### Sesión 2026-08-26 s54 — "Está haciendo las cosas a su modo" (SmackDown 28/8/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Blake tuvo una gran promo, me gusta el gimmick, si se parece el
+> setup inicial a una especie de Toni Storm, pero nada que ver, está
+> haciendo las cosas a su modo, y me gusta su idea de que Giulia no se
+> merecia una lucha con Blake ni los stakes merecian su entreda
+> completa por eso nos privó de su debut la semana pasada [...] Blake
+> si puede cortar buenas promos [...] este segmento se merece una WE
+> class"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada.**
+- **El Vehemiurgo nombra la referencia obvia y la desecha**: *"se
+  parece el setup inicial a una especie de Toni Storm, pero nada que
+  ver, está haciendo las cosas a su modo"*. **Es lo contrario del
+  reproche de derivación** que el archivo le hizo a Bron Breakker por
+  *"mini Rollins"*.
+- **Lo que le celebra es un argumento de kayfabe**: convertir el
+  debut abortado en material de promo — Giulia no merecía el match ni
+  los stakes merecían su entrada completa.
+- **Confirmado por el contexto**: el 21/8 **el match nunca arrancó**
+  porque Monroe la atacó en el pasillo durante su entrada, y su
+  justificación fue *"no esperé nueve años para llegar a WWE para
+  debutar así"*. **Su debut in-ring en SmackDown sigue sin ocurrir.**
+- **El 28/8 Giulia cobra**: interrumpe la entrevista y la ataca.
+- Ver [`../segments/2026-08-28-promo-blake-monroe-giulia-wwe-smackdown.md`](../segments/2026-08-28-promo-blake-monroe-giulia-wwe-smackdown.md).
 
 ## Lectura consolidada del Vehemiurgo
 

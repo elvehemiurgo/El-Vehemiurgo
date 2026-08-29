@@ -229,6 +229,33 @@ bracket rumbo al Raw del 14/9/2026 en Ciudad de México.
   obligación de unirse. Reta al grupo a un **trío para Ola de Calor
   (30/8, Edinburg, Texas)** junto a Rey Fénix y Dragon Lee.
 
+### Sesión 2026-08-26 s54 — La primera WE+ del archivo (SmackDown 28/8/2026)
+
+**Cita verbatim**:
+
+> *"Luego el promo video para Penta vs Fenix estuvo épico, se armaron
+> programación genial con este crossover, y ambos talentos están muy
+> over poniendo buenas luchas, tremendo showcase, y estos talentasos
+> si están dandolo todo, cada uno a su estilo, moviendo la industria
+> adelante, está increible el booking y las promos que se mandaron,
+> nivel wrestlemania, fue tremendo; se merece una WE+"*
+>
+> — El Vehemiurgo, 2026-08-26 s54 (verbatim)
+
+**Lectura sintética**:
+
+- **WE+ declarada — la primera del archivo**, para el promo video de
+  su final contra Rey Fénix.
+- **Por qué WE+ y no WE**: la clase nueva pide *"definir el
+  entertainment y el wrestling booking inteligente"*, y el elogio va
+  exactamente ahí — *"se armaron programación genial con este
+  crossover"*, *"está increíble el booking"*.
+- **La vara**: *"nivel WrestleMania"*, aplicada a una pieza de TV
+  semanal.
+- **La lectura de industria**: *"cada uno a su estilo, moviendo la
+  industria adelante"*.
+- Ver [`../segments/2026-08-28-promo-video-penta-vs-fenix-wwe-smackdown.md`](../segments/2026-08-28-promo-video-penta-vs-fenix-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.
