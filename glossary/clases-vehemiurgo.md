@@ -246,6 +246,68 @@ Vehemiurgo revisa con voluntad editorial, no por barrido bulk.
 
 ---
 
+## WE+ — Wrestling Entertainment Plus
+
+**Ley del Vehemiurgo (2026-08-26, s54)**, verbatim:
+
+> *"Y creemos la WE+ que son segmentos simplemente demasiado buenos y
+> definen el enterteinment y wrestling booking inteligente."*
+
+### Qué es
+
+**WE+ es un escalón por encima de Wrestling Entertainment.** A
+diferencia de las coronas —que solo ponen nombre a combinaciones
+existentes y **no tocan la jerarquía**—, **WE+ sí la toca**: es una
+**clase propia**, para la pieza de entertainment que además **define
+el booking inteligente**.
+
+Los dos criterios que el Vehemiurgo nombra:
+
+1. **"Simplemente demasiado buenos"** — el salto es de grado, no de
+   naturaleza. WE+ no mide otra cosa que WE: mide lo mismo, más
+   arriba.
+2. **"Definen el entertainment y el wrestling booking inteligente"** —
+   **el segundo criterio es el que separa**. No alcanza con entretener
+   excepcionalmente: la pieza tiene que **funcionar como demostración
+   de cómo se bookea bien**.
+
+### Vocabulario operativo
+
+| Clase | Slug de frontmatter | Índices |
+|---|---|---|
+| Wrestling Entertainment | `wrestling-entertainment` | `WE` |
+| **Wrestling Entertainment Plus** | `wrestling-entertainment-plus` | `WE+` |
+
+**Regla dura**: una pieza lleva **una de las dos, nunca las dos**.
+WE+ no se suma a WE — la reemplaza.
+
+### Primeras piezas declaradas
+
+- **Promo video Penta vs Rey Fénix** (SmackDown, 28/8/2026) — WE+
+  declarada explícita: *"nivel wrestlemania, fue tremendo; se merece
+  una WE+"*.
+
+### Dos preguntas abiertas — pendientes de declaración
+
+**El archivo no las resuelve por su cuenta:**
+
+1. **¿WE+ entra en las coronas?** El Vehemiurgo declaró la Feeling
+   Crown para `FS + WE` y la Instant Classic Crown para las tres
+   clases, **antes de que WE+ existiera**. Aplicando la regla de
+   coronas al pie de la letra —*"una combinación sin corona declarada
+   no lleva ninguna"*—, una pieza con `FS + WE+` **no lleva corona**,
+   lo que produce el resultado incómodo de que una pieza mejor quede
+   sin premio mientras `FS + WE` sí lo tiene. **Queda así hasta que el
+   Vehemiurgo declare**, porque inventar la extensión sería asignar un
+   premio que nadie otorgó.
+2. **¿El segmento Cody Rhodes / Randy Orton del 28/8 es WE o WE+?**
+   El Vehemiurgo le declaró **WE** y **acto seguido creó la WE+ en la
+   misma frase**, lo que sugiere que la pieza fue el disparador. **El
+   archivo registra WE —lo declarado— y deja la duda anotada**, sin
+   inflar.
+
+---
+
 ## Las coronas — premios derivados de las clases
 
 **Ley del Vehemiurgo (2026-08-26, s52)**, verbatim:

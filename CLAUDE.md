@@ -235,7 +235,7 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   nueva de match.
   `[verif]` queda **solo** para lo que el research tampoco cierra.
   Precedente: el 5-way y Las Tóxicas de *Noche de los Grandes*
-  Night 2 (s02→s53), donde el research además destapó que dos
+  Night 2 (s02→s54), donde el research además destapó que dos
   fichas registraban un show inexistente.
   **El contexto dictado es verdad de tablas**: afiliaciones,
   alineaciones y resultados declarados para la fecha del show
@@ -285,6 +285,16 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   por declaración explícita; una combinación sin corona declarada no
   lleva ninguna. Doctrina completa en
   `glossary/clases-vehemiurgo.md`.
+- **WE+ (ley desde 2026-08-26 s54)**: *"creemos la WE+ que son
+  segmentos simplemente demasiado buenos y definen el enterteinment y
+  wrestling booking inteligente"* (verbatim del Vehemiurgo). **Es un
+  escalón por encima de WE y —a diferencia de las coronas— SÍ toca la
+  jerarquía**: clase propia, slug `wrestling-entertainment-plus`,
+  `WE+` en índices. **Una pieza lleva WE o WE+, nunca las dos.** Dos
+  preguntas quedan abiertas hasta declaración explícita: si WE+ entra
+  en las coronas (hoy `FS + WE+` **no lleva corona**, por la regla de
+  que una combinación sin corona declarada no lleva ninguna), y si el
+  segmento que disparó la ley queda en WE o sube a WE+.
 
 ---
 

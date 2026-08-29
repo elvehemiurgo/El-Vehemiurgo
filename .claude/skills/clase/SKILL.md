@@ -7,8 +7,13 @@ description: Asignar, ratificar o consultar clases Vehemiurgia (perfect-wrestlin
 
 Doctrina completa: `glossary/clases-vehemiurgo.md` + CLAUDE.md §4.
 Vocabulario ÚNICO en frontmatter: `perfect-wrestling`,
-`fighting-spirit`, `wrestling-entertainment` (slugs; en índices
-PW·FS·WE).
+`fighting-spirit`, `wrestling-entertainment`,
+`wrestling-entertainment-plus` (slugs; en índices PW·FS·WE·WE+).
+
+**WE+** es un escalón por encima de WE (ley s54): *"segmentos
+simplemente demasiado buenos que definen el entertainment y el
+wrestling booking inteligente"*. **Una pieza lleva WE o WE+, nunca las
+dos.** A diferencia de las coronas, WE+ SÍ toca la jerarquía.
 
 **Coronas — NO se escriben, se derivan.** `FS+WE` = **Feeling Crown
 (FC)**; las tres clases = **Instant Classic Crown (ICC)**. Salen

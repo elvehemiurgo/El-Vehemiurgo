@@ -23,8 +23,17 @@ LISTA = ROOT / "notebook/2026-05-09-2-lista-personal-completa.md"
 REGISTRO = ROOT / "glossary/nombres-canonicos.md"
 PANTEON = ROOT / "archive/topics/heroes-fundamentales-vehemiurgia.md"
 
-CLASES_OK = {"perfect-wrestling", "fighting-spirit", "wrestling-entertainment"}
-ABBR = {"perfect-wrestling": "PW", "fighting-spirit": "FS", "wrestling-entertainment": "WE"}
+# WE+ es un ESCALÓN por encima de Wrestling Entertainment, declarado por
+# el Vehemiurgo el 2026-08-26 (s54): "segmentos simplemente demasiado
+# buenos que definen el entertainment y el wrestling booking
+# inteligente". No es una combinación — es una clase propia, y a
+# diferencia de las coronas SÍ toca la jerarquía. Una pieza lleva
+# `wrestling-entertainment` o `wrestling-entertainment-plus`, nunca las
+# dos.
+CLASES_OK = {"perfect-wrestling", "fighting-spirit", "wrestling-entertainment",
+             "wrestling-entertainment-plus"}
+ABBR = {"perfect-wrestling": "PW", "fighting-spirit": "FS",
+        "wrestling-entertainment": "WE", "wrestling-entertainment-plus": "WE+"}
 
 # Coronas: premios DERIVADOS de la combinación de clases (ley del
 # Vehemiurgo 2026-08-26 s52 — "no hay que modificar la jerarquía, solo
