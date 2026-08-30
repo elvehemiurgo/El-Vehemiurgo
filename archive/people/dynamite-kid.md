@@ -14,6 +14,9 @@ tags: [dynamite-kid, tom-billington, british-wrestling-pillar, joint-promotions-
 
 # Dynamite Kid (Tom Billington)
 
+> **DIOS DEL WRESTLING #7 (Tier 1) del Vehemiurgo** *(#6→#7 el
+> 2026-08-26 s55, por el ingreso de James Storm en el #6)*
+
 > **HÉROE FUNDAMENTAL VEHEMIURGIA #6** ([panteón](../topics/heroes-fundamentales-vehemiurgia.md)). Declaración categórica
 > Vehemiurgo (2026-05-10): ***"el Dynamite Kid es wrestling
 > puro"***. British wrestling pillar pre-Calgary + Calgary

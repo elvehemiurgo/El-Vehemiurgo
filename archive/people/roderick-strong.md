@@ -12,7 +12,7 @@ tags: [roderick-strong, messiah-of-the-backbreaker, mr-roh, generation-next, roh
 
 # Roderick Strong
 
-> **DIOS DEL WRESTLING #7 (Tier 1) del Vehemiurgo**
+> **DIOS DEL WRESTLING #8 (Tier 1) del Vehemiurgo** *(#7→#8 el 2026-08-26 s55, por el ingreso de James Storm en el #6)*
 > ([panteón](../topics/heroes-fundamentales-vehemiurgia.md)) —
 > declarado en notebook 2026-05-26: *"Roderick es mi héroe,
 > está ahí arriba con CM Punk y Christian Cage y Marc Rocko. Es

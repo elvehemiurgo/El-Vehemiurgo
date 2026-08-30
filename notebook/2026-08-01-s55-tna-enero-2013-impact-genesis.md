@@ -11,7 +11,7 @@ tipo: volcado
 piezas: 50
 declaraciones_de_lista:
   - "DEATH GODS: Keith Mitchell, Jim Johnston, Kid Kash, EZ Money, Ken Anderson (Roode retenido: era elogio)"
-  - "PANTEÓN: James Storm al Tier 1; Dirty Heels (tag) al Tier 0; Bad Influence ratificado/ascendido; Austin Aries ratificado como dios"
+  - "PANTEÓN: James Storm al Tier 1 #6; Dirty Heels (tag) al Tier 0; Bad Influence ascendido al Tier 0 (ratificado); Austin Aries ratificado como dios"
 tags: [tna-2013, impact-wrestling, genesis-2013, aces-and-eights, austin-aries, bobby-roode, jeff-hardy, james-storm, bad-influence, kazarian, christopher-daniels, dirty-heels, samoa-joe, kurt-angle, sting, hulk-hogan, bully-ray, gail-kim, taryn-terrell, keith-mitchell, jim-johnston, death-gods, panteon, dixie-carter, era-de-reconstruccion]
 ---
 
@@ -75,19 +75,19 @@ abajo.
 >
 > — El Vehemiurgo, 2026-08-26 s55 (verbatim)
 
-- **James Storm: Tier 0 → Tier 1.** Declaración explícita. **Nota
-  estructural**: el Tier 1 se llama *"Los 7 Dioses del Wrestling"* y
-  tiene **orden real y jerárquico**. Sumar a Storm lo vuelve de ocho.
-  **Pendiente de él**: el número que le corresponde y si el nombre de
-  la sección cambia.
+- **James Storm: Tier 0 → Tier 1, puesto #6.** Declaración explícita
+  de tier y, tras consulta, **de número**: *"que Storm entre en 6"*.
+  El Tier 1 deja de llamarse *"Los 7 Dioses"*. **Corrimientos**:
+  **Dynamite Kid #6→#7** y **Roderick Strong #7→#8**.
 - **Dirty Heels (Austin Aries y Bobby Roode como tag team): alta al
   Tier 0**, como entrada de equipo — precedente de doble presencia ya
   documentado en el panteón (Kyle O'Reilly + reDRagon; Dynamite Kid +
   British Bulldogs).
 - **Bad Influence (Kazarian y Daniels)**: el Vehemiurgo dice *"si es
-  que no están aún"*. **Ya están, en Tier 3 #45.** Queda como
-  **ascenso Tier 3 → Tier 0** por lectura de la frase, pendiente de
-  ratificación.
+  que no están aún"*. **Ya estaban, en Tier 3 #45.** El archivo leyó
+  la frase como ascenso al Tier 0 y **el Vehemiurgo lo ratificó el
+  mismo día**: *"que Bad Influence suba"*. **Firme**, con el slot #45
+  preservado.
 - **Austin Aries**: *"es un dios del wrestling"* — **ya está en Tier
   0**; se registra como **ratificación**, no como alta.
 
