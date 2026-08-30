@@ -195,10 +195,10 @@ con el par **Gunther / Cesaro** que el Vehemiurgo formuló en s29 — el
 Hero queda del lado de Cesaro, con la diferencia de que acá el
 Vehemiurgo lo lee como **rechazo voluntario**, no como inercia.
 
-## Roster vigente — **14 entradas**
+## Roster vigente — **19 entradas**
 
-*9 fundacionales (s29) + 4 de la segunda tanda (s30) + 1 alta s37. Sin
-bajas.*
+*9 fundacionales (s29) + 4 de la segunda tanda (s30) + 1 alta s37 + 5 de
+la cuarta tanda (s55). Sin bajas.*
 
 | Death God | Escena | Estado |
 |---|---|---|
@@ -216,6 +216,11 @@ bajas.*
 | **Zachary Wentz** | CZW → TNA → AEW | Activo |
 | **EYFBO** *(tag team)* | Indie NY → CZW → Impact | Separados (2024) |
 | **Jay Lethal** | ROH → TNA → AEW | Activo |
+| **Kid Kash** | ECW → TNA (X Division) | [verif] |
+| **EZ Money** | ECW → indies de Florida | [verif] |
+| **Ken Anderson** *(Mr. Anderson)* | WWE (Mr. Kennedy) → TNA | [verif] |
+| **Keith Mitchell** *(producción)* | Director de TV — WCW → TNA | [verif] |
+| **Jim Johnston** *(producción)* | Compositor — WWE 1985-2017 | [verif] |
 
 **Bajas**: ninguna. *(Chris Hero fue dado de baja del **Tier 0 del panteón** en s32 y quedó como miembro pleno de esta lista — ver el fallo arriba.)*
 
@@ -268,3 +273,67 @@ cross-link a la ficha de `archive/people/`.
 - [`./the-future-in-2026.md`](./the-future-in-2026.md)
 - [`../../vehemiurgia/czw-2017-2018.md`](../../vehemiurgia/czw-2017-2018.md)
 - [`../../notebook/2026-08-01-s29-vehemiurgia-czw-dwts-better-than-our-best.md`](../../notebook/2026-08-01-s29-vehemiurgia-czw-dwts-better-than-our-best.md)
+
+## Cuarta tanda — 2026-08-26 s55 (5 altas + 1 conflicto abierto)
+
+Volcado histórico de **TNA, enero de 2013** (Impact 3/1, 10/1, 17/1 y
+24/1 + Genesis 13/1). Cinco altas limpias y **una que el archivo no
+ejecuta** hasta que el Vehemiurgo resuelva un choque de listas.
+
+### Las citas
+
+> *"Keith Mitchell es una leyenda del negocio, debe estar en los death
+> gods junto con Jim Johnston, la verdad ellos moldearoin el wrestling
+> moderno con su trabajo y creatividad, top tier production."*
+>
+> *"hayq que poner a Kid Ksh y a EZ Money en los death gods"*
+>
+> *"Ken Anderson merece estar en los death gods, si fue genial y
+> memorable, siempre es wrestling"*
+>
+> *"Bobby Roode es genial, hay que ponerlo en los death gods, es genial
+> en tv"*
+>
+> — El Vehemiurgo, 2026-08-26 s55 (verbatim)
+
+### Altas ejecutadas (5)
+
+| Death God | Escena | Por qué entra, según el Vehemiurgo |
+|---|---|---|
+| **Kid Kash** | ECW → TNA (X Division) | *"es de las últimas [luchas] de Kid Kash en TV, realmente soy fan"* |
+| **EZ Money** | ECW → indies de Florida | Nombrado junto a Kid Kash, sin desarrollo aparte |
+| **Ken Anderson** | WWE → TNA | *"sí fue genial y memorable, siempre es wrestling"*; *"siempre aprovechando el tiempo en cámara"* |
+| **Keith Mitchell** | Director de TV (WCW → TNA) | *"una leyenda del negocio"*; *"top tier production"* |
+| **Jim Johnston** | Compositor (WWE) | *"moldearon el wrestling moderno con su trabajo y creatividad"* |
+
+### Extensión del criterio — declarada, pendiente de ratificación
+
+**Keith Mitchell y Jim Johnston no son luchadores.** La lista se fundó
+como *"luchadores que me cautivaron"*, y el Vehemiurgo los propone por
+**producción** —dirección de TV y música— con un argumento explícito:
+**moldearon el wrestling moderno**.
+
+**El archivo ejecuta el alta y registra la extensión como tal**: la
+lista deja de ser exclusivamente de luchadores para admitir **oficio
+de trastienda que define la experiencia del producto**. Es coherente
+con la doctrina —el wrestling es promotor, luchador y fan, y la
+producción es parte del montaje del promotor— pero **es un cambio de
+alcance**, y queda anotado para ratificación explícita.
+
+### Conflicto abierto — Bobby Roode
+
+**El Vehemiurgo pidió a Bobby Roode para esta lista, pero Roode ya
+está en el panteón (Tier 0)** — y esta lista se fundó justamente para
+**los que cautivan sin entrar a ningún panteón**: *"no los pondría en
+ningún panteón"*.
+
+**El archivo NO ejecuta este alta.** Las tres salidas posibles son del
+Vehemiurgo, no del copiloto:
+
+1. **Roode baja del Tier 0** y pasa a Death Gods.
+2. **La regla de exclusión se relaja** — se admite doble pertenencia.
+3. **La mención era elogio, no alta** — Roode se queda solo en el
+   panteón.
+
+*(Precedente cercano: el caso Chris Hero, s31→s32, se resolvió por la
+opción 1 — baja del Tier 0, alta plena acá.)*

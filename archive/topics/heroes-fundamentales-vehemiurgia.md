@@ -34,7 +34,7 @@ dos tiers de profundidad:
   y conocimiento old-school — héroes menos reconocidos, pero igual o
   más influyentes. Su propósito declarado incluye **ascender talentos
   del Tier 2 y Tier 3** según influencia y estilo.
-- **Tier 1 — Dioses del Wrestling (#1-7)**: jerarquía real. El top
+- **Tier 1 — Dioses del Wrestling (#1-8 desde s55)**: jerarquía real. El top
   7 SÍ es un orden — *"realmente los dioses del wrestling"* para el
   Vehemiurgo.
 - **Tier 2 — The Pillars of Wrestling (#8-25)**: segundo nivel,
@@ -80,7 +80,6 @@ dos tiers de profundidad:
 | **Gail Kim** | Pionera de la división femenina TNA/WWE | _(ficha pendiente)_ |
 | **Chris Sabin** | X-Division / Motor City Machine Guns | _(ficha pendiente)_ |
 | **Alex Shelley** | X-Division / Motor City Machine Guns | _(ficha pendiente)_ |
-| **James Storm** | TNA / carny sureño | _(ficha pendiente)_ |
 | **Bobby Roode** | TNA / heel de oficio | _(ficha pendiente)_ |
 | **Low Ki** | Indie americano / strong style puro | [→](../people/low-ki.md) |
 | **"Macho Man" Randy Savage** | Carny / draw histórico — **ascendido del Tier 3 (#40)** | _(ficha pendiente)_ |
@@ -90,6 +89,8 @@ dos tiers de profundidad:
 | **LA Knight / Eli Drake** | Carny / promo-driven — **ascendido del Tier 3 (#28)** | [→](../people/la-knight.md) |
 | **EC3** | IMPACT Wrestling | _(ficha pendiente)_ |
 | **Bryan Danielson** | Worker de oficio total | _(ficha pendiente)_ |
+| **Dirty Heels** *(tag team: Austin Aries y Bobby Roode)* | TNA / heels de oficio — **alta s55** | _(ficha pendiente)_ |
+| **Kazarian & Daniels** *(Bad Influence / The Addiction)* | Tag / TNA-ROH — **ascendidos del Tier 3 (#45), s55, por lectura pendiente de ratificación** | [→](../people/frankie-kazarian.md) |
 
 **Baja del Tier 0 — Chris Hero (2026-08-01 s32)**
 
@@ -110,7 +111,11 @@ alcance por sí solo para sostener un lugar en el panteón. La entrada
 queda tachada con el slot preservado, como todo movimiento del
 panteón.
 
-### Tier 1 — Los 7 Dioses del Wrestling (orden real, jerárquico)
+### Tier 1 — Los Dioses del Wrestling (orden real, jerárquico)
+
+*Fueron **siete** desde su creación hasta el 2026-08-26 (s55), cuando
+el Vehemiurgo declaró a **James Storm** dios del wrestling y pidió su
+pase al Tier 1.*
 
 | # | Dios | Rama | Ficha |
 |---|---|---|---|
@@ -121,6 +126,7 @@ panteón.
 | 5 | **Jeff Hardy** | Daredevil / conexión carny | [→](../people/jeff-hardy.md) |
 | 6 | **Dynamite Kid** | British / Wigan (wrestling puro) | [→](../people/dynamite-kid.md) |
 | 7 | **Roderick Strong** | Worker de oficio (ROH/PWG) | [→](../people/roderick-strong.md) |
+| 8 | **James Storm** | TNA / carny sureño — **ascendido del Tier 0 (s55)**. **Posición pendiente**: el Vehemiurgo declaró el tier, no el número | _(ficha pendiente)_ |
 
 ### Tier 2 — The Pillars of Wrestling (#8-25)
 
@@ -168,7 +174,7 @@ panteón.
 | 42 | **The British Bulldogs (Dynamite Kid & Davey Boy Smith)** | British / Wigan-tag | _(ficha pendiente)_ |
 | 43 | **Mark Davis** | Tag moderno (Aussie Open) / heel | [→](../people/mark-davis.md) |
 | 44 | **reDRagon (Bobby Fish & Kyle O'Reilly)** | Tag / strong style ROH-NJPW (cuentan como uno) | _(ficha pendiente)_ |
-| 45 | **Kazarian & Daniels** (Bad Influence / The Addiction) | Tag / TNA-ROH (cuentan como uno) | [→](../people/frankie-kazarian.md) *(Daniels pendiente)* |
+| 45 | ~~Kazarian & Daniels~~ → **ascendidos a Tier 0** (2026-08-26 s55, por lectura pendiente de ratificación) | Tag / TNA-ROH (cuentan como uno) | _(slot preservado)_ |
 | 46 | **Darby Allin** | AEW moderno / daredevil-real | [→](../people/darby-allin.md) |
 | 47 | **Zack Sabre Jr** | Mat wrestling / submisiones técnicas | [→](../people/zack-sabre-jr.md) |
 | 48 | ~~Finn Bálor / Prince Devitt~~ → **ascendido a Tier 0** (2026-08-01 s26) | Bullet Club original / Demon gimmick | _(slot preservado)_ |
@@ -658,3 +664,75 @@ El panteón no es monolítico. Conviven varias ramas:
   — lista de luchadores que el Vehemiurgo quiere conocer más (lista
   distinta del panteón).
 - CLAUDE.md sec. 7 — referentes y héroes del proyecto.
+
+## Notas de la sesión 2026-08-26 s55 — TNA enero 2013
+
+**Cuatro movimientos declarados en el volcado del corpus TNA 2013**
+(Impact 3/1, 10/1, 17/1, 24/1 + Genesis 13/1).
+
+### Las citas
+
+> *"Storm quiero que esté en el tier 1, es un dios del wrestling"*
+>
+> *"añadamos a los Dirty Heels como tag team al tier 0, tambien a Bad
+> Influence Kaz and Daniels si es que no est´pan aun, son simplemente
+> geniales imperdibles en tv"*
+>
+> *"si era Total Nonstop Aries estos años, es un dios del wrestling
+> Aries"*
+>
+> — El Vehemiurgo, 2026-08-26 s55 (verbatim)
+
+### 1. James Storm — Tier 0 → **Tier 1 (#8)**
+
+**Declaración explícita de tier.** Storm estaba en el Tier 0 desde la
+expansión masiva de s26; el Vehemiurgo pide su pase al Tier 1 y lo
+llama **dios del wrestling**.
+
+**Dos consecuencias estructurales, y una pendiente:**
+
+- **El Tier 1 deja de ser "Los 7"**. La sección pasa a llamarse **"Los
+  Dioses del Wrestling"**, con nota de que fueron siete hasta s55.
+- **La posición queda pendiente.** El Tier 1 tiene **orden real y
+  jerárquico**, y el Vehemiurgo **declaró el tier, no el número**.
+  Storm entra provisionalmente como **#8** —el final de la fila— y el
+  archivo **no le asigna un lugar en la jerarquía por su cuenta**.
+  Pendiente de declaración.
+- **No hay corrimientos**: nadie se movió de #1 a #7.
+
+### 2. Dirty Heels *(Austin Aries y Bobby Roode)* — alta al **Tier 0**
+
+**Alta de tag team**, declarada explícita. Es un caso de **doble
+presencia legal**, patrón ya documentado en el panteón: **Aries** ya
+estaba en Tier 0 como individual, y **Roode** también. La entrada de
+equipo se suma sin desplazar a ninguna de las dos individuales
+—precedentes: Kyle O'Reilly #12 + reDRagon #44, Dynamite Kid #6 +
+British Bulldogs #42, Kay Lee Ray #33 + Filthy Generation #27.
+
+### 3. Kazarian & Daniels *(Bad Influence)* — Tier 3 #45 → **Tier 0**
+
+El Vehemiurgo dijo *"también a Bad Influence Kaz and Daniels **si es
+que no están aún**"*. **Ya estaban** — en Tier 3, #45. **El archivo
+lee la frase como pedido de ascenso al Tier 0** y lo ejecuta, con el
+**slot #45 preservado y tachado**, como se hizo con LA Knight (#28).
+
+**Marcado como "por lectura, pendiente de ratificación"**: el
+Vehemiurgo no dijo explícitamente *"súbanlos"*, dijo *"agréguenlos si
+no están"*. La lectura es razonable —los nombró en la misma frase que
+un alta al Tier 0— pero **no es una declaración literal**.
+
+### 4. Austin Aries — **ratificación**, no alta
+
+*"Es un dios del wrestling Aries"*. **Ya estaba en Tier 0** desde s26,
+ascendido del Tier 2 (#17). Se registra como **ratificación
+explícita**, sin movimiento.
+
+### Nota cruzada con DEATH GODS — conflicto abierto
+
+En el mismo volcado, el Vehemiurgo pidió a **Bobby Roode** para
+**DEATH GODS OF WRESTLING**, lista que se fundó explícitamente para
+*"los que no pondría en ningún panteón"*. **Roode está en Tier 0.**
+**El archivo no ejecuta ese alta** y deja el conflicto anotado en
+[`./death-gods-of-wrestling.md`](./death-gods-of-wrestling.md) —
+precedente de resolución: el caso Chris Hero (s31→s32), que se
+resolvió con baja del Tier 0.
