@@ -414,6 +414,26 @@ con cada cambio de estado.
 | 2014-04-06 | Brock Lesnar vs The Undertaker — Streak Match | WWE / WrestleMania XXX | — | — | en-investigacion | 1 | [→](2014-04-06-brock-lesnar-vs-undertaker-wrestlemania-xxx-streak-breaker.md) |
 | 2013-07-14 | Money in the Bank ladder match — Christian vs RVD vs CM Punk vs Daniel Bryan vs Sheamus vs Randy Orton | WWE / Money in the Bank 2013 | — | — | en-investigacion | 1 | [→](2013-07-14-mitb-ladder-christian-rvd-punk-bryan-sheamus-orton-wwe.md) |
 | 2013-07-08 | Christian vs Kane | WWE / Raw | — | — | en-investigacion | 1 | [→](2013-07-08-christian-vs-kane-wwe-raw.md) |
+| 2013-01-24 | Jeff Hardy (c) vs Christopher Daniels — TNA World Heavyweight Championship | TNA / Impact Wrestling | — | — | en-investigacion | 1 | [→](2013-01-24-hardy-vs-daniels-tna-impact.md) |
+| 2013-01-24 | Kenny King & Zema Ion vs Rob Van Dam & Christian York | TNA / Impact Wrestling | WE | — | en-investigacion | 1 | [→](2013-01-24-king-ion-vs-rvd-york-tna-impact.md) |
+| 2013-01-24 | Bobby Roode vs Hernandez | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-24-roode-vs-hernandez-tna-impact.md) |
+| 2013-01-17 | Gail Kim vs Velvet Sky — contendencia de Knockouts en juego | TNA / Impact Wrestling | WE | — | en-investigacion | 1 | [→](2013-01-17-gail-kim-vs-velvet-sky-tna-impact.md) |
+| 2013-01-17 | Kenny King vs Christian York — return match | TNA / Impact Wrestling | — | — | en-investigacion | 1 | [→](2013-01-17-kenny-king-vs-christian-york-tna-impact.md) |
+| 2013-01-17 | James Storm & Jeff Hardy vs Bad Influence (Christopher Daniels & Kazarian) | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-17-storm-hardy-vs-bad-influence-tna-impact.md) |
+| 2013-01-13 | Mr. Anderson vs Samoa Joe | TNA / Genesis | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-13-anderson-vs-joe-tna-genesis.md) |
+| 2013-01-13 | Jeff Hardy (c) vs Austin Aries vs Bobby Roode — TNA World Heavyweight Championship | TNA / Genesis | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-13-aries-vs-roode-vs-hardy-tna-genesis.md) |
+| 2013-01-13 | Chavo Guerrero Jr. & Hernandez (c) vs Matt Morgan & Joey Ryan — TNA World Tag Team Championship | TNA / Genesis | WE | — | en-investigacion | 1 | [→](2013-01-13-chavo-hernandez-vs-morgan-joey-ryan-tna-genesis.md) |
+| 2013-01-13 | Christopher Daniels vs James Storm — contendiente Nº1 al TNA World Heavyweight Championship | TNA / Genesis | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-13-daniels-vs-storm-tna-genesis.md) |
+| 2013-01-13 | DOC vs Sting | TNA / Genesis | WE | — | en-investigacion | 1 | [→](2013-01-13-doc-vs-sting-tna-genesis.md) |
+| 2013-01-13 | Gauntlet por el contendiente Nº1 de Knockouts — Gail Kim, Velvet Sky, Mickie James, Miss Tessmacher y ODB | TNA / Genesis | FS·WE | FC | en-investigacion | 1 | [→](2013-01-13-gail-kim-gauntlet-knockouts-tna-genesis.md) |
+| 2013-01-13 | Kenny King vs Christian York — final del torneo por el contendiente Nº1 a la X Division | TNA / Genesis | WE | — | en-investigacion | 1 | [→](2013-01-13-kenny-king-vs-christian-york-tna-genesis.md) |
+| 2013-01-10 | Jeff Hardy & James Storm vs Bobby Roode & Austin Aries | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-10-hardy-storm-vs-roode-aries-tna-impact.md) |
+| 2013-01-10 | Jay Bradley vs Brian Cage — Gut Check | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-10-jay-bradley-vs-brian-cage-gut-check-tna-impact.md) |
+| 2013-01-10 | Zema Ion vs Kenny King — semifinal del torneo por el contendiente Nº1 a la X Division | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-10-zema-ion-vs-kenny-king-tna-impact.md) |
+| 2013-01-03 | Kurt Angle & Samoa Joe vs Aces & Eights (Devon y un enmascarado) — Steel Cage | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-03-angle-joe-vs-aces-eights-steel-cage-tna-impact.md) |
+| 2013-01-03 | Gail Kim & Tara vs Mickie James & Miss Tessmacher | TNA / Impact Wrestling | FS·WE | FC | en-investigacion | 1 | [→](2013-01-03-gail-tara-vs-mickie-tessmacher-tna-impact.md) |
+| 2013-01-03 | Kid Kash vs Christian York — torneo de la X Division | TNA / Impact Wrestling | WE | — | en-investigacion | 1 | [→](2013-01-03-kid-kash-vs-christian-york-tna-impact.md) |
+| 2013-01-03 | James Storm vs Frankie Kazarian — el swerve que cambia al rival | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-03-storm-vs-kazarian-swerve-tna-impact.md) |
 | 2008-12-06 | Nicho el Millonario, Joe Líder vs. Teddy Hart, Jack Evans | AAA / Guerra de Titanes 2008 | — | — | verificado | 1 | [→](2008-12-06-nicho-joe-lider-vs-teddy-hart-jack-evans-aaa.md) |
 | 2007-07-15 | Samoa Joe & Kurt Angle vs Team 3D | TNA / Victory Road 2007 | — | — | en-investigacion | 1 | [→](2007-07-15-joe-angle-vs-team-3d-tna-victory-road.md) |
 | 2007-06-17 | King of the Mountain Match — Styles vs Joe vs Christian vs Harris vs Angle | TNA / Slammiversary 2007 | — | — | en-investigacion | 1 | [→](2007-06-17-king-of-the-mountain-tna-slammiversary.md) |

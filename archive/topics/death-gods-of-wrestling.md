@@ -274,11 +274,11 @@ cross-link a la ficha de `archive/people/`.
 - [`../../vehemiurgia/czw-2017-2018.md`](../../vehemiurgia/czw-2017-2018.md)
 - [`../../notebook/2026-08-01-s29-vehemiurgia-czw-dwts-better-than-our-best.md`](../../notebook/2026-08-01-s29-vehemiurgia-czw-dwts-better-than-our-best.md)
 
-## Cuarta tanda — 2026-08-26 s55 (5 altas + 1 conflicto abierto)
+## Cuarta tanda — 2026-08-26 s55 (5 altas; una retenida y resuelta)
 
 Volcado histórico de **TNA, enero de 2013** (Impact 3/1, 10/1, 17/1 y
-24/1 + Genesis 13/1). Cinco altas limpias y **una que el archivo no
-ejecuta** hasta que el Vehemiurgo resuelva un choque de listas.
+24/1 + Genesis 13/1). **Cinco altas ejecutadas** y **una retenida por
+choque de listas, resuelta el mismo día por el Vehemiurgo**.
 
 ### Las citas
 
@@ -320,20 +320,25 @@ con la doctrina —el wrestling es promotor, luchador y fan, y la
 producción es parte del montaje del promotor— pero **es un cambio de
 alcance**, y queda anotado para ratificación explícita.
 
-### Conflicto abierto — Bobby Roode
+### Caso Bobby Roode — resuelto el mismo día: era elogio, no alta
 
-**El Vehemiurgo pidió a Bobby Roode para esta lista, pero Roode ya
-está en el panteón (Tier 0)** — y esta lista se fundó justamente para
-**los que cautivan sin entrar a ningún panteón**: *"no los pondría en
-ningún panteón"*.
+El Vehemiurgo pidió a Bobby Roode para esta lista —*"es genial, hay
+que ponerlo en los death gods"*— pero **Roode ya está en el panteón
+(Tier 0)**, y esta lista se fundó justamente para **los que cautivan
+sin entrar a ningún panteón**.
 
-**El archivo NO ejecuta este alta.** Las tres salidas posibles son del
-Vehemiurgo, no del copiloto:
+**El archivo retuvo el alta y consultó. Fallo del Vehemiurgo, mismo
+día**:
 
-1. **Roode baja del Tier 0** y pasa a Death Gods.
-2. **La regla de exclusión se relaja** — se admite doble pertenencia.
-3. **La mención era elogio, no alta** — Roode se queda solo en el
-   panteón.
+> *"Lo de Roode solo era elogio."*
+>
+> — El Vehemiurgo, 2026-08-26 s55 (verbatim)
 
-*(Precedente cercano: el caso Chris Hero, s31→s32, se resolvió por la
-opción 1 — baja del Tier 0, alta plena acá.)*
+**Resolución: Bobby Roode NO entra a Death Gods y se queda solo en el
+panteón (Tier 0).** La regla de exclusión de la lista **queda intacta
+y confirmada**: un nombre del panteón no entra acá.
+
+**Precedente que esto fija**: no toda mención elogiosa junto al nombre
+de una lista es un alta. **Ante un choque de listas, el archivo
+retiene y pregunta** en vez de ejecutar — la ruta contraria a la del
+caso Chris Hero (s31→s32), que sí fue declaración de baja.

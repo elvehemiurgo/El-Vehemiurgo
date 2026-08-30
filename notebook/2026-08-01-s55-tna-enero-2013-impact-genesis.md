@@ -10,7 +10,7 @@ shows_cubiertos:
 tipo: volcado
 piezas: 50
 declaraciones_de_lista:
-  - "DEATH GODS: Keith Mitchell, Jim Johnston, Kid Kash, EZ Money, Ken Anderson, Bobby Roode"
+  - "DEATH GODS: Keith Mitchell, Jim Johnston, Kid Kash, EZ Money, Ken Anderson (Roode retenido: era elogio)"
   - "PANTEÓN: James Storm al Tier 1; Dirty Heels (tag) al Tier 0; Bad Influence ratificado/ascendido; Austin Aries ratificado como dios"
 tags: [tna-2013, impact-wrestling, genesis-2013, aces-and-eights, austin-aries, bobby-roode, jeff-hardy, james-storm, bad-influence, kazarian, christopher-daniels, dirty-heels, samoa-joe, kurt-angle, sting, hulk-hogan, bully-ray, gail-kim, taryn-terrell, keith-mitchell, jim-johnston, death-gods, panteon, dixie-carter, era-de-reconstruccion]
 ---
@@ -45,8 +45,9 @@ el fallo sobre Dixie Carter y el what-if de Russo contra Cornette.
 >
 > — El Vehemiurgo, 2026-08-26 s55 (verbatim)
 
-**Altas**: **Keith Mitchell**, **Jim Johnston**, **Kid Kash**, **EZ
-Money**, **Ken Anderson**, **Bobby Roode**.
+**Altas ejecutadas**: **Keith Mitchell**, **Jim Johnston**, **Kid
+Kash**, **EZ Money**, **Ken Anderson**. **Bobby Roode retenido** — ver
+abajo.
 
 **Dos cuestiones que el archivo NO resuelve solo**:
 
@@ -57,11 +58,11 @@ Money**, **Ken Anderson**, **Bobby Roode**.
    trabajo y creatividad"*. **Es una extensión del criterio de la
    lista**, y se registra como tal, a la espera de que la ratifique.
 2. **Bobby Roode ya está en el panteón (Tier 0).** La death gods list
-   se definió como *"no los pondría en ningún panteón"*. **Hay
-   conflicto de lista**, y el archivo **no lo resuelve por su cuenta**:
-   queda anotado para que el Vehemiurgo decida si Roode baja del
-   panteón, si la regla de exclusión se relaja, o si la mención era
-   elogio y no alta.
+   se definió como *"no los pondría en ningún panteón"*. El archivo
+   retuvo el alta y consultó. **Resuelto el mismo día por el
+   Vehemiurgo**: *"lo de Roode solo era elogio"* — **no entra a Death
+   Gods**, se queda solo en el panteón, y la regla de exclusión queda
+   confirmada.
 
 ### PANTEÓN — cuatro movimientos
 
@@ -566,10 +567,10 @@ porque exceden la ficha y son material de pieza propia.
 - [ ] **Cerrar identidades**: "York" (¿Christian York?), "Bradley"
       (¿Wes Brisco?) y si **Brian Cage** trabajaba en TNA en enero de
       2013 — el par "Bradley vs Brian Cage" es el punto dudoso.
-- [ ] **Resolver las dos cuestiones de lista**: la extensión de los
-      death gods a gente de producción (Keith Mitchell, Jim Johnston)
-      y el conflicto de **Bobby Roode** (panteón Tier 0 vs death
-      gods).
+- [x] **Conflicto Bobby Roode: resuelto** el mismo día — *"solo era
+      elogio"*. No entra a Death Gods.
+- [ ] Ratificar la **extensión de los death gods a gente de
+      producción** (Keith Mitchell, Jim Johnston).
 - [ ] **Cerrar el número de James Storm en el Tier 1** y si el nombre
       *"Los 7 Dioses"* cambia.
 - [ ] Los ocho ensayos de arriba son material de **dossier sobre la

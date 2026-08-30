@@ -730,9 +730,11 @@ explícita**, sin movimiento.
 ### Nota cruzada con DEATH GODS — conflicto abierto
 
 En el mismo volcado, el Vehemiurgo pidió a **Bobby Roode** para
-**DEATH GODS OF WRESTLING**, lista que se fundó explícitamente para
-*"los que no pondría en ningún panteón"*. **Roode está en Tier 0.**
-**El archivo no ejecuta ese alta** y deja el conflicto anotado en
-[`./death-gods-of-wrestling.md`](./death-gods-of-wrestling.md) —
-precedente de resolución: el caso Chris Hero (s31→s32), que se
-resolvió con baja del Tier 0.
+**DEATH GODS OF WRESTLING**, lista fundada para *"los que no pondría
+en ningún panteón"*. Como **Roode está en Tier 0**, el archivo retuvo
+el alta y consultó. **Fallo del Vehemiurgo, el mismo día**: *"lo de
+Roode solo era elogio"*.
+
+**Roode se queda solo en el panteón**, y **la regla de exclusión de
+Death Gods queda confirmada**. Ver
+[`./death-gods-of-wrestling.md`](./death-gods-of-wrestling.md).
