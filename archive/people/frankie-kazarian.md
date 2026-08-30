@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: frankie-kazarian
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. Bloque TNA 2025-2026"
   - "Dossier TNA 2025-2026 Kazarian King era"
@@ -160,6 +160,34 @@ sistema de clases.
 Kazarian es **eje editorial del cluster**. Sin Kazarian King
 reign, el cluster pierde el hilo narrativo central. **Carny
 puro veterano-as-anchor**.
+
+### Sesión 2026-08-26 s56 — El TBT de los highlanders, y el último año en TNA (Impact 31/1/2013)
+
+**Cita verbatim** (fragmento):
+
+> *"Kaz & Daniels abren trayendo el tbt in ring, moelstando al UK y
+> quejandose de su derrota contra Jeff la semana pasada, muy pros, se
+> merecen una WE class, vestidos de highlanders listos para poner over
+> a Magnus, el último año en TNA para Kaz y Daniels, una pena, pero su
+> trabajo es top tier siemrpe"*
+>
+> — El Vehemiurgo, 2026-08-26 s56 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento de apertura de la gira
+  británica.
+- **El mecanismo, nombrado con su función**: *"vestidos de highlanders
+  **listos para poner over a Magnus**"* — el heel se disfraza para que
+  el face local tenga a quién desnudar.
+- **"Muy pros"** — la fórmula que acompaña a Bad Influence en cada
+  aparición de este corpus.
+- **Registro de despedida anticipada**: *"el último año en TNA para Kaz
+  y Daniels, una pena, pero su trabajo es top tier siempre"* — lectura
+  desde 2026 hacia 2013.
+- **Contexto de panteón**: la misma semana en que **Bad Influence
+  asciende al Tier 0**.
+- Ver [`../segments/2013-01-31-bad-influence-tbt-highlanders-magnus-tna-impact.md`](../segments/2013-01-31-bad-influence-tbt-highlanders-magnus-tna-impact.md).
 
 ## Lectura consolidada del Vehemiurgo
 

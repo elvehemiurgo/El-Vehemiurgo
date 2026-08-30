@@ -414,7 +414,9 @@ con cada cambio de estado.
 | 2014-04-06 | Brock Lesnar vs The Undertaker — Streak Match | WWE / WrestleMania XXX | — | — | en-investigacion | 1 | [→](2014-04-06-brock-lesnar-vs-undertaker-wrestlemania-xxx-streak-breaker.md) |
 | 2013-07-14 | Money in the Bank ladder match — Christian vs RVD vs CM Punk vs Daniel Bryan vs Sheamus vs Randy Orton | WWE / Money in the Bank 2013 | — | — | en-investigacion | 1 | [→](2013-07-14-mitb-ladder-christian-rvd-punk-bryan-sheamus-orton-wwe.md) |
 | 2013-07-08 | Christian vs Kane | WWE / Raw | — | — | en-investigacion | 1 | [→](2013-07-08-christian-vs-kane-wwe-raw.md) |
-| 2013-01-24 | Jeff Hardy (c) vs Christopher Daniels — TNA World Heavyweight Championship | TNA / Impact Wrestling | — | — | en-investigacion | 1 | [→](2013-01-24-hardy-vs-daniels-tna-impact.md) |
+| 2013-01-31 | Kurt Angle vs Mr. Anderson — Steel Cage Match | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-31-angle-vs-anderson-steel-cage-tna-impact.md) |
+| 2013-01-31 | Chavo Guerrero Jr. vs Austin Aries | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-31-chavo-vs-aries-tna-impact.md) |
+| 2013-01-24 | Jeff Hardy (c) vs Christopher Daniels — TNA World Heavyweight Championship | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-24-hardy-vs-daniels-tna-impact.md) |
 | 2013-01-24 | Kenny King & Zema Ion vs Rob Van Dam & Christian York | TNA / Impact Wrestling | WE | — | en-investigacion | 1 | [→](2013-01-24-king-ion-vs-rvd-york-tna-impact.md) |
 | 2013-01-24 | Bobby Roode vs Hernandez | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-24-roode-vs-hernandez-tna-impact.md) |
 | 2013-01-17 | Gail Kim vs Velvet Sky — contendencia de Knockouts en juego | TNA / Impact Wrestling | WE | — | en-investigacion | 1 | [→](2013-01-17-gail-kim-vs-velvet-sky-tna-impact.md) |

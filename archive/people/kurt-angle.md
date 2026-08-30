@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kurt-angle
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 + cluster TNA 2007 + AJ Styles arc"
   - "The Kurt Angle Show podcast"
@@ -96,3 +96,33 @@ tags: [kurt-angle, olympic-shooter, wwe-champion-wrestlemania-2000, smackdown-si
 - [ ] **Hard Justice 2007 vs Joe** — pieza editorial obligatoria
       Joe-Angle arc payoff.
 - [ ] *The Kurt Angle Show* podcast retrospectivas.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-08-26 s56 — El steel cage que el talento rema por encima del booking (Impact 31/1/2013)
+
+**Cita verbatim**:
+
+> *"Así llega el main event, Angle vs Anderson steel cage, estos dos
+> siempre ponen un gran show, el booking es funcional pero nada
+> realmente llamativo, pero se encargan de hacer magia igual, y reman
+> la idea de forma efectiva metiendole FS, se merecen las 3 clases,
+> estuvo genial"*
+>
+> — El Vehemiurgo, 2026-08-26 s56 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase → Instant Classic Crown**, **con el booking
+  explícitamente desaprobado**: *"funcional pero nada realmente
+  llamativo"*. **El talento salva la pieza** — la tesis central del
+  corpus TNA 2013.
+- **"Reman la idea"** — la imagen exacta del talento como fuerza
+  motriz de un material que no empuja solo.
+- **El FS como método deliberado**: *"metiéndole FS"* — fighting
+  spirit que se pone adentro de una lucha para levantarla, no que
+  aparece solo.
+- **Tercera vez en el corpus** que el Vehemiurgo elogia los cruces con
+  Anderson: 10/1, 24/1 y acá.
+- Ver [`../matches/2013-01-31-angle-vs-anderson-steel-cage-tna-impact.md`](../matches/2013-01-31-angle-vs-anderson-steel-cage-tna-impact.md).
+

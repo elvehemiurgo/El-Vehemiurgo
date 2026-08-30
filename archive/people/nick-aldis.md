@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nick-aldis
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Sub-agente card-wwe-snme-180726 (research 2026-08-01, closed) — 411Mania, Cageside Seats, Bleacher Report"
   - "El Vehemiurgo, notebook 2026-08-01 s12 (visión directa)"
@@ -117,6 +117,32 @@ Como GM, establece que si Cody Rhodes o Randy Orton se tocan antes de
 Sunday Night's Main Event (6/9, Atlanta), ninguno de los dos vuelve a
 tener oportunidad titular mundial nunca más — nombra la estipulación
 "American Daydream".
+
+### Sesión 2026-08-26 s56 — "Nick Aldis siempre fue top" (Impact 31/1/2013, como Magnus)
+
+**Cita verbatim** (fragmento):
+
+> *"y Magnus es un talentaso de hecho, le hizo bien el booking a él,
+> tuvo una buena historia, y aqui en England con este setup lo lanzan
+> como face en singles, buena promo, y super sólido, Nick Aldis
+> siempre fue top"*
+>
+> — El Vehemiurgo, 2026-08-26 s56 (verbatim)
+
+**Lectura sintética**:
+
+- **WE class declarada** para el segmento de apertura del que forma
+  parte, con Bad Influence disfrazados de highlanders para darle a
+  quién responder.
+- **El lanzamiento, ubicado con precisión**: *"aquí en England con este
+  setup lo lanzan como face en singles"*. **El show en su país como
+  punto de partida** de su etapa individual.
+- **El elogio al booking, que es raro en este corpus**: *"le hizo bien
+  el booking a él, tuvo una buena historia"* — en una era donde el
+  Vehemiurgo viene señalando lo contrario para casi todos.
+- **"Nick Aldis siempre fue top"** — **ratificación**: ya está en el
+  **Tier 0 del panteón**, ascendido del Tier 3 (#52).
+- Ver [`../segments/2013-01-31-bad-influence-tbt-highlanders-magnus-tna-impact.md`](../segments/2013-01-31-bad-influence-tbt-highlanders-magnus-tna-impact.md).
 
 ## Pendientes / huecos
 

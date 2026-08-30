@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jeff-hardy
 estado: vivo
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-08-26
 fuentes_principales:
   - "Panteón de héroes fundamentales del Vehemiurgo (Dios del Wrestling #5)"
   - "Volcado Vehemiurgo 2026-06-17 #13 (modelo de poses babyface para Slater) + #19 (match vs Myers TNA 26/3)"
@@ -156,6 +156,33 @@ ritmo y calidad (TNA iMPACT!, 30/4/2026). Vence a Vincent con Swanton
 tras la distracción del debut del gimmick "Broken" de su hermano Matt.
 Ver
 [`../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md`](../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md).
+
+### Sesión 2026-08-26 s56 — La dream match con Daniels (Impact 24/1/2013)
+
+**Cita verbatim**:
+
+> *"en tna 2013 01 24 Impact Wrestling tenemos Daniels vs Hardy, estuvo
+> increible, tremenda dream match, les quedó perfecta, se merece las 3
+> clases, Daniels trabajando así como main eventer es genial, el
+> verdadero ring general en tv en los 2000s, muy buenos spots, muy
+> real, super merecido showcase para Daniels y muy buen booking para
+> Jeff."*
+>
+> — El Vehemiurgo, 2026-08-26 s56 (verbatim)
+
+**Lectura sintética**:
+
+- **Triple clase → Instant Classic Crown** para la defensa que
+  **retiene**.
+- **El doble beneficio, que es lo que la Perfect Wrestling exige**:
+  *"súper merecido showcase para Daniels **y muy buen booking para
+  Jeff**"*. Los dos salen mejor de lo que entraron en un match donde
+  uno tenía que perder.
+- **Nota de archivo**: esta ficha **había nacido sin clase** por
+  silencio editorial —el Vehemiurgo no la había comentado en s55— y
+  **recibió su lectura un día después**. Precedente: una ausencia no
+  es un veredicto cerrado.
+- Ver [`../matches/2013-01-24-hardy-vs-daniels-tna-impact.md`](../matches/2013-01-24-hardy-vs-daniels-tna-impact.md).
 
 ## Pendientes / huecos
 
