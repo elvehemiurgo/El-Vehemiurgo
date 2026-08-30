@@ -6,11 +6,11 @@ protagonistas: ["Mr. Anderson", "Kurt Angle"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-31
-ciudad: "[verif]"
-recinto: "[verif]"
-ubicacion_en_show: "[verif]"
+ciudad: "Manchester, Inglaterra [grabado el 25/1]"
+recinto: "Manchester Arena [grabado el 25/1]"
+ubicacion_en_show: "backstage"
 duracion: "[verif]"
-linea_textual: "[verif — no verificado contra video]"
+linea_textual: "Aces & Eights me mostraron mas hermandad en las ultimas semanas que nadie en TNA en varios anos [Mr. Anderson — parafraseo de recap, no verificado contra video]"
 gimmick_momento: "el promo crudo y corto de un hombre al que el angulo no le pudo dar stakes propios"
 storyline: "Promo de Mr. Anderson antes del steel cage contra Kurt Angle. El angulo de los Aces & Eights llevaba medio ano en curso; la rivalidad Angle/Anderson que sostiene este main event viene de 2010."
 attendance_anunciada: ""
@@ -82,11 +82,23 @@ archivo**, repartido en tres fichas del corpus:
 
 **Es material de dossier**, junto con los ensayos de s55.
 
+## Datos confirmados por research
+
+- **La promo fue backstage**, y su argumento kayfabe es concreto:
+  **los Aces & Eights le mostraron más hermandad en las últimas
+  semanas que nadie en TNA en varios años**. Es la justificación de su
+  alineamiento definitivo y el setup emocional del cage contra Angle,
+  su ex compañero.
+- **Y la revelación que el Vehemiurgo juzga ocurrió esa misma noche**:
+  **Wes Brisco y Garett Bischoff se revelaron como Aces & Eights en el
+  post-match del steel cage**, el **31/1/2013**. **El fallo del
+  Vehemiurgo —*"no tiene peso, a nadie le importó"*— es sobre el swerve
+  que estaba viendo**, no sobre un recuerdo lejano. Eso lo vuelve más
+  duro, no menos.
+
 ## Pendientes / huecos
 
-- [ ] Contenido de la promo — [verif].
-- [ ] **Confirmar si Wes Brisco y Garett Bischoff se revelan esa misma
-      noche** o después — research en curso.
+- [ ] Verbatim contra video.
 
 ## Piezas relacionadas
 

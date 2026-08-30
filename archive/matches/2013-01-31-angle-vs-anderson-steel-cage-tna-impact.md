@@ -5,13 +5,13 @@ participantes: ["Kurt Angle", "Mr. Anderson", "Wes Brisco", "Garett Bischoff"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Manchester, Inglaterra [grabado el 25/1]"
+recinto: "Manchester Arena [grabado el 25/1]"
 tipo_match: "singles"
 estipulacion: "Steel Cage Match — main event"
 duracion: "[verif]"
-finish: "[verif — research en curso]"
-ganador: "[verif — research en curso]"
+finish: "Ankle Lock — submission, tras un powerbomb desde las cuerdas que había dejado el tobillo servido"
+ganador: "Kurt Angle"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
@@ -74,12 +74,36 @@ tags: [tna-2013, impact-wrestling, kurt-angle, mr-anderson, aces-and-eights, wes
   generaba stakes propios**. Ver
   [`../segments/2013-01-31-promo-mr-anderson-balance-aces-eights-tna-impact.md`](../segments/2013-01-31-promo-mr-anderson-balance-aces-eights-tna-impact.md).
 
+## Datos confirmados por research — la traición ocurre acá
+
+- **Gana Kurt Angle** por **submission con el Ankle Lock**, tras un
+  powerbomb desde las cuerdas que le había dejado el tobillo servido.
+  **Anderson lo atacó apenas entró a la jaula.**
+- **Wes Brisco estuvo en la esquina de Angle durante todo el match** —
+  como aliado.
+- **La revelación, paso por paso, en el post-match**:
+  1. Un **miembro enmascarado de Aces & Eights escala la jaula**.
+  2. **Wes Brisco abre la puerta con una llave**; **Angle le pide que
+     la cierre detrás suyo — y Brisco la cierra, encerrando a Angle.**
+  3. El enmascarado **se desenmascara: Garett Bischoff**.
+  4. **Brisco le hace chop block en la rodilla, se saca la camiseta
+     mostrando el parche de Aces & Eights**, y entre los dos lo
+     destrozan.
+- **Fecha exacta de la revelación: 31/1/2013** (grabado el 25/1). **Es
+  el swerve que el Vehemiurgo juzga sin peso** — ver
+  [`../segments/2013-01-31-promo-mr-anderson-balance-aces-eights-tna-impact.md`](../segments/2013-01-31-promo-mr-anderson-balance-aces-eights-tna-impact.md).
+
+**El detalle que hace más filoso el fallo**: la mecánica del swerve es
+**buena** —el aliado que cierra la puerta con la llave que Angle le
+pidió usar— y aun así, según el Vehemiurgo, **no movió a nadie**.
+**Un swerve bien construido puede fracasar igual si los que lo
+ejecutan no tienen peso**, que es exactamente el diagnóstico que el
+archivo viene registrando sobre el casting de Brisco y Bischoff desde
+el 3/1.
+
 ## Pendientes
 
-- [ ] **Ganador, finish y duración** — research en curso.
-- [ ] **Si Wes Brisco y Garett Bischoff se revelan como Aces & Eights
-      en este match** — el Vehemiurgo lo menciona en el balance de la
-      promo previa; falta confirmar la fecha exacta.
+- [ ] Duración y referee — ninguna fuente accesible los reporta.
 
 ## Cross-links
 

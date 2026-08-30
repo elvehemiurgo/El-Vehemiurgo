@@ -6,11 +6,11 @@ protagonistas: ["Austin Aries", "Bobby Roode", "Chavo Guerrero Jr.", "Hernandez"
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Manchester, Inglaterra [grabado el 25/1]"
+recinto: "Manchester Arena [grabado el 25/1]"
 ubicacion_en_show: "in-ring"
 duracion: "[verif]"
-linea_textual: "[verif — no verificado contra video]"
+linea_textual: "A pair of wankers [Bobby Roode sobre Chavo y Hernandez, la linea que saca a los campeones — parafraseo de recap, no verificado contra video]"
 gimmick_momento: "los dos ex campeones mundiales bajando a la division de parejas y encontrandose con una escena mas viva que la suya"
 storyline: "Open Fight Night. Los Dirty Heels -Austin Aries y Bobby Roode- cortan promo in-ring y salen los TNA World Tag Team Champions. El segmento arma los stakes de la incursion de los Dirty Heels en la division de parejas, que desemboca en el cambio de titulos de la gira britanica."
 attendance_anunciada: ""
@@ -66,10 +66,33 @@ corregirla**; el typo se preserva en el verbatim del notebook.)*
    recurso que permite que cualquiera llame a cualquiera, y que acá
    sirve para cruzar main eventers con campeones de parejas.
 
+## Datos confirmados por research
+
+- **El segmento oficializa la alianza**: Aries se autodenomina *"the
+  It Factor and the Common Denominator of Greatness"*, y declaran que
+  van a **"usher in a new era"** y a **juntar todo el oro de la
+  empresa uno por uno, empezando por los Tag Team Championships**.
+- **La línea que saca a los campeones**: **Roode llama a Chavo y
+  Hernandez *"a pair of wankers"*** — insulto elegido para el público
+  británico.
+- **Los campeones eran, en efecto, Chavo Guerrero Jr. y Hernandez.**
+  No había habido cambio en todo enero.
+- **Chavo invoca Open Fight Night y reta a uno de los dos; Aries
+  acepta** — de ahí sale el singles de esa misma noche.
+- **Y queda pactado**: **Chavo y Hernandez (c) vs Roode y Aries por
+  los TNA World Tag Team Championships, para la semana siguiente.**
+
+## Nota carny de calendario
+
+**El cambio de títulos se emitió el 7/2/2013 — pero la lucha se grabó
+el 25/1, en el mismo taping que este episodio.** Es decir: **cuando
+este segmento salió al aire, el reinado de Aries y Roode ya existía
+físicamente**, mientras en pantalla todavía eran retadores. El
+Vehemiurgo lee *"buenos stakes para el booking de estos 2"* sin saber
+que la jugada ya estaba cerrada en la lata.
+
 ## Pendientes / huecos
 
-- [ ] **Quiénes eran los campeones de parejas a esa fecha** y qué
-      quedó pactado — research en curso.
 - [ ] **Ratificar la lectura de "WS" como WE.**
 
 ## Piezas relacionadas

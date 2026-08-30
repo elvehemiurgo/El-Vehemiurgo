@@ -6,11 +6,11 @@ protagonistas: ["Robbie E", "Robbie T", "Joseph Park"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Manchester, Inglaterra [grabado el 25/1]"
+recinto: "Manchester Arena [grabado el 25/1]"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
-linea_textual: "[verif — no verificado contra video]"
+linea_textual: "Uhh, everybody but you, Bigger Rob [Robbie E, corrigiendose tras llamar hamsters a todos los del UK con Robbie T mirandolo — parafraseo de recap, no verificado contra video]"
 gimmick_momento: "el heel chico usando al grandote como musculo para abusar del gordo simpatico: el triangulo mas viejo del oficio"
 storyline: "Robbie E, con Robbie T de guardaespaldas, hace bullying a Joseph Park — el abogado que insiste en ser luchador y que es, en kayfabe, el hermano de Abyss. El segmento arma una lucha entre ambos."
 attendance_anunciada: ""
@@ -63,9 +63,29 @@ tags: [tna-2013, impact-wrestling, robbie-e, robbie-t, joseph-park, abyss, bully
    ambos"*. **El segmento existe para vender un match**, y eso basta
    para la clase.
 
+## Datos confirmados por research — y el remate que el Vehemiurgo señaló
+
+- **El setup**: Park en el ring con **libreta de apuntes**, contando
+  que tuvo *"una semana estresante de deliberación"* antes de anunciar
+  a quién llamaba en Open Fight Night.
+- **La irrupción**: sale Robbie E con Robbie T. Dice que Park es un
+  chiste; **Park aclara que no lo eligió a él**. Robbie E lo llama
+  **"un hámster como todos los del UK"**, picándole el pecho.
+- **El gag que confirma la lectura de psicología**: al repetir la
+  línea sobre el UK, **nota a Robbie T mirándolo fijo y corrige** —
+  *"uhh, everybody but you, Bigger Rob"*—, aclarando que T vive en
+  América. **Es exactamente la dinámica que el Vehemiurgo elogió**: el
+  bully chico envalentonado por el músculo, y que tiene que cuidarse
+  de él.
+- **El remate**: **le quita la libreta a Park y se limpia el culo con
+  ella**, declara **"Open Bro Night"** y exige el match. **Park
+  acepta.**
+- **Resultado: gana Joseph Park**, por pinfall con **big splash desde
+  la tercera cuerda**.
+
 ## Pendientes / huecos
 
-- [ ] Contenido del segmento y si el match quedó pactado — [verif].
+- [ ] Verbatim contra video.
 - [ ] **Fichas de people de Robbie E, Robbie T y Joseph Park** — sin
       abrir.
 

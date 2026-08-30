@@ -6,11 +6,11 @@ protagonistas: ["Frankie Kazarian", "Christopher Daniels", "Magnus"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Manchester, Inglaterra [grabado el 25/1]"
+recinto: "Manchester Arena [grabado el 25/1]"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
-linea_textual: "[verif — no verificado contra video]"
+linea_textual: "Disrespectful muppets [Magnus a Bad Influence — parafraseo de recap en vivo, no verificado contra video; una fuente transcribe puppets]"
 gimmick_momento: "los dos heels americanos disfrazados de escoceses para insultar al publico britanico, y el britanico saliendo a cobrarles"
 storyline: "Impact desde la gira britanica de TNA. Bad Influence -Kazarian y Christopher Daniels- abren con su segmento TBT in-ring, burlandose del publico del Reino Unido y quejandose de la derrota de Daniels ante Jeff Hardy la semana anterior. Salen vestidos de highlanders. Magnus (Nick Aldis) responde en su pais."
 attendance_anunciada: ""
@@ -73,11 +73,41 @@ tags: [tna-2013, impact-wrestling, kazarian, christopher-daniels, bad-influence,
    en singles"*. Cierra con **"Nick Aldis siempre fue top"** —
    **ratificación**, porque **ya está en el Tier 0 del panteón**.
 
+## Datos confirmados por research
+
+- **El disfraz es de Braveheart, no genérico**: salieron con **kilts y
+  pintura de guerra azul**, "homenajeando a los guerreros escoceses
+  del siglo XIII". **Daniels llamó al público *"frumpy Brits"*** y se
+  quejó de que **todavía no es rey porque Jeff Hardy sigue siendo
+  campeón** — referencia directa a su derrota del 24/1. Prometió
+  llevarse el título a su país.
+- **La respuesta de Magnus, con el argumento exacto**: los llamó
+  **"disrespectful muppets"** que necesitaban un cachetazo —disparando
+  un cántico de *"slap them"*— y les dijo que **si querían pelear como
+  William Wallace contra un inglés, que pelearan contra él**. Lo
+  atacaron en dupla y **los limpió del ring**.
+- **Y ahí usa el formato**: **Magnus llama a Devon bajo Open Fight
+  Night**, y Devon sale solo. **Magnus gana por DQ** cuando DOC y Mike
+  Knox entran a interferir; post-match supera a los heels y corta
+  **promo babyface** agradeciendo al público.
+- **El dato de booking que le da peso al turn**: **Magnus venía de
+  heel, aliado con Daniels y Kazarian desde fines de 2012**, y llevaba
+  **dos meses y medio fuera de TV** (última aparición: Turning Point,
+  11/11/2012). **Volvió atacando a sus propios ex socios, en su
+  país.** **Es causa, no capricho de calendario** — y confirma al pie
+  la lectura del Vehemiurgo de que *"con este setup lo lanzan como
+  face en singles"*.
+- **El show**: **Open Fight Night desde el Manchester Arena**,
+  **grabado el 25/1** en la gira *Maximum Impact V / Road to
+  Lockdown*. **Primer Open Fight Night hecho en el Reino Unido**, y
+  **primera vez que TNA grabó Impact en el UK fuera de Londres**.
+
 ## Pendientes / huecos
 
-- [ ] Contenido exacto del segmento y de la respuesta de Magnus —
-      [verif].
-- [ ] Sede exacta de la gira británica.
+- [ ] Verbatim contra video — *"muppets"* vs *"puppets"*: dos recaps
+      difieren.
+- [ ] Razón de la ausencia de Magnus entre noviembre de 2012 y esta
+      noche — [no confirmado].
 
 ## Piezas relacionadas
 

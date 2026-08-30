@@ -5,13 +5,13 @@ participantes: ["Chavo Guerrero Jr.", "Austin Aries", "Bobby Roode"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Manchester, Inglaterra [grabado el 25/1]"
+recinto: "Manchester Arena [grabado el 25/1]"
 tipo_match: "singles"
 estipulacion: "Open Fight Night"
 duracion: "[verif]"
-finish: "[verif — research en curso]"
-ganador: "[verif — research en curso]"
+finish: "Brainbuster de Austin Aries — pinfall, tras distracción de Roode, que atrae al referee hacia Hernandez y acomoda a Chavo"
+ganador: "Austin Aries"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
@@ -61,10 +61,26 @@ tags: [tna-2013, impact-wrestling, chavo-guerrero, austin-aries, bobby-roode, di
    donde sea"*. **Dicho de un Impact grabado en gira**, lejos del
    Impact Zone — el oficio no depende del edificio.
 
+## Datos confirmados por research — y la lectura que se confirma
+
+- **Gana Austin Aries** con **Brainbuster**. **El finish es sucio y de
+  equipo**: Chavo había conectado el **frog splash**; **Roode distrajo
+  al árbitro atrayendo a Hernandez al apron**, y con el referee
+  ocupado **acomodó a Chavo** para que Aries rematara.
+- **El *"Dirty Heels on top"* del dictado es literal**: el equipo que
+  acababa de entrar al Tier 0 gana, y gana **como equipo**, aunque el
+  match fuera singles. **Eso es exactamente la psicología que el
+  Vehemiurgo elogia.**
+- **Salió de Open Fight Night**: Chavo invocó el formato en el
+  segmento previo y retó a uno de los dos; **Aries aceptó**.
+- **Consecuencia inmediata**: quedó pactado **Chavo y Hernandez (c) vs
+  Roode y Aries por los tag titles para la semana siguiente** — lucha
+  que **Aries y Roode ganan**, emitida el 7/2 pero **grabada el mismo
+  25/1 que este episodio**.
+
 ## Pendientes
 
-- [ ] **Ganador, finish y duración** — research en curso.
-- [ ] Confirmar el rol exacto de Bobby Roode en el resultado.
+- [ ] Duración y referee — ninguna fuente accesible los reporta.
 - [ ] **Ficha de people de Chavo Guerrero Jr.** — sin abrir.
 
 ## Cross-links
