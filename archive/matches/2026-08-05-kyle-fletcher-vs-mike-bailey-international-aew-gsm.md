@@ -18,14 +18,15 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 buy_rate: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "Clásico instantáneo, incluso los tropiezos los mantuvieron reales; buenos stakes, spots increíbles, ejecución profesional; no fue perfecto, Bailey se subió al estilo lucha libre y se tropiezan un par de veces, pero todo el tiempo es física, muy en gimmicks y con los fans muy locos; se merece las 3 clases, fue muy cardiaca"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s37 (VISIONADO DIRECTO — AEW Grand Slam Mexico 5/8/2026)"
   - "Sub-agente aew-collision-gsm (research 2026-08-01) — duración, finish y secuencia"
+  - "Volcado Vehemiurgo 2026-08-31 s57 (segunda lectura — se ratifican las tres clases con reserva)"
 tags: [aew-2026, grand-slam-mexico, kyle-fletcher, mike-bailey, international-championship, don-callis-family, clasico-instantaneo, perfect-match, vehemiurgia-aew]
 ---
 
@@ -99,3 +100,30 @@ que no impide el "clásico instantáneo"** (doctrina §4, regla 3).
 - [`../people/mike-bailey.md`](../people/mike-bailey.md)
 - [`../segments/2026-07-30-fletcher-bailey-brawl-aew-collision.md`](../segments/2026-07-30-fletcher-bailey-brawl-aew-collision.md)
 - Volcado: [`../../notebook/2026-08-01-s37-aew-gsm-050826-collision-300726.md`](../../notebook/2026-08-01-s37-aew-gsm-050826-collision-300726.md)
+
+## Segunda lectura — s57 (2026-08-31): las tres clases ratificadas, con reserva
+
+**Cita verbatim**:
+
+> *"Luego Fletcher vs Bayley merece las 3 clases, lo mantienen real
+> pero no es prolijo, es entretenido y brutal, pero no tan cool como
+> podría, igual fue un show emocionante"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim)
+
+**Qué agrega**:
+
+1. **Ratifica las tres clases** —**Instant Classic Crown**— sin
+   moverlas. Segunda vez que ve la lucha, mismo veredicto.
+2. **Y afina la reserva**: *"lo mantienen real **pero no es prolijo**
+   [...] entretenido y brutal, **pero no tan cool como podría**"*. La
+   primera lectura ya decía *"no fue perfecto, Bailey se subió al
+   estilo lucha libre y se tropiezan un par de veces"*. **La segunda no
+   contradice: precisa.** **Precedente limpio de triple clase con
+   reserva técnica declarada** (regla 3 del sistema de clases).
+3. **Contraste dentro del mismo volcado**: White vs Finlay recibió las
+   tres clases con la palabra *"perfecta"* y **sin reserva alguna**.
+   **El Vehemiurgo no reparte las triples con la misma temperatura**, y
+   el archivo lo registra: **la corona es la misma, el fallo no.**
+
+- Volcado: [`../../notebook/2026-08-01-s57-aew-gsm-050826-dynamite-120826-collision-150826-dynamite-190826.md`](../../notebook/2026-08-01-s57-aew-gsm-050826-dynamite-120826-collision-150826-dynamite-190826.md)

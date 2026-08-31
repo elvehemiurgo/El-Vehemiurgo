@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chris-jericho
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster Raw 2004-2005 + WCW 1999"
   - "Talk Is Jericho podcast (host) — material on-record extensivo"
@@ -228,3 +228,31 @@ AEW.**
 - [ ] AEW founding + Double or Nothing 2019 — pieza editorial.
 - [ ] Talk Is Jericho podcast — pieza editorial sobre
       Jericho como wrestling media.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-08-31 s57 — Face Jericho funciona — y el throwback de Arena México
+
+**Cita verbatim**:
+
+> *"buena escena midcard aqui, y face Jericho está siendo muy
+> entretenido. ESta lucha se merece las 3 clases, me gustó mucho."*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Face Jericho está siendo muy entretenido"*** — registro de que
+   **el turn le sirvió**, sin más ceremonia.
+2. **La tesis del midcard que lo acompaña**: la lucha sirve para *"darnos
+   un respiro de Darby un poco después de una temporada tan intensa"*.
+   **El midcard no es relleno: es el descanso que hace que el regreso
+   del top pegue.**
+3. **Research — el detalle que explica el *"timing de Arena México"***
+   que el Vehemiurgo elogió en la trios del 5/8: **Jericho fue en modo
+   throwback total, con gear vintage y "Corazón de León" en el video
+   wall**. **El booking buscó ese timing; no salió solo.**
+
+**Piezas de la sesión**:
+[trios de Arena México](../matches/2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) (WE) ·
+[vs Kevin Knight, TNT Title](../matches/2026-08-12-kevin-knight-vs-chris-jericho-aew-dynamite.md) (PW·FS·WE — **ICC**)

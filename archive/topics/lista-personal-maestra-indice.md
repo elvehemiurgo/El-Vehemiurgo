@@ -4,7 +4,7 @@ slug: lista-personal-maestra-indice
 tipo: topic
 categoria: indice-operativo
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-08-22
 fuentes_principales:
   - "Lista personal verbatim: notebook/2026-05-09-2-lista-personal-completa.md"
   - "Índices de archivo: archive/matches/index.md + archive/segments/index.md"
@@ -13,7 +13,7 @@ fuentes_principales:
 tags: [lista-personal-maestra, indice-operativo, integracion-pendiente, ranking-fuente, watch-list-fuente]
 ---
 
-> **VISTA GENERADA — no editar a mano.** Regenerar con `python3 bin/regen_vistas.py` tras integrar fichas. Última regeneración: 2026-08-26.
+> **VISTA GENERADA — no editar a mano.** Regenerar con `python3 bin/regen_vistas.py` tras integrar fichas. Última regeneración: 2026-08-22.
 
 # Lista personal maestra del Vehemiurgo — índice operativo
 
@@ -25,10 +25,10 @@ reescribible: parsing posicional, normalización de nombres al canon
 (`../../glossary/nombres-canonicos.md`), cruce con los indexes de
 `archive/matches/` y `archive/segments/`.
 
-**Conteo actual (2026-08-26)**: **732 entradas** en la lista verbatim —
+**Conteo actual (2026-08-22)**: **732 entradas** en la lista verbatim —
 **107 integradas** (con marca `(✓)` y ficha) · **625 pendientes**.
-El archive tiene **880 fichas individuales** (485 matches +
-395 segments); 107 de ellas están linkeadas 1-a-1 desde bullets
+El archive tiene **902 fichas individuales** (495 matches +
+407 segments); 107 de ellas están linkeadas 1-a-1 desde bullets
 `(✓)` — el resto son piezas abiertas sin bullet propio (centerpieces de
 cluster, drops mid-sesión, dossiers).
 

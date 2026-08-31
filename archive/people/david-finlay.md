@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: david-finlay
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
   - "Mención previa extensa en archive/people/the-dogs.md (s19-s34)"
@@ -56,6 +56,31 @@ escalada (el golpe con la cadena) — el Vehemiurgo lee que ese
 momento debía ser el detonante de una futura dog collar bien
 bookeada, no algo resuelto en el mismo capítulo que lo generó. Ver
 [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+
+### Sesión 2026-08-31 s57 — La promo que el Vehemiurgo ubicó bien de memoria
+
+**Cita verbatim**:
+
+> *"Y la promo de Finlay para esta lucha tambien estuvo buena,
+> mostraron un poco aqui, pero creo que la promo pasó en el Collision
+> pasado, se merece una WE"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **La memoria acertó**: la promo íntegra salió en el **Collision del
+   8/8/2026**, backstage y **con Clark Connors** — Finlay declara que
+   White **no puede sobrevivirlo** y que lo va a **sacar de circulación
+   para siempre**. Queda pendiente si lo del 12/8 fue segmento nuevo o
+   recap.
+2. **Encaja en el diagnóstico general del duelo**: *"estos talentos ya
+   ponen buenas promos y saben hacer relevante sus ángulos"*. **La
+   palabra estaba resuelta; faltaba el match.**
+
+**Piezas de la sesión**:
+[su promo](../segments/2026-08-12-promo-david-finlay-aew-dynamite.md) (WE) ·
+[vs Jay White, C3](../matches/2026-08-12-jay-white-vs-david-finlay-aew-dynamite.md) (PW·FS·WE — **ICC**)
 
 ## Pendientes / huecos
 

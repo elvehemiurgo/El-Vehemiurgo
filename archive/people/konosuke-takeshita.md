@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: konosuke-takeshita
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s15 (visión directa — AEW Dynamite 13/5/2026)"
   - "Matches grupales previos: six-man 8/4, Young Bucks vs Okada & Takeshita (Dynasty 2026)"
@@ -143,6 +143,32 @@ Fletcher y Knight. Ver
 [`../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md`](../matches/2026-07-08-fletcher-vs-takeshita-aew-beach-break.md)
 y
 [`../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md`](../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md).
+
+### Sesión 2026-08-31 s57 — El desertor que noquea al campeón y le queda encima
+
+**Cita verbatim**:
+
+> *"buenos stakes que ayudan a la falta de promos de Takeshita y Okada,
+> es más un showcase para Fletcher"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"La falta de promos de Takeshita y Okada"*** — el archivo
+   registra el diagnóstico **compartido**: dos japoneses de primer
+   nivel in-ring cuyo ángulo **lo sostiene un tercero con el
+   micrófono**.
+2. **Research**: se fue de la **Don Callis Family** —Okada lo llama
+   **egoísta** por eso— y entró al **three-way por el International
+   Championship de All In**. El 19/8 **noqueó a Fletcher con knee
+   strike y Raging Fire** y **le quedó parado encima con el cinturón en
+   la mano**. **La promo la carga Fletcher; la imagen se la lleva
+   Takeshita.**
+
+**Piezas de la sesión**:
+[el segmento in-ring de Fletcher](../segments/2026-08-19-segmento-in-ring-kyle-fletcher-aew-dynamite.md) (WE) ·
+[Fletcher, Callis y Okada](../segments/2026-08-12-kyle-fletcher-don-callis-okada-aew-dynamite.md) (WE)
 
 ## Pendientes / huecos
 

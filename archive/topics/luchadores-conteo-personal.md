@@ -4,7 +4,7 @@ slug: luchadores-conteo-personal
 tipo: topic
 categoria: ranking-presencia
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-08-22
 fuentes_principales:
   - "Lista personal verbatim: notebook/2026-05-09-2-lista-personal-completa.md"
   - "Registro canónico: glossary/nombres-canonicos.md"
@@ -13,7 +13,7 @@ fuentes_principales:
 tags: [ranking-presencia, luchadores, lista-personal-maestra, conteo-editorial]
 ---
 
-> **VISTA GENERADA — no editar a mano.** Regenerar con `python3 bin/regen_vistas.py` tras integrar fichas. Última regeneración: 2026-08-26.
+> **VISTA GENERADA — no editar a mano.** Regenerar con `python3 bin/regen_vistas.py` tras integrar fichas. Última regeneración: 2026-08-22.
 
 # Luchadores en la lista personal — conteo por presencia
 
@@ -29,7 +29,7 @@ Conteo: cada nombre reconocido en cada entrada suma 1. Un tag a 4 suma
 4 individuales. La métrica honra la doctrina old-school de que **cada
 nombre en el cartel importa**. Los **segmentos también cuentan**.
 
-**Snapshot 2026-08-26**: 729 entradas contadas
+**Snapshot 2026-08-22**: 729 entradas contadas
 (732 bullets, duplicados exactos deduplicados) ·
 506 con ≥1 nombre reconocido ·
 188 talents/entidades distintos.

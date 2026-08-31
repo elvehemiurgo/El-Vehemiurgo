@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: statlander
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (mención — comparación de booking AEW vs WWE)"
 tags: [statlander, aew, doctrina-booking-comparado, agentes-de-las-luchas, stub]
@@ -48,6 +48,28 @@ tener buenas luchas") sino el matchmaking que la fuerza a un
 estilo que no le conviene — responsabilidad explícita de "los
 agentes de las luchas". Ver
 [`../matches/2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md`](../matches/2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md).
+
+### Sesión 2026-08-31 s57 — La rival que hacía falta — y el "no es la súper babyface"
+
+**Cita verbatim**:
+
+> *"prometia un avance en el booking para Perse, con una buena rival
+> [...] no necesitaba ayuda para derrotar a Stat, Stat no es que sea la
+> super babyface ni nada"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Doble lectura, y las dos importan**: es *"una buena rival"* —lo
+   que habilita las clases— **y a la vez no es una rival cuya derrota
+   necesitara apuntalarse**. **Eso es exactamente lo que vuelve tímido
+   al booking: se blindó una victoria que no lo pedía.**
+2. **Research**: perdió por **springboard frog splash** tras **ref
+   bump** e interferencia de **Hikaru Shida**, sin título en juego.
+
+**Piezas de la sesión**:
+[vs Persephone](../matches/2026-08-05-persephone-vs-statlander-aew-gsm.md) (FS·WE — **Feeling Crown**)
 
 ## Pendientes / huecos
 

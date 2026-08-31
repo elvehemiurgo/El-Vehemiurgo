@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: hechicero
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s05 (visión directa — AEW Spring BreakThru 15/4/2026)"
   - "Dossier draft-aaa-aew-2026-cluster.md (Don Callis Family)"
@@ -54,6 +54,31 @@ tags: [hechicero, cmll, aew, don-callis-family-verif, perfect-match-ospreay, tec
 de clases directo, sin escalón previo — el peso propio de
 Hechicero queda establecido más allá de su rol de tag en
 Collision.
+
+### Sesión 2026-08-31 s57 — Dos noches: la trios de Arena México y el pase en el C3
+
+**Cita verbatim**:
+
+> *"lucha muy entretenida con timing de arena mexico, buenas
+> interacciones, se merece una WE"* (5/8)
+>
+> *"Cage vs Hechicero estuvo cool, muy poca psicología pero
+> disfrutable, un buen showcase de estilos, se merece una WE"* (15/8)
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Dos WE en once días**, las dos por entretenimiento y ninguna por
+   historia. **Su función en el corpus 2026 es la de estilista de
+   facción, no la de motor de ángulo.**
+2. **Research**: perdió la trios del 5/8; **ganó a Brian Cage con
+   roll-up profundo (6:49)** y avanzó en el **Continental Challenge
+   Cup**, donde **cayó ante Nigel McGuinness en cuartos** el 19/8.
+
+**Piezas de la sesión**:
+[trios de Arena México](../matches/2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) (WE) ·
+[vs Brian Cage, C3](../matches/2026-08-15-brian-cage-vs-hechicero-aew-collision.md) (WE)
 
 ## Pendientes / huecos
 

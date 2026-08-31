@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mjf
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + CM Punk feud 2022"
   - "MJF Talk Is Jericho appearances + media on-record extenso"
@@ -810,3 +810,52 @@ esta vez aplicada a **Andrade El Ídolo**, a quien la emboscada le da
 - [ ] The Devil mask storyline 2023-2024 — pieza editorial.
 - [ ] MJF vs Cody Rhodes feud 2019-2020 — pieza editorial
       foundational.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-08-31 s57 — Dos WE+ en una noche y el único que vende un gimmick en el gauntlet
+
+**Cita verbatim** (tres piezas del volcado):
+
+> *"MJF y su ataque a Andrade, su promo contra Omega y contra AEW
+> estuvo genial, esta es la verdadera historia, estos stakes son lo que
+> mefalta para disfrutar el main event de AEW otra vez [...] MJF se
+> merece una WE"* (5/8)
+>
+> *"MJF vende muy bien su idea de superioridad y que se siente volver
+> atras de la fila otra vez [...] entonces MJF es el único vendiendo un
+> gimmick y unica superestrella en este gauntled"* (12/8)
+>
+> *"Luego MJF post match en un segmento in ring genial, se merece una
+> WE+, imperdible, se mete con todos y se recrea vendiendo los stakes"*
+> (12/8)
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **La razón del elogio es de doctrina pura**: *"**estos stakes** son
+   lo que me falta para disfrutar el main event de AEW otra vez"*. **No
+   pide mejores luchas: pide causa.**
+2. **El gimmick que sostiene solo**: *"vende muy bien [...] **que se
+   siente volver atrás de la fila otra vez**"*. **La humillación del
+   heel elitista degradado a clasificatorio es el gimmick** — y el
+   research lo confirma como literal: Andrade ya tenía el spot #1, MJF
+   peleaba por el #2.
+3. **WE+ por *"imperdible"*** — palabra que casi no usa. Y el verbo que
+   la justifica: *"**se recrea** vendiendo los stakes"*. No informa los
+   stakes: los disfruta.
+4. **Corrección de registro**: el **"BBB"/"Triple B" no es un
+   campeonato** — es la versión custom del **AEW World Championship**
+   que MJF diseñó (*"Better Than You, Bay Bay"*). **Está paseando su
+   propio cinturón de campeón depuesto.**
+5. **Corrección de pronóstico**: *"listo para lo que queda del año
+   contra Ospreay en el main event"* **no se bookeó**. MJF llamó a
+   Omega y a Ospreay a la vez, sin match pactado. **En el Casino
+   Gauntlet de All In ganó Andrade — cubriendo a Nick Wayne tras darle
+   un Día de los Muertos a MJF.**
+
+**Piezas de la sesión**:
+[la emboscada a Andrade](../segments/2026-08-05-mjf-embosca-andrade-main-event-robado-aew-gsm.md) (WE, declarada acá) ·
+[three-way por el spot #2](../matches/2026-08-12-mjf-vs-mike-bailey-vs-nick-wayne-aew-dynamite.md) (WE) ·
+[promo post-match](../segments/2026-08-12-mjf-post-match-in-ring-aew-dynamite.md) (**WE+**)

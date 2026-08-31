@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: roderick-strong
 estado: vivo
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026) — declaración de héroe fundamental"
 tags: [roderick-strong, messiah-of-the-backbreaker, mr-roh, generation-next, roh-pillar, pwg-mainstay, undisputed-era-nxt, undisputed-kingdom-aew, the-kingdom-taven-bennett, end-of-heartache, sick-kick, strong-hold-boston-crab, heroe-fundamental-vehemiurgia, panteon-punk-christian-rocco]
@@ -116,6 +116,33 @@ artista" vs "es un genio del oficio".)*
   *"espero que no los manden a Collision"* sobre Cope & Cage.
   Pulla fina: Taven + Bennett son el propio entourage de
   Roderick en AEW, y son los que sí quedan relegados a ROH.
+
+### Sesión 2026-08-31 s57 — La dream match "justo en la nostalgia"
+
+**Cita verbatim**:
+
+> *"Luego Oreilly vs Strong estuvo genial, tremenda dream match
+> buenisima justo en la nostalgia, me encantó, se merece las 3 clases,
+> de lo mejor de este C3"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Justo en la nostalgia"*** — la fórmula del dream match según el
+   archivo: **no basta juntar dos nombres; hay que juntarlos mientras
+   el público todavía carga la historia.** reDRagon y Undisputed Era
+   siguen frescas.
+2. ***"De lo mejor de este C3"*** — veredicto **comparativo dentro del
+   torneo**: el Vehemiurgo estaba midiendo el Continental Challenge Cup
+   como corpus.
+3. **Research**: **pierde por flash pin, 12:57**, main event. **El
+   post-match es la pieza**: O'Reilly ofrece la mano, **Strong lo
+   empuja al suelo, se arrepiente y lo ayuda a levantarse**. **Historia
+   contada sin una palabra.**
+
+**Piezas de la sesión**:
+[vs Kyle O'Reilly, C3](../matches/2026-08-15-kyle-oreilly-vs-roderick-strong-aew-collision.md) (PW·FS·WE — **ICC**)
 
 ## Lectura consolidada del Vehemiurgo
 

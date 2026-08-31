@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: okada
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s04 (visión directa — AEW Collision 11/4/2026)"
 tags: [okada, kazuchika-okada, njpw, rainmaker, aew-2024-plus, perfect-match]
@@ -115,6 +115,39 @@ Fletcher en la venta de su próximo feud con Bandido. Ver
 [`../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md`](../segments/2026-07-22-post-match-implosion-don-callis-family-aew-dynamite.md)
 y
 [`../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md`](../segments/2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md).
+
+### Sesión 2026-08-31 s57 — Dos lecturas opuestas en siete días — y las dos quedan
+
+**Cita verbatim**:
+
+> *"incluso Okada se está soltando, y se ve más motivado que antes, es
+> un buen ángulo, me entretioene"* (12/8)
+>
+> *"en aew 2026 08 19 Dynamite Okada se desinfla y corta una promo
+> aburrida, parece que sigue necesitando mejroar en eso"* (19/8)
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Siete días entre un juicio y el contrario, y el archivo no los
+   fusiona.** **Un talento no es una constante: es una serie de
+   noches**, y las dos quedan con fecha.
+2. **El *"sigue"* del segundo es lo que pesa**: *"sigue necesitando
+   mejorar en eso"* — **no es una noche mala, es una carencia vieja que
+   reapareció**. Diagnóstico sostenido, no reproche puntual.
+3. **La distinción fina que hace la lectura del 19/8 valiosa**: el
+   ángulo era **booking gris de libro** —la lealtad como arma
+   pasivo-agresiva, la familia contra Takeshita el desertor— **y aun
+   así la promo aburrió**. **Booking ≠ performance**, igual que
+   **booking ≠ clase**.
+4. **No fue impresión aislada**: PWTorch le dedicó una sección de sus
+   *Hits & Misses* a preguntar *"did the Okada promo make sense"*.
+
+**Piezas de la sesión**:
+[trios de Arena México](../matches/2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) (WE) ·
+[con Fletcher y Callis](../segments/2026-08-12-kyle-fletcher-don-callis-okada-aew-dynamite.md) (WE) ·
+[promo del 19/8](../segments/2026-08-19-promo-okada-aew-dynamite.md) (sin clase)
 
 ## Pendientes / huecos
 

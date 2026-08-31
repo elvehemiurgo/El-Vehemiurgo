@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: persephone
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo, Arena Tony Arellano 21 ene 2025"
@@ -145,6 +145,40 @@ Ver
 [`../segments/2026-06-06-persephone-entrada-aew-collision.md`](../segments/2026-06-06-persephone-entrada-aew-collision.md)
 y
 [`../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md`](../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md).
+
+### Sesión 2026-08-31 s57 — La victoria que confiesa desconfianza
+
+**Cita verbatim**:
+
+> *"Luego una lucha esperada, Persephone vs Statlander en arena mexico,
+> prometia un avance en el booking para Perse, con una buena rival [...]
+> lo hicieron genial, se merece la WE y FS class, hubiera sido perfecta
+> si no hubieran hecho la tonteria con Thunder Rosa, en realidad son
+> durasw pero este booking timido de Perse la está perjudicando, no
+> necesitaba ayuda para derrotar a Stat [...] es buena victoria para
+> Perse, pero se nota que no confian en ella, eso me aburre"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Feeling Crown** (FS + WE) — y la **PW se pierde por diseño, no por
+   ejecución**: *"hubiera sido perfecta si no hubieran hecho la tontería
+   con Thunder Rosa"*.
+2. **El diagnóstico de fondo — el booking tímido**: *"no necesitaba
+   ayuda para derrotar a Stat"*. **Ganar apuntalada contra una rival
+   que no lo exigía confiesa desconfianza.**
+3. **Hermano, no idéntico, del topic del babyface que la empresa no
+   quiere**: ahí **no la ponen a ganar**; acá **sí**, y el problema es
+   **cómo**.
+4. **Research**: gana con **springboard frog splash** tras **ref bump**
+   e intervención de **Hikaru Shida**; **sin título en juego** (era
+   CMLL World Women's Champion). **La prensa que no comparte esta
+   escuela coincidió**: *"a weak finish"*, *"the finish reeked of
+   overbooking"*.
+
+**Piezas de la sesión**:
+[vs Kris Statlander](../matches/2026-08-05-persephone-vs-statlander-aew-gsm.md) (FS·WE — **Feeling Crown**)
 
 ## Línea editorial fértil
 

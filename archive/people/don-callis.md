@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: don-callis
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s13 (visión directa — AEW Collision Fairway to Hell, 9/5/2026)"
   - "Dossier draft-aaa-aew-2026-cluster.md (Don Callis Family)"
@@ -167,6 +167,49 @@ MJF y el resto de la coalición heel. Ver
 de Fletcher (Wrestling Entertainment) — el cruce generacional
 Callis/Foley celebrado como novedad. Ver
 [`../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md`](../segments/2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md).
+
+### Sesión 2026-08-31 s57 — El manager que eleva a todos alrededor — dos segmentos, dos funciones
+
+**Cita verbatim**:
+
+> *"Y encima sale Don Callis, corta otra de sus prmos brillantes contra
+> Omega, poniendose over y recordandonos cuando estaba en la esquina de
+> Ospreay y vencieron a Omega, buenas referencias y buenos insultos"*
+> (12/8)
+>
+> *"Luego el segmento de Kyle Fletcher con Don Callis y Okada estuvo
+> genial, muy buenoas promos [...] se merecen una WE"* (12/8)
+>
+> *"Luego Don Callis tiene un gran segmento con su familia antes de
+> Cage vs Hechicero, lo hace genial y eleva a todos alrededor, se
+> merece una WE"* (15/8)
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Eleva a todos alrededor"*** — la definición de manager según el
+   archivo: **no se pone over a costa del talento; pone over al talento
+   y de paso se pone over.**
+2. **Memoria de storyline usada como arma**: *"recordándonos cuando
+   estaba en la esquina de Ospreay y vencieron a Omega"*. **Es lo que
+   la vehemiurgia pide y casi nadie hace** — el ángulo cita su propio
+   pasado en vez de reiniciarse.
+3. **El research confirma las dos operaciones de manager de la
+   semana**: (a) el 12/8 **le impone a Fletcher un three-way contra
+   Takeshita y Okada** *"para que el título se quede en la Family"* —
+   Okada asiente, **Fletcher queda molesto**; (b) el 15/8 convierte la
+   disensión en propaganda: *"one man's dissention is another man's
+   competition"*, con **100% de probabilidad de que avance un miembro
+   de la Family**.
+4. **Booking gris bien hecho, el caso que CLAUDE.md §3 cita** — y la
+   grieta se abre siete días después, cuando Fletcher llama a Okada
+   *"narcissistic jerk"* al aire.
+
+**Piezas de la sesión**:
+[promo contra Omega + emboscada](../segments/2026-08-12-ospreay-callis-emboscada-dc-family-omega-aew-dynamite.md) (**WE+**) ·
+[con Fletcher y Okada](../segments/2026-08-12-kyle-fletcher-don-callis-okada-aew-dynamite.md) (WE) ·
+[con la familia antes de Cage vs Hechicero](../segments/2026-08-15-don-callis-family-antes-de-cage-vs-hechicero-aew-collision.md) (WE)
 
 ## Pendientes / huecos
 

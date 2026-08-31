@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: christian-cage
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 1 'Christian Cage como héroe fundamental'"
   - "Dossieres TNA 2007 + WWE Raw 2004-2005 + WWE SmackDown 2002 + WWE MITB 2013 + AEW 2026"
@@ -291,6 +291,37 @@ anticipado en s26. Ver
 **Lectura sintética**: continuación del feud revitalizado desde
 s26. Ver
 [`../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md`](../segments/2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md).
+
+### Sesión 2026-08-31 s57 — "Es el mejor" — y las promos que quedan por debajo
+
+**Cita verbatim**:
+
+> *"Luego CHristian owned los young bucks otra vez, la verdad sus
+> promos estan muy debiles, peor que Kevin Owens en WWE,
+> decepcionante, pero Edge y Christian levantan y Christian sigue
+> invicto, es el mejor, se merece una WE"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Es el mejor"*** — uno de los pocos veredictos absolutos del
+   corpus AEW 2026.
+2. **Nota de lectura**: *"sus promos"* se lee como **las de los Young
+   Bucks** — la adversativa *"pero Edge y Christian levantan"* solo
+   funciona con ese sujeto. **Ambigüedad declarada, pendiente de
+   ratificación.**
+3. **La comparación más dura del volcado**: peores que **Kevin Owens en
+   WWE** — expediente que el archivo tiene abierto desde s54.
+4. **Research**: el *"sigue invicto"* **no es individual**: es una
+   **racha como AEW World Tag Team Champion junto a Adam Copeland**,
+   título ganado a FTR en un **New York Street Fight "I Quit"** en
+   Double or Nothing — su primer título de parejas juntos **en 25
+   años** — y **retenido ante los Young Bucks en All In: London**. La
+   línea del careo: *"You were THREE when I started doing this."*
+
+**Piezas de la sesión**:
+[el careo con los Young Bucks](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) (WE)
 
 ## Lectura consolidada del Vehemiurgo
 

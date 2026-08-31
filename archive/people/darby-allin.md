@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: darby-allin
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s08 (visión directa — AEW Dynamite 22/4/2026)"
 tags: [darby-allin, aew, campeon-por-culpa-de-mjf, perfect-match-vs-tomasso, sorpresa-no-soy-fan]
@@ -247,6 +247,33 @@ dossier
 [`../../dossiers/draft-hardcore-psicosis-vs-moxley.md`](../../dossiers/draft-hardcore-psicosis-vs-moxley.md).
 Pierde ante una trampa de Knight con "un spot impresionante". Ver
 [`../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md`](../matches/2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md).
+
+### Sesión 2026-08-31 s57 — La promo "muy pro" del que no luchó
+
+**Cita verbatim**:
+
+> *"Luego Darby corta una gran promo contra Kevin Knight, fue genial,
+> le quedó muy pro, se merece una WE"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim)
+
+**Lectura sintética**:
+
+1. ***"Le quedó muy pro"*** — elogio de oficio, no de emoción. En el
+   léxico del Vehemiurgo *pro* es **hecho como se hace**, sin pose.
+2. **Sostiene el hilo sin luchar**: esa noche Knight trabajó con
+   Jericho y Darby **no apareció en el ring** — pero **no
+   desapareció**. *"Sí se espera su regreso."*
+3. **Research**: la promo dice que **no tiene arrepentimientos sobre su
+   reinado mundial**, que **quemó la vela por los dos extremos** y que
+   **Knight viene haciendo lo mismo**. **Es la promo del veterano que
+   eleva al rival usando su propia historia como espejo** — eso es lo
+   "pro". En All In ganó el TNT Title con coffin drop desde un andamio
+   y regreso de **Sting**.
+
+**Piezas de la sesión**:
+[trios de Arena México](../matches/2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) (WE) ·
+[promo contra Kevin Knight](../segments/2026-08-12-promo-darby-contra-kevin-knight-aew-dynamite.md) (WE)
 
 ## Pendientes / huecos
 

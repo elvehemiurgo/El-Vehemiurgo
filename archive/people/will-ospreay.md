@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: will-ospreay
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026"
   - "Multiple retrospectivas Cornette critical + Meltzer favorable"
@@ -381,3 +381,51 @@ gestión consciente de qué material vale la pena seguir cargando.
       idea" por el propio Vehemiurgo — material listo para la
       columna cuando se escriba.
 - [ ] Seguir la proyección Omega vs Ospreay hacia Redemption/Wembley.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-08-31 s57 — El mes en que "por fin lo dejan cocinar solo"
+
+**Cita verbatim** (tres momentos, quince días):
+
+> *"el booking de Ospreay no hace nada por mi, fuera de que por fin
+> dejó de tratarse de Moxley todo, pero igual es debil"* (5/8)
+>
+> *"Ospreay no necesita a nadie para ser un gran babyface, esto fue
+> cool."* (5/8, misma noche, tras la street fight con Mark Davis)
+>
+> *"este es el main evnt Ospreay que debimos ver todo este tiempo, por
+> fin lo dejan cocinar solo [...] realmente levantando el desaste de
+> booking que le dieron y se encargó de redimir el ángulo solito"*
+> (12/8)
+>
+> *"es un buen showcase para Ospreay como enterteiner, y como puede
+> mantener el oldschool en sus promos"* (19/8)
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética — el arco crítico se cierra**:
+
+1. **La aparente contradicción del 5/8 es la clave de todo**: en el
+   mismo dictado el Vehemiurgo llama *"débil"* al booking y le da **las
+   tres clases** a Ospreay vs Mark Davis. **El talento y el andamiaje
+   se juzgan por separado, y siempre fue así en este expediente.**
+2. **El 12/8 el juicio se da vuelta y él mismo dice por qué**: *"por
+   fin lo dejan cocinar solo"*. **Lo que faltaba no era trabajo:
+   faltaba que la empresa dejara de ponerle socios.** Cierra el arco
+   crítico que el archivo viene siguiendo desde s36 y s46 —
+   *"nunca tuvo sentido"* el pairing con Moxley.
+3. **El cumplido más alto de la doctrina, y va para él**: *"cómo puede
+   **mantener el oldschool en sus promos**"*. Dicho de un inglés que
+   viene del indie moderno.
+4. **Research**: la promo del 12/8 incluyó **la muerte de su abuelo
+   antes de su match en México el año anterior**, y se quebró — eso
+   sostiene el *"muy emotiva"*. Su street fight en Arena México
+   —**Hidden Blade con alambre de púas, ~17 minutos, los dos
+   sangrando**— fue el main event del show más taquillero de AEW en un
+   taping de TV (**gate >USD 600.000**).
+
+**Piezas de la sesión**:
+[vs Mark Davis, Mexico City Street Fight](../matches/2026-08-05-ospreay-vs-mark-davis-aew-gsm.md) (PW·FS·WE — **ICC**) ·
+[promo + Callis + emboscada + rescate de Omega](../segments/2026-08-12-ospreay-callis-emboscada-dc-family-omega-aew-dynamite.md) (**WE+**) ·
+[entrevista con Omega](../segments/2026-08-19-entrevista-ospreay-omega-aew-dynamite.md) (WE, con reserva de duración)

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kenny-omega
 estado: stub
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
 tags: [kenny-omega, tyson-smith, the-cleaner, the-elite, bullet-club-leader, njpw-okada-saga, aew-founding-evp, primer-aew-world-champion, one-winged-angel, acto-polarizante-vehemiurgia, frikismo-videojuegos-critica-doctrinal, meltzer-school-workrate-first-opuesto-editorial]
@@ -212,6 +212,57 @@ Riders — ver
 [ficha del match/segmento](../segments/2026-07-29-kenny-omega-ospreay-segmento-aew-dynamite.md)
 y la lectura paralela en la [ficha de Ospreay](./will-ospreay.md).
 
+### Sesión 2026-08-31 s57 — El fallo más largo del archivo — "es un villano de One Piece"
+
+**Cita verbatim** (el pasaje íntegro del 12/8, más el matiz del 19/8):
+
+> *"luego Omega al rescate moviendose más fake que nunca, ahora mismo
+> Omega es como una versión aun más bailarina que antes, siempre tuvo
+> un estilo raro para mi, a veces muy safe dentro de ese indie japones
+> que le gusta, obviamente fake, y es un luchador que no se considera
+> luchador, se considera "artista" o personaje de videojuegos, por eso
+> es cringe y raro, y nunca será oldschool como los grandes, es un
+> outsider, y cuandop hace de heel en TV es una caricatura, es un
+> villano de One Piece, es algo que se deja ver, pero no es cool como
+> wrestling cool, es impresionante pero no es el wrestling oldchsool
+> que busco. Pero todo esto hace que este vs sea intreresante, porque
+> le deja todo el peso del wrestling a Ospreay y este se está moviendo
+> como main eventer, por fin, es una gran oportunidad."* (12/8)
+>
+> *"Omega así de prick es cool, sigue siendo raro, pero siempre tuvo lo
+> suyo"* (19/8)
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética — la tesis, no el insulto**:
+
+1. **El eje no es la técnica: es la identidad.** *"Es un luchador que
+   **no se considera luchador**, se considera 'artista' o personaje de
+   videojuegos"*. **Ese es el cargo completo.** Todo lo demás —lo
+   *bailarín*, lo *safe*, lo *fake*— se desprende de ahí.
+2. **Es el reverso exacto del *indie cosplay*** (CLAUDE.md §3): allá
+   falta oficio y sobra ambición de moves; acá **sobra recurso y falta
+   pertenencia al oficio**. Mismo diagnóstico, distinto síntoma.
+3. **La imagen que resume todo**: *"cuando hace de heel en TV es una
+   caricatura, **es un villano de One Piece**"*. Y el límite del
+   reproche, dicho por él mismo: *"es algo que se deja ver [...] es
+   impresionante pero **no es el wrestling oldschool que busco**"*.
+   **No es "es malo". Es "no es esto".**
+4. **El matiz que impide leerlo como entierro**: *"todo esto hace que
+   este vs sea interesante, porque **le deja todo el peso del wrestling
+   a Ospreay**"*. **El defecto de uno es la oportunidad del otro, y el
+   Vehemiurgo lo aprueba como booking.**
+5. **Y una semana después, la única modalidad de Omega que aprueba sin
+   peros**: *"Omega así de **prick** es cool"* — el heel seco de la
+   entrevista, no la caricatura. **Sigue *"raro"*, pero funciona.**
+
+**Material de dossier declarado** — el pasaje excede cualquier ficha y
+queda inventariado como candidato, junto con los ensayos de s55.
+
+**Piezas de la sesión**:
+[el rescate y la emboscada](../segments/2026-08-12-ospreay-callis-emboscada-dc-family-omega-aew-dynamite.md) (**WE+**) ·
+[entrevista con Ospreay](../segments/2026-08-19-entrevista-ospreay-omega-aew-dynamite.md) (WE) ·
+[careo Cage & Cope vs Young Bucks](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) (WE)
 
 ## Pendientes / huecos
 

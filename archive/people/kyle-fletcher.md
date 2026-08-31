@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kyle-fletcher
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
 tags: [kyle-fletcher, aussie-open, don-callis-family-verif, aew, primer-registro, turn-babyface-takeshita]
@@ -159,6 +159,47 @@ corto bien ejecutado**.
 [brawl con Mike Bailey](../segments/2026-07-30-fletcher-bailey-brawl-aew-collision.md) (WE) ·
 [vs Mike Bailey, título Internacional](../matches/2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md) (PW·FS·WE)
 
+### Sesión 2026-08-31 s57 — El que carga la palabra de una facción entera
+
+**Cita verbatim**:
+
+> *"Luego Fletcher vs Bayley merece las 3 clases, lo mantienen real
+> pero no es prolijo, es entretenido y brutal, pero no tan cool como
+> podría"* (5/8)
+>
+> *"Luego el segmento de Kyle Fletcher con Don Callis y Okada estuvo
+> genial, muy buenoas promos"* (12/8)
+>
+> *"a diferencia de Fletcher que tiene un segmento in ring muy bueno,
+> buenos stakes que ayudan a la falta de promos de Takeshita y Okada,
+> es más un showcase para Fletcher y lo que es capaz de hacer, es muy
+> efectivo, se merece una WE"* (19/8)
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **La función declarada del 19/8**: *"buenos stakes que **ayudan a la
+   falta de promos** de Takeshita y Okada"*. **Fletcher no habla por
+   sí: habla por tres.** Misma operación que el archivo le reconoce a
+   Don Callis, hecha por un luchador activo.
+2. **Extiende el elogio de s37** — *"Fletcher siempre saca lo mejor de
+   sus rivales, hace ver real a cualquier rival"* — **ahora también con
+   el micrófono**.
+3. **Segunda lectura de Fletcher vs Bailey**: ratifica las tres clases
+   y afina la reserva (*"no es prolijo [...] no tan cool como podría"*).
+   **Precedente de triple clase con reserva técnica declarada.**
+4. **Research**: es **AEW International Champion**, con tres defensas
+   en tres países; Callis le impuso el three-way de All In contra
+   Takeshita y Okada; el 19/8 declaró que **confía en Callis con todo
+   su corazón**, que comparte con Okada el odio a Takeshita y que
+   **además Okada es un "narcissistic jerk"** — y **Takeshita lo noqueó
+   ahí mismo y le quedó parado encima con el cinturón**.
+
+**Piezas de la sesión**:
+[vs Mike Bailey, International](../matches/2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md) (ICC — segunda lectura) ·
+[con Callis y Okada](../segments/2026-08-12-kyle-fletcher-don-callis-okada-aew-dynamite.md) (WE) ·
+[segmento in-ring del 19/8](../segments/2026-08-19-segmento-in-ring-kyle-fletcher-aew-dynamite.md) (WE)
 
 ## Pendientes / huecos
 

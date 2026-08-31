@@ -38,11 +38,18 @@ con cada cambio de estado.
 | 2026-08-17 | Chad Gable (c) vs Rey Mysterio — WWE Intercontinental Championship | WWE / Raw | FS·WE | FC | en-investigacion | 1 | [→](2026-08-17-chad-gable-vs-rey-mysterio-ic-title-wwe-raw.md) |
 | 2026-08-17 | El Fiscal vs Rey Fénix — World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md) |
 | 2026-08-17 | Je'Von Evans vs JD McDonagh | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-17-jevon-evans-vs-jd-mcdonagh-wwe-raw.md) |
+| 2026-08-15 | Brian Cage vs Hechicero — Continental Challenge Cup, primera ronda | AEW / Collision | WE | — | en-investigacion | 1 | [→](2026-08-15-brian-cage-vs-hechicero-aew-collision.md) |
+| 2026-08-15 | Kyle O'Reilly vs Roderick Strong — Continental Challenge Cup, primera ronda | AEW / Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-15-kyle-oreilly-vs-roderick-strong-aew-collision.md) |
+| 2026-08-15 | The Lethal Twist (Jay Lethal, Blake Christian y Lee Johnson) vs Adam Page, Bandido y Brody King (c) — AEW World Trios Championship | AEW / Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-15-lethal-twist-vs-page-bandido-brody-king-trios-aew-collision.md) |
+| 2026-08-15 | Nigel McGuinness vs Katsuyori Shibata — Continental Challenge Cup, primera ronda | AEW / Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-15-nigel-mcguinness-vs-shibata-aew-collision.md) |
 | 2026-08-15 | Noisy Boy vs Rey Fénix (c) — AAA World Cruiserweight Championship | AAA / AAA Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md) |
 | 2026-08-15 | Psycho Clown vs La Parka — primera ronda, World Heavyweight Championship No. 1 Contender's Tournament | AAA / AAA Worldwide | FS·WE | FC | en-investigacion | 1 | [→](2026-08-15-psycho-clown-vs-la-parka-aaa-worldwide.md) |
 | 2026-08-14 | Carmelo Hayes vs Baron Corbin (c) — WWE United States Championship | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md) |
 | 2026-08-14 | Matt Cardona vs Gunther — Street Clothes Match | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md) |
 | 2026-08-14 | Tiffany Stratton (c) vs Jacy Jayne — WWE Women's United States Championship | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md) |
+| 2026-08-12 | Jay White vs David Finlay — Continental Challenge Cup, primera ronda | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-12-jay-white-vs-david-finlay-aew-dynamite.md) |
+| 2026-08-12 | Kevin Knight (c) vs Chris Jericho — AEW TNT Championship | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-12-kevin-knight-vs-chris-jericho-aew-dynamite.md) |
+| 2026-08-12 | MJF vs Mike Bailey vs Nick Wayne — spot #2 del Casino Gauntlet de All In: London | AEW / Dynamite | WE | — | en-investigacion | 1 | [→](2026-08-12-mjf-vs-mike-bailey-vs-nick-wayne-aew-dynamite.md) |
 | 2026-08-11 | Cruz Montana vs Grayson Waller | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-08-11-cruz-montana-vs-grayson-waller-debut-zilla-fatu-nxt.md) |
 | 2026-08-11 | Kam Hendrix vs Mason Rook | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-08-11-kam-hendrix-vs-mason-rook-nxt.md) |
 | 2026-08-11 | Lexis King vs Lucien Price | WWE / NXT | — | — | en-investigacion | 1 | [→](2026-08-11-lexis-king-vs-lucien-price-nxt.md) |
@@ -56,7 +63,10 @@ con cada cambio de estado.
 | 2026-08-07 | Fallon Henley & Lainey Reid (c) vs Chelsea Green & Tiffany Stratton | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-07-fallon-henley-lainey-reid-vs-chelsea-green-tiffany-stratton-wwe-smackdown.md) |
 | 2026-08-05 | Andrade El Ídolo vs Tommaso Ciampa vs Komander | AEW / Grand Slam Mexico | WE | — | en-investigacion | 1 | [→](2026-08-05-andrade-vs-ciampa-vs-komander-national-aew-gsm.md) |
 | 2026-08-05 | Christian Cage, Edge & The Young Bucks vs The Death Riders | AEW / Grand Slam Mexico | WE | — | en-investigacion | 1 | [→](2026-08-05-christian-cope-young-bucks-vs-death-riders-aew-gsm.md) |
-| 2026-08-05 | Kyle Fletcher vs Mike Bailey | AEW / Grand Slam Mexico | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md) |
+| 2026-08-05 | Kyle Fletcher vs Mike Bailey | AEW / Grand Slam Mexico | PW·FS·WE | ICC | en-investigacion | 2 | [→](2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md) |
+| 2026-08-05 | Místico, Darby Allin y Chris Jericho vs Kevin Knight, Kazuchika Okada y Hechicero | AEW / Grand Slam Mexico | WE | — | en-investigacion | 1 | [→](2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) |
+| 2026-08-05 | Will Ospreay vs Mark Davis — Mexico City Street Fight | AEW / Grand Slam Mexico | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-05-ospreay-vs-mark-davis-aew-gsm.md) |
+| 2026-08-05 | Persephone vs Kris Statlander | AEW / Grand Slam Mexico | FS·WE | FC | en-investigacion | 1 | [→](2026-08-05-persephone-vs-statlander-aew-gsm.md) |
 | 2026-08-04 | Nikkita Lyons & Karmen Petrovic vs Jaida Parker & Thea Hail | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-08-04-nikkita-lyons-karmen-petrovic-vs-jaida-parker-thea-hail-wwe-nxt.md) |
 | 2026-08-03 | Chad Gable & Penta vs Dominik Mysterio & JD McDonagh | WWE / Monday Night Raw | WE | — | en-investigacion | 1 | [→](2026-08-03-chad-gable-penta-vs-dominik-mysterio-jd-mcdonagh-wwe-raw.md) |
 | 2026-08-03 | Jevon Evans vs Ethan Page (2do encuentro de 2026) | WWE / Monday Night Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-03-jevon-evans-vs-ethan-page-2-wwe-raw.md) |

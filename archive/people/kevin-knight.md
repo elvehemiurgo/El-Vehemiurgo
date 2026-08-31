@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-knight
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s09 (visión directa — AEW Dynamite 29/4/2026)"
 tags: [kevin-knight, aew, upset-vs-mjf, low-blow-finish, the-future-in-2026]
@@ -231,6 +231,38 @@ Ver
 [`../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md`](../segments/2026-07-26-kevin-knight-vs-omega-promo-video-aew-redemption.md)
 y
 [`../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md`](../matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md).
+
+### Sesión 2026-08-31 s57 — La rivalidad que reparte — y la reserva que no le quita la clase
+
+**Cita verbatim**:
+
+> *"Luego Kevin Knight vs Jericho estuvo muy cool, buenos gimmicks,
+> buenos stkaes, la rivalidad se va formando yu se siente bien para
+> Knight no solo para Jericho, todavia nada muy enterteinment ni nada,
+> pero si fue una buena lucha para continuar y darnos un respiro de
+> Darby un poco despues de una temporada tan intesa [...] ESta lucha se
+> merece las 3 clases, me gustó mucho."*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **La prueba de fuego del archivo, aprobada**: *"se siente bien para
+   Knight **no solo para Jericho**"*. Cuando un veterano trabaja con un
+   joven, la pregunta es siempre **si el joven sale ganando algo**.
+2. **Triple clase con reserva declarada**: *"todavía nada muy
+   entertainment ni nada"*. **Precedente registrado.**
+3. **Research**: era por el **AEW TNT Championship** —Knight campeón y
+   **heel, con Don Callis**—, 13:00, y **retuvo con low blow y Crash
+   Landing** tras un screwjob con destornillador de Callis. **La
+   rivalidad que se cierra con Knight no es la de Jericho: es la de
+   Darby Allin** — cuarto singles, Falls Count Anywhere en All In, que
+   **Darby ganó**. Ambos salieron de la **Buddy Wayne Academy**.
+
+**Piezas de la sesión**:
+[trios de Arena México](../matches/2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) (WE) ·
+[vs Chris Jericho, TNT Title](../matches/2026-08-12-kevin-knight-vs-chris-jericho-aew-dynamite.md) (PW·FS·WE — **ICC**) ·
+[la promo de Darby en su contra](../segments/2026-08-12-promo-darby-contra-kevin-knight-aew-dynamite.md) (WE)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: young-bucks
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynasty 2026) — declaración de héroes fundamentales"
 tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, superkick-party, bte, tandem-moderno, heroes-fundamentales-vehemiurgia, dos-perfect-match-2026, panteon-vehemiurgo]
@@ -91,6 +91,32 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
 carisma ya documentada — *"típico humor de los YBs"* funciona
 otra vez, sin necesidad de reinventarse. Ver
 [`../segments/2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md`](../segments/2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md).
+
+### Sesión 2026-08-31 s57 — Promos "peores que Kevin Owens en WWE"
+
+**Cita verbatim**:
+
+> *"Luego CHristian owned los young bucks otra vez, la verdad sus
+> promos estan muy debiles, peor que Kevin Owens en WWE,
+> decepcionante, pero Edge y Christian levantan"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **La comparación más dura del volcado**, y el archivo la lee **como
+   dirigida a los Bucks** —la adversativa *"pero Edge y Christian
+   levantan"* solo funciona así—, con la ambigüedad declarada.
+2. **Continuidad del expediente**: en s37 ya estaban registrados como
+   *"soft y aburridos y sin actitud"*. **Once días después, el reproche
+   se traslada del ring al micrófono.**
+3. **Research**: la línea del careo fue de Adam Copeland a Nick
+   Jackson — **"You were THREE when I started doing this"**; Matt
+   Jackson respondió que Copeland es **"old enough to be our father"**.
+   **Perdieron los tag titles ante Cage & Cope en All In: London.**
+
+**Piezas de la sesión**:
+[el careo con Cage & Cope](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) (WE)
 
 ## Pendientes / huecos
 

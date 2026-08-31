@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jay-white
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s29 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
   - "Mención previa como ausente/esperado en archive/people/the-dogs.md (s19-s26)"
@@ -114,6 +114,45 @@ acumulara historial suficiente. Ver
 [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)
 y el video previo
 [`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md).
+
+### Sesión 2026-08-31 s57 — La enmienda del dog collar: "solo necesitan buenas luchas"
+
+**Cita verbatim**:
+
+> *"Y tenemos White vs Finlay, el clásico, buenisimo, lo mantienen
+> real, y me gusta que el booking proponga una singles con continental
+> challenge rules, el dog collar fue un error, y estos talentos ya
+> ponen buenas promos yy saben hacer relevante sus ángulos, asi que
+> solo necesitan buenas luchas, y esta estuvo genial, se merece las 3
+> clases, fue perfecta"*
+>
+> *"Luego el gang gang bang con mick foley backstage estuvo muy cool,
+> se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Fue perfecta"*** — la palabra que habilita la PW sin reserva.
+   **La única triple clase sin reserva de todo el volcado.**
+2. **La enmienda registrada como acierto**: *"el dog collar fue un
+   error"* cierra la crítica de s37 (*"igual de estúpido que lo que
+   hacía Vince Russo"*). **El archivo no solo anota errores: anota
+   enmiendas.**
+3. **La tesis invertida**: *"ya ponen buenas promos y saben hacer
+   relevante sus ángulos, **así que solo necesitan buenas luchas**"* —
+   al revés de la queja habitual del archivo.
+4. **Research**: gana con **Bladerunner**, **13:18**, primera ronda del
+   **AEW Continental Challenge Cup** bajo **Continental Rules**
+   (interferencia externa prohibida; Bang Bang Gang y The Dogs vetados
+   de ringside). **Corrección**: no existió un dog collar **singles**
+   entre White y Finlay — lo documentado es un **Double Chain Match por
+   parejas en AEW Redemption 2026** (White & Juice Robinson vs The
+   Dogs). **La crítica sigue en pie; apunta a esa lucha de parejas.**
+
+**Piezas de la sesión**:
+[vs David Finlay, C3](../matches/2026-08-12-jay-white-vs-david-finlay-aew-dynamite.md) (PW·FS·WE — **ICC**) ·
+[con Mick Foley backstage](../segments/2026-08-12-bang-bang-gang-mick-foley-backstage-aew-dynamite.md) (WE)
 
 ## Pendientes / huecos
 

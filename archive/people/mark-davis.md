@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mark-davis
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
 tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-verif, heel-genial-vehemiurgo, recurrente-lista-personal, heroes-fundamentales-vehemiurgia, panteon-vehemiurgo-43, kyle-fletcher-comparacion, perfect-match-04-marzo]
@@ -241,6 +241,33 @@ fuente. Ver
 [`../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md`](../matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md).
 *(Nota s47: el "Davis" del promo video Guns vs Dogs era David
 Finlay — mención retirada de este expediente.)*
+
+### Sesión 2026-08-31 s57 — El rival del clásico — y la masacre de Arena México
+
+**Cita verbatim**:
+
+> *"Luego bookearon el clásico Ospreay vs Davis, ahora en la arena
+> mexico, buenisimo, siempre ponen una lucha dura y esta versión se
+> merece las 3 clases. Pusieron una masacre, y una lucha mucho más real
+> y mejor que cualquiera que Moxley haya hecho enAEW."*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"El clásico"*, con artículo**: la serie Ospreay/Davis ya es
+   **entrega recurrente** en el archivo (22/4, 3/6, y ahora 5/8).
+2. **La vara**: *"más real y mejor que cualquiera que Moxley haya hecho
+   en AEW"* — **hardcore contra hardcore**, dicho sin saber al dictarlo
+   que era una street fight sangrienta.
+3. **Research**: **Mexico City Street Fight**, main event, **~17
+   minutos**, alambre de púas, sillas y una llanta, los dos sangrando;
+   gana Ospreay con **Hidden Blade**. Davis participó además en la
+   **emboscada de la DC Family del 12/8**, buscando venganza.
+
+**Piezas de la sesión**:
+[vs Ospreay, Mexico City Street Fight](../matches/2026-08-05-ospreay-vs-mark-davis-aew-gsm.md) (PW·FS·WE — **ICC**) ·
+[la emboscada del 12/8](../segments/2026-08-12-ospreay-callis-emboscada-dc-family-omega-aew-dynamite.md) (**WE+**)
 
 ## Pendientes / huecos
 

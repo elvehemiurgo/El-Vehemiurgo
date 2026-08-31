@@ -18,20 +18,22 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Estuvo cool; es la mejor oportunidad que Andrade ha tenido en tv en USA; una rivalidad con MJF no puede salir mal, siempre eleva; MJF lo está vendiendo como personal, dándole stakes reales a Andrade; MJF hace un check up de toda la escena, entierra a Omega y Ospreay; la verdadera historia es el main event robado de MJF"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Se merece una WE (declarada en s57). Estuvo cool; es la mejor oportunidad que Andrade ha tenido en tv en USA; una rivalidad con MJF no puede salir mal, siempre eleva; MJF lo está vendiendo como personal, dándole stakes reales a Andrade; MJF hace un check up de toda la escena, entierra a Omega y Ospreay; la verdadera historia es el main event robado de MJF"
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-08-31
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s37 (VISIONADO DIRECTO — AEW Grand Slam Mexico 5/8/2026)"
   - "Sub-agente aew-collision-gsm (research 2026-08-01) — contenido completo de la promo"
-tags: [aew-2026, grand-slam-mexico, mjf, andrade, kenny-omega, will-ospreay, all-in-wembley, casino-gauntlet, main-event-robado, sin-clase-declarada]
+  - "Volcado Vehemiurgo 2026-08-31 s57 (segunda lectura — clase WE declarada)"
+tags: [aew-2026, grand-slam-mexico, mjf, andrade, kenny-omega, will-ospreay, all-in-wembley, casino-gauntlet, main-event-robado, wrestling-entertainment]
 ---
 
 # MJF embosca a Andrade — AEW Grand Slam Mexico (5/8/2026)
 
-> **Sin clase declarada.** *"La verdadera historia aquí es el main
-> event robado de MJF."*
+> **Wrestling Entertainment** *(clase declarada en s57, sobre una
+> ficha que había nacido sin ella)*. *"La verdadera historia aquí es
+> el main event robado de MJF."*
 
 ## Lectura del Vehemiurgo
 
@@ -50,8 +52,6 @@ tags: [aew-2026, grand-slam-mexico, mjf, andrade, kenny-omega, will-ospreay, all
 > mundial."*
 >
 > — El Vehemiurgo, 2026-08-01 s37 (verbatim)
-
-**Sin clase declarada.**
 
 **Lectura sintética**:
 
@@ -102,3 +102,41 @@ tags: [aew-2026, grand-slam-mexico, mjf, andrade, kenny-omega, will-ospreay, all
 - [`../people/will-ospreay.md`](../people/will-ospreay.md)
 - [`../matches/2026-08-05-andrade-vs-ciampa-vs-komander-national-aew-gsm.md`](../matches/2026-08-05-andrade-vs-ciampa-vs-komander-national-aew-gsm.md)
 - Volcado: [`../../notebook/2026-08-01-s37-aew-gsm-050826-collision-300726.md`](../../notebook/2026-08-01-s37-aew-gsm-050826-collision-300726.md)
+
+## Segunda lectura — s57 (2026-08-31): llega la clase
+
+**Cita verbatim**:
+
+> *"en aew 2026 08 05 Grand Slam Mexico MJF y su ataque a Andrade, su
+> promo contra Omega y contra AEW estuvo genial, esta es la verdadera
+> historia, estos stakes son lo que mefalta para disfrutar el main
+> event de AEW otra vez, el booking de Ospreay no hace nada por mi,
+> fuera de que por fin dejó de tratarse de Moxley todo, pero igual es
+> debil, MJF se merece una WE"*
+>
+> — El Vehemiurgo, 2026-08-31 s57 (verbatim)
+
+**Qué cambia**:
+
+1. **La ficha había nacido sin clase.** Veintiséis días después, el
+   Vehemiurgo vuelve sobre el mismo segmento y **declara la WE**. **La
+   clase no caduca ni se infiere: se espera.**
+2. **Y agrega la razón, que es de doctrina pura**: *"**estos stakes**
+   son lo que me falta para disfrutar el main event de AEW otra vez"*.
+   **No pide mejores luchas: pide causa.** Es el reproche central del
+   archivo al AEW de 2026, formulado como elogio a quien sí la
+   entrega.
+3. **El fallo sobre el main event rival, en la misma frase**: *"el
+   booking de Ospreay no hace nada por mí, fuera de que por fin dejó de
+   tratarse de Moxley todo, pero igual es débil"*. **Reconoce la
+   mejora y sostiene la crítica** — y la sostiene **la misma noche** en
+   que le da tres clases a Ospreay vs Mark Davis. **El trabajo del
+   luchador y el andamiaje del booking se juzgan por separado.** Una
+   semana después, con el segmento del 12/8, ese juicio se da vuelta.
+
+## Piezas relacionadas — s57
+
+- [`../matches/2026-08-05-ospreay-vs-mark-davis-aew-gsm.md`](../matches/2026-08-05-ospreay-vs-mark-davis-aew-gsm.md)
+- [`../matches/2026-08-12-mjf-vs-mike-bailey-vs-nick-wayne-aew-dynamite.md`](../matches/2026-08-12-mjf-vs-mike-bailey-vs-nick-wayne-aew-dynamite.md)
+- [`./2026-08-12-mjf-post-match-in-ring-aew-dynamite.md`](./2026-08-12-mjf-post-match-in-ring-aew-dynamite.md)
+- Volcado: [`../../notebook/2026-08-01-s57-aew-gsm-050826-dynamite-120826-collision-150826-dynamite-190826.md`](../../notebook/2026-08-01-s57-aew-gsm-050826-dynamite-120826-collision-150826-dynamite-190826.md)
