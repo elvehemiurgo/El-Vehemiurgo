@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jay-white
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s29 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
   - "Mención previa como ausente/esperado en archive/people/the-dogs.md (s19-s26)"
@@ -153,6 +153,47 @@ y el video previo
 **Piezas de la sesión**:
 [vs David Finlay, C3](../matches/2026-08-12-jay-white-vs-david-finlay-aew-dynamite.md) (PW·FS·WE — **ICC**) ·
 [con Mick Foley backstage](../segments/2026-08-12-bang-bang-gang-mick-foley-backstage-aew-dynamite.md) (WE)
+
+### Sesión 2026-09-02 s58 — La WE+ por consistencia y los Collision Cowboys
+
+**Cita verbatim**:
+
+> *"White tuvo que sacarle una lucha ok al luchador más fake
+> actualmente [...] yo reemplazaría el tiempo en tv de Moxley con Jay
+> WHite de una vez"* (19/8)
+>
+> *"los collision cowboygs haciendo magia como siempre, quiero más de
+> ellos, se merecen una WE"* (22/8)
+>
+> *"Post match la promo de Jay es simplemente sublime como siempre,
+> cool wrestlers, oldschool, y se la re viven, se merecen una WE+"*
+> (22/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **La WE+ por consistencia, no por un pico**: *"sublime **como
+   siempre**"*. **Precedente registrado: la clase puede otorgarse por
+   estándar sostenido**, no solo por un momento definitorio.
+2. ***"Quiero más de ellos"*** — **la forma más alta de aprobación del
+   Vehemiurgo, y el reverso exacto de lo que dijo de Moxley tres días
+   antes** (*"reemplazaría su tiempo en TV"*). **En un mismo volcado,
+   los dos extremos de la crítica de asignación de minutos.**
+3. **Research — *"Collision Cowboys" no es apelativo del Vehemiurgo**:
+   es la etiqueta que **White se aplica a sí mismo y a los Gunn en esa
+   misma promo post-match**. El trío que *vive* en el show del sábado.
+   **El Vehemiurgo lo repitió porque lo escuchó ahí.**
+4. **Research — el Bang Bang Gang es Jay White + Austin y Colten
+   Gunn**; vencieron a **Shane Taylor Promotions** en respuesta a un
+   **open challenge**. **En Wembley, White eliminó a Finlay con Blade
+   Runner y fue eliminado por Gabe Kidd** en el Trios Roulette Royale.
+
+**Piezas de la sesión**:
+[vs Jon Moxley, C3](../matches/2026-08-19-jay-white-vs-jon-moxley-aew-dynamite.md) (sin clase) ·
+[Bang Bang Gang vs STP](../matches/2026-08-22-bang-bang-gang-vs-shane-taylor-promotions-aew-collision.md) (WE) ·
+[la promo post-match](../segments/2026-08-22-promo-post-match-jay-white-aew-collision.md) (**WE+**) ·
+[Trios Roulette Royale](../matches/2026-08-30-trios-roulette-royale-aew-all-in.md) (**FC**)
 
 ## Pendientes / huecos
 

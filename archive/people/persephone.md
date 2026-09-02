@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: persephone
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo, Arena Tony Arellano 21 ene 2025"
@@ -179,6 +179,51 @@ y
 
 **Piezas de la sesión**:
 [vs Kris Statlander](../matches/2026-08-05-persephone-vs-statlander-aew-gsm.md) (FS·WE — **Feeling Crown**)
+
+### Sesión 2026-09-02 s58 — Wembley: la coronación, la alianza con Britt y la reserva de la actitud fresa
+
+**Cita verbatim**:
+
+> *"Maya y Perse realmente quieren poner buenas luchas, me gusta verlas
+> cada semana"* (19/8)
+>
+> *"Persephone cortó una buena promo, mucho progreso en este tipo en
+> TV, obvio hay que redondear y ponerse más oldschool pero si se quiere
+> mover como main eventer"* (Buy In, 30/8)
+>
+> *"fue cool la coronación de Perse [...] y obvio Perse con el
+> campeonato con más stakes que nunca, me gusta el booking"* (30/8)
+>
+> *"la promo post match de Perse y Britt estuvo ok, pudo ser mejor, veo
+> las ganas, pero volvieron a la actitud fresa asi como de engreida, y
+> no es tan cool como cuando si hablan como wrestlers orgullosos"*
+> (30/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **ALTA A THE FUTURE in 2026 — #20**, declarada en este volcado. El
+   criterio se cumple con la palabra del criterio: **querer**.
+2. **La doctrina de la *"actitud fresa"*, que es su hoja de ruta**:
+   **hablar como diva engreída vs hablar como wrestler orgullosa**.
+   **Las dos son arrogancia; solo una viene del oficio.** Es el
+   contenido concreto del *"ponerse más oldschool"* que le pide.
+3. **El arco desde s57 se invierte**: allá el problema era la empresa
+   (*"se nota que no confían en ella"*); acá el diagnóstico ya es sobre
+   su propio crecimiento (*"mucho progreso"*).
+4. **Research**: **ganó el AEW TBS Championship**, primer reinado, y
+   quedó **doble campeona** —ya era CMLL World Women's Champion—.
+   **Corrección al dictado**: **Britt Baker no la atacó: atacó a Maya
+   World enmascarada y la ayudó a ganar.** La alianza es
+   **Baker + Persephone**, y el enemigo declarado es **Thunder Rosa** —
+   **cerrando el hilo que quedó abierto en Grand Slam Mexico**.
+
+**Piezas de la sesión**:
+[el four-way por el TBS](../matches/2026-08-19-tbs-title-4-way-maya-world-vs-statlander-shida-persephone-aew-dynamite.md) (WE) ·
+[la promo del Buy In](../segments/2026-08-30-promo-persephone-buy-in-aew-all-in.md) (sin clase) ·
+[vs Maya World, TBS Title](../matches/2026-08-30-maya-world-vs-persephone-tbs-aew-all-in.md) (**ICC**) ·
+[la promo con Britt Baker](../segments/2026-08-30-promo-post-match-persephone-britt-baker-aew-all-in.md) (sin clase)
 
 ## Línea editorial fértil
 

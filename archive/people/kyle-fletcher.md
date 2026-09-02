@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kyle-fletcher
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
 tags: [kyle-fletcher, aussie-open, don-callis-family-verif, aew, primer-registro, turn-babyface-takeshita]
@@ -200,6 +200,42 @@ corto bien ejecutado**.
 [vs Mike Bailey, International](../matches/2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md) (ICC — segunda lectura) ·
 [con Callis y Okada](../segments/2026-08-12-kyle-fletcher-don-callis-okada-aew-dynamite.md) (WE) ·
 [segmento in-ring del 19/8](../segments/2026-08-19-segmento-in-ring-kyle-fletcher-aew-dynamite.md) (WE)
+
+### Sesión 2026-09-02 s58 — Wembley: pierde el título y cumple su palabra
+
+**Cita verbatim**:
+
+> *"Kyle Fletcher atacando a Takeshita post match en el main event
+> estuvo cool, fue un gran momento, se merece una WE"* (29/8)
+>
+> *"la entrada de Fletcher estuvo genial, es como lo que hacia Christian
+> Cage en los 2000s, pero más nerd por las referencias, pero le quedó
+> cool el do flamingo [...] FLetcher levanta cualquier idea, y el
+> enterteinment lo traian y lo traen él y Don Callis"* (30/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **La entrada Doflamingo y el límite de la doctrina**: el Vehemiurgo
+   **aprueba una referencia de anime** porque **está al servicio de una
+   entrada clásica con linaje declarado en Christian Cage**. **La
+   objeción del archivo nunca fue a la cultura pop —el wrestling es
+   carny— sino a que la lógica geek reemplace la del oficio. Acá la
+   decora.** **Precedente registrado.**
+2. ***"Fletcher levanta cualquier idea"*** — **cuarto registro
+   consecutivo de la misma función**: el que sostiene el entertainment
+   de una facción entera.
+3. **Research**: **perdió el International Championship ante Okada**,
+   que **eligió cubrirlo a él pudiendo cubrir a Takeshita**. **Y el
+   post-match cierra el arco de tres semanas: Fletcher evitó golpearlo
+   con el cinturón y le levantó la mano**, exactamente lo que Okada le
+   había pedido en su promo del 19/8. La prensa lo leyó como siembra de
+   su salida de la Don Callis Family.
+
+**Piezas de la sesión**:
+[el ataque a Takeshita](../segments/2026-08-29-kyle-fletcher-ataca-takeshita-post-match-aew-collision.md) (WE) ·
+[vs Takeshita vs Okada, International](../matches/2026-08-30-fletcher-vs-takeshita-vs-okada-international-aew-all-in.md) (**ICC**)
 
 ## Pendientes / huecos
 

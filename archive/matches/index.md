@@ -13,9 +13,19 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-30 | Brawling Birds vs Divine Dominion (c) — AEW Women's World Tag Team Championships | AEW / All In: London | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-brawling-birds-vs-divine-dominion-aew-all-in.md) |
+| 2026-08-30 | Casino Gauntlet masculino — MJF vs Andrade El Ídolo dentro del match | AEW / All In: London | WE | — | en-investigacion | 1 | [→](2026-08-30-casino-gauntlet-mjf-andrade-aew-all-in.md) |
+| 2026-08-30 | Kyle Fletcher (c) vs Konosuke Takeshita vs Kazuchika Okada — AEW International Championship | AEW / All In: London | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-fletcher-vs-takeshita-vs-okada-international-aew-all-in.md) |
+| 2026-08-30 | Kenny Omega (c) vs Will Ospreay — AEW World Championship | AEW / All In: London | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-kenny-omega-vs-will-ospreay-world-title-aew-all-in.md) |
+| 2026-08-30 | Kevin Knight (c) vs Darby Allin — AEW TNT Championship, Falls Count Anywhere | AEW / All In: London | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-kevin-knight-vs-darby-allin-tnt-aew-all-in.md) |
+| 2026-08-30 | Maya World (c) vs Persephone — AEW TBS Championship | AEW / All In: London | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-maya-world-vs-persephone-tbs-aew-all-in.md) |
+| 2026-08-30 | Trios Roulette Royale — AEW World Trios Championships | AEW / All In: London | FS·WE | FC | en-investigacion | 1 | [→](2026-08-30-trios-roulette-royale-aew-all-in.md) |
+| 2026-08-30 | The Young Bucks vs Christian Cage & Adam Copeland (c) — AEW World Tag Team Championships | AEW / All In: London | FS·WE | FC | en-investigacion | 1 | [→](2026-08-30-young-bucks-vs-cage-cope-tag-titles-aew-all-in.md) |
+| 2026-08-29 | Bang Bang Gang, Brodido y Adam Page vs The Lethal Twist y The Demand — 12-man tag | AEW / Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-29-12-man-bang-bang-gang-brodido-page-vs-lethal-twist-demand-aew-collision.md) |
 | 2026-08-28 | Finn Bálor vs Kevin Owens vs Gunther — contendiente Nº1 al Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-28-finn-balor-vs-kevin-owens-vs-gunther-wwe-smackdown.md) |
 | 2026-08-28 | Paige vs Jacy Jayne (c) — WWE Women's United States Championship | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md) |
 | 2026-08-28 | Tiffany Stratton & Chelsea Green vs The Irresistible Forces (Nia Jax & Lash Legend) | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md) |
+| 2026-08-26 | Nigel McGuinness vs Kyle O'Reilly — Continental Challenge Cup, semifinal | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-26-nigel-mcguinness-vs-kyle-oreilly-aew-dynamite.md) |
 | 2026-08-25 | BirthRight (Charlie Dempsey, Uriah Connors, Lexis King & Channing 'Stacks' Lorenzo) vs Noam Dar, Romeo Moreno, Dorian Van Dux & Sean Legacy | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-08-25-birthright-vs-faces-8-man-nxt.md) |
 | 2026-08-25 | Kam Hendrix vs Keanu Carver | WWE / NXT | FS·WE | FC | en-investigacion | 1 | [→](2026-08-25-kam-hendrix-vs-keanu-carver-nxt.md) |
 | 2026-08-25 | Rey Fénix (c) vs EK Prosper — AAA World Cruiserweight Championship | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md) |
@@ -26,11 +36,15 @@ con cada cambio de estado.
 | 2026-08-24 | Penta vs La Parka — semifinal, World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-24-penta-vs-la-parka-wwe-raw.md) |
 | 2026-08-24 | Roxanne Perez vs Stephanie Vaquer | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md) |
 | 2026-08-22 | Los Americanos vs LWO vs Los Psycho Circus vs Money Machine — contendientes Nº1 al AAA World Tag Team Championship | AAA / AAA Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-22-4-way-parejas-contendientes-aaa-worldwide.md) |
+| 2026-08-22 | Bang Bang Gang vs Shane Taylor Promotions — open challenge | AEW / Collision | WE | — | en-investigacion | 1 | [→](2026-08-22-bang-bang-gang-vs-shane-taylor-promotions-aew-collision.md) |
+| 2026-08-22 | Willow Nightingale (c) vs Maya World — AEW Women's World Championship | AEW / Collision | WE | — | en-investigacion | 1 | [→](2026-08-22-maya-world-vs-willow-nightingale-aew-collision.md) |
 | 2026-08-22 | Omos vs Galeno del Mal — clasificatorio al AAA Latin American Championship | AAA / AAA Worldwide | — | — | en-investigacion | 1 | [→](2026-08-22-omos-vs-galeno-del-mal-aaa-worldwide.md) |
 | 2026-08-22 | Penta vs Bronco Nima — si gana Nima, Penta se une a Los Perros del Mal | AAA / AAA Worldwide | FS·WE | FC | en-investigacion | 1 | [→](2026-08-22-penta-vs-bronco-nima-aaa-worldwide.md) |
 | 2026-08-21 | CM Punk (c) vs Kevin Owens — Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md) |
 | 2026-08-21 | Giulia vs Blake Monroe | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-08-21-giulia-vs-blake-monroe-wwe-smackdown.md) |
 | 2026-08-21 | Lash Legend vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md) |
+| 2026-08-19 | Jay White vs Jon Moxley — Continental Challenge Cup, cuartos de final | AEW / Dynamite | — | — | en-investigacion | 1 | [→](2026-08-19-jay-white-vs-jon-moxley-aew-dynamite.md) |
+| 2026-08-19 | Maya World (c) vs Kris Statlander vs Hikaru Shida vs Persephone — AEW TBS Championship | AEW / Dynamite | WE | — | en-investigacion | 1 | [→](2026-08-19-tbs-title-4-way-maya-world-vs-statlander-shida-persephone-aew-dynamite.md) |
 | 2026-08-18 | EK Prosper vs La Parka vs Tristan Angels vs Romeo Moreno — contendiente Nº1 al AAA World Cruiserweight Championship | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-18-4-way-contendiente-crucero-nxt.md) |
 | 2026-08-18 | Lexis King (c) vs Lucien Price — WWE Speed Championship | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-18-lexis-king-vs-lucien-price-speed-title-nxt.md) |
 | 2026-08-18 | Shiloh Hill vs Jackson Drake | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-18-shiloh-hill-vs-jackson-drake-nxt.md) |

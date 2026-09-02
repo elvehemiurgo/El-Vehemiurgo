@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-knight
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s09 (visión directa — AEW Dynamite 29/4/2026)"
 tags: [kevin-knight, aew, upset-vs-mjf, low-blow-finish, the-future-in-2026]
@@ -263,6 +263,46 @@ y
 [trios de Arena México](../matches/2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) (WE) ·
 [vs Chris Jericho, TNT Title](../matches/2026-08-12-kevin-knight-vs-chris-jericho-aew-dynamite.md) (PW·FS·WE — **ICC**) ·
 [la promo de Darby en su contra](../segments/2026-08-12-promo-darby-contra-kevin-knight-aew-dynamite.md) (WE)
+
+### Sesión 2026-09-02 s58 — De "gran momento como heel" a perder el título: el arco completo en once días
+
+**Cita verbatim**:
+
+> *"Kevin Knight tiene un gran momento como heel, es buen booking para
+> él [...] se merecen una WE, era una idea dificil y la remaron bien"*
+> (19/8)
+>
+> *"Kevin Knight aprovecha que no está Darby y corta una promo larga,
+> de hecho lo ahce muy bien, nada de relleno, un heel muy efectivo, ha
+> evolucionado muy bien"* (29/8)
+>
+> *"Kevin Knight vs Darby se merece las 3 clases, fue una masacre"*
+> (30/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Ha evolucionado muy bien"*** — **tercer registro de progresión
+   en tres sesiones**, después del *"se siente bien para Knight no solo
+   para Jericho"* del 12/8 (s57).
+2. ***"Nada de relleno"* en una promo larga** — el elogio más
+   específico que el archivo le tiene: **no que habló bien, sino que no
+   sobró nada**.
+3. **El *"era una idea difícil"* del 19/8 tenía fundamento que el
+   Vehemiurgo no nombró**: la trampa de pyro fue leída por la prensa
+   como **recreación deliberada del accidente de Jeff Hardy**.
+   **Trabajar sobre un accidente famoso es la jugada más riesgosa que
+   existe.**
+4. **Research — el arco completo**: trampa de pyro y Darby en camilla
+   (19/8) → promo larga y golpe con el título a Steven Borden (29/8) →
+   **pierde el TNT Title ante Darby en Wembley**, con **Sting y Borden
+   asistiendo**. **Once días, causa y consecuencia.**
+
+**Piezas de la sesión**:
+[la trampa de pyro](../segments/2026-08-19-kevin-knight-trampa-pyro-darby-debut-steven-borden-aew-dynamite.md) (WE) ·
+[la promo larga y Borden](../segments/2026-08-29-kevin-knight-steven-borden-don-callis-aew-collision.md) (**WE+**) ·
+[vs Darby Allin, TNT Title](../matches/2026-08-30-kevin-knight-vs-darby-allin-tnt-aew-all-in.md) (**ICC**)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mjf
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + CM Punk feud 2022"
   - "MJF Talk Is Jericho appearances + media on-record extenso"
@@ -859,3 +859,43 @@ esta vez aplicada a **Andrade El Ídolo**, a quien la emboscada le da
 [la emboscada a Andrade](../segments/2026-08-05-mjf-embosca-andrade-main-event-robado-aew-gsm.md) (WE, declarada acá) ·
 [three-way por el spot #2](../matches/2026-08-12-mjf-vs-mike-bailey-vs-nick-wayne-aew-dynamite.md) (WE) ·
 [promo post-match](../segments/2026-08-12-mjf-post-match-in-ring-aew-dynamite.md) (**WE+**)
+
+### Sesión 2026-09-02 s58 — Escocia, Wembley — y el segundo main event robado
+
+**Cita verbatim**:
+
+> *"MJF haciendo cosas de top heel en Scorland, fue un gran segmento,
+> se merecen una WE, este feudo es de lo mejorque han hecho con Andrade
+> en TV, esta ejecución fue genial, buenos stakes, asi se setea una
+> dream match"* (26/8)
+>
+> *"MJF vs Andrade, top tier wrestling, esto es world class, buena
+> psicología siempre de ambos, arquitectos [...] se merecen una WE"*
+> (30/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Arquitectos"*** — **la palabra más alta que el Vehemiurgo tiene
+   para un luchador que piensa el match mientras lo hace.** Elogio de
+   diseño, no de ejecución.
+2. ***"Así se setea una dream match"*** — **fórmula de manual dicha
+   como veredicto**: primero stakes personales, después el match.
+   Contrario exacto del *dream match sin sustancia* que CLAUDE.md §3
+   rechaza.
+3. **Research — el fake-out de música vuelve, invertido**: en Glasgow
+   **sonó el tema de Andrade y no salió; sonó el de MJF y sí**. MJF
+   declaró que **pagó a unos tipos para golpear a Andrade**, y **Andrade
+   lo emboscó por detrás**.
+4. **Research — el desenlace es cruel, y rima**: en el Casino Gauntlet
+   **MJF convenció a Nick Wayne de aliarse (*"I swear on my life"*), lo
+   traicionó con low blow y Heatseeker, y Andrade lo sacó del ring y le
+   robó la cuenta cubriendo a Wayne.** **El hombre del "main event
+   robado" (s37) hizo todo el trabajo sucio y vio cómo le robaban
+   otro.**
+
+**Piezas de la sesión**:
+[el segmento de Glasgow](../segments/2026-08-26-mjf-andrade-glasgow-aew-dynamite.md) (WE) ·
+[Casino Gauntlet](../matches/2026-08-30-casino-gauntlet-mjf-andrade-aew-all-in.md) (WE)
+

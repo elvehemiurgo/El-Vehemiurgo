@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: the-dogs
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s19 (visión directa — AEW Collision, 30/5/2026)"
 tags: [the-dogs, david-finlay, njpw-crossover, bang-bang-gang, jay-white, cope-cage-rivalidad, bullet-club-nostalgia, aew, primer-registro]
@@ -158,6 +158,40 @@ ficha propia tras su regreso en el mismo show. Ver
 [`../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md`](../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md)
 y
 [`./jay-white.md`](./jay-white.md).
+
+### Sesión 2026-09-02 s58 — La promo durísima de Kidd y la alianza con The Demand
+
+**Cita verbatim**:
+
+> *"los dogs cortan una gran promo, les quedó durisima, se merecen una
+> WE"* (22/8)
+>
+> *"la promo de los dogs con the demand estuvo cool, tienen buenos
+> actos, se merecen una WE"* (Buy In, 30/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Durísima"*** — en el léxico del Vehemiurgo *duro* es elogio:
+   **no se ablandaron para la cámara**. **Coherencia de gimmick**: The
+   Dogs venden dureza y hablan duro.
+2. ***"Actos"*, en plural** — el elogio es a **dos unidades con
+   identidad**, no a seis luchadores.
+3. **Research — el heat es interno, que es lo difícil**: **Gabe Kidd
+   critica los resultados del grupo durante su propia ausencia** y les
+   grita a Connors y Finlay que **tienen que volver a ser killers**.
+   **Finlay**: *"todo lo que quiero en la vida es la cabeza de Jay
+   White"* — **y el video se emitió en el mismo show en que White ganó
+   y cortó promo.** Cruce plantado.
+4. **La alianza con The Demand se declaró en el Buy In y se honró
+   adentro del match**: entraron terceros y trabajaron juntos.
+   **Ninguno ganó** — Kidd llegó a los últimos seis.
+
+**Piezas de la sesión**:
+[el video del 22/8](../segments/2026-08-22-promo-video-the-dogs-aew-collision.md) (WE) ·
+[la alianza con The Demand](../segments/2026-08-30-promo-dogs-demand-alianza-buy-in-aew-all-in.md) (WE) ·
+[Trios Roulette Royale](../matches/2026-08-30-trios-roulette-royale-aew-all-in.md) (**FC**)
 
 ## Pendientes / huecos
 

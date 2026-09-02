@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: okada
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s04 (visión directa — AEW Collision 11/4/2026)"
 tags: [okada, kazuchika-okada, njpw, rainmaker, aew-2024-plus, perfect-match]
@@ -148,6 +148,39 @@ y
 [trios de Arena México](../matches/2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) (WE) ·
 [con Fletcher y Callis](../segments/2026-08-12-kyle-fletcher-don-callis-okada-aew-dynamite.md) (WE) ·
 [promo del 19/8](../segments/2026-08-19-promo-okada-aew-dynamite.md) (sin clase)
+
+### Sesión 2026-09-02 s58 — Recupera el International — "sí se esfuerza, y se divierte"
+
+**Cita verbatim**:
+
+> *"si se esforzaron por el booking de los japoneses, pero ni ganas de
+> cortar promos de main eventers, yo si creo que esta sobre valuados
+> [...] Takeshita sigue verde en el selling, todavia no es oldschool,
+> pero Okada si se esfuerza si veo mejora y que se divierte como
+> enterteinment"*
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El fallo más duro que el archivo le registra, y es compartido**:
+   *"ni ganas de cortar promos de main eventers, **yo sí creo que están
+   sobrevalorados**"* — Okada y Takeshita juntos. **Y convive con las
+   tres clases al match: la objeción es de micrófono, no de ring.**
+2. **Y aun así, el veredicto individual es favorable**: *"Okada **sí se
+   esfuerza**, sí veo mejora y **que se divierte** como entertainment"*.
+   **El *divertirse* es criterio en este archivo: el que la pasa bien se
+   vende mejor.**
+3. **Tercera lectura distinta en tres semanas** — *"se está soltando"*
+   (12/8), *"se desinfla"* (19/8), *"sí veo mejora"* (30/8). **El
+   archivo las registra las tres con fecha, sin fusionarlas.**
+4. **Research**: **ganó el AEW International Championship**, y **el
+   punto de booking es su elección**: con Takeshita fuera tras el
+   brainbuster de Fletcher, **le pegó el Rainmaker a Fletcher y eligió
+   cubrirlo a él**, pudiendo cubrir al desertor.
+
+**Piezas de la sesión**:
+[vs Fletcher vs Takeshita, International](../matches/2026-08-30-fletcher-vs-takeshita-vs-okada-international-aew-all-in.md) (**ICC**)
 
 ## Pendientes / huecos
 

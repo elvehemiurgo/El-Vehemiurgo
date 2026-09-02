@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: christian-cage
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 1 'Christian Cage como héroe fundamental'"
   - "Dossieres TNA 2007 + WWE Raw 2004-2005 + WWE SmackDown 2002 + WWE MITB 2013 + AEW 2026"
@@ -322,6 +322,48 @@ s26. Ver
 
 **Piezas de la sesión**:
 [el careo con los Young Bucks](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) (WE)
+
+### Sesión 2026-09-02 s58 — Cuarta vez cargando el ángulo — y el yeso que restó
+
+**Cita verbatim**:
+
+> *"otra vez por tercera vez seguida Christian es lo único épico del
+> ángulo por los titulos tag team, sigo decepcionado de los ybs [...]
+> aqui Matt recien dice algo decente, pero muy poco muy tarde, Christian
+> se merece una WE, es una pena que no esten a su altura y el tenga que
+> cargar todo el enterteinment"* (26/8)
+>
+> *"al menos espero que in ring esté brillante, porque Christian cargó
+> con toda la rivalidad hasta ahora [...] el desenlace con el cast en el
+> brazo y eso, no sé, creo que restó, se merecen una WE y FS classes"*
+> (30/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El contador que el propio Vehemiurgo lleva**: *"por tercera vez
+   seguida"*. **El archivo lo verifica**: Collision 15/8 (s57), Glasgow
+   26/8, y el match de Wembley. **Cuatro registros con la misma
+   lectura.**
+2. **La objeción a los Bucks se afina**: *"esta debía ser su mejor obra
+   de entertainment [...] **pero decidieron seguir haciendo flips**"*.
+   **Eligieron el movimiento sobre el ángulo, teniendo el ángulo
+   servido.**
+3. **La reserva que le cuesta la PW al match de Wembley**: *"el
+   desenlace con el cast en el brazo y eso, **no sé, creo que
+   restó**"*. **Y no es objeción moral** —el archivo aprueba el
+   screwjob bien hecho—: **es de coherencia, el arma es el yeso que el
+   público venía leyendo como lesión.**
+4. **Research**: **retuvieron en ~20 minutos**, el brace sobre **Matt
+   Jackson** habilitó el spear. **Post-match bajaron MCMG, FTR y The
+   New Level** — **tres retadores mirando a unos campeones que acababan
+   de hacer trampa.**
+
+**Piezas de la sesión**:
+[el careo de Glasgow](../segments/2026-08-26-christian-cage-young-bucks-tag-titles-aew-dynamite.md) (WE) ·
+[vs Young Bucks, Tag Titles](../matches/2026-08-30-young-bucks-vs-cage-cope-tag-titles-aew-all-in.md) (**FC**) ·
+[el post-match con MCMG y FTR](../segments/2026-08-30-post-match-mcmg-ftr-tag-titles-aew-all-in.md) (**WE+**)
 
 ## Lectura consolidada del Vehemiurgo
 

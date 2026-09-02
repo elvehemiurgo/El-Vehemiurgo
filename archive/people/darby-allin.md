@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: darby-allin
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s08 (visión directa — AEW Dynamite 22/4/2026)"
 tags: [darby-allin, aew, campeon-por-culpa-de-mjf, perfect-match-vs-tomasso, sorpresa-no-soy-fan]
@@ -274,6 +274,38 @@ Pierde ante una trampa de Knight con "un spot impresionante". Ver
 **Piezas de la sesión**:
 [trios de Arena México](../matches/2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) (WE) ·
 [promo contra Kevin Knight](../segments/2026-08-12-promo-darby-contra-kevin-knight-aew-dynamite.md) (WE)
+
+### Sesión 2026-09-02 s58 — "Cada vez más oldschool" — el elogio más improbable del archivo
+
+**Cita verbatim**:
+
+> *"Kevin Knight vs Darby se merece las 3 clases, fue una masacre,k
+> Darby cada vez más oldschool, me gustó mucho esta versión del
+> hardcore, buenisimo"*
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Cada vez más oldschool"*** — **el elogio más improbable que el
+   archivo le registra a nadie.** Darby viene del molde exacto que la
+   doctrina desconfía —el *daredevil* indie, el acto de riesgo— **y el
+   Vehemiurgo registra una progresión hacia el otro lado.** *"Cada vez
+   más"*: medición, no impresión.
+2. ***"Esta versión del hardcore"*** — **el archivo distingue
+   hardcores**: el que tiene causa y venta contra el spot-fest sin
+   consecuencia. **Dice cuál vio.**
+3. **Y el 19/8 había registrado la otra mitad del oficio**: *"está
+   bueno para que Darby descanse, **con el kayfabe**"*. **Vender la
+   ausencia dentro del show en vez de anunciarla afuera.**
+4. **Research**: **recuperó el TNT Title**, tercer reinado, con
+   asistencia de **Sting y Steven Borden**, tras un Coffin Drop desde
+   un pilar del escenario. Dijo después que **este título significa más
+   para él que su reinado mundial**.
+
+**Piezas de la sesión**:
+[la trampa de pyro](../segments/2026-08-19-kevin-knight-trampa-pyro-darby-debut-steven-borden-aew-dynamite.md) (WE) ·
+[vs Kevin Knight, TNT Title](../matches/2026-08-30-kevin-knight-vs-darby-allin-tnt-aew-all-in.md) (**ICC**)
 
 ## Pendientes / huecos
 

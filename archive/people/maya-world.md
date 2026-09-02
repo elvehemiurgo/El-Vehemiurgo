@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: maya-world
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s19 (visión directa — AEW Collision, 30/5/2026)"
 tags: [maya-world, aew, rookie-del-momento, owen-hart-tournament-2026, babyface-real, primer-registro]
@@ -83,6 +83,48 @@ los ejes del paquete (ejecución, historia, acting, selling,
 promos, gimmick) confirmados en un solo veredicto, dentro de un
 gauntlet donde también rindió con Mercedes Moné. Ver
 [`../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md`](../matches/2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md).
+
+### Sesión 2026-09-02 s58 — Alta a THE FUTURE #19 — "las innovaciones de Maya son muy inteligentes y reales"
+
+**Cita verbatim**:
+
+> *"Maya y Perse realmente quieren poner buenas luchas, me gusta verlas
+> cada semana"* (19/8)
+>
+> *"Maya World vs Willow estuvo cool, se merece una WE; pero el estilo
+> fake de Willow si resta, no se que le ven, Maya le dá mil vueltas"*
+> (22/8)
+>
+> *"las innovaciones de Maya son muy inteligentes y reales [...] está
+> bien el booking para Maya tambien"* (30/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **ALTA A THE FUTURE in 2026 — #19**, declarada en este volcado.
+2. **El elogio que la separa de su división**: *"las innovaciones de
+   Maya son **muy inteligentes y reales**"*. **Es la única heterodoxia
+   que la vehemiurgia acepta** — innovar respetando el marco ortodoxo
+   (CLAUDE.md §1). **Innovar sin entender la ortodoxia rompe la
+   liturgia; esto no.**
+3. ***"Maya le da mil vueltas"*** — veredicto comparativo sobre **Willow
+   Nightingale**, y **el reproche apunta a la empresa**: *"no sé qué le
+   ven"*.
+4. **El booking de la derrota, aprobado**: *"está bien el booking para
+   Maya también"*. **La que pierde también sale ganando** — prueba de
+   fuego del archivo.
+5. **Research — la ficha estaba desactualizada**: **Maya World es AEW
+   TBS Champion desde el 26/7/2026**, título ganado a **Hikaru Shida en
+   AEW Redemption, Montreal**, el día de su cumpleaños. Defendió el
+   19/8 en un four-way (roll-up sobre Statlander), fue por el **Women's
+   World Title ante Willow el 22/8** (perdió por backslide) y
+   **perdió el TBS ante Persephone en el Buy In de All In**.
+
+**Piezas de la sesión**:
+[el four-way por el TBS](../matches/2026-08-19-tbs-title-4-way-maya-world-vs-statlander-shida-persephone-aew-dynamite.md) (WE) ·
+[vs Willow Nightingale, Women's World Title](../matches/2026-08-22-maya-world-vs-willow-nightingale-aew-collision.md) (WE) ·
+[vs Persephone, TBS Title](../matches/2026-08-30-maya-world-vs-persephone-tbs-aew-all-in.md) (**ICC**)
 
 ## Pendientes / huecos
 

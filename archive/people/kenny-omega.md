@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kenny-omega
 estado: stub
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
 tags: [kenny-omega, tyson-smith, the-cleaner, the-elite, bullet-club-leader, njpw-okada-saga, aew-founding-evp, primer-aew-world-champion, one-winged-angel, acto-polarizante-vehemiurgia, frikismo-videojuegos-critica-doctrinal, meltzer-school-workrate-first-opuesto-editorial]
@@ -263,6 +263,44 @@ queda inventariado como candidato, junto con los ensayos de s55.
 [el rescate y la emboscada](../segments/2026-08-12-ospreay-callis-emboscada-dc-family-omega-aew-dynamite.md) (**WE+**) ·
 [entrevista con Ospreay](../segments/2026-08-19-entrevista-ospreay-omega-aew-dynamite.md) (WE) ·
 [careo Cage & Cope vs Young Bucks](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) (WE)
+
+### Sesión 2026-09-02 s58 — Wembley: la caricatura que sigue siendo caricatura — y que igual funcionó
+
+**Cita verbatim**:
+
+> *"Omega ofendiendo a Ospreay todo prick metiendose con su familia, es
+> un gran intercambio, este segmento final se merece una WE"* (19/8)
+>
+> *"Kenny como heel prick sigue siendo una caricatura, nunca va a ser
+> tan epico como MJF o algo oldschool, pero hizo esto disfrutable"*
+> (30/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El fallo de s57 se ratifica sin moverse una coma**: *"sigue siendo
+   una caricatura"*. **Y ahora con vara comparativa nombrada**: *"nunca
+   va a ser tan épico como **MJF**"*. **El archivo tiene por fin el
+   punto de referencia contra el que se lo mide: no es un old-timer, es
+   un contemporáneo.**
+2. **Y el matiz salvador vuelve, idéntico**: *"pero hizo esto
+   disfrutable"*. **Tres sesiones, mismo movimiento: el reproche nunca
+   se convierte en entierro.**
+3. **La única modalidad aprobada sigue siendo la misma**: *"todo
+   prick"*. **El heel seco, no el villano de One Piece.**
+4. **Research, y matiza el reproche**: se reporta que **Omega se puso
+   deliberadamente más heel y desquiciado en el tramo final del main
+   event para contrastar con Ospreay**. **Es decir: la caricatura que
+   el Vehemiurgo objeta pudo ser una decisión de personaje, no un
+   límite del performer.** El archivo registra las dos lecturas y no
+   adjudica.
+5. **Perdió el AEW World Championship** en ~34 minutos, con Ospreay
+   pateando a la cuenta de uno y el Hidden Blade final.
+
+**Piezas de la sesión**:
+[el cierre del 19/8](../segments/2026-08-19-cierre-omega-ospreay-mesa-aew-dynamite.md) (WE) ·
+[vs Will Ospreay, AEW World Championship](../matches/2026-08-30-kenny-omega-vs-will-ospreay-world-title-aew-all-in.md) (**ICC**)
 
 ## Pendientes / huecos
 

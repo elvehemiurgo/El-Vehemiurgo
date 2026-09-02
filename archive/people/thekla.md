@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: thekla
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcados AEW Dynamite 25 mar + Collision 11 abr 2026)"
 tags: [thekla, stardom-austriaca, god-s-eye-oedo-tai-verif, proyecto-thekla, nivel-fatal-influence, aew-stardom-partnership-verif, fighting-spirit-recurrente, spider-gimmick-verif]
@@ -210,6 +210,35 @@ Ver
 [`../segments/2026-06-28-thekla-vs-starlight-kid-promo-video-aew-njpw-forbidden-door.md`](../segments/2026-06-28-thekla-vs-starlight-kid-promo-video-aew-njpw-forbidden-door.md)
 y
 [`../matches/2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md`](../matches/2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md).
+
+### Sesión 2026-09-02 s58 — El regreso de la Toxic Spider — "más memorable que Britt"
+
+**Cita verbatim**:
+
+> *"La promo de Thekla estuvo cool,  gran regreso tambien, más
+> meorable que Britt, se merece una WE"*
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Más memorable que Britt"*** — **la misma noche, dos regresos, y
+   el Vehemiurgo los compara.** Britt Baker volvió tras **casi dos
+   años** con una interferencia enmascarada; **Thekla volvió
+   hablando**. **Para este archivo el regreso que se anuncia con la
+   palabra pesa más que el que se anuncia con el cuerpo** — y eso va
+   contra la aritmética de nombres.
+2. **Research**: **interrumpió al panel del Buy In** —Renee Paquette,
+   Jeff Jarrett, Paul Wight y Mick Foley— **subiéndose a la mesa de
+   anuncios con un trago en la mano**. Dijo que **no se puede tener un
+   All In sin la "Toxic Spider"** y avisó que estaría **mirando el
+   Women's World Title match**, apuntando a **Willow Nightingale**.
+3. **La causa que lo sostiene**: **Willow le había ganado el título en
+   Redemption**; el reinado de Willow duró **35 días**. **Thekla no
+   vuelve a saludar: vuelve a cobrar.**
+
+**Piezas de la sesión**:
+[el regreso en el Buy In](../segments/2026-08-30-regreso-thekla-buy-in-aew-all-in.md) (WE)
 
 ## Pendientes / huecos
 

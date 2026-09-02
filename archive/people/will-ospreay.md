@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: will-ospreay
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026"
   - "Multiple retrospectivas Cornette critical + Meltzer favorable"
@@ -429,3 +429,59 @@ gestión consciente de qué material vale la pena seguir cargando.
 [vs Mark Davis, Mexico City Street Fight](../matches/2026-08-05-ospreay-vs-mark-davis-aew-gsm.md) (PW·FS·WE — **ICC**) ·
 [promo + Callis + emboscada + rescate de Omega](../segments/2026-08-12-ospreay-callis-emboscada-dc-family-omega-aew-dynamite.md) (**WE+**) ·
 [entrevista con Omega](../segments/2026-08-19-entrevista-ospreay-omega-aew-dynamite.md) (WE, con reserva de duración)
+
+### Sesión 2026-09-02 s58 — Wembley: el título mundial, la promo legendaria y el pasillo de los que lo hicieron
+
+**Cita verbatim** (tres piezas del arco final):
+
+> *"Ospreay corta una gran promo, muy emotiva, top tier babyface, se
+> merece una WE+ fue legendaria, gran trabajo, espero el booking ahora
+> si lo deje brillar solo y lo deje ser"* (26/8, Glasgow)
+>
+> *"el video introductorio de Ospreay con su entrada y todo estuvo
+> genial, se merece una WE, fue un tributo epico a toda esa era"* (30/8)
+>
+> *"la lucha si está buena, no es la rivalidad del año ni la lucha del
+> año, pero estuvo buena [...] es de lo mejor de este booking forzado
+> que hasta el último momento tuvo que darle protagonismo a Mox, y a
+> Ospreay desde que debutó le ponen obst+aculos absurdos todo con tal
+> de no dejarlo ser como babyface, pero la lucha como tal, yo le doy
+> las 3 clases, lo que no tiene de oldschool lo tiene de espectaculo"*
+> (30/8)
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim, typos preservados)
+
+**Lectura sintética — el arco se cierra sin absolver a la empresa**:
+
+1. ***"Legendaria"*** para la promo de Glasgow — **palabra que el
+   archivo no registra aplicada a ninguna otra promo del corpus AEW**.
+   Research: **tributo a Mad Kurt, Ryan Smile y Lionheart**, muertos de
+   la escena independiente británica, y la tesis de que **el UK es
+   donde mejor se lucha**. **Memoria histórica dicha desde el ring.**
+2. **La entrada, leída como pieza histórica**: *"un tributo épico a
+   toda esa era"*. **Y era exactamente eso**: video narrado por **su
+   madre** con *"Baba O'Riley"*, y un pasillo donde pasó junto a
+   **Zack Sabre Jr., Michael Oku, Ricochet, Fletcher, Mark Davis,
+   Swerve, United Empire y su esposa Alex Windsor**, con **Moxley
+   entregándole la bandera británica** al final.
+3. **La ICC del main event, otorgada con la reserva más explícita del
+   corpus**: *"no es la rivalidad del año ni la lucha del año"*, y la
+   fórmula que la justifica igual: ***"lo que no tiene de oldschool lo
+   tiene de espectáculo"***. **No lo premia por ser lo que él busca: lo
+   premia por ser excelente en lo que es.**
+4. **Y el reproche estructural sobrevive a la coronación**: *"desde que
+   debutó le ponen obstáculos absurdos **con tal de no dejarlo ser como
+   babyface**"*. **Cinco sesiones de crítica al andamiaje, y ni el
+   título mundial la cancela.**
+5. **Research**: **ganó el AEW World Championship, primer título mundial
+   de su carrera**, ~34 minutos, sangrando, con **kick-out al uno tras
+   el Storm Breaker** y **Hidden Blade** final. **Y su esposa ganó los
+   Women's Tag Titles la misma noche en el mismo estadio.**
+
+**Piezas de la sesión**:
+[la promo de Glasgow](../segments/2026-08-26-promo-will-ospreay-glasgow-aew-dynamite.md) (**WE+**) ·
+[el cierre del 19/8](../segments/2026-08-19-cierre-omega-ospreay-mesa-aew-dynamite.md) (WE) ·
+[el promo video de Wembley](../segments/2026-08-22-promo-video-wembley-arco-ospreay-aew-collision.md) (WE) ·
+[la entrada tributo](../segments/2026-08-30-entrada-tributo-will-ospreay-aew-all-in.md) (WE) ·
+[vs Kenny Omega, AEW World Championship](../matches/2026-08-30-kenny-omega-vs-will-ospreay-world-title-aew-all-in.md) (**ICC**)
+
