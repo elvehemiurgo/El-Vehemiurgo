@@ -4,11 +4,12 @@ slug: the-future-in-2026
 tipo: topic
 categoria: lista-anual-prospectos
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión TNA No Surrender 13 feb 2026 — declaración de lista)"
   - "Volcado Vehemiurgo 2026-07-14 s30 (AEW x NJPW Forbidden Door — altas Kevin Knight y Lio Rush)"
-tags: [the-future-in-2026, lista-anual, prospectos-innegables, m-by-elegance, saquon-shugars, kevin-knight, lio-rush, jacy-jayne, sol-ruca, zaria, jackson-drake, blake-monroe, wren-sinclair, kendal-grey, izzi-dame, oldschool-en-nueva-generacion, wrestlers-no-cosplayers, doctrina-vehemiurgia, declaracion-2026-06-17, declaracion-2026-07-14]
+  - "Volcado Vehemiurgo 2026-09-02 s58 (AEW agosto 2026 + All In: London — altas Maya World y Persephone)"
+tags: [the-future-in-2026, lista-anual, prospectos-innegables, maya-world, persephone, aew-2026, declaracion-2026-09-02, m-by-elegance, saquon-shugars, kevin-knight, lio-rush, jacy-jayne, sol-ruca, zaria, jackson-drake, blake-monroe, wren-sinclair, kendal-grey, izzi-dame, oldschool-en-nueva-generacion, wrestlers-no-cosplayers, doctrina-vehemiurgia, declaracion-2026-06-17, declaracion-2026-07-14]
 ---
 
 # THE FUTURE IN 2026 — Lista anual del Vehemiurgo
@@ -266,6 +267,65 @@ Tres ejes del criterio:
   ([→](../matches/2026-06-01-iyo-sky-giulia-lash-legend-roxanne-perez-wwe-raw.md)),
   + [`../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md`](../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md).
 
+### #19 — Maya World *(declarada 2026-09-02 s58, en bloque con Persephone)*
+
+> *"Hay que añadir a Maya World y Persephone a la lista de FUTURE IN
+> 2026"*
+>
+> *"Maya y Perse realmente quieren poner buenas luchas, me gusta verlas
+> cada semana"*
+>
+> *"las innovaciones de Maya son muy inteligentes y reales"*
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim)
+
+- **Empresa**: AEW (2026) — **AEW TBS Champion** en el momento de la
+  declaración.
+- **Por qué entra**: cumple el eje central del criterio —*"talentos que
+  de verdad quieren ser wrestlers"*— dicho con esas palabras:
+  ***"realmente quieren poner buenas luchas"***. Y el elogio que la
+  separa del resto de su división: ***"las innovaciones de Maya son muy
+  inteligentes y reales"*** — **innovación con fundamento, que es la
+  única heterodoxia que la vehemiurgia acepta** (CLAUDE.md §1).
+- **El veredicto comparativo que la remata**: sobre su lucha con Willow
+  Nightingale, *"el estilo fake de Willow sí resta, no sé qué le ven,
+  **Maya le da mil vueltas**"*.
+- **Ficha**: [`../people/maya-world.md`](../people/maya-world.md).
+- **Match anchor**: **Maya World (c) vs Persephone**, All In: London
+  30/8/2026 — **triple clase**, la lucha que consolidó a las dos.
+
+### #20 — Persephone *(declarada 2026-09-02 s58, en bloque con Maya World)*
+
+> *"Hay que añadir a Maya World y Persephone a la lista de FUTURE IN
+> 2026"*
+>
+> *"Persephone cortó una buena promo, mucho progreso en este tipo en
+> TV, obvio hay que redondear y ponerse más oldschool pero sí se quiere
+> mover como main eventer"*
+>
+> — El Vehemiurgo, 2026-09-02 s58 (verbatim)
+
+- **Empresa**: AEW (2026) — gana su primer campeonato mayor en Wembley
+  el 30/8.
+- **Por qué entra**: **el eje del querer**, otra vez explícito —*"sí
+  **se quiere mover** como main eventer"*—, sumado al progreso medible
+  en promo (*"mucho progreso en este tipo en TV"*) y a la reserva que
+  vuelve creíble el elogio: *"obvio hay que redondear y **ponerse más
+  oldschool**"*. **El Vehemiurgo declara el trabajo pendiente en la
+  misma frase en que la sube.**
+- **El expediente previo pesa a favor**: el archivo viene registrando
+  desde s57 que **el booking tímido la perjudicaba** (*"se nota que no
+  confían en ella, eso me aburre"*). **La alta llega cuando la empresa
+  por fin la corona** — y el Vehemiurgo lo aprueba: *"Perse con el
+  campeonato con más stakes que nunca, me gusta el booking"*.
+- **La reserva que queda registrada**: sobre su promo post-match con
+  Britt Baker, *"volvieron a la actitud fresa así como de engreída, y
+  no es tan cool como cuando sí hablan como wrestlers orgullosos"*.
+  **El camino a "más oldschool" está señalado con precisión.**
+- **Ficha**: [`../people/persephone.md`](../people/persephone.md).
+- **Match anchor**: **Maya World (c) vs Persephone**, All In: London
+  30/8/2026 — **triple clase** y coronación.
+
 ## El advertencia editorial — *"no como Santana"*
 
 El Vehemiurgo encuadra la lista con una **advertencia comparativa**
@@ -349,12 +409,18 @@ explícitamente *encabeza la lista*).
 - [`../people/kendal-grey.md`](../people/kendal-grey.md) — #14.
 - [`../people/izzi-dame.md`](../people/izzi-dame.md) — #15.
 - [`../people/jd-mcdonagh.md`](../people/jd-mcdonagh.md) — #16.
+- [`../people/lash-legend.md`](../people/lash-legend.md) — #17.
+- [`../people/roxanne-perez.md`](../people/roxanne-perez.md) — #18.
+- [`../people/maya-world.md`](../people/maya-world.md) — #19.
+- [`../people/persephone.md`](../people/persephone.md) — #20.
 - **Nota de composición**: 4 **TNA Knockouts** (M by Elegance,
-  Arianna Grace, Myla Grace, Mila Moore) + 10 **WWE** (Saquon
+  Arianna Grace, Myla Grace, Mila Moore) + 12 **WWE** (Saquon
   Shugars, Jacy Jayne, Sol Ruca, Zaria, Jackson Drake, Blake
-  Monroe, Wren Sinclair, Kendal Grey, Izzi Dame, JD McDonagh) + 2
-  **AEW** (Kevin Knight, Lio Rush). WWE es la rama dominante de la
-  lista desde s35.
+  Monroe, Wren Sinclair, Kendal Grey, Izzi Dame, JD McDonagh,
+  Lash Legend, Roxanne Perez) + 4 **AEW** (Kevin Knight, Lio Rush,
+  Maya World, Persephone). WWE es la rama dominante desde s35; la
+  rama AEW se duplica en s58 con las dos altas de la división
+  femenina.
 - [`../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md`](../matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md)
   — anchor del #1 (mismo show que el del #3).
 - [`../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md`](../matches/2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md)
