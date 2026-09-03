@@ -285,16 +285,26 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   por declaración explícita; una combinación sin corona declarada no
   lleva ninguna. Doctrina completa en
   `glossary/clases-vehemiurgo.md`.
+- **Coronas+ (ley desde 2026-09-03 s59)**: *"WE+ entra en las coronas
+  pero sería una Corona+"* (verbatim del Vehemiurgo). **No son coronas
+  nuevas: son la variante alta de las que existen**, marcada con `+`
+  cuando el componente de entertainment es WE+ en vez de WE.
+  **Feeling Crown+ (FC+)** = `fighting-spirit` +
+  `wrestling-entertainment-plus`; **Instant Classic Crown+ (ICC+)** =
+  `perfect-wrestling` + `fighting-spirit` +
+  `wrestling-entertainment-plus`. Se derivan igual que las otras dos y
+  **tampoco se escriben en frontmatter**. Resuelve la pregunta abierta
+  de s54: una pieza con `FS + WE+` ya no queda sin premio.
 - **WE+ (ley desde 2026-08-26 s54)**: *"creemos la WE+ que son
   segmentos simplemente demasiado buenos y definen el enterteinment y
   wrestling booking inteligente"* (verbatim del Vehemiurgo). **Es un
   escalón por encima de WE y —a diferencia de las coronas— SÍ toca la
   jerarquía**: clase propia, slug `wrestling-entertainment-plus`,
-  `WE+` en índices. **Una pieza lleva WE o WE+, nunca las dos.** Dos
-  preguntas quedan abiertas hasta declaración explícita: si WE+ entra
-  en las coronas (hoy `FS + WE+` **no lleva corona**, por la regla de
-  que una combinación sin corona declarada no lleva ninguna), y si el
-  segmento que disparó la ley queda en WE o sube a WE+.
+  `WE+` en índices. **Una pieza lleva WE o WE+, nunca las dos.** Las
+  dos preguntas que quedaban abiertas se cerraron el **2026-09-03
+  (s59)**: **WE+ sí entra en las coronas**, como **Corona+** (ver el
+  bullet anterior), y **el segmento Cody Rhodes / Randy Orton del
+  28/8/2026 —el que disparó la ley— sube a WE+**.
 
 ---
 

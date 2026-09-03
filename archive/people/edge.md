@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: edge
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 + cluster Raw 2004-2005"
   - "E&C Pod of Awesomeness + The Edge & Christian Show + Talk Is Jericho"
@@ -190,3 +190,37 @@ Christian Cage. Ver
       editorial cierre carrera.
 - [ ] TLC matches E&C vs Hardyz vs Dudleyz pieces — múltiples
       WrestleMania.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-09-03 s59 — Entra en la crítica del ángulo tag — "todos están flojos"
+
+**Cita verbatim** (fallo del 2026-09-03):
+
+> *"'sus promos están muy débiles' era por todos menos Christian Cage,
+> en ese ángulo todos están flojos"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Primera entrada negativa del archivo sobre él en el corpus AEW
+2026**, y llega por precisión, no por ataque:
+
+1. **El archivo lo había dejado fuera de la crítica.** En s57 leyó
+   *"sus promos están muy débiles"* como dirigida a los Young Bucks,
+   apoyándose en la adversativa *"pero Edge y Christian levantan"*.
+   **El Vehemiurgo corrige: el que levanta es Christian, solo.**
+2. **Contexto que lo agrava, no que lo excusa**: es el ángulo por los
+   **AEW World Tag Team Championships** que él y Christian ganaron a
+   FTR en Double or Nothing — **su primer título de parejas juntos en
+   veinticinco años**. **El Vehemiurgo registra que en la rivalidad más
+   personal disponible, el micrófono lo carga el otro.**
+3. **Lo que el archivo no le quita**: en el ring sí aparece. El match
+   de Wembley recibió **Feeling Crown** (FS + WE), con **el spear de
+   Copeland sobre Nick Jackson en el aire, cortando el Meltzer Driver**,
+   entre las secuencias que el Vehemiurgo elogió. **La objeción es de
+   promo, no de trabajo.**
+
+**Piezas relacionadas**:
+[el careo del 15/8](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) (WE) ·
+[el careo de Glasgow](../segments/2026-08-26-christian-cage-young-bucks-tag-titles-aew-dynamite.md) (WE) ·
+[vs Young Bucks, Tag Titles](../matches/2026-08-30-young-bucks-vs-cage-cope-tag-titles-aew-all-in.md) (**FC**)

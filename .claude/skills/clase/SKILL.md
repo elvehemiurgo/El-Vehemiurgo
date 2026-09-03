@@ -15,12 +15,24 @@ simplemente demasiado buenos que definen el entertainment y el
 wrestling booking inteligente"*. **Una pieza lleva WE o WE+, nunca las
 dos.** A diferencia de las coronas, WE+ SÍ toca la jerarquía.
 
-**Coronas — NO se escriben, se derivan.** `FS+WE` = **Feeling Crown
-(FC)**; las tres clases = **Instant Classic Crown (ICC)**. Salen
-solas de `clases_vehemiurgo` vía `bin/archivo_lib.py: Ficha.corona`
-y aparecen en la columna *Corona* de los índices. **Nunca agregar un
-campo de corona al frontmatter** — sería estado duplicado. Se
-nombran en prosa (blockquote-lead) cuando corresponde.
+**Coronas — NO se escriben, se derivan.** Cuatro vigentes:
+
+| Combinación | Corona |
+|---|---|
+| `FS + WE` | **Feeling Crown (FC)** |
+| `FS + WE+` | **Feeling Crown+ (FC+)** |
+| `PW + FS + WE` | **Instant Classic Crown (ICC)** |
+| `PW + FS + WE+` | **Instant Classic Crown+ (ICC+)** |
+
+Las variantes `+` son ley s59: *"WE+ entra en las coronas pero sería
+una Corona+"*. **No son coronas nuevas** — misma corona, marcada con
+`+` cuando el entertainment es WE+ en vez de WE.
+
+Todas salen solas de `clases_vehemiurgo` vía
+`bin/archivo_lib.py: Ficha.corona` y aparecen en la columna *Corona*
+de los índices. **Nunca agregar un campo de corona al frontmatter** —
+sería estado duplicado. Se nombran en prosa (blockquote-lead) cuando
+corresponde.
 
 ## Asignar / ratificar
 

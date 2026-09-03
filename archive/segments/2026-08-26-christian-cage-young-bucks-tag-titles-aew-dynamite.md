@@ -21,7 +21,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Otra vez, por tercera vez seguida, Christian es lo único épico del ángulo por los títulos tag team; sigo decepcionado de los YBs, esta debía ser su mejor obra de entertainment hasta el momento, pero decidieron seguir haciendo flips; aquí Matt recién dice algo decente, pero muy poco muy tarde; Christian se merece una WE, es una pena que no estén a su altura y él tenga que cargar todo el entertainment"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8 y 26/8, Collision 22/8 y 29/8, All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -61,6 +61,12 @@ tags: [aew-2026, dynamite, glasgow, christian-cage, edge, young-bucks, matt-jack
    mejora y la fecha con precisión de acta.**
 4. **La clase va a una persona, no al segmento** — precedente ya
    establecido en s57 (Collision 30/7, el three-way de MJF).
+5. **Y el *"lo único épico"* es literal, no retórico.** Ratificado el
+   2026-09-03 (s59): la crítica a las promos del ángulo *"era por todos
+   menos Christian Cage, en ese ángulo todos están flojos"*. **Cuando
+   dice que él carga el entertainment, incluye a Copeland entre los que
+   no lo cargan.** El elogio no lo separa de los rivales: **lo separa
+   de los cuatro.**
 
 ## Datos confirmados por research — y una precisión de formato
 

@@ -18,22 +18,23 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Una promo muy personal de Cody, metiéndose con Randy y su trabajo, intentando bajarlo de su pedestal, y Randy respondió super bien, como un completo prick, un heel super cerebral y bien oldschool; están poniendo programación tipo Attitude Era muy premium, cada comeback más personal que el otro, y Cody se vuelve más cool cada semana; se merecen una WE class"
-clases_vehemiurgo: ["wrestling-entertainment"]
+calificacion_vehemiurgo: "Una promo muy personal de Cody, metiéndose con Randy y su trabajo, intentando bajarlo de su pedestal, y Randy respondió super bien, como un completo prick, un heel super cerebral y bien oldschool; están poniendo programación tipo Attitude Era muy premium, cada comeback más personal que el otro, y Cody se vuelve más cool cada semana; se merecen una WE class. RATIFICADO A WE+ el 2026-09-03 (s59): \"el segmento Cody/Randy del 28/8 sube a WE+\""
+clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s54 (visión directa — WWE SmackDown, 28/8/2026)"
   - "Sub-agente research-wwe-smackdown-280826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com (clips oficiales), POST Wrestling, Pro Wrestling Dot Net (Barnett), Fightful, F4W/WON, Wrestling Inc., Blog of Doom"
-tags: [wwe-2026, smackdown, cody-rhodes, randy-orton, dusty-rhodes, bob-orton-jr, nick-aldis, no-contact, snme-060926, attitude-era, heel-cerebral, disparador-de-la-we-plus]
+tags: [wwe-2026, smackdown, cody-rhodes, randy-orton, dusty-rhodes, bob-orton-jr, nick-aldis, no-contact, snme-060926, attitude-era, heel-cerebral, disparador-de-la-we-plus, wrestling-entertainment-plus]
 ---
 
 # El careo de los padres — SmackDown (28/8/2026)
 
-> Wrestling Entertainment declarada — **y la pieza que disparó la
-> creación de la WE+**. El Vehemiurgo le dio WE y **en la frase
-> siguiente inventó un escalón por encima**. Ver la nota de doctrina
-> abajo: el archivo registra lo declarado y deja la duda anotada.
+> **Wrestling Entertainment Plus.** La pieza que **disparó la creación
+> de la WE+** — y que, once días después, la recibió. El Vehemiurgo le
+> dio WE y **en la frase siguiente inventó un escalón por encima**;
+> el 2026-09-03 lo cerró: *"el segmento Cody/Randy del 28/8 sube a
+> WE+"*.
 
 ## Lectura del Vehemiurgo
 
@@ -106,17 +107,26 @@ Vehemiurgo declaró **WE** para el segmento y acto seguido: *"Y
 creemos la WE+ que son segmentos simplemente demasiado buenos y
 definen el enterteinment y wrestling booking inteligente"*.
 
-**El archivo registra WE —lo declarado— y deja anotada la duda**: es
-plausible que el segmento haya sido el disparador y que le
-corresponda WE+, pero **asignarla sería inflar una clase que no se
-declaró para esta pieza**. Pendiente de ratificación. Doctrina en
+**Durante once días el archivo registró WE —lo declarado— y dejó la
+duda anotada**, porque asignar la WE+ por cuenta propia habría sido
+inflar una clase que nadie otorgó para esta pieza.
+
+**Ratificación (2026-09-03, s59)**, verbatim:
+
+> *"sí, el segmento Cody/Randy del 28/8 sube a WE+"*
+
+**La pieza que fundó la clase es ahora la primera que la lleva.** Es
+el caso más limpio que el archivo tiene de por qué la regla de no
+inferir clases existe: **la lectura del archivo era correcta y aun
+así había que esperar la palabra.** Doctrina en
 [`../../glossary/clases-vehemiurgo.md`](../../glossary/clases-vehemiurgo.md).
 
 **Nota de grabación**: el SmackDown del 28/8 **se grabó el 24 de agosto en el Canadian Tire Centre de Ottawa**, la misma noche que el Raw en vivo del 24/8 — no se emitió en directo.
 
 ## Pendientes / huecos
 
-- [ ] **Ratificar WE o WE+** para este segmento.
+- [x] ~~**Ratificar WE o WE+** para este segmento~~ → **WE+**,
+      ratificada el 2026-09-03 (s59).
 - [ ] Verbatim contra video.
 
 ## Piezas relacionadas

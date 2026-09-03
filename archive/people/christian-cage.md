@@ -365,6 +365,38 @@ s26. Ver
 [vs Young Bucks, Tag Titles](../matches/2026-08-30-young-bucks-vs-cage-cope-tag-titles-aew-all-in.md) (**FC**) ·
 [el post-match con MCMG y FTR](../segments/2026-08-30-post-match-mcmg-ftr-tag-titles-aew-all-in.md) (**WE+**)
 
+### Sesión 2026-09-03 s59 — RATIFICADO: "lo único épico del ángulo" era literal
+
+**Cita verbatim** (fallo del 2026-09-03):
+
+> *"'sus promos están muy débiles' era por todos menos Christian Cage,
+> en ese ángulo todos están flojos"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Qué corrige, y qué agranda**:
+
+1. **El archivo se había quedado corto.** Había leído la crítica del
+   15/8 como dirigida **solo a los Young Bucks**, apoyándose en la
+   adversativa *"pero Edge y Christian levantan"*. **El Vehemiurgo la
+   extiende a todo el ángulo salvo Christian — Copeland incluido.**
+2. **Y eso vuelve coherente el expediente entero.** *"Christian es lo
+   único épico del ángulo"* (26/8) y *"Christian cargó con toda la
+   rivalidad hasta ahora"* (30/8) **no eran hipérbole ni comparación
+   con los rivales: lo estaba separando de su propio compañero.**
+3. **La escala del elogio cambia**: no es *"el mejor de los cuatro"*,
+   es **el único de los cuatro**. *"Peor que Kevin Owens en WWE"*
+   aplica a los otros tres. **Un ángulo de campeonato donde cuatro
+   hombres hablan y uno solo conecta.**
+4. **Y da su peso real al *"es una pena que no estén a su altura y él
+   tenga que cargar todo el entertainment"***: la pena incluye a
+   **Edge**, con quien acababa de ganar su primer título de parejas en
+   veinticinco años.
+
+**Fichas corregidas**:
+[el careo del 15/8](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) ·
+[el careo de Glasgow](../segments/2026-08-26-christian-cage-young-bucks-tag-titles-aew-dynamite.md)
+
 ## Lectura consolidada del Vehemiurgo
 
 **Christian Cage es el caso paradigmático de carny ortodoxo

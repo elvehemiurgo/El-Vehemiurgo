@@ -239,6 +239,8 @@ posibles** dicen distintas cosas:
 | `[perfect-wrestling, fighting-spirit]` | Real fight + define era. Tipo Misawa-Kawada. |
 | `[perfect-wrestling, wrestling-entertainment]` | Spectacle excepcional + define era. Tipo Hogan-Andre WMIII (lectura tentativa). |
 | `[perfect-wrestling, fighting-spirit, wrestling-entertainment]` | Las tres. **Techo absoluto del oficio**. Casi unicornio. **→ Instant Classic Crown (ICC)** |
+| `[fighting-spirit, wrestling-entertainment-plus]` | Pelea real + entertainment que define el booking. **→ Feeling Crown+ (FC+)** |
+| `[perfect-wrestling, fighting-spirit, wrestling-entertainment-plus]` | El techo del techo. **→ Instant Classic Crown+ (ICC+)** |
 
 **Una entrada sin clasificar** lleva el campo vacío (`[]`). **No
 es defecto**: es estado. La asignación ocurre cuando el
@@ -287,24 +289,18 @@ WE+ no se suma a WE — la reemplaza.
   declarada explícita: *"nivel wrestlemania, fue tremendo; se merece
   una WE+"*.
 
-### Dos preguntas abiertas — pendientes de declaración
+### Las dos preguntas abiertas — RESUELTAS (2026-09-03, s59)
 
-**El archivo no las resuelve por su cuenta:**
+Las dos quedaron cerradas por declaración explícita del Vehemiurgo:
 
-1. **¿WE+ entra en las coronas?** El Vehemiurgo declaró la Feeling
-   Crown para `FS + WE` y la Instant Classic Crown para las tres
-   clases, **antes de que WE+ existiera**. Aplicando la regla de
-   coronas al pie de la letra —*"una combinación sin corona declarada
-   no lleva ninguna"*—, una pieza con `FS + WE+` **no lleva corona**,
-   lo que produce el resultado incómodo de que una pieza mejor quede
-   sin premio mientras `FS + WE` sí lo tiene. **Queda así hasta que el
-   Vehemiurgo declare**, porque inventar la extensión sería asignar un
-   premio que nadie otorgó.
-2. **¿El segmento Cody Rhodes / Randy Orton del 28/8 es WE o WE+?**
-   El Vehemiurgo le declaró **WE** y **acto seguido creó la WE+ en la
-   misma frase**, lo que sugiere que la pieza fue el disparador. **El
-   archivo registra WE —lo declarado— y deja la duda anotada**, sin
-   inflar.
+1. **¿WE+ entra en las coronas?** — **Sí.** Verbatim: *"WE+ entra en
+   las coronas pero sería una **Corona+**"*. Ver la sección de coronas
+   más abajo: **FC+** e **ICC+**.
+2. **¿El segmento Cody Rhodes / Randy Orton del 28/8 es WE o WE+?** —
+   **WE+.** Verbatim: *"sí, el segmento Cody/Randy del 28/8 sube a
+   WE+"*. **La sospecha del archivo era correcta: la pieza fue el
+   disparador de la clase y ahora la lleva.** Ficha actualizada:
+   [`../archive/segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md`](../archive/segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md).
 
 ---
 
@@ -332,12 +328,40 @@ después retira una clase, la corona desaparece sola. **No hay campo
 de frontmatter para coronas y no debe haberlo** — sería un estado
 duplicado que puede desincronizarse del que manda.
 
-### Las dos coronas vigentes
+### Las cuatro coronas vigentes
 
 | Corona | Sigla | Combinación que la otorga |
 |---|---|---|
 | **Feeling Crown** | **FC** | `fighting-spirit` + `wrestling-entertainment` (sin Perfect Wrestling) |
-| **Instant Classic Crown** | **ICC** | las tres clases: `perfect-wrestling` + `fighting-spirit` + `wrestling-entertainment` |
+| **Feeling Crown+** | **FC+** | `fighting-spirit` + `wrestling-entertainment-plus` |
+| **Instant Classic Crown** | **ICC** | las tres: `perfect-wrestling` + `fighting-spirit` + `wrestling-entertainment` |
+| **Instant Classic Crown+** | **ICC+** | `perfect-wrestling` + `fighting-spirit` + `wrestling-entertainment-plus` |
+
+### Las Coronas+ — ley del 2026-09-03 (s59)
+
+**Verbatim del Vehemiurgo**:
+
+> *"WE+ entra en las coronas pero sería una Corona+"*
+
+**No son coronas nuevas: son la variante alta de las que ya
+existían.** La combinación es la misma —lo único que cambia es que el
+componente de entertainment es **WE+** en vez de **WE**—, así que la
+corona conserva su nombre y **se marca con un "+"**.
+
+**Por qué la solución es exacta y no una invención del archivo**: la
+ley de coronas de s52 dice que una corona **pone nombre a una
+combinación**, sin tocar la jerarquía. La ley de WE+ de s54 dice que
+WE+ **sí toca la jerarquía**, por encima de WE. **Las dos leyes juntas
+obligan a que la corona que contiene WE+ esté por encima de la que
+contiene WE, y a que sea reconociblemente la misma corona.** El "+"
+hace las dos cosas a la vez.
+
+**Consecuencia operativa**: siguen sin declararse. Se derivan igual
+que las otras dos (`bin/archivo_lib.py: Ficha.corona`) y aparecen
+solas en la columna *Corona* de los índices generados. **Una pieza con
+`FS + WE+` que antes quedaba sin premio ahora lleva FC+**; el resultado
+incómodo que el archivo había señalado queda corregido por
+declaración, no por iniciativa propia.
 
 **Sobre las siglas**: **FC** la fijó el Vehemiurgo (*"lo escribiré
 como FC"*). **ICC** es la abreviatura que el archivo adopta por
@@ -355,6 +379,10 @@ Lectura de archivo, no declaración del Vehemiurgo:
 - **Instant Classic Crown** premia el unicornio: **las tres a la
   vez**. Es la corona del techo absoluto, y por construcción va a
   ser rara.
+- **Las variantes "+"** premian lo mismo, pero con el escalón alto de
+  entertainment adentro. **ICC+ es, por construcción, el techo del
+  techo del archivo**: perfect wrestling, pelea real y un
+  entertainment que define el booking, todo en una pieza.
 
 ### Dónde aparecen
 

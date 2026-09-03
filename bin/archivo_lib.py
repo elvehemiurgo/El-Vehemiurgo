@@ -38,12 +38,21 @@ ABBR = {"perfect-wrestling": "PW", "fighting-spirit": "FS",
 # Coronas: premios DERIVADOS de la combinación de clases (ley del
 # Vehemiurgo 2026-08-26 s52 — "no hay que modificar la jerarquía, solo
 # agregar premios"). Nunca viven en frontmatter: se calculan.
+#
+# Coronas+ (ley 2026-09-03 s59 — "WE+ entra en las coronas pero sería
+# una Corona+"): la misma corona, marcada con "+" cuando la combinación
+# lleva WE+ en vez de WE. No son coronas nuevas: son la variante alta de
+# las que ya existían.
 CORONAS = {
     frozenset({"fighting-spirit", "wrestling-entertainment"}): "FC",
     frozenset({"perfect-wrestling", "fighting-spirit",
                "wrestling-entertainment"}): "ICC",
+    frozenset({"fighting-spirit", "wrestling-entertainment-plus"}): "FC+",
+    frozenset({"perfect-wrestling", "fighting-spirit",
+               "wrestling-entertainment-plus"}): "ICC+",
 }
-CORONA_NOMBRE = {"FC": "Feeling Crown", "ICC": "Instant Classic Crown"}
+CORONA_NOMBRE = {"FC": "Feeling Crown", "ICC": "Instant Classic Crown",
+                 "FC+": "Feeling Crown+", "ICC+": "Instant Classic Crown+"}
 
 # (Las equivalencias legacy tipo elias→elijah viven en el registro,
 # sección "Equivalencias de matching" — ver load_equivalencias().)

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: young-bucks
 estado: stub
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-02
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynasty 2026) — declaración de héroes fundamentales"
 tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, superkick-party, bte, tandem-moderno, heroes-fundamentales-vehemiurgia, dos-perfect-match-2026, panteon-vehemiurgo]
@@ -117,6 +117,33 @@ otra vez, sin necesidad de reinventarse. Ver
 
 **Piezas de la sesión**:
 [el careo con Cage & Cope](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) (WE)
+
+### Sesión 2026-09-03 s59 — RATIFICADO: la crítica no era solo para ellos
+
+**Cita verbatim** (fallo del 2026-09-03):
+
+> *"'sus promos están muy débiles' era por todos menos Christian Cage,
+> en ese ángulo todos están flojos"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Qué cambia para su expediente**:
+
+1. **El *"peor que Kevin Owens en WWE"* no era exclusivo de ellos** —
+   **cubre a todo el ángulo salvo Christian Cage**, Copeland incluido.
+   **El reproche no se ablanda, pero deja de ser un señalamiento
+   aislado: es un diagnóstico de conjunto.**
+2. **Lo que sí sigue siendo solo de ellos** es la objeción de Glasgow:
+   *"esta debía ser su mejor obra de entertainment hasta el momento,
+   **pero decidieron seguir haciendo flips**"*. **Ahí el cargo es
+   específico y no se reparte: teniendo el ángulo servido, eligieron el
+   movimiento.**
+3. **Y el matiz del 26/8 se mantiene**: *"aquí **Matt** recién dice
+   algo decente, pero muy poco muy tarde"*.
+
+**Fichas corregidas**:
+[el careo del 15/8](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) ·
+[el careo de Glasgow](../segments/2026-08-26-christian-cage-young-bucks-tag-titles-aew-dynamite.md)
 
 ## Pendientes / huecos
 

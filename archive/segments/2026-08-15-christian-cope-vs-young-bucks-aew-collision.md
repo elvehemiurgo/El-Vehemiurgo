@@ -21,7 +21,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Christian owned a los Young Bucks otra vez, la verdad sus promos están muy débiles, peor que Kevin Owens en WWE, decepcionante, pero Edge y Christian levantan y Christian sigue invicto, es el mejor, se merece una WE"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-31 s57 (VISIONADO DIRECTO — AEW Grand Slam Mexico 5/8, Dynamite 12/8, Collision 15/8, Dynamite 19/8 de 2026)"
   - "Sub-agentes de research s57 (2026-08-31) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -43,15 +43,32 @@ tags: [aew-2026, collision, christian-cage, edge, young-bucks, matt-jackson, nic
 >
 > — El Vehemiurgo, 2026-08-31 s57 (verbatim)
 
-**Nota de lectura — *"sus promos"* son las de los Young Bucks.** La
-adversativa *"pero Edge y Christian levantan"* solo funciona si el
-sujeto criticado es el otro lado. **Se registra así, con la ambigüedad
-declarada.**
+**Nota de lectura — *"sus promos"* son las de TODOS menos Christian.**
+
+El archivo había leído la crítica como dirigida solo a los Young
+Bucks, apoyándose en la adversativa *"pero Edge y Christian
+levantan"*. **RESOLUCIÓN — 2026-09-03 (s59)**, verbatim del Vehemiurgo:
+
+> *"'sus promos están muy débiles' era por todos menos Christian Cage,
+> en ese ángulo todos están flojos"*
+
+**El archivo se había quedado corto.** Había leído la crítica como
+dirigida **a los Young Bucks**; el Vehemiurgo la extiende a **todo el
+ángulo salvo Christian** — **Copeland incluido**.
+
+**Y eso vuelve coherente todo el resto del expediente.** Cuando dice
+*"Christian es lo único épico del ángulo"* (26/8) y *"Christian cargó
+con toda la rivalidad hasta ahora"* (30/8), **no está exagerando ni
+comparándolo con los rivales: lo está separando de su propio
+compañero.** El *"peor que Kevin Owens en WWE"* aplica al conjunto.
+**Un ángulo de campeonato en el que cuatro hombres hablan y uno solo
+conecta.**
 
 **Lectura sintética**:
 
-1. **La comparación más dura del volcado**: las promos de los Bucks son
-   *"peores que Kevin Owens en WWE"*. **El archivo tiene el expediente
+1. **La comparación más dura del volcado**: las promos del ángulo son
+   *"peores que Kevin Owens en WWE"* — **y aplica a los cuatro menos
+   Christian**. **El archivo tiene el expediente
    Owens abierto desde s54** (*"Owens sigue decepcionando"*) — usarlo
    como piso significa que el Vehemiurgo ya no espera nada de ese lado.
 2. **Y el elogio que lo compensa**: *"Edge y Christian levantan"*.
@@ -83,7 +100,9 @@ declarada.**
 
 ## Pendientes
 
-- [ ] **Ratificar de quién son *"sus promos están muy débiles"*.**
+- [x] ~~**Ratificar de quién son *"sus promos están muy débiles"*.**~~
+      → **de todos menos Christian Cage**, ratificado el 2026-09-03
+      (s59).
 - [ ] Transcript verificado contra video.
 
 ## Cross-links
@@ -91,6 +110,7 @@ declarada.**
 - [`../people/christian-cage.md`](../people/christian-cage.md)
 - [`../people/edge.md`](../people/edge.md)
 - [`../people/young-bucks.md`](../people/young-bucks.md)
+- [`../people/edge.md`](../people/edge.md)
 - [`../people/kenny-omega.md`](../people/kenny-omega.md)
 - [`../matches/2026-08-05-christian-cope-young-bucks-vs-death-riders-aew-gsm.md`](../matches/2026-08-05-christian-cope-young-bucks-vs-death-riders-aew-gsm.md)
 

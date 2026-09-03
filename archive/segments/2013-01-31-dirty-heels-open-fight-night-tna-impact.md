@@ -18,10 +18,10 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Muy buena promo, buenos stakes para el booking de estos 2; es Open Fight Night, salen los campeones en pareja, y es un gran segmento y una división all star muy prendida; se merecen una WE [dictado como 'WS' — leído como typo]"
+calificacion_vehemiurgo: "Muy buena promo, buenos stakes para el booking de estos 2; es Open Fight Night, salen los campeones en pareja, y es un gran segmento y una división all star muy prendida; se merecen una WE [dictado como 'WS'; lectura de typo RATIFICADA el 2026-09-03 s59]"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s56 (visión directa — TNA Impact Wrestling, 31/1/2013)"
   - "Sub-agente research-tna-impact-310113 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
@@ -47,10 +47,12 @@ tags: [tna-2013, impact-wrestling, austin-aries, bobby-roode, dirty-heels, chavo
 > — El Vehemiurgo, 2026-08-26 s56 (verbatim)
 
 **Wrestling Entertainment — declarada.** *(El dictado dice **"WS"**;
-el archivo lo lee como **typo de WE**: no existe una clase WS, todas
-las demás del volcado son WE o triples, y el propio párrafo describe
-entertainment puro. **La lectura queda anotada por si hay que
-corregirla**; el typo se preserva en el verbatim del notebook.)*
+el archivo lo leyó como **typo de WE** por tres razones: no existe una
+clase WS, todas las demás del volcado son WE o triples, y el propio
+párrafo describe entertainment puro. **Lectura RATIFICADA por el
+Vehemiurgo el 2026-09-03 (s59)** — *"sí, también la ratificación del
+'WS' → WE de los Dirty Heels"*. El typo se preserva en el verbatim del
+notebook.)*
 
 **Lectura sintética — tres ejes**:
 
@@ -93,7 +95,8 @@ que la jugada ya estaba cerrada en la lata.
 
 ## Pendientes / huecos
 
-- [ ] **Ratificar la lectura de "WS" como WE.**
+- [x] ~~**Ratificar la lectura de "WS" como WE**~~ → **ratificada**
+      el 2026-09-03 (s59).
 
 ## Piezas relacionadas
 

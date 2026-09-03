@@ -459,14 +459,20 @@ todo con tal de no dejarlo ser como babyface"*.
 da la corona más alta al match **y sigue sin perdonarle el camino a la
 empresa**.
 
-### 6. Christian Cage cargando solo — tercera vez seguida
+### 6. Christian Cage cargando solo — tercera vez seguida *(y era literal)*
 
 > *"Otra vez, por tercera vez seguida, Christian es lo único épico del
 > ángulo por los títulos tag team [...] **es una pena que no estén a su
 > altura y él tenga que cargar todo el entertainment**."*
 
 **Registro con contador**: s57 (15/8), Dynamite 26/8, y el propio
-match de Wembley. Y una precisión sobre los Young Bucks: *"esta debía
+match de Wembley.
+
+> **Precisión de s59 (2026-09-03)**: *"'sus promos están muy débiles'
+> era por todos menos Christian Cage, en ese ángulo todos están
+> flojos"*. **El *"lo único épico"* no era hipérbole: incluye a
+> Copeland.** El elogio no lo separa de los rivales — **lo separa de
+> los cuatro.** Y una precisión sobre los Young Bucks: *"esta debía
 ser su mejor obra de entertainment hasta el momento, **pero decidieron
 seguir haciendo flips**"*; *"aquí Matt recién dice algo decente, pero
 muy poco muy tarde"*.
