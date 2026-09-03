@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: daga
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Sub-agente card-aaa-worldwide-180726 (research 2026-08-01, closed) — POST Wrestling, Cageside Seats, Fightful"
   - "El Vehemiurgo, notebook 2026-08-01 s12 (visión directa)"
@@ -88,6 +88,28 @@ interferencias que definen el match (AAA Verano de Escándalo Noche 1,
   22/8 **le parte una silla encima a Bronco Nima** tras la derrota y le
   ofrece a Penta **una playera del grupo** — la invitación convertida
   en objeto.
+
+### Sesión 2026-09-03 s59 — Listo para ser coacheado, listo para ser entertainer
+
+**Cita verbatim**:
+
+> *"daga que trae la violencia highspeed, se ve listo para ser
+> coacheado, listo para ser enterteiner"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Reconoce potencial de desarrollo, no logro consumado** — categoría
+   distinta de un elogio cerrado: le falta coaching, no talento.
+2. **Research**: parte del trío de Los Perros del Mal (con Ángel Garza
+   y Berto) en el main event contra Rey Fénix, Penta y Dragon Lee —
+   pierden, pero el grupo recibe oportunidad al AAA World Trios
+   Championship en Triplemanía 34 Night One, por peso histórico del
+   nombre original de la facción.
+
+**Pieza de la sesión**:
+[main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC)
 
 ## Pendientes / huecos
 

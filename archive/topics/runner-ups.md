@@ -168,6 +168,25 @@ enfría, queda el registro de por qué no.
   [→](../people/hijo-de-dr-wagner-jr.md) ·
   [`../matches/2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md`](../matches/2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md)
 
+### #11 — Jack Cartwheel *(declarado 2026-09-03 s59)*
+
+> *"Jack Cartwheel se movió como una máquina de luchar. Pongamos a
+> Jack en la lista de los que se ganaron mi corazón"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+- **Empresa**: AAA (mini estrella).
+- **Por qué entra**: fórmula de bautizo exacta de la lista, dentro de
+  un elogio de oficio — *"se sintió como una pelea"*, *"si se ven
+  preocupados por su selling y no solo las acrobacias"*. El criterio
+  de siempre: intención de combate real por encima del despliegue
+  acrobático.
+- **Match anchor**: three-way vs Mini Vikingo y Nathan Frazer, No. 1
+  Contender's Match al AAA World Cruiserweight Championship, Ola de
+  Calor 30/8/2026 (empate a límite de tiempo).
+  [→](../people/jack-cartwheel.md) ·
+  [`../matches/2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md`](../matches/2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md)
+
 ## Pendientes
 
 - [ ] Ratificar alcance: ¿solo TNA o cross-promotion? ¿con orden o

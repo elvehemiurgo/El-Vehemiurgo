@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: angel-garza
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Sub-agente card-aaa-verano-escandalo-1-250726 (research 2026-08-01, closed) — POST Wrestling, 411MANIA, Fightful"
   - "El Vehemiurgo, notebook 2026-08-01 s14 (visión directa)"
@@ -35,6 +35,25 @@ el texto íntegro):
 de Escándalo Noche 1, 25/7/2026). Vence junto a Daga a Dominik
 Mysterio & El Grande Americano, en el match donde Dominik confirma su
 traición dejándose caer del apron sin hacer el relevo.
+
+### Sesión 2026-09-03 s59 — El estilo Héctor Garza citado como memoria histórica
+
+**Cita verbatim**:
+
+> *"los Garza sí traen ese estilo Hector Garza en los strikes recios,
+> muy brutal"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim, typos preservados)
+
+**Lectura sintética**: memoria histórica explícita (CLAUDE.md eje 3) —
+liga el trabajo actual al legado familiar de Héctor Garza como criterio
+de calidad, no como anécdota. **Research**: parte del trío de Los
+Perros del Mal (con Daga y Berto) en el main event; pierden ante Fénix,
+Penta y Dragon Lee, pero el grupo gana oportunidad titular de tríos en
+Triplemanía 34.
+
+**Pieza de la sesión**:
+[main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC)
 
 ## Pendientes / huecos
 

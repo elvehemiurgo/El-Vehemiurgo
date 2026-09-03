@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: penta
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 23/3/2026)"
 tags: [penta, wwe, aaa, lucha-libre, primer-registro-individual]
@@ -255,6 +255,35 @@ bracket rumbo al Raw del 14/9/2026 en Ciudad de México.
 - **La lectura de industria**: *"cada uno a su estilo, moviendo la
   industria adelante"*.
 - Ver [`../segments/2026-08-28-promo-video-penta-vs-fenix-wwe-smackdown.md`](../segments/2026-08-28-promo-video-penta-vs-fenix-wwe-smackdown.md).
+
+### Sesión 2026-09-03 s59 — Muy safe, muy WWE — el mismo reproche que Moxley, en menor escala
+
+**Cita verbatim**:
+
+> *"Penta si se vió bien, era el protagonista, pero si se ve muy safe
+> muy wwe, incluso calling it in the ring, evidente selfaware que no
+> me gusta, pero no tan descarado como Jon Moxley, igual se me hace muy
+> safe"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El reproche del corpus AEW 2026 trasplantado a AAA**: el
+   *no-sell* auto-consciente en cámara —el mismo que atraviesa el
+   expediente de Moxley— aplicado acá a Penta, **con escala explícita
+   declarada**: *"no tan descarado como Jon Moxley"*. El archivo no
+   fusiona los dos casos: los separa por grado, con la misma categoría
+   de fondo.
+2. **"Calling it in the ring"** — romper el kayfabe frente a cámara
+   coordinando la lucha en voz audible, la forma más literal de ese
+   defecto.
+3. **Research**: protagonista del main event, ganador junto a Rey
+   Fénix y Dragon Lee sobre Los Perros del Mal (Mexican Muscle Buster
+   de Fénix sobre Berto).
+
+**Pieza de la sesión**:
+[main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC)
 
 ## Pendientes / huecos
 

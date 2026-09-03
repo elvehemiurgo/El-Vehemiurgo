@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rey-fenix
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [rey-fenix, aaa, fighting-spirit, wrestling-entertainment, perfect-wrestling, heroe-fundamental-49, panteon, primer-registro-individual]
@@ -320,6 +320,26 @@ Buster**, contrarrestando el Martinete de El Fiscal. Ver
 - **Precisión de título**: el cetro en discusión es el **AAA World
   Cruiserweight Championship**, que **él ostenta**; **Ricky Saints es
   el retador**.
+
+### Sesión 2026-09-03 s59 — "Al estilo Fénix" — el finish y el reconocimiento a los tres del Cruiserweight
+
+**Cita verbatim**:
+
+> *"la lucha estuvo muy buena al estilo Fénix"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Lectura sintética**: su nombre funciona como adjetivo de calidad
+dentro del archivo — *"al estilo Fénix"* describe una categoría de
+lucha, no solo su participación. **Research**: conecta el **Mexican
+Muscle Buster sobre Berto** para el pin del main event; como campeón
+Cruiserweight, salió también a reconocer a los tres competidores del
+three-way sin decisión de Mini Vikingo, Nathan Frazer y Jack
+Cartwheel.
+
+**Piezas de la sesión**:
+[main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC) ·
+[three-way de Cruiserweight](../matches/2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md) (FS·WE)
 
 ## Pendientes / huecos
 

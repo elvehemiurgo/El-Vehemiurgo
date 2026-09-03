@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rey-mysterio
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones"
   - "Dossier WWE SmackDown 2002 + Dossier AAA + AEW 2026"
@@ -203,6 +203,24 @@ Dragon Lee + Penta + Fenix call-up reciente.
   World Heavyweight Championship, que desemboca en el Raw de CDMX del
   14/9.
 - Ver [`../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md`](../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md).
+
+### Sesión 2026-09-03 s59 — El GM que se juega el empleo de Omos en Triplemanía
+
+**Cita verbatim**:
+
+> *"Rey atacó a Omos [...] y luego Mysterio lanza los stakes para
+> triplemania, fue un buen pedazo de segmento"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim, typos preservados)
+
+**Lectura sintética**: el GM que convierte un careo administrativo en
+apuesta de carrera. **Research**: se niega a levantar la suspensión de
+Omos, lo golpea con el micrófono cuando aparece entre el público, y
+cierra anunciando que **él mismo enfrentará a Omos en Triplemanía
+34** — si gana Omos, es reinstalado; si gana Rey, Omos es despedido.
+
+**Pieza de la sesión**:
+[firma de contrato](../segments/2026-08-30-firma-contrato-dominik-grande-omos-rey-aaa-ola-de-calor.md) (WE)
 
 ## Lectura consolidada del Vehemiurgo
 

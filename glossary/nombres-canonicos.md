@@ -72,6 +72,7 @@
 | **Julio / Bruno (Americanos Hermanos)** | Hispanización de **Julius Creed** y **Brutus Creed** dentro del ángulo Americano. Ficha del equipo: `promotions/creed-brothers.md`. |
 | **Zima Ion (AAA 2026)** | Gimmick portado por **Joaquin Wilde** (ex-LWO) según dictado del Vehemiurgo — **no confundir con Zema Ion (DJZ)**, talent distinto; grafía Zima/Zema [verif]. La fila de "Variantes prohibidas" solo aplica a menciones de DJZ. |
 | **Je'Von Evans** | Grafía real con apóstrofe; slug `jevon-evans`. El Vehemiurgo dicta "Jevon Evans". |
+| **"Priest" (dictado)** | **Dos personas distintas**, resueltas por contexto de show+fecha: **Adam Priest** (AEW, indie, ficha `adam-priest.md`, primer registro s26) y **Damián Priest** (WWE/Judgment Day, cruza a AAA desde el 30/8/2026, ficha `damian-priest.md`, s59). "Priest" a secas nunca se asume — ubicar el show y la fecha del dictado. |
 
 ## Equivalencias de matching (machine-readable, no linteadas)
 

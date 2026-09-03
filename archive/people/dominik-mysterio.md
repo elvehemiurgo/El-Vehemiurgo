@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dominik-mysterio
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Wikipedia — Dominik Mysterio"
   - "Cobertura WWE 2020–2026 (debut, heel turn 2022 Judgment Day, run 2024–2026)"
@@ -139,6 +139,28 @@ sección 4.
 - **Destino**: **Dominik (c) vs. El Grande Americano, Triplemanía 34
   Noche 2, 13/9/2026, Arena CDMX**.
 - Ver [`../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md`](../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md).
+
+### Sesión 2026-09-03 s59 — La firma que estalla — ataca a traición y arriesga el Mega Championship
+
+**Cita verbatim**:
+
+> *"La firma de contrato entre Dom y Grande estaba aburrida, hasta que
+> Rey atacó a Omos y Dom ataca a Grande a traición, buen brawl"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El *double-cross* declarado con su nombre carny**: aprovecha la
+   distracción del careo Rey/Omos para atacar sin aviso.
+2. **Research**: la firma era para el **AAA Mega Championship**, que
+   Dominik defiende, contra **El Grande Americano**, en Triplemanía
+   34. Condicionó su firma a que Rey levantara la suspensión de Omos;
+   ante la negativa, atacó a El Grande Americano contra la valla y las
+   escaleras metálicas.
+
+**Pieza de la sesión**:
+[firma de contrato](../segments/2026-08-30-firma-contrato-dominik-grande-omos-rey-aaa-ola-de-calor.md) (WE)
 
 ## Lectura consolidada del Vehemiurgo
 

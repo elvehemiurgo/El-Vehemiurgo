@@ -16,6 +16,10 @@ tags: [adam-priest, aew, fighting-spirit, oldschool, quiere-luchar, primer-regis
 > Primer take editorial individual (ya mencionado de pasada en la
 > lista personal maestra). Debuta con **Fighting Spirit** contra
 > Zack Sabre Jr: *"Priest sí quiere luchar"*.
+>
+> **No confundir con Damián Priest** (`./damian-priest.md`), el de
+> WWE/Judgment Day, que cruza a AAA desde el 30/8/2026 — homónimo
+> parcial resuelto por contexto de show+fecha (s59).
 
 ## Identificación
 

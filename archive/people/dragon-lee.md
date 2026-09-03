@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dragon-lee
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + WM42 cluster"
   - "Cagematch + AAA media + NJPW retrospectivas"
@@ -205,4 +205,21 @@ enfrenta a **El Hijo del Dr. Wagner Jr.** el 17/8/2026.
   retiran**.
 - **Queda dentro del trío** que Penta declara *"mi verdadera familia"*
   y que reta al grupo para **Ola de Calor (30/8)**.
+
+### Sesión 2026-09-03 s59 — Se deja influenciar por Fénix — parte del trío que levanta la lucha
+
+**Cita verbatim**:
+
+> *"los demás luchadores si levantan la lucha y se están dejando
+> influenciar por Fenix"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Lectura sintética**: elogio de conjunto, junto a los otros que
+"levantan la lucha" bajo la influencia estilística de Rey Fénix.
+**Research**: gana el main event, junto a Fénix y Penta, sobre Los
+Perros del Mal.
+
+**Pieza de la sesión**:
+[main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC)
 

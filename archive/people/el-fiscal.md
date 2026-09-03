@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: el-fiscal
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s05 (visión directa — AAA Worldwide, 13/6/2026)"
   - "Sub-agente card-aaa-worldwide-130626 (research 2026-08-01, closed)"
@@ -60,6 +60,23 @@ tras intentar el **Martinete**, el finisher de su padre, contrarrestado
 con un Mexican Muscle Buster. Publicó un mensaje emotivo post-show
 dedicado a Abismo Negro. Ver
 [`../matches/2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md`](../matches/2026-08-17-el-fiscal-vs-rey-fenix-wwe-raw.md).
+
+### Sesión 2026-09-03 s59 — El que absorbe el finish en el fatal four-way
+
+**Cita verbatim**:
+
+> *"la lucha por el título latinoamereicano estuvo cool [...] se
+> merecen una WE y FS"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Lectura sintética**: elogio de conjunto, sin destinatario individual
+declarado. **Research**: recibe el South of Heaven de Damián Priest y,
+segundos después, el Thriller Suplex de La Parka que decide el
+título — **el cuerpo sobre el que se resuelve el finish**, sin ganar.
+
+**Pieza de la sesión**:
+[fatal four-way, Latin American Championship](../matches/2026-08-30-la-parka-vs-priest-vs-fiscal-vs-wagner-latin-american-aaa-ola-de-calor.md) (FS·WE — con contradicción de dictado sin resolver)
 
 ## Pendientes / huecos
 

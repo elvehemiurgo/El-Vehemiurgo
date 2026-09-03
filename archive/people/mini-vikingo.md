@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mini-vikingo
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — AAA Worldwide, 2/5/2026)"
 tags: [mini-vikingo, aaa-2026, mini-estrella, grudge-match, triple-clase, primer-registro-individual]
@@ -74,6 +74,29 @@ intensa y booking "bien curado". El selling de ambos descrito como
 Cruiserweight Championship, Verano de Escándalo Noche 2, 1/8/2026,
 10:54) tras un Spanish Fly de nearfall y un rollup revertido al
 Mexican Muscle Buster.
+
+### Sesión 2026-09-03 s59 — Three-way sin decisión — contendiente al Cruiserweight
+
+**Cita verbatim**:
+
+> *"mini vikingo vs cartwheel vs nathan estuvo cool, no tanta velocidad
+> como una lucha de Fénix, pero buena lucha, se merece una WE y FS"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Lectura sintética**:
+
+1. **La vara es Fénix, y no bajar frente a ella no es fracaso**: *"no
+   tanta velocidad como una lucha de Fénix, pero buena lucha"* —
+   reconoce el techo sin castigar la clase.
+2. **Research**: No. 1 Contender's Match al AAA World Cruiserweight
+   Championship, contra **Nathan Frazer** (WWE/NXT, cruzando a AAA) y
+   **Jack Cartwheel**. **Empate a límite de tiempo (20 minutos)**, sin
+   contendiente designado. Rey Fénix, campeón, sale a reconocer a los
+   tres.
+
+**Pieza de la sesión**:
+[vs Nathan Frazer y Jack Cartwheel](../matches/2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md) (FS·WE)
 
 ## Pendientes / huecos
 

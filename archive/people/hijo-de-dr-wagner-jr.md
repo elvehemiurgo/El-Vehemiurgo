@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: hijo-de-dr-wagner-jr
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [hijo-de-dr-wagner-jr, aaa, linaje-wagner, identidad-consolidada, fighting-spirit, golpes-duros, primer-registro-individual]
@@ -103,6 +103,22 @@ clasificado confirmado a un Fatal 4-Way por el AAA Latin American
 Championship vacante, Triplemanía 34.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
+
+### Sesión 2026-09-03 s59 — El linaje familiar en el cuadro del título vacante
+
+**Cita verbatim**:
+
+> *"si hay gente oldschool acá, se merecen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Lectura sintética**: parte del elogio de linaje del cuadro completo
+—**sin research que aísle su participación específica en el
+finish**—; el título quedó decidido entre Priest, El Fiscal y La
+Parka.
+
+**Pieza de la sesión**:
+[fatal four-way, Latin American Championship](../matches/2026-08-30-la-parka-vs-priest-vs-fiscal-vs-wagner-latin-american-aaa-ola-de-calor.md) (FS·WE — con contradicción de dictado sin resolver)
 
 ## Pendientes / huecos
 

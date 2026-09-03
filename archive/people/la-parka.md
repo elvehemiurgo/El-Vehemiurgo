@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-parka
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [la-parka, aaa, fighting-spirit, wrestling-entertainment, doctrina-todas-sus-luchas, primer-registro-individual]
@@ -129,6 +129,31 @@ Triplemanía 34 — segundo clasificado junto a El Hijo de Dr. Wagner Jr.
   de rookies de NXT, es el veterano de otra escuela.
 - **La reserva del match de AAA no es suya**: es contra el **Code Red**
   como movimiento, y el Code Red lo hizo **Psycho Clown**.
+
+### Sesión 2026-09-03 s59 — Nuevo campeón Latinoamericano — sin ser su debut
+
+**Cita verbatim**:
+
+> *"la lucha por el título latinoamereicano estuvo cool [...] lo
+> mantuvieron real, si hay gente oldschool acá [...] apostaron por
+> algo más calmado bien duro, stiff y buenas secuencias"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **"Gente oldschool acá"** lo incluye entre los que sostienen el
+   linaje mexicano de la lucha en un cuadro con un cruce WWE (Damián
+   Priest).
+2. **Research y corrección de registro**: **gana el AAA Latin American
+   Championship vacante**, rompiendo el conteo de Damián Priest sobre
+   El Fiscal con un **Thriller Suplex**. **No fue su debut en AAA** —el
+   archivo lo tiene compitiendo desde abril de 2026; el anuncio del
+   15/8 sobre un "debut oficial" correspondía a **El Carnicero**, no a
+   él. Es su **primer campeonato mayor**, no su primera aparición.
+
+**Pieza de la sesión**:
+[fatal four-way, Latin American Championship](../matches/2026-08-30-la-parka-vs-priest-vs-fiscal-vs-wagner-latin-american-aaa-ola-de-calor.md) (FS·WE — con contradicción de dictado sin resolver)
 
 ## Pendientes / huecos
 

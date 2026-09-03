@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: el-grande-americano
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s36 (visión directa — WWE NXT Stand & Deliver, 4/4/2026 [fecha inferida])"
   - "Mención previa en dossier AAA/AEW 2026 cluster (gimmick nWo carny de Chad Gable)"
@@ -359,6 +359,24 @@ nuevo campeón Intercontinental.
   dándose con todo"*, y *"todos terminaron muy over"* — nadie pagó la
   cuenta de nadie.
 - Ver [`../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md`](../segments/2026-08-15-brawl-grande-americano-dominik-rey-aaa-worldwide.md).
+
+### Sesión 2026-09-03 s59 — Separa a Rey de Omos y recibe la traición de Dominik
+
+**Cita verbatim**:
+
+> *"Dom ataca a Grande a traición, buen brawl, y luego Mysterio lanza
+> los stakes para triplemania"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Lectura sintética**: rol de intermediario físico —separa a Rey de
+Omos— que lo deja expuesto al ataque de Dominik. **Research**: firma
+contrato por el AAA Mega Championship contra Dominik para Triplemanía
+34; recibe el ataque a traición contra la valla y las escaleras
+metálicas.
+
+**Pieza de la sesión**:
+[firma de contrato](../segments/2026-08-30-firma-contrato-dominik-grande-omos-rey-aaa-ola-de-calor.md) (WE)
 
 ## Pendientes / huecos
 

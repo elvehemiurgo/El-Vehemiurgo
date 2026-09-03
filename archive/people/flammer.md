@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: flammer
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — AAA Worldwide, 4/4/2026)"
   - "Mención previa en dossier AAA/AEW 2026 cluster (roster AAA Knockouts)"
@@ -70,6 +70,30 @@ Spirit por defensa titular dura y de buen repertorio. Ver
 completo — reinado histórico celebrado, con rivalidad teaseada
 contra Bayley que el Vehemiurgo mira con recelo doctrinal. Ver
 [`../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md`](../segments/2026-04-11-flammer-toxicas-celebracion-la-catalina-debut-aaa-worldwide.md).
+
+### Sesión 2026-09-03 s59 — La psicología de campeona — sin luchar el gauntlet
+
+**Cita verbatim**:
+
+> *"más la psicología de Flamer como campeona"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Registrada en su rol de campeona sin competir la lucha** — el
+   Vehemiurgo la nota como presencia estructural del ángulo, no como
+   participante.
+2. **Research**: estuvo en **comentarios en español**, no en el
+   gauntlet. Su intervención decisiva llega al cierre: **golpea a La
+   Hiedra con el cinturón de Reina de Reinas** desde la mesa —una
+   cobertura lo describe como error de puntería sobre Catalina, otra
+   como acción deliberada de sabotaje a su propia compañera de
+   facción—, habilitando la victoria de La Catalina. **Defenderá el
+   título contra La Catalina en Triplemanía 34 Night Two.**
+
+**Pieza de la sesión**:
+[gauntlet femenino, tramo final](../matches/2026-08-30-gauntlet-femenino-la-hiedra-vs-la-catalina-aaa-ola-de-calor.md) (WE)
 
 ## Pendientes / huecos
 

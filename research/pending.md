@@ -5,9 +5,10 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 ## Activas
 
-| ID | Alcance | Origen | Lanzada | Destino al volver |
-|---|---|---|---|---|
-| `aaa-ola-de-calor-300826` | AAA Ola de Calor 30/8/2026 (Edinburg, TX): gauntlet femenino, mini estrellas, título Latinoamericano vacante, firma de contrato Dominik/Grande, main event Perros del Mal | [`../notebook/2026-08-01-s59-aaa-ola-de-calor-300826.md`](../notebook/2026-08-01-s59-aaa-ola-de-calor-300826.md) | 2026-09-03 (s59) | 5 fichas de match/segment + fichas de Damián Priest y Jack Cartwheel |
+| _(vacío)_ | | | | | |
+
+> `aaa-ola-de-calor-300826` cerrada e integrada el 2026-09-03 (s59) —
+> ver [`closed.md`](./closed.md).
 
 > `punk-vs-owens-historia-completa-2026` cerrada e integrada el
 > 2026-08-01 (3 sub-agentes) — ver [`closed.md`](./closed.md).

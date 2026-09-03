@@ -32,7 +32,7 @@ nombre en el cartel importa**. Los **segmentos también cuentan**.
 **Snapshot 2026-08-22**: 729 entradas contadas
 (732 bullets, duplicados exactos deduplicados) ·
 506 con ≥1 nombre reconocido ·
-188 talents/entidades distintos.
+189 talents/entidades distintos.
 Se cuentan los nombres que el archivo conoce (fichas de `people/` y
 `promotions/` + canónicos del registro), normalizados al canon
 **antes** de contar; el verbatim con typos vive solo en el notebook.
@@ -157,9 +157,9 @@ Se cuentan los nombres que el archivo conoce (fichas de `people/` y
 
 Abismo Negro Jr., Asuka, Bear Bronson, Brody King, Ciampa, Darby Allin, Eddie Edwards, El Grande Americano, Flammer, Jackson Drake, Kiana James, Kyle Fletcher, Laredo Kid, Las Tóxicas, Matt Cardona, Mickie James, Myron Reed, Paul Heyman, Roderick Strong, Roxanne Perez, Rusev, Solo Sikoa, Stacks, The Judgment Day, The Righteous, Toni Storm, Trey Miguel.
 
-## Cola larga — 1 mención (55 talents)
+## Cola larga — 1 mención (56 talents)
 
-Adam Priest, Alexa Bliss, Anthony Henry, Bandido, Bayley, Becky Lynch, Brawling Birds, Bray Wyatt, Bron Breakker, Candice LeRae, Cesaro, Charlotte Flair, Chris Hero, David Finlay, Dezmond Xavier, Elayna Black, Frankie Kazarian, Harley Hudson, Hayabusa, Joey Janela, Kenny Omega, Kevin Owens, Keyra, Kira, La Catalina, La Hiedra, Lexis King, Logan Paul, Mara Sadé, Mark Briscoe, Money Machine, Myla Grace, Nikki Bella, Nikkita Lyons, ODB, Octagón Jr., PAC, Pat McAfee, Psicosis, Ricochet, Rosemary, Saquon Shugars, Shiloh Hill, Starlight Kid, Talla Tonga, Terry Funk, The Elegance Brand, Toa Liona, Tommy Billington, Tony D'Angelo, Trevor Lee, Trish Stratus, Waller, Zack Sabre Jr, Zaria.
+Adam Priest, Alexa Bliss, Anthony Henry, Bandido, Bayley, Becky Lynch, Brawling Birds, Bray Wyatt, Bron Breakker, Candice LeRae, Cesaro, Charlotte Flair, Chris Hero, David Finlay, Dezmond Xavier, Elayna Black, Frankie Kazarian, Harley Hudson, Hayabusa, Jack Cartwheel, Joey Janela, Kenny Omega, Kevin Owens, Keyra, Kira, La Catalina, La Hiedra, Lexis King, Logan Paul, Mara Sadé, Mark Briscoe, Money Machine, Myla Grace, Nikki Bella, Nikkita Lyons, ODB, Octagón Jr., PAC, Pat McAfee, Psicosis, Ricochet, Rosemary, Saquon Shugars, Shiloh Hill, Starlight Kid, Talla Tonga, Terry Funk, The Elegance Brand, Toa Liona, Tommy Billington, Tony D'Angelo, Trevor Lee, Trish Stratus, Waller, Zack Sabre Jr, Zaria.
 
 ## Lectura editorial — qué dice este conteo
 

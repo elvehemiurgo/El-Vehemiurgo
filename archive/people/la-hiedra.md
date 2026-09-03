@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-hiedra
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
   - "Mención previa en dossier AAA/AEW 2026 cluster (roster AAA Knockouts)"
@@ -95,6 +95,28 @@ Iguana/Vice en Verano de Escándalo (25/7/2026).
 Mixed Tag Team Championship junto a Laredo Kid, rematando con
 face-first slam sobre Lola Vice — payoff directo de la aspiración de
 campeonato declarada en el volcado s12 (18/7/2026).
+
+### Sesión 2026-09-03 s59 — El gauntlet que la elimina — camino a Triplemanía para su rival
+
+**Cita verbatim**:
+
+> *"al final del gauntlet femenino, tuvimos La Hiedra vs Catalina [...]
+> estas dos estuvieron bien escritas esta temporada"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim)
+
+**Lectura sintética**:
+
+1. **Elogio de temporada, no de la noche puntual**: *"bien escritas
+   esta temporada"* registra un arco sostenido, no un pico aislado.
+2. **Research**: eliminada por **La Catalina** en el tramo final
+   (4:55) del gauntlet, tras ir por su cinturón de parejas mixtas para
+   usarlo como arma — plan que le sale mal cuando **Flammer**, desde
+   comentarios, la golpea a ella en vez de a Catalina con el cinturón
+   de Reina de Reinas [verif — accidental o sabotaje].
+
+**Pieza de la sesión**:
+[gauntlet femenino, tramo final](../matches/2026-08-30-gauntlet-femenino-la-hiedra-vs-la-catalina-aaa-ola-de-calor.md) (WE)
 
 ## Pendientes / huecos
 

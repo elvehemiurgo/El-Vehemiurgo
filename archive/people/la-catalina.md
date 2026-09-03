@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-catalina
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-09-03
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial 2026-05-10 Kira vs Persephone"
   - "Confirmación directa del Vehemiurgo 2026-05-10: 'La Catalina ya firmó con WWE y AAA'"
@@ -212,3 +212,33 @@ consecutiva de su expediente de singles en AAA. Ver
 - [`../../research/closed.md`](../../research/closed.md) —
   entry `kira-cmll-trayectoria-rivalidades-2026` con pendiente
   Catalina status ahora cerrado.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-09-03 s59 — Le dieron el brazo para trabajar — el título en Triplemanía
+
+**Cita verbatim**:
+
+> *"le dieron a Catalina el brazo para trabajar y hacer la del
+> underdog, y el juego con los títulos y Lady Maravilla perdida, es un
+> setup genial para cualquier babyface, es una buena historia para
+> triplemania"*
+>
+> — El Vehemiurgo, 2026-09-03 s59 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El brazo como arma narrativa declarada**: le dieron una
+   extremidad específica para justificar el camino de underdog hasta
+   la victoria — oficio de siempre, nombrado con precisión.
+2. **"Un setup genial para cualquier babyface"** — el Vehemiurgo separa
+   el diseño de la campaña (aprobado) de la ejecución puntual de esta
+   lucha (limitada por la estipulación del gauntlet).
+3. **Research**: elimina a **La Hiedra** en el tramo final del
+   gauntlet (4:55), tras un golpe de **Flammer** a Hiedra con el
+   cinturón de Reina de Reinas [verif — accidental o deliberado].
+   **Se gana el título match contra Flammer, confirmado para
+   Triplemanía 34 Night Two.**
+
+**Pieza de la sesión**:
+[gauntlet femenino, tramo final](../matches/2026-08-30-gauntlet-femenino-la-hiedra-vs-la-catalina-aaa-ola-de-calor.md) (WE)
