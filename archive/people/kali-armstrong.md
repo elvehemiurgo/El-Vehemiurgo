@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kali-armstrong
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Cobertura WWE NXT 2025-2026"
   - "Visionado directo del Vehemiurgo, NXT Revenge Week 1 2026-04-14"
@@ -225,6 +225,23 @@ WWE Performance Center**. Cohorte diferente pero igualmente fértil
   entró.)*
 - **"Robándose un tag": `[no confirmado]`** — ninguna fuente lo
   menciona; queda como observación de visionado.
+
+### Sesión 2026-09-04 s60 — La tercera que se ganó su lugar en la unificación
+
+**Cita verbatim**:
+
+> *"el opener de Wren Sincalir vs Armstrong vs Zaria estuvo cool [...]
+> se merecen una WE y FS"*
+>
+> — El Vehemiurgo, 2026-09-04 s60 (verbatim)
+
+**Lectura sintética**: elogio de conjunto. **Research**: había entrado
+a la lucha al ganar su clasificatorio el 25/8, convirtiendo la
+unificación en triple threat; en Heatwave **elimina a Wren Sinclair**
+del ring antes de caer ante el F-5 de Zaria.
+
+**Pieza de la sesión**:
+[vs Wren Sinclair y Zaria, unificación](../matches/2026-08-30-wren-sinclair-vs-kali-armstrong-vs-zaria-unificacion-nxt-heatwave.md) (FS·WE)
 
 ## Lectura consolidada del Vehemiurgo
 

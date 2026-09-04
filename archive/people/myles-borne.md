@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: myles-borne
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026)"
 tags: [myles-borne, identidad-consolidada, wwe-nxt-2026, campeon, primer-registro-individual]
@@ -47,6 +47,34 @@ tags: [myles-borne, identidad-consolidada, wwe-nxt-2026, campeon, primer-registr
 **Lectura sintética**: primer registro individual — validado como
 trabajador capaz, aunque el protagonismo editorial de la sesión
 recae en Saquon Shugars.
+
+### Sesión 2026-09-04 s60 — La noche en que pierde los dos títulos
+
+**Cita verbatim**:
+
+> *"hace tiempo Miles y Tavion no tenian stakes y oportunidad de luchar
+> así, estos heels son los que elevan el midcard [...] The Vanity
+> Project sabe en que herramientas invertir para ser innegables"*
+>
+> — El Vehemiurgo, 2026-09-04 s60 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El elogio es al ángulo, no directamente a él o a Heights**: el
+   Vehemiurgo valora que por fin tuvieran un reto con stakes reales —
+   sin saber, al dictarlo, que esos stakes se cobrarían dos veces en la
+   misma noche.
+2. **Research — la vuelta de tuerca cruel**: horas antes de perder el
+   Tag Team Championship (Hit It and Quit It de The Vanity Project,
+   14:07), **Myles Borne ya había perdido el NXT North American
+   Championship ante Jackson Drake** en el mismo show. **Cierra
+   Heatwave sin ninguno de los dos cinturones.**
+3. **Tensión sin confirmar**: coberturas especulan sobre un quiebre
+   con Tavion Heights tras el doble revés — sin confirmación on-record
+   de heel turn.
+
+**Pieza de la sesión**:
+[vs The Vanity Project, Tag Team Championship](../matches/2026-08-30-vanity-project-vs-borne-heights-tag-titles-nxt-heatwave.md) (ICC)
 
 ## Pendientes / huecos
 

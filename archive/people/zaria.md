@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: zaria
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Wikipedia — Zaria (wrestler)"
   - "Cobertura PWTorch / 411mania / TJR Wrestling — NXT 2024–2026"
@@ -109,6 +109,24 @@ sección 1.
 - **La complicación**: Armstrong la insulta, Stone booka **Zaria vs
   Armstrong**, y **si Armstrong gana, la unificación se vuelve triple
   threat**. *(El 25/8 Armstrong ganó y entró.)*
+
+### Sesión 2026-09-04 s60 — Campeona unificada — F-5 sobre Armstrong en el opener
+
+**Cita verbatim**:
+
+> *"el opener de Wren Sincalir vs Armstrong vs Zaria estuvo cool [...]
+> se merecen una WE y FS"*
+>
+> — El Vehemiurgo, 2026-09-04 s60 (verbatim, typos preservados)
+
+**Lectura sintética**: elogio de conjunto sin destinatario individual
+declarado. **Research**: entraba como **NXT Women's North American
+Champion**; gana con **F-5 sobre Kali Armstrong** tras eliminar a Wren
+del ring, y **unifica su título con el WWE Women's Speed Championship**
+de Sinclair.
+
+**Pieza de la sesión**:
+[vs Wren Sinclair y Kali Armstrong, unificación](../matches/2026-08-30-wren-sinclair-vs-kali-armstrong-vs-zaria-unificacion-nxt-heatwave.md) (FS·WE)
 
 ## Lectura consolidada del Vehemiurgo
 

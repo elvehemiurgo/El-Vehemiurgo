@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: wren-sinclair
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Sub-agente nqcc-charlie-dempsey-2026 (research/closed.md, dossier completo)"
   - "Wikipedia — Wren Sinclair, NWA World Women's Tag Team Championship"
@@ -178,6 +178,30 @@ y [`charlie-dempsey.md`](./charlie-dempsey.md).
 - **Va a la unificación de títulos en Heatwave**, que esa misma noche
   pasó a **triple threat** con Zaria y Kali Armstrong.
 - Ver [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
+### Sesión 2026-09-04 s60 — El elogio más alto: "puede ponerle stakes a cualquier lucha"
+
+**Cita verbatim**:
+
+> *"me encanta cuando Wren se pone stiff, ahi brilla muchisimo su
+> técnica, muy oldschool, ella puede ponerle stakes a cualquier lucha,
+> estuvo impresionante"*
+>
+> — El Vehemiurgo, 2026-09-04 s60 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El pico de confianza del archivo en ella**: *"puede ponerle
+   stakes a cualquier lucha"* es un enunciado de nivel de sistema, no
+   de un match puntual — distinto de la reserva técnica que el archivo
+   tenía registrada sobre su venta como babyface top en solitario
+   (s52, 26/7).
+2. **Research**: entraba como **WWE Women's Speed Champion**; **pierde
+   su título** en la lucha de unificación —eliminada por Kali Armstrong
+   antes del F-5 final de Zaria—.
+
+**Pieza de la sesión**:
+[vs Kali Armstrong y Zaria, unificación](../matches/2026-08-30-wren-sinclair-vs-kali-armstrong-vs-zaria-unificacion-nxt-heatwave.md) (FS·WE)
 
 ## Lectura consolidada del Vehemiurgo
 

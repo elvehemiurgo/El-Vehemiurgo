@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mike-santana
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #5 (caso testigo 'breakout tardío' THE FUTURE in 2026 — advertencia editorial)"
   - "Volcado Vehemiurgo 2026-06-17 #8 (tag partner Leon Slater, main event TNA presente)"
@@ -394,6 +394,35 @@ sobre callbacks específicos en el match. Ver
   el 18/8 (donde entró por la rampa) — **la lectura del Vehemiurgo no
   era errada de contenido, estaba adelantada una semana**.
 - Ver [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
+### Sesión 2026-09-04 s60 — Heatwave: la promo del underdog, y el título que se le escapa por Waller
+
+**Cita verbatim**:
+
+> *"Montana cortó una buena promo, no tan cool como la semana pasada,
+> pero cool babyface, se está convirtiendo un un esterteiner
+> importante, se ve muy badass, se merece una WE"*
+>
+> — El Vehemiurgo, 2026-09-04 s60 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Sigue el arco pieza por pieza**: compara explícitamente con el
+   Heatwave Summit del 25/8, donde ya había registrado *"está más over,
+   su gimmick funciona [...] el coaching está funcionando"*.
+2. **"Se está convirtiendo en un entertainer importante"** — verbo en
+   progresivo, trayectoria en desarrollo, no logro cerrado.
+3. **Research**: la promo lo construye como *"poor Puerto Rican kid
+   from the New York City projects with a dream"*, con el título como
+   algo *"suyo para tomar"*. **En el fatal four-way por el NXT
+   Championship que siguió, pareció ganarlo con un Spin the Block
+   sobre D'Angelo — pero Grayson Waller reingresó, lo golpeó con
+   Stunner y cubrió a D'Angelo para robarse el título.** El *"back
+   against the wall"* de la promo se cumplió literalmente, y no le
+   alcanzó.
+
+**Pieza de la sesión**:
+[promo pre-main event](../segments/2026-08-30-promo-cruz-montana-nxt-heatwave.md) (WE)
 
 ## Pendientes / huecos
 

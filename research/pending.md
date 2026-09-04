@@ -5,9 +5,10 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 ## Activas
 
-| ID | Alcance | Origen | Lanzada | Destino al volver |
-|---|---|---|---|---|
-| `nxt-heatwave-300826` | NXT Heatwave 30/8/2026 (Bert Ogden Arena, Edinburg, TX): opener femenino (Wren/Armstrong/Zaria), promo de Cruz Montana, NXT Tag Team Championship (Baylor & Smokes vs Borne & Heights) | [`../notebook/2026-08-01-s60-nxt-heatwave-300826.md`](../notebook/2026-08-01-s60-nxt-heatwave-300826.md) | 2026-09-04 (s60) | 3 fichas de match/segment + bloques de sesión en people |
+| _(vacío)_ | | | | | |
+
+> `nxt-heatwave-300826` cerrada e integrada el 2026-09-04 (s60) — ver
+> [`closed.md`](./closed.md).
 
 > `aaa-ola-de-calor-300826` cerrada e integrada el 2026-09-03 (s59) —
 > ver [`closed.md`](./closed.md).
