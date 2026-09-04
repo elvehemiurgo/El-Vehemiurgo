@@ -2,7 +2,7 @@
 segmento: "Promo video: Bron Breakker vs Oba Femi — la redención del ángulo"
 slug: "2026-08-31-promo-video-bron-breakker-vs-oba-femi-wwe-raw"
 tipo_segmento: "video package / promo de manager"
-protagonistas: ["Bron Breakker", "Oba Femi", "Paul Heyman", "Seth Rollins"]
+protagonistas: ["Bron Breakker", "Oba Femi", "Paul Heyman"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-08-31
@@ -74,21 +74,24 @@ Vehemiurgo compara explícitamente la volatilidad de Rollins con **"la
 Roca alterando planes y luego desapareciendo"** — memoria histórica
 citada como vara de comparación (CLAUDE.md eje 3).
 
+**Nota de precisión (ratificada por el Vehemiurgo, 2026-09-04)**:
+*"en el show 31/8 no aparece Rollins, solo lo menciono porque tiene
+que ver con mis puntos"*. **Rollins no estuvo físicamente en el
+episodio** — el balance sobre él es comentario editorial de contexto,
+disparado por el promo video de Heyman/Breaker/Femi, no descripción de
+una aparición. Se lo saca de `protagonistas`; el research que había
+dejado esto como contradicción sin resolver queda cerrado por
+declaración directa.
+
 ## Datos confirmados por research
 
 - **Confirmado**: Paul Heyman graba una promo backstage presentando
   **Bron Breakker vs Oba Femi** como *"el futuro de WWE"* de cara a
   **Sunday Night's Main Event**, diciendo que ninguno de los dos puede
   darse el lujo de perder.
-- **Estado de Rollins/The Vision, con contradicción de fuentes sin
-  resolver**: una búsqueda indica que Rollins y todo The Vision
-  estuvieron ausentes de este episodio; otra los describe presentes
-  promocionando el cruce Breakker/Femi. **No hay fuente primaria
-  fechada que lo cierre.**
 
 ## Pendientes
 
-- [ ] Resolver la presencia física de Rollins en este episodio.
 - [ ] Verbatim exacto de la promo de Heyman.
 
 ## Cross-links

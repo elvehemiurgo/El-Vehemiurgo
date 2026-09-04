@@ -143,16 +143,20 @@ comentario sobre el estado de un ángulo completo, no calificación de
 una pieza puntual. **Memoria histórica citada como vara de
 comparación** (CLAUDE.md eje 3): la volatilidad de Rollins se mide
 contra el patrón ya conocido de **The Rock** alterando planes y
-desapareciendo de la programación. **Research**: contradicción sin
-resolver sobre su presencia física en este episodio — una fuente lo da
-ausente, otra lo describe activo promocionando Breakker/Femi.
+desapareciendo de la programación.
+
+**Precisión del Vehemiurgo (2026-09-04)**: *"en el show 31/8 no
+aparece Rollins, solo lo menciono porque tiene que ver con mis
+puntos"*. **No estuvo físicamente en el episodio** — el balance es
+comentario editorial de contexto disparado por el promo video de
+Breakker/Femi, no descripción de una aparición. Cierra la
+contradicción que el research había dejado sin resolver.
 
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,
       pendiente catalogar en el archivo).
 - [ ] Finish/duración del match.
-- [ ] Resolver la presencia de Rollins en el episodio del 31/8/2026.
 
 ## Piezas del Vehemiurgo donde aparece
 
