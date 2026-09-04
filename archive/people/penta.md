@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: penta
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 23/3/2026)"
 tags: [penta, wwe, aaa, lucha-libre, primer-registro-individual]
@@ -284,6 +284,28 @@ bracket rumbo al Raw del 14/9/2026 en Ciudad de México.
 
 **Pieza de la sesión**:
 [main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC)
+
+### Sesión 2026-09-04 s61 — El careo generacional y la reserva más específica sobre su estilo
+
+**Cita verbatim**:
+
+> *"Penta vs Fenix estuvo increíble como se esperaba, muy real, Fénix
+> saca lo mejor de Penta [...] no es su mejor lucha, ni siquiera su
+> mejor lucha en Raw, y es porque su rival Penta está muy safe [...]
+> el careo generacional de Penta y Roman, de verdad fue épico"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: el techo del match lo pone su propio estilo
+—*"muy safe"*— frente a la barra altísima que Fénix impone. **Research**:
+gana la final del torneo No. 1 contendiente con Mexican Destroyer;
+enfrentará a Roman Reigns por el título mundial el 14/9 en Ciudad de
+México. El episodio cierra con un stare-down entre ambos, sin palabras
+ni contacto reportado.
+
+**Piezas de la sesión**:
+[vs Rey Fénix, final del torneo](../matches/2026-08-31-penta-vs-rey-fenix-wwe-raw.md) (ICC) ·
+[el careo de cierre con Roman Reigns](../segments/2026-08-31-careo-penta-roman-reigns-cierre-wwe-raw.md) (WE+)
 
 ## Pendientes / huecos
 

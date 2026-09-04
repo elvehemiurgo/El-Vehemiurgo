@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: bron-breakker
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (mención — WWE Raw, 20/4/2026)"
   - "Volcado Vehemiurgo 2026-07-14 s42, s46, s52 (Backlash 9/5, AEW Redemption 26/7, Raw 25/5)"
@@ -286,6 +286,27 @@ arbitra sin casarse con ninguno de los dos. Ver
   declarado basura; lo que se le concede es haber servido de
   contraste.
 - **Proyección declarada**: *"espero cada vez ocupe más espacio"*.
+
+### Sesión 2026-09-04 s61 — La redención del ángulo — de vuelta a la relevancia con Femi
+
+**Cita verbatim**:
+
+> *"el promo video de Breaker vs Femi estuvo genial, de verdad es la
+> redención de Breaker, el booking de esta rivalidad con toda la
+> psicología de Heyman y la frustración con The Vision, lograron
+> ordenarlo y presentarlo como algo relevante y muy cool"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: *"redención"* implica un estado previo dañado
+— el archivo ya tiene registrado el desastre de booking de The Vision
+bajo Seth Rollins; este video se lee como el punto en que Breakker
+sale de ese naufragio hacia algo con sentido propio. **Research**:
+Paul Heyman presenta el cruce como *"el futuro de WWE"* de cara a
+Sunday Night's Main Event.
+
+**Pieza de la sesión**:
+[promo video vs Oba Femi](../segments/2026-08-31-promo-video-bron-breakker-vs-oba-femi-wwe-raw.md) (WE)
 
 ## Pendientes / huecos
 

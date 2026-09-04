@@ -424,6 +424,38 @@ sobre callbacks específicos en el match. Ver
 **Pieza de la sesión**:
 [promo pre-main event](../segments/2026-08-30-promo-cruz-montana-nxt-heatwave.md) (WE)
 
+### Sesión 2026-09-04 s61 — El robo de Waller en el main event — y el cierre del caso doctrinal
+
+**Cita verbatim**:
+
+> *"es Montana al que están apoyando dándole credibilidad poco a poco
+> con ayuda de los comentaristas y es el que necesita la máquina detrás
+> ahora más que otros faces [...] Montana estuvo más prolijo que
+> nunca, se vio increíble"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Distinción precisa entre popularidad orgánica y credibilidad
+   construida**: a diferencia de Zilla Fatu (*"ya despegó con los
+   fans"*), Montana necesita *"la máquina detrás"* — producción
+   activa, no solo reacción del público.
+2. **Research**: parece ganar el NXT Championship con Spin the Block
+   sobre Tony D'Angelo, pero **Grayson Waller reingresa, lo golpea con
+   Stunner y cubre a D'Angelo para robar el título.** Pierde por
+   segunda vez consecutiva una oportunidad titular que parecía tener
+   ganada (ver también su promo pre-match, donde se vendía como el
+   "back against the wall").
+3. **El propio Vehemiurgo cierra, en el mismo volcado, el caso
+   doctrinal sobre él**: ver
+   [`../topics/doctrina-forzar-al-babyface-a-dar-lastima.md`](../topics/doctrina-forzar-al-babyface-a-dar-lastima.md) —
+   *"Montana logró levantar su acto cuando lo dejaron ser"*, citado
+   como precedente resuelto para diagnosticar el caso de Royce Keys.
+
+**Pieza de la sesión**:
+[main event, NXT Championship](../matches/2026-08-30-tony-dangelo-vs-cruz-montana-vs-grayson-waller-vs-zilla-fatu-nxt-championship-nxt-heatwave.md) (ICC)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

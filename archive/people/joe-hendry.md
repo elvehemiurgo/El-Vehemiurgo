@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: joe-hendry
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Wikipedia — Joe Hendry"
   - "Cobertura ITV World of Sport reboot, ICW, TNA / Impact (2021-2025), WWE NXT (2025-2026), WWE main roster (2026)"
@@ -107,6 +107,27 @@ take en match 8-man tag NXT TV 07 abr 2026.
   musical funciona cross-promotional. Hendry no es un acto WWE
   cerrado — es talent que cruza territorios respetando la
   liturgia de cada uno.
+
+### Sesión 2026-09-04 s61 — "Déjenlo ser badass así como Jevon o Cruz Montana" — el mandato de booking
+
+**Cita verbatim**:
+
+> *"es un gran setup para traer de regreso a Hendry, ahora puede ser
+> que lo dejen ser más y no lo limiten, déjenlo ser badass así como
+> Jevon o Cruz Montana, Joe Hendry como face fuerte sí es un buen
+> asset"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: tercera aplicación de la doctrina *"déjenlo
+ser"* en este mismo volcado (junto a Cruz Montana y, implícitamente,
+Royce Keys) — Hendry entra a esa lista **por recomendación explícita**
+del Vehemiurgo, no por logro ya consumado. **Research**: regresa como
+compañero de Jevon Evans en el tag reiniciado; recibe el cabezazo de
+JD McDonagh que decide el finish a favor de Dominik/McDonagh.
+
+**Pieza de la sesión**:
+[vs Dominik Mysterio y JD McDonagh](../matches/2026-08-31-jevon-evans-vs-dominik-mysterio-tag-hendry-mcdonagh-wwe-raw.md) (ICC)
 
 ## Lectura consolidada del Vehemiurgo
 

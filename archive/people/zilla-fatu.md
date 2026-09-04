@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: zilla-fatu
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026, debut)"
   - "Sub-agente nxt-110826 (research 2026-08-01)"
@@ -110,6 +110,39 @@ para el análisis completo.
   **todos tienen los ojos puestos en él y así le gusta**.
 - Ver [`../segments/2026-08-25-promo-video-zilla-fatu-nxt.md`](../segments/2026-08-25-promo-video-zilla-fatu-nxt.md)
   y [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
+### Sesión 2026-09-04 s61 — Despegó con los fans — y el segmento que provocó su mejor comeback
+
+**Cita verbatim**:
+
+> *"vimos que Zilla ya despegó con los fans y sus conexiones [...]
+> Zilla si se vió más indie con su ring positioning pero la
+> estipulación ayudó, y su near fall antes de que Waller jalara al
+> referee si se sintió emocionante"* (30/8, main event)
+>
+> *"Tristan sale a interrumpir [...] cosas de top heel poniéndose
+> personal contra Zilla, y de hecho provocó un gran comeback de Zilla"*
+> (1/9)
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Popularidad orgánica, distinguida de la de Montana**: *"ya despegó
+   con los fans"* sin necesitar el andamiaje de comentaristas.
+2. **La reserva sobre ring positioning, matizada por el formato**: un
+   four-way disculpa lo que un singles no perdonaría.
+3. **Research (30/8)**: conecta un flying Samoan Spike sobre D'Angelo
+   con near fall real —Waller saca al árbitro para romper el
+   conteo— antes de perder el título por el robo final de Waller.
+4. **Research (1/9)**: primer match de TV semanal de NXT. **Gana con
+   Samoan Spike corriendo (9:29)** tras la interrupción de Tristan
+   Angels, que atacó su linaje familiar. BirthRight intenta reclutarlo
+   post-match; no acepta.
+
+**Piezas de la sesión**:
+[main event, NXT Championship](../matches/2026-08-30-tony-dangelo-vs-cruz-montana-vs-grayson-waller-vs-zilla-fatu-nxt-championship-nxt-heatwave.md) (ICC) ·
+[vs Tristan Angels](../segments/2026-09-01-tristan-angels-vs-zilla-fatu-nxt.md) (WE+)
 
 ## Pendientes / huecos
 

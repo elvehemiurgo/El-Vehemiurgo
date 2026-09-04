@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-knight
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Wikipedia — LA Knight"
   - "El Vehemiurgo, notebook 2026-05-09 (mención editorial breve)"
@@ -138,6 +138,27 @@ oportunidad de los Wyatt Sicks):
 - **El match termina sin decisión** por la emboscada de Royce Keys y
   OTM.
 - Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — "Un main eventer total" — el elogio más alto sin reservas
+
+**Cita verbatim**:
+
+> *"puras frases top, una participación perfecta y personal, un main
+> eventer total, de verdad se está moviendo como estrella [...] buen
+> booking para darle una carrera por el título que llegue hasta
+> Wrestlemania"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: veredicto de escala máxima sin matices — poco
+frecuente en el archivo. El elogio no es solo al segmento, es a **la
+arquitectura de temporada larga** que lo contiene. **Research**:
+acusa a Roman Reigns de reciclar material viejo y lo llama *"One
+Tremendous Coward"*; Reigns lo golpea con un Superman Punch tras un
+video backstage de Solo Sikoa atacado.
+
+**Pieza de la sesión**:
+[interrumpe a Roman Reigns](../segments/2026-08-31-la-knight-interrumpe-roman-reigns-wwe-raw.md) (WE+)
 
 ## Lectura consolidada del Vehemiurgo
 

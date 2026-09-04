@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: roman-reigns
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster WrestleMania 42 + Bloodline arc"
   - "Múltiples retrospectivas WWE media + Pat McAfee Show"
@@ -329,4 +329,34 @@ de Knight. Ver
   luchar en TV, con el ganador del torneo WWE/AAA esperándolo en
   **CDMX el 14/9/2026**.
 - Ver [`../segments/2026-08-24-promo-video-apertura-bloodline-wwe-raw.md`](../segments/2026-08-24-promo-video-apertura-bloodline-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — Delega el problema de Royce Keys, y cierra el episodio frente a Penta
+
+**Cita verbatim**:
+
+> *"exponiendo toda la escena alrededor de su título, todos los odds
+> que enfrenta ahora mismo [...] esta es solo una nota sobre el
+> booking de Raw"* (segmento in-ring, sin clase)
+>
+> *"el careo generacional de Penta y Roman, de verdad fue épico, este
+> cierre de episodio se merece una WE+"* (cierre)
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El segmento central del episodio queda sin clase por decisión
+   explícita del propio Vehemiurgo** — lo declara nota de booking, no
+   pieza a calificar.
+2. **Delega la amenaza menor (Royce Keys) a Jacob Fatu** para
+   concentrarse en la mayor — gesto de campeón que administra
+   recursos, no que resuelve todo personalmente.
+3. **Research**: golpea a LA Knight por sorpresa con un Superman Punch
+   tras un intercambio de acusaciones; cierra el show en stare-down
+   con Penta, nuevo contendiente #1 rumbo al 14/9 en Ciudad de México.
+
+**Piezas de la sesión**:
+[el segmento in-ring](../segments/2026-08-31-roman-reigns-segmento-in-ring-royce-keys-jacob-fatu-wwe-raw.md) (sin clase) ·
+[LA Knight lo interrumpe](../segments/2026-08-31-la-knight-interrumpe-roman-reigns-wwe-raw.md) (WE+) ·
+[el careo de cierre con Penta](../segments/2026-08-31-careo-penta-roman-reigns-cierre-wwe-raw.md) (WE+)
 

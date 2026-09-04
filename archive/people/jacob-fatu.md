@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jacob-fatu
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Wikipedia — Jacob Fatu"
   - "Cobertura MLW (2018–2024) — múltiples MLW World Heavyweight Title runs"
@@ -121,6 +121,32 @@ sección 12 (clarificación posterior sobre los MFTs).
 - **Tensión sembrada, turn no ejecutado** — el archivo lo registra
   como descontento interno, no como quiebre.
 - Ver [`../segments/2026-08-24-jacob-fatu-usos-backstage-wwe-raw.md`](../segments/2026-08-24-jacob-fatu-usos-backstage-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — Desatado y personal: la promo sobre la mesa de comentaristas
+
+**Cita verbatim**:
+
+> *"deja a Jacob más conflictuado [...] Royce es el verdadero
+> problema"* (contexto del ataque y del segmento de Reigns)
+>
+> *"sigue siendo bloodline pero ahora es personal para él, lo tenemos
+> desatado y con rivales cool como para armar algo heavyweight
+> atractivo, se merece una WE por esto"* (promo en la mesa)
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: distinción entre marco de facción (constante) y
+motivación individual (activada por el agravio). **Research**: llega
+con un caño de metal a espantar a OTM tras el ataque a los Usos; se
+sube a la mesa de comentaristas y declara la guerra a Royce Keys —
+WWE le corta el micrófono por lenguaje explícito. Después, Roman
+Reigns le ordena *"manejar el problema de Royce Keys"*; Fatu responde
+enmarcando a Keys como amenaza mayor que él mismo.
+
+**Piezas de la sesión**:
+[OTM ataca a los Usos](../segments/2026-08-31-otm-ataca-los-usos-apertura-wwe-raw.md) (WE) ·
+[promo en la mesa de comentaristas](../segments/2026-08-31-promo-jacob-fatu-mesa-comentaristas-wwe-raw.md) (WE) ·
+[el segmento de Roman Reigns](../segments/2026-08-31-roman-reigns-segmento-in-ring-royce-keys-jacob-fatu-wwe-raw.md) (sin clase)
 
 ## Lectura consolidada del Vehemiurgo
 

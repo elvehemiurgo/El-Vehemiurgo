@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lucien-price
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026)"
   - "Sub-agente nxt-110826-pase2 (research 2026-08-01) — WebSearch; egress bloqueado en dirt sheets"
@@ -111,6 +111,22 @@ de singles.
   valga la pena escapar. *"Están viéndose muy bien"* es para los dos.
 - **Post-match**: lo ataca Birthright y **Bronco Nima hace la
   salvada**.
+
+### Sesión 2026-09-04 s61 — El chokeslam doble sobre Jimmy Uso, dentro del ataque de OTM
+
+**Cita verbatim**:
+
+> *"abrieron con OTM atacando a los Usos, buen brawl [...] además que
+> es buen booking para OTM"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim)
+
+**Lectura sintética**: elogio de conjunto al ataque de facción.
+**Research**: junto a Bronco Nima, aplica un doble chokeslam a Jimmy
+Uso contra el vidrio trasero del auto.
+
+**Pieza de la sesión**:
+[OTM ataca a los Usos](../segments/2026-08-31-otm-ataca-los-usos-apertura-wwe-raw.md) (WE)
 
 ## Pendientes / huecos
 

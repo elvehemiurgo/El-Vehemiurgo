@@ -13,6 +13,10 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-08-31 | Ethan Page vs Dragon Lee | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-31-ethan-page-vs-dragon-lee-wwe-raw.md) |
+| 2026-08-31 | Jevon Evans vs Dominik Mysterio — reiniciada como Jevon Evans & Joe Hendry vs Dominik Mysterio & JD McDonagh | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-31-jevon-evans-vs-dominik-mysterio-tag-hendry-mcdonagh-wwe-raw.md) |
+| 2026-08-31 | Penta vs Rey Fénix — final del torneo No. 1 contendiente al World Heavyweight Championship | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-31-penta-vs-rey-fenix-wwe-raw.md) |
+| 2026-08-31 | Raquel Rodríguez (c) vs Sol Ruca — WWE Women's Intercontinental Championship | WWE / Raw | FS·WE | FC | en-investigacion | 1 | [→](2026-08-31-raquel-rodriguez-vs-sol-ruca-ic-title-wwe-raw.md) |
 | 2026-08-30 | Brawling Birds vs Divine Dominion (c) — AEW Women's World Tag Team Championships | AEW / All In: London | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-brawling-birds-vs-divine-dominion-aew-all-in.md) |
 | 2026-08-30 | Casino Gauntlet masculino — MJF vs Andrade El Ídolo dentro del match | AEW / All In: London | WE | — | en-investigacion | 1 | [→](2026-08-30-casino-gauntlet-mjf-andrade-aew-all-in.md) |
 | 2026-08-30 | Kyle Fletcher (c) vs Konosuke Takeshita vs Kazuchika Okada — AEW International Championship | AEW / All In: London | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-fletcher-vs-takeshita-vs-okada-international-aew-all-in.md) |
@@ -22,7 +26,9 @@ con cada cambio de estado.
 | 2026-08-30 | La Parka vs Damián Priest vs El Fiscal vs Hijo de Dr. Wagner Jr. — AAA Latin American Championship (vacante) | AAA / Ola de Calor | FS·WE | FC | en-investigacion | 1 | [→](2026-08-30-la-parka-vs-priest-vs-fiscal-vs-wagner-latin-american-aaa-ola-de-calor.md) |
 | 2026-08-30 | Maya World (c) vs Persephone — AEW TBS Championship | AEW / All In: London | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-maya-world-vs-persephone-tbs-aew-all-in.md) |
 | 2026-08-30 | Mini Vikingo vs Nathan Frazer vs Jack Cartwheel | AAA / Ola de Calor | FS·WE | FC | en-investigacion | 1 | [→](2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md) |
+| 2026-08-30 | Myles Borne (c) vs Jackson Drake — NXT North American Championship | WWE / NXT Heatwave | FS·WE | FC | en-investigacion | 1 | [→](2026-08-30-myles-borne-vs-jackson-drake-north-american-nxt-heatwave.md) |
 | 2026-08-30 | Los Perros del Mal (Daga, Ángel Garza y Berto) vs Rey Fénix, Penta y Dragon Lee | AAA / Ola de Calor | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) |
+| 2026-08-30 | Tony D'Angelo (c) vs Cruz Montana vs Grayson Waller vs Zilla Fatu — NXT Championship | WWE / NXT Heatwave | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-tony-dangelo-vs-cruz-montana-vs-grayson-waller-vs-zilla-fatu-nxt-championship-nxt-heatwave.md) |
 | 2026-08-30 | Trios Roulette Royale — AEW World Trios Championships | AEW / All In: London | FS·WE | FC | en-investigacion | 1 | [→](2026-08-30-trios-roulette-royale-aew-all-in.md) |
 | 2026-08-30 | Brad Baylor y Ricky Smokes (The Vanity Project) vs Myles Borne y Tavion Heights (c) — NXT Tag Team Championship | WWE / NXT Heatwave | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-30-vanity-project-vs-borne-heights-tag-titles-nxt-heatwave.md) |
 | 2026-08-30 | Wren Sinclair vs Kali Armstrong vs Zaria — unificación NXT Women's North American y Speed Championships | WWE / NXT Heatwave | FS·WE | FC | en-investigacion | 1 | [→](2026-08-30-wren-sinclair-vs-kali-armstrong-vs-zaria-unificacion-nxt-heatwave.md) |

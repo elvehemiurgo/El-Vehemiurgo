@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jackson-drake
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3 y 21/4/2026)"
 tags: [jackson-drake, vanity-project, blake-monroe, wwe-nxt-2026, the-future-in-2026, primer-registro-individual]
@@ -163,6 +163,25 @@ y
   correas de Myles Borne el mismo domingo** — él por el North
   American, Baylor y Smokes por los tag titles.
 - Ver [`../segments/2026-08-25-vanity-project-pregrabado-nxt.md`](../segments/2026-08-25-vanity-project-pregrabado-nxt.md).
+
+### Sesión 2026-09-04 s61 — "No quiere ser un indie workhorse": la actitud que lo distingue
+
+**Cita verbatim**:
+
+> *"Drake si se está poniendo más y más oldschool, se nota que quiere
+> competir con MJF o con Cody, no quiere ser un idie workhorse ni anda
+> así, esa es la actitud"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: la ambición de escala —querer estar entre los
+main eventers— es en sí misma un dato de carácter para el Vehemiurgo,
+no solo ambición deportiva. **Research**: gana el NXT North American
+Championship con 450 Splash sobre Myles Borne, con interferencia de
+Myka Lockwood y Brad Baylor.
+
+**Pieza de la sesión**:
+[vs Myles Borne, North American Championship](../matches/2026-08-30-myles-borne-vs-jackson-drake-north-american-nxt-heatwave.md) (FS·WE)
 
 ## Pendientes / huecos
 

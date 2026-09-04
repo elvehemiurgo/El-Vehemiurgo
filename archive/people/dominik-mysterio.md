@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dominik-mysterio
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Wikipedia — Dominik Mysterio"
   - "Cobertura WWE 2020–2026 (debut, heel turn 2022 Judgment Day, run 2024–2026)"
@@ -161,6 +161,25 @@ sección 4.
 
 **Pieza de la sesión**:
 [firma de contrato](../segments/2026-08-30-firma-contrato-dominik-grande-omos-rey-aaa-ola-de-calor.md) (WE)
+
+### Sesión 2026-09-04 s61 — Cada vez más oldschool — la mezcla perfecta con Jevon Evans
+
+**Cita verbatim**:
+
+> *"con lo oldschool que se está poniendo Dominik, fue una mezcla
+> perfecta [...] JD y Dom son los rivales perfectos para cualquier
+> proyecto babyface"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim)
+
+**Lectura sintética**: registro de progresión de estilo — coherente
+con el elogio que el archivo le tiene documentado en AAA (s59) por el
+mismo atributo. **Research**: gana junto a JD McDonagh en el tag
+reiniciado, rematando con Frog Splash sobre Jevon Evans tras el
+cabezazo de McDonagh sobre Joe Hendry.
+
+**Pieza de la sesión**:
+[vs Jevon Evans, reiniciada como tag](../matches/2026-08-31-jevon-evans-vs-dominik-mysterio-tag-hendry-mcdonagh-wwe-raw.md) (ICC)
 
 ## Lectura consolidada del Vehemiurgo
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jd-mcdonagh
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Wikipedia — JD McDonagh"
   - "Insight with Chris Van Vliet — entrevista 13 mar 2025 (lesión pulmón perforado)"
@@ -119,6 +119,24 @@ sección 3.
 - **Cobra post-match** junto a Dominik Mysterio sobre Evans, tras la
   derrota de este ante Big Cass.
 - Ver [`../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md`](../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — El heel de Judgment Day que decide el finish con un cabezazo
+
+**Cita verbatim**:
+
+> *"JD y Dom son los rivales perfectos para cualquier proyecto
+> babyface"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim)
+
+**Lectura sintética**: Judgment Day valorado, otra vez en este mismo
+episodio (ver Raquel vs Sol Ruca), como la maquinaria heel que pule
+estrellas ajenas. **Research**: su interferencia sobre Jevon Evans
+provoca la descalificación que reinicia el match como tag; decide el
+finish cabeceando a Joe Hendry en el apron.
+
+**Pieza de la sesión**:
+[vs Jevon Evans y Joe Hendry](../matches/2026-08-31-jevon-evans-vs-dominik-mysterio-tag-hendry-mcdonagh-wwe-raw.md) (ICC)
 
 ## Lectura consolidada del Vehemiurgo
 

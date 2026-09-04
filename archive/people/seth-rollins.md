@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: seth-rollins
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE Backlash, 9/5/2026)"
   - "Mención previa: s39 (advertencia sobre enredo con Bron Breakker)"
@@ -128,11 +128,31 @@ documentado entre ellos es **WrestleMania 39 (2023)**, ganado por
 Rollins. La frase se registra como **juicio general**, no como
 referencia a un programa actual. `[referencia temporal sin resolver]`
 
+### Sesión 2026-09-04 s61 — El fiasco de The Vision — "como la Roca alterando planes y luego desapareciendo"
+
+**Cita verbatim**:
+
+> *"lo de Rollins es realmente un fiasco [...] ya parece la Roca
+> alterando planes y luego desapareciendo, espero que ya lo desplacen
+> de una vez [...] fue un suicidio de personaje en TV"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: balance duro de booking, sin clase asociada —
+comentario sobre el estado de un ángulo completo, no calificación de
+una pieza puntual. **Memoria histórica citada como vara de
+comparación** (CLAUDE.md eje 3): la volatilidad de Rollins se mide
+contra el patrón ya conocido de **The Rock** alterando planes y
+desapareciendo de la programación. **Research**: contradicción sin
+resolver sobre su presencia física en este episodio — una fuente lo da
+ausente, otra lo describe activo promocionando Breakker/Femi.
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,
       pendiente catalogar en el archivo).
 - [ ] Finish/duración del match.
+- [ ] Resolver la presencia de Rollins en el episodio del 31/8/2026.
 
 ## Piezas del Vehemiurgo donde aparece
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chad-gable
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s42 (visión directa — WWE Raw, 17/8/2026)"
   - "Sub-agente research-wwe-raw-170826-parte2 (research 2026-08-01, closed) — Wrestling Inc, PWTorch"
@@ -73,6 +73,23 @@ match fue *"everything I love about pro wrestling"*.
   Mysterio el 17/8/2026; ya había cruzado con Ethan Page en el
   gauntlet del 13/7.
 - Ver [`../segments/2026-08-24-ethan-page-chad-gable-backstage-wwe-raw.md`](../segments/2026-08-24-ethan-page-chad-gable-backstage-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — El face que puede dirigir a los fans
+
+**Cita verbatim**:
+
+> *"aquí de hecho Chad tiene buenos comebacks [...] Chad sí se ve como
+> un face que puede dirigir a los fans"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: atributo específico de babyface consolidado —
+liderazgo de multitud, no solo simpatía. **Research**: anuncia a
+Dragon Lee como su contendiente #1 al Intercontinental; frena el
+conteo cuando Ethan Page intenta capitalizar sucio contra Lee.
+
+**Pieza de la sesión**:
+[interrumpido por Ethan Page](../segments/2026-08-31-ethan-page-interrumpe-chad-gable-dragon-lee-wwe-raw.md) (WE)
 
 ## Pendientes / huecos
 

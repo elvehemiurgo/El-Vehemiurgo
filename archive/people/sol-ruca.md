@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: sol-ruca
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Wikipedia — Sol Ruca"
   - "Cagematch — Sol Ruca"
@@ -93,6 +93,39 @@ sección 1.
 [`zaria.md`](./zaria.md), [`liv-morgan.md`](./liv-morgan.md), y la
 discusión completa del arco en
 [`segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md).
+
+### Sesión 2026-09-04 s61 — La época de experimentar: el paralelo con Jeff Hardy y la crítica al protagonismo negado
+
+**Cita verbatim**:
+
+> *"me parece que estamos viendo la época de experimentar de Sol [...]
+> es como Jeff Hardy antes de que consolidara su acto de Hardy Boy [...]
+> solo que en la época de Jeff nadie estaba haciendo esos spots, solo
+> los mexicanos en los que WWE de por sí no confiaba para darles
+> protagonismo [...] creo que sí tiene intención de mejorar y sí tiene
+> promos sólidas a veces [...] sí está la psicología de querer vender
+> una súper Sol Ruca como babyface top en el futuro cercano"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El paralelo histórico más elaborado del corpus**: Jeff Hardy
+   pre-consolidación como espejo de una etapa de experimentación —con
+   una capa de crítica editorial explícita sobre a quién WWE le daba
+   protagonismo por estilo de trabajo en los 2000s (coherente con
+   CLAUDE.md §3, sin entrar al juicio in-ring; registrado tal cual, sin
+   adjudicar).
+2. **El límite estructural reconocido**: *"tiene que competir con
+   luchas de Fénix en el mismo show y obvio no va a poder hacer una
+   revolución ella sola"*.
+3. **Research**: pierde el IC Title por interferencia de Lyra Valkyria.
+   **Contradicción de timing sin resolver**: el Vehemiurgo ubica la
+   interrupción al inicio del match; las coberturas la ubican en el
+   tramo final, ligada al finish.
+
+**Pieza de la sesión**:
+[vs Raquel Rodríguez, IC Title](../matches/2026-08-31-raquel-rodriguez-vs-sol-ruca-ic-title-wwe-raw.md) (FS·WE)
 
 ## Lectura consolidada del Vehemiurgo
 

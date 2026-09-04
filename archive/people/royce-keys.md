@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: royce-keys
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s05 (4-way de SmackDown 12/6/2026 — 'peso muerto')"
   - "Volcado Vehemiurgo 2026-08-26 s50 (regreso con OTM — WWE Raw, 24/8/2026)"
@@ -112,6 +112,38 @@ de un match que el Vehemiurgo consideraba a un paso de lo perfecto.
   on-screen entre OTM/Keys y la facción**; leerlo como extensión de
   Perros del Mal sería inferencia editorial, no dato.
 - Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — El ataque a los Usos, y el fracaso del video de origen que la doctrina ya diagnosticó
+
+**Cita verbatim**:
+
+> *"Royce si le metió ganitas a su promo previa, me interesa"* (apertura)
+>
+> *"es una historia mucho más interesante y entretenida que Royce dando
+> lástima porque de niño era pobre, fue un fracaso tanto promo video,
+> igual que con Montana fracasaron forzándolo a dar lástima como niño
+> pobre de NY [...] lo mismo podría pasar con Royce"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Primer signo de enganche editorial**: *"me interesa"*, dicho antes
+   de la crítica de booking sobre su video de origen.
+2. **Caso #2 de la doctrina *"forzar al babyface a dar lástima"***
+   (ver [`../topics/doctrina-forzar-al-babyface-a-dar-lastima.md`](../topics/doctrina-forzar-al-babyface-a-dar-lastima.md)):
+   el video de su infancia en East Palo Alto (abril de 2026) queda
+   diagnosticado como fracaso, con el pronóstico de que el reencuadre
+   hacia la violencia/badassery —ya en marcha vía Jacob Fatu
+   nombrándolo *"el verdadero problema"*— podría repetir la
+   recuperación de Cruz Montana.
+3. **Research**: lidera el ataque de OTM contra los Usos rompiendo el
+   parabrisas de su auto con una palanca y sacando a Jey Uso
+   sangrando.
+
+**Piezas de la sesión**:
+[OTM ataca a los Usos](../segments/2026-08-31-otm-ataca-los-usos-apertura-wwe-raw.md) (WE) ·
+[el segmento de Roman Reigns](../segments/2026-08-31-roman-reigns-segmento-in-ring-royce-keys-jacob-fatu-wwe-raw.md) (sin clase)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: bronco-nima
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s12, s14, s15 (visión directa)"
 ---
@@ -108,6 +108,22 @@ on-screen entre OTM/Keys y la facción.
   ayudarlo, Daga le parte una silla, Karmen Petrovic remata con el
   Petrifyer— y **queda expulsado en el mismo segmento**. **Dos días
   después debuta en el main roster de WWE con OTM.**
+
+### Sesión 2026-09-04 s61 — El chokeslam doble sobre Jimmy Uso, dentro del ataque de OTM
+
+**Cita verbatim**:
+
+> *"abrieron con OTM atacando a los Usos, buen brawl [...] además que
+> es buen booking para OTM"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim)
+
+**Lectura sintética**: elogio de conjunto al ataque de facción.
+**Research**: junto a Lucien Price, aplica un doble chokeslam a Jimmy
+Uso contra el vidrio trasero del auto.
+
+**Pieza de la sesión**:
+[OTM ataca a los Usos](../segments/2026-08-31-otm-ataca-los-usos-apertura-wwe-raw.md) (WE)
 
 ## Pendientes / huecos
 

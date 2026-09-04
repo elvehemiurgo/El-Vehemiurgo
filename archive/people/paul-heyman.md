@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: paul-heyman
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
 tags: [paul-heyman, wwe-smackdown-2026, wrestling-entertainment, mic-work, primer-registro-individual]
@@ -70,6 +70,32 @@ Breakker en Sunday Night's Main Event (Atlanta) sin declarar favorito
 
 **Lectura sintética**: sin clase individual — la WE corresponde al
 segmento completo.
+
+### Sesión 2026-09-04 s61 — El manager que ordena el caos de Breakker — y el que perdió toda credibilidad con Rollins
+
+**Cita verbatim**:
+
+> *"toda la psicología de Heyman [...] lograron ordenarlo y presentarlo
+> como algo relevante"* (promo Breaker/Femi)
+>
+> *"toda esta idea incluso hizo que Heyman perdiera toda credibilidad,
+> error tras error como manager por aliarse con Rollins en vez de
+> elegir a Roman o Punk [...] hasta Lil Yachty tiene más credibilidad
+> como manager que Paul Heyman, así de desastroso fue el booking de The
+> Vision"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: dos registros opuestos en el mismo volcado —
+elogio de oficio cuando ordena el ángulo de Breakker/Femi, condena
+total cuando se lo mide contra la decisión de haberse aliado con
+Rollins en vez de Reigns o Punk. **El archivo registra las dos
+lecturas sin fusionarlas**: son juicios sobre piezas distintas del
+mismo hombre. **Sin clase asociada al balance sobre Rollins** — es
+comentario de booking, no calificación de una pieza.
+
+**Pieza de la sesión**:
+[promo video Breaker vs Femi](../segments/2026-08-31-promo-video-bron-breakker-vs-oba-femi-wwe-raw.md) (WE)
 
 ## Pendientes / huecos
 

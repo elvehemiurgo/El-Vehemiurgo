@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ethan-page
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Wikipedia — Ethan Page"
   - "Cobertura indie 2010s, Impact Wrestling, AEW (2020-2024), WWE NXT (2024-2026), WWE main roster (2026)"
@@ -113,6 +113,30 @@ exactamente lo de Ethan.
   marca que construirlo **no exigió devaluar a Gable**, que es el
   error habitual del promo de armado.
 - Ver [`../segments/2026-08-24-ethan-page-chad-gable-backstage-wwe-raw.md`](../segments/2026-08-24-ethan-page-chad-gable-backstage-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — Un main eventer en tránsito, y la lucha durísima con Dragon Lee
+
+**Cita verbatim**:
+
+> *"el protagonista es Ethan, se mueve como main eventer y es cuestión
+> de tiempo"* (interrupción)
+>
+> *"la lucha de Ethan vs Dragon sí estuvo durísima, se merecen las 3
+> clases, vendieron los stakes, era personal, muy buen selling, se
+> complementaron perfecto"* (match)
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: proyección de carrera explícita, sostenida por
+el resultado en el ring — **pierde el match, pero la clase reconoce el
+trabajo, no el resultado**. **Research**: cae ante Dragon Lee en 12:00
+(Operation Dragon), después de que Chad Gable frenara su intento de
+capitalizar contra un turnbuckle expuesto; cuestiona después que Gable
+*"hand-picked"* al rival.
+
+**Piezas de la sesión**:
+[interrumpe a Chad Gable y Dragon Lee](../segments/2026-08-31-ethan-page-interrumpe-chad-gable-dragon-lee-wwe-raw.md) (WE) ·
+[vs Dragon Lee](../matches/2026-08-31-ethan-page-vs-dragon-lee-wwe-raw.md) (ICC)
 
 ## Lectura consolidada del Vehemiurgo
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: oba-femi
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster NXT 2025-2026 + WM42 cluster"
   - "Wikipedia + WWE.com perfil"
@@ -237,4 +237,22 @@ segmento completo.
 - **El cierre físico**: cuando Austin Theory entra a ayudar a
   Breakker, **Femi lo powerbombea a través de la mesa de la firma**.
 - Ver [`../segments/2026-08-24-firma-contrato-oba-femi-bron-breakker-wwe-raw.md`](../segments/2026-08-24-firma-contrato-oba-femi-bron-breakker-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — El otro lado de "el futuro de WWE"
+
+**Cita verbatim**:
+
+> *"el promo video de Breaker vs Femi estuvo genial [...] es el mejor
+> uso posible del desastre de booking que Rollins hace cada año"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim)
+
+**Lectura sintética**: elogio de conjunto a la pieza, sin destinatario
+individual aislado más allá de compartir con Breakker el encuadre de
+*"futuro de la empresa"*. **Research**: Heyman insiste en que ninguno
+de los dos puede darse el lujo de perder de cara a Sunday Night's Main
+Event.
+
+**Pieza de la sesión**:
+[promo video vs Bron Breakker](../segments/2026-08-31-promo-video-bron-breakker-vs-oba-femi-wwe-raw.md) (WE)
 

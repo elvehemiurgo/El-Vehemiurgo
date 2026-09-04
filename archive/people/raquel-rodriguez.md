@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: raquel-rodriguez
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Wikipedia — Raquel Rodriguez"
   - "Cobertura WWE 2021–2026 (NXT, SmackDown, Raw, Judgment Day affiliation 2025–2026)"
@@ -147,6 +147,26 @@ para levantar la temperatura del segmento. El Vehemiurgo lo valida
 por eficacia ("recupera el heat"), que es exactamente la función
 de la herramienta. Ver
 [`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — Retiene el IC — la tarea de vender los spots de Ruca sin quedar parada como tonta
+
+**Cita verbatim**:
+
+> *"fue más tarea para Rodríguez vender los spots de Sol sin tener que
+> quedar parada como tonta esperando, y lo hicieron bien [...] el
+> Judgment Day es muy profesional para esto, podrían hacerla lucir
+> como estrella"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: el elogio es de oficio de selling, no de
+protagonismo — reconoce que el trabajo pesado de la lucha lo hizo ella
+haciendo lucir a la retadora. **Research**: retiene con Tejana Bomb,
+tras interferencia de Lyra Valkyria (distracción de Liv Morgan al
+árbitro).
+
+**Pieza de la sesión**:
+[vs Sol Ruca, IC Title](../matches/2026-08-31-raquel-rodriguez-vs-sol-ruca-ic-title-wwe-raw.md) (FS·WE)
 
 ## Lectura consolidada del Vehemiurgo
 

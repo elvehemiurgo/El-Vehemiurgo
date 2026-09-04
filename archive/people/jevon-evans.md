@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jevon-evans
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 23/3/2026)"
 tags: [jevon-evans, wwe-raw-2026, fighting-spirit, booking-lento-y-cuidadoso, psicologia-en-desarrollo, primer-registro-individual]
@@ -136,6 +136,25 @@ presente"* — describe y exige booking en la misma frase.
   Slater, Cruz Montana, La Catalina, La Hiedra y Vaquer.
 - Ver [`../matches/2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md`](../matches/2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md)
   y [`../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md`](../segments/2026-08-24-dominik-jd-rey-mysterio-salve-jevon-wwe-raw.md).
+
+### Sesión 2026-09-04 s61 — Construye una lucha real con sus spots — y la reinician como tag
+
+**Cita verbatim**:
+
+> *"Jevon sabe construir una lucha real con sus spots, y con lo
+> oldschool que se está poniendo Dominik, fue una mezcla perfecta"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim)
+
+**Lectura sintética**: el criterio de siempre — acrobacia al servicio
+de la física del combate. **Research**: el singles contra Dominik
+Mysterio termina en descalificación cuando JD McDonagh lo ataca; el GM
+Adam Pearce lo reinicia como tag (Evans y Joe Hendry vs Dominik y
+McDonagh). Pierde cuando McDonagh cabecea a Hendry en el apron y
+Dominik remata con Frog Splash sobre él.
+
+**Pieza de la sesión**:
+[vs Dominik Mysterio, reiniciada como tag](../matches/2026-08-31-jevon-evans-vs-dominik-mysterio-tag-hendry-mcdonagh-wwe-raw.md) (ICC)
 
 ## Pendientes / huecos
 

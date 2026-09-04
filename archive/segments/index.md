@@ -12,6 +12,14 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-09-01 | Zilla Fatu abre el show, Tristan Angels lo interrumpe con todo — y provoca el comeback | WWE / NXT | promo in-ring + interrupción heel + match | WE+ | — | en-investigacion | 1 | [→](2026-09-01-tristan-angels-vs-zilla-fatu-nxt.md) |
+| 2026-08-31 | El careo generacional: Penta y Roman Reigns cierran el episodio | WWE / Raw | cierre de show / stare-down | WE+ | — | en-investigacion | 1 | [→](2026-08-31-careo-penta-roman-reigns-cierre-wwe-raw.md) |
+| 2026-08-31 | Ethan Page interrumpe a Chad Gable y Dragon Lee — se arma la lucha por el IC contendiente | WWE / Raw | promo in-ring / interrupción | WE | — | en-investigacion | 1 | [→](2026-08-31-ethan-page-interrumpe-chad-gable-dragon-lee-wwe-raw.md) |
+| 2026-08-31 | LA Knight interrumpe a Roman Reigns — 'One Tremendous Coward' | WWE / Raw | promo in-ring / interrupción | WE+ | — | en-investigacion | 1 | [→](2026-08-31-la-knight-interrumpe-roman-reigns-wwe-raw.md) |
+| 2026-08-31 | Apertura: OTM emboscan a los Usos en el estacionamiento | WWE / Raw | ataque backstage / apertura del show | WE | — | en-investigacion | 1 | [→](2026-08-31-otm-ataca-los-usos-apertura-wwe-raw.md) |
+| 2026-08-31 | Jacob Fatu, sobre la mesa de comentaristas, declara la guerra a Royce Keys | WWE / Raw | promo in-ring / desde ringside | WE | — | en-investigacion | 1 | [→](2026-08-31-promo-jacob-fatu-mesa-comentaristas-wwe-raw.md) |
+| 2026-08-31 | Promo video: Bron Breakker vs Oba Femi — la redención del ángulo | WWE / Raw | video package / promo de manager | WE | — | en-investigacion | 1 | [→](2026-08-31-promo-video-bron-breakker-vs-oba-femi-wwe-raw.md) |
+| 2026-08-31 | Roman Reigns expone las amenazas a su título — ordena a Jacob Fatu manejar a Royce Keys | WWE / Raw | promo in-ring | — | — | en-investigacion | 1 | [→](2026-08-31-roman-reigns-segmento-in-ring-royce-keys-jacob-fatu-wwe-raw.md) |
 | 2026-08-30 | La entrada de Will Ospreay en Wembley — el video de su madre y el pasillo de los que lo hicieron | AEW / All In: London | video package + entrada | WE | — | en-investigacion | 1 | [→](2026-08-30-entrada-tributo-will-ospreay-aew-all-in.md) |
 | 2026-08-30 | Firma de contrato Dominik/El Grande Americano — Rey ataca a Omos, Dominik ataca a traición | AAA / Ola de Calor | firma de contrato / brawl | WE | — | en-investigacion | 1 | [→](2026-08-30-firma-contrato-dominik-grande-omos-rey-aaa-ola-de-calor.md) |
 | 2026-08-30 | El post-match del tag title: MCMG, FTR y The New Level frente a los campeones | AEW / All In: London | careo post-match / siembra de contendientes | WE+ | — | en-investigacion | 1 | [→](2026-08-30-post-match-mcmg-ftr-tag-titles-aew-all-in.md) |
@@ -19,6 +27,8 @@ cada alta y con cada cambio de estado.
 | 2026-08-30 | Buy In: The Dogs y The Demand se alían para el Trios Roulette Royale | AEW / All In: London | promo backstage / pacto de alianza | WE | — | en-investigacion | 1 | [→](2026-08-30-promo-dogs-demand-alianza-buy-in-aew-all-in.md) |
 | 2026-08-30 | Buy In: la promo de Persephone antes del TBS Title | AEW / All In: London | promo backstage (pre-show) | — | — | en-investigacion | 1 | [→](2026-08-30-promo-persephone-buy-in-aew-all-in.md) |
 | 2026-08-30 | La promo post-match de Persephone y Britt Baker — la alianza | AEW / All In: London | promo backstage post-match | — | — | en-investigacion | 1 | [→](2026-08-30-promo-post-match-persephone-britt-baker-aew-all-in.md) |
+| 2026-08-30 | Promo video de Kam Hendrix | WWE / NXT Heatwave | video package | WE | — | en-investigacion | 1 | [→](2026-08-30-promo-video-kam-hendrix-nxt-heatwave.md) |
+| 2026-08-30 | Promo video: Kendal Grey vs Kelani Jordan — NXT Women's Championship | WWE / NXT Heatwave | video package | WE | — | en-investigacion | 1 | [→](2026-08-30-promo-video-kendal-grey-vs-kelani-jordan-nxt-heatwave.md) |
 | 2026-08-30 | El regreso de Thekla en el Buy In — la Toxic Spider sobre la mesa de anuncios | AEW / All In: London | regreso / interrupción de panel | WE | — | en-investigacion | 1 | [→](2026-08-30-regreso-thekla-buy-in-aew-all-in.md) |
 | 2026-08-29 | La promo larga de Kevin Knight, la figura encapuchada y Don Callis reclutando a Steven Borden | AEW / Collision | promo in-ring + revelación + agresión | WE+ | — | en-investigacion | 1 | [→](2026-08-29-kevin-knight-steven-borden-don-callis-aew-collision.md) |
 | 2026-08-29 | Kyle Fletcher ataca a Takeshita post-match: 'I hate you!' | AEW / Collision | ataque post-match | WE | — | en-investigacion | 1 | [→](2026-08-29-kyle-fletcher-ataca-takeshita-post-match-aew-collision.md) |

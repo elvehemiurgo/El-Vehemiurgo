@@ -76,6 +76,26 @@ recae en Saquon Shugars.
 **Pieza de la sesión**:
 [vs The Vanity Project, Tag Team Championship](../matches/2026-08-30-vanity-project-vs-borne-heights-tag-titles-nxt-heatwave.md) (ICC)
 
+### Sesión 2026-09-04 s61 — Se estancó como campeón: "más preocupado de su atletismo que de aprender a ser oldschool"
+
+**Cita verbatim**:
+
+> *"Miles se estancó como campeón fase, no está al nivel de Montana o
+> Zilla, está más preocupado de su atletismo que de aprender a ser
+> oldschool"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: el reproche de *indie cosplay* en su forma más
+directa — talento físico sin comprensión de oficio, medido contra dos
+pares que sí lo entendieron (Montana, Zilla Fatu). **Research**: pierde
+el NXT North American Championship ante Jackson Drake (450 Splash, con
+interferencia de Myka Lockwood y Brad Baylor) — segundo título perdido
+esa misma noche, junto al de parejas.
+
+**Pieza de la sesión**:
+[vs Jackson Drake, North American Championship](../matches/2026-08-30-myles-borne-vs-jackson-drake-north-american-nxt-heatwave.md) (FS·WE)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kelani-jordan
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 31/3/2026)"
 tags: [kelani-jordan, wwe-nxt-2026, heel-turn, wrestling-entertainment, primer-registro-individual]
@@ -205,6 +205,40 @@ de Grayson Waller).
   que se vende como top de la marca, y agrupó su pretape con el de
   Zilla Fatu como lo mejor del show en promo.
 - Ver [`../segments/2026-08-25-promo-video-kelani-jordan-nxt.md`](../segments/2026-08-25-promo-video-kelani-jordan-nxt.md).
+
+### Sesión 2026-09-04 s61 — La coronación — cuatro etapas de carrera resumidas en una frase
+
+**Cita verbatim**:
+
+> *"Kelany consistentemente tiene muy buenas promos y le ha tocado
+> booking dificil, primero con TNA y siendo face rechazada del
+> lockeroom de nxt, luego el heelturn sin poder coronarse y ahora
+> convirtiendose en el one shot más afilada que nunca [...] me gustó
+> la velocidad y como Kelany está logrando traducir sus gimnastics con
+> violencia y creando buenas secuencias [...] Kelany si tiene evolución
+> como heel, usando esas nuevas herramientas, de verdad descubriendo el
+> oldschool"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El arco de carrera más completo que el archivo le ha dictado**:
+   TNA → face rechazada por el locker room → heel turn sin
+   coronarse → *"one shot más afilada que nunca"*.
+2. **"Traduciendo sus gimnastics con violencia"** — el mismo eje de
+   siempre (intención sobre acrobacia), aplicado a una atleta de
+   formación gimnástica que está aprendiendo a convertir movimiento en
+   physicalidad real.
+3. **Research**: gana el NXT Women's Championship en su primera
+   oportunidad titular en cuatro años en la empresa, explotando la
+   lesión kayfabe de Kendal Grey con un Split-Legged Moonsault — su
+   reinado previo como **TNA Knockouts World Champion** (sept-nov 2025)
+   incluyó el heel turn (golpeó a Jordynne Grace con el propio
+   cinturón para retener, sin haber ganado aún el de NXT).
+
+**Piezas de la sesión**:
+[promo video pre-match](../segments/2026-08-30-promo-video-kendal-grey-vs-kelani-jordan-nxt-heatwave.md) (WE)
 
 ## Pendientes / huecos
 

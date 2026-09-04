@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rey-fenix
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [rey-fenix, aaa, fighting-spirit, wrestling-entertainment, perfect-wrestling, heroe-fundamental-49, panteon, primer-registro-individual]
@@ -340,6 +340,27 @@ Cartwheel.
 **Piezas de la sesión**:
 [main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC) ·
 [three-way de Cruiserweight](../matches/2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md) (FS·WE)
+
+### Sesión 2026-09-04 s61 — El showcase más importante en TV — y la barra que él mismo puso tan alta
+
+**Cita verbatim**:
+
+> *"es el showcase más importante de Fénix hasta ahora en TV, pero no
+> es su mejor lucha [...] aunque sí se vió fake en su selling de las
+> cutters por ejemplo, siempre tuvo un problema con ese bump pero ahora
+> está muy soft con este estilo WWE, se nota más [...] solo que la
+> barra de luchas de Fénix está muy alta"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: un defecto viejo (el selling de las cutters),
+nombrado con precisión histórica, que el estilo de WWE expone más de
+lo habitual. **Se mide contra su propio expediente, no contra el resto
+de la cartelera** — patrón ya establecido en el archivo (AAA, s59) y
+confirmado acá en su plataforma más grande hasta la fecha.
+
+**Pieza de la sesión**:
+[vs Penta, final del torneo No. 1 contendiente](../matches/2026-08-31-penta-vs-rey-fenix-wwe-raw.md) (ICC)
 
 ## Pendientes / huecos
 

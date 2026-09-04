@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tristan-angels
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — WWE NXT, 18/8/2026)"
   - "Sub-agente research-wwe-nxt-180826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress"
@@ -65,6 +65,27 @@ con biografía propia detrás (la granja, el certamen). Cruza con
   falta ponerse más oldschool"*).
 - **La proyección**: *"podría convertirse en alguien realmente
   cautivante"* — condicional, no consagración.
+
+### Sesión 2026-09-04 s61 — Su oportunidad — el mejor trabajo de su carrera con el filo del linaje
+
+**Cita verbatim**:
+
+> *"Tristan sale a interrumpir y esta era su oportunidad, ataca con
+> todo en el micrófono, se mete con los fans, con la familia de Zilla,
+> salió afiladísimo, cosas de top heel poniéndose personal contra
+> Zilla"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: segundo registro individual sobre él, y el
+primero con filo real — ataca el linaje del Bloodline directamente
+(*"Gangrel Jr."*, *"nepo baby"*), coherente con el gimmick aristocrático
+calcado de Hunter Hearst Helmsley que el archivo ya tenía documentado
+desde s51. **Research**: pierde el match resultante (Samoan Spike
+corriendo de Fatu, 9:29), sangrando en el proceso.
+
+**Pieza de la sesión**:
+[vs Zilla Fatu](../segments/2026-09-01-tristan-angels-vs-zilla-fatu-nxt.md) (WE+)
 
 ## Pendientes / huecos
 

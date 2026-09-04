@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dragon-lee
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + WM42 cluster"
   - "Cagematch + AAA media + NJPW retrospectivas"
@@ -222,4 +222,23 @@ Perros del Mal.
 
 **Pieza de la sesión**:
 [main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC)
+
+### Sesión 2026-09-04 s61 — Spots locos de forma prolija — consagrándose showcase a showcase
+
+**Cita verbatim**:
+
+> *"Dragon Lee sigue poniendo spots locos de forma prolija y se merece
+> este tipo de showcase y rivales en TV para consagrarse poco a poco
+> como performer"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim)
+
+**Lectura sintética**: riesgo físico ejecutado con control — la
+fórmula exacta que el archivo premia, con registro explícito de
+trayectoria en construcción, no de techo alcanzado. **Research**: gana
+el contendiente #1 al Intercontinental ante Ethan Page con Operation
+Dragon, 12:00; defensa pactada para el Raw de Ciudad de México (14/9).
+
+**Pieza de la sesión**:
+[vs Ethan Page](../matches/2026-08-31-ethan-page-vs-dragon-lee-wwe-raw.md) (ICC)
 

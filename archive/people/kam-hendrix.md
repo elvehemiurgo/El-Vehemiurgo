@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kam-hendrix
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s49 (visión directa — WWE NXT, 19/5/2026)"
 tags: [kam-hendrix, wwe-nxt-2026, rookie, camada-nueva, primer-registro-individual]
@@ -100,6 +100,26 @@ seguridad los separa.
   perfecta"* — tres minutos y medio para dos talentos verdes es la
   decisión correcta.
 - Ver [`../matches/2026-08-25-kam-hendrix-vs-keanu-carver-nxt.md`](../matches/2026-08-25-kam-hendrix-vs-keanu-carver-nxt.md).
+
+### Sesión 2026-09-04 s61 — El que le pone stakes a su propia lucha sin stakes
+
+**Cita verbatim**:
+
+> *"literal su lucha no tiene stakes, pero él le pone los stakes con su
+> promo, haciendo que se trate de él, vendiéndote su historia y porque
+> debes ver su lucha, está realmente preocupado de venderse como real"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim, typos preservados)
+
+**Lectura sintética**: autogestión narrativa pura — genera su propio
+material en vez de esperar que el booking se lo dé, la misma tesis que
+el Vehemiurgo aplicaría en este volcado a The Vanity Project y a Cruz
+Montana. **Research**: promo de build contra Mason Rook, calificándolo
+de *"unhealthy"* en su obsesión y posicionándose como el que debería
+ser campeón.
+
+**Pieza de la sesión**:
+[promo video](../segments/2026-08-30-promo-video-kam-hendrix-nxt-heatwave.md) (WE)
 
 ## Pendientes / huecos
 

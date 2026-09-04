@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tony-dangelo
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-04
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, 12/5/2026)"
   - "Menciones previas: 8-man tag NXT 7/4/2026, fatal 4-way Stand & Deliver 4/4/2026"
@@ -122,6 +122,23 @@ como #1 contender para el 11/8, con el ganador retándolo en Heatwave.
   que termina esta noche tirado en el ring mientras Zilla Fatu posa
   con su cinturón.
 - Ver [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
+### Sesión 2026-09-04 s61 — El campeón que cierra su reinado en el robo de Waller
+
+**Cita verbatim**:
+
+> *"empieza muy bien con Grayson desordenando todo como siempre [...]
+> se ayudaron mutuamente a no exponerse"*
+>
+> — El Vehemiurgo, 2026-09-04 s61 (verbatim)
+
+**Lectura sintética**: elogio de conjunto al main event, sin
+destinatario individual más allá de su rol de campeón saliente.
+**Research**: pierde el NXT Championship — Waller lo cubre a él, no a
+Montana, tras robar el pin con un Stunner sobre Montana.
+
+**Pieza de la sesión**:
+[main event, NXT Championship](../matches/2026-08-30-tony-dangelo-vs-cruz-montana-vs-grayson-waller-vs-zilla-fatu-nxt-championship-nxt-heatwave.md) (ICC)
 
 ## Pendientes / huecos
 
