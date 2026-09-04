@@ -5,7 +5,10 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 ## Activas
 
-| _(vacío)_ | | | | | |
+| ID | Alcance | Origen | Lanzada | Destino al volver |
+|---|---|---|---|---|
+| `nxt-heatwave-300826-cont-nxt-010926` | Cuatro piezas restantes de NXT Heatwave 30/8 (promo Kendal/Kelani, Borne vs Drake, promo Kam Hendrix, main event completo) + NXT 1/9 (Zilla/Tristan) | [`../notebook/2026-08-01-s61-nxt-heatwave-300826-cont-raw-310826-nxt-010926.md`](../notebook/2026-08-01-s61-nxt-heatwave-300826-cont-raw-310826-nxt-010926.md) | 2026-09-04 (s61) | 5 fichas de match/segment + bloques de sesión en people |
+| `wwe-raw-310826` | WWE Raw 31/8/2026 completo — 10 piezas (OTM/Usos, Jacob Fatu promo, Raquel vs Sol Ruca, Ethan/Chad/Dragon, Ethan vs Dragon, Roman segmento, LA Knight, Jevon vs Dominik+Hendry/McDonagh, Breaker/Femi, Penta vs Fénix, careo Penta/Roman) | [`../notebook/2026-08-01-s61-nxt-heatwave-300826-cont-raw-310826-nxt-010926.md`](../notebook/2026-08-01-s61-nxt-heatwave-300826-cont-raw-310826-nxt-010926.md) | 2026-09-04 (s61) | 11 fichas de match/segment + bloques de sesión en people |
 
 > `nxt-heatwave-300826` cerrada e integrada el 2026-09-04 (s60) — ver
 > [`closed.md`](./closed.md).
