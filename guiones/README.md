@@ -26,6 +26,16 @@ editorial con el backup completo del archivo.
 
 ## Reglas
 
+- **Formato de show (ley del Vehemiurgo, 2026-09-04)**: cada vez
+  que se menciona un show se escribe
+  **`YYYY MM DD Nombre del Show`** — por ejemplo
+  `2026 08 31 WWE Raw`, `2026 08 30 NXT Heatwave`,
+  `2026 08 25 WWE NXT`. Aplica en todo el guion: cruda, memoria,
+  data, guion afilado y tablas de timestamps. **La fecha es la del
+  show, nunca la de captura del volcado** (precedente: la primera
+  crítica a Cruz Montana se capturó el 2026-08-01 pero el show es
+  `2026 08 04 WWE NXT`). Si el día exacto no está confirmado, se
+  escribe `YYYY MM [día no confirmado] Nombre del Show`.
 - La opinión es del Vehemiurgo; la data la afila, nunca la
   reemplaza ni la corrige (si la data contradice el recuerdo, se
   declara la discrepancia, como en el archivo).
