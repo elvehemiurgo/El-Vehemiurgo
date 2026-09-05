@@ -1,21 +1,3 @@
-# Las Clases del Vehemiurgo
-
-Sistema editorial propio del Vehemiurgo para clasificar matches y
-segmentos memorables de su lista personal. **No es un sistema de
-estrellas**. La escuela Meltzer / WON usa estrellas porque mide
-*match-as-art independiente del draw* — es la escuela editorial
-opuesta del proyecto. Ver
-[`CLAUDE.md`](../CLAUDE.md) §5 sobre la jerarquía Cornette-school
-en este proyecto.
-
-Las clases del Vehemiurgo miden **qué tipo de oficio se cumple
-bien** en un match o segmento. Es categoría doctrinal, no
-calificación numérica.
-
-> "Quiero implementar un sistema de rank, pero no de estrellas ni
-> eso, sino de clases de luchas o segmentos memorables que pongo en
-> mi lista." — El Vehemiurgo, 2026-05-09.
-
 ---
 
 ## Las tres clases
@@ -220,6 +202,9 @@ bloque el 2026-08-01. Doctrina completa en
 
 ---
 
+> **Resumen operativo autocontenido**: [`handoff-sistema-de-clases.md`](./handoff-sistema-de-clases.md) — clases, coronas, reglas, schema, triggers, historial de leyes y checklist de auditoría en un solo archivo. Este documento es la doctrina larga; aquel es el handoff.
+
+
 ## Multi-clasificación
 
 **Decisión editorial del Vehemiurgo (2026-05-09)**: una entrada
@@ -301,6 +286,48 @@ Las dos quedaron cerradas por declaración explícita del Vehemiurgo:
    WE+"*. **La sospecha del archivo era correcta: la pieza fue el
    disparador de la clase y ahora la lleva.** Ficha actualizada:
    [`../archive/segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md`](../archive/segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md).
+
+---
+
+### Pregunta abierta — *"la corona más un PERFECT"* (2026-09-05, s62)
+
+**Declaración del Vehemiurgo**, sobre Roode & Aries vs Chavo &
+Hernandez (2013 02 07 TNA Impact Wrestling), verbatim:
+
+> *"se merece las 3 clases, top tier wrestling [...] es un clásico
+> instantaneo; pero a este démosle la corona más un PERFECT, esta es la
+> definición de wrestling"*
+
+**Lo declarado**: la pieza lleva las tres clases (→ Instant Classic
+Crown, derivada) **y además** una distinción llamada **PERFECT**, por
+encima de la corona.
+
+**Lo que el archivo NO resuelve solo — tres preguntas**:
+
+1. **¿Marcador sobre una corona, o corona nueva?** *"La corona **más**
+   un PERFECT"* suena a adición. Lectura operativa provisional: **es
+   una distinción que se suma a la corona, no la reemplaza.**
+2. **¿Solo sobre ICC, o sobre cualquier corona?** ¿Puede existir un
+   Feeling Crown + PERFECT? Sin declaración, **no se asume**.
+3. **¿Cómo se almacena?** Y esto es estructural: **las coronas se
+   derivan de `clases_vehemiurgo` y nunca se escriben**. PERFECT **no
+   puede derivarse** — dos piezas con las mismas tres clases reciben
+   distinta distinción (Chavo vs Aries del 31/1 es ICC sin PERFECT;
+   este tag es ICC con PERFECT). **Sería la primera marca del sistema
+   que necesariamente vive declarada en frontmatter**, no calculada.
+   Eso la hace de otra naturaleza que FC/ICC/FC+/ICC+.
+
+**Estado hasta ratificación**: la declaración vive en la ficha del
+match (blockquote-lead, `calificacion_vehemiurgo`, tag
+`perfect-declarado`). **No se toca `bin/archivo_lib.py`, no se agrega
+columna a los índices, no se crea campo de frontmatter.** Cuando el
+Vehemiurgo fije la mecánica, se implementa de una vez.
+
+**Nota terminológica**: el glosario ya usa *"Perfect Match"*
+informalmente como sinónimo de *pieza con Perfect Wrestling Class*.
+**PERFECT como distinción sobre la ICC es otra cosa** — la ICC ya
+incluye Perfect Wrestling por definición, así que el marcador nuevo no
+puede referirse a eso.
 
 ---
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jaida-parker
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 31/3/2026)"
 tags: [jaida-parker, wwe-nxt-2026, identidad-consolidada, primer-registro-individual]
@@ -85,6 +85,26 @@ senton final de Hail.
 
 **Lectura sintética**: **WE** para el match completo (elogio de
 conjunto, no comentado individualmente por el Vehemiurgo).
+
+### Sesión 2026-09-05 s62 — "Que es mid" — la retadora que el Vehemiurgo no compra
+
+**Cita verbatim**:
+
+> *"ojalá tuviera mejores rivales, pero la haran trabajar con Parker
+> que es mid"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: fallo directo — *"mid"* — sobre su nivel como
+retadora de Kelani Jordan. **Research**: interrumpió la promo de la
+campeona reclamando el título (ya la venció la última vez, quiere
+*"run it back"*), con el aval de haber ganado el Submission Match ante
+Nattie en Heatwave. **Kelani Jordan vs Jaida Parker, primera defensa,
+pactada para 2026 09 08 WWE NXT.** El archivo ya tiene dos matches
+entre ambas (31/3 y 14/4/2026).
+
+**Pieza de la sesión**:
+[interrumpe a Kelani Jordan](../segments/2026-09-01-promo-kelani-jordan-campeona-jaida-parker-nxt.md) (WE — a Kelani)
 
 ## Pendientes / huecos
 

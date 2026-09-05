@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: saquon-shugars
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Wikipedia — Saquon Shugars"
   - "Cobertura WWE NXT 2025-2026"
@@ -213,6 +213,27 @@ IG / TikTok / podcast del propio talent. Saquon Shugars como caso
   puso por encima de la silla** — el reproche es que **la venta no
   cobró ese diseño**.
 - Ver [`../matches/2026-08-25-saquon-shugars-vs-dion-lennox-weaponized-cage-nxt.md`](../matches/2026-08-25-saquon-shugars-vs-dion-lennox-weaponized-cage-nxt.md).
+
+### Sesión 2026-09-05 s62 — Entra a la escena del título — "rattle his dome"
+
+**Cita verbatim**:
+
+> *"ahora agreagan a Saquon a la mezcla, entra fuerte con una buena
+> promo, junto con Montana son faces muy cool listos para dar
+> enterteinment y que los consideren en el main event"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: **#2 de THE FUTURE, ya en la conversación del
+main event** — *"listos para dar entertainment y que los consideren"*.
+**Research**: fue el **primero en interrumpir** a Waller — le iba a
+*"rattle [Waller's] dome"*; Waller no lo tomó en serio (*"wearing half
+a shirt"*). **Pactado para 2026 09 08 WWE NXT**: Mason Rook, Tony
+D'Angelo & Saquon Shugars vs EK Prosper, Keanu Carver & Cruz Montana;
+el equipo ganador va a triple threat el 15/9 por el #1 contender.
+
+**Pieza de la sesión**:
+[interrumpe a Waller](../segments/2026-09-01-promo-grayson-waller-campeon-saquon-shugars-nxt.md) (**WE+**)
 
 ## Lectura consolidada del Vehemiurgo
 

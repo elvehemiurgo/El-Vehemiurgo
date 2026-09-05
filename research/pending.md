@@ -5,7 +5,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 ## Activas
 
-| _(vacío)_ | | | | | |
+| ID | Alcance | Origen | Lanzada | Destino al volver |
+|---|---|---|---|---|
+| _(vacío — `wwe-nxt-010926` y `tna-impact-070213` cerradas el 2026-09-05, ver [`closed.md`](./closed.md))_ | | | | |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).

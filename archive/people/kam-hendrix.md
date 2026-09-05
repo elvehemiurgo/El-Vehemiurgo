@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kam-hendrix
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s49 (visión directa — WWE NXT, 19/5/2026)"
 tags: [kam-hendrix, wwe-nxt-2026, rookie, camada-nueva, primer-registro-individual]
@@ -120,6 +120,26 @@ ser campeón.
 
 **Pieza de la sesión**:
 [promo video](../segments/2026-08-30-promo-video-kam-hendrix-nxt-heatwave.md) (WE)
+
+### Sesión 2026-09-05 s62 — Pierde ante Rook — pero "buen booking como nuevo en la escena"
+
+**Cita verbatim**:
+
+> *"Kam quiere ser el enterteiner, quiere segmentos grandes, y puso
+> buenos stakes para esta lucha [...] buen booking de Kam como nuevo
+> en la escena"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: continuación exacta del atributo de s61
+(*"le pone los stakes con su promo"*) — autogestión narrativa, dos
+sesiones seguidas. **Research**: **pierde** ante Mason Rook (Rookus,
+4:34) — expuso un turnbuckle y Rook lo estrelló contra él. Era
+revancha del 11/8 donde Hendrix *"robó"* la victoria. **El Vehemiurgo
+dio las tres clases a la lucha sin declarar ganador.**
+
+**Pieza de la sesión**:
+[vs Mason Rook](../matches/2026-09-01-kam-hendrix-vs-mason-rook-nxt.md) (ICC)
 
 ## Pendientes / huecos
 

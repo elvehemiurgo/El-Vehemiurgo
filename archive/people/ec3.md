@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ec3
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s40 (vision directa - TNA Rebellion, 11/4/2026)"
   - "Sub-agente research-tna-impact-090426-rebellion-110426 (research 2026-08-01, closed) - Wikipedia, Cageside Seats, Last Word on Pro Wrestling"
@@ -122,6 +122,23 @@ silla del ataque del 16/4 como prop, enmarca el regreso como "trial by
 combat" y anuncia el "Act 3 starring EC3". Continuidad de la doctrina
 del gimmick reconstruido en su contexto (s40). Ver
 [`../segments/2026-04-23-ec3-promo-trial-by-combat-tna-impact.md`](../segments/2026-04-23-ec3-promo-trial-by-combat-tna-impact.md).
+
+### Sesión 2026-09-05 s62 — Nombrado como la solución al vacío de Aces & Eights
+
+**Cita verbatim**:
+
+> *"tuvieron que introducir a Magnus e EC3 después como nuevos heels y
+> fueron 100 veces más efectivos que cualquier idea de Bischoff"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: junto a Magnus, **el heel que TNA introdujo
+después de que ningún Aces & Eights original estuviera over** — y que
+el Vehemiurgo declara *"100 veces más efectivo"* que la era
+Bischoff/Hogan. Registro por mención dentro del balance de A&8s.
+
+**Pieza de la sesión**:
+[Bully & Sting vs Devon & DOC — el balance](../matches/2013-02-07-bully-ray-sting-vs-devon-doc-tables-tna-impact.md) (ICC)
 
 ## Pendientes / huecos
 

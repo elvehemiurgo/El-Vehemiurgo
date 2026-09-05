@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mike-santana
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #5 (caso testigo 'breakout tardío' THE FUTURE in 2026 — advertencia editorial)"
   - "Volcado Vehemiurgo 2026-06-17 #8 (tag partner Leon Slater, main event TNA presente)"
@@ -455,6 +455,25 @@ sobre callbacks específicos en el match. Ver
 
 **Pieza de la sesión**:
 [main event, NXT Championship](../matches/2026-08-30-tony-dangelo-vs-cruz-montana-vs-grayson-waller-vs-zilla-fatu-nxt-championship-nxt-heatwave.md) (ICC)
+
+### Sesión 2026-09-05 s62 — "Waller didn't beat me" — segundo en la fila
+
+**Cita verbatim**:
+
+> *"junto con Montana son faces muy cool listos para dar enterteinment
+> y que los consideren en el main event"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: mención de conjunto con Saquon Shugars —
+**los dos faces que el Vehemiurgo considera listos para el main
+event**. **Research**: segundo en interrumpir a Waller — *"Waller
+didn't beat me three weeks ago nor at Heatwave"* (lectura literal del
+robo del pin del 30/8). **Pactado para el 8/9** en el six-man por el
+camino al #1 contender.
+
+**Pieza de la sesión**:
+[en la fila de retadores de Waller](../segments/2026-09-01-promo-grayson-waller-campeon-saquon-shugars-nxt.md) (**WE+**)
 
 ## Pendientes / huecos
 

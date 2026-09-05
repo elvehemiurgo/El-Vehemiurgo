@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: aj-styles
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Notebook del Vehemiurgo sec. 9 'AJ Styles arc completo (indie a WWE)'"
   - "Dossier TNA 2007 Christian Coalition era"
@@ -158,6 +158,38 @@ AJ como **worker arquetipo carny** dentro del Christian
 Coalition (4 arquetipos: líder Christian + muscle Tomko +
 worker AJ + monster Scott Steiner). **Pieza editorial sobre
 faction multiplicadora** documentada en dossier.
+
+### Sesión 2026-09-05 s62 — El video de la ausencia — y la lectura del Vehemiurgo sobre el contrato
+
+**Cita verbatim**:
+
+> *"un promo video sobre AJ Styles y su rivalidad con Daniels, fue
+> genial, aunque el ángulo de la amante de AJ y eso fue muy estupido y
+> restó mucho, las luchas fueron épicas, en esta etapa estaban en plena
+> negociación con AJ y Dixie tomando las peores desiciones posibles
+> [...] este promo video se merece una WE porque documenta esta etapa
+> de tensión con AJ fuera de TV"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **La clase es de documento**: *"porque documenta esta etapa"* — el
+   historiador califica un video por su valor de archivo.
+2. **Claire Lynch (2012), nombrado por primera vez en el archivo** como
+   *"el ángulo de la amante"*: *"muy estúpido y restó mucho"*. Kurt
+   Angle on-record (2022): *"una de las peores storylines de TNA"*.
+3. **Research, con matiz**: la ausencia de enero–febrero 2013 está
+   **documentada como storyline** (fin del feud con Daniels + "última
+   chance" perdida en diciembre); **la negociación contractual
+   documentada es de agosto–diciembre de 2013** (contrato expirado,
+   handshake deal, pedido de recorte del 60%, salida el 16/12). **La
+   lectura del Vehemiurgo de que la ausencia de febrero era contractual
+   queda como su hipótesis, sin adjudicar.** Regresó a TV el 14/3/2013
+   en Chicago.
+
+**Pieza de la sesión**:
+[promo video AJ/Daniels](../segments/2013-02-07-promo-video-aj-styles-daniels-tna-impact.md) (WE)
 
 ## Lectura consolidada del Vehemiurgo
 

@@ -4,7 +4,7 @@ slug: runner-ups
 tipo: topic
 categoria: lista-oficial
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-09 s01 (propuesta + casos fundantes)"
   - "Volcado Vehemiurgo 2026-07-11 (bautizo + primera alta formal: Dani Luna)"
@@ -186,6 +186,31 @@ enfría, queda el registro de por qué no.
   Calor 30/8/2026 (empate a límite de tiempo).
   [→](../people/jack-cartwheel.md) ·
   [`../matches/2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md`](../matches/2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md)
+
+### #12 — Tristan Angels *(declarado 2026-09-05 s62)*
+
+> *"Tristan se ve muy cool, se ve que quiere ser el heel de tv
+> imperdible, esta lucha se merece las 3 clases, pongamos a tristan en
+> la lista de los que se ganaron mi corazon, muy buena ejecución, este
+> tipo es un pro"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+- **Empresa**: WWE NXT.
+- **Por qué entra**: fórmula de bautizo exacta de la lista, dicha sobre
+  una lucha que **pierde**. El elogio es de oficio —*"este tipo es un
+  pro"*— y de intención —*"quiere ser el heel de TV imperdible"*—. El
+  archivo lo tenía registrado desde s51 con el gimmick aristocrático
+  calcado de Hunter Hearst Helmsley (según Kevin Owens on-record) y en
+  s61 como el que convirtió una apertura floja en WE+.
+- **El antes y el después, en la misma frase**: *"tenían a Tristan
+  haciendo tonteras y aquí pudo lucirse"*. Entra a la lista la noche
+  en que el booking lo dejó ser.
+- **Match anchor**: vs Zilla Fatu, **2026 09 01 WWE NXT** — triple
+  clase, derrota por Samoan Spike corriendo (9:29) — en una lucha donde
+  el que sangró fue Fatu, no él.
+  [→](../people/tristan-angels.md) ·
+  [`../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md`](../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md)
 
 ## Pendientes
 

@@ -1,7 +1,7 @@
 ---
-segmento: "Zilla Fatu abre el show, Tristan Angels lo interrumpe con todo — y provoca el comeback"
+segmento: "Zilla Fatu abre el show, Tristan Angels lo interrumpe con todo"
 slug: "2026-09-01-tristan-angels-vs-zilla-fatu-nxt"
-tipo_segmento: "promo in-ring + interrupción heel + match"
+tipo_segmento: "promo in-ring + interrupción heel"
 protagonistas: ["Zilla Fatu", "Tristan Angels"]
 empresa: "WWE"
 programa: "NXT"
@@ -21,7 +21,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El segmento de Fatu de hecho estuvo ok, nada muy cool, pero Tristan sale a interrumpir y esta era su oportunidad, ataca con todo en el micrófono, se mete con los fans, con la familia de Zilla, salió afiladísimo, cosas de top heel poniéndose personal contra Zilla, y de hecho provocó un gran comeback de Zilla, fue un gran segmento, programación muy buena para cualquier show, se merecen una WE+"
 clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-04 s61 (VISIONADO DIRECTO — WWE NXT, 1/9/2026)"
   - "Sub-agente research-nxt-heatwave-cont-nxt-010926 (research 2026-09-04) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -31,6 +31,10 @@ tags: [wwe-nxt-2026, zilla-fatu, tristan-angels, bloodline, gangrel, primer-matc
 
 > **WE+.** *"Esta era su oportunidad"* — el heel que convierte la
 > debilidad ajena en el mejor trabajo de su propia carrera.
+>
+> **Nota de método (s62)**: esta ficha cubre **la promo y la
+> interrupción**. La lucha que siguió tiene ficha de match propia con
+> tres clases declaradas por separado por el Vehemiurgo en s62.
 
 ## Lectura del Vehemiurgo
 
@@ -71,9 +75,13 @@ tags: [wwe-nxt-2026, zilla-fatu, tristan-angels, bloodline, gangrel, primer-matc
   **No hay confirmación de que se metiera específicamente con el
   público** —el ataque documentado es al linaje familiar, no a los
   fans—.
-- **La lucha se pactó en el momento**: fue el **primer match de Fatu en
-  TV semanal de NXT**. **Gana Fatu** con un **Samoan Spike corriendo
-  ("Triple Z")**, 9:29, con sangre de Angels en el proceso.
+- **La lucha se pactó en el momento** y tiene **ficha propia** desde
+  s62, con las tres clases declaradas por separado:
+  [`../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md`](../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md).
+  **Corrección (s62)**: en la primera versión de esta ficha se registró
+  que Angels sangró; **tres fuentes coinciden en que sangró Fatu**
+  (boca, tras una patada de Angels en el top rope). Corregido en el
+  match.
 - **Post-match**: **BirthRight intentó reclutar a Fatu** tras la
   victoria; no aceptó.
 

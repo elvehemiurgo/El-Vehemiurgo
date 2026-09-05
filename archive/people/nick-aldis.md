@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nick-aldis
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Sub-agente card-wwe-snme-180726 (research 2026-08-01, closed) — 411Mania, Cageside Seats, Bleacher Report"
   - "El Vehemiurgo, notebook 2026-08-01 s12 (visión directa)"
@@ -143,6 +143,27 @@ tener oportunidad titular mundial nunca más — nombra la estipulación
 - **"Nick Aldis siempre fue top"** — **ratificación**: ya está en el
   **Tier 0 del panteón**, ascendido del Tier 3 (#52).
 - Ver [`../segments/2013-01-31-bad-influence-tbt-highlanders-magnus-tna-impact.md`](../segments/2013-01-31-bad-influence-tbt-highlanders-magnus-tna-impact.md).
+
+### Sesión 2026-09-05 s62 — Nombrado como la solución al vacío de Aces & Eights
+
+**Cita verbatim**:
+
+> *"ningun A&8s original estuvo over, tuvieron que introducir a Magnus
+> e EC3 después como nuevos heels y fueron 100 veces más efectivos que
+> cualquier idea de Bischoff en todos sus años estafando a los Carter
+> con Hogan"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: **Magnus y EC3 como los heels que TNA necesitó
+después del fracaso de Aces & Eights** — *"100 veces más efectivos"*.
+Es la tercera vez en el corpus TNA 2013 que Magnus recibe un elogio de
+este rango (s56: *"Nick Aldis siempre fue top"*; Tier 0 del panteón).
+El balance de Aces & Eights queda cerrado en tres sesiones (s55, s56,
+s62).
+
+**Pieza de la sesión**:
+[Bully & Sting vs Devon & DOC — el balance](../matches/2013-02-07-bully-ray-sting-vs-devon-doc-tables-tna-impact.md) (ICC)
 
 ## Pendientes / huecos
 

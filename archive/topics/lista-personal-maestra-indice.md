@@ -27,8 +27,8 @@ reescribible: parsing posicional, normalización de nombres al canon
 
 **Conteo actual (2026-08-22)**: **732 entradas** en la lista verbatim —
 **107 integradas** (con marca `(✓)` y ficha) · **625 pendientes**.
-El archive tiene **958 fichas individuales** (521 matches +
-437 segments); 107 de ellas están linkeadas 1-a-1 desde bullets
+El archive tiene **969 fichas individuales** (526 matches +
+443 segments); 107 de ellas están linkeadas 1-a-1 desde bullets
 `(✓)` — el resto son piezas abiertas sin bullet propio (centerpieces de
 cluster, drops mid-sesión, dossiers).
 

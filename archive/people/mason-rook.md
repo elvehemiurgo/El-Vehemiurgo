@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mason-rook
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, debut + 12/5/2026)"
 tags: [mason-rook, wwe-nxt-2026, debut, no-binarie, flying-tank, wrestling-entertainment, primer-registro-individual]
@@ -101,6 +101,28 @@ roster masculino; Kam Hendrix lo ataca por la espalda y terminan a
 golpes mientras Waller observa sin intervenir.
 
 **Lectura sintética**: **WE** para el segmento de conjunto.
+
+### Sesión 2026-09-05 s62 — El indie que puede hacer todos los movimientos — y la salida que le falta
+
+**Cita verbatim**:
+
+> *"Mason es el indie que puede hacer todos los movimientos, pero le
+> falta el enterteinment, darle importancia a sus luchas, ir más allá
+> del shock de su atletismo, y está teniendo buenas luchas [...] Mason
+> tenia una razón para ponerse personal"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: el diagnóstico de *indie cosplay* (CLAUDE.md §3)
+en su versión **redimible** — *"está teniendo buenas luchas"* y
+*"tenía una razón para ponerse personal"* son la puerta de salida. No
+es entierro. **Research**: **gana** con el Rookus (4:34), **su primera
+victoria singles en NXT**; atacó a Hendrix en la rampa antes de la
+campana. Después interrumpe la promo de Waller reclamando el título.
+
+**Piezas de la sesión**:
+[vs Kam Hendrix](../matches/2026-09-01-kam-hendrix-vs-mason-rook-nxt.md) (ICC) ·
+[en la fila de retadores de Waller](../segments/2026-09-01-promo-grayson-waller-campeon-saquon-shugars-nxt.md) (WE+)
 
 ## Pendientes / huecos
 

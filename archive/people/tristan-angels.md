@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tristan-angels
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — WWE NXT, 18/8/2026)"
   - "Sub-agente research-wwe-nxt-180826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress"
@@ -82,10 +82,40 @@ primero con filo real — ataca el linaje del Bloodline directamente
 (*"Gangrel Jr."*, *"nepo baby"*), coherente con el gimmick aristocrático
 calcado de Hunter Hearst Helmsley que el archivo ya tenía documentado
 desde s51. **Research**: pierde el match resultante (Samoan Spike
-corriendo de Fatu, 9:29), sangrando en el proceso.
+corriendo de Fatu, 9:29). *(Corrección s62: el que sangró fue Fatu,
+no Angels — tres fuentes coinciden.)*
 
 **Pieza de la sesión**:
 [vs Zilla Fatu](../segments/2026-09-01-tristan-angels-vs-zilla-fatu-nxt.md) (WE+)
+
+### Sesión 2026-09-05 s62 — RUNNER UPS #12 — "este tipo es un pro"
+
+**Cita verbatim**:
+
+> *"Tristan se ve muy cool, se ve que quiere ser el heel de tv
+> imperdible, esta lucha se merece las 3 clases, pongamos a tristan en
+> la lista de los que se ganaron mi corazon, muy buena ejecución, este
+> tiop es un pro [...] tenian a Tristan haciendo tonteras y aqui pudo
+> lucirse [...] Tristan todavia puede lucirse en el midcard como heel"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **ALTA A RUNNER UPS — #12**, con la fórmula de bautizo exacta. Entra
+   **perdiendo** (precedente: Galeno del Mal, #10).
+2. ***"Este tipo es un pro"*** — el elogio de oficio más seco del
+   Vehemiurgo.
+3. **El antes y el después en una frase**: *"tenían a Tristan haciendo
+   tonteras y aquí pudo lucirse"*.
+4. **Research**: pierde ante Fatu (Triple Z, 9:29). **Corrección al
+   archivo**: **no sangró él — sangró Fatu**, tras una patada suya en
+   el top rope. Su línea de la interrupción: *"the further down the
+   Bloodline we go, the less talent we find"*.
+
+**Pieza de la sesión**:
+[vs Zilla Fatu](../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md) (**ICC**) ·
+[`../topics/runner-ups.md`](../topics/runner-ups.md) — #12
 
 ## Pendientes / huecos
 

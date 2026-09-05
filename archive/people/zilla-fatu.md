@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: zilla-fatu
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026, debut)"
   - "Sub-agente nxt-110826 (research 2026-08-01)"
@@ -143,6 +143,40 @@ para el análisis completo.
 **Piezas de la sesión**:
 [main event, NXT Championship](../matches/2026-08-30-tony-dangelo-vs-cruz-montana-vs-grayson-waller-vs-zilla-fatu-nxt-championship-nxt-heatwave.md) (ICC) ·
 [vs Tristan Angels](../segments/2026-09-01-tristan-angels-vs-zilla-fatu-nxt.md) (WE+)
+
+### Sesión 2026-09-05 s62 — La lucha, separada: tres clases, el tope accidentado y la sangre propia
+
+**Cita verbatim**:
+
+> *"Zilla tambien está bien, no se arriesga mucho y eso me gusta, el
+> tope suicida que hizo fue accidentado pero se vio brutal [...] Me
+> parece ok que Zilla avance al main event"* (match)
+>
+> *"buena decisión bookear a Zilla contra todo el birthright,
+> especialmente despues de desactivar el titulo speed"* (post-match)
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Elogio de contención en un talento con hype**: *"no se arriesga
+   mucho y eso me gusta"*.
+2. **El tope, confirmado como accidentado**: Fatu lanzó un suicide dive
+   que mandó a Angels por encima de la mesa de comentaristas, **no fue
+   atrapado y cayó de estómago** — PWTorch lo describe igual.
+   *"Accidentado pero se vio brutal"*: un spot torpe que funciona
+   porque vende la intención.
+3. **Corrección al archivo (s62)**: **el que sangró fue él**, no Angels
+   — boca, tras una patada de Angels en el top rope, sin censura en el
+   broadcast.
+4. **Research**: gana con **Triple Z** (9:29), **primera victoria en
+   NXT**. **BirthRight lo rodea post-match**; responde con **superkick a
+   Lexis King**. *"Bookear a Zilla contra todo el BirthRight"* es
+   lectura del Vehemiurgo — **nada quedó pactado**.
+
+**Piezas de la sesión**:
+[vs Tristan Angels](../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md) (**ICC**) ·
+[BirthRight lo rodea](../segments/2026-09-01-birthright-rodea-a-zilla-fatu-nxt.md) (sin clase)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: charlie-dempsey
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Sub-agente nqcc-charlie-dempsey-2026 (research/closed.md, dossier completo)"
   - "Wikipedia — Charlie Dempsey, William Regal, Snake Pit (Wigan)"
@@ -172,6 +172,24 @@ las tres capas (familia + ring name + faction).
 - **La reserva del Vehemiurgo es al ritmo del programa**, no a los
   luchadores: *"el booking está muy inofensivo por ahora, muy quieto"*.
 - Ver [`../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md`](../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md).
+
+### Sesión 2026-09-05 s62 — La oferta a Zilla Fatu — "nadie nos toma en serio, nosotros sí"
+
+**Cita verbatim**:
+
+> *"está cool poner a Dempsey y el hijo dle loose canon  Lexis a
+> trabajar con Zilla que tiene tanto hype"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: aprobación de uso de roster — un talento con
+hype puesto a trabajar con BirthRight. **Research**: Dempsey habló —
+Fatu *"es como ellos"* pero nadie los toma en serio; ellos sí; que se
+una *"so they can run the place"*. Fatu respondió con superkick a
+King. **Nada pactado.**
+
+**Pieza de la sesión**:
+[BirthRight rodea a Zilla Fatu](../segments/2026-09-01-birthright-rodea-a-zilla-fatu-nxt.md) (sin clase)
 
 ## Lectura consolidada del Vehemiurgo
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tavion-heights
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-04 s61 (VISIONADO DIRECTO — WWE NXT Heatwave, 30/8/2026)"
   - "Sub-agente research-nxt-heatwave-cont-nxt-010926 (research 2026-09-04) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -54,6 +54,27 @@ post-match.
 
 **Pieza de la sesión**:
 [vs The Vanity Project, Tag Team Championship](../matches/2026-08-30-vanity-project-vs-borne-heights-tag-titles-nxt-heatwave.md) (ICC)
+
+### Sesión 2026-09-05 s62 — Ridiculizado por The Vanity Project — y reta a Drake
+
+**Cita verbatim**:
+
+> *"el segmento del Vanity Project molestando a Tavion estuvo genial,
+> merecen una WE"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim)
+
+**Lectura sintética**: elogio de conjunto al segmento. **Research**:
+entrevista emocional con Sarah Schreiber (*"nunca iba a apuñalar a
+Borne por la espalda"*, lo veía como un hermano); The Vanity Project
+entra a burlarse; **Heights le dice a Jackson Drake que solo tiene el
+North American porque Borne ya había luchado esa noche, y lo reta**.
+**Heights vs Drake por el título, pactado para 2026 09 08 WWE NXT.**
+Antes, en el mismo show, Borne explicó su traición: *"I got you before
+you got me, Tavion"*.
+
+**Pieza de la sesión**:
+[The Vanity Project lo molesta](../segments/2026-09-01-vanity-project-molesta-tavion-heights-nxt.md) (WE)
 
 ## Pendientes / huecos
 

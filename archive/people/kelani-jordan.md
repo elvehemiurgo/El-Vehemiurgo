@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kelani-jordan
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 31/3/2026)"
 tags: [kelani-jordan, wwe-nxt-2026, heel-turn, wrestling-entertainment, primer-registro-individual]
@@ -239,6 +239,28 @@ de Grayson Waller).
 
 **Piezas de la sesión**:
 [promo video pre-match](../segments/2026-08-30-promo-video-kendal-grey-vs-kelani-jordan-nxt-heatwave.md) (WE)
+
+### Sesión 2026-09-05 s62 — Campeona, "one shot" declarado — y Parker en la fila
+
+**Cita verbatim**:
+
+> *"Kelany corta su promop como campeona, por fin en la cima, y estuvo
+> sólida, buenos insultos para el wrenqcc, y el gimmick de one shot es
+> muy cool, para ella, ojalá tuviera mejores rivales, pero la haran
+> trabajar con Parker que es mid, igual su participacion se merece una
+> WE"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: cierra el arco de cuatro etapas dictado en s61.
+**Research confirma que "one shot" es gimmick declarado por ella
+misma** — la única que ganó tres títulos *"with just one shot"*. Los
+insultos fueron a Grey (*"in over her head"*, *"dealing with
+vertigo"*) y a Wren Sinclair. **Jaida Parker la interrumpe; primera
+defensa pactada para 2026 09 08 WWE NXT.**
+
+**Pieza de la sesión**:
+[promo como campeona](../segments/2026-09-01-promo-kelani-jordan-campeona-jaida-parker-nxt.md) (WE)
 
 ## Pendientes / huecos
 

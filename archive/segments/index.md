@@ -12,7 +12,11 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
-| 2026-09-01 | Zilla Fatu abre el show, Tristan Angels lo interrumpe con todo — y provoca el comeback | WWE / NXT | promo in-ring + interrupción heel + match | WE+ | — | en-investigacion | 1 | [→](2026-09-01-tristan-angels-vs-zilla-fatu-nxt.md) |
+| 2026-09-01 | BirthRight rodea a Zilla Fatu — la propuesta, y el superkick a Lexis King | WWE / NXT | post-match / oferta de facción | — | — | en-investigacion | 1 | [→](2026-09-01-birthright-rodea-a-zilla-fatu-nxt.md) |
+| 2026-09-01 | Grayson Waller, campeón: se agradece a sí mismo — y toda la división se pone en fila | WWE / NXT | promo in-ring de campeón + cadena de interrupciones + brawl de cierre | WE+ | — | en-investigacion | 1 | [→](2026-09-01-promo-grayson-waller-campeon-saquon-shugars-nxt.md) |
+| 2026-09-01 | Kelani Jordan, campeona: 'one shot' — y Jaida Parker se pone en la fila | WWE / NXT | promo in-ring + interrupción de retadora | WE | — | en-investigacion | 1 | [→](2026-09-01-promo-kelani-jordan-campeona-jaida-parker-nxt.md) |
+| 2026-09-01 | Zilla Fatu abre el show, Tristan Angels lo interrumpe con todo | WWE / NXT | promo in-ring + interrupción heel | WE+ | — | en-investigacion | 1 | [→](2026-09-01-tristan-angels-vs-zilla-fatu-nxt.md) |
+| 2026-09-01 | The Vanity Project molesta a Tavion Heights — y Heights reta a Drake | WWE / NXT | entrevista backstage + interrupción de facción | WE | — | en-investigacion | 1 | [→](2026-09-01-vanity-project-molesta-tavion-heights-nxt.md) |
 | 2026-08-31 | El careo generacional: Penta y Roman Reigns cierran el episodio | WWE / Raw | cierre de show / stare-down | WE+ | — | en-investigacion | 1 | [→](2026-08-31-careo-penta-roman-reigns-cierre-wwe-raw.md) |
 | 2026-08-31 | Ethan Page interrumpe a Chad Gable y Dragon Lee — se arma la lucha por el IC contendiente | WWE / Raw | promo in-ring / interrupción | WE | — | en-investigacion | 1 | [→](2026-08-31-ethan-page-interrumpe-chad-gable-dragon-lee-wwe-raw.md) |
 | 2026-08-31 | LA Knight interrumpe a Roman Reigns — 'One Tremendous Coward' | WWE / Raw | promo in-ring / interrupción | WE+ | — | en-investigacion | 1 | [→](2026-08-31-la-knight-interrumpe-roman-reigns-wwe-raw.md) |
@@ -411,6 +415,8 @@ cada alta y con cada cambio de estado.
 | 2017-01-14 | Jake Crist — debut de 'The Artist Formerly Known as Jake Crist' y el beso a Callihan | CZW / Awakening | angle post-match | WE | — | en-investigacion | 1 | [→](2017-01-14-jake-crist-beso-oi4k-czw-awakening.md) |
 | 2017-01-14 | MJF (Maxwell Jacob Feinstein) — presentación in-ring con Maria Manic | CZW / Awakening | promo / presentación de personaje | WE | — | en-investigacion | 1 | [→](2017-01-14-mjf-segmento-in-ring-czw-awakening.md) |
 | 2013-07-08 | Bray Wyatt debut promo + Wyatt Family attack Kane | WWE / Raw | character debut + in-ring attack (gimmick foundation) | — | — | en-investigacion | 1 | [→](2013-07-08-bray-wyatt-debut-promo-wwe-raw.md) |
+| 2013-02-07 | Los Dirty Heels, campeones: 'ponemos los egos de lado para probarlo' | TNA / Impact Wrestling | promo backstage post-título | WE | — | en-investigacion | 1 | [→](2013-02-07-dirty-heels-backstage-campeones-tna-impact.md) |
+| 2013-02-07 | Promo video: AJ Styles y su rivalidad con Christopher Daniels — el documento de la ausencia | TNA / Impact Wrestling | video package | WE | — | en-investigacion | 1 | [→](2013-02-07-promo-video-aj-styles-daniels-tna-impact.md) |
 | 2013-01-31 | Bad Influence abren vestidos de highlanders — y Magnus responde en su país | TNA / Impact Wrestling | segmento in-ring / apertura | WE | — | en-investigacion | 1 | [→](2013-01-31-bad-influence-tbt-highlanders-magnus-tna-impact.md) |
 | 2013-01-31 | Segmento in-ring de los Dirty Heels en Open Fight Night — salen los campeones de parejas | TNA / Impact Wrestling | segmento in-ring / reto de Open Fight Night | WE | — | en-investigacion | 1 | [→](2013-01-31-dirty-heels-open-fight-night-tna-impact.md) |
 | 2013-01-31 | Promo de Mr. Anderson — y el balance final del ángulo Aces & Eights | TNA / Impact Wrestling | promo in-ring | — | — | en-investigacion | 1 | [→](2013-01-31-promo-mr-anderson-balance-aces-eights-tna-impact.md) |

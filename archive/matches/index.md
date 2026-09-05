@@ -13,6 +13,8 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-01 | Kam Hendrix vs Mason Rook | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-01-kam-hendrix-vs-mason-rook-nxt.md) |
+| 2026-09-01 | Zilla Fatu vs Tristan Angels | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md) |
 | 2026-08-31 | Ethan Page vs Dragon Lee | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-31-ethan-page-vs-dragon-lee-wwe-raw.md) |
 | 2026-08-31 | Jevon Evans vs Dominik Mysterio — reiniciada como Jevon Evans & Joe Hendry vs Dominik Mysterio & JD McDonagh | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-31-jevon-evans-vs-dominik-mysterio-tag-hendry-mcdonagh-wwe-raw.md) |
 | 2026-08-31 | Penta vs Rey Fénix — final del torneo No. 1 contendiente al World Heavyweight Championship | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-31-penta-vs-rey-fenix-wwe-raw.md) |
@@ -450,6 +452,9 @@ con cada cambio de estado.
 | 2014-04-06 | Brock Lesnar vs The Undertaker — Streak Match | WWE / WrestleMania XXX | — | — | en-investigacion | 1 | [→](2014-04-06-brock-lesnar-vs-undertaker-wrestlemania-xxx-streak-breaker.md) |
 | 2013-07-14 | Money in the Bank ladder match — Christian vs RVD vs CM Punk vs Daniel Bryan vs Sheamus vs Randy Orton | WWE / Money in the Bank 2013 | — | — | en-investigacion | 1 | [→](2013-07-14-mitb-ladder-christian-rvd-punk-bryan-sheamus-orton-wwe.md) |
 | 2013-07-08 | Christian vs Kane | WWE / Raw | — | — | en-investigacion | 1 | [→](2013-07-08-christian-vs-kane-wwe-raw.md) |
+| 2013-02-07 | Bully Ray & Sting vs Devon & DOC — Tables Match | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-02-07-bully-ray-sting-vs-devon-doc-tables-tna-impact.md) |
+| 2013-02-07 | Bobby Roode & Austin Aries vs Chavo Guerrero Jr. & Hernandez (c) — TNA World Tag Team Championships | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-02-07-roode-aries-vs-chavo-hernandez-tag-titles-tna-impact.md) |
+| 2013-02-07 | Rob Van Dam (c) vs Kenny King vs Zema Ion — TNA X Division Championship | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-02-07-rvd-vs-kenny-king-vs-zema-ion-x-division-tna-impact.md) |
 | 2013-01-31 | Kurt Angle vs Mr. Anderson — Steel Cage Match | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-31-angle-vs-anderson-steel-cage-tna-impact.md) |
 | 2013-01-31 | Chavo Guerrero Jr. vs Austin Aries | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-31-chavo-vs-aries-tna-impact.md) |
 | 2013-01-24 | Jeff Hardy (c) vs Christopher Daniels — TNA World Heavyweight Championship | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-24-hardy-vs-daniels-tna-impact.md) |

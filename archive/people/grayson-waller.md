@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: grayson-waller
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Sub-agente card-wwe-nxt-280726 (research 2026-08-01, closed) — Wrestling Attitude, RingsideNews, WrestlingHeadlines, Forbes, WrestleZone"
   - "El Vehemiurgo, notebook 2026-08-01 s15 (visión directa)"
@@ -151,6 +151,36 @@ archivo lo puede probar.**
   de ver pero difíciles de escuchar*), se autoproclama la razón por la
   que NXT es must-see TV, y explica cómo gana el NXT Championship.
 - Ver [`../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md`](../segments/2026-08-25-heatwave-summit-cierre-zilla-on-top-nxt.md).
+
+### Sesión 2026-09-05 s62 — "Nivel MJF" — la primera promo como campeón
+
+**Cita verbatim**:
+
+> *"promo de Waller, estuvo increible, le está metiendo muy fuerte a
+> sus promos y el gimmick de el único main eventer real en nxt, full
+> pipebombs, no dejó ningun cabo suelto, muy efectivo [...] Waller
+> incluso fuera de wwe está manteniendo el gimmick fuerte, nivel mjf,
+> de verdad haciendo cosas generacionales, y está presionando a todo el
+> roster como lo hizo Jacy Jayne en su moemnto"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Las dos varas más altas del archivo en una frase**: **MJF** (el
+   heel contra el que se mide todo 2026) y **Jacy Jayne** (#8 de THE
+   FUTURE, el talento que eleva a una división por presión). Primera
+   vez que alguien de NXT entra en esa comparación.
+2. **"Incluso fuera de WWE"** — kayfabe democratizado, bien usado.
+3. **Research**: se agradeció a sí mismo; Aldis y Pearce lo llamaron;
+   este título *"significa más"* que el de WrestleMania. **La frase
+   "único main eventer real" no se cierra como verbatim del 1/9** — el
+   *pipebomb* etiquetado por prensa fue el del 28/7. Cinco retadores
+   en fila; six-man pactado para el 8/9. **Rating: 767.000 / 0.17, el
+   mejor desde febrero de 2025.**
+
+**Pieza de la sesión**:
+[promo como campeón](../segments/2026-09-01-promo-grayson-waller-campeon-saquon-shugars-nxt.md) (**WE+**)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lexis-king
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-05
 fuentes_principales:
   - "Wikipedia — Brian Pillman Jr. / Lexis King"
   - "Cobertura MLW (~2018-2023), WWE NXT (2023-2026)"
@@ -133,6 +133,26 @@ take en match
 - **BirthRight opera como unidad**: él, Charlie Dempsey, Uriah Connors
   y Stacks Lorenzo.
 - Ver [`../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md`](../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md).
+
+### Sesión 2026-09-05 s62 — El hijo del Loose Cannon — pierde el Speed por decreto y recibe el superkick
+
+**Cita verbatim**:
+
+> *"está cool poner a Dempsey y el hijo dle loose canon  Lexis a
+> trabajar con Zilla que tiene tanto hype"*
+>
+> — El Vehemiurgo, 2026-09-05 s62 (verbatim, typos preservados)
+
+**Lectura sintética**: identificado por linaje — *"el hijo del Loose
+Cannon"*, Brian Pillman Jr. — memoria histórica como identificación.
+**Research — dos golpes en una noche**: (1) en la oficina de Stone,
+**el Men's Speed Championship que ostentaba queda defunct** tras la
+unificación femenina de Heatwave; (2) post-match de Fatu, endulza la
+oferta de BirthRight (*"family"*, *"the main one"*) y **recibe un
+superkick a la boca**. **Líder de BirthRight** según research.
+
+**Pieza de la sesión**:
+[BirthRight rodea a Zilla Fatu](../segments/2026-09-01-birthright-rodea-a-zilla-fatu-nxt.md) (sin clase)
 
 ## Lectura consolidada del Vehemiurgo
 
