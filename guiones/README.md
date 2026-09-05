@@ -36,6 +36,16 @@ editorial con el backup completo del archivo.
   crítica a Cruz Montana se capturó el 2026-08-01 pero el show es
   `2026 08 04 WWE NXT`). Si el día exacto no está confirmado, se
   escribe `YYYY MM [día no confirmado] Nombre del Show`.
+- **Clases en el guion (ley del Vehemiurgo, 2026-09-05)**: toda
+  pieza citada en el guion lleva **la clase que el archivo le
+  registró** — en la memoria del archivo, en la tabla de timestamps
+  (columna *Clase de la pieza*) y en el B-roll. Se usan las siglas
+  del sistema (`WE`, `WE+`, `FS·WE → FC`, `PW·FS·WE → ICC`, etc.,
+  ver `glossary/handoff-sistema-de-clases.md`). Si la pieza no
+  tiene clase declarada se escribe **`sin clase`** con el motivo
+  (*nota de booking*, *no es pieza registrada*), nunca se infiere.
+  Si la clase fue declarada a una persona y no al conjunto, se
+  anota *(a X)*.
 - La opinión es del Vehemiurgo; la data la afila, nunca la
   reemplaza ni la corrige (si la data contradice el recuerdo, se
   declara la discrepancia, como en el archivo).

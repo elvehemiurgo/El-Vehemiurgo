@@ -49,18 +49,23 @@ puntuación.)*
 
 - **2026 08 04 WWE NXT (s21)** — primera crítica: la historia de
   superación **como repetición de TNA**, y el diagnóstico de que le
-  costaba competir con Grayson Waller.
+  costaba competir con Grayson Waller. **Clase del segmento: WE**
+  *(declarada a Waller — "es el único poniendo stakes"; Montana sin
+  clase propia dentro de la pieza)*.
   [`../archive/people/mike-santana.md`](../archive/people/mike-santana.md)
 - **2026 08 18 WWE NXT (s51)** — *"Cruz Montana abrió el show con
   mucha fuerza, ahora sí sonando como…"* — primer registro de mejora,
-  bajo el título *"Nada de buscar lástima"*.
+  bajo el título *"Nada de buscar lástima"*. **Clase: WE.**
 - **2026 08 25 WWE NXT (s52)** — *"tienen que dejarlo ser"*, la frase
-  que funda el eje. Segmento de cierre del show.
+  que funda el eje. Segmento de cierre del show. **Clase: WE.**
 - **2026 08 30 NXT Heatwave (s61)** — la promo del *"back against the
-  wall"* antes del main event.
+  wall"* antes del main event. **Clase: WE.** El main event que la
+  sigue: **PW·FS·WE → Instant Classic Crown**.
   [`../archive/segments/2026-08-30-promo-cruz-montana-nxt-heatwave.md`](../archive/segments/2026-08-30-promo-cruz-montana-nxt-heatwave.md)
 - **2026 08 31 WWE Raw (s61)** — el propio Vehemiurgo declara el caso
-  resuelto y lo usa como precedente para diagnosticar a Royce Keys. De
+  resuelto y lo usa como precedente para diagnosticar a Royce Keys.
+  **Sin clase** — el segmento de Roman Reigns es *"solo una nota sobre
+  el booking de Raw"*, por decisión explícita del Vehemiurgo. De
   ahí sale el topic
   [`../archive/topics/doctrina-forzar-al-babyface-a-dar-lastima.md`](../archive/topics/doctrina-forzar-al-babyface-a-dar-lastima.md).
 
@@ -93,21 +98,23 @@ puntuación.)*
 
 ## 5. Timestamps y referencias en pantalla
 
-| Tiempo | Línea | Show *(YYYY MM DD)* | Ubicación en el show | Qué se menciona |
-|---|---|---|---|---|
-| **0:00–0:07** | *"Lo tenían repitiendo la historia de superación que ya había hecho en TNA"* | **2026 08 04 WWE NXT** | segmento de continuación de Grayson Waller, con Montana respondiendo | Primera crítica del archivo: la historia de superación como repetición de TNA |
-| **0:07–0:10** | *"Y era difícil para él"* | **2026 08 04 WWE NXT** | ídem | *"se le está haciendo más difícil competir con Grayson"* |
-| **0:10–0:20** | *"Está más over, su gimmick funciona, tienen que dejarlo ser"* | **2026 08 25 WWE NXT** *(Performance Center, Orlando)* | **cierre del show** — cumbre rumbo a Heatwave, que termina con Zilla Fatu on top | La frase que funda el eje; *"el coaching está funcionando"* |
-| **0:20–0:30** | *"Levantó su acto cuando lo dejaron ser"* | **2026 08 31 WWE Raw** *(Rocket Arena, Cleveland — grabado el 28/8)* | **midcard**, dentro del segmento in-ring de Roman Reigns | El Vehemiurgo declara el caso resuelto y lo usa de precedente |
+| Tiempo | Línea | Show *(YYYY MM DD)* | Ubicación en el show | Qué se menciona | Clase de la pieza |
+|---|---|---|---|---|---|
+| **0:00–0:07** | *"Lo tenían repitiendo la historia de superación que ya había hecho en TNA"* | **2026 08 04 WWE NXT** | segmento de continuación de Grayson Waller, con Montana respondiendo | Primera crítica del archivo: la historia de superación como repetición de TNA | **WE** *(a Waller)* |
+| **0:07–0:10** | *"Y era difícil para él"* | **2026 08 04 WWE NXT** | ídem | *"se le está haciendo más difícil competir con Grayson"* | **WE** *(a Waller)* |
+| **0:10–0:20** | *"Está más over, su gimmick funciona, tienen que dejarlo ser"* | **2026 08 25 WWE NXT** *(Performance Center, Orlando)* | **cierre del show** — cumbre rumbo a Heatwave, que termina con Zilla Fatu on top | La frase que funda el eje; *"el coaching está funcionando"* | **WE** |
+| **0:20–0:30** | *"Levantó su acto cuando lo dejaron ser"* | **2026 08 31 WWE Raw** *(Rocket Arena, Cleveland — grabado el 28/8)* | **midcard**, dentro del segmento in-ring de Roman Reigns | El Vehemiurgo declara el caso resuelto y lo usa de precedente | **sin clase** *(nota de booking)* |
 
 **Material de apoyo sugerido (B-roll)**:
 
 - **2026 08 30 NXT Heatwave** *(Bert Ogden Arena, Edinburg, Texas)* —
   **antes del main event**: promo de Montana con Sarah Schreiber.
+  **WE.**
 - **2026 08 30 NXT Heatwave** — **main event**: el Spin the Block
-  sobre D'Angelo y el robo de Waller (21:31).
+  sobre D'Angelo y el robo de Waller (21:31). **PW·FS·WE → Instant
+  Classic Crown.**
 - **2026 08 18 WWE NXT** — **apertura del show**: Montana *"con mucha
-  fuerza"*, el primer registro de mejora.
+  fuerza"*, el primer registro de mejora. **WE.**
 
 ## 6. Cierre de serie
 

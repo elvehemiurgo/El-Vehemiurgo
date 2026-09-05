@@ -269,7 +269,9 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   inferida por lectura se registra como *"asignada por lectura,
   pendiente de ratificación"* hasta llamado explícito; (5)
   *old-school class* = fighting-spirit, y FS aplica también a
-  promos. Skill: `/clase`.
+  promos. Skill: `/clase`. **Handoff completo y autocontenido del
+  sistema** (clases, coronas, reglas, schema, triggers, historial de
+  leyes, checklist de auditoría): `glossary/handoff-sistema-de-clases.md`.
 - **Coronas — premios derivados (ley desde 2026-08-26 s52)**:
   *"quiero que el combo WE y FS class se llame Feeling Crown, y lo
   escribiré como FC; no hay que modificar la jerarquía solo agregar

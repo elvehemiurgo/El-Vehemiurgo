@@ -47,9 +47,11 @@ Raw** — solo gramática y puntuación.)*
 ## 2. Memoria del archivo
 
 - **El eje aparece tres veces en un solo volcado** (s61): resuelto en
-  **Montana** *(2026 08 25 WWE NXT → 2026 08 31 WWE Raw)*,
-  diagnosticado en **Royce Keys** *(2026 08 31 WWE Raw)*, y acá
-  **recomendado por adelantado** para Hendry *(mismo show)*. Es la
+  **Montana** *(2026 08 25 WWE NXT, WE → 2026 08 31 WWE Raw, sin
+  clase)*, diagnosticado en **Royce Keys** *(2026 08 31 WWE Raw, sin
+  clase)*, y acá **recomendado por adelantado** para Hendry *(mismo
+  show — la pieza que lo contiene lleva **PW·FS·WE → Instant Classic
+  Crown**)*. Es la
   única de las tres en que la frase se dice **antes** de que la
   empresa cometa el error.
 - **Joe Hendry** ya figuraba en el archivo como transición inicial del
@@ -88,19 +90,20 @@ Raw** — solo gramática y puntuación.)*
 
 ## 5. Timestamps y referencias en pantalla
 
-| Tiempo | Línea | Show *(YYYY MM DD)* | Ubicación en el show | Qué se menciona |
-|---|---|---|---|---|
-| **0:00–0:09** | *"Meten a Hendry y convierten esto en una tag team con McDonagh"* | **2026 08 31 WWE Raw** *(Rocket Arena, Cleveland — grabado el 28/8)* | midcard: **singles Jevon Evans vs Dominik Mysterio**, que termina en DQ por interferencia de JD McDonagh | El regreso de Joe Hendry: Adam Pearce reinicia el match como tag |
-| **0:09–0:14** | *"Gran setup para traerlo de regreso"* | **2026 08 31 WWE Raw** | ídem, arranque del tag | El reinicio como vehículo del regreso |
-| **0:14–0:23** | *"Déjenlo ser badass, así como Jevon o Cruz Montana"* | **2026 08 31 WWE Raw** | ídem | **La frase de la serie**, dicha por adelantado. Referencia cruzada a Montana (Guion 002) |
-| **0:23–0:30** | *"JD y Dom son los rivales perfectos para cualquier proyecto babyface"* | **2026 08 31 WWE Raw** | cierre del tag: cabezazo de McDonagh a Hendry + Frog Splash de Dominik sobre Evans | Judgment Day como maquinaria que pule estrellas ajenas |
+| Tiempo | Línea | Show *(YYYY MM DD)* | Ubicación en el show | Qué se menciona | Clase de la pieza |
+|---|---|---|---|---|---|
+| **0:00–0:09** | *"Meten a Hendry y convierten esto en una tag team con McDonagh"* | **2026 08 31 WWE Raw** *(Rocket Arena, Cleveland — grabado el 28/8)* | midcard: **singles Jevon Evans vs Dominik Mysterio**, que termina en DQ por interferencia de JD McDonagh | El regreso de Joe Hendry: Adam Pearce reinicia el match como tag | **PW·FS·WE → ICC** |
+| **0:09–0:14** | *"Gran setup para traerlo de regreso"* | **2026 08 31 WWE Raw** | ídem, arranque del tag | El reinicio como vehículo del regreso | **PW·FS·WE → ICC** |
+| **0:14–0:23** | *"Déjenlo ser badass, así como Jevon o Cruz Montana"* | **2026 08 31 WWE Raw** | ídem | **La frase de la serie**, dicha por adelantado. Referencia cruzada a Montana (Guion 002) | **PW·FS·WE → ICC** |
+| **0:23–0:30** | *"JD y Dom son los rivales perfectos para cualquier proyecto babyface"* | **2026 08 31 WWE Raw** | cierre del tag: cabezazo de McDonagh a Hendry + Frog Splash de Dominik sobre Evans | Judgment Day como maquinaria que pule estrellas ajenas | **PW·FS·WE → ICC** |
 
 **Material de apoyo sugerido (B-roll)**:
 
 - **2026 08 31 WWE Raw** — **finish del tag**: el cabezazo de McDonagh
-  sobre Hendry en el apron y el Frog Splash de Dominik.
+  sobre Hendry en el apron y el Frog Splash de Dominik. **PW·FS·WE →
+  Instant Classic Crown.**
 - **2026 08 25 WWE NXT** — **segmento de cierre**: *"tienen que
-  dejarlo ser"*, para el callback a Montana.
+  dejarlo ser"*, para el callback a Montana. **WE.**
 
 > **Cuidado en edición**: **no** poner duración del match en pantalla
 > — no está confirmada.

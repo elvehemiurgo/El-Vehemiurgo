@@ -47,16 +47,22 @@ Raw** — solo gramática y puntuación.)*
 
 - **2026 06 12 WWE SmackDown** — primer registro individual de Royce
   Keys en el archivo (four-way con Jey Uso, LA Knight y Finn Bálor).
+  **Clase: WE.**
   [`../archive/people/royce-keys.md`](../archive/people/royce-keys.md)
 - **2026 08 03 WWE Raw** — **Jacob Fatu lo destroza en un Street
   Fight** (moonsault + Tongan Death Grip), con el visto bueno de Roman
   Reigns. **Ese es el vínculo previo que ahora se reencuadra como
-  "ex amigos".**
+  "ex amigos".** *(Sin ficha de match propia — registrado solo en la
+  trayectoria de Royce Keys; sin clase.)*
 - **2026 08 24 WWE Raw (s50)** — se registra su pertenencia a **OTM**
   junto a Bronco Nima y Lucien Price, y queda anotado como pendiente
-  el hilo con Jacob Fatu.
+  el hilo con Jacob Fatu. **Clase del match (LA Knight & Solo Sikoa vs
+  los Usos): FS·WE → Feeling Crown.**
 - **2026 08 31 WWE Raw (s61)** — el Vehemiurgo cita **su propio
-  precedente sobre Montana** para diagnosticar el mismo error. De ahí
+  precedente sobre Montana** para diagnosticar el mismo error. **Las
+  tres piezas del show donde vive Royce Keys**: apertura OTM/Usos —
+  **WE**; promo de Fatu en la mesa — **WE**; segmento de Roman Reigns —
+  **sin clase** *(nota de booking, por decisión del Vehemiurgo)*. De ahí
   nace el topic
   [`../archive/topics/doctrina-forzar-al-babyface-a-dar-lastima.md`](../archive/topics/doctrina-forzar-al-babyface-a-dar-lastima.md).
 
@@ -88,20 +94,24 @@ Raw** — solo gramática y puntuación.)*
 
 ## 5. Timestamps y referencias en pantalla
 
-| Tiempo | Línea | Show *(YYYY MM DD)* | Ubicación en el show | Qué se menciona |
-|---|---|---|---|---|
-| **0:00–0:06** | *"Royce dando lástima porque de niño era pobre fue un fracaso"* | **2026 04 [día no confirmado] WWE SmackDown** | vignette de debut | Video de origen: infancia en East Palo Alto. **No confirmado que se reemitiera el 31/8** |
-| **0:06–0:11** | *"Igual que con Montana… niño pobre de Nueva York"* | **2026 08 04 WWE NXT** → **2026 08 31 WWE Raw** | precedente cruzado | El caso Montana, ya resuelto (ver Guion 002) |
-| **0:11–0:22** | *"Grudge match entre ex amigos, origen violento"* | **2026 08 31 WWE Raw** *(Rocket Arena, Cleveland — grabado el 28/8)* | **midcard**, segmento in-ring de Roman Reigns | Reigns le ordena a Fatu manejar a Keys; el reencuadre del gimmick |
-| **0:22–0:30** | *"Jacob lo puso over: Royce es el verdadero problema"* | **2026 08 31 WWE Raw** | ídem, misma respuesta de Fatu a Reigns | Fatu enmarca a Keys como amenaza mayor que él mismo |
+| Tiempo | Línea | Show *(YYYY MM DD)* | Ubicación en el show | Qué se menciona | Clase de la pieza |
+|---|---|---|---|---|---|
+| **0:00–0:06** | *"Royce dando lástima porque de niño era pobre fue un fracaso"* | **2026 04 [día no confirmado] WWE SmackDown** | vignette de debut | Video de origen: infancia en East Palo Alto. **No confirmado que se reemitiera el 31/8** | *no es pieza registrada — sin clase* |
+| **0:06–0:11** | *"Igual que con Montana… niño pobre de Nueva York"* | **2026 08 04 WWE NXT** → **2026 08 31 WWE Raw** | precedente cruzado | El caso Montana, ya resuelto (ver Guion 002) | **WE** *(25/8)* → **sin clase** *(31/8)* |
+| **0:11–0:22** | *"Grudge match entre ex amigos, origen violento"* | **2026 08 31 WWE Raw** *(Rocket Arena, Cleveland — grabado el 28/8)* | **midcard**, segmento in-ring de Roman Reigns | Reigns le ordena a Fatu manejar a Keys; el reencuadre del gimmick | **sin clase** *(nota de booking)* |
+| **0:22–0:30** | *"Jacob lo puso over: Royce es el verdadero problema"* | **2026 08 31 WWE Raw** | ídem, misma respuesta de Fatu a Reigns | Fatu enmarca a Keys como amenaza mayor que él mismo | **sin clase** *(mismo segmento)* |
 
 **Material de apoyo sugerido (B-roll)**:
 
 - **2026 08 31 WWE Raw** — **apertura del show**: OTM emboscando a los
   Usos en el estacionamiento, Keys rompiendo el parabrisas con la
-  palanca y sacando a Jey sangrando.
+  palanca y sacando a Jey sangrando. **WE.**
+- **2026 08 31 WWE Raw** — **inmediatamente después**: Jacob Fatu
+  sobre la mesa de comentaristas declarándole la guerra a Keys.
+  **WE.**
 - **2026 08 03 WWE Raw** — el Street Fight en que Fatu destroza a
-  Keys: el pasado que ahora se convierte en *"ex amigos"*.
+  Keys: el pasado que ahora se convierte en *"ex amigos"*. *(Sin ficha
+  de match; sin clase.)*
 
 > **Cuidado en edición**: **no** afirmar que la lucha Keys vs Fatu está
 > anunciada. Al **2026 08 31 WWE Raw** solo existe la orden verbal de
