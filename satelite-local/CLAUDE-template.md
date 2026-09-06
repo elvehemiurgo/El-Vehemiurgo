@@ -22,7 +22,8 @@
    dicte en la sesión de VEHEMIURGIA (pipeline /volcado de allá).
    Puedo anotar borradores temporales en ESTE repo (carpeta
    `notas-para-el-centro/`) para que no se pierdan hasta que los
-   dicte.
+   dicte. Los borradores de captura VLC (`captura-vlc/`) son el
+   mismo caso: material en tránsito hacia el centro.
 4. **Cero invención**: si un dato no está en el archivo ni lo
    confirma fuente, no se afirma. `[verif]` allá = `[verif]` acá.
 
@@ -67,6 +68,20 @@
 - Los takes que el Vehemiurgo suelte los anoto en
   `notas-para-el-centro/YYYY-MM-DD-<show>.md` con verbatim fiel,
   y al final del visionado le recuerdo dictarlos en VEHEMIURGIA.
+
+### Captura de takes desde VLC (kit `captura-vlc/`)
+
+- El Vehemiurgo mira la mediateca en VLC y dicta con
+  `vehemiurgo-captura.ahk` (Ctrl+Alt+V): cada take cae en
+  `<BORRADOR_DIR>\YYYY-MM-DD-borrador.md` bajo un encabezado
+  `## YYYY MM DD Nombre del Show` y con su `[HH:MM:SS]`.
+- Mi rol: mantener el script (ajustarlo si falla, cambiar hotkeys o
+  rutas cuando me lo pida) y, al cierre del visionado, **mostrarle el
+  borrador del día listo para pegar** en la sesión de VEHEMIURGIA.
+  Puedo limpiar solo formato (líneas cortadas, marcas huérfanas);
+  **el texto del take no se toca** — es verbatim del Vehemiurgo.
+- Nunca proceso el borrador hacia fichas: eso es `/volcado` en el
+  centro.
 
 ### Organización general de mediateca
 

@@ -39,6 +39,15 @@ Ejecutar los pasos EN ORDEN. Fuente de doctrina: CLAUDE.md §§4-6.
    de continuidad, ordenar por fecha de show** (precedente Saquon
    Shugars, s48). Si una ficha acumula muchas entradas, sumarle
    tabla cronológica al inicio.
+1c. **Borradores de captura VLC** (`satelite-local/captura-vlc/`):
+   si el volcado llega con encabezados `## YYYY MM DD Nombre del
+   Show` y líneas `- **[HH:MM:SS]** take`, el encabezado fija fecha y
+   show de cada ficha (no hay que preguntar) y el `[HH:MM:SS]` se
+   registra como `ubicacion_en_show` (segments) o en la lectura /
+   notas (matches), y sirve para las tablas de timestamps de
+   `guiones/`. Las líneas `_(marca)_` son anclas de tiempo, no takes:
+   no generan ficha ni clase. El texto del take se preserva verbatim
+   en el notebook, timestamps incluidos.
 2. **Duplicados**: grep en `notebook/2026-05-09-2-lista-personal-completa.md`
    y en `archive/matches/index.md` + `archive/segments/index.md`
    por fecha + participantes. Si el match YA tiene ficha, esto es

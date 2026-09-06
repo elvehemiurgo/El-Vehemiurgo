@@ -16,6 +16,11 @@
 - **Acompañar los watch parties VEHEMIURGIA en vivo** — con la guía
   del repo abierta y los videos en el disco, puede decirte qué show
   sigue, qué mirar en cada lucha, y el contexto al instante.
+- **Capturar takes mientras mirás en VLC** — kit
+  [`captura-vlc/`](./captura-vlc/README.md): una combinación de
+  teclas pausa el video, lee archivo y minuto desde VLC, y anota el
+  take en un borrador que se pega tal cual en VEHEMIURGIA
+  (`/volcado`). Cada take llega con show y `[HH:MM:SS]`.
 - **Cualquier tarea de archivos locales** que este entorno cloud no
   puede tocar.
 - (Futuro, si el Vehemiurgo lo activa: acá viviría el "cerebro"
