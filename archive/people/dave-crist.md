@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dave-crist
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s23 (visión directa — CZW Awakening 14/1/2017, VEHEMIURGIA)"
   - "Sub-agente czw-2017-calendario (research 2026-08-01, closed)"
@@ -60,6 +60,28 @@ del wrestling indie moderno"*.
 > Vehemiurgo sobre el costo de carrera de las acusaciones de 2020,
 > registrada como su lectura — el archivo no adjudica los hechos de
 > fondo)
+
+### Sesión 2026-09-08 s63 — OI4K en CZW 2013: grudge match contra The Front con Corona+
+
+**Cita verbatim** (2013 09 14 CZW Down with the Sickness, 00:21:44):
+
+> *"OI4K vs Sozio y Biff Busick, empieza genial estilo irish airborn
+> grudge match, en medio de una storyline de los hermanos Crist contra
+> DJ Hyde y The Front, buen setup, y obvio Dave y Jake iban a poner el
+> mejor show posible, y con estos rivales si pueden trabajar algo
+> brutal, spots brutales, velocidad, fundamentos [...] se merecen las 3
+> clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**: cuatro años antes del corpus CZW 2017-2018 que
+fundó su ficha, **los Crist ya son "el mejor show posible"** para el
+Vehemiurgo — y la condición que él pone es la de siempre: *"con estos
+rivales sí pueden trabajar algo brutal"*. *"Spots brutales, velocidad,
+fundamentos"*: los tres ejes en una línea. **Corona+.**
+
+**Pieza de la sesión**:
+[OI4K vs Sozio & Biff Busick](../matches/2013-09-14-oi4k-vs-sozio-biff-busick-czw-dwts.md) (ICC+)
 
 ## Pendientes / huecos
 

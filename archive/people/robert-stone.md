@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: robert-stone
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "Wikipedia — Robert Stone / Robbie E"
   - "Cobertura TNA / Impact 2010s — Robbie E + The BroMans"
@@ -174,6 +174,40 @@ Stone como caso paradigmático del worker-entertainer**:
 - **Reserva de dato**: su cargo formal de **General Manager** aparece
   en un solo reporte secundario. `[verif]`
 - Ver [`../segments/2026-08-25-keanu-carver-robert-stone-backstage-nxt.md`](../segments/2026-08-25-keanu-carver-robert-stone-backstage-nxt.md).
+
+### Sesión 2026-09-08 s63 — ALTA A DEATH GODS OF WRESTLING — Robbie E hace funcionar cualquier idea en TV (Impact 21/2/2013)
+
+**Cita verbatim** (2013 02 21 TNA Impact Wrestling, 00:26:41):
+
+> *"spud vs robbie e, estuvo buena, o sea, es enterteinment es buen
+> wrestling, dura lo que tiene que durar, está genia para un gimmick
+> como Spud y conectando con el reality british boot camp [...]
+> obviamente Robbie E va a hacer funcionar cualquier idea en tv porque
+> es un dios del wrestling, de hecho quiero ponerlo en los death gods
+> Robbie E/Robert Stone"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Alta a DEATH GODS OF WRESTLING** (quinta tanda, s63) — bajo su
+   identidad completa, *"Robbie E/Robert Stone"*: la lista lo toma
+   como **una sola carrera**, TNA 2010-2017 y WWE. Es la
+   consecuencia natural del take de 2026-05-10 (*"worker-entertainer
+   versátil"*) y de s04 (*"soy muy fan de toda su carrera"*).
+2. **El criterio que lo mete**: *"va a hacer funcionar cualquier idea
+   en tv"* — fidelidad al oficio dentro del techo propio, la cláusula 3
+   de la lista, aplicada a un match que el Vehemiurgo juzga
+   **mal priorizado por la empresa** (recursos de British Boot Camp en
+   plena crisis) pero **bien ejecutado por el talento**.
+3. **Clase del match**: no declarada — *"es enterteinment es buen
+   wrestling"* se registra como **WE por lectura, pendiente de
+   ratificación**.
+
+**Pieza de la sesión**:
+[vs Rockstar Spud](../matches/2013-02-21-rockstar-spud-vs-robbie-e-tna-impact.md) (WE por lectura)
+
+**Cross-link**: [DEATH GODS OF WRESTLING](../topics/death-gods-of-wrestling.md).
 
 ## Lectura consolidada del Vehemiurgo
 

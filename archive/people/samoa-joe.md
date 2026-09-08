@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: samoa-joe
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster TNA 2007 + ROH founding generation"
   - "Múltiples retrospectivas + Talk Is Jericho appearances"
@@ -132,3 +132,31 @@ y [`./abismo-negro.md`](./abismo-negro.md).
 - [ ] ROH World Title reign 21 meses — pieza editorial.
 - [ ] WWE NXT TakeOver matches múltiples — pieces.
 - [ ] AEW World Title win 2024 — pieza.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-09-08 s63 — Joe vs Angle (Impact 14/2/2013): Corona+ con el booking mid — el talento lo mantiene real
+
+**Cita verbatim** (2013 02 14 TNA Impact Wrestling, 00:23:34–00:32:50):
+
+> *"tenemos Samoa Joe vs Kurt Angle, dream match, clásico TNA [...] el
+> booking de esta lucha confirma que los planes con A&8s no funcionaron
+> [...] entonces mejor bookean Joe vs Angle aunque en kayfabe no tenga
+> mucho sentido, y esta enemistad forzada le baja al producto final,
+> pero estos dos lo mantienen real, la psicologia se sigue trabajando en
+> este face contra face, un clásico, se merecen las 3 clases con la
+> corona +; fue un espectaculo, aunque el booking es mid y la lucha
+> termina en un ataque de A&8s en calidad de jobbers como siempre, igual
+> la lucha está muy buena"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**: la tesis del corpus TNA 2013 — **booking mid,
+match Corona+** — con Joe como mitad del *"clásico TNA"*. *"Lo
+mantienen real"* y *"la psicología se sigue trabajando en este face
+contra face"* son las dos cláusulas que justifican PW · FS · WE+ pese
+a la *"enemistad forzada"*. Reserva declarada: *"el booking es mid"* —
+no baja la clase.
+
+**Pieza de la sesión**:
+[vs Kurt Angle](../matches/2013-02-14-samoa-joe-vs-kurt-angle-tna-impact.md) (ICC+)

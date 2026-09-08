@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: frankie-kazarian
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. Bloque TNA 2025-2026"
   - "Dossier TNA 2025-2026 Kazarian King era"
@@ -188,6 +188,44 @@ puro veterano-as-anchor**.
 - **Contexto de panteón**: la misma semana en que **Bad Influence
   asciende al Tier 0**.
 - Ver [`../segments/2013-01-31-bad-influence-tbt-highlanders-magnus-tna-impact.md`](../segments/2013-01-31-bad-influence-tbt-highlanders-magnus-tna-impact.md).
+
+### Sesión 2026-09-08 s63 — Bad Influence en tres piezas: rivales premium, el Mount Rushmore de TNA, y una Corona+
+
+**Citas verbatim** (2013 02 14 y 2013 02 21 TNA Impact Wrestling):
+
+> *"Kaz and Daniels [...] estos dos lo estan haciendo lucir increible
+> cada semana, son rivales premium para cualquier babyface, vienen de
+> ganar su feudo con AJ Styles"*
+>
+> *"segmento backstage con todos los heels, kaz, daniels, aries y roode,
+> el peak de tna enterteinment, el mount rushmore de workhorses y top
+> tier enterteiners de TNA en la era de Hogan en Spike TV; gran
+> segmento se merecen una WE"*
+>
+> *"la 4vs 4 con todos los posibles retadores, kaz and daniels con
+> aries y roode vs chavo y hernandez con james storm y parks; se merece
+> las 3 clases con la corona +, peak tna style"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"Rivales premium para cualquier babyface"*** — la función que el
+   Vehemiurgo le asigna a Bad Influence en 2013: **el heel que hace
+   lucir**. Lo prueba con Magnus (ICC) como lo probó con AJ Styles.
+2. ***"El Mount Rushmore de workhorses y top tier enterteiners"*** —
+   Kazarian, Daniels, Aries, Roode: **los cuatro Tier 0 del panteón en
+   un solo backstage**. Es la tesis del corpus TNA 2013 en una frase.
+3. **Corona+ en el 8-man del 21/2** — *"peak tna style"*.
+
+**Piezas de la sesión**:
+[Magnus vs Bad Influence](../matches/2013-02-14-magnus-vs-christopher-daniels-tna-impact.md) (ICC) ·
+[backstage de los heels](../segments/2013-02-21-backstage-heels-bad-influence-dirty-heels-tna-impact.md) (WE) ·
+[8-man](../matches/2013-02-21-bad-influence-dirty-heels-vs-chavo-hernandez-storm-park-tna-impact.md) (ICC+)
+
+**Nota de archivo**: existe una segunda ficha para la misma identidad
+(`kazarian.md`, s47). El registro de nombres fija slug único
+`frankie-kazarian`; fusión propuesta en el notebook s63.
 
 ## Lectura consolidada del Vehemiurgo
 

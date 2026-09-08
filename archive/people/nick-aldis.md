@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nick-aldis
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "Sub-agente card-wwe-snme-180726 (research 2026-08-01, closed) — 411Mania, Cageside Seats, Bleacher Report"
   - "El Vehemiurgo, notebook 2026-08-01 s12 (visión directa)"
@@ -164,6 +164,43 @@ s62).
 
 **Pieza de la sesión**:
 [Bully & Sting vs Devon & DOC — el balance](../matches/2013-02-07-bully-ray-sting-vs-devon-doc-tables-tna-impact.md) (ICC)
+
+### Sesión 2026-09-08 s63 — Como Magnus: el arranque del proyecto face 2013 — match ICC y promo WE+
+
+**Citas verbatim** (2013 02 14 TNA Impact Wrestling, 00:11:55–00:19:08 y 00:21:21):
+
+> *"tenemos a Kaz and Daniels en acción retomando con Magnus, estos dos
+> lo estan haciendo lucir increible cada semana, son rivales premium
+> para cualquier babyface, vienen de ganar su feudo con AJ Styles, esto
+> es TNA apostando fuerte por Magnus, y no se equivocaron, esta lucha se
+> merece las 3 clases, estuvo buenisima, además Magnus tiene los mejores
+> derechazos de su generación, muy oldschool, real wreasslin"*
+>
+> *"la promo post match de Magnus, muy fuerte, cool babyface, para nada
+> verde, para nada genérico, y aqui empieza su run como face hasta
+> llegar a Sting y al torneo de Dixie y su main event con Jeff más
+> adelante, fue un proyecto genial y con mucha calidad, esta promo se
+> merece una WE+"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El proyecto, dicho por adelantado**: el Vehemiurgo traza la línea
+   completa de 2013 (Sting → torneo de Dixie → main event con Jeff
+   Hardy) y la falla: *"un proyecto genial y con mucha calidad"*, *"no
+   se equivocaron"*. Continúa s56 (*"Nick Aldis siempre fue top"*).
+2. **El atributo técnico fijado**: *"los mejores derechazos de su
+   generación, muy oldschool"*.
+3. **La promo como prueba de madurez**: *"para nada verde, para nada
+   genérico"* — **WE+**, la segunda WE+ del corpus TNA 2013 para una
+   promo de babyface.
+4. **Bad Influence como escalera**: *"rivales premium para cualquier
+   babyface"*, viniendo de ganar el feudo con AJ Styles.
+
+**Piezas de la sesión**:
+[vs Bad Influence](../matches/2013-02-14-magnus-vs-christopher-daniels-tna-impact.md) (ICC) ·
+[promo post-match](../segments/2013-02-14-promo-post-match-magnus-tna-impact.md) (WE+)
 
 ## Pendientes / huecos
 

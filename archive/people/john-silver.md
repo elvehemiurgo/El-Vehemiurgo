@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: john-silver
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s35 (VISIONADO DIRECTO — CZW Cage of Death XX 9/12/2018 y Best of the Best 18 13/4/2019, VEHEMIURGIA)"
   - "Sub-agente czw-cod-xx-botb18 (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
@@ -75,6 +75,28 @@ este match específico (una fuente da running knee); **el brainbuster
 sí figura en el arsenal documentado de Silver**, así que el dato queda
 registrado del visionado directo, `[no confirmado por reseña
 escrita]`.
+
+### Sesión 2026-09-08 s63 — Con los Beaver Boys en 2013: demasiado indie — y el Cena spot que Konley recibe perfecto
+
+**Cita verbatim** (2013 09 14 CZW Down with the Sickness, 00:02:51):
+
+> *"la primera mitad es todo beaver boys, y es muy indie para mi gusto,
+> solo quieren replicar spots japoneses a lo ddt y de hecho en esta
+> época son populares en CZW, zimplemente nunca se me hicieron muy
+> entretenidos [...] Caleb incluso logra el Cena spot perfectamente
+> recibiendo la crossbody de Silver, fue genial"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**: el juicio sobre The Beaver Boys (Silver & Alex
+Reynolds) en 2013 es el mismo que el archivo registró en 2018-2019
+(s35, *"con reserva declarada"*): **demasiado indie, spots japoneses a
+lo DDT**. **La clase del match (WE) es para Hollister & Konley, no
+para el conjunto** — *"solo por ellos"*. Lo que se le reconoce a
+Silver es el spot: la crossbody que Konley recibe *"perfectamente"*.
+
+**Pieza de la sesión**:
+[Hollister & Konley vs The Beaver Boys](../matches/2013-09-14-hollister-konley-vs-beaver-boys-czw-dwts.md) (WE, a Hollister & Konley)
 
 ## Pendientes / huecos
 

@@ -4,14 +4,16 @@ slug: death-gods-of-wrestling
 tipo: topic
 categoria: lista-oficial
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s29 (fundación + roster inaugural completo)"
   - "Volcado Vehemiurgo 2026-08-01 s30 (segunda tanda: Oliver, Xavier, Wentz, EYFBO)"
   - "Volcado Vehemiurgo 2026-08-01 s31 y s32 (fallo Chris Hero: sale del Tier 0, queda en esta lista)"
   - "Volcado Vehemiurgo 2026-08-01 s37 (tercera tanda: Jay Lethal)"
+  - "Volcado Vehemiurgo 2026-08-26 s55 (cuarta tanda: Kid Kash, EZ Money, Ken Anderson, Keith Mitchell, Jim Johnston)"
+  - "Volcado Vehemiurgo 2026-09-08 s63 (quinta tanda: Robbie E / Robert Stone, Shane Hollister, Caleb Konley, Candice LeRae)"
   - "Sub-agente death-gods-roster (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
-tags: [death-gods-of-wrestling, lista-oficial, danny-havoc, brandon-kirk, jordan-oliver, eyfbo, deathmatch, czw, icw-escocia, indie-britanico, vehemiurgia-czw]
+tags: [death-gods-of-wrestling, lista-oficial, danny-havoc, brandon-kirk, jordan-oliver, eyfbo, deathmatch, czw, icw-escocia, indie-britanico, vehemiurgia-czw, tna-2013, czw-2013, robert-stone, shane-hollister, caleb-konley, candice-lerae]
 ---
 
 # DEATH GODS OF WRESTLING
@@ -195,10 +197,10 @@ con el par **Gunther / Cesaro** que el Vehemiurgo formuló en s29 — el
 Hero queda del lado de Cesaro, con la diferencia de que acá el
 Vehemiurgo lo lee como **rechazo voluntario**, no como inercia.
 
-## Roster vigente — **19 entradas**
+## Roster vigente — **23 entradas**
 
 *9 fundacionales (s29) + 4 de la segunda tanda (s30) + 1 alta s37 + 5 de
-la cuarta tanda (s55). Sin bajas.*
+la cuarta tanda (s55) + 4 de la quinta tanda (s63). Sin bajas.*
 
 | Death God | Escena | Estado |
 |---|---|---|
@@ -221,6 +223,10 @@ la cuarta tanda (s55). Sin bajas.*
 | **Ken Anderson** *(Mr. Anderson)* | WWE (Mr. Kennedy) → TNA | [verif] |
 | **Keith Mitchell** *(producción)* | Director de TV — WCW → TNA | [verif] |
 | **Jim Johnston** *(producción)* | Compositor — WWE 1985-2017 | [verif] |
+| **Robbie E / Robert Stone** | TNA 2010-2017 (BroMans) → WWE NXT (Robert Stone Brand; GM de NXT 2026) | Activo — [→](../people/robert-stone.md) |
+| **Shane Hollister** | AAW (Chicago) / CZW 2013 | [verif] (último dato: regreso a AAW, 2022) — [→](../people/shane-hollister.md) |
+| **Caleb Konley** | PWX / CZW → TNA (The Cult of Lee) → JCW | Activo — [→](../people/caleb-konley.md) |
+| **Candice LeRae** | Indies de California / CZW / PWG → WWE | Activa — [→](../people/candice-lerae.md) |
 
 **Bajas**: ninguna. *(Chris Hero fue dado de baja del **Tier 0 del panteón** en s32 y quedó como miembro pleno de esta lista — ver el fallo arriba.)*
 
@@ -342,3 +348,54 @@ y confirmada**: un nombre del panteón no entra acá.
 de una lista es un alta. **Ante un choque de listas, el archivo
 retiene y pregunta** en vez de ejecutar — la ruta contraria a la del
 caso Chris Hero (s31→s32), que sí fue declaración de baja.
+
+## Quinta tanda — 2026-09-08 s63 (4 altas)
+
+Volcado de **TNA Impact 21/2/2013** y **CZW Down with the Sickness
+14/9/2013**. **Cuatro altas ejecutadas**, sin retenciones: ninguno de
+los cuatro está en el panteón (regla de exclusión, caso Roode s55).
+
+### Las citas
+
+> *"obviamente Robbie E va a hacer funcionar cualquier idea en tv
+> porque es un dios del wrestling, de hecho quiero ponerlo en los
+> death gods Robbie E/Robert Stone"*
+>
+> *"la lucha se merece una WE solo por ellos, ese estilo mma enthusiast
+> hijos de samoa joe que traian era buenisimo, con mejores rivales
+> podrían poner la lucha perfecta [...] de hecho pongamos a estos dos
+> Hollister y Konley en los death gods, son buen wrestling americano a
+> lo oldschool"*
+>
+> *"Canndice y Cherry pusieron wrestling, no les importó dj hyde, no
+> les impporto si los fans querian ultraviolence, usaron la
+> oportunidad para moverse como wrestlers [...] Pongamos a Candice
+> Lerae en los death gods, definitivamente"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+### Altas ejecutadas (4)
+
+| Death God | Escena | Por qué entra, según el Vehemiurgo |
+|---|---|---|
+| **Robbie E / Robert Stone** | TNA → WWE NXT | *"va a hacer funcionar cualquier idea en tv"* — dicho sobre un match (Spud vs Robbie E) cuya **prioridad de booking** él mismo condena. Alta bajo la identidad completa: una sola carrera. |
+| **Shane Hollister** | AAW / CZW 2013 | *"buen wrestling americano a lo oldschool"*; el DDT en el apron que devolvió la lucha al oldschool. |
+| **Caleb Konley** | PWX / CZW → TNA → JCW | ídem; *"estilo North Carolina medio backyard ninja"*, linaje hacia Trevor Lee; el Cena spot recibido *"perfectamente"*. |
+| **Candice LeRae** | CZW / PWG → WWE | *"pusieron wrestling, no les importó DJ Hyde"* — fighting spirit como resistencia al formato, en su **debut en CZW**. |
+
+### Lo que esta tanda confirma del criterio
+
+- **Techo declarado en el mismo take**: *"con mejores rivales podrían
+  poner la lucha perfecta"* — la cláusula 3 (fidelidad al oficio
+  dentro del techo propio) enunciada por el Vehemiurgo al dar el alta.
+- **Alta por debut**: Candice LeRae entra por su primera noche en CZW
+  (2013), trece años antes de su corona en WWE. La lista premia lo que
+  cautivó, no la carrera acumulada.
+- **Identidad completa**: *"Robbie E/Robert Stone"* — la lista toma la
+  carrera entera, no la era.
+- **Fichas**: Hollister, Konley y LeRae reciben ficha nueva (take
+  individual + alta); Robert Stone ya la tenía. Las altas de s55 sin
+  ficha (Kid Kash, EZ Money, Ken Anderson, Mitchell, Johnston) siguen
+  sin ella.
+
+**Notebook**: [`../../notebook/2026-08-01-s63-tna-impact-140213-210213-czw-dwts-140913.md`](../../notebook/2026-08-01-s63-tna-impact-140213-210213-czw-dwts-140913.md)

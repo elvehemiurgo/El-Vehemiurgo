@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: david-starr
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s23 (visión directa — VEHEMIURGIA CZW)"
   - "Sub-agentes czw-2017/2018-calendario (research 2026-08-01, closed)"
@@ -367,6 +367,36 @@ horas, en la última noche de su carrera en la casa.
 [4-way con Jimmy Rave](../matches/2019-04-13-david-starr-vs-jimmy-rave-vs-darius-lockhart-vs-joey-lynch-czw-botb18.md) (WE) ·
 [vs Anthony Greene, título mundial](../matches/2019-04-13-anthony-greene-vs-david-starr-revancha-czw-botb18.md) (PW·FS·WE) ·
 [vs John Silver, final](../matches/2019-04-13-david-starr-vs-john-silver-final-czw-botb18.md) (PW·FS·WE)
+
+### Sesión 2026-09-08 s63 — Arqueología del Juicy Product (CZW 2013): antes de Over As Fuck, ya se moría por estar en TV
+
+**Cita verbatim** (2013 09 14 CZW Down with the Sickness, 00:49:09):
+
+> *"los juicy products, que nostalgia, con el tema original y todo,
+> super jovenes, antes de estar "Over As Fuck", desde aqui ya se ve a
+> David más enterteiner y comodo y se muere por estar en tv [...] los
+> dos ponen buen wrestling, quieren golpear fuerte y quieren hacer
+> evolucionar todo el indie y2k con el que crecieron [...] desde aqui ya
+> vemos el wrestling a ras de lona de Starr y su estilo olimpico
+> entusiasta [...] y siempre fueron asi de pros, muy efectivos [...] la
+> lucha se merece las 3 clases."*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El registro más temprano de Starr en el archivo** (2013): el
+   Vehemiurgo lee en retrospectiva lo que el corpus 2017-2018 ya
+   documentó — *"más enterteiner y cómodo"*, *"se muere por estar en
+   tv"*, *"wrestling a ras de lona"*, *"estilo olímpico entusiasta"*.
+2. **La tesis generacional**: *"quieren hacer evolucionar todo el
+   indie y2k con el que crecieron"* — el Juicy Product como puente
+   entre el indie 2000s y el CZW de 2013.
+3. ***"Siempre fueron así de pros, muy efectivos"*** — consistencia
+   desde el arranque, no maduración tardía. Tres clases (ICC).
+
+**Pieza de la sesión**:
+[Juicy Product vs 4Loko](../matches/2013-09-14-juicy-product-vs-4-loco-czw-dwts.md) (ICC)
 
 ## Pendientes / huecos
 

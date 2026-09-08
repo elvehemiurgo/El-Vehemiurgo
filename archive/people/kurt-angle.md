@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kurt-angle
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 + cluster TNA 2007 + AJ Styles arc"
   - "The Kurt Angle Show podcast"
@@ -125,4 +125,31 @@ tags: [kurt-angle, olympic-shooter, wwe-champion-wrestlemania-2000, smackdown-si
 - **Tercera vez en el corpus** que el Vehemiurgo elogia los cruces con
   Anderson: 10/1, 24/1 y acá.
 - Ver [`../matches/2013-01-31-angle-vs-anderson-steel-cage-tna-impact.md`](../matches/2013-01-31-angle-vs-anderson-steel-cage-tna-impact.md).
+
+### Sesión 2026-09-08 s63 — Ni Angle hace estrellas a Brisco y Garett Bischoff — y la campaña olímpica como subtexto
+
+**Cita verbatim** (2013 02 14 TNA Impact Wrestling, 00:23:34–00:32:50):
+
+> *"además Angle esta con su campaña contra las olimpiadas quitando el
+> wrestling de las olimpiadas y eso, estan apoyandose en ese movimiento
+> como algo secundario, y el booking de esta lucha confirma que los
+> planes con A&8s no funcionaron, ni Kurt Angle puede hacer lucir como
+> estrellas a los prospectos Briscoe y Garrett Bischoff, entonces mejor
+> bookean Joe vs Angle aunque en kayfabe no tenga mucho sentido"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **El diagnóstico de negocio**: *"los planes con A&8s no
+   funcionaron"* — y la prueba es que **ni Angle** logró hacer lucir a
+   Wes Brisco y Garett Bischoff. Continúa s56 (el steel cage del 31/1,
+   *"el talento rema por encima del booking"*).
+2. **Contexto social incorporado** (ley s31): la campaña de Angle
+   contra la exclusión de la lucha de los Olímpicos 2020 (COI,
+   12/2/2013) como subtexto del match — *"como algo secundario"*.
+3. **Corona+** para el match con Joe pese al booking *"mid"*.
+
+**Pieza de la sesión**:
+[vs Samoa Joe](../matches/2013-02-14-samoa-joe-vs-kurt-angle-tna-impact.md) (ICC+)
 

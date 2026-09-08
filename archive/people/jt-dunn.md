@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jt-dunn
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s25 (VISIONADO DIRECTO — CZW The Wolf of Wrestling 14/10/2017, VEHEMIURGIA)"
   - "Sub-agente czw-cade-spacemonkey-trevorlee (research 2026-08-01, closed) — PWPonderings, BackBodyDrop"
@@ -84,6 +84,28 @@ Briggs**; Dunn ganó con el rolling elbow sobre Romero, con
 interferencia de Chrissy Rivera en el tramo final.
 
 **Pieza**: [vs Ace Romero y Josh Briggs, Night of Infamy](../matches/2017-11-11-jt-dunn-vs-ace-romero-czw-night-of-infamy.md) (PW·FS·WE)
+
+### Sesión 2026-09-08 s63 — The New KO Kid y la idea mesiánica del pro wrestling saviour, ya en 2013
+
+**Cita verbatim** (2013 09 14 CZW Down with the Sickness, 00:49:09):
+
+> *"JT siempre fue más callado pero tambien tiene su estilo en el mic,
+> pero in ring, los dos ponen buen wrestling, quieren golpear fuerte
+> [...] Dunn ya estaba full con el gimmick de the new ko kid y tambien
+> ya tenia su idea mesianica de pro wrestling saviour, y siempre fueron
+> asi de pros, muy efectivos"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**: el registro más temprano de Dunn en el archivo
+(2013). El Vehemiurgo fija que **el gimmick ya estaba completo** —
+*"The New KO Kid"* y la *"idea mesiánica de pro wrestling saviour"* —
+cuatro años antes del corpus que fundó su ficha (*"el último roaring
+elbow efectivo"*, s25). Y el contraste con Starr: *"más callado pero
+también tiene su estilo en el mic"*. Tres clases (ICC).
+
+**Pieza de la sesión**:
+[Juicy Product vs 4Loko](../matches/2013-09-14-juicy-product-vs-4-loco-czw-dwts.md) (ICC)
 
 ## Pendientes / huecos
 

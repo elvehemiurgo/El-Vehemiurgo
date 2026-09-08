@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jake-crist
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-08
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s23 (visión directa — CZW Awakening 14/1/2017, VEHEMIURGIA)"
 ---
@@ -70,6 +70,24 @@ heavyweight, *"luce genial — queda pendiente revisar sus luchas"*.
    fundación (s23), Myron Reed desde esta misma sesión.
 
 **Pieza**: [tag titles 4-way, Cage of Death 19](../matches/2017-12-09-tag-titles-4-way-the-rep-gana-czw-cage-of-death-19.md) (FS·WE)
+
+### Sesión 2026-09-08 s63 — El gear a lo Trevor Murdoch, y la Corona+ contra The Front (CZW 2013)
+
+**Cita verbatim** (2013 09 14 CZW Down with the Sickness, 00:21:44):
+
+> *"Jake Crist con un gear parecido al de Trevor Murdock luce ggenial,
+> se merecen las 3 clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-08 s63 (verbatim, typos preservados)
+
+**Lectura sintética**: la mención individual es de **presencia** (el
+gear a lo Trevor Murdoch — lectura sureña/oldschool del look), dentro
+del elogio de conjunto a OI4K (*"el mejor show posible"*). Es el
+registro más temprano de Jake en el archivo (2013), cinco años antes
+de *"full wrestler, uno de mis favoritos"* (s23).
+
+**Pieza de la sesión**:
+[OI4K vs Sozio & Biff Busick](../matches/2013-09-14-oi4k-vs-sozio-biff-busick-czw-dwts.md) (ICC+)
 
 ## Pendientes / huecos
 
