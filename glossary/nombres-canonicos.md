@@ -37,6 +37,11 @@
 | Lainey Reid | Layney Reed, Layne Reed, Lainey Reed |
 | Joaquin Wilde | Joaquín Wild, Joaquin Wild |
 | Shiloh Hill | Shyloh, Shilo Hill |
+| Garett Bischoff | Garrett Bischoff |
+| Greg Excellent | Greg Eggcelent |
+| Trevor Murdoch | Trevor Murdock |
+| Joey Ryan | Joe Ryan |
+| Chavo Guerrero Jr. | Chaavo Guerrero |
 
 ## Atención — contexto-dependientes (no linteados)
 
@@ -72,6 +77,15 @@
 | **Julio / Bruno (Americanos Hermanos)** | Hispanización de **Julius Creed** y **Brutus Creed** dentro del ángulo Americano. Ficha del equipo: `promotions/creed-brothers.md`. |
 | **Zima Ion (AAA 2026)** | Gimmick portado por **Joaquin Wilde** (ex-LWO) según dictado del Vehemiurgo — **no confundir con Zema Ion (DJZ)**, talent distinto; grafía Zima/Zema [verif]. La fila de "Variantes prohibidas" solo aplica a menciones de DJZ. |
 | **Je'Von Evans** | Grafía real con apóstrofe; slug `jevon-evans`. El Vehemiurgo dicta "Jevon Evans". |
+| **Robbie E / Robert Stone** | **Misma persona**: *Robbie E* = ring name TNA 2010-2017 (BroMans); *Robert Stone* = nombre WWE/NXT (mánager, "Robert Stone Brand", GM interino 2026). Ficha única `robert-stone.md`. En prosa sobre TNA 2013 se escribe *Robbie E*; el Vehemiurgo lo dictó *"Robbie E/Robert Stone"* (s63). Alta a DEATH GODS s63. |
+| **Bandido (CZW / 4Loko, 2013)** | **Distinto del Bandido de AEW** (`bandido.md`, mexicano, ex-ROH). El de los dictados CZW 2013 es el luchador de la escena Philadelphia/Delaware, mitad de **4Loko** con **Azrieal**. Sin ficha; en prosa se escribe *Bandido (CZW)*. Nunca linkear a `bandido.md` desde piezas CZW. |
+| **Azrieal** | Grafía real del luchador de CZW/4Loko. El Vehemiurgo dicta *"azrael"* (s63). No se lintea: *Azrael* existe como nombre de otros gimmicks. |
+| **Wes Brisco** | Aces & Eights (TNA 2013). El Vehemiurgo dicta *"Briscoe"* (s63). **No se lintea**: *Briscoe* es el apellido legítimo de **The Briscoes** (Jay y Mark). Resolver por contexto TNA 2013 / A&8s. |
+| **Party Marty / Marty Scurll** | *Party Marty* = gimmick de **Marty Scurll** en British Boot Camp (Challenge TV, 2013) y sus apariciones en Impact de la gira UK. Ambas formas legítimas en prosa; slug `marty-scurll`. |
+| **Rockstar Spud** | Canónico para TNA 2013-2017 (ganador de British Boot Camp). *Spud* a secas = segunda mención legítima. Su nombre WWE posterior (**Drake Maverick**) es otra era: en piezas TNA se usa Rockstar Spud. |
+| **Kaz** | *"Kaz"* en dictados TNA = **Kazarian** (Frankie Kazarian). Segunda mención legítima en prosa; slug `frankie-kazarian`. |
+| **Joseph Park / Abyss** | *"parks"* en dictados TNA 2013 = **Joseph Park** (el gimmick de abogado de **Abyss**, misma persona, kayfabe "hermano"). En piezas 2013 se usa Joseph Park. |
+| **Magnus / Nick Aldis** | **Misma persona**: *Magnus* = ring name TNA 2009-2017; *Nick Aldis* = nombre real y ring name NWA/WWE. Ficha única `nick-aldis.md` (Héroe Fundamental #52). En prosa sobre TNA 2013 se escribe *Magnus*. |
 | **"Priest" (dictado)** | **Dos personas distintas**, resueltas por contexto de show+fecha: **Adam Priest** (AEW, indie, ficha `adam-priest.md`, primer registro s26) y **Damián Priest** (WWE/Judgment Day, cruza a AAA desde el 30/8/2026, ficha `damian-priest.md`, s59). "Priest" a secas nunca se asume — ubicar el show y la fecha del dictado. |
 
 ## Equivalencias de matching (machine-readable, no linteadas)
@@ -86,6 +100,8 @@ este tipo; los scripts la leen en la próxima corrida.
 | Token | Resuelve a |
 |---|---|
 | elias | elijah |
+| magnus | aldis |
+| robbie-e | stone |
 
 ## Método de identificación (ley operativa desde s44)
 
