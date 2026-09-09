@@ -17,8 +17,9 @@ encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Súper lucha, se merece las 3 clases, top tier wrestling, cada spot, cada counter, buenísima coronación y sorpresa en el booking, reales superestrellas, es un clásico instantáneo; pero a este démosle la corona más un PERFECT, esta es la definición de wrestling"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
+perfect_declarado: true
 estado: en-investigacion
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-05 s62 (VISIONADO DIRECTO — 2013 02 07 TNA Impact Wrestling)"
   - "Sub-agente research-tna-impact-070213 (research 2026-09-05) — WebSearch; WebFetch bloqueado por egress: Wrestleview, PWTorch (Caldwell), Bleacher Report, Fandom, Wikipedia, WON vía Wrestleview"
@@ -50,10 +51,27 @@ ratificación:
    **Sería la primera marca del sistema que vive declarada en
    frontmatter**, no calculada.
 
-**Estado**: la declaración vive acá (blockquote-lead,
-`calificacion_vehemiurgo`, tag `perfect-declarado`). **No hay campo
-nuevo ni columna nueva hasta que el Vehemiurgo fije la mecánica.**
-Pregunta abierta en `glossary/clases-vehemiurgo.md` y en el handoff.
+**Mecánica resuelta (2026-09-09, s65)** — por interpretación
+editorial del copiloto, en ausencia de mayor especificación del
+Vehemiurgo (ver doctrina completa en `glossary/clases-vehemiurgo.md`):
+
+1. **Marcador sobre la corona, no corona nueva.** PERFECT no toca la
+   jerarquía de clases ni el cálculo de coronas — es un sello aparte.
+2. **Solo válido sobre ICC o ICC+**: una pieza necesita ya las tres
+   clases base antes de poder ser "la definición de wrestling". Este
+   match es ICC; PERFECT queda sobre ICC.
+3. **Vive declarado en frontmatter** (`perfect_declarado: true`) —
+   único campo del sistema que no se deriva, porque no puede
+   derivarse: Chavo vs Aries (31/1) es ICC igual, sin PERFECT.
+4. Se muestra en los índices como sufijo (`ICC · PERFECT`),
+   `bin/archivo_lib.py: Ficha.corona_display`, y el lint (`E7`)
+   exige que toda pieza con `perfect_declarado: true` tenga corona
+   ICC o ICC+.
+
+**Esta resolución es reversible**: si el Vehemiurgo declara otra
+mecánica (p. ej. que aplique a cualquier corona, o que sea un rango
+en vez de un booleano), se ajusta el campo y el código sin tocar el
+resto del sistema.
 
 ## Lectura del Vehemiurgo
 

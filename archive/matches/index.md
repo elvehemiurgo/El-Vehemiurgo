@@ -485,7 +485,7 @@ con cada cambio de estado.
 | 2013-02-14 | Magnus vs Christopher Daniels (w/ Kazarian) — torneo por el #1 contender | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-02-14-magnus-vs-christopher-daniels-tna-impact.md) |
 | 2013-02-14 | Samoa Joe vs Kurt Angle — torneo por el #1 contender | TNA / Impact Wrestling | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2013-02-14-samoa-joe-vs-kurt-angle-tna-impact.md) |
 | 2013-02-07 | Bully Ray & Sting vs Devon & DOC — Tables Match | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-02-07-bully-ray-sting-vs-devon-doc-tables-tna-impact.md) |
-| 2013-02-07 | Bobby Roode & Austin Aries vs Chavo Guerrero Jr. & Hernandez (c) — TNA World Tag Team Championships | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-02-07-roode-aries-vs-chavo-hernandez-tag-titles-tna-impact.md) |
+| 2013-02-07 | Bobby Roode & Austin Aries vs Chavo Guerrero Jr. & Hernandez (c) — TNA World Tag Team Championships | TNA / Impact Wrestling | PW·FS·WE | ICC · PERFECT | en-investigacion | 1 | [→](2013-02-07-roode-aries-vs-chavo-hernandez-tag-titles-tna-impact.md) |
 | 2013-02-07 | Rob Van Dam (c) vs Kenny King vs Zema Ion — TNA X Division Championship | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-02-07-rvd-vs-kenny-king-vs-zema-ion-x-division-tna-impact.md) |
 | 2013-01-31 | Kurt Angle vs Mr. Anderson — Steel Cage Match | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-31-angle-vs-anderson-steel-cage-tna-impact.md) |
 | 2013-01-31 | Chavo Guerrero Jr. vs Austin Aries | TNA / Impact Wrestling | PW·FS·WE | ICC | en-investigacion | 1 | [→](2013-01-31-chavo-vs-aries-tna-impact.md) |

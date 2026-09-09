@@ -8,6 +8,7 @@ Checks (ERROR = exit 1; WARNING = solo informa):
   E4  links relativos rotos en archive/** (incluye same-dir)
   E5  clases_vehemiurgo con vocabulario inválido (solo slugs)
   E6  links de tabla del panteón (SoT) a fichas inexistentes
+  E7  perfect_declarado: true sin ICC/ICC+ (PERFECT solo va sobre esas coronas)
   W1  estado fuera de vocabulario {stub, en-investigacion, verificado, vivo, fallecido}
   W2  variantes de nombre prohibidas (glossary/nombres-canonicos.md)
       fuera de notebook/ y fuera de líneas quote (>)
@@ -106,6 +107,11 @@ def check_frontmatter():
             for v in clases if isinstance(clases, list) else []:
                 if v not in al.CLASES_OK:
                     errors.append(f"E5 {f.relative_to(ROOT)} clase inválida: \"{v}\" (usar slugs)")
+            perfect = str(fm.get("perfect_declarado", "")).strip().lower() == "true"
+            if perfect:
+                corona = al.CORONAS.get(frozenset(clases if isinstance(clases, list) else []), "—")
+                if corona not in al.CORONAS_PERFECT_OK:
+                    errors.append(f"E7 {f.relative_to(ROOT)} perfect_declarado sin ICC/ICC+ (corona: {corona})")
 
 
 def check_panteon():

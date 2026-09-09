@@ -116,7 +116,7 @@ sola.
 
 ---
 
-## 4. Lo que está ABIERTO — *"la corona más un PERFECT"* (s62, 2026-09-05)
+## 4. PERFECT — marcador sobre la corona (declarado s62, mecánica resuelta s65)
 
 **Declaración verbatim**, sobre Roode & Aries vs Chavo & Hernandez
 (2013 02 07 TNA Impact Wrestling):
@@ -128,24 +128,26 @@ sola.
 **Lo que está claro**: la pieza lleva PW·FS·WE (→ ICC derivada) **y
 además** una distinción llamada **PERFECT**, por encima de la corona.
 
-**Lo que NO está claro y el archivo no resuelve solo**:
+**Mecánica** (resuelta por interpretación editorial del copiloto el
+2026-09-09, s65, sin mayor especificación del Vehemiurgo — **él puede
+ajustarla en cualquier momento con una sola frase**):
 
-1. ¿Es un **marcador que se suma** a la corona (lectura provisional,
-   por el *"más"*) o una corona nueva?
-2. ¿Aplica **solo sobre ICC** o sobre cualquier corona?
-3. **Cómo se almacena** — y acá hay un hecho estructural: PERFECT **no
-   puede derivarse**, porque dos piezas con las mismas tres clases
-   reciben distinta distinción (Chavo vs Aries del 31/1 es ICC sin
-   PERFECT; el tag del 7/2 es ICC con PERFECT). **Sería la primera
-   marca del sistema que necesariamente se declara en frontmatter en
-   vez de calcularse.** Eso la hace de otra naturaleza que las
-   coronas.
-
-**Estado actual**: la declaración vive en la ficha del match
-(blockquote-lead, `calificacion_vehemiurgo`, tag `perfect-declarado`).
-**No hay campo nuevo, no hay columna nueva, no se tocó
-`archivo_lib.py`.** Cuando el Vehemiurgo fije la mecánica, se
-implementa de una vez.
+1. **Marcador que se suma a la corona, no corona nueva** — lectura
+   directa del *"más"*.
+2. **Solo sobre ICC o ICC+.** *"Esta es la definición de wrestling"*
+   se leyó como la síntesis total de los tres ejes de clase — y esa
+   síntesis total es exactamente la Instant Classic Crown. PERFECT no
+   cae sobre una Feeling Crown (que no tiene las tres clases).
+3. **Vive declarado en frontmatter** — `perfect_declarado: true`. Es
+   la única marca del sistema que no se deriva, porque no puede
+   derivarse (Chavo vs Aries del 31/1 es ICC sin PERFECT; el tag del
+   7/2 es ICC con PERFECT). Todo lo demás sigue derivándose como
+   siempre — esta es la excepción declarada, no el nuevo modelo.
+4. **Implementado**: `bin/archivo_lib.py` — `Ficha.perfect`,
+   `Ficha.corona_display` (`"ICC · PERFECT"` en los índices); **lint
+   E7** exige que `perfect_declarado: true` solo aparezca junto a
+   ICC/ICC+. Primera pieza:
+   `archive/matches/2013-02-07-roode-aries-vs-chavo-hernandez-tag-titles-tna-impact.md`.
 
 **Ojo terminológico**: el archivo usa *"Perfect Match"* informalmente
 como sinónimo de *pieza con Perfect Wrestling Class*. **PERFECT como

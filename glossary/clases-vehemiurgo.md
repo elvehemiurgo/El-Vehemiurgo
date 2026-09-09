@@ -289,7 +289,7 @@ Las dos quedaron cerradas por declaración explícita del Vehemiurgo:
 
 ---
 
-### Pregunta abierta — *"la corona más un PERFECT"* (2026-09-05, s62)
+### PERFECT — marcador sobre la corona (declarado 2026-09-05 s62, mecánica resuelta 2026-09-09 s65)
 
 **Declaración del Vehemiurgo**, sobre Roode & Aries vs Chavo &
 Hernandez (2013 02 07 TNA Impact Wrestling), verbatim:
@@ -302,26 +302,31 @@ Hernandez (2013 02 07 TNA Impact Wrestling), verbatim:
 Crown, derivada) **y además** una distinción llamada **PERFECT**, por
 encima de la corona.
 
-**Lo que el archivo NO resuelve solo — tres preguntas**:
+**Mecánica** (resuelta por interpretación editorial del copiloto el
+2026-09-09, s65, en ausencia de mayor especificación del Vehemiurgo
+— **ajustable en cualquier momento con una sola declaración suya**):
 
-1. **¿Marcador sobre una corona, o corona nueva?** *"La corona **más**
-   un PERFECT"* suena a adición. Lectura operativa provisional: **es
-   una distinción que se suma a la corona, no la reemplaza.**
-2. **¿Solo sobre ICC, o sobre cualquier corona?** ¿Puede existir un
-   Feeling Crown + PERFECT? Sin declaración, **no se asume**.
-3. **¿Cómo se almacena?** Y esto es estructural: **las coronas se
-   derivan de `clases_vehemiurgo` y nunca se escriben**. PERFECT **no
-   puede derivarse** — dos piezas con las mismas tres clases reciben
-   distinta distinción (Chavo vs Aries del 31/1 es ICC sin PERFECT;
-   este tag es ICC con PERFECT). **Sería la primera marca del sistema
-   que necesariamente vive declarada en frontmatter**, no calculada.
-   Eso la hace de otra naturaleza que FC/ICC/FC+/ICC+.
-
-**Estado hasta ratificación**: la declaración vive en la ficha del
-match (blockquote-lead, `calificacion_vehemiurgo`, tag
-`perfect-declarado`). **No se toca `bin/archivo_lib.py`, no se agrega
-columna a los índices, no se crea campo de frontmatter.** Cuando el
-Vehemiurgo fije la mecánica, se implementa de una vez.
+1. **Es un marcador sobre la corona, no una corona nueva.** *"La
+   corona **más** un PERFECT"* — se suma, no reemplaza. No toca la
+   jerarquía de cuatro clases ni el cálculo de FC/ICC/FC+/ICC+.
+2. **Solo sobre ICC o ICC+.** Lectura elegida: *"esta es la
+   definición de wrestling"* es la síntesis total de los tres ejes de
+   juicio (perfect-wrestling, fighting-spirit, entertainment) — y esa
+   síntesis total es exactamente lo que ya representa la Instant
+   Classic Crown. PERFECT es el tope dentro de ese tope: no puede
+   caer sobre una Feeling Crown (que no tiene las tres clases).
+3. **Vive declarado en frontmatter** — es la única marca del sistema
+   que **no se deriva**, porque no puede derivarse: Chavo vs Aries
+   del 31/1 es ICC sin PERFECT; el tag del 7/2 es ICC con PERFECT.
+   Campo: `perfect_declarado: true` (booleano). El resto del sistema
+   (clases, coronas) sigue derivándose de `clases_vehemiurgo` como
+   siempre — PERFECT es la excepción declarada, no el nuevo modelo.
+4. **Implementado**: `bin/archivo_lib.py` — `Ficha.perfect`
+   (frontmatter), `Ficha.corona_display` (corona + `" · PERFECT"`
+   cuando aplica), usado en `format_index_row`. **Lint E7**: una
+   pieza con `perfect_declarado: true` cuya corona no sea ICC/ICC+ es
+   error. Primera pieza marcada:
+   [`../archive/matches/2013-02-07-roode-aries-vs-chavo-hernandez-tag-titles-tna-impact.md`](../archive/matches/2013-02-07-roode-aries-vs-chavo-hernandez-tag-titles-tna-impact.md).
 
 **Nota terminológica**: el glosario ya usa *"Perfect Match"*
 informalmente como sinónimo de *pieza con Perfect Wrestling Class*.

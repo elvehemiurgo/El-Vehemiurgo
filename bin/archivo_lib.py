@@ -54,6 +54,20 @@ CORONAS = {
 CORONA_NOMBRE = {"FC": "Feeling Crown", "ICC": "Instant Classic Crown",
                  "FC+": "Feeling Crown+", "ICC+": "Instant Classic Crown+"}
 
+# PERFECT: marcador declarado por el Vehemiurgo el 2026-09-05 (s62) —
+# "démosle la corona más un PERFECT, esta es la definición de
+# wrestling" (Roode & Aries vs Chavo & Hernandez, TNA, 7/2/2013).
+# Resuelto por interpretación editorial el 2026-09-09 (s65), en
+# ausencia de mayor especificación del Vehemiurgo — ver
+# glossary/clases-vehemiurgo.md para la doctrina completa y la
+# posibilidad de ajuste. A diferencia de las coronas, NO se puede
+# derivar de clases_vehemiurgo (dos piezas con las mismas tres clases
+# pueden diferir en PERFECT), así que es el primer marcador que SÍ
+# vive declarado en frontmatter: `perfect_declarado: true`. Solo es
+# válido sobre una pieza que ya tenga ICC o ICC+ (lint E7) — PERFECT
+# es el tope dentro del tope, no un cuarto eje.
+CORONAS_PERFECT_OK = {"ICC", "ICC+"}
+
 # (Las equivalencias legacy tipo elias→elijah viven en el registro,
 # sección "Equivalencias de matching" — ver load_equivalencias().)
 
@@ -141,6 +155,7 @@ class Ficha:
     veces: str
     clases: list = field(default_factory=list)
     participantes: list = field(default_factory=list)
+    perfect: bool = False
 
     @property
     def clase_abbr(self):
@@ -150,6 +165,14 @@ class Ficha:
     def corona(self):
         """Sigla de la corona que la combinación de clases otorga, o "—"."""
         return CORONAS.get(frozenset(self.clases), "—")
+
+    @property
+    def corona_display(self):
+        """Corona + sufijo PERFECT cuando corresponde (ver CORONAS_PERFECT_OK)."""
+        c = self.corona
+        if self.perfect and c in CORONAS_PERFECT_OK:
+            return f"{c} · PERFECT"
+        return c
 
     @property
     def emp(self):
@@ -173,6 +196,7 @@ def load_ficha(path):
         veces=scl("veces_visto_vehemiurgo", "0"),
         clases=lst("clases_vehemiurgo"),
         participantes=lst("participantes") or lst("protagonistas"),
+        perfect=scl("perfect_declarado", "false").strip().lower() == "true",
     )
 
 
@@ -196,9 +220,9 @@ def format_index_row(f):
     cell = lambda s: s.replace("|", "\\|")
     if f.kind == "matches":
         return (f"| {f.fecha} | {cell(f.titulo)} | {cell(f.emp)} | {f.clase_abbr} "
-                f"| {f.corona} | {f.estado} | {f.veces} | [→]({f.path.name}) |")
+                f"| {f.corona_display} | {f.estado} | {f.veces} | [→]({f.path.name}) |")
     return (f"| {f.fecha} | {cell(f.titulo)} | {cell(f.emp)} | {cell(f.tipo_segmento)} "
-            f"| {f.clase_abbr} | {f.corona} | {f.estado} | {f.veces} | [→]({f.path.name}) |")
+            f"| {f.clase_abbr} | {f.corona_display} | {f.estado} | {f.veces} | [→]({f.path.name}) |")
 
 
 # ── registro de nombres canónicos ────────────────────────────────

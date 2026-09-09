@@ -307,6 +307,18 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   (s59)**: **WE+ sí entra en las coronas**, como **Corona+** (ver el
   bullet anterior), y **el segmento Cody Rhodes / Randy Orton del
   28/8/2026 —el que disparó la ley— sube a WE+**.
+- **PERFECT (declarado 2026-09-05 s62, mecánica resuelta 2026-09-09
+  s65)**: *"démosle la corona más un PERFECT, esta es la definición
+  de wrestling"* (Roode & Aries vs Chavo & Hernandez, TNA
+  2013-02-07). **Marcador que se suma a una corona, no corona
+  nueva**, y **solo válido sobre Instant Classic Crown o Crown+**
+  (una pieza necesita ya las tres clases para ser "la definición de
+  wrestling"). A diferencia de todo lo demás en §4, **no se deriva**:
+  vive declarado en frontmatter (`perfect_declarado: true`), único
+  campo de esa naturaleza en el sistema. Mecánica resuelta por
+  interpretación editorial en ausencia de mayor especificación —
+  ajustable con una sola frase del Vehemiurgo. Doctrina completa,
+  incluida la razón de cada decisión: `glossary/clases-vehemiurgo.md`.
 
 ---
 

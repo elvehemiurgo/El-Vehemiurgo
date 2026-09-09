@@ -70,7 +70,7 @@ dos tiers de profundidad:
 | **Kay Lee Ray** | Joshi-British / STARDOM-WWE — **ascendida del Tier 3 (#33)** | _(ficha pendiente)_ |
 | **Zack Gibson** | British indie moderno (Liverpool) — **ascendido del Tier 3 (#26)** | _(ficha pendiente)_ |
 | **Nick Aldis / Magnus** | NWA / estilo clásico — **ascendido del Tier 3 (#52)** | [→](../people/nick-aldis.md) |
-| **Austin Aries** | ROH/TNA/WWE (*A Double*) — **ascendido del Tier 2 (#17)** | _(ficha pendiente)_ |
+| **Austin Aries** | ROH/TNA/WWE (*A Double*) — **ascendido del Tier 2 (#17)** | [→](../people/austin-aries.md) |
 | **Aspyn Faith** | British indie | _(ficha pendiente)_ |
 | **Mark Coffey** | British indie / Gallus | _(ficha pendiente)_ |
 | **Eddie Edwards** | Strong style americano — **ascendido del Tier 2 (#11, entrada individual)** | [→](../people/eddie-edwards.md) |
@@ -80,7 +80,7 @@ dos tiers de profundidad:
 | **Gail Kim** | Pionera de la división femenina TNA/WWE | _(ficha pendiente)_ |
 | **Chris Sabin** | X-Division / Motor City Machine Guns | _(ficha pendiente)_ |
 | **Alex Shelley** | X-Division / Motor City Machine Guns | _(ficha pendiente)_ |
-| **Bobby Roode** | TNA / heel de oficio | _(ficha pendiente)_ |
+| **Bobby Roode** | TNA / heel de oficio | [→](../people/bobby-roode.md) |
 | **Low Ki** | Indie americano / strong style puro | [→](../people/low-ki.md) |
 | **"Macho Man" Randy Savage** | Carny / draw histórico — **ascendido del Tier 3 (#40)** | _(ficha pendiente)_ |
 | **Hulk Hogan** | Carny / el máximo draw — **ascendido del Tier 3 (#41)** | _(ficha pendiente)_ |
@@ -89,8 +89,8 @@ dos tiers de profundidad:
 | **LA Knight / Eli Drake** | Carny / promo-driven — **ascendido del Tier 3 (#28)** | [→](../people/la-knight.md) |
 | **EC3** | IMPACT Wrestling | _(ficha pendiente)_ |
 | **Bryan Danielson** | Worker de oficio total | _(ficha pendiente)_ |
-| **Dirty Heels** *(tag team: Austin Aries y Bobby Roode)* | TNA / heels de oficio — **alta s55** | _(ficha pendiente)_ |
-| **Kazarian & Daniels** *(Bad Influence / The Addiction)* | Tag / TNA-ROH — **ascendidos del Tier 3 (#45), s55, ratificado por el Vehemiurgo** | [→](../people/frankie-kazarian.md) |
+| **Dirty Heels** *(tag team: Austin Aries y Bobby Roode)* | TNA / heels de oficio — **alta s55** | [→](../promotions/dirty-heels.md) |
+| **Kazarian & Daniels** *(Bad Influence / The Addiction)* | Tag / TNA-ROH — **ascendidos del Tier 3 (#45), s55, ratificado por el Vehemiurgo** | [→](../people/frankie-kazarian.md) · [→](../people/christopher-daniels.md) |
 
 **Baja del Tier 0 — Chris Hero (2026-08-01 s32)**
 
