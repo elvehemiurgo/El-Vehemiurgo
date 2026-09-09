@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dave-crist
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s23 (visión directa — CZW Awakening 14/1/2017, VEHEMIURGIA)"
   - "Sub-agente czw-2017-calendario (research 2026-08-01, closed)"
@@ -82,6 +82,25 @@ fundamentos"*: los tres ejes en una línea. **Corona+.**
 
 **Pieza de la sesión**:
 [OI4K vs Sozio & Biff Busick](../matches/2013-09-14-oi4k-vs-sozio-biff-busick-czw-dwts.md) (ICC+)
+
+### Sesión 2026-09-09 s64 — Spots brutales y bumps enfermos, en el cierre de la guerra de OI4K
+
+**Cita verbatim** (CZW Cage of Death XV, 14/12/2013):
+
+> *"OI4K vs the front, brutal, venden muy bien la rivalidad [...] sick
+> fucking tag moves, Dave Crist tiene spots brutales y bumps enfermos
+> como siempre"*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: atributo fijo, consistente con su ficha
+fundacional (s23, *"y2k nu metal auténtico"*). Este match cierra el
+feud del año contra DJ Hyde y The Front — tres meses después, el
+Vehemiurgo leería las mismas *"heridas de guerra"* en High Stakes 5.
+
+**Piezas de la sesión**:
+[vs DJ Hyde & The Front (cierre del feud)](../matches/2013-12-14-oi4k-vs-dj-hyde-the-front-czw-cod15.md) (ICC+) ·
+[8-man en High Stakes 5](../matches/2014-03-08-juicy-product-colon-busick-vs-oi4k-dickinson-azrieal-czw-highstakes5.md) (ICC+)
 
 ## Pendientes / huecos
 

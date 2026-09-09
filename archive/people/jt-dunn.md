@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jt-dunn
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s25 (VISIONADO DIRECTO — CZW The Wolf of Wrestling 14/10/2017, VEHEMIURGIA)"
   - "Sub-agente czw-cade-spacemonkey-trevorlee (research 2026-08-01, closed) — PWPonderings, BackBodyDrop"
@@ -106,6 +106,28 @@ también tiene su estilo en el mic"*. Tres clases (ICC).
 
 **Pieza de la sesión**:
 [Juicy Product vs 4Loko](../matches/2013-09-14-juicy-product-vs-4-loco-czw-dwts.md) (ICC)
+
+### Sesión 2026-09-09 s64 — El que dirige el descontrol, y los strikes que "mete muy bien"
+
+**Citas verbatim** (CZW Cerebral 12/10, Cage of Death XV
+14/12/2013):
+
+> *"JT estuvo brillante con sus interferencias [...] Dunn terminó
+> brillando por poder armar secuencias con él así dirigiendo la
+> acción"*
+>
+> *"Dunn mete muy bien los strikes, final muy cool"*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: el contrapeso exacto a la debilidad declarada
+de Hollister en Cerebral — Dunn como el que "dirige la acción" y
+"arma secuencias" cuando el compañero de ring resta. Consistente con
+su ficha (*"el último roaring elbow efectivo"*).
+
+**Piezas de la sesión**:
+[vs Konley & Hollister](../matches/2013-10-12-juicy-product-vs-konley-hollister-czw-cerebral.md) (FC) ·
+[vs BLK OUT](../matches/2013-12-14-juicy-product-vs-blk-out-tag-titles-czw-cod15.md) (FC)
 
 ## Pendientes / huecos
 

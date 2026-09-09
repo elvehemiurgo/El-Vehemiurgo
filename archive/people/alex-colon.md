@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: alex-colon
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s27 (VISIONADO DIRECTO — CZW Proving Grounds 10/3/2018, VEHEMIURGIA)"
   - "Sub-agente czw-proving-grounds-botb17 (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
@@ -60,6 +60,34 @@ fuentes_principales:
 de una jugada de booking de mezcla — su historia backstage con Claxton
 se convierte en el vehículo para servir simultáneamente el arco de
 MJF y el de RSP camino al título mundial.
+
+### Sesión 2026-09-09 s64 — Tres defensas del Wired Title: campeón homegrown que sabe hacer lucir a su rival
+
+**Citas verbatim** (CZW Down with the Sickness 14/9, Cerebral 12/10,
+Cage of Death XV 14/12/2013):
+
+> *"alex colon vs andrew everett vs shane strickland vs ar fox, por el
+> titulo wired [...] Everett definitivamente se robò el show"*
+>
+> *"andrew everett vs alex colon, es un buen showcase para Andrew como
+> ring general y logró que colón luciera bien como campeon, es buen
+> booking de czw para elevar a su campeon homegrown"*
+>
+> *"strickland vs colon, muy agresiva, muy entretenido el selling desde
+> el inicio, buen booking en la división"*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: Colon gana el título el 14/9 y lo retiene dos
+veces en el corpus — el Vehemiurgo lee la operación como **booking
+de negocio consciente**: *"elevar a su campeón homegrown"* usando a
+un rival (Everett) que sabe hacer lucir. Tres piezas, un solo campeón
+sostenido.
+
+**Piezas de la sesión**:
+[4-way por el Wired Title](../matches/2013-10-12-latin-dragon-vs-strickland-czw-cerebral.md) (contexto) ·
+[vs Andrew Everett](../matches/2013-10-12-everett-vs-colon-wired-title-czw-cerebral.md) (FC) ·
+[vs Shane Strickland](../matches/2013-12-14-strickland-vs-colon-wired-title-czw-cod15.md) (WE)
 
 ## Pendientes / huecos
 

@@ -86,6 +86,11 @@
 | **Kaz** | *"Kaz"* en dictados TNA = **Kazarian** (Frankie Kazarian). Segunda mención legítima en prosa; slug `frankie-kazarian`. |
 | **Joseph Park / Abyss** | *"parks"* en dictados TNA 2013 = **Joseph Park** (el gimmick de abogado de **Abyss**, misma persona, kayfabe "hermano"). En piezas 2013 se usa Joseph Park. |
 | **Magnus / Nick Aldis** | **Misma persona**: *Magnus* = ring name TNA 2009-2017; *Nick Aldis* = nombre real y ring name NWA/WWE. Ficha única `nick-aldis.md` (Héroe Fundamental #52). En prosa sobre TNA 2013 se escribe *Magnus*. |
+| **CVE** | Sigla de **Christina Von Eerie**, luchadora de la escena CZW/indie americana 2013. El Vehemiurgo dicta *"cve"* en minúsculas; canónico con mayúsculas CVE o nombre completo. Slug `christina-von-eerie` si se abre ficha. |
+| **Shanna** | Nombre real **Alexandra Barrulas** (Portugal, n. 8/7/1982). Cruce breve por CZW/indies americanas 2013; su etapa en Stardom (Japón) fue en **2016**, no simultánea a 2013 — el Vehemiurgo la recuerda en retrospectiva ("tuvo una época dorada en Stardom" es sobre 2016, tres años después de este dictado). |
+| **Latin Dragon** | Luchador retirado de **Canovanas, Puerto Rico** (activo 2010-2019), circuito indie del noreste de EE. UU. (Beyond Wrestling, CZW). Nombre real `[no confirmado]`. No confundir con otros "Dragon" del archivo. |
+| **Niles Sozio** | Nombre completo de **"Sozio"**, mitad de **The Front** (con Biff Busick) en la storyline CZW 2013-2014 contra DJ Hyde y OI4K. |
+| **Andrew Everett** | Nombre real **Drew Everett Wenkel** (n. 9/7/1992, Burlington, Carolina del Norte). Debutó enmascarado como *Chiva Kid*, se desenmascaró en 2013. **Nunca trabajó para WWE** (ni Cruiserweight Classic 2016 ni 205 Live) — no confundir con Kalisto (Jorge Arias), identidad separada. Impact Wrestling después (tag champion con DJZ). |
 | **"Priest" (dictado)** | **Dos personas distintas**, resueltas por contexto de show+fecha: **Adam Priest** (AEW, indie, ficha `adam-priest.md`, primer registro s26) y **Damián Priest** (WWE/Judgment Day, cruza a AAA desde el 30/8/2026, ficha `damian-priest.md`, s59). "Priest" a secas nunca se asume — ubicar el show y la fecha del dictado. |
 
 ## Equivalencias de matching (machine-readable, no linteadas)
@@ -102,6 +107,7 @@ este tipo; los scripts la leen en la próxima corrida.
 | elias | elijah |
 | magnus | aldis |
 | robbie-e | stone |
+| cve | christina-von-eerie |
 
 ## Método de identificación (ley operativa desde s44)
 

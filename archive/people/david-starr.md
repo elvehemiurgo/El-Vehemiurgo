@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: david-starr
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s23 (visión directa — VEHEMIURGIA CZW)"
   - "Sub-agentes czw-2017/2018-calendario (research 2026-08-01, closed)"
@@ -397,6 +397,33 @@ horas, en la última noche de su carrera en la casa.
 
 **Pieza de la sesión**:
 [Juicy Product vs 4Loko](../matches/2013-09-14-juicy-product-vs-4-loco-czw-dwts.md) (ICC)
+
+### Sesión 2026-09-09 s64 — Stiff, hostil con BLK Jeez, y "se hacía fama de aparecer en todo lado"
+
+**Citas verbatim** (CZW Cerebral 12/10, Cage of Death XV 14/12/2013,
+High Stakes 5 8/3/2014):
+
+> *"the juicy product vs konley and hollister, dream match, Starr
+> comienza muy tècnico"*
+>
+> *"Starr stiff como siempre, se puso muy hostil con blk jeez, buena
+> psicologia y blur de la realidad"*
+>
+> *"desde aqui David se hacia fama de aparecer en todo lado, viajando
+> luchando"*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: tres apariciones consecutivas del Juicy
+Product en el corpus, con Starr consistentemente *"stiff"* y
+*"técnico"*; el Vehemiurgo agrega un dato de carácter —
+*"aparecer en todo lado, viajando luchando"*— que precede al Starr
+itinerante documentado en el corpus CZW 2017-2018.
+
+**Piezas de la sesión**:
+[vs Konley & Hollister](../matches/2013-10-12-juicy-product-vs-konley-hollister-czw-cerebral.md) (FC) ·
+[vs BLK OUT](../matches/2013-12-14-juicy-product-vs-blk-out-tag-titles-czw-cod15.md) (FC) ·
+[8-man en High Stakes 5](../matches/2014-03-08-juicy-product-colon-busick-vs-oi4k-dickinson-azrieal-czw-highstakes5.md) (ICC+)
 
 ## Pendientes / huecos
 

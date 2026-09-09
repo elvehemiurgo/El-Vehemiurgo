@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: joe-gacy
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s24 (VISIONADO DIRECTO — CZW Sacrifices 13/5/2017, VEHEMIURGIA)"
   - "Sub-agente czw-2017-2018-repercusion (research 2026-08-01, closed)"
@@ -36,6 +36,26 @@ citado en la ficha del match, no veredicto propio.
 
 **Lectura sintética**: **FS·WE** para el match completo (declarada
 sobre el conjunto, ver ficha de Lio Rush).
+
+### Sesión 2026-09-09 s64 — Pesado en 2013, y el diagnóstico: "cambiar su estilo fue un error"
+
+**Cita verbatim** (CZW Cage of Death XV, 14/12/2013):
+
+> *"luego la six way con Azrael, everett, joe gacy, tony nese, chuck
+> taylor y ar fox, estuvo cool, se merece una WE, y de hecho Gacy se
+> ve genial asi pesado, debio ponerse en shape asi heavywight, cambiar
+> su estilo fue un error."*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: diagnóstico de carrera que excede el match —
+el Gacy de 2013, más pesado, se lee como mejor que la evolución
+posterior de su físico/estilo (hoy en WWE bajo otro gimmick).
+Investigación no pudo fechar el build específico; se registra como
+lectura del visionado directo del Vehemiurgo.
+
+**Pieza de la sesión**:
+[Six-Way Scramble](../matches/2013-12-14-six-way-azrieal-everett-gacy-nese-taylor-fox-czw-cod15.md) (WE — gana Gacy con splash, 10:53)
 
 ## Pendientes / huecos
 

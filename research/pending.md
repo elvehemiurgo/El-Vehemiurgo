@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| _(vacío — `wwe-nxt-010926` y `tna-impact-070213` cerradas el 2026-09-05, ver [`closed.md`](./closed.md))_ | | | | |
+| _(vacío — `czw-dwts-cont-cerebral`, `czw-cod15` y `czw-high-stakes-5` cerradas el 2026-09-09, ver [`closed.md`](./closed.md))_ | | | | |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).

@@ -4,7 +4,7 @@ slug: death-gods-of-wrestling
 tipo: topic
 categoria: lista-oficial
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s29 (fundación + roster inaugural completo)"
   - "Volcado Vehemiurgo 2026-08-01 s30 (segunda tanda: Oliver, Xavier, Wentz, EYFBO)"
@@ -12,8 +12,9 @@ fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s37 (tercera tanda: Jay Lethal)"
   - "Volcado Vehemiurgo 2026-08-26 s55 (cuarta tanda: Kid Kash, EZ Money, Ken Anderson, Keith Mitchell, Jim Johnston)"
   - "Volcado Vehemiurgo 2026-09-08 s63 (quinta tanda: Robbie E / Robert Stone, Shane Hollister, Caleb Konley, Candice LeRae)"
+  - "Volcado Vehemiurgo 2026-09-09 s64 (sexta tanda: Andrew Everett)"
   - "Sub-agente death-gods-roster (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
-tags: [death-gods-of-wrestling, lista-oficial, danny-havoc, brandon-kirk, jordan-oliver, eyfbo, deathmatch, czw, icw-escocia, indie-britanico, vehemiurgia-czw, tna-2013, czw-2013, robert-stone, shane-hollister, caleb-konley, candice-lerae]
+tags: [death-gods-of-wrestling, lista-oficial, danny-havoc, brandon-kirk, jordan-oliver, eyfbo, deathmatch, czw, icw-escocia, indie-britanico, vehemiurgia-czw, tna-2013, czw-2013, robert-stone, shane-hollister, caleb-konley, candice-lerae, andrew-everett]
 ---
 
 # DEATH GODS OF WRESTLING
@@ -197,10 +198,11 @@ con el par **Gunther / Cesaro** que el Vehemiurgo formuló en s29 — el
 Hero queda del lado de Cesaro, con la diferencia de que acá el
 Vehemiurgo lo lee como **rechazo voluntario**, no como inercia.
 
-## Roster vigente — **23 entradas**
+## Roster vigente — **24 entradas**
 
 *9 fundacionales (s29) + 4 de la segunda tanda (s30) + 1 alta s37 + 5 de
-la cuarta tanda (s55) + 4 de la quinta tanda (s63). Sin bajas.*
+la cuarta tanda (s55) + 4 de la quinta tanda (s63) + 1 de la sexta tanda
+(s64). Sin bajas.*
 
 | Death God | Escena | Estado |
 |---|---|---|
@@ -227,6 +229,7 @@ la cuarta tanda (s55) + 4 de la quinta tanda (s63). Sin bajas.*
 | **Shane Hollister** | AAW (Chicago) / CZW 2013 | [verif] (último dato: regreso a AAW, 2022) — [→](../people/shane-hollister.md) |
 | **Caleb Konley** | PWX / CZW → TNA (The Cult of Lee) → JCW | Activo — [→](../people/caleb-konley.md) |
 | **Candice LeRae** | Indies de California / CZW / PWG → WWE | Activa — [→](../people/candice-lerae.md) |
+| **Andrew Everett** | Indies americanas / CZW 2013 → Impact Wrestling | Activo — [→](../people/andrew-everett.md) |
 
 **Bajas**: ninguna. *(Chris Hero fue dado de baja del **Tier 0 del panteón** en s32 y quedó como miembro pleno de esta lista — ver el fallo arriba.)*
 
@@ -399,3 +402,36 @@ los cuatro está en el panteón (regla de exclusión, caso Roode s55).
   sin ella.
 
 **Notebook**: [`../../notebook/2026-08-01-s63-tna-impact-140213-210213-czw-dwts-140913.md`](../../notebook/2026-08-01-s63-tna-impact-140213-210213-czw-dwts-140913.md)
+
+## Sexta tanda — 2026-09-09 s64 (1 alta)
+
+Volcado de **CZW Down with the Sickness (cierre) y Cerebral, ambos de
+2013**. Una alta, sin retención: Andrew Everett no está en el
+panteón.
+
+### La cita
+
+> *"Everett definitivamente se robò el show, empujò mucho la lucha con
+> su selling nivel Shawn Michaels, se merecen WE y FS classes*
+>
+> *Pongamos a Andrew Everett en los death gods"*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+### La alta ejecutada (1)
+
+| Death God | Escena | Por qué entra, según el Vehemiurgo |
+|---|---|---|
+| **Andrew Everett** | Indies americanas / CZW 2013 → Impact Wrestling | *"empujó mucho la lucha con su selling nivel Shawn Michaels"* — en un 4-way por el título Wired donde *"se robó el show"*. |
+
+### Lo que confirma del criterio
+
+- **Alta en caliente, dentro del mismo elogio técnico**: no hay
+  distancia entre el análisis del match y la declaración de lista —
+  patrón ya visto en la quinta tanda (Hollister/Konley/LeRae, s63).
+- **Comparación con una figura del panteón (Shawn Michaels) como
+  vara de medida**, sin que eso implique candidatura a panteón para
+  Everett — la lista sigue siendo *"cautivaron sin escala de
+  panteón"*.
+
+**Notebook**: [`../../notebook/2026-08-01-s64-czw-dwts-cont-cerebral-cod15-highstakes5.md`](../../notebook/2026-08-01-s64-czw-dwts-cont-cerebral-cod15-highstakes5.md)

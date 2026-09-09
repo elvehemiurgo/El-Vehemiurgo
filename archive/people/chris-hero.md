@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chris-hero
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s26 (alta al Tier 0), s29 (alta a los DEATH GODS), s31-s32 (fallo: baja del Tier 0, queda en los DEATH GODS)"
   - "Sub-agente death-gods-roster (research 2026-08-01) — WebSearch; Cagematch/wikis bloqueados"
@@ -137,6 +137,29 @@ Vehemiurgo lo lee como **rechazo voluntario**, no como inercia.
 **Precedente fijado**: la membresía en el panteón y en los Death Gods
 es **mutuamente excluyente**, y el paso de una lista a otra es posible
 en las dos direcciones. **Este es el primer caso.**
+
+### Sesión 2026-09-09 s64 — Regresa a CZW de frente contra el campeón — "si tan solo hubiera conservado así su físico"
+
+**Cita verbatim** (CZW Cage of Death XV, 14/12/2013):
+
+> *"Chris Hero regresa a CZW interrumpiendo a Tommy Dreamer, y de
+> frente contra el campeón Gulak, buen setup, buenos stakes, dream
+> match, top tier american wrestling, lucha generacional con buenos
+> stakes, se merece las 3 clases con la cornoa +, si tan solo Hero
+> hubiera conservado así su físico, sería más famoso, pero bueno,
+> sigue siendo legendario y es un lujo verlo en pleno 2013 con stakes
+> importantes."*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: el diagnóstico de carrera más duro y afectuoso
+del corpus — *"sería más famoso"* si hubiera conservado el físico,
+pero *"sigue siendo legendario"*. Su primer registro en el archivo
+como DEATH GOD (Tier 0 dado de baja en s31-s32) confrontando a un
+campeón vigente del corpus CZW.
+
+**Pieza de la sesión**:
+[vs Drew Gulak (título mundial)](../matches/2013-12-14-chris-hero-vs-gulak-world-title-czw-cod15.md) (ICC+)
 
 ## Pendientes / huecos
 

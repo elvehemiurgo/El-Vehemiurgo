@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: shane-strickland
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s24 (VISIONADO DIRECTO — CZW Sacrifices 13/5/2017, VEHEMIURGIA)"
   - "Sub-agente czw-2017-2018-repercusion (research 2026-08-01, closed)"
@@ -65,6 +65,33 @@ COD19, que **retiene Rickey Shane Page**. Después de eso, Strickland
 deja CZW rumbo a MLW.
 
 **Pieza**: [vs Ethan Page, Wolf of Wrestling](../matches/2017-10-14-ethan-page-vs-shane-strickland-czw-wolf-of-wrestling.md) (PW·FS·WE)
+
+### Sesión 2026-09-09 s64 — De la apertura perfecta a nuevo campeón Wired: dos shows, dos coronas
+
+**Citas verbatim** (CZW Cerebral 12/10/2013, Cage of Death XV
+14/12/2013, High Stakes 5 8/3/2014):
+
+> *"latin dragon vs shane strickland, una lucha muy indie oldschool
+> [...] les quedò una lucha genial se merece las 3 clases con la
+> corona +; fue perfecta"*
+>
+> *"strickland vs colon, muy agresiva [...] se merecen una WE"*
+>
+> *"Strickland vs Devon More estuvo cool, se merece una WE y FS
+> classes, muy brutal, verde por breves momentos, pero lo mantuvieron
+> real"*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: la declaración más alta del corpus CZW
+2013-2014 (*"fue perfecta"*, ICC+) es para su apertura en Cerebral;
+cinco meses después, **le gana el título Wired a Devon Moore** en
+High Stakes 5 — arco de ascenso documentado en tres piezas.
+
+**Piezas de la sesión**:
+[vs Latin Dragon](../matches/2013-10-12-latin-dragon-vs-strickland-czw-cerebral.md) (ICC+) ·
+[vs Alex Colon](../matches/2013-12-14-strickland-vs-colon-wired-title-czw-cod15.md) (WE) ·
+[vs Devon Moore (gana el Wired Title)](../matches/2014-03-08-strickland-vs-devon-moore-wired-title-czw-highstakes5.md) (FC)
 
 ## Pendientes / huecos
 

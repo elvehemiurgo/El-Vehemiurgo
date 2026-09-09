@@ -339,18 +339,62 @@ pero la reserva se anota).
 
 ---
 
+## Lo que devolvió el research (2026-09-09, post-volcado)
+
+Tres sub-agentes, WebSearch solo (WebFetch bloqueado por egress).
+Corrige o cierra lo que el dictado dejaba abierto:
+
+- **Osirian Portal vs BLK OUT y Dickinson vs Gulak (cierre de DwtS)
+  son las MISMAS luchas ya cerradas en s63**, no revanchas
+  independientes esa noche: BLK OUT retiene 8:17; Gulak retiene por
+  sumisión 18:55. La "revancha" que leyó el Vehemiurgo remite a
+  historia previa (un Tangled Web anterior para el tag; Tournament of
+  Death 12 + Beyond Wrestling para Dickinson/Gulak).
+- **Latin Dragon**: de Canovanas, Puerto Rico (no Filadelfia).
+  **Strickland gana la apertura de Cerebral con Swerve Stomp, 2:47.**
+- **CVE = Christina Von Eerie**, confirmado. **Shanna** = Alexandra
+  Barrulas; su etapa dorada en Stardom fue **2016**, tres años
+  después de esta lucha — memoria retrospectiva correcta pero de
+  otro período.
+- **Andrew Everett**: nombre real Drew Everett Wenkel; **nunca
+  trabajó para WWE** (se descarta esa hipótesis del research).
+- **Cage of Death XV — corrección importante**: el cierre del feud
+  OI4K vs DJ Hyde/The Front **fue un mixed six-man**: OI4K = **Dave,
+  Jake Y NEVAEH** (los tres) vencieron a DJ Hyde & The Front, con
+  **Nevaeh rematando el pin con sillazos sobre Hyde**. El dictado
+  original solo mencionó a Dave y Jake — corregido en la ficha.
+- **El six-way de Cage of Death XV lo gana Joe Gacy** (splash, 10:53)
+  — consistente con el elogio del Vehemiurgo sobre su físico.
+- **Davey Richards vs Dickinson**: confirmada la cronología de la
+  gira de retiro — salida de ROH el 30/11/2013 (dos semanas antes),
+  despedida de PWG el 21/12 (una semana después). Gana **Dickinson,
+  17:02**, match of the night según reseñas de época.
+- **High Stakes 5**: **Strickland le gana el título Wired a Devon
+  Moore** (10:15, con contradicción de fuente a 14:04) — cambio de
+  título que el dictado no anticipaba. **Gulak retiene el título
+  mundial ante AR Fox en el main event, 28:36** (la defensa más larga
+  del corpus). **La gira de los Crist en Japón se confirma**: Big
+  Japan Pro Wrestling, sept-oct. 2013 y fin de año, regreso a CZW el
+  11/1/2014 — el Vehemiurgo tenía razón sin apoyo del archivo.
+- **Contraste de escuela**: una reseña de época calificó el feud
+  OI4K/DJ Hyde de "estancado" — lectura opuesta a la del Vehemiurgo
+  sobre cómo se vendieron las secuelas en High Stakes 5. Registrado
+  como contraste editorial, no como hecho en disputa.
+- **Conteo final**: 21 fichas de match (no 21-22 como se estimó al
+  cierre del dictado — la incertidumbre de las piezas #1 y #2 de
+  DwtS se resolvió sin sumar luchas nuevas).
+
 ## Próximos pasos
 
-- [ ] Research lanzado (3 sub-agentes): cierre de Down with the
+- [x] Research cerrado (3 sub-agentes) → `research/closed.md`: cierre de Down with the
       Sickness (Osirian Portal/BLK OUT — confirmar si es revancha
       real o la misma lucha del tag title ya cerrada; Dickinson/Gulak
       — confirmar si es el mismo match por el título mundial ya
       cerrado o uno aparte) + CZW Cerebral completo + Cage of Death XV
       completo + High Stakes 5 completo.
-- [ ] 21-22 fichas nuevas (pendiente de la resolución de #1 y #2) +
-      ficha nueva de Andrew Everett (DEATH GODS) + bloques de sesión
-      en people existentes (Colon, Strickland, Gacy, Konley, Hollister,
-      Starr, Dunn, Crist x2, Chris Hero).
+- [x] 21 fichas de match + 5 fichas de people nuevas (Andrew Everett
+      [DEATH GODS], Chris Dickinson, Drew Gulak, AR Fox, Davey
+      Richards) + 10 bloques de sesión en people existentes.
 - [ ] Fichas nuevas a evaluar según lo que traiga el research: Chris
       Dickinson, Drew Gulak, AR Fox, Latin Dragon, CVE, Kimber Lee,
       Shanna, Davey Richards, Dalton Castle, Timothy Thatcher (todos

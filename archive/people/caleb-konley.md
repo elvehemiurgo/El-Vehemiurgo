@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: caleb-konley
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO — 2013 09 14 CZW Down with the Sickness)"
   - "Sub-agente research-czw-dwts-140913 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress"
@@ -69,6 +69,31 @@ tags: [caleb-konley, czw-2013, pwx, carolina-del-norte, trevor-lee, cult-of-lee,
 
 **Pieza de la sesión**:
 [vs The Beaver Boys](../matches/2013-09-14-hollister-konley-vs-beaver-boys-czw-dwts.md) (WE, a Hollister & Konley)
+
+### Sesión 2026-09-09 s64 — De dupla con Hollister a "por fin Konley en solitario"
+
+**Citas verbatim** (CZW Cerebral 12/10/2013, High Stakes 5
+8/3/2014):
+
+> *"the juicy product vs konley and hollister, dream match [...] fue
+> una buena lucha, se merecen una WE y FS classes"*
+>
+> *"Alexander vs Caleb Konley, por fin Konley en solitario, muy
+> agresivo, tuvo sus runs como babyface exitosas por ahi en las
+> indies [...] muy buenos strikes de Caleb, y spots cool, se merecen
+> una WE y FS, se dieron muy duro, estuvo cool"*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: el Vehemiurgo marca el hito explícitamente —
+*"por fin Konley en solitario"* — tras dos apariciones en dupla con
+Hollister en el corpus. Proyección de carrera confirmada por el
+archivo: sus *"runs como babyface"* en las indies se documentan en
+The Cult of Lee (TNA 2018).
+
+**Piezas de la sesión**:
+[con Hollister vs Juicy Product](../matches/2013-10-12-juicy-product-vs-konley-hollister-czw-cerebral.md) (FC) ·
+[vs Alexander James](../matches/2014-03-08-alexander-james-vs-konley-czw-highstakes5.md) (FC — gana Konley)
 
 ## Pendientes / huecos
 

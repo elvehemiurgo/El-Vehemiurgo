@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: shane-hollister
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO — 2013 09 14 CZW Down with the Sickness)"
   - "Sub-agente research-czw-dwts-140913 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress"
@@ -72,6 +72,27 @@ tags: [shane-hollister, czw-2013, aaw, death-gods-of-wrestling, oldschool-americ
 
 **Pieza de la sesión**:
 [vs The Beaver Boys](../matches/2013-09-14-hollister-konley-vs-beaver-boys-czw-dwts.md) (WE, a Hollister & Konley)
+
+### Sesión 2026-09-09 s64 — "Definitivamente el más débil con su wrestling" — y los botches que se supieron manejar
+
+**Cita verbatim** (CZW Cerebral, 12/10/2013):
+
+> *"Hollister definitivamente es el màs debil con su wrestling, pero
+> si se pone fìsico de hecho por un par de botches de Hollister la
+> lucha se pone màs stiff, lo supieron manejar bien y vender el
+> descontrol [...] Hollister restó mucho en esta lucha pero Dunn
+> terminó brillando por poder armar secuencias con él así dirigiendo
+> la acción; fue una buena lucha, se merecen una WE y FS classes"*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: la reserva más honesta del corpus sobre
+Hollister — pero los botches se leen como oficio vendido, no como
+fallo fatal. La clase se sostiene porque JT Dunn dirige el
+descontrol.
+
+**Pieza de la sesión**:
+[con Konley vs Juicy Product](../matches/2013-10-12-juicy-product-vs-konley-hollister-czw-cerebral.md) (FC)
 
 ## Pendientes / huecos
 

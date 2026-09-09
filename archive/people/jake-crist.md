@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jake-crist
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s23 (visión directa — CZW Awakening 14/1/2017, VEHEMIURGIA)"
 ---
@@ -88,6 +88,28 @@ de *"full wrestler, uno de mis favoritos"* (s23).
 
 **Pieza de la sesión**:
 [OI4K vs Sozio & Biff Busick](../matches/2013-09-14-oi4k-vs-sozio-biff-busick-czw-dwts.md) (ICC+)
+
+### Sesión 2026-09-09 s64 — El suplex hacia afuera que cierra la guerra, y la gira de Japón confirmada
+
+**Citas verbatim** (CZW Cage of Death XV 14/12/2013, High Stakes 5
+8/3/2014):
+
+> *"luego Jake con el suplex hacia afuera y el final tambien estuvo
+> cool, brutal, se merecen las 3 clases con la corona +"*
+>
+> *"los Crist estuvieron en japon por esas fechas"*
+>
+> — El Vehemiurgo, 2026-09-09 s64 (verbatim, typos preservados)
+
+**Lectura sintética**: research confirma la gira de Japón — Big
+Japan Pro Wrestling (Dai Nihon Saikyo Tag League, sept-oct. 2013) y
+una segunda ventana BJW-DDT-K-DOJO a fin de año, con regreso a CZW
+el 11/1/2014. El Vehemiurgo tenía razón sin que el archivo se lo
+sugiriera — memoria histórica en acción.
+
+**Piezas de la sesión**:
+[vs DJ Hyde & The Front (cierre del feud)](../matches/2013-12-14-oi4k-vs-dj-hyde-the-front-czw-cod15.md) (ICC+) ·
+[8-man en High Stakes 5](../matches/2014-03-08-juicy-product-colon-busick-vs-oi4k-dickinson-azrieal-czw-highstakes5.md) (ICC+)
 
 ## Pendientes / huecos
 
