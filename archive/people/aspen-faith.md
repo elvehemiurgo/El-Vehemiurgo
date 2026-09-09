@@ -36,7 +36,12 @@ tags: [aspen-faith, lost-boy-aspen, icw, aberdeen, kings-of-catch, lewis-girvan,
 
 ## Lectura editorial del Vehemiurgo
 
-Nombrado en la lista masiva del 2026-06-17 (*"Aspyn Faith (uk wrestler)"*) y como cuarto de The Filthy Generation. Es el nombre del panteón con menos rastro en el archivo — entra por la escena (ICW, la generación de Girvan y KLR) más que por una pieza vista. **La corrección de research importa**: la ficha de Girvan trataba a *Lost Boy Aspen* como un rival distinto; es él.
+Nombrado en la lista masiva del 2026-06-17 y como cuarto de The Filthy Generation:
+
+> *"Aspyn Faith (uk wrestler)"*
+>
+> — El Vehemiurgo, 2026-08-01 s26 (verbatim, typos preservados)
+ Es el nombre del panteón con menos rastro en el archivo — entra por la escena (ICW, la generación de Girvan y KLR) más que por una pieza vista. **La corrección de research importa**: la ficha de Girvan trataba a *Lost Boy Aspen* como un rival distinto; es él.
 
 ## Pendientes / huecos
 
