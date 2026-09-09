@@ -4,7 +4,7 @@ slug: heroes-fundamentales-vehemiurgia
 tipo: topic
 categoria: doctrina-tradicion
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-09
 fuentes_principales:
   - "Notebooks del Vehemiurgo (declaraciones dispersas 2026-05-09 → 2026-06-17)"
   - "Reorganización completa del panteón 2026-05-26"
@@ -60,35 +60,35 @@ dos tiers de profundidad:
 | **David Starr** | Indie americano/British workhorse — ascendido del Tier 3 (#31) | [→](../people/david-starr.md) |
 | **Trevor Lee** | Indie americano / X-Division (CWF Mid-Atlantic, TNA) — alta 2026-08-01 s25 | [→](../people/trevor-lee.md) |
 | **Ethan Page** | Indie americano / agente libre old-school | [→](../people/ethan-page.md) |
-| **Josh Alexander** | Indie canadiense / técnico completo | _(ficha pendiente)_ |
+| **Josh Alexander** | Indie canadiense / técnico completo | [→](../people/josh-alexander.md) |
 | **Finn Bálor / Prince Devitt** | Bullet Club original / Demon — **ascendido del Tier 3 (#48)** | [→](../people/finn-balor.md) |
-| **Adam Cole** | Indie americano (PWG/ROH) → NXT/AEW | _(ficha pendiente)_ |
+| **Adam Cole** | Indie americano (PWG/ROH) → NXT/AEW | [→](../people/adam-cole.md) |
 | ~~**Chris Hero**~~ | ~~Indie americano — el workhorse maestro~~ — **BAJA 2026-08-01 s32**, pasa a los [DEATH GODS](./death-gods-of-wrestling.md) | [→](../people/chris-hero.md) |
-| **Kyle O'Reilly** | Strong style / ROH — **ascendido del Tier 2 (#12)** | _(ficha pendiente)_ |
-| **TJP** | Junior heavyweight / técnico | _(ficha pendiente)_ |
+| **Kyle O'Reilly** | Strong style / ROH — **ascendido del Tier 2 (#12)** | [→](../people/kyle-oreilly.md) |
+| **TJP** | Junior heavyweight / técnico | [→](../people/tjp.md) |
 | **Myron Reed** | Indie americano / highspeed (MLW) — **ascendido del Tier 3 (#36)** | [→](../people/myron-reed.md) |
-| **Kay Lee Ray** | Joshi-British / STARDOM-WWE — **ascendida del Tier 3 (#33)** | _(ficha pendiente)_ |
-| **Zack Gibson** | British indie moderno (Liverpool) — **ascendido del Tier 3 (#26)** | _(ficha pendiente)_ |
+| **Kay Lee Ray** | Joshi-British / STARDOM-WWE — **ascendida del Tier 3 (#33)** | [→](../people/kay-lee-ray.md) |
+| **Zack Gibson** | British indie moderno (Liverpool) — **ascendido del Tier 3 (#26)** | [→](../people/zack-gibson.md) |
 | **Nick Aldis / Magnus** | NWA / estilo clásico — **ascendido del Tier 3 (#52)** | [→](../people/nick-aldis.md) |
 | **Austin Aries** | ROH/TNA/WWE (*A Double*) — **ascendido del Tier 2 (#17)** | [→](../people/austin-aries.md) |
-| **Aspyn Faith** | British indie | _(ficha pendiente)_ |
-| **Mark Coffey** | British indie / Gallus | _(ficha pendiente)_ |
+| **Aspen Faith** | British indie | [→](../people/aspen-faith.md) |
+| **Mark Coffey** | British indie / Gallus | [→](../people/mark-coffey.md) |
 | **Eddie Edwards** | Strong style americano — **ascendido del Tier 2 (#11, entrada individual)** | [→](../people/eddie-edwards.md) |
-| **Davey Richards** | Strong style americano — **ascendido del Tier 2 (#11, entrada individual)** | _(ficha pendiente)_ |
+| **Davey Richards** | Strong style americano — **ascendido del Tier 2 (#11, entrada individual)** | [→](../people/davey-richards.md) |
 | **Brian Myers** | Indie americano / TNA | [→](../people/brian-myers.md) |
 | **Chelsea Green** | WWE moderno / kayfabe y amor por el gimmick — **ascendida del Tier 3 (#51)** | [→](../people/chelsea-green.md) |
-| **Gail Kim** | Pionera de la división femenina TNA/WWE | _(ficha pendiente)_ |
-| **Chris Sabin** | X-Division / Motor City Machine Guns | _(ficha pendiente)_ |
-| **Alex Shelley** | X-Division / Motor City Machine Guns | _(ficha pendiente)_ |
+| **Gail Kim** | Pionera de la división femenina TNA/WWE | [→](../people/gail-kim.md) |
+| **Chris Sabin** | X-Division / Motor City Machine Guns | [→](../people/chris-sabin.md) |
+| **Alex Shelley** | X-Division / Motor City Machine Guns | [→](../people/alex-shelley.md) |
 | **Bobby Roode** | TNA / heel de oficio | [→](../people/bobby-roode.md) |
 | **Low Ki** | Indie americano / strong style puro | [→](../people/low-ki.md) |
-| **"Macho Man" Randy Savage** | Carny / draw histórico — **ascendido del Tier 3 (#40)** | _(ficha pendiente)_ |
-| **Hulk Hogan** | Carny / el máximo draw — **ascendido del Tier 3 (#41)** | _(ficha pendiente)_ |
-| **HHH (Triple H)** | Carny / booker-talent — **ascendido del Tier 2 (#22)** | _(ficha pendiente)_ |
-| **Raven** | ECW / mente del oficio | _(ficha pendiente)_ |
+| **"Macho Man" Randy Savage** | Carny / draw histórico — **ascendido del Tier 3 (#40)** | [→](../people/randy-savage.md) |
+| **Hulk Hogan** | Carny / el máximo draw — **ascendido del Tier 3 (#41)** | [→](../people/hulk-hogan.md) |
+| **HHH (Triple H)** | Carny / booker-talent — **ascendido del Tier 2 (#22)** | [→](../people/triple-h.md) |
+| **Raven** | ECW / mente del oficio | [→](../people/raven.md) |
 | **LA Knight / Eli Drake** | Carny / promo-driven — **ascendido del Tier 3 (#28)** | [→](../people/la-knight.md) |
-| **EC3** | IMPACT Wrestling | _(ficha pendiente)_ |
-| **Bryan Danielson** | Worker de oficio total | _(ficha pendiente)_ |
+| **EC3** | IMPACT Wrestling | [→](../people/ec3.md) |
+| **Bryan Danielson** | Worker de oficio total | [→](../people/bryan-danielson.md) |
 | **Dirty Heels** *(tag team: Austin Aries y Bobby Roode)* | TNA / heels de oficio — **alta s55** | [→](../promotions/dirty-heels.md) |
 | **Kazarian & Daniels** *(Bad Influence / The Addiction)* | Tag / TNA-ROH — **ascendidos del Tier 3 (#45), s55, ratificado por el Vehemiurgo** | [→](../people/frankie-kazarian.md) · [→](../people/christopher-daniels.md) |
 
@@ -124,7 +124,7 @@ pase al Tier 1 y le fijó el **puesto #6**.*
 | 3 | **Stone Cold Steve Austin** | Carny / draw histórico | [→](../people/steve-austin.md) |
 | 4 | **Samoa Joe** | Worker de oficio — *"el más influyente de los 2000s"* (Vehemiurgo) | [→](../people/samoa-joe.md) |
 | 5 | **Jeff Hardy** | Daredevil / conexión carny | [→](../people/jeff-hardy.md) |
-| 6 | **James Storm** | TNA / carny sureño — **ascendido del Tier 0 (s55)** | _(ficha pendiente)_ |
+| 6 | **James Storm** | TNA / carny sureño — **ascendido del Tier 0 (s55)** | [→](../people/james-storm.md) |
 | 7 | **Dynamite Kid** | British / Wigan (wrestling puro) — **#6→#7 (s55)** | [→](../people/dynamite-kid.md) |
 | 8 | **Roderick Strong** | Worker de oficio (ROH/PWG) — **#7→#8 (s55)** | [→](../people/roderick-strong.md) |
 
@@ -137,18 +137,18 @@ pase al Tier 1 y le fijó el **puesto #6**.*
 | 10 | **Kurt Angle** | Worker de oficio (amateur olímpico → WWE/TNA) | [→](../people/kurt-angle.md) |
 | 11 | **The American Wolves** (entrada tag) — Richards y Edwards **ascendidos al Tier 0 como individuales** (s26) | Tag / strong style americano | _(entrada tag preservada)_ |
 | 12 | ~~Kyle O'Reilly~~ → **ascendido a Tier 0** (2026-08-01 s26) | Worker de oficio (strong style / ROH) | _(slot preservado)_ |
-| 13 | **Ric Flair** | Carny / Nature Boy histórico | _(ficha pendiente)_ |
+| 13 | **Ric Flair** | Carny / Nature Boy histórico | [→](../people/ric-flair.md) |
 | 14 | **MJF** | Modern heel old-school | [→](../people/mjf.md) |
 | 15 | **Young Bucks (Matt & Nick Jackson)** | Rama moderna con sustancia (tandem) — **cuentan como uno** | [→](../people/young-bucks.md) |
 | 16 | **Hazuki** | Joshi (STARDOM/FWC) | [→](../people/hazuki.md) |
 | 17 | ~~Austin Aries~~ → **ascendido a Tier 0** (2026-08-01 s26) | Worker de oficio (ROH/TNA/WWE — *A Double*) | _(slot preservado)_ |
-| 18 | **Arn Anderson** | Worker de oficio (enforcer / Horsemen) | _(ficha pendiente)_ |
+| 18 | **Arn Anderson** | Worker de oficio (enforcer / Horsemen) | [→](../people/arn-anderson.md) |
 | 19 | **Matt Hardy** | Daredevil / longevidad carny | [→](../people/matt-hardy.md) |
 | 20 | **Mark "Rollerball" Rocco** | British / Wigan-Japan (Black Tiger) | [→](../people/mark-rocco.md) |
-| 21 | **Shawn Michaels** | Worker de oficio (showman técnico) | _(ficha pendiente)_ |
+| 21 | **Shawn Michaels** | Worker de oficio (showman técnico) | [→](../people/shawn-michaels.md) |
 | 22 | ~~HHH (Triple H)~~ → **ascendido a Tier 0** (2026-08-01 s26) | Carny / booker-talent | _(slot preservado)_ |
 | 23 | **Hayabusa** | Puroresu / FMW high-flying — *"el cristo del wrestling"* | [→](../people/hayabusa.md) |
-| 24 | **RVD (Rob Van Dam)** | ECW / highspot carny | _(ficha pendiente)_ |
+| 24 | **RVD (Rob Van Dam)** | ECW / highspot carny | [→](../people/rob-van-dam.md) |
 | 25 | **Kira** (luchadora mexicana CMLL) | Lucha libre / heredera local | [→](../people/kira.md) |
 
 ### Tier 3 — Los Fundamentales (sin orden — todos pesan igual)
@@ -156,24 +156,24 @@ pase al Tier 1 y le fijó el **puesto #6**.*
 | # | Héroe | Rama | Ficha |
 |---|---|---|---|
 | 26 | ~~Zack Gibson~~ → **ascendido a Tier 0** (2026-08-01 s26) | British indie moderno (Liverpool) | _(slot preservado)_ |
-| 27 | **The Filthy Generation** (facción) | British indie moderno (facción) | _(ficha pendiente)_ |
+| 27 | **The Filthy Generation** (facción) | British indie moderno (facción) | [→](../promotions/filthy-generation.md) |
 | 28 | ~~LA Knight~~ → **ascendido a Tier 0** (2026-08-01 s26) | Carny / promo-driven moderno | _(slot preservado)_ |
 | 29 | **Psicosis** | Lucha libre / cruiser 90s | [→](../people/psicosis.md) |
 | 30 | ~~JT Dunn~~ → **ascendido a Tier 0** (2026-08-01 s23) | Indie americano (deathmatch / tag) | _(slot preservado)_ |
 | 31 | ~~David Starr~~ → **ascendido a Tier 0** (2026-08-01 s23) | Indie americano/British | _(slot preservado)_ |
-| 32 | **Chris Benoit** | Worker de oficio (Wild Pegasus / WCW-WWE) | _(ficha pendiente)_ |
+| 32 | **Chris Benoit** | Worker de oficio (Wild Pegasus / WCW-WWE) | [→](../people/chris-benoit.md) |
 | 33 | ~~Kay Lee Ray~~ → **ascendida a Tier 0** (2026-08-01 s26) | Joshi-British / STARDOM-WWE | _(slot preservado)_ |
-| 34 | **Hana Kimura** | Joshi (STARDOM) — fallecida 2020 | _(ficha pendiente)_ |
-| 35 | **Mei Seira** | Joshi (STARDOM) | _(ficha pendiente)_ |
+| 34 | **Hana Kimura** | Joshi (STARDOM) — fallecida 2020 | [→](../people/hana-kimura.md) |
+| 35 | **Mei Seira** | Joshi (STARDOM) | [→](../people/mei-seira.md) |
 | 36 | ~~Myron Reed~~ → **ascendido a Tier 0** (2026-08-01 s26) | Indie americano / highspeed (MLW) | _(slot preservado)_ |
 | 37 | **Fallon Henley** | WWE NXT | [→](../people/fallon-henley.md) |
 | 38 | **Lainey Reid** | WWE NXT | [→](../people/lainey-reid.md) |
-| 39 | **Scott Hall** | Carny / draw histórico (Razor / nWo) | _(ficha pendiente)_ |
+| 39 | **Scott Hall** | Carny / draw histórico (Razor / nWo) | [→](../people/scott-hall.md) |
 | 40 | ~~"Macho Man" Randy Savage~~ → **ascendido a Tier 0** (2026-08-01 s26) | Carny / draw histórico | _(slot preservado)_ |
 | 41 | ~~Hulk Hogan~~ → **ascendido a Tier 0** (2026-08-01 s26) | Carny / draw histórico (el máximo draw) | _(slot preservado)_ |
-| 42 | **The British Bulldogs (Dynamite Kid & Davey Boy Smith)** | British / Wigan-tag | _(ficha pendiente)_ |
+| 42 | **The British Bulldogs (Dynamite Kid & Davey Boy Smith)** | British / Wigan-tag | [→](../promotions/british-bulldogs.md) |
 | 43 | **Mark Davis** | Tag moderno (Aussie Open) / heel | [→](../people/mark-davis.md) |
-| 44 | **reDRagon (Bobby Fish & Kyle O'Reilly)** | Tag / strong style ROH-NJPW (cuentan como uno) | _(ficha pendiente)_ |
+| 44 | **reDRagon (Bobby Fish & Kyle O'Reilly)** | Tag / strong style ROH-NJPW (cuentan como uno) | [→](../promotions/redragon.md) |
 | 45 | ~~Kazarian & Daniels~~ → **ascendidos a Tier 0** (2026-08-26 s55, ratificado) | Tag / TNA-ROH (cuentan como uno) | _(slot preservado)_ |
 | 46 | **Darby Allin** | AEW moderno / daredevil-real | [→](../people/darby-allin.md) |
 | 47 | **Zack Sabre Jr** | Mat wrestling / submisiones técnicas | [→](../people/zack-sabre-jr.md) |
@@ -217,7 +217,7 @@ renumerar, como en las altas fundacionales:
   (#52).
 
 **Altas nuevas (18)**: Ethan Page, Josh Alexander, Adam Cole, Chris
-Hero, TJP, Aspyn Faith, Mark Coffey, Brian Myers, Gail Kim, Chris
+Hero, TJP, Aspen Faith, Mark Coffey, Brian Myers, Gail Kim, Chris
 Sabin, Alex Shelley, James Storm, Bobby Roode, Low Ki, Raven, EC3 y
 Bryan Danielson.
 
@@ -229,7 +229,7 @@ Knight; "Kyle Orreily" = Kyle O'Reilly; "Bryan Myers" = Brian Myers.
 **Lectura de conjunto**: el tier deja de ser exclusivamente indie
 americano y se vuelve **el registro de los workhorses de influencia
 desproporcionada a su reconocimiento**, cruzando eras (Savage,
-Hogan, Raven, HHH), escenas (British: Gibson, Aspyn Faith, Coffey,
+Hogan, Raven, HHH), escenas (British: Gibson, Aspen Faith, Coffey,
 Kay Lee Ray; canadiense: Josh Alexander, Ethan Page) y empresas
 (el bloque TNA/IMPACT: Gail Kim, Sabin, Shelley, Storm, Roode, EC3,
 Brian Myers). Es la cumbre gemela del Tier 1 llenándose de todo lo
@@ -591,10 +591,10 @@ exactamente la definición de "la sombra de los 7 dioses".
 Facción British indie. Integrantes según el Vehemiurgo (ortografía
 a verificar con sub-agente):
 
-- **Steve Boy** [verif ortografía/identidad].
+- **Stevie Boy** (Stevie Xavier) — líder; el Vehemiurgo dictó *"Steve Boy"*.
 - **KLR — Kay Lee Ray** (también #32 individual).
-- **Aspen Faith** [verif ortografía].
-- **Lewis Girvan** [verif ortografía — dictado "Lewis Garvin"].
+- **Aspen Faith** (grafía confirmada por research 2026-09-09; el Vehemiurgo dictó *Aspyn* / *Aspin*).
+- **Lewis Girvan** — dictado *"Lewis Garvin"*; ficha `../people/lewis-girvan.md` (DEATH GODS).
 
 > Pendiente: confirmar nombre exacto de la facción, line-up completo,
 > empresa base y periodo (sub-agente autorizado 2026-06-17).
@@ -636,16 +636,18 @@ El panteón no es monolítico. Conviven varias ramas:
 
 ## Pendientes
 
-- [ ] **Abrir fichas pendientes** (la mayoría del #8-45). Se crean
-      a demanda cuando el Vehemiurgo profundice en cada uno. Para
+- [x] **Abrir fichas pendientes** — **hecho 2026-09-09 (s66)**: las 30
+      entradas sin ficha abiertas de una vez a pedido del Vehemiurgo
+      (*"armalo todo, dejemos eso listo de una vez"*), con research
+      biográfico por bloques. Para
       reDRagon (#44) ya hay material doctrinal denso en
       [`./young-bucks-vs-redragon-roh-njpw.md`](./young-bucks-vs-redragon-roh-njpw.md).
 - [ ] **Confirmar orden interno del Tier 2** — ¿el orden #8→#25 es
       jerarquía o solo slot? Hasta confirmación, se respeta el orden
       establecido pero **no se afirma jerarquía dentro del tier**.
-- [ ] **The Filthy Generation**: confirmar nombre, line-up,
-      ortografías (Steve Boy, Aspen Faith, Lewis Girvan), empresa,
-      periodo — **sub-agente autorizado 2026-06-17**.
+- [x] **The Filthy Generation** — confirmado 2026-09-09: facción de ICW
+      (Glasgow), líder Stevie Boy, con KLR, Lewis Girvan y Aspen Faith
+      (grafía *Aspen*); 2017-2019. Ficha: `../promotions/filthy-generation.md`.
 - [x] Sincronizar marcadores de número en cada ficha existente con
       este registro (source of truth) — **hecho 2026-07-05**:
       etiquetas de tier normalizadas (Tier 1 "Dios del Wrestling

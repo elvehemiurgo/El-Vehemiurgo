@@ -37,6 +37,7 @@
 | Lainey Reid | Layney Reed, Layne Reed, Lainey Reed |
 | Joaquin Wilde | Joaquín Wild, Joaquin Wild |
 | Shiloh Hill | Shyloh, Shilo Hill |
+| Aspen Faith | Aspyn Faith, Aspin Faith |
 | Garett Bischoff | Garrett Bischoff |
 | Greg Excellent | Greg Eggcelent |
 | Trevor Murdoch | Trevor Murdock |
@@ -91,6 +92,10 @@
 | **Latin Dragon** | Luchador retirado de **Canovanas, Puerto Rico** (activo 2010-2019), circuito indie del noreste de EE. UU. (Beyond Wrestling, CZW). Nombre real `[no confirmado]`. No confundir con otros "Dragon" del archivo. |
 | **Niles Sozio** | Nombre completo de **"Sozio"**, mitad de **The Front** (con Biff Busick) en la storyline CZW 2013-2014 contra DJ Hyde y OI4K. |
 | **Andrew Everett** | Nombre real **Drew Everett Wenkel** (n. 9/7/1992, Burlington, Carolina del Norte). Debutó enmascarado como *Chiva Kid*, se desenmascaró en 2013. **Nunca trabajó para WWE** (ni Cruiserweight Classic 2016 ni 205 Live) — no confundir con Kalisto (Jorge Arias), identidad separada. Impact Wrestling después (tag champion con DJZ). |
+| **Aspen Faith / Lost Boy Aspen** | **Misma persona** (ICW, Aberdeen; mismo handle @theaspenfaith). *Lost Boy Aspen* es su rebrand 2026; en piezas 2017-2019 (The Filthy Generation, Kings of Catch) se escribe *Aspen Faith*. Ficha `aspen-faith.md`. |
+| **Stevie Boy / Stevie Xavier** | Misma persona: líder de The Filthy Generation (ICW). El Vehemiurgo dicta *"Steve Boy"*. Sin ficha; en prosa *Stevie Boy*. |
+| **Kay Lee Ray / Alba Fyre** | Misma persona (ya en la fila KLR de arriba). Ficha única `kay-lee-ray.md`: *Kay Lee Ray* = ICW/PROGRESS/NXT UK y su etapa actual en EVE (2026); *Alba Fyre* = WWE 2022-2026. |
+| **Gallus / GBOT** | El trío Coffey-Coffey-Wolfgang se llama **GBOT ("Glasgow Boys On Top")** en MLW desde marzo 2026; *Gallus* es el nombre WWE (2018-2025). |
 | **"Priest" (dictado)** | **Dos personas distintas**, resueltas por contexto de show+fecha: **Adam Priest** (AEW, indie, ficha `adam-priest.md`, primer registro s26) y **Damián Priest** (WWE/Judgment Day, cruza a AAA desde el 30/8/2026, ficha `damian-priest.md`, s59). "Priest" a secas nunca se asume — ubicar el show y la fecha del dictado. |
 
 ## Equivalencias de matching (machine-readable, no linteadas)

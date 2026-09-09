@@ -47,8 +47,11 @@ alternativo plausible con esa fonética en el circuito escocés.
   Wikipedia lista a Wolfgang como campeón vigente, así que el reinado
   ya habría terminado]`
 - **24/5/2026**: apareció en *Wubba Lubba Dub Dub*, donde se le cruzó
-  **Lost Boy Aspen**, derivando en un **Edinburgh Street Fight
-  anunciado para "The Insanity Show" del 15/8/2026**.
+  **Lost Boy Aspen** — que es **su ex compañero Aspen Faith** bajo su
+  rebrand 2026 (misma persona, confirmado por research 2026-09-09;
+  ficha [`./aspen-faith.md`](./aspen-faith.md)) —, derivando en un
+  **Edinburgh Street Fight anunciado para "The Insanity Show" del
+  15/8/2026**: los Kings of Catch, uno contra el otro.
   [swnscotland.com, 24/5/2026; britwresevents, 30/6/2026]
 
 ## Notas editoriales del Vehemiurgo
