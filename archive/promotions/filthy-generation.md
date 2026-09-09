@@ -36,7 +36,14 @@ tags: [filthy-generation, icw, stevie-boy, stevie-xavier, kay-lee-ray, lewis-gir
 
 ## Lectura editorial del Vehemiurgo
 
-Declarada de una sola vez: *"Toda la facción de Steve Boy, KLR, Aspin Faith y Lewis Garvin THE FILTHY GENERATION en el 26"* (2026-06-17, luego #27). Es la única facción del panteón nombrada miembro por miembro. Dos de sus cuatro tienen entrada individual en otras listas (KLR #33 del panteón; Girvan en DEATH GODS) — el Vehemiurgo premia a la vez el conjunto y a las partes. Rama *"British indie moderno"*: la generación ICW que el archivo lee como el equivalente escocés de la escena que produjo a Gibson y Starr.
+Declarada de una sola vez (2026-06-17, luego #27):
+
+> *"Toda la facción de Steve Boy, KLR, Aspin Faith y Lewis Garvin THE
+> FILTHY GENERATION en el 26"*
+>
+> — El Vehemiurgo, 2026-06-17 (verbatim, typos preservados)
+
+Es la única facción del panteón nombrada miembro por miembro. Dos de sus cuatro tienen entrada individual en otras listas (KLR #33 del panteón; Girvan en DEATH GODS) — el Vehemiurgo premia a la vez el conjunto y a las partes. Rama *"British indie moderno"*: la generación ICW que el archivo lee como el equivalente escocés de la escena que produjo a Gibson y Starr.
 
 ## Pendientes / huecos
 
