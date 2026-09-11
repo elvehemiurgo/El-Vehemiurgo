@@ -142,14 +142,82 @@ como recurso dramático, no como estafa.
 
 ---
 
+## Lo que devolvió el research (2026-09-11, post-volcado)
+
+Un sub-agente, WebSearch solo (WebFetch bloqueado por egress).
+
+### 1. La lucha de Knockouts fue un 4-WAY — y el recuerdo de las cinco tiene origen real
+
+- **Fue four-way elimination: Tara (c), Gail Kim, Miss Tessmacher y
+  Velvet Sky. Mickie James NO participó.** Cinco fuentes coinciden, y
+  el anuncio de Brooke Hogan del 14/2 (mismo taping) nombra
+  exactamente a esas cuatro — dato que el archivo ya tenía.
+- **De dónde viene el "cinco"**: del **gauntlet de Genesis
+  (13/1/2013)** — Velvet, Gail, **Mickie James**, Tessmacher y **ODB**
+  —, que **el archivo ya tiene registrado con esos cinco nombres**.
+  Ahí también gana Velvet, y también por un fallo de **Taryn
+  Terrell** (*"no vio el pie de Gail bajo la cuerda"*). **La memoria
+  fusionó dos piezas del mismo programa.** Lo único que el dictado
+  suma de más acá es Mickie James; lo único que le falta al gauntlet
+  es ODB.
+- **Pero el incidente de la árbitra rookie del 21/2 es real y
+  distinto**: Gail cubre a Velvet **agarrándose de las cuerdas para
+  hacer palanca**, Taryn la ve y **la empuja de vuelta a la lona**, y
+  de ahí sale el segundo *In Yo Face* que da el título. **El take del
+  Vehemiurgo sobre este finish se sostiene con fuente.**
+- **Eliminaciones**: Gail elimina a Tara → Velvet elimina a
+  Tessmacher → Velvet elimina a Gail. **Jessie Godderz expulsado
+  antes de la campana** por orden de Brooke Hogan. Reinado de Tara:
+  **104 días**. Duración: 8:34 / 8:35 / 8:45 según fuente.
+- **Matiz sobre Mickie James**: *"ahora TNA sin Mickie James"* lee bien
+  **una ausencia real de TV** (13/1 → 18/4/2013), pero **no fue una
+  salida** — fue campeona de Knockouts entre mayo y septiembre de
+  2013, y se fue recién en septiembre al vencer contrato (rechazó una
+  renovación reportada de US$60.000 anuales).
+
+### 2. Kenny King vs RVD — el sentido del push estaba invertido
+
+- **RVD retiene, 6:21**, Rolling Thunder + Five Star Frog Splash.
+- **El botch de RVD y la venta de piernas: `[no confirmado]`.** Ninguna
+  fuente de época reporta un botch de RVD; el único spot fallido en el
+  registro escrito es el **Royal Flush de King**. Y el daño trabajado
+  es **espalda** (poste + chinlock), no piernas. Queda a verificar
+  contra video.
+- **La corrección grande**: King **no** estaba empujando para salir de
+  la X Division hacia peso completo. **El 28/2/2013 le gana el título
+  a RVD con la estipulación de que si perdía quedaba FUERA de la X
+  Division** — tercera y última chance, con la empresa apretándolo, no
+  una fuga hacia arriba. Fin del reinado de RVD: **137 días**.
+
+### 3. El main event
+
+- **3-on-2 handicap**: Hogan nunca entra. A&8s esa noche: **Devon, DOC
+  y Mr. Anderson**. Duración 11:15 / 11:26.
+- **Comebacks confirmados**: Stinger Splash sobre DOC; Scorpion Death
+  Drop sobre DOC para dos; Anderson cargado para el *What's Up* que
+  Bully nunca cierra.
+- **El final**: los bikers de segunda línea salen arrastrando a un
+  **Hogan golpeado y a Brooke Hogan**; Bully abandona el ring para
+  socorrerlos; Sting queda 3 contra 1, mete a Devon en el Scorpion
+  Deathlock y **DOC lo remata con big boot** y lo cubre.
+- **"Lo de Brooke"**: sacada por la fuerza y exhibida como rehén; **sin
+  agresión física directa** esa noche. La polémica es del arco entero
+  — ya el 17/1 la habían *"obligado a mirar"* el beatdown de la boda.
+  **Caldwell (PWTorch) tituló su reporte llamando a la decisión de
+  Hogan *"early contender for worst angle of the year"*** — el
+  contraste exacto con la lectura del Vehemiurgo, que leyó la demora
+  **a favor**.
+
 ## Próximos pasos
 
-- [ ] Research lanzado: ¿4-way o 5-way en Knockouts (Mickie James)?;
+- [x] Research cerrado: ¿4-way o 5-way en Knockouts (Mickie James)?;
       orden de eliminaciones; el error de Taryn Terrell; duración y
       botch de King vs RVD; secuencia final del main event y qué pasó
       con Brooke Hogan.
-- [ ] 3 fichas nuevas + bloques de sesión.
-- [ ] Evaluar fichas nuevas: Velvet Sky, Tara, Miss Tessmacher, Taryn
-      Terrell, Kenny King, Sting, Bully Ray (varios acumulan ya
-      bastante corpus TNA 2013 sin ficha propia).
-- [ ] Con esto, **el Impact del 21/2/2013 queda completo** (7 piezas).
+- [x] 3 fichas nuevas + bloques de sesión (Gail Kim, RVD, Hulk Hogan).
+- [x] **Siete fichas nuevas de people**: Velvet Sky, Tara, Miss
+      Tessmacher, Taryn Terrell, Kenny King, **Sting** (19 piezas
+      acumuladas antes que la ficha) y **Bully Ray** (14).
+- [x] **El Impact del 21/2/2013 queda completo: 7 piezas.**
+- [ ] Verificar contra video el botch de RVD y la venta de piernas.
+- [ ] Evaluar a Sting para el panteón (19 piezas, sin entrada declarada).

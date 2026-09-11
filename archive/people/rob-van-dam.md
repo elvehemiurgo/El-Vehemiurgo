@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rob-van-dam
 estado: vivo
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Panteón de Héroes Fundamentales (archive/topics/heroes-fundamentales-vehemiurgia.md) — declaraciones del Vehemiurgo 2026-05-10 → 2026-08-26"
   - "Sub-agentes research-panteon-fichas-pendientes (research 2026-09-09) — WebSearch; Cagematch/Wikipedia/Fandom bloqueados por egress: datos de trayectoria son snippets cruzados, no fuente primaria leída"
@@ -38,6 +38,39 @@ tags: [rob-van-dam, rvd, ecw, mr-monday-night, wwe, one-night-stand-2006, tna, x
 ## Lectura editorial del Vehemiurgo
 
 Declarado en la expansión del 2026-06-17 (*"añade a RVD en el 24"*), rama *"ECW / highspot carny"*. El archivo lo usa como **origen de linaje**: *"son un tributo a RVD básicamente"* (Anthony Henry vs Sean Carr, s23), *"las referencias a RVD... está evolucionando el estilo más influyente de los 90s"* (s40, sobre Kelani Jordan). En el corpus TNA 2013: *"sale RVD y es un buen show aunque pudo durar menos. Sigue siendo..."* — el veterano que pone over antes de irse (Storm, 14/2). Cinco piezas propias, dos con las tres clases.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-09-11 s68 — Protegiéndose y elevando a Kenny King en la misma lucha
+
+**Cita verbatim** (2013 02 21 TNA Impact Wrestling):
+
+> *"Kenny King vs RVD, Kenny intenta tomar la antorcha a la fuerza,
+> realmente distanciandose del resto de la x division, RVD le dió una
+> lucha con stakes y buenos spots, se protegió vendiendo una lesión en
+> las piernas, pero elevó a King como heavyweight y como heel, fue una
+> buena lucha incluso con el botch de RVD, se merece una WE y FS
+> classes"*
+>
+> — El Vehemiurgo, 2026-09-11 s68 (verbatim, typos preservados)
+
+**Lectura sintética**: el veterano **administrando su propio desgaste
+sin que eso le cueste al rival** — las dos cosas a la vez. Segundo
+put-over del mismo taping: una semana antes, ante James Storm, el
+Vehemiurgo ya había leído *"es genial ver a RVD ponerlo over antes de
+irse"*. Acá retiene, pero la función es la misma.
+
+**Research**: retiene en **6:21** con Rolling Thunder + Five Star Frog
+Splash. **El botch y la venta de piernas quedan `[no confirmado]`** —
+ninguna fuente de época reporta un botch de RVD, y el daño trabajado
+en el play-by-play es **espalda** (poste + chinlock), no piernas. El
+único spot fallido en el registro escrito es el **Royal Flush de
+King**. **Una semana después (28/2/2013) King le gana el título** con
+la estipulación de quedar fuera de la X Division si perdía: fin del
+reinado de RVD, **137 días**.
+
+**Pieza de la sesión**:
+[vs Kenny King, X Division Championship](../matches/2013-02-21-kenny-king-vs-rvd-x-division-tna-impact.md) (FS·WE → FC)
 
 ## Pendientes / huecos
 

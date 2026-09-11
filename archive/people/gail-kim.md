@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: gail-kim
 estado: vivo
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Panteón de Héroes Fundamentales (archive/topics/heroes-fundamentales-vehemiurgia.md) — declaraciones del Vehemiurgo 2026-05-10 → 2026-08-26"
   - "Sub-agentes research-panteon-fichas-pendientes (research 2026-09-09) — WebSearch; Cagematch/Wikipedia/Fandom bloqueados por egress: datos de trayectoria son snippets cruzados, no fuente primaria leída"
@@ -37,6 +37,40 @@ tags: [gail-kim, tna, knockouts, wwe, toronto, hall-of-fame-tna, productora, tes
 ## Lectura editorial del Vehemiurgo
 
 Nombrada en la lista masiva de s26 dentro del bloque TNA/IMPACT, rama *"pionera de la división femenina"*. El corpus TNA 2013 la registra con tres piezas propias más el six-person de British Boot Camp: *"aquí Gail ya hizo todo lo que se puede hacer en las KOs, sigue siendo una heel efectiva justo por eso"* (s55). La lectura es de **oficio consumado**: la heel que ya no necesita probar nada y por eso funciona. El Vehemiurgo lamentó, en s63, el tag con Tara que no fue.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-09-11 s68 — Perder bien: la derrota que le da stakes fuera del título
+
+**Cita verbatim** (2013 02 21 TNA Impact Wrestling):
+
+> *"todo al rededor de Gail Kim y su alianza temporal con Tara, y
+> estas dos salvan el show, tienen que hacer lucir bien a las faces
+> que son muy verdes, mientras lo mantienen real y cuidan sus stokes
+> [...] es genial que una heel como Gail este en esta situación
+> perdiendo contra Velvet que es inferior a Gail in ring, y además por
+> culpa de una referee rookie, son argumentos importantes para que
+> Gail se tome esto personal y pueda meterle stakes a la programación
+> fuera del título KO"*
+>
+> — El Vehemiurgo, 2026-09-11 s68 (verbatim, typos preservados)
+
+**Lectura sintética**: dos funciones en una noche. **La de oficio** —
+con Tara, sostener a las babyfaces verdes sin romper la
+verosimilitud, *"cuidando sus strikes"*. Y **la de booking**: perder
+ante una rival inferior in-ring, por un fallo de la árbitra rookie
+**Taryn Terrell**, es exactamente lo que le da motivo personal y saca
+la rivalidad del campeonato. Es el take de *"perder bien"* más
+explícito del corpus TNA 2013.
+
+**Research**: Gail elimina a Tara, y en el finish **cubre a Velvet
+agarrándose de las cuerdas para hacer palanca**; Taryn la ve y **la
+empuja de vuelta a la lona**. La ambigüedad (¿heel tramposa o árbitra
+entrometida?) es del booking — la prensa de época la leyó de las dos
+formas.
+
+**Pieza de la sesión**:
+[4-way de Knockouts](../matches/2013-02-21-4-way-knockouts-velvet-sky-nueva-campeona-tna-impact.md) (WE)
 
 ## Pendientes / huecos
 

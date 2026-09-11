@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: hulk-hogan
 estado: fallecido
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Panteón de Héroes Fundamentales (archive/topics/heroes-fundamentales-vehemiurgia.md) — declaraciones del Vehemiurgo 2026-05-10 → 2026-08-26"
   - "Sub-agentes research-panteon-fichas-pendientes (research 2026-09-09) — WebSearch; Cagematch/Wikipedia/Fandom bloqueados por egress: datos de trayectoria son snippets cruzados, no fuente primaria leída"
@@ -40,6 +40,31 @@ tags: [hulk-hogan, hulkamania, wwf, wrestlemania-iii, wcw, nwo, bash-at-the-beac
 ## Lectura editorial del Vehemiurgo
 
 Ascendido del Tier 3 (#41) al Tier 0 en s26 (*"Randy Savage, Hulk Hogan, HHH, Raven..."*), rama *"carny / draw histórico — el máximo draw"*. Es la tesis de CLAUDE.md §3 en persona: *"Hogan y Austin hacen un 10% in-ring de lo que hace un indie hoy, pero lo hacen sabiendo y con intención old-school"*. En los volcados es la vara del heel-estrella (*"un super heel como Ric Flair o Hollywood Hulk Hogan"*, s53) y, en el corpus TNA 2013, el GM cuyo *"regreso al ring se anunció y no se ejecutó"* (21/2/2013). El archivo registra las dos cifras de WrestleMania III y no adjudica.
+
+## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-09-11 s68 — La demora que sí añadió emoción — el six-man que nunca fue
+
+**Cita verbatim** (2013 02 21 TNA Impact Wrestling):
+
+> *"luego tenemos bully, sting y hogan vs A&8s, buena lucha,
+> enterteinment oldschool [...] además la demora de Hogan y todo si
+> añadió mucho a la emoción, buenos comebacks, polémica con lo de
+> Brooke, y victoria importante para el club"*
+>
+> — El Vehemiurgo, 2026-09-11 s68 (verbatim, typos preservados)
+
+**Lectura sintética**: **la ausencia leída a favor**. El main event se
+anunció como six-man con Hogan y se disputó **3-on-2** porque nunca
+entró — lo que la prensa de época trató como un anuncio incumplido
+(Caldwell tituló su reporte llamando a la decisión de Hogan *"early
+contender for worst angle of the year"*), el Vehemiurgo lo lee como
+recurso dramático que **sumó**. Hogan reaparece al final, golpeado y
+arrastrado por la rampa junto a Brooke por los bikers de segunda
+línea — el mecanismo que saca a Bully del ring y deja a Sting solo.
+
+**Pieza de la sesión**:
+[Bully Ray & Sting vs Aces & Eights](../matches/2013-02-21-bully-sting-hogan-vs-aces-eights-main-event-tna-impact.md) (WE)
 
 ## Pendientes / huecos
 
