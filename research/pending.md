@@ -7,8 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `tna-2013-negocio-y-numeros` | El negocio de TNA en 2013: contrato Spike TV, ratings, el experimento *on the road*, Bound for Glory 2013, situación Panda/Dixie, salidas de talento. Más el booking duro de enero-febrero 2013 (fechas, cards, reinados) y el contexto de industria de ese año. | Guion 007 (TNA 2013) — pedido del Vehemiurgo 2026-09-11 s70 | 2026-09-11 | `guiones/guion-007-*` (sección *La data real*) |
-| `tna-2013-roster-hasta-2026` | Qué fue de los ~35 nombres del roster TNA enero-febrero 2013 al día de hoy; el arco corporativo TNA → Anthem → Impact → TNA (2024) y la relación con WWE/NXT; cuántos terminaron en WWE/AEW y cuántos en puestos de decisión. | Guion 007 (TNA 2013) — pedido del Vehemiurgo 2026-09-11 s70 | 2026-09-11 | `guiones/guion-007-*` (sección de correlación con el presente) |
+| _(vacío — `tna-2013-negocio-y-numeros` y `tna-2013-roster-hasta-2026` cerradas el 2026-09-11, ver [`closed.md`](./closed.md))_ | | | | |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).
