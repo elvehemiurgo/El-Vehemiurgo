@@ -13,6 +13,9 @@
 - **Renombrar y organizar la mediateca** — ejecutar las tablas de
   renombrado de las guías `vehemiurgia/` sobre los archivos reales
   (formato `YYYY MM DD Nombre del Show`).
+  Kit listo: [`renombrado/`](./renombrado/README.md) — mapa canónico
+  por era + renombrador en seco por defecto, que nunca borra, nunca
+  sobrescribe y deja sin tocar lo ambiguo.
 - **Acompañar los watch parties VEHEMIURGIA en vivo** — con la guía
   del repo abierta y los videos en el disco, puede decirte qué show
   sigue, qué mirar en cada lucha, y el contexto al instante.

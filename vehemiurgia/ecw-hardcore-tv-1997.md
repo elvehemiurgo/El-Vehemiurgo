@@ -41,6 +41,17 @@ si la letra cambió de forma permanente, hay que actualizar
 **Formato**: `YYYY MM DD ECW Hardcore TV NNN` — fecha de **emisión**,
 espacios sin guiones, conservando la extensión original.
 
+> **La tabla de abajo ya está ejecutable.** Vive también como mapa de
+> máquina en
+> [`satelite-local/renombrado/mapas/ecw-hardcore-tv-1997.tsv`](../satelite-local/renombrado/mapas/ecw-hardcore-tv-1997.tsv),
+> con los PPVs y supercards en
+> [`ecw-supercards-y-ppv-1997.tsv`](../satelite-local/renombrado/mapas/ecw-supercards-y-ppv-1997.tsv)
+> y el renombrador en
+> [`satelite-local/renombrado/`](../satelite-local/renombrado/README.md).
+> Corre en seco por defecto y deja sin tocar todo lo que no resuelve
+> sin ambigüedad. **El mapa se deriva de esta tabla**: si el visionado
+> corrige una fecha, se corrige acá primero.
+
 ### Por qué la fecha de emisión y no la de grabación
 
 Hay **tres convenciones de fecha vivas** para este corpus y ninguna

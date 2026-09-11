@@ -1,0 +1,24 @@
+# Mapa de renombrado — ECW 1997: PPVs y supercards (NO son Hardcore TV — trampa 7 de la guia)
+# Los 3 PPVs traen nombre canonico declarado en vehemiurgia/ecw-hardcore-tv-1997.md.
+# Las supercards se derivan de la columna 'Taping' de esa misma tabla; se les quita el sufijo de año ('97) porque la fecha del nombre ya lo lleva.
+numero	nombre_canonico	fecha_emision	fecha_taping	nota
+	1997 01 11 House Party	1997-01-11	1997-01-11	ECW Arena, Filadelfia — supercard
+	1997 02 01 Crossing the Line Again	1997-02-01	1997-02-01	ECW Arena — supercard
+	1997 02 22 CyberSlam	1997-02-22	1997-02-22	ECW Arena — noche 2 (la noche 1 NO tiene fecha establecida en la guia: no renombrar sin confirmar)
+	1997 03 15 Hostile City Showdown	1997-03-15	1997-03-15	ECW Arena — supercard
+	1997 04 13 Barely Legal	1997-04-13	1997-04-13	PPV — nombre canonico declarado en la guia (trampa 7)
+	1997 05 10 ECW Chapter 2	1997-05-10	1997-05-10	ECW Arena — supercard
+	1997 06 06 Wrestlepalooza	1997-06-06	1997-06-06	ECW Arena — supercard
+	1997 06 28 Orgy of Violence	1997-06-28	1997-06-28	ECW Arena — supercard
+	1997 07 19 Heat Wave	1997-07-19	1997-07-19	ECW Arena — supercard
+	1997 08 09 Born to Be Wired	1997-08-09	1997-08-09	ECW Arena — supercard
+	1997 08 17 Hardcore Heaven	1997-08-17	1997-08-17	PPV — nombre canonico declarado en la guia (trampa 7)
+	1997 09 20 As Good As It Gets	1997-09-20	1997-09-20	ECW Arena — supercard
+	1997 11 08 Ultimate Jeopardy	1997-11-08	1997-11-08	ECW Arena — supercard
+	1997 11 30 November to Remember	1997-11-30	1997-11-30	PPV — nombre canonico declarado en la guia (trampa 7)
+	1997 12 06 Better Than Ever	1997-12-06	1997-12-06	ECW Arena — supercard
+# Filas con "!" = NO pertenecen a 1997 (trampa 5 de la guia). Si aparecen en la carpeta, estan mal clasificadas.
+	!Big Ass Extreme Bash			es de 1996 — no va en la carpeta de 1997
+	!The Doctor Is In			es de 1996 — no va en la carpeta de 1997
+	!It Ain't Seinfeld			es de 1998 — no va en la carpeta de 1997
+	!The Last Show at the Madhouse			es de 1999 — no va en la carpeta de 1997

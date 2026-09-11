@@ -28,6 +28,9 @@ titulado `VEHEMIURGIA: <Era>`.
    Vehemiurgo: la tabla es canónica; el renombrado exacto lo ejecuta
    el Vehemiurgo o su Claude satélite. Si el Vehemiurgo pega el
    listado de archivos, el copiloto genera el script de renombrado.)
+   **Herramienta**: [`satelite-local/renombrado/`](../satelite-local/renombrado/README.md)
+   — un renombrador genérico manejado por mapas `.tsv` derivados de
+   estas tablas.
 2. **El mapa de la era** — contexto histórico: qué era la promotora
    en ese momento, quién bookeaba, qué títulos había, qué línea
    narrativa cruza el corpus.
