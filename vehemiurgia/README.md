@@ -64,3 +64,4 @@ checklists). Toda guía nueva se mide contra ese documento.
 | Sesión | Archivo | Estado |
 |---|---|---|
 | VEHEMIURGIA: CZW 2017 - 2018 | [`czw-2017-2018.md`](./czw-2017-2018.md) | **guía completa** — 25 shows, lista para el visionado |
+| VEHEMIURGIA: ECW Hardcore TV 1997 | [`ecw-hardcore-tv-1997.md`](./ecw-hardcore-tv-1997.md) | **guía completa** — 52 programas (#193–#244), tabla de renombrado + censo de repercusión |
