@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| _(vacío — `wwe-smackdown-040926`, `aaa-worldwide-050926`, `wwe-snme-060926` y `wwe-raw-070926` cerradas el 2026-09-11, ver [`closed.md`](./closed.md))_ | | | | |
+| `tna-impact-210213-cierre` | 2013 02 21 TNA Impact — las 3 piezas que faltaban: Knockouts por el título (¿4-way o 5-way? ¿Mickie James?), el error de Taryn Terrell, Kenny King vs RVD (botch, lesión vendida), main event Bully/Sting/Hogan vs A&8s (secuencia final, Brooke Hogan) | [`../notebook/2026-08-01-s68-tna-impact-210213-knockouts-king-rvd-main-event.md`](../notebook/2026-08-01-s68-tna-impact-210213-knockouts-king-rvd-main-event.md) | 2026-09-11 (s68) | 3 fichas + bloques de sesión |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).
