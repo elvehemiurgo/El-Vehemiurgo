@@ -420,7 +420,7 @@ con cada cambio de estado.
 | 2018-09-08 | Blackwater vs Ace Austin vs KC Navarro vs Jordan Oliver | CZW / Down With the Sickness | — | — | en-investigacion | 1 | [→](2018-09-08-4-way-wired-blackwater-gana-czw-dwts.md) |
 | 2018-09-08 | Brandon Kirk vs Max Caster | CZW / Down With the Sickness | WE | — | en-investigacion | 1 | [→](2018-09-08-brandon-kirk-vs-max-caster-czw-dwts.md) |
 | 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco | — | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
-| 2018-04-14 | David Starr & Tessa Blanchard vs Peter Avalon | CZW / Best of the Best 17 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-04-14-david-starr-tessa-blanchard-avalon-czw-botb17.md) |
+| 2018-04-14 | David Starr vs Tessa Blanchard vs Peter Avalon | CZW / Best of the Best 17 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-04-14-david-starr-tessa-blanchard-avalon-czw-botb17.md) |
 | 2018-04-14 | David Starr vs Matt Riddle vs Tessa Blanchard | CZW / Best of the Best 17 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-04-14-david-starr-vs-matt-riddle-tessa-blanchard-czw-botb17.md) |
 | 2018-04-14 | David Starr vs Zachary Wentz | CZW / Best of the Best 17 | — | — | en-investigacion | 1 | [→](2018-04-14-david-starr-vs-zachary-wentz-final-czw-botb17.md) |
 | 2018-04-14 | MJF vs Rickey Shane Page | CZW / Best of the Best 17 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-04-14-mjf-vs-rickey-shane-page-czw-botb17.md) |

@@ -1,5 +1,5 @@
 ---
-match: "David Starr & Tessa Blanchard vs Peter Avalon"
+match: "David Starr vs Tessa Blanchard vs Peter Avalon"
 slug: "2018-04-14-david-starr-tessa-blanchard-avalon-czw-botb17"
 participantes: ["David Starr", "Tessa Blanchard", "Peter Avalon"]
 empresa: "CZW"
@@ -22,14 +22,14 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El booking de Tessa en esta era es muy cool, la 3-way me pareció muy buena; estos 3 son gimmicks fuertes, un año de personajes muy badass 2017; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s27 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Best of the Best 17)"
   - "Sub-agente czw-proving-grounds-botb17 (research 2026-08-01) — identificación de Avalon y bracket"
 tags: [czw-2018, best-of-the-best-17, david-starr, tessa-blanchard, peter-avalon, torneo, booking-intergenero, perfect-match, vehemiurgia-czw]
 ---
 
-# David Starr & Tessa Blanchard vs Peter Avalon — CZW Best of the Best 17 (14/4/2018)
+# David Starr vs Tessa Blanchard vs Peter Avalon — CZW Best of the Best 17 (14/4/2018)
 
 > Perfect Wrestling + Fighting Spirit + Wrestling Entertainment.
 > **El take de género y booking más extenso del corpus CZW**: Tessa
@@ -80,6 +80,16 @@ real **Peter Hernández** (n. 14/6/1989), hoy en AEW.
 - **Síntesis de época**: *"un año de personajes muy badass 2017"* —
   frase que resume el criterio de toda la etapa CZW cubierta hasta
   ahora: gimmicks fuertes, sin diluir.
+
+## Corrección (2026-09-11)
+
+El título y el cuerpo registraban la lucha como *"David Starr &
+Tessa Blanchard vs Peter Avalon"* (formato de tag), inconsistente con
+`tipo_match: 3-way` y con el resultado ya registrado (*"avanzan
+ambos"*, eliminación de tres donde dos pasan de ronda — el mismo
+formato de la semifinal `2018-04-14-david-starr-vs-matt-riddle-tessa-blanchard-czw-botb17.md`).
+Corregido a **David Starr vs Tessa Blanchard vs Peter Avalon**: un
+3-way de eliminación, no una alianza de tag.
 
 ## Pendientes / huecos
 
