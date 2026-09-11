@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: liv-morgan
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Wikipedia — Liv Morgan"
   - "Cobertura WWE 2014–2026 (Riott Squad, Money in the Bank cash-in 2022, Judgment Day affiliation)"
@@ -125,6 +125,16 @@ sección 6.
 [`promotions/judgment-day.md`](../promotions/judgment-day.md),
 [`topics/factions-2026.md`](../topics/factions-2026.md),
 [`sol-ruca.md`](./sol-ruca.md).
+
+### Sesión 2026-09-11 s67 — Retiene el título con un finish sucio
+
+**Contexto** (Raw, 7/9/2026): retiene el WWE Women's World
+Championship ante Stephanie Vaquer con ayuda de Roxanne Perez y
+Raquel Rodríguez (expulsada al ser descubierta), golpeando a Vaquer
+con el título antes de rematar con ObLIVion.
+
+**Pieza de la sesión**:
+[vs Stephanie Vaquer](../matches/2026-09-07-stephanie-vaquer-vs-liv-morgan-wwe-raw.md) (ICC+)
 
 ## Lectura consolidada del Vehemiurgo
 

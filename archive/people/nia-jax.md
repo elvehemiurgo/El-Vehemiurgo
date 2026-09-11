@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nia-jax
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — WWE SmackDown, 5/6/2026)"
   - "Menciones de contexto previas: conflicto con Chelsea Green y Lash Legend (s51, 22/5/2026)"
@@ -130,6 +130,22 @@ Chelsea Green con kendo stick. Ver
 - **La consecuencia**: exigió a Nick Aldis un title match contra
   Green; Aldis respondió que la campeona debía ser re-evaluada.
 - Ver [`../matches/2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md`](../matches/2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — Gana con el Annihilator, con asistencia de Lash Legend
+
+**Cita verbatim** (2026 09 04 WWE SmackDown):
+
+> *"esta escena está buenisima tambien mucho talento y ganas de
+> ponerse oldschool, se merecen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: elogio de conjunto (con Tiffany Stratton) por
+las tres clases, en una lucha que Jax gana con la distracción de Lash
+Legend. Post-match, le arranca la máscara a Chelsea Green.
+
+**Pieza de la sesión**:
+[vs Tiffany Stratton](../matches/2026-09-04-tiffany-stratton-vs-nia-jax-wwe-smackdown.md) (ICC)
 
 ## Pendientes / huecos
 

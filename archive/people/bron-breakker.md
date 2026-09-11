@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: bron-breakker
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (mención — WWE Raw, 20/4/2026)"
   - "Volcado Vehemiurgo 2026-07-14 s42, s46, s52 (Backlash 9/5, AEW Redemption 26/7, Raw 25/5)"
@@ -307,6 +307,34 @@ Sunday Night's Main Event.
 
 **Pieza de la sesión**:
 [promo video vs Oba Femi](../segments/2026-08-31-promo-video-bron-breakker-vs-oba-femi-wwe-raw.md) (WE)
+
+### Sesión 2026-09-11 s67 — Presionado, se siente más cómodo violento — y las interferencias ya son parte del acto heel
+
+**Citas verbatim**:
+
+> *"incluso Breaker que suele pecar de safe, fue presionado y se
+> siente más comodo más violento"* (Raw, 7/9/2026, three-way)
+>
+> *"las interferencias luego se sintiewon como parte del acto heel de
+> Breaker, ya no como ruedas de entrenamiento que wwe le pone porque
+> no confia en él, y en el kayfabe refleja perfectamente su
+> frustración con el booking"* (SNME, 6/9/2026)
+>
+> *"Breaker se mete una buena promo, full Steiner"* (Raw, 7/9/2026,
+> apertura)
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: el giro central de la doctrina del rub malo —
+las interferencias de The Vision pasan de parche de desconfianza a
+decisión consciente de booking que refleja la frustración kayfabe del
+propio Breakker. Gana el MITB Qualifier del mismo Raw.
+
+**Piezas de la sesión**:
+[promo video vs Femi](../segments/2026-09-06-promo-video-oba-femi-vs-bron-breakker-snme.md) (WE+) ·
+[vs Oba Femi](../matches/2026-09-06-oba-femi-vs-bron-breakker-snme.md) (ICC) ·
+[apertura de Raw](../segments/2026-09-07-the-vision-promos-breakker-reed-wwe-raw.md) (WE) ·
+[MITB Qualifier vs Mysterio & Page](../matches/2026-09-07-bron-breakker-vs-rey-mysterio-vs-ethan-page-wwe-raw.md) (ICC+)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kit-wilson
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s43 (visión directa — WWE Backlash, 9/5/2026)"
 tags: [kit-wilson, pretty-deadly, wwe-backlash-2026, the-miz, perfect-wrestling, fighting-spirit, wrestling-entertainment, identidad-consolidada]
@@ -51,6 +51,15 @@ tags: [kit-wilson, pretty-deadly, wwe-backlash-2026, the-miz, perfect-wrestling,
 **Lectura sintética**: triple clase compartida, sin protagonismo
 singularizado más allá del elogio de conjunto. Ver
 [`../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md).
+
+### Sesión 2026-09-11 s67 — Pretty Deadly cae ante el debut de Bakusai
+
+**Contexto** (2026 09 04 WWE SmackDown): con The Miz, pierde ante
+Bakusai (Nakamura & Kyoki) en el debut televisado del equipo. Intenta
+un Stunner invertido sobre Kyoki, que lo revierte y lo fija en pin.
+
+**Pieza de la sesión**:
+[& The Miz vs Bakusai](../matches/2026-09-04-bakusai-vs-miz-wilson-wwe-smackdown.md) (ICC)
 
 ## Pendientes / huecos
 

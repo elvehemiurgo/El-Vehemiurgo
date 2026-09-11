@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: flammer
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — AAA Worldwide, 4/4/2026)"
   - "Mención previa en dossier AAA/AEW 2026 cluster (roster AAA Knockouts)"
@@ -94,6 +94,16 @@ contra Bayley que el Vehemiurgo mira con recelo doctrinal. Ver
 
 **Pieza de la sesión**:
 [gauntlet femenino, tramo final](../matches/2026-08-30-gauntlet-femenino-la-hiedra-vs-la-catalina-aaa-ola-de-calor.md) (WE)
+
+### Sesión 2026-09-11 s67 — En comentarios, con un tease de entrar al ring
+
+**Contexto** (AAA Worldwide, emitido 5/9/2026): comenta el match
+Adelicious vs La Catalina; cuando esta la reta post-match, Flammer
+teasea entrar al ring y se retira. Build hacia su defensa del Reina
+de Reinas en Triplemanía 34 Noche 2.
+
+**Pieza de la sesión**:
+[Adelicious vs La Catalina](../matches/2026-09-05-adelicious-vs-la-catalina-aaa-worldwide.md) (ICC, mención)
 
 ## Pendientes / huecos
 

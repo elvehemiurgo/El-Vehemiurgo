@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: el-fiscal
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s05 (visión directa — AAA Worldwide, 13/6/2026)"
   - "Sub-agente card-aaa-worldwide-130626 (research 2026-08-01, closed)"
@@ -77,6 +77,15 @@ título — **el cuerpo sobre el que se resuelve el finish**, sin ganar.
 
 **Pieza de la sesión**:
 [fatal four-way, Latin American Championship](../matches/2026-08-30-la-parka-vs-priest-vs-fiscal-vs-wagner-latin-american-aaa-ola-de-calor.md) (FS·WE — con contradicción de dictado sin resolver)
+
+### Sesión 2026-09-11 s67 — Parte del trío showcase de La Parka
+
+**Contexto** (AAA Worldwide, emitido 5/9/2026): junto a La Parka y Mr.
+Iguana, vence a Los Vipers & Dinámico, 6:48, en el showcase del nuevo
+campeonato de La Parka. Mención de conjunto, tres clases.
+
+**Pieza de la sesión**:
+[con La Parka & Mr. Iguana vs Los Vipers & Dinámico](../matches/2026-09-05-la-parka-fiscal-iguana-vs-los-vipers-dinamico-aaa-worldwide.md) (ICC)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rey-mysterio
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones"
   - "Dossier WWE SmackDown 2002 + Dossier AAA + AEW 2026"
@@ -221,6 +221,22 @@ cierra anunciando que **él mismo enfrentará a Omos en Triplemanía
 
 **Pieza de la sesión**:
 [firma de contrato](../segments/2026-08-30-firma-contrato-dominik-grande-omos-rey-aaa-ola-de-calor.md) (WE)
+
+### Sesión 2026-09-11 s67 — El legado en la colisión de escuelas del MITB Qualifier
+
+**Cita verbatim** (Raw, 7/9/2026):
+
+> *"la colisión de escuelas en este ring fue increible, muy pros,
+> naturales para dar una lucha oldschool real"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: parte del "choque de escuelas" con Breakker y
+Ethan Page en el MITB Qualifier — cae ante el doble Frankensteiner +
+Spear de Breakker.
+
+**Pieza de la sesión**:
+[vs Bron Breakker vs Ethan Page](../matches/2026-09-07-bron-breakker-vs-rey-mysterio-vs-ethan-page-wwe-raw.md) (ICC+)
 
 ## Lectura consolidada del Vehemiurgo
 

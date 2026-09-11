@@ -12,6 +12,22 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-09-07 | Ataque post-match de The Vision sobre Otis y Tozawa — el salve de Oba Femi | WWE / Raw | angle — ataque y salve | WE | — | en-investigacion | 1 | [→](2026-09-07-ataque-vision-salve-oba-femi-wwe-raw.md) |
+| 2026-09-07 | LA Knight se declara retador #1 con el GM — Solo Sikoa le pide prioridad contra 946 | WWE / Raw | promo backstage | — | — | en-investigacion | 1 | [→](2026-09-07-la-knight-segmento-gm-solo-sikoa-wwe-raw.md) |
+| 2026-09-07 | Promo de respuesta de JD McDonagh — el giro político | WWE / Raw | promo | WE | — | en-investigacion | 1 | [→](2026-09-07-promo-respuesta-jd-mcdonagh-wwe-raw.md) |
+| 2026-09-07 | Video package: Royce Keys y OTM (946) — hype en blanco y negro | WWE / Raw | video package | WE+ | — | en-investigacion | 1 | [→](2026-09-07-promo-video-royce-keys-otm-wwe-raw.md) |
+| 2026-09-07 | Cierre de Raw: los Usos y Jacob Fatu llaman a 946 — respuesta con fuego | WWE / Raw | angle de cierre | WE | — | en-investigacion | 1 | [→](2026-09-07-segmento-final-otm-wwe-raw.md) |
+| 2026-09-07 | The Vision — promos de Breakker y Bronson Reed en la apertura | WWE / Raw | promo in-ring — apertura | WE | — | en-investigacion | 1 | [→](2026-09-07-the-vision-promos-breakker-reed-wwe-raw.md) |
+| 2026-09-06 | Promo video: Oba Femi vs Bron Breakker — "¿quién es el futuro de WWE?" | WWE / Sunday Night's Main Event | video package | WE+ | — | en-investigacion | 1 | [→](2026-09-06-promo-video-oba-femi-vs-bron-breakker-snme.md) |
+| 2026-09-06 | Video/segmento de apertura — actuación en vivo de Quavo | WWE / Sunday Night's Main Event | entretenimiento musical / apertura | WE | — | en-investigacion | 1 | [→](2026-09-06-video-apertura-quavo-snme.md) |
+| 2026-09-05 | El Grande Americano presenta a Pimpinela Escarlata — segmento de despedida | AAA / AAA Worldwide (AAA on FOX) | homenaje / despedida | — | — | en-investigacion | 1 | [→](2026-09-05-pimpinela-escarlata-despedida-aaa-worldwide.md) |
+| 2026-09-05 | Promo de La Catalina, en español, rumbo a Triplemanía 34 | AAA / AAA Worldwide (AAA on FOX) | promo | — | — | en-investigacion | 1 | [→](2026-09-05-promo-la-catalina-aaa-worldwide.md) |
+| 2026-09-04 | Chelsea Green, declarada apta con máscara — Nia Jax y Lash Legend la rodean, Tiffany Stratton la salva | WWE / SmackDown | segmento — angle de campeonato | WE+ | — | en-investigacion | 1 | [→](2026-09-04-chelsea-green-apta-nia-lash-tiffany-salva-wwe-smackdown.md) |
+| 2026-09-04 | Cody Rhodes y Randy Orton, cara a cara sin contacto — build hacia Sunday Night's Main Event | WWE / SmackDown | promo in-ring | — | — | en-investigacion | 1 | [→](2026-09-04-cody-randy-cara-a-cara-wwe-smackdown.md) |
+| 2026-09-04 | El debut de Bakusai — presentación de gimmick, estilo de Hiromu Takahashi/Kyoki | WWE / SmackDown | presentación de talento / debut | WE+ | — | en-investigacion | 1 | [→](2026-09-04-debut-bakusai-presentacion-wwe-smackdown.md) |
+| 2026-09-04 | Gunther confronta a Nick Aldis por el booking | WWE / SmackDown | promo backstage | — | — | en-investigacion | 1 | [→](2026-09-04-gunther-confronta-nick-aldis-wwe-smackdown.md) |
+| 2026-09-04 | Gunther corta promo, Sami Zayn interrumpe — Bálor y Owens se suman a la cacería | WWE / SmackDown | promo in-ring — apertura | — | — | en-investigacion | 1 | [→](2026-09-04-gunther-promo-apertura-sami-zayn-wwe-smackdown.md) |
+| 2026-09-04 | Segmento de Sami Zayn — construcción rumbo a Sami vs Punk | WWE / SmackDown | promo | WE | — | en-investigacion | 1 | [→](2026-09-04-sami-zayn-segmento-gargano-wwe-smackdown.md) |
 | 2026-09-01 | BirthRight rodea a Zilla Fatu — la propuesta, y el superkick a Lexis King | WWE / NXT | post-match / oferta de facción | — | — | en-investigacion | 1 | [→](2026-09-01-birthright-rodea-a-zilla-fatu-nxt.md) |
 | 2026-09-01 | Grayson Waller, campeón: se agradece a sí mismo — y toda la división se pone en fila | WWE / NXT | promo in-ring de campeón + cadena de interrupciones + brawl de cierre | WE+ | — | en-investigacion | 1 | [→](2026-09-01-promo-grayson-waller-campeon-saquon-shugars-nxt.md) |
 | 2026-09-01 | Kelani Jordan, campeona: 'one shot' — y Jaida Parker se pone en la fila | WWE / NXT | promo in-ring + interrupción de retadora | WE | — | en-investigacion | 1 | [→](2026-09-01-promo-kelani-jordan-campeona-jaida-parker-nxt.md) |

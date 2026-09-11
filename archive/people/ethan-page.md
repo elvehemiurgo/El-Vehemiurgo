@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ethan-page
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Wikipedia — Ethan Page"
   - "Cobertura indie 2010s, Impact Wrestling, AEW (2020-2024), WWE NXT (2024-2026), WWE main roster (2026)"
@@ -137,6 +137,24 @@ capitalizar contra un turnbuckle expuesto; cuestiona después que Gable
 **Piezas de la sesión**:
 [interrumpe a Chad Gable y Dragon Lee](../segments/2026-08-31-ethan-page-interrumpe-chad-gable-dragon-lee-wwe-raw.md) (WE) ·
 [vs Dragon Lee](../matches/2026-08-31-ethan-page-vs-dragon-lee-wwe-raw.md) (ICC)
+
+### Sesión 2026-09-11 s67 — "De lo mejor del midcard" en la colisión de escuelas
+
+**Cita verbatim** (Raw, 7/9/2026):
+
+> *"luego entra Ethan, de lo mejor del midcard a medirse en este
+> universo contra Breaker y Rey Mysterio, buenisimo el booking para
+> este tipo de dream matches, la colisión de escuelas en este ring fue
+> increible"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: reconocido como referencia del midcard que
+sube de nivel al medirse contra Breakker y Mysterio en el MITB
+Qualifier.
+
+**Pieza de la sesión**:
+[vs Bron Breakker vs Rey Mysterio](../matches/2026-09-07-bron-breakker-vs-rey-mysterio-vs-ethan-page-wwe-raw.md) (ICC+)
 
 ## Lectura consolidada del Vehemiurgo
 

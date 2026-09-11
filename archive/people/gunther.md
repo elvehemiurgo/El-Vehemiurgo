@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: gunther
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
 tags: [gunther, wwe-smackdown-2026, wrestling-entertainment, contract-signing, emboscada, primer-registro-individual]
@@ -317,6 +317,28 @@ de estar llorando como Owens"*. Detalle carny que aporta el research:
 - **Detalle de booking**: Aldis le había garantizado que **no habría
   shenanigans** en el main event, minutos antes de que Sami Zayn lo
   destruyera.
+
+### Sesión 2026-09-11 s67 — Motivado en la apertura, y la confrontación con Aldis — el main event scene sin título
+
+**Citas verbatim** (2026 09 04 WWE SmackDown):
+
+> *"Gunther corta su promo contra Sami, muy motivado, está haciendo un
+> gran trabajo constantemenete con Finn y este es el main event scene
+> ahora con Punk en la cima [...] luego Gunther confronta a Nick y se
+> qujeja del booking, buena tension, buena actuación de la rivalidad y
+> conspiraciones que propone Gunther, estan haciendo entretenido el
+> tiempo de gunther sin el título con buenas interacciones"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: Gunther como constante del main event scene
+mientras CM Punk sostiene el título — el Vehemiurgo lo elogia por
+mantener el tiempo sin campeonato entretenido, con la reserva de que
+la confrontación con Aldis quedó en *"ok"*.
+
+**Piezas de la sesión**:
+[promo de apertura](../segments/2026-09-04-gunther-promo-apertura-sami-zayn-wwe-smackdown.md) (sin clase) ·
+[confrontación con Aldis](../segments/2026-09-04-gunther-confronta-nick-aldis-wwe-smackdown.md) (sin clase)
 
 ## Pendientes / huecos
 

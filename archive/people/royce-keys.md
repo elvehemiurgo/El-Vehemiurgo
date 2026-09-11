@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: royce-keys
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s05 (4-way de SmackDown 12/6/2026 — 'peso muerto')"
   - "Volcado Vehemiurgo 2026-08-26 s50 (regreso con OTM — WWE Raw, 24/8/2026)"
@@ -144,6 +144,26 @@ de un match que el Vehemiurgo consideraba a un paso de lo perfecto.
 **Piezas de la sesión**:
 [OTM ataca a los Usos](../segments/2026-08-31-otm-ataca-los-usos-apertura-wwe-raw.md) (WE) ·
 [el segmento de Roman Reigns](../segments/2026-08-31-roman-reigns-segmento-in-ring-royce-keys-jacob-fatu-wwe-raw.md) (sin clase)
+
+### Sesión 2026-09-11 s67 — "Soltándose como main eventer y en el mic" — el packaging premium de 946
+
+**Cita verbatim** (Raw, 7/9/2026):
+
+> *"el promo video para Royce Keys y OTM estuvo muy cool, ese
+> packaging es premium, iconico, setup con stakes y protagonismo,
+> Royce Keys soltandose como main eventer y en el mic, polémico desde
+> el principio, psicologia y todo, es premium, se merece una WE+"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: continuidad del arco heel-protagonista desde
+agosto de 2026 — el video de hype eleva a Royce Keys específicamente
+como voz principal del trío, dentro del feud contra Fatu/Reigns/Usos.
+El cierre de show (946 incendiando el auto de los Usos) es su pago.
+
+**Piezas de la sesión**:
+[video package](../segments/2026-09-07-promo-video-royce-keys-otm-wwe-raw.md) (WE+) ·
+[cierre de show](../segments/2026-09-07-segmento-final-otm-wwe-raw.md) (WE)
 
 ## Pendientes / huecos
 

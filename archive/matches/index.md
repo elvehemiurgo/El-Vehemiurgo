@@ -13,6 +13,18 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-07 | Bron Breakker vs Rey Mysterio vs Ethan Page — Men's Money in the Bank Qualifier | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-07-bron-breakker-vs-rey-mysterio-vs-ethan-page-wwe-raw.md) |
+| 2026-09-07 | Joe Hendry vs JD McDonagh (con Dominik Mysterio) | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-07-joe-hendry-vs-jd-mcdonagh-wwe-raw.md) |
+| 2026-09-07 | Stephanie Vaquer vs Liv Morgan (c) — WWE Women's World Championship | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-07-stephanie-vaquer-vs-liv-morgan-wwe-raw.md) |
+| 2026-09-06 | Cody Rhodes vs Randy Orton | WWE / Sunday Night's Main Event | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-06-cody-rhodes-vs-randy-orton-snme.md) |
+| 2026-09-06 | Lil Yachty vs Baron Corbin (Five-Minute Challenge) → Baron Corbin (c) vs Trick Williams — WWE United States Championship | WWE / Sunday Night's Main Event | WE | — | en-investigacion | 1 | [→](2026-09-06-lil-yachty-vs-baron-corbin-five-minute-challenge-snme.md) |
+| 2026-09-06 | Oba Femi vs Bron Breakker | WWE / Sunday Night's Main Event | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-06-oba-femi-vs-bron-breakker-snme.md) |
+| 2026-09-05 | Adelicious vs La Catalina (Flammer en comentarios) | AAA / AAA Worldwide (AAA on FOX) | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-05-adelicious-vs-la-catalina-aaa-worldwide.md) |
+| 2026-09-05 | La Parka, El Fiscal & Mr. Iguana vs Los Vipers (Histeria & Taurus) & Dinámico | AAA / AAA Worldwide (AAA on FOX) | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-05-la-parka-fiscal-iguana-vs-los-vipers-dinamico-aaa-worldwide.md) |
+| 2026-09-04 | Bakusai (Shinsuke Nakamura & Kyoki) vs The Miz & Kit Wilson | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-04-bakusai-vs-miz-wilson-wwe-smackdown.md) |
+| 2026-09-04 | Charlotte Flair & Tatum Paxley vs Fallon Henley & Lainey Reid (Fatal Influence) — non-title | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-09-04-charlotte-flair-paxley-vs-henley-reid-wwe-smackdown.md) |
+| 2026-09-04 | CM Punk (c) vs Johnny Gargano — Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-04-cm-punk-vs-johnny-gargano-wwe-smackdown.md) |
+| 2026-09-04 | Tiffany Stratton vs Nia Jax (con Lash Legend) | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-04-tiffany-stratton-vs-nia-jax-wwe-smackdown.md) |
 | 2026-09-01 | Kam Hendrix vs Mason Rook | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-01-kam-hendrix-vs-mason-rook-nxt.md) |
 | 2026-09-01 | Zilla Fatu vs Tristan Angels | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md) |
 | 2026-08-31 | Ethan Page vs Dragon Lee | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-31-ethan-page-vs-dragon-lee-wwe-raw.md) |

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: the-miz
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s43 (visión directa — WWE Backlash, 9/5/2026)"
 tags: [the-miz, wwe-backlash-2026, veterano, entertainment, perfect-wrestling, fighting-spirit, wrestling-entertainment, primer-registro-individual]
@@ -49,6 +49,22 @@ el valor del segmento sin depender del booking que los rodea, que
 es exactamente el tipo de autosuficiencia carny que el Vehemiurgo
 premia. Ver
 [`../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md`](../matches/2026-05-09-miz-kit-wilson-vs-danhausen-minihausen-wwe-backlash.md).
+
+### Sesión 2026-09-11 s67 — El dream match contra Bakusai — the time ticking bomb
+
+**Cita verbatim** (2026 09 04 WWE SmackDown):
+
+> *"tener al time tiking bomb contra The Miz es una dream match, y
+> mantienen la lucha muy real, se merecen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: mención de conjunto en el debut de Bakusai —
+The Miz como el veterano establecido que hace la lucha "dream match"
+posible.
+
+**Pieza de la sesión**:
+[& Kit Wilson vs Bakusai](../matches/2026-09-04-bakusai-vs-miz-wilson-wwe-smackdown.md) (ICC)
 
 ## Pendientes / huecos
 

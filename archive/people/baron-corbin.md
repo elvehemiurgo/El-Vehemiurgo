@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: baron-corbin
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s11, s16 (visión directa)"
 ---
@@ -66,6 +66,28 @@ moto—, confirmado como WWE United States Champion, reteniendo con
 **End of Days** tras contrarrestar el intento de Nothing But Net de
 Hayes. Ver
 [`../matches/2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md`](../matches/2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — "Me aburre hasta dormir" — la reserva de negocio más dura del corpus
+
+**Cita verbatim** (SNME, 6/9/2026):
+
+> *"el booking se me hizo aburrido y Corbin me aburre hasta dormir
+> [...] aunque no sè porque tantas molestias para proteger a Corbin,
+> realmente podian darle este rol y gimmick de la moto a cualquiera,
+> al menos en kayfabe no ofrece nada revolucionario, su booking es
+> màs producto de su relaciòn con la empresa y lo safe que es para el
+> mundo corporativo, no veo el appeal"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: la crítica de negocio más dura del corpus — el
+gimmick de la moto (entrada real, no metáfora) y el rol protegido se
+leen como producto de la relación de Corbin con la empresa, no de
+mérito kayfabe. Pierde el WWE United States Championship ante Trick
+Williams la misma noche.
+
+**Pieza de la sesión**:
+[vs Lil Yachty → vs Trick Williams](../matches/2026-09-06-lil-yachty-vs-baron-corbin-five-minute-challenge-snme.md) (WE)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tiffany-stratton
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — WWE SmackDown, 17/4/2026)"
   - "Mención previa: match vs Giulia (27/3/2026, WWE SmackDown)"
@@ -268,6 +268,29 @@ y
   consistencia, no de pico.
 - Contexto: perdió el **WWE Women's United States Championship** ante
   Jacy Jayne el 14/8.
+
+### Sesión 2026-09-11 s67 — Progreso palpable contra Nia Jax, y adelantándose a Vaquer como entertainer
+
+**Citas verbatim**:
+
+> *"Tiffany vs Nia empezó genial [...] buena motivación para Tiffany
+> para ponerse más stiff cada semana, si es un progreso palpable"*
+> (SmackDown, 4/9/2026)
+>
+> *"no puedo creer que Tiffany Stratton le agarró el truco primero que
+> Vaquer, se puso más enterteiner oldschool más rápido"* (Raw,
+> 7/9/2026)
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: el eje de desarrollo de carácter atraviesa dos
+shows de la misma semana — Stratton como referencia de velocidad de
+crecimiento frente a Stephanie Vaquer, con quien comparte el mismo
+eje de carisma/entertainment.
+
+**Piezas de la sesión**:
+[segmento con Chelsea Green](../segments/2026-09-04-chelsea-green-apta-nia-lash-tiffany-salva-wwe-smackdown.md) (WE+) ·
+[vs Nia Jax](../matches/2026-09-04-tiffany-stratton-vs-nia-jax-wwe-smackdown.md) (ICC)
 
 ## Pendientes / huecos
 

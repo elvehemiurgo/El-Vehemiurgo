@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jevon-evans
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 23/3/2026)"
 tags: [jevon-evans, wwe-raw-2026, fighting-spirit, booking-lento-y-cuidadoso, psicologia-en-desarrollo, primer-registro-individual]
@@ -155,6 +155,21 @@ Dominik remata con Frog Splash sobre él.
 
 **Pieza de la sesión**:
 [vs Dominik Mysterio, reiniciada como tag](../matches/2026-08-31-jevon-evans-vs-dominik-mysterio-tag-hendry-mcdonagh-wwe-raw.md) (ICC)
+
+### Sesión 2026-09-11 s67 — La interferencia disfrazado de Funko Pop, leída como buen booking
+
+**Cita verbatim** (Raw, 7/9/2026):
+
+> *"luego la interferencia de Jevon fue cool, buen booking"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: interviene disfrazado con la cabeza gigante de
+Funko Pop de un video musical previo, golpeando a JD McDonagh para
+darle la victoria a Joe Hendry.
+
+**Pieza de la sesión**:
+[Hendry vs McDonagh](../matches/2026-09-07-joe-hendry-vs-jd-mcdonagh-wwe-raw.md) (ICC+, mención)
 
 ## Pendientes / huecos
 

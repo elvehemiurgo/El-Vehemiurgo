@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: charlotte-flair
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
 tags: [charlotte-flair, ric-flair-hija, wwe-smackdown-2026, veterana, fighting-spirit, wrestling-entertainment, mid-critica, primer-registro-individual]
@@ -115,6 +115,23 @@ ambas caen, dejando a Chelsea Green sola para coronarse. No mencionada
 individualmente por el Vehemiurgo en el dictado.
 
 **Lectura sintética**: **FS·WE** para el match completo.
+
+### Sesión 2026-09-11 s67 — Rival "débil" en el booking de Fatal Influence, pero manejando la lucha
+
+**Cita verbatim** (2026 09 04 WWE SmackDown):
+
+> *"incluso con estas rivales debiles en Charlotte y Paxley, manejaron
+> bien una lucha real con los stakes de los campeonatos [...] pero el
+> booking es flojo, ya deberian tenerlas con rivales reales"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: mención de conjunto (con Tatum Paxley) como
+parte del diagnóstico de booking flojo para Fatal Influence — el
+elogio recae en las heels, la reserva en la elección de rivales.
+
+**Pieza de la sesión**:
+[& Paxley vs Henley & Reid](../matches/2026-09-04-charlotte-flair-paxley-vs-henley-reid-wwe-smackdown.md) (WE, a Fatal Influence)
 
 ## Pendientes / huecos
 

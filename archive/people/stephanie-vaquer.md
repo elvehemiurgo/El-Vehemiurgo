@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: stephanie-vaquer
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Wikipedia — Stephanie Vaquer"
   - "Cobertura NJPW STARDOM 2022–2024 (IWGP Women's Champion run)"
@@ -156,6 +156,30 @@ debut).
   rendir**, pero el paquete completo sigue sin cerrarse — *"no veo una
   super estrella"*.
 - Ver [`../segments/2026-08-24-promo-stephanie-vaquer-wwe-raw.md`](../segments/2026-08-24-promo-stephanie-vaquer-wwe-raw.md).
+
+### Sesión 2026-09-11 s67 — El highlight de su programación — con la reserva sobre sus promos, y el eco de La Catalina
+
+**Cita verbatim** (Raw, 7/9/2026):
+
+> *"Vaquer vs Morgan nunca decepciona [...] pero Vaquer se queda atras
+> con sus promos [...] esta lucha y su calidad son un highlight en lo
+> que va de su programación para Vaquer; Aquí vi a Vaquer más vocal
+> más agresiva con el referi y con Liv, eso es bueno, no puedo creer
+> que Tiffany Stratton le agarró el truco primero que Vaquer, se puso
+> más enterteiner oldschool más rápido; Se merecen las 3 clases con la
+> corona +"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: reserva sobre las promos que convive con
+progreso de carácter declarado (*"más vocal, más agresiva"*) y con la
+comparación de velocidad de desarrollo frente a Tiffany Stratton. La
+misma semana, en AAA, La Catalina se lee como *"todo lo que Vaquer
+debería ser"* — dos lecturas sobre el mismo eje de carisma, en dos
+empresas distintas.
+
+**Pieza de la sesión**:
+[vs Liv Morgan, título](../matches/2026-09-07-stephanie-vaquer-vs-liv-morgan-wwe-raw.md) (ICC+)
 
 ## Lectura consolidada del Vehemiurgo
 

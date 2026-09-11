@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-knight
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Wikipedia — LA Knight"
   - "El Vehemiurgo, notebook 2026-05-09 (mención editorial breve)"
@@ -159,6 +159,26 @@ video backstage de Solo Sikoa atacado.
 
 **Pieza de la sesión**:
 [interrumpe a Roman Reigns](../segments/2026-08-31-la-knight-interrumpe-roman-reigns-wwe-raw.md) (WE+)
+
+### Sesión 2026-09-11 s67 — Protagonista de un storyline tipo tv reality con el Bloodline
+
+**Cita verbatim** (Raw, 7/9/2026):
+
+> *"la knight tiene un segmento backstage declarandose retador numero
+> uno con el GM, le quedó genial, muy duro [...] es entretenido verlos
+> en un storyline asi muy de tv reality como wwe con the bloodline, me
+> gusta que LA sea el protagonista"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: se declara retador #1 al World Heavyweight
+Championship ante el GM Adam Pearce (contra el ganador de Penta vs
+Roman Reigns); Solo Sikoa le pide prioridad para ir contra 946, Knight
+le pide paciencia — el Vehemiurgo celebra que sea Knight, no el
+Bloodline, el protagonista de la escena.
+
+**Pieza de la sesión**:
+[backstage con Pearce y Sikoa](../segments/2026-09-07-la-knight-segmento-gm-solo-sikoa-wwe-raw.md) (sin clase)
 
 ## Lectura consolidada del Vehemiurgo
 

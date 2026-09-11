@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: iguana
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
   - "Mención previa en dossier AAA/AEW 2026 cluster"
@@ -62,6 +62,17 @@ lo manda contra las escaleras en el ringside, habilitando el finish
 sobre Vice. Cierra el arco anticipado desde el 18/7/2026 (s12).
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
+
+### Sesión 2026-09-11 s67 — Parte del trío showcase — y el reto de un Triple Threat por el Latin American en Triplemanía
+
+**Contexto** (AAA Worldwide, emitido 5/9/2026): con La Parka y El
+Fiscal, vence a Los Vipers & Dinámico. Research confirma que Rey
+Mysterio (GM) arma para Triplemanía 34 un **Triple Threat: La Parka
+(c) vs Laredo Kid vs Mr. Iguana** por el AAA Latin American
+Championship, tras un pedido backstage del propio Iguana.
+
+**Pieza de la sesión**:
+[con La Parka & El Fiscal vs Los Vipers & Dinámico](../matches/2026-09-05-la-parka-fiscal-iguana-vs-los-vipers-dinamico-aaa-worldwide.md) (ICC)
 
 ## Pendientes / huecos
 

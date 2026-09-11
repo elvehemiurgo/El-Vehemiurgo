@@ -32,7 +32,7 @@ nombre en el cartel importa**. Los **segmentos también cuentan**.
 **Snapshot 2026-08-22**: 729 entradas contadas
 (732 bullets, duplicados exactos deduplicados) ·
 547 con ≥1 nombre reconocido ·
-203 talents/entidades distintos.
+205 talents/entidades distintos.
 Se cuentan los nombres que el archivo conoce (fichas de `people/` y
 `promotions/` + canónicos del registro), normalizados al canon
 **antes** de contar; el verbatim con typos vive solo en el notebook.
@@ -161,9 +161,9 @@ Se cuentan los nombres que el archivo conoce (fichas de `people/` y
 | 113 | Tama Tonga | 3 | 0 | 3 | ficha [→](../people/tama-tonga.md) |
 | 114 | The Miz | 3 | 0 | 3 | ficha [→](../people/the-miz.md) |
 
-## Cola larga — 2 menciones (31 talents)
+## Cola larga — 2 menciones (33 talents)
 
-Abismo Negro Jr., Arn Anderson, Asuka, Bear Bronson, Brody King, Bryan Danielson, Ciampa, Darby Allin, Eddie Edwards, El Grande Americano, Flammer, Gail Kim, Jackson Drake, Josh Alexander, Kiana James, Kyle Fletcher, Laredo Kid, Las Tóxicas, Matt Cardona, Mickie James, Myron Reed, Paul Heyman, Roderick Strong, Roxanne Perez, Rusev, Solo Sikoa, Stacks, The Judgment Day, The Righteous, Toni Storm, Trey Miguel.
+Abismo Negro Jr., Adelicious, Arn Anderson, Asuka, Bear Bronson, Brody King, Bryan Danielson, Ciampa, Darby Allin, Eddie Edwards, El Grande Americano, Flammer, Gail Kim, Jackson Drake, Johnny Gargano, Josh Alexander, Kiana James, Kyle Fletcher, Laredo Kid, Las Tóxicas, Matt Cardona, Mickie James, Myron Reed, Paul Heyman, Roderick Strong, Roxanne Perez, Rusev, Solo Sikoa, Stacks, The Judgment Day, The Righteous, Toni Storm, Trey Miguel.
 
 ## Cola larga — 1 mención (58 talents)
 

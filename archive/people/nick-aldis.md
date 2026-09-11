@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nick-aldis
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Sub-agente card-wwe-snme-180726 (research 2026-08-01, closed) — 411Mania, Cageside Seats, Bleacher Report"
   - "El Vehemiurgo, notebook 2026-08-01 s12 (visión directa)"
@@ -201,6 +201,25 @@ s62).
 **Piezas de la sesión**:
 [vs Bad Influence](../matches/2013-02-14-magnus-vs-christopher-daniels-tna-impact.md) (ICC) ·
 [promo post-match](../segments/2013-02-14-promo-post-match-magnus-tna-impact.md) (WE+)
+
+### Sesión 2026-09-11 s67 — Gunther le reclama el booking — el tiempo sin título, bien administrado
+
+**Cita verbatim** (2026 09 04 WWE SmackDown):
+
+> *"luego Gunther confronta a Nick y se qujeja del booking, buena
+> tension, buena actuación de la rivalidad y conspiraciones que
+> propone Gunther, estan haciendo entretenido el tiempo de gunther sin
+> el título con buenas interacciones, pero este segmento estuvo ok"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: continuidad de la rivalidad Gunther/Aldis
+desde el verano (Aldis renunció temporalmente al puesto de GM para
+enfrentarlo en SummerSlam); el segmento queda en *"ok"*, sin subir de
+clase.
+
+**Pieza de la sesión**:
+[Gunther lo confronta](../segments/2026-09-04-gunther-confronta-nick-aldis-wwe-smackdown.md) (sin clase)
 
 ## Pendientes / huecos
 

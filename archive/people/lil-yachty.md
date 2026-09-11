@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lil-yachty
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42-s43 (visión directa — WWE SmackDown 8/5/2026 y Backlash 9/5/2026)"
   - "Corrección de identidad del Vehemiurgo, 2026-07-14 s43"
@@ -79,6 +79,24 @@ del luchador, no por encima de él. Ver
 **Lectura sintética**: sin clase — primer registro donde su
 aporte es meramente funcional, sin el elogio explícito de s43. Ver
 [`../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md`](../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — Sobreviviendo el Five-Minute Challenge de Corbin
+
+**Cita verbatim** (SNME, 6/9/2026):
+
+> *"dentro de todo fueron secuencias entretenidas y se dejan ver, y
+> tambien fue un acierto guardarse la entrada de Trick, les quedò una
+> lucha cool, se merecen una WE class"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: sobrevive el límite de 5 minutos contra Baron
+Corbin (golpeándolo con el micrófono, kendo stick, low blow,
+hurricanrana), desbloqueando la revancha titular de Trick Williams
+esa misma noche.
+
+**Pieza de la sesión**:
+[vs Baron Corbin](../matches/2026-09-06-lil-yachty-vs-baron-corbin-five-minute-challenge-snme.md) (WE)
 
 ## Pendientes / huecos
 

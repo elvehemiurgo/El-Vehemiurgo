@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chelsea-green
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
   - "Mención previa en notebook 2026-05-09 (lista personal completa) — vs Giulia 02/01/2026, vs Jordynne Grace 16/01/2026, vs Tiffany Stratton/Lash Legend 06/02/2026, con Sol Ruca NXT 23/12/2025"
@@ -279,6 +279,25 @@ hacer el save** — arranque efectivo de la alianza Chelsea/Tiffany. Ver
 - **La consecuencia**: Nia Jax exigió el title match; Aldis dijo que
   Green debía ser re-evaluada.
 - Ver [`../matches/2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md`](../matches/2026-08-28-tiffany-chelsea-vs-nia-lash-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — "A la altura de sus sacrificios en tv" — apta con máscara, construyendo a Tiffany
+
+**Cita verbatim** (2026 09 04 WWE SmackDown):
+
+> *"el segmento de Chelsea Green estuvo cool, buen drama, buena
+> programación y a la altura de sus sacrificios en tv, el reinado no
+> tiene muchas defensas pero si tiene protagonismo y promos sólidas
+> muy buenas para cualquier babyface [...] se merecen una WE+ por este
+> segmento"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: distinción editorial entre volumen de defensas
+(bajo) y peso narrativo (alto) del reinado interino — y el ángulo
+sirve además para construir a Tiffany Stratton como sucesora babyface.
+
+**Pieza de la sesión**:
+[apta con máscara, Tiffany la salva](../segments/2026-09-04-chelsea-green-apta-nia-lash-tiffany-salva-wwe-smackdown.md) (WE+)
 
 ## Pendientes / huecos
 

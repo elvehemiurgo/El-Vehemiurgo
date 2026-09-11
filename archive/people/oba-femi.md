@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: oba-femi
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster NXT 2025-2026 + WM42 cluster"
   - "Wikipedia + WWE.com perfil"
@@ -255,4 +255,30 @@ Event.
 
 **Pieza de la sesión**:
 [promo video vs Bron Breakker](../segments/2026-08-31-promo-video-bron-breakker-vs-oba-femi-wwe-raw.md) (WE)
+
+### Sesión 2026-09-11 s67 — El futuro de WWE, sin facción — y el salve babyface por venganza, no por defender débiles
+
+**Citas verbatim**:
+
+> *"pusieron buen selling, una lucha heavyweight dura, wwe realmente
+> confiando en ellos para entretener, sin interferencias ni
+> parafernalia extra, solo un show puesto por estos dos y un vistazo
+> al futuro de wwe [...] no necesitan una facción al rededor, solo
+> necesitan ponerse asi de reales"* (SNME, 6/9/2026)
+>
+> *"felizmente Oba si aparece para hacer el salve, muy babyface el
+> gesto de salvar a los jobbers como colateral de su venganza no
+> necesariamente porque degienda a los debiles"* (Raw, 7/9/2026)
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: el punto más alto de la doctrina del rub
+malo — Femi sostiene un show sin necesitar el andamiaje de facción, y
+su heroísmo se matiza como venganza, no altruismo puro. Pierde por DQ
+en SNME (interferencia de Bronson Reed) pero la lucha llega a ICC.
+
+**Piezas de la sesión**:
+[promo video vs Breakker](../segments/2026-09-06-promo-video-oba-femi-vs-bron-breakker-snme.md) (WE+) ·
+[vs Bron Breakker](../matches/2026-09-06-oba-femi-vs-bron-breakker-snme.md) (ICC) ·
+[ataque/salve en Raw](../segments/2026-09-07-ataque-vision-salve-oba-femi-wwe-raw.md) (WE)
 

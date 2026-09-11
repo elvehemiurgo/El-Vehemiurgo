@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: cody-rhodes
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones"
   - "Dossier WrestleMania 42 + WWE MITB 2013 + cluster cross-link NJPW 2018"
@@ -211,6 +211,28 @@ father"* promo)
   título. **Orton no cayó, y Cody se llevó la última sonrisa**:
   *"nos vemos en Atlanta"*.
 - Ver [`../segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md`](../segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — El cara a cara que rinde menos por repetición, y el final polémico de SNME
+
+**Citas verbatim**:
+
+> *"la entrevista con Cody y Randy estuvo entretenido, repitieron el
+> acto de la semana pasada [...] tuvo más impacto la semana pasada,
+> pero estuvo ok"* (SmackDown, 4/9/2026)
+>
+> *"Cody vs Randy estuvo genial, si le meten oldschool, final
+> polémico, no es un payoff que me encantara, pero disfrutable, se
+> merece las 3 clases"* (SNME, 6/9/2026)
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: el build repetido rinde menos que la semana
+anterior, pero el pago en SNME llega a ICC pese a la reserva sobre el
+payoff del finish (tres bumps de réferi, low blow de Orton).
+
+**Piezas de la sesión**:
+[cara a cara](../segments/2026-09-04-cody-randy-cara-a-cara-wwe-smackdown.md) (sin clase) ·
+[vs Randy Orton](../matches/2026-09-06-cody-rhodes-vs-randy-orton-snme.md) (ICC)
 
 ## Lectura consolidada del Vehemiurgo
 

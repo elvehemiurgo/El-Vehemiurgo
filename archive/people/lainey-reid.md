@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lainey-reid
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — WWE SmackDown, 17/4/2026)"
 tags: [lainey-reid, wwe-nxt, heroe-fundamental-38, panteon, titulos-en-pareja-femeninos-excepcion]
@@ -157,6 +157,16 @@ Paige.
 SmackDown, 7/8/2026.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
+
+### Sesión 2026-09-11 s67 — Cae con Cemetery Drive ante Flair & Paxley, elogiada como ring general
+
+**Contexto** (2026 09 04 WWE SmackDown): con Fallon Henley,
+campeonas de parejas, pierden en lucha non-title ante Charlotte Flair
+& Tatum Paxley — Paxley la cierra con Cemetery Drive. Ver el elogio de
+conjunto en [`../promotions/fatal-influence.md`](../promotions/fatal-influence.md).
+
+**Pieza de la sesión**:
+[& Henley vs Flair & Paxley](../matches/2026-09-04-charlotte-flair-paxley-vs-henley-reid-wwe-smackdown.md) (WE)
 
 ## Pendientes / huecos
 

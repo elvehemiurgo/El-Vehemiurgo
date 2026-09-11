@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: joe-hendry
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Wikipedia — Joe Hendry"
   - "Cobertura ITV World of Sport reboot, ICW, TNA / Impact (2021-2025), WWE NXT (2025-2026), WWE main roster (2026)"
@@ -128,6 +128,24 @@ JD McDonagh que decide el finish a favor de Dominik/McDonagh.
 
 **Pieza de la sesión**:
 [vs Dominik Mysterio y JD McDonagh](../matches/2026-08-31-jevon-evans-vs-dominik-mysterio-tag-hendry-mcdonagh-wwe-raw.md) (ICC)
+
+### Sesión 2026-09-11 s67 — Gana con Sound Effect en una lucha muy dura y veloz
+
+**Cita verbatim** (Raw, 7/9/2026):
+
+> *"luego Hendry vs JD estuvo genial, si son performers geniales y
+> confiables, pero si se puso muy cool y muy dura, mucha velocidad,
+> buenos spots, y luego la interferencia de Jevon fue cool, buen
+> booking, se merecen las 3 clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: gana con Sound Effect tras la interferencia de
+Jevon Evans (disfrazado con la cabeza gigante de Funko Pop),
+consolidando el ICC+.
+
+**Pieza de la sesión**:
+[vs JD McDonagh](../matches/2026-09-07-joe-hendry-vs-jd-mcdonagh-wwe-raw.md) (ICC+)
 
 ## Lectura consolidada del Vehemiurgo
 

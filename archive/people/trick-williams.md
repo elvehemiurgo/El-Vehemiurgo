@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: trick-williams
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
   - "Mención previa en notebook 2026-05-09 (lista personal completa) — vs Rey Fénix 09/01 y 13/02/2026, backstage con Jacob Fatu y Nick Aldis 13/03/2026, vs Jacob Fatu 13/03/2026, backstage con Sami Zayn 20/03/2026"
@@ -219,6 +219,25 @@ dictado. Reserva explícita del Vehemiurgo sobre Trick: le falta
 de un feud generacional). **Sin clase, con crítica dura al booking**
 en la confrontación con Baron Corbin — el Vehemiurgo lo lee como peso
 muerto sin stakes reales de cara al US Title match de SummerSlam.
+
+### Sesión 2026-09-11 s67 — El momentum robado por el ángulo — y el nuevo campeón US pese a todo
+
+**Cita verbatim** (SNME, 6/9/2026):
+
+> *"queria ver si hay alguna clase de payoff a todo este àngulo que
+> solo le quitò momentum a Trick [...] tambien fue un acierto
+> guardarse la entrada de Trick [...] espero que el booking de Trick
+> mejore porque esta temporada estuvo aburrida"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: el diagnóstico de negocio central — el
+vehículo (Yachty vs Corbin) le restó impulso a Trick antes de su
+propio momento; el acierto de guardar su entrada rescata la noche, y
+gana el **WWE United States Championship** con Trickshot.
+
+**Pieza de la sesión**:
+[vs Baron Corbin (título)](../matches/2026-09-06-lil-yachty-vs-baron-corbin-five-minute-challenge-snme.md) (WE)
 
 ## Pendientes / huecos
 

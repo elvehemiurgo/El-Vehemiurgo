@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: randy-orton
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Sub-agente card-wwe-smackdown-070826 (research 2026-08-01, closed) — Yahoo Sports, Forbes, ESPN, Fightful, 411mania"
   - "El Vehemiurgo, notebook 2026-08-01 s20 (visión directa)"
@@ -116,6 +116,20 @@ match cuesta toda oportunidad titular mundial futura para ambos. Ver
 - **Destino**: **Cody Rhodes vs Randy Orton, Sunday Night's Main
   Event, 6/9/2026, Atlanta**.
 - Ver [`../segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md`](../segments/2026-08-28-careo-cody-randy-orton-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — Provocando sin contacto, y el RKO tras el low blow en SNME
+
+**Citas verbatim**: ver [`./cody-rhodes.md`](./cody-rhodes.md) para el
+texto completo — mismas dos piezas, misma sesión.
+
+**Lectura sintética**: Orton provoca insultando a la familia de Cody
+para hacerlo romper la regla de no-contacto; en SNME gana con RKO tras
+un low blow y un tercer réferi de por medio — *"final polémico"*,
+lectura que varios medios conectan con un posible heel turn de Cody.
+
+**Piezas de la sesión**:
+[cara a cara](../segments/2026-09-04-cody-randy-cara-a-cara-wwe-smackdown.md) (sin clase) ·
+[vs Cody Rhodes](../matches/2026-09-06-cody-rhodes-vs-randy-orton-snme.md) (ICC)
 
 ## Pendientes / huecos
 

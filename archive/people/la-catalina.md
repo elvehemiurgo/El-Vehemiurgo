@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-catalina
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial 2026-05-10 Kira vs Persephone"
   - "Confirmación directa del Vehemiurgo 2026-05-10: 'La Catalina ya firmó con WWE y AAA'"
@@ -242,3 +242,27 @@ consecutiva de su expediente de singles en AAA. Ver
 
 **Pieza de la sesión**:
 [gauntlet femenino, tramo final](../matches/2026-08-30-gauntlet-femenino-la-hiedra-vs-la-catalina-aaa-ola-de-calor.md) (WE)
+
+### Sesión 2026-09-11 s67 — "Es todo lo que Vaquer debería ser" — brillando rumbo a Triplemanía
+
+**Citas verbatim** (AAA Worldwide, emitido 5/9/2026):
+
+> *"Catalina con una buena promo, más cómoda en español y eso, pero le
+> quedó buena la promo como face en tv, estuvo ok"*
+>
+> *"la Catalina se ve genial en tv, es todo lo que Vaquer debería ser,
+> es normal compararlas, y está brillando como babyface muy vocal
+> [...] esta lucha se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: la comparación editorial cruzada AAA/WWE más
+explícita del corpus — la misma semana en que el archivo registra
+reservas sobre las promos de Stephanie Vaquer en Raw, La Catalina se
+pone como el modelo a seguir. Rumbo a Triplemanía 34 Noche 2 (vs
+Flammer, Reina de Reinas).
+
+**Piezas de la sesión**:
+[promo en español](../segments/2026-09-05-promo-la-catalina-aaa-worldwide.md) (sin clase) ·
+[vs Adelicious](../matches/2026-09-05-adelicious-vs-la-catalina-aaa-worldwide.md) (ICC)
+

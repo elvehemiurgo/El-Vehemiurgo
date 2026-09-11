@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lash-legend
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s50 (visión directa — WWE SmackDown, 22/5/2026)"
   - "Menciones previas en la lista personal (5 apariciones registradas: vs Charlotte Flair 26/12/2025, triple threat con Chelsea Green y Tiffany Stratton 06/02/2026, four-way con Nia Jax/Rhea/Iyo 27/02/2026, entre otras)"
@@ -166,6 +166,17 @@ casi la ahoga"): ahora conduce un singles completo como monster heel
 confiable. Post-match, junto a Nia Jax (The Irresistible Forces),
 ataca a Tiffany hasta el save de Chelsea Green con kendo stick. Ver
 [`../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md`](../matches/2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — La distracción que le cuesta a Stratton el Prettiest Moonsault Ever
+
+**Contexto** (2026 09 04 WWE SmackDown): sube al apron para distraer
+a Tiffany Stratton e impedirle el Prettiest Moonsault Ever, dándole
+tiempo a Nia Jax de rematar con el Annihilator. Mencionada de
+conjunto en el elogio a la lucha: *"esta escena está buenísima [...]
+se merecen las 3 clases"*.
+
+**Pieza de la sesión**:
+[Stratton vs Jax](../matches/2026-09-04-tiffany-stratton-vs-nia-jax-wwe-smackdown.md) (ICC, mención)
 
 ## Pendientes / huecos
 

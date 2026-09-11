@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-owens
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Sub-agente card-wwe-summerslam-n1-n2-2026 (research 2026-08-01, closed) — Forbes, CBS Sports, Fightful, Wrestling Inc, Last Word on Pro Wrestling"
   - "El Vehemiurgo, notebook 2026-08-01 s17 (visión directa)"
@@ -166,6 +166,23 @@ propia excepción**:
 - **En el main event**: triple threat sin ganador por interferencia de
   Zayn. Ver
   [`../matches/2026-08-28-finn-balor-vs-kevin-owens-vs-gunther-wwe-smackdown.md`](../matches/2026-08-28-finn-balor-vs-kevin-owens-vs-gunther-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — Desplazado del main event scene, y el resentido menos logrado
+
+**Cita verbatim** (2026 09 04 WWE SmackDown):
+
+> *"aunque Owens está flojo [...] lo está ejecutando mucho mejor que
+> Owens [...] Owens fue rápidamente desplazado"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: mención comparativa, no protagónica — Owens
+sirve de vara para medir la mejor ejecución de Sami Zayn del mismo
+arquetipo (el resentido), y queda fuera de la ecuación del main event
+scene con rapidez.
+
+**Pieza de la sesión**:
+[Gunther corta promo contra Sami](../segments/2026-09-04-gunther-promo-apertura-sami-zayn-wwe-smackdown.md) (sin clase, mención)
 
 ## Pendientes / huecos
 

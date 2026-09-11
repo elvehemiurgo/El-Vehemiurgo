@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tatum-paxley
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3/2026)"
 tags: [tatum-paxley, wwe-nxt-2026, estilo-experimental, selling, primer-registro-individual]
@@ -163,6 +163,24 @@ como hecho.**
 **Hilo de continuidad**: Paxley **también fue expulsada de The
 Culling** en su momento — el mismo stable del que echaron a Shawn
 Spears el 23/6/2026 y del que sigue siendo pieza Izzi Dame.
+
+### Sesión 2026-09-11 s67 — "Débil y se ve fake" — el acto actual, pendiente de evolución
+
+**Cita verbatim** (2026 09 04 WWE SmackDown):
+
+> *"no me gusta el acto actual de Tatum, es debil y se ve fake, pero
+> siento que se pondrá de moda por thirst trap, espero evolucione en
+> una wrestler real pronto"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: la reserva individual más dura del corpus
+SmackDown — crítica al gimmick actual con esperanza declarada de
+evolución hacia una wrestler real, distinta del elogio de conjunto a
+Fatal Influence en el mismo match.
+
+**Pieza de la sesión**:
+[& Charlotte Flair vs Henley & Reid](../matches/2026-09-04-charlotte-flair-paxley-vs-henley-reid-wwe-smackdown.md) (WE, reserva individual)
 
 ## Pendientes / huecos
 

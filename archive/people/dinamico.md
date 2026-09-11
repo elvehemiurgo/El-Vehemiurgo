@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dinamico
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
 tags: [dinamico, aaa, wrestling-entertainment, primer-registro-individual]
@@ -41,6 +41,15 @@ tags: [dinamico, aaa, wrestling-entertainment, primer-registro-individual]
 **Lectura sintética**: primer registro individual, sin
 protagonismo singularizado — el foco editorial de la sesión recae
 en el feud Hiedra vs Lola.
+
+### Sesión 2026-09-11 s67 — Refuerzo de Los Vipers en el showcase de La Parka
+
+**Contexto** (AAA Worldwide, emitido 5/9/2026): se suma a Histeria &
+Taurus (Los Vipers) para completar el trío contra La Parka, El Fiscal
+& Mr. Iguana. Pierden, 6:48.
+
+**Pieza de la sesión**:
+[con Los Vipers vs La Parka, El Fiscal & Mr. Iguana](../matches/2026-09-05-la-parka-fiscal-iguana-vs-los-vipers-dinamico-aaa-worldwide.md) (ICC)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: promotions
 slug: fatal-influence
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Cobertura WWE NXT 2024-2026 (run completo de la facción)"
   - "Cobertura WWE SmackDown 24.04.2026 (debut main roster)"
@@ -178,6 +178,28 @@ TKO manejan distinto la transición (MFTs subordinados al feud
 Wyatt Sicks paranormal y autoconsumiéndose; Fatal Influence
 ejecutando despedida ortodoxa con elevación de los que se
 quedan).
+
+### Sesión 2026-09-11 s67 — Ring generals evolucionando, con el booking en contra
+
+**Cita verbatim** (2026 09 04 WWE SmackDown):
+
+> *"Fatal influence en tag tgeam action, buenisimas, incluso con estas
+> rivales debiles en Charlotte y Paxley, manejaron bien una lucha real
+> con los stakes de los campeonatos, se mereecen una WE por que es
+> cool verlas como ring generals como las heels principales
+> evolucionando; pero el booking es flojo, ya deberian tenerlas con
+> rivales reales"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: elogio de conjunto a Fallon Henley y Lainey
+Reid como *"ring generals"* en evolución, con la reserva de negocio
+sobre la calidad de sus rivales. **Corrección de research**: no
+lucharon las tres — Jacy Jayne quedó fuera del ring hasta el ataque
+post-match, donde entra junto a Jade Cargill, B-Fab y Michin.
+
+**Pieza de la sesión**:
+[Henley & Reid vs Flair & Paxley (non-title)](../matches/2026-09-04-charlotte-flair-paxley-vs-henley-reid-wwe-smackdown.md) (WE)
 
 ## Lectura consolidada del Vehemiurgo
 

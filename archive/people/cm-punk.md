@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: cm-punk
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones cross-cluster"
   - "Dossieres WrestleMania 42 + Money in the Bank 2013 + cluster Eddie/Punk IWA"
@@ -209,6 +209,26 @@ habría evitado. Cross-link con
   Zayn y **Zayn también lo tumbó con el título**. **Quien queda de pie
   con el cinturón en alto es Zayn**, y Punk **sale del show sin
   retador definido**.
+
+### Sesión 2026-09-11 s67 — El main event scene desde arriba, y un gran show contra Gargano
+
+**Cita verbatim** (2026 09 04 WWE SmackDown):
+
+> *"CM Punk vs Johnny Gargano estuvo cool [...] hubiera preferido a
+> Punk hacer algo más duro contra Gunther o Balor, pero involucrar a
+> Sami y los celos de Gunther por esta lucha para Gargano, me parece
+> que sigue siendo buen booking [...] fue un gran show, se mercen las
+> 3 clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: reserva técnica declarada (hubiera preferido
+otro rival) sin bajar la clase — Punk retiene el Undisputed WWE
+Championship en Cleveland, ciudad natal de Gargano, en un final
+caótico con Sami Zayn y Candice LeRae.
+
+**Pieza de la sesión**:
+[vs Johnny Gargano](../matches/2026-09-04-cm-punk-vs-johnny-gargano-wwe-smackdown.md) (ICC+)
 
 ## Lectura consolidada del Vehemiurgo
 

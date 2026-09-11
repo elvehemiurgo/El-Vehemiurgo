@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jacy-jayne
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Wikipedia — Jacy Jayne"
   - "Cobertura WWE NXT 2021-2026"
@@ -158,6 +158,17 @@ fuentes_principales:
   Fatal Influence a esta fecha es **ella, Fallon Henley y Lainey
   Reid**, con Henley y Reid como **Women's Tag Team Champions**.
 - Ver [`../matches/2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md`](../matches/2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — Encabeza el ataque post-match sobre Flair, Paxley y Bliss
+
+**Contexto** (2026 09 04 WWE SmackDown): tras la derrota de sus
+compañeras Fallon Henley y Lainey Reid (non-title) ante Charlotte
+Flair & Tatum Paxley, Jayne entra junto a Jade Cargill, B-Fab y Michin
+a emboscar a las ganadoras y a Alexa Bliss, de cara a Sunday Night's
+Main Event. Sostiene el WWE Women's United States Championship.
+
+**Pieza de la sesión**:
+[Flair & Paxley vs Henley & Reid](../matches/2026-09-04-charlotte-flair-paxley-vs-henley-reid-wwe-smackdown.md) (WE, ataque post-match)
 
 ## Lectura consolidada del Vehemiurgo
 

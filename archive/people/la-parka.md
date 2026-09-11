@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-parka
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [la-parka, aaa, fighting-spirit, wrestling-entertainment, doctrina-todas-sus-luchas, primer-registro-individual]
@@ -154,6 +154,25 @@ Triplemanía 34 — segundo clasificado junto a El Hijo de Dr. Wagner Jr.
 
 **Pieza de la sesión**:
 [fatal four-way, Latin American Championship](../matches/2026-08-30-la-parka-vs-priest-vs-fiscal-vs-wagner-latin-american-aaa-ola-de-calor.md) (FS·WE — con contradicción de dictado sin resolver)
+
+### Sesión 2026-09-11 s67 — Celebrando el nuevo reinado en un showcase de trios
+
+**Cita verbatim** (AAA Worldwide, emitido 5/9/2026):
+
+> *"la parka como nuevo campeon celebrando y en una 3 contra 3 [...]
+> buen showcase, buen inicio de reinado, esperando el regreso de
+> vikingo apara una rivalidad clásica que sería con la parka [...]
+> esta lucha se merece las 3 clases"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: showcase del nuevo campeón AAA Latin American,
+con la hipótesis del Vehemiurgo de una futura rivalidad con Hijo del
+Vikingo (sin confirmación de la empresa). Research anuncia en cambio
+un Triple Threat con Laredo Kid y Mr. Iguana para Triplemanía 34.
+
+**Pieza de la sesión**:
+[La Parka, El Fiscal & Mr. Iguana vs Los Vipers & Dinámico](../matches/2026-09-05-la-parka-fiscal-iguana-vs-los-vipers-dinamico-aaa-worldwide.md) (ICC)
 
 ## Pendientes / huecos
 

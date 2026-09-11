@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: sami-zayn
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
 tags: [sami-zayn, wwe-smackdown-2026, face, wrestling-entertainment, trick-williams, primer-registro-individual]
@@ -194,6 +194,31 @@ alianza, dejando sembrado un futuro Owens vs Zayn. Ver
 [`../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md`](../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md)
 y
 [`../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md`](../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md).
+
+### Sesión 2026-09-11 s67 — El resentido mejor ejecutado que Owens — y el mejor acto de la noche
+
+**Citas verbatim** (2026 09 04 WWE SmackDown):
+
+> *"Sami tiene un acto ok, es un papel dificil de llevar, el se supone
+> que sea el lloron, y le sale bien el de resentido, ya lo hizo antes
+> [...] lo está ejecutando mucho mejor que Owens"*
+>
+> *"el segmento con Sami y Gargano estuvo cool, muy buena construcción
+> para Sami, mucho más entretenido que las semanas previas"*
+>
+> *"Sami tiene un mejor acto de resentimiento y tambien conecta con
+> ROH, estuvo fino Sami en este episodio"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: comparación de ejecución directa con Kevin
+Owens (misma arquetipo, distinta ejecución), con progreso declarado
+semana a semana y el gancho de su etapa ROH como capital adicional.
+
+**Piezas de la sesión**:
+[promo de apertura](../segments/2026-09-04-gunther-promo-apertura-sami-zayn-wwe-smackdown.md) (sin clase) ·
+[segmento con Gargano](../segments/2026-09-04-sami-zayn-segmento-gargano-wwe-smackdown.md) (WE) ·
+[main event, interferencia](../matches/2026-09-04-cm-punk-vs-johnny-gargano-wwe-smackdown.md) (ICC+)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: becky-lynch
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE Raw, 4/5/2026)"
 tags: [becky-lynch, wwe-raw-2026, veterana, wrestling-entertainment, mid-critica, sol-ruca, primer-registro-individual]
@@ -202,6 +202,23 @@ La prensa (PWTorch) marca el cruce como un miss del show. Ver
 **Lectura sintética**: sin clase individual — dato de continuidad,
 parte del veredicto negativo general del Vehemiurgo sobre el
 segmento.
+
+### Sesión 2026-09-11 s67 — "No es buena in ring" — la oferta de alianza que Vaquer rechaza
+
+**Cita verbatim** (Raw, 7/9/2026):
+
+> *"Becky de verdad no es buena in ring, y por más de que si tenga
+> buenas promos a veces, pues no me parece buen producto"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: reserva dura sobre su trabajo en el ring, en
+la esquina de Vaquer contra Liv Morgan. Post-match le ofrece una
+alianza a Vaquer para destronar a Morgan; Vaquer la rechaza con
+respeto.
+
+**Pieza de la sesión**:
+[Vaquer vs Liv Morgan](../matches/2026-09-07-stephanie-vaquer-vs-liv-morgan-wwe-raw.md) (ICC+, mención)
 
 ## Pendientes / huecos
 

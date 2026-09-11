@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: bronco-nima
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s12, s14, s15 (visión directa)"
 ---
@@ -124,6 +124,16 @@ Uso contra el vidrio trasero del auto.
 
 **Pieza de la sesión**:
 [OTM ataca a los Usos](../segments/2026-08-31-otm-ataca-los-usos-apertura-wwe-raw.md) (WE)
+
+### Sesión 2026-09-11 s67 — 946 responde a los Usos con fuego
+
+**Contexto** (Raw, 7/9/2026): con Royce Keys y Lucien Price
+(OTM/"946"), protagoniza el video de hype y el cierre de show,
+incendiando el auto rentado de los Usos tras su llamada vía jumbotron.
+
+**Piezas de la sesión**:
+[video package](../segments/2026-09-07-promo-video-royce-keys-otm-wwe-raw.md) (WE+) ·
+[cierre de show](../segments/2026-09-07-segmento-final-otm-wwe-raw.md) (WE)
 
 ## Pendientes / huecos
 

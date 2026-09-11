@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jd-mcdonagh
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Wikipedia — JD McDonagh"
   - "Insight with Chris Van Vliet — entrevista 13 mar 2025 (lesión pulmón perforado)"
@@ -137,6 +137,27 @@ finish cabeceando a Joe Hendry en el apron.
 
 **Pieza de la sesión**:
 [vs Jevon Evans y Joe Hendry](../matches/2026-08-31-jevon-evans-vs-dominik-mysterio-tag-hendry-mcdonagh-wwe-raw.md) (ICC)
+
+### Sesión 2026-09-11 s67 — El giro político en la promo de respuesta, y la derrota ante Hendry
+
+**Citas verbatim** (Raw, 7/9/2026):
+
+> *"la promo respuesta de JD estuvo cool, muy politica de pronto, pero
+> buen comeback, buen heat, se merece una WE"*
+>
+> *"luego Hendry vs JD estuvo genial, si son performers geniales y
+> confiables"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: la nota de tono político (*"muy política de
+pronto"*) se registra como observación de contexto, sin entrar al
+juicio in-ring; la derrota ante Hendry llega a ICC+ con la
+interferencia de Jevon Evans leída como buen booking.
+
+**Piezas de la sesión**:
+[promo de respuesta](../segments/2026-09-07-promo-respuesta-jd-mcdonagh-wwe-raw.md) (WE) ·
+[vs Joe Hendry](../matches/2026-09-07-joe-hendry-vs-jd-mcdonagh-wwe-raw.md) (ICC+)
 
 ## Lectura consolidada del Vehemiurgo
 

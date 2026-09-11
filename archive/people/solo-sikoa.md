@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: solo-sikoa
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-09-11
 fuentes_principales:
   - "Wikipedia — Solo Sikoa"
   - "Cobertura WWE 2022–2026 (Bloodline original, interim Tribal Chief 2024, Solo's Bloodline)"
@@ -205,6 +205,22 @@ top guy que no terminó de cerrarse"*.
 - **Perfect Wrestling descartada por el nivel de los rivales**, no por
   su trabajo.
 - Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
+
+### Sesión 2026-09-11 s67 — Pidiendo prioridad contra 946 — buena psicología de storyline
+
+**Cita verbatim** (Raw, 7/9/2026):
+
+> *"luego Solo, buena psicologia, es entretenido verlos en un
+> storyline asi muy de tv reality como wwe con the bloodline"*
+>
+> — El Vehemiurgo, 2026-09-11 s67 (verbatim, typos preservados)
+
+**Lectura sintética**: le pide a LA Knight prioridad para ir por
+Royce Keys/946 de inmediato; Knight le pide paciencia y elegir bien
+sus puntos, prometiéndole cubrirle la espalda.
+
+**Pieza de la sesión**:
+[backstage con Knight y Pearce](../segments/2026-09-07-la-knight-segmento-gm-solo-sikoa-wwe-raw.md) (sin clase)
 
 ## Lectura consolidada del Vehemiurgo
 
