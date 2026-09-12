@@ -12,7 +12,10 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-09-11 | CM Punk — promo pre-main event, jab fuera de libreto sobre el reinado de nueve días de Zayn | WWE / SmackDown | promo / interview | WE+ | — | en-investigacion | 1 | [→](2026-09-11-cm-punk-promo-pre-main-event-wwe-smackdown.md) |
+| 2026-09-11 | Ricky Saints ataca a Rey Fénix por la espalda -- el saludo era la trampa | WWE / SmackDown | backstage / post-match angle | WE | — | en-investigacion | 1 | [→](2026-09-11-ricky-saints-ataca-rey-fenix-backstage-wwe-smackdown.md) |
 | 2026-09-11 | Sami Zayn — promo 'It has to be me' con Johnny Gargano y Candice LeRae | WWE / SmackDown | promo / backstage | WE+ | — | en-investigacion | 1 | [→](2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md) |
+| 2026-09-11 | Video promocional del main event -- CM Punk vs Sami Zayn | WWE / SmackDown | promo video / hype package | WE+ | — | en-investigacion | 1 | [→](2026-09-11-video-promocional-main-event-cm-punk-vs-sami-zayn-wwe-smackdown.md) |
 | 2026-09-08 | Backstage: guerra de facciones por la #1 contendencia al NXT Tag Team Championship | WWE / NXT | backstage / confrontación de facciones | — | — | en-investigacion | 1 | [→](2026-09-08-backstage-birthright-vanity-project-darkstate-nxt.md) |
 | 2026-09-08 | Backstage: la grieta entre Keanu Carver y EK Prosper — Robert Stone interrumpe | WWE / NXT | backstage | WE | — | en-investigacion | 1 | [→](2026-09-08-backstage-montana-ek-keanu-stone-nxt.md) |
 | 2026-09-08 | Charlie Dempsey — invita a Zilla a Birthright; Regal ordena el ataque | WWE / NXT | in-ring confrontation + backstage | WE | — | en-investigacion | 1 | [→](2026-09-08-charlie-dempsey-segmento-in-ring-birthright-zilla-nxt.md) |

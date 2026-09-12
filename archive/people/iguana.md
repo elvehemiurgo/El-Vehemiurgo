@@ -74,6 +74,16 @@ Championship, tras un pedido backstage del propio Iguana.
 **Pieza de la sesión**:
 [con La Parka & El Fiscal vs Los Vipers & Dinámico](../matches/2026-09-05-la-parka-fiscal-iguana-vs-los-vipers-dinamico-aaa-worldwide.md) (ICC)
 
+### Sesión 2026-09-12 s03 — La amistad tensa con La Parka (TripleMania XXXIV Day 1)
+
+**Contexto**: `2026 09 11 AAA TripleMania XXXIV Day 1`, timestamp
+01:29:58. **Instant Classic Crown+ declarada.** **Research**: tenía a
+Laredo Kid cubierto con su propio finisher cuando La Parka lo sacó
+del ring para frenar la cuenta y ejecutar su propio remate —Iguana
+termina empujando a Parka por el enojo, pese a la amistad de ambos
+dentro de la ficción. Ver
+[`../matches/2026-09-11-la-parka-vs-laredo-kid-vs-mr-iguana-latin-american-title-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-la-parka-vs-laredo-kid-vs-mr-iguana-latin-american-title-aaa-triplemania-xxxiv.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

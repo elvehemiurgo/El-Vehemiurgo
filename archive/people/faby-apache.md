@@ -42,6 +42,21 @@ para el texto íntegro):
 Apache — la triple clase del match recae sobre el conjunto. Pierde por
 distracción de Laredo Kid + Stunner de La Hiedra.
 
+### Sesión 2026-09-12 s03 — "La hizo lucir como estrella" (TripleMania XXXIV Day 1)
+
+**Cita verbatim**:
+
+> *"Faby estuvo brillante muy stiff, de verdad elevò el acto de
+> Roxanne que ya es bueno, pero la hizo lucir como estrella"*
+>
+> — El Vehemiurgo, 2026-09-12 s03 (verbatim, typos preservados)
+
+**Lectura sintética**: el mismo oficio de veterana que el archivo
+documentó en Gail Kim y Tara sosteniendo a las faces verdes de TNA
+2013 — acá aplicado a una Roxanne Perez ya buena, no verde, elevada
+de todos modos. Ver
+[`../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md).
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de carrera (debut, títulos, promoción de origen).

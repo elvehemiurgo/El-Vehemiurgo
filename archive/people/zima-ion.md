@@ -52,6 +52,22 @@ tags: [zima-ion, joaquin-wilde, lwo-ex, aaa, perfect-wrestling, fighting-spirit,
 — el Vehemiurgo valora explícitamente la decisión de booking de
 usar tres profesionales para abrir el show.
 
+### Sesión 2026-09-12 s03 — "En pleno 2026 en esta temporada de Joaquin Wilde" (TripleMania XXXIV Day 1)
+
+**Cita verbatim** (fragmento):
+
+> *"encima tenemos a Zima Ion en pleno 2026 en esta temporada de
+> Joaquin Wilde, buenos gimmicks, hace rato no tenian stakes asi
+> Fraxiom"*
+>
+> — El Vehemiurgo, 2026-09-12 s03 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada** para el
+4-way tag completo. **Research** identifica a LWO en este match como
+**Joaquin Wilde (Zima Ion) & Cruz Del Toro**, eliminados primero tras
+un hairspray de Wilde que le da por error a su propio compañero. Ver
+[`../matches/2026-09-11-fraxiom-vs-los-americanos-vs-tokyo-bad-boys-vs-lwo-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-fraxiom-vs-los-americanos-vs-tokyo-bad-boys-vs-lwo-aaa-triplemania-xxxiv.md).
+
 ## Pendientes / huecos
 
 - [ ] Confirmar relación exacta entre "Joaquin Wilde" y el gimmick

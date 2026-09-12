@@ -166,10 +166,16 @@ tres top guys distintos a la vez"*.
 match completo. Lectura de trayectoria — primera vez en el registro
 que se le da a Saints una lucha de este nivel desde su etapa de
 midcard de SmackDown. **Cae** ante Rey Fénix por el AAA World
-Cruiserweight Championship; **research**: post-match, extiende la
-mano en gesto de respeto y golpea a Fénix apenas baja la guardia —
-swerve que deja abierta la revancha. Ver
-[`../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md`](../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md).
+Cruiserweight Championship.
+
+**Sesión 2026-09-12 s03 — el segmento del golpe** (que ya el take de
+s02 anticipaba con "buen heel"): la mano en el ring post-match fue un
+desaire simple, sin contacto — **el ataque real llega en un segmento
+backstage separado**, casi una hora después, donde Saints finge una
+disculpa, Fénix le acepta el saludo, y ahí lo golpea por la espalda,
+cerrando con *"esta noche Saints fue el mejor"*. Ver
+[`../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md`](../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md) y
+[`../segments/2026-09-11-ricky-saints-ataca-rey-fenix-backstage-wwe-smackdown.md`](../segments/2026-09-11-ricky-saints-ataca-rey-fenix-backstage-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

@@ -13,8 +13,13 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-11 | Adelicious, Mascarita Sagrada & Mini Vikingo vs Lady Shani, Jack Cartwheel & Mini Abismo Negro | AAA / TripleMania XXXIV — Day 1 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-11-adelicious-mascarita-sagrada-mini-vikingo-vs-lady-shani-jack-cartwheel-mini-abismo-negro-aaa-triplemania-xxxiv.md) |
 | 2026-09-11 | Chelsea Green (c) vs Nia Jax — Interim WWE Women's Championship | WWE / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md) |
+| 2026-09-11 | CM Punk (c) vs Sami Zayn — Undisputed WWE Championship (revancha) | WWE / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md) |
+| 2026-09-11 | Fraxiom vs Los Americanos vs Tokyo Bad Boys vs LWO — fatal four-way tag elimination | AAA / TripleMania XXXIV — Day 1 | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-11-fraxiom-vs-los-americanos-vs-tokyo-bad-boys-vs-lwo-aaa-triplemania-xxxiv.md) |
+| 2026-09-11 | La Parka (c) vs Laredo Kid vs Mr. Iguana — AAA Latin American Championship | AAA / TripleMania XXXIV — Day 1 | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-11-la-parka-vs-laredo-kid-vs-mr-iguana-latin-american-title-aaa-triplemania-xxxiv.md) |
 | 2026-09-11 | Rey Fénix (c) vs Ricky Saints — AAA World Cruiserweight Championship | WWE / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md) |
+| 2026-09-11 | Roxanne Perez vs Natalya vs Faby Apache vs La Hiedra — #1 contender al AAA Reina de Reinas Championship | AAA / TripleMania XXXIV — Day 1 | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md) |
 | 2026-09-08 | Jackson Drake (c) vs Tavion Heights — NXT North American Championship | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-08-jackson-drake-vs-tavion-heights-nxt.md) |
 | 2026-09-08 | Kelani Jordan (c) vs Jaida Parker — NXT Women's Championship | WWE / NXT | — | — | en-investigacion | 1 | [→](2026-09-08-jaida-parker-vs-kelani-jordan-nxt.md) |
 | 2026-09-08 | Saquon Shugars, Mason Rook & Tony D'Angelo vs EK Prosper, Keanu Carver & Cruz Montana — six-man tag | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md) |

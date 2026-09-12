@@ -236,11 +236,29 @@ los tres bandos 28/8, confrontación con Gunther y Gargano 4/9)
 descartando por nombre a Owens, Gargano, Cody, Orton, Gunther y
 Balor. **Research**: el mismo dictado pide "programación así" para un
 hipotético Zayn vs Punk **sin saber que esa misma noche el main event
-ya lo resolvía** — Zayn gana el Undisputed WWE Championship con
-ayuda de Gargano y Candice LeRae (Helluva Kick tras un GTS fallido de
-Punk sobre Gargano). **El main event no está registrado como ficha**
-— ley de silencio editorial, el Vehemiurgo no lo dictó. Ver
+ya lo resolvía** — el Vehemiurgo lo dictó en el volcado siguiente
+(s03, mismo día). Ver
 [`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md).
+
+### Sesión 2026-09-12 s03 — Gana el Undisputed WWE Championship: "nos está regalando el feudo generacional con Owens"
+
+**Cita verbatim**:
+
+> *"COMO YA DIJE LA PSICOLOGÌA DE sAMI ES MUY BUENA Y NOS ESTÀ
+> REGALANDO EL FEUDO GENERACIONAL QUE DEBIAMOS TENER CON oWENS [...]
+> buena rivalidad muy intensa y como revancha fue una gran lucha, fue
+> un show oldschool, s emerecen las 3 clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-12 s03 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada.** **Gana
+el Undisputed WWE Championship** en la revancha ante CM Punk, con un
+cierre caótico que suma a Gargano, Candice LeRae y, sin que ningún
+dictado lo anticipara, a **Kevin Owens** — Zayn remata con el Helluva
+Kick tras un low blow a Owens. La lectura de "el feudo generacional
+que debíamos tener con Owens" cierra el arco doctrinal que el propio
+archivo viene trazando desde s67. Ver
+[`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

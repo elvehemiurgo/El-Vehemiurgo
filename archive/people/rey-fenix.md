@@ -374,11 +374,14 @@ confirmado acá en su plataforma más grande hasta la fecha.
 
 **Lectura sintética**: **Instant Classic Crown+ declarada.** Retiene
 el AAA World Cruiserweight Championship con handspring stunner +
-Mexican Muscle Buster, en su propia Ciudad de México. **Research**:
-post-match, Saints le extiende la mano en gesto de respeto y lo
-golpea apenas Fénix baja la guardia — swerve que reabre el conflicto.
-Ver
-[`../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md`](../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md).
+Mexican Muscle Buster, en su propia Ciudad de México. **Research
+corrige la secuencia**: en el ring, post-match, Saints solo rechaza
+el saludo y se va tocándose los dientes — sin agresión. **El ataque
+real es un segmento backstage aparte**, casi una hora después: Saints
+finge disculparse, Fénix acepta la mano, y ahí lo golpea por la
+espalda. Ver
+[`../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md`](../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md) y
+[`../segments/2026-09-11-ricky-saints-ataca-rey-fenix-backstage-wwe-smackdown.md`](../segments/2026-09-11-ricky-saints-ataca-rey-fenix-backstage-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

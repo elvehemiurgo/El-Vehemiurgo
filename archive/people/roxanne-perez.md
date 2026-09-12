@@ -237,6 +237,22 @@ Buffalo). Ver
   pasar"*.
 - Ver [`../matches/2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md`](../matches/2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md).
 
+### Sesión 2026-09-12 s03 — Gana el 4-way, avanza a Worlds Collide (TripleMania XXXIV Day 1)
+
+**Cita verbatim** (fragmento):
+
+> *"buena improvisaciòn de Roxanne en los tropiezos [...] Es una
+> sorpresa que Perez gane y vaya a Wolrds Collide, es perfecto para
+> la tematica del evento"*
+>
+> — El Vehemiurgo, 2026-09-12 s03 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada.** Gana el
+#1 contendiente al AAA Reina de Reinas Championship empujando a La
+Hiedra contra Flammer y rematando con Pop Rocks — avanza a **WWE x
+AAA Worlds Collide** (26/9/2026, Chicago). Ver
+[`../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.

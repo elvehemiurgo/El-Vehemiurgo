@@ -7,8 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `wwe-smackdown-110926-cont` | Cerrar contenido de la promo de CM Punk (00:45:13), el video del main event (01:02:28), el segmento "Ricky atacando a Fénix" (01:05:55, ¿repetición o segmento nuevo?), y la mecánica completa (golpe bajo botcheado, duración) del CM Punk vs Sami Zayn — Undisputed WWE Championship. | Volcado 2026-09-12 s03 | 2026-09-12 | `archive/matches/` + `archive/segments/` (fichas de esta sesión) |
-| `aaa-triplemania-xxxiv-day1` | Cerrar card completo de AAA TripleMania XXXIV Day 1 (11/9/2026): identificar a los 6 participantes del opener 3 vs 3, identificar TBB y LWO en el 4-way tag (Fraxiom vs Rayo & Bravo vs TBB vs LWO), resultados y finishes de las 4 luchas dictadas. | Volcado 2026-09-12 s03 | 2026-09-12 | `archive/matches/` (fichas de esta sesión) |
+| _(vacío — `wwe-smackdown-110926-cont` y `aaa-triplemania-xxxiv-day1` cerradas el 2026-09-12, ver [`closed.md`](./closed.md))_ | | | | |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).

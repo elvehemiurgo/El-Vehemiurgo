@@ -199,6 +199,19 @@ Zayn del mismo arquetipo del resentido), pero acá el veredicto ya no
 es de comparación sino de superación declarada. Ver
 [`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md).
 
+### Sesión 2026-09-12 s03 — Entra al main event sin haber sido anunciado (SmackDown, 11/9/2026)
+
+**Contexto**: `2026 09 11 SmackDown`, Ciudad de México, main event
+CM Punk vs Sami Zayn por el Undisputed WWE Championship (timestamp
+01:08:43). **Owens no aparece nombrado en la promo "It has to be me"
+del mismo show más que para ser descartado como candidato**, y
+research confirma que **entra físicamente al cierre del match**,
+buscando revancha por interferencias previas: swinguea el título
+hacia Zayn, falla y golpea sin querer a Punk en la cara — el error
+que Zayn aprovecha con un low blow sobre el propio Owens antes de
+rematar con el Helluva Kick. Ver
+[`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).

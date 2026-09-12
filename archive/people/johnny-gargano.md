@@ -81,10 +81,12 @@ decir".
 en gesto de respeto/tensión — **repite la exigencia planteada el
 4/9/2026**: si Zayn le gana a CM Punk esa misma noche, Gargano se
 queda con la primera chance al título. Zayn acepta a regañadientes.
-En el main event (no dictado por el Vehemiurgo, sin ficha propia),
-Gargano y Candice LeRae bajan a ringside y su interferencia resulta
-clave en la victoria de Zayn. Ver
-[`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md).
+En el main event —dictado por el Vehemiurgo en el volcado siguiente
+(s03, mismo día)—, Gargano y Candice LeRae bajan a ringside: Gargano
+intenta golpear a Punk con el título y recibe un GTS, antes del
+remate de Zayn. Ver
+[`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md) y
+[`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

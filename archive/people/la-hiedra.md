@@ -118,6 +118,24 @@ campeonato declarada en el volcado s12 (18/7/2026).
 **Pieza de la sesión**:
 [gauntlet femenino, tramo final](../matches/2026-08-30-gauntlet-femenino-la-hiedra-vs-la-catalina-aaa-ola-de-calor.md) (WE)
 
+### Sesión 2026-09-12 s03 — "La implosión de Las Tóxicas, el ángulo subyacente del año"
+
+**Cita verbatim** (fragmento):
+
+> *"muy dura y con la psicologìa de las tòxicas [...] un movimiento de
+> booking muy cool para la implosion de las tòxicas que es el
+> hangulo subyacente del año"*
+>
+> — El Vehemiurgo, 2026-09-12 s03 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada** para el
+4-way completo. **Research**: Hiedra compite dentro de la lógica del
+trío —declaró priorizar que el título quedara "en manos de Las
+Tóxicas" antes que ganar ella misma—; **cae** cuando Roxanne Perez la
+empuja contra Flammer, y discute con su propia líder en el ring tras
+la derrota. Ver
+[`../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

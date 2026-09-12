@@ -75,24 +75,27 @@ LeRae acompaña.
 3. **"Esta dream match merecía programación así"**: el Vehemiurgo
    pide el marco (build, stakes, tiempo en cámara) para un
    hipotético Zayn vs Punk — **sin saber, al dictar esto, que esa
-   misma noche el main event ya lo resolvía** (ver nota abajo).
+   misma noche el main event ya lo resolvía**. En el volcado
+   siguiente (s03), el Vehemiurgo efectivamente vio y dictó ese main
+   event: ver
+   [`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
+   La frase resultó, sin que lo supiera al dictarla, una predicción
+   cumplida en el mismo show.
 
-## Nota de archivo — silencio editorial, no hueco
+## Nota de archivo — la ley de silencio editorial no aplicó acá
 
-**El Vehemiurgo no dictó nada sobre el main event de esta noche.**
-Research (`wwe-smackdown-110926`) confirma que **CM Punk perdió el
-Undisputed WWE Championship ante Sami Zayn esa misma noche** —
-Gargano y LeRae bajan a ringside, Punk casi somete a Zayn con un
-Anaconda Vice, LeRae distrae al réferi, Gargano golpea a Punk con el
-cinturón, Punk lo tumba con GTS, y **Zayn cierra con el Helluva Kick**.
-Por la ley de silencio editorial (2026-08-01 s17), **la ausencia de
-un segmento en el dictado no dispara research ni se marca como hueco
-a completar** — es omisión deliberada, distinta de un nombre
-incompleto. **No se abre ficha de match para ese main event.** Este
-dato queda registrado acá únicamente como contexto necesario para
-entender la promo que sí fue dictada: la frase "esta dream match
-merecía programación así" resultó, sin que el Vehemiurgo lo supiera
-al dictarla, una predicción cumplida en el mismo show.
+En este segmento se había registrado que el Vehemiurgo *"no dictó
+nada sobre el main event de esta noche"* y que, por la ley de
+silencio editorial (2026-08-01 s17), no correspondía abrir ficha.
+**Eso resultó ser una lectura de continuidad prematura, no una
+omisión real**: el Vehemiurgo simplemente no había llegado todavía a
+ese tramo del show al momento de dictar esta promo. En el volcado
+siguiente (s03, mismo día 2026-09-12) dictó el main event completo.
+**Precedente de archivo**: la ley de silencio editorial cubre lo que
+el Vehemiurgo vio y decidió no destacar — no cubre lo que todavía no
+había visto al momento de dictar. Ante una laguna así, conviene
+esperar el cierre completo del show antes de declarar silencio
+editorial.
 
 ## Pendientes
 

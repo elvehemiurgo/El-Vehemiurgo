@@ -452,6 +452,30 @@ Owens en pleno clímax. Ver
 y
 [`../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md`](../matches/2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md).
 
+### Sesión 2026-09-12 s03 — Pierde el título ante Zayn en Ciudad de México: la línea fuera de libreto
+
+**Cita verbatim** (fragmentos):
+
+> *"promo de CM Punk, top tier wrestling, super motivado con un
+> oponente real despues de un rato, se merece una WE+"*
+>
+> *"Punk tambien vende mejor lo de despreciar a Sami y no
+> considerarlo main eventer o en la misma lista que Punk"*
+>
+> — El Vehemiurgo, 2026-09-12 s03 (verbatim, typos preservados)
+
+**Lectura sintética**: **WE+** para la promo pre-main event;
+**Instant Classic Crown+** para el match. **Pierde el Undisputed WWE
+Championship** ante Sami Zayn, en revancha del cruce del 6/7/2026,
+con Gargano, Candice LeRae y Kevin Owens involucrados en el cierre.
+**Dato de producción (research)**: la línea más filosa de la promo
+—un jab sobre el reinado de nueve días de Zayn— **no estaba en el
+rundown interno de la emisión**, según Fightful Select: Punk la
+agregó al aire. Coincide con la lectura del Vehemiurgo de un Punk
+"súper motivado con un oponente real". Ver
+[`../segments/2026-09-11-cm-punk-promo-pre-main-event-wwe-smackdown.md`](../segments/2026-09-11-cm-punk-promo-pre-main-event-wwe-smackdown.md) y
+[`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

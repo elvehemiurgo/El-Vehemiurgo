@@ -10,7 +10,7 @@ recinto: "Arena Ciudad de México"
 tipo_match: "singles — AAA World Cruiserweight Championship"
 estipulacion: "AAA World Cruiserweight Championship"
 duracion: "[no confirmado]"
-finish: "Saints busca el Rochambeau; Fénix contrarresta con un handspring stunner y remata con la Mexican Muscle Buster — pinfall. Post-match: Saints le extiende la mano en gesto de respeto y lo golpea apenas Fénix baja la guardia"
+finish: "Saints busca el Rochambeau; Fénix contrarresta con un handspring stunner y remata con la Mexican Muscle Buster — pinfall. Post-match inmediato (en el ring): Fénix ofrece la mano, Saints la rechaza y se va tocándose los dientes (parece haber perdido uno en la lucha) — sin agresión física. El ataque real llega después, en un segmento backstage aparte (ver cross-links)"
 ganador: "Rey Fénix retiene el AAA World Cruiserweight Championship"
 referee: "[verif]"
 encuentros_previos: 0
@@ -29,8 +29,11 @@ tags: [wwe-smackdown-2026, rey-fenix, ricky-saints, aaa-world-cruiserweight-cham
 
 > **Instant Classic Crown+** (PW·FS·WE+). Defensa titular en Ciudad
 > de México, cierre —por ahora— del arco abierto en la confrontación
-> backstage del 28/8/2026. **Fénix retiene**, y un swerve post-match
-> deja la puerta abierta a una revancha.
+> backstage del 28/8/2026. **Fénix retiene.** **Corrección de
+> research**: el swerve de Saints no fue en este mismo momento
+> post-match — fue un segmento backstage aparte, más tarde en el
+> show (ver
+> [`../segments/2026-09-11-ricky-saints-ataca-rey-fenix-backstage-wwe-smackdown.md`](../segments/2026-09-11-ricky-saints-ataca-rey-fenix-backstage-wwe-smackdown.md)).
 
 ## Resumen
 
@@ -38,8 +41,9 @@ Segunda pieza del show (00:14:36), **por el AAA World Cruiserweight
 Championship**. Fénix llega fuerte; Saints resiste y conecta un
 Revolution DDT; cuando busca el Rochambeau, **Fénix contrarresta con
 un handspring stunner** y cierra con la **Mexican Muscle Buster**.
-**Post-match**: Saints le extiende la mano en gesto de respeto, y lo
-golpea apenas Fénix baja la guardia.
+**Post-match inmediato**: Fénix ofrece la mano, Saints la rechaza y
+se va tocándose los dientes — sin agresión. **El ataque real es un
+segmento aparte, backstage, más tarde en el mismo show.**
 
 ## Lectura del Vehemiurgo
 
@@ -66,8 +70,9 @@ golpea apenas Fénix baja la guardia.
 2. **"Fénix es dios"** — declaración editorial de peso, en línea con
    su registro previo en el archivo (WE+ y triple clase en su cruce
    con Penta y en su ficha del panteón).
-3. **El swerve post-match** (research) reabre el conflicto en vez de
-   cerrarlo — el "respeto" de Saints era la trampa.
+3. **El swerve real es un segmento distinto**, registrado más
+   tarde en el volcado (01:05:55) — el "respeto" de Saints en la
+   entrevista backstage era la trampa, no el desaire en el ring.
 
 ## Pendientes
 

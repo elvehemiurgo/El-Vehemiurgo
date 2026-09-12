@@ -74,11 +74,13 @@ tags: [candice-lerae, czw-2013, pwg, worlds-cutest-tag-team, joey-ryan, intergen
 **Contexto**: acompaña a Johnny Gargano en el segmento backstage de
 Sami Zayn (00:27:37), que el Vehemiurgo declara **Wrestling
 Entertainment+**, señalando que "tiene cosas relevantes que decir".
-**Research**: en el main event de esa misma noche (no dictado, sin
-ficha propia) su interferencia distrae al réferi durante un Anaconda
-Vice de CM Punk sobre Zayn, habilitando el remate de Gargano y,
-después, el Helluva Kick con el que Zayn gana el título. Ver
-[`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md).
+**En el main event** —dictado por el Vehemiurgo en el volcado
+siguiente (s03, mismo día)—, su interferencia distrae al réferi
+durante un Anaconda Vice de CM Punk sobre Zayn, habilitando el
+intento de Gargano y, después, el Helluva Kick con el que Zayn gana
+el título. Ver
+[`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md) y
+[`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

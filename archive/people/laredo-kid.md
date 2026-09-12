@@ -124,6 +124,14 @@ Hiedra.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-09-12 s03 — Cae ante el Doomsday Device de Parka e Iguana (TripleMania XXXIV Day 1)
+
+**Contexto**: `2026 09 11 AAA TripleMania XXXIV Day 1`, timestamp
+01:29:58. **Instant Classic Crown+ declarada** para el triple threat
+completo por el AAA Latin American Championship — **"muy duros estos
+3"**. Ver
+[`../matches/2026-09-11-la-parka-vs-laredo-kid-vs-mr-iguana-latin-american-title-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-la-parka-vs-laredo-kid-vs-mr-iguana-latin-american-title-aaa-triplemania-xxxiv.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -85,6 +85,16 @@ proyección. Ver
 
 **Lectura sintética**: **FS+WE** del lado perdedor — casi le arrebata el AAA World Cruiserweight Championship a Rey Fénix con un Spanish Fly de near-fall, cayendo ante tres Animo Kicks y el Mexican Musclebuster.
 
+### Sesión 2026-09-12 s03 — "Hace rato no tenían stakes así Fraxiom" (TripleMania XXXIV Day 1)
+
+**Contexto**: `2026 09 11 AAA TripleMania XXXIV Day 1`, timestamp
+00:31:56. **Instant Classic Crown+ declarada** para el 4-way tag
+completo (Fraxiom vs Los Americanos vs Tokyo Bad Boys vs LWO) —
+resuelve el pendiente ya anotado en esta ficha sobre Fraxiom/Nathan
+Frazer. **Cae** eliminado en el tramo final tras un spot de dedos
+torcidos de Los Americanos. Ver
+[`../matches/2026-09-11-fraxiom-vs-los-americanos-vs-tokyo-bad-boys-vs-lwo-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-fraxiom-vs-los-americanos-vs-tokyo-bad-boys-vs-lwo-aaa-triplemania-xxxiv.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

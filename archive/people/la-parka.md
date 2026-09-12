@@ -174,6 +174,24 @@ un Triple Threat con Laredo Kid y Mr. Iguana para Triplemanía 34.
 **Pieza de la sesión**:
 [La Parka, El Fiscal & Mr. Iguana vs Los Vipers & Dinámico](../matches/2026-09-05-la-parka-fiscal-iguana-vs-los-vipers-dinamico-aaa-worldwide.md) (ICC)
 
+### Sesión 2026-09-12 s03 — Retiene el Latin American Championship, arruinándole el pin a su amigo Iguana
+
+**Cita verbatim**:
+
+> *"La parka vs Laredo Kid vs Iguana, muy buena, muy veloz, muy
+> buenas secuencias [...] estuvo perfecta se merece las 3 clases con
+> la corona +, muy duros estos 3"*
+>
+> — El Vehemiurgo, 2026-09-12 s03 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada.** Retiene
+el AAA Latin American Championship (12:58) subiendo a Mr. Iguana a
+sus hombros para un Doomsday Device sobre Laredo Kid, y rematando con
+Bonebreaker. **Research**: post-match, saca a Iguana del ring para
+frenarle la cuenta sobre Laredo — tensión con su amigo dentro de la
+ficción. Ver
+[`../matches/2026-09-11-la-parka-vs-laredo-kid-vs-mr-iguana-latin-american-title-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-la-parka-vs-laredo-kid-vs-mr-iguana-latin-american-title-aaa-triplemania-xxxiv.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
