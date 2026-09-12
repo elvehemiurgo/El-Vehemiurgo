@@ -1,7 +1,7 @@
 ---
-match: "EK vs Lexis King"
+match: "EK Prosper vs Lexis King"
 slug: "2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2"
-participantes: ["EK", "Lexis King"]
+participantes: ["EK Prosper", "Lexis King"]
 empresa: "WWE"
 programa: "NXT Revenge — Week 2"
 fecha: 2026-04-21
@@ -21,13 +21,13 @@ estado: en-investigacion
 ultima_actualizacion: 2026-07-14
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT Revenge Week 2, 21/4/2026)"
-tags: [ek, lexis-king, wwe-nxt-2026, singles, fighting-spirit, sink-or-swim, moveset-efectivo, spot-en-el-apron]
+tags: [ek-prosper, lexis-king, wwe-nxt-2026, singles, fighting-spirit, sink-or-swim, moveset-efectivo, spot-en-el-apron]
 ---
 
-# EK vs Lexis King — WWE NXT Revenge Week 2 (21 abr 2026)
+# EK Prosper vs Lexis King — WWE NXT Revenge Week 2 (21 abr 2026)
 
 > **Fighting Spirit** (*"se merece un fighting spirit"*). Lexis
-> King con un moveset renovado y efectivo; EK con ejecución
+> King con un moveset renovado y efectivo; EK Prosper con ejecución
 > destacada, "muy tv ready".
 
 ## Cita verbatim del Vehemiurgo
@@ -48,9 +48,12 @@ tags: [ek, lexis-king, wwe-nxt-2026, singles, fighting-spirit, sink-or-swim, mov
 1. **Doctrina "NXT es sink or swim"**: aplicada a Lexis King como
    ejemplo de superación — moveset renovado y efectivo. Ver
    [`../people/lexis-king.md`](../people/lexis-king.md).
-2. **EK, ejecución "tv ready"**: incluye una secuencia con
+2. **EK Prosper, ejecución "tv ready"**: incluye una secuencia con
    Arianna [verif] y el resto de Birth Right. Ver
-   [`../people/ek.md`](../people/ek.md).
+   [`../people/ek-prosper.md`](../people/ek-prosper.md). **Nota de fusión**: esta ficha se
+   registró originalmente bajo el nombre corto "EK", separado por
+   error de "EK Prosper" — mismo talent, misma fecha y rival
+   (research 2026-09-12 destapó la identidad compartida).
 3. **Spot específico destacado**: en el apron.
 
 ## Pendientes
@@ -60,5 +63,5 @@ tags: [ek, lexis-king, wwe-nxt-2026, singles, fighting-spirit, sink-or-swim, mov
 
 ## Cross-links
 
-- [`../people/ek.md`](../people/ek.md) ·
+- [`../people/ek-prosper.md`](../people/ek-prosper.md) ·
   [`../people/lexis-king.md`](../people/lexis-king.md)

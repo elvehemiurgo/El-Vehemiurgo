@@ -183,6 +183,23 @@ Myka Lockwood y Brad Baylor.
 **Pieza de la sesión**:
 [vs Myles Borne, North American Championship](../matches/2026-08-30-myles-borne-vs-jackson-drake-north-american-nxt-heatwave.md) (FS·WE)
 
+### Sesión 2026-09-12 s01 — Retiene el North American Championship ante Tavion Heights
+
+**Contexto**: `2026 09 08 WWE NXT`, timestamp 00:46:46. El take del
+Vehemiurgo se centra en **Tavion Heights** como el prospecto en
+desarrollo (ver su ficha); Drake aparece como el veterano de The
+Vanity Project que "le enseña buenas lecciones" de psicología dentro
+del match. **Instant Classic Crown declarada** para el conjunto.
+
+**Research**: **defiende y retiene el NXT North American
+Championship** — sufre una lesión de pie/tobillo temprana (casi le
+cuesta el título contra un Ankle Lock de Heights) y remata con un
+knee strike + 450 Splash. Post-match, **The Vanity Project reclama
+reconocimiento** por la defensa exitosa, interrumpiendo el backstage
+de Birthright de esa misma noche. Ver
+[`../matches/2026-09-08-jackson-drake-vs-tavion-heights-nxt.md`](../matches/2026-09-08-jackson-drake-vs-tavion-heights-nxt.md) y
+[`../segments/2026-09-08-backstage-birthright-vanity-project-darkstate-nxt.md`](../segments/2026-09-08-backstage-birthright-vanity-project-darkstate-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

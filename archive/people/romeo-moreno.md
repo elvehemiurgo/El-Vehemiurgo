@@ -106,6 +106,24 @@ sobre Moreno. El Vehemiurgo señala a los compañeros de Saquon/Dar como
   inofensivo por ahora, muy quieto diría"*.
 - Ver [`../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md`](../matches/2026-08-25-birthright-vs-faces-8-man-nxt.md).
 
+### Sesión 2026-09-12 s01 — El underdog vendido sin romper la ilusión (NXT 8/9/2026)
+
+**Cita verbatim**:
+
+> *"el papel de underdog de Romeo está muy bien hecho, sus partes
+> verdes no desconectan el selling y el ring positioning de hecho es
+> bueno toda la lucha"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim)
+
+**Lectura sintética**: **Instant Classic Crown+** declarada para el
+match completo (junto a Noam Dar vs Creed Brothers). El elogio
+técnico convive con una reserva explícita — "sus partes verdes" — sin
+que eso baje la clase: la crítica es de detalle, no de fondo.
+**Cae el match**: Julius Creed lo remata con un double sit-out
+powerbomb tras una clothesline. Ver
+[`../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md`](../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa.

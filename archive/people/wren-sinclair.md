@@ -309,3 +309,30 @@ positioning le impide alcanzar el Perfect Match en ese rol. El
 Vehemiurgo cita a **Bryan Danielson** como modelo de venta de
 título a seguir. Ver
 [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md).
+
+### Sesión 2026-09-12 s01 — "Destacando" en NXT (8/9/2026): el kendo stick contra Kelani Jordan
+
+**Cita verbatim**:
+
+> *"y otra que está destacando es Wren Sinclair, como face con todo
+> en contra tiene buen selling, si la veo lista para historias con
+> más stakes"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim)
+
+**Research cierra el hueco**: el Vehemiurgo mencionó a Sinclair sin
+nombrar rival ni contexto (timestamp 00:15:07). **No fue un match**:
+fue el **ataque post-match** a **Kelani Jordan**, recién retenido el
+NXT Women's Championship ante Jaida Parker. Sinclair entra con un
+**kendo stick**, castiga a Jordan por haber lesionado a **Kendal
+Grey** y llamarla *"sidekick"*, golpea sin querer a la árbitra
+**Victoria D'Errico**, y **Robert Stone la suspende indefinidamente**
+tras el show. Ver
+[`../segments/2026-09-08-wren-sinclair-ataca-kelani-jordan-nxt.md`](../segments/2026-09-08-wren-sinclair-ataca-kelani-jordan-nxt.md).
+
+**Lectura sintética**: sin clase declarada. **"Con todo en contra"**
+del Vehemiurgo se lee ahora en dos sentidos: como face en general, y
+—de forma más literal— como talent que en esta misma noche queda
+**suspendido indefinidamente**. La lectura de que "está lista para
+historias con más stakes" antecede, sin saberlo, a la escalada real
+de su storyline.

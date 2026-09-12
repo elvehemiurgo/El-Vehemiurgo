@@ -262,6 +262,27 @@ defensa pactada para 2026 09 08 WWE NXT.**
 **Pieza de la sesión**:
 [promo como campeona](../segments/2026-09-01-promo-kelani-jordan-campeona-jaida-parker-nxt.md) (WE)
 
+### Sesión 2026-09-12 s01 — MVP de la apertura, retiene el título — y el kendo stick de Wren Sinclair
+
+**Cita verbatim**:
+
+> *"pero la verdadera mvp de esta lucha es Kelany, su trabajo como
+> heel cada vez es mejor, ya merece rivales reales para poner algo
+> épico en tv, yo la veo lista"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: sin clase declarada para el match, pero **MVP
+explícito** — "ya merece rivales reales" es la misma lectura de
+techo alcanzado que el archivo aplicó a otros heels en desarrollo.
+**Research**: **retiene el NXT Women's Championship** ante Jaida
+Parker con el One of a Kind Moonsault. **Post-match, Wren Sinclair
+la ataca con un kendo stick** — venganza por la lesión de Kendal
+Grey y por llamarla "sidekick" — y golpea sin querer a la árbitra
+Victoria D'Errico. Ver
+[`../matches/2026-09-08-jaida-parker-vs-kelani-jordan-nxt.md`](../matches/2026-09-08-jaida-parker-vs-kelani-jordan-nxt.md) y
+[`../segments/2026-09-08-wren-sinclair-ataca-kelani-jordan-nxt.md`](../segments/2026-09-08-wren-sinclair-ataca-kelani-jordan-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

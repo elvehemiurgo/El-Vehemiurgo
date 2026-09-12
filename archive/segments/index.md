@@ -12,6 +12,10 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-09-08 | Backstage: guerra de facciones por la #1 contendencia al NXT Tag Team Championship | WWE / NXT | backstage / confrontación de facciones | — | — | en-investigacion | 1 | [→](2026-09-08-backstage-birthright-vanity-project-darkstate-nxt.md) |
+| 2026-09-08 | Backstage: la grieta entre Keanu Carver y EK Prosper — Robert Stone interrumpe | WWE / NXT | backstage | WE | — | en-investigacion | 1 | [→](2026-09-08-backstage-montana-ek-keanu-stone-nxt.md) |
+| 2026-09-08 | Charlie Dempsey — invita a Zilla a Birthright; Regal ordena el ataque | WWE / NXT | in-ring confrontation + backstage | WE | — | en-investigacion | 1 | [→](2026-09-08-charlie-dempsey-segmento-in-ring-birthright-zilla-nxt.md) |
+| 2026-09-08 | Wren Sinclair ataca a Kelani Jordan con un kendo stick — suspensión de Robert Stone | WWE / NXT | post-match angle | — | — | en-investigacion | 0 | [→](2026-09-08-wren-sinclair-ataca-kelani-jordan-nxt.md) |
 | 2026-09-07 | Ataque post-match de The Vision sobre Otis y Tozawa — el salve de Oba Femi | WWE / Raw | angle — ataque y salve | WE | — | en-investigacion | 1 | [→](2026-09-07-ataque-vision-salve-oba-femi-wwe-raw.md) |
 | 2026-09-07 | LA Knight se declara retador #1 con el GM — Solo Sikoa le pide prioridad contra 946 | WWE / Raw | promo backstage | — | — | en-investigacion | 1 | [→](2026-09-07-la-knight-segmento-gm-solo-sikoa-wwe-raw.md) |
 | 2026-09-07 | Promo de respuesta de JD McDonagh — el giro político | WWE / Raw | promo | WE | — | en-investigacion | 1 | [→](2026-09-07-promo-respuesta-jd-mcdonagh-wwe-raw.md) |

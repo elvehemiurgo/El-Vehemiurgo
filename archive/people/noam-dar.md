@@ -65,6 +65,26 @@ frente a Darkstate.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-09-12 s01 — "Un lujo" como mentor en tv (NXT 8/9/2026)
+
+**Cita verbatim**:
+
+> *"es un lujo tener a Noam Dar en tv en un rol de mentor en pleno
+> 2026"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim)
+
+**Lectura sintética**: **Instant Classic Crown+** declarada para el
+match — Dar & Romeo Moreno caen ante los Creed Brothers (Julius
+remata a Moreno con un double sit-out powerbomb). El elogio es de rol
+de carrera, no de resultado: **"mentor en tv"** es la misma lectura
+que el archivo le da a los veteranos que sostienen prospectos sin
+necesitar ganar (doctrina compartida con Bad Influence en TNA 2013).
+**Research**: pre-match, Dar fue con Moreno a la oficina de Robert
+Stone a reclamar por un ataque previo de los Creed; Stone se disculpó
+y autorizó el match. Ver
+[`../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md`](../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT UK, Heritage

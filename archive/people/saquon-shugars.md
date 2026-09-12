@@ -297,6 +297,23 @@ era IG"*.)
 Reserva puntual sobre un par de strikes, resto calificado de
 "perfecto".
 
+### Sesión 2026-09-12 s01 — Abre el main event con EK Prosper (NXT 8/9/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"Saquon abre la lucha con EK, buenos fundamentos, selling
+> oldschool, y la calidad no baja"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim)
+
+**Lectura sintética**: **Instant Classic Crown declarada** para el
+six-man completo (junto a Mason Rook y Tony D'Angelo vs EK Prosper,
+Keanu Carver y Cruz Montana). **Gana** el bando de Shugars — Rook
+remata con un blind tag que le roba el cierre a D'Angelo, avanzando
+los tres a un triple threat por la #1 contendencia al NXT
+Championship de Grayson Waller. Ver
+[`../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md`](../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT.

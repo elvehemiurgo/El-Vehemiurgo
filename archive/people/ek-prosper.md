@@ -18,6 +18,14 @@ tags: [ek-prosper, wwe-nxt-2026, wwe-id, aaa-cruiserweight-championship, rey-fen
 > Championship, y con el elogio que este archivo reserva para muy
 > pocos debutantes — **que cuida el selling y la psicología siendo
 > rookie**.
+>
+> **Nota de fusión (2026-09-12)**: el archivo lo registró primero
+> bajo el nombre corto **"EK"** (ficha `ek.md`, s35, 21/4/2026) sin
+> cruzar la identidad. Research del 2026-09-12 confirmó que **"EK"
+> y "EK Prosper" son el mismo talent** — mismo show, misma fecha,
+> mismo rival (Lexis King, final del torneo por el Speed
+> Championship vacante, NXT Revenge Week 2). Fusionado en esta
+> ficha; `ek.md` se elimina.
 
 ## Identificación
 
@@ -36,13 +44,34 @@ tags: [ek-prosper, wwe-nxt-2026, wwe-id, aaa-cruiserweight-championship, rey-fen
 - **Octubre de 2025**: entra al programa **WWE ID**.
 - **Enero de 2026**: firma con NXT.
 - **21/4/2026 — NXT: Revenge Week 2**: pierde ante **Lexis King** la
-  final del torneo por el WWE Speed Championship vacante.
+  final del torneo por el WWE Speed Championship vacante —
+  registrado originalmente bajo el nombre corto "EK".
 - **11/8/2026**: hace equipo con **Lizzy Rain** ante The Culling.
 - **18/8/2026**: **gana el fatal 4-way** y queda como **contendiente
   Nº1 al AAA World Cruiserweight Championship de Rey Fénix**, que
   disputa el 25/8.
 
 ## Notas editoriales del Vehemiurgo
+
+### Sesión 2026-07-14 s35 — Primer registro, como "EK" (ficha fusionada)
+
+**Cita verbatim**:
+
+> *"este EK tambien tieene muy buena ejecución, incluso en su
+> secuencia con Ariana y los otros de birth right, lo mantuvo real
+> y se movió muy tv ready, buena lucha"*
+>
+> — El Vehemiurgo, 2026-07-14 s35 (verbatim)
+
+**Lectura sintética**: primer registro del archivo sobre este
+talent, bajo el nombre corto **"EK"** — antes de que el research
+confirmara su nombre completo de ring. **Fighting Spirit declarada**
+para el match contra Lexis King (final del torneo por el WWE Speed
+Championship vacante, NXT Revenge Week 2, 21/4/2026); elogio de
+ejecución y presencia televisiva ("tv ready"), con una secuencia
+contra Arianna [verif] y el resto de Birth Right destacada
+específicamente. Ver
+[`../matches/2026-04-21-ek-prosper-vs-lexis-king-wwe-nxt-revenge-week-2.md`](../matches/2026-04-21-ek-prosper-vs-lexis-king-wwe-nxt-revenge-week-2.md).
 
 ### Sesión 2026-08-26 s51 — "Para ser rookies, pendientes de los detalles en el selling" (NXT 18/8/2026)
 
@@ -91,6 +120,29 @@ tags: [ek-prosper, wwe-nxt-2026, wwe-id, aaa-cruiserweight-championship, rey-fen
   ganar el 4-way del 18/8.
 - Ver [`../matches/2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md`](../matches/2026-08-25-rey-fenix-vs-ek-prosper-cruiserweight-nxt.md).
 
+### Sesión 2026-09-12 s01 — Abre el main event con Saquon; la grieta con Keanu Carver (NXT 8/9/2026)
+
+**Cita verbatim** (fragmentos):
+
+> *"el segmento backstage con montana, ek, keanu y stone estuvo cool
+> [...] EK tuvo un progreso sorprendente en poco tiempo, se merecen
+> una WE"*
+>
+> *"Saquon abre la lucha con EK, buenos fundamentos, selling
+> oldschool"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: elogio individual de progreso dentro de un
+segmento de conjunto (WE), y apertura del main event contra Saquon
+Shugars. **Research descubre una grieta que el dictado no capta**:
+en el backstage, **Keanu Carver le dice a Prosper que no quiere oír
+nada de lo que tenga para decir**, pese a haber "enterrado el hacha"
+semanas atrás — tensión que sigue sin resolver dentro del trío heel.
+**Cae en el main event**: Mason Rook remata con un blind tag. Ver
+[`../segments/2026-09-08-backstage-montana-ek-keanu-stone-nxt.md`](../segments/2026-09-08-backstage-montana-ek-keanu-stone-nxt.md) y
+[`../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md`](../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Entrenamiento, escuela y debut exacto.
@@ -100,6 +152,7 @@ tags: [ek-prosper, wwe-nxt-2026, wwe-id, aaa-cruiserweight-championship, rey-fen
 
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../matches/2026-04-21-ek-prosper-vs-lexis-king-wwe-nxt-revenge-week-2.md`](../matches/2026-04-21-ek-prosper-vs-lexis-king-wwe-nxt-revenge-week-2.md) — primer registro, fusionado desde `ek.md`.
 - [`../matches/2026-08-18-4-way-contendiente-crucero-nxt.md`](../matches/2026-08-18-4-way-contendiente-crucero-nxt.md)
 - [`../matches/2026-08-11-lizzy-rain-ek-prosper-vs-the-culling-nxt.md`](../matches/2026-08-11-lizzy-rain-ek-prosper-vs-the-culling-nxt.md)
 

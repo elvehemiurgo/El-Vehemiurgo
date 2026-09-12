@@ -105,6 +105,25 @@ de booking del ángulo Americano (firma de contrato s41, debut de
 refuerzo, 3v3 s42, y este cruce), no solo esta lucha puntual. Ver
 [`../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md`](../matches/2026-05-23-americanos-hermanos-vs-rayo-bravo-aaa-worldwide.md).
 
+### Sesión 2026-09-12 s01 — Más violentos y confiados, ganan a Dar & Moreno (NXT 8/9/2026)
+
+**Cita verbatim**:
+
+> *"Dar & Romeo vs Creed Brothers pintaba muy bien, el tiempo en
+> méxico debe haber aportado violencia al acto de los Creed, se ven
+> más confiados, nunca tuvieron miedo de ser enterteiners, y aqui se
+> vieron muy cool, se merecen las 3 clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada.** El
+Vehemiurgo atribuye la violencia nueva del equipo a un paso previo
+por México — **sin fecha ni promotora confirmada por research**,
+queda `[no confirmado]`. **Ganan**: Julius Creed remata a Romeo
+Moreno con un double sit-out powerbomb tras una clothesline — el
+"squatting powerbomb" del dictado. Ver
+[`../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md`](../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md).
+
 ## Pendientes / huecos
 
 - [x] ~~Confirmar identidad de "Julio" y "Bruno"~~ → **RESUELTO

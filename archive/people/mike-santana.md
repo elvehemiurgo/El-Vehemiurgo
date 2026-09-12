@@ -475,6 +475,27 @@ camino al #1 contender.
 **Pieza de la sesión**:
 [en la fila de retadores de Waller](../segments/2026-09-01-promo-grayson-waller-campeon-saquon-shugars-nxt.md) (**WE+**)
 
+### Sesión 2026-09-12 s01 — "Encontrando su estilo main eventer" (NXT 8/9/2026)
+
+**Cita verbatim**:
+
+> *"pusieron a Montana al final de las entradas, muy over con los
+> fans, se ve muy cool, super cómodo gritandole a la cámara,
+> definitivamente un face con buenisima proyección y carisma,
+> encontrando su estilo main eventery con Grayson Waller en
+> comentarios"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: sigue el arco pieza por pieza que el archivo
+viene trazando desde agosto — "más over" (s52) → "se está convirtiendo
+en un entertainer importante" (s60) → ahora **"encontrando su estilo
+main eventer"**, con la entrada de cierre del six-man como refuerzo
+visual del estatus. **Instant Classic Crown declarada** para el
+match completo. **Cae** en el bando perdedor — Mason Rook remata con
+un blind tag a EK Prosper. Ver
+[`../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md`](../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

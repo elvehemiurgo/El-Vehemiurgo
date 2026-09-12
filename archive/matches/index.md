@@ -13,6 +13,10 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-08 | Jackson Drake (c) vs Tavion Heights — NXT North American Championship | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-08-jackson-drake-vs-tavion-heights-nxt.md) |
+| 2026-09-08 | Kelani Jordan (c) vs Jaida Parker — NXT Women's Championship | WWE / NXT | — | — | en-investigacion | 1 | [→](2026-09-08-jaida-parker-vs-kelani-jordan-nxt.md) |
+| 2026-09-08 | Saquon Shugars, Mason Rook & Tony D'Angelo vs EK Prosper, Keanu Carver & Cruz Montana — six-man tag | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md) |
+| 2026-09-08 | Noam Dar & Romeo Moreno vs Creed Brothers (Julius & Brutus Creed) | WWE / NXT | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md) |
 | 2026-09-07 | Bron Breakker vs Rey Mysterio vs Ethan Page — Men's Money in the Bank Qualifier | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-07-bron-breakker-vs-rey-mysterio-vs-ethan-page-wwe-raw.md) |
 | 2026-09-07 | Joe Hendry vs JD McDonagh (con Dominik Mysterio) | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-07-joe-hendry-vs-jd-mcdonagh-wwe-raw.md) |
 | 2026-09-07 | Stephanie Vaquer vs Liv Morgan (c) — WWE Women's World Championship | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-07-stephanie-vaquer-vs-liv-morgan-wwe-raw.md) |
@@ -301,7 +305,7 @@ con cada cambio de estado.
 | 2026-04-23 | Mike Santana (c) vs Rich Swann — TNA World Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md) |
 | 2026-04-22 | Darby Allin (c) vs Tomasso [sic — presumido Tomohiro Ishii] — main event | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md) |
 | 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |
-| 2026-04-21 | EK vs Lexis King | WWE / NXT Revenge — Week 2 | FS | — | en-investigacion | 1 | [→](2026-04-21-ek-vs-lexis-king-wwe-nxt-revenge-week-2.md) |
+| 2026-04-21 | EK Prosper vs Lexis King | WWE / NXT Revenge — Week 2 | FS | — | en-investigacion | 1 | [→](2026-04-21-ek-prosper-vs-lexis-king-wwe-nxt-revenge-week-2.md) |
 | 2026-04-21 | Sol Ruca vs Zaria (grudge match) | WWE / NXT Revenge — Week 2 | FS·WE | FC | en-investigacion | 1 | [→](2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md) |
 | 2026-04-20 | Ethan Page vs Jevon Evans | WWE / Raw | WE | — | en-investigacion | 1 | [→](2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md) |
 | 2026-04-20 | JD McDonagh vs Finn Bálor | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md) |

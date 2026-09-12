@@ -106,6 +106,27 @@ entre ambas (31/3 y 14/4/2026).
 **Pieza de la sesión**:
 [interrumpe a Kelani Jordan](../segments/2026-09-01-promo-kelani-jordan-campeona-jaida-parker-nxt.md) (WE — a Kelani)
 
+### Sesión 2026-09-12 s01 — El modelo Tiffany Stratton, aplicado a Parker (NXT 8/9/2026)
+
+**Cita verbatim**:
+
+> *"Parker todabia es muy safe, igua que con Tiffany Stratton poroco
+> a poco le esá entendiendo al selling [...] lo bueno es que Jayda se
+> mueve mejor que Jade ahora, no creo que sea un proyecto fracasado
+> como ese"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: sin clase declarada. El Vehemiurgo usa la
+carrera ya resuelta de **Tiffany Stratton** como vara de comparación
+— proceso "largo y duro psicológicamente", con Nattie como mentora
+en un rol equivalente al que Parker está recibiendo. **"No creo que
+sea un proyecto fracasado"** compara contra un tercer proyecto sin
+nombrar — no se infiere identidad. **Research**: era defensa del NXT
+Women's Championship de Kelani Jordan (no especificado en el
+dictado); **pierde** por One of a Kind Moonsault. Ver
+[`../matches/2026-09-08-jaida-parker-vs-kelani-jordan-nxt.md`](../matches/2026-09-08-jaida-parker-vs-kelani-jordan-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, grafía exacta, trayectoria, empresa.

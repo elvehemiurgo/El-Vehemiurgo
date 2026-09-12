@@ -191,6 +191,32 @@ King. **Nada pactado.**
 **Pieza de la sesión**:
 [BirthRight rodea a Zilla Fatu](../segments/2026-09-01-birthright-rodea-a-zilla-fatu-nxt.md) (sin clase)
 
+### Sesión 2026-09-12 s01 — Invita a Zilla a Birthright; Regal le ordena cobrarle (NXT 8/9/2026)
+
+**Cita verbatim**:
+
+> *"le dieron un segmento in ring a Dempsey, y lo hizo genial, solo
+> necesita ganar más luchas, definitivamente puede hablar, y esta
+> historia con birthright y con Zilla como face enemigo, el rub de
+> Regal y Finlay, es un buen setup, este segmento se merece una WE;
+> me gusta el booking, ahora si pueden poner a Dempsey y Lexis como
+> main heels"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim, typos preservados)
+
+**Research resuelve la pregunta pendiente de arriba** ("William
+Regal hablando off-camera sobre el storyline padre-hijo"): **Regal
+sí habla del vínculo, y en los términos más directos posibles**.
+Dempsey invita a Zilla Fatu a unirse a Birthright en el ring; Zilla
+rechaza. Backstage, **Regal invoca su propia historia con Umaga —el
+padre de Zilla— y le ordena a Dempsey, su hijo kayfabe, que se
+encargue de Zilla y "traiga de vuelta un pedazo de él"**. Birthright
+ataca: Lexis King le da un chair shot y lo pasan por una mesa. **No
+hubo match 1-contra-1** — la condición de booking que el Vehemiurgo
+pone ("solo necesita ganar más luchas") queda sin resolver esta
+noche. Ver
+[`../segments/2026-09-08-charlie-dempsey-segmento-in-ring-birthright-zilla-nxt.md`](../segments/2026-09-08-charlie-dempsey-segmento-in-ring-birthright-zilla-nxt.md).
+
 ## Lectura consolidada del Vehemiurgo
 
 (Pendiente.)

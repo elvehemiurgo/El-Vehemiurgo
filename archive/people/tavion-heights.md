@@ -76,6 +76,28 @@ you got me, Tavion"*.
 **Pieza de la sesión**:
 [The Vanity Project lo molesta](../segments/2026-09-01-vanity-project-molesta-tavion-heights-nxt.md) (WE)
 
+### Sesión 2026-09-12 s01 — Verde pero explosivo: la lección de Jackson Drake (NXT 8/9/2026)
+
+**Cita verbatim**:
+
+> *"Jackson Drake en acción, trabajando con Tavion, un face verde
+> pero con ganas de vender y actuar y ser enterteiner, está creciendo
+> lentamente como enterteiner pero es muy explosivo in ring, aqui la
+> psicología de Drake y el Vanity Project le está enseñando buenas
+> lecciones, se merecen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown** declarada. El "face
+verde" del dictado es Heights, apenas semanas después de la traición
+de Myles Borne en Heatwave (30/8/2026) que lo dejó sin sus dos
+títulos — la lectura de "creciendo lentamente como entertainer pero
+muy explosivo in-ring" mide exactamente ese momento de transición.
+**Research**: era defensa del **NXT North American Championship** de
+Jackson Drake (c); Heights casi se lo lleva con un Ankle Lock sobre
+un pie lesionado de Drake, pero **pierde** por 450 Splash. Ver
+[`../matches/2026-09-08-jackson-drake-vs-tavion-heights-nxt.md`](../matches/2026-09-08-jackson-drake-vs-tavion-heights-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa.

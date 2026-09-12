@@ -182,6 +182,25 @@ archivo lo puede probar.**
 **Pieza de la sesión**:
 [promo como campeón](../segments/2026-09-01-promo-grayson-waller-campeon-saquon-shugars-nxt.md) (**WE+**)
 
+### Sesión 2026-09-12 s01 — En comentarios durante el six-man clasificatorio (NXT 8/9/2026)
+
+**Cita verbatim** (fragmento):
+
+> *"encontrando su estilo main eventery con Grayson Waller en
+> comentarios [...] de verdad Grayson despertó a lockeroom con su
+> checkup"*
+>
+> — El Vehemiurgo, 2026-09-12 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: Waller comentó desde la mesa el six-man
+clasificatorio para retarlo. **Research**: intercambio confirmado con
+Vic Joseph sobre el salto de campeón en parejas a campeón singles
+("más hambriento que nunca") — **no se pudo confirmar una cita
+puntual que se ajuste literalmente a "despertó al lockeroom"**; las
+citas de Waller burlándose del vestuario que circulan en prensa son
+del episodio del 1/9, no de este. Ver
+[`../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md`](../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md).
+
 ## Pendientes / huecos
 
 - [ ] Transcripción completa verbatim de la promo.
