@@ -362,6 +362,24 @@ confirmado acá en su plataforma más grande hasta la fecha.
 **Pieza de la sesión**:
 [vs Penta, final del torneo No. 1 contendiente](../matches/2026-08-31-penta-vs-rey-fenix-wwe-raw.md) (ICC)
 
+### Sesión 2026-09-12 s02 — "Es dios": retiene el título AAA ante Ricky Saints (SmackDown, Ciudad de México, 11/9/2026)
+
+**Cita verbatim**:
+
+> *"Ricky Saints vs Fenix estuvo genial, hace tiempo no le sacaban una
+> lucha asì a Ricky, Fenix es dios., se merecen las 3 clases con la
+> corona +"*
+>
+> — El Vehemiurgo, 2026-09-12 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada.** Retiene
+el AAA World Cruiserweight Championship con handspring stunner +
+Mexican Muscle Buster, en su propia Ciudad de México. **Research**:
+post-match, Saints le extiende la mano en gesto de respeto y lo
+golpea apenas Fénix baja la guardia — swerve que reabre el conflicto.
+Ver
+[`../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md`](../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

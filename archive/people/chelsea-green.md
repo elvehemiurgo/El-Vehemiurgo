@@ -299,6 +299,24 @@ sirve además para construir a Tiffany Stratton como sucesora babyface.
 **Pieza de la sesión**:
 [apta con máscara, Tiffany la salva](../segments/2026-09-04-chelsea-green-apta-nia-lash-tiffany-salva-wwe-smackdown.md) (WE+)
 
+### Sesión 2026-09-12 s02 — Retiene en Ciudad de México, con los colores de México (SmackDown, 11/9/2026)
+
+**Cita verbatim**:
+
+> *"CHelsea como b abyface es genial, aqui lucha contra Nia, Chelsea
+> con los colores de Mèxico, todo lo que hacia generaba reacciones
+> gigantes [...] realmente històrico el booking"*
+>
+> — El Vehemiurgo, 2026-09-12 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada**, con
+reserva técnica puntual sobre un botch en la ejecución del finisher
+(no baja la triple clase, doctrina ya establecida). **Retiene el
+Interim WWE Women's Championship** ante Nia Jax en su propio país de
+adopción simbólica, compitiendo con la máscara protectora de su
+fractura orbital. Ver
+[`../matches/2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md`](../matches/2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

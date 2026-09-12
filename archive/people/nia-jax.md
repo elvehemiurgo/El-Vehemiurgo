@@ -147,6 +147,18 @@ Legend. Post-match, le arranca la máscara a Chelsea Green.
 **Pieza de la sesión**:
 [vs Tiffany Stratton](../matches/2026-09-04-tiffany-stratton-vs-nia-jax-wwe-smackdown.md) (ICC)
 
+### Sesión 2026-09-12 s02 — Cae ante Green en Ciudad de México, con colores de Estados Unidos
+
+**Contexto**: `2026 09 11 SmackDown`, Ciudad de México, timestamp
+00:37:15. El Vehemiurgo declara **Instant Classic Crown+** para el
+match completo — "buena oportunidad para las heels también".
+
+**Research**: Jax sale con colores de Estados Unidos, viene siendo
+abucheada desde principios de septiembre por eso; **pierde** el
+Interim WWE Women's Championship de Chelsea Green tras un finisher
+con un botch de ejecución que igual conecta para el pin. Ver
+[`../matches/2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md`](../matches/2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -220,6 +220,28 @@ semana a semana y el gancho de su etapa ROH como capital adicional.
 [segmento con Gargano](../segments/2026-09-04-sami-zayn-segmento-gargano-wwe-smackdown.md) (WE) ·
 [main event, interferencia](../matches/2026-09-04-cm-punk-vs-johnny-gargano-wwe-smackdown.md) (ICC+)
 
+### Sesión 2026-09-12 s02 — "It has to be me": el caso cerrado, superando a Owens (SmackDown, Ciudad de México, 11/9/2026)
+
+**Cita verbatim**:
+
+> *"Sami con una promo genial, armò un caso muy cool en 3 semanaas,
+> sobrepasando por completo a Owens y a la altura de CM Punk 2026 [...]
+> esta dream match merecia programaciòn asi"*
+>
+> — El Vehemiurgo, 2026-09-12 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: **Wrestling Entertainment+ declarada.** Cierra
+el arco de tres semanas (interferencia a favor de Punk 21/8, ataque a
+los tres bandos 28/8, confrontación con Gunther y Gargano 4/9)
+descartando por nombre a Owens, Gargano, Cody, Orton, Gunther y
+Balor. **Research**: el mismo dictado pide "programación así" para un
+hipotético Zayn vs Punk **sin saber que esa misma noche el main event
+ya lo resolvía** — Zayn gana el Undisputed WWE Championship con
+ayuda de Gargano y Candice LeRae (Helluva Kick tras un GTS fallido de
+Punk sobre Gargano). **El main event no está registrado como ficha**
+— ley de silencio editorial, el Vehemiurgo no lo dictó. Ver
+[`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

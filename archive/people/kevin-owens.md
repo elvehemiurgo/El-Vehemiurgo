@@ -184,6 +184,21 @@ scene con rapidez.
 **Pieza de la sesión**:
 [Gunther corta promo contra Sami](../segments/2026-09-04-gunther-promo-apertura-sami-zayn-wwe-smackdown.md) (sin clase, mención)
 
+### Sesión 2026-09-12 s02 — "Sobrepasado por completo" en la promo de Zayn
+
+**Cita verbatim** (fragmento):
+
+> *"Sami [...] sobrepasando por completo a Owens y a la altura de CM
+> Punk 2026"*
+>
+> — El Vehemiurgo, 2026-09-12 s02 (verbatim)
+
+**Lectura sintética**: mención comparativa, no protagónica —
+continúa el arco de s67 (Owens como vara para medir la ejecución de
+Zayn del mismo arquetipo del resentido), pero acá el veredicto ya no
+es de comparación sino de superación declarada. Ver
+[`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).

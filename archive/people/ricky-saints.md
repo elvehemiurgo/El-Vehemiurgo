@@ -154,6 +154,23 @@ tres top guys distintos a la vez"*.
 
 **Lectura sintética**: **FS+WE.** Pierde ante Trick Williams en Night of Champions pese a incriminar a Lil Yachty con el kendo stick para hacerlo expulsar del ringside — tercer capítulo consecutivo de su gimmick de "pura boca" trabajando sucio.
 
+### Sesión 2026-09-12 s02 — La lucha que hacía falta — y el swerve del apretón de manos
+
+**Cita verbatim**:
+
+> *"hace tiempo no le sacaban una lucha asì a Ricky"*
+>
+> — El Vehemiurgo, 2026-09-12 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada** para el
+match completo. Lectura de trayectoria — primera vez en el registro
+que se le da a Saints una lucha de este nivel desde su etapa de
+midcard de SmackDown. **Cae** ante Rey Fénix por el AAA World
+Cruiserweight Championship; **research**: post-match, extiende la
+mano en gesto de respeto y golpea a Fénix apenas baja la guardia —
+swerve que deja abierta la revancha. Ver
+[`../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md`](../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar grafía oficial WWE** — *Ricky Saints* o *Ricky

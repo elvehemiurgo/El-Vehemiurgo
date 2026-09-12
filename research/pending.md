@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `wwe-smackdown-110926` | Cerrar resultado/finish de Rey Fénix vs Ricky Saints (¿título AAA Cruiserweight?); contenido de la promo de Sami Zayn "it has to be me" con Gargano y Candice LeRae; resultado y mecánica del botch de finisher en Chelsea Green (c) vs Nia Jax por el Interim WWE Women's Championship (Ciudad de México). | Volcado 2026-09-12 s02 | 2026-09-12 | `archive/matches/` + `archive/segments/` (fichas de esta sesión) |
+| _(vacío — `wwe-smackdown-110926` cerrada el 2026-09-12, ver [`closed.md`](./closed.md))_ | | | | |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).

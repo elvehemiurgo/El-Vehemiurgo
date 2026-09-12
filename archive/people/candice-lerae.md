@@ -69,6 +69,17 @@ tags: [candice-lerae, czw-2013, pwg, worlds-cutest-tag-team, joey-ryan, intergen
 **Pieza de la sesión**:
 [con Greg Excellent vs Pepper Parks & Cherry Bomb](../matches/2013-09-14-pepper-parks-cherry-bomb-vs-candice-lerae-greg-excellent-czw-dwts.md) (FS · WE → FC)
 
+### Sesión 2026-09-12 s02 — Presente en el segmento de Sami Zayn (SmackDown, Ciudad de México, 11/9/2026)
+
+**Contexto**: acompaña a Johnny Gargano en el segmento backstage de
+Sami Zayn (00:27:37), que el Vehemiurgo declara **Wrestling
+Entertainment+**, señalando que "tiene cosas relevantes que decir".
+**Research**: en el main event de esa misma noche (no dictado, sin
+ficha propia) su interferencia distrae al réferi durante un Anaconda
+Vice de CM Punk sobre Zayn, habilitando el remate de Gargano y,
+después, el Helluva Kick con el que Zayn gana el título. Ver
+[`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real; fecha exacta de la unificación del Speed title.

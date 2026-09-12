@@ -12,6 +12,7 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-09-11 | Sami Zayn — promo 'It has to be me' con Johnny Gargano y Candice LeRae | WWE / SmackDown | promo / backstage | WE+ | — | en-investigacion | 1 | [→](2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md) |
 | 2026-09-08 | Backstage: guerra de facciones por la #1 contendencia al NXT Tag Team Championship | WWE / NXT | backstage / confrontación de facciones | — | — | en-investigacion | 1 | [→](2026-09-08-backstage-birthright-vanity-project-darkstate-nxt.md) |
 | 2026-09-08 | Backstage: la grieta entre Keanu Carver y EK Prosper — Robert Stone interrumpe | WWE / NXT | backstage | WE | — | en-investigacion | 1 | [→](2026-09-08-backstage-montana-ek-keanu-stone-nxt.md) |
 | 2026-09-08 | Charlie Dempsey — invita a Zilla a Birthright; Regal ordena el ataque | WWE / NXT | in-ring confrontation + backstage | WE | — | en-investigacion | 1 | [→](2026-09-08-charlie-dempsey-segmento-in-ring-birthright-zilla-nxt.md) |

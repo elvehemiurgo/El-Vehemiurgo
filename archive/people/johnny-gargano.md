@@ -70,6 +70,22 @@ tags: [johnny-gargano, candice-lerae, cm-punk, sami-zayn, undisputed-wwe-champio
 **Pieza de la sesión**:
 [vs CM Punk, Undisputed WWE Championship](../matches/2026-09-04-cm-punk-vs-johnny-gargano-wwe-smackdown.md) (ICC+)
 
+### Sesión 2026-09-12 s02 — Condiciona su apoyo a Zayn: si le gana a Punk, se queda con la primera chance
+
+**Contexto**: `2026 09 11 SmackDown`, Ciudad de México, timestamp
+00:27:37. El Vehemiurgo declara **Wrestling Entertainment+** para el
+segmento completo, señalando que Gargano "tiene cosas relevantes que
+decir".
+
+**Research**: Gargano llega al segmento de Sami Zayn y tocan frentes
+en gesto de respeto/tensión — **repite la exigencia planteada el
+4/9/2026**: si Zayn le gana a CM Punk esa misma noche, Gargano se
+queda con la primera chance al título. Zayn acepta a regañadientes.
+En el main event (no dictado por el Vehemiurgo, sin ficha propia),
+Gargano y Candice LeRae bajan a ringside y su interferencia resulta
+clave en la victoria de Zayn. Ver
+[`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md).
+
 ## Pendientes / huecos
 
 - [ ] Contexto completo del ángulo catatónico (origen, duración exacta).
