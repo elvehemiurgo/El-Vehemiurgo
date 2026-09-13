@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `reinado-cm-punk-2026` | Attendance/gate y duración del Raw del 6/7/2026 (Allstate Arena); defensas titulares del reinado de Punk con SummerSlam 2026 (attendance, gate, resultado vs Cody); viewership de los SmackDown del 21/8 y 4/9 y del 11/9; si existe alguna conversión publicada entre métricas de Netflix y cable lineal. | Comparación Punk/Omega pedida por el Vehemiurgo 2026-09-13 | 2026-09-13 | `dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md` §2 y §8 |
+| _(vacío — `reinado-cm-punk-2026` cerrada el 2026-09-13, ver [`closed.md`](./closed.md))_ | | | | |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).

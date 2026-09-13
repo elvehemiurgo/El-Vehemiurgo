@@ -62,13 +62,13 @@ ficha existe.
 | **¿Estaba anunciado en el match?** | **No. No existía como participante.** | **Sí**, con build de dos semanas |
 | **Estipulación** | ninguna | **si Omega perdía, no podía retar nunca más** |
 | **Finish** | **Helluva Kick —el finisher del propio Zayn— y GTS** | MJF hace trampa (low blow + cinturón) y **falla**; tres V-Triggers y One-Winged Angel |
-| **Duración** | `[research en curso]` | 24:06 `[agregador terciario]` |
+| **Duración** | **sin tiempo oficial**; un reviewer dice "casi 30 minutos" `[no confirmado]` | 24:06 `[agregador terciario]` |
 | **Clase del match** | **—** *(take cortado)* | **—** *(rechazo explícito)* |
 | **Duración del reinado** | **67 días** (→ 11/9, pierde ante Zayn) | **53 días** (→ 30/8, pierde ante Ospreay) |
 | **Piezas del reinado en el archivo** | **7** | **3** |
 | **Coronas del reinado** | **6** (4 ICC + 2 ICC+) | **2** (2 ICC) |
 | **Audiencia del show de la coronación** | **2,5M de views y 5M de horas globales en Netflix** — mejor desde el 25/5, 6º global, 4º en EE.UU., top 10 en 14 países | **773.000 / 0.12 en TBS** — el Dynamite más visto desde el 24/7/2024, +21,9% |
-| **Público en el edificio** | **no reportado** | **3.419 tickets distribuidos** |
+| **Público en el edificio** | **~12.493 tickets distribuidos** (montaje 12.847) — ni paid ni announced; **gate no reportado** | **3.419 tickets distribuidos** — **gate no reportado** |
 
 ---
 
@@ -242,6 +242,31 @@ Aun normalizando por tiempo, el reinado de Punk rindió **más del doble
 de coronas por día**. Y Punk sumó **una corona más alta** (dos ICC+,
 que Omega no alcanzó nunca en su reinado).
 
+### Advertencia de método — la métrica subestima a Punk, no lo infla
+
+Research cerró la lista real de defensas del reinado de Punk, y **el
+archivo no tiene ficha de todas**:
+
+| # | Fecha | Rival | Resultado | ¿Ficha en el archivo? |
+|---|---|---|---|---|
+| 1 | **16/7** — house show, Allentown PA | Gunther | retiene | **no** (no televisado) |
+| 2 | **1/8** — SummerSlam Noche 1, U.S. Bank Stadium | Cody Rhodes | retiene (regreso de Randy Orton, RKO) | **no** — registrada solo como nota en `cm-punk.md` s20 |
+| 3 | **21/8** — SmackDown, Toronto | Kevin Owens | retiene | sí — **ICC** |
+| 4 | **4/9** — SmackDown, Cleveland | Johnny Gargano | retiene | sí — **ICC+** |
+| 5 | **11/9** — SmackDown, Arena CDMX | Sami Zayn | **pierde** | sí — **ICC+** |
+
+**Cuatro defensas televisadas más una de gira, y el archivo tiene tres
+de las cinco como ficha de match.** Falta justamente **la más grande
+—SummerSlam ante Cody— porque el dictado del Vehemiurgo de esa noche
+cubrió los segmentos, no el match** (ley de silencio editorial: no se
+abre ficha).
+
+**Consecuencia para el conteo**: las 6 coronas de Punk salen de las
+piezas **registradas**. La defensa de estadio no está adentro. **Si
+algo, la comparación favorece a Punk más de lo que la tabla muestra** —
+y del lado de Omega el research no encontró defensas adicionales sin
+registrar.
+
 ---
 
 ## 7. El hallazgo estructural: los dos reinados están enmarcados igual
@@ -265,18 +290,42 @@ coronaciones fue la mejor noche de su propio reinado.**
 
 ---
 
-## 8. Los números de draw — con la advertencia por delante
+## 8. Los números de draw — con tres advertencias por delante
 
-**No son comparables directamente, y hay que decirlo antes de la
-tabla.** Raw vive en Netflix y se mide en **views globales y horas
-vistas**; Dynamite vive en TBS y se mide con **Nielsen lineal en
-EE.UU.**. No existe conversión publicada entre ambas.
+**Primera: no son comparables directamente.** Raw vive en Netflix y se
+mide en **views globales y horas vistas**; Dynamite vive en TBS y se
+mide con **Nielsen lineal en EE.UU.** **Nadie publicó una conversión**,
+y hay reportes que declaran explícitamente que una comparación
+*apples-to-apples* sería inefectiva.
+
+**Segunda: una "view" de Netflix no es un espectador.** Es un
+**Completed Viewing Equivalent** — horas totales vistas dividido el
+runtime. En términos Nielsen se aproxima más al **promedio de hogares
+viendo a lo largo de todo el programa** que a un conteo de personas
+`[Wrestlenomics, 2026]`.
+
+**Tercera, y es la que obliga a corregir este dossier: el 26 de enero
+de 2026 Nielsen cambió la metodología para telecasts de cable.** Ahora
+cuenta cada cambio de canal (los tune-outs breves pesan como pérdida) y
+el co-viewing en casas, bares y gimnasios pesa menos. **El cambio
+coincidió con una subida general del viewership de programas de
+wrestling en 2026.**
+
+> **Corrección**: la primera versión de este dossier presentó el
+> *"Dynamite más visto desde el 24/7/2024"* como un récord limpio. **No
+> lo es: esa comparación cruza la ruptura metodológica de enero de
+> 2026.** El número de 773.000 es real y el salto sobre la semana
+> previa (+21,9%) es válido —misma metodología, misma ventana—, pero
+> **el récord de dos años no aguanta como récord.** El dato pro-Omega
+> que este dossier había destacado queda debilitado, y corresponde
+> decirlo.
 
 | | **Raw 6/7 (coronación de Punk)** | **Dynamite 8/7 (coronación de Omega)** |
 |---|---|---|
 | Métrica | **2,5M views globales / 5M horas** | **773.000 espectadores / 0.12 P18-49** |
 | Contra la semana previa | 5M horas vs 4,5M | **+21,9%** (desde 634.000) |
-| Récord que rompe | mejor cifra **desde el 25/5** | **el Dynamite más visto desde el 24/7/2024** |
+| Salto que sí aguanta | mejor cifra **desde el 25/5** (misma metodología) | **+21,9% sobre la semana previa** (misma metodología) |
+| "Récord" que **no** aguanta | — | *"el más visto desde el 24/7/2024"* — **cruza el cambio de metodología Nielsen de enero 2026** |
 | Ranking | **6º global en Netflix**, 4º en EE.UU., top 10 en 14 países | mejor número de AEW en 2026 hasta esa fecha |
 | Público en el edificio | **no reportado** | **3.419 tickets** (promedio AEW 2026: ~3.192) |
 | Atenuante declarado por la prensa | compitió contra **la final de Team USA en el Mundial FIFA** | **no había competencia deportiva esa noche** (F4W) |
@@ -293,10 +342,42 @@ EE.UU.**. No existe conversión publicada entre ambas.
   su mejor número en seis semanas **compitiendo contra un partido de la
   selección de EE.UU. en un Mundial**.
 - **Escala**: en el terreno donde sí se comparan (cable lineal),
-  SmackDown promedia **1,7 a 2 veces** el P2+ de Dynamite. Pero WWE
-  viene con **attendance −23,5% interanual** (10.810 por show) y AEW
-  **+16% en Q1** sobre una base mucho más chica (~3.192). **Una cae
-  desde arriba, la otra sube desde abajo.**
+  SmackDown promedia **1,7 a 2 veces** el P2+ de Dynamite — 1.280.000
+  y 1.300.000 en las dos defensas de Punk (21/8 Toronto y 4/9
+  Cleveland) contra un promedio Dynamite de **692.000 en Q2 2026**.
+  Pero WWE viene con **attendance −23,5% interanual** (10.810 por show)
+  y AEW **+16% en Q1** sobre una base mucho más chica. **Una cae desde
+  arriba, la otra sube desde abajo.**
+
+### El dato incómodo del lado de Punk: SummerSlam
+
+**La defensa más grande de su reinado es también el peor dato de negocio
+del dossier.** SummerSlam 2026 (1-2 de agosto, U.S. Bank Stadium,
+Minneapolis, capacidad 72.287):
+
+- **WWE no anunció asistencia en ninguna de las dos noches.** Según
+  Meltzer, no se recuerda un show de estadio de WWE sin cifra anunciada
+  en ninguna noche `[WON/Meltzer, agosto 2026]`.
+- Las cifras que circulan son **repartidas de WrestleTix, y hay dos
+  juegos en conflicto**: 36.683 + 33.086 = **69.769**, o 35.654 +
+  33.719 = **69.373**. Ninguna es paid ni announced.
+- **Contra 2025**: MetLife Stadium repartió **más de 108.000** entre
+  las dos noches, con **$7,1M de site fee** de la autoridad de Nueva
+  Jersey. **La caída es de casi 40.000 personas.**
+- **Meltzer señaló patrón consistente con *papering***: pico de ventas
+  dos semanas antes, movimiento casi nulo la semana del show, y
+  secundario que no subió de precio.
+- **Gate: no existe cifra atribuible.** El "~$5,5M" que circula **no
+  tiene fuente identificable** — no se usa. Los $100 millones que citó
+  Minnesota Sports and Events son **impacto turístico estimado, no
+  gate**.
+
+**Lo que esto le hace al dossier**: el reinado con más coronas
+del archivo es también el que sostuvo **el peor descenso de estadio de
+la era reciente de WWE, con la empresa escondiendo el número.** Las
+seis coronas de Punk miden lo que pasó en el ring; **no miden si la
+gente fue.** Y en el único show donde se podía medir de verdad, la
+empresa decidió no decirlo.
 
 ---
 
@@ -312,10 +393,18 @@ en sesenta y siete días**, incluida la noche de Toronto donde el público
 lo convirtió en heel sin que nadie lo escribiera (*"fue histórico"*).
 
 Omega ganó con build, con estipulación, con la estructura correcta del
-babyface que sobrevive la trampa, **y rompiendo un récord de audiencia
-de dos años** — y el archivo le contestó *"MJF debió ganar"*, le dio
-**dos coronas en cincuenta y tres días**, y le reservó la mejor nota
-del reinado para la noche en que perdió el cinturón.
+babyface que sobrevive la trampa, **y con el mejor número de su empresa
+en el año** (el "récord de dos años" no aguanta — cruza el cambio de
+metodología de Nielsen) — y el archivo le contestó *"MJF debió ganar"*,
+le dio **dos coronas en cincuenta y tres días**, y le reservó la mejor
+nota del reinado para la noche en que perdió el cinturón.
+
+**Y la simetría que ninguna de las dos empresas puede presumir**: el
+reinado más premiado por el archivo sostuvo **el SummerSlam que WWE se
+negó a anunciar**, con casi 40.000 personas menos que el año anterior;
+el reinado menos premiado sostuvo **un cambio de mundial que vendió
+3.419 entradas**. Uno pintó bien en el ring y mal en la taquilla; el
+otro, mal en las dos. **Ninguno de los dos dibujó.**
 
 **La diferencia no es de técnica, de empresa, ni de presupuesto: es de
 crédito acumulado.** Punk entra a cada lucha con veinte años de
@@ -340,21 +429,47 @@ disfrute. Es que no lo cuenta como de los suyos.**
 `cm-punk.md` y `kenny-omega.md`. Conteo de coronas verificado con
 `bin/archivo_lib.py`.
 
-**Pendientes que este dossier NO afirma**:
+**Correcciones que el research hizo sobre este dossier** — ya
+integradas arriba:
+
+1. **El "Dynamite más visto desde julio de 2024" no aguanta como
+   récord**: cruza el cambio de metodología de Nielsen del 26/1/2026.
+   El +21,9% sobre la semana previa sí aguanta.
+2. **Las 6 coronas de Punk subestiman su reinado**, no lo inflan: el
+   archivo no tiene ficha de su defensa de estadio ante Cody Rhodes en
+   SummerSlam (el dictado de esa noche cubrió los segmentos).
+3. **Se cerró la lista real de defensas**: cuatro televisadas más una de
+   gira (Gunther, house show del 16/7 en Allentown).
+4. **Se sumó el dato de SummerSlam**: WWE no anunció asistencia
+   ninguna de las dos noches, con ~69.400-69.800 repartidas contra
+   más de 108.000 en 2025.
+
+**Pendientes que siguen abiertos y que este dossier NO afirma**:
 
 - [ ] **El take de Punk vs Zayn sigue incompleto** — *"con toda esta
       idea de..."*. Es el hueco más importante del dossier: **el único
       juicio directo del Vehemiurgo sobre esa coronación está cortado
       a mitad de frase.** Si lo retoma, esta pieza se corrige.
-- [ ] Duración del match Punk vs Zayn; **attendance y gate del Raw del
-      6/7 en el Allstate Arena** (no reportados al cierre del research
-      anterior; hay research nuevo en curso).
-- [ ] Gate de Beach Break; buyrate de All In 2026.
-- [ ] Viewership del SmackDown del 11/9 (la noche en que Punk pierde
-      el título) — sin publicar al 13/9.
-- [ ] **Ninguna conversión publicada entre métricas de Netflix y de
-      cable lineal.** La comparación de las dos coronaciones en draw
-      queda declaradamente parcial.
+- [ ] **Duración oficial** del match Punk vs Zayn: no existe. El "casi
+      30 minutos" es apreciación de un reviewer.
+- [ ] **Gates**: no existe ninguno en todo el dossier. Ni el Raw del
+      6/7, ni Beach Break, ni SummerSlam, ni el SmackDown de Toronto
+      (el *"más taquillero de la historia en Toronto"* es **claim de
+      WWE sin número publicado**), ni el de la Arena CDMX. El de All In
+      es claim de Tony Khan, sin auditar.
+- [ ] **Attendance de SummerSlam**: dos juegos de cifras WrestleTix en
+      conflicto, ninguno paid ni announced.
+- [ ] **Viewership del SmackDown del 11/9** (la noche en que Punk pierde
+      el título): sin publicar al 13/9. Los reportes de Nielsen salen
+      martes o miércoles — **vale re-chequear el 15 o 16/9.**
+- [ ] **Contradicción en la prensa**: el reporte del 4/9 tituló que la
+      demo "subía", pero 0.32 (21/8) → 0.29 (4/9) es caída. Los dos
+      números vienen de reportes distintos que no se cruzan entre sí.
+- [ ] **Lista de defensas en house shows**: cerrada solo la de Gunther
+      (16/7). Puede haber más sin cobertura.
+- [ ] **El año a año no es limpio en ninguna de las dos empresas** por
+      el cambio de Nielsen de enero de 2026. Toda comparación
+      interanual de este dossier queda declarada como parcial.
 
 **Pieza hermana**: [`./draft-dos-formas-de-ganar-un-mundial-2026.md`](./draft-dos-formas-de-ganar-un-mundial-2026.md)
 — compara la coronación de Omega con la de **Sami Zayn** (11/9/2026),
