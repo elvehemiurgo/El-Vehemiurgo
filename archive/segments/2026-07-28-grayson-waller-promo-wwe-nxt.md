@@ -59,9 +59,16 @@ tags: [wwe-2026, nxt, grayson-waller, shawn-michaels, tony-dangelo, new-day, cru
 
 - **"Fin del New Day" confirmado con dato duro**: Kofi Kingston y
   Xavier Woods dejaron WWE el 2/5/2026 por disputa contractual
-  (rechazaron una reestructuración de TKO), terminando de facto el
-  acto que Waller integraba desde el 21/7/2025 (tras su heel turn
-  sobre Big E). En la promo se refirió explícitamente a ese período.
+  (rechazaron una reestructuración de TKO que, según ellos mismos
+  después, implicaba **un recorte de más del 50%**), terminando de facto
+  el acto. En la promo se refirió explícitamente a ese período.
+  **Corrección de research (2026-09-13)**: esta ficha decía que Waller
+  *"integraba el grupo desde el 21/7/2025"*. **Acompañaba al grupo desde
+  mediados de 2025 —tras disolverse su equipo con Austin Theory— pero
+  nunca fue billeado como miembro oficial de The New Day.** La alianza
+  era real y televisada; la membresía formal, no. Inventario completo
+  del año de los dos en
+  [`../../dossiers/guia-de-ubicacion-kofi-y-xavier-woods-2026.md`](../../dossiers/guia-de-ubicacion-kofi-y-xavier-woods-2026.md).
 - **HBK confirmado**: le dijo a Shawn Michaels (jefe creativo de NXT)
   que empezara a *"tuning up the band"* si tenía problema con lo que
   decía — referencia directa al Sweet Chin Music.

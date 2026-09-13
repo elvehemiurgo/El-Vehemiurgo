@@ -145,6 +145,20 @@ Negociación pública de reducción al cierre del dossier.
 - **Kofi Kingston** y **Xavier Woods** (*"mutual parting"*) —
   habían firmado extensiones de 5 años en 2025; les pidieron
   restructurar al año, dos días para decidir, declinaron.
+  **Magnitud del recorte, on record por ellos (Ariel Helwani Show,
+  1/9/2026): "more than 50%"** — F4W lo comparó con el 56% que reveló
+  Ridge Holland. **Ninguno recibió llamada ni mensaje de agradecimiento
+  de un ejecutivo**; Creed estaba viendo el partido de su hijo, Kofi en
+  el cumpleaños del suyo. **No hubo segmento de despedida en TV**: el
+  cierre lo hicieron ellos el **29/7/2026** con el corto animado
+  **"Daybreak"** (dos unicornios encadenados que rompen las cadenas y
+  escapan de un circo, pasando junto a un tercero con el cuerno roto —
+  leído como Big E; el ringmaster barbudo, como Triple H). **Firmaron
+  con AEW menos de 24 horas antes de All In**, con contratos que —on
+  record por Kofi— son *"player-friendly"* y **les permiten trabajar
+  para otras empresas**: el contraste exacto con el endurecimiento que
+  documenta este topic. Inventario completo en
+  [`../../dossiers/guia-de-ubicacion-kofi-y-xavier-woods-2026.md`](../../dossiers/guia-de-ubicacion-kofi-y-xavier-woods-2026.md).
 - **Tonga Loa** y **J.C. Mateo**.
 - **Big E** sigue en limbo médico (no es release activo, mantenido
   bajo contrato).

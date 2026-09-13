@@ -130,6 +130,49 @@ hacer trampa**, eso es cool"*, más el diagnóstico de por qué proyectan
 bien: *"los campeones no tienen tan buenas promos en conjunto, es más
 Hangman"*.
 
+## Datos de research (2026-09-13) — debut de The New Level
+
+**Sub-agente `kofi-y-woods-2026`.** Cierra el detalle de la entrada de
+Kofi y Austin Creed, que era su **debut absoluto en AEW**.
+
+**Orden de entradas de los siete tríos**:
+
+| # | Equipo |
+|---|---|
+| 1 | Bang Bang Gang — Jay White, Austin Gunn, Colten Gunn |
+| 2 | The Dogs — David Finlay, Gabe Kidd, Clark Connors |
+| 3 | The Demand — Ricochet, Bishop Kaun, Toa Liona |
+| 4 | The Conglomeration — Kyle O'Reilly, Orange Cassidy, Roderick Strong |
+| 5 | Death Riders — Claudio Castagnoli, PAC, Wheeler Yuta |
+| 6 | The Good, The Bad and the Ugly (c) — Bandido, Hangman Page, Brody King |
+| **7** | **Swerve Strickland + The New Level** *(wild card sin anunciar)* |
+
+- **Mecánica del debut**: **Swerve entró primero acompañado por Prince
+  Nana**, se hizo a un lado, **y entonces salieron Kofi y Austin
+  Creed.**
+- **Música de entrada: "New Level" de A$AP Ferg** — **los derechos se
+  consiguieron menos de 24 horas antes del show**, igual que los
+  contratos de los dos con AEW. **El nombre del equipo sale de la
+  canción.**
+- **Primeros luchadores en ganar un título de AEW en su primera
+  aparición en la empresa.**
+- **No clasificaron: fueron colocados.** Tony Khan anunció el formato
+  con el séptimo equipo como wild card sin anunciar, y dijo en el scrum
+  que esperó unos días tras el vencimiento de las *"90-day clauses"*
+  para hablar con su representación.
+
+> ⚠️ **Corrección de ubicación del footage.** Esta ficha decía que el
+> match *"empieza en el Buy In y termina en el PPV"*. **La evidencia más
+> fuerte dice que el match completo estuvo en el Buy In**: POST
+> Wrestling tituló su reporte del Buy-In con la victoria de The New
+> Level, Powell lo reseñó entero en pre-show results, estaba anunciado
+> para el Buy-In, y **AEW lo subió a YouTube como "Trios Roulette
+> Royale | AEW All In: London Buy In"**. La otra versión (Wrestling Inc,
+> Bleacher Report: el PPV abrió con los participantes restantes) existe,
+> así que puede haber solapamiento. **Para buscar footage: el video
+> gratuito del Buy In.** Detalle en
+> [`../../dossiers/guia-de-ubicacion-kofi-y-xavier-woods-2026.md`](../../dossiers/guia-de-ubicacion-kofi-y-xavier-woods-2026.md).
+
 ## Pendientes
 
 - [ ] **Duración** — un solo reporte da 39:00, sin corroborar.

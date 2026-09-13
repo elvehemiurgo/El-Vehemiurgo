@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `kofi-y-woods-2026` | Inventario cronológico completo de apariciones de Kofi Kingston y Xavier Woods en 2026: tramo WWE (enero → salida del 2/5), última aparición televisada y si hubo segmento de despedida; tramo AEW (debut, formación de The New Level con Swerve, todas las apariciones hasta el 13/9, defensas de los títulos de tríos), con posición en el show y señales visuales para ubicar el footage. | Pedido del Vehemiurgo 2026-09-13 (guía de ubicación) | 2026-09-13 | `dossiers/guia-de-ubicacion-kofi-y-xavier-woods-2026.md` parte 2 |
+| _(vacío — `kofi-y-woods-2026` cerrada el 2026-09-13, ver [`closed.md`](./closed.md))_ | | | | |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).
