@@ -24,29 +24,68 @@ delegaciones_de_research:
 > Dos hombres de la misma generación, cada uno la cara de su empresa,
 > coronados en la misma semana.
 >
-> **En el índice del archivo, las dos luchas tienen la misma celda
-> vacía: sin clase declarada.** Este dossier existe porque **esas dos
-> celdas vacías significan cosas opuestas** — y explicar por qué es
-> explicar toda la doctrina de esta casa.
+> **Durante dos meses, las dos luchas tuvieron en el índice la misma
+> celda vacía: sin clase declarada** — por razones opuestas. Este
+> dossier se escribió sobre esa asimetría. **Y el 13 de septiembre de
+> 2026, al leerlo, el Vehemiurgo cerró las dos celdas con la misma
+> corona: Instant Classic Crown+.**
+>
+> Lo que sigue es, entonces, dos cosas a la vez: la comparación que se
+> pidió, y **el registro de un juicio completándose.**
 
 ---
 
-## 1. Las dos celdas vacías
+## 1. Las dos celdas vacías, y cómo se cerraron
 
-| Fecha | Match | Clase | Por qué está vacía |
+### Durante dos meses
+
+| Fecha | Match | Clase | Por qué estaba vacía |
 |---|---|---|---|
 | **6/7/2026** | CM Punk vs Sami Zayn | **—** | **El dictado se corta a mitad de frase**: *"ahora si se pone interesante el booking, **con toda esta idea de**"*. Lo que alcanzó a decir es elogio. |
 | **8/7/2026** | MJF vs Kenny Omega | **—** | **Rechazo explícito**: *"esta lucha es la más debil del reinado de MJF [...] **MJF debió ganar**, ni modo"*. |
 
-**La primera es un elogio interrumpido. La segunda es un veredicto
-terminado.** El archivo no las distingue en la tabla del índice —
-las distingue en el cuerpo de la ficha, y por eso el cuerpo de la
-ficha existe.
+**La primera era un elogio interrumpido. La segunda, un veredicto
+terminado.**
 
-> **Nota de método**: la ficha de Punk vs Zayn tiene un pendiente
-> abierto desde agosto que dice, en mayúsculas, **"EL TAKE ESTÁ
-> INCOMPLETO"**. Este dossier no lo completa ni lo infiere. Trabaja con
-> lo que hay.
+### El 13 de septiembre de 2026
+
+> *"verifica bien si se subieron todas las entradas para 6/7/2026 CM
+> Punk vs Sami Zayn y 8/7/2026 MJF vs Kenny Omega, **en todo caso se
+> merecen las 3 clases con la corona +**"*
+>
+> — El Vehemiurgo, 2026-09-13 (verbatim)
+
+| Fecha | Match | Clase ahora | Corona |
+|---|---|---|---|
+| 6/7/2026 | CM Punk vs Sami Zayn | PW·FS·WE+ | **ICC+** |
+| 8/7/2026 | MJF vs Kenny Omega | PW·FS·WE+ | **ICC+** |
+
+### Lo que NO se movió, y es lo importante
+
+**El Vehemiurgo no retiró una sola palabra de la objeción a la lucha de
+Omega.** *"La más débil del reinado de MJF"*, *"MJF debió ganar"*,
+*"ojalá hubieran ido con otra idea para el título mundial"* siguen en
+la ficha, intactas, **al lado de la corona más alta del sistema.**
+
+> **El precedente doctrinal que esto fija.** La regla operativa 2 del
+> sistema de clases dice: *"booking ≠ clase — elogio al diseño
+> narrativo no asigna clase"*. **Estas dos fichas establecen el
+> inverso: la crítica al diseño narrativo tampoco se la quita.** Un
+> match puede llevar Instant Classic Crown+ y ser, en el mismo
+> registro, una decisión de booking que el archivo rechaza. **Son dos
+> ejes y se miden por separado.**
+
+**Y eso reordena todo el dossier**: si las dos luchas son ICC+,
+**la calidad del match nunca fue el eje de la comparación.** Sacada esa
+variable, lo que queda en pie es exactamente lo que el Vehemiurgo
+estaba juzgando cuando parecía estar juzgando la lucha: **la estrella,
+los stakes, la construcción y el propósito.** Los cuatro ejes que
+siguen.
+
+> **Nota de método, que sigue abierta**: la frase del volcado original
+> sobre Punk **sigue cortada** (*"con toda esta idea de..."*). Lo que
+> llegó el 13/9 fue la clase, **no el cierre de esa oración**. Este
+> dossier no lo completa ni lo infiere.
 
 ---
 
@@ -63,10 +102,10 @@ ficha existe.
 | **Estipulación** | ninguna | **si Omega perdía, no podía retar nunca más** |
 | **Finish** | **Helluva Kick —el finisher del propio Zayn— y GTS** | MJF hace trampa (low blow + cinturón) y **falla**; tres V-Triggers y One-Winged Angel |
 | **Duración** | **sin tiempo oficial**; un reviewer dice "casi 30 minutos" `[no confirmado]` | 24:06 `[agregador terciario]` |
-| **Clase del match** | **—** *(take cortado)* | **—** *(rechazo explícito)* |
+| **Clase del match** | **PW·FS·WE+ → ICC+** *(declarada el 13/9/2026, en diferido — el take original estaba cortado)* | **PW·FS·WE+ → ICC+** *(declarada el 13/9/2026, en diferido — sin retirar la objeción de booking)* |
 | **Duración del reinado** | **67 días** (→ 11/9, pierde ante Zayn) | **53 días** (→ 30/8, pierde ante Ospreay) |
 | **Piezas del reinado en el archivo** | **7** | **3** |
-| **Coronas del reinado** | **6** (4 ICC + 2 ICC+) | **2** (2 ICC) |
+| **Coronas del reinado** | **7 de 7** (4 ICC + 3 ICC+) | **3 de 3** (2 ICC + 1 ICC+) |
 | **Audiencia del show de la coronación** | **2,5M de views y 5M de horas globales en Netflix** — mejor desde el 25/5, 6º global, 4º en EE.UU., top 10 en 14 países | **773.000 / 0.12 en TBS** — el Dynamite más visto desde el 24/7/2024, +21,9% |
 | **Público en el edificio** | **~12.493 tickets distribuidos** (montaje 12.847) — ni paid ni announced; **gate no reportado** | **3.419 tickets distribuidos** — **gate no reportado** |
 
@@ -107,7 +146,8 @@ sacó clase.
 | Elemento sorpresa | **total** | cero |
 | Estipulación | ninguna | última chance |
 | Estructura del finish | robo de identidad (usa el finisher del rival) | superación de la trampa |
-| Clase | — *(elogio cortado)* | — *(rechazo)* |
+| Clase (declarada 13/9/2026) | **ICC+** | **ICC+** |
+| Juicio de booking | elogio (*"ahora sí se pone interesante"*) | rechazo (*"MJF debió ganar"*) |
 
 **La inversión es el hallazgo**: el archivo reaccionó con entusiasmo a
 la coronación **sin construcción** y con rechazo a la **construida**.
@@ -115,6 +155,12 @@ No es incoherencia — es la doctrina funcionando. Punk no necesitaba
 build porque **traía veinte años de build encima**; la sorpresa fue la
 carga. Omega necesitaba el build **precisamente porque el archivo no
 le concede esa carga acumulada**, y dos semanas no la fabrican.
+
+**Y con las clases declaradas, el eje queda nítido**: las dos luchas
+valen lo mismo como lucha (ICC+ las dos). **Lo que las separa es el
+juicio sobre la decisión de ponerlas ahí** — entusiasmo en un caso,
+rechazo en el otro. El archivo estaba midiendo el booking todo el
+tiempo, no el match.
 
 ---
 
@@ -217,11 +263,11 @@ ICC+.
 Esta es la métrica más dura del dossier, y sale del corpus con
 `bin/archivo_lib.py`:
 
-### CM Punk — 67 días, 7 piezas, **6 coronas**
+### CM Punk — 67 días, 7 piezas, **7 coronas de 7**
 
 | Fecha | Pieza | Clase |
 |---|---|---|
-| 6/7 | **vs Sami Zayn — gana el título** | **—** |
+| 6/7 | **vs Sami Zayn — gana el título** | PW·FS·WE+ → **ICC+** |
 | 17/7 | Cody Rhodes vs Gunther (interviene) | PW·FS·WE → **ICC** |
 | 18/7 | Cody & Punk vs Gunther & Zayn (SNME) | PW·FS·WE → **ICC** |
 | 21/8 | **(c) vs Kevin Owens** — primer cruce de sus carreras, Toronto | PW·FS·WE → **ICC** |
@@ -229,18 +275,30 @@ Esta es la métrica más dura del dossier, y sale del corpus con
 | 4/9 | **(c) vs Johnny Gargano** | PW·FS·WE+ → **ICC+** |
 | 11/9 | **(c) vs Sami Zayn — pierde el título** | PW·FS·WE+ → **ICC+** |
 
-### Kenny Omega — 53 días, 3 piezas, **2 coronas**
+### Kenny Omega — 53 días, 3 piezas, **3 coronas de 3**
 
 | Fecha | Pieza | Clase |
 |---|---|---|
-| 8/7 | **vs MJF — gana el título** | **—** |
+| 8/7 | **vs MJF — gana el título** | PW·FS·WE+ → **ICC+** |
 | 26/7 | vs Kevin Knight (Redemption) | PW·FS·WE → **ICC** |
 | 30/8 | **(c) vs Will Ospreay — pierde el título**, Wembley | PW·FS·WE → **ICC** |
 
-**Densidad**: Punk produjo **6 coronas en 67 días**; Omega **2 en 53**.
-Aun normalizando por tiempo, el reinado de Punk rindió **más del doble
-de coronas por día**. Y Punk sumó **una corona más alta** (dos ICC+,
-que Omega no alcanzó nunca en su reinado).
+**Con las clases del 13/9 declaradas, los dos reinados quedan 100%
+coronados**: todas las piezas registradas de ambos llevan corona. Lo
+que sigue separándolos es **volumen y altura**:
+
+| | Punk | Omega |
+|---|---|---|
+| Piezas registradas | **7** | **3** |
+| Coronas | **7** | **3** |
+| De ellas, **ICC+** | **3** | **1** |
+| Días de reinado | 67 | 53 |
+| Coronas por cada 10 días | **1,04** | **0,57** |
+
+**Punk rindió casi el doble de coronas por día y triplicó las ICC+.**
+Y un detalle que la declaración del 13/9 deja visible: **la única ICC+
+del reinado de Omega es su propia coronación** — la pieza que el
+archivo tuvo sin clase durante dos meses.
 
 ### Advertencia de método — la métrica subestima a Punk, no lo infla
 
@@ -269,26 +327,35 @@ registrar.
 
 ---
 
-## 7. El hallazgo estructural: los dos reinados están enmarcados igual
+## 7. El hallazgo estructural — corregido por la declaración del 13/9
 
-Mirá las dos tablas de arriba por los extremos:
+**La primera versión de este dossier tenía acá su remate**: que los dos
+reinados empezaban con una coronación sin clase y terminaban con una
+derrota coronada, y que por lo tanto el archivo valoraba a los dos
+hombres más en su derrota que en su victoria.
 
-> **Los dos reinados empiezan con una coronación sin clase y terminan
-> con una derrota coronada.**
->
-> - Punk: gana **sin clase** (6/7) → pierde con **ICC+** (11/9).
-> - Omega: gana **sin clase** (8/7) → pierde con **ICC** (30/8).
+**Eso ya no es verdad, y la corrección la hizo el propio Vehemiurgo.**
+Con las dos coronaciones en ICC+, los dos reinados quedan **coronados de
+punta a punta**. El hallazgo no sobrevive.
 
-**Este archivo valoró a los dos hombres más en su derrota que en su
-victoria.** Y no es casualidad de calendario: es lo que pasa cuando el
-sistema de clases mide **consecuencia y no resultado**. Ganar un
-cinturón es un dato; perderlo bien, con historia encima y cuatro
-personas cambiadas, es una pieza.
+**Lo que queda en su lugar es más simple y más sólido**:
 
-Y el corolario incómodo para las dos empresas: **ninguna de las dos
-coronaciones fue la mejor noche de su propio reinado.**
+> **Las dos coronaciones eran ICC+ desde el primer día, y el archivo
+> tardó dos meses en decirlo — una porque el dictado se cortó, la otra
+> porque la objeción de booking le tapó la vista al juicio de match.**
 
----
+Y de las dos, **la segunda es la que enseña algo**. Durante dos meses
+la ficha de MJF vs Omega dijo *"sin clase declarada"* con el veredicto
+*"MJF debió ganar"* de encabezado, y cualquiera que la leyera habría
+concluido que el Vehemiurgo pensaba que la lucha era mala. **No lo
+pensaba: pensaba que la decisión era mala.** El archivo no tenía cómo
+distinguir esas dos cosas en esa ficha hasta que él lo aclaró.
+
+**La lección operativa para el archivo, y no es chica**: cuando un
+volcado trae una crítica fuerte de booking y ninguna declaración de
+clase, **la ausencia de clase no es un juicio sobre la lucha** — es una
+celda sin llenar. Conviene preguntar antes de dejar que el silencio
+parezca veredicto.
 
 ## 8. Los números de draw — con tres advertencias por delante
 
@@ -383,45 +450,49 @@ empresa decidió no decirlo.
 
 ## 9. El veredicto del archivo
 
-**A Punk el archivo le cobró la coronación como trámite y le pagó el
-reinado entero. A Omega le cobró las dos cosas.**
+**Las dos luchas valen lo mismo. Todo lo demás, no.**
 
-Punk ganó sin build, sin estar anunciado, sin cortar promo esa noche, y
-usando el finisher del rival — y el archivo lo recibió con *"ahora sí
-se pone interesante el booking"*, para después coronarle **seis piezas
-en sesenta y siete días**, incluida la noche de Toronto donde el público
-lo convirtió en heel sin que nadie lo escribiera (*"fue histórico"*).
+Con las clases declaradas el 13/9, la comparación se limpia: **ICC+ y
+ICC+**. Punk y Omega hicieron, cada uno, un match que este archivo pone
+en su escalón más alto. **El dossier no es sobre quién luchó mejor, y
+nunca lo fue** — aunque durante dos meses las celdas vacías hicieran
+parecer que sí.
 
-Omega ganó con build, con estipulación, con la estructura correcta del
-babyface que sobrevive la trampa, **y con el mejor número de su empresa
-en el año** (el "récord de dos años" no aguanta — cruza el cambio de
-metodología de Nielsen) — y el archivo le contestó *"MJF debió ganar"*,
-le dio **dos coronas en cincuenta y tres días**, y le reservó la mejor
-nota del reinado para la noche en que perdió el cinturón.
+Lo que sigue separándolos, eje por eje:
 
-**Y la simetría que ninguna de las dos empresas puede presumir**: el
-reinado más premiado por el archivo sostuvo **el SummerSlam que WWE se
-negó a anunciar**, con casi 40.000 personas menos que el año anterior;
-el reinado menos premiado sostuvo **un cambio de mundial que vendió
-3.419 entradas**. Uno pintó bien en el ring y mal en la taquilla; el
-otro, mal en las dos. **Ninguno de los dos dibujó.**
+| Eje | Punk | Omega |
+|---|---|---|
+| **Match** | ICC+ | **ICC+ — empate** |
+| **Juicio de booking** | *"ahora sí se pone interesante"* | *"MJF debió ganar"* |
+| **Crédito de estrella** | *"el best in the world"*, *"wrestling premium"* | *"un luchador que no se considera luchador"* |
+| **Su heel turn** | lo hizo el público de Toronto — *"fue histórico"* | *"un villano de One Piece"* |
+| **Stakes** | ninguno declarado, y no le hizo falta | estipulación que solo mordía si perdía |
+| **Propósito del reinado** | nadie pudo escribir el final de antemano | escrito el día uno, cumplido en 53 días |
+| **Producción del reinado** | 7 coronas / 67 días, 3 ICC+ | 3 coronas / 53 días, 1 ICC+ |
 
 **La diferencia no es de técnica, de empresa, ni de presupuesto: es de
 crédito acumulado.** Punk entra a cada lucha con veinte años de
 mitología que el archivo le reconoce (*"toda la mitología y la historia
-que existe"*, *"es wrestling premium"*). Omega entra con un currículum
-que el archivo admira y una identidad que le rechaza (*"un luchador que
-no se considera luchador"*). **El mismo acto —ganar un mundial— cobra
-distinto según quién lo haga, y este archivo lo dice sin disimular.**
+que existe"*). Omega entra con un currículum que el archivo admira y
+una identidad que le rechaza. **El mismo acto —ganar un mundial, y
+hacerlo en un match ICC+— cobra distinto según quién lo haga.**
 
-Lo cual deja una pregunta honesta abierta, que el dossier no cierra:
-**¿cuánto de ese crédito es lectura de oficio y cuánto es afinidad
-declarada?** El Vehemiurgo ya puso la respuesta parcial en el registro
-cuando dijo de Omega *"me gusta Kenny Omega, aprecio lo que ha hecho
-por el wrestling"* y aun así no le dio la clase. **No es que no lo
-disfrute. Es que no lo cuenta como de los suyos.**
+Y la simetría que ninguna de las dos empresas puede presumir: el
+reinado más premiado sostuvo **el SummerSlam que WWE se negó a
+anunciar**, con casi 40.000 personas menos que el año anterior; el
+menos premiado sostuvo **un cambio de mundial que vendió 3.419
+entradas**. Uno pintó bien en el ring y mal en la taquilla; el otro,
+mal en las dos. **Ninguno de los dos dibujó.**
 
----
+### La pregunta que el dossier deja abierta
+
+**¿Cuánto del crédito de Punk es lectura de oficio y cuánto es afinidad
+declarada?** La respuesta parcial ya está en el registro: el Vehemiurgo
+dijo de Omega *"me gusta Kenny Omega, aprecio lo que ha hecho por el
+wrestling"*, **le dio la corona más alta del sistema**, y aun así no le
+concede pertenencia. **No es que no lo disfrute, ni que no reconozca la
+lucha. Es que no lo cuenta como de los suyos** — y eso, en esta casa,
+es un juicio distinto del de la clase, y se anota aparte.
 
 ## 10. Fuentes y huecos
 

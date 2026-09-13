@@ -15,20 +15,23 @@ ganador: "Kenny Omega (nuevo AEW World Champion)"
 referee: "[verif]"
 encuentros_previos: "MJF 2-0 histórico vs Omega (revelado s32); build vía sacrificio de Mark Briscoe (1/7/2026)"
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Sin clase declarada — 'esta lucha es la más debil del reinado de MJF [...] MJF debió ganar'"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "'Esta lucha es la más débil del reinado de MJF [...] MJF debió ganar' — y aun así, las 3 clases con la corona + (declarado 2026-09-13): la objeción es de booking, no de match"
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-13
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s33 (visión directa — AEW Beach Break, 8/7/2026)"
   - "Sub-agente research-comparativa-titulos-2026 (research 2026-09-13) — WebSearch (POST Wrestling, AEW.com, Cageside Seats, F4W/WON, Wrestlenomics); WebFetch bloqueado por egress"
-tags: [mjf, kenny-omega, aew-world-championship, aew-beach-break-2026, cambio-de-titulo, sin-clase, critica-de-booking, wembley-2026, cuatro-pilares]
+tags: [mjf, kenny-omega, aew-world-championship, aew-beach-break-2026, cambio-de-titulo, critica-de-booking, wembley-2026, cuatro-pilares, instant-classic-crown-plus, clase-declarada-en-diferido, booking-no-es-clase]
 ---
 
 # MJF vs Kenny Omega — AEW Beach Break (8 jul 2026)
 
-> **Sin clase declarada — la lucha más débil del reinado de MJF**
-> según el propio Vehemiurgo. **Cambio de título**: Kenny Omega
+> **Instant Classic Crown+** (PW·FS·WE+), **declarada en diferido el
+> 2026-09-13** — dos meses después del volcado que la había dejado
+> sin clase con el veredicto *"MJF debió ganar"*. **Es el caso
+> testigo de que la crítica de booking no bloquea la clase del
+> match.** **Cambio de título**: Kenny Omega
 > se convierte en AEW World Champion, cerrando el año-reinado de
 > MJF y abriendo el camino hacia un eventual Omega vs Ospreay en
 > Wembley Stadium.
@@ -50,12 +53,40 @@ tags: [mjf, kenny-omega, aew-world-championship, aew-beach-break-2026, cambio-de
 >
 > — El Vehemiurgo, 2026-07-14 s33 (verbatim)
 
+### Sesión 2026-09-13 — la clase llega en diferido, sin retirar la objeción
+
+**Cita verbatim**:
+
+> *"verifica bien si se subieron todas las entradas para 6/7/2026 CM
+> Punk vs Sami Zayn y 8/7/2026 MJF vs Kenny Omega, **en todo caso se
+> merecen las 3 clases con la corona +**"*
+>
+> — El Vehemiurgo, 2026-09-13 (verbatim)
+
+**PW·FS·WE+ → Instant Classic Crown+, declarada explícita.** Llega al
+revisar el dossier comparativo
+[`../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md`](../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md).
+
+**Lo que NO cambia**: el veredicto de booking del volcado original
+sigue en pie tal cual — *"la más débil del reinado de MJF"*, *"MJF
+debió ganar"*, *"ojalá hubieran ido con otra idea para el título
+mundial"*. **El Vehemiurgo no se retractó de nada: agregó la clase.**
+
+**Precedente doctrinal que esto fija**: la regla operativa 2 del
+sistema de clases dice *"booking ≠ clase — elogio al diseño narrativo
+no asigna clase"*. **Esta ficha establece el inverso: la crítica al
+diseño narrativo tampoco se la quita.** Un match puede merecer la
+corona más alta y seguir siendo, en el mismo registro, una decisión de
+booking que el archivo rechaza. Son dos ejes, y se miden por separado.
+
 **Lectura sintética**:
 
-1. **Cierre de un reinado espectacular, con la nota más baja**: el
-   Vehemiurgo separa el juicio sobre todo el año de MJF como
-   campeón (*"lo hizo espectacular"*) del juicio sobre este match
-   puntual (*"la más débil del reinado"*). Sin clase.
+1. **Cierre de un reinado, con la nota más baja de booking y la corona
+   más alta de match**: el Vehemiurgo separa el juicio sobre el año de
+   MJF (*"lo hizo espectacular"*), el juicio de booking sobre este
+   match (*"la más débil del reinado"*, *"MJF debió ganar"*) y —dos
+   meses después— el juicio de clase (**ICC+**). **Tres capas
+   distintas sobre la misma lucha.**
 2. **Contraste de estilo "doloroso"**: Omega expuesto frente a
    MJF — *"su estilo es muy inferior"*, con *"todos los vicios de
    una lucha de Kenny Omega"* (crítica ya sostenida desde notebook

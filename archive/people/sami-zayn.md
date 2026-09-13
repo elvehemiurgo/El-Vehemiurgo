@@ -260,6 +260,24 @@ que debíamos tener con Owens" cierra el arco doctrinal que el propio
 archivo viene trazando desde s67. Ver
 [`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
 
+### Sesión 2026-09-13 — ICC+ en diferido para la noche en que pierde el título ante Punk
+
+**Cita verbatim**:
+
+> *"verifica bien si se subieron todas las entradas para 6/7/2026 CM
+> Punk vs Sami Zayn y 8/7/2026 MJF vs Kenny Omega, **en todo caso se
+> merecen las 3 clases con la corona +**"*
+>
+> — El Vehemiurgo, 2026-09-13 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE+ → Instant Classic Crown+** para
+`2026 07 06 CM Punk vs Sami Zayn`, donde **pierde** el Undisputed WWE
+Championship a los nueve días de haberlo ganado — el reinado que Punk
+llamaría *"a nine day fluke"* en su promo del 11/9. Con esto, **las dos
+puntas de ese arco quedan en ICC+**: la lucha donde lo pierde (6/7) y
+la revancha donde lo recupera (11/9). Ver
+[`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

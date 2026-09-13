@@ -19,19 +19,24 @@ gate: ""
 rating_tv: ""
 buy_rate: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "El regreso de Punk en Chicago, buenísimo, ahora sí se pone interesante el booking"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "El regreso de Punk en Chicago, buenísimo, ahora sí se pone interesante el booking; se merecen las 3 clases con la corona + (declarado 2026-09-13)"
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-13
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s08 (visión directa — Monday Night Raw, 6/7/2026)"
   - "Sub-agente de research (2026-08-01, closed)"
-tags: [wwe-2026, raw, cm-punk, sami-zayn, chicago, regreso, undisputed-wwe-championship, nick-aldis, cult-of-personality, take-incompleto]
+tags: [wwe-2026, raw, cm-punk, sami-zayn, chicago, regreso, undisputed-wwe-championship, nick-aldis, cult-of-personality, take-incompleto, instant-classic-crown-plus, clase-declarada-en-diferido]
 ---
 
 # CM Punk vs Sami Zayn — Monday Night Raw (6/7/2026)
 
-> **Sin clase declarada — take cortado a mitad de frase.** CM Punk regresa en su ciudad natal y se lleva el título de Sami Zayn, con Nick Aldis (suspendido) metiéndolo al main event por izquierda.
+> **Instant Classic Crown+** (PW·FS·WE+), **declarada en diferido el
+> 2026-09-13** — catorce meses después del show y dos meses después
+> del volcado original, cuyo take se había cortado a mitad de frase.
+> CM Punk regresa en su ciudad natal y se lleva el título de Sami
+> Zayn, con Nick Aldis (suspendido) metiéndolo al main event por
+> izquierda.
 
 ## Lectura del Vehemiurgo
 
@@ -41,11 +46,29 @@ tags: [wwe-2026, raw, cm-punk, sami-zayn, chicago, regreso, undisputed-wwe-champ
 >
 > — El Vehemiurgo, 2026-08-01 s08 (verbatim)
 
-**Sin clase declarada.**
+### Sesión 2026-09-13 — la clase llega en diferido
+
+**Cita verbatim**:
+
+> *"verifica bien si se subieron todas las entradas para 6/7/2026 CM
+> Punk vs Sami Zayn y 8/7/2026 MJF vs Kenny Omega, **en todo caso se
+> merecen las 3 clases con la corona +**"*
+>
+> — El Vehemiurgo, 2026-09-13 (verbatim)
+
+**PW·FS·WE+ → Instant Classic Crown+, declarada explícita.** Llega
+**en diferido**, al revisar el dossier comparativo
+[`../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md`](../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md),
+cuya premisa era justamente que esta lucha y la de MJF vs Omega
+figuraban **las dos sin clase**. El Vehemiurgo cerró las dos celdas
+con la misma corona.
 
 **Lectura sintética**:
 
-- **Sin clase — el dictado del Vehemiurgo se corta a mitad de frase** (*"con toda esta idea de..."*). No se completa ni se infiere el resto; se preserva tal cual y queda pendiente de continuación.
+- **La frase del volcado original sigue cortada** (*"con toda esta idea
+  de..."*) y **no se completa ni se infiere** — lo que llegó el
+  2026-09-13 es la clase, no el cierre de esa oración. Los dos hechos
+  conviven en la ficha.
 - **Contexto cerrado por research, para cuando el take se retome**: con Cody Rhodes hospitalizado tras el ataque de Gunther, **Nick Aldis** (GM de SmackDown, en licencia administrativa por su conflicto con Gunther en Night of Champions) aparece y revela que hizo una llamada — **Punk estaba a un viaje corto del Allstate Arena**. Le dice a Adam Pearce que le está "robando el main event".
 - **La entrada**: suena *"Cult of Personality"*, Punk camina desde el vestidor y el Allstate Arena — su ciudad — explota en cánticos.
 - **Finish**: Punk usa el **Helluva Kick en la esquina** —el finisher del propio Zayn— y remata con **GTS**. Cierra el show celebrando con el título en alto; **no cortó promo esa noche** — la promo de celebración fue en SmackDown del 10/7.

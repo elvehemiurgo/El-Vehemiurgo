@@ -181,8 +181,8 @@ con cada cambio de estado.
 | 2026-07-08 | Ciampa vs Chris Jericho | AEW / Beach Break | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-08-ciampa-vs-jericho-aew-beach-break.md) |
 | 2026-07-08 | Kyle Fletcher vs Konosuke Takeshita | AEW / Beach Break | FS | — | en-investigacion | 1 | [→](2026-07-08-fletcher-vs-takeshita-aew-beach-break.md) |
 | 2026-07-08 | Gauntlet Match: Maya World vs. Athena vs. Mercedes Moné (y otras [verif]) | AEW / Beach Break | — | — | en-investigacion | 1 | [→](2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md) |
-| 2026-07-08 | MJF vs Kenny Omega | AEW / Dynamite: Beach Break | — | — | en-investigacion | 1 | [→](2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md) |
-| 2026-07-06 | CM Punk vs Sami Zayn | WWE / Monday Night Raw | — | — | en-investigacion | 1 | [→](2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md) |
+| 2026-07-08 | MJF vs Kenny Omega | AEW / Dynamite: Beach Break | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md) |
+| 2026-07-06 | CM Punk vs Sami Zayn | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md) |
 | 2026-07-04 | El Fiscal vs Abismo Negro Jr. | WWE / AAA on FOX #25 | FS·WE | FC | en-investigacion | 1 | [→](2026-07-04-el-fiscal-vs-abismo-negro-jr-aaa-on-fox.md) |
 | 2026-07-04 | Lady Shani vs Flammer | WWE / AAA on FOX #25 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-04-lady-shani-vs-flammer-aaa-on-fox.md) |
 | 2026-07-03 | Rey Fénix vs El Hijo del Vikingo | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-07-03-rey-fenix-vs-hijo-del-vikingo-wwe-smackdown.md) |

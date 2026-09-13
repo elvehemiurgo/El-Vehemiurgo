@@ -200,6 +200,41 @@ TKO/McAfee, WrestleMania 42 (2026)** — cinco entradas asignadas WE en
 bloque el 2026-08-01. Doctrina completa en
 [`../archive/topics/wwe-2026-desconexion-y-el-genero-outlaw.md`](../archive/topics/wwe-2026-desconexion-y-el-genero-outlaw.md).
 
+#### Extensión del precedente a la triple clase con corona (2026-09-13)
+
+El precedente *"WE masiva"* resolvía el caso para la **Wrestling
+Entertainment Class**. El 2026-09-13 el Vehemiurgo lo extendió **al
+techo del sistema**:
+
+> *"verifica bien si se subieron todas las entradas para 6/7/2026 CM
+> Punk vs Sami Zayn y 8/7/2026 MJF vs Kenny Omega, **en todo caso se
+> merecen las 3 clases con la corona +**"*
+>
+> — El Vehemiurgo, 2026-09-13 (verbatim)
+
+**El caso**: el volcado original sobre **MJF vs Kenny Omega** (AEW
+Beach Break, 8/7/2026) traía un rechazo frontal de booking —*"esta
+lucha es la más débil del reinado de MJF"*, *"**MJF debió ganar**"*,
+*"ojalá hubieran ido con otra idea para el título mundial"*— y **ninguna
+clase**. Dos meses después declaró **PW·FS·WE+ → Instant Classic
+Crown+** para esa misma lucha, **sin retirar una coma de la objeción.**
+
+**Lo que fija**: la simetría vale hasta arriba. **Un match puede llevar
+la corona más alta del sistema y ser, en el mismo registro, una decisión
+de booking que el archivo rechaza.** No hay techo de clase que la
+crítica de booking pueda bajar.
+
+**Corolario de método de archivo** (procedimiento, no doctrina de
+clases): **la ausencia de clase no es un juicio sobre la lucha** — es
+una celda sin llenar. Ante un volcado con crítica fuerte de booking y
+sin declaración de clase, **conviene preguntar en vez de dejar que el
+silencio parezca veredicto**.
+
+Fichas:
+[`../archive/matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../archive/matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md) ·
+[`../archive/matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../archive/matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md).
+Volcado: [`../notebook/2026-09-13-s01-clases-en-diferido-punk-omega.md`](../notebook/2026-09-13-s01-clases-en-diferido-punk-omega.md).
+
 ---
 
 > **Resumen operativo autocontenido**: [`handoff-sistema-de-clases.md`](./handoff-sistema-de-clases.md) — clases, coronas, reglas, schema, triggers, historial de leyes y checklist de auditoría en un solo archivo. Este documento es la doctrina larga; aquel es el handoff.

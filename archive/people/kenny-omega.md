@@ -318,6 +318,30 @@ Dynamite de su coronación fue **el más visto desde julio de 2024**.
 [`../../dossiers/draft-dos-formas-de-ganar-un-mundial-2026.md`](../../dossiers/draft-dos-formas-de-ganar-un-mundial-2026.md)
 (su coronación vs la de Sami Zayn).
 
+### Sesión 2026-09-13 — ICC+ para su coronación, sin que se retire la objeción de booking
+
+**Cita verbatim**:
+
+> *"verifica bien si se subieron todas las entradas para 6/7/2026 CM
+> Punk vs Sami Zayn y 8/7/2026 MJF vs Kenny Omega, **en todo caso se
+> merecen las 3 clases con la corona +**"*
+>
+> — El Vehemiurgo, 2026-09-13 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE+ → Instant Classic Crown+** para
+`2026 07 08 MJF vs Kenny Omega`. **Es el caso doctrinal más limpio del
+archivo sobre la independencia de los dos ejes**: el volcado original
+(s33) rechazaba la decisión —*"MJF debió ganar"*, *"la más débil del
+reinado de MJF"*— y dejaba la ficha sin clase; dos meses después llega
+la corona más alta del sistema **sin que el Vehemiurgo retire una coma
+de la objeción**. Extiende a la triple clase el precedente *"WE
+masiva"* del 2026-08-01 (*booking malo no quita la clase*).
+
+**Y es su única ICC+ del reinado**: de las tres piezas registradas de
+sus 53 días como campeón, esta es la de corona más alta — la que estuvo
+dos meses sin clase. Ver
+[`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md).
+
 ## Pendientes / huecos
 
 - [ ] **VERIFICAR CITA**: la atribución *"dijo que no es fan

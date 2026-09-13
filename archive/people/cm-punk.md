@@ -476,6 +476,26 @@ agregó al aire. Coincide con la lectura del Vehemiurgo de un Punk
 [`../segments/2026-09-11-cm-punk-promo-pre-main-event-wwe-smackdown.md`](../segments/2026-09-11-cm-punk-promo-pre-main-event-wwe-smackdown.md) y
 [`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
 
+### Sesión 2026-09-13 — ICC+ en diferido para su coronación de Chicago
+
+**Cita verbatim**:
+
+> *"verifica bien si se subieron todas las entradas para 6/7/2026 CM
+> Punk vs Sami Zayn y 8/7/2026 MJF vs Kenny Omega, **en todo caso se
+> merecen las 3 clases con la corona +**"*
+>
+> — El Vehemiurgo, 2026-09-13 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE+ → Instant Classic Crown+** para
+`2026 07 06 CM Punk vs Sami Zayn`, la lucha donde gana el Undisputed
+WWE Championship. **Llega en diferido**: el volcado original (s08) se
+había cortado a mitad de frase (*"con toda esta idea de..."*) y la
+ficha quedó dos meses sin clase. **Esa frase sigue cortada** — lo que
+llegó fue la clase, no el cierre de la oración. **Con esto, su reinado
+de 67 días queda coronado de punta a punta: 7 piezas registradas, 7
+coronas, 3 de ellas ICC+.** Ver
+[`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md).
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

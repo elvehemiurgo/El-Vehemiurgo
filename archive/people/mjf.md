@@ -792,6 +792,24 @@ esta vez aplicada a **Andrade El Ídolo**, a quien la emboscada le da
 **Pieza**: [emboscada a Andrade](../segments/2026-08-05-mjf-embosca-andrade-main-event-robado-aew-gsm.md) (sin clase declarada)
 
 
+### Sesión 2026-09-13 — ICC+ para la lucha donde pierde el título, con su objeción intacta
+
+**Cita verbatim**:
+
+> *"verifica bien si se subieron todas las entradas para 6/7/2026 CM
+> Punk vs Sami Zayn y 8/7/2026 MJF vs Kenny Omega, **en todo caso se
+> merecen las 3 clases con la corona +**"*
+>
+> — El Vehemiurgo, 2026-09-13 (verbatim)
+
+**Lectura sintética**: **PW·FS·WE+ → Instant Classic Crown+** para
+`2026 07 08 MJF vs Kenny Omega`, el match que cierra su tercer reinado
+(44 días). **El Vehemiurgo mantiene las dos cosas a la vez**: que la
+lucha merece la corona más alta, y que *"MJF debió ganar"* y era *"la
+más débil del reinado"*. La objeción era a la decisión de booking, no
+al match. Ver
+[`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md).
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual

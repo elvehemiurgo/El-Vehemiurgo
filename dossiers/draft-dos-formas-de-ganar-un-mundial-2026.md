@@ -14,6 +14,18 @@ delegaciones_de_research:
   - "research/closed.md — `comparativa-titulos-mundiales-2026`"
 ---
 
+> ⚠️ **Actualización 2026-09-13 — la premisa de esta pieza cambió.**
+> Este dossier se escribió cuando la coronación de Omega figuraba **sin
+> clase declarada** y la de Zayn con ICC+, y montó su argumento sobre esa
+> asimetría. **El 13 de septiembre el Vehemiurgo declaró ICC+ también
+> para el match de Omega vs MJF**, sin retirar su objeción de booking
+> (*"MJF debió ganar"*). Lo que sigue mantiene su valor como comparación
+> de **booking, stakes y construcción** —ejes que no se movieron—, pero
+> **las afirmaciones sobre la clase del match de Omega están
+> desactualizadas**; quedan marcadas donde aparecen. El precedente
+> doctrinal que salió de todo esto (*la crítica de booking no le quita
+> la clase al match*) está desarrollado en la pieza hermana.
+
 > **Pieza hermana**: [`./draft-punk-vs-omega-dos-coronaciones-en-48-horas.md`](./draft-punk-vs-omega-dos-coronaciones-en-48-horas.md) compara la misma
 > coronación de Omega con la de **CM Punk**, ocurrida 48 horas antes.
 > Entre los dos dossieres queda cubierto el triángulo completo del
@@ -29,8 +41,13 @@ delegaciones_de_research:
 > MJF en AEW Beach Break. **Sami Zayn** se lo ganó a CM Punk en el
 > SmackDown de Ciudad de México. El archivo del Vehemiurgo registró
 > los dos en tiempo real, con el mismo criterio y el mismo sistema de
-> clases — y les puso notas opuestas: **la de Omega quedó sin clase
-> declarada; la de Zayn, Instant Classic Crown+.**
+> clases. **Durante dos meses les puso notas opuestas: la de Omega
+> quedó sin clase declarada; la de Zayn, Instant Classic Crown+. El
+> 13/9/2026 declaró ICC+ también para la de Omega** — sin retirar su
+> objeción de booking.
+> *(Lo que sigue conserva el análisis de booking y stakes, que no
+> cambió; las referencias a la clase del match de Omega están marcadas
+> como desactualizadas.)*
 >
 > Este dossier compara los cinco ejes que el Vehemiurgo pidió —forma
 > de ganar, estrellas, stakes, booking previo y razón de ser— cruzando
@@ -52,20 +69,26 @@ delegaciones_de_research:
 | **Estipulación** | **si Omega perdía, no podía volver a retar nunca más** | ninguna |
 | **Mecánica del finish** | el **campeón** hace trampa (low blow + cinturón), **falla**; Omega patea a la de uno y remata con tres V-Triggers + One-Winged Angel | los **aliados del retador** hacen trampa y **funciona**: LeRae distrae al réferi, Gargano come un GTS, Owens golpea a Punk por error, low blow a Owens, Helluva Kick |
 | **Duración** | **24:06** `[agregador terciario, sin corroborar]` | **15:00** |
-| **Clase declarada del match** | **ninguna** | **PW·FS·WE+ → ICC+** |
+| **Clase declarada del match** | **PW·FS·WE+ → ICC+** *(declarada el 13/9/2026, en diferido)* | **PW·FS·WE+ → ICC+** |
 | **Veredicto textual** | *"la más débil del reinado de MJF [...] MJF debió ganar"* | *"como revancha fue una gran lucha, fue un show oldschool"* |
 | **Reinado que termina** | MJF, **44 días** (25/5 Double or Nothing → 8/7) | CM Punk, **67 días** (6/7 Raw → 11/9) |
 | **Reinado que arranca** | Omega, **53 días** (→ 30/8, pierde ante Ospreay en Wembley) | Zayn, en curso |
 | **Audiencia del show** | **773.000 / 0.12** — **el Dynamite más visto desde el 24/7/2024**, +21,9% sobre la semana previa | **sin publicar** al 13/9; el SmackDown previo (4/9) hizo 1.300.000 / 0.29 |
 | **Tickets** | **3.419 distribuidos** (200 Vet Tix) — unos cientos sobre el promedio AEW 2026 | **no reportado** |
 | **Piezas del archivo en su construcción** | **3** donde es protagonista | **9** donde es protagonista |
-| **Coronas acumuladas en esa construcción** | **1** (FC, y de un match ajeno al arco del título) | **4** (2 ICC + 2 ICC+) |
+| **Coronas acumuladas en esa construcción** | **2** (1 FC + 1 ICC+) | **4** (2 ICC + 2 ICC+) |
 
-**La cifra que ordena todo el dossier**: en la misma ventana, con el
-mismo juez y el mismo sistema, **una construcción acumuló cuatro
-coronas y la otra una** — y la que acumuló una la consiguió en un
-match que no formaba parte de la historia del título (Omega vs Zack
-Sabre Jr. en Forbidden Door, 28/6, FS·WE → FC).
+**La cifra que ordena todo el dossier** *(actualizada al 13/9/2026)*:
+en la misma ventana, con el mismo juez y el mismo sistema, **la
+construcción de Zayn acumuló cuatro coronas en nueve piezas y la de
+Omega dos en tres.** La diferencia ya no está en la corona del cambio
+de título —las dos son ICC+— sino en **la densidad de la construcción**:
+nueve eslabones registrados contra tres.
+
+> **Lo que decía esta sección antes del 13/9**: que Omega acumulaba una
+> sola corona y que era de un match ajeno al arco del título (vs Zack
+> Sabre Jr., Forbidden Door). Ese match sigue siendo su FC, pero **ahora
+> su coronación suma una ICC+ propia.**
 
 > **Método**: el conteo sale de `bin/archivo_lib.py` sobre el corpus,
 > filtrando piezas donde cada uno figura como participante o
@@ -83,7 +106,7 @@ Sabre Jr. en Forbidden Door, 28/6, FS·WE → FC).
 > campeón**, y **falló**. El eje real no es limpio vs sucio: es
 > **quién hace la trampa y si le funciona.**
 
-### Omega: la trampa del campeón que falla — el molde old-school, y aun así sin clase
+### Omega: la trampa del campeón que falla — el molde old-school, sin clase durante dos meses
 
 **MJF le metió un low blow y le pegó con el cinturón. Omega pateó a la
 cuenta de uno**, se levantó y remató con tres V-Triggers y el
@@ -147,7 +170,8 @@ funciona:**
 | ¿Funciona? | **no** | **sí** |
 | ¿Quién queda beneficiado? | el que la sobrevive | el que la usa |
 | Cuerpos extra en el ring | **cero** | **tres** |
-| Clase | **ninguna** | **ICC+** |
+| Clase del match *(al 13/9/2026)* | **ICC+** | **ICC+** |
+| Juicio de booking | **rechazo** | **elogio** |
 
 **La conclusión honesta no es "el archivo premia lo sucio":** es que
 **el archivo premia el finish que produce deuda.** El de Omega cierra
@@ -282,7 +306,7 @@ su propia mano, corrige un dato que ya no se puede volver a discutir.
 | Fecha | Pieza | Clase |
 |---|---|---|
 | 28/6 | Kenny Omega vs Zack Sabre Jr (Forbidden Door) | FS·WE → **FC** |
-| 8/7 | **MJF vs Kenny Omega — el título** | **sin clase** |
+| 8/7 | **MJF vs Kenny Omega — el título** | PW·FS·WE+ → **ICC+** *(declarada 13/9)* |
 | 15/7 | Celebración de Omega, interrumpida por Kevin Knight | **sin clase** |
 
 A eso se suma el mecanismo de instalación, que el Vehemiurgo **sí
@@ -368,9 +392,11 @@ arriba de la mesa el número que no favorece la lectura del Vehemiurgo:
 > fecha. Subió 21,9% sobre la semana anterior** (634.000 / 0.09).
 > `[Wrestlenomics y Fightful, 9/7/2026; PWTorch, 14/7/2026]`
 
-**El booking que el archivo calificó sin clase es el que dibujó el
-mejor número del año de su empresa.** Eso no se puede esconder en un
-dossier que declara draw-first.
+**El booking que el archivo rechazó —*"MJF debió ganar"*— es el que
+dibujó el mejor número del año de su empresa.** Eso no se puede
+esconder en un dossier que declara draw-first. *(Y desde el 13/9, ese
+match además lleva ICC+: la objeción era a la decisión, no a la
+lucha.)*
 
 Los matices que la propia data impone, sin anular el dato:
 
