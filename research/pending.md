@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `comparativa-titulos-mundiales-2026` | Data objetiva de los dos cambios de mundial: recinto/attendance/gate/duración de AEW Beach Break (8/7/2026), fecha de inicio y días del reinado de MJF, attendance y gate de All In: London, attendance/gate/viewership del SmackDown de Ciudad de México (11/9/2026), y cifras comparables de escala de negocio AEW vs WWE en 2026. | Pedido del Vehemiurgo 2026-09-13 (comparación Omega/Zayn) | 2026-09-13 | `dossiers/draft-dos-formas-de-ganar-un-mundial-2026.md` §1 y §9 |
+| _(vacío — `comparativa-titulos-mundiales-2026` cerrada el 2026-09-13, ver [`closed.md`](./closed.md))_ | | | | |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).

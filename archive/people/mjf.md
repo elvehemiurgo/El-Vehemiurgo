@@ -800,12 +800,34 @@ esta vez aplicada a **Andrade El Ídolo**, a quien la emboscada le da
       sesión s08 (2026-07-14): consecuencia narrativa de la
       propia arrogancia de MJF (Darby Allin campeón, Tomasso
       retador).
-- [x] **Cronología del título 2026 (parcial)**: Kenny Omega se
-      vuelve AEW World Champion el 8/7/2026 (Beach Break),
-      derrotando a MJF — ver
-      [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md).
-      Falta qué título ganó Darby Allin + mecánica exacta que
-      conecta ambos [verif].
+- [x] **Cronología del AEW World Championship en 2026 — CERRADA**
+      (research `comparativa-titulos-mundiales-2026`, 2026-09-13).
+      Resuelve la pregunta que quedaba abierta acá sobre qué título
+      ganó Darby Allin y qué conecta los reinados:
+      - **2º reinado de MJF: 27/12/2025 (Worlds End) → 15/4/2026 =
+        109 días**, con siete defensas, una de ellas **sobre Kenny
+        Omega en Dynasty 2026**.
+      - **15/4/2026** — **Darby Allin le gana el AEW World
+        Championship** en *Dynamite: Spring BreakThru* (Angel of the
+        Winds Arena, Everett, WA). Reinado de **~40 días**.
+      - **25/5/2026** — **MJF lo recupera** en **Double or Nothing**
+        (Louis Armstrong Stadium, Queens, NY), en **Title vs. Hair**
+        contra Darby, ~24 minutos. **Tercer reinado.**
+      - **8/7/2026** — **Kenny Omega se lo gana** en *Dynamite: Beach
+        Break* (The BayCare Sound, Clearwater Beach, FL), **cerrando
+        un tercer reinado de 44 días** — ver
+        [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md).
+      - **30/8/2026** — Omega lo pierde ante **Will Ospreay** en
+        Wembley, cerrando **53 días**.
+      **Corrección de archivo**: el *"año-reinado de MJF"* que este
+      archivo venía repitiendo **no existe como reinado corrido** — su
+      2026 como campeón está partido en dos reinados con los 40 días
+      de Darby en el medio. El *"lo hizo espectacular todo el año"* del
+      Vehemiurgo (s33) describe **su año como figura, no un reinado
+      continuo**. Análisis completo en
+      [`../../dossiers/draft-dos-formas-de-ganar-un-mundial-2026.md`](../../dossiers/draft-dos-formas-de-ganar-un-mundial-2026.md).
+      *(Los cambios del 15/4 y 25/5 no tienen ficha de match: el
+      Vehemiurgo no los dictó — ley de silencio editorial.)*
 - [ ] AEW World Champion debut + reigns — piezas editoriales.
 - [ ] The Devil mask storyline 2023-2024 — pieza editorial.
 - [ ] MJF vs Cody Rhodes feud 2019-2020 — pieza editorial
