@@ -14,6 +14,14 @@ delegaciones_de_research:
   - "research/closed.md — `comparativa-titulos-mundiales-2026`"
 ---
 
+> **Pieza hermana**: [`./draft-punk-vs-omega-dos-coronaciones-en-48-horas.md`](./draft-punk-vs-omega-dos-coronaciones-en-48-horas.md) compara la misma
+> coronación de Omega con la de **CM Punk**, ocurrida 48 horas antes.
+> Entre los dos dossieres queda cubierto el triángulo completo del
+> verano de 2026: **Zayn → Punk → Zayn** en WWE, **MJF → Omega →
+> Ospreay** en AEW.
+
+---
+
 # Dos formas de ganar un mundial en 2026
 
 > **La premisa**: entre el 8 de julio y el 11 de septiembre de 2026, dos

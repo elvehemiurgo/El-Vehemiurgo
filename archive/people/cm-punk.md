@@ -556,5 +556,9 @@ in-ring). Ver
 [`../segments/2026-04-13-cm-punk-promo-video-wwe-raw.md`](../segments/2026-04-13-cm-punk-promo-video-wwe-raw.md).
 
 ### Dossieres centrales
+- [`../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md`](../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md)
+  — **su coronación del 6/7/2026 comparada con la de Kenny Omega, 48
+  horas después**: los dos cambios de título quedaron sin clase en el
+  archivo, por razones opuestas.
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
 - [`../../dossiers/draft-wwe-money-in-the-bank-2013-cluster.md`](../../dossiers/draft-wwe-money-in-the-bank-2013-cluster.md)

@@ -302,6 +302,22 @@ queda inventariado como candidato, junto con los ensayos de s55.
 [el cierre del 19/8](../segments/2026-08-19-cierre-omega-ospreay-mesa-aew-dynamite.md) (WE) ·
 [vs Will Ospreay, AEW World Championship](../matches/2026-08-30-kenny-omega-vs-will-ospreay-world-title-aew-all-in.md) (**ICC**)
 
+### Dossier comparado — las dos coronaciones de la misma semana
+
+[`../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md`](../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md)
+compara su cambio de título del 8/7/2026 con el de **CM Punk**, dos
+días antes. **Hallazgo central**: las dos luchas figuran sin clase en
+el índice, pero por motivos inversos — la de Punk porque el dictado del
+Vehemiurgo **se corta a mitad de frase**, la de Omega por **rechazo
+explícito** (*"MJF debió ganar"*). El dossier cuantifica además lo que
+produjo cada reinado: **Punk, 6 coronas en 67 días; Omega, 2 en 53** —
+y registra el dato que juega en contra del veredicto editorial, que el
+Dynamite de su coronación fue **el más visto desde julio de 2024**.
+
+**Pieza hermana**:
+[`../../dossiers/draft-dos-formas-de-ganar-un-mundial-2026.md`](../../dossiers/draft-dos-formas-de-ganar-un-mundial-2026.md)
+(su coronación vs la de Sami Zayn).
+
 ## Pendientes / huecos
 
 - [ ] **VERIFICAR CITA**: la atribución *"dijo que no es fan

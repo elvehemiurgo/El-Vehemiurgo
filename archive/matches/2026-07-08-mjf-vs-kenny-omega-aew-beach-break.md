@@ -99,6 +99,11 @@ que lo compara con la victoria de Sami Zayn sobre CM Punk
 (11/9/2026) en cinco ejes: forma de ganar, estrellas, stakes, booking
 previo y razón de ser.
 
+Y es uno de los dos casos de
+[`../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md`](../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md),
+que lo compara con la coronación de **CM Punk**, **48 horas antes** —
+las dos sin clase declarada, por razones opuestas.
+
 ## Cross-links
 
 - [`../people/mjf.md`](../people/mjf.md) ·

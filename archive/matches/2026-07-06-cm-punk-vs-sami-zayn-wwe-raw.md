@@ -58,6 +58,14 @@ tags: [wwe-2026, raw, cm-punk, sami-zayn, chicago, regreso, undisputed-wwe-champ
 - [ ] Duración del match.
 - [ ] Attendance y rating del show.
 
+## Análisis comparado
+
+[`../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md`](../../dossiers/draft-punk-vs-omega-dos-coronaciones-en-48-horas.md)
+— esta coronación comparada con la de Kenny Omega, **48 horas
+después**. El dossier parte justamente del hecho de que las dos
+quedaron sin clase: esta por el take cortado, la de Omega por rechazo
+explícito.
+
 ## Piezas relacionadas
 
 - [`../people/cm-punk.md`](../people/cm-punk.md)
