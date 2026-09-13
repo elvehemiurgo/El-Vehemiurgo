@@ -529,6 +529,13 @@ draw inmediato.**
 
 ---
 
+## Herramienta de visionado
+
+Para ubicar en la mediateca las piezas de **Kenny Omega** citadas acá
+—con posición en el show, finish y señal visual— ver la
+[guía de ubicación de Punk y Omega](./guia-de-ubicacion-punk-y-omega.md).
+*(Las de Sami Zayn no están en esa guía: cubre solo a esos dos.)*
+
 ## 9. Fuentes y huecos
 
 **Del archivo** (visión directa del Vehemiurgo + clases declaradas):

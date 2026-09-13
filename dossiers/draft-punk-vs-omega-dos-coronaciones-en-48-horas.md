@@ -610,6 +610,13 @@ a alguien que no lo tiene: si es una ley general o **el privilegio
 descriptivo de las estrellas grandes.** El Vehemiurgo no la formuló como
 privilegio; el archivo la aplicará y veremos.
 
+## Herramienta de visionado
+
+Para ubicar en la mediateca cada lucha y cada segmento citado acá —con
+posición en el show, timestamps donde existen, finish y señal visual—
+ver la [guía de ubicación de todas sus piezas](./guia-de-ubicacion-punk-y-omega.md): las 53 piezas del archivo donde aparece cualquiera de los
+dos, en orden cronológico.
+
 ## 10. Fuentes y huecos
 
 **Del archivo**: 10 fichas de match de los dos reinados, más
