@@ -75,6 +75,32 @@ con la misma corona.
 - **Digital exclusive de la misma noche**: Zayn corta una promo furiosa preguntando cómo Punk puede aparecer tras meses afuera y llevarse una oportunidad titular, y termina de rodillas, quebrado.
 - **Storylines que arrancan acá** (fuera del horizonte de este take): Punk vs Cody Rhodes por el título en SummerSlam Noche 1 (Punk retiene con ayuda de un Randy Orton que regresa); Gunther vs Nick Aldis en SummerSlam; Punk & Cody vs Gunther & Zayn en Saturday Night's Main Event del 18/7.
 
+### Sesión 2026-09-13 s02 — El build invisible: por qué esto SÍ tuvo construcción
+
+> *"No pienso que Punk no haya tenido construcción rumbo a la lucha [...]
+> **los "smart" marks se olvidan que se supone que es un negocio de
+> espectaculo** [...] es el dinero, es el jugador con más exposición y
+> más popular y vende merchandising, y el gm de RAW quiere ese main
+> event, **solo por eso ya tiene sentido**, y **el buildup está en toda la
+> anticipación y el catalizador que es que Punk salga de la programación
+> unas semanas** dejando espacio para Zayn y otros"*
+>
+> — El Vehemiurgo, 2026-09-13 s02 (verbatim, typos preservados)
+
+**Ley declarada a partir de este match**: cuando la lógica de negocio y
+la de kayfabe apuntan al mismo lugar, **eso es build** — aunque no haya
+un segmento de TV que lo enuncie. Y **la ausencia programada es un
+mecanismo de construcción, no un hueco.** Doctrina completa, con los
+cuatro componentes y la cláusula de las polémicas:
+[`../topics/doctrina-el-build-invisible-el-negocio-como-construccion.md`](../topics/doctrina-el-build-invisible-el-negocio-como-construccion.md).
+
+**Y el pago del booking**: la aparición por influencia real *"le da peso
+a las conspiraciones de Sami y las hace reales"*, le sube el rol,
+desplaza a Kevin Owens y entrega el choque generacional Punk vs Zayn —
+cobrado el 11/9/2026, cuando Zayn recupera el título en un match ICC+.
+
+**Este match es el caso canónico de la doctrina.**
+
 ## Pendientes / huecos
 
 - [ ] **EL TAKE ESTÁ INCOMPLETO** — el Vehemiurgo cortó la frase en "con toda esta idea de". Retomar cuando continúe el dictado, sin fabricar el cierre.

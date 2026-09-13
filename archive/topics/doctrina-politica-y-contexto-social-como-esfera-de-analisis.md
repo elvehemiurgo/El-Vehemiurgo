@@ -116,6 +116,35 @@ archivo delegó verificación documental por doctrina §5. El resultado
 importante— está registrado en las fichas de
 [David Starr](../people/david-starr.md) y [MJF](../people/mjf.md).
 
+## Extensión — las polémicas como ADN del oficio (2026-09-13)
+
+Esta ley estableció que la política y el contexto social **moldean** el
+wrestling y entran al análisis del historiador. El volcado del
+**2026-09-13 (s02)** agrega **de qué lado está la polémica**:
+
+> *"se ha visto expuesto varias veces, pero no deja de ser wrestler,
+> porque **las polémicas son el adn del wrestling, están intrinsicas en
+> la industria**"*
+>
+> — El Vehemiurgo, 2026-09-13 s02 (verbatim, sobre CM Punk)
+
+**Lo que agrega**: la polémica **no es contaminación externa del oficio,
+es su ADN.** Un talento expuesto no deja de ser wrestler, y la industria
+tiene una escala propia de tolerancia donde **el antecedente de los
+dueños y de las estrellas más grandes fija el techo** (*"nunca va a ser
+peor que McMahon o HHH, o The Rock, o Cena"*).
+
+**Las cuatro cláusulas de esta ley siguen rigiendo sin excepción** — en
+particular la cuarta: **el archivo no adjudica.** Registra lo declarado,
+lo reportado y las consecuencias documentadas. **Nada de esta extensión
+habilita al archivo a juzgar la conducta de nadie**, ni a tratar una
+polémica como mérito o demérito de oficio. Lo que se registra es la
+lectura del Vehemiurgo sobre **cómo la industria absorbe sus propios
+escándalos**.
+
+Desarrollo completo en
+[`./doctrina-el-build-invisible-el-negocio-como-construccion.md`](./doctrina-el-build-invisible-el-negocio-como-construccion.md).
+
 ## Piezas relacionadas
 
 - [`../people/david-starr.md`](../people/david-starr.md)

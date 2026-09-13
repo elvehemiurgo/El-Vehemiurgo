@@ -26,6 +26,12 @@ delegaciones_de_research:
 > doctrinal que salió de todo esto (*la crítica de booking no le quita
 > la clase al match*) está desarrollado en la pieza hermana.
 
+> **Segunda actualización (2026-09-13, s02)**: el Vehemiurgo declaró
+> además la **doctrina del build invisible** —el negocio y la ausencia
+> programada como construcción legítima—, que corrige la forma en que
+> **las dos piezas** medían el "build previo" de una coronación. Ver
+> [`../archive/topics/doctrina-el-build-invisible-el-negocio-como-construccion.md`](../archive/topics/doctrina-el-build-invisible-el-negocio-como-construccion.md).
+
 > **Pieza hermana**: [`./draft-punk-vs-omega-dos-coronaciones-en-48-horas.md`](./draft-punk-vs-omega-dos-coronaciones-en-48-horas.md) compara la misma
 > coronación de Omega con la de **CM Punk**, ocurrida 48 horas antes.
 > Entre los dos dossieres queda cubierto el triángulo completo del

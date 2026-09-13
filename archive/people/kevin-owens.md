@@ -212,6 +212,28 @@ que Zayn aprovecha con un low blow sobre el propio Owens antes de
 rematar con el Helluva Kick. Ver
 [`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
 
+### Sesión 2026-09-13 s02 — "Se quedó corto": el agravio más chico disponible
+
+**Cita verbatim** (fragmento):
+
+> *"por eso **Owens se quedó corto llorando porque le dijo gordo una vez
+> hace 20 años**, cuando podia nombrar tantas cosas que evidencin la
+> naturaleza de heel y serpiente de Punk"*
+>
+> — El Vehemiurgo, 2026-09-13 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: **crítica de construcción de promo, no de
+persona.** El reproche es de selección de material — teniendo a
+disposición un historial entero que evidencia la naturaleza de serpiente
+de Punk, Owens eligió **el agravio más chico**. Continúa sin variación
+el arco que el archivo ya tenía sobre él en este feud: *"Punk lo trató
+como un niño y salvó su promo"* (s39), y *"sobrepasado por completo"* por
+Sami Zayn (s02 del 2026-09-12).
+
+**Y el mismo volcado lo ubica como el desplazado del arco**: la subida
+de Zayn se paga *"desplazando a Owens"* para entregar el choque
+generacional Punk vs Zayn.
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).

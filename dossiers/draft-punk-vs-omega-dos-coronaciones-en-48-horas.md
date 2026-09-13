@@ -30,8 +30,11 @@ delegaciones_de_research:
 > 2026, al leerlo, el Vehemiurgo cerró las dos celdas con la misma
 > corona: Instant Classic Crown+.**
 >
-> Lo que sigue es, entonces, dos cosas a la vez: la comparación que se
-> pidió, y **el registro de un juicio completándose.**
+> Lo que sigue es, entonces, tres cosas a la vez: la comparación que se
+> pidió, **el registro de un juicio completándose**, y **el registro de
+> dos errores de este dossier que el Vehemiurgo corrigió** — el de leer
+> las celdas vacías como veredicto, y el de llamar *"cero
+> construcción"* a un build que no estaba en la TV sino en el negocio.
 
 ---
 
@@ -113,14 +116,39 @@ siguen.
 
 ## 3. Eje 1 — La forma de ganar
 
-### Punk: cero construcción, y el finisher del rival
+### Punk: el build invisible, y el finisher del rival
 
-Punk **no estaba en el match**. El original era **Zayn vs Cody
-Rhodes**; Gunther dejó a Cody fuera con un ataque, y **Nick Aldis
-—suspendido, de licencia administrativa— apareció a decir que había
-hecho una llamada** y que Punk estaba a un viaje corto del Allstate
-Arena. Le avisa a Adam Pearce que le está *"robando el main event"*.
-Suena *Cult of Personality*, y su ciudad explota.
+> ⚠️ **Corrección del Vehemiurgo (2026-09-13)**. Este apartado decía
+> *"cero construcción"*. **Él lo desarma, y nombra el vicio:**
+>
+> *"No pienso que Punk no haya tenido construcción rumbo a la lucha [...]
+> **los 'smart' marks se olvidan que se supone que es un negocio de
+> espectáculo** [...] el buildup está en toda la anticipación y el
+> catalizador que es que Punk salga de la programación unas semanas."*
+>
+> Doctrina completa, derivada de esta corrección:
+> [`../archive/topics/doctrina-el-build-invisible-el-negocio-como-construccion.md`](../archive/topics/doctrina-el-build-invisible-el-negocio-como-construccion.md).
+
+**Había build. No estaba en la TV: estaba en el negocio.** Los cuatro
+componentes, según el Vehemiurgo:
+
+1. **Raw compite cada semana por ser el show número uno** — la premisa
+   del producto, que el público conoce.
+2. **Punk es "el último asset real en el wrestling"**: el de más
+   exposición, el más popular, el que vende merchandising. *"Es el
+   dinero."*
+3. **El GM en kayfabe quiere ese main event, "y también es la misma
+   dinámica de la empresa"** — la capa ficticia y la real quieren lo
+   mismo. *"Solo por eso ya tiene sentido."*
+4. **La ausencia como catalizador**: Punk fuera de la programación unas
+   semanas, dejando espacio a Zayn y otros.
+
+Sobre esa base, la mecánica de la noche: el match original era **Zayn vs
+Cody Rhodes**; Gunther dejó a Cody fuera con un ataque, y **Nick Aldis
+—suspendido— apareció a decir que había hecho una llamada**, avisándole a
+Adam Pearce que le estaba *"robando el main event"*. Suena *Cult of
+Personality* y su ciudad explota. **El GM de Raw buscando el main event
+más caro disponible no es un agujero de guion: es el guion.**
 
 Y el finish es la firma carny del asunto: **Punk le gana usando el
 Helluva Kick, el finisher de Zayn**, y remata con GTS. No lo vence: lo
@@ -142,19 +170,27 @@ sacó clase.
 
 | | Punk | Omega |
 |---|---|---|
-| Build | **ninguno** | dos semanas, diseñado |
+| Build **en TV** | ninguno | dos semanas, diseñado |
+| Build **de negocio** | **completo y legible** (Raw #1, el asset más caro, el GM que lo quiere, semanas de ausencia) | no aplica — el suyo era todo televisado |
 | Elemento sorpresa | **total** | cero |
 | Estipulación | ninguna | última chance |
 | Estructura del finish | robo de identidad (usa el finisher del rival) | superación de la trampa |
 | Clase (declarada 13/9/2026) | **ICC+** | **ICC+** |
 | Juicio de booking | elogio (*"ahora sí se pone interesante"*) | rechazo (*"MJF debió ganar"*) |
 
-**La inversión es el hallazgo**: el archivo reaccionó con entusiasmo a
-la coronación **sin construcción** y con rechazo a la **construida**.
-No es incoherencia — es la doctrina funcionando. Punk no necesitaba
-build porque **traía veinte años de build encima**; la sorpresa fue la
-carga. Omega necesitaba el build **precisamente porque el archivo no
-le concede esa carga acumulada**, y dos semanas no la fabrican.
+**La inversión es el hallazgo, pero el motivo no era el que este
+dossier creyó.** No es que el archivo premie la falta de construcción:
+es que **reconoce dos tipos distintos de construcción y solo uno de los
+dos aparece en pantalla.**
+
+> **Un build de catorce meses construye una apuesta. Veinte años de
+> carrera construyen un main event.** Son dos operaciones distintas.
+
+Punk llegó con la segunda: *"es el dinero"*. Omega necesitaba la
+primera **precisamente porque el archivo no le concede esa carga
+acumulada**, y dos semanas no la fabrican. **El que tenía build
+invisible no necesitaba el visible; el que necesitaba el visible no
+tenía el invisible.**
 
 **Y con las clases declaradas, el eje queda nítido**: las dos luchas
 valen lo mismo como lucha (ICC+ las dos). **Lo que las separa es el
@@ -196,6 +232,43 @@ habilidad: **por pertenencia al oficio.**
 > es impresionante pero **no es el wrestling oldschool que busco**"* — s57
 >
 > *"nunca va a ser tan épico como **MJF**"* — s58
+
+### La inversión que explica el crédito: la serpiente como gran face
+
+El Vehemiurgo cerró el eje el 2026-09-13, y es el pasaje más denso que
+el archivo tiene sobre el personaje:
+
+> *"Punk es una serpiente, literal su frase es **'el mejor truco que hizo
+> el diablo, es hacerles creer que no existe'**, no puedes confiar en una
+> serpiente [...] sigue siendo pesado en el locker room y denso con sus
+> convicciones y hostil para defenderlas, **es un wrestler en todo el
+> sentido in ring y político social de la palabra** [...] **eso justamente
+> lo hace un gran face, es porque manipula a la audiencia, y nos tiene en
+> la palma de la mano porque encarna el wrestling**, es real, es el puto
+> CM Punk [...] aunque ya esté establecido y él sea el sistema ahora,
+> **sigue siendo representante de lo alternativo, sigue sintiéndose como
+> que fuera del status quo, y eso lo hace atractivo**"*
+>
+> — El Vehemiurgo, 2026-09-13 s02 (verbatim, typos preservados)
+
+**Acá está el crédito que el dossier venía midiendo sin poder
+nombrarlo.** No es que el archivo le perdone a Punk lo que a Omega le
+cobra: es que **en Punk la ambigüedad es el producto**. Ser serpiente y
+ser face no se contradicen — la manipulación *es* el acto. Y la posición
+de outsider **sobrevive a haberse convertido en el sistema**, que es la
+condición más difícil de sostener en este negocio.
+
+Contra eso, el cargo a Omega —*"un luchador que no se considera
+luchador"*— es del mismo eje y de signo opuesto: **a Punk lo define
+pertenecer al oficio incluso cuando hace trampa; a Omega lo define, para
+el Vehemiurgo, no reclamarse del oficio en absoluto.**
+
+**Y la licencia tiene su propia regla declarada**: Punk puede tomarse
+libertades porque *"no importa lo polémico o cancelable que haya hecho,
+nunca va a ser peor que McMahon o HHH, o The Rock, o Cena [...] las
+polémicas son el ADN del wrestling, están intrínsecas en la
+industria"*. Doctrina en
+[`../archive/topics/doctrina-el-build-invisible-el-negocio-como-construccion.md`](../archive/topics/doctrina-el-build-invisible-el-negocio-como-construccion.md).
 
 ### El contraste que lo resume: dos heels en el mismo verano
 
@@ -255,6 +328,36 @@ Cincuenta y tres días después se cumplió al pie de la letra. **Del
 reinado de Punk nadie pudo escribir el final de antemano** — y su
 final llegó en un caos de cuatro cuerpos que el archivo premió con
 ICC+.
+
+### El propósito del reinado de Punk, según el Vehemiurgo (2026-09-13)
+
+Y acá agrega lo que el dossier no había visto — **que el favoritismo era
+el motor del arco del rival**:
+
+> *"La forma de ganar de Punk **incluso haciendo un Hulk Hogan** y todo,
+> es muy buen booking, es Punk aprovechando su situación y el nivel de
+> influencia que ha alcanzado [...] y WWE inteligentemente usa esto para
+> **darle peso a las conspiraciones de Sami y hacerlas reales** y darle un
+> mejor rol y levantar su acto y luego lo premia **desplazando a Owens y
+> dándonos el verdadero choque generacional Punk vs Zayn**"*
+>
+> — El Vehemiurgo, 2026-09-13 s02 (verbatim)
+
+**La cadena completa**: influencia real de Punk → las teorías de
+conspiración de Zayn quedan validadas en kayfabe → Zayn sube de rol →
+Owens queda desplazado → el choque generacional. **Con pago
+verificable**: Zayn recuperó el título el 11/9 en un match ICC+.
+
+**Eso reordena el eje del propósito, y no a favor de Omega.** Los dos
+reinados fueron puentes — pero **uno produjo un rival y el otro entregó
+un cinturón.** La diferencia no es que uno fuera transicional y el otro
+no: es **a qué transicionó cada uno.** El de Punk, a una historia. El de
+Omega, a un estadio.
+
+*(Nota de lectura: "haciendo un Hulk Hogan" se lee acá como usar la
+influencia adquirida para conseguirse el spot — el arquetipo de la
+estrella con peso político suficiente para ordenar su propio booking. No
+se infiere más de lo que la frase dice.)*
 
 ---
 
@@ -466,16 +569,19 @@ Lo que sigue separándolos, eje por eje:
 | **Juicio de booking** | *"ahora sí se pone interesante"* | *"MJF debió ganar"* |
 | **Crédito de estrella** | *"el best in the world"*, *"wrestling premium"* | *"un luchador que no se considera luchador"* |
 | **Su heel turn** | lo hizo el público de Toronto — *"fue histórico"* | *"un villano de One Piece"* |
+| **Build** | invisible: Raw #1, el asset más caro, el GM que lo quiere, semanas de ausencia | visible: dos semanas de TV |
 | **Stakes** | ninguno declarado, y no le hizo falta | estipulación que solo mordía si perdía |
-| **Propósito del reinado** | nadie pudo escribir el final de antemano | escrito el día uno, cumplido en 53 días |
+| **Propósito del reinado** | puente **a una historia** — valida las conspiraciones de Zayn y lo sube de rol | puente **a un estadio** — escrito el día uno, cumplido en 53 días |
 | **Producción del reinado** | 7 coronas / 67 días, 3 ICC+ | 3 coronas / 53 días, 1 ICC+ |
 
 **La diferencia no es de técnica, de empresa, ni de presupuesto: es de
-crédito acumulado.** Punk entra a cada lucha con veinte años de
-mitología que el archivo le reconoce (*"toda la mitología y la historia
-que existe"*). Omega entra con un currículum que el archivo admira y
-una identidad que le rechaza. **El mismo acto —ganar un mundial, y
-hacerlo en un match ICC+— cobra distinto según quién lo haga.**
+crédito acumulado — y el crédito es una forma de build.** Punk entra a
+cada lucha con veinte años de mitología que el archivo le reconoce
+(*"toda la mitología y la historia que existe"*, *"es el dinero"*).
+Omega entra con un currículum que el archivo admira y una identidad que
+le rechaza. **El mismo acto —ganar un mundial, y hacerlo en un match
+ICC+— cobra distinto según quién lo haga**, porque cada uno llega con un
+capital distinto acumulado fuera de la pantalla.
 
 Y la simetría que ninguna de las dos empresas puede presumir: el
 reinado más premiado sostuvo **el SummerSlam que WWE se negó a
@@ -494,13 +600,40 @@ concede pertenencia. **No es que no lo disfrute, ni que no reconozca la
 lucha. Es que no lo cuenta como de los suyos** — y eso, en esta casa,
 es un juicio distinto del de la clase, y se anota aparte.
 
+**Y hay una segunda pregunta que esta versión del dossier deja abierta,
+más incómoda para el archivo que para las empresas**: si el build
+invisible es build legítimo —y la doctrina del 13/9 dice que sí—,
+**¿cuánto de él se le puede reconocer a un talento que no es "el último
+asset real del wrestling"?** La ley funciona impecable para Punk, que
+tiene el capital. Queda por ver qué pasa cuando el archivo se la aplique
+a alguien que no lo tiene: si es una ley general o **el privilegio
+descriptivo de las estrellas grandes.** El Vehemiurgo no la formuló como
+privilegio; el archivo la aplicará y veremos.
+
 ## 10. Fuentes y huecos
 
 **Del archivo**: 10 fichas de match de los dos reinados, más
 `cm-punk.md` y `kenny-omega.md`. Conteo de coronas verificado con
 `bin/archivo_lib.py`.
 
-**Correcciones que el research hizo sobre este dossier** — ya
+**Correcciones que el Vehemiurgo hizo sobre este dossier** (2026-09-13,
+volcados s01 y s02) — ya integradas arriba:
+
+1. **Las dos celdas vacías no eran veredicto**: declaró **ICC+** para
+   los dos matches, sin retirar su objeción de booking a la de Omega.
+   **Muere el "hallazgo estructural"** de que los reinados empezaban
+   sin clase.
+2. **"Cero construcción" era una lectura de smart mark**: el build de
+   Punk existía, en el negocio y en la ausencia programada. Doctrina
+   nueva:
+   [`../archive/topics/doctrina-el-build-invisible-el-negocio-como-construccion.md`](../archive/topics/doctrina-el-build-invisible-el-negocio-como-construccion.md).
+3. **El propósito del reinado de Punk estaba mal leído**: no era solo
+   que "nadie pudo escribir el final" — el favoritismo era **el motor
+   del arco de Zayn**, con pago verificable el 11/9.
+4. **Faltaba el eje de la serpiente-face**, que es el que explica el
+   crédito que el dossier medía sin poder nombrar.
+
+**Correcciones que el research hizo sobre este dossier** — también
 integradas arriba:
 
 1. **El "Dynamite más visto desde julio de 2024" no aguanta como

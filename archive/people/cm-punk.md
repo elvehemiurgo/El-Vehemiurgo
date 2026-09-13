@@ -496,6 +496,68 @@ de 67 días queda coronado de punta a punta: 7 piezas registradas, 7
 coronas, 3 de ellas ICC+.** Ver
 [`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md).
 
+### Sesión 2026-09-13 s02 — La serpiente como gran face, y el build que no estaba en la TV
+
+**Cita verbatim** (fragmentos del pasaje íntegro):
+
+> *"Punk es una serpiente, literal su frase es 'el mejor truco que hizo
+> el diablo, es hacerles creer que no existe', no puedes confiar en una
+> serpiente, Punk sigue siendo Punk, sigue siendo pesado en el locker
+> room y denso con sus convicciones y hostil para defenderlas, **es un
+> wrestler en todo el sentido in ring y pollitico social de la
+> palabra**"*
+>
+> *"eso justamente lo hace un gran face, es porque **manipula a la
+> audiencia**, y nos tiene en la palma de la mano porque **encarna el
+> wrestling**, es real es el puto cm punk, y se la vive cada lucha, cada
+> promo, **aunque ya esté establecido y el sea el sistema ahora, sigue
+> siendo representante de lo alternativo**, sigue sintiendose como que
+> fuera del status qupo, y eso lo hace atractivo"*
+>
+> *"puede tomarse licencias, porque no importa lo polémico oi cancelable
+> que Punk haya hecho, **nunca va a ser peor que McMahon o HHH, o The
+> Rock, o Cena** [...] sabe a quien escupir y sabe como tomar comebacks
+> en la quijada sin perder credibilidad [...] **las polémicas son el adn
+> del wrestling**"*
+>
+> — El Vehemiurgo, 2026-09-13 s02 (verbatim, typos preservados)
+
+**Lectura sintética — el pasaje más denso del archivo sobre su
+personaje**:
+
+1. **La ambigüedad es el producto, no un defecto.** Ser serpiente y ser
+   face no se contradicen: *"eso justamente lo hace un gran face,
+   porque manipula a la audiencia"*. **La manipulación es el acto.** Es
+   la formulación más explícita del tweener permanente que el archivo ya
+   registraba desde s38 (*"es una serpiente, siempre lo fue"*).
+2. **La condición más difícil de sostener, sostenida**: *"aunque ya esté
+   establecido y él sea el sistema ahora, sigue siendo representante de
+   lo alternativo"*. El outsider que sobrevive a haberse vuelto el
+   status quo — y eso es lo atractivo.
+3. **"Wrestler en todo el sentido in-ring y político-social"**: el
+   archivo tenía la lectura de oficio; acá se suma la de conducta
+   profesional (*"pesado en el locker room"*) **como parte del mismo
+   elogio**, no como reserva.
+4. **La licencia y su escala**: puede tomarse libertades porque el techo
+   de polémica de la industria lo fijan los dueños y las estrellas más
+   grandes. **Las polémicas son el ADN del wrestling** — doctrina en
+   [`../topics/doctrina-el-build-invisible-el-negocio-como-construccion.md`](../topics/doctrina-el-build-invisible-el-negocio-como-construccion.md).
+   *(El archivo registra la lectura; no adjudica ninguna polémica de
+   nadie — cláusula de la ley 2026-08-01 s31.)*
+5. **Y el build invisible de su coronación**: *"el buildup está en toda
+   la anticipación y el catalizador que es que Punk salga de la
+   programación unas semanas"*, más que *"es el dinero"* y que el GM en
+   kayfabe quiere el main event más caro disponible. **Corrige la
+   lectura de "cero construcción" que había hecho el dossier del
+   archivo.**
+6. **Su coronación como motor del rival**: *"WWE inteligentemente usa
+   esto para darle peso a las conspiraciones de Sami y hacerlas reales"*
+   → Zayn sube de rol → Owens desplazado → el choque generacional.
+
+**Piezas de la sesión**: ninguna nueva — es elaboración editorial sobre
+[`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md).
+Volcado: [`../../notebook/2026-09-13-s02-punk-el-build-invisible-y-la-serpiente.md`](../../notebook/2026-09-13-s02-punk-el-build-invisible-y-la-serpiente.md)
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

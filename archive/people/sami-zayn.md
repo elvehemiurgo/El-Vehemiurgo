@@ -278,6 +278,32 @@ puntas de ese arco quedan en ICC+**: la lucha donde lo pierde (6/7) y
 la revancha donde lo recupera (11/9). Ver
 [`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md).
 
+### Sesión 2026-09-13 s02 — El favoritismo de Punk como motor de su propio arco
+
+**Cita verbatim** (fragmento):
+
+> *"WWE inteligentemente usa esto para **darle peso a las conspiraciones
+> de Sami y hacerlas reales** y darle un mejor rol y levantar su acto y
+> luego lo premia **desplazando a Owens y dandonos el verdadero choque
+> generacional Punk vs Zayn**"*
+>
+> — El Vehemiurgo, 2026-09-13 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: el Vehemiurgo lee la aparición sorpresa de Punk
+en Chicago (6/7/2026) —que le costó a Zayn el título a los nueve días—
+**no como perjuicio sino como el combustible de su arco**. La cadena:
+la influencia real de Punk hace que **las teorías de conspiración de
+Zayn queden validadas en kayfabe**, eso le sube el rol y le levanta el
+acto, y el booking lo premia **desplazando a Kevin Owens** y entregando
+el choque generacional.
+
+**Con pago verificable**: Zayn recuperó el título el **11/9/2026** en un
+match que el archivo clasificó **ICC+**, tras una promo
+(*"It has to be me"*) donde descarta por nombre a Owens y a cinco más.
+**El arco que empezó con un robo terminó con la corrección del
+registro.** Ver
+[`../topics/doctrina-el-build-invisible-el-negocio-como-construccion.md`](../topics/doctrina-el-build-invisible-el-negocio-como-construccion.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,
