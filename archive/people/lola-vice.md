@@ -150,6 +150,34 @@ World Mixed Tag Team Championship junto a Mr. Iguana.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+### Sesión 2026-09-16 s02 — Clasifica al MITB: "sí puede pelear", pero que dejen morir el underground
+
+**Cita verbatim**:
+
+> *"**Lola es la que necesita más producción para no exponerse, pero si
+> puede pelear**, mientras no le hagan hacer otro underground **ojala
+> dejen morir ese gimmick** [...] **Lola se ve muy bien buenos strikes,
+> me parece buen booking ponerla contra el judgement day así de
+> arranque**"*
+>
+> — El Vehemiurgo, 2026-09-16 s02 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Gana el clasificatorio femenino al Money in the Bank** ante Raquel
+   Rodriguez y Kelani Jordan — **su debut in-ring en Raw**.
+2. **Tres juicios separados en una frase**: **rechazo del gimmick
+   *underground*** (*"ojalá dejen morir ese gimmick"*), **crédito
+   técnico real** (*"sí puede pelear"*, *"buenos strikes"*), y
+   **aprobación del booking** (*"buen booking ponerla contra el Judgment
+   Day así de arranque"*).
+3. **"Necesita más producción para no exponerse"** — diagnóstico de
+   protección de talento: el problema es el marco que le dan, no el
+   techo de la luchadora.
+
+**Pieza de la sesión**:
+[clasificatorio femenino al MITB](../matches/2026-09-14-lola-vice-vs-raquel-vs-kelani-jordan-mitb-qualifier-wwe-raw.md) (**FC**)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de obtención del NXT Women's Title (Stand &

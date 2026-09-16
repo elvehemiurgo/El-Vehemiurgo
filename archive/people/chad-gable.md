@@ -91,6 +91,38 @@ conteo cuando Ethan Page intenta capitalizar sucio contra Lee.
 **Pieza de la sesión**:
 [interrumpido por Ethan Page](../segments/2026-08-31-ethan-page-interrumpe-chad-gable-dragon-lee-wwe-raw.md) (WE)
 
+### Sesión 2026-09-16 s02 — Retiene el Intercontinental en CDMX, ya sin máscara
+
+**Cita verbatim**:
+
+> *"Dragon Lee vs Gable por el título intercontinental, **fue
+> wrestling**, se merecen las 3 clases con la corona +, aunque **el
+> formato de WWE así le obligo a alargar su tiempo en el esquinero** por
+> ejempo, igual se disfruta, fue una gran lucha, muy oldscool muy stiff"*
+>
+> — El Vehemiurgo, 2026-09-16 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+ declarada.** Retiene el
+WWE Intercontinental Championship haciendo rendir a Dragon Lee con el
+**ankle lock**, tras numerosos near-falls. **La objeción del Vehemiurgo
+es al formato televisivo, no a los luchadores** — *"el formato de WWE le
+obligó a alargar su tiempo en el esquinero"* — y **la corona más alta se
+sostiene igual**.
+
+### Nota de identidad — el desenmascare (research 2026-09-16)
+
+**Gable aparece sin máscara porque volvió a ser Chad Gable**: el
+**"Original El Grande Americano"** —el gimmick enmascarado que él
+portaba— **perdió una lucha máscara vs máscara ante El Grande Americano
+en Noche de los Grandes**, se desenmascaró, y retomó su nombre.
+`[fecha exacta de Noche de los Grandes: research en curso]`.
+
+Ficha de la identidad enmascarada:
+[`./original-grande-americano.md`](./original-grande-americano.md).
+
+**Pieza de la sesión**:
+[vs Dragon Lee, Intercontinental Championship](../matches/2026-09-14-chad-gable-vs-dragon-lee-intercontinental-wwe-raw.md) (**ICC+**)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

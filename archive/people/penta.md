@@ -307,6 +307,41 @@ ni contacto reportado.
 [vs Rey Fénix, final del torneo](../matches/2026-08-31-penta-vs-rey-fenix-wwe-raw.md) (ICC) ·
 [el careo de cierre con Roman Reigns](../segments/2026-08-31-careo-penta-roman-reigns-cierre-wwe-raw.md) (WE+)
 
+### Sesión 2026-09-16 s02 — La dream match en su casa, y "la versión WWE de una lucha de Penta"
+
+**Cita verbatim**:
+
+> *"Penta vs Roman, **la dream match**, muy buen booking y **movilización
+> de todo WWE** para setear esta dream match con **los stakes más altos y
+> realistas posibles**, se merece las 3 clases con la corona +,
+> buenisimos los spots, y **pusieron muy over el Sacrifice el finisher de
+> Penta al brazo**, me encantó, **tuvimos la versión WWE de una lucha de
+> Penta**, con intercambio de strikes y todo, pero producido y
+> presentado y cuidado asi, fue super disfrutable"*
+>
+> — El Vehemiurgo, 2026-09-16 s02 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. ***"La versión WWE de una lucha de Penta"* — categoría nueva, y
+   aprobada.** No es el reproche habitual de que la maquinaria le lima
+   el estilo: es el estilo de Penta **pasado por la producción de WWE**,
+   *"y cuidado así"*. **El Vehemiurgo lo firma.**
+2. **Cae ante Roman Reigns** en 21:00 (Superman Punch + Spear), en el
+   main event del primer Raw en Ciudad de México en 15 años.
+3. **El detalle de oficio que destaca**: *"pusieron muy over el
+   **Sacrifice**, el finisher de Penta al brazo"* — **storytelling sobre
+   una parte del cuerpo**, por encima del spot suelto.
+4. **"Dream match" aprobada sin la objeción de doctrina**: la casa
+   rechaza el *match dream sin sustancia* (§3), y acá la avala
+   explícitamente **porque tiene setup y stakes**.
+5. **Arco de la noche completo**: llegó **a caballo** a la Arena CDMX
+   (registrado en s01, **WE**), y ese arco cierra en este main event.
+
+**Piezas de la sesión**:
+[llegada a caballo](../segments/2026-09-14-presentacion-penta-a-caballo-cdmx-wwe-raw.md) (WE) ·
+[vs Roman Reigns, World Heavyweight Championship](../matches/2026-09-14-roman-reigns-vs-penta-world-title-wwe-raw.md) (**ICC+**)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.

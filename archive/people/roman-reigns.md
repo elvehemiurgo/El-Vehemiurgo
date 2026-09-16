@@ -292,6 +292,18 @@ un Samoan Spike** en su lugar. Cierra el segmento recibiendo otro BFT
 de Knight. Ver
 [`../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md`](../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md).
 
+### Sesión 2026-09-16 s02 — Retiene ante Penta en el main event de CDMX
+
+**Contexto**: `2026 09 14 WWE Raw`, Arena CDMX, timestamp 01:51:34.
+**Retiene el World Heavyweight Championship** en **21:00** — lo corta
+con un **Superman Punch** y lo termina con la **Spear**.
+
+**Instant Classic Crown+ declarada** para el match. El elogio del
+Vehemiurgo va al setup más que al resultado: *"muy buen booking y
+**movilización de todo WWE** para setear esta dream match con los stakes
+más altos y realistas posibles"*. Ver
+[`../matches/2026-09-14-roman-reigns-vs-penta-world-title-wwe-raw.md`](../matches/2026-09-14-roman-reigns-vs-penta-world-title-wwe-raw.md).
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

@@ -152,6 +152,18 @@ enfrenta a **El Hijo del Dr. Wagner Jr.** el 17/8/2026.
 [segmento backstage con Rey y Dominik](../segments/2026-08-10-dominik-interrumpe-rey-dragon-lee-backstage-raw.md) (WE) ·
 [vs Dominik Mysterio](../matches/2026-08-10-dragon-lee-vs-dominik-mysterio-raw.md) (FS·WE)
 
+### Sesión 2026-09-16 s02 — Cae ante Gable por el Intercontinental en CDMX
+
+**Contexto**: `2026 09 14 WWE Raw`, Arena CDMX, timestamp 01:06:15.
+**Instant Classic Crown+ declarada** — *"fue wrestling"*, *"muy
+oldschool muy stiff"*. **Cae** ante Chad Gable, que lo hace rendirse con
+el **ankle lock** tras numerosos near-falls.
+
+**La objeción del Vehemiurgo no es a los luchadores**: *"el formato de
+WWE así le obligó a alargar su tiempo en el esquinero"* — crítica al
+marco televisivo, con la corona más alta intacta. Ver
+[`../matches/2026-09-14-chad-gable-vs-dragon-lee-intercontinental-wwe-raw.md`](../matches/2026-09-14-chad-gable-vs-dragon-lee-intercontinental-wwe-raw.md).
+
 ## Pendientes
 
 - [ ] CMLL early career + Best of Super Juniors NJPW pieces.

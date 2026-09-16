@@ -13,8 +13,11 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-14 | Chad Gable (c) vs Dragon Lee — WWE Intercontinental Championship | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-14-chad-gable-vs-dragon-lee-intercontinental-wwe-raw.md) |
 | 2026-09-14 | Stephanie Vaquer & El Grande Americano vs Liv Morgan & Dominik Mysterio — mixed tag | WWE / Monday Night Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-14-dominik-liv-vs-vaquer-grande-americano-wwe-raw.md) |
 | 2026-09-14 | Je'Von Evans vs Austin Theory vs Big Cass — Money in the Bank Qualifier | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-14-jevon-evans-vs-big-cass-vs-austin-theory-mitb-qualifier-wwe-raw.md) |
+| 2026-09-14 | Lola Vice vs Raquel Rodriguez vs Kelani Jordan — Women's Money in the Bank Qualifier | WWE / Monday Night Raw | FS·WE | FC | en-investigacion | 1 | [→](2026-09-14-lola-vice-vs-raquel-vs-kelani-jordan-mitb-qualifier-wwe-raw.md) |
+| 2026-09-14 | Roman Reigns (c) vs Penta — World Heavyweight Championship | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-14-roman-reigns-vs-penta-world-title-wwe-raw.md) |
 | 2026-09-13 | Dominik Mysterio (c) vs El Grande Americano — AAA Mega Championship, No DQ | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-13-dominik-mysterio-vs-el-grande-americano-mega-championship-aaa-triplemania-xxxiv.md) |
 | 2026-09-13 | Flammer (c) vs La Catalina — AAA Reina de Reinas Championship | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-13-flammer-vs-la-catalina-reina-de-reinas-aaa-triplemania-xxxiv.md) |
 | 2026-09-13 | Rey Fénix (c) vs Jack Cartwheel vs Nathan Frazer vs Mini Vikingo — AAA World Cruiserweight Championship | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-13-rey-fenix-vs-cartwheel-vs-frazer-vs-mini-vikingo-cruiserweight-aaa-triplemania-xxxiv.md) |

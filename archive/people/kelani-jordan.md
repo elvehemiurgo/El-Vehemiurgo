@@ -283,6 +283,35 @@ Victoria D'Errico. Ver
 [`../matches/2026-09-08-jaida-parker-vs-kelani-jordan-nxt.md`](../matches/2026-09-08-jaida-parker-vs-kelani-jordan-nxt.md) y
 [`../segments/2026-09-08-wren-sinclair-ataca-kelani-jordan-nxt.md`](../segments/2026-09-08-wren-sinclair-ataca-kelani-jordan-nxt.md).
 
+### Sesión 2026-09-16 s02 — Debuta en Raw, y la dejan muda
+
+**Cita verbatim**:
+
+> *"el debut de Kelany Jordan, **uno de los mejores prospectos**, actual
+> campeona de NXT [...] pero yo queria ver brillar a Kelany, imaginando
+> si gana el maletin, **no mostraron nada de su mic, solo in ring y
+> pusieron over su atletismo**, estuvo bien para un primer contacto,
+> buen showcase"*
+>
+> — El Vehemiurgo, 2026-09-16 s02 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Debut en Raw** como campeona de NXT, en el clasificatorio femenino
+   al Money in the Bank. **No gana** — clasifica Lola Vice.
+2. **El reproche es de presentación, no de talento**: *"no mostraron
+   nada de su mic, solo in-ring"*. **El archivo tiene registrada su
+   capacidad de promo** desde s62 (*"corta su promo como campeona, por
+   fin en la cima, y estuvo sólida, buenos insultos"*) — **acá la
+   presentaron solo como atleta.** Cruza con
+   [`../topics/doctrina-presentacion-guiada-nuevos-talentos.md`](../topics/doctrina-presentacion-guiada-nuevos-talentos.md).
+3. **"Uno de los mejores prospectos"** y el juicio final benigno
+   —*"estuvo bien para un primer contacto, buen showcase"*— dejan el
+   techo marcado sin cerrarle nada.
+
+**Pieza de la sesión**:
+[clasificatorio femenino al MITB](../matches/2026-09-14-lola-vice-vs-raquel-vs-kelani-jordan-mitb-qualifier-wwe-raw.md) (**FC**)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
