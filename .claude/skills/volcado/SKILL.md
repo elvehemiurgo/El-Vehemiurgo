@@ -80,6 +80,9 @@ Reglas de clase (doctrina CLAUDE.md §4):
   distintos).
 - Triple clase admite reserva técnica puntual si el Vehemiurgo la
   dio junto al elogio.
+- **El + siempre se declara explícito** (ley 2026-09-16 s03):
+  "las 3 clases" / "todas las clases" → ICC. WE+ / Corona+ solo con
+  "corona +", "WE+" o equivalente literal. Nunca por lectura.
 
 ## 3. Índices — vía script, nunca a mano
 

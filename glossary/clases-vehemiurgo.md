@@ -303,6 +303,15 @@ Los dos criterios que el Vehemiurgo nombra:
 **Regla dura**: una pieza lleva **una de las dos, nunca las dos**.
 WE+ no se suma a WE — la reemplaza.
 
+**El + siempre se declara explícito (ley 2026-09-16 s03, verbatim
+del Vehemiurgo).** Ninguna fórmula de triple clase lo implica: *"las 3
+clases"*, *"todas las clases"*, *"la lucha perfecta"* → **ICC**, sin
+más. Solo *"con la corona +"*, *"WE+"*, *"sube a +"* → WE+ / Corona+.
+A diferencia de las clases base, **el + no admite asignación por
+lectura**: si el dictado no lo trae, no está. Precedente que fijó la
+ley: la 4-way Cruiserweight de TripleMania XXXIV D2 (13/9/2026), *"se
+merecen todas las clases"*, registrada ICC y ratificada así.
+
 ### Primeras piezas declaradas
 
 - **Promo video Penta vs Rey Fénix** (SmackDown, 28/8/2026) — WE+

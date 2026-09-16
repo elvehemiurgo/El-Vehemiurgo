@@ -302,7 +302,11 @@ funciona, funciona porque respeta principios viejos, sépalo o no"**.
   wrestling booking inteligente"* (verbatim del Vehemiurgo). **Es un
   escalón por encima de WE y —a diferencia de las coronas— SÍ toca la
   jerarquía**: clase propia, slug `wrestling-entertainment-plus`,
-  `WE+` en índices. **Una pieza lleva WE o WE+, nunca las dos.** Las
+  `WE+` en índices. **Una pieza lleva WE o WE+, nunca las dos.**
+  **El + siempre se declara explícito (ley desde 2026-09-16 s03)**:
+  *"las 3 clases"* / *"todas las clases"* → ICC; el + solo con
+  *"corona +"*, *"WE+"* o equivalente literal — **nunca se infiere ni
+  se asigna por lectura**. Las
   dos preguntas que quedaban abiertas se cerraron el **2026-09-03
   (s59)**: **WE+ sí entra en las coronas**, como **Corona+** (ver el
   bullet anterior), y **el segmento Cody Rhodes / Randy Orton del

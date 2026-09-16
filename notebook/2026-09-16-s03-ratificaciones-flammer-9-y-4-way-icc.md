@@ -33,8 +33,16 @@ guion 008.
    El guion 008 no cambia: ya contaba la 4-way como ICC y una sola
    ICC+ (Saints, 11/9).
 
-## Precedente de lectura
+## Ley — "el + siempre se declara explícito"
 
-*"Todas las clases"* ≠ *"las 3 clases con la corona +"*. Se confirma
-la distinción sistemática del Vehemiurgo: el + se declara siempre
-explícito.
+> *"el + siempre se declara explícito"*
+>
+> — El Vehemiurgo, 2026-09-16 s03 (verbatim, en respuesta a la nota
+> de precedente del copiloto)
+
+Pasa de precedente de lectura a **ley del sistema de clases** (regla
+12 del handoff). *"Las 3 clases"* / *"todas las clases"* / *"la lucha
+perfecta"* → ICC. El + solo con *"corona +"*, *"WE+"* o equivalente
+literal. **El copiloto nunca lo infiere ni lo marca por lectura.**
+Registrada en `CLAUDE.md` §4, `glossary/clases-vehemiurgo.md`,
+`glossary/handoff-sistema-de-clases.md` §5/§10 y la skill `/volcado`.

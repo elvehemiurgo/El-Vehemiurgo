@@ -208,6 +208,14 @@ Las cinco fundacionales (2026-06-17) más las que se sumaron después:
     actualiza el frontmatter, se marca el pendiente como cerrado
     `[x]`, y se registra la fecha de ratificación en
     `calificacion_vehemiurgo`.
+12. **El + siempre se declara explícito** (ley 2026-09-16 s03,
+    verbatim). Ninguna fórmula de triple clase implica WE+: *"las 3
+    clases"*, *"todas las clases"*, *"la lucha perfecta"*, *"se merece
+    las tres"* → **ICC**. Solo *"con la corona +"*, *"WE+"*, *"sube a
+    +"* o equivalente explícito → WE+ / Corona+. **El copiloto nunca
+    infiere el +, ni lo marca "por lectura"**: si el dictado no lo
+    trae, no está. Precedente: la 4-way Cruiserweight de TripleMania
+    XXXIV D2 (*"todas las clases"* → ICC, ratificado).
 
 ---
 
@@ -315,6 +323,7 @@ declarada** — el Vehemiurgo lo lee como 'estuvo ok'"*.
 | 2026-08-26 | s54 | **WE+**: escalón sobre WE, sí toca la jerarquía. Una pieza lleva WE o WE+, nunca las dos. |
 | 2026-09-03 | s59 | **Coronas+**: FC+ e ICC+ cuando el entertainment es WE+. Cody/Randy 28/8 sube a WE+. "WS" ratificado como WE. |
 | 2026-09-05 | s62 | **PERFECT declarado** sobre Roode & Aries vs Chavo & Hernandez — **mecánica pendiente de ratificación** (sección 4). |
+| 2026-09-16 | s03 | **El + siempre se declara explícito**: ninguna fórmula de triple clase implica WE+; el copiloto no lo infiere ni lo marca por lectura (regla 12). |
 
 ---
 
