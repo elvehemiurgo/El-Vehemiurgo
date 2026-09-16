@@ -302,6 +302,40 @@ falla a favor de **La Catalina** como quien efectivamente encarna lo
 que ambas solo prometen. Ver [`./giulia.md`](./giulia.md) y
 [`./la-catalina.md`](./la-catalina.md).
 
+### Sesión 2026-09-16 s01 — "Por fin empieza a sonar como wrestler": el segundo reinado arranca en CDMX
+
+**Cita verbatim** (fragmentos):
+
+> *"la promo de Vaquer despues de recuperar su título en un live show
+> arranca muy bien, **esa voz es la que tiene que saca, realmente
+> empieza a sonar como wrestler** [...] **se demoraron pero por fin
+> Vaquer puede cargar su parte** y es más disfrutable su enterteiner; y
+> el booking de este segundo reinado comienza muy bien"*
+>
+> *"a Liv y Vaquer les faltó velocidad para las secuencias que querian
+> hacer"*
+>
+> — El Vehemiurgo, 2026-09-16 s01 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Segundo reinado como WWE Women's World Champion**, ganado el
+   **sábado 12/9/2026 en un live show en Santiago de Chile** —su país
+   natal— ante **Liv Morgan**, con **Becky Lynch de árbitra invitada**
+   cortando la cuenta en dos para burlarse de Liv. **La prensa lo
+   bautizó "Santiago Screwjob".** **El cambio de título no tiene ficha
+   de match**: el Vehemiurgo no lo vio, solo el video package que lo
+   recapitula.
+2. **"Por fin empieza a sonar como wrestler"** — umbral de promo
+   alcanzado, con reproche a la oficina incluido (*"se demoraron"*).
+3. **Reserva técnica en el mixed tag**: falta de velocidad en las
+   secuencias, compartida con Liv Morgan — **no baja la triple clase**.
+
+**Piezas de la sesión**:
+[video package del título en Chile](../segments/2026-09-13-video-package-vaquer-gana-titulo-chile-aaa-triplemania-xxxiv.md) (WE) ·
+[segmento de apertura de Raw](../segments/2026-09-14-promo-vaquer-liv-dominik-gms-wwe-raw.md) (**WE+**) ·
+[mixed tag](../matches/2026-09-14-dominik-liv-vs-vaquer-grande-americano-wwe-raw.md) (**ICC**)
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run NJPW STARDOM (fechas, IWGP Women's

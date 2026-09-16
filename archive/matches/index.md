@@ -13,6 +13,11 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-14 | Stephanie Vaquer & El Grande Americano vs Liv Morgan & Dominik Mysterio — mixed tag | WWE / Monday Night Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-14-dominik-liv-vs-vaquer-grande-americano-wwe-raw.md) |
+| 2026-09-14 | Je'Von Evans vs Austin Theory vs Big Cass — Money in the Bank Qualifier | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-14-jevon-evans-vs-big-cass-vs-austin-theory-mitb-qualifier-wwe-raw.md) |
+| 2026-09-13 | Dominik Mysterio (c) vs El Grande Americano — AAA Mega Championship, No DQ | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-13-dominik-mysterio-vs-el-grande-americano-mega-championship-aaa-triplemania-xxxiv.md) |
+| 2026-09-13 | Flammer (c) vs La Catalina — AAA Reina de Reinas Championship | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-13-flammer-vs-la-catalina-reina-de-reinas-aaa-triplemania-xxxiv.md) |
+| 2026-09-13 | Rey Fénix (c) vs Jack Cartwheel vs Nathan Frazer vs Mini Vikingo — AAA World Cruiserweight Championship | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-13-rey-fenix-vs-cartwheel-vs-frazer-vs-mini-vikingo-cruiserweight-aaa-triplemania-xxxiv.md) |
 | 2026-09-11 | Adelicious, Mascarita Sagrada & Mini Vikingo vs Lady Shani, Jack Cartwheel & Mini Abismo Negro | AAA / TripleMania XXXIV — Day 1 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-11-adelicious-mascarita-sagrada-mini-vikingo-vs-lady-shani-jack-cartwheel-mini-abismo-negro-aaa-triplemania-xxxiv.md) |
 | 2026-09-11 | Chelsea Green (c) vs Nia Jax — Interim WWE Women's Championship | WWE / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md) |
 | 2026-09-11 | CM Punk (c) vs Sami Zayn — Undisputed WWE Championship (revancha) | WWE / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md) |

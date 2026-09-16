@@ -378,6 +378,40 @@ metálicas.
 **Pieza de la sesión**:
 [firma de contrato](../segments/2026-08-30-firma-contrato-dominik-grande-omos-rey-aaa-ola-de-calor.md) (WE)
 
+### Sesión 2026-09-16 s01 — Campeón Mega de AAA, y la vara es Cody Rhodes
+
+**Cita verbatim**:
+
+> *"Dominic vs Grande fue wrestling, no decepcionó la lucha ni el
+> booking, y es un reto dificil tener a Grande ahora como campeón face,
+> **tendrá que hacerlo tan bien como Cody**, pero tiene buenos rivales y
+> se viene la construcción de Daga tambien poco a poco, se merecen las 3
+> clases"*
+>
+> — El Vehemiurgo, 2026-09-16 s01 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Gana el AAA Mega Championship** ante Dominik Mysterio en el main
+   event de TripleMania XXXIV Día 2 (No DQ, 17:32), cortando un reinado
+   de **366 días**. **Rey Mysterio, como GM de AAA, cuenta el finish**
+   con cuello ortopédico y camiseta de árbitro.
+2. **Cierre de show**: mariachi en vivo, **Americano llorando abrazado
+   al cinturón**, y *"Cielito Lindo"* con la arena cantando.
+3. **La vara declarada es Cody Rhodes**: *"tendrá que hacerlo tan bien
+   como Cody"*. **No es elogio, es condición** puesta al reinado que
+   arranca.
+4. **Al día siguiente**, en el Raw de CDMX, sale a recibimiento de
+   héroe con *"Olé, Olé"* y **acepta el mixed tag en lugar de Rey
+   Mysterio**, que no está médicamente autorizado.
+
+**Piezas de la sesión**:
+[vs Dominik, AAA Mega Championship](../matches/2026-09-13-dominik-mysterio-vs-el-grande-americano-mega-championship-aaa-triplemania-xxxiv.md) (**ICC**) ·
+[presentación de apertura](../segments/2026-09-13-presentacion-grande-americano-dominik-aaa-triplemania-xxxiv.md) (WE) ·
+[promo video del main event](../segments/2026-09-13-promo-video-dominik-vs-grande-americano-aaa-triplemania-xxxiv.md) (WE) ·
+[segmento de apertura de Raw](../segments/2026-09-14-promo-vaquer-liv-dominik-gms-wwe-raw.md) (**WE+**) ·
+[mixed tag con Vaquer](../matches/2026-09-14-dominik-liv-vs-vaquer-grande-americano-wwe-raw.md) (**ICC**)
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania

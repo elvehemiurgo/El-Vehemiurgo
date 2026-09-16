@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `triplemania-xxxiv-d2-raw-140926` | Cerrar resultados, finishes y títulos en juego de TripleMania XXXIV Día 2 (13/9/2026) y del Raw del 14/9 desde CDMX: mecánica de la distracción que le cuesta la lucha a Flammer ante La Catalina; a quién atacaron Los Perros del Mal y su alineación; el 4-way de Fénix/Cartwheel/Frazer/Mini Vikingo; el main event Dominik vs El Grande Americano; qué título ganó Stephanie Vaquer en el live show de Chile (fecha, recinto, rival); confirmación de la identidad de "Big Cass" en el triple threat de Je'Von Evans. | Volcado 2026-09-16 s01 | 2026-09-16 | `archive/matches/` + `archive/segments/` (fichas de esta sesión) |
+| _(vacío — `triplemania-xxxiv-d2-raw-140926` cerrada el 2026-09-16, ver [`closed.md`](./closed.md))_ | | | | |
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).

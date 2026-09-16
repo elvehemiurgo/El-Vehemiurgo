@@ -111,6 +111,25 @@ interferencias que definen el match (AAA Verano de Escándalo Noche 1,
 **Pieza de la sesión**:
 [main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC)
 
+### Sesión 2026-09-16 s01 — El Vehemiurgo lo ve venir, y esa misma noche reaparece con Los Perros del Mal
+
+**Cita verbatim** (fragmento, del take sobre el main event):
+
+> *"tiene buenos rivales y **se viene la construcción de Daga tambien
+> poco a poco**"*
+>
+> — El Vehemiurgo, 2026-09-16 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: el Vehemiurgo anuncia que ve venir su
+construcción al hablar del reinado que arranca El Grande Americano — y
+**el research lo ubica esa misma noche**, integrando **Los Perros del
+Mal** en el ataque post-match del Cruiserweight, junto a **Ángel, Berto
+y Karmen Petrovic**. La facción reaparece **forzando al anunciador a
+poner su tema original, "Perros" de Cartel de Santa**.
+
+**Pieza de la sesión**:
+[el ataque de Los Perros del Mal](../segments/2026-09-13-los-perros-del-mal-ataque-post-match-aaa-triplemania-xxxiv.md) (**WE+**)
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de carrera pre-2026 (debut, cronología de títulos).

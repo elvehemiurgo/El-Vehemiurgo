@@ -113,6 +113,38 @@ de Reinas en Triplemanía 34 Noche 2.
 **Pieza de la sesión**:
 [Adelicious vs La Catalina](../matches/2026-09-05-adelicious-vs-la-catalina-aaa-worldwide.md) (ICC, mención)
 
+### Sesión 2026-09-16 s01 — Pierde el récord del título, y entra al Tier 1 en la misma frase
+
+**Cita verbatim**:
+
+> *"Flamer vs Catalina estuvo genial, se merece las 3 clases con la
+> corona +, mucha velocidad, buenas secuencias, muy dura, super stiff,
+> aunque la excusa para que pierda Flamer no se si me satisface, parece
+> flojo como solo se distrajo, pero uspongo que en la ausencia de las
+> toxicas está todo el peso del booking, **Pongamos a Lady Flamer en el
+> Tier 1**"*
+>
+> — El Vehemiurgo, 2026-09-16 s01 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Pierde el AAA Reina de Reinas ante La Catalina** en TripleMania
+   XXXIV Día 2, cortando **~1.128 días** de reinado — **récord del
+   título** *(1.128 según OutKick, 1.127 según F4W/WON)*.
+2. **Y en la misma frase, el Vehemiurgo la declara dios del wrestling.**
+   El resultado no es el juicio.
+3. **Su hipótesis sobre el finish era correcta**: *"supongo que en la
+   ausencia de las tóxicas está todo el peso del booking"*. **El
+   research lo confirma** — Flammer miró a la rampa esperando a **La
+   Hiedra** y **no había nadie**. No hubo interferencia: **hubo
+   abandono**.
+4. **Es el primer pago del arco de la implosión de Las Tóxicas**, que
+   el propio Vehemiurgo declaró *"el ángulo subyacente del año"* dos
+   días antes, en el Día 1.
+
+**Pieza de la sesión**:
+[vs La Catalina, Reina de Reinas](../matches/2026-09-13-flammer-vs-la-catalina-reina-de-reinas-aaa-triplemania-xxxiv.md) (**ICC+**)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

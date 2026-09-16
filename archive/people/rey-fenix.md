@@ -383,6 +383,30 @@ espalda. Ver
 [`../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md`](../matches/2026-09-11-rey-fenix-vs-ricky-saints-aaa-cruiserweight-wwe-smackdown.md) y
 [`../segments/2026-09-11-ricky-saints-ataca-rey-fenix-backstage-wwe-smackdown.md`](../segments/2026-09-11-ricky-saints-ataca-rey-fenix-backstage-wwe-smackdown.md).
 
+### Sesión 2026-09-16 s01 — "Una lucha de Fénix": retiene el Cruiserweight en TripleMania
+
+**Cita verbatim**:
+
+> *"Fenix vs Cartwheel vs Nathan vs mini vikingo, fue genial, **una
+> lucha de fenix**, super larga, emocionante, hay cosas de Nathan y
+> Cartwheel que no me gustaron en los strikes, pero despues todo
+> perfecto, se merecen todas las clases"*
+>
+> — El Vehemiurgo, 2026-09-16 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown** para el fatal four-way
+titular. **Retiene el AAA World Cruiserweight Championship** (~14:30)
+robándose la cuenta: **Mini Vikingo conecta un Phoenix 360 Splash sobre
+Jack Cartwheel y Fénix se desliza al ring para bajarlo con un Mexican
+Muscle Buster**. ***"Una lucha de Fénix"* como categoría** — el archivo
+ya tenía el registro de *"Fénix es dios"* (s02, 12/9). Reserva técnica
+puntual sobre los strikes de Frazer y Cartwheel, declarada junto al
+elogio. **Post-match: Los Perros del Mal arrasan con los cuatro.**
+
+**Piezas de la sesión**:
+[fatal 4-way, Cruiserweight](../matches/2026-09-13-rey-fenix-vs-cartwheel-vs-frazer-vs-mini-vikingo-cruiserweight-aaa-triplemania-xxxiv.md) (**ICC**) ·
+[el ataque de Los Perros del Mal](../segments/2026-09-13-los-perros-del-mal-ataque-post-match-aaa-triplemania-xxxiv.md) (**WE+**)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -171,6 +171,36 @@ darle la victoria a Joe Hendry.
 **Pieza de la sesión**:
 [Hendry vs McDonagh](../matches/2026-09-07-joe-hendry-vs-jd-mcdonagh-wwe-raw.md) (ICC+, mención)
 
+### Sesión 2026-09-16 s01 — "Se mueve como veterano": clasifica al Money in the Bank
+
+**Cita verbatim**:
+
+> *"Jevon Evans es un face mmuy cool, movimientos muy cool, mucha
+> calidad, psicologia, buen mic, **improvisa bien in ring incluso cuando
+> sus oponentes botchean, se mueve como veterano, tiene todo para
+> brillar**, esta 3 way Jevon vs big cass vs theoty, se merece las 3
+> clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-16 s01 (verbatim, typos preservados)
+
+**Lectura sintética**:
+
+1. **Instant Classic Crown+** y **el retrato más completo que el
+   archivo tiene sobre él**: movimientos, calidad, psicología, mic e
+   improvisación, todo en una frase.
+2. ***"Se mueve como veterano"*** — el elogio de oficio por encima del
+   atletismo, eje central de esta casa.
+3. **Nota de discrepancia**: el Vehemiurgo atribuye los botches a los
+   oponentes; **el research registra que el fallo fue en el propio
+   double-jump cutter de Evans**, que **erró el primer intento y lo
+   clavó en el segundo**. **Las dos lecturas se registran sin
+   adjudicar** — lo que queda firme es que hubo fallo y recuperación,
+   que es exactamente lo que el take premia.
+4. **Clasifica al Money in the Bank Ladder Match.**
+
+**Pieza de la sesión**:
+[triple threat clasificatorio](../matches/2026-09-14-jevon-evans-vs-big-cass-vs-austin-theory-mitb-qualifier-wwe-raw.md) (**ICC+**)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
