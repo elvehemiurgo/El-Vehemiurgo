@@ -86,6 +86,12 @@ arena, junto a Reigns, fue inmediatamente antes de esta lucha.
 
 - [ ] Referee.
 - [ ] Attendance del show — no reportada.
+- [ ] **Duración en disputa**: la ficha registra 21:00; eWrestlingNews
+      da **22:25** y Rajah "22 minutos" (research 2026-09-16). Sin
+      cifra oficial — se mantiene 21:00 hasta cotejar.
+- [ ] `[no confirmado]` Roman Reigns vs LA Knight anunciado para Money
+      in the Bank en este mismo show (titular de KhelNow, sin fuente de
+      primer nivel).
 
 ## Cross-links
 

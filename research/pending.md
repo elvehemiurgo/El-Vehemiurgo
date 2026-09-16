@@ -7,7 +7,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `raw-140926-ethan-page` | Cerrar el promo de Ethan Page del Raw del 14/9/2026 (~1h46), que no figuraba en el card del research anterior: si fue in-ring, backstage o video, contenido, conexión con Money in the Bank y anuncios. Más las duraciones del IC title (Gable vs Dragon Lee) y del clasificatorio femenino, el finish de éste, la fecha exacta de Noche de los Grandes y cuándo ganó Gable el Intercontinental. | Volcado 2026-09-16 s02 | 2026-09-16 | `archive/segments/` (promo de Ethan Page) + fichas de la sesión |
+
+> `raw-140926-ethan-page` cerrada e integrada el 2026-09-16 (s02) — ver
+> [`closed.md`](./closed.md).
 
 > `nxt-heatwave-300826-cont-nxt-010926` cerrada e integrada el
 > 2026-09-04 (s61) — ver [`closed.md`](./closed.md).

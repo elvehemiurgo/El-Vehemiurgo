@@ -421,8 +421,31 @@ Mysterio por encima de Adam Pearce. Ver
 y
 [`../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md`](../segments/2026-05-25-ethan-page-rusev-mysterio-backstage-wwe-raw.md).
 
+### Sesión 2026-09-16 s02 — Promo en CDMX, WE: "el nuevo oportunista número 1 en TV"
+
+> *"buenisima promo de Ethan Page, se lo estan tomando con calma,
+> pero protegiendolo, esta biwn, MITB puede ser la clave para tener a
+> Ethan como el nuevo oportunista número 1 en tv, se merece una WE"*
+>
+> — El Vehemiurgo, 2026-09-16 s02 (verbatim, typos preservados)
+
+**Wrestling Entertainment declarada** para la promo del Raw de CDMX
+(14/9/2026, 01:46:20). **El take es de ritmo de oficina, no de
+segmento**: *"con calma, pero protegiéndolo"*. Research 2026-09-16:
+el segmento **solo lo registra TJR** (felicita a Gable por vencer a
+*"a bozo luchador"* y reclama el Intercontinental); **ningún card de
+prensa lo lista**. La proyección "MITB como clave" es lectura a
+futuro — Page ya quedó fuera de los clasificatorios el **7/9** (Bron
+Breakker lo venció a él y a Rey Mysterio). Cadena reciente: pierde el
+#1 contender vs Dragon Lee el 31/8 (Gable delata su trampa del
+esquinero) → fuera del MITB el 7/9 → promo protegida en CDMX el 14/9.
+**Derrotas sin bury**: consistente con el techo declarado en s42
+(comparación con MJF). Ficha:
+[`../segments/2026-09-14-promo-ethan-page-wwe-raw.md`](../segments/2026-09-14-promo-ethan-page-wwe-raw.md).
+
 ## Piezas del Vehemiurgo donde aparece
 
+- [`../segments/2026-09-14-promo-ethan-page-wwe-raw.md`](../segments/2026-09-14-promo-ethan-page-wwe-raw.md) — promo en CDMX, **WE**
 - [`../matches/2026-07-13-chad-gable-vs-ethan-page-gauntlet-wwe-raw.md`](../matches/2026-07-13-chad-gable-vs-ethan-page-gauntlet-wwe-raw.md)
 - [`../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md`](../matches/2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md)
 - [`../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md`](../matches/2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md)

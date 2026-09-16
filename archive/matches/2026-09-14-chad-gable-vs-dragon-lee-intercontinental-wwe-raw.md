@@ -9,7 +9,7 @@ ciudad: "Ciudad de México"
 recinto: "Arena CDMX"
 tipo_match: "singles — WWE Intercontinental Championship"
 estipulacion: "WWE Intercontinental Championship"
-duracion: "[no confirmado]"
+duracion: "15:40 (Powell/PWDN; variante 15:36)"
 finish: "Chad Gable lo hace rendirse con el ankle lock, tras numerosos near-falls"
 ganador: "Chad Gable retiene el WWE Intercontinental Championship"
 referee: "[verif]"
@@ -75,8 +75,29 @@ Chad Gable. Dato cerrado por research el 2026-09-16.
 
 ## Pendientes
 
-- [ ] Duración — research en curso.
-- [ ] Confirmar si algún reporte describe el tramo largo en el esquinero.
+- [x] Duración: **15:40** [Secundaria: Powell, Pro Wrestling Dot Net,
+      14/9/2026]; variante 15:36 en otro registro (research 2026-09-16).
+- [x] **El tramo del esquinero — confirmado, con el signo invertido
+      respecto del dictado**: ningún reporte describe a Gable
+      castigando largo en la esquina; lo que describen es a **Dragon
+      Lee colgando a Gable en *tree of woe*, subiendo las cuerdas,
+      pateándolo y cerrando con double stomp en caída** — y **Lee
+      lastimándose el tobillo izquierdo en el aterrizaje** [Secundaria:
+      PWMania / OWW / Sportskeeda, 14/9/2026]. Ese daño es el que
+      **paga el finish**: Gable engancha el tobillo y hace *grapevine*
+      hasta el tap [Secundaria: PWMania, OWW; Wrestlezone, 15/9/2026].
+      Booking de miembro con causa y consecuencia — si el Vehemiurgo se
+      refería a otro tramo, `[verif]`.
+- [x] Otros tramos (research): tope / cannonball de Lee sobre la mesa
+      de comentaristas; Olympic Slam; Operation Dragon con near-fall;
+      Gable rueda un intento de Styles Clash y lo convierte en ankle
+      lock; Lee zafa y **conecta el Styles Clash**, Gable patea
+      [Primaria: WWE.com highlights; Secundaria: Wrestling Inc.,
+      15/9/2026]. Canto de **"esto es lucha"** tras un tornado DDT
+      [Secundaria: Wrestlezone]. Post-match: Gable frena al árbitro
+      antes de recibir el cinturón, abraza a Lee y le levanta la mano.
+      Recepción (contexto, no veredicto): Keller *"fantastic"*; ITR
+      tituló "Match of the Year".
 - [ ] Referee.
 
 ## Cross-links

@@ -9,8 +9,8 @@ ciudad: "Ciudad de México"
 recinto: "Arena CDMX"
 tipo_match: "triple threat — Women's Money in the Bank Qualifying Match"
 estipulacion: "clasificatorio al Women's Money in the Bank Ladder Match"
-duracion: "[no confirmado]"
-finish: "[no confirmado] — research en curso"
+duracion: "10:10 (Powell/PWDN)"
+finish: "Vice esquiva un big boot de Raquel Rodriguez que manda a Kelani Jordan volando del apron; con la pierna de Rodriguez trabada en la cuerda superior, Vice le entra por detrás y la cubre en pin rápido (roll-up) — la caída la toma Rodriguez, no Jordan"
 ganador: "Lola Vice — clasifica al Women's Money in the Bank Ladder Match (debut in-ring en Raw)"
 referee: "[verif]"
 encuentros_previos: 0
@@ -82,8 +82,27 @@ compite como Campeona Intercontinental Femenina.
 
 ## Pendientes
 
-- [ ] **Finish exacto** y duración — research en curso.
-- [ ] Confirmar si hubo ángulo con The Judgment Day dentro del match.
+- [x] **Finish y duración cerrados (research 2026-09-16)**: **10:10**
+      [Secundaria: Powell, PWDN, 14/9/2026]. Vice esquiva un big boot
+      de Rodriguez que **saca a Jordan del apron**; con la pierna de
+      Rodriguez trabada en la cuerda superior, Vice la cubre en pin
+      rápido [Primaria: WWE.com; Secundaria: KB, Fightful — "roll-up"].
+      **La caída la toma Rodriguez, no Jordan.** Cuerpo: Rodriguez
+      dominando por poder; Jordan casi roba con Frog Splash sobre
+      Rodriguez y Vice la borra con spinning heel kick [Secundaria:
+      Ringside News].
+- [x] **Ángulo con The Judgment Day: no hubo** — ni interferencia ni
+      ataque dentro del match. La conexión es **estructural**: Raquel
+      Rodriguez es integrante del grupo (y Women's IC Champion), así que
+      Vice debuta cubriendo a una miembro — la prensa lo lee como
+      siembra, no como ángulo ejecutado. Coincide con el take del
+      Vehemiurgo (*"buen booking ponerla contra el Judgment Day de
+      arranque"*) leído como booking, no como spot.
+- [x] Debut confirmado para las dos: Vice, primer match en Raw; Jordan,
+      primera aparición in-ring en Raw, billeada como NXT Women's
+      Champion vigente [Primaria: WWE.com preview 14/9/2026].
+- [ ] Referee. Keller marcó uno de los dos clasificatorios como el que
+      "no funcionó" sin que el snippet diga cuál — `[verif]`.
 
 ## Cross-links
 

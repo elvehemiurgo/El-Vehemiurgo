@@ -115,7 +115,23 @@ sostiene igual**.
 **"Original El Grande Americano"** —el gimmick enmascarado que él
 portaba— **perdió una lucha máscara vs máscara ante El Grande Americano
 en Noche de los Grandes**, se desenmascaró, y retomó su nombre.
-`[fecha exacta de Noche de los Grandes: research en curso]`.
+**Fecha cerrada (research 2026-09-16)**: **sábado 30/5/2026, Noche de
+los Grandes Night 1, Monterrey** — No Disqualification Mask vs Mask de
+main event, **El Grande Americano (Ludwig Kaiser)** vence al "Original"
+(Gable); combate sangriento, desenmascare con la esposa y los tres
+hijos de Gable en el ring, promo de Gable ensangrentado [Primaria:
+WWE.com video oficial; Secundaria: POST Wrestling, 31/5/2026]. Variety
+reportó **más de 2 millones de espectadores** para el evento. **La
+transición a Chad Gable sin máscara no tuvo excusa de kayfabe: se
+explicó como redención declarada** — disculpa a Rey Fénix (SmackDown
+5/6), protege a Rey Mysterio desenmascarado (Raw 8/6), vuelve a la
+acción vs Rusev (Raw 15/6, Baltimore). **Intercontinental: se lo ganó a
+Penta en SummerSlam 2026** (1-2/8, U.S. Bank Stadium, Minneapolis — su
+ciudad) por sumisión con ankle lock tras contrar un Destroyer
+[Secundaria: POST Wrestling, 2/8/2026]; `[verif]` la noche exacta.
+Cadena hasta CDMX: 17/8 retiene vs Rey Mysterio (13:14, roll-up) →
+31/8 Dragon Lee gana el #1 contender vs Ethan Page → **14/9 vs Dragon
+Lee (15:40)**.
 
 Ficha de la identidad enmascarada:
 [`./original-grande-americano.md`](./original-grande-americano.md).
