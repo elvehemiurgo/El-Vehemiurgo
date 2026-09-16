@@ -22,8 +22,8 @@ tags: [rey-fenix, aaa, fighting-spirit, wrestling-entertainment, perfect-wrestli
 ## Identificación
 
 - **Nombre de gimmick**: Rey Fénix.
-- **Nombre real**: [verif].
-- **Empresa (2026)**: AAA.
+- **Nombre real**: **no público** — nunca revelado, tradición del enmascarado [Enciclopedia: Wikipedia; TheSportster]. Origen: Ecatepec, Estado de México [On-record: Milenio–La Afición, junio 2025; Récord, 25/8/2026].
+- **Empresa (2026)**: WWE / AAA. Firmó con WWE en **marzo de 2025** (Fightful, 21/3/2025), tras la liberación de AEW (~3/3/2025); **debut 4/4/2025, SmackDown, vence a Nathan Frazer** [Primaria: WWE.com]. Llegó antes y por separado del deal WWE–AAA (anunciado 21/4/2025).
 
 ## Trayectoria condensada
 
@@ -407,9 +407,32 @@ elogio. **Post-match: Los Perros del Mal arrasan con los cuatro.**
 [fatal 4-way, Cruiserweight](../matches/2026-09-13-rey-fenix-vs-cartwheel-vs-frazer-vs-mini-vikingo-cruiserweight-aaa-triplemania-xxxiv.md) (**ICC**) ·
 [el ataque de Los Perros del Mal](../segments/2026-09-13-los-perros-del-mal-ataque-post-match-aaa-triplemania-xxxiv.md) (**WE+**)
 
+### Sesión 2026-09-16 — Guion 008 y research del reinado
+
+**Guion 008** —
+[`../../guiones/guion-008-rey-fenix-2026-una-lucha-de-fenix.md`](../../guiones/guion-008-rey-fenix-2026-una-lucha-de-fenix.md):
+**19 luchas registradas en 2026, 18 con corona, 13 con las tres
+clases; 1 ICC+ (Saints, 11/9)**. Research `fenix-2026-run` cierra:
+**segundo reinado** como Cruiserweight (el primero: 18/6/2022 →
+vacante 17/7/2023); Laredo Kid llegaba con 539 días; **12/6 vs Axiom
+= primera vez que un título de AAA se defiende en un ring de WWE**
+(Triple H, 13/6: *"the first time EVER in @wwe ring"*); **10 defensas
+al 16/9, coincide con el archivo**; final del torneo **16:00**, y el
+Raw de esa final fue **el menos visto de la era Netflix** (≤1,8M,
+sin ranking en 93 países — Wrestlenomics), mientras el de su primera
+ronda (17/8) fue el más visto desde mayo (2,7M). Registrado sin
+adjudicar. Fénix on-record sobre la final: *"almost 22 years ago...
+we used to play wrestling in my parents' beds"* (Busted Open).
+
 ## Pendientes / huecos
 
-- [ ] Nombre real, debut, trayectoria completa.
+- [x] Nombre real (no público), debut WWE (4/4/2025 vs Frazer),
+      salida de AEW (2024-25) — cerrados por research `fenix-2026-run`
+      (2026-09-16). Trayectoria completa pre-2025 y linaje de títulos
+      de los Lucha Brothers: ver
+      [`../../guiones/guion-008-rey-fenix-2026-una-lucha-de-fenix.md`](../../guiones/guion-008-rey-fenix-2026-una-lucha-de-fenix.md) §3.
+- [ ] Royal Rumble 2026 (31/1, #24, eliminado por Lesnar) — no
+      dictado; sin ficha.
 - [ ] Finish/duración de todos los matches registrados.
 
 ## Piezas del Vehemiurgo donde aparece

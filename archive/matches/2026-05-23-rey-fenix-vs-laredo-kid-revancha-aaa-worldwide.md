@@ -10,7 +10,7 @@ recinto: "[verif]"
 tipo_match: "singles"
 estipulacion: "standard"
 duracion: "[verif]"
-finish: "[verif]"
+finish: "Laredo Kid retiene con low blow [Secundaria: Fightful 30/5/2026, en el recap del rubber match — research fenix-2026-run]"
 ganador: "[verif]"
 referee: "[verif]"
 encuentros_previos: 1

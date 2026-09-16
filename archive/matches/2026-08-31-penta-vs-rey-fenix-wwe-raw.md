@@ -9,7 +9,7 @@ ciudad: "Cleveland, Ohio [grabado el 28/8]"
 recinto: "Rocket Arena [grabado el 28/8]"
 tipo_match: "singles"
 estipulacion: "final del torneo No. 1 contendiente al WWE World Heavyweight Championship"
-duracion: "~12:15–14:00 [verif — dos cifras sin reconciliar]"
+duracion: "16:00 (PWTorch/Keller)"
 finish: "Mexican Destroyer de Penta"
 ganador: "Penta — nuevo contendiente #1, enfrentará a Roman Reigns el 14/9 en Ciudad de México"
 referee: "[verif]"
@@ -72,7 +72,23 @@ tags: [wwe-raw-2026, penta, rey-fenix, world-heavyweight-championship, ciudad-de
 
 ## Pendientes
 
-- [ ] Reconciliar la duración exacta.
+- [x] **Duración reconciliada (research `fenix-2026-run`, 2026-09-16)**:
+      **16:00** [Secundaria: PWTorch/Keller, 31/8/2026]. Las dos cifras
+      previas (~12:15 / ~14:00) no aparecen en ninguna fuente — el 14:00
+      es la semifinal Fénix vs Dragon Lee del 24/8 (contaminación
+      probable). Main event, campana a los ~77 min del stream; Penta
+      Driver a Fénix a través de la mesa de comentaristas antes del
+      Mexican Destroyer; abrazo, pirotecnia, Reigns cara a cara.
+- [x] **Audiencia (Netflix)**: el Raw del 31/8 **no rankeó en el Top 10
+      global, de EE.UU. ni de ninguno de los 93 países** — segunda vez
+      en 20 meses; el #10 global tuvo 1,8M → **Raw ≤ 1,8M, mínimo desde
+      la mudanza a Netflix** [Secundaria: Wrestlenomics/Thurston,
+      8/9/2026; POST; PWDN]. Ninguna fuente lo atribuye al main event;
+      el archivo lo registra sin adjudicar. Boletería: 10.550
+      distribuidos [WrestleTix vía PWTorch]. Contexto WON: ★★★★½; Tommy
+      Dreamer (Busted Open): *"best match of 2026"* — opinión.
+- [x] Fénix on-record post-match (1/9, redes): *"From a dream to
+      reality... Now I just want him to win that title in Mexico"*.
 
 ## Cross-links
 
