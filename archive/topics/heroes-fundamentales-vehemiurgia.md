@@ -127,7 +127,7 @@ pase al Tier 1 y le fijó el **puesto #6**.*
 | 6 | **James Storm** | TNA / carny sureño — **ascendido del Tier 0 (s55)** | [→](../people/james-storm.md) |
 | 7 | **Dynamite Kid** | British / Wigan (wrestling puro) — **#6→#7 (s55)** | [→](../people/dynamite-kid.md) |
 | 8 | **Roderick Strong** | Worker de oficio (ROH/PWG) — **#7→#8 (s55)** | [→](../people/roderick-strong.md) |
-| **9** | **Flammer** | Lucha libre mexicana / AAA — líder de Las Tóxicas. **Alta 2026-09-16 s01.** ⚠️ **Número pendiente de declaración** (ver notas) | [→](../people/flammer.md) |
+| **9** | **Flammer** | Lucha libre mexicana / AAA — líder de Las Tóxicas. **Alta 2026-09-16 s01; #9 ratificado 2026-09-16 s03** (*"Flamer está bien en 9"*) | [→](../people/flammer.md) |
 
 ### Tier 2 — The Pillars of Wrestling (#8-25)
 
@@ -363,9 +363,9 @@ exactamente la definición de "la sombra de los 7 dioses".
 
 - **Alta al Tier 1.** Es la **primera luchadora mexicana** del tier y
   la **primera mujer** en él.
-- ⚠️ **El número queda PENDIENTE DE DECLARACIÓN.** El Vehemiurgo
-  declaró el tier, no el puesto. **Se registra provisionalmente en el
-  #9 —al final del tier— sin desplazar a nadie.**
+- **#9 ratificado (2026-09-16 s03)**: *"Flamer está bien en 9"*
+  (verbatim). El registro provisional al final del tier queda como
+  definitivo; **nadie se desplaza**.
 - **Precedente aplicado (James Storm, s55)**: ahí también se declaró
   tier sin número, el archivo consultó, y el Vehemiurgo fijó *"que
   Storm entre en 6"*, lo que corrió a **Dynamite Kid #6→#7** y a

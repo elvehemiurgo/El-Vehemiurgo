@@ -65,12 +65,12 @@ a Vikingo con un Mexican Muscle Buster** para robarse la cuenta.
 3. **Nota de lectura sobre "todas las clases"**: se registra como
    **PW·FS·WE → ICC**, no ICC+. El Vehemiurgo distingue
    sistemáticamente *"las 3 clases"* de *"las 3 clases con la corona
-   +"*; *"todas las clases"* se lee como las tres. **Si quiso decir
-   ICC+, se corrige con una frase.**
+   +"*; *"todas las clases"* se lee como las tres. **Ratificado
+   2026-09-16 s03**: *"la 4 way no sube a +"* — queda **ICC**.
 
 ## Pendientes
 
-- [ ] Confirmar la lectura de *"todas las clases"* (¿ICC o ICC+?).
+- [x] Lectura de *"todas las clases"* ratificada como **ICC** (s03 16/9).
 - [ ] Referee.
 
 ## Cross-links

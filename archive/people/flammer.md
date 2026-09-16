@@ -17,9 +17,9 @@ tags: [flammer, aaa, las-toxicas, ko-division, fighting-spirit, primer-registro-
 > ([panteón](../topics/heroes-fundamentales-vehemiurgia.md), alta
 > **2026-09-16 s01** — *"Pongamos a Lady Flamer en el Tier 1"*).
 > **Primera mujer y primera luchadora mexicana del Tier 1.**
-> ⚠️ **El número es provisional**: el Vehemiurgo declaró el tier, no el
-> puesto; se registra al final del tier sin desplazar a nadie, a la
-> espera de que lo fije (precedente James Storm, s55).
+> **#9 ratificado** (2026-09-16 s03: *"Flamer está bien en 9"*). Se
+> había registrado provisionalmente al final del tier (precedente
+> James Storm, s55); el Vehemiurgo lo fijó sin corrimientos.
 
 > **Corrección de grafía (2026-07-14 s44)**: registrada como
 > *"Lady Flamer"*. La luchadora real de Las Tóxicas de AAA es
