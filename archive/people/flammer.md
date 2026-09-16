@@ -4,14 +4,22 @@ tipo: fact-sheet
 categoria: people
 slug: flammer
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-09-16
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — AAA Worldwide, 4/4/2026)"
   - "Mención previa en dossier AAA/AEW 2026 cluster (roster AAA Knockouts)"
-tags: [flammer, aaa, las-toxicas, ko-division, fighting-spirit, primer-registro-individual]
+tags: [flammer, aaa, las-toxicas, ko-division, fighting-spirit, primer-registro-individual, panteon-tier-1, dios-del-wrestling, triplemania-xxxiv]
 ---
 
 # Flammer
+
+> **DIOS DEL WRESTLING #9 (Tier 1) del Vehemiurgo**
+> ([panteón](../topics/heroes-fundamentales-vehemiurgia.md), alta
+> **2026-09-16 s01** — *"Pongamos a Lady Flamer en el Tier 1"*).
+> **Primera mujer y primera luchadora mexicana del Tier 1.**
+> ⚠️ **El número es provisional**: el Vehemiurgo declaró el tier, no el
+> puesto; se registra al final del tier sin desplazar a nadie, a la
+> espera de que lo fije (precedente James Storm, s55).
 
 > **Corrección de grafía (2026-07-14 s44)**: registrada como
 > *"Lady Flamer"*. La luchadora real de Las Tóxicas de AAA es

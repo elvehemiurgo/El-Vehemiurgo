@@ -127,6 +127,7 @@ pase al Tier 1 y le fijó el **puesto #6**.*
 | 6 | **James Storm** | TNA / carny sureño — **ascendido del Tier 0 (s55)** | [→](../people/james-storm.md) |
 | 7 | **Dynamite Kid** | British / Wigan (wrestling puro) — **#6→#7 (s55)** | [→](../people/dynamite-kid.md) |
 | 8 | **Roderick Strong** | Worker de oficio (ROH/PWG) — **#7→#8 (s55)** | [→](../people/roderick-strong.md) |
+| **9** | **Flammer** | Lucha libre mexicana / AAA — líder de Las Tóxicas. **Alta 2026-09-16 s01.** ⚠️ **Número pendiente de declaración** (ver notas) | [→](../people/flammer.md) |
 
 ### Tier 2 — The Pillars of Wrestling (#8-25)
 
@@ -353,6 +354,32 @@ exactamente la definición de "la sombra de los 7 dioses".
   como uno). **Doble presencia confirmada**: Kyle O'Reilly individual
   Tier 2 #12 + reDRagon Fundamental #44 — mismo patrón que Dynamite
   Kid #6 + British Bulldogs #42.
+
+## Nota de alta 2026-09-16 (s01) — Flammer al Tier 1
+
+> *"Pongamos a Lady Flamer en el Tier 1"*
+>
+> — El Vehemiurgo, 2026-09-16 s01 (verbatim)
+
+- **Alta al Tier 1.** Es la **primera luchadora mexicana** del tier y
+  la **primera mujer** en él.
+- ⚠️ **El número queda PENDIENTE DE DECLARACIÓN.** El Vehemiurgo
+  declaró el tier, no el puesto. **Se registra provisionalmente en el
+  #9 —al final del tier— sin desplazar a nadie.**
+- **Precedente aplicado (James Storm, s55)**: ahí también se declaró
+  tier sin número, el archivo consultó, y el Vehemiurgo fijó *"que
+  Storm entre en 6"*, lo que corrió a **Dynamite Kid #6→#7** y a
+  **Roderick Strong #7→#8**. **Si acá fija un número distinto del 9,
+  los corrimientos se aplican en el mismo commit**, como manda el
+  protocolo.
+- **Contexto de la declaración**: llega en el mismo take donde
+  **pierde** ante La Catalina en TripleMania XXXIV Día 2 (13/9/2026), y
+  **con una objeción de booking encima** — *"la excusa para que pierda
+  Flamer no sé si me satisface, parece flojo como solo se distrajo"*.
+  **El juicio sobre el talento no se mueve por el fallo sobre la
+  decisión**, patrón ya documentado en el archivo.
+- **Sin dobles presencias**: Las Tóxicas, como trío, **no están en el
+  panteón** — el alta es individual.
 
 ## Notas de la reorganización 2026-06-17 (segunda ronda)
 
