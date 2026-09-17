@@ -31,8 +31,8 @@ nombre en el cartel importa**. Los **segmentos también cuentan**.
 
 **Snapshot 2026-08-22**: 729 entradas contadas
 (732 bullets, duplicados exactos deduplicados) ·
-551 con ≥1 nombre reconocido ·
-206 talents/entidades distintos.
+553 con ≥1 nombre reconocido ·
+207 talents/entidades distintos.
 Se cuentan los nombres que el archivo conoce (fichas de `people/` y
 `promotions/` + canónicos del registro), normalizados al canon
 **antes** de contar; el verbatim con typos vive solo en el notebook.
@@ -123,44 +123,45 @@ Se cuentan los nombres que el archivo conoce (fichas de `people/` y
 | 75 | Clark Connors | 4 | 0 | 4 | ficha [→](../people/clark-connors.md) |
 | 76 | Dani Luna | 4 | 0 | 4 | ficha [→](../people/dani-luna.md) |
 | 77 | Fallon Henley | 4 | 0 | 4 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/fallon-henley.md) |
-| 78 | Gunther | 4 | 0 | 4 | ficha [→](../people/gunther.md) |
-| 79 | Heather by Elegance | 4 | 2 | 2 | ficha [→](../people/heather-by-elegance.md) |
-| 80 | Hijo del Vikingo | 4 | 1 | 3 | ficha [→](../people/hijo-del-vikingo.md) |
-| 81 | Jay Lethal | 4 | 0 | 4 | ficha [→](../people/jay-lethal.md) |
-| 82 | Jeff Hardy | 4 | 0 | 4 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/jeff-hardy.md) |
-| 83 | Jodi Threat | 4 | 0 | 4 | ficha [→](../people/jodi-threat.md) |
-| 84 | Jordynne Grace | 4 | 0 | 4 | ficha [→](../people/jordynne-grace.md) |
-| 85 | Kit Wilson | 4 | 0 | 4 | ficha [→](../people/kit-wilson.md) |
-| 86 | Mark Davis | 4 | 0 | 4 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/mark-davis.md) |
-| 87 | Mike Bailey | 4 | 0 | 4 | ficha [→](../people/mike-bailey.md) |
-| 88 | Oba Femi | 4 | 0 | 4 | ficha [→](../people/oba-femi.md) |
-| 89 | Owen Hart | 4 | 3 | 1 | ficha [→](../people/owen-hart.md) |
-| 90 | Rey Fénix | 4 | 0 | 4 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/rey-fenix.md) |
-| 91 | Ric Flair | 4 | 1 | 3 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/ric-flair.md) |
-| 92 | Rich Swann | 4 | 0 | 4 | ficha [→](../people/rich-swann.md) |
-| 93 | Ricky Saints | 4 | 2 | 2 | ficha [→](../people/ricky-saints.md) |
-| 94 | Ryan Nemeth | 4 | 1 | 3 | ficha [→](../people/ryan-nemeth.md) |
-| 95 | Tessa Blanchard | 4 | 0 | 4 | ficha [→](../people/tessa-blanchard.md) |
-| 96 | Tiffany Stratton | 4 | 0 | 4 | ficha [→](../people/tiffany-stratton.md) |
-| 97 | Will Ospreay | 4 | 1 | 3 | ficha [→](../people/will-ospreay.md) |
-| 98 | Alex Shelley | 3 | 1 | 2 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/alex-shelley.md) |
-| 99 | Christopher Daniels | 3 | 0 | 3 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/christopher-daniels.md) |
-| 100 | Don Callis | 3 | 0 | 3 | ficha [→](../people/don-callis.md) |
-| 101 | El Fiscal | 3 | 0 | 3 | ficha [→](../people/el-fiscal.md) |
-| 102 | Elijah | 3 | 2 | 1 | ficha [→](../people/elijah.md) |
-| 103 | JD McDonagh | 3 | 1 | 2 | ficha [→](../people/jd-mcdonagh.md) |
-| 104 | Jaida Parker | 3 | 0 | 3 | ficha [→](../people/jaida-parker.md) |
-| 105 | Jason Hotch | 3 | 0 | 3 | ficha [→](../people/jason-hotch.md) |
-| 106 | Kevin Knight | 3 | 0 | 3 | ficha [→](../people/kevin-knight.md) |
-| 107 | La Parka | 3 | 0 | 3 | ficha [→](../people/la-parka.md) |
-| 108 | Lainey Reid | 3 | 0 | 3 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/lainey-reid.md) |
-| 109 | Lei Ying Lee | 3 | 1 | 2 | ficha [→](../people/lei-ying-lee.md) |
-| 110 | Low Ki | 3 | 2 | 1 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/low-ki.md) |
-| 111 | Nia Jax | 3 | 0 | 3 | ficha [→](../people/nia-jax.md) |
-| 112 | Sami Zayn | 3 | 1 | 2 | ficha [→](../people/sami-zayn.md) |
-| 113 | Steve Maclin | 3 | 0 | 3 | ficha [→](../people/steve-maclin.md) |
-| 114 | Tama Tonga | 3 | 0 | 3 | ficha [→](../people/tama-tonga.md) |
-| 115 | The Miz | 3 | 0 | 3 | ficha [→](../people/the-miz.md) |
+| 78 | Gabe Kidd | 4 | 0 | 4 | ficha [→](../people/gabe-kidd.md) |
+| 79 | Gunther | 4 | 0 | 4 | ficha [→](../people/gunther.md) |
+| 80 | Heather by Elegance | 4 | 2 | 2 | ficha [→](../people/heather-by-elegance.md) |
+| 81 | Hijo del Vikingo | 4 | 1 | 3 | ficha [→](../people/hijo-del-vikingo.md) |
+| 82 | Jay Lethal | 4 | 0 | 4 | ficha [→](../people/jay-lethal.md) |
+| 83 | Jeff Hardy | 4 | 0 | 4 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/jeff-hardy.md) |
+| 84 | Jodi Threat | 4 | 0 | 4 | ficha [→](../people/jodi-threat.md) |
+| 85 | Jordynne Grace | 4 | 0 | 4 | ficha [→](../people/jordynne-grace.md) |
+| 86 | Kit Wilson | 4 | 0 | 4 | ficha [→](../people/kit-wilson.md) |
+| 87 | Mark Davis | 4 | 0 | 4 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/mark-davis.md) |
+| 88 | Mike Bailey | 4 | 0 | 4 | ficha [→](../people/mike-bailey.md) |
+| 89 | Oba Femi | 4 | 0 | 4 | ficha [→](../people/oba-femi.md) |
+| 90 | Owen Hart | 4 | 3 | 1 | ficha [→](../people/owen-hart.md) |
+| 91 | Rey Fénix | 4 | 0 | 4 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/rey-fenix.md) |
+| 92 | Ric Flair | 4 | 1 | 3 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/ric-flair.md) |
+| 93 | Rich Swann | 4 | 0 | 4 | ficha [→](../people/rich-swann.md) |
+| 94 | Ricky Saints | 4 | 2 | 2 | ficha [→](../people/ricky-saints.md) |
+| 95 | Ryan Nemeth | 4 | 1 | 3 | ficha [→](../people/ryan-nemeth.md) |
+| 96 | Tessa Blanchard | 4 | 0 | 4 | ficha [→](../people/tessa-blanchard.md) |
+| 97 | Tiffany Stratton | 4 | 0 | 4 | ficha [→](../people/tiffany-stratton.md) |
+| 98 | Will Ospreay | 4 | 1 | 3 | ficha [→](../people/will-ospreay.md) |
+| 99 | Alex Shelley | 3 | 1 | 2 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/alex-shelley.md) |
+| 100 | Christopher Daniels | 3 | 0 | 3 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/christopher-daniels.md) |
+| 101 | Don Callis | 3 | 0 | 3 | ficha [→](../people/don-callis.md) |
+| 102 | El Fiscal | 3 | 0 | 3 | ficha [→](../people/el-fiscal.md) |
+| 103 | Elijah | 3 | 2 | 1 | ficha [→](../people/elijah.md) |
+| 104 | JD McDonagh | 3 | 1 | 2 | ficha [→](../people/jd-mcdonagh.md) |
+| 105 | Jaida Parker | 3 | 0 | 3 | ficha [→](../people/jaida-parker.md) |
+| 106 | Jason Hotch | 3 | 0 | 3 | ficha [→](../people/jason-hotch.md) |
+| 107 | Kevin Knight | 3 | 0 | 3 | ficha [→](../people/kevin-knight.md) |
+| 108 | La Parka | 3 | 0 | 3 | ficha [→](../people/la-parka.md) |
+| 109 | Lainey Reid | 3 | 0 | 3 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/lainey-reid.md) |
+| 110 | Lei Ying Lee | 3 | 1 | 2 | ficha [→](../people/lei-ying-lee.md) |
+| 111 | Low Ki | 3 | 2 | 1 | **panteón** ([→](./heroes-fundamentales-vehemiurgia.md)); ficha [→](../people/low-ki.md) |
+| 112 | Nia Jax | 3 | 0 | 3 | ficha [→](../people/nia-jax.md) |
+| 113 | Sami Zayn | 3 | 1 | 2 | ficha [→](../people/sami-zayn.md) |
+| 114 | Steve Maclin | 3 | 0 | 3 | ficha [→](../people/steve-maclin.md) |
+| 115 | Tama Tonga | 3 | 0 | 3 | ficha [→](../people/tama-tonga.md) |
+| 116 | The Miz | 3 | 0 | 3 | ficha [→](../people/the-miz.md) |
 
 ## Cola larga — 2 menciones (33 talents)
 

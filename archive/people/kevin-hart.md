@@ -68,6 +68,28 @@ activo en una storyline concreta. Eso refuerza que se trata de un
 personaje real dentro del archivo del Vehemiurgo, aunque su
 identidad siga sin resolverse.
 
+
+### Sesión 2026-09-17 s01 — Tercera aparición: research apunta a Kevin Knight
+
+**Cita verbatim** (tercera mención bajo este nombre dictado):
+
+> *"luego Kevin Hart y Fletcher tienen una discución genial, con Don
+> Callis en medio [...] el booking de Kyle y Kevin ha estado
+> excelente siempre"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Avance de identidad (sin cerrar)**: el research de esta sesión
+(AEW Dynamite 2/9/2026) identifica que el segmento de "Kevin Hart"
+vs Kyle Fletcher, mediado por Don Callis, corresponde a **Kevin
+Knight** — con **alta confianza pero fuente Terciaria**, sin
+verificar el cruce con las dos apariciones de abril 2026 (comparación
+con Myron Reed; "de tú a tú" con MJF). **No se fusionan las fichas
+todavía**: la hipótesis queda declarada, pendiente de un research más
+puntual (Fightful/PWTorch del 2/9) que la suba a Secundaria. Ver
+[`./kevin-knight.md`](./kevin-knight.md). Pieza:
+[confrontación con Fletcher](../segments/2026-09-02-kevin-knight-kyle-fletcher-don-callis-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] **CONFIRMAR IDENTIDAD** — preguntar al Vehemiurgo a quién se

@@ -78,6 +78,24 @@ Persephone, que se estira más allá del Owen Hart Tournament 2026.
 Ver
 [`../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md`](../matches/2026-06-06-persephone-vs-hazuki-aew-collision.md).
 
+
+### Sesión 2026-09-17 s01 — Celebración interrumpida por Thekla, "expuesta como entertainer"
+
+**Cita verbatim**:
+
+> *"Teklah interrumpiendo la celebración de Mercedes [...] expuso a
+> Mercedes como enterteiner y asi es como habla un wrestler que se la
+> está viviendo, me ecnanta"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: celebra el título ganado en All In: London
+cuando Thekla la interrumpe con un tease de revancha. El elogio
+recae más sobre Thekla que sobre Moné, pero la reposiciona como
+entertainer dentro de un registro previo que la había criticado como
+"mid, super mid" (s19/s23). Pieza:
+[interrupción de Thekla](../segments/2026-09-02-thekla-interrumpe-celebracion-mercedes-mone-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa (WWE Sasha Banks →

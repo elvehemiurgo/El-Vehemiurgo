@@ -97,6 +97,24 @@ TNA**. **El fenómeno es de industria, no de una empresa.**
 [el segmento con Knight y Callis](../segments/2026-08-29-kevin-knight-steven-borden-don-callis-aew-collision.md) (**WE+**) ·
 [Knight vs Darby en Wembley](../matches/2026-08-30-kevin-knight-vs-darby-allin-tnt-aew-all-in.md) (**ICC**)
 
+
+### Sesión 2026-09-17 s01 — Continúa el long-term booking: save tras Darby vs Davis
+
+**Cita verbatim**:
+
+> *"El segmento post match aqui con Steven Borden fue muy cool, buen
+> setup y el booking está genial [...] configuración premium para
+> continuar el booking de Darby que ya era impecable y ahora con
+> Steven Borden como nuevo proyecto"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: siguiente paso ejecutado del plan declarado en
+s58 (*"puede tener un rub con Sting"*). Josh Alexander regresa a TV;
+Trent Beretta y Rocky Romero atacan a Darby Allin; Borden hace el
+save y encara a Mark Davis. Pieza:
+[post-match](../segments/2026-09-02-post-match-steven-borden-josh-alexander-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Fecha de nacimiento y nombre completo.

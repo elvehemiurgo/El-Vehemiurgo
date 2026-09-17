@@ -39,6 +39,21 @@ tags: [josh-alexander, the-north, ethan-page, impact-world-champion, tna, aew, d
 
 Nombrado primero en la lista masiva del 2026-08-01 s26 (*"Pongamos a Ethan Page, Josh Alexander..."*), rama *"worker de oficio"*, con Ethan Page como par canadiense. El archivo lo tiene como referencia de la etapa Impact de Big Cass (s49). La lectura del panteón: el técnico completo que ganó y perdió el título mundial en una misma noche y luego sostuvo el reinado más largo de la historia de la empresa — oficio antes que estrella, exactamente el molde Tier 0.
 
+
+### Sesión 2026-09-17 s01 — Regreso a TV, "dominando"
+
+**Cita verbatim**:
+
+> *"encima regresa Josh Alexander a TV, dominando, fue una escena
+> genial"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: regreso a TV en el post-match de Darby Allin
+vs Mark Davis, dentro del arco de Steven Borden. Secuencia exacta
+respecto al ataque de Beretta/Romero sin cerrar por research. Pieza:
+[post-match](../segments/2026-09-02-post-match-steven-borden-josh-alexander-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Día de nacimiento.

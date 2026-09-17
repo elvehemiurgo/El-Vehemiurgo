@@ -436,6 +436,24 @@ otorga a **una sola actuación dentro de una pieza colectiva débil**.
 Ver [ficha del segmento](../segments/2026-07-29-christian-cope-young-bucks-aew-dynamite.md).
 
 
+
+### Sesión 2026-09-17 s01 — Clase de promo a Young Bucks y FTR, la polémica de Cope
+
+**Cita verbatim**:
+
+> *"hasta que Christian sale y les enseña como cortar una promo, les
+> lanza todo el oldschool y evidencia que son un acto superior en
+> todos los aspectos [...] La participación de Cope & Cage se merece
+> una WE, solo ellos"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: la WE se declara **exclusivamente** para Cage
+y Cope, no para Young Bucks ni FTR — separación deliberada del
+Vehemiurgo dentro del mismo segmento. Dibuja la polémica de Cope
+satisfecho con hacer trampa sin querer hacerla él mismo. Pieza:
+[clase de promo](../segments/2026-09-02-christian-cage-cope-clase-de-promo-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

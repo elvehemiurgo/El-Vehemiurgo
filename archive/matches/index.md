@@ -44,6 +44,9 @@ con cada cambio de estado.
 | 2026-09-04 | Charlotte Flair & Tatum Paxley vs Fallon Henley & Lainey Reid (Fatal Influence) — non-title | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-09-04-charlotte-flair-paxley-vs-henley-reid-wwe-smackdown.md) |
 | 2026-09-04 | CM Punk (c) vs Johnny Gargano — Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-04-cm-punk-vs-johnny-gargano-wwe-smackdown.md) |
 | 2026-09-04 | Tiffany Stratton vs Nia Jax (con Lash Legend) | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-04-tiffany-stratton-vs-nia-jax-wwe-smackdown.md) |
+| 2026-09-02 | Darby Allin (c) vs Mark Davis — AEW TNT Championship (open challenge) | AEW / Dynamite | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-02-darby-allin-vs-mark-davis-tnt-aew-dynamite.md) |
+| 2026-09-02 | Will Ospreay, Andrade, Francesco Akira, HENARE & Callum Newman vs The Dogs (Clark Connors & Gabe Kidd) & The Demand (Ricochet, Bishop Kaun & Toa Liona) | AEW / Dynamite | — | — | en-investigacion | 1 | [→](2026-09-02-main-event-5-vs-5-aew-dynamite.md) |
+| 2026-09-02 | Windsor vs Megan Bayne | AEW / Dynamite | WE | — | en-investigacion | 1 | [→](2026-09-02-windsor-vs-megan-bayne-aew-dynamite.md) |
 | 2026-09-01 | Kam Hendrix vs Mason Rook | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-01-kam-hendrix-vs-mason-rook-nxt.md) |
 | 2026-09-01 | Zilla Fatu vs Tristan Angels | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md) |
 | 2026-08-31 | Ethan Page vs Dragon Lee | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-31-ethan-page-vs-dragon-lee-wwe-raw.md) |

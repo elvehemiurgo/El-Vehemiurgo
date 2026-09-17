@@ -145,6 +145,22 @@ otra vez, sin necesidad de reinventarse. Ver
 [el careo del 15/8](../segments/2026-08-15-christian-cope-vs-young-bucks-aew-collision.md) ·
 [el careo de Glasgow](../segments/2026-08-26-christian-cage-young-bucks-tag-titles-aew-dynamite.md)
 
+
+### Sesión 2026-09-17 s01 — "Llorones" tras Wembley, sin comeback
+
+**Cita verbatim**:
+
+> *"los ybs indignados con perder en Wembley, siguen actuando como
+> llorones, no dicen ningun comeback, nada entretenido"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: continúa la crítica ya registrada en s57/s59
+sobre sus promos. **Explícitamente excluidos** de la WE que sí lleva
+la irrupción de Christian Cage y Cope en el mismo segmento — ver
+[`./christian-cage.md`](./christian-cage.md). Pieza:
+[clase de promo](../segments/2026-09-02-christian-cage-cope-clase-de-promo-aew-dynamite.md) (WE, no para ellos).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: PWG/ROH/NJPW reinos + AEW Tag

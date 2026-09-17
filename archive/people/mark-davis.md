@@ -269,6 +269,23 @@ Finlay — mención retirada de este expediente.)*
 [vs Ospreay, Mexico City Street Fight](../matches/2026-08-05-ospreay-vs-mark-davis-aew-gsm.md) (PW·FS·WE — **ICC**) ·
 [la emboscada del 12/8](../segments/2026-08-12-ospreay-callis-emboscada-dc-family-omega-aew-dynamite.md) (**WE+**)
 
+
+### Sesión 2026-09-17 s01 — Grudge match ante Darby por el TNT: "han madurado mucho"
+
+**Cita verbatim**:
+
+> *"Estos dos han madurado mucho, cuidan cada detalle, de verdad se
+> mueven como profesionales. Se merecen las 3 clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim)
+
+**Lectura sintética**: de la Don Callis Family, reta el TNT
+Championship de Darby Allin en open challenge; pierde por doble
+Coffin Drop. Elogio de progresión de oficio compartido con Allin, en
+la misma línea que su historia previa contra Andrade (Redemption,
+s46). Pieza:
+[vs Darby Allin](../matches/2026-09-02-darby-allin-vs-mark-davis-tnt-aew-dynamite.md) (**ICC+**).
+
 ## Pendientes / huecos
 
 - [ ] Origen exacto del grudge con Andrade — [verif].

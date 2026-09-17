@@ -233,6 +233,24 @@ y
   contemporary — Kira como local hero ascendente + Persephone
   como talent saliendo a USA.
 
+
+### Sesión 2026-09-17 s01 — Doble campeona, "ya superó a Vaquer y Catalina"
+
+**Cita verbatim**:
+
+> *"ya superó a Vaquer y Catalina en cuanto a enterteiner y
+> definitivamente es genial in ring, no necesita ninguna madrina como
+> Britt Baker [...] ahora como doble campeona se ve increible"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: progreso de mic declarado explícitamente,
+comparación favorable directa contra dos referentes mexicanas de WWE.
+Doble campeona (AEW TBS + CMLL World Women's); anuncia defensa del
+TBS ante VertVixen en Collision. **Corrección de dictado**: "Maya
+World" es la rival a la que le ganó el TBS, no un título. Pieza:
+[backstage con Britt Baker](../segments/2026-09-02-persephone-britt-baker-backstage-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + origen + edad + background pre-CMLL**.

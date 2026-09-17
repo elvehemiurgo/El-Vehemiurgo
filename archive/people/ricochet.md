@@ -86,6 +86,28 @@ in-ring.
 [la alianza con The Dogs](../segments/2026-08-30-promo-dogs-demand-alianza-buy-in-aew-all-in.md) (WE) ·
 [Trios Roulette Royale](../matches/2026-08-30-trios-roulette-royale-aew-all-in.md) (**FC**)
 
+
+### Sesión 2026-09-17 s01 — Nota de continuidad: recaída del "delirio de percepción"
+
+**Cita verbatim**:
+
+> *"Lo malo es que deciden darle a Ricochet el primer shot, podría ser
+> una buena oportunidad, pero se puso a llorar porque no le dan
+> crédito como a Will, parece que estuvo tomando clases de dar
+> lástima con Kevin Owens y los Young Bucks."*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Nota de continuidad por fecha de show**: la sesión "Reconciliado" de
+arriba (capturada 2026-09-02 s58) cita shows del **29-30/8/2026** —
+**anteriores** a este Dynamite del **2/9**. Por orden de emisión, esta
+pieza es **posterior** a la reconciliación: el Vehemiurgo registra una
+**recaída** real en la queja de crédito, no una contradicción del
+archivo (precedente Saquon Shugars, s48 — ordenar por fecha de show).
+El archivo no adjudica si es booking deliberado o inconsistencia de
+guion. Pieza:
+[promo de apertura de Ospreay](../segments/2026-09-02-will-ospreay-promo-apertura-anuncio-ricochet-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa (NJPW/PWG/WWE/AEW) con

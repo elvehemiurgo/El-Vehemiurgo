@@ -180,6 +180,20 @@ Christian Cage. Ver
 - [`../../dossiers/draft-wwe-raw-2004-2005-christian-jericho-era.md`](../../dossiers/draft-wwe-raw-2004-2005-christian-jericho-era.md)
   — múltiples tag matches Raw 2004-2005 mencionados.
 
+
+### Sesión 2026-09-17 s01 — Cope & Cage, clase de promo (solo ellos llevan la WE)
+
+**Cita verbatim**:
+
+> *"La participación de Cope & Cage se merece una WE, solo ellos"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim)
+
+**Lectura sintética**: ver detalle completo en
+[`./christian-cage.md`](./christian-cage.md) — Young Bucks y FTR
+quedan explícitamente fuera de la clase. Pieza:
+[clase de promo](../segments/2026-09-02-christian-cage-cope-clase-de-promo-aew-dynamite.md) (WE).
+
 ## Pendientes
 
 - [ ] Edge MITB cash-in New Year's Revolution 2006 — pieza

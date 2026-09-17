@@ -307,6 +307,25 @@ Pierde ante una trampa de Knight con "un spot impresionante". Ver
 [la trampa de pyro](../segments/2026-08-19-kevin-knight-trampa-pyro-darby-debut-steven-borden-aew-dynamite.md) (WE) ·
 [vs Kevin Knight, TNT Title](../matches/2026-08-30-kevin-knight-vs-darby-allin-tnt-aew-all-in.md) (**ICC**)
 
+
+### Sesión 2026-09-17 s01 — Retiene el TNT ante Mark Davis: "esto sí es wrestling"
+
+**Cita verbatim**:
+
+> *"Darby vs Mark Davis, el clásico moderno, brutal, muy oldschool,
+> grudgematch buenisima con Don Callis en comentarios, esto si es
+> wrestling [...] Se merecen las 3 clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+**, primera defensa
+open challenge desde que recuperó el título (4ta vez) en All In:
+London. Post-match arranca el siguiente capítulo del proyecto Steven
+Borden (regreso de Josh Alexander, ataque de Beretta/Romero, save de
+Borden). Piezas:
+[vs Mark Davis](../matches/2026-09-02-darby-allin-vs-mark-davis-tnt-aew-dynamite.md) (**ICC+**) ·
+[post-match](../segments/2026-09-02-post-match-steven-borden-josh-alexander-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.

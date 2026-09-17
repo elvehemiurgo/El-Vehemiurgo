@@ -304,6 +304,27 @@ y
 [la promo larga y Borden](../segments/2026-08-29-kevin-knight-steven-borden-don-callis-aew-collision.md) (**WE+**) ·
 [vs Darby Allin, TNT Title](../matches/2026-08-30-kevin-knight-vs-darby-allin-tnt-aew-all-in.md) (**ICC**)
 
+
+### Sesión 2026-09-17 s01 — Posible identidad de "Kevin Hart": confrontación con Kyle Fletcher
+
+**Cita verbatim** (dictada como "Kevin Hart"):
+
+> *"Kevin Hart y Fletcher tienen una discución genial, con Don Callis
+> en medio, buena tensión, el booking de Kyle y Kevin ha estado
+> excelente siempre, se merecen una WE"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Nota de identidad**: el research de esta sesión identifica con
+**alta confianza (Terciaria)** que este segmento es de **Kevin
+Knight**, no de una identidad nueva — pero **no cierra** el cruce con
+las dos apariciones previas bajo "Kevin Hart" (abril 2026: comparación
+con Myron Reed, "de tú a tú" con MJF). Frustrado por perder su chance
+por el TNT Championship, confronta a Kyle Fletcher; Don Callis media
+y los reserva como equipo en Collision. Ver
+[`./kevin-hart.md`](./kevin-hart.md). Pieza:
+[confrontación con Fletcher](../segments/2026-09-02-kevin-knight-kyle-fletcher-don-callis-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

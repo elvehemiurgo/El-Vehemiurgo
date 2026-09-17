@@ -57,6 +57,21 @@ técnica fuerte sobre la ejecución física del match. El feud, ya
 criticado por su ritmo dilatado, mejora tras el hiatus según el
 Vehemiurgo.
 
+
+### Sesión 2026-09-17 s01 — "Solo se ponen a recordar cosas"
+
+**Cita verbatim**:
+
+> *"pero luego FTR salva el segmento, pero solo se ponen a recordar
+> cosas, estuvo ok"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: lectura tibia — "salva" el segmento de Young
+Bucks pero sin aportar más que nostalgia. **Excluidos de la WE** que
+sí lleva la irrupción posterior de Christian Cage y Cope. Pieza:
+[clase de promo](../segments/2026-09-02-christian-cage-cope-clase-de-promo-aew-dynamite.md) (WE, no para ellos).
+
 ## Pendientes / huecos
 
 - [ ] Nombres reales, debut, trayectoria (ROH/WWE/AEW) con fechas.

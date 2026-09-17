@@ -34,6 +34,23 @@ tags: [windsor, aew, dato-minimo, jamie-hayter-partner-verif, thekla-acompañant
   WE. *"Windsor le seguía el ritmo"* — rol de acompañamiento, no
   protagónico.
 
+
+### Sesión 2026-09-17 s01 — Pierde ante Megan Bayne, continuación de Wembley
+
+**Cita verbatim**:
+
+> *"aqui tenemos a Windsor vs Megan Bane [...] La lucha estuvo buena,
+> pero les faltó velocidad, muy 'call it in the ring' pero no lo
+> suficientemente oldschool, se merecen una WE"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: rematch post-título contra Divine Dominion
+(Megan Bayne, con Lena Kross); Jamie Hayter pelea afuera del ring
+mientras Bayne remata con Megabomb tras golpear a Windsor con un
+título. Pieza:
+[vs Megan Bayne](../matches/2026-09-02-windsor-vs-megan-bayne-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut.

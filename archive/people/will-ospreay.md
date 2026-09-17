@@ -370,6 +370,30 @@ gestión consciente de qué material vale la pena seguir cargando.
 [apertura, ruptura formal con Death Riders](../segments/2026-07-29-apertura-ospreay-death-riders-aew-dynamite.md) (sin clase — nota de método) ·
 [segmento con Kenny Omega](../segments/2026-07-29-kenny-omega-ospreay-segmento-aew-dynamite.md) (WE)
 
+
+### Sesión 2026-09-17 s01 — Apertura como campeón, "compite con Cody, Roman y Punk"
+
+**Cita verbatim**:
+
+> *"Ospreay corta una promo como top face de la compania, se supone
+> que compite con Cody, Roman y Punk; de hecho lo hace bien, me gustó
+> y de hecho es muy cool todo el acto, y el booking que desplaza a
+> Hangman por fin, este segmento se merece una WE"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: primera promo de apertura como campeón mundial
+de AEW (ganado a Kenny Omega en All In: London, 30/8/2026). Anuncia a
+Ricochet como primer retador, dispara la interrupción de Gabe Kidd y
+arma el main event 5 vs 5 de la noche. **Nota de research**: el
+propio show cierra con **Jon Moxley** retando a Ospreay para AEW All
+Out (26/9/2026, Chicago) — dato que el Vehemiurgo no comentó (silencio
+editorial), pero que contradice de frente su declaración en el main
+event de que "el clásico que deben bookear" es MJF, no Moxley (ver
+ficha del main event). Piezas de la sesión:
+[promo de apertura](../segments/2026-09-02-will-ospreay-promo-apertura-anuncio-ricochet-aew-dynamite.md) (WE) ·
+[main event 5 vs 5](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (sin clase).
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.

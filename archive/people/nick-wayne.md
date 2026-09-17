@@ -67,6 +67,23 @@ tags: [aew-2026, nick-wayne, indie-cosplay, christian-cage, casino-gauntlet, doc
 - **30/8/2026, All In: London** — entra al Casino Gauntlet; **Andrade
   El Ídolo lo cubre** para ganarlo.
 
+
+### Sesión 2026-09-17 s01 — "No es un heel creíble", influencia de Omega notoria
+
+**Cita verbatim**:
+
+> *"se nota que le influencia mucho Kenny Omega, no es un heel
+> creible o cool [...] espero qu realmente aproveche el booking y
+> mejore su acto, porque ahora parece una caricatura"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: crítica directa de estilo de heel — caricatura
+por copiar un modelo ajeno (Omega) sin sustancia propia. El
+Vehemiurgo ve potencial de "rivalidad definitiva en TV" si el booking
+lo aprovecha. Sin clase declarada. Pieza:
+[backstage con Jericho](../segments/2026-09-02-chris-jericho-nick-wayne-backstage-aew-dynamite.md) (sin clase).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, fecha de nacimiento, debut y linaje familiar.

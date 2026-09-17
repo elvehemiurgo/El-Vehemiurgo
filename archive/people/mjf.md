@@ -810,6 +810,25 @@ más débil del reinado"*. La objeción era a la decisión de booking, no
 al match. Ver
 [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md).
 
+
+### Sesión 2026-09-17 s01 — Promo obsesionado con Ospreay: "el clásico que deben bookear"
+
+**Cita verbatim**:
+
+> *"promo post match de MJF, frustrado con la compania, muy loco, es
+> bueno tener a MJF asi de obsesionado en tv, un rival real para
+> Ospreay, este es el clásico que deben bookear, no Moxley, no Omega,
+> MJF. Top promo, se merece una WE"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: declaración editorial directa de rivalidad
+prioritaria para Ospreay — que choca con lo que el show termina
+bookeando esa misma noche (Jon Moxley reta a Ospreay para All Out,
+dato no comentado por el Vehemiurgo). Continuidad del expediente "el
+main event robado" (s57-s58). Pieza:
+[promo post-match](../segments/2026-09-02-mjf-promo-post-match-aew-dynamite.md) (WE).
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual

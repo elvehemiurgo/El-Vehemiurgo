@@ -8,6 +8,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
 
+> `dynamite-020926` cerrada e integrada el 2026-09-17 (s01) — ver
+> [`closed.md`](./closed.md).
+
 > `raw-140926-ethan-page` cerrada e integrada el 2026-09-16 (s02) — ver
 > [`closed.md`](./closed.md).
 

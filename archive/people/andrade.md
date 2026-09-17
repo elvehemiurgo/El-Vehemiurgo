@@ -154,6 +154,25 @@ siguiente nivel de su carrera como estrella de TV, y se declara
 explícitamente emocionado con el paso. Ver
 [`../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md`](../matches/2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md).
 
+
+### Sesión 2026-09-17 s01 — Revelado como quinto hombre, "packaging premium"
+
+**Cita verbatim**:
+
+> *"el segmento con Callum presentando a Andrade como el quinto
+> hombre para el main event estuvo cool [...] buen setup para
+> Andrade, completamente coherente con el packaging premium que
+> quieren darle"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: tras ganar el Casino Gauntlet masculino en All
+In: London, Andrade sigue subiendo de piso sin título — Callum Newman
+lo revela como quinto hombre del main event 5 vs 5, que su equipo
+termina ganando. Piezas:
+[presentación](../segments/2026-09-02-callum-newman-presenta-andrade-aew-dynamite.md) (WE) ·
+[main event](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (sin clase).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (Lucha Underground/NXT/AEW)

@@ -240,6 +240,24 @@ y
 **Piezas de la sesión**:
 [el regreso en el Buy In](../segments/2026-08-30-regreso-thekla-buy-in-aew-all-in.md) (WE)
 
+
+### Sesión 2026-09-17 s01 — Interrumpe a Mercedes Moné, "se está puliendo"
+
+**Cita verbatim**:
+
+> *"Tekhla estuvo apunto de sonar como Seth Rollins así de aburrido y
+> caricaturezco, pero luego levanta con 'nobody swings it bigger than
+> Teklah' [...] se está puliendo, a mi me gusta, así es como se
+> construyen los íconos, poco a poco con buen booking"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: doctrina explícita de construcción incremental
+de íconos — riesgo de caer en cliché de heel grandilocuente, evitado
+justo a tiempo con la celebración con los fans. Tease de revancha
+titular contra Mercedes Moné. Pieza:
+[interrumpe a Moné](../segments/2026-09-02-thekla-interrumpe-celebracion-mercedes-mone-aew-dynamite.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen austríaco exactos.

@@ -220,6 +220,22 @@ descripción.
 AEW en abril de 2026**, con el regreso de *"The List"*. **Sigue en
 AEW.**
 
+
+### Sesión 2026-09-17 s01 — Le da el "rub" a Nick Wayne, sin clase declarada
+
+**Cita verbatim**:
+
+> *"luego Jericho le da el rub a Nick Wayne [...] Jericho está en un
+> buen run como enterteiner últimamente"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: continúa el run positivo como entertainer que
+el archivo sigue desde s57; se burla de la edad y el collar de
+conchas puka de Wayne, quien responde con cachetada y patada baja.
+Sin clase declarada sobre el segmento. Pieza:
+[backstage con Wayne](../segments/2026-09-02-chris-jericho-nick-wayne-backstage-aew-dynamite.md) (sin clase).
+
 ## Pendientes
 
 - [ ] Y2J countdown debut WWF 9 ago 1999 — segment editorial

@@ -193,6 +193,21 @@ y
 [la alianza con The Demand](../segments/2026-08-30-promo-dogs-demand-alianza-buy-in-aew-all-in.md) (WE) ·
 [Trios Roulette Royale](../matches/2026-08-30-trios-roulette-royale-aew-all-in.md) (**FC**)
 
+
+### Sesión 2026-09-17 s01 — Discrepancia: prensa etiqueta a Connors+Kidd como "The Dogs"
+
+**Contexto**: en AEW Dynamite del 2/9/2026, **Gabe Kidd** irrumpe
+junto a **Clark Connors** reclamando un title shot a Will Ospreay, y
+la cobertura de prensa consultada por research los etiqueta como
+**"The Dogs"** para el main event 5 vs 5 de esa noche. **Esto choca
+con el registro del archivo** (The Dogs = David Finlay + Clark
+Connors, confirmado en s47). **No se adjudica**: puede ser una
+tercera incorporación al equipo, una sustitución puntual de Finlay
+esa noche, o una etiqueta de prensa imprecisa — el Vehemiurgo no
+nombró "The Dogs" en su dictado, solo a "Gabe Kid". Piezas:
+[interrupción de Kidd](../segments/2026-09-02-gabe-kidd-interrumpe-title-shot-aew-dynamite.md) (WE) ·
+[main event](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (sin clase).
+
 ## Pendientes / huecos
 
 - [x] ~~Integrantes exactos~~ → **RESUELTO (s47)**: David Finlay +
