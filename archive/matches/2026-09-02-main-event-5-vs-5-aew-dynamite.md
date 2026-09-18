@@ -15,23 +15,31 @@ ganador: "Will Ospreay, Andrade, Francesco Akira, HENARE & Callum Newman"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "Buenísimo, buenos stakes para los heels y Andrade; me gusta que esté entretenido y con buenas luchas; me gustó mucho, cuidaron de no hacer strong style ni tropos de NJPW en el resto del show para dejárselo al main event, así se disfruta de verdad, gran lucha con stakes importantes"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "Buenísimo, buenos stakes para los heels y Andrade; me gusta que esté entretenido y con buenas luchas; me gustó mucho, cuidaron de no hacer strong style ni tropos de NJPW en el resto del show para dejárselo al main event, así se disfruta de verdad, gran lucha con stakes importantes; ratificado 2026-09-18: se merece las 3 clases con la corona +"
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-18
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 01:37:15)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (AllEliteWrestling.com, PWTorch/Keller, POST Wrestling); WebFetch bloqueado por egress"
-tags: [aew-dynamite-2026, will-ospreay, andrade, united-empire, the-dogs, the-demand, ricochet, gabe-kidd, clark-connors, sin-clase-declarada, main-event]
+  - "Volcado Vehemiurgo 2026-09-18 (ratificación — AEW Dynamite, 2/9/2026, timestamp 01:37:15)"
+tags: [aew-dynamite-2026, will-ospreay, andrade, united-empire, the-dogs, the-demand, ricochet, gabe-kidd, clark-connors, instant-classic-crown-plus, main-event]
 ---
 
 # Main event 5 vs 5 (Dynamite, 2/9/2026)
 
-> **Sin clase declarada** — el elogio es de booking y stakes, sin
-> "se merece" sobre el match en sí (booking ≠ clase). Arma el cierre
-> de la trama de apertura: los dos retadores espontáneos (Ricochet,
-> Gabe Kidd) contra el United Empire de Ospreay, con Andrade como
-> quinto hombre.
+> **Instant Classic Crown+ — ratificada 2026-09-18.** El registro
+> original (s01, 17/9) fue sin clase, solo elogio de booking y
+> stakes. El Vehemiurgo volvió sobre la pieza y la subió a las tres
+> clases con la corona +. Cierra la trama de apertura: los dos
+> retadores espontáneos (Ricochet, Gabe Kidd) contra el United Empire
+> de Ospreay, con Andrade como quinto hombre.
+
+## Ratificación (2026-09-18)
+
+> *"main event, 5 vs 5, se merece las 3 clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-18 (verbatim)
 
 ## Resumen
 
@@ -59,7 +67,8 @@ adjudicar peso editorial.
 - **Por qué está en mi base**: completa el arco de apertura del
   show (Ospreay/Ricochet/Gabe Kidd) y cierra la noche.
 - **Veces que lo vi**: 1.
-- **Clase**: sin declarar (booking ≠ clase).
+- **Clase**: **Perfect Wrestling + Fighting Spirit + Wrestling
+  Entertainment+ → Instant Classic Crown+, ratificada 2026-09-18.**
 
 ## Cita verbatim del Vehemiurgo
 

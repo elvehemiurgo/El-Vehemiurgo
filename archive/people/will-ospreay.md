@@ -392,7 +392,7 @@ editorial), pero que contradice de frente su declaración en el main
 event de que "el clásico que deben bookear" es MJF, no Moxley (ver
 ficha del main event). Piezas de la sesión:
 [promo de apertura](../segments/2026-09-02-will-ospreay-promo-apertura-anuncio-ricochet-aew-dynamite.md) (WE) ·
-[main event 5 vs 5](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (sin clase).
+[main event 5 vs 5](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (ICC+).
 
 ## Pendientes
 

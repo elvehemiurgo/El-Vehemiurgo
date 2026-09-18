@@ -66,7 +66,24 @@ tags: [gabe-kidd, njpw, the-dogs, clark-connors, first-registro, wrestling-enter
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../segments/2026-09-02-gabe-kidd-interrumpe-title-shot-aew-dynamite.md`](../segments/2026-09-02-gabe-kidd-interrumpe-title-shot-aew-dynamite.md) (WE)
-- [`../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md`](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (sin clase)
+- [`../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md`](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (ICC+)
+
+
+### Sesión 2026-09-18 s01 — Ataque post-match, arranca ángulo con Andrade
+
+**Cita verbatim**:
+
+> *"Gabe Kid se vio genial en el ataque postmatch, es muy cool en tv,
+> que cool que le den un ángulo con Andrade, se merecen una WE, me
+> gusta su protagonismo en este episodio, espero que continuen este
+> booking para él"*
+>
+> — El Vehemiurgo, 2026-09-18 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: segundo registro del mismo episodio — de
+retador espontáneo en la apertura a protagonista del cierre.
+Arranca el ángulo con Andrade que continúa en Collision (5/9). Pieza:
+[ataque post-match](../segments/2026-09-02-gabe-kidd-ataque-postmatch-andrade-aew-dynamite.md) (WE).
 
 ## Pendientes / huecos
 

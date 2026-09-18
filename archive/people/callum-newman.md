@@ -57,7 +57,7 @@ tags: [callum-newman, united-empire, njpw, will-ospreay-mentoria, andrade, wrest
 
 - [`../segments/2026-09-02-callum-newman-presenta-andrade-aew-dynamite.md`](../segments/2026-09-02-callum-newman-presenta-andrade-aew-dynamite.md) (WE)
 - [`../segments/2026-09-02-gabe-kidd-interrumpe-title-shot-aew-dynamite.md`](../segments/2026-09-02-gabe-kidd-interrumpe-title-shot-aew-dynamite.md) (save de United Empire)
-- [`../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md`](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (sin clase)
+- [`../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md`](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (ICC+)
 
 ## Pendientes / huecos
 

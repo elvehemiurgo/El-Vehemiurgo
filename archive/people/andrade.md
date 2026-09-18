@@ -171,7 +171,17 @@ In: London, Andrade sigue subiendo de piso sin título — Callum Newman
 lo revela como quinto hombre del main event 5 vs 5, que su equipo
 termina ganando. Piezas:
 [presentación](../segments/2026-09-02-callum-newman-presenta-andrade-aew-dynamite.md) (WE) ·
-[main event](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (sin clase).
+[main event](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (ICC+).
+
+
+### Sesión 2026-09-18 s01 — Arranca ángulo con Gabe Kidd
+
+**Contexto**: tras el main event 5 vs 5 (`2026 09 02 Dynamite`), Gabe
+Kidd protagoniza el ataque post-match quedando enfrentado a Andrade —
+arranca el ángulo entre ambos, que sigue en Collision (5/9) con un
+promo video recapitulando la historia de Kidd en NJPW y un primer
+cruce directo. Pieza:
+[ataque post-match](../segments/2026-09-02-gabe-kidd-ataque-postmatch-andrade-aew-dynamite.md) (WE).
 
 ## Pendientes / huecos
 

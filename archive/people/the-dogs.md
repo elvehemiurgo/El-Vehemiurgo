@@ -206,7 +206,7 @@ tercera incorporación al equipo, una sustitución puntual de Finlay
 esa noche, o una etiqueta de prensa imprecisa — el Vehemiurgo no
 nombró "The Dogs" en su dictado, solo a "Gabe Kid". Piezas:
 [interrupción de Kidd](../segments/2026-09-02-gabe-kidd-interrumpe-title-shot-aew-dynamite.md) (WE) ·
-[main event](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (sin clase).
+[main event](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (ICC+).
 
 ## Pendientes / huecos
 
