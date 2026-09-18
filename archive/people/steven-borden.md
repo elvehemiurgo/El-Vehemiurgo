@@ -115,6 +115,26 @@ Trent Beretta y Rocky Romero atacan a Darby Allin; Borden hace el
 save y encara a Mark Davis. Pieza:
 [post-match](../segments/2026-09-02-post-match-steven-borden-josh-alexander-aew-dynamite.md) (WE).
 
+
+### Sesión 2026-09-18 s01 — Debut in-ring televisado
+
+**Cita verbatim** (Rebel Heart, 9/9):
+
+> *"Josh Alexander & Mark Davis vs Darby & Steven Borden, la entrada
+> de Borden con los cuervos y Darby les quedó genial, es una
+> presentación y rivales premium para este acto, todavia está verde,
+> se expuso un poco al principio, deben cuidarlo más todavia... se
+> merecen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-09-18 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown** para el debut
+in-ring televisado. Reserva de desarrollo declarada junto al elogio
+("todavía está verde") — no baja la clase. Cierra Fletcher & Knight
+vs Young Bucks esa misma noche corriendo con sillas al save. Piezas:
+[promo backstage con Darby](../segments/2026-09-09-promo-backstage-darby-steven-borden-aew-rebel-heart.md) (WE) ·
+[debut in-ring](../matches/2026-09-09-josh-alexander-mark-davis-vs-darby-allin-steven-borden-aew-rebel-heart.md) (ICC).
+
 ## Pendientes / huecos
 
 - [ ] Fecha de nacimiento y nombre completo.

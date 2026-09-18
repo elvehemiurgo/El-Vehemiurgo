@@ -85,6 +85,35 @@ retador espontáneo en la apertura a protagonista del cierre.
 Arranca el ángulo con Andrade que continúa en Collision (5/9). Pieza:
 [ataque post-match](../segments/2026-09-02-gabe-kidd-ataque-postmatch-andrade-aew-dynamite.md) (WE).
 
+
+### Sesión 2026-09-18 s01 — Semana completa: título National, careo con Moxley, integración a The Dogs
+
+**Resumen de la semana** (Collision 5/9, Rebel Heart 9/9, Collision
+12/9): reta y pierde el AEW National Championship ante Andrade
+(5/9, ICC+) tras un promo video recapitulando su historia en NJPW
+(WE); protagoniza el ataque post-match a Andrade en Rebel Heart
+(9/9), con el propio Andrade retenido ante The Beast Mortos; comparte
+careo con Jon Moxley, comparado favorablemente en credibilidad
+("mucho más creíble que Mox"); y en Collision (12/9) queda confirmado
+integrado de facto a **The Dogs**, aunque con tensión interna por
+escuchar a Moxley en vez de atacar a Ospreay con silla.
+
+**Cita verbatim** (Rebel Heart, careo con Moxley):
+
+> *"espero lo pongan over, tiene buen gimmick buenisimas promos,
+> mucho más creible que Mox, y más careos de Gabe y Will, se ven
+> genial juntos"*
+>
+> — El Vehemiurgo, 2026-09-18 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: cuarta proyección consecutiva de push en
+menos de tres semanas de corpus (2/9 ×2, 5/9 ×2, 9/9 ×2, 12/9). El
+Vehemiurgo lo sigue leyendo como el hallazgo del mes. Piezas:
+[vs Andrade, National](../matches/2026-09-05-gabe-kidd-vs-andrade-national-aew-collision.md) (ICC+) ·
+[careo con Moxley](../segments/2026-09-09-gabe-kidd-moxley-careo-aew-rebel-heart.md) (sin clase) ·
+[tensión con Dogs/Death Riders](../segments/2026-09-12-the-dogs-death-riders-tension-aew-collision.md) (WE+) ·
+[8-man con PAC](../matches/2026-09-12-dogs-pac-vs-bang-bang-gang-aew-collision.md) (ICC+).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa en NJPW.

@@ -7,7 +7,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `aew-cards-050926-090926-120926` | Cerrar identidades y datos de tres shows de AEW: Collision 5/9 (Bang Bang Gang, Lethal Twist vs MCMG, Gabe Kidd vs Andrade, Isla Dawn vs Athena, main event), 'Rebel Heart' 9/9 (confirmar qué show es; 'Mordos', 'Haian', Finlay vs Ospreay, sextet Persephone, Fletcher&Knight vs Young Bucks), Collision 12/9 (Aminata vs Shirakawa, Jay White vs Priest, 'Conglomerate', 'Andy Williams Battle Royal', 'Gable'). | Volcado 2026-09-18 s01 | 2026-09-18 | `archive/matches/` + `archive/segments/` (~20 fichas nuevas) |
+
+> `aew-cards-050926-090926-120926` cerrada e integrada el 2026-09-18 (s01) — ver
+> [`closed.md`](./closed.md).
 
 > `dynamite-020926` cerrada e integrada el 2026-09-17 (s01) — ver
 > [`closed.md`](./closed.md).

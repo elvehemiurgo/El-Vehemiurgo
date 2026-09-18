@@ -225,8 +225,10 @@ sin pedir permiso** (ley 2026-08-01), cubriendo:
 
 ## Próximos pasos
 
-- [ ] Integrar research `aew-cards-050926-090926-120926` cuando
-      vuelva.
-- [ ] Crear fichas de match/segment.
-- [ ] Índices vía `bin/index_add.py`.
-- [ ] Marca (✓) en la lista personal si corresponde.
+- [x] Integrar research `aew-cards-050926-090926-120926` — cerrado
+      2026-09-18, ver `research/closed.md`.
+- [x] Crear fichas de match/segment — 20 nuevas (11 matches +
+      9 segments) + 8 people nuevas.
+- [x] Índices vía `bin/index_add.py`.
+- [x] Marca (✓) en la lista personal — sin coincidencias, ninguna
+      pieza corresponde a un bullet de la lista maestra.

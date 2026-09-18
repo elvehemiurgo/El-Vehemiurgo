@@ -183,6 +183,24 @@ promo video recapitulando la historia de Kidd en NJPW y un primer
 cruce directo. Pieza:
 [ataque post-match](../segments/2026-09-02-gabe-kidd-ataque-postmatch-andrade-aew-dynamite.md) (WE).
 
+
+### Sesión 2026-09-18 s01 — Campeón National, promesa de defensa semanal
+
+**Contexto**: gana el National Championship implícito en el corpus
+previo, y en Collision (5/9) declara que quiere ser "el mejor
+National Champion de la historia" defendiendo cada semana — promesa
+que cumple 4 días después venciendo a The Beast Mortos en Rebel
+Heart (9/9). Promo video comparándolo favorablemente con MJF y
+Ospreay: *"puede pulirse como el acto más completo de todos"*.
+Post-match se declara "campeón workhorse" que se toma licencias de
+face por el heat real de MJF — lectura del Vehemiurgo: *"ser breve es
+lo más eficiente [ahora], pero poco a poco tendrá que aumentar su
+acto"*. Piezas:
+[vs Gabe Kidd, National](../matches/2026-09-05-gabe-kidd-vs-andrade-national-aew-collision.md) (ICC+) ·
+[promo video](../segments/2026-09-09-promo-video-andrade-aew-rebel-heart.md) (WE) ·
+[vs Beast Mortos](../matches/2026-09-09-andrade-vs-beast-mortos-national-aew-rebel-heart.md) (ICC+) ·
+[post-match](../segments/2026-09-09-post-match-andrade-dogs-ospreay-finlay-aew-rebel-heart.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (Lucha Underground/NXT/AEW)

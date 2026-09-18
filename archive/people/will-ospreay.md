@@ -394,6 +394,24 @@ ficha del main event). Piezas de la sesión:
 [promo de apertura](../segments/2026-09-02-will-ospreay-promo-apertura-anuncio-ricochet-aew-dynamite.md) (WE) ·
 [main event 5 vs 5](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (ICC+).
 
+
+### Sesión 2026-09-18 s01 — Eliminator vs Finlay, y la queja sostenida sobre Moxley
+
+**Cita verbatim** (Rebel Heart, 9/9):
+
+> *"David FInlay vs Ospreay estuvo muy cool... la lucha se merece las
+> 3 clases con la corona + ; lo malo es que AEW no pudo esperar para
+> volver a hacer que todo se trate de Moxley, otra vez lo tenemos
+> ocupando programación, como retador, volviendo todo aburrido y
+> fake, no pueden solo confiar en Ospreay me decepciona"*
+>
+> — El Vehemiurgo, 2026-09-18 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+** para el Eliminator
+Match, con reserva de booking sostenida sobre el uso de Moxley — no
+baja la clase, es objeción de programación. Pieza:
+[vs David Finlay](../matches/2026-09-09-david-finlay-vs-will-ospreay-eliminator-aew-rebel-heart.md) (ICC+).
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.
