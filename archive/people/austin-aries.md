@@ -23,8 +23,9 @@ tags: [austin-aries, tna-2013, dirty-heels, bobby-roode, roh, option-c, x-divisi
 - **Nombre real**: Daniel Healy Solwold Jr. (n. 15/4/1978, Milwaukee,
   Wisconsin, EE. UU.).
 - **Nombres de gimmick**: Austin Aries, "A Double".
-- **Empresa actual (2026)**: sin actividad reciente cerrada por
-  research `[no confirmado]`.
+- **Empresa actual**: **MLW** — regresó al ring competitivo el
+  13/9/2025 en Fightland, tras un período previo como comentarista
+  de la promoción. Corrige la nota previa de "sin actividad reciente".
 
 ## Datos duros — trayectoria por compañía
 
@@ -120,6 +121,29 @@ bicampeón) y su etapa TNA (X Division histórico, título mundial,
 Dirty Heels) son las dos mitades de la misma carrera: el heel
 cerebral que respeta la liturgia del oficio incluso cuando la rompe
 en pantalla.
+
+
+### Sesión 2026-09-20 s03 — Regreso al ring en el Opera Cup 2025 (MLW Slaughterhouse, 4/10/2025)
+
+**Cita verbatim** (fragmento del segmento post-Kushida):
+
+> *"Austin Aries segmento in ring despues de derrotar a Kushida en el
+> episodio pasado, promo del dirty heel, como en los viejos tiempos,
+> muy bueno, sigue siendo must see, es una leyenda viviente y en esta
+> fecha MLW revivió un clásico y2k"*
+>
+> — El Vehemiurgo, 2026-09-20 s03 (verbatim, typos preservados)
+
+**Lectura sintética**: primera actividad reciente que el archivo le
+registra tras el corpus TNA 2013 — noche completa de un Héroe
+Fundamental Tier 0 reactivado: promo post-Kushida (WE+), clásico
+instantáneo vs Paul London en cuartos del Opera Cup (ICC+), y ataque
+post-match a Místico sembrando la semifinal (WE+). En entrevistas
+(research), Aries explicó que MLW "reavivó su amor por el oficio"
+tras su regreso al ring el 13/9/2025. Piezas:
+[segmento post-Kushida](../segments/2025-10-04-austin-aries-segmento-in-ring-post-kushida-mlw-slaughterhouse.md) (WE+) ·
+[vs Paul London](../matches/2025-10-04-austin-aries-vs-paul-london-opera-cup-mlw-slaughterhouse.md) (ICC+) ·
+[ataque a Místico](../segments/2025-10-04-austin-aries-ataque-postmatch-mistico-mlw-slaughterhouse.md) (WE+).
 
 ## Pendientes / huecos
 

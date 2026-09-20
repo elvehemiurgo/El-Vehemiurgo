@@ -60,6 +60,25 @@ el research completo — Starr y Riddle se dividen las victorias
 limpias a lo largo de 2017-2018, y el respeto es mutuo en el estilo
 declarado por el Vehemiurgo.
 
+
+### Sesión 2026-09-20 s03 — Roba la victoria ante Hammerstone en MLW (4/10/2025)
+
+**Cita verbatim** (fragmento):
+
+> *"Matt Riddle vs Alexander Hamerstone [...] Riddle muy polémico
+> pero efectivo in ring [...] esta lucha está dura, muy real dentro
+> de lo que cabe con el estilo de Riddle, no soy fan de esos
+> rodillazos así, pero fuera de eso estuvo buena, se merecen las 3
+> clases"*
+>
+> — El Vehemiurgo, 2026-09-20 s03 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown**, sin corona +.
+Robó la victoria con interferencia de Mads Krügger, Bishop Dyer y
+Donovan Dijak más un low blow. Research: post-match se da vuelta
+heel como "Rude Dude" — no comentado por el Vehemiurgo. Pieza:
+[vs Alex Hammerstone](../matches/2025-10-04-matt-riddle-vs-alex-hammerstone-mlw-slaughterhouse.md) (ICC).
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria completa hacia NXT/WWE (fuera del alcance del corpus

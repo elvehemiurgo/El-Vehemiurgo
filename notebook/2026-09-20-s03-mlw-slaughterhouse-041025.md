@@ -104,8 +104,9 @@ lanzado sin pedir permiso** (ley 2026-08-01) para cerrar:
 
 ## Próximos pasos
 
-- [ ] Integrar research `mlw-slaughterhouse-041025` cuando vuelva.
-- [ ] Crear fichas de match/segment/people.
-- [ ] Índices vía `bin/index_add.py`.
-- [ ] Marca (✓) en la lista personal si corresponde (sin coincidencia
-      directa hallada en dry-run).
+- [x] Integrar research `mlw-slaughterhouse-041025` — cerrado
+      2026-09-20, ver `research/closed.md`.
+- [x] Crear fichas de match/segment/people — 7 nuevas (5 matches +
+      2 segments) + 8 people nuevas + `promotions/mlw.md`.
+- [x] Índices vía `bin/index_add.py`.
+- [x] Marca (✓) en la lista personal — sin coincidencia directa.
