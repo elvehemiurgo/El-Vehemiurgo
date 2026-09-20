@@ -333,6 +333,23 @@ identifica como "Bad Influence" — es Fatal Influence, mishearing ya
 observado también en otra sesión temprana del archivo. Ver
 [`../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md`](../segments/2026-08-21-chelsea-green-fatal-influence-paige-wwe-smackdown.md).
 
+
+### Sesión 2026-09-20 s01 — Carga sola el MITB Qualifier, roba el pin
+
+**Cita verbatim** (fragmento):
+
+> *"a Jacy le toca carriar esta lucha, trabajar con dos luchadoras
+> malas y cargar con todo el peso, dificil escenario para ella,
+> además es la heel ring general en ese ring, Cargill y Bliss son muy
+> fake"*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: WE declarada, explícitamente individual dentro
+de un match de tres — clasifica al Women's Money in the Bank robando
+el pin sobre Alexa Bliss. Pieza:
+[vs Cargill y Bliss](../matches/2026-09-18-jacy-jayne-vs-cargill-vs-bliss-mitb-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas NXT Women's Championship runs.

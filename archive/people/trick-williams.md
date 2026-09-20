@@ -239,6 +239,23 @@ gana el **WWE United States Championship** con Trickshot.
 **Pieza de la sesión**:
 [vs Baron Corbin (título)](../matches/2026-09-06-lil-yachty-vs-baron-corbin-five-minute-challenge-snme.md) (WE)
 
+
+### Sesión 2026-09-20 s01 — Gana el MITB Qualifier con el Trick Shot sobre Orton
+
+**Cita verbatim** (fragmento):
+
+> *"Trick gana y probablemente sea un gran mr mitb, espero que ya
+> vaya al main event a menos que tengan un buen rival para él en el
+> midcard"*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+**, clasifica al Men's
+Money in the Bank Ladder Match rematando con el Trick Shot sobre
+Randy Orton, tras un RKO de Orton en el aire sobre Rey Fénix.
+Proyección directa de main event. Pieza:
+[vs Orton y Fénix](../matches/2026-09-18-randy-orton-vs-rey-fenix-vs-trick-williams-mitb-wwe-smackdown.md) (ICC+).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main

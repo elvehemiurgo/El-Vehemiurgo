@@ -234,6 +234,28 @@ Sami Zayn (s02 del 2026-09-12).
 de Zayn se paga *"desplazando a Owens"* para entregar el choque
 generacional Punk vs Zayn.
 
+
+### Sesión 2026-09-20 s01 — "No sé por qué está tan vacío" — continúa el fondo
+
+**Cita verbatim** (fragmento):
+
+> *"Owens está tan flojo, en este segmento tambien, se apoya mucho en
+> su acto de nostalgia y todavia en las stunners, y luego su
+> recapitulación de los hechos es funcional pero no es una promo
+> entretenida ni nada, además sigue usando los adjetivos 'arrogante'
+> y 'stupid'... no está al nivel de las promos que están cortando
+> Sami y Punk"*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: continúa sin variación el arco de decepción
+sostenida (ver guion 009) — vocabulario repetitivo señalado
+explícitamente ("arrogante", "stupid"), apoyo excesivo en nostalgia
+de movimiento (Stunner) en vez de contenido de promo. Research
+confirma que en este mismo segmento Owens interrumpe y le da un
+Stunner a Johnny Gargano. Pieza:
+[promo Sami/Aldis](../segments/2026-09-18-sami-zayn-nick-aldis-promo-heel-vs-heel-wwe-smackdown.md) (WE, sin Owens).
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).

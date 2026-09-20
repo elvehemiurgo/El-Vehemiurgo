@@ -131,6 +131,24 @@ lectura que varios medios conectan con un posible heel turn de Cody.
 [cara a cara](../segments/2026-09-04-cody-randy-cara-a-cara-wwe-smackdown.md) (sin clase) ·
 [vs Cody Rhodes](../matches/2026-09-06-cody-rhodes-vs-randy-orton-snme.md) (ICC)
 
+
+### Sesión 2026-09-20 s01 — Generosidad de veterano en el MITB Qualifier
+
+**Cita verbatim** (fragmento):
+
+> *"Randy realmente puso ambos talentos over sin tener que llegar a
+> su límite, la creatividad estuvo genial y la ejecución fue
+> perfecta, tuvieron la lucha perfecta"*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+** para el triple
+threat clasificatorio a Money in the Bank. Cae ante el Trick Shot de
+Trick Williams tras un RKO propio en el aire sobre Rey Fénix. Misma
+noche, en la entrevista de Cody Rhodes, se plantea el rematch entre
+ambos tras Sunday Night's Main Event. Pieza:
+[vs Fénix y Williams](../matches/2026-09-18-randy-orton-vs-rey-fenix-vs-trick-williams-mitb-wwe-smackdown.md) (ICC+).
+
 ## Pendientes / huecos
 
 - [ ] Resultado exacto de Cody vs Orton en WrestleMania 42 — snippets

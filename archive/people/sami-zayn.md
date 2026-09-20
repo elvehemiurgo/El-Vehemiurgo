@@ -304,6 +304,26 @@ match que el archivo clasificó **ICC+**, tras una promo
 registro.** Ver
 [`../topics/doctrina-el-build-invisible-el-negocio-como-construccion.md`](../topics/doctrina-el-build-invisible-el-negocio-como-construccion.md).
 
+
+### Sesión 2026-09-20 s01 — Heel vs heel con Punk, niega la promesa a Gargano
+
+**Cita verbatim** (fragmento):
+
+> *"ahora que es campeon con trampa es una posición de heel muy
+> divertida y llena de material para promos, Sami siempre fue bueno
+> con esta clase de actos... hubo una época donde quiso cambiar las
+> cosas haciendo el bien, pero se volvió loco después de su feudo con
+> the bloodline, y ahora tiene que responder lo que le prometió a
+> Gargano, y está pensando actuar igual que Roman Reigns"*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: primera apertura como campeón. Niega en cámara
+la promesa hecha a Gargano; le pone las manos encima a Aldis, quien
+en respuesta lo obliga a defender el título esa misma noche vs Owens
+(no comentado por el Vehemiurgo — ver ficha del segmento). Pieza:
+[promo con Aldis](../segments/2026-09-18-sami-zayn-nick-aldis-promo-heel-vs-heel-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

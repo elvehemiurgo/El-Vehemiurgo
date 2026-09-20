@@ -443,6 +443,23 @@ spoiler."* Ver
 y
 [`../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md`](../segments/2026-08-21-cody-randy-segmento-in-ring-no-contact-wwe-smackdown.md).
 
+
+### Sesión 2026-09-20 s01 — Entrevista tras perder ante Orton: "cortando promos como los grandes"
+
+**Cita verbatim**:
+
+> *"Cody en su entrevista cortando promos como los grandes, es muy
+> bueno, se merece una WE, es un face muy genial."*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim)
+
+**Lectura sintética**: primera entrevista tras perder ante Randy
+Orton en Sunday Night's Main Event (research: el punt fallido le
+costó el match). Responde a la traición de sus aliados de
+WrestleMania 40 con una lectura institucional ("WWE es un equipo más
+grande") y siembra el rematch sin piedad. Pieza:
+[entrevista](../segments/2026-09-18-cody-rhodes-entrevista-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

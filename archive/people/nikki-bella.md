@@ -54,6 +54,25 @@ Paige, gritando "This is my house!" y "The real Bellas are back". Ver
 **Lectura sintética**: cierre explícito, no hueco — resuelve el
 pendiente anterior. Desinterés declarado, no clase.
 
+
+### Sesión 2026-09-20 s01 — Regreso sorpresa, reta por el título — "sus luchas son malísimas"
+
+**Cita verbatim**:
+
+> *"ojalá Nicky Bella luchara tan bien como sus promos, me cuesta
+> darle crédito, me pasa como con Becky Lynchm si tienen buenas
+> promos, pero sus luchas son malisimas, por eso no puedo apreciarlas"*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: reabre el expediente cerrado en s17
+("no me interesó, me parece mid") con un registro más específico —
+**crédito de mic, reserva sostenida de ring**, categoría que el
+Vehemiurgo declara compartida con Becky Lynch. Regreso sorpresa,
+retando directamente al WWE Women's Championship de Chelsea Green sin
+pasar por clasificatorios. Pieza:
+[backstage con Green](../segments/2026-09-18-chelsea-green-nikki-bella-backstage-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - (sin pendientes activos sobre este punto)

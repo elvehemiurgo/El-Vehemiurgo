@@ -114,6 +114,14 @@ un talento consagrado transfiere a otro— **puede ser negativo si la
 ejecución no acompaña**. Es una idea que el archivo no tenía formulada
 y que merece seguimiento: no todo cruce con una estrella eleva.
 
+**Extensión de categoría (2026-09-20 s01)**: el Vehemiurgo aplica la
+misma vara a **Nikki Bella** en su regreso vs Chelsea Green, citando a
+Becky explícitamente como el precedente: *"me pasa como con Becky
+Lynch, si tienen buenas promos, pero sus luchas son malísimas"* — la
+categoría *buena promo, mal trabajador* deja de ser un caso aislado y
+pasa a ser un criterio de lectura repetible. Ver
+[`./nikki-bella.md`](./nikki-bella.md).
+
 **LOS TRES CASOS CITADOS SON AFIRMACIONES DURAS Y QUEDAN COMO LECTURA
 EDITORIAL, NO COMO DATO DE ARCHIVO** (CLAUDE.md §5): *"casi mata la
 carrera de Bianca a puro botch"*, *"sí mató la carrera de Zoey Stark

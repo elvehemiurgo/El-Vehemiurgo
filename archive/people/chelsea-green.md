@@ -317,6 +317,22 @@ adopción simbólica, compitiendo con la máscara protectora de su
 fractura orbital. Ver
 [`../matches/2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md`](../matches/2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md).
 
+
+### Sesión 2026-09-20 s01 — "Este ángulo está elevando a toda la división"
+
+**Cita verbatim** (fragmento):
+
+> *"este ángulo de CHlesea esta elevando a toda la división"*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: continuidad del reinado celebrado desde s54.
+Nikki Bella regresa y reta directamente al título sin clasificatorio;
+Tiffany Stratton en paralelo busca su lugar en el MITB femenino —
+ambas suman piso a la división que gira alrededor del reinado de
+Green. Pieza:
+[backstage con Bella](../segments/2026-09-18-chelsea-green-nikki-bella-backstage-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

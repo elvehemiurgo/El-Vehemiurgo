@@ -221,6 +221,22 @@ clase.
 **Pieza de la sesión**:
 [Gunther lo confronta](../segments/2026-09-04-gunther-confronta-nick-aldis-wwe-smackdown.md) (sin clase)
 
+
+### Sesión 2026-09-20 s01 — "Mejor oposición para Sami en TV" que el propio Owens
+
+**Cita verbatim** (fragmento):
+
+> *"la verdad Nick Aldis está siendo mejor opocisión para Sami en tv
+> en este punto, no sé porque Owens está tan vacío"*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: comparación directa y favorable a Aldis por
+sobre el rival titular activo (Owens) dentro del mismo segmento.
+Remata la promo recordándole a Zayn que él, no el campeón, hace las
+luchas — y lo obliga a defender el título esa noche vs Owens. Pieza:
+[promo con Sami](../segments/2026-09-18-sami-zayn-nick-aldis-promo-heel-vs-heel-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de la rivalidad Gunther vs Aldis.

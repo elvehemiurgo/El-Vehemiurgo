@@ -12,6 +12,10 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-09-18 | Backstage: Chelsea Green y Tiffany Stratton, interrumpidas por el regreso de Nikki Bella | WWE / SmackDown | promo backstage / regreso sorpresa | WE | — | en-investigacion | 1 | [→](2026-09-18-chelsea-green-nikki-bella-backstage-wwe-smackdown.md) |
+| 2026-09-18 | Cody Rhodes — entrevista, corta promos como los grandes | WWE / SmackDown | entrevista | WE | — | en-investigacion | 1 | [→](2026-09-18-cody-rhodes-entrevista-wwe-smackdown.md) |
+| 2026-09-18 | Backstage con Danhausen, Nick Aldis y Chelsea Green | WWE / SmackDown | comedy segment backstage | — | — | en-investigacion | 1 | [→](2026-09-18-danhausen-aldis-chelsea-backstage-wwe-smackdown.md) |
+| 2026-09-18 | Sami Zayn y Nick Aldis — psicología de conspiraciones, campeón con trampa, la deuda con Gargano | WWE / SmackDown | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-09-18-sami-zayn-nick-aldis-promo-heel-vs-heel-wwe-smackdown.md) |
 | 2026-09-14 | El intro de Raw desde Ciudad de México | WWE / Monday Night Raw | intro / apertura de programa | WE+ | — | en-investigacion | 1 | [→](2026-09-14-intro-raw-cdmx-wwe-raw.md) |
 | 2026-09-14 | Penta llega a caballo a la Arena CDMX | WWE / Monday Night Raw | material de llegadas / pre-show | WE | — | en-investigacion | 1 | [→](2026-09-14-presentacion-penta-a-caballo-cdmx-wwe-raw.md) |
 | 2026-09-14 | Ethan Page — promo en CDMX: felicita a Chad Gable y reclama el Intercontinental | WWE / Monday Night Raw | promo | WE | — | en-investigacion | 1 | [→](2026-09-14-promo-ethan-page-wwe-raw.md) |

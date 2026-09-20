@@ -8,6 +8,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
 
+> `wwe-smackdown-180926` cerrada e integrada el 2026-09-20 (s01) — ver
+> [`closed.md`](./closed.md).
+
 > `aew-cards-050926-090926-120926` cerrada e integrada el 2026-09-18 (s01) — ver
 > [`closed.md`](./closed.md).
 

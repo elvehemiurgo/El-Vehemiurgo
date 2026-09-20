@@ -88,6 +88,23 @@ remate de Zayn. Ver
 [`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md) y
 [`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
 
+
+### Sesión 2026-09-20 s01 — Reclama la promesa, Zayn la niega, recibe Stunner de Owens
+
+**Cita verbatim** (fragmento):
+
+> *"y Johnny tambien en este papel protagónico, de hecho es parte
+> entretenida de este feudo"*
+>
+> — El Vehemiurgo, 2026-09-20 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: research cierra el contenido — Gargano (con
+Candice LeRae) interrumpe la apertura reclamando la primera chance
+titular prometida; **Zayn niega haber hecho esa promesa**; Kevin
+Owens interrumpe y lo Stunnea. Continuidad directa de la condición
+planteada el 4/9 y ratificada el 11/9. Pieza:
+[promo Sami/Aldis](../segments/2026-09-18-sami-zayn-nick-aldis-promo-heel-vs-heel-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Contexto completo del ángulo catatónico (origen, duración exacta).
