@@ -256,6 +256,23 @@ Randy Orton, tras un RKO de Orton en el aire sobre Rey Fénix.
 Proyección directa de main event. Pieza:
 [vs Orton y Fénix](../matches/2026-09-18-randy-orton-vs-rey-fenix-vs-trick-williams-mitb-wwe-smackdown.md) (ICC+).
 
+
+### Sesión 2026-09-20 s02 — Molesta a Sami backstage, "cada vez más cerca del main event"
+
+**Cita verbatim**:
+
+> *"Trick molestando a Sami backstage tambien es enterteinment,
+> estuvo genial, esta rivalidad sigue prendida, y Sami como campeón
+> paranóico es perfecto para Trick cada vez más cerca del main
+> event"*
+>
+> — El Vehemiurgo, 2026-09-20 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: sin clase declarada explícita ("también es
+entretenimiento" no es la fórmula "se merece"). Segunda proyección de
+main event en la misma noche, sumada al MITB Qualifier. Pieza:
+[molesta a Sami](../segments/2026-09-18-trick-williams-molesta-sami-backstage-wwe-smackdown.md) (sin clase).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main

@@ -558,6 +558,22 @@ personaje**:
 [`../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md`](../matches/2026-07-06-cm-punk-vs-sami-zayn-wwe-raw.md).
 Volcado: [`../../notebook/2026-09-13-s02-punk-el-build-invisible-y-la-serpiente.md`](../../notebook/2026-09-13-s02-punk-el-build-invisible-y-la-serpiente.md)
 
+
+### Sesión 2026-09-20 s02 — Presente para los stakes, post-match con las GTS
+
+**Cita verbatim** (fragmento):
+
+> *"el post match con punk y las gts estuvo muy cool, se merece la
+> WE"*
+>
+> — El Vehemiurgo, 2026-09-20 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: presencia que eleva los stakes del título Zayn
+vs Owens sin necesariamente decidir el resultado (pendiente de
+research); post-match conecta más de un GTS. Piezas:
+[vs Zayn/Owens, contexto](../matches/2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md) (ICC) ·
+[post-match](../segments/2026-09-18-post-match-cm-punk-gts-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

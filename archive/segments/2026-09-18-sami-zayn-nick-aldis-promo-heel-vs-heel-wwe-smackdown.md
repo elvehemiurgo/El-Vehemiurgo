@@ -48,13 +48,17 @@ comportamiento". Zayn les pone las manos encima a Aldis (bullying al
 GM, en la línea de Roman Reigns) y **Aldis anuncia que Zayn
 defenderá el título esa misma noche contra Owens**.
 
-## Nota de research — lo que sigue, sin dictado directo
+## Nota de continuidad
 
 La estipulación del main event (Zayn defiende el título vs Owens esa
 misma noche, con interferencia de CM Punk) sale directamente de este
-segmento de apertura. **El Vehemiurgo no comentó ese main event** —
-por la ley de silencio editorial, no dispara ficha propia; se anota
-como contexto sin adjudicarle peso.
+segmento de apertura. **Corrección**: esta ficha registró
+originalmente que el Vehemiurgo no había comentado ese main event —
+sí lo hizo, en la sesión de cierre del mismo show (s02, mismo día).
+Ver
+[`../matches/2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md`](../matches/2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md)
+y
+[`./2026-09-18-post-match-cm-punk-gts-wwe-smackdown.md`](./2026-09-18-post-match-cm-punk-gts-wwe-smackdown.md).
 
 ## Lectura del Vehemiurgo
 

@@ -324,6 +324,25 @@ en respuesta lo obliga a defender el título esa misma noche vs Owens
 (no comentado por el Vehemiurgo — ver ficha del segmento). Pieza:
 [promo con Aldis](../segments/2026-09-18-sami-zayn-nick-aldis-promo-heel-vs-heel-wwe-smackdown.md) (WE).
 
+
+### Sesión 2026-09-20 s02 — Defiende el título vs Owens, la corona negada por un botch
+
+**Cita verbatim**:
+
+> *"Sami vs Kevin, estuvo muy dura, se merecen las 3 clases, in ring
+> si es un lujo esta rivalidad, con las intervenciones y Punk para
+> los stakes, aunque Owens botcheó el final, es la única razón por la
+> que no reciben la +, pero estuvo buena"*
+>
+> — El Vehemiurgo, 2026-09-20 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown, sin +** — la
+negación del + se declara con motivo puntual (botch de Owens), caso
+inédito de precisión sobre esa mecánica. CM Punk presente para los
+stakes; post-match aplica más de un GTS. Piezas:
+[vs Owens, título](../matches/2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md) (ICC) ·
+[post-match con Punk](../segments/2026-09-18-post-match-cm-punk-gts-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

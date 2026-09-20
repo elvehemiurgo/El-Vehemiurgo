@@ -227,6 +227,24 @@ Giulia, y conecta con la reserva de booking ya anotada en s16.
   Monroe y **la atacó**, cobrando el asalto del 21/8.
 - Cruza con [`../topics/english-promo-limitation.md`](../topics/english-promo-limitation.md).
 
+
+### Sesión 2026-09-20 s02 — Buen comeback frente a Nia y Lash: reversión esperanzada
+
+**Cita verbatim**:
+
+> *"Giulia backstage frente a Nia y Lash fue una gran oportunidad
+> para ella, Lash estuvo genial como siempre, y Giulia tuvo un buen
+> comeback, si la veo con ganas de meterle al ingles y al
+> enterteinment, espero que si"*
+>
+> — El Vehemiurgo, 2026-09-20 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: primera señal en sentido contrario al
+"veredicto acumulativo" de s54 (*"sigue sin aprender inglés"*) — con
+reserva explícita ("espero que sí"), no da el progreso por
+consumado. Pieza:
+[backstage vs Nia y Lash](../segments/2026-09-18-giulia-backstage-nia-lash-wwe-smackdown.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa STARDOM (títulos,

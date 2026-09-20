@@ -256,6 +256,23 @@ confirma que en este mismo segmento Owens interrumpe y le da un
 Stunner a Johnny Gargano. Pieza:
 [promo Sami/Aldis](../segments/2026-09-18-sami-zayn-nick-aldis-promo-heel-vs-heel-wwe-smackdown.md) (WE, sin Owens).
 
+
+### Sesión 2026-09-20 s02 — Defiende in-ring pese al botch del final
+
+**Cita verbatim** (fragmento):
+
+> *"in ring si es un lujo esta rivalidad, con las intervenciones y
+> Punk para los stakes, aunque Owens botcheó el final, es la única
+> razón por la que no reciben la +"*
+>
+> — El Vehemiurgo, 2026-09-20 s02 (verbatim, typos preservados)
+
+**Lectura sintética**: el match en sí entrega triple clase pese al
+arranque de rivalidad decepcionante (guion 009) — pero el botch de
+Owens en el cierre es, explícitamente, el único motivo por el que la
+pieza no llega a Instant Classic Crown+. Pieza:
+[vs Sami, título](../matches/2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md) (ICC).
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).
