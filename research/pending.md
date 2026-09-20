@@ -7,6 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
+| `mlw-slaughterhouse-041025` | Cerrar MLW Slaughterhouse (4/10/2025), primer registro de MLW en el archivo: identidad de "Star Jr", "Alexander Hamerstone" (¿Alex Hammerstone?), "Himawari"; contexto de MLW 2025; rol de Austin Aries; finish/duración de las cuatro luchas; contra quién es el ataque post-match de Aries. | Volcado 2026-09-20 s03 | 2026-09-20 | `archive/matches/` + `archive/segments/` + `archive/people/` (~10 fichas nuevas) |
 
 > `wwe-smackdown-180926-main-event` cerrada e integrada el 2026-09-20 (s02) — ver
 > [`closed.md`](./closed.md).
