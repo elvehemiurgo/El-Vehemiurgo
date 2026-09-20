@@ -10,9 +10,9 @@ ciudad: "Corpus Christi, Texas"
 recinto: "American Bank Center"
 ubicacion_en_show: "post-match del main event (timestamp 01:39:31)"
 duracion: "[verif]"
-linea_textual: "[verif]"
+linea_textual: "sin promo hablada — el mensaje es puramente físico"
 gimmick_momento: "el ex-campeón repartiendo GTS de consecuencia tras el título"
-storyline: "Post-match del main event (Sami Zayn vs Kevin Owens, Undisputed WWE Championship): CM Punk conecta más de un GTS."
+storyline: "Post-match del main event (Sami Zayn retiene el Undisputed WWE Championship ante Kevin Owens). Tras la campana, CM Punk aplica una GTS a Sami Zayn y, acto seguido, otra a Kevin Owens, dejando a ambos en la lona. Se queda parado solo en el ring; sin promo hablada."
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
@@ -34,9 +34,12 @@ tags: [wwe-smackdown-2026, cm-punk, sami-zayn, kevin-owens, undisputed-champions
 
 ## Resumen
 
-Timestamp **01:39:31**. Post-match del main event (Sami Zayn vs
-Kevin Owens, Undisputed WWE Championship). CM Punk conecta **más de
-un GTS** (plural en el dictado).
+Timestamp **01:39:31**. Post-match del main event (Sami Zayn retiene
+el título ante Kevin Owens). **CM Punk aplica una GTS a Zayn** tras
+una seguidilla de golpes, y **acto seguido otra GTS a Owens**,
+dejando a ambos en la lona. Se para solo en el ring — **sin promo
+hablada**, mensaje puramente físico/kayfabe, estableciéndose como la
+tercera pata sobre el título por encima de ambos.
 
 ## Lectura del Vehemiurgo
 
@@ -53,18 +56,22 @@ un GTS** (plural en el dictado).
 
 **Lectura sintética**:
 
-1. **Plural deliberado**: "las GTS" sugiere que Punk conectó el
-   movimiento más de una vez — sobre más de un rival, o repetido
-   sobre el mismo. Pendiente de research para precisar destinatarios.
-2. **Continuidad del arco Punk/Zayn/Owens**: cierra la noche donde
+1. **El plural estaba bien leído**: "las GTS" era exactamente eso —
+   un GTS a cada rival, confirmado por research.
+2. **Sin cambio de título**: Zayn retiene; el segmento es pura
+   consecuencia física, no resultado. La prensa lee el ángulo como
+   siembra de un futuro triple threat en Money in the Bank
+   (10/10/2026, Nueva Orleans) — **especulación editorial, no anuncio
+   oficial en el show**, registrada como tal.
+3. **Continuidad del arco Punk/Zayn/Owens**: cierra la noche donde
    arrancó — la apertura ya tenía a Punk como referencia constante de
-   la "naturaleza de heel/serpiente" que el Vehemiurgo le atribuye.
+   la "naturaleza de heel/serpiente" que el Vehemiurgo le atribuye,
+   ahora confirmado que fue Punk quien físicamente decidió el
+   resultado del título.
 
 ## Pendientes
 
-- [ ] A quién exactamente le aplicó el/los GTS.
-- [ ] Consecuencia narrativa (¿título cambia de manos? ¿nuevo ángulo?).
-- [ ] Línea textual completa, duración exacta.
+- [ ] Duración exacta.
 
 ## Cross-links
 

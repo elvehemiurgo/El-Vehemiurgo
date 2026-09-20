@@ -9,10 +9,10 @@ ciudad: "Corpus Christi, Texas"
 recinto: "American Bank Center"
 tipo_match: "singles — Undisputed WWE Championship"
 estipulacion: "Undisputed WWE Championship — forzado por Nick Aldis en la apertura del show"
-duracion: "[no confirmado]"
-finish: "[verif — Owens botchea el final]"
-ganador: "[verif]"
-referee: "[verif]"
+duracion: "~16:00 [no confirmado — cifra de búsqueda sin cita textual verificada]"
+finish: "Candice LeRae conecta un tornado DDT sobre Kevin Owens fuera de la vista del árbitro (con Johnny Gargano trabajando también en ringside); CM Punk golpea a Owens con el propio cinturón del título; Zayn cubre — el referee retiene la mano y señala la campana en vez de completar la cuenta (el botch: el plan era que el golpe de Punk fuera el final inmediato); Owens hace un kickout improvisado post-cuenta; Zayn remata con un Helluva Kick real para el pinfall"
+ganador: "Sami Zayn retiene el Undisputed WWE Championship"
+referee: "[no confirmado — varias fuentes terciarias repiten 'Ryan Tran', sin confirmación primaria]"
 encuentros_previos: 1
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo muy dura, se merecen las 3 clases; in ring sí es un lujo esta rivalidad, con las intervenciones y Punk para los stakes; aunque Owens botcheó el final, es la única razón por la que no reciben la corona +, pero estuvo buena"
@@ -29,15 +29,25 @@ tags: [wwe-smackdown-2026, sami-zayn, kevin-owens, cm-punk, undisputed-champions
 > **Instant Classic Crown, sin +.** *"Owens botcheó el final, es la
 > única razón por la que no reciben la corona +"* — primer caso
 > registrado del archivo donde el motivo de negar el + se declara de
-> forma tan explícita y puntual.
+> forma tan explícita y puntual. **El botch, cerrado por research**:
+> el plan era que el golpe de Punk con el título fuera el final
+> inmediato — el referee retuvo la cuenta por error, generando la
+> confusión que el Vehemiurgo identificó en vivo.
 
 ## Resumen
 
 Timestamp **01:21:20**. Sami Zayn defiende el Undisputed WWE
 Championship ante Kevin Owens — la estipulación forzada por Nick
-Aldis en la apertura del show tras el forcejeo de Zayn con él. **CM
-Punk está presente para los stakes**, con intervenciones durante el
-match. Owens comete un botch en el final.
+Aldis en la apertura del show tras el forcejeo de Zayn con él.
+**Finish (research)**: Candice LeRae conecta un tornado DDT sobre
+Owens fuera de la vista del árbitro, con Johnny Gargano trabajando
+también en ringside; **CM Punk golpea a Owens con el propio cinturón
+del título** — interferencia física directa a favor de Zayn, no solo
+distracción. Zayn cubre, pero **el referee retiene la cuenta y señala
+la campana en vez de completarla** (el botch: el plan era que el
+golpe de Punk fuera el final inmediato). Owens hace un kickout
+improvisado; Zayn remata con un **Helluva Kick** real para el pinfall
+limpio. **Zayn retiene.**
 
 ## Lectura del Vehemiurgo
 
@@ -67,16 +77,22 @@ match. Owens comete un botch en el final.
    como decepcionante del lado de Owens (guion 009), el propio
    Vehemiurgo reconoce que la ejecución física de la rivalidad
    entrega — el mismo patrón que ya se vio en Toronto (21/8).
-3. **Punk como pieza de stakes, no de resultado**: su presencia eleva
-   la lectura del match sin necesariamente decidir el desenlace —
-   pendiente cerrar el finish exacto.
+3. **Punk sí decidió el desenlace**: no fue solo presencia para
+   stakes — intervino físicamente con el título a favor de Zayn,
+   habilitando el primer intento de cobertura (el que generó el
+   botch) y, después, la ventana para el Helluva Kick real.
+4. **Nota de prensa, no de dictado**: varios medios leen el ángulo
+   como siembra de un triple threat Punk vs Zayn vs Owens en Money in
+   the Bank (10/10, Nueva Orleans) — **es lectura/especulación de
+   prensa, sin anuncio oficial en el show**. Se registra como tal, no
+   como hecho.
 
 ## Pendientes
 
-- [ ] Finish exacto, ganador, duración, referee — no especificados en
-      el dictado.
-- [ ] Naturaleza exacta del botch de Owens.
-- [ ] Rol exacto de la intervención de Punk.
+- [ ] Duración exacta — la cifra de ~16:00 no está verificada contra
+      cita textual de un recap con timestamps.
+- [ ] Nombre del referee — repetido en fuentes terciarias, sin
+      confirmación primaria.
 
 ## Cross-links
 

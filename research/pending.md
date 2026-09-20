@@ -7,7 +7,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `wwe-smackdown-180926-main-event` | Cerrar el main event de SmackDown 18/9/2026: Sami Zayn (c) vs Kevin Owens por el Undisputed WWE Championship — finish exacto, ganador, duración, referee, naturaleza del botch de Owens, rol de CM Punk, y contenido del post-match con "las GTS" de Punk. | Volcado 2026-09-20 s02 | 2026-09-20 | `archive/matches/2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md` + `archive/segments/2026-09-18-post-match-cm-punk-gts-wwe-smackdown.md` |
+
+> `wwe-smackdown-180926-main-event` cerrada e integrada el 2026-09-20 (s02) — ver
+> [`closed.md`](./closed.md).
 
 > `wwe-smackdown-180926` cerrada e integrada el 2026-09-20 (s01) — ver
 > [`closed.md`](./closed.md).
