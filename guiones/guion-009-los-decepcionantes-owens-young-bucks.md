@@ -3,7 +3,7 @@ titulo: "Guion 009 — Los decepcionantes: Kevin Owens y Young Bucks, elevados p
 tipo: guion-editorial
 numero: 009
 fecha: 2026-09-17
-duracion_objetivo: "≈2:10 (corte de 90s marcado en §5)"
+duracion_objetivo: "≈4:40 entrelazado (corte de 2:00 marcado en §5)"
 serie: "Diptico de rivalidades — WWE + AEW, verano 2026"
 formato_de_show: "YYYY MM DD Nombre del Show (ley del Vehemiurgo, 2026-09-04)"
 corpus: "Parte A: CM Punk vs Kevin Owens, 7/8 → 13/9/2026 (WWE SmackDown), 6 piezas. Parte B: Young Bucks vs Christian Cage & Edge, 29/7 → 2/9/2026 (AEW Dynamite/Collision/GSM/All In), 6 piezas."
@@ -15,7 +15,7 @@ fuente_cruda:
   - "notebook/2026-08-31-s57 · 2026-09-02-s58 · 2026-09-03-s59 (Collision 15/8, Glasgow 26/8, All In 30/8, ratificación)"
   - "notebook/2026-09-17-s01 (Dynamite 2/9, clase de promo)"
 estado: draft
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-21
 tags: [guion, kevin-owens, cm-punk, young-bucks, christian-cage, edge, adam-copeland, all-in-london, toronto, wembley, decepcion, wrestling-entertainment-restringida, heroes-fundamentales]
 ---
 
@@ -53,13 +53,21 @@ segmento compartido**, con el resto explícitamente afuera.
 dirigida solo a los Young Bucks; el Vehemiurgo la extendió a **todos
 menos Christian** el 2026-09-03 (s59) — Edge incluido.
 
-**El dato que le da filo al guion**: los dos "decepcionantes" no son
-enemigos declarados del Vehemiurgo. **Christian Cage es su Héroe
-Fundamental #1** y **Young Bucks son "Dioses del Wrestling" Tier 2
-#15** — declarados en notebook 2026-05-26: *"amo a los young bucks,
-son mis héroes también"*. La crítica más dura de este guion **no es
-contra un heel odiado: es contra los propios héroes del Vehemiurgo**,
-sostenida con la misma vara que aplicaría a cualquiera.
+**El dato que le da filo al guion — el panteón ordena el diptico**:
+
+| Nombre | Estatus en el panteón |
+|---|---|
+| **Christian Cage** | **Héroe Fundamental #1** |
+| **CM Punk** | **Héroe Fundamental #2** |
+| **Young Bucks** (cuentan como uno) | **Dioses del Wrestling Tier 2, #15** — *"amo a los young bucks, son mis héroes también"* (notebook 2026-05-26) |
+| **Kevin Owens** | **no figura en el panteón** |
+
+**Leído así, el diptico se ordena solo**: en las dos rivalidades el
+que carga es un héroe del podio —**#1 y #2**— y el que decepciona es,
+de un lado, **un héroe menor del mismo panteón**, y del otro,
+**alguien que nunca entró**. La crítica más dura de este guion no es
+contra un heel odiado: **es contra los propios héroes del
+Vehemiurgo**, sostenida con la misma vara que aplicaría a cualquiera.
 
 ---
 
@@ -254,103 +262,277 @@ puntuación. Orden cronológico por fecha de show dentro de cada parte.)*
 
 ---
 
-## 4. El guion afilado *(≈2:10)*
+## 4. El guion — cruda y data entrelazadas *(≈4:40)*
 
-> **Verano de 2026. Dos compañías, la misma lección de booking.**
+> **Sección que reemplaza al guion afilado** (pedido del Vehemiurgo,
+> 2026-09-21). En vez de destilar, **entrelaza**: cada take verbatim
+> va seguido de la data que lo sostiene o lo matiza. Se mantiene la
+> regla de estilo — **texto del Vehemiurgo TAL CUAL**, data del
+> copiloto **en cursiva entre paréntesis, recortable**.
 >
-> **WWE.** *(Kevin Owens regresa tras 17 meses. Gana un fatal 4-way.
-> El rival: CM Punk, campeón indisputado. Primera lucha de sus
-> carreras — 20 años sin cruzarse, ni en ROH ni en WWE.)*
+> **Cómo leerlo**: si se recorta toda la cursiva, queda el editorial
+> puro del Vehemiurgo y sigue de pie. Si se recorta el editorial, la
+> data sola no dice nada. Ese es el punto.
+
+### Acto I — WWE: el feudo generacional que se desinfló
+
+> *(1 y 2 de agosto de 2026. SummerSlam, U.S. Bank Stadium,
+> Minneapolis. Kevin Owens vuelve tras 17 meses — cirugía de cuello,
+> fusión cervical de un nivel en julio de 2025. Gana el fatal 4-way
+> de contendiente #1 en 8:30, con Stunners sucesivos a Zayn, Bálor y
+> Gunther.)*
 >
-> El feudo generacional del año. Todo lo que representa este
-> versus.
+> Lo único que podía pensar es en un feudo Owens vs Punk. **Esa sería
+> una rivalidad generacional histórica.**
 >
-> *(Una semana después, Owens vuelve al mismo agravio de siempre — el
-> vestuario de ROH, 2005. En términos tan vagos que Punk tiene que
-> pedirle que sea más específico. Kevin con esta rivalidad acaba de
-> hacer el fumble del año.)*
+> *(No era metáfora: es literalmente la primera lucha de sus carreras.
+> Veinte años en paralelo, cero cruces — ni en ROH, ni en indies, ni
+> en WWE. El dossier propio del archivo lo verificó pieza por pieza.)*
 >
-> Punk lo trató como un niño y salvó su propia promo. **Solo Punk
-> hizo esto entretenido.**
+> **`2026 08 07 SmackDown`, Filadelfia.** Owens y Punk en un segmento,
+> retador y campeón. Fue genial, todo muy intenso y de ensueño. Pero
+> la promo de Owens en gran parte es mentira: no sé por qué fue por
+> el lado moral de Punk, algo que ya han atacado todos, y no es nada
+> creativo a estas alturas. **Punk le dio material** porque se
+> descontroló y lo empezó a insultar por indie y por ser humilde
+> antes, como si Punk no viniera de ahí. Pienso que Owens debía
+> apoyarse en eso para atacarlo con algo más nuevo y realista.
 >
-> **Toronto.** *(19 minutos. La ciudad abuchea al campeón y ovaciona
-> al retador. Owens conecta un Stunner que pone de pie a la arena.
-> Sami Zayn le ofrece el título como arma para ganar haciendo trampa.)*
+> *(El archivo deja eso escrito el 1 de agosto. Es un diagnóstico con
+> fecha, no una queja retrospectiva.)*
 >
-> Owens se niega. **Y por negarse, pierde** — Zayn lo golpea con el
-> cinturón, Punk remata con el GTS.
+> **`2026 08 14 SmackDown`, Boston, TD Garden.** La primera interacción
+> la ganó Punk definitivamente. Kevin sigue hablando de que Punk lo
+> humilló en ROH una vez; la verdad se vio muy tonto. Creo que Kevin
+> perdió su edge. **Hasta Eddie Kingston lo hizo mejor** en su
+> rivalidad con Punk. Hasta Jack Perry lo hizo mejor. La promo de
+> Owens fue aburrida, se estaba ahogando — incluso Punk tuvo que
+> decirle *"ponte más específico"* porque solo hablaba en términos
+> vagos, como si no se hubiera preparado nada realmente.
+>
+> *(La ironía está documentada por el propio archivo: el agravio
+> existía con fecha y detalle. T-Shirt Incident, ROH Stalemate, 16 de
+> abril de 2005 — Punk, como líder de vestuario y head trainer,
+> destrozó verbalmente a un Kevin Steen de 20 años delante de todos.
+> Owens tenía el material y fue en vago igual.)*
+>
+> Debía ser una rivalidad generacional, pero **Kevin la convirtió en
+> quejas y lloros**. Patético. Punk lo trató como un niño y salvó su
+> propia promo. Kevin con esta rivalidad acaba de hacer **el fumble
+> del año**. Durante su rivalidad con Cody estuvo brillante, pero
+> este Owens es débil.
+>
+> *(La clase de esa noche va solo a Punk. "Solo Punk hizo esto
+> entretenido" — el segundo caso del verano de una WE declarada a una
+> sola persona dentro de un segmento compartido.)*
+>
+> **`2026 08 21 SmackDown`, Toronto, Scotiabank Arena.** El promo
+> video estuvo cool; la edición hizo lucir un poco mejor a Owens,
+> **pero Punk sigue siendo el dueño de esta rivalidad, lo trató como
+> su hijo.**
+>
+> *(Y llega el main event. Diecinueve minutos. La ciudad natal de
+> Owens le da la ovación más fuerte de la noche y abuchea al campeón
+> toda la lucha: Punk convertido en heel de facto por contexto de
+> público, sin turn narrativo formal. ~15.000 tickets movidos según
+> estimación de Forbes — no hay gate oficial.)*
 >
 > Independientemente de la mediocridad que Owens trajo al inicio de
-> esta rivalidad, todavía se puede contar algo top in-ring.
+> esta rivalidad, **todavía se puede contar algo top in-ring**, y eso
+> es lo que hacen. Desde las entradas dividiendo a la gente, la
+> hostilidad antes de la campana, Punk siendo abucheado en Toronto.
+> Me encantó cómo armaron la lucha con Punk como heel efectivamente.
+> El near fall después de la interferencia de Sami fue súper
+> cardíaco: **de verdad salté de mi asiento.**
 >
-> *(Un mes después, un balance: pudiendo nombrar todo lo que evidencia
-> la naturaleza de serpiente de Punk, Owens eligió el agravio más
-> chico disponible. Se quedó corto.)*
+> *(El finish, reconstruido: ref bump. Entra Sami Zayn con la mano
+> rota. Tira a Punk contra el poste. Owens conecta el Stunner del near
+> fall. Zayn le ofrece el cinturón para que gane haciendo trampa —
+> **y Owens se niega**. Zayn lo castiga con el título por haberse
+> negado. Punk capitaliza con el GTS y cubre.)*
 >
-> **AEW, la misma semana.** *(Christian Cage y Edge — campeones de
-> parejas por primera vez juntos en 25 años— se sientan con los Young
-> Bucks de cara a Wembley.)*
+> **`2026 08 28 SmackDown`** *(grabado el 24 en Ottawa)*. Owens sigue
+> decepcionando: podría cortar una gran promo pero solo se puso a
+> llorar. Owens definitivamente perdió el filo. Todo lo que hace es
+> llorar porque CM Punk no le hizo caso hace 20 años. **Hasta Eddie
+> Kingston hizo exactamente el mismo ángulo pero mucho mejor — y
+> Eddie Kingston ya es un llorón grande.** Owens realmente fue
+> expuesto en esta rivalidad: debería retirarse o hacer un heel turn.
+> **KO sí rinde in-ring**, y es bueno que lo pongan con Sami ahora.
 >
-> Lo estaba esperando, y fue decepcionante. Christian se devoró a
-> todos.
+> *(Matiz de archivo, para no confundir ejes: la promo de esa noche
+> sobre su madre no apunta a Punk. Apunta a Sami Zayn — Owens contó
+> que su madre viajó para verlo campeón y que Zayn le arrebató ese
+> momento.)*
 >
-> *"Me parece que estás tratando de convencerte a ti mismo."*
+> **Balance, un mes después.** Owens se quedó corto llorando porque le
+> dijo gordo una vez hace 20 años, **cuando podía nombrar tantas
+> cosas que evidencian la naturaleza de heel y serpiente de Punk.**
 >
-> **Dos frases. Eso le tomó.**
+> *(Ese es el cargo final del archivo contra él: no es que llorara.
+> Es que, teniendo un expediente entero disponible, eligió el agravio
+> más chico.)*
+
+### Acto II — AEW: el héroe que cargó solo con un ángulo de cuatro
+
+> **`2026 07 29 Dynamite`, Detroit.** El segmento de entrevista con
+> Cope and Cage y los Young Bucks: **lo estaba esperando y fue
+> decepcionante.** Christian se devoró a todos. ¿Qué es eso de hablar
+> dando pena? Los Young Bucks son agresivos, son irrespetuosos, tienen
+> buenas promos — pero esto fue súper débil, y Christian los expuso.
+> Les dijo: *"me parece que estás tratando de convencerte a ti
+> mismo"*. Y es cierto. No vi nada positivo. **Este segmento rebajó
+> la percepción de los Young Bucks: ahora me parecen marks, igual que
+> Cope — habla tanto y no dice nada.** Christian con dos frases los
+> revuelca y expone.
 >
-> *(Glasgow, un mes después. Tercera vez seguida.)*
+> *(Los títulos que están en juego no son un accesorio: Cage y Cope
+> son campeones de parejas desde Double or Nothing, 24 de mayo,
+> ganados a FTR en un New York Street Fight "I Quit" — su primer
+> título de parejas juntos en 25 años.)*
 >
-> Christian es lo único épico del ángulo. Debía ser la mejor obra de
-> entretenimiento de los Young Bucks hasta el momento — **decidieron
-> seguir haciendo flips.**
+> **`2026 08 05 Grand Slam Mexico`, Arena México.** Bookean a Cage and
+> Cope en equipo con los Young Bucks, y esto es cool —
+> **independientemente de que los Young Bucks estén soft y aburridos y
+> sin actitud**, es un sueño este team. Pero AEW siempre puede
+> arruinar incluso cosas perfectas, solo añadiendo a los Death Riders
+> a la mezcla. Por lo histórico y el show que es tener a Christian en
+> Arena México, la lucha se merece la clase. **Pero no puedo dejar de
+> desear que usaran mejor estos años de Christian en vez de tenerlo
+> trabajando con payasos fake: debería estar enfrentando a MJF o Jay
+> White. AEW es bien tonta.**
 >
-> *(Wembley. 20 minutos. Christian usa su propio yeso como arma. El
-> público lo venía viendo como una lesión real.)*
+> *(El finish de esa noche: Matt Jackson y Copeland chocan por
+> accidente en el apron, y Moxley cubre a Copeland con roll-up
+> agarrando las trusas. Post-match, Christian confronta a los Bucks —
+> "¿qué carajo pasó?" — y se retiran juntos, con la tensión servida.)*
 >
-> Me gustó — el desenlace, no sé, creo que restó.
+> **`2026 08 15 Collision`, Las Vegas.** Christian owned a los Young
+> Bucks otra vez. La verdad **sus promos están muy débiles, peor que
+> Kevin Owens en WWE.** Decepcionante. Pero Edge y Christian levantan,
+> y Christian sigue invicto: **es el mejor.**
 >
-> *(Tres días después, en Texas, Christian les da una clase de promo
-> en vivo, con los Young Bucks parados ahí mismo.)*
+> *(Dos precisiones que el archivo tuvo que corregir sobre sí mismo.
+> Primera: "sus promos" no eran solo las de los Bucks. El Vehemiurgo
+> lo ratificó el 3 de septiembre — "era por todos menos Christian
+> Cage, en ese ángulo todos están flojos". **Copeland incluido.**
+> Segunda: el "sigue invicto" no es individual, es la racha como
+> campeones de parejas. Y el "owned" tiene línea textual: Copeland le
+> pregunta a Nick Jackson cuántos años tiene y le suelta "You were
+> THREE when I started doing this." Matt responde: "old enough to be
+> our father.")*
 >
-> La participación de Cope & Cage se merece la clase. **Solo ellos.**
+> **`2026 08 26 Dynamite`, Glasgow, OVO Hydro.** Otra vez, **por
+> tercera vez seguida, Christian es lo único épico del ángulo** por
+> los títulos tag team. Sigo decepcionado de los YBs: **esta debía ser
+> su mejor obra de entretenimiento hasta el momento, pero decidieron
+> seguir haciendo flips.** Aquí Matt recién dice algo decente, pero
+> muy poco muy tarde. Es una pena que no estén a su altura y él tenga
+> que cargar todo el entretenimiento.
 >
-> **Kevin Owens es mi Héroe Fundamental de una generación entera de
-> indies. Los Young Bucks son mis héroes también.** *(Verbatim,
-> notebook 2026-05-26.)* Y ninguno de los dos se salva de la vara
-> cuando no la alcanza. El kayfabe está democratizado, no muerto — la
-> sustancia sigue explicando por qué se hacen las cosas. Este verano,
-> a los dos les faltó la sustancia. A sus rivales, no.
+> *(Y hay una ironía de formato que el archivo registra: ni siquiera
+> fue un segmento suelto. Fue el post-match de un trios donde Copeland
+> hizo equipo CON los Young Bucks para vencer a la Don Callis Family
+> — 9:23, spear sobre Rocky Romero. Recién después salió Christian,
+> de calle, y todo se rompió: low blow a Matt, superkick de Nick,
+> spear de Copeland. La sustancia del careo es argumento de draw, no
+> de workrate: Christian les concede que son influyentes y les marca
+> la diferencia — ellos nunca tuvieron un match con su nombre, él y
+> Copeland tienen PPVs con el suyo. La respuesta de los Bucks:
+> "nosotros tenemos una compañía entera con nuestro nombre".)*
+>
+> **`2026 08 30 All In: London`, Wembley Stadium.** Al menos espero que
+> in-ring esté brillante, **porque Christian cargó con toda la
+> rivalidad hasta ahora.** La lucha me gustó: los spots, las ideas,
+> las secuencias. El desenlace con el cast en el brazo y eso… no sé,
+> **creo que restó.**
+>
+> *(Veinte minutos. Con la visión del árbitro obstruida, Christian usó
+> el yeso del antebrazo como arma sobre Matt Jackson, y eso abrió el
+> spear y la cuenta. Dos cosas siguen sin cerrar entre fuentes: si el
+> spear final lo dio Copeland o Christian, y qué había exactamente en
+> el brace — "a cast on his forearm", "an arm brace" o "a wrench in
+> his elbow pad". El objeto que el Vehemiurgo objeta es, literalmente,
+> el objeto que nadie termina de identificar.)*
+>
+> **`2026 09 02 Dynamite`, Allen, Texas.** Los YBs indignados con
+> perder en Wembley siguen actuando como llorones: no dicen ningún
+> comeback, nada entretenido. Luego FTR salva el segmento, pero solo
+> se ponen a recordar cosas. Estuvo ok — **hasta que Christian sale y
+> les enseña cómo cortar una promo, les lanza todo el old-school y
+> evidencia que son un acto superior en todos los aspectos.** Tanto,
+> que tienen que dibujar esta polémica con que Cope no quiere hacer
+> trampa pero sí está satisfecho con ganar así. Esa tensión es lo
+> entretenido, porque **los retadores no están poniendo un show
+> memorable.** Probablemente pongan luchas memorables in-ring, pero
+> este run debería ser peak wrestling y en su lugar solo será una
+> serie de dream matches sostenidas por Christian Cage.
+
+### Cierre — la vara no perdona ni a los propios
+
+> **Lo que hace que este diptico duela no es el veredicto. Es de
+> quién es.**
+>
+> *(Los números del panteón: Christian Cage es Héroe Fundamental #1
+> del Vehemiurgo. CM Punk es el #2. Los Young Bucks son Dioses del
+> Wrestling Tier 2, #15 — declarados en notebook del 26 de mayo:
+> "amo a los young bucks, son mis héroes también". Kevin Owens no
+> figura en el panteón.)*
+>
+> *(O sea: en las dos rivalidades del verano, el que carga es un
+> héroe del podio — #1 y #2 — y el que decepciona es, de un lado, un
+> héroe menor del mismo panteón, y del otro, alguien que nunca entró.)*
+>
+> Owens tenía un agravio con fecha exacta y lo usó tan vago que Punk
+> tuvo que pedirle que fuera más específico en cámara. Los Young
+> Bucks tenían Wembley, el título y la leyenda sentada enfrente, y
+> **decidieron seguir haciendo flips.** En los dos casos la sustancia
+> existía. En los dos casos no se usó.
+>
+> Y en los dos casos, el que sí ejecutó no necesitó levantar la voz.
+> A Punk le alcanzó una frase. **A Christian, dos.**
+>
+> El kayfabe está democratizado, no muerto: la sustancia sigue
+> explicando por qué se hacen las cosas. **Este verano, a los dos les
+> faltó. A sus rivales, no.**
 
 ---
 
-## 5. Timestamps del guion — línea por línea
+## 5. Timestamps del guion — bloque por bloque
 
 > **Aviso operativo**: ninguna de las doce piezas de este corpus
 > tiene timestamp de VLC — todo el material es previo al kit de
 > captura. Los cues de §6 son por **fecha de show + posición de
 > card**, no por minuto de video.
+>
+> **Aviso de versión**: esta tabla corresponde al guion entrelazado
+> de §4 (≈4:40). Sustituye a la tabla del guion afilado de 2:10.
 
-| Tiempo | Línea hablada | Dur. | En pantalla | Clase |
+| Tiempo | Bloque | Dur. | En pantalla | Clase |
 |---|---|---|---|---|
-| **0:00–0:12** | *"Verano de 2026. Dos compañías, la misma lección de booking."* + *(data: Owens regresa, gana el 4-way, primera lucha de sus carreras contra Punk)* | 12 s | **Clip A** — `2026 08 01` SummerSlam N2, entrada de Owens | ICC (4-way) |
-| **0:12–0:20** | *"El feudo generacional del año. Todo lo que representa este versus."* | 8 s | **Clip B** — `2026 08 07 SmackDown`, cara a cara Punk/Owens | WE |
-| **0:20–0:34** | *(data + take)* *"Una semana después, Owens vuelve al mismo agravio... Kevin con esta rivalidad acaba de hacer el fumble del año."* | 14 s | **Clip C** — `2026 08 14 SmackDown`, segundo cara a cara. Buscar el "ponte más específico" de Punk | **WE (solo Punk)** |
-| **0:34–0:42** | *"Punk lo trató como un niño y salvó su propia promo. Solo Punk hizo esto entretenido."* | 8 s | Mismo Clip C, remate | WE (solo Punk) |
-| **0:42–0:58** | *(data)* *"Toronto. 19 minutos..."* + *"Owens se niega. Y por negarse, pierde..."* | 16 s | **Clip D** — `2026 08 21 SmackDown`, main event. El momento en que Owens rechaza el cinturón de Zayn | **ICC** |
-| **0:58–1:06** | *"Independientemente de la mediocridad que Owens trajo al inicio de esta rivalidad, todavía se puede contar algo top in-ring."* | 8 s | Mismo Clip D, el Stunner del near fall | ICC |
-| **1:06–1:16** | *(data)* *"Un mes después, un balance... Se quedó corto."* | 10 s | **Clip E** — plano de Owens en `2026 08 28 SmackDown` (triple threat) o rótulo sobre foto | ICC (triple threat) |
-| **1:16–1:26** | *"AEW, la misma semana. Christian Cage y Edge — campeones de parejas por primera vez juntos en 25 años— se sientan con los Young Bucks de cara a Wembley."* | 10 s | **Clip F** — `2026 07 29 Dynamite`, sit-down | WE (solo Christian) |
-| **1:26–1:38** | *"Lo estaba esperando, y fue decepcionante... 'Me parece que estás tratando de convencerte a ti mismo.' Dos frases. Eso le tomó."* | 12 s | Mismo Clip F, la línea de Christian | WE (solo Christian) |
-| **1:38–1:50** | *(data + take)* *"Glasgow, un mes después. Tercera vez seguida... decidieron seguir haciendo flips."* | 12 s | **Clip G** — `2026 08 26 Dynamite`, post-match del trios, careo | WE (solo Christian) |
-| **1:50–2:02** | *(data)* *"Wembley. 20 minutos. Christian usa su propio yeso como arma..."* + *"Me gustó — el desenlace, no sé, creo que restó."* | 12 s | **Clip H** — `2026 08 30 All In: London`, el golpe con el yeso y el spear | **FC** |
-| **2:02–2:10** | *(data)* *"Tres días después, en Texas... La participación de Cope & Cage se merece la clase. Solo ellos."* | 8 s | **Clip I** — `2026 09 02 Dynamite`, clase de promo | WE (solo Cage & Cope) |
-| **2:10–2:25** | *"Kevin Owens es mi Héroe Fundamental... El kayfabe está democratizado, no muerto... Este verano, a los dos les faltó la sustancia. A sus rivales, no."* | 15 s | **Clip J** — split screen o corte a Punk con el título y Christian con el suyo | — |
+| **0:00–0:22** | *(Data)* Regreso de Owens tras 17 meses + 4-way de SummerSlam + *"esa sería una rivalidad generacional histórica"* + *(data: cero cruces en 20 años)* | 22 s | **Clip A** — `2026 08 02 WWE SummerSlam` N2, Stunners sucesivos de Owens | ICC |
+| **0:22–0:52** | `2026 08 07` Filadelfia: el ángulo moral gastado + *"Punk le dio material"* + *(data: el diagnóstico queda escrito con fecha)* | 30 s | **Clip B** — cara a cara; empujones, Aldis separando | WE |
+| **0:52–1:35** | `2026 08 14` Boston: *"perdió su edge"*, Kingston y Perry, *"ponte más específico"* + *(data: T-Shirt Incident, 16/4/2005)* + *"el fumble del año"* | 43 s | **Clip C** — Punk exigiendo concreción; intercambio de spears ajenos | **WE (solo Punk)** |
+| **1:35–2:20** | `2026 08 21` Toronto: promo video + *(data: 19 min, ovación local, ~15.000 tickets)* + *"todavía se puede contar algo top in-ring"* + *(data: finish completo con el rechazo del cinturón)* | 45 s | **Clip D** — Owens rechazando el título; Zayn castigándolo; GTS | **ICC** |
+| **2:20–2:45** | `2026 08 28` Ottawa: *"debería retirarse o hacer un heel turn"* + *"KO sí rinde in-ring"* + *(matiz: la línea de la madre apunta a Zayn)* + balance del 13/9 | 25 s | **Clip E** — triple threat; Zayn arrasando con todos | ICC |
+| **2:45–3:10** | `2026 07 29` Detroit: *"lo estaba esperando y fue decepcionante"* + *"me parece que estás tratando de convencerte a ti mismo"* + *(data: títulos de DoN, 25 años)* | 25 s | **Clip F** — sit-down; Christian mirando fijo al soltar la línea | **WE (solo Christian)** |
+| **3:10–3:30** | `2026 08 05` Arena México: *"soft y aburridos"* pero *"es un sueño este team"* + *"debería estar enfrentando a MJF o Jay White"* | 20 s | **Clip J** — 8-man tag; roll-up con trusas de Moxley sobre Copeland | WE |
+| **3:30–3:55** | `2026 08 15` Las Vegas: *"peor que Kevin Owens en WWE"* + *(data: la ratificación de s59 — era por todos menos Christian)* + *(data: "You were THREE…")* | 25 s | **Clip K** — careo; la línea de Copeland a Nick Jackson | WE |
+| **3:55–4:20** | `2026 08 26` Glasgow: *"tercera vez seguida"* + *"decidieron seguir haciendo flips"* + *(data: Copeland hizo equipo CON los Bucks esa misma noche)* | 25 s | **Clip G** — post-match del trios; low blow → superkick → spear | **WE (solo Christian)** |
+| **4:20–4:40** | `2026 08 30` Wembley + `2026 09 02` Texas: *"creo que restó"* + *(data: el yeso sin identificar)* + *"solo será una serie de dream matches sostenidas por Christian Cage"* | 20 s | **Clip H** — el golpe con el yeso; corte a **Clip I** — la clase de promo | **FC** / WE |
+| **4:40–5:05** | **Cierre**: *(data: Christian #1, Punk #2, Bucks #15, Owens sin panteón)* + *"a Punk le alcanzó una frase, a Christian dos"* + *"este verano a los dos les faltó"* | 25 s | **Clip L** — split de Punk con el título y Christian con el suyo. Rótulo: **#1 · #2 · #15 · —** | — |
 
-**Corte a 90 segundos**: se caen **1:06–1:16** (el balance retrospectivo
-de Owens) y **1:16–1:26** (la data del récord de 25 años, queda como
-rótulo), y se comprime 2:10–2:25 a una sola frase de cierre. **Lo que
-no se toca**: 0:20–0:42 (fumble del año) y 1:26–1:38 (las dos frases
-de Christian) — son el corazón de cada mitad.
+**Corte a 2:00** (versión corta): se conservan **0:52–1:35** (el
+fumble), **2:45–3:10** (las dos frases de Christian), **3:55–4:20**
+(los flips) y **4:40–5:05** (el cierre del panteón). Todo lo demás se
+cae, y la data se reduce a rótulos.
+
+**Regla de recorte**: **primero se recorta cursiva, nunca editorial.**
+Si hay que bajar de 4:40, se van los paréntesis de data en este
+orden: el finish completo de Toronto → la ironía del trios de Glasgow
+→ los títulos de Double or Nothing → el T-Shirt Incident. **El T-Shirt
+Incident es el último que se toca**: sin él, "el fumble del año"
+pierde su prueba.
 
 ---
 
@@ -410,11 +592,18 @@ de Christian) — son el corazón de cada mitad.
   no ataca** — el fumble empieza en el cara a cara, no en su regreso.
   No mezclar el elogio a la victoria del 4-way con la crítica
   posterior.
-- **Christian Cage es Héroe Fundamental #1 y Young Bucks son Dioses
-  del Wrestling Tier 2 #15** — si se rotula esto, es para mostrar que
+- **Los números del panteón se rotulan exactos o no se rotulan**:
+  Christian Cage **#1**, CM Punk **#2**, Young Bucks **Tier 2 #15**,
+  Kevin Owens **sin panteón**. Si se rotula esto, es para mostrar que
   la crítica no es hostil, es exigente con los propios héroes. No
   usar el dato para suavizar el veredicto ni para hacerlo más duro de
   lo que el Vehemiurgo lo dejó.
+- **Corrección de versión**: el guion afilado anterior (reemplazado
+  por §4 el 2026-09-21) afirmaba que **Kevin Owens era "mi Héroe
+  Fundamental de una generación entera de indies"**. **Es falso** —
+  Owens no figura en el panteón. Fue un error de redacción del
+  copiloto, no una declaración del Vehemiurgo. Si sobrevive alguna
+  copia de ese corte, **no usar esa línea**.
 
 ---
 
@@ -448,7 +637,15 @@ finge con volumen.
   fuentes divididas.
 - Objeto exacto del brace de Christian (cast / arm brace / wrench).
 - Atribución de la línea "una compañía entera" (Matt o Nick Jackson).
-- Fecha/show confirmado para un eventual Owens vs Zayn — sembrado,
-  sin anunciar al cierre de este corpus.
-- Continuación del arco Young Bucks tras `2026 09 02` — el ángulo
-  sigue abierto, sin cierre narrativo declarado.
+- ~~Fecha/show confirmado para un eventual Owens vs Zayn~~ →
+  **cerrado**: se dio el `2026 09 18 SmackDown` (Corpus Christi), con
+  Zayn reteniendo el Undisputed WWE Championship — **ICC, sin corona
+  + por un botch de Owens en el final**. Registrado fuera de este
+  guion, en el corpus del 18/9.
+- ~~Continuación del arco Young Bucks tras `2026 09 02`~~ →
+  **parcialmente cerrado**: el `2026 09 09 AEW Rebel Heart` los pone
+  en un Tables Match contra Kyle Fletcher y Kevin Knight (pierden,
+  15:22) — y ahí el Vehemiurgo cambia el encuadre: *"buena chance de
+  redención para los young bucks"*, con la misma reserva intacta
+  (*"lo que les está faltando es mic y buenos comebacks"*). **La
+  rivalidad con Cage & Cope sigue sin cierre narrativo declarado.**
