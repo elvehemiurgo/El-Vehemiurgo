@@ -7,6 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
+| `wwe-raw-210926` | Cerrar WWE Raw 21/9/2026: contenido del video de apertura, debut de 946 "tipo The Shield", finish/duración de tres luchas (Iyo/Roxanne/Catalina, Jevon vs Breakker, Dragon Lee vs Dominik vs Penta), contenido de varios segmentos (LA Knight, Judgment Day/Hendry, IC title, ataque a Solo, walkover de Dom), título en juego en el main event. | Volcado 2026-09-22 s01 | 2026-09-22 | `archive/matches/` + `archive/segments/` (~15 fichas nuevas) |
 
 > `mlw-slaughterhouse-041025` cerrada e integrada el 2026-09-20 (s03) — ver
 > [`closed.md`](./closed.md).
