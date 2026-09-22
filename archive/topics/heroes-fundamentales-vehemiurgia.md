@@ -695,7 +695,8 @@ El panteón no es monolítico. Conviven varias ramas:
 - CLAUDE.md sec. 7 — referentes y héroes del proyecto.
 - [`./panteon-y2k-highspeed.md`](./panteon-y2k-highspeed.md) —
   **PANTEÓN Y2K HIGHSPEED** (2026-09-22 s02). Es un panteón de
-  estilo, paralelo a este: no otorga ni quita tiers acá. Doctrina en
+  estilo, **aparte** (ley 2026-09-22 s03): no altera tiers,
+  números ni posiciones de este panteón. Doctrina en
   [`./doctrina-y2k-highspeed.md`](./doctrina-y2k-highspeed.md).
 - [`./death-gods-of-wrestling.md`](./death-gods-of-wrestling.md) —
   DEATH GODS OF WRESTLING.

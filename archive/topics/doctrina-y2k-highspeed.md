@@ -359,7 +359,8 @@ todavía la cumplen.
   - [`./doctrina-2000s-alternativo-real-no-cosplay-vs-moxley.md`](./doctrina-2000s-alternativo-real-no-cosplay-vs-moxley.md)
     — lo alternativo de los 2000s: real, no cosplay.
   - [`./panteon-y2k-highspeed.md`](./panteon-y2k-highspeed.md) —
-    los exponentes validados.
+    los exponentes validados. Es un **panteón aparte** (ley s03): no
+    altera tiers ni posiciones del panteón general.
   - [`./death-gods-of-wrestling.md`](./death-gods-of-wrestling.md)
     — Xavier, Wentz, Brookes, Chris Hero.
   - [`./heroes-fundamentales-vehemiurgia.md`](./heroes-fundamentales-vehemiurgia.md)

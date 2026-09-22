@@ -5,6 +5,11 @@ description: Mutaciones del panteón de héroes fundamentales (altas, bajas, mov
 
 # /panteon — gestión del panteón
 
+> **Panteones aparte (ley 2026-09-22 s03)**: el **PANTEÓN Y2K
+> HIGHSPEED** (`archive/topics/panteon-y2k-highspeed.md`) y DEATH
+> GODS son listas separadas. Un alta o baja en ellas **nunca** mueve
+> tiers, números ni posiciones del SoT de abajo, y viceversa.
+
 **Source of truth**: `archive/topics/heroes-fundamentales-vehemiurgia.md`.
 Estructura (actualizada 2026-08-01 s23): **Tier 0 — Indie Wrestling
 Gods** (sin orden interno, jerárquicamente IGUAL al Tier 1 — cumbre

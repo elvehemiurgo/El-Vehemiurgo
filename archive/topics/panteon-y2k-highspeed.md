@@ -7,6 +7,7 @@ estado: vivo
 ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-22 s02 (fundación + roster inaugural)"
+  - "Volcado Vehemiurgo 2026-09-22 s03 (ley de separación: panteón aparte)"
 tags: [panteon-y2k-highspeed, y2k-highspeed, lista-oficial, mcmg, oi4k, escuela-ohio, joshi, dragon-gate, cmll, njpw, doctrina-y2k-highspeed]
 ---
 
@@ -19,6 +20,21 @@ tags: [panteon-y2k-highspeed, y2k-highspeed, lista-oficial, mcmg, oi4k, escuela-
 > ([`./heroes-fundamentales-vehemiurgia.md`](./heroes-fundamentales-vehemiurgia.md)).
 > Estar aquí no da ni quita un tier allá; la columna *Panteón general*
 > es un cruce informativo.
+
+## Ley de separación (2026-09-22 s03)
+
+> *"la inclusión en el Y2K HIGHSPEED no debe alterar los otros tiers y
+> posiciones, es aparte, un panteon aparte"*
+>
+> — El Vehemiurgo, 2026-09-22 s03 (verbatim)
+
+**El PANTEÓN Y2K HIGHSPEED es un panteón aparte.** Estar en él, entrar
+o salir de él **nunca** mueve un tier, un número ni una posición del
+panteón general
+([`./heroes-fundamentales-vehemiurgia.md`](./heroes-fundamentales-vehemiurgia.md)),
+ni de DEATH GODS u otra lista oficial. Tampoco pasa al revés: un
+ascenso o una baja allá no cambia nada acá. La columna *Panteón
+general* de las tablas es **solo un cruce de lectura**, no un vínculo.
 
 ## Criterio, verbatim
 

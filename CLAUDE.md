@@ -155,7 +155,11 @@ Ningún tema queda fuera por geografía o década. La línea oficial del Vehemiu
   (la idea de "artista", con origen en DDT), y usar el wrestling como
   vehículo de otro entretenimiento no lo vuelve wrestling. El nombre
   **"PURO Y2K" quedó retirado** por orden del autor y no se usa. Es
-  una vara de estilo, **no una clase**. Doctrina:
+  una vara de estilo, **no una clase**. Su panteón es **aparte**
+  (ley 2026-09-22 s03): *"la inclusión en el Y2K HIGHSPEED no debe
+  alterar los otros tiers y posiciones, es aparte, un panteon
+  aparte"* — nunca mueve tiers ni números del panteón general ni de
+  otras listas. Doctrina:
   `archive/topics/doctrina-y2k-highspeed.md`; exponentes:
   `archive/topics/panteon-y2k-highspeed.md`.
 
