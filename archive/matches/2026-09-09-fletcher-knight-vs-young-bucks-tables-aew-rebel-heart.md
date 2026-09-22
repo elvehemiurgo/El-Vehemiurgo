@@ -18,8 +18,9 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Me esperaba una buena lucha estilo Fletcher, buena chance de redención para los Young Bucks; aunque pusieron buenas luchas, lo que les está faltando es mic y buenos comebacks"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-09-22 s02 (elaboración — ring positioning y final convulsionado; ICC ratificada)"
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Rebel Heart, 9/9/2026, timestamp 01:44:58)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (allelitewrestling.com); WebFetch bloqueado por egress"
 tags: [aew-rebel-heart, kyle-fletcher, kevin-knight, young-bucks, don-callis-family, tables-match, instant-classic-crown, redencion, ftr, darby-allin, steven-borden]
@@ -70,6 +71,37 @@ corren con sillas** a hacer el save.
    participa en dos frentes distintos la misma noche (su propio debut
    in-ring y este save).
 
+
+## Sesión 2026-09-22 s02 — elaboración
+
+> *"en aew 2026 09 09 Rebel Heart el main event Fletcher & Knight vs
+> Young Bucks,estuvo buena, se merecen las 3 clases, el ring
+> positinoning realmente fue destacable, me encantó; y el final
+> convulcionado tambien me parece buen booking, buen trabajo"*
+>
+> — El Vehemiurgo, 2026-09-22 s02 (verbatim, typos preservados)
+
+**Clase ratificada: Instant Classic Crown** (PW·FS·WE), sin cambio.
+El "+" no se declaró, así que no se asigna.
+
+**Lectura sintética**:
+
+1. **Ring positioning**: *"realmente fue destacable, me encantó"*. Es
+   el primer elogio explícito del Vehemiurgo al manejo del espacio en
+   este match. En un Tables Match, la colocación de las mesas y de
+   los cuerpos es la estipulación misma: el finish en espejo (Knight
+   por una mesa, Fletcher manda a Nick por otra del lado opuesto)
+   depende de eso.
+2. **"El final convulsionado"**: el post-match del Resumen (FTR y
+   Stokely Hathaway sumados al ataque de la Don Callis Family, save de
+   Darby Allin y Steven Borden con sillas) se lee como **buen
+   booking**. Esta es la semilla de la alianza heel FTR + DCF y del
+   8-man del Dynamite 16/9
+   ([`./2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md`](./2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md)).
+3. **Kyle Fletcher**, el mismo día, queda nombrado como exponente
+   vigente del Y2K HIGHSPEED
+   ([`../topics/panteon-y2k-highspeed.md`](../topics/panteon-y2k-highspeed.md)).
+
 ## Pendientes
 
 - [ ] Referee.
@@ -84,3 +116,4 @@ corren con sillas** a hacer el save.
 - [`../people/steven-borden.md`](../people/steven-borden.md)
 - [`../../guiones/guion-009-los-decepcionantes-owens-young-bucks.md`](../../guiones/guion-009-los-decepcionantes-owens-young-bucks.md)
 - Volcado: [`../../notebook/2026-09-18-s01-dynamite-020926-cont-collision-050926-rebel-heart-090926-collision-120926.md`](../../notebook/2026-09-18-s01-dynamite-020926-cont-collision-050926-rebel-heart-090926-collision-120926.md)
+- Volcado (elaboración): [`2026-09-22-s02-rebel-heart-collision-dynamite-160926-y2k-highspeed.md`](../../notebook/2026-09-22-s02-rebel-heart-collision-dynamite-160926-y2k-highspeed.md)

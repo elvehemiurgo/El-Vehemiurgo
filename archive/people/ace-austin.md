@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ace-austin
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s15 (visión directa — AEW Dynamite 13/5/2026)"
 tags: [ace-austin, aew, repertorio-debe-ser-mas-oldschool, perfect-match-vs-ospreay]
@@ -120,6 +120,13 @@ Wentz y Alex Colon. **Su reinado de 1 día es el más corto en la
 historia del cinturón.**
 
 **Pieza**: [4-way por el Wired](../matches/2018-09-08-4-way-wired-blackwater-gana-czw-dwts.md) (sin clase declarada)
+
+### Sesión 2026-09-22 s02 — Guardián de la escuela Ohio (Y2K HIGHSPEED)
+
+- Con Myron Reed, *"los únicos que mantienen la escencia viva y
+  perfecta"* de la escuela Ohio. Nombrado también exponente vigente,
+  *"empujando la industria una lucha a la vez"*.
+  [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
 
 ## Pendientes / huecos
 

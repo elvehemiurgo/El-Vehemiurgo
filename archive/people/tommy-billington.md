@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tommy-billington
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Sub-agente dynamite-kid-vs-mark-rocco-rivalidad-80s-2026 (dossier 2026-05-10, research closed)"
   - "Notebook del Vehemiurgo, take editorial 2026-05-10 — *'continuando el legado, manteniendo el estilo dynamite trayéndolo a la actualidad y la tv gracias a AEW y ROH'*"
@@ -142,6 +142,13 @@ se ejecuta**.
 ### Cluster doctrina sec. 2 CLAUDE.md
 - *British World of Sport ITV* — Tommy Billington legacy
   vivo.
+
+### Sesión 2026-09-22 s02 — El linaje que pesa (arquetipo del heredero outsider)
+
+- Nombrado junto a Lexis King como variante del arquetipo: el linaje
+  (sobrino de Dynamite Kid) abre puertas pero hereda la polémica, y el
+  talento empieza desde abajo. *"todos de partida son buenos
+  prospectos"*. [Arquetipo](../topics/arquetipo-el-heredero-outsider.md).
 
 ## Pendientes / huecos
 

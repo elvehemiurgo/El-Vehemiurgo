@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: alex-shelley
 estado: vivo
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Panteón de Héroes Fundamentales (archive/topics/heroes-fundamentales-vehemiurgia.md) — declaraciones del Vehemiurgo 2026-05-10 → 2026-08-26"
   - "Sub-agentes research-panteon-fichas-pendientes (research 2026-09-09) — WebSearch; Cagematch/Wikipedia/Fandom bloqueados por egress: datos de trayectoria son snippets cruzados, no fuente primaria leída"
@@ -36,6 +36,14 @@ tags: [alex-shelley, motor-city-machine-guns, chris-sabin, x-division, tna, njpw
 ## Lectura editorial del Vehemiurgo
 
 Nombrado en la lista masiva de s26 (bloque TNA, *"Alex SHelley"*). Registrado con MCMG en el archivo desde su regreso a AEW (s37: la alegría del Vehemiurgo y la advertencia inmediata de que Tony Khan los desperdiciaría con Moxley). La lectura del panteón: el técnico-cerebro de la dupla más influyente de la X Division, campeón mundial a los 40 y fisioterapeuta de profesión — el worker que entiende el cuerpo por dentro.
+
+### Sesión 2026-09-22 s02 — "La definición" del Y2K HIGHSPEED
+
+- *"Alex Shelley es la definición de este estilo, desde siempre"*. Con
+  Chris Sabin (MCMG) y los Crist (OI4K), es de los mejores exponentes
+  del estilo que el Vehemiurgo declara predilecto. Es *"más puro"* en
+  Y2K HS, pero versátil. [Doctrina](../topics/doctrina-y2k-highspeed.md),
+  [panteón](../topics/panteon-y2k-highspeed.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lexis-king
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Wikipedia — Brian Pillman Jr. / Lexis King"
   - "Cobertura MLW (~2018-2023), WWE NXT (2023-2026)"
@@ -170,6 +170,15 @@ actual.)
 > — El Vehemiurgo, 2026-08-01 s02 (verbatim)
 
 **Lectura sintética**: **WE para el match.** Progresión reconocida sin matices: ***"ya está perfeccionando su estilo old-school"***. El contraste dentro del propio combate es el eje de la lectura — Romeo Moreno *"se ve muy safe"* y **el que se pone stiff es el que se lleva el elogio de oficio**.
+
+### Sesión 2026-09-22 s02 — El linaje que pesa (arquetipo del heredero outsider)
+
+- *"el linaje les abre puertas pero tambien les hereda la polèmica y
+  ese blur de realidad [...] no necesariamente es financieramente
+  atractivo como para arriesgarse digamos bookear al hijo del loose
+  cannon"*. Por eso empieza desde abajo. Es juicio del Vehemiurgo;
+  cierra con *"todos de partida son buenos prospectos"*.
+  [Arquetipo](../topics/arquetipo-el-heredero-outsider.md).
 
 ## Pendientes / huecos
 

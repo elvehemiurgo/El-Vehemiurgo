@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jade-cargill
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
   - "Mención previa: vs Rhea Ripley, WrestleMania 42 (19/4/2026)"
@@ -63,6 +63,15 @@ camino libre para que Chelsea Green se corone. B-Fab y Michin
 interfieren a su favor contra Green.
 
 **Lectura sintética**: **FS·WE** para el match completo.
+
+### Sesión 2026-09-22 s02 — El look sin el piso (arquetipo del heredero outsider)
+
+- *"tambien tiene el look [...] pero lleva años sin madurar y
+  realmente sus stoks bajan y bajan, porque nunca pagó derecho de piso
+  ni tampoco se terminó de creer su gimmick de super estrella,
+  entonces no es nada en el espectro de wrestling"*. Es un juicio del
+  Vehemiurgo, a propósito de Steven Borden.
+  [Arquetipo](../topics/arquetipo-el-heredero-outsider.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-knight
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s09 (visión directa — AEW Dynamite 29/4/2026)"
 tags: [kevin-knight, aew, upset-vs-mjf, low-blow-finish, the-future-in-2026]
@@ -324,6 +324,14 @@ por el TNT Championship, confronta a Kyle Fletcher; Don Callis media
 y los reserva como equipo en Collision. Ver
 [`./kevin-hart.md`](./kevin-hart.md). Pieza:
 [confrontación con Fletcher](../segments/2026-09-02-kevin-knight-kyle-fletcher-don-callis-aew-dynamite.md) (WE).
+
+### Sesión 2026-09-22 s02 — Rebel Heart elaborado y 8-man de Dynamite 16/9
+
+- **Rebel Heart 9/9** (ICC ratificada; ring positioning y *"final
+  convulsionado"*): [ficha](../matches/2026-09-09-fletcher-knight-vs-young-bucks-tables-aew-rebel-heart.md).
+- **Dynamite 16/9**: backstage heel con la DCF (WE) y 8-man (ICC+),
+  *"los heels son todos profesionales, estuvieron brillantes"*.
+  [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
 
 ## Pendientes / huecos
 

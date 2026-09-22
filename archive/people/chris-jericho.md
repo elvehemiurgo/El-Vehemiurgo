@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chris-jericho
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster Raw 2004-2005 + WCW 1999"
   - "Talk Is Jericho podcast (host) — material on-record extensivo"
@@ -235,6 +235,14 @@ el archivo sigue desde s57; se burla de la edad y el collar de
 conchas puka de Wayne, quien responde con cachetada y patada baja.
 Sin clase declarada sobre el segmento. Pieza:
 [backstage con Wayne](../segments/2026-09-02-chris-jericho-nick-wayne-backstage-aew-dynamite.md) (sin clase).
+
+### Sesión 2026-09-22 s02 — vs Nick Wayne (Dynamite 16/9) — sin clase
+
+- Jericho gana en 14:00 (victory roll de piernas cruzadas tras
+  arrancarle el collar a Wayne); Wayne lo ataca en el post-match.
+  Para el Vehemiurgo, *"se siente como downgrade para Jericho en el
+  card, pero [...] lo mantienen real"*. Sin clase declarada.
+  [Ficha](../matches/2026-09-16-chris-jericho-vs-nick-wayne-aew-dynamite.md).
 
 ## Pendientes
 

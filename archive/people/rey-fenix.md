@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: rey-fenix
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [rey-fenix, aaa, fighting-spirit, wrestling-entertainment, perfect-wrestling, heroe-fundamental-49, panteon, primer-registro-individual]
@@ -423,6 +423,12 @@ sin ranking en 93 países — Wrestlenomics), mientras el de su primera
 ronda (17/8) fue el más visto desde mayo (2,7M). Registrado sin
 adjudicar. Fénix on-record sobre la final: *"almost 22 years ago...
 we used to play wrestling in my parents' beds"* (Busted Open).
+
+### Sesión 2026-09-22 s02 — Exponente vigente del Y2K HIGHSPEED
+
+- Con Kyle Fletcher, *"creando el estilo perfecto màs real de los
+  ùltimos tiempos [...] es el màs puro en el mainstream"*.
+  [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
 
 ## Pendientes / huecos
 

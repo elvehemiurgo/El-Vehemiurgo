@@ -230,6 +230,31 @@ corresponde.
 
 ---
 
+## Estilos (doctrina del Vehemiurgo, desde 2026-09-22 s02)
+
+Doctrina completa en
+[`../archive/topics/doctrina-y2k-highspeed.md`](../archive/topics/doctrina-y2k-highspeed.md).
+
+- **Y2K HIGHSPEED** (*Y2K HS*) — la forma indie-alternativa americana
+  de los 2000s del super jr / light heavyweight / joshi japonés de
+  los 70s-90s. Es la mitología occidental de ese estilo, ganada con
+  derecho de piso y conectada con el old-school. **Predilecto del
+  Vehemiurgo.** Definición viva: Alex Shelley.
+- **SLAM BANG AMERICAN WRESTLING** — el *southern wrestling* clásico:
+  *wrasslin'* de rancho, duro, de vaqueros. **Predilecto del
+  Vehemiurgo.**
+- **Pancracio mexicano** — la lucha libre como escuela total. Uno de
+  los cuatro estilos supremos.
+- **King's Road** — la escuela AJPW de los 90s: desgaste, *near falls*
+  escalados, jerarquía. Uno de los cuatro estilos supremos.
+- **Derecho de piso** — el costo de ganarse el lugar y el estilo
+  propio, negociándolo con los otros luchadores. En inglés del oficio,
+  *paying dues*.
+- ~~**PURO Y2K**~~ — **denominación retirada** (2026-09-22 s02, por
+  orden del autor). Usar **Y2K HIGHSPEED**.
+
+---
+
 ## Glosado para piezas introductorias
 
 Cuando una pieza tenga lectores nuevos, glosamos la primera aparición de un

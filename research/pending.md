@@ -8,6 +8,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
 
+> `aew-dynamite-160926` cerrada e integrada el 2026-09-22 (s02) — ver
+> [`closed.md`](./closed.md).
+
 > `wwe-raw-210926` cerrada e integrada el 2026-09-22 (s01) — ver
 > [`closed.md`](./closed.md).
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jake-crist
 estado: vivo
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s23 (visión directa — CZW Awakening 14/1/2017, VEHEMIURGIA)"
 ---
@@ -110,6 +110,12 @@ sugiriera — memoria histórica en acción.
 **Piezas de la sesión**:
 [vs DJ Hyde & The Front (cierre del feud)](../matches/2013-12-14-oi4k-vs-dj-hyde-the-front-czw-cod15.md) (ICC+) ·
 [8-man en High Stakes 5](../matches/2014-03-08-juicy-product-colon-busick-vs-oi4k-dickinson-azrieal-czw-highstakes5.md) (ICC+)
+
+### Sesión 2026-09-22 s02 — OI4K en la fundación del Y2K HIGHSPEED
+
+- Con Dave, *"dos completos locos innovadores que forjaron su propio
+  estilo con trabajo duro, adicciones y todos los problemas posibles
+  encima"*. [Doctrina](../topics/doctrina-y2k-highspeed.md), [panteón](../topics/panteon-y2k-highspeed.md).
 
 ## Pendientes / huecos
 

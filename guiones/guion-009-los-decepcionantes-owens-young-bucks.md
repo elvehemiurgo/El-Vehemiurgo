@@ -57,9 +57,9 @@ menos Christian** el 2026-09-03 (s59) — Edge incluido.
 
 | Nombre | Estatus en el panteón |
 |---|---|
-| **Christian Cage** | **Héroe Fundamental #1** |
-| **CM Punk** | **Héroe Fundamental #2** |
-| **Young Bucks** (cuentan como uno) | **Dioses del Wrestling Tier 2, #15** — *"amo a los young bucks, son mis héroes también"* (notebook 2026-05-26) |
+| **Christian Cage** | **DIOS DEL WRESTLING #1 (Tier 1)** |
+| **CM Punk** | **DIOS DEL WRESTLING #2 (Tier 1)** |
+| **Young Bucks** (cuentan como uno) | **Pillar of Wrestling #15 (Tier 2)** — *"amo a los young bucks, son mis héroes también"* (notebook 2026-05-26) |
 | **Kevin Owens** | **no figura en el panteón** |
 
 **Leído así, el diptico se ordena solo**: en las dos rivalidades el
@@ -473,9 +473,9 @@ puntuación. Orden cronológico por fecha de show dentro de cada parte.)*
 > **Lo que hace que este diptico duela no es el veredicto. Es de
 > quién es.**
 >
-> *(Los números del panteón: Christian Cage es Héroe Fundamental #1
-> del Vehemiurgo. CM Punk es el #2. Los Young Bucks son Dioses del
-> Wrestling Tier 2, #15 — declarados en notebook del 26 de mayo:
+> *(Los números del panteón: Christian Cage es DIOS DEL WRESTLING #1
+> del Vehemiurgo. CM Punk es el #2. Los Young Bucks son Pillar of
+> Wrestling #15, Tier 2 — declarados en notebook del 26 de mayo:
 > "amo a los young bucks, son mis héroes también". Kevin Owens no
 > figura en el panteón.)*
 >
@@ -593,8 +593,12 @@ pierde su prueba.
   No mezclar el elogio a la victoria del 4-way con la crítica
   posterior.
 - **Los números del panteón se rotulan exactos o no se rotulan**:
-  Christian Cage **#1**, CM Punk **#2**, Young Bucks **Tier 2 #15**,
-  Kevin Owens **sin panteón**. Si se rotula esto, es para mostrar que
+  Christian Cage **DIOS DEL WRESTLING #1 (Tier 1)**, CM Punk **DIOS
+  DEL WRESTLING #2 (Tier 1)**, Young Bucks **Pillar of Wrestling #15
+  (Tier 2)**, Kevin Owens **sin panteón**. *(Corrección 2026-09-22
+  s02: los rótulos anteriores decían "Héroe Fundamental #1/#2" y
+  "Dioses del Wrestling Tier 2", que son etiquetas de otros tiers. Se
+  ajustaron a las de `.claude/skills/panteon/SKILL.md`.)* Si se rotula esto, es para mostrar que
   la crítica no es hostil, es exigente con los propios héroes. No
   usar el dato para suavizar el veredicto ni para hacerlo más duro de
   lo que el Vehemiurgo lo dejó.

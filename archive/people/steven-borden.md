@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: steven-borden
 estado: stub
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8, Collision 29/8 y All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -134,6 +134,21 @@ in-ring televisado. Reserva de desarrollo declarada junto al elogio
 vs Young Bucks esa misma noche corriendo con sillas al save. Piezas:
 [promo backstage con Darby](../segments/2026-09-09-promo-backstage-darby-steven-borden-aew-rebel-heart.md) (WE) ·
 [debut in-ring](../matches/2026-09-09-josh-alexander-mark-davis-vs-darby-allin-steven-borden-aew-rebel-heart.md) (ICC).
+
+### Sesión 2026-09-22 s02 — Pin en el 8-man de Dynamite y nota del "heredero outsider"
+
+- **8-man tag, Dynamite 16/9/2026** (dictado 18/9), **ICC+**: Borden
+  hace el pin sobre Dax Harwood (Scorpion Death Drop + Coffin Drop de
+  Darby). [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
+- Registro del Vehemiurgo: *"la intensión de darle el repertorio body
+  guy ochentero de Sting oldschool pero ahcerlo escurridizo como
+  Darby [...] le falta mucho camino [...] incluso su traje es más de
+  outsider, pero encaminado y sin perjudicar el booking"*.
+- **Nota aparte, el arquetipo**: nacido en el negocio sin ser *Jr. de
+  dojo*, *"outsider con conexiones importantes"*, *paying dues* desde
+  abajo con la apadrinación de Sting. Es el caso bien hecho frente a
+  Goldberg. Doctrina: [arquetipo del heredero outsider](../topics/arquetipo-el-heredero-outsider.md).
+- All Out (26/9): Darby & Borden vs Fletcher & Knight.
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: edge
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 + cluster Raw 2004-2005"
   - "E&C Pod of Awesomeness + The Edge & Christian Show + Talk Is Jericho"
@@ -193,6 +193,14 @@ Christian Cage. Ver
 [`./christian-cage.md`](./christian-cage.md) — Young Bucks y FTR
 quedan explícitamente fuera de la clase. Pieza:
 [clase de promo](../segments/2026-09-02-christian-cage-cope-clase-de-promo-aew-dynamite.md) (WE).
+
+### Sesión 2026-09-22 s02 — 8-man tag de Dynamite 16/9 (ICC+)
+
+- Cope, con Christian, Darby y Borden, vence a FTR, Fletcher y Knight;
+  su spear sobre Dax precede al finish de Borden. [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
+  Backstage previo (WE): [ficha](../segments/2026-09-16-darby-responde-a-christian-faces-backstage-aew-dynamite.md).
+- All Out (26/9): Cage & Cope (c) vs Young Bucks vs FTR, **ladder o
+  TLC sin resolver**.
 
 ## Pendientes
 

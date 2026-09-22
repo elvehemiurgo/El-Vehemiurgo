@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nick-wayne
 estado: stub
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-31 s57 (VISIONADO DIRECTO — AEW Dynamite 12/8/2026)"
   - "Sub-agentes de research s57 (2026-08-31) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -83,6 +83,15 @@ por copiar un modelo ajeno (Omega) sin sustancia propia. El
 Vehemiurgo ve potencial de "rivalidad definitiva en TV" si el booking
 lo aprovecha. Sin clase declarada. Pieza:
 [backstage con Jericho](../segments/2026-09-02-chris-jericho-nick-wayne-backstage-aew-dynamite.md) (sin clase).
+
+### Sesión 2026-09-22 s02 — vs Jericho — "quiere ser Kenny Omega" (Dynamite 16/9)
+
+- Pierde ante Jericho (14:00) y lo ataca con el collar y una silla en
+  el post-match. [Ficha](../matches/2026-09-16-chris-jericho-vs-nick-wayne-aew-dynamite.md).
+- Take del Vehemiurgo: *"se nota que Nick Wayne quiere ser Kenny
+  Omega mucho, o sea, se mueve igual en el selling"*. Es la pieza
+  disparadora de la doctrina Y2K HIGHSPEED, donde la imitación del
+  estilo Omega se lee como copia de la copia ([doctrina](../topics/doctrina-y2k-highspeed.md)).
 
 ## Pendientes / huecos
 

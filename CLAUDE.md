@@ -140,6 +140,24 @@ Ningún tema queda fuera por geografía o década. La línea oficial del Vehemiu
   censura del promo, causa política; 2020 = #SpeakingOut, otra causa).
   Doctrina completa en
   `archive/topics/doctrina-politica-y-contexto-social-como-esfera-de-analisis.md`.
+- **Los cuatro estilos supremos y el Y2K HIGHSPEED** (ley desde
+  2026-09-22 s02): los estilos supremos son **Y2K HIGHSPEED**,
+  **SLAM BANG AMERICAN WRESTLING** (el *southern wrestling* clásico),
+  el **pancracio mexicano** y **King's Road**. Los predilectos del
+  Vehemiurgo son los dos primeros. Hay otras escuelas e híbridos,
+  pero estas cuatro son las superiores. **Y2K HIGHSPEED** es la forma
+  indie-alternativa americana de los 2000s del super jr / light
+  heavyweight / joshi japonés de los 70s-90s, *"visto a través de un
+  adolescente de occidente con acceso a internet"*. **Alex Shelley es
+  su definición**; MCMG y OI4K, sus mejores exponentes. Solo pudo
+  existir en los 2000s, por la conexión con el old-school y el
+  *derecho de piso*. El estilo Omega se distingue por su *prime mover*
+  (la idea de "artista", con origen en DDT), y usar el wrestling como
+  vehículo de otro entretenimiento no lo vuelve wrestling. El nombre
+  **"PURO Y2K" quedó retirado** por orden del autor y no se usa. Es
+  una vara de estilo, **no una clase**. Doctrina:
+  `archive/topics/doctrina-y2k-highspeed.md`; exponentes:
+  `archive/topics/panteon-y2k-highspeed.md`.
 
 ### Lo que rechazamos sin matiz
 

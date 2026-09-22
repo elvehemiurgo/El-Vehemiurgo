@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: samoa-joe
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster TNA 2007 + ROH founding generation"
   - "Múltiples retrospectivas + Talk Is Jericho appearances"
@@ -124,6 +124,13 @@ y [`./abismo-negro.md`](./abismo-negro.md).
   — AEW 2026.
 - [`../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md`](../matches/2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md)
   — Perfect Match, crossover AAA/TNA.
+
+### Sesión 2026-09-22 s02 — Exponente pesado del Y2K HIGHSPEED
+
+- *"está presente en luchadores más poderosos como Samoa Joe, un
+  completo mark del king's road y el puroresu, es palpable su adn
+  empapado de este estilo"*. Es el caso multi-estilo: Y2K HS + King's
+  Road + MMA. [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
 
 ## Pendientes
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: christian-cage
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 1 'Christian Cage como héroe fundamental'"
   - "Dossieres TNA 2007 + WWE Raw 2004-2005 + WWE SmackDown 2002 + WWE MITB 2013 + AEW 2026"
@@ -453,6 +453,15 @@ y Cope, no para Young Bucks ni FTR — separación deliberada del
 Vehemiurgo dentro del mismo segmento. Dibuja la polémica de Cope
 satisfecho con hacer trampa sin querer hacerla él mismo. Pieza:
 [clase de promo](../segments/2026-09-02-christian-cage-cope-clase-de-promo-aew-dynamite.md) (WE).
+
+### Sesión 2026-09-22 s02 — Backstage de los faces y 8-man (Dynamite 16/9)
+
+- **Backstage** (WE): Darby le dice que lo de ellos *"no terminó"*;
+  Christian contesta que su reinado TNT fue mejor. Para el
+  Vehemiurgo, por fin un rival que le responde en las promos.
+  [Ficha](../segments/2026-09-16-darby-responde-a-christian-faces-backstage-aew-dynamite.md).
+- **8-man tag** (ICC+): Dax termina estrellado contra la silla que
+  blande Christian. [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
 
 ## Pendientes / huecos
 

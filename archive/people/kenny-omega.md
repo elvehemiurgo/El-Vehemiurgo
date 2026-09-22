@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kenny-omega
 estado: stub
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
 tags: [kenny-omega, tyson-smith, the-cleaner, the-elite, bullet-club-leader, njpw-okada-saga, aew-founding-evp, primer-aew-world-champion, one-winged-angel, acto-polarizante-vehemiurgia, frikismo-videojuegos-critica-doctrinal, meltzer-school-workrate-first-opuesto-editorial]
@@ -341,6 +341,21 @@ masiva"* del 2026-08-01 (*booking malo no quita la clase*).
 sus 53 días como campeón, esta es la de corona más alta — la que estuvo
 dos meses sin clase. Ver
 [`../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md`](../matches/2026-07-08-mjf-vs-kenny-omega-aew-beach-break.md).
+
+### Sesión 2026-09-22 s02 — La crítica al estilo Omega (doctrina Y2K HIGHSPEED)
+
+- En la doctrina Y2K HIGHSPEED, el Vehemiurgo fija su crítica al
+  estilo Omega. El **prime mover** es la idea de "artista", no la de
+  *"alguien que se gana la vida golpeando gente y haciendolos
+  rendir"*. El origen es DDT, entretenimiento japonés de nicho
+  otaku. Y *"que puedas usar el wrestling en tu forma de
+  entretenimiento [...] es una cosa, pero que eso sea wrestling, es
+  otra cosa muy distinta"*.
+- La generación que toma a Omega como referente (el caso Nick Wayne)
+  queda como *"una versiòn aun màs mitològica y diluida"*.
+- Registrado como **juicio de estilo del Vehemiurgo**. El
+  lenguaje crudo del dictado queda solo en el notebook.
+  [Doctrina](../topics/doctrina-y2k-highspeed.md) §6; [ficha disparadora](../matches/2026-09-16-chris-jericho-vs-nick-wayne-aew-dynamite.md).
 
 ## Pendientes / huecos
 

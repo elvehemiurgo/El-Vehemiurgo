@@ -18,8 +18,9 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "4 contra 4 muy entretenido, aunque todo sigue girando alrededor de Mox por lástima; los talentos son buenos y esta lucha fue wrestling, dieron un show completo, todos los greatest hits de Ace, Juice y los Guns, top tier wrestling"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-09-22 s02 (ratificación ICC+ — timestamp 01:10:15)"
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 12/9/2026, timestamp 01:02:47)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (WrestleTalk, allelitewrestling.com); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, pac, gabe-kidd, david-finlay, clark-connors, the-dogs, bang-bang-gang, jay-white, death-riders, instant-classic-crown-plus, andy-williams-tribute-show]
@@ -67,6 +68,25 @@ ringside**. Finish: Clark Connors conecta un spear sobre Austin Gunn.
    completo, movimiento reconocible de cada talento, no solo
    resultado.
 
+
+## Sesión 2026-09-22 s02 — ratificación
+
+> *"en aew 2026 09 12 Collision 01H:10m:15s el 4 vs 4 dogs y death
+> riders vs gang gang bang, se merece las 3 clases con corona +,
+> buenisimos talentos"*
+>
+> — El Vehemiurgo, 2026-09-22 s02 (verbatim, typos preservados)
+
+**Clase ratificada: Instant Classic Crown+** (PW·FS·WE+), sin cambio.
+Esta vez el "+" viene declarado literal (*"corona +"*).
+
+**Nota de timestamp**: el primer dictado (2026-09-18 s01) ubicó el
+match en **01:02:47**; este lo ubica en **01:10:15**. **Se registran
+ambos sin adjudicar.** La diferencia (~7:30) es compatible con dos
+cortes o archivos distintos del mismo show, o con que uno marque la
+entrada y otro la acción, pero no se verificó. *"Dogs y death riders"*
+= PAC (Death Riders) con The Dogs, tal como en el Resumen.
+
 ## Pendientes
 
 - [ ] Duración exacta, referee.
@@ -82,3 +102,4 @@ ringside**. Finish: Clark Connors conecta un spear sobre Austin Gunn.
 - [`../people/jay-white.md`](../people/jay-white.md)
 - [`../segments/2026-09-12-the-dogs-death-riders-tension-aew-collision.md`](../segments/2026-09-12-the-dogs-death-riders-tension-aew-collision.md)
 - Volcado: [`../../notebook/2026-09-18-s01-dynamite-020926-cont-collision-050926-rebel-heart-090926-collision-120926.md`](../../notebook/2026-09-18-s01-dynamite-020926-cont-collision-050926-rebel-heart-090926-collision-120926.md)
+- Volcado (ratificación): [`2026-09-22-s02-rebel-heart-collision-dynamite-160926-y2k-highspeed.md`](../../notebook/2026-09-22-s02-rebel-heart-collision-dynamite-160926-y2k-highspeed.md)

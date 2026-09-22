@@ -31,6 +31,8 @@ cada alta y con cada cambio de estado.
 | 2026-09-18 | Post-match del main event — CM Punk conecta las GTS | WWE / SmackDown | post-match angle | WE | — | en-investigacion | 1 | [→](2026-09-18-post-match-cm-punk-gts-wwe-smackdown.md) |
 | 2026-09-18 | Sami Zayn y Nick Aldis — psicología de conspiraciones, campeón con trampa, la deuda con Gargano | WWE / SmackDown | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-09-18-sami-zayn-nick-aldis-promo-heel-vs-heel-wwe-smackdown.md) |
 | 2026-09-18 | Trick Williams molesta a Sami Zayn backstage | WWE / SmackDown | confrontación backstage | — | — | en-investigacion | 1 | [→](2026-09-18-trick-williams-molesta-sami-backstage-wwe-smackdown.md) |
+| 2026-09-16 | Backstage de los faces: Darby Allin le responde a Christian Cage | AEW / Dynamite | promo backstage / entrevista | WE | — | en-investigacion | 1 | [→](2026-09-16-darby-responde-a-christian-faces-backstage-aew-dynamite.md) |
+| 2026-09-16 | Backstage de los heels: FTR, Stokely Hathaway y la Don Callis Family | AEW / Dynamite | promo backstage | WE | — | en-investigacion | 1 | [→](2026-09-16-ftr-dcf-stokely-callis-heels-backstage-aew-dynamite.md) |
 | 2026-09-14 | El intro de Raw desde Ciudad de México | WWE / Monday Night Raw | intro / apertura de programa | WE+ | — | en-investigacion | 1 | [→](2026-09-14-intro-raw-cdmx-wwe-raw.md) |
 | 2026-09-14 | Penta llega a caballo a la Arena CDMX | WWE / Monday Night Raw | material de llegadas / pre-show | WE | — | en-investigacion | 1 | [→](2026-09-14-presentacion-penta-a-caballo-cdmx-wwe-raw.md) |
 | 2026-09-14 | Ethan Page — promo en CDMX: felicita a Chad Gable y reclama el Intercontinental | WWE / Monday Night Raw | promo | WE | — | en-investigacion | 1 | [→](2026-09-14-promo-ethan-page-wwe-raw.md) |

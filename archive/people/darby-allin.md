@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: darby-allin
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s08 (visión directa — AEW Dynamite 22/4/2026)"
 tags: [darby-allin, aew, campeon-por-culpa-de-mjf, perfect-match-vs-tomasso, sorpresa-no-soy-fan]
@@ -325,6 +325,17 @@ Borden (regreso de Josh Alexander, ataque de Beretta/Romero, save de
 Borden). Piezas:
 [vs Mark Davis](../matches/2026-09-02-darby-allin-vs-mark-davis-tnt-aew-dynamite.md) (**ICC+**) ·
 [post-match](../segments/2026-09-02-post-match-steven-borden-josh-alexander-aew-dynamite.md) (WE).
+
+### Sesión 2026-09-22 s02 — Le responde a Christian (WE) y queda como exponente Y2K HIGHSPEED
+
+- **Backstage de los faces, Dynamite 16/9** (WE): *"me gusta a Darby
+  respondiendole a Christian, por fin un rival en las promos"*.
+  [Ficha](../segments/2026-09-16-darby-responde-a-christian-faces-backstage-aew-dynamite.md).
+- **8-man tag** (ICC+): el Coffin Drop que prepara el pin de Borden.
+  [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
+- **Panteón Y2K HIGHSPEED**: nombrado exponente vigente, *"empujando
+  la industria una lucha a la vez"* ([panteón](../topics/panteon-y2k-highspeed.md),
+  [doctrina](../topics/doctrina-y2k-highspeed.md)).
 
 ## Pendientes / huecos
 

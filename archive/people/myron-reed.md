@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: myron-reed
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s04 (visión directa — AEW Collision 11/4/2026)"
 tags: [myron-reed, aew, mlw, high-flyer, gran-babyface, buenas-promos, por-que-nunca-fue-el-elegido, pregunta-editorial-abierta]
@@ -155,6 +155,13 @@ OI4K (junto a Jake Crist en el corpus 2017, y ahora junto a **Ace
 Austin** en esta lectura de 2019).
 
 **Pieza**: [4-way, Best of the Best 18](../matches/2019-04-13-jordan-oliver-vs-sammy-guevara-vs-myron-reed-vs-matt-travis-czw-botb18.md) (WE)
+
+### Sesión 2026-09-22 s02 — Guardián de la escuela Ohio (Y2K HIGHSPEED)
+
+- *"actualmente vemos una versión diluida y bastarde de esta escuela
+  en los Rascalz, realmente Myron Reed y Ace Austin son los únicos que
+  mantienen la escencia viva y perfecta"*. También figura en la lista
+  de exponentes vigentes. [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
 
 ## Pendientes / huecos
 

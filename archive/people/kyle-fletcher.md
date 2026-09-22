@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kyle-fletcher
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
 tags: [kyle-fletcher, aussie-open, don-callis-family-verif, aew, primer-registro, turn-babyface-takeshita]
@@ -236,6 +236,18 @@ corto bien ejecutado**.
 **Piezas de la sesión**:
 [el ataque a Takeshita](../segments/2026-08-29-kyle-fletcher-ataca-takeshita-post-match-aew-collision.md) (WE) ·
 [vs Takeshita vs Okada, International](../matches/2026-08-30-fletcher-vs-takeshita-vs-okada-international-aew-all-in.md) (**ICC**)
+
+### Sesión 2026-09-22 s02 — Rebel Heart elaborado, 8-man de Dynamite y exponente Y2K HIGHSPEED
+
+- **Rebel Heart 9/9** (ICC ratificada): *"el ring positinoning
+  realmente fue destacable"*. [Ficha](../matches/2026-09-09-fletcher-knight-vs-young-bucks-tables-aew-rebel-heart.md).
+- **Dynamite 16/9**: backstage heel (WE) y 8-man (ICC+).
+  [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
+- **Doctrina Y2K HIGHSPEED**: *"entre las luchas de Kyle Fletcher y
+  las luchas de Fènix, estàn creando el estilo perfecto màs real de
+  los ùltimos tiempos [...] lo màs peak que puedes ver de wrestling en
+  tv"*. Australiano, *"no es americano pero es un gran exponente"*.
+  [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
 
 ## Pendientes / huecos
 

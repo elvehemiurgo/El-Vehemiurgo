@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chris-sabin
 estado: vivo
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Panteón de Héroes Fundamentales (archive/topics/heroes-fundamentales-vehemiurgia.md) — declaraciones del Vehemiurgo 2026-05-10 → 2026-08-26"
   - "Sub-agentes research-panteon-fichas-pendientes (research 2026-09-09) — WebSearch; Cagematch/Wikipedia/Fandom bloqueados por egress: datos de trayectoria son snippets cruzados, no fuente primaria leída"
@@ -37,6 +37,14 @@ tags: [chris-sabin, motor-city-machine-guns, alex-shelley, x-division, tna, opti
 ## Lectura editorial del Vehemiurgo
 
 Nombrado en la lista masiva de s26 (bloque TNA). El Vehemiurgo lo lee con matiz: *"Chris Sabin tenía una gran historia y también podía dar buenas promos, pero no despegó tanto, fue válido pero no al nivel de Aries"* (s55) — y en s63 lo nombra como retador legítimo pendiente de RVD. El diez veces campeón X Division es el **techo de la división** en el archivo, no su estrella: fidelidad al oficio junior con un solo reinado mundial, ganado por Option C.
+
+### Sesión 2026-09-22 s02 — MCMG en la fundación del Y2K HIGHSPEED
+
+- *"Chris Sabin y Alex Shelley cada uno por su lado son lo alternativo
+  de los 2000s, son la manifestación del y2k"*. MCMG, *"desde antes de
+  su concepción"*, es la versión Y2K HS del super jr japonés visto por
+  un adolescente occidental con internet. [Doctrina](../topics/doctrina-y2k-highspeed.md),
+  [panteón](../topics/panteon-y2k-highspeed.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ftr
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-22
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
   - "Cross-links previos en christian-cage.md / edge.md (feud 'recalentado' 2026)"
@@ -71,6 +71,16 @@ Vehemiurgo.
 Bucks pero sin aportar más que nostalgia. **Excluidos de la WE** que
 sí lleva la irrupción posterior de Christian Cage y Cope. Pieza:
 [clase de promo](../segments/2026-09-02-christian-cage-cope-clase-de-promo-aew-dynamite.md) (WE, no para ellos).
+
+### Sesión 2026-09-22 s02 — Alianza heel con la DCF y 8-man de Dynamite 16/9
+
+- **Backstage heel** (WE): Stokely anuncia que FTR gana los títulos
+  de parejas en All Out, y discute con Callis sobre quién va primero.
+  [Ficha](../segments/2026-09-16-ftr-dcf-stokely-callis-heels-backstage-aew-dynamite.md).
+- **8-man tag** (ICC+): Dax Harwood recibe el pin de Steven Borden.
+  [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
+- All Out (26/9): triple threat por los títulos de parejas, **ladder
+  (Stokely/SI) o TLC (reto del 2/9) sin resolver**.
 
 ## Pendientes / huecos
 
