@@ -7,6 +7,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
+| `guion-010-y2k-highspeed-memoria` | Memoria del archivo sobre los exponentes Y2K HS + piezas con timestamp | Pedido de guion-serie 2026-09-22 s04 | 2026-09-22 | `guiones/guion-010-y2k-highspeed-serie.md` §2, §5, §6 |
+| `guion-010-y2k-highspeed-data-a` | Data real + footage sugerido, partes 1-6 (fuente japonesa, puentes, 2000s, MCMG, OI4K/Ohio) | ídem | 2026-09-22 | ídem §3, §7 |
+| `guion-010-y2k-highspeed-data-b` | Data real + footage sugerido, partes 7-12 (Joe/TJP/Red, CMLL/NJPW 2010s, joshi/México/Dragon Gate, DDT/Omega/Hogan, presente) | ídem | 2026-09-22 | ídem §3, §7 |
 
 > `aew-dynamite-160926` cerrada e integrada el 2026-09-22 (s02) — ver
 > [`closed.md`](./closed.md).
