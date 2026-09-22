@@ -201,6 +201,25 @@ darle la victoria a Joe Hendry.
 **Pieza de la sesión**:
 [triple threat clasificatorio](../matches/2026-09-14-jevon-evans-vs-big-cass-vs-austin-theory-mitb-qualifier-wwe-raw.md) (**ICC+**)
 
+
+### Sesión 2026-09-22 s01 — Clásico instantáneo vs Breakker, y el remate accidentalmente cómico de Femi
+
+**Cita verbatim** (fragmento del match):
+
+> *"el clásico de NXT 2.0, ahora son el presente del wrestling en tv,
+> poniendo su propio clásico instantaneo en RAW"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+** ante Bron Breakker
+(termina por DQ, interferencia de The Vision). Post-match, Oba Femi
+lo usa como proyectil contra The Vision — spot intencional (research),
+con reserva del Vehemiurgo sobre el aterrizaje ("no lo elevó para
+nada"). Piezas:
+[segmento con The Vision](../segments/2026-09-21-jevon-evans-segmento-the-vision-wwe-raw.md) (sin clase) ·
+[vs Bron Breakker](../matches/2026-09-21-jevon-evans-vs-bron-breakker-wwe-raw.md) (ICC+) ·
+[ataque de Femi](../segments/2026-09-21-oba-femi-ataque-postmatch-wwe-raw.md) (WE+).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

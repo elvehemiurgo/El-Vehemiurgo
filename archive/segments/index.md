@@ -12,6 +12,18 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-09-21 | 946 secuestra a Solo Sikoa — lo mete al baúl de un auto, amenaza al Bloodline | WWE / Raw | post-match angle / secuestro | WE | — | en-investigacion | 1 | [→](2026-09-21-ataque-secuestro-solo-946-wwe-raw.md) |
+| 2026-09-21 | Backstage con el Bloodline y Solo Sikoa — presión de 946 | WWE / Raw | promo backstage | WE | — | en-investigacion | 1 | [→](2026-09-21-backstage-bloodline-solo-946-wwe-raw.md) |
+| 2026-09-21 | Careo Roxanne Perez y Lola Vice — foreshadowing con Heyman mirando por TV | WWE / Raw | careo | — | — | en-investigacion | 1 | [→](2026-09-21-careo-roxanne-lola-vice-wwe-raw.md) |
+| 2026-09-21 | Dominik Mysterio exige la victoria por walkover tras el secuestro de Sikoa | WWE / Raw | promo / confrontación con el GM | WE | — | en-investigacion | 1 | [→](2026-09-21-dominik-exige-walkover-wwe-raw.md) |
+| 2026-09-21 | Backstage: Chad Gable le ofrece revancha a Dragon Lee, Ethan Page interrumpe reclamando su turno | WWE / Raw | promo backstage | WE | — | en-investigacion | 1 | [→](2026-09-21-gable-page-dragon-lee-backstage-wwe-raw.md) |
+| 2026-09-21 | Jevon Evans segmento con The Vision — setup para vs Bron Breakker | WWE / Raw | promo / confrontación | — | — | en-investigacion | 1 | [→](2026-09-21-jevon-evans-segmento-the-vision-wwe-raw.md) |
+| 2026-09-21 | Judgment Day in-ring — el 'JD Funko Pop' de Joe Hendry, escalada con Becky y Vaquer | WWE / Raw | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-09-21-judgment-day-in-ring-hendry-wwe-raw.md) |
+| 2026-09-21 | LA Knight confirma su segundo title shot contra Roman Reigns | WWE / Raw | promo in-ring | WE+ | — | en-investigacion | 1 | [→](2026-09-21-la-knight-promo-retador-reigns-wwe-raw.md) |
+| 2026-09-21 | Liv Morgan corta promo contra Vaquer — Becky Lynch reclama chance, Vaquer confirma ambas revanchas | WWE / Raw | promo in-ring | WE+ | — | en-investigacion | 1 | [→](2026-09-21-liv-morgan-promo-becky-vaquer-wwe-raw.md) |
+| 2026-09-21 | Oba Femi regresa y limpia el ring de The Vision — lanza a Jevon Evans como proyectil | WWE / Raw | post-match angle | WE+ | — | en-investigacion | 1 | [→](2026-09-21-oba-femi-ataque-postmatch-wwe-raw.md) |
+| 2026-09-21 | Penta corta promo como face, interrumpido por Dominik Mysterio y JD McDonagh | WWE / Raw | promo in-ring | WE+ | — | en-investigacion | 1 | [→](2026-09-21-penta-promo-dom-jd-wwe-raw.md) |
+| 2026-09-21 | Promo video de apertura — recap de Reigns vs Penta y el ataque post-match de LA Knight | WWE / Raw | promo video / hype package | WE+ | — | en-investigacion | 1 | [→](2026-09-21-promo-video-apertura-penta-la-knight-wwe-raw.md) |
 | 2026-09-18 | Backstage: Chelsea Green y Tiffany Stratton, interrumpidas por el regreso de Nikki Bella | WWE / SmackDown | promo backstage / regreso sorpresa | WE | — | en-investigacion | 1 | [→](2026-09-18-chelsea-green-nikki-bella-backstage-wwe-smackdown.md) |
 | 2026-09-18 | Cody Rhodes — entrevista, corta promos como los grandes | WWE / SmackDown | entrevista | WE | — | en-investigacion | 1 | [→](2026-09-18-cody-rhodes-entrevista-wwe-smackdown.md) |
 | 2026-09-18 | Backstage con Danhausen, Nick Aldis y Chelsea Green | WWE / SmackDown | comedy segment backstage | — | — | en-investigacion | 1 | [→](2026-09-18-danhausen-aldis-chelsea-backstage-wwe-smackdown.md) |

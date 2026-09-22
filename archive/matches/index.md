@@ -13,6 +13,9 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-21 | Dragon Lee vs Dominik Mysterio vs Penta — Men's Money in the Bank Qualifying Match | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-dragon-lee-vs-dominik-vs-penta-mitb-wwe-raw.md) |
+| 2026-09-21 | Iyo Sky vs Roxanne Perez vs La Catalina — Women's Money in the Bank Qualifying Match | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-iyo-sky-vs-roxanne-perez-vs-la-catalina-mitb-wwe-raw.md) |
+| 2026-09-21 | Jevon Evans vs Bron Breakker | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-jevon-evans-vs-bron-breakker-wwe-raw.md) |
 | 2026-09-18 | Bakusai (Shinsuke Nakamura & Kyoki) vs MFTs (Tama Tonga & Talla Tonga) | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-09-18-bakusai-vs-mfts-wwe-smackdown.md) |
 | 2026-09-18 | Jacy Jayne (c) vs Jade Cargill vs Alexa Bliss — Women's Money in the Bank Qualifying Match | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-09-18-jacy-jayne-vs-cargill-vs-bliss-mitb-wwe-smackdown.md) |
 | 2026-09-18 | Randy Orton vs Rey Fénix vs Trick Williams — Men's Money in the Bank Qualifying Match | WWE / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-18-randy-orton-vs-rey-fenix-vs-trick-williams-mitb-wwe-smackdown.md) |

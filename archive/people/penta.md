@@ -342,6 +342,25 @@ ni contacto reportado.
 [llegada a caballo](../segments/2026-09-14-presentacion-penta-a-caballo-cdmx-wwe-raw.md) (WE) ·
 [vs Roman Reigns, World Heavyweight Championship](../matches/2026-09-14-roman-reigns-vs-penta-world-title-wwe-raw.md) (**ICC+**)
 
+
+### Sesión 2026-09-22 s01 — "El babyface tipo Cody que necesitamos": prueba de face, clasifica al MITB
+
+**Cita verbatim** (fragmento de la promo):
+
+> *"esta es la prueba para verlo como face en tv, el babyface tipo
+> Cody que necesitamos, tiene ventaja siendo el underdog, ahora con
+> una historia incompleta con el campeonato mundial"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: noche completa dentro de un solo show — promo
+de face (WE+) tras la derrota titular del 14/9, sustituye a Solo
+Sikoa (secuestrado por 946) en el main event y clasifica al Men's
+Money in the Bank con un springboard Mexican Destroyer sobre
+Dominik Mysterio (ICC+). Piezas:
+[promo interrumpida por Dom/JD](../segments/2026-09-21-penta-promo-dom-jd-wwe-raw.md) (WE+) ·
+[vs Dragon Lee y Dominik, MITB](../matches/2026-09-21-dragon-lee-vs-dominik-vs-penta-mitb-wwe-raw.md) (ICC+).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.

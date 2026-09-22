@@ -165,6 +165,23 @@ El cierre de show (946 incendiando el auto de los Usos) es su pago.
 [video package](../segments/2026-09-07-promo-video-royce-keys-otm-wwe-raw.md) (WE+) ·
 [cierre de show](../segments/2026-09-07-segmento-final-otm-wwe-raw.md) (WE)
 
+
+### Sesión 2026-09-22 s01 — 946 secuestra a Solo Sikoa, "amenaza real"
+
+**Cita verbatim** (fragmento):
+
+> *"el ataque brutal a solo es buen booking, fuertes stakes para este
+> nuevo stable 946, porque moviliza a todo el bloodline"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: research precisa que **946 no debutó esta
+noche** — viene activo desde agosto; lo del 21/9 es escalada
+(secuestro de Sikoa, mensaje amenazante en video). La comparación con
+The Shield en cobertura es de estilo de presentación, no de un
+ataque puntual imitando el debut de 2012. Pieza:
+[secuestro de Solo](../segments/2026-09-21-ataque-secuestro-solo-946-wwe-raw.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, edad y entrenamiento.

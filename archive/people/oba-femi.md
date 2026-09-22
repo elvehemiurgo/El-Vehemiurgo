@@ -203,6 +203,24 @@ definiendo quién es "el futuro de WWE".
 **Lectura sintética**: sin clase individual — la WE corresponde al
 segmento completo.
 
+
+### Sesión 2026-09-22 s01 — Regresa y limpia el ring, hereda el peso de Lesnar
+
+**Cita verbatim** (fragmento):
+
+> *"el ataque post match de Femi estuvo muy cool... excepto lo de
+> lanzar a Jevon al final, creo que fue innecesario... fue como si
+> Femi lo votara como basura"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: regreso tras ~2 semanas de ausencia; limpia el
+ring de The Vision con una silla y usa a Jevon Evans como proyectil —
+spot intencional según research, no un botch, aunque el Vehemiurgo
+mantiene reserva sobre cómo se vio el aterrizaje. Paul Heyman lo
+declara "un problema" para Breakker. Pieza:
+[ataque post-match](../segments/2026-09-21-oba-femi-ataque-postmatch-wwe-raw.md) (WE+).
+
 ## Pendientes
 
 - [ ] NXT World Championship reigns — pieces editoriales.

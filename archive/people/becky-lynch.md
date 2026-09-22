@@ -228,6 +228,27 @@ respeto.
 **Pieza de la sesión**:
 [Vaquer vs Liv Morgan](../matches/2026-09-07-stephanie-vaquer-vs-liv-morgan-wwe-raw.md) (ICC+, mención)
 
+
+### Sesión 2026-09-22 s01 — "Mala in-ring, ofensiva la narrativa de que es la mejor"
+
+**Cita verbatim** (fragmento):
+
+> *"Becky sea genial en el mic, es solo que in ring es mala... tiene
+> esta narrativa de que es buena luchadora o la mejor luchadora, lo
+> cual me parece ofensivo y me impulsa a descalificar todos sus
+> aportes... mientras no haga lucir mal a nadie en el ring, Becky se
+> puede quedar"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: reafirma la categoría *buena promo, mal
+trabajador* (ya aplicada a ella en s32 y extendida a Nikki Bella el
+18/9) — reclama su propia oportunidad titular contra Vaquer, con
+Vaquer confirmándosela para más adelante. Condición explícita del
+Vehemiurgo para tolerarla: que no arruine el trabajo de nadie en el
+ring. Pieza:
+[promo con Liv y Vaquer](../segments/2026-09-21-liv-morgan-promo-becky-vaquer-wwe-raw.md) (WE+).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

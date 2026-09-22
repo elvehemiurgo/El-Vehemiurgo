@@ -179,6 +179,23 @@ dato de research, no comentado directamente por el Vehemiurgo.
 
 **Lectura sintética**: sin clase individual.
 
+
+### Sesión 2026-09-22 s01 — "Santiago Screwjob", y quién dirige el segmento
+
+**Cita verbatim** (fragmento):
+
+> *"Liv se puso a cortar una promo super buena, top tier wrestling...
+> in ring y en el mic, la verdad Liv está dirigiendo todo esto"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: llama "Santiago Screwjob" a su derrota titular
+ante Vaquer con Becky Lynch de árbitro especial. El Vehemiurgo la
+declara por encima de Becky en ejecución de ring y mic, pese a que
+Becky es "la main eventer" en dinero. Vaquer confirma su revancha.
+Pieza:
+[promo con Becky y Vaquer](../segments/2026-09-21-liv-morgan-promo-becky-vaquer-wwe-raw.md) (WE+).
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run como Women's World Champion (fecha

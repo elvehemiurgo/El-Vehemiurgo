@@ -333,6 +333,23 @@ se retira con él. **Face turn confirmado**, leído por la prensa como
 decisión en el momento, no plan pre-armado. Ver
 [`../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md`](../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md).
 
+
+### Sesión 2026-09-22 s01 — Personaje "imperdible", secuestrado por 946 antes de su MITB qualifier
+
+**Cita verbatim** (fragmento):
+
+> *"el personaje de Solo se volvió imperdible con su idea de comedia
+> y acto face contra Roman"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: registro cómico elogiado en el mismo segmento
+donde se siembra la amenaza que lo saca del show — 946 lo secuestra
+(lo mete al baúl de un auto) antes de su clasificatorio al Men's
+Money in the Bank, forzando su reemplazo por Penta. Piezas:
+[backstage con el Bloodline](../segments/2026-09-21-backstage-bloodline-solo-946-wwe-raw.md) (WE) ·
+[secuestro](../segments/2026-09-21-ataque-secuestro-solo-946-wwe-raw.md) (WE).
+
 ## Pendientes / huecos
 
 - [ ] Cronología detallada Bloodline original / interim Tribal

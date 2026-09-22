@@ -253,6 +253,24 @@ Hiedra contra Flammer y rematando con Pop Rocks — avanza a **WWE x
 AAA Worlds Collide** (26/9/2026, Chicago). Ver
 [`../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md).
 
+
+### Sesión 2026-09-22 s01 — Clasifica al Money in the Bank con el Pop Rox sobre Iyo Sky
+
+**Cita verbatim** (fragmento):
+
+> *"porfin la nueva guardia, más stiff, más recia, está genial estos
+> rivvales para Iyo que hace tiempo no le dejan poner una lucha
+> memorable"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+** — cuarta clasificada
+al Women's Money in the Bank. Más tarde, careo con Lola Vice sin
+clase declarada, con el Vehemiurgo advirtiendo el riesgo de que quede
+estancada como enhancement. Piezas:
+[vs Iyo Sky y La Catalina](../matches/2026-09-21-iyo-sky-vs-roxanne-perez-vs-la-catalina-mitb-wwe-raw.md) (ICC+) ·
+[careo con Lola Vice](../segments/2026-09-21-careo-roxanne-lola-vice-wwe-raw.md) (sin clase).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.

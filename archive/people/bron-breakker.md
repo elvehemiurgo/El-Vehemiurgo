@@ -336,6 +336,27 @@ propio Breakker. Gana el MITB Qualifier del mismo Raw.
 [apertura de Raw](../segments/2026-09-07-the-vision-promos-breakker-reed-wwe-raw.md) (WE) ·
 [MITB Qualifier vs Mysterio & Page](../matches/2026-09-07-bron-breakker-vs-rey-mysterio-vs-ethan-page-wwe-raw.md) (ICC+)
 
+
+### Sesión 2026-09-22 s01 — "Por fin alejándose del molde de Lesnar con Heyman"
+
+**Cita verbatim** (fragmento):
+
+> *"breaker por fin alejandose del molde de Lesnar con Heyman,
+> acercandose más a un Steiner oldschool pero más táctico, está
+> encontrando su propio balance, ese pivot del booking fue
+> importante, dejandole a Femi todo el peso de la antorcha de
+> Lesnar"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: **Instant Classic Crown+** ante Jevon Evans
+(DQ por interferencia de The Vision). Lectura de progreso de
+personaje — el pivote de booking que le pasa el peso de "antorcha de
+Lesnar" a Oba Femi lo libera para un perfil más táctico. Heyman
+verbaliza después que "Oba Femi seguir respirando es un problema".
+Pieza:
+[vs Jevon Evans](../matches/2026-09-21-jevon-evans-vs-bron-breakker-wwe-raw.md) (ICC+).
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos (nombre real, fecha de

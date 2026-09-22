@@ -473,6 +473,23 @@ el segundo Superman Punch de Reigns. Se retira con Sikoa entre choque
 de puños. Ver
 [`../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md`](../segments/2026-08-17-roman-reigns-solo-sikoa-bloodline-la-knight-wwe-raw.md).
 
+
+### Sesión 2026-09-22 s01 — Confirma segundo shot contra Reigns en Money in the Bank
+
+**Cita verbatim** (fragmento):
+
+> *"no MITB para LA Knight, irá a retar directamente a Reigns despues
+> de 3 años... esta rivalidad está buenisima"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: confirma su segundo title shot contra Roman
+Reigns por el World Heavyweight Championship en Money in the Bank
+(10/10/2026, Nueva Orleans) — no irá al Ladder Match, va directo al
+título. Se beneficia del secuestro de Solo Sikoa por 946 esa misma
+noche, que divide el frente del Bloodline. Pieza:
+[promo de retador](../segments/2026-09-21-la-knight-promo-retador-reigns-wwe-raw.md) (WE+).
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

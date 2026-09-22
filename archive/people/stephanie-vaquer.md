@@ -336,6 +336,24 @@ que ambas solo prometen. Ver [`./giulia.md`](./giulia.md) y
 [segmento de apertura de Raw](../segments/2026-09-14-promo-vaquer-liv-dominik-gms-wwe-raw.md) (**WE+**) ·
 [mixed tag](../matches/2026-09-14-dominik-liv-vs-vaquer-grande-americano-wwe-raw.md) (**ICC**)
 
+
+### Sesión 2026-09-22 s01 — "Ahora sí está hablando como wrestler real"
+
+**Cita verbatim** (fragmento):
+
+> *"ahora si está hablando como wrestler real, muy enserio, realmente
+> creyendosela que es la mejor en el mundo, la mejor in ring, todavia
+> un poco verde, pero es dificil, se ve super encaminada y motivada
+> ahora"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: continuidad directa del arco desde CDMX
+(2026-09-16, "por fin empieza a sonar como wrestler") — confirma
+revancha para Liv Morgan y title shot futuro para Becky Lynch, sin
+necesitar la ayuda de esta última para vencer a Morgan. Pieza:
+[promo con Liv y Becky](../segments/2026-09-21-liv-morgan-promo-becky-vaquer-wwe-raw.md) (WE+).
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run NJPW STARDOM (fechas, IWGP Women's

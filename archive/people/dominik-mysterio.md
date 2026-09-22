@@ -347,6 +347,23 @@ mandando a Evans contra el poste — sin clase individual, dato de
 continuidad. Ver
 [`../segments/2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md`](../segments/2026-08-17-big-cass-ataca-jevon-evans-wwe-raw.md).
 
+
+### Sesión 2026-09-22 s01 — Reclama walkover, pierde el MITB qualifier ante Penta
+
+**Cita verbatim** (fragmento):
+
+> *"Dom exigiendo su victoria por walk over fue muy cool, sin miedo
+> en meido de todo el caos"*
+>
+> — El Vehemiurgo, 2026-09-22 s01 (verbatim, typos preservados)
+
+**Lectura sintética**: intento fallido de ganar por default tras el
+secuestro de Sikoa; Adam Pearce lo obliga a competir, y termina
+cayendo ante Penta con un springboard Mexican Destroyer. Piezas:
+[promo interrumpiendo a Penta](../segments/2026-09-21-penta-promo-dom-jd-wwe-raw.md) (WE+) ·
+[exige walkover](../segments/2026-09-21-dominik-exige-walkover-wwe-raw.md) (WE) ·
+[vs Dragon Lee y Penta](../matches/2026-09-21-dragon-lee-vs-dominik-vs-penta-mitb-wwe-raw.md) (ICC+).
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.
