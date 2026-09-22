@@ -51,6 +51,18 @@ editorial con el backup completo del archivo.
   declara la discrepancia, como en el archivo).
 - Léxico carny en inglés, blacklist vigente
   (`glossary/blacklist.md`).
+- **Formato serie (Vehemiurgo, 2026-09-22 — precedente guion 010)**:
+  cuando el tema da para más de 3 partes, el guion se arma como
+  **serie de N partes autónomas**. Cada parte abre con un **ANCLA**
+  fija (la definición del tema, con palabras del Vehemiurgo) y cierra
+  con un **CIERRE** (una línea suya que resume la tesis). Ninguno de
+  los dos se recorta. El puente a la parte siguiente va en cursiva y
+  es recortable. Cada parte debe entenderse vista sola.
+- **Footage a conseguir (Vehemiurgo, 2026-09-22)**: además de los
+  timestamps de lo que ya tenemos, el guion lleva una sección de
+  **eventos y fechas a buscar**, **en el mismo orden del guion**, con
+  el nombre para la mediateca en formato `YYYY MM DD Nombre del Show`
+  y el estado de verificación de cada fecha.
 - Numeración: `guion-NNN-<slug>.md`.
 - Los guiones son material de fragua: el satélite TikTok los lee
   y los adapta a su formato allá.
