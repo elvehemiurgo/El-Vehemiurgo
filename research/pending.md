@@ -7,10 +7,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `pendientes-fichas-sep26-aew` | Cierre de pendientes (referee, duración, línea textual, finish) en fichas de AEW 2-16/9/2026 | Pedido del Vehemiurgo 2026-09-23 s01 ("completa todos los pendientes de fichas") | 2026-09-23 | Fichas in-place |
-| `pendientes-fichas-sep26-wwe-a` | Cierre de pendientes (referee, duración, línea textual, finish) en fichas de WWE 1-11/9/2026 | Pedido del Vehemiurgo 2026-09-23 s01 ("completa todos los pendientes de fichas") | 2026-09-23 | Fichas in-place |
-| `pendientes-fichas-sep26-wwe-b` | Cierre de pendientes (referee, duración, línea textual, finish) en fichas de WWE 14-21/9/2026 | Pedido del Vehemiurgo 2026-09-23 s01 ("completa todos los pendientes de fichas") | 2026-09-23 | Fichas in-place |
-| `pendientes-fichas-sep26-aaa` | Cierre de pendientes (referee, duración, línea textual, finish) en fichas de AAA 5-13/9/2026 | Pedido del Vehemiurgo 2026-09-23 s01 ("completa todos los pendientes de fichas") | 2026-09-23 | Fichas in-place |
+
+> `pendientes-fichas-sep26-aew`, `-wwe-a`, `-wwe-b` y `-aaa` cerradas e
+> integradas el 2026-09-23 (s01) — ver [`closed.md`](./closed.md).
 
 > `guion-010-y2k-highspeed-memoria`, `-data-a` y `-data-b` cerradas e
 > integradas el 2026-09-22 (s04) — ver [`closed.md`](./closed.md).
