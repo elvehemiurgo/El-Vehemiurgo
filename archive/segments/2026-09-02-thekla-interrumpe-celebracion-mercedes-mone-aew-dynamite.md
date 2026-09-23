@@ -10,7 +10,7 @@ ciudad: "Allen, Texas"
 recinto: "Credit Union of Texas Event Center"
 ubicacion_en_show: "timestamp 01:21:06"
 duracion: "[verif]"
-linea_textual: "\"Nobody swings it bigger than Teklah\" [Vehemiurgo, cita parafraseada de la celebración con los fans]; brindis y línea de tease: 'avisame cuando estés lista para devolverme mi título' [paráfrasis reportada — título exacto sin confirmar]"
+linea_textual: "\"Nobody swings it bigger than Thekla\" [Vehemiurgo, cita parafraseada de la celebración con los fans]; brindis y línea de tease: 'avisame cuando estés lista para devolverme mi título' [paráfrasis reportada — título exacto sin confirmar]"
 gimmick_momento: "la interrupción que casi se cae en el cliché del heel aburrido, hasta que levanta con la celebración con los fans"
 storyline: "Mercedes Moné celebra el AEW Women's World Championship ganado en All In: London cuando Thekla la interrumpe desde las gradas, brindando por ella y avisándole que la avise cuando esté lista para devolverle 'su título' — tease de revancha."
 attendance_anunciada: ""
@@ -68,7 +68,7 @@ esté lista — tease de revancha.
 1. **La comparación con Seth Rollins ("aburrido y caricaturesco")**
    marca el riesgo que el Vehemiurgo ve en el molde de heel
    grandilocuente — Thekla lo esquiva justo a tiempo.
-2. **"Nobody swings it bigger than Teklah"**: la frase que salva el
+2. **"Nobody swings it bigger than Thekla"**: la frase que salva el
    segmento, celebrando con los fans en vez de solo hablar.
 3. **"Expuso a Mercedes como entertainer"**: el segmento no es solo
    sobre Thekla — también reposiciona a Moné, en la misma noche que

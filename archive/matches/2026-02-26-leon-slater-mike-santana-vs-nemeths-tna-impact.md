@@ -37,7 +37,7 @@ tags: [leon-slater, mike-santana, nic-nemeth, ryan-nemeth, the-nemeths-tag, tna-
 
 ## Resumen
 
-Tag match TNA Impact con cuatro talents de alto perfil. Lion Slater
+Tag match TNA Impact con cuatro talents de alto perfil. Leon Slater
 (canónico **Leon Slater**) y **Mike Santana** como babyfaces; **Nic
 Nemeth + Ryan Nemeth** como heels (The Nemeths como tag, hermanos
 reales). Build viene del No Surrender (Eddie Edwards + Nic Nemeth

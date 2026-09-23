@@ -26,7 +26,7 @@ talents_centrales:
   - "Bandido"
   - "Don Callis Family (Josh Alexander, Konosuke Takeshita, Kyle Fletcher, Hechicero)"
   - "Persephone (CMLL crossover)"
-  - "Teklah + Kris Statlander"
+  - "Thekla + Kris Statlander"
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal completa (2026-05-09)"
   - "Sec. Bloque AAA + AEW 2026 + segmentos editorial"
@@ -123,7 +123,7 @@ piezas centrales:
   Christian).
 - **Will Ospreay returns** (post injury / contract negotiations
   arc).
-- **Andrade vs Bandido** + **Kris Statlander vs Teklah** +
+- **Andrade vs Bandido** + **Kris Statlander vs Thekla** +
   **MJF vs Hangman** undercard.
 
 ### 4. MJF vs Hangman Adam Page — feud editorial central AEW 2026
@@ -157,7 +157,7 @@ pollination 2026**:
   Kira + Dark Silueta + Keyra + Zeuxis + Mei Seira + Starlight
   Kid + Persephone vs Mone (Mercedes Moné CMLL).
 - **11.03.2026 Dynamite**: Persephone vs Willow.
-- **25.03.2026 Dynamite**: Teklah vs Mina Shirakawa.
+- **25.03.2026 Dynamite**: Thekla vs Mina Shirakawa.
 
 ## Cronología cluster (extracto centerpieces)
 
@@ -178,7 +178,7 @@ pollination 2026**:
 15.03.2026  ★ MJF vs Hangman — AEW Revolution
 15.03.2026  ✓ Christian Killswitches AEW Revolution (Batch 6)
 15.03.2026  Toni Storm entrance — AEW Revolution
-15.03.2026  Kris Statlander vs Teklah — AEW Revolution
+15.03.2026  Kris Statlander vs Thekla — AEW Revolution
 15.03.2026  Andrade vs Bandido — AEW Revolution
 21.02.2026  ★ End of Contract Signing Vikingo vs Dominik —
             AAA (injury angle)
@@ -228,7 +228,7 @@ pollination 2026**:
       Penta, Rey Fenix, Octagón Jr., Chad Gable (El Grande
       Americano), Will Ospreay, MJF, Hangman Adam Page,
       Andrade, Toni Storm, Persephone, Mercedes Moné, Don
-      Callis Family, Kris Statlander, Teklah.
+      Callis Family, Kris Statlander, Thekla.
 
 ## Piezas relacionadas
 

@@ -43,9 +43,9 @@ tags: [dani-luna, british-power-wrestler, deadlifts-signature, tna-knockouts-202
 - **Championships**: [verif — vigentes / pasados].
 - **Matches signature TNA 2025**:
   - **6 nov 2025 (Impact)** — vs Jodi Threat.
-  - **14 nov 2025 (Turning Point)** — vs Indy Hartwell.
+  - **14 nov 2025 (Turning Point)** — vs Indi Hartwell.
   - **4 dic 2025 (Impact)** — vs Xia Brookside.
-  - **11 dic 2025 (Impact)** — vs Indy Hartwell (rematch).
+  - **11 dic 2025 (Impact)** — vs Indi Hartwell (rematch).
   - **26 feb 2026 (Impact)** — vs Lei Ying Lee
     ([→](../matches/2026-02-26-dani-luna-vs-lei-ying-lee-tna-impact.md))
     — **anchor del take editorial 2026-06-17 #9**.

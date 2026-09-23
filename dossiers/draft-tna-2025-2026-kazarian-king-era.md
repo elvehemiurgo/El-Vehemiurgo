@@ -19,7 +19,7 @@ talents_centrales:
   - "Charlie Dempsey (NXT cross-promotion)"
   - "Leon Slater"
   - "Heather By Elegance + M By Elegance"
-  - "Indy Hartwell"
+  - "Indi Hartwell"
   - "Jordynne Grace adjacents (Knockouts arc)"
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal completa (2026-05-09), sec. Bloque TNA 2025–2026"
@@ -90,13 +90,13 @@ Ali debuta en TNA post-WWE release con **promo backstage 8 ene**
 contender legítimo. La oficina TNA usa la veteranía Ali sin
 diluir el roster propio.
 
-### 5. Knockouts arc — Heather By Elegance + M + Indy Hartwell + Mickie James return
+### 5. Knockouts arc — Heather By Elegance + M + Indi Hartwell + Mickie James return
 
 **Heather By Elegance + M By Elegance** como heel sisters con
-push consistente noviembre-marzo. **Indy Hartwell** como
+push consistente noviembre-marzo. **Indi Hartwell** como
 underdog babyface con storyline propia. **Mickie James return**
 en No Surrender (13 feb 2026) — legacy moment. **Tessa
-Blanchard + Jody Threat backstage promos** No Surrender
+Blanchard + Jodi Threat backstage promos** No Surrender
 construyen feud paralelo. **Jordynne Grace adjacents** rotando
 en title picture.
 
@@ -125,7 +125,7 @@ Marcador (★) = pieza abierta como entry individual centerpiece.
             el Vehemiurgo en notebook sec. Hipótesis Wrestling
             Entertainment Class)
 17.01.2026  ★ MUSTAFA ALI VS ELIAS — Genesis
-13.02.2026  ★ MICKEY JAMES RETURN — No Surrender (legacy moment)
+13.02.2026  ★ MICKIE JAMES RETURN — No Surrender (legacy moment)
 19.02.2026  ★ MUSTAFA ALI VS ELIJAH CASKET MATCH — Impact
 [2025]      ★ JOE HENDRY & JEFF HARDY CONCERT (fecha pendiente)
 05.03.2026  KAZARIAN KING'S SPEECH SEGMENT — Impact
@@ -178,7 +178,7 @@ Marcador (★) = pieza abierta como entry individual centerpiece.
 - [ ] Fact-sheets dedicados: **Frankie Kazarian**, **Mike
       Santana**, **Mustafa Ali**, **Joe Hendry**, **Trey
       Miguel** / Rascalz, **The System**, **Heather + M By
-      Elegance**, **Indy Hartwell**, **Bear Bronson**, **Mickey
+      Elegance**, **Indi Hartwell**, **Bear Bronson**, **Mickie
       James**, **Eddie Edwards**.
 
 ## Piezas relacionadas

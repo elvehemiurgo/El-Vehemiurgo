@@ -41,8 +41,8 @@ tags: [tna-2026, no-surrender-2026, mickie-james, legacy-return, knockouts-histo
 - **Legacy talent return como mecanismo carny ortodoxo**:
   la oficina TNA usa Mickey para anchor la Knockouts division
   contemporánea con presencia histórica. Las nuevas talents
-  (Heather/M By Elegance, Indy Hartwell, Jody Threat, Tessa
-  Blanchard, Ariana Grace) trabajan con / contra una talent
+  (Heather/M By Elegance, Indi Hartwell, Jodi Threat, Tessa
+  Blanchard, Arianna Grace) trabajan con / contra una talent
   con peso institucional, **legitimando el roster nuevo**.
 - **Pieza institucional cross-promotion temporal** — Mickey
   representa el linaje **WWE-TNA-WWE-TNA** que tantas talents

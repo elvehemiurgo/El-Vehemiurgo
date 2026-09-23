@@ -225,7 +225,7 @@ declara "un problema" para Breakker. Pieza:
 
 - [ ] NXT World Championship reigns — pieces editoriales.
 - [ ] NXT Stand & Deliver matches — pieces.
-- [ ] Lion Slater vs Oba Femi NXT 06.01.2026 — pieza individual.
+- [ ] Leon Slater vs Oba Femi NXT 06.01.2026 — pieza individual.
 
 ## Notas editoriales del Vehemiurgo
 

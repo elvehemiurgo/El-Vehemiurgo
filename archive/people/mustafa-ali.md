@@ -43,7 +43,7 @@ tags: [mustafa-ali, ex-wwe-204-live, tna-2025-2026-run-generacional, heel-protag
 - **Post-WWE indies + AEW estipulaciones [verif]**.
 - **TNA llegada 2025** — debuta heel main scene calibrado.
 - **TNA 2025-2026 run generacional** (lectura del Vehemiurgo):
-  - Sep 2025 — Ali & Trick Williams vs Lion Slater & Mike Santana.
+  - Sep 2025 — Ali & Trick Williams vs Leon Slater & Mike Santana.
   - 4 dic 2025 — Trey Miguel vs Mustafa Ali.
   - 8 ene 2026 — Mustafa Ali in-ring segment.
   - **17 ene 2026 — vs Elias (Genesis 2026 PPV)** ([→](../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)) — debut PPV TNA post-WWE. Tag `casket-build`.
