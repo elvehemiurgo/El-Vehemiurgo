@@ -5,11 +5,11 @@ participantes: ["Bron Breakker", "Rey Mysterio", "Ethan Page"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-09-07
-ciudad: "Birmingham, Alabama [verif]"
+ciudad: "Birmingham, Alabama"
 recinto: "Legacy Arena"
 tipo_match: "triple threat — clasificatoria"
 estipulacion: "Money in the Bank Ladder Match, clasificatoria masculina"
-duracion: "[verif]"
+duracion: "12:00 [una fuente]"
 finish: "Doble Frankensteiner + Spear de Breakker sobre Mysterio"
 ganador: "Bron Breakker"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Breaker entra a la 3 way de forma muy cool, super violento y luego entra Ethan, de lo mejor del midcard a medirse en este universo contra Breaker y Rey Mysterio, buenisimo el booking para este tipo de dream matches, la colisión de escuelas en este ring fue increible, muy pros, naturales para dar una lucha oldschool real, incluso Breaker que suele pecar de safe, fue presionado y se siente más comodo más violento, se merecen las 3 clses con la corona +, ejecución muy top tier, son muy buenos"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — WWE Raw, 7/9/2026)"
   - "Sub-agente research-wwe-raw-070926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (PWTorch, prowrestling.net, Wrestleview); WebFetch bloqueado por egress"
 tags: [wwe-raw-2026, birmingham, bron-breakker, rey-mysterio, ethan-page, money-in-the-bank-2026, dream-match, colision-de-escuelas, instant-classic-crown-plus, perfect-wrestling, fighting-spirit, wrestling-entertainment-plus]
 ---
 # Bron Breakker vs Rey Mysterio vs Ethan Page (2026 09 07 WWE Raw)
@@ -63,7 +64,9 @@ tags: [wwe-raw-2026, birmingham, bron-breakker, rey-mysterio, ethan-page, money-
 
 ## Pendientes
 
-- [ ] Duración.
+- [x] Duración. → 12:00 (resultados vía WebSearch, formato
+      redondeado tipo Keller) [una fuente]. Ciudad confirmada por
+      Wrestleview (Birmingham).
 
 ## Cross-links
 

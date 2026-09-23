@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Promo real de un wrestler real; me gusta lo que trae, espero que le den un push"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 00:16:35)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (AllEliteWrestling.com, PWTorch/Keller, POST Wrestling); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (POST Wrestling, Fightful, PWTorch); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, gabe-kidd, clark-connors, united-empire, will-ospreay, aew-world-championship, wrestling-entertainment, main-event-setup]
 ---
 
@@ -80,7 +81,7 @@ main event 5 vs 5.
 ## Pendientes
 
 - [ ] Línea textual completa, duración exacta.
-- [ ] Resolver la composición de The Dogs para esta noche.
+- [x] Resolver la composición de The Dogs para esta noche → Gabe Kidd y Clark Connors (los dos Dogs del main event 5 vs 5 junto a The Demand, según POST Wrestling, Fightful y PWTorch); presencia de Finlay no reportada
 
 ## Cross-links
 

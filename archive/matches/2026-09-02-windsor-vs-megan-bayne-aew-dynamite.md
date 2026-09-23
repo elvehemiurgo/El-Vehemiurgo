@@ -9,7 +9,7 @@ ciudad: "Allen, Texas"
 recinto: "Credit Union of Texas Event Center"
 tipo_match: "singles"
 estipulacion: "standard — continuación post-título de Wembley"
-duracion: "[no confirmado]"
+duracion: "10:47"
 finish: "Lena Kross y Jamie Hayter pelean afuera del ring; Bayne golpea a Windsor con un título y remata con Megabomb — pinfall"
 ganador: "Megan Bayne"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Podría ser una gran lucha, especialmente con lo motivadas que están y ahora que ya no trabajan con talentos mid; estuvo buena, pero les faltó velocidad, muy call it in the ring pero no lo suficientemente oldschool"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 01:01:46)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (Fightful, SI.com); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (411mania); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, windsor, megan-bayne, divine-dominion, brawling-birds, lena-kross, jamie-hayter, wrestling-entertainment, aew-womens-world-tag-team-championship]
 ---
 
@@ -70,7 +71,7 @@ Championships.
 
 ## Pendientes
 
-- [ ] Duración exacta — no reportada por prensa consultada.
+- [x] Duración exacta → 10:47 (Thomas Hall, 411mania; otra reseña da 10:50)
 - [ ] Referee.
 
 ## Cross-links

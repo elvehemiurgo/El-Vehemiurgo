@@ -5,11 +5,11 @@ participantes: ["Stephanie Vaquer", "Liv Morgan", "Becky Lynch", "Roxanne Perez"
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-09-07
-ciudad: "Birmingham, Alabama [verif]"
+ciudad: "Birmingham, Alabama"
 recinto: "Legacy Arena"
 tipo_match: "singles — título"
 estipulacion: "WWE Women's World Championship"
-duracion: "[verif]"
+duracion: "18:00 [una fuente; otra reporta '15+ minutos']"
 finish: "Morgan golpea a Vaquer con el título tras distracción de Roxanne Perez y la expulsión de Raquel Rodríguez; remata con ObLIVion"
 ganador: "Liv Morgan (retiene)"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Vaquer vs Morgan nunca decepciona, estuvo buena y la velocidad muy cool, incluso los pequeños tropiezos se ven como forsejeo real, buen booking en verdad, pero Vaquer se queda atras con sus promos, y Becku de verdad no es buena in ring, y por más de que si tenga buenas promos a veces, pues no me parece buen producto, asi que esta lucha y su calidad son un highlight en lo que va de su programación para Vaquer; Aquí vi a Vaquer más vocal más agresiva con el referi y con Liv, eso es bueno,no puedo creer que Tiffany Stratton le agarró el truco primero que Vaquer, se puso más enterteiner oldschool más rápido; Se merecen las 3 clases con la corona +, muy duras in ring, muy buenos spots, muy stiff"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — WWE Raw, 7/9/2026)"
   - "Sub-agente research-wwe-raw-070926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (PWTorch, prowrestling.net, CBS Sports, Wrestleview); WebFetch bloqueado por egress"
 tags: [wwe-raw-2026, birmingham, stephanie-vaquer, liv-morgan, wwe-womens-world-championship, becky-lynch, roxanne-perez, raquel-rodriguez, comparacion-tiffany-stratton, comparacion-la-catalina, instant-classic-crown-plus, perfect-wrestling, fighting-spirit, wrestling-entertainment-plus]
 ---
 # Stephanie Vaquer vs Liv Morgan (2026 09 07 WWE Raw)
@@ -78,7 +79,8 @@ tags: [wwe-raw-2026, birmingham, stephanie-vaquer, liv-morgan, wwe-womens-world-
 
 ## Pendientes
 
-- [ ] Duración.
+- [x] Duración. → 18:00 (resultados vía WebSearch) [una fuente];
+      otro reporte la describe como "15+ minute match".
 
 ## Cross-links
 

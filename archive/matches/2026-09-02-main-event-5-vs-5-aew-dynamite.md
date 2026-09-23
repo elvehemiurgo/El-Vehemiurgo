@@ -9,7 +9,7 @@ ciudad: "Allen, Texas"
 recinto: "Credit Union of Texas Event Center"
 tipo_match: "10-man tag (5 vs 5)"
 estipulacion: "standard — main event"
-duracion: "[no confirmado]"
+duracion: "13:53 [una fuente; PWTorch reporta 18:00]"
 finish: "Clark Connors noquea a Callum Newman con una spear; Will Ospreay conecta un Hidden Blade sobre Clark Connors — pinfall"
 ganador: "Will Ospreay, Andrade, Francesco Akira, HENARE & Callum Newman"
 referee: "[verif]"
@@ -18,11 +18,12 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buenísimo, buenos stakes para los heels y Andrade; me gusta que esté entretenido y con buenas luchas; me gustó mucho, cuidaron de no hacer strong style ni tropos de NJPW en el resto del show para dejárselo al main event, así se disfruta de verdad, gran lucha con stakes importantes; ratificado 2026-09-18: se merece las 3 clases con la corona +"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 01:37:15)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (AllEliteWrestling.com, PWTorch/Keller, POST Wrestling); WebFetch bloqueado por egress"
   - "Volcado Vehemiurgo 2026-09-18 (ratificación — AEW Dynamite, 2/9/2026, timestamp 01:37:15)"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (411mania, PWTorch); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, will-ospreay, andrade, united-empire, the-dogs, the-demand, ricochet, gabe-kidd, clark-connors, instant-classic-crown-plus, main-event]
 ---
 
@@ -101,7 +102,7 @@ adjudicar peso editorial.
 
 ## Pendientes
 
-- [ ] Duración exacta — no reportada por prensa consultada.
+- [x] Duración exacta → 13:53 [una fuente] (Thomas Hall, 411mania); PWTorch/Keller reporta 18:00 — discrepancia no resuelta
 - [ ] Referee.
 - [ ] Resolver la etiqueta "The Dogs" para Connors+Kidd vs. el
       registro previo del archivo (Finlay+Connors) — ver

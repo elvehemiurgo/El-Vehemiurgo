@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo ok, no es que sean stakes importantes, pero buena decisión bookear a Zilla contra todo el BirthRight, especialmente después de desactivar el título Speed; está cool poner a Dempsey y el hijo del Loose Cannon Lexis a trabajar con Zilla que tiene tanto hype; el segmento estuvo ok"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-05 s62 (VISIONADO DIRECTO — 2026 09 01 WWE NXT)"
   - "Sub-agente research-wwe-nxt-010926 (research 2026-09-05) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wrestling Inc., Ringside News, Wrestlezone); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, zilla-fatu, birthright, charlie-dempsey, lexis-king, speed-championship, sin-clase-declarada]
 ---
 # BirthRight rodea a Zilla Fatu (2026 09 01 WWE NXT)
@@ -67,7 +68,8 @@ tags: [wwe-nxt-2026, zilla-fatu, birthright, charlie-dempsey, lexis-king, speed-
   (Grace además TNA Knockouts Champion). **Myles Borne y Tavion Heights
   NO son BirthRight** — Dempsey entró a la facción precisamente
   atacando a Heights, su ex compañero de NQCC. Quiénes estaban
-  físicamente en el ring además de Dempsey y King: `[no confirmado]`.
+  físicamente en el ring además de Dempsey y King: **Uriah Connors**, que
+  abrió la bienvenida a Fatu (Wrestling Inc. / Ringside News) `[una fuente]`.
 - **La propuesta**: Dempsey — Fatu *"es como ellos"* pero nadie los toma
   en serio; ellos sí; que se una *"so they can run the place"*. King la
   endulzó: pueden ser *"family"* y Fatu puede ser *"the main one"* con
@@ -86,9 +88,14 @@ tags: [wwe-nxt-2026, zilla-fatu, birthright, charlie-dempsey, lexis-king, speed-
 
 ## Pendientes
 
-- [ ] Confirmar si el ángulo Zilla/BirthRight se formaliza en semanas
-      siguientes.
-- [ ] Miembros de BirthRight en el ring además de Dempsey y King.
+- [x] Confirmar si el ángulo Zilla/BirthRight se formaliza en semanas
+      siguientes. → Continúa el 8/9: Dempsey reinvita a Zilla, Regal
+      ordena el ataque y BirthRight lo pasa por una mesa (Wrestling Inc.,
+      Ringside News; ver ficha `2026-09-08-charlie-dempsey-segmento-in-ring-birthright-zilla-nxt`);
+      sin match formal anunciado a esa fecha.
+- [x] Miembros de BirthRight en el ring además de Dempsey y King. →
+      Uriah Connors (Wrestling Inc. / Ringside News) [una fuente]; resto
+      del roster en cámara sin detallar.
 
 ## Cross-links
 

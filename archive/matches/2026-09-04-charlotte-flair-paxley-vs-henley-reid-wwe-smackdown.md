@@ -9,7 +9,7 @@ ciudad: "Cleveland, Ohio"
 recinto: "Rocket Arena"
 tipo_match: "tag team — non-title"
 estipulacion: "WWE Women's Tag Team Championship no en juego (Henley & Reid son las campeonas)"
-duracion: "[verif]"
+duracion: "6:49 [una fuente]"
 finish: "Cemetery Drive de Paxley sobre Reid"
 ganador: "Charlotte Flair & Tatum Paxley"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fatal influence en tag tgeam action, buenisimas, incluso con estas rivales debiles en Charlotte y Paxley, manejaron bien una lucha real con los stakes de los campeonatos, se mereecen una WE por que es cool verlas como ring generals como las heels principales evolucionando; pero el booking es flojo, ya deberian tenerlas con rivales reales, es como si WWE se esforzara en exponerlas o querer que botcheen si o si con estas rivales que se ven muy fake, no me gusta el acto actual de Tatum, es debil y se ve fake, pero siento que se pondrá de moda por thirst trap, espero evolucione en una wrestler real pronto"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — 2026 09 04 WWE SmackDown)"
   - "Sub-agente research-wwe-smackdown-040926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (POST Wrestling, PWTorch, prowrestling.net); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, cleveland, fatal-influence, fallon-henley, lainey-reid, jacy-jayne, charlotte-flair, tatum-paxley, wwe-womens-tag-team-championship, alexa-bliss, reserva-de-booking, wrestling-entertainment]
 ---
 # Charlotte Flair & Tatum Paxley vs Fatal Influence — non-title (2026 09 04 WWE SmackDown)
@@ -80,7 +81,7 @@ tags: [wwe-smackdown-2026, cleveland, fatal-influence, fallon-henley, lainey-rei
 
 ## Pendientes
 
-- [ ] Duración.
+- [x] Duración. → 6:49 (resultados vía WebSearch) [una fuente].
 
 ## Cross-links
 

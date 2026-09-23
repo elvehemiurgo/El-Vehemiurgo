@@ -9,7 +9,7 @@ ciudad: "Allen, Texas"
 recinto: "Credit Union of Texas Event Center"
 tipo_match: "singles — AEW National Championship"
 estipulacion: "AEW National Championship"
-duracion: "[no confirmado]"
+duracion: "11:44 [una fuente]"
 finish: "Andrade conecta su finisher (\"la DM\") — pinfall"
 ganador: "Andrade retiene el AEW National Championship"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue wrestling, este es un showcase muy cool, tremenda rematch, se merece las 3 clases con la corona +; estos sí son main eventers"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 5/9/2026, timestamp 01:07:00)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (411mania, allelitewrestling.com, Wrestling Inc); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (411mania); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, andrade, gabe-kidd, aew-national-championship, instant-classic-crown-plus, njpw-linaje, rematch]
 ---
 
@@ -74,7 +75,8 @@ National Champion de la historia", defendiendo cada semana.
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
+- [x] Duración → 11:44 [una fuente] (Thomas Hall, 411mania)
+- [ ] Referee.
 - [ ] Fecha del primer encuentro entre ambos en NJPW (recapitulado en
       el promo video, sin fecha exacta confirmada).
 

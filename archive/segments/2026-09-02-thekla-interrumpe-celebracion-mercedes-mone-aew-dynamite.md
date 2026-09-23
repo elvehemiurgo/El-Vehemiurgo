@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo entretenido, pudo durar menos; estuvo a punto de sonar como Seth Rollins de aburrido, pero levanta con la celebración con los fans; se está puliendo; expuso a Mercedes como entertainer"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 01:21:06)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (SEScoops); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Ringside News, SEScoops); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, thekla, mercedes-mone, aew-womens-world-championship, wrestling-entertainment, tease-de-revancha, construccion-de-iconos]
 ---
 
@@ -80,8 +81,7 @@ esté lista — tease de revancha.
 
 ## Pendientes
 
-- [ ] Confirmar qué título exacto reclama Thekla ("mi título") — sin
-      fuente clara en el research.
+- [x] Confirmar qué título exacto reclama Thekla ("mi título") → AEW Women's World Championship: Thekla, excampeona, le pide a Moné que le avise cuando esté lista para devolvérselo (paráfrasis reportada — Ringside News; SEScoops)
 - [ ] Línea textual completa, duración exacta.
 
 ## Cross-links

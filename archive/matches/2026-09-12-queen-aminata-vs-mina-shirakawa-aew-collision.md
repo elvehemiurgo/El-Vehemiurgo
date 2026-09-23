@@ -9,7 +9,7 @@ ciudad: "Springfield, Massachusetts"
 recinto: "MassMutual Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[no confirmado]"
+duracion: "10:19 [una fuente]"
 finish: "Shirakawa va por un cuarto intento de Figure Four; Aminata cuelga un small package/inside cradle y roba el pin"
 ganador: "Queen Aminata"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 12/9/2026, timestamp 00:36:49)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (PWTorch, Wrestling Inc.); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (411mania); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, queen-aminata, mina-shirakawa, mercedes-mone, feeling-crown, andy-williams-tribute-show]
 ---
 
@@ -53,7 +54,8 @@ small package/inside cradle y roba el pin.
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
+- [x] Duración → 10:19 [una fuente] (Thomas Hall, 411mania)
+- [ ] Referee.
 
 ## Cross-links
 

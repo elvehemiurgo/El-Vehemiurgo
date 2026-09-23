@@ -9,7 +9,7 @@ ciudad: "Allen, Texas"
 recinto: "Credit Union of Texas Event Center"
 tipo_match: "tag team"
 estipulacion: "standard — rivalidad activa desde el debut de MCMG (30/7/2026)"
-duracion: "[no confirmado]"
+duracion: "12:28 [una fuente]"
 finish: "MCMG remueve a Blake Christian de la ecuación, ofensiva combinada sobre Lee Johnson y pump handle slam de Chris Sabin — pinfall"
 ganador: "MCMG — primer triunfo in-ring en AEW"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Dream match, la siguiente generación, y sí fue la lucha generacional que esperaba, les quedó genial"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 5/9/2026, timestamp 00:50:20)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (Fightful, allelitewrestling.com, PWTorch); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (411mania); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, the-swirl, mcmg, blake-christian, lee-johnson, alex-shelley, chris-sabin, instant-classic-crown-plus, dream-match, siguiente-generacion, debut-in-ring]
 ---
 
@@ -78,7 +79,7 @@ Johnson y pump handle slam de Sabin para el pin.
 
 ## Pendientes
 
-- [ ] Duración exacta.
+- [x] Duración exacta → 12:28 [una fuente] (Thomas Hall, 411mania)
 - [ ] Referee.
 
 ## Cross-links

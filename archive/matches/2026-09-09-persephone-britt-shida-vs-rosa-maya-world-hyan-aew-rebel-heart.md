@@ -9,7 +9,7 @@ ciudad: "Athens, Georgia"
 recinto: "Akins Ford Arena"
 tipo_match: "six-woman tag"
 estipulacion: "standard"
-duracion: "~10:30"
+duracion: "10:24 [una fuente]"
 finish: "Persephone conecta un spear sobre Thunder Rosa; Rebel entrega el guante a Britt Baker, que aplica el Lockjaw sobre Hyan hasta el tap-out"
 ganador: "Persephone, Britt Baker & Hikaru Shida"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Booking genial para Maya y Persephone en su división, con crossover CMLL; buenas luchas, Britt apoyando como entertainer heel, buen producto; impulsando a Hyan y alimentando la historia de Maya; buena psicología entre Shida y Britt; la protagonista sigue siendo Perse; Rosa super stiff, por fin una de sus luchas sin street fights ni gimmicks extra"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Rebel Heart, 9/9/2026, timestamp 00:34:24)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (Wrestlezone, 411mania); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (411mania); WebFetch bloqueado por egress"
 tags: [aew-rebel-heart, persephone, britt-baker, hikaru-shida, thunder-rosa, maya-world, hyan, rebel, cmll-crossover, instant-classic-crown-plus, regreso-britt-baker]
 ---
 
@@ -32,7 +33,7 @@ tags: [aew-rebel-heart, persephone, britt-baker, hikaru-shida, thunder-rosa, may
 
 ## Resumen
 
-Timestamp **00:34:24**. **~10:30.** Persephone, Britt Baker e Hikaru
+Timestamp **00:34:24**. **10:24.** Persephone, Britt Baker e Hikaru
 Shida vencen a Thunder Rosa, Maya World y Hyan. Finish: Persephone
 conecta un spear sobre Rosa; **Rebel entrega el guante a Britt
 Baker**, quien aplica el **Lockjaw** sobre Hyan hasta el tap-out —
@@ -76,8 +77,7 @@ Baker**, quien aplica el **Lockjaw** sobre Hyan hasta el tap-out —
 
 ## Pendientes
 
-- [ ] Duración exacta (research da ~10:30, sin cifra oficial
-      confirmada).
+- [x] Duración exacta (research daba ~10:30) → 10:24 [una fuente] (Thomas Hall, 411mania: Lockjaw sobre Hyan a los 10:24)
 - [ ] Referee.
 
 ## Cross-links

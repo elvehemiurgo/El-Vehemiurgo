@@ -9,7 +9,7 @@ ciudad: "Springfield, Massachusetts"
 recinto: "MassMutual Center"
 tipo_match: "8-man tag"
 estipulacion: "standard — Jay White en ringside"
-duracion: "[no confirmado]"
+duracion: "10:51 [una fuente]"
 finish: "Clark Connors conecta un spear sobre Austin Gunn — pinfall"
 ganador: "PAC & The Dogs (Gabe Kidd, David Finlay & Clark Connors)"
 referee: "[verif]"
@@ -18,11 +18,12 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "4 contra 4 muy entretenido, aunque todo sigue girando alrededor de Mox por lástima; los talentos son buenos y esta lucha fue wrestling, dieron un show completo, todos los greatest hits de Ace, Juice y los Guns, top tier wrestling"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-22 s02 (ratificación ICC+ — timestamp 01:10:15)"
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 12/9/2026, timestamp 01:02:47)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (WrestleTalk, allelitewrestling.com); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (411mania); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, pac, gabe-kidd, david-finlay, clark-connors, the-dogs, bang-bang-gang, jay-white, death-riders, instant-classic-crown-plus, andy-williams-tribute-show]
 ---
 
@@ -89,7 +90,8 @@ entrada y otro la acción, pero no se verificó. *"Dogs y death riders"*
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
+- [x] Duración → 10:51 [una fuente] (Thomas Hall, 411mania)
+- [ ] Referee.
 
 ## Cross-links
 

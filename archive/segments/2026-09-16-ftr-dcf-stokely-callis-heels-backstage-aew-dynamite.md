@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy bueno, con Don Callis con el soporte, programación de calidad"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-22 s02 (visión directa — AEW Dynamite, dictado '2026 09 18', emitido 16/9/2026, timestamp 00:03:31)"
   - "Sub-agente research-aew-dynamite-160926 (research 2026-09-22) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wrestling-Online, Ringside News); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, ftr, stokely-hathaway, don-callis, don-callis-family, kyle-fletcher, kevin-knight, alianza-heel, managers, wrestling-entertainment, all-out-2026-build]
 ---
 
@@ -79,7 +80,7 @@ resolver** hasta el show.
 ## Pendientes
 
 - [ ] Línea textual completa, duración.
-- [ ] Estipulación final del triple threat de All Out (ladder vs TLC).
+- [x] Estipulación final del triple threat de All Out (ladder vs TLC) → TLC a tres bandas (Cage & Copeland vs FTR vs Young Bucks), All Out 26/9/2026 (Wrestling-Online; Ringside News)
 
 ## Cross-links
 

@@ -9,7 +9,7 @@ ciudad: "Allen, Texas"
 recinto: "Credit Union of Texas Event Center"
 tipo_match: "tag team"
 estipulacion: "standard — resultado del team-up forzado por Don Callis (2/9)"
-duracion: "[no confirmado]"
+duracion: "12:15 [una fuente]"
 finish: "Giant kick de Fletcher sobre Ace Austin + combo brainbuster/UFO de Kevin Knight — pinfall"
 ganador: "Kyle Fletcher & Kevin Knight"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue wrestling, se merece las 3 clases con corona +; tienen top tier wrestlers en Collision, por fin algo de stakes para ellos, muy oldschool, el booking va lento pero buena exposición; completa dream match"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 5/9/2026, timestamp 01:32:11)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (PWTorch, allelitewrestling.com); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (411mania, Yahoo/Wrestling Inc., POST Wrestling); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, kyle-fletcher, kevin-knight, ace-austin, juice-robinson, don-callis-family, bang-bang-gang, instant-classic-crown-plus, dream-match]
 ---
 
@@ -85,8 +86,9 @@ cierre técnico de la transmisión.
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
-- [ ] Confirmar si fue el cierre real de la transmisión.
+- [x] Duración → 12:15 [una fuente] (Thomas Hall, 411mania)
+- [ ] Referee.
+- [x] Confirmar si fue el cierre real de la transmisión → sí, main event del show (Yahoo Sports/Wrestling Inc.; último en el orden de POST Wrestling)
 
 ## Cross-links
 

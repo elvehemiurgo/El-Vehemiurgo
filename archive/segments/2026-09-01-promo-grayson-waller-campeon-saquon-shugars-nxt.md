@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo increíble, le está metiendo muy fuerte a sus promos y el gimmick del único main eventer real en NXT, full pipebombs, no dejó ningún cabo suelto, muy efectivo; y ahora agregan a Saquon a la mezcla, entra fuerte con una buena promo, junto con Montana son faces muy cool listos para dar entertainment y que los consideren en el main event; Waller incluso fuera de WWE está manteniendo el gimmick fuerte, nivel MJF, de verdad haciendo cosas generacionales, y está presionando a todo el roster como lo hizo Jacy Jayne en su momento; fue un segmentazo con Waller en medio, buen booking, se merecen una WE+"
 clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-05 s62 (VISIONADO DIRECTO — 2026 09 01 WWE NXT)"
   - "Sub-agente research-wwe-nxt-010926 (research 2026-09-05) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wrestlenomics, Wrestling Inc., WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, grayson-waller, saquon-shugars, cruz-montana, mike-santana, ek-prosper, mason-rook, tony-dangelo, robert-stone, keanu-carver, nxt-championship, mjf, jacy-jayne, wrestling-entertainment-plus]
 ---
 # Grayson Waller, campeón — y toda la división en fila (2026 09 01 WWE NXT)
@@ -97,14 +98,19 @@ tags: [wwe-nxt-2026, grayson-waller, saquon-shugars, cruz-montana, mike-santana,
   #1 contender.
 - **Rating del show**: **767.000 espectadores, 0.17 en 18-49** —
   +135.000 y +0.08 vs la semana anterior; **mejor viewership y demo
-  desde febrero de 2025** (wrestling-online; pendiente cruce con
-  Wrestlenomics). **El primer NXT de la era Waller campeón es el más
+  desde febrero de 2025** (wrestling-online). Cruce con Wrestlenomics:
+  **768.000 espectadores, 0.17 P18-49**, séptimo del día en demo. **El primer NXT de la era Waller campeón es el más
   visto en año y medio.**
 
 ## Pendientes
 
-- [ ] Cita textual de Waller del 1/9.
-- [ ] Cruce del rating con Wrestlenomics.
+- [x] Cita de Waller del 1/9 (reportada, no verbatim contra video) →
+      *"I have only one person to thank, and that's Grayson Waller!"*
+      (cita reportada en resultados vía WebSearch) [una fuente].
+- [ ] Cita textual completa contra video.
+- [x] Cruce del rating con Wrestlenomics. → 768.000 espectadores,
+      0.17 P18-49 (Wrestlenomics, NXT Sep 1 on CW); el 767.000 de
+      wrestling-online difiere en mil.
 
 ## Cross-links
 

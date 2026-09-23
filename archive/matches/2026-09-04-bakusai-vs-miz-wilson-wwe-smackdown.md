@@ -9,7 +9,7 @@ ciudad: "Cleveland, Ohio"
 recinto: "Rocket Arena"
 tipo_match: "tag team — debut"
 estipulacion: "Sin título; debut televisado del equipo Bakusai"
-duracion: "[verif — una fuente sin segunda confirmación: 9-10 min]"
+duracion: "9:26 [una fuente; consistente con el 9-10 min previo]"
 finish: "Kit Wilson intenta un inverted Stunner sobre Kyoki, que lo contrarresta y lo fija en combinación de pin"
 ganador: "Bakusai (Shinsuke Nakamura & Kyoki)"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "además tener al time tiking bomb contra The Miz es una dream match, y mantienen la lucha muy real, se merecen las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — 2026 09 04 WWE SmackDown)"
   - "Sub-agente research-wwe-smackdown-040926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wrestling Inc., POST Wrestling, PWTorch, prowrestling.net); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, cleveland, bakusai, shinsuke-nakamura, kyoki, hiromu-takahashi, the-miz, kit-wilson, pretty-deadly, debut, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Bakusai vs The Miz & Kit Wilson — debut (2026 09 04 WWE SmackDown)
@@ -64,12 +65,15 @@ The Miz) de la lectura de presentación/gimmick, registrada aparte en
   — tease de futura disputa titular. Los campeones serían **Tama
   Tonga y Talla Tonga** (hijo de Tama), consistente con la salida de
   Tonga Loa del stable ya registrada en `promotions/mfts.md`
-  (2/5/2026) `[verif — segunda fuente pendiente]`.
+  (2/5/2026). Confirmado: salen **Tama Tonga, Talla Tonga y Haku**
+  (Wrestling Inc., "Bakusai... Stare Down MFTs").
 
 ## Pendientes
 
-- [ ] Confirmar composición exacta de MFT en el stare-down.
-- [ ] Duración con segunda fuente.
+- [x] Confirmar composición exacta de MFT en el stare-down. → Tama
+      Tonga, Talla Tonga y Haku (Wrestling Inc.).
+- [x] Duración con segunda fuente. → 9:26 (resultados vía WebSearch)
+      [una fuente], consistente con el 9-10 min previo.
 
 ## Cross-links
 

@@ -6,8 +6,8 @@ protagonistas: ["Christian Cage", "Edge (Adam Copeland)", "Young Bucks", "FTR"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-09-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Allen, Texas"
+recinto: "Credit Union of Texas Event Center"
 ubicacion_en_show: "timestamp 00:36:27 (Young Bucks/FTR) → 00:40:35 (irrupción de Christian Cage y Cope)"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Acto superior en todos los aspectos, evidencian todo el oldschool; solo la participación de Cope & Cage se merece la WE, no Young Bucks ni FTR"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 00:36:27–00:40:35)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (POST Wrestling, PWTorch); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, christian-cage, cope, adam-copeland, young-bucks, ftr, tag-team-titles, promo-oldschool, wrestling-entertainment, polemica-tramposo-satisfecho]
 ---
 
@@ -90,9 +91,9 @@ trampa, pero está satisfecho con ganar así**.
 ## Pendientes
 
 - [ ] Línea textual completa, duración exacta.
-- [ ] Fecha y resultado del All In: London donde perdieron los
+- [x] Fecha y resultado del All In: London donde perdieron los
       títulos (ya registrado en
-      [`../matches/2026-08-30-young-bucks-vs-cage-cope-tag-titles-aew-all-in.md`](../matches/2026-08-30-young-bucks-vs-cage-cope-tag-titles-aew-all-in.md)).
+      [`../matches/2026-08-30-young-bucks-vs-cage-cope-tag-titles-aew-all-in.md`](../matches/2026-08-30-young-bucks-vs-cage-cope-tag-titles-aew-all-in.md)). → 30/8/2026: los Young Bucks pierden el title match; Christian Cage y Copeland retienen los AEW World Tag Team Titles (POST Wrestling; ficha enlazada).
 
 ## Cross-links
 

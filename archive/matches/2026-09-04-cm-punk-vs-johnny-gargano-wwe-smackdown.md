@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "CM Punk vs Johnny Gargano estuvo cool, le pusieron buenos stakes y una lucha interesante, una construcción apretada con mucha psicología, tratando de mantenerlo realista y no \"solo para sikos\", hubiera preferido a Punk hacer algo más duro contra Gunther o Balor, pero involucrar a Sami y los celos de Gunther por esta lucha para Gargano, me parece que sigue siendo buen booking, incluso se ponen stiff en la lucha, fue un gran show, se mercen las 3 clases con la corona +; y muy inteligente todo esto para hacer más interesantes las cosas para Sami vs Punk, es buena idea, faltaba esta actitud, Owens fue rápidamente desplazado, Sami tiene un mejor acto de resentimiento y tambien conecta con ROH, estuvo fino Sami en este episodio"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — 2026 09 04 WWE SmackDown)"
   - "Sub-agente research-wwe-smackdown-040926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wrestling Inc., POST Wrestling, CBS Sports, Yahoo Sports); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, cleveland, cm-punk, johnny-gargano, undisputed-wwe-championship, sami-zayn, candice-lerae, kevin-owens, gunther, finn-balor, roh, main-event, instant-classic-crown-plus, perfect-wrestling, fighting-spirit, wrestling-entertainment-plus]
 ---
 # CM Punk vs Johnny Gargano — Undisputed WWE Championship (2026 09 04 WWE SmackDown)
@@ -79,8 +80,10 @@ tags: [wwe-smackdown-2026, cleveland, cm-punk, johnny-gargano, undisputed-wwe-ch
 
 ## Pendientes
 
-- [ ] Duración exacta con segunda fuente.
-- [ ] Ficha de Johnny Gargano — primer registro individual, abierta en esta sesión.
+- [x] Segunda fuente para el aproximado → "just over 13 minutes"
+      (resultados vía WebSearch), consistente con ~13:00.
+- [ ] Duración exacta al segundo — ninguna fuente la reporta.
+- [x] Ficha de Johnny Gargano — primer registro individual, abierta en esta sesión. → existe `archive/people/johnny-gargano.md`.
 
 ## Cross-links
 

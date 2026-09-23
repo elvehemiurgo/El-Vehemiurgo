@@ -92,8 +92,8 @@ limpio. **Zayn retiene.**
 
 - [ ] Duración exacta — la cifra de ~16:00 no está verificada contra
       cita textual de un recap con timestamps.
-- [x] Nombre del referee → **Ryan Tran** [Secundaria: Athlon Sports / Yahoo Sports, "WWE Championship Match Ends in Awkward Botch"; ITR Wrestling; eWrestlingNews — describen a Tran levantando la mano y pidiendo la campana; Corey Graves lo nota en comentario] — research 2026-09-23. Texto original del pendiente: sin
-      confirmación primaria.
+- [x] Nombre del referee → **Ryan Tran** [Secundaria: Athlon Sports / Yahoo Sports, "WWE Championship Match Ends in Awkward Botch"; ITR Wrestling; eWrestlingNews — describen a Tran levantando la mano y pidiendo la campana; Corey Graves lo nota en comentario] — research 2026-09-23. Sin confirmación primaria (WWE.com no lo nombra en
+      los snippets), pero ya no depende solo de terciarias.
 
 ## Cross-links
 

@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy cool, buen setup y el booking está genial, muy buen cuidado; configuración premium para continuar el booking de Darby, ahora con Steven Borden como nuevo proyecto"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 00:56:38)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (Wrestling Inc.); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wrestling Inc., Fightful, Bleacher Report); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, steven-borden, josh-alexander, trent-beretta, rocky-romero, darby-allin, mark-davis, long-term-booking, wrestling-entertainment]
 ---
 
@@ -78,8 +79,7 @@ una conexión causal que la fuente no da.
 
 ## Pendientes
 
-- [ ] Secuencia exacta: ¿Alexander ataca a Darby, o entra del lado de
-      Borden? El research no lo resolvió del todo.
+- [x] Secuencia exacta → Beretta y Romero atacan a Darby; Borden hace el save y encara a Davis; Josh Alexander regresa y ataca a Borden por la espalda, luego le aplica el ankle lock a Darby — entra del lado de la Don Callis Family (Wrestling Inc.; Fightful; Bleacher Report)
 - [ ] Línea textual, duración exacta.
 
 ## Cross-links

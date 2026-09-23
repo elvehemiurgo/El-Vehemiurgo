@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "el show abre con Yatchy vs Corbin, el booking se me hizo aburrido y Corbin me aburre hasta dormir, pero el setup y todo indicaba que prepararon full enterteinment y queria ver si hay alguna clase de payoff a todo este àngulo que solo le quitò momentum a Trick; agradezco que esta primera parte de la lucha tuviera un limite de tiempo de 5 minutos, dentro de todo fueron secuencias entretenidas y se dejan ver, y tambien fue un acierto guardarse la entrada de Trick, les quedò una lucha cool, se merecen una WE class; aunque no sè porque tantas molestias para proteger a Corbin, realmente podian darle este rol y gimmick de la moto a cualquiera, al menos en kayfabe no ofrece nada revolucionario, su booking es màs producto de su relaciòn con la empresa y lo safe que es para el mundo corporativo, no veo el appeal, espero que el booking de Trick mejore porque esta temporada estuvo aburrida"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — WWE Sunday Night's Main Event, 6/9/2026)"
   - "Sub-agente research-wwe-snme-060926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (POST Wrestling, Fightful, PWTorch, OutKick); WebFetch bloqueado por egress"
 tags: [wwe-snme-2026, atlanta, lil-yachty, baron-corbin, trick-williams, wwe-united-states-championship, moto-gimmick, reserva-de-booking, wrestling-entertainment]
 ---
 # Lil Yachty vs Baron Corbin → Trick Williams gana el US Title (2026 09 06 WWE SNME)
@@ -87,7 +88,10 @@ tags: [wwe-snme-2026, atlanta, lil-yachty, baron-corbin, trick-williams, wwe-uni
 
 ## Pendientes
 
-- [ ] Duración exacta de cada tramo con segunda fuente.
+- [x] Duración de cada tramo con segunda fuente. → 5:00 del challenge
+      (Yachty sobrevive los cinco minutos: OutKick, Fightful) + 11:14 del
+      título (resultados vía WebSearch; segundo reporte: "approximately
+      11 minutes").
 
 ## Cross-links
 

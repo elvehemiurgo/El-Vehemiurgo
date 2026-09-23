@@ -9,7 +9,7 @@ ciudad: "Springfield, Massachusetts"
 recinto: "MassMutual Center"
 tipo_match: "six-man tag"
 estipulacion: "standard — revancha de la lucha titular de Rebel Heart (9/9)"
-duracion: "[no confirmado]"
+duracion: "9:52 [una fuente]"
 finish: "Roderick Strong conecta End of Heartache sobre Jay Lethal — pinfall"
 ganador: "The Conglomeration"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, buen booking para Lethal y el Swirl, la verdad ponen buenas luchas, fue wrestling además con Roderick Strong en acción, top tier wrestling"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 12/9/2026, timestamp 01:20:44)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (resumen de resultados sin medio identificado); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, the-lethal-twist, conglomeration, jay-lethal, blake-christian, lee-johnson, roderick-strong, orange-cassidy, kyle-oreilly, instant-classic-crown-plus, andy-williams-tribute-show]
 ---
 
@@ -66,7 +67,8 @@ estuvieron en comentarios.
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
+- [x] Duración → 9:52 [una fuente] (snippet de resultados de WebSearch, medio no identificado — confirmar)
+- [ ] Referee.
 
 ## Cross-links
 

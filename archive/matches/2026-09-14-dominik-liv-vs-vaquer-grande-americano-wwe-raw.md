@@ -10,7 +10,7 @@ recinto: "Arena CDMX"
 tipo_match: "mixed tag team"
 estipulacion: "standard"
 duracion: "~12:00 [no confirmado — reportes entre 11+ y 13 min]"
-finish: "Termina por descalificación cuando Roxanne Perez y Raquel Rodriguez atacan a Stephanie Vaquer. Post-match, The Judgment Day continúa la golpiza: moonsault de JD McDonagh sobre El Grande Americano, Oblivion de Liv Morgan sobre Vaquer, y Frog Splash de Dominik sobre su propio padre, Rey Mysterio, sostenido en el ring por la facción"
+finish: "Termina por descalificación cuando JD McDonagh y Raquel Rodriguez atacan a Stephanie Vaquer. Post-match, The Judgment Day continúa la golpiza: moonsault de JD McDonagh sobre El Grande Americano, Oblivion de Liv Morgan sobre Vaquer, y Frog Splash de Dominik sobre su propio padre, Rey Mysterio, sostenido en el ring por la facción"
 ganador: "Stephanie Vaquer & El Grande Americano — por descalificación"
 referee: "[verif]"
 encuentros_previos: 0
@@ -36,8 +36,14 @@ tags: [wwe-raw-2026, stephanie-vaquer, el-grande-americano, liv-morgan, dominik-
 ## Resumen
 
 Timestamp **00:20:06**. **Ganan Vaquer y El Grande Americano por
-descalificación**, cuando **Roxanne Perez y Raquel Rodriguez atacan a
+descalificación**, cuando **JD McDonagh y Raquel Rodriguez atacan a
 Vaquer**.
+
+*Corrección 2026-09-23*: la ficha decía "Roxanne Perez y Raquel
+Rodriguez". WWE.com, Wrestling Inc. y Last Word on Pro Wrestling
+ubican a **JD McDonagh** en el ataque que causa la descalificación.
+El dictado no nombraba a los atacantes, así que no hay conflicto con
+el verbatim.
 
 **El post-match es donde cobra el segmento**: The Judgment Day sigue la
 golpiza — **moonsault de JD McDonagh** sobre Americano, **Oblivion de

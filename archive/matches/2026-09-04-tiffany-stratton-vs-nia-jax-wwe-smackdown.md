@@ -9,7 +9,7 @@ ciudad: "Cleveland, Ohio"
 recinto: "Rocket Arena"
 tipo_match: "singles"
 estipulacion: "Sin título; match improvisado por Nick Aldis"
-duracion: "[verif]"
+duracion: "2:42 [una fuente]"
 finish: "Annihilator de Jax, tras distracción de Lash Legend (impide el Prettiest Moonsault Ever)"
 ganador: "Nia Jax"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Tiffany vs Nia empezó genial, el setup, los stakes, buena motivación para Tiffany para ponerse más stiff cada semana, si es un progreso palpable, y le ha ayudado a poner mejores luchas, esta escena está buenisima tambien mucho talento y ganas de ponerse oldschool, se merecen las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — 2026 09 04 WWE SmackDown)"
   - "Sub-agente research-wwe-smackdown-040926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (TJR Wrestling, PWMania, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, cleveland, tiffany-stratton, nia-jax, lash-legend, chelsea-green, progreso-in-ring, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Tiffany Stratton vs Nia Jax (2026 09 04 WWE SmackDown)
@@ -57,7 +58,8 @@ consistente con la doctrina (clase ≠ resultado, ≠ booking).
 
 ## Pendientes
 
-- [ ] Duración.
+- [x] Duración. → 2:42 (resultados vía WebSearch; finish con
+      distracción de Lash Legend y Annihilator) [una fuente].
 
 ## Cross-links
 

@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Genial, le está metiendo al inglés, ya superó a Vaquer y Catalina como entertainer y es genial in ring; no necesita ninguna madrina como Britt Baker, pero está bien si es para apoyar su booking; como doble campeona se ve increíble"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 01:25:08)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (Fightful, Wrestling Inc.); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (POST Wrestling, PWTorch, 411mania); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, persephone, britt-baker, tbs-championship, cmll-world-womens-championship, vertvixen, wrestling-entertainment, doble-campeona]
 ---
 
@@ -83,7 +84,7 @@ All In: London (30/8/2026), no un campeonato. La lectura de fondo
 ## Pendientes
 
 - [ ] Línea textual completa, duración exacta.
-- [ ] Fecha de la defensa vs VertVixen en Collision.
+- [x] Fecha de la defensa vs VertVixen en Collision → AEW Collision 5/9/2026 (Allen, Texas); Persephone retiene el TBS Championship (POST Wrestling; PWTorch; 411mania)
 
 ## Cross-links
 

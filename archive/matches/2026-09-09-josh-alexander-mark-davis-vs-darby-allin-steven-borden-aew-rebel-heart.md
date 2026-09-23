@@ -9,7 +9,7 @@ ciudad: "Athens, Georgia"
 recinto: "Akins Ford Arena"
 tipo_match: "tag team"
 estipulacion: "standard — debut in-ring televisado de Steven Borden"
-duracion: "[no confirmado]"
+duracion: "11:51"
 finish: "Coffin Drop de Darby Allin + Scorpion Death Drop de Steven Borden sobre Josh Alexander — pinfall de Borden"
 ganador: "Darby Allin & Steven Borden"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "La entrada de Borden con los cuervos y Darby les quedó genial, es una presentación y rivales premium para este acto; todavía está verde, se expuso un poco al principio, deben cuidarlo más todavía; los heels tuvieron mucho espacio para hacer lo suyo, se vieron muy cool; hicieron bien en darle un hot tag cuidado a Steven para mostrar"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Rebel Heart, 9/9/2026, timestamp 01:20:30)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (Cageside Seats, allelitewrestling.com); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (POST Wrestling, 411mania); WebFetch bloqueado por egress"
 tags: [aew-rebel-heart, josh-alexander, mark-davis, darby-allin, steven-borden, don-callis-family, instant-classic-crown, debut-in-ring, long-term-booking]
 ---
 
@@ -71,7 +72,8 @@ Borden** sobre Alexander, pin de Borden.
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
+- [x] Duración → 11:51 (POST Wrestling; Thomas Hall, 411mania)
+- [ ] Referee.
 
 ## Cross-links
 

@@ -9,7 +9,7 @@ ciudad: "Allen, Texas"
 recinto: "Credit Union of Texas Event Center"
 tipo_match: "singles — AEW TNT Championship"
 estipulacion: "open challenge — primera defensa desde que Allin recuperó el título (4ta vez) en All In: London"
-duracion: "[no confirmado]"
+duracion: "9:23"
 finish: "Doble Coffin Drop de Darby Allin — pinfall"
 ganador: "Darby Allin retiene el AEW TNT Championship"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El clásico moderno, brutal, muy oldschool, grudgematch buenísima con Don Callis en comentarios, esto sí es wrestling; se merecen las 3 clases con la corona +"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 00:45:26)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (Wrestling Inc., AllEliteWrestling.com, PWTorch/Keller); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (KB's Wrestling Reviews/411mania, PWTorch); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, darby-allin, mark-davis, don-callis-family, tnt-championship, instant-classic-crown-plus, oldschool, grudge-match]
 ---
 
@@ -72,7 +73,7 @@ pinfall.** Don Callis en comentarios durante todo el match.
 
 ## Pendientes
 
-- [ ] Duración exacta — no reportada por prensa consultada.
+- [x] Duración exacta → 9:23 (Thomas Hall — KB's Wrestling Reviews / 411mania; PWTorch/Keller lo redondea a 10:00)
 - [ ] Referee.
 
 ## Cross-links

@@ -6,8 +6,8 @@ protagonistas: ["Will Ospreay", "Ricochet"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-09-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Allen, Texas"
+recinto: "Credit Union of Texas Event Center"
 ubicacion_en_show: "apertura del show (timestamp 00:11:33)"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lo hace bien, muy cool todo el acto, y el booking desplaza a Hangman por fin"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 00:11:33)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (POST Wrestling, PWTorch, Slam Wrestling); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, will-ospreay, ricochet, aew-world-championship, top-face, wrestling-entertainment, hangman-page-desplazado]
 ---
 
@@ -86,7 +87,8 @@ previamente (ver nota de continuidad en
 
 ## Pendientes
 
-- [ ] Línea textual, duración, ciudad/recinto.
+- [x] Ciudad/recinto → Allen, Texas — Credit Union of Texas Event Center (PWTorch; POST Wrestling; Slam Wrestling)
+- [ ] Línea textual, duración.
 
 ## Cross-links
 

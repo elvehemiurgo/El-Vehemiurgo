@@ -72,7 +72,9 @@ Cierra planteando el rematch: no volverá a mostrar piedad.
 
 - [ ] Línea textual completa, duración exacta.
 - [x] Fecha y resultado exacto de Sunday Night's Main Event (Cody vs
-      Orton) — fuera del alcance directo de este registro.
+      Orton) → **6/9/2026**, State Farm Arena, Atlanta: **Orton gana por
+      pinfall** tras low blow y RKO [Primaria: WWE.com página del match;
+      Secundaria: F4W/WON; Yahoo Sports; OutKick] — research 2026-09-23.
 
 ## Cross-links
 

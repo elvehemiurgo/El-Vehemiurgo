@@ -9,8 +9,8 @@ ciudad: "Allen, Texas"
 recinto: "Credit Union of Texas Event Center"
 tipo_match: "singles — ROH World Women's Championship Proving Ground Match"
 estipulacion: "ROH World Women's Championship — Proving Ground (si Dawn no gana, no recibe derecho a futura oportunidad titular)"
-duracion: "[no confirmado]"
-finish: "[no confirmado] — pinfall de Athena"
+duracion: "5:00 [una fuente]"
+finish: "O-Face de Athena — pinfall"
 ganador: "Athena retiene el ROH World Women's Championship"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue genial, un throwback, hace tiempo no veía una lucha así de Isla Dawn; se pusieron stiff, muy oldschool"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 5/9/2026, timestamp 01:24:04)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (Slam Wrestling); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (PWTorch, 411mania); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, athena, isla-dawn, roh-womens-world-championship, proving-ground, instant-classic-crown-plus, throwback, oldschool]
 ---
 
@@ -64,7 +65,9 @@ Championship ante Isla Dawn en un Proving Ground Match.
 
 ## Pendientes
 
-- [ ] Duración exacta, finish exacto, referee.
+- [x] Duración → 5:00 [una fuente] (Thomas Hall, 411mania)
+- [x] Finish exacto → O-Face de Athena, pinfall (PWTorch; 411mania)
+- [ ] Referee.
 
 ## Cross-links
 
