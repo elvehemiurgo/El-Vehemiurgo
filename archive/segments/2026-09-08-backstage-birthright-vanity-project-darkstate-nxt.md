@@ -6,7 +6,7 @@ protagonistas: ["Birthright", "The Vanity Project", "DarkState", "William Regal"
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-09-08
-ciudad: "[verif]"
+ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 ubicacion_en_show: "mid-show"
 duracion: "[verif]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Segmento muy cool, colisión seria, gimmicks muy cool, hasta Darkstate se vio competente al final; sin clase declarada"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s01 (visión directa — WWE NXT, 8/9/2026, timestamp 01:13:01)"
   - "Sub-agente research-wwe-nxt-080926 (research 2026-09-12) — WebSearch (tpww.net); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (SEScoops, resultados NXT 9/8); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, birthright, vanity-project, darkstate, creed-brothers, sean-legacy, dorian-van-dux, william-regal, fit-finlay, nxt-tag-team-championship, sin-clase-declarada]
 ---
 
@@ -80,9 +81,11 @@ lugar — lectura de tono ("competente"), no de resultado.
 
 ## Pendientes
 
-- [ ] Confirmar si "los faces que subieron de Evolve" son en efecto
-      Sean Legacy y Dorian Van Dux — no hay fichas de people para
-      ninguno de los dos en el archivo todavía.
+- [x] Confirmar si "los faces que subieron de Evolve" son en efecto
+      Sean Legacy y Dorian Van Dux. → Sí: los resultados del 8/9 listan
+      a Sean Legacy y Dorian Van Dux entrando a reclamar la oportunidad
+      titular (resultados vía WebSearch). Nota: ya existe
+      `archive/people/dorian-van-dux.md`; Sean Legacy sigue sin ficha.
 - [ ] Resultado de la disputa: si se anunció match, no salió en esta
       escena.
 

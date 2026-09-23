@@ -6,7 +6,7 @@ protagonistas: ["Cruz Montana (Mike Santana)", "EK Prosper", "Keanu Carver", "Ro
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-09-08
-ciudad: "[verif]"
+ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 ubicacion_en_show: "pre-main event"
 duracion: "[verif]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Cool, faces con buena proyección que se dejan ver en tv; EK con progreso sorprendente en poco tiempo"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s01 (visión directa — WWE NXT, 8/9/2026, timestamp 01:02:15)"
   - "Sub-agente research-wwe-nxt-080926 (research 2026-09-12) — WebSearch (Fightful, RingsideNews); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (SEScoops, Fightful preview); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, cruz-montana, mike-santana, ek-prosper, keanu-carver, robert-stone, main-event-setup, friccion-interna]
 ---
 

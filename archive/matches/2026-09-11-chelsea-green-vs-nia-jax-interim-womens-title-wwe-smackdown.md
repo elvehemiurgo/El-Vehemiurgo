@@ -9,7 +9,7 @@ ciudad: "Ciudad de México"
 recinto: "Arena Ciudad de México"
 tipo_match: "singles — Interim WWE Women's Championship"
 estipulacion: "Interim WWE Women's Championship"
-duracion: "[no confirmado]"
+duracion: "6:16 [una fuente; 411Mania: 'six minute-plus']"
 finish: "Jax la tiene acorralada; Green usa su máscara protectora para un cabezazo y busca su finisher -- resbala/ejecuta con un botch visible en el movimiento, pero conecta igual para la cuenta de tres (nombre del finisher inconsistente entre fuentes: 'Unprettier'/'UnprettiHER' o 'Killswitch')"
 ganador: "Chelsea Green retiene el Interim WWE Women's Championship"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Chelsea como babyface es genial, con los colores de México generó reacciones gigantes; se merecen las 3 clases con la corona +; solo el finisher que pudieron improvisar algo mejor después del botch, pero buen booking"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s02 (visión directa — WWE SmackDown, 11/9/2026, timestamp 00:37:15)"
   - "Sub-agente research-wwe-smackdown-110926 (research 2026-09-12) — WebSearch (ITR Wrestling, Wrestlezone, Wrestling Inc., Sportskeeda, WWE.com); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (411Mania, Wrestling Inc., Wrestlezone, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, chelsea-green, nia-jax, interim-womens-championship, ciudad-de-mexico, mascara-protectora, botch, instant-classic-crown-plus, babyface-turn]
 ---
 
@@ -96,6 +97,10 @@ conecta igual para el pinfall**.
   "le sacó el interim" esa noche; **WWE.com sigue etiquetando el
   match como Interim** — se mantiene "Interim" por ser la fuente
   primaria, y el cambio de estatus queda `[no confirmado]`.
+  *(Research 2026-09-23: segunda fuente — Wrestling Inc. titula
+  "First Defense Of WWE Women's Title" y Wrestlezone "Retains WWE
+  Women's Title"; ambos tratan el título como pleno tras el match. El
+  anuncio previo de WWE.com sigue diciendo Interim.)*
 - **Asistencia de Tiffany Stratton en el tramo final** (salvando a
   Green de un golpe de Lash Legend, con un "Unprettier desde la
   tercera cuerda" como finish alternativo): reportado por una sola
@@ -104,9 +109,12 @@ conecta igual para el pinfall**.
 
 ## Pendientes
 
-- [ ] Duración exacta — sin fuente que la reporte.
-- [ ] Resolver el estatus del título (interim vs indiscutido) con una
-      segunda fuente.
+- [x] Duración exacta. → 6:16 (resultados vía WebSearch) [una fuente],
+      consistente con el "six minute-plus bout" de 411Mania.
+- [x] Resolver el estatus del título (interim vs indiscutido) con una
+      segunda fuente. → Se anuncia Interim (WWE.com, página del match);
+      tras la victoria la prensa lo trata como WWE Women's Title pleno
+      (Wrestling Inc., Wrestlezone), en línea con ITR Wrestling.
 
 ## Cross-links
 

@@ -5,11 +5,11 @@ participantes: ["Jackson Drake", "Tavion Heights"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-09-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles — NXT North American Championship"
 estipulacion: "NXT North American Championship"
-duracion: "[no confirmado] — dictado la describe como 'lucha larga'"
+duracion: "11:40 [una fuente] — dictado la describe como 'lucha larga'"
 finish: "Drake conecta un knee strike contundente y remata con un 450 Splash — pinfall"
 ganador: "Jackson Drake retiene el NXT North American Championship"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merecen las 3 clases; Drake creciendo lento como entertainer pero muy explosivo in-ring, la psicología de Drake y The Vanity Project le enseña buenas lecciones"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s01 (visión directa — WWE NXT, 8/9/2026, timestamp 00:46:46)"
   - "Sub-agente research-wwe-nxt-080926 (research 2026-09-12) — WebSearch (Wrestling Inc., Wrestlezone, WrestlingNewsSource); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (SEScoops, Fightful, Wrestling Inc., WWE.com, PWTorch); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, jackson-drake, tavion-heights, vanity-project, instant-classic-crown, prospecto-en-desarrollo, nxt-north-american-championship, myles-borne]
 ---
 
@@ -81,10 +82,12 @@ backstage de Birthright de esa misma noche.
 
 ## Pendientes
 
-- [ ] Duración exacta — sin fuente que la reporte, más allá de "lucha
-      larga".
-- [ ] Confirmar si el match anuncia una storyline continuada de
-      Heights por el título, o fue defensa puntual.
+- [x] Duración exacta — sin fuente que la reporte, más allá de "lucha
+      larga". → 11:40 (resultados vía WebSearch) [una fuente].
+- [x] Confirmar si el match anuncia una storyline continuada de
+      Heights por el título, o fue defensa puntual. → Defensa puntual:
+      el post-match gira a Myles Borne (aparece entre el público), y el
+      15/9 Borne traiciona y ataca a Heights (resultados vía WebSearch).
 
 ## Cross-links
 

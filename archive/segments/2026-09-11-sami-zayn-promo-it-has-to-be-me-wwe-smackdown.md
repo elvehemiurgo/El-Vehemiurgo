@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Promo genial, armó un caso muy cool en 3 semanas, sobrepasando por completo a Owens y a la altura de CM Punk 2026; buenos stakes, top tier wrestling"
 clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s02 (visión directa — WWE SmackDown, 11/9/2026, timestamp 00:27:37)"
   - "Sub-agente research-wwe-smackdown-110926 (research 2026-09-12) — WebSearch (PWTorch/Keller, POST Wrestling, Cageside Seats); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (WWE.com, KB's Wrestling Reviews, Cageside Seats (snippets)); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, sami-zayn, johnny-gargano, candice-lerae, cm-punk, kevin-owens, ciudad-de-mexico, dream-match, wrestling-entertainment-plus]
 ---
 
@@ -99,8 +100,12 @@ editorial.
 
 ## Pendientes
 
-- [ ] Línea textual completa de Gargano y Candice LeRae en el
-      segmento.
+- [x] Línea de Gargano (paráfrasis reportada) → pregunta si, de ganar
+      Zayn, él recibe la primera oportunidad titular, "just like last
+      week"; Zayn responde "tonight's the night" (resultados vía
+      WebSearch) [una fuente].
+- [ ] Línea textual completa de Gargano y de Candice LeRae — sin
+      fuente para LeRae.
 - [ ] Duración exacta.
 
 ## Cross-links

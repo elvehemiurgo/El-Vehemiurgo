@@ -6,11 +6,11 @@ protagonistas: ["Wren Sinclair", "Kelani Jordan", "Victoria D'Errico", "Robert S
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-09-08
-ciudad: "[verif]"
+ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 ubicacion_en_show: "post-match, tras la apertura"
 duracion: "[no confirmado]"
-linea_textual: "[verif]"
+linea_textual: "[paráfrasis reportada] Sinclair: lo hizo porque Jordan lesionó a Kendal Grey y la llamó 'sidekick', no le dejó opción; ante la suspensión, acusa que la castigan justo cuando le creció la columna (Ringside News)"
 gimmick_momento: "la vengadora golpeando por accidente a la autoridad que debía detenerla"
 storyline: "Wren Sinclair venga el ataque de Kelani Jordan sobre Kendal Grey (a quien llamó 'sidekick'), interrumpiendo el festejo del título con un kendo stick. Golpea sin querer a la árbitra Victoria D'Errico al forcejear; Robert Stone la suspende indefinidamente después del show por agredir a una oficial."
 attendance_anunciada: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 0
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Sub-agente research-wwe-nxt-080926 (research 2026-09-12) — WebSearch (Cageside Seats, Fightful, SEScoops, Wrestling Attitude); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Ringside News, Wrestlezone, SEScoops); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, wren-sinclair, kelani-jordan, kendal-grey, robert-stone, victoria-derrico, suspension, kendo-stick]
 ---
 
@@ -69,10 +70,16 @@ indefinidamente** por agredir a una oficial.
 
 ## Pendientes
 
-- [ ] Línea textual, duración exacta, ciudad/recinto — sin fuente que
-      los reporte.
-- [ ] Confirmar si la lesión de Kendal Grey a manos de Jordan está
-      registrada en otra ficha del archivo.
+- [x] Ciudad/recinto → Orlando, Florida — WWE Performance Center
+      (SEScoops). Línea → paráfrasis reportada en `linea_textual`
+      (Ringside News).
+- [ ] Línea textual verbatim y duración exacta — sin fuente.
+- [x] Confirmar si la lesión de Kendal Grey a manos de Jordan está
+      registrada en otra ficha del archivo. → Sí:
+      `2026-09-01-promo-kelani-jordan-campeona-jaida-parker-nxt` (storyline:
+      Jordan explota la lesión de oído/equilibrio en Heatwave; Grey fuera
+      por vértigo), `2026-08-30-promo-video-kendal-grey-vs-kelani-jordan-nxt-heatwave`
+      y `people/kendal-grey.md`.
 
 ## Cross-links
 

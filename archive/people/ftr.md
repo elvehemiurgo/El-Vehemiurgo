@@ -79,8 +79,8 @@ sí lleva la irrupción posterior de Christian Cage y Cope. Pieza:
   [Ficha](../segments/2026-09-16-ftr-dcf-stokely-callis-heels-backstage-aew-dynamite.md).
 - **8-man tag** (ICC+): Dax Harwood recibe el pin de Steven Borden.
   [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
-- All Out (26/9): triple threat por los títulos de parejas, **ladder
-  (Stokely/SI) o TLC (reto del 2/9) sin resolver**.
+- All Out (26/9): triple threat por los títulos de parejas, **TLC a tres
+  bandas** (research 2026-09-23; Stokely había hablado de ladder).
 
 ## Pendientes / huecos
 

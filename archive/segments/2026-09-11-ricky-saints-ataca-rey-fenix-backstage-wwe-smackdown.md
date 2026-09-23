@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, buen heel"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s03 (visión directa — WWE SmackDown, 11/9/2026, timestamp 01:05:55)"
   - "Sub-agente research-wwe-smackdown-110926-cont (research 2026-09-12) — WebSearch (PWMania, eWrestling, Wrestleview, WrestlingNewsSource, Cageside Seats); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (WWE.com, Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, ricky-saints, rey-fenix, ciudad-de-mexico, aaa-world-cruiserweight-championship, swerve, heel-turn]
 ---
 
@@ -66,7 +67,9 @@ bajar la guardia real de Fénix. **Dos beats, un solo plan.**
 ## Pendientes
 
 - [ ] Duración exacta, ciudad/recinto ya confirmados por el show.
-- [ ] Confirmar si anuncia una revancha formal.
+- [x] Confirmar si anuncia una revancha formal. → No a 18/9: sin match
+      anunciado; el 18/9 hay nuevo cruce backstage (Saints se burla,
+      Fénix lo golpea — WWE.com, SmackDown exclusive 18/9).
 
 ## Cross-links
 

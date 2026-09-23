@@ -79,6 +79,7 @@ Johnson y pump handle slam de Sabin para el pin.
 
 ## Pendientes
 
+- [ ] **Finish en disputa entre fuentes** (research 2026-09-23): Fightful reporta a Sabin haciendo el pin sobre Blake Christian; Thomas Hall (411mania) ubica el "Dirt Bomb" sobre Lee Johnson. La ficha registra pump handle slam sobre Lee Johnson. Verificar contra video.
 - [x] Duración exacta → 12:28 [una fuente] (Thomas Hall, 411mania)
 - [ ] Referee.
 

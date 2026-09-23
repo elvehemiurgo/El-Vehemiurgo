@@ -199,8 +199,8 @@ quedan explícitamente fuera de la clase. Pieza:
 - Cope, con Christian, Darby y Borden, vence a FTR, Fletcher y Knight;
   su spear sobre Dax precede al finish de Borden. [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
   Backstage previo (WE): [ficha](../segments/2026-09-16-darby-responde-a-christian-faces-backstage-aew-dynamite.md).
-- All Out (26/9): Cage & Cope (c) vs Young Bucks vs FTR, **ladder o
-  TLC sin resolver**.
+- All Out (26/9): Cage & Cope (c) vs Young Bucks vs FTR, **TLC a tres bandas**
+  (research 2026-09-23).
 
 ## Pendientes
 

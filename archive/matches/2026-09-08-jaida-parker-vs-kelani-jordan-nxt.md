@@ -5,23 +5,24 @@ participantes: ["Jaida Parker", "Kelani Jordan"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-09-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles — NXT Women's Championship"
 estipulacion: "NXT Women's Championship"
-duracion: "[no confirmado]"
+duracion: "9:53 [una fuente]"
 finish: "Jordan estrella a Parker en la esquina y remata con el One of a Kind Moonsault (split-legged) — pinfall"
 ganador: "Kelani Jordan retiene el NXT Women's Championship"
-referee: "[verif]"
+referee: "Victoria D'Errico [una fuente]"
 encuentros_previos: 2
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool; Parker todavía muy safe pero en progreso comparable a Tiffany Stratton; Kelani, la MVP de la lucha, ya merece rivales reales"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s01 (visión directa — WWE NXT, 8/9/2026, timestamp 00:05:04)"
   - "Sub-agente research-wwe-nxt-080926 (research 2026-09-12) — WebSearch (Cageside Seats, PWMania, Wrestling Inc.); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (SEScoops, Fightful, 411Mania, PWTorch, Cageside Seats); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, jaida-parker, kelani-jordan, tiffany-stratton, natalya, safe-wrestler, sin-clase-declarada, nxt-womens-championship, wren-sinclair-ataque]
 ---
 
@@ -83,7 +84,10 @@ kendo stick**, golpea sin querer a la árbitra Victoria D'Errico, y
 
 ## Pendientes
 
-- [ ] Duración, referee, ciudad/recinto — sin fuente que los reporte.
+- [x] Duración, referee, ciudad/recinto. → 9:53 [una fuente];
+      referee Victoria D'Errico [una fuente; consistente con la ficha del
+      ataque de Wren Sinclair]; Orlando, Florida — WWE Performance Center
+      (SEScoops, Fightful preview).
 - [ ] Identidad del "proyecto fracasado" con el que compara a Jaida
       Parker — no especificado en el dictado; no se infiere.
 

@@ -6,7 +6,7 @@ protagonistas: ["Charlie Dempsey", "Zilla Fatu", "William Regal", "Fit Finlay", 
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-09-08
-ciudad: "[verif]"
+ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 ubicacion_en_show: "mid-show (in-ring) + backstage"
 duracion: "[verif]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Segmento genial, Dempsey puede hablar, solo necesita ganar más luchas; buen setup para Dempsey y Lexis como main heels"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s01 (visión directa — WWE NXT, 8/9/2026, timestamp 00:35:59)"
   - "Sub-agente research-wwe-nxt-080926 (research 2026-09-12) — WebSearch (Wrestling Inc., F4Wonline, tpww.net, Wrestlezone); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wrestling Inc., Ringside News, SEScoops, Last Word on Sports); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, charlie-dempsey, birthright, zilla-fatu, william-regal, fit-finlay, lexis-king, main-heels, umaga]
 ---
 
@@ -93,8 +94,11 @@ match 1-contra-1** Dempsey vs Zilla; devino en ataque de facción.
 
 ## Pendientes
 
-- [ ] Duración, ciudad/recinto, línea textual completa del promo de
-      Dempsey.
+- [x] Ciudad/recinto. → Orlando, Florida — WWE Performance Center
+      (SEScoops). Línea reportada de Dempsey: BirthRight son los que
+      *"bleed professional wrestling"* (paráfrasis reportada, Ringside
+      News / resultados vía WebSearch).
+- [ ] Duración y línea textual completa del promo de Dempsey.
 - [ ] Confirmar si el ataque a Zilla anuncia un match futuro
       concreto.
 

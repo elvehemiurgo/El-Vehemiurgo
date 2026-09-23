@@ -5,11 +5,11 @@ participantes: ["Noam Dar", "Romeo Moreno", "Julius Creed", "Brutus Creed"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-09-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "tag team"
 estipulacion: "standard"
-duracion: "[no confirmado] — un snippet aislado citó 12:15, no replicado en otras fuentes; se descarta"
+duracion: "12:15 [una fuente — reaparece en dos búsquedas independientes del 2026-09-23, sin atribución firme]"
 finish: "Julius Creed clothesline a Romeo Moreno, lo levanta y remata con un double sit-out powerbomb — pinfall"
 ganador: "Creed Brothers (Julius & Brutus Creed)"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merecen las 3 clases con la corona +; los Creed más confiados y violentos tras su paso por México, Romeo como underdog muy bien vendido, Dar como mentor en tv"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s01 (visión directa — WWE NXT, 8/9/2026, timestamps 00:20:35 y 00:31:12)"
   - "Sub-agente research-wwe-nxt-080926 (research 2026-09-12) — WebSearch (PWMania, Fightful); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Fightful, Wrestling Inc., 411Mania, prowrestling.net); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, noam-dar, romeo-moreno, creed-brothers, julius-creed, brutus-creed, instant-classic-crown-plus, mentor-en-tv, underdog]
 ---
 
@@ -73,7 +74,10 @@ los Creed Brothers.**
 1. **"El tiempo en México"**: el Vehemiurgo atribuye la violencia
    nueva de los Creed a una gira o paso previo — **el research no
    pudo confirmar fecha ni promotora específica**; queda
-   `[no confirmado]`, no se afirma como dato.
+   `[no confirmado]`, no se afirma como dato. *(Research 2026-09-23:
+   la promotora sería **AAA** — los Creed venían de programación AAA
+   con Chad Gable / El Grande Americano antes de volver a NXT el 1/9,
+   según Fightful y Wrestling Inc. `[una fuente]`; fecha sin cerrar.)*
 2. **Romeo Moreno, underdog vendido sin romper la ilusión**: "sus
    partes verdes no desconectan el selling" — la crítica técnica
    coexiste con el elogio de conjunto, sin bajar la clase.
@@ -83,10 +87,13 @@ los Creed Brothers.**
 
 ## Pendientes
 
-- [ ] Duración exacta — sin fuente confiable (el "12:15" que circuló
-      en un snippet aislado no se replica en otras fuentes).
-- [ ] "El tiempo en México" de los Creed Brothers — sin fecha ni
-      promotora confirmada.
+- [x] Duración exacta. → 12:15, reaparece en dos búsquedas del
+      2026-09-23 (finish: double spinebuster, Brutus pinea a Moreno)
+      [una fuente — sin atribución firme a un outlet].
+- [x] Promotora de "el tiempo en México" → AAA (programación AAA junto
+      a Chad Gable / El Grande Americano; Fightful, Wrestling Inc.)
+      [una fuente].
+- [ ] Fecha exacta del paso por México.
 
 ## Cross-links
 

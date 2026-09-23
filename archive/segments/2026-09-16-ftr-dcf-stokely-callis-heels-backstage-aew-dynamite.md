@@ -51,8 +51,9 @@ reportada.)*
 
 **Nota sobre la estipulación de All Out**: Stokely y la cobertura
 (SI) hablan de un **ladder match** a tres bandas (Cage & Cope (c) vs
-Young Bucks vs FTR). El reto del 2/9 había sido **TLC**. **Queda sin
-resolver** hasta el show.
+Young Bucks vs FTR). El reto del 2/9 había sido **TLC**. **Resuelto
+(research 2026-09-23): es TLC a tres bandas** (Wrestling-Online,
+Ringside News).
 
 ## Lectura del Vehemiurgo
 

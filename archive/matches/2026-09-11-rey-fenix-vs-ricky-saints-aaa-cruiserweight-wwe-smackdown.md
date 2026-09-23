@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo genial, hace tiempo no le sacaban una lucha así a Ricky; Fénix es dios"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s02 (visión directa — WWE SmackDown, 11/9/2026, timestamp 00:14:36)"
   - "Sub-agente research-wwe-smackdown-110926 (research 2026-09-12) — WebSearch (Wrestlezone, Wrestling Inc., WWE.com); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (WWE.com, Wrestling Inc., Wrestlezone); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, rey-fenix, ricky-saints, aaa-world-cruiserweight-championship, ciudad-de-mexico, instant-classic-crown-plus, swerve-post-match]
 ---
 
@@ -77,7 +78,11 @@ segmento aparte, backstage, más tarde en el mismo show.**
 ## Pendientes
 
 - [ ] Duración exacta — sin fuente que la reporte.
-- [ ] Confirmar si el swerve post-match anuncia una revancha.
+- [x] Confirmar si el swerve post-match anuncia una revancha. → No hay
+      revancha formal anunciada a 18/9; la rivalidad sigue backstage:
+      el 18/9 Saints se burla de Fénix tras perder éste su clasificatorio
+      a Money in the Bank, y Fénix lo golpea (WWE.com, SmackDown
+      exclusive 18/9).
 
 ## Cross-links
 

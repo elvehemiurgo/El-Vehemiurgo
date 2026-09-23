@@ -9,7 +9,7 @@ ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "six-man tag team"
 estipulacion: "standard — clasificatorio a un triple threat por la #1 contendencia al NXT Championship"
-duracion: "[no confirmado]"
+duracion: "12:19 [una fuente]"
 finish: "Tony D'Angelo está por rematar a EK Prosper cuando Mason Rook hace un blind tag, entra, usa a D'Angelo como arma contra Prosper y remata él mismo — pinfall"
 ganador: "Saquon Shugars, Mason Rook & Tony D'Angelo"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merecen las 3 clases; Montana muy over cerrando entradas, encontrando su estilo main eventer; Waller en comentarios despertó al lockeroom con su checkup"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s01 (visión directa — WWE NXT, 8/9/2026, timestamp 01:16:17)"
   - "Sub-agente research-wwe-nxt-080926 (research 2026-09-12) — WebSearch (Cageside Seats, POST Wrestling, PWMania, SEScoops); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (WWE.com, Wrestlezone, Ringside News, prowrestling.net); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, saquon-shugars, mason-rook, tony-dangelo, ek-prosper, keanu-carver, cruz-montana, mike-santana, grayson-waller, main-event, instant-classic-crown, friccion-interna]
 ---
 
@@ -102,10 +103,12 @@ Prosper, en vez de dejar que D'Angelo cierre lo que empezó.
 
 ## Pendientes
 
-- [ ] Duración exacta — sin fuente que la reporte.
+- [x] Duración exacta. → 12:19 (resultados vía WebSearch) [una fuente].
 - [ ] Cita textual completa de Grayson Waller durante el match — no
       confirmada; no citar como verbatim sin volver al video.
-- [ ] Fecha y card del triple threat por la #1 contendencia.
+- [x] Fecha y card del triple threat por la #1 contendencia. → NXT
+      2026-09-15: Mason Rook vs Tony D'Angelo vs Saquon Shugars; gana
+      **Mason Rook** (WWE.com, resultados 15/9).
 
 ## Cross-links
 
