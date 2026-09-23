@@ -70,6 +70,7 @@ The Miz) de la lectura de presentación/gimmick, registrada aparte en
 
 ## Pendientes
 
+- [ ] **Finish en disputa** (research 2026-09-23): un snippet describe un reverse Stunner de Kyoki; la ficha registra un pin tras revertir el Stunner de Wilson. Verificar contra video.
 - [x] Confirmar composición exacta de MFT en el stare-down. → Tama
       Tonga, Talla Tonga y Haku (Wrestling Inc.).
 - [x] Duración con segunda fuente. → 9:26 (resultados vía WebSearch)
