@@ -9,7 +9,7 @@ ciudad: "San Antonio, Texas"
 recinto: "Frost Bank Center"
 tipo_match: "triple threat — Women's Money in the Bank Qualifying Match"
 estipulacion: "clasificatorio al Women's Money in the Bank Ladder Match (10/10/2026, Nueva Orleans)"
-duracion: "[no confirmado]"
+duracion: "14:00 [una fuente — Keller, PWTorch]"
 finish: "Iyo Sky conecta el Over The Moonsault sobre La Catalina; Roxanne Perez lo esquiva y remata con el Pop Rox sobre Sky para el pinfall"
 ganador: "Roxanne Perez — clasifica al Women's Money in the Bank Ladder Match"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Tremenda dream match, buenos stakes, el booking cross brands también brillante, buenos talentos, por fin la nueva guardia, más stiff, más recia; genial estos rivales para Iyo que hace tiempo no le dejan poner una lucha memorable; tuvo un pequeño tropiezo por falta de velocidad al principio, pero no quita para nada el wrestling, en todo momento mantuvieron el selling fuerte"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-22 s01 (visión directa — WWE Raw, 21/9/2026, timestamp 00:16:45)"
   - "Sub-agente research-wwe-raw-210926 (research 2026-09-22) — WebSearch (WWE.com, Wrestling Inc., SEScoops); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (PWTorch/Keller, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [wwe-raw-2026, iyo-sky, roxanne-perez, la-catalina, judgment-day, money-in-the-bank, instant-classic-crown-plus, cross-brand, dream-match]
 ---
 
@@ -79,7 +80,8 @@ Day** — dato ya registrado en el archivo desde marzo de 2026 (ver
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
+- [x] Duración → **14:00** [una fuente — Keller, PWTorch, vía snippet: "in 14:00"] — research 2026-09-23.
+- [ ] Referee.
 
 ## Cross-links
 

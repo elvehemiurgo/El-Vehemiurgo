@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Cortando promos como los grandes, es muy bueno; es un face muy genial"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-20
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-20 s01 (visión directa — WWE SmackDown, 18/9/2026, timestamp 00:58:18)"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (WWE.com, F4W/WON, Yahoo Sports, OutKick); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, cody-rhodes, entrevista, wrestling-entertainment, face]
 ---
 
@@ -70,7 +71,7 @@ Cierra planteando el rematch: no volverá a mostrar piedad.
 ## Pendientes
 
 - [ ] Línea textual completa, duración exacta.
-- [ ] Fecha y resultado exacto de Sunday Night's Main Event (Cody vs
+- [x] Fecha y resultado exacto de Sunday Night's Main Event (Cody vs
       Orton) — fuera del alcance directo de este registro.
 
 ## Cross-links

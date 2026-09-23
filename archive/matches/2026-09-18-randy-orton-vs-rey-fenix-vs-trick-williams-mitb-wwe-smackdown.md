@@ -9,7 +9,7 @@ ciudad: "Corpus Christi, Texas"
 recinto: "American Bank Center"
 tipo_match: "triple threat — Men's Money in the Bank Qualifying Match"
 estipulacion: "clasificatorio al Men's Money in the Bank Ladder Match"
-duracion: "[no confirmado]"
+duracion: "~11:00 [una fuente]"
 finish: "Fénix intenta un splash aéreo sobre Orton; Orton conecta un RKO out of nowhere en el aire sobre Fénix; Trick Williams remata con el Trick Shot sobre Orton — pinfall"
 ganador: "Trick Williams — clasifica al Men's Money in the Bank Ladder Match"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "La lucha está muy buena, quería ver el estilo de Fénix imponiéndose, su selling brillando con Orton alguien consagrado, y con Trick que tiene tanta exposición y proyección; me encantó la construcción de la lucha, Randy realmente puso a ambos talentos over sin tener que llegar a su límite; la creatividad estuvo genial y la ejecución fue perfecta, tuvieron la lucha perfecta"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-20
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-20 s01 (visión directa — WWE SmackDown, 18/9/2026, timestamp 00:17:06)"
   - "Sub-agente research-wwe-smackdown-180926 (research 2026-09-20) — WebSearch (Wrestling Inc., 411Mania, TJR); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wrestling Inc., Wrestlezone, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, randy-orton, rey-fenix, trick-williams, money-in-the-bank, instant-classic-crown-plus, no-full-entrance, aaa-cruiserweight-championship, perros-del-mal]
 ---
 
@@ -87,7 +88,8 @@ Cruiserweight Champion vigente** — crossover WWE/AAA sostenido.
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
+- [x] Duración → **~11 min** [una fuente — snippet WebSearch ("the match went 11 minutes"), sin atribución aislable] — research 2026-09-23.
+- [ ] Duración con segundos; referee.
 
 ## Cross-links
 

@@ -9,7 +9,7 @@ ciudad: "San Antonio, Texas"
 recinto: "Frost Bank Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "~12:00"
+duracion: "12:00 [una fuente — Keller, PWTorch]"
 finish: "Austin Theory (The Vision) tira a Evans del turnbuckle cuando iba camino al OG Cutter — descalificación"
 ganador: "Jevon Evans, por descalificación"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El clásico de NXT 2.0, ahora son el presente del wrestling en TV, poniendo su propio clásico instantáneo en Raw; muy denso, mucho trabajo de entertainment y el gimmick de cada uno, realmente proyectándose como main eventers a lo WWE; Breakker alejándose del molde de Lesnar con Heyman, acercándose a un Steiner oldschool pero más táctico"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-22 s01 (visión directa — WWE Raw, 21/9/2026, timestamp 00:44:43)"
   - "Sub-agente research-wwe-raw-210926 (research 2026-09-22) — WebSearch (411Mania); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (PWTorch/Keller, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [wwe-raw-2026, jevon-evans, bron-breakker, the-vision, austin-theory, nxt-2-0, instant-classic-crown-plus, descalificacion, paul-heyman]
 ---
 
@@ -80,7 +81,8 @@ OG Cutter — descalificación a favor de Evans.
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
+- [x] Duración → **12:00** [una fuente — Keller, PWTorch, vía snippet: "beat Bron Breakker by DQ in 12:00"] — research 2026-09-23.
+- [ ] Referee.
 
 ## Cross-links
 

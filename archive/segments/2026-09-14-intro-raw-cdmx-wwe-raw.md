@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo increíble, se merece la WE+"
 clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-16
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-16 s01 (visión directa — WWE Raw, 14/9/2026)"
   - "Sub-agente research-triplemania-xxxiv-d2-raw-140926 (research 2026-09-16) — WebSearch (WWE.com, Wrestleview, 411Mania); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wikipedia vía snippet); WebFetch bloqueado por egress"
 tags: [wwe-raw-2026, ciudad-de-mexico, arena-cdmx, intro, produccion, wrestling-entertainment-plus]
 ---
 
@@ -57,7 +58,9 @@ dirección de TV como parte del oficio.
 
 ## Pendientes
 
-- [ ] Contenido exacto del intro. Attendance del show: no reportada.
+- [ ] Contenido exacto del intro.
+- [x] Attendance → solo cifra combinada de los tres shows en Arena CDMX (SmackDown, Triplemanía 34, Raw): **49,017** [una fuente — Wikipedia vía snippet; sin aclarar pagada/anunciada] — research 2026-09-23.
+- [ ] Attendance específica de este Raw — no reportada.
 
 ## Cross-links
 

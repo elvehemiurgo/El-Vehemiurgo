@@ -9,7 +9,7 @@ ciudad: "Ciudad de México"
 recinto: "Arena CDMX"
 tipo_match: "mixed tag team"
 estipulacion: "standard"
-duracion: "[no confirmado]"
+duracion: "~12:00 [no confirmado — reportes entre 11+ y 13 min]"
 finish: "Termina por descalificación cuando Roxanne Perez y Raquel Rodriguez atacan a Stephanie Vaquer. Post-match, The Judgment Day continúa la golpiza: moonsault de JD McDonagh sobre El Grande Americano, Oblivion de Liv Morgan sobre Vaquer, y Frog Splash de Dominik sobre su propio padre, Rey Mysterio, sostenido en el ring por la facción"
 ganador: "Stephanie Vaquer & El Grande Americano — por descalificación"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue wrestling, estuvo genial y muy oldschool; sí fue todo un espectáculo, pero hubo tropiezos y secuencias con las cuerdas débiles al principio, muchas licencias; stiff y lo mantuvieron real, el ring positioning muy bien"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-16
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-16 s01 (visión directa — WWE Raw, 14/9/2026, timestamp 00:20:06)"
   - "Sub-agente research-triplemania-xxxiv-d2-raw-140926 (research 2026-09-16) — WebSearch (PWMania, Slam Wrestling, Wrestling Inc., Last Word on Pro Wrestling); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (TJR Wrestling, Wikipedia vía snippet, Wrestling Inc., Last Word on Pro Wrestling); WebFetch bloqueado por egress"
 tags: [wwe-raw-2026, stephanie-vaquer, el-grande-americano, liv-morgan, dominik-mysterio, judgment-day, roxanne-perez, raquel-rodriguez, jd-mcdonagh, rey-mysterio, ciudad-de-mexico, instant-classic-crown, mixed-tag]
 ---
 
@@ -79,7 +80,8 @@ Women's World Championship.**
 
 ## Pendientes
 
-- [ ] Duración — sin fuente.
+- [x] Duración aproximada → ~12 min; los reportes oscilan entre 11+ y ~13 min (Wikipedia vía snippet: "11+"; reseñas vía snippet: ~12 y ~13, entre ellas TJR Wrestling) — research 2026-09-23.
+- [ ] Duración exacta (con segundos) — sin cifra única.
 - [ ] Referee.
 
 ## Cross-links

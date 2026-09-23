@@ -5,11 +5,11 @@ participantes: ["Roxanne Perez", "Natalya", "Faby Apache", "La Hiedra"]
 empresa: "AAA"
 programa: "TripleMania XXXIV — Day 1"
 fecha: 2026-09-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Paradise (Las Vegas), Nevada"
+recinto: "MGM Grand Garden Arena"
 tipo_match: "fatal four-way — #1 contender al AAA Reina de Reinas Championship"
 estipulacion: "la ganadora avanza a WWE x AAA Worlds Collide (26/9/2026, Chicago)"
-duracion: "[no confirmado]"
+duracion: "~9:00 [una fuente]"
 finish: "Roxanne Perez empuja a La Hiedra contra Flammer (en el ringside), Flammer cae fuera del ring, y Perez cubre con su finisher (Pop Rocks) para ganar"
 ganador: "Roxanne Perez — avanza a WWE x AAA Worlds Collide"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, muy dura y con la psicología de las tóxicas; buena improvisación de Roxanne en los tropiezos; Faby estuvo brillante, muy stiff, la hizo lucir como estrella"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s03 (visión directa — AAA TripleMania XXXIV Day 1, 11/9/2026, timestamp 01:03:39)"
   - "Sub-agente research-aaa-triplemania-xxxiv-day1 (research 2026-09-12) — WebSearch (F4Wonline, SEScoops, Diva Dirt, Cageside Seats); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (postwrestling, wrestlinginc, ewrestling, f4wonline, 411mania, outkick); WebFetch bloqueado por egress"
 tags: [aaa-triplemania-xxxiv, roxanne-perez, natalya, faby-apache, la-hiedra, las-toxicas, worlds-collide, flammer, reina-de-reinas, instant-classic-crown-plus]
 ---
 
@@ -83,7 +84,9 @@ el ring, mostrando la fricción interna del grupo.
 
 ## Pendientes
 
-- [ ] Duración exacta, ciudad/recinto.
+- [x] Ciudad/recinto → MGM Grand Garden Arena, Paradise (Las Vegas), Nevada (POST Wrestling, Wrestling Inc., eWrestling).
+- [x] Duración aproximada → ~9 minutos [una fuente] (snippet de reporte de resultados).
+- [ ] Duración exacta al segundo — sin fuente.
 - [ ] Resultado de Flammer vs La Catalina por el Reina de Reinas —
       fuera del alcance de este registro.
 

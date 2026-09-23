@@ -5,8 +5,8 @@ participantes: ["La Parka", "Laredo Kid", "Mr. Iguana"]
 empresa: "AAA"
 programa: "TripleMania XXXIV — Day 1"
 fecha: 2026-09-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Paradise (Las Vegas), Nevada"
+recinto: "MGM Grand Garden Arena"
 tipo_match: "triple threat — AAA Latin American Championship"
 estipulacion: "AAA Latin American Championship"
 duracion: "12:58"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena, muy veloz, muy buenas secuencias, le metieron mucho al entertainment, estuvo perfecta; muy duros estos 3"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s03 (visión directa — AAA TripleMania XXXIV Day 1, 11/9/2026, timestamp 01:29:58)"
   - "Sub-agente research-aaa-triplemania-xxxiv-day1 (research 2026-09-12) — WebSearch (prowrestling.net/Vetter, 411Mania, PWMania); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (postwrestling, wrestlinginc, ewrestling, prowrestling.net, superluchas); WebFetch bloqueado por egress"
 tags: [aaa-triplemania-xxxiv, la-parka, laredo-kid, mr-iguana, aaa-latin-american-championship, instant-classic-crown-plus, amistad-tensa]
 ---
 
@@ -67,7 +68,8 @@ roce post-match.
 
 ## Pendientes
 
-- [ ] Ciudad/recinto, referee.
+- [x] Ciudad/recinto → MGM Grand Garden Arena, Paradise (Las Vegas), Nevada (POST Wrestling, Wrestling Inc., eWrestling).
+- [ ] Referee — ningún reporte lo nombra.
 
 ## Cross-links
 

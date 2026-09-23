@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Este ángulo de Chelsea está elevando a toda la división; ojalá Nicky Bella luchara tan bien como sus promos, me cuesta darle crédito; me pasa como con Becky Lynch: si tienen buenas promos, pero sus luchas son malísimas, por eso no puedo apreciarlas"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-20
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-20 s01 (visión directa — WWE SmackDown, 18/9/2026, timestamp 00:52:38)"
   - "Sub-agente research-wwe-smackdown-180926 (research 2026-09-20) — WebSearch (WWE.com, LatestLY, Bleacher Report); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Fightful, SEScoops, eWrestlingNews); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, chelsea-green, tiffany-stratton, nikki-bella, wwe-womens-championship, becky-lynch-comparacion, wrestling-entertainment, regreso-sorpresa]
 ---
 
@@ -84,7 +85,8 @@ I am an icon, I am Nikki Bella. And I'm coming after that title."*
 ## Pendientes
 
 - [ ] Línea textual completa, duración exacta.
-- [ ] Fecha/show del podcast donde Green mencionó a Bella.
+- [x] Show del podcast → ***Watch What Happens Live with Andy Cohen*** (Green: "trying so hard to have a hair versus hair match"; Bella respondió en X) [Secundaria: Fightful; SEScoops; eWrestlingNews] — research 2026-09-23.
+- [ ] Fecha exacta de esa emisión de *Watch What Happens Live*.
 
 ## Cross-links
 

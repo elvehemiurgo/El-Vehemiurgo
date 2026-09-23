@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "la parka como nuevo campeon celebrando y en una 3 contra 3, la parka el fiscal y inguanda vs los vipers con dinamico; buen showcase, buen inicio de reinado, esperando el regreso de vikingo apara una rivalidad clásica que sería con la parka, y ojaláse venga más protagonismo para los vipers y avismo negro la verdad, me gustaría ver más de ellos; esta lucha se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — AAA Worldwide, emitido 5/9/2026)"
   - "Sub-agente research-aaa-worldwide-050926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (blogofdoom, wrestlinginc, f4wonline, ringsidenews, prowrestling.net); WebFetch bloqueado por egress"
 tags: [aaa-worldwide-2026, aaa-latin-american-championship, la-parka, el-fiscal, mr-iguana, los-vipers, histeria, taurus, dinamico, hijo-del-vikingo, torreon, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # La Parka, El Fiscal & Mr. Iguana vs Los Vipers & Dinámico (AAA Worldwide, emitido 5/9/2026)
@@ -77,9 +78,13 @@ tags: [aaa-worldwide-2026, aaa-latin-american-championship, la-parka, el-fiscal,
 
 ## Pendientes
 
-- [ ] Confirmar si Abismo Negro tiene programación futura con Los
-      Vipers.
-- [ ] Seguimiento del regreso de Hijo del Vikingo (lesión de ACL).
+- [x] Abismo Negro con Los Vipers → en la Copa Bardahl de
+      Triplemanía 34 Día 2 (13/9) Histeria se sumó a Abismo Negro para
+      castigar a Mr. Iguana; Abismo fue eliminado por El Fiscal (6:50)
+      y lo eliminó de vuelta (7:28) [una fuente] (Scott's Blog of Doom).
+- [ ] Programación formal de Abismo Negro con Los Vipers — sin anuncio.
+- [x] Estado de Hijo del Vikingo → cirugía de ACL el 7/7; en septiembre dijo (WWE Ahora) que la recuperación va bien y que estará listo en unos siete meses, regreso proyectado ~abril 2027 (Wrestling Inc., F4W/WON, Ringside News).
+- [ ] Regreso efectivo — pendiente de que ocurra.
 
 ## Cross-links
 

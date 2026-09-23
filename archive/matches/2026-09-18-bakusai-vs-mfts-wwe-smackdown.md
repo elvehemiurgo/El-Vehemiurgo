@@ -9,7 +9,7 @@ ciudad: "Corpus Christi, Texas"
 recinto: "American Bank Center"
 tipo_match: "tag team"
 estipulacion: "no-title (MFTs son campeones vigentes de WWE Tag Team, no en juego)"
-duracion: "~7-8 [estimación de una fuente, no oficial]"
+duracion: "7:00 [una fuente — Keller, PWTorch]"
 finish: "Cuando Bakusai empieza a dominar, Haku golpea a Shinsuke Nakamura con su bastón — descalificación"
 ganador: "Bakusai — por descalificación"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Bakusai es lo mismo que hacían con Asuka y Kairi, están repitiendo el booking este de japoneses que siempre hacen, pero si pueden poner buenas luchas, solo que realmente no están capitalizando en la mitología de Haku, es un ángulo sin intención"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-09-20
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-20 s01 (visión directa — WWE SmackDown, 18/9/2026, timestamp 00:39:07)"
   - "Sub-agente research-wwe-smackdown-180926 (research 2026-09-20) — WebSearch (Fightful, Wrestling Inc., PWTorch); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (PWTorch/Keller, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, bakusai, shinsuke-nakamura, kyoki, mfts, tama-tonga, talla-tonga, haku, sin-clase-declarada, booking-repetido]
 ---
 
@@ -71,7 +72,7 @@ Talla castigan a Nakamura y Kyoki.
 
 ## Pendientes
 
-- [ ] Duración exacta (research da ~7-8 minutos, sin cifra oficial).
+- [x] Duración → **7:00** [una fuente — Keller, PWTorch, vía snippet: "won by DQ in 7:00"] — research 2026-09-23.
 - [ ] Referee.
 
 ## Cross-links

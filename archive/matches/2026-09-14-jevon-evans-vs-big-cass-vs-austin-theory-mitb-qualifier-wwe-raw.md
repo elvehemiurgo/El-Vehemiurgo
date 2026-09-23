@@ -9,7 +9,7 @@ ciudad: "Ciudad de México"
 recinto: "Arena CDMX"
 tipo_match: "triple threat — Money in the Bank Qualifying Match"
 estipulacion: "clasificatorio al Money in the Bank Ladder Match"
-duracion: "[no confirmado]"
+duracion: "9:45 [una fuente; variantes 10:00 y ~9 min]"
 finish: "Neckbreaker de Evans sobre Austin Theory, y OG Cutter (double-jump cutter) sobre Big Cass para la cuenta -- falló el primer intento del double-jump cutter y lo clavó en el segundo"
 ganador: "Je'Von Evans — clasifica al Money in the Bank Ladder Match"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Je'Von Evans es un face muy cool, movimientos muy cool, mucha calidad, psicología, buen mic, improvisa bien in-ring incluso cuando sus oponentes botchean, se mueve como veterano, tiene todo para brillar"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-16
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-16 s01 (visión directa — WWE Raw, 14/9/2026, timestamp 00:46:12)"
   - "Sub-agente research-triplemania-xxxiv-d2-raw-140926 (research 2026-09-16) — WebSearch (WWE.com, Ringside News, SEScoops, Cageside Seats); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Wrestling Inc., Wrestlezone, 411Mania, Wikipedia vía snippet); WebFetch bloqueado por egress"
 tags: [wwe-raw-2026, jevon-evans, austin-theory, big-cass, w-morrissey, maxxine-dupri, money-in-the-bank, ciudad-de-mexico, instant-classic-crown-plus, clasificatorio]
 ---
 
@@ -87,7 +88,7 @@ Cass**.
 
 ## Pendientes
 
-- [ ] Duración — sin fuente.
+- [x] Duración → **9:45** [una fuente — snippet WebSearch sobre cobertura Wrestling Inc./Wrestlezone; variantes: 10:00 en otro snippet, "9 minutes" en Wikipedia] — research 2026-09-23.
 - [ ] Ficha de people de **Austin Theory** — no existe; **no se abre**:
       sin take individual del Vehemiurgo en este dictado.
 

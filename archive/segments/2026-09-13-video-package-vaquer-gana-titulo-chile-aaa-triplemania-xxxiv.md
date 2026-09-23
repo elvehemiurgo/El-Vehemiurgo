@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Les quedó cool, se merece una WE"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-16
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-16 s01 (visión directa — AAA TripleMania XXXIV Day 2, 13/9/2026, timestamp 02:07:25)"
   - "Sub-agente research-triplemania-xxxiv-d2-raw-140926 (research 2026-09-16) — WebSearch (411Mania, POST Wrestling, Fightful, SI/Fannation, WrestleZone); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (postwrestling, puntoticket, movistararena.cl, latercera, outkick); WebFetch bloqueado por egress"
 tags: [aaa-triplemania-xxxiv, stephanie-vaquer, liv-morgan, becky-lynch, womens-world-championship, santiago-de-chile, santiago-screwjob, cambio-de-titulo-en-live-show, video-package]
 ---
 
@@ -49,8 +50,9 @@ Timestamp **02:07:25**. Recapitula el **WWE Live in Chile del sábado
 - **La prensa bautizó el ángulo como el "Santiago Screwjob".** Liv
   Morgan lo calificó públicamente como *"la mayor tragedia en la
   historia del wrestling"*.
-- **Recinto exacto**: `[no confirmado]` — los reportes dicen "WWE Live
-  in Chile" / "live event in Santiago" sin nombrar el edificio.
+- **Recinto exacto**: **Movistar Arena, Santiago** — sede anunciada y
+  vendida del WWE Live del 12/9/2026 (Puntoticket, Movistar Arena,
+  La Tercera) y nombrada en reportes del cambio de título.
 
 ## Lectura del Vehemiurgo
 
@@ -72,7 +74,7 @@ ficha por lo que no vio.
 
 ## Pendientes
 
-- [ ] Recinto exacto del live show de Santiago.
+- [x] Recinto exacto del live show de Santiago → Movistar Arena (Puntoticket/Movistar Arena, La Tercera, reportes de resultados).
 
 ## Cross-links
 

@@ -12,15 +12,16 @@ estipulacion: "Undisputed WWE Championship — forzado por Nick Aldis en la aper
 duracion: "~16:00 [no confirmado — cifra de búsqueda sin cita textual verificada]"
 finish: "Candice LeRae conecta un tornado DDT sobre Kevin Owens fuera de la vista del árbitro (con Johnny Gargano trabajando también en ringside); CM Punk golpea a Owens con el propio cinturón del título; Zayn cubre — el referee retiene la mano y señala la campana en vez de completar la cuenta (el botch: el plan era que el golpe de Punk fuera el final inmediato); Owens hace un kickout improvisado post-cuenta; Zayn remata con un Helluva Kick real para el pinfall"
 ganador: "Sami Zayn retiene el Undisputed WWE Championship"
-referee: "[no confirmado — varias fuentes terciarias repiten 'Ryan Tran', sin confirmación primaria]"
+referee: "Ryan Tran"
 encuentros_previos: 1
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo muy dura, se merecen las 3 clases; in ring sí es un lujo esta rivalidad, con las intervenciones y Punk para los stakes; aunque Owens botcheó el final, es la única razón por la que no reciben la corona +, pero estuvo buena"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-20
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-20 s02 (visión directa — WWE SmackDown, 18/9/2026, timestamp 01:21:20)"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (Athlon Sports, Yahoo Sports, ITR Wrestling, eWrestlingNews); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, sami-zayn, kevin-owens, cm-punk, undisputed-championship, instant-classic-crown, botch, corona-negada]
 ---
 
@@ -91,7 +92,7 @@ limpio. **Zayn retiene.**
 
 - [ ] Duración exacta — la cifra de ~16:00 no está verificada contra
       cita textual de un recap con timestamps.
-- [ ] Nombre del referee — repetido en fuentes terciarias, sin
+- [x] Nombre del referee → **Ryan Tran** [Secundaria: Athlon Sports / Yahoo Sports, "WWE Championship Match Ends in Awkward Botch"; ITR Wrestling; eWrestlingNews — describen a Tran levantando la mano y pidiendo la campana; Corey Graves lo nota en comentario] — research 2026-09-23. Texto original del pendiente: sin
       confirmación primaria.
 
 ## Cross-links

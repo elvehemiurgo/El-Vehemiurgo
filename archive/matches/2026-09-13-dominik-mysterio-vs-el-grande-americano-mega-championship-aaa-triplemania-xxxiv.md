@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue wrestling, no decepcionó la lucha ni el booking; es un reto difícil tener a Grande ahora como campeón face, tendrá que hacerlo tan bien como Cody"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-16
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-16 s01 (visión directa — AAA TripleMania XXXIV Day 2, 13/9/2026, timestamp 02:12:28)"
   - "Sub-agente research-triplemania-xxxiv-d2-raw-140926 (research 2026-09-16) — WebSearch (Pro Wrestling Dot Net/Vetter, F4W/WON, WWE.com, SI/Fannation, 411Mania); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (yahoo sports, variety, 411mania, ringsidenews, postwrestling); WebFetch bloqueado por egress"
 tags: [aaa-triplemania-xxxiv, dominik-mysterio, el-grande-americano, rey-mysterio, dorian-roldan, aaa-mega-championship, cambio-de-titulo, main-event, instant-classic-crown, campeon-face, daga, mariachi]
 ---
 
@@ -85,8 +86,8 @@ público cantando.
 
 **El "Original El Grande Americano" perdió una lucha máscara vs
 máscara ante El Grande Americano en Noche de los Grandes, se
-desenmascaró, y volvió a ser Chad Gable** `[fecha exacta de Noche de
-los Grandes: no confirmada]`. **Eso explica que Chad Gable aparezca sin
+desenmascaró, y volvió a ser Chad Gable** (Noche de los Grandes: sábado
+30/5/2026, Arena Monterrey). **Eso explica que Chad Gable aparezca sin
 máscara como Campeón Intercontinental en el Raw del día siguiente.**
 
 El archivo tiene ficha separada:
@@ -94,9 +95,11 @@ El archivo tiene ficha separada:
 
 ## Pendientes
 
-- [ ] Fecha exacta de Noche de los Grandes (el máscara vs máscara).
-- [ ] Confirmar si el conteo de Rey Mysterio como GM tiene
-      consecuencia declarada de storyline.
+- [x] Fecha exacta de Noche de los Grandes (el máscara vs máscara) → sábado 30/5/2026, Arena Monterrey (Yahoo Sports, Variety; coincide con las fichas 2026-05-30 del archivo).
+- [x] Consecuencia declarada del conteo de Rey Mysterio → Dorian
+      Roldán dijo que AAA lo investigará y adelantó un anuncio
+      importante al respecto para el show del 3/10/2026 (411Mania).
+- [ ] Contenido de ese anuncio del 3/10 — aún no ocurrido.
 
 ## Cross-links
 

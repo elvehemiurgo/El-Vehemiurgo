@@ -5,11 +5,11 @@ participantes: ["Adelicious", "Mascarita Sagrada", "Mini Vikingo", "Lady Shani",
 empresa: "AAA"
 programa: "TripleMania XXXIV — Day 1"
 fecha: 2026-09-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Paradise (Las Vegas), Nevada"
+recinto: "MGM Grand Garden Arena"
 tipo_match: "six-person tag team"
 estipulacion: "standard"
-duracion: "[no confirmado]"
+duracion: "9:07"
 finish: "Mini Vikingo con Shooting Star Press — pinfall"
 ganador: "Adelicious, Mascarita Sagrada & Mini Vikingo"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece las 3 clases, fue wrestling"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-12 s03 (visión directa — AAA TripleMania XXXIV Day 1, 11/9/2026)"
   - "Sub-agente research-aaa-triplemania-xxxiv-day1 (research 2026-09-12) — WebSearch (PWMania, 411Mania); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (prowrestling.net, postwrestling, wrestlinginc, f4wonline, 411mania, tjrwrestling, ringsidenews); WebFetch bloqueado por egress"
 tags: [aaa-triplemania-xxxiv, adelicious, mascarita-sagrada, mini-vikingo, lady-shani, jack-cartwheel, mini-abismo-negro, opener, instant-classic-crown]
 ---
 
@@ -57,10 +58,17 @@ conocidos).
 
 ## Pendientes
 
-- [ ] Duración, ciudad/recinto, referee.
-- [ ] Confirmar si el golpe reportado a Lady Shani en el rostro (con
-      breve detención para atención médica) alteró el finish
-      planeado o fue un incidente separado — `[no confirmado]`.
+- [x] Duración → 9:07, SSP de Mini Vikingo sobre Mini Abismo Negro (prowrestling.net/Vetter vía snippet).
+- [x] Ciudad/recinto → MGM Grand Garden Arena, Paradise (Las Vegas), Nevada (POST Wrestling, Wrestling Inc., eWrestling).
+- [ ] Referee — ningún reporte lo nombra.
+- [x] Incidente de Lady Shani → golpe en la cara al minuto de lucha
+      (reportado como rodillazo accidental en un cartwheel de
+      Adelicious), match pausado; Shani sale y no regresa, la lucha
+      sigue sin ella; corte sobre el párpado con puntos, sin signos de
+      conmoción según False Finish (F4W/WON, 411Mania, TJR Wrestling,
+      Ringside News).
+- [ ] Si alteró el finish planeado — ningún reporte lo afirma;
+      `[no confirmado]`.
 
 ## Cross-links
 

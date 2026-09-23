@@ -9,7 +9,7 @@ ciudad: "Corpus Christi, Texas"
 recinto: "American Bank Center"
 tipo_match: "triple threat — Women's Money in the Bank Qualifying Match"
 estipulacion: "clasificatorio al Women's Money in the Bank Ladder Match (título WWE Women's US no en juego)"
-duracion: "[no confirmado]"
+duracion: "12:00 [una fuente]"
 finish: "Jayne cubre a Bliss y roba el pinfall — clasifica al MITB, uniéndose a Sol Ruca y Lola Vice"
 ganador: "Jacy Jayne — clasifica al Women's Money in the Bank Ladder Match"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "A Jacy le toca cargar esta lucha, trabajar con dos luchadoras malas y cargar con todo el peso, difícil escenario para ella, además es la heel ring general en ese ring; Cargill y Bliss son muy fake, así que fue una buena oportunidad para ver la creatividad de Jacy con estas rivales débiles"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-20
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-20 s01 (visión directa — WWE SmackDown, 18/9/2026, timestamp 01:02:56)"
   - "Sub-agente research-wwe-smackdown-180926 (research 2026-09-20) — WebSearch (Wrestling Inc., WrestleZone, LastWordOnSports); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (PWTorch, Wrestling Inc., Cageside Seats); WebFetch bloqueado por egress"
 tags: [wwe-smackdown-2026, jacy-jayne, jade-cargill, alexa-bliss, money-in-the-bank, wrestling-entertainment, ring-general, sol-ruca, lola-vice]
 ---
 
@@ -80,7 +81,8 @@ tal cual llega, sin completar lo que no se dictó.
 
 ## Pendientes
 
-- [ ] Duración exacta, referee.
+- [x] Duración → **12:00** [una fuente — snippet WebSearch sobre cobertura PWTorch, sin atribución aislable] — research 2026-09-23.
+- [ ] Referee.
 - [ ] Confirmar si el dictado cortado tenía más contenido después de
       "y" — no capturado en el volcado.
 

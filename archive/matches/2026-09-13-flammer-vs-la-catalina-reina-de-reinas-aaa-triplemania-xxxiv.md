@@ -9,7 +9,7 @@ ciudad: "Ciudad de México"
 recinto: "Arena CDMX"
 tipo_match: "singles — AAA Reina de Reinas Championship"
 estipulacion: "AAA Reina de Reinas Championship"
-duracion: "[no confirmado] — la única marca de reloj reportada es un nearfall de Flammer a los 6:30 (double stomp + Angel's Wings)"
+duracion: "10:24"
 finish: "Flammer mira hacia la rampa esperando que La Hiedra salga a interferir a su favor -- NO HAY NADIE. La distracción la saca de ritmo y La Catalina contragolpea con hip attack seguido de running knee para la cuenta de tres"
 ganador: "La Catalina — NUEVA campeona; corta el reinado de Flammer de ~1.128 días, récord del título"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo genial, se merece las 3 clases con la corona +; mucha velocidad, buenas secuencias, muy dura, super stiff -- aunque la excusa para que pierda Flammer no sé si me satisface"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-16
+ultima_actualizacion: 2026-09-23
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-16 s01 (visión directa — AAA TripleMania XXXIV Day 2, 13/9/2026, timestamp 00:43:28)"
   - "Sub-agente research-triplemania-xxxiv-d2-raw-140926 (research 2026-09-16) — WebSearch (F4W/WON, OutKick, 411Mania, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
+  - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (prowrestling.net, outkick, wrestletalk, fightful, f4wonline); WebFetch bloqueado por egress"
 tags: [aaa-triplemania-xxxiv, flammer, la-catalina, las-toxicas, la-hiedra, reina-de-reinas, cambio-de-titulo, instant-classic-crown-plus, panteon-tier-1, implosion-de-las-toxicas, abandono-no-interferencia]
 ---
 
@@ -37,8 +38,9 @@ tags: [aaa-triplemania-xxxiv, flammer, la-catalina, las-toxicas, la-hiedra, rein
 Segunda lucha del show (00:43:28). **Flammer defendía**; La Catalina
 era la retadora. **La Catalina gana el AAA Reina de Reinas
 Championship**, cortando un reinado de **~1.128 días** que la prensa
-reporta como **récord del título** `(1.128 según OutKick, 1.127 según
-F4W/WON — discrepancia de un día)`.
+reporta como **récord del título** `(1.128 días: 12/8/2023, Triplemanía
+XXXI ante Taya Valkyrie → 13/9/2026; la cifra 1.127 de F4W/WON queda
+descartada por cómputo de fechas)`.
 
 ## El finish — no hubo interferencia, hubo abandono
 
@@ -97,11 +99,9 @@ Vehemiurgo declaró en el Día 1 tiene su primer pago concreto acá.**
 
 ## Pendientes
 
-- [ ] Duración exacta — sin fuente. La única marca de reloj reportada
-      es el nearfall de Flammer a los 6:30 (double stomp + Angel's
-      Wings).
-- [ ] Resolver la discrepancia del reinado: **1.128 vs 1.127 días**.
-- [ ] Referee.
+- [x] Duración exacta → 10:24 (prowrestling.net/Vetter vía snippet).
+- [x] Resolver la discrepancia del reinado: **1.128 vs 1.127 días** → **1.128**: ganó el título el 12/8/2023 (Triplemanía XXXI, ante Taya Valkyrie) y lo pierde el 13/9/2026 = 1.128 días por cómputo (OutKick, WrestleTalk).
+- [ ] Referee — ningún reporte lo nombra (el único réferi nombrado de la noche es Eddie Orengo, en el main event).
 
 ## Cross-links
 
