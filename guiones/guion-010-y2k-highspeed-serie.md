@@ -13,7 +13,7 @@ fuente_cruda:
   - "notebook/2026-09-22-s02-rebel-heart-collision-dynamite-160926-y2k-highspeed.md"
   - "notebook/2026-09-22-s03-panteon-y2k-highspeed-aparte.md"
 estado: draft
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-23
 tags: [guion, serie, vehemiurgia, y2k-highspeed, doctrina-y2k-highspeed, panteon-y2k-highspeed, mcmg, oi4k, alex-shelley, escuela-ohio, estilo-omega, ddt, nick-wayne, kyle-fletcher, rey-fenix, footage]
 ---
 
@@ -30,9 +30,10 @@ tags: [guion, serie, vehemiurgia, y2k-highspeed, doctrina-y2k-highspeed, panteon
 > clase de archivo. El footage histórico que no está en el archivo va
 > **`sin clase (no es pieza registrada)`**.
 >
-> **Versión**: toma el formato **entrelazado** del guion 009 §4 (cruda
-> y data mezcladas, en vez de destiladas) y lo **optimiza para serie**
-> (pedido del Vehemiurgo, 2026-09-22 s04).
+> **Versión (2026-09-23)**: el guion **lo manda la opinión cruda
+> corregida, en su orden**, con la data debajo de cada bloque (§4). El
+> montaje en 12 partes (§4-S) es el plan de corte para grabar en serie,
+> con sus timestamps (§5), clips (§6) y footage a conseguir (§7).
 
 ---
 
@@ -741,8 +742,531 @@ memoria.**
 
 ---
 
-## 4. El guion — serie en 12 partes *(cruda y data entrelazadas)*
+## 4. El guion — la opinión cruda corregida, con la data debajo
 
+> **Esta es la versión que manda** (pedido del Vehemiurgo, 2026-09-23).
+> El guion **sigue el orden del dictado**, tal como salió: la opinión
+> cruda corregida de §1, bloque por bloque, y **debajo de cada bloque
+> la data relevante**, *(en cursiva entre paréntesis)*, con el mismo
+> formato del guion 009. Si se recorta toda la cursiva, queda la
+> opinión del Vehemiurgo íntegra y en su orden. Si se recorta la
+> opinión, la data sola no dice nada.
+>
+> Los corchetes **[→ Parte N]** dicen a qué parte del montaje en 12
+> partes (§4-S) va cada bloque, para armar cortes. No se leen en
+> cámara.
+>
+> **Reglas que no cambian**: texto del Vehemiurgo TAL CUAL; shows en
+> formato `YYYY MM DD Nombre del Show`; toda pieza del archivo con su
+> clase; lo marcado [verif] en §3 **no aparece aquí**.
+
+---
+
+**[→ Parte 1 · el disparador]**
+
+`2026 09 16 AEW Dynamite`, Jericho vs Nick Wayne, es un choque
+interesante: esta generación y ese estilo GCW contra el old-school de
+Jericho. Realmente se siente como un downgrade para Jericho en el
+card, pero no tiene por qué ser un mal show; de hecho, lo mantienen
+real. Aunque se nota que Nick Wayne quiere ser Kenny Omega, mucho. O
+sea, se mueve igual en el selling, realmente quiere ese estilo.
+
+> *(Nick Wayne tiene 21 años. Lo entrenó su padre, Buddy Wayne, que
+> también entrenó a Darby Allin. Debutó a los 12 y firmó con AEW a los
+> 16, el firmante más joven de la empresa. Esa noche Jericho le gana
+> en 14 minutos con un victory roll de piernas cruzadas, después de
+> arrancarle el collar de conchas; en el post-match Wayne rechaza el
+> apretón de manos y lo ataca con el collar y una silla. La pieza está
+> registrada **sin clase**.)*
+>
+> *(Dato honesto: Wayne nunca dijo que su ídolo fuera Omega. Nombra a
+> Eddie Guerrero y a Will Ospreay. Pero esto no es de declaraciones, es
+> de selling: se ve en el ring. Y el archivo ya lo había anotado dos
+> semanas antes, en el backstage de `2026 09 02 AEW Dynamite`, sin
+> clase: "se nota que le influencia mucho Kenny Omega [...] ahora
+> parece una caricatura".)*
+
+**[→ Partes 1 y 10 · el prime mover]**
+
+A mí no se me hace tan cool, porque de primera ese estilo nace desde
+la idea de un, entre comillas, *artista*, no de alguien que se gana
+la vida golpeando gente y haciéndola rendir para ser el más duro de
+todos. Es una diferencia filosófica: es ese *prime mover* el que hace
+toda la diferencia.
+
+> *(No es una idea nueva en el archivo. Mayo de 2026: "se cree
+> artista [...] incluso dijo que no es fan del wrestling". Agosto: "un
+> luchador que no se considera luchador, se considera artista o
+> personaje de videojuegos". Y el matiz que no se borra, del 19 de
+> agosto: "Omega así de prick es cool". Dos estilos que beben del
+> mismo pozo; lo que los separa no es la fuente, es el motor.)*
+
+**[→ Parte 2 · la fuente]**
+
+El estilo de Kenny Omega se inspira mucho del tipo de wrestling
+japonés speed, más cerca de la lucha libre, basado en strikes
+legítimos de innovación japonesa, pero traducido por un filtro
+occidental americanizado de la idea de lo que es Oriente y de lo que
+es este tipo de combates. Viene de la fascinación que causa el estilo
+japonés puro y su evolución, el speed light heavyweight, o el súper
+influyente joshi puroresu. Entonces es la ficción de la ficción: es
+la mitología de este estilo brutal, para nada longevo, suicida,
+clásico japonés de los 70s, 80s y 90s.
+
+> *(El acta de nacimiento: `1981 04 23 NJPW`, Kuramae Kokugikan,
+> Tokio. Debuta Tiger Mask, un héroe de manga en carne y hueso, y el
+> público tradicional se ríe de la idea. Enfrente está un inglés de
+> Wigan, Dynamite Kid. Tiger Mask gana con un German suplex, y los
+> juniors de New Japan ya no vuelven a ser una curiosidad.)*
+
+**[→ Parte 5 · la definición]**
+
+Los mejores exponentes de este tipo de wrestling son los MCMG y los
+hermanos Dave y Jake Crist. Alex Shelley es la definición de este
+estilo, desde siempre. Esta es la forma indie americana alternativa
+Y2K de este estilo.
+
+> *(Alex Shelley: de Detroit, formado en la Can-Am School de Border
+> City Wrestling. En `2004 05 22 ROH Generation Next` funda Generation
+> Next con Austin Aries, Roderick Strong y Jack Evans: la generación
+> nueva contra la guardia establecida. En TNA arma Paparazzi
+> Productions, un gimmick sacado de su propio estudio de video real.
+> "Desde siempre" quiere decir desde antes de que existiera el
+> equipo, no desde que se volvió popular.)*
+
+**[→ Parte 2 · la fuente]**
+
+Y bebe mucho de luchadores muy cool como Tajiri, Psicosis, Dynamite
+Kid, Steve Corino, Cactus Jack, Volk Han, Rey Mysterio, Super Caló y
+la ola de luchadores legendarios con máscaras inspiradas por la de
+Jushin Thunder Liger: esa generación con un aura durísima que ponía
+luchas increíbles en todo el mundo, y el estilo super jr y light
+heavyweight más cardíaco y old-school que puedes imaginar.
+
+> *(Para entender "suicida": Dynamite Kid se destrozó la espalda en
+> 1988 y le quitaron dos discos. Se inyectaba para sostener un cuerpo
+> de heavy sobre un esqueleto de crucero. Terminó en silla de ruedas y
+> murió el día que cumplía 60. En el archivo, `1981 12 19 World of
+> Sport`, Dynamite Kid vs Mark Rocco, **ICC**: "el Dynamite Kid es
+> wrestling puro".)*
+>
+> *(La ola de máscaras: `1994 04 16 NJPW Super J-Cup`, Ryōgoku. Liger
+> arma un show entero solo de juniors, con 14 luchadores de varias
+> empresas. La final es Wild Pegasus contra The Great Sasuke. Esa
+> cinta viaja por el mundo de mano en mano.)*
+>
+> *(Y cruza a América: `1992 02 29 WCW SuperBrawl II`, Liger vs
+> Pillman. `1995 10 17 ECW Hardcore TV`, Mysterio vs Psicosis a dos de
+> tres caídas en la ECW Arena, frente al público más hostil del país;
+> gana Psicosis. `1997 10 26 WCW Halloween Havoc`, Eddie contra Rey,
+> el título contra la máscara; registrada sin clase. Super Caló peleó
+> por el título contra Rey en `1996 09 15 WCW Fall Brawl`. Tajiri,
+> `1999 09 19 ECW Anarchy Rulz`, contra Super Crazy y Little Guido.)*
+>
+> *(La lista no es solo de voladores. Volk Han es sambo de RINGS: sus
+> cuatro luchas contra Tamura están en el archivo, todas **ICC**.
+> Cactus Jack es el King of the Death Match de Kawasaki, `1995 08 20
+> IWA Japan`, con 28,757 anunciados. Steve Corino es el "King of Old
+> School" de ECW. El estilo no es "aéreo": es velocidad, dureza
+> legítima y actitud.)*
+
+**[→ Partes 4 y 5 · el adolescente con internet]**
+
+Pero visto a través de un adolescente de Occidente con acceso a
+internet. Eso es MCMG, desde antes de su concepción. Chris Sabin y
+Alex Shelley, cada uno por su lado, son lo alternativo de los 2000s,
+son la manifestación del Y2K.
+
+> *(Cada uno por su lado: Sabin es campeón X Division en `2003 05 14
+> NWA-TNA Weekly PPV`, contra Amazing Red y Jerry Lynn. Juntos
+> arrancan en Japón, en ZERO1-MAX, en 2006; en el archivo, `2006 08 25
+> ZERO1-MAX`, MCMG vs Hidaka & Fujita, sin clase. En `2009 01 04 NJPW
+> Wrestle Kingdom III`, en el Tokyo Dome, le ganan a No Limit (Naito y
+> Yujiro) el IWGP Jr. Tag: el adolescente con internet se vuelve
+> campeón en la fuente.)*
+>
+> *(Cara a cara con el otro equipo definitorio de la época: `2010 03
+> 21 TNA Destination X`, Ultimate X contra Generation Me, que son los
+> Young Bucks. Ganan los Guns. Ese verano, el Best of Five contra Beer
+> Money, cerrado en `2010 08 12 TNA Impact` con un dos de tres caídas:
+> highspeed con estructura, FIP y remontada.)*
+>
+> *(Hoy: `2026 09 05 AEW Collision`, The Swirl vs MCMG, **ICC+**,
+> "dream match, la siguiente generación, y sí fue la lucha
+> generacional que esperaba". Y el post-match de `2026 08 30 AEW All
+> In` con FTR, **WE+**: "fue un momentazo sin palabras".)*
+
+**[→ Parte 6 · OI4K y Ohio]**
+
+Y si quieres una versión más under, más maleada, más adicta de este
+estilo, tienes a OI4K: dos completos locos innovadores que forjaron
+su propio estilo con trabajo duro, adicciones y todos los problemas
+posibles encima. Pero traen ese estilo Ohio tan bueno y real que
+llegó a su peak en 2017, 18 y 19 con Sami Callihan, David Starr, JT
+Dunn, Dezmond Xavier, Zachary Wentz, Trey Miguel, Myron Reed, Ace
+Austin y otros actos. Pero actualmente vemos una versión diluida y
+bastarda de esta escuela en los Rascalz. Realmente Myron Reed y Ace
+Austin son los únicos que mantienen la esencia viva y perfecta, como
+debe hacerse.
+
+> *(OI4K es "Ohio Is 4 Killers": los hermanos Dave y Jake Crist, de
+> Dayton, con seis títulos de parejas de HWA, un récord. Campeones de
+> parejas de CZW en `2014 09 27 CZW Deja Vu`, en Dayton, contra The
+> Juicy Product, que son David Starr y JT Dunn. En el archivo, `2013 12
+> 14 CZW Cage of Death XV`, OI4K & Nevaeh vs DJ Hyde & The Front,
+> **ICC+**: "sick fucking tag moves, Dave Crist tiene spots brutales y
+> bumps enfermos". Y lo que dejaron: "la razón por la que las flying
+> cutters están over desde 2017", un gimmick "de Y2K nu metal muy
+> auténtico, es el espíritu de lo alternativo".)*
+>
+> *(El peak, en fechas: `2017 07 08 CZW Evilution`, Scarlet & Graves
+> más Trey Miguel contra OI4K, **ICC**, "se robaban el show cada noche
+> con este estilo". `2017 11 05 Impact Bound for Glory`: debuta Sami
+> Callihan y Ohio llega a la televisión como oVe. `2018 07 22 Impact
+> Slammiversary XVI`, Toronto: Callihan contra Pentagón, pelo contra
+> máscara. `2019 10 20 Impact Bound for Glory`, Villa Park: la ladder
+> del X Division junta a Jake Crist y a Ace Austin, y la gana Ace en
+> 17:40.)*
+>
+> *(Los Rascalz: Xavier y Wentz empezaron como Scarlet & Graves. En el
+> archivo, cuando empieza el cambio: "justo aquí empieza su nerfeo, el
+> personaje se vuelve más infantil y su estilo progresivamente más
+> safe". Hoy, `2026 07 30 AEW Collision`, Rascalz vs The Demand, **FC**
+> solo para Reed y Liona: "siguen con la tontería soft e infantil".
+> Myron Reed tiene el reinado más largo de la historia del título
+> Middleweight de MLW, 424 días. Ace Austin, en el archivo desde 2017,
+> `2017 01 14 CZW` vs Jimmy Lloyd, **ICC**: "es GCW antes de GCW, es la
+> revolución que ya estaba creando la escuela de Ohio".)*
+
+**[→ Parte 7 · los pesados]**
+
+Pero este estilo en cuestión del que hablamos está presente en
+luchadores más poderosos como Samoa Joe, un completo mark del King's
+Road y el puroresu. Es palpable su ADN empapado de este estilo que
+estoy discutiendo.
+
+> *(Samoa Joe fue campeón de Ring of Honor 645 días, el reinado más
+> largo en la historia de la empresa. `2005 10 01 ROH Joe vs. Kobashi`,
+> Grand Ballroom del New Yorker Hotel, unas 800 personas: Joe le
+> devuelve a Kobashi el Stretch Plum de Kawada y los chops en ráfaga.
+> Es un fan de All Japan peleando contra el ídolo de sus cintas.
+> Veinte días antes, `2005 09 11 TNA Unbreakable`, está en un
+> three-way por el X Division con AJ Styles y Christopher Daniels: un
+> heavy en la división de los voladores, y no desentona. En el
+> archivo, `2013 02 14 TNA Impact`, Joe vs Kurt Angle, **ICC+**; ya lo
+> había dicho: "Samoa Joe es el más influyente de los 2000s".)*
+
+**[→ Parte 4 · por qué solo en los 2000s]**
+
+De ahora en adelante lo llamaremos **Y2K HIGHSPEED**, porque solo en
+los 2000s puede existir esta generación, con estas influencias, estas
+ideas y esta conexión con el wrestling más old-school, y la idea del
+derecho de piso para imponer tu estilo, negociar con otros luchadores
+y tomarte en serio, bajo condiciones muy diferentes a las actuales y
+a las anteriores.
+
+> *(Primera condición: la fuente, al alcance. Ring of Honor nace de
+> una tienda de cintas: RF Video vendía tapes de Japón y de México,
+> en 2001 pierde a ECW, su best-seller, y en 2002 arma su propia
+> empresa para grabarla y venderla. En `2002 06 19 NWA-TNA Weekly PPV
+> #1` nace la X Division, con AJ Styles como primer campeón sobre Low
+> Ki, Jerry Lynn y Psicosis. En `2003 07 26 PWG The Debut Show`, AJ le
+> gana a Frankie Kazarian, reemplazo de un Samoa Joe lesionado.)*
+>
+> *(Segunda condición: nadie te regalaba el lugar. Lo cuenta el propio
+> Alex Shelley: llegó a IWA Mid-South porque Truth Martini y Chris
+> Sabin fueron "los primeros de Michigan en bajar" y al promotor le
+> gustó su trabajo. Iba viajando en auto con ellos. Así se entraba:
+> recomendado por alguien que ya había pagado. `2004 09 17 IWA
+> Mid-South Ted Petty Invitational`, Highland, Indiana: Shelley vs
+> American Dragon.)*
+>
+> *(Y lo que salía de ahí se ve en el archivo. `2013 09 14 CZW Down
+> with the Sickness`, The Juicy Product vs 4-Loco, **ICC**: "quieren
+> hacer evolucionar todo el indie Y2K con el que crecieron".)*
+
+**[→ Partes 10 y 11 · DDT y la copia de la copia]**
+
+Por eso esta generación no tiene las mismas conexiones con el
+old-school, y tiene una versión aún más mitológica y diluida de este
+estilo, porque su referente es Kenny Omega, o sea DDT, o sea ese tipo
+de wrestling japonés para otakus. Ponle que DDT todavía no es tan
+raro y de freaks como Choco Pro y todo ese submundo de entretenimiento
+que roza lo pervertido y polémico. Yo mismo soy muy fan de Chris
+Brookes, pero hay límites, obviamente. Como cualquier otra forma de
+entretenimiento, el wrestling puede ponerse raro y cringe dependiendo
+del fandom. O sea, hay público para cualquier tontera que se te
+ocurra bookear, supongo, pero eso no significa que sea wrestling. Que
+puedas usar el wrestling en tu forma de entretenimiento de forma
+funcional para lo que quieres vender es una cosa; pero que eso sea
+wrestling es otra cosa muy distinta. Y Kenny Omega viene de ese
+submundo, viene de ese tipo de entretenimiento. No se trata de juzgar
+preferencias. O sea, me parece igual de cringe y pervertido ver a
+Kenny luchando a domicilio para otakus pajeros que ver el bodrio de
+Hulk Hogan con su lucha de celebridades y esa mamada: ambos son
+cáncer y para nada son shows de wrestling.
+
+> *(Omega hace carrera en DDT entre 2008 y 2014, con los Golden Lovers
+> junto a Ibushi; `2012 08 18 DDT Budokan Peter Pan`, Ibushi vs Omega
+> por el KO-D, con el moonsault desde el balcón. DDT es una empresa
+> donde una muñeca inflable, Yoshihiko, ganó dos veces el título
+> principal, `2009 10 25 DDT` en Korakuen contra Ibushi, y donde se
+> lucha en campings, spas y piscinas. ChocoPro nace el 29/3/2020 en
+> YouTube, en Ichigaya, sin ring y filmado con celular. Chris Brookes
+> fue el primer DDT Universal Champion y dos veces campeón KO-D; en el
+> archivo está en DEATH GODS desde agosto.)*
+>
+> *(El otro extremo: `2008 10 18 CMT Hulk Hogan's Celebrity
+> Championship Wrestling`, ocho programas con Dennis Rodman de
+> campeón. El punto no es de gusto: es el mismo error por los dos
+> lados, usar el wrestling como vehículo de otra cosa.)*
+
+**[→ Parte 11 · la copia de la copia]**
+
+Pero el punto es que este punto de partida otaku-nerd es crucial para
+diferenciar el estilo de muchos luchadores en TV y populares en las
+indies que quieren ser Kenny Omega y meten los rodillazos y las
+poison ranas, y todo falso, porque no tienen un buen referente para
+este estilo.
+
+> *(Primera generación: Japón. Segunda: el adolescente occidental que
+> lo mitologiza, con dos ramas, la que se ganó el derecho de piso y la
+> que pasó por DDT. Tercera: los que copian a la segunda sin haber
+> visto la primera. Lectura del copiloto, pendiente de ratificación.)*
+>
+> *(No soy el único que lo ve. Jim Cornette sobre el debut de Nick
+> Wayne, `2023 07 12 AEW Dynamite` contra Swerve Strickland: "no hubo
+> un solo movimiento de wrestling en este match. Ni body slam, ni hip
+> toss, ni arm drag: fueron flips, parkour, gimnasia agresiva".)*
+
+**[→ Parte 12 · quién lo sostiene hoy]**
+
+Porque no me van a decir que su indie favorito es más real que Kyle
+Fletcher. Fletcher no es americano, pero es un gran exponente de este
+estilo; tanto, que entre las luchas de Kyle Fletcher y las luchas de
+Fénix están creando el estilo perfecto más real de los últimos
+tiempos. Ese es el tipo de wrestling que yo quiero que defina la
+industria: es el más puro en el mainstream, es lo más peak que puedes
+ver de wrestling en TV. En esa lista pondría a Darby Allin, Will
+Ospreay, Ace Austin y Myron Reed: están empujando la industria una
+lucha a la vez. Eso sí se llama tener estilo.
+
+> *(Kyle Fletcher es australiano y de la Don Callis Family. Tiene una
+> jaula contra Ospreay en `2025 03 09 AEW Revolution`, con el Spanish
+> Fly desde el techo, y fue campeón TNT e International. En el archivo,
+> `2026 09 16 AEW Dynamite`, el 8-man con Fletcher y Darby, **ICC+**;
+> `2026 09 09 AEW Rebel Heart`, Fletcher & Knight vs Young Bucks,
+> **ICC**, "el ring positioning realmente fue destacable". Mi nota
+> sobre él: "hace ver real a cualquier rival".)*
+>
+> *(Rey Fénix: `2026 09 11 WWE SmackDown` vs Ricky Saints, **ICC+**,
+> "Fénix es dios". Una semana después, `2026 09 18 WWE SmackDown`, el
+> triple con Orton y Trick Williams, **ICC+**: "quería ver el estilo
+> de Fénix imponiéndose".)*
+>
+> *(Darby, `2026 09 02 AEW Dynamite`, vs Mark Davis, **ICC+**: "esto
+> sí es wrestling". Ospreay, `2026 09 09 AEW Rebel Heart`, vs David
+> Finlay, **ICC+**: "me esperaba un clásico instantáneo y dieron justo
+> eso". Ace Austin, `2026 09 12 AEW Collision`, con el Bang Bang Gang,
+> **ICC+**: "todos los greatest hits de Ace". Myron Reed vs Kevin
+> Knight, 2026-06-11, **ICC**: "merece todas las clases". Ace y Myron
+> salen de la escuela de Ohio y hoy están los dos en AEW.)*
+
+**[→ Parte 8 · la vuelta completa]**
+
+Y en paralelo podemos admirar ese estilo 2010s del CMLL y NJPW, con
+La Sombra, Volador Jr, Tetsuya Naito y Finn Bálor como los nombres
+más duros cercanos a este Y2K HIGHSPEED que estamos discutiendo, en
+mayor o menor dosis. Pero ese estilo da una vuelta completa y llega a
+Okada en su peak en NJPW, contra el Bullet Club de los Young Bucks y
+AJ Styles, que en esta era revolucionaron la escena con su versión,
+mezclada con el estilo sureño cowboy clásico que tienen AJ y los
+chicos de Cucamonga: ese estilo de rancho duro, slam bang, de
+wrasslin' de vaqueros. Fue también la mezcla perfecta para una era
+increíble.
+
+> *(`2013 09 13 CMLL 80 Aniversario`, Arena México: La Sombra vs
+> Volador Jr., máscara contra máscara. Gana La Sombra 2-1 y Volador se
+> quita la máscara. Dos años después, La Sombra firma con WWE y hoy se
+> llama Andrade. En el archivo, Volador en `2025 10 04 MLW
+> Slaughterhouse`, **ICC+**: "lo mantuvieron real y clásico". Naito se
+> hace Ingobernable en el CMLL, con La Sombra y Rush, y se lleva el
+> concepto a Japón: en `2016 04 10 NJPW Invasion Attack` le gana el
+> título a Okada, con el debut de SANADA.)*
+>
+> *(El Bullet Club nace en `2013 04 07 NJPW Invasion Attack`, cuando
+> Prince Devitt, hoy Finn Bálor, traiciona a su compañero. Los Young
+> Bucks llegan a New Japan ese mismo año. AJ Styles entra en 2014
+> atacando a Okada. `2015 07 05 NJPW Dominion 7.5`, Osaka: Okada
+> contra AJ Styles. AJ se crió en Gainesville, Georgia, y se hizo en
+> NWA Wildside; los Bucks son de Rancho Cucamonga, California, y
+> empezaron en un ring de patio. Mis dos estilos predilectos, en el
+> mismo stable. En el archivo: `2006 AAA Verano de Escándalo`, AJ
+> Styles & Team TNA vs Los Vipers, **ICC**, "la calidad de todos
+> in-ring es real".)*
+
+**[→ Parte 11 · lo que nos quieren vender]**
+
+Pero nada que ver con lo que ahora nos quieren vender como estilo,
+lleno de brinquitos, strikes fake y nada de promos; todo es acting de
+caricatura, y todos están más preocupados de sus outfits que de ser
+luchadores memorables. Y si empiezas a ver wrestling y ves este
+estilo, obviamente impresiona, pero no es ni la mitad de real y duro
+que el buen Y2K HIGHSPEED. Y esta explicación debe ilustrar bien por
+qué odio el estilo de Kenny Omega y el estilo predominante actual de
+lucha gringa. Pero el wrestling sigue teniendo luchadores reales que
+llevan esta escuela en su estilo y lo trabajan en serio.
+
+> *(El archivo lo había anotado sobre el mismo Wayne en agosto: "más
+> preocupado de sus movimientos indie que de tener un gimmick o
+> construir algo". Y la fundación de THE FUTURE, en junio: "talentos
+> que de verdad quieren ser wrestlers y no cosplayers o hacen cosas
+> porque se pone de moda".)*
+
+**[→ Parte 1 · los cuatro estilos supremos]**
+
+Este estilo, con el southern wrestling clásico, son mis dos formas
+predilectas de wrestling; son las formas supremas del wrestling,
+junto con el pancracio mexicano y el King's Road, que son geniales y
+me parecen absolutas y definitivas también. Pero mi predilección
+siempre será el wrestling Y2K HIGHSPEED y el SLAM BANG AMERICAN
+WRESTLING. Soy consciente de que existen más escuelas, más híbridos y
+más linajes de estilos, y de que estos se superponen, se entrelazan y
+se multiplican constantemente; pero para mí los cuatro que mencioné
+son los superiores.
+
+> *(Los cuatro: el **Y2K HIGHSPEED**; el **SLAM BANG**, que es el
+> wrasslin' sureño de rancho y vaqueros; el **pancracio mexicano**, la
+> lucha libre como escuela total; y el **King's Road**, la escuela de
+> All Japan de los 90s. Es una vara de estilo, no una clase: no toca
+> el sistema PW/FS/WE ni las coronas.)*
+
+**[→ Parte 3 · los puentes]**
+
+Pero el Y2K HIGHSPEED está bien diferenciado del highspeed japonés o
+joshi, porque los exponentes del Y2K HIGHSPEED no pueden ser
+contemporáneos del estilo light heavyweight / super jr japonés
+original, ni de los light heavyweights de los territorios y Canadá de
+los 70s, 80s y 90s. Puede haber luchadores que trasciendan estas dos
+eras por su carrera longeva e influencia importante, como Sean
+Waltman, el 1-2-3 Kid, que es definitivamente crucial para que el Y2K
+HS exista; al igual que Taka Michinoku, Tajiri y Great Muta, que son
+el puro real y también son la mitología imaginada por Occidente.
+Entonces estuvieron en la era que inspira el Y2K HIGHSPEED, pero
+también estuvieron en la era después de que naciera el Y2K HIGHSPEED
+y la escena alternativa de wrestling post-2000s. Por eso son
+especiales, como RVD y Lance Storm; y luego, en los mismos tempranos
+2000s, Low Ki, Teddy Hart y Jack Evans.
+
+> *(Esa es la regla: Dynamite Kid o Liger son la fuente, no el
+> estilo. Sean Waltman, `1993 05 17 WWF Monday Night Raw`, Manhattan
+> Center: un chico flaco anunciado como "The Kid" le hace el pin a
+> Razor Ramon, y el nombre sale de ahí. Nueve años después, `2002 10
+> 09 NWA-TNA Weekly PPV`: ese mismo chico, ya Syxx-Pac, gana el título
+> X Division en una ladder de siete. Un solo hombre, dos eras.)*
+>
+> *(Taka viene de Michinoku Pro y es el primer campeón Light
+> Heavyweight de la WWF, `1997 12 07 WWF D-Generation X: In Your
+> House`. Muta ya estaba en la NWA en 1989 contra Sting, `1989 07 23
+> NWA Great American Bash`. RVD vs Jerry Lynn, `1999 05 16 ECW
+> Hardcore Heaven`; y en el archivo, catorce años después, `2013 02 14
+> TNA Impact`, James Storm vs RVD, **ICC**, "dream match, lucha de
+> calidad". Lance Storm sale del Hart Brothers Camp de Calgary y pasa
+> por WAR en Japón: `1995 12 08 WAR Super Heavy WAR`, contra Lionheart
+> Chris Jericho.)*
+>
+> *(`2002 02 23 ROH The Era of Honor Begins`, primer show de Ring of
+> Honor: el main event es un three-way y lo gana Low Ki. Teddy Hart y
+> Jack Evans vienen de Calgary, de la casa Hart; en el archivo, `2008
+> 12 06 AAA Guerra de Titanes`, contra Nicho y Joe Líder, sin clase.
+> Sobre Evans ya lo había dicho: "esto es lo alternativo de los 2000s,
+> su estilo sigue vivo ahora". Sobre Teddy, el matiz: "su idea de una
+> buena lucha en parte es lo que odio del wrestling moderno". Un
+> puente no es un modelo perfecto.)*
+
+**[→ Parte 9 · las afluentes]**
+
+Y también incluiría como exponentes importantes a luchadoras joshi,
+con esa influencia joshi de dojo, pero que definitivamente
+alimentaron y empujaron el estilo Y2K HIGHSPEED, como Iyo Sky, Mayu
+Iwatani, Kairi Hojo, AZM, Starlight Kid, Kagetsu, Hana Kimura,
+Konami, HZK, Dash Chisako y Mei Seira. Y también luchadoras mexicanas
+durísimas como KIRA y Flammer. Y obviamente todos los nombres
+importantes de Dragon Gate, que en sí mismo es una escuela, un estilo
+muy especial y diferente; pero su influencia en el Y2K HIGHSPEED y su
+paralelismo con este mismo es crucial para su definición y evolución.
+
+> *(Stardom, 2016: Io Shirai, hoy Iyo Sky, contra Kairi Hojo en el
+> 5STAR GP, y contra Mayu Iwatani en `2016 12 22 Stardom Year-End
+> Climax`. En `2022 02 23 Stardom Cinderella Journey`, AZM y Starlight
+> Kid pelean por un título que se llama literalmente High Speed
+> Championship. Hoy, en el archivo, `2026 09 21 WWE Raw`: Iyo Sky,
+> **ICC+**, "por fin la nueva guardia, más stiff, más recia". Mei
+> Seira y Starlight Kid en `2026 03 06 CMLL`, **ICC**: "necesito ver
+> más CMLL".)*
+>
+> *(`2026 09 13 AAA TripleMania XXXIV Día 2`, Arena CDMX: Flammer
+> pierde la corona de Reina de Reinas después de 1,128 días, el
+> reinado más largo de la historia, ante La Catalina, en 10:24.
+> **ICC+**: "mucha velocidad, buenas secuencias, muy dura, super
+> stiff". KIRA vs Persephone, 2025-09-21, **ICC**.)*
+>
+> *(Dragon Gate nace el 5/7/2004, cuando Toryumon se separa de Último
+> Dragón. `2006 03 31 ROH Supercard of Honor`, Chicago Ridge: Do FIXER
+> contra Blood Generation, y de esa noche sale Dragon Gate USA, que
+> debuta en Filadelfia el 25/7/2009. Los nombres individuales quedan
+> pendientes de que el Vehemiurgo los declare.)*
+
+**[→ Parte 7 · los híbridos]**
+
+El uso de un estilo no limita que puedan tener más de uno, como TJ
+Perkins, que me parece exponente fuerte del Y2K HIGHSPEED pero
+también mucho de lucha libre, y es un entusiasta de las MMA, como
+Samoa Joe. Mientras, Alex Shelley y Amazing Red son más puros en
+cuanto a Y2K HIGHSPEED, pero también le meten a otros estilos porque
+son versátiles.
+
+> *(TJP debuta en New Japan a los 18 años como Pinoy Boy, el
+> extranjero más joven en luchar allí; después se pone la máscara de
+> Puma, en pareja con Tiger Mask IV. En 2003 también luchó en el CMLL,
+> y desde los 18 entrena boxeo, MMA y catch wrestling. En `2016 09 14
+> WWE Cruiserweight Classic` le gana la final a Gran Metalik, después
+> de eliminar a Ibushi. Amazing Red está en el primer show de Ring of
+> Honor y fue tres veces campeón X Division; una rodilla rota en un
+> tour de All Japan le quitó un año. No es cuestión de peso ni de
+> pureza: es ADN.)*
+
+**[→ Panteón, fuera de la serie]**
+
+Otros nombres que se me ocurren son BUSHI, SANADA, CM Punk (el de los
+tempranos 2000s), Máscara Dorada, Soberano Jr, Templario, Tommy End
+(antes de WWE y AEW), Daga, Dragon Lee, Steve Boy, Kay Lee Ray,
+Damian Dunne, BT Gunn, Jevon Evans, Jackson Drake, Ricky Smokes, Jay
+White, Frankie Kazarian, Chris Hero y Roderick Strong.
+
+> *(Todos están en el PANTEÓN Y2K HIGHSPEED,
+> [`archive/topics/panteon-y2k-highspeed.md`](../archive/topics/panteon-y2k-highspeed.md),
+> con sus calificadores de etapa. Chris Hero está también en DEATH
+> GODS desde agosto; las dos listas no se contradicen.)*
+
+**[→ Cierre de serie · la ley de separación]**
+
+La inclusión en el Y2K HIGHSPEED no debe alterar los otros tiers y
+posiciones: es aparte, un panteón aparte.
+
+> *(Ley del 2026-09-22 s03. El panteón de estilo no mueve un tier, un
+> número ni una posición del panteón general ni de DEATH GODS, y al
+> revés tampoco.)*
+
+---
+
+## 4-S. Montaje en serie — 12 partes *(cruda y data entrelazadas)*
+
+> **Qué es esta sección.** Es el **plan de montaje** del guion de §4:
+> los mismos bloques de la cruda, reordenados en 12 partes autónomas
+> para grabar en serie. §5, §6 y §7 (timestamps, clips y footage)
+> cuelgan de este montaje.
+>
 > **Cómo leerlo.** El texto en redonda es el Vehemiurgo **TAL CUAL**.
 > Lo que va *(en cursiva entre paréntesis)* es data del copiloto y se
 > puede recortar.
@@ -1427,7 +1951,7 @@ memoria.**
 >   registrada, `sin clase (no es pieza registrada)`.
 >
 > **Ritmo base**: el ANCLA dura ~15 s en todas las partes; el CIERRE,
-> ~15 a 20 s.
+> ~15 a 20 s. Los tiempos corresponden al montaje de §4-S.
 
 ### Parte 1 — El nombre (≈2:30)
 | Tiempo | Bloque | En pantalla | Clase |
