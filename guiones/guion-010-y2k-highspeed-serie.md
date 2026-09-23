@@ -585,8 +585,8 @@ memoria.**
   - Récord de seis títulos de parejas de HWA.
   - Campeones de parejas de CZW en `2014 09 27 CZW Deja Vu`, contra
     **The Juicy Product (David Starr y JT Dunn)**.
-  - Campeones de parejas de AAW contra Scarlet and Graves (Xavier y
-    Wentz), 17/3/2017.
+  - AAW, 17/3/2017 (Homecoming): rival y título en juego **[verif]**,
+    fuentes en disputa.
 - **oVe en Impact**:
   - Debutan en `2017 08 17 Impact Destination X`.
   - En `2017 11 05 Impact Bound for Glory` debuta **Sami Callihan**
@@ -626,7 +626,7 @@ memoria.**
     IV.
   - Gana el `2016 09 14 WWE Cruiserweight Classic` contra Gran Metalik,
     tras eliminar a Ibushi en semis.
-  - Etapa CMLL y el dato de las MMA: **[no confirmado]**.
+  - En 2003 también luchó en **CMLL** como Pinoy Boy, y volvió en 2021. Desde los 18 entrenó boxeo, **MMA** y catch wrestling; no tiene peleas profesionales registradas. [Wikipedia, snippet; luchawiki]
   - [ESPN; WWE.com]
 - **Amazing Red**:
   - En el primer show de ROH le gana a Jay Briscoe.
@@ -1127,13 +1127,15 @@ memoria.**
 >
 > El uso de un estilo no limita que puedan tener más de uno, como **TJ
 > Perkins**, que me parece exponente fuerte del Y2K HIGHSPEED pero
-> también mucho de lucha libre…
+> también mucho de lucha libre, y es un entusiasta de las MMA, como
+> Samoa Joe.
 >
 > *(TJP debuta en New Japan a los 18 años como Pinoy Boy, el
 > extranjero más joven en luchar allí. Después se pone la máscara de
 > Puma, en pareja con Tiger Mask IV. En `2016 09 14 WWE Cruiserweight
 > Classic` le gana la final a Gran Metalik, después de eliminar a
-> Ibushi.)*
+> Ibushi. Luchó en el CMLL, y desde los 18 entrena MMA y catch
+> wrestling.)*
 >
 > *(Amazing Red está en el primer show de Ring of Honor y fue tres
 > veces campeón X Division. Una rodilla rota en un tour de All Japan
@@ -1627,8 +1629,8 @@ más fuerte del cuerpo → CIERRE. Sin cursiva.
 |---|---|---|---|---|
 | F-2.1 | `1981 04 23 NJPW` (Kuramae Kokugikan, Tokio) | Tiger Mask vs Dynamite Kid: el German suplex del pin y la cara del público | El acta de nacimiento | ✅ (hay copia en archive.org) |
 | F-2.2 | `1994 04 16 NJPW Super J-Cup` (Ryōgoku) | La final Wild Pegasus vs Great Sasuke; planos de las máscaras | *"la ola de luchadores con máscaras inspiradas por Liger"* | ✅ |
-| F-2.3 | `1992 02 29 WCW SuperBrawl II` | Liger vs Pillman | El junior japonés en PPV americano | ✅ fecha · ⚠️ sede |
-| F-2.4 | `1995 10 [día no confirmado] ECW Hardcore TV` (ECW Arena) | Rey Mysterio Jr. vs Psicosis, 2 de 3 caídas: los topes sobre la valla | Psicosis y Rey, fuentes declaradas | ⚠️ taping 07/10 o emisión 17/10 |
+| F-2.3 | `1992 02 29 WCW SuperBrawl II` (Milwaukee Auditorium, complejo MECCA) | Liger vs Pillman | El junior japonés en PPV americano | ✅ |
+| F-2.4 | `1995 10 17 ECW Hardcore TV` (emisión; grabado en ECW Arena, probablemente `1995 10 07 ECW South Philly Jam`) | Rey Mysterio Jr. vs Psicosis, 2 de 3 caídas; gana Psicosis 2-1: los topes sobre la valla | Psicosis y Rey, fuentes declaradas | ✅ emisión · ⚠️ fecha de grabación (7/10 o 5/10) |
 | F-2.5 | `1997 10 26 WCW Halloween Havoc` | Eddie vs Rey, título contra máscara | Cumbre crucero en TV nacional | ✅ (**ya registrada sin clase** en el archivo) |
 | F-2.6 | `1995 08 20 IWA Japan King of the Death Match` (Kawasaki) | Cactus Jack vs Terry Funk, la final | "Suicida" como literal; Cactus como fuente | ✅ |
 | F-2.7 | `1999 09 19 ECW Anarchy Rulz` (Villa Park) | Tajiri vs Super Crazy vs Little Guido: el kick que corta el moonsault | Tajiri fuente y puente (se usa en P3) | ✅ |
@@ -1645,14 +1647,14 @@ más fuerte del cuerpo → CIERRE. Sin cursiva.
 | F-3.4 | `1999 05 16 ECW Hardcore Heaven` (Poughkeepsie) | RVD vs Jerry Lynn | RVD puente; Lynn, futuro pilar del X Division | ✅ |
 | F-3.5 | `2002 02 23 ROH The Era of Honor Begins` (Filadelfia) | Main event: Low Ki vs Daniels vs American Dragon; en la card, **Amazing Red vs Jay Briscoe** | Low Ki puente + primer show de ROH (también en P4 y P7) | ✅ |
 | F-3.6 | `2001 12 14 Stampede Wrestling` | Teddy Hart vs Jack Evans | Los puentes de Calgary | ✅ fecha · ⚠️ disponibilidad |
-| F-3.7 | *Lance Storm en WAR* — `1995 12 08 WAR` | Chris Jericho vs Lance Storm | Storm puente (Calgary → Japón) | ⚠️ |
+| F-3.7 | `1995 12 08 WAR Super Heavy WAR` (Ota Ward Gymnasium, Tokio) | Lionheart (Chris Jericho) vs Lance Storm | Storm puente (Calgary → Japón) | ✅ fecha y sede · ⚠️ ganador |
 
 ### Parte 4 — El derecho de piso
 | Código | Buscar | Match / momento | Para qué | Estado |
 |---|---|---|---|---|
 | F-4.1 | `2002 06 19 NWA-TNA Weekly PPV #1` (Huntsville) | Four-way por el primer título X Division (AJ Styles, Low Ki, Jerry Lynn, Psicosis) | El X Division en su día cero | ✅ |
 | F-4.2 | `2004 09 17 IWA Mid-South Ted Petty Invitational` / `2004 09 18` (Highland, Indiana) | Alex Shelley vs American Dragon | El laboratorio donde se pagaba el piso | ✅ (hay DVD comercial) |
-| F-4.3 | `2003 07 26 PWG` (primer show) | Card con AJ Styles vs Samoa Joe anunciado | La tercera pata de la infraestructura | ⚠️ resultado y sede |
+| F-4.3 | `2003 07 26 PWG The Debut Show` (City of Industry, California) | AJ Styles vs Frankie Kazarian (reemplazo de Samoa Joe, lesionado): gana AJ | La tercera pata de la infraestructura | ✅ |
 
 ### Parte 5 — La definición
 | Código | Buscar | Match / momento | Para qué | Estado |
@@ -1668,17 +1670,17 @@ más fuerte del cuerpo → CIERRE. Sin cursiva.
 ### Parte 6 — Ohio
 | Código | Buscar | Match / momento | Para qué | Estado |
 |---|---|---|---|---|
-| F-6.0 | `2014 09 27 CZW Deja Vu` | OI4K vs The Juicy Product por el título de parejas | Los Crist contra Starr y Dunn | ✅ fecha · ⚠️ sede |
-| F-6.0b | `2017 03 17 AAW` | OI4K vs Scarlet & Graves por el título de parejas vacante | Los Crist contra los futuros Rascalz | ✅ fecha · ⚠️ nombre del show |
+| F-6.0 | `2014 09 27 CZW Deja Vu` (Dayton, Ohio) | OI4K vs The Juicy Product por el título de parejas | Los Crist contra Starr y Dunn, en casa | ✅ |
+| F-6.0b | `2017 03 17 AAW Homecoming` | OI4K en el show; el rival y si el título vacante estaba en juego están en disputa entre fuentes (Scarlet & Graves o Besties in the World) | Los Crist en AAW | ⚠️ rival y título |
 | F-6.1 | `2017 11 05 Impact Bound for Glory` | oVe vs LAX, 5150 Street Fight: el debut de Sami Callihan | Ohio llega a la TV | ✅ |
-| F-6.2 | `2018 07 22 Impact Slammiversary XVI` | Callihan vs Pentagón Jr., pelo contra máscara | El oVe llevado al carny puro | ✅ fecha · ⚠️ sede |
-| F-6.3 | `2019 10 [día no confirmado] Impact Bound for Glory` | Ladder por el X Division: Ace Austin, Jake Crist, Daga, Ace Romero, Tessa Blanchard | La generación Ohio en una sola pelea | ⚠️ (probable 20/10, Villa Park) |
+| F-6.2 | `2018 07 22 Impact Slammiversary XVI` (Rebel, Toronto) | Callihan vs Pentagón Jr., pelo contra máscara | El oVe llevado al carny puro | ✅ |
+| F-6.3 | `2019 10 20 Impact Bound for Glory` (Odeum Expo Center, Villa Park) | Ladder por el X Division: gana Ace Austin (17:40) ante Jake Crist (c), Tessa Blanchard, Daga y Acey Romero | La generación Ohio en una sola pelea | ✅ |
 | F-6.4 | `2019 11 09 MLW Blood and Thunder` | Myron Reed gana el título Middleweight | Myron, guardián del estilo | ✅ |
 
 ### Parte 7 — Los pesados
 | Código | Buscar | Match / momento | Para qué | Estado |
 |---|---|---|---|---|
-| F-7.1 | `2005 10 01 ROH Joe vs. Kobashi` (Nueva York) | La guerra de chops; el Stretch Plum | *"mark del King's Road"*, literal | ✅ fecha · ⚠️ sede exacta |
+| F-7.1 | `2005 10 01 ROH Joe vs. Kobashi` (Grand Ballroom del New Yorker Hotel, Nueva York) | La guerra de chops; el Stretch Plum | *"mark del King's Road"*, literal | ✅ |
 | F-7.2 | `2005 09 11 TNA Unbreakable` (Orlando) | Daniels vs AJ Styles vs Samoa Joe | Un heavy en la X Division | ✅ |
 | F-7.3 | `2016 09 14 WWE Cruiserweight Classic` (final, Full Sail) | TJP vs Gran Metalik | El híbrido coronado | ✅ |
 | F-7.4 | `2003 04 30 NWA-TNA Weekly PPV` | Amazing Red vs Kid Kash: primer título X de Red | El puro | ✅ fecha |
@@ -1687,7 +1689,7 @@ más fuerte del cuerpo → CIERRE. Sin cursiva.
 ### Parte 8 — La vuelta completa
 | Código | Buscar | Match / momento | Para qué | Estado |
 |---|---|---|---|---|
-| F-8.1 | `2013 09 13 CMLL 80 Aniversario` | La Sombra vs Volador Jr., máscara contra máscara: el desenmascaramiento | CMLL 2010s (también recurso "pancracio" en P1) | ✅ fecha · ⚠️ sede |
+| F-8.1 | `2013 09 13 CMLL 80 Aniversario` (Arena México) | La Sombra vs Volador Jr., máscara contra máscara, 2-1: el desenmascaramiento | CMLL 2010s (también recurso "pancracio" en P1) | ✅ |
 | F-8.2 | `2016 04 10 NJPW Invasion Attack` (Ryōgoku) | Naito vs Okada: la interferencia de LIJ y el debut de SANADA | Naito | ✅ |
 | F-8.3 | `2013 04 07 NJPW Invasion Attack` | Devitt traiciona a Taguchi: nace el Bullet Club | El stable de la vuelta completa | ✅ |
 | F-8.4 | `2015 07 05 NJPW Dominion 7.5` (Osaka-jo Hall) | Okada vs AJ Styles | El sureño en la cima de NJPW. **No es Wrestle Kingdom 10** | ✅ |
@@ -1698,8 +1700,8 @@ más fuerte del cuerpo → CIERRE. Sin cursiva.
 |---|---|---|---|---|
 | F-9.1 | `2016 09 03 Stardom 5STAR GP` | Io Shirai vs Kairi Hojo | El joshi de dojo | ✅ |
 | F-9.2 | `2016 12 22 Stardom Year-End Climax` | Io Shirai vs Mayu Iwatani por el World of Stardom | La trilogía de la era | ✅ |
-| F-9.3 | `2022 02 23 Stardom` | AZM vs Starlight Kid por el **High Speed** | Un título que se llama High Speed | ✅ fecha · ⚠️ nombre del show |
-| F-9.4 | `2006 03 31 ROH Supercard of Honor` | Do FIXER vs Blood Generation | Dragon Gate importado al indie americano | ✅ fecha · ⚠️ sede |
+| F-9.3 | `2022 02 23 Stardom Cinderella Journey` | AZM vs Starlight Kid por el **High Speed** | Un título que se llama High Speed | ✅ |
+| F-9.4 | `2006 03 31 ROH Supercard of Honor` (Frontier Fieldhouse, Chicago Ridge) | Do FIXER vs Blood Generation | Dragon Gate importado al indie americano | ✅ |
 | F-9.5 | `2009 07 25 Dragon Gate USA Enter the Dragon` (Filadelfia) *(extra)* | El show fundacional | Dragon Gate con casa propia en Estados Unidos | ✅ fecha · ⚠️ card |
 | F-9.6 | *Oedo Tai / Tokyo Cyber Squad 2018-2020* | Kagetsu, Hana Kimura, Konami, HZK | Resto de la lista joshi | ⚠️ sin match fijado |
 | F-9.7 | `2015 10 11 Sendai Girls` | Dash Chisako & Sendai Sachiko: primeras campeonas de parejas | Dash Chisako | ✅ |
@@ -1709,7 +1711,7 @@ más fuerte del cuerpo → CIERRE. Sin cursiva.
 |---|---|---|---|---|
 | F-10.1 | `2012 08 18 DDT Budokan Peter Pan` (Nippon Budokan) | Kota Ibushi vs Kenny Omega, KO-D: el moonsault desde el balcón | El "artista" en su forma pura | ✅ |
 | F-10.2 | `2009 10 25 DDT` (Korakuen) | Ibushi vs Yoshihiko (la muñeca inflable) por el KO-D | El entretenimiento de nicho como cartelera titular | ✅ |
-| F-10.3 | *DDT Campground Pro Wrestling, 2009* | El three-way en el camping con Ibushi y Omega | El wrestling como vehículo de otra cosa | ⚠️ fecha y lugar |
+| F-10.3 | `2009 09 07 DDT Camping-Ground Pro-Wrestling` (probable; Nature Land Om, Yamanashi) | Ibushi & Omega vs Takagi & HARASHIMA vs Nakazawa & Ihashi | El wrestling como vehículo de otra cosa | ⚠️ fecha candidata, sin cruzar |
 | F-10.4 | `2020 03 29 ChocoPro` #1 (Ichigaya) | Primer show: sin ring, filmado con celular | *"Choco Pro y todo ese submundo"* | ✅ |
 | F-10.5 | `2008 10 18 CMT Hulk Hogan's Celebrity Championship Wrestling` (primer programa) | Cualquier segmento | *"el bodrio de Hulk Hogan con su lucha de celebridades"* | ✅ |
 | F-10.6 | *Chris Brookes en DDT* — `2024 12 28 DDT Ultimate Party` | Brookes defiende el KO-D | *"soy muy fan de Chris Brookes, pero hay límites"* | ✅ fecha · ⚠️ rival |
@@ -1794,14 +1796,14 @@ esas once se cubren las doce partes.
   Shelley en solitario. Las partes 2, 3, 5 y 7 se apoyan en s02 y en
   la data. Si el Vehemiurgo ve F-2.x / F-3.x y dicta, la serie gana
   memoria.
-- **Pendientes de verificación**:
-  - fecha exacta de Mysterio vs Psicosis (F-2.4);
-  - sede de SuperBrawl II;
-  - fecha y sede de BFG 2019 (F-6.3);
-  - sede de Slammiversary XVI;
-  - resultado del primer show de PWG;
-  - fecha del camping de DDT;
-  - etapa de TJP en CMLL y su vínculo con las MMA.
+- **Pendientes de verificación** (el fact-check del 2026-09-23 cerró
+  sedes, fechas y la duda de TJP; quedan estos):
+  - fecha de grabación de Mysterio vs Psicosis (7/10 o 5/10/1995;
+    la emisión del 17/10 sí está confirmada);
+  - rival de OI4K en AAW Homecoming 2017, y si el título vacante
+    estaba en juego;
+  - fecha del camping de DDT (el candidato es 7/9/2009);
+  - ganador de Storm vs Jericho en WAR.
 
   **Nada de esto se afirma en §4.**
 - **F-1.2 y F-1.3** (recursos SLAM BANG y King's Road) quedan a
