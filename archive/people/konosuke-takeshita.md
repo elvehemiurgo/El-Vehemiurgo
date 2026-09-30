@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: konosuke-takeshita
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s15 (visión directa — AEW Dynamite 13/5/2026)"
   - "Matches grupales previos: six-man 8/4, Young Bucks vs Okada & Takeshita (Dynasty 2026)"
@@ -169,6 +169,14 @@ y
 **Piezas de la sesión**:
 [el segmento in-ring de Fletcher](../segments/2026-08-19-segmento-in-ring-kyle-fletcher-aew-dynamite.md) (WE) ·
 [Fletcher, Callis y Okada](../segments/2026-08-12-kyle-fletcher-don-callis-okada-aew-dynamite.md) (WE)
+
+### Sesión 2026-09-30 s01 — "Protoshida" — la fórmula Callis, con otro protagonista
+
+- El Vehemiurgo usa *"el booking de protoshida"* como nombre de la
+  fórmula ya vista (Callis + protegido) al leer la promo de la DCF de
+  `2026 09 19 AEW Collision`: *"pero Kevin Knight es mil veces más
+  entretenido"*. Es comparación de fórmula, no take nuevo sobre
+  Takeshita. [Ficha](../segments/2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md).
 
 ## Pendientes / huecos
 

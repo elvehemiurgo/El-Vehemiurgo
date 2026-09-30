@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: juice-robinson
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s22 (visión directa — AEW Collision, 6/6/2026)"
 tags: [juice-robinson, the-dogs-verif, bullet-club, bang-bang-gang, aew, njpw, over-the-top, bueno-en-el-ring, primer-registro]
@@ -76,6 +76,13 @@ de lujo junto a Jay White, con la reserva de que la dog collar
 "real" que ambos merecen queda pendiente para más adelante en la
 rivalidad. Ver
 [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+
+### Sesión 2026-09-30 s01 — El silbato: challenge al Tailgate Brawl (WE+)
+
+- `2026 09 19 AEW Collision`, backstage, **WE+**: *"super entretenido,
+  un challenge para un brawl en all out [...] se pusieron muy oldschool
+  como siempre"*. Juice forma al grupo como escuadra de fútbol
+  americano. [Ficha](../segments/2026-09-19-bang-bang-gang-challenge-tailgate-brawl-aew-collision.md).
 
 ## Pendientes / huecos
 

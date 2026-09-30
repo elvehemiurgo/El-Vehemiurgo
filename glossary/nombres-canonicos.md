@@ -34,6 +34,8 @@
 | Flammer | Lady Flamer, Lady Flammer |
 | Zema Ion | Zima Ion — SOLO si refiere a DJZ; ver Atención |
 | Kiana James | Kiona James |
+| Skayler | Skyler — SOLO si refiere al luchador de Neza (Los Suicidx); ver Atención |
+| Blue Win | Bluewin |
 | Lainey Reid | Layney Reed, Layne Reed, Lainey Reed |
 | Joaquin Wilde | Joaquín Wild, Joaquin Wild |
 | Shiloh Hill | Shyloh, Shilo Hill |
@@ -51,6 +53,8 @@
 | **Elijah / Elias** | *Elijah* = ring name TNA 2025+ (canónico actual). *Elias* = era WWE 2017-2023. En slugs nuevos usar `elijah`. El slug `...-vs-elias-tna-genesis` quedó como legado. |
 | **Kazarian / Frankie Kazarian** | Ambas formas OK en prosa. Slug único: `frankie-kazarian`. |
 | **"Xia Lee" (dictado)** | Sin correspondencia real — mezcla auditiva de "Lei Ying" + "Xia" (Brookside, mencionada en el mismo take). Resuelve a **Lei Ying Lee** por contexto (gimmick "chinese warrior", crítica de promos en idioma no inglés). NO agregar como variante ciega: "Xia" también refiere legítimamente a Xia Brookside en otros contextos. |
+| **Skayler (indie MX) / John Skyler (TNA)** | Dos talents distintos. *Skyler* en dictados de indie mexicano = **Skayler** (Los Suicidx, Cd. Neza); *John Skyler* (The Great Hands, TNA) conserva su grafía. Research 2026-09-30. |
+| **Red Escorpión (indie MX) / Rey Escorpión (AAA-CMLL)** | Dos talents distintos. El del King Phantom Navideño 25/12/2025 es **Red Escorpión** [identidad no confirmada]. |
 | **Kira (CMLL) / Kira Summer (TJPW) / Keyra (AAA-CMLL)** | Tres talents distintos. Desambiguación en `archive/people/kira.md` y `keyra.md`. |
 | **Myla Grace / Mila Moore** | Dos talents distintas (TNA Knockouts). No unificar. |
 | **Bear Bronson / Bear Boulder** | Distintos (ex-Bear Country ambos). |

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: okada
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s04 (visión directa — AEW Collision 11/4/2026)"
 tags: [okada, kazuchika-okada, njpw, rainmaker, aew-2024-plus, perfect-match]
@@ -181,6 +181,14 @@ y
 
 **Piezas de la sesión**:
 [vs Fletcher vs Takeshita, International](../matches/2026-08-30-fletcher-vs-takeshita-vs-okada-international-aew-all-in.md) (**ICC**)
+
+### Sesión 2026-09-30 s01 — "Dream match pero nada llamativo": Okada vs Ciampa (WE)
+
+- `2026 09 19 AEW Collision`, promo de la DCF, **WE**: *"Okada
+  ocupado con CIampa, es basicamente una dream match pero nada
+  realmente llamativo"*. [Ficha](../segments/2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md).
+- Contexto posterior (research): retuvo el International ante Ciampa
+  en All Out (21:05, Rainmaker).
 
 ## Pendientes / huecos
 

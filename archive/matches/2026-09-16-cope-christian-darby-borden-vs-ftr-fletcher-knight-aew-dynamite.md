@@ -52,8 +52,9 @@ Timestamp **00:06:54**, opener. **~14:33.**
 **Contexto de All Out (26/9/2026)**:
 - Quedó pactado Darby & Borden vs Fletcher & Knight, con chance futura
   a los títulos de parejas para los ganadores.
-- Cage & Cope (c) vs Young Bucks vs FTR, **TLC a tres bandas**
-  (research 2026-09-23: Wrestling-Online, Ringside News; ver
+- Cage & Cope (c) vs Young Bucks vs FTR, **three-way ladder match**
+  (billing final de All Out; la nota del 23/9 decía TLC por el titular
+  de WrestlingInc tras el reto del 2/9; ganaron los Young Bucks — ver
   [`../segments/2026-09-16-ftr-dcf-stokely-callis-heels-backstage-aew-dynamite.md`](../segments/2026-09-16-ftr-dcf-stokely-callis-heels-backstage-aew-dynamite.md)).
 
 ## Lectura del Vehemiurgo

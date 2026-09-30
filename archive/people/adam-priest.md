@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: adam-priest
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s26 (visión directa — AEW Collision, 20/6/2026)"
   - "Mención previa en la lista personal maestra"
@@ -48,6 +48,17 @@ tags: [adam-priest, aew, fighting-spirit, oldschool, quiere-luchar, primer-regis
 
 **Lectura sintética**: primera valoración — intención de combate
 real leída como el activo principal.
+
+### Sesión 2026-09-30 s01 — "Uno de los mejores light heavyweights" — vs PAC (ICC+)
+
+> *"PAC vs Adam Priest, tremenda dream match, la verdad bookear esto
+> es un choque generacional importante, dos de los mejores light
+> heavyweights actualmente"*
+>
+> — El Vehemiurgo, 2026-09-30 s01 (verbatim, typos preservados)
+
+- `2026 09 19 AEW Collision`, **ICC+**: pierde por Brutalizer en 4:17.
+  Sube de registro respecto de Collision 12/9. [Ficha](../matches/2026-09-19-pac-vs-adam-priest-aew-collision.md).
 
 ## Pendientes / huecos
 

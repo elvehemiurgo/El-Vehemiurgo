@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jon-moxley
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
 tags: [jon-moxley, dean-ambrose, the-shield, death-riders-lider, aew-world-champion-multiple, promos-fake-criterio-vehemiurgo, run-campeon-aburrido-vehemiurgo, combustible-para-ospreay, acto-que-no-le-interesa-al-vehemiurgo, faceturn-rechazado-como-buen-booking, tony-khan-favoritismo-no-es-merito, autoconsciente-debil-masoquista-anti-oldschool, claudio-castagnoli-unico-que-se-salva]
@@ -293,6 +293,14 @@ histórico de comparación explícito. El hardcore de época AAA
 autenticidad al hardcore actual de Moxley en AEW. Ver
 [`../topics/doctrina-2000s-alternativo-real-no-cosplay-vs-moxley.md`](../topics/doctrina-2000s-alternativo-real-no-cosplay-vs-moxley.md)
 y [`./nicho-el-millonario.md`](./nicho-el-millonario.md).
+
+### Sesión 2026-09-30 s01 — Main event del 16/9 (ICC), con reserva: "excepto Moxley"
+
+- `2026 09 16 AEW Dynamite`, Death Riders vs United Empire, **ICC**:
+  *"muy buena lucha, excepto Moxley"*. Gana con el Bulldog Choke sobre
+  Akira (16:44). [Ficha](../matches/2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md).
+- Contexto posterior (research): perdió ante Ospreay en All Out
+  (~33:00, Hidden Blade) y le entregó el título.
 
 ## Pendientes / huecos
 

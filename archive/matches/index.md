@@ -13,15 +13,20 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-23 | Persephone vs Hyan — TBS Championship | AEW / Dynamite (especial de 3 horas Dynamite + Collision) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-23-persephone-vs-hyan-tbs-aew-dynamite.md) |
 | 2026-09-21 | Dragon Lee vs Dominik Mysterio vs Penta — Men's Money in the Bank Qualifying Match | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-dragon-lee-vs-dominik-vs-penta-mitb-wwe-raw.md) |
 | 2026-09-21 | Iyo Sky vs Roxanne Perez vs La Catalina — Women's Money in the Bank Qualifying Match | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-iyo-sky-vs-roxanne-perez-vs-la-catalina-mitb-wwe-raw.md) |
 | 2026-09-21 | Jevon Evans vs Bron Breakker | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-jevon-evans-vs-bron-breakker-wwe-raw.md) |
+| 2026-09-19 | Darby Allin vs Myron Reed — TNT Championship (open challenge) | AEW / Collision | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-19-darby-allin-vs-myron-reed-tnt-aew-collision.md) |
+| 2026-09-19 | PAC vs Adam Priest | AEW / Collision | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-19-pac-vs-adam-priest-aew-collision.md) |
+| 2026-09-19 | Thekla vs Zayda Steel | AEW / Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-19-thekla-vs-zayda-steel-aew-collision.md) |
 | 2026-09-18 | Bakusai (Shinsuke Nakamura & Kyoki) vs MFTs (Tama Tonga & Talla Tonga) | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-09-18-bakusai-vs-mfts-wwe-smackdown.md) |
 | 2026-09-18 | Jacy Jayne (c) vs Jade Cargill vs Alexa Bliss — Women's Money in the Bank Qualifying Match | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-09-18-jacy-jayne-vs-cargill-vs-bliss-mitb-wwe-smackdown.md) |
 | 2026-09-18 | Randy Orton vs Rey Fénix vs Trick Williams — Men's Money in the Bank Qualifying Match | WWE / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-18-randy-orton-vs-rey-fenix-vs-trick-williams-mitb-wwe-smackdown.md) |
 | 2026-09-18 | Sami Zayn (c) vs Kevin Owens — Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md) |
 | 2026-09-16 | Chris Jericho vs Nick Wayne | AEW / Dynamite | — | — | en-investigacion | 1 | [→](2026-09-16-chris-jericho-vs-nick-wayne-aew-dynamite.md) |
 | 2026-09-16 | Cope, Christian Cage, Darby Allin & Steven Borden vs FTR, Kyle Fletcher & Kevin Knight | AEW / Dynamite | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md) |
+| 2026-09-16 | Death Riders (Jon Moxley, PAC & Gabe Kidd) vs United Empire (Will Ospreay, Andrade & Francesco Akira) | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md) |
 | 2026-09-14 | Chad Gable (c) vs Dragon Lee — WWE Intercontinental Championship | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-14-chad-gable-vs-dragon-lee-intercontinental-wwe-raw.md) |
 | 2026-09-14 | Stephanie Vaquer & El Grande Americano vs Liv Morgan & Dominik Mysterio — mixed tag | WWE / Monday Night Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-14-dominik-liv-vs-vaquer-grande-americano-wwe-raw.md) |
 | 2026-09-14 | Je'Von Evans vs Austin Theory vs Big Cass — Money in the Bank Qualifier | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-14-jevon-evans-vs-big-cass-vs-austin-theory-mitb-qualifier-wwe-raw.md) |
@@ -445,9 +450,13 @@ con cada cambio de estado.
 | 2026-02-03 | ZaRuca (Sol Ruca & Zaria) vs The Elegance Brand (M by Elegance & Heather by Elegance) | WWE / TNA / NXT (taping; cross-promotional con TNA) | FS | — | en-investigacion | 1 | [→](2026-02-03-zaruca-vs-elegance-brand-nxt.md) |
 | 2026-01-17 | The Hardys (Matt & Jeff) (c) vs The Righteous (Vincent & Dutch) — TNA World Tag Team Championship | TNA Wrestling / Genesis 2026 (PPV) | — | — | stub | 0 | [→](2026-01-17-hardys-vs-righteous-tna-genesis-tag-title.md) |
 | 2026-01-17 | Mustafa Ali vs Elias | TNA / Genesis 2026 | — | — | en-investigacion | 1 | [→](2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) |
+| 2026-01-01 | Skayler vs Visionario vs Shao — three-way | Mi Sagrada Lucha Libre / Mi Sagrada Lucha Libre (YouTube; fecha de show pendiente — la fecha del frontmatter es placeholder de orden) | FS·WE | FC | en-investigacion | 1 | [→](2026-skayler-vs-visionario-vs-shao-mi-sagrada-lucha-libre.md) |
+| 2026-01-01 | Visionario, Skayler & Madness vs Bumbu, Kikiri Punk & Shere Khan | Mi Sagrada Lucha Libre / Mi Sagrada Lucha Libre (YouTube; fecha de show pendiente — la fecha del frontmatter es placeholder de orden) | FS·WE | FC | en-investigacion | 1 | [→](2026-visionario-skayler-madness-vs-bumbu-kikiri-punk-shere-khan-mi-sagrada-lucha-libre.md) |
+| 2025-12-25 | Skayler, Visionario & Chicanito vs Astrolux, Black Metal & Red Escorpión | The King Phantom / Una Noche de Regresos (dictado: 'King Phantom Navideño') | WE | — | en-investigacion | 1 | [→](2025-12-25-skayler-visionario-chicanito-vs-astrolux-black-metal-red-escorpion-king-phantom-navideno.md) |
 | 2025-12-20 | Hijo del Vikingo vs Dragon Lee | WWE AAA / Guerra de Titanes 2025 | — | — | en-investigacion | 1 | [→](2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md) |
 | 2025-12-05 | Charlie Dempsey vs Mike Santana | TNA / Final Resolution 2025 | — | — | en-investigacion | 1 | [→](2025-12-05-charlie-dempsey-vs-mike-santana-tna-final-resolution.md) |
 | 2025-11-14 | The System vs The Rascalz | TNA / Turning Point 2025 | — | — | en-investigacion | 1 | [→](2025-11-14-the-system-vs-the-rascalz-tna-turning-point.md) |
+| 2025-10-26 | Skayler & Visionario vs Korvus & Black Miner vs Blue Win & Koda — three-way tag | HWE (Homegrown Wrestling Entertainment) / Reyes del Mictlán (video: 'Arena Ancestral') | PW·FS·WE | ICC | en-investigacion | 1 | [→](2025-10-26-skayler-visionario-vs-korvus-black-miner-vs-blue-win-koda-hwe-arena-ancestral.md) |
 | 2025-10-04 | Austin Aries vs Paul London — Opera Cup 2025, cuartos de final | MLW / Slaughterhouse | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2025-10-04-austin-aries-vs-paul-london-opera-cup-mlw-slaughterhouse.md) |
 | 2025-10-04 | Shoko Nakajima (c) vs HIMAWARI — MLW Women's World Featherweight Championship | MLW / Slaughterhouse | FS·WE+ | FC+ | en-investigacion | 1 | [→](2025-10-04-himawari-vs-shoko-nakajima-featherweight-mlw-slaughterhouse.md) |
 | 2025-10-04 | Matt Riddle vs Alex Hammerstone | MLW / Slaughterhouse | PW·FS·WE | ICC | en-investigacion | 1 | [→](2025-10-04-matt-riddle-vs-alex-hammerstone-mlw-slaughterhouse.md) |

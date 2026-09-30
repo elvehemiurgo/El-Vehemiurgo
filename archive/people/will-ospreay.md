@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: will-ospreay
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026"
   - "Multiple retrospectivas Cornette critical + Meltzer favorable"
@@ -411,6 +411,14 @@ ficha del main event). Piezas de la sesión:
 Match, con reserva de booking sostenida sobre el uso de Moxley — no
 baja la clase, es objeción de programación. Pieza:
 [vs David Finlay](../matches/2026-09-09-david-finlay-vs-will-ospreay-eliminator-aew-rebel-heart.md) (ICC+).
+
+### Sesión 2026-09-30 s01 — Main event del 16/9 (ICC)
+
+- `2026 09 16 AEW Dynamite`, United Empire vs Death Riders, **ICC**;
+  pierden por la rendición de Akira. Cierra el show limpiando la
+  casa. [Ficha](../matches/2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md).
+- Contexto posterior (research): retuvo el AEW World ante Moxley en
+  All Out, su primera victoria sobre él.
 
 ## Pendientes
 

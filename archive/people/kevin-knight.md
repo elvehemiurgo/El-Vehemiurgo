@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-knight
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s09 (visión directa — AEW Dynamite 29/4/2026)"
 tags: [kevin-knight, aew, upset-vs-mjf, low-blow-finish, the-future-in-2026]
@@ -332,6 +332,18 @@ y los reserva como equipo en Collision. Ver
 - **Dynamite 16/9**: backstage heel con la DCF (WE) y 8-man (ICC+),
   *"los heels son todos profesionales, estuvieron brillantes"*.
   [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
+
+### Sesión 2026-09-30 s01 — "Mil veces más entretenido" que el Protoshida (WE)
+
+> *"es la misma fórmula que el booking de protoshida, pero Kevin
+> Knight es mil veces más entretenido, está bien que lo intenten otra
+> vez"*
+>
+> — El Vehemiurgo, 2026-09-30 s01 (verbatim, typos preservados)
+
+- `2026 09 19 AEW Collision`, promo de la DCF, **WE**. [Ficha](../segments/2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md).
+- Contexto posterior (research): con Fletcher venció a Darby & Borden
+  en All Out por paro médico.
 
 ## Pendientes / huecos
 

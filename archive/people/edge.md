@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: edge
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 + cluster Raw 2004-2005"
   - "E&C Pod of Awesomeness + The Edge & Christian Show + Talk Is Jericho"
@@ -199,8 +199,19 @@ quedan explícitamente fuera de la clase. Pieza:
 - Cope, con Christian, Darby y Borden, vence a FTR, Fletcher y Knight;
   su spear sobre Dax precede al finish de Borden. [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
   Backstage previo (WE): [ficha](../segments/2026-09-16-darby-responde-a-christian-faces-backstage-aew-dynamite.md).
-- All Out (26/9): Cage & Cope (c) vs Young Bucks vs FTR, **TLC a tres bandas**
-  (research 2026-09-23).
+- All Out (26/9): Cage & Cope (c) vs Young Bucks vs FTR, **three-way ladder match**
+  (billing final; ganaron los Young Bucks).
+
+### Sesión 2026-09-30 s01 — Promo a Darby y Borden (sin clase) y segmento a tres bandas (WE+)
+
+- `2026 09 23 AEW Dynamite`, backstage: *"promo de Edge para Steven y
+  Darby estuvo cool y buena idea no dejar hablar a Steven todavía"*.
+  Sin clase declarada. [Ficha](../segments/2026-09-23-cope-promo-backstage-a-darby-y-borden-aew-dynamite.md).
+- Mismo show, segmento in-ring con Bucks y FTR, **WE+**: *"Cope
+  hablando de sí mismo como leyenda muchas veces y dando idea de un
+  heel turn o algo"*. [Ficha](../segments/2026-09-23-young-bucks-cope-christian-ftr-segmento-in-ring-aew-dynamite.md).
+- Contexto posterior (research): en All Out, los Young Bucks ganaron
+  el three-way ladder match; Cage & Cope pierden los títulos.
 
 ## Pendientes
 

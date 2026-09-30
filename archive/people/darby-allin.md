@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: darby-allin
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s08 (visión directa — AEW Dynamite 22/4/2026)"
 tags: [darby-allin, aew, campeon-por-culpa-de-mjf, perfect-match-vs-tomasso, sorpresa-no-soy-fan]
@@ -336,6 +336,16 @@ Borden). Piezas:
 - **Panteón Y2K HIGHSPEED**: nombrado exponente vigente, *"empujando
   la industria una lucha a la vez"* ([panteón](../topics/panteon-y2k-highspeed.md),
   [doctrina](../topics/doctrina-y2k-highspeed.md)).
+
+### Sesión 2026-09-30 s01 — Retiene ante Myron Reed (ICC+); Cope lo desafía (sin clase)
+
+- `2026 09 19 AEW Collision`, TNT open challenge vs Myron Reed,
+  **ICC+**: *"Darby que tiene un estilazo ya es un wrestler muy
+  inteligente in ring para armar sus luchas"*. [Ficha](../matches/2026-09-19-darby-allin-vs-myron-reed-tnt-aew-collision.md).
+- `2026 09 23 AEW Dynamite`, backstage con Cope y Borden, sin clase:
+  Darby responde *"challenge accepted"*. [Ficha](../segments/2026-09-23-cope-promo-backstage-a-darby-y-borden-aew-dynamite.md).
+- Contexto posterior (research): en All Out, Fletcher & Knight
+  vencieron a Darby & Borden por paro médico (lesión de Borden).
 
 ## Pendientes / huecos
 

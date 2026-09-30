@@ -184,5 +184,5 @@ tags: [aew-dynamite-2026, aew-collision-2026, myron-reed, darby-allin, zayda-ste
 
 ## Próximos pasos
 
-- [ ] Integrar los dos research.
-- [ ] Fichas, índices, RUNNER UPS, vistas, lint, commit.
+- [x] Integrar los dos research.
+- [x] Fichas, índices, RUNNER UPS, vistas, lint, commit.

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: christopher-daniels
 estado: vivo
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcados del Vehemiurgo, corpus TNA enero-febrero 2013 (s55-s63) — VISIONADO DIRECTO"
   - "Sub-agente research-panteon-roode-aries-daniels (research 2026-09-09) — WebSearch; Cagematch/Wikipedia/Fandom bloqueados por egress"
@@ -135,6 +135,12 @@ a cargo de las relaciones de talento en vez de en el centro de la
 marquesina es la confirmación de negocio de lo que el archivo ya
 documentó en ficción: el respeto del vestuario es su capital, no el
 horario estelar.
+
+### Sesión 2026-09-30 s01 — Coach de Zayda Steel (ICC)
+
+- `2026 09 19 AEW Collision`: acompaña a Zayda Steel ante Thekla;
+  *"coacheada por Chris Daniels"*. El Vehemiurgo lee el coaching como
+  parte del paquete. [Ficha](../matches/2026-09-19-thekla-vs-zayda-steel-aew-collision.md).
 
 ## Pendientes / huecos
 

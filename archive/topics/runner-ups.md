@@ -4,12 +4,13 @@ slug: runner-ups
 tipo: topic
 categoria: lista-oficial
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-09 s01 (propuesta + casos fundantes)"
   - "Volcado Vehemiurgo 2026-07-11 (bautizo + primera alta formal: Dani Luna)"
   - "Volcado Vehemiurgo 2026-07-14 s46 (alta doble: Komander + El Clon, AEW Redemption)"
-tags: [runner-ups, mustafa-ali, mike-santana, dani-luna, komander, arez, presente-no-futuro, antesala-panteon]
+  - "Volcado Vehemiurgo 2026-09-30 s01 (altas #13 Hyan y #14 Visionario)"
+tags: [runner-ups, mustafa-ali, mike-santana, dani-luna, komander, arez, hyan, visionario, indie-mexicano, presente-no-futuro, antesala-panteon]
 ---
 
 # RUNNER UPS — "ganándose mi corazón en tiempo real"
@@ -211,6 +212,54 @@ enfría, queda el registro de por qué no.
   el que sangró fue Fatu, no él.
   [→](../people/tristan-angels.md) ·
   [`../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md`](../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md)
+
+### #13 — Hyan *(declarada 2026-09-30 s01)*
+
+> *"Hyan vs Persephone, estuvo buenisima, la verdad todo fundamental
+> increible, buenisimas transiciones y las ideas con ejecuciòn
+> perfecta, realmente fue la lucha perfecta, se merecen las 3 clases
+> con la corona + [...] Hyan es un gran talento, luciò como una
+> wrestler muy dura, pon a Hyan en la lista de los que se ganaron mi
+> corazòn"*
+>
+> — El Vehemiurgo, 2026-09-30 s01 (verbatim, typos preservados)
+
+- **Empresa**: AEW.
+- **Por qué entra**: fórmula de bautizo exacta, dicha sobre una lucha
+  que **pierde**, como Tristan Angels (#12). El elogio es de
+  fundamentos (*"todo fundamental increíble"*, *"transiciones"*) y de
+  dureza (*"una wrestler muy dura"*). El archivo la tenía desde Rebel
+  Heart (9/9) como impulso dentro de la historia de Maya World; acá
+  cambia de registro: el booking la protege perdiendo con trampa.
+- **Match anchor**: vs Persephone, TBS Championship, **2026 09 23 AEW
+  Dynamite** — **ICC+**, derrota por cradle con la cuerda (8:52).
+  [→](../people/hyan.md) ·
+  [`../matches/2026-09-23-persephone-vs-hyan-tbs-aew-dynamite.md`](../matches/2026-09-23-persephone-vs-hyan-tbs-aew-dynamite.md)
+
+### #14 — Visionario *(declarado 2026-09-30 s01)*
+
+> *"se dan muy duro, pero si están verdes en ring positioning y
+> selling un poco [...] me gusta que si se la creen la vida de
+> luchador, es muy intenso, incluso en los tropezones se ve las ganas
+> de retomar y no romper el kayfabe, me emcionó mucho. Quiero poner a
+> Visionario en la lista de los que se ganaron mi corazón"*
+>
+> — El Vehemiurgo, 2026-09-30 s01 (verbatim, typos preservados)
+
+- **Empresa**: indie mexicano (Mi Sagrada Lucha Libre, The King
+  Phantom, HWE; Cd. Nezahualcóyotl). **Primer nombre del indie
+  mexicano en la lista.**
+- **Por qué entra**: no por técnica (la reserva de *"verdes"* queda
+  declarada) sino por intención y kayfabe: *"se la creen la vida de
+  luchador"*, *"no romper el kayfabe"* en el tropezón. Es la vara de
+  la doctrina 2000s (real, no cosplay) sobre un talento de ~5 años de
+  carrera. Cuatro luchas registradas en el mismo volcado (ICC, FC,
+  WE, FC): *"están creciendo"*.
+- **Match anchor**: three-way tag con Skayler (Los Suicidx), **2025 10
+  26 HWE Reyes del Mictlán** (Arena Ancestral, Ecatepec) — **ICC**,
+  derrota [una fuente].
+  [→](../people/visionario.md) ·
+  [`../matches/2025-10-26-skayler-visionario-vs-korvus-black-miner-vs-blue-win-koda-hwe-arena-ancestral.md`](../matches/2025-10-26-skayler-visionario-vs-korvus-black-miner-vs-blue-win-koda-hwe-arena-ancestral.md)
 
 ## Pendientes
 

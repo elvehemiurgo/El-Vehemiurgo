@@ -52,8 +52,9 @@ reportada.)*
 **Nota sobre la estipulación de All Out**: Stokely y la cobertura
 (SI) hablan de un **ladder match** a tres bandas (Cage & Cope (c) vs
 Young Bucks vs FTR). El reto del 2/9 había sido **TLC**. **Resuelto
-(research 2026-09-23): es TLC a tres bandas** (Wrestling-Online,
-Ringside News).
+(research 2026-09-30, con All Out ya ocurrido): se billó como
+three-way ladder match**, como decía Stokely; el "TLC" venía de un
+titular de WrestlingInc. Ganaron los Young Bucks (23:25).
 
 ## Lectura del Vehemiurgo
 

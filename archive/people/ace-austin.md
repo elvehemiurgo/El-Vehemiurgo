@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ace-austin
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s15 (visión directa — AEW Dynamite 13/5/2026)"
 tags: [ace-austin, aew, repertorio-debe-ser-mas-oldschool, perfect-match-vs-ospreay]
@@ -127,6 +127,12 @@ historia del cinturón.**
   perfecta"* de la escuela Ohio. Nombrado también exponente vigente,
   *"empujando la industria una lucha a la vez"*.
   [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
+
+### Sesión 2026-09-30 s01 — Tailgate Brawl challenge (WE+)
+
+- `2026 09 19 AEW Collision`, promo del Bang Bang Gang, **WE+**.
+  [Ficha](../segments/2026-09-19-bang-bang-gang-challenge-tailgate-brawl-aew-collision.md). Contexto posterior (research): BBG ganó el Tailgate
+  Brawl en el pre-show de All Out (12:10).
 
 ## Pendientes / huecos
 

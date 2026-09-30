@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: andrade
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s18 (visión directa — AEW Dynamite & Collision, 27/5/2026)"
   - "Mención previa: six-man con Takeshita y Mark Davis (8/4/2026)"
@@ -200,6 +200,13 @@ acto"*. Piezas:
 [promo video](../segments/2026-09-09-promo-video-andrade-aew-rebel-heart.md) (WE) ·
 [vs Beast Mortos](../matches/2026-09-09-andrade-vs-beast-mortos-national-aew-rebel-heart.md) (ICC+) ·
 [post-match](../segments/2026-09-09-post-match-andrade-dogs-ospreay-finlay-aew-rebel-heart.md) (WE).
+
+### Sesión 2026-09-30 s01 — Main event del 16/9 (ICC)
+
+- `2026 09 16 AEW Dynamite`, con Ospreay y Akira vs Death Riders,
+  **ICC**. [Ficha](../matches/2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md).
+- Contexto posterior (research): retuvo el National ante PAC en All
+  Out.
 
 ## Pendientes / huecos
 

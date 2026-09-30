@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ciampa
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s21 (visión directa — AEW Dynamite, 3/6/2026)"
 tags: [ciampa, tommaso-ciampa, hhh-darling, nxt-burbuja, gargano, jericho-feud-2026, promos-cripticas-peor-que-moxley, primer-registro-escéptico]
@@ -197,6 +197,11 @@ esta tesis de un exabrupto.
 **El match que el Vehemiurgo describe es ese** — solo cambia el nombre
 de la estipulación, y el contenido reportado encaja exacto con su
 descripción.
+
+### Sesión 2026-09-30 s01 — Reta a Okada; "nada realmente llamativo" (WE)
+
+- `2026 09 19 AEW Collision`, promo de la DCF, **WE**: la respuesta de
+  Okada al reto. El Vehemiurgo: dream match sin gancho. [Ficha](../segments/2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md).
 
 ## Pendientes / huecos
 

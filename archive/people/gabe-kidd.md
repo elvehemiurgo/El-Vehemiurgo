@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: gabe-kidd
 estado: vivo
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 00:16:35)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (AllEliteWrestling.com, PWTorch/Keller, POST Wrestling); WebFetch bloqueado por egress"
@@ -113,6 +113,11 @@ Vehemiurgo lo sigue leyendo como el hallazgo del mes. Piezas:
 [careo con Moxley](../segments/2026-09-09-gabe-kidd-moxley-careo-aew-rebel-heart.md) (sin clase) ·
 [tensión con Dogs/Death Riders](../segments/2026-09-12-the-dogs-death-riders-tension-aew-collision.md) (WE+) ·
 [8-man con PAC](../matches/2026-09-12-dogs-pac-vs-bang-bang-gang-aew-collision.md) (ICC+).
+
+### Sesión 2026-09-30 s01 — Main event del 16/9 (ICC)
+
+- `2026 09 16 AEW Dynamite`, con Moxley y PAC vs United Empire,
+  **ICC**. [Ficha](../matches/2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md).
 
 ## Pendientes / huecos
 

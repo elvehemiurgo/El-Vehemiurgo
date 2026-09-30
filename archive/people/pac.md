@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: pac
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s14 (visión directa — AEW Collision Fairway to Hell, 9/5/2026)"
 tags: [pac, aew, main-event-fairway-to-hell, muy-real, rival-panteon-darby]
@@ -74,6 +74,16 @@ para el desarrollo de Persephone. Ver
 (el primero fue vs Darby Allin, 9/5/2026) — patrón sostenido de
 alto nivel en singles de peso. Ver
 [`../matches/2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md`](../matches/2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md).
+
+### Sesión 2026-09-30 s01 — vs Adam Priest, "choque generacional" (ICC+); main event del 16/9 (ICC)
+
+- `2026 09 19 AEW Collision`, vs Adam Priest, **ICC+** en 4:17
+  (Brutalizer): *"dos de los mejores light heavyweights actualmente
+  [...] la ejecución muy apretada, muy stiff"*. [Ficha](../matches/2026-09-19-pac-vs-adam-priest-aew-collision.md).
+- `2026 09 16 AEW Dynamite`, main event con Moxley y Kidd vs United
+  Empire, **ICC**. [Ficha](../matches/2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md).
+- Contexto posterior (research): perdió ante Andrade por el National
+  en All Out.
 
 ## Pendientes / huecos
 

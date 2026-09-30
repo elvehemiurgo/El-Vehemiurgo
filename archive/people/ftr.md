@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ftr
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
   - "Cross-links previos en christian-cage.md / edge.md (feud 'recalentado' 2026)"
@@ -79,8 +79,18 @@ sí lleva la irrupción posterior de Christian Cage y Cope. Pieza:
   [Ficha](../segments/2026-09-16-ftr-dcf-stokely-callis-heels-backstage-aew-dynamite.md).
 - **8-man tag** (ICC+): Dax Harwood recibe el pin de Steven Borden.
   [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
-- All Out (26/9): triple threat por los títulos de parejas, **TLC a tres
-  bandas** (research 2026-09-23; Stokely había hablado de ladder).
+- All Out (26/9): triple threat por los títulos de parejas, **three-way
+  ladder match** (billing final; Stokely tenía razón).
+
+### Sesión 2026-09-30 s01 — Culpados por Callis (WE) e impecables sin hablar (WE+)
+
+- `2026 09 19 AEW Collision`: Callis culpa a la *"idiotic strategy"*
+  de Stokely por la derrota del 8-man. [Ficha](../segments/2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md).
+- `2026 09 23 AEW Dynamite`, segmento a tres bandas, **WE+**: *"FTR
+  esta vez no dicen nada pero estuvieron impecables"*. Stokely habla
+  por ellos. [Ficha](../segments/2026-09-23-young-bucks-cope-christian-ftr-segmento-in-ring-aew-dynamite.md).
+- Estipulación final de All Out: **three-way ladder match** (no TLC);
+  ganaron los Young Bucks.
 
 ## Pendientes / huecos
 

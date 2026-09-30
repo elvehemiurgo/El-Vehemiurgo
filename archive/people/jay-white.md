@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jay-white
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s29 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
   - "Mención previa como ausente/esperado en archive/people/the-dogs.md (s19-s26)"
@@ -194,6 +194,11 @@ y el video previo
 [Bang Bang Gang vs STP](../matches/2026-08-22-bang-bang-gang-vs-shane-taylor-promotions-aew-collision.md) (WE) ·
 [la promo post-match](../segments/2026-08-22-promo-post-match-jay-white-aew-collision.md) (**WE+**) ·
 [Trios Roulette Royale](../matches/2026-08-30-trios-roulette-royale-aew-all-in.md) (**FC**)
+
+### Sesión 2026-09-30 s01 — Tailgate Brawl challenge (WE+)
+
+- `2026 09 19 AEW Collision`, promo del Bang Bang Gang, **WE+**:
+  quarterback en la formación de Juice. [Ficha](../segments/2026-09-19-bang-bang-gang-challenge-tailgate-brawl-aew-collision.md).
 
 ## Pendientes / huecos
 

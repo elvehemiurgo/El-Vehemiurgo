@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: young-bucks
 estado: stub
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynasty 2026) — declaración de héroes fundamentales"
 tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, superkick-party, bte, tandem-moderno, heroes-fundamentales-vehemiurgia, dos-perfect-match-2026, panteon-vehemiurgo]
@@ -160,6 +160,23 @@ sobre sus promos. **Explícitamente excluidos** de la WE que sí lleva
 la irrupción de Christian Cage y Cope en el mismo segmento — ver
 [`./christian-cage.md`](./christian-cage.md). Pieza:
 [clase de promo](../segments/2026-09-02-christian-cage-cope-clase-de-promo-aew-dynamite.md) (WE, no para ellos).
+
+### Sesión 2026-09-30 s01 — "Por fin los YBs con algo de calidad" — segmento a tres bandas (WE+)
+
+> *"por fin los ybs con algo de calidad, buen coaching, y este
+> segmento si enciende el booking para la division, primero los young
+> bucks hablandode que podrìa ser su ultima lucha de escaleras,
+> referenciando que ya hay una nueva generaciòn, explicitamente, y màs
+> agresivos con màs urgencia, se ve genial el acto y las promos ahora
+> si estan buenas"*
+>
+> — El Vehemiurgo, 2026-09-30 s01 (verbatim, typos preservados)
+
+- `2026 09 23 AEW Dynamite`, **WE+**. Es la primera WE+ de los Bucks
+  en un segmento de promo desde que el guion 009 los dejó como *"lo
+  que les está faltando es mic"*. [Ficha](../segments/2026-09-23-young-bucks-cope-christian-ftr-segmento-in-ring-aew-dynamite.md).
+- Contexto posterior (research): ganan el three-way ladder match de
+  All Out (23:25), primeros cuatro veces campeones de parejas de AEW.
 
 ## Pendientes / huecos
 

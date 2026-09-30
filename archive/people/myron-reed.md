@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: myron-reed
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s04 (visión directa — AEW Collision 11/4/2026)"
 tags: [myron-reed, aew, mlw, high-flyer, gran-babyface, buenas-promos, por-que-nunca-fue-el-elegido, pregunta-editorial-abierta]
@@ -162,6 +162,22 @@ Austin** en esta lectura de 2019).
   en los Rascalz, realmente Myron Reed y Ace Austin son los únicos que
   mantienen la escencia viva y perfecta"*. También figura en la lista
   de exponentes vigentes. [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
+
+### Sesión 2026-09-30 s01 — "Heredero del estilo OI4K" — vs Darby por el TNT (ICC+)
+
+> *"me encanta este showcase para Myron, lucha titular [...] y Myron
+> como heredero del estilo OI4K motivadisimo, fue una locura, estuvfo
+> brutal, se merecen las 3 clases con la corona +"*
+>
+> — El Vehemiurgo, 2026-09-30 s01 (verbatim, typos preservados)
+
+- `2026 09 19 AEW Collision`, opener, TNT Championship: pierde por
+  Coffin Drop (11:23); Darby lo pone over en el post-match.
+  [Ficha](../matches/2026-09-19-darby-allin-vs-myron-reed-tnt-aew-collision.md).
+- Primera vez que el Vehemiurgo lo nombra *heredero de OI4K* sobre una
+  lucha concreta; confirma su lugar en el panteón Y2K HIGHSPEED como
+  guardián de la escuela de Ohio
+  ([panteón](../topics/panteon-y2k-highspeed.md)).
 
 ## Pendientes / huecos
 

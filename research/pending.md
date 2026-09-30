@@ -7,8 +7,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `aew-160926-me-collision-190926-dynamite-230926` | Main event Dynamite 16/9 + cards completas Collision 19/9 y Dynamite 23/9 + All Out | Volcado 2026-09-30 s01 | 2026-09-30 | Fichas nuevas de match/segment |
-| `indie-mx-skayler-visionario` | Identidad, promoción, fechas y resultados de 4 luchas del indie mexicano (Mi Sagrada Lucha Libre / Arena Ancestral / King Phantom Navideño) | Volcado 2026-09-30 s01 | 2026-09-30 | Fichas nuevas + nombres canónicos |
+
+> `aew-160926-me-collision-190926-dynamite-230926` e `indie-mx-skayler-visionario`
+> cerradas e integradas el 2026-09-30 (s01) — ver [`closed.md`](./closed.md).
 
 > `pendientes-fichas-sep26-aew`, `-wwe-a`, `-wwe-b` y `-aaa` cerradas e
 > integradas el 2026-09-23 (s01) — ver [`closed.md`](./closed.md).

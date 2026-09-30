@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: don-callis
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s13 (visión directa — AEW Collision Fairway to Hell, 9/5/2026)"
   - "Dossier draft-aaa-aew-2026-cluster.md (Don Callis Family)"
@@ -216,6 +216,12 @@ Callis/Foley celebrado como novedad. Ver
 - *"promo de los heels FTR y la DCF, muy bueno, con Don Callis con el
   soporte, programación de calidad"*. Callis reclama la oportunidad
   para Fletcher/Knight y choca con Stokely. [Ficha](../segments/2026-09-16-ftr-dcf-stokely-callis-heels-backstage-aew-dynamite.md).
+
+### Sesión 2026-09-30 s01 — "Con el soporte", otra vez: culpa a Stokely (WE)
+
+- `2026 09 19 AEW Collision`, promo grabada, **WE**: *"la misma
+  fórmula que el booking de protoshida, pero Kevin Knight es mil veces
+  más entretenido, está bien que lo intenten otra vez"*. [Ficha](../segments/2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md).
 
 ## Pendientes / huecos
 

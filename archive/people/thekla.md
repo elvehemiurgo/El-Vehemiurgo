@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: thekla
 estado: stub
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcados AEW Dynamite 25 mar + Collision 11 abr 2026)"
 tags: [thekla, stardom-austriaca, god-s-eye-oedo-tai-verif, proyecto-thekla, nivel-fatal-influence, aew-stardom-partnership-verif, fighting-spirit-recurrente, spider-gimmick-verif]
@@ -257,6 +257,19 @@ de íconos — riesgo de caer en cliché de heel grandilocuente, evitado
 justo a tiempo con la celebración con los fans. Tease de revancha
 titular contra Mercedes Moné. Pieza:
 [interrumpe a Moné](../segments/2026-09-02-thekla-interrumpe-celebracion-mercedes-mone-aew-dynamite.md) (WE).
+
+### Sesión 2026-09-30 s01 — "Heel cool con la psicología de la nWo o Perros del Mal" (ICC)
+
+> *"Thekla se ve muy bien como heel cool con la psicologia de la NWO o
+> Perros del Mal, es un heel pero tiene todo el apoyo de la gente, es
+> un rol interesante y me gusta todo el booking hasta ahora"*
+>
+> — El Vehemiurgo, 2026-09-30 s01 (verbatim, typos preservados)
+
+- `2026 09 19 AEW Collision`, vs Zayda Steel (retorno al ring),
+  **ICC**: gana por curb stomp (11:18). [Ficha](../matches/2026-09-19-thekla-vs-zayda-steel-aew-collision.md).
+- Contexto posterior (research): ganó el #1 contender ante Willow en
+  All Out (13:19).
 
 ## Pendientes / huecos
 

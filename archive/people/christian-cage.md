@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: christian-cage
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 1 'Christian Cage como héroe fundamental'"
   - "Dossieres TNA 2007 + WWE Raw 2004-2005 + WWE SmackDown 2002 + WWE MITB 2013 + AEW 2026"
@@ -462,6 +462,18 @@ satisfecho con hacer trampa sin querer hacerla él mismo. Pieza:
   [Ficha](../segments/2026-09-16-darby-responde-a-christian-faces-backstage-aew-dynamite.md).
 - **8-man tag** (ICC+): Dax termina estrellado contra la silla que
   blande Christian. [Ficha](../matches/2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md).
+
+### Sesión 2026-09-30 s01 — "Lo mejor de AEW constantemente" — segmento a tres bandas (WE+)
+
+> *"y obvio Christian que es lo mejor de AEW constantemente"*
+>
+> — El Vehemiurgo, 2026-09-30 s01 (verbatim)
+
+- `2026 09 23 AEW Dynamite`, segmento in-ring con Bucks, Cope y FTR,
+  **WE+**. A Matt: *"ésta será tu última oportunidad"* (paráfrasis
+  reportada). [Ficha](../segments/2026-09-23-young-bucks-cope-christian-ftr-segmento-in-ring-aew-dynamite.md).
+- Contexto posterior (research): pierde los títulos en All Out (BTE
+  Trigger desde la escalera sobre él).
 
 ## Pendientes / huecos
 

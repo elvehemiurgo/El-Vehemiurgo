@@ -12,6 +12,8 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-09-23 | Cope, backstage, a Darby Allin y Steven Borden: 'ahora alcanzas leyendas' | AEW / Dynamite (especial de 3 horas Dynamite + Collision) | promo backstage | — | — | en-investigacion | 1 | [→](2026-09-23-cope-promo-backstage-a-darby-y-borden-aew-dynamite.md) |
+| 2026-09-23 | Segmento in-ring: Young Bucks, Cope & Christian y FTR antes del ladder match de All Out | AEW / Dynamite (especial de 3 horas Dynamite + Collision) | segmento in-ring / careo a tres bandas + brawl | WE+ | — | en-investigacion | 1 | [→](2026-09-23-young-bucks-cope-christian-ftr-segmento-in-ring-aew-dynamite.md) |
 | 2026-09-21 | 946 secuestra a Solo Sikoa — lo mete al baúl de un auto, amenaza al Bloodline | WWE / Raw | post-match angle / secuestro | WE | — | en-investigacion | 1 | [→](2026-09-21-ataque-secuestro-solo-946-wwe-raw.md) |
 | 2026-09-21 | Backstage con el Bloodline y Solo Sikoa — presión de 946 | WWE / Raw | promo backstage | WE | — | en-investigacion | 1 | [→](2026-09-21-backstage-bloodline-solo-946-wwe-raw.md) |
 | 2026-09-21 | Careo Roxanne Perez y Lola Vice — foreshadowing con Heyman mirando por TV | WWE / Raw | careo | — | — | en-investigacion | 1 | [→](2026-09-21-careo-roxanne-lola-vice-wwe-raw.md) |
@@ -24,6 +26,8 @@ cada alta y con cada cambio de estado.
 | 2026-09-21 | Oba Femi regresa y limpia el ring de The Vision — lanza a Jevon Evans como proyectil | WWE / Raw | post-match angle | WE+ | — | en-investigacion | 1 | [→](2026-09-21-oba-femi-ataque-postmatch-wwe-raw.md) |
 | 2026-09-21 | Penta corta promo como face, interrumpido por Dominik Mysterio y JD McDonagh | WWE / Raw | promo in-ring | WE+ | — | en-investigacion | 1 | [→](2026-09-21-penta-promo-dom-jd-wwe-raw.md) |
 | 2026-09-21 | Promo video de apertura — recap de Reigns vs Penta y el ataque post-match de LA Knight | WWE / Raw | promo video / hype package | WE+ | — | en-investigacion | 1 | [→](2026-09-21-promo-video-apertura-penta-la-knight-wwe-raw.md) |
+| 2026-09-19 | Bang Bang Gang reta a The Dogs y Death Riders a un Tailgate Brawl en All Out | AEW / Collision | promo backstage | WE+ | — | en-investigacion | 1 | [→](2026-09-19-bang-bang-gang-challenge-tailgate-brawl-aew-collision.md) |
+| 2026-09-19 | Don Callis Family: Callis culpa a la estrategia de Stokely por la derrota; Okada responde a Ciampa | AEW / Collision | promo grabada (After Dynamite) / backstage | WE | — | en-investigacion | 1 | [→](2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md) |
 | 2026-09-18 | Backstage: Chelsea Green y Tiffany Stratton, interrumpidas por el regreso de Nikki Bella | WWE / SmackDown | promo backstage / regreso sorpresa | WE | — | en-investigacion | 1 | [→](2026-09-18-chelsea-green-nikki-bella-backstage-wwe-smackdown.md) |
 | 2026-09-18 | Cody Rhodes — entrevista, corta promos como los grandes | WWE / SmackDown | entrevista | WE | — | en-investigacion | 1 | [→](2026-09-18-cody-rhodes-entrevista-wwe-smackdown.md) |
 | 2026-09-18 | Backstage con Danhausen, Nick Aldis y Chelsea Green | WWE / SmackDown | comedy segment backstage | — | — | en-investigacion | 1 | [→](2026-09-18-danhausen-aldis-chelsea-backstage-wwe-smackdown.md) |

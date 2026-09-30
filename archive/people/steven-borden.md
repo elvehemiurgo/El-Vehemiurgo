@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: steven-borden
 estado: stub
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-09-30
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8, Collision 29/8 y All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -149,6 +149,21 @@ vs Young Bucks esa misma noche corriendo con sillas al save. Piezas:
   abajo con la apadrinación de Sting. Es el caso bien hecho frente a
   Goldberg. Doctrina: [arquetipo del heredero outsider](../topics/arquetipo-el-heredero-outsider.md).
 - All Out (26/9): Darby & Borden vs Fletcher & Knight.
+
+### Sesión 2026-09-30 s01 — El rookie que todavía no habla — Collision 19/9 y Dynamite 23/9
+
+- `2026 09 19 AEW Collision`: en la esquina de Darby vs Myron Reed;
+  Darby le dice en el post-match que hacer equipo con Sting fue de lo
+  mejor de su vida. [Ficha](../matches/2026-09-19-darby-allin-vs-myron-reed-tnt-aew-collision.md).
+- `2026 09 23 AEW Dynamite`, promo de Cope, **sin clase**: *"buena
+  idea no dejar hablar a Steven todavia, tal vez se apuraron con este
+  àngulo, de verdad el rookie està verde"*. Borden no habla; Darby
+  acepta el reto. [Ficha](../segments/2026-09-23-cope-promo-backstage-a-darby-y-borden-aew-dynamite.md).
+- **Contexto posterior** (research, no take): `2026 09 26 AEW All
+  Out`, Darby & Borden vs Fletcher & Knight terminó en **paro médico
+  (12:25)**: Borden cayó de cabeza en un choque aéreo y fue
+  hospitalizado; CT limpio según Tony Khan. Sin dictado del
+  Vehemiurgo todavía.
 
 ## Pendientes / huecos
 
