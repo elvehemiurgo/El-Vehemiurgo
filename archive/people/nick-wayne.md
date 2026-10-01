@@ -104,5 +104,5 @@ lo aprovecha. Sin clase declarada. Pieza:
 
 - [`./christian-cage.md`](./christian-cage.md)
 - [`./mjf.md`](./mjf.md)
-- [`./mike-bailey.md`](./mike-bailey.md)
+- [`./speedball-mike-bailey.md`](./speedball-mike-bailey.md)
 - Volcado: [`../../notebook/2026-08-01-s57-aew-gsm-050826-dynamite-120826-collision-150826-dynamite-190826.md`](../../notebook/2026-08-01-s57-aew-gsm-050826-dynamite-120826-collision-150826-dynamite-190826.md)

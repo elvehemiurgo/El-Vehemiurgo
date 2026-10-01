@@ -76,7 +76,7 @@ cuando el trabajo está cuidado.
 - [`../people/kyle-fletcher.md`](../people/kyle-fletcher.md)
 - [`../people/jake-doyle.md`](../people/jake-doyle.md)
 - [`../people/brian-cage.md`](../people/brian-cage.md)
-- [`../people/mike-bailey.md`](../people/mike-bailey.md)
+- [`../people/speedball-mike-bailey.md`](../people/speedball-mike-bailey.md)
 - [`../people/brody-king.md`](../people/brody-king.md)
 - [`../people/bandido.md`](../people/bandido.md)
 - [`../segments/2026-07-29-don-callis-family-fletcher-knight-okada-aew-dynamite.md`](../segments/2026-07-29-don-callis-family-fletcher-knight-okada-aew-dynamite.md)

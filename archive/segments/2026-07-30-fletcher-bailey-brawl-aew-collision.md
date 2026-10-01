@@ -81,7 +81,7 @@ Bailey levanta. **El match se confirma para Grand Slam Mexico.**
 ## Piezas relacionadas
 
 - [`../people/kyle-fletcher.md`](../people/kyle-fletcher.md)
-- [`../people/mike-bailey.md`](../people/mike-bailey.md)
+- [`../people/speedball-mike-bailey.md`](../people/speedball-mike-bailey.md)
 - [`../matches/2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md`](../matches/2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md)
 - [`../segments/2026-07-29-don-callis-family-fletcher-knight-okada-aew-dynamite.md`](../segments/2026-07-29-don-callis-family-fletcher-knight-okada-aew-dynamite.md)
 - Volcado: [`../../notebook/2026-08-01-s37-aew-gsm-050826-collision-300726.md`](../../notebook/2026-08-01-s37-aew-gsm-050826-collision-300726.md)

@@ -97,7 +97,7 @@ que no impide el "clásico instantáneo"** (doctrina §4, regla 3).
 ## Piezas relacionadas
 
 - [`../people/kyle-fletcher.md`](../people/kyle-fletcher.md)
-- [`../people/mike-bailey.md`](../people/mike-bailey.md)
+- [`../people/speedball-mike-bailey.md`](../people/speedball-mike-bailey.md)
 - [`../segments/2026-07-30-fletcher-bailey-brawl-aew-collision.md`](../segments/2026-07-30-fletcher-bailey-brawl-aew-collision.md)
 - Volcado: [`../../notebook/2026-08-01-s37-aew-gsm-050826-collision-300726.md`](../../notebook/2026-08-01-s37-aew-gsm-050826-collision-300726.md)
 

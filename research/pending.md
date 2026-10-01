@@ -7,6 +7,9 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
+| `pac-fallecimiento-2026` | Verificar el fallecimiento de PAC tras All Out 2026 (fecha, fuente primaria, causa reportada) | Volcado 2026-10-01 s01 ("la muerte de PAC después de All Out") | 2026-10-01 | `archive/people/pac.md` (estado) + fichas del 23/9 |
+| `pac-evolucion-entertainment-wwe` | Dossier: cómo PAC/Neville trabajó el entertainment en WWE — gimmick superhéroe, heel turn 2017, coaches, influencias, fechas | Pedido explícito del Vehemiurgo 2026-10-01 s01 | 2026-10-01 | `dossiers/` + `archive/people/pac.md` |
+| `dynamite-230926-h2-h3-all-out-tailgate` | Detalle de segmentos de la 2ª y 3ª hora del Dynamite 23/9 + pre-show de All Out (entradas, Foley/BBG, promo video) | Volcado 2026-10-01 s01 | 2026-10-01 | Fichas nuevas |
 
 > `aew-160926-me-collision-190926-dynamite-230926` e `indie-mx-skayler-visionario`
 > cerradas e integradas el 2026-09-30 (s01) — ver [`closed.md`](./closed.md).

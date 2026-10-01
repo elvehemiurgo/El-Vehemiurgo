@@ -102,7 +102,7 @@ destinatario declarado.
 ## Cross-links
 
 - [`../people/mjf.md`](../people/mjf.md)
-- [`../people/mike-bailey.md`](../people/mike-bailey.md)
+- [`../people/speedball-mike-bailey.md`](../people/speedball-mike-bailey.md)
 - [`../segments/2026-08-12-mjf-post-match-in-ring-aew-dynamite.md`](../segments/2026-08-12-mjf-post-match-in-ring-aew-dynamite.md)
 - [`../segments/2026-08-05-mjf-embosca-andrade-main-event-robado-aew-gsm.md`](../segments/2026-08-05-mjf-embosca-andrade-main-event-robado-aew-gsm.md)
 - [`./2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md`](./2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md)
