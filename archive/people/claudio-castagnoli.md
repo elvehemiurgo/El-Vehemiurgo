@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: claudio-castagnoli
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s10 (visión directa — AEW Dynamite 29/4/2026)"
 tags: [claudio-castagnoli, death-riders, aew, unico-que-se-salva-del-veredicto]
@@ -46,6 +46,9 @@ booking de la facción entera (todos pierden sin ganancia
 narrativa), Claudio es la única excepción declarada — [verif] por
 qué exactamente (¿mejor in-ring? ¿mejor posicionamiento en el
 booking?).
+
+### Sesión 2026-10-01 s01 — vs Ospreay y Bailey (ICC+)
+- `2026 09 23 AEW Dynamite`, con Kidd, **ICC+**: cae con el Styles Clash. [Ficha](../matches/2026-09-23-ospreay-bailey-vs-claudio-gabe-kidd-aew-dynamite.md).
 
 ## Pendientes / huecos
 

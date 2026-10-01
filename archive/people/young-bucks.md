@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: young-bucks
 estado: stub
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynasty 2026) — declaración de héroes fundamentales"
 tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, superkick-party, bte, tandem-moderno, heroes-fundamentales-vehemiurgia, dos-perfect-match-2026, panteon-vehemiurgo]
@@ -177,6 +177,9 @@ la irrupción de Christian Cage y Cope en el mismo segmento — ver
   que les está faltando es mic"*. [Ficha](../segments/2026-09-23-young-bucks-cope-christian-ftr-segmento-in-ring-aew-dynamite.md).
 - Contexto posterior (research): ganan el three-way ladder match de
   All Out (23:25), primeros cuatro veces campeones de parejas de AEW.
+
+### Sesión 2026-10-01 s01 — Promo video del ladder match (WE)
+- `2026 09 26 AEW All Out` pre-show, **WE**. Esa noche ganan el ladder match, primeros cuatro veces campeones. [Ficha](../segments/2026-09-26-promo-video-ladder-match-bucks-cope-cage-ftr-aew-all-out-tailgate.md).
 
 ## Pendientes / huecos
 

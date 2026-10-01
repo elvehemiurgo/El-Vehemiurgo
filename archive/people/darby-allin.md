@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: darby-allin
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s08 (visión directa — AEW Dynamite 22/4/2026)"
 tags: [darby-allin, aew, campeon-por-culpa-de-mjf, perfect-match-vs-tomasso, sorpresa-no-soy-fan]
@@ -346,6 +346,9 @@ Borden). Piezas:
   Darby responde *"challenge accepted"*. [Ficha](../segments/2026-09-23-cope-promo-backstage-a-darby-y-borden-aew-dynamite.md).
 - Contexto posterior (research): en All Out, Fletcher & Knight
   vencieron a Darby & Borden por paro médico (lesión de Borden).
+
+### Sesión 2026-10-01 s01 — "Don't call it an upset" (WE)
+- `2026 09 23 AEW Dynamite`, desde las gradas con Borden, en la promo de Fletcher y Knight, **WE**: *"me gusta la dinámica de 'just don't call it an upset'"*. [Ficha](../segments/2026-09-23-fletcher-knight-promo-dont-call-it-an-upset-darby-borden-aew-dynamite.md).
 
 ## Pendientes / huecos
 

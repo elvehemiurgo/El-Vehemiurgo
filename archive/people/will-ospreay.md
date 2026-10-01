@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: will-ospreay
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026"
   - "Multiple retrospectivas Cornette critical + Meltzer favorable"
@@ -419,6 +419,10 @@ baja la clase, es objeción de programación. Pieza:
   casa. [Ficha](../matches/2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md).
 - Contexto posterior (research): retuvo el AEW World ante Moxley en
   All Out, su primera victoria sobre él.
+
+### Sesión 2026-10-01 s01 — Tag con Bailey (ICC+) y promo de campeón (WE al cierre)
+- `2026 09 23 AEW Dynamite`, con Mike Bailey vs Claudio y Kidd, **ICC+**: *"Ospreay super op con los hot tag se vio muy cool [...] solo le falta deshacerse definitivamente de Mox"*. [Ficha](../matches/2026-09-23-ospreay-bailey-vs-claudio-gabe-kidd-aew-dynamite.md).
+- Promo post match, **WE al cierre**: *"promo de face campeón mundial correcta"*; agradecer a Moxley *"según el delirio de kayfabe que tiene AEW con Moxley, es súper ridículo"*. [Ficha](../segments/2026-09-23-ospreay-promo-moxley-kidd-feel-like-the-champion-aew-dynamite.md).
 
 ## Pendientes
 

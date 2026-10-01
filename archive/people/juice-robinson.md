@@ -4,14 +4,18 @@ tipo: fact-sheet
 categoria: people
 slug: juice-robinson
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s22 (visión directa — AEW Collision, 6/6/2026)"
-tags: [juice-robinson, the-dogs-verif, bullet-club, bang-bang-gang, aew, njpw, over-the-top, bueno-en-el-ring, primer-registro]
+tags: [juice-robinson, heroe-fundamental-53, panteon, the-dogs-verif, bullet-club, bang-bang-gang, aew, njpw, over-the-top, bueno-en-el-ring, primer-registro]
 ---
 
 # Juice Robinson
 
+> **Héroe Fundamental #53 del Vehemiurgo** (Tier 3, alta 2026-10-01
+> s01): *"Juice Robinson es muy pro, debe estar en el panteon de ahora
+> en adelante"*.
+>
 > Primer registro del archivo. Parte del rematch The Dogs vs The
 > Guns como integrante presumido de **The Dogs** [verif] —
 > coherente con la nostalgia Bullet Club/Bang Bang Gang ya
@@ -83,6 +87,29 @@ rivalidad. Ver
   un challenge para un brawl en all out [...] se pusieron muy oldschool
   como siempre"*. Juice forma al grupo como escuadra de fútbol
   americano. [Ficha](../segments/2026-09-19-bang-bang-gang-challenge-tailgate-brawl-aew-collision.md).
+
+### Sesión 2026-10-01 s01 — Héroe Fundamental #53 — "muy pro"
+
+> *"la lucha del bang bang gang vs dogs & death riders, estuvo
+> increible, los gimmicks, la velocidad, el respeto a lo oldshcool
+> realista, estuvo buena, seguro costó bookearla y se nota que querian
+> hacer must watch todo el evento, para eso es el buy in, estuvo genial
+> , y muy dura, le dieron un gran momento a Ace Austin, todos se
+> lucieron, buenas secuencias, spots geniales, el timing y todo, Juice
+> Robinson es muy pro, debe estar en el panteon de ahora en adelante
+> añadirlo al último de todo"*
+>
+> — El Vehemiurgo, 2026-10-01 s01 (verbatim, typos preservados)
+
+- **Alta al panteón general como Héroe Fundamental #53** (Tier 3),
+  último lugar por pedido explícito.
+- Pieza: Tornado Tailgate Brawl, `2026 09 26 AEW All Out` pre-show,
+  sin clase declarada; ganó el Bang Bang Gang. Juice, de "Coach",
+  saca a Marina Shafir con un judo throw.
+  [Ficha](../matches/2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md).
+- Mismo día: Mick Foley entrevista al grupo, **WE+**
+  ([ficha](../segments/2026-09-26-mick-foley-entrevista-bang-bang-gang-aew-all-out-tailgate.md)),
+  y las entradas, **WE**.
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jon-moxley
 estado: stub
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
 tags: [jon-moxley, dean-ambrose, the-shield, death-riders-lider, aew-world-champion-multiple, promos-fake-criterio-vehemiurgo, run-campeon-aburrido-vehemiurgo, combustible-para-ospreay, acto-que-no-le-interesa-al-vehemiurgo, faceturn-rechazado-como-buen-booking, tony-khan-favoritismo-no-es-merito, autoconsciente-debil-masoquista-anti-oldschool, claudio-castagnoli-unico-que-se-salva]
@@ -301,6 +301,10 @@ y [`./nicho-el-millonario.md`](./nicho-el-millonario.md).
   Akira (16:44). [Ficha](../matches/2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md).
 - Contexto posterior (research): perdió ante Ospreay en All Out
   (~33:00, Hidden Blade) y le entregó el título.
+
+### Sesión 2026-10-01 s01 — "El delirio de kayfabe" y "Mox resta mucho"
+- `2026 09 23 AEW Dynamite`, promo de Ospreay: *"agradecer a Mox y nombrar todo lo que supuestamente aporta según el delirio de kayfabe que tiene AEW con Moxley, es súper ridículo [...] pero Mox resta mucho"*. [Ficha](../segments/2026-09-23-ospreay-promo-moxley-kidd-feel-like-the-champion-aew-dynamite.md).
+- `2026 09 26 AEW All Out`, entradas: *"si se van por ese gimmick sería una variante de los Death Riders más disfrutable"*. [Ficha](../segments/2026-09-26-entradas-tailgate-brawl-dogs-death-riders-bang-bang-gang-aew-all-out.md).
 
 ## Pendientes / huecos
 

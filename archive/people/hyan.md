@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: hyan
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Rebel Heart, 9/9/2026, timestamp 00:34:24)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (Wrestlezone, 411mania); WebFetch bloqueado por egress"
@@ -58,6 +58,9 @@ final.
   **ICC+**, derrota por cradle con la cuerda (8:52). [Ficha](../matches/2026-09-23-persephone-vs-hyan-tbs-aew-dynamite.md).
 - El booking la protege perdiendo: el Vehemiurgo lo lee como
   correcto, *"protegerla mientras Persephone hace más cosas de heel"*.
+
+### Sesión 2026-10-01 s01 — Nueva pareja: Thunder Rosa (sin clase)
+- `2026 09 23 AEW Dynamite`, backstage post match: *"una face con personalidad, buenos rubs para ella ahora con Thunder Rosa [...] segmento sólido"*. [Ficha](../segments/2026-09-23-hyan-thunder-rosa-nueva-pareja-backstage-aew-dynamite.md).
 
 ## Pendientes / huecos
 

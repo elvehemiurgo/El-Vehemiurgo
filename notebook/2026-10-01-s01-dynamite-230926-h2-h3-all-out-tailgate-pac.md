@@ -174,6 +174,24 @@ tags: [aew-dynamite-2026, aew-all-out-2026, tailgate-brawl, pac, ace-austin, wil
 - Nick Wayne: *"no aprendió nada de Christian en su momento y ahora espero que sí aprenda algo de Jericho"*.
 - **PAC**: *"tiene que ser el cruiserweight más revolucionario de su generación, es una pérdida muy grande"*; *"que PAC descanse en poder"*; *"es loco que PAC adoptara el gimmick de Dynamite Kid setentero y terminara despidiéndose"*.
 
+## Continuación del dictado (mismo s01) — la lucha del Tailgate Brawl y alta de Juice Robinson
+
+> *"la lucha del bang bang gang vs dogs & death riders, estuvo
+> increible, los gimmicks, la velocidad, el respeto a lo oldshcool
+> realista, estuvo buena, seguro costó bookearla y se nota que querian
+> hacer must watch todo el evento, para eso es el buy in, estuvo genial
+> , y muy dura, le dieron un gran momento a Ace Austin, todos se
+> lucieron, buenas secuencias, spots geniales, el timing y todo, Juice
+> Robinson es muy pro, debe estar en el panteon de ahora en adelante
+> añadirlo al último de todo"*
+>
+> — El Vehemiurgo, 2026-10-01 s01 (verbatim, typos preservados)
+
+- Pieza 13 (antes "dictado cortado") → **sin clase declarada**; ficha
+  propia.
+- **Alta al panteón general: Juice Robinson, Héroe Fundamental #53**
+  (Tier 3, último lugar).
+
 ## Distribución
 
 - Notebook: este archivo.
@@ -193,5 +211,5 @@ tags: [aew-dynamite-2026, aew-all-out-2026, tailgate-brawl, pac, ace-austin, wil
 
 ## Próximos pasos
 
-- [ ] Integrar los tres research.
-- [ ] Fichas, índices, vistas, lint, commit.
+- [x] Integrar los tres research.
+- [x] Fichas, índices, vistas, lint, commit.

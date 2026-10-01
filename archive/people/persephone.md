@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: persephone
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo, Arena Tony Arellano 21 ene 2025"
@@ -259,6 +259,9 @@ World" es la rival a la que le ganó el TBS, no un título. Pieza:
   cosas de heel y le mete más al micrófono"*. [Ficha](../matches/2026-09-23-persephone-vs-hyan-tbs-aew-dynamite.md).
 - Contexto posterior (research): retuvo en All Out ante Dani Luna
   (RUNNER UPS #3, debut en AEW), 14:42.
+
+### Sesión 2026-10-01 s01 — "El 90% del paquete completo" (WE)
+- `2026 09 23 AEW Dynamite`, backstage con Baker, **WE**: *"ya es el 90% del paquete completo súper enfocado a crecer y crecer, igual como Kyle Fletcher y Kevin Knight, ese nivel de creación de estrellas"*. [Ficha](../segments/2026-09-23-britt-baker-persephone-promo-mentora-open-challenge-aew-dynamite.md).
 
 ## Pendientes / huecos
 

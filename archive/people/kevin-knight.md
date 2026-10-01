@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-knight
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s09 (visión directa — AEW Dynamite 29/4/2026)"
 tags: [kevin-knight, aew, upset-vs-mjf, low-blow-finish, the-future-in-2026]
@@ -344,6 +344,10 @@ y los reserva como equipo en Collision. Ver
 - `2026 09 19 AEW Collision`, promo de la DCF, **WE**. [Ficha](../segments/2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md).
 - Contexto posterior (research): con Fletcher venció a Darby & Borden
   en All Out por paro médico.
+
+### Sesión 2026-10-01 s01 — Showcase (ICC) y "cakewalk" contra el rookie (WE)
+- `2026 09 23 AEW Dynamite`, vs The Outrunners, **ICC**: UFO Splash para el pin. [Ficha](../matches/2026-09-23-fletcher-knight-vs-the-outrunners-aew-dynamite.md).
+- Promo post match, **WE**: el Vehemiurgo recuerda *"Steven es un rookie y hace todos mis movimientos"* (no textual en prensa). [Ficha](../segments/2026-09-23-fletcher-knight-promo-dont-call-it-an-upset-darby-borden-aew-dynamite.md).
 
 ## Pendientes / huecos
 

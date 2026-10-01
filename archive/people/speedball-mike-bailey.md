@@ -188,6 +188,9 @@ lo que su gimmick sugeriría a primera vista.
 [vs Kyle Fletcher, International](../matches/2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md) (ICC — segunda lectura) ·
 [three-way por el spot #2 del Casino Gauntlet](../matches/2026-08-12-mjf-vs-mike-bailey-vs-nick-wayne-aew-dynamite.md) (WE)
 
+### Sesión 2026-10-01 s01 — Rub como babyface: "tiene que meterle al micrófono"
+- `2026 09 23 AEW Dynamite`, con Ospreay vs Claudio y Kidd, **ICC+**: *"buen rub para Bayley como babyface en el midcard, tiene que meterle al micrófono para destacar más, el potencial está ahí, en México se vio increíble"*. Esa noche entra a United Empire. [Ficha](../matches/2026-09-23-ospreay-bailey-vs-claudio-gabe-kidd-aew-dynamite.md).
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, origen, debut, trayectoria pre-AEW.

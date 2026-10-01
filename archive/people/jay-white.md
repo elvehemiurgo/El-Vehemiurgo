@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jay-white
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s29 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
   - "Mención previa como ausente/esperado en archive/people/the-dogs.md (s19-s26)"
@@ -199,6 +199,9 @@ y el video previo
 
 - `2026 09 19 AEW Collision`, promo del Bang Bang Gang, **WE+**:
   quarterback en la formación de Juice. [Ficha](../segments/2026-09-19-bang-bang-gang-challenge-tailgate-brawl-aew-collision.md).
+
+### Sesión 2026-10-01 s01 — QB del Tailgate Brawl: "esto es wrestling" (WE)
+- `2026 09 26 AEW All Out`, entradas, **WE**: *"qb jay white, increible, esto es wrestling"*. Gana el brawl con el Blade Runner a Yuta. [Entradas](../segments/2026-09-26-entradas-tailgate-brawl-dogs-death-riders-bang-bang-gang-aew-all-out.md) · [lucha](../matches/2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md).
 
 ## Pendientes / huecos
 

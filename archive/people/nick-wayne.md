@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nick-wayne
 estado: stub
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-31 s57 (VISIONADO DIRECTO — AEW Dynamite 12/8/2026)"
   - "Sub-agentes de research s57 (2026-08-31) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -92,6 +92,9 @@ lo aprovecha. Sin clase declarada. Pieza:
   Omega mucho, o sea, se mueve igual en el selling"*. Es la pieza
   disparadora de la doctrina Y2K HIGHSPEED, donde la imitación del
   estilo Omega se lee como copia de la copia ([doctrina](../topics/doctrina-y2k-highspeed.md)).
+
+### Sesión 2026-10-01 s01 — "Creo que sí quiere evolucionar" (sin clase)
+- `2026 09 23 AEW Dynamite`, in-ring con Jericho, sin clase: *"Nick de hecho cortó una buena promo, aunque insiste con los manerismos y muecas de Kenny Omega [...] pero creo que sí quiere evolucionar"*; *"no aprendió nada de Christian en su momento y ahora espero que sí aprenda algo de Jericho"*. Primer giro favorable del archivo sobre él. [Ficha](../segments/2026-09-23-jericho-nick-wayne-in-ring-bockwinkel-paris-aew-dynamite.md).
 
 ## Pendientes / huecos
 

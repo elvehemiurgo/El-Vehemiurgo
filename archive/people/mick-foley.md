@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mick-foley
 estado: vivo
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
 tags: [mick-foley, aew, leyenda, wrestling-entertainment, primer-registro]
@@ -80,6 +80,9 @@ segmento post-match de Fletcher (Wrestling Entertainment). Ver
 
 **Piezas de la sesión**:
 [el segmento backstage](../segments/2026-08-12-bang-bang-gang-mick-foley-backstage-aew-dynamite.md) (WE)
+
+### Sesión 2026-10-01 s01 — Entrevista al Bang Bang Gang (WE+)
+- `2026 09 26 AEW All Out` pre-show, **WE+**: *"top tier wrestling, muy oldschool, full gimmick"*. Primer take sobre Foley en rol de entrevistador. [Ficha](../segments/2026-09-26-mick-foley-entrevista-bang-bang-gang-aew-all-out-tailgate.md).
 
 ## Pendientes / huecos
 

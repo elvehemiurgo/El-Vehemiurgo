@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: britt-baker
 estado: vivo
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (visión directa — AEW All In: London, 30/8/2026, Buy In)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (Fightful, Fox News/OutKick); WebFetch bloqueado por egress"
@@ -36,6 +36,9 @@ tags: [britt-baker, persephone, tbs-championship, regreso, stub]
   anunciando la defensa del TBS Championship contra VertVixen en
   Collision
   ([→](../segments/2026-09-02-persephone-britt-baker-backstage-aew-dynamite.md)).
+
+### Sesión 2026-10-01 s01 — Mentora de Persephone (WE)
+- `2026 09 23 AEW Dynamite`, backstage, **WE**: *"DMD mentoreando a Perse en AEW es una gran idea la verdad, dentro de su kayfabe sí es la gran cosa y es para que Perse brille"*. [Ficha](../segments/2026-09-23-britt-baker-persephone-promo-mentora-open-challenge-aew-dynamite.md).
 
 ## Pendientes / huecos
 

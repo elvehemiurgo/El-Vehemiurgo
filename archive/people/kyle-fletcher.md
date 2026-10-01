@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kyle-fletcher
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
 tags: [kyle-fletcher, aussie-open, don-callis-family-verif, aew, primer-registro, turn-babyface-takeshita]
@@ -248,6 +248,10 @@ corto bien ejecutado**.
   los ùltimos tiempos [...] lo màs peak que puedes ver de wrestling en
   tv"*. Australiano, *"no es americano pero es un gran exponente"*.
   [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
+
+### Sesión 2026-10-01 s01 — "Estratega, más líder que Knight": Outrunners (ICC) y promo (WE)
+- `2026 09 23 AEW Dynamite` (hora Collision), vs The Outrunners, **ICC**: *"tener a Kyle como estratega recuperando el control cada vez, mostrándose más como líder que Knight, ese roce es buena programación"*. [Ficha](../matches/2026-09-23-fletcher-knight-vs-the-outrunners-aew-dynamite.md).
+- Promo post match, **WE**. [Ficha](../segments/2026-09-23-fletcher-knight-promo-dont-call-it-an-upset-darby-borden-aew-dynamite.md).
 
 ## Pendientes / huecos
 

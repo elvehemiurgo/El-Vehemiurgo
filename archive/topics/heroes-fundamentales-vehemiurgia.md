@@ -4,7 +4,7 @@ slug: heroes-fundamentales-vehemiurgia
 tipo: topic
 categoria: doctrina-tradicion
 estado: vivo
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Notebooks del Vehemiurgo (declaraciones dispersas 2026-05-09 → 2026-06-17)"
   - "Reorganización completa del panteón 2026-05-26"
@@ -183,6 +183,7 @@ pase al Tier 1 y le fijó el **puesto #6**.*
 | 50 | **Laredo Kid** | Lucha libre mexicana / high-flying (AAA) | [→](../people/laredo-kid.md) |
 | 51 | ~~Chelsea Green~~ → **ascendida a Tier 0** (2026-08-01 s26) | WWE moderno / kayfabe y amor por el gimmick | _(slot preservado)_ |
 | 52 | ~~Nick Aldis~~ → **ascendido a Tier 0** (2026-08-01 s26) | NWA / estilo clásico, GM-luchador | _(slot preservado)_ |
+| 53 | **Juice Robinson** | AEW / Bang Bang Gang — ex Bullet Club NJPW | [→](../people/juice-robinson.md) |
 
 ## Notas de la expansión masiva del Tier 0 (2026-08-01 s26)
 
@@ -548,6 +549,33 @@ exactamente la definición de "la sombra de los 7 dioses".
 · [`../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md`](../matches/2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md)
 · [`../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md`](../matches/2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md)
 · [`../people/chelsea-green.md`](../people/chelsea-green.md)
+
+## Notas de la alta 2026-10-01 s01 — Juice Robinson (#53)
+
+> *"la lucha del bang bang gang vs dogs & death riders, estuvo
+> increible, los gimmicks, la velocidad, el respeto a lo oldshcool
+> realista, estuvo buena, seguro costó bookearla y se nota que querian
+> hacer must watch todo el evento, para eso es el buy in, estuvo genial
+> , y muy dura, le dieron un gran momento a Ace Austin, todos se
+> lucieron, buenas secuencias, spots geniales, el timing y todo, Juice
+> Robinson es muy pro, debe estar en el panteon de ahora en adelante
+> añadirlo al último de todo"*
+>
+> — El Vehemiurgo, 2026-10-01 s01 (verbatim, typos preservados)
+
+- **Juice Robinson entra como Héroe Fundamental #53** (Tier 3), en el
+  último lugar, como pidió el Vehemiurgo: *"añadirlo al último de
+  todo"*. Sin corrimientos: el #52 era el último slot.
+- **Ocasión**: el 8-man Tornado Tailgate Brawl del pre-show de `2026
+  09 26 AEW All Out`, ganado por el Bang Bang Gang (Blade Runner de
+  Jay White a Wheeler Yuta). Juice, como "Coach", sacó a Marina Shafir
+  con un judo throw tras su interferencia.
+- **El elogio**: *"muy pro"*. Es de oficio, no de un spot.
+- **Contexto en el archivo**: tres WE/WE+ seguidas del Bang Bang Gang
+  en septiembre (5/9, 19/9, 26/9), con Juice como motor de las promos
+  (el silbato del 19/9, el "Coach" del 26/9).
+- Ficha: [`../people/juice-robinson.md`](../people/juice-robinson.md) ·
+  pieza: [`../matches/2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md`](../matches/2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md)
 
 ## Notas de la alta 2026-08-01 s16 — Nick Aldis (#52)
 

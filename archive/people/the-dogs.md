@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: the-dogs
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s19 (visión directa — AEW Collision, 30/5/2026)"
 tags: [the-dogs, david-finlay, njpw-crossover, bang-bang-gang, jay-white, cope-cage-rivalidad, bullet-club-nostalgia, aew, primer-registro]
@@ -207,6 +207,9 @@ esa noche, o una etiqueta de prensa imprecisa — el Vehemiurgo no
 nombró "The Dogs" en su dictado, solo a "Gabe Kid". Piezas:
 [interrupción de Kidd](../segments/2026-09-02-gabe-kidd-interrumpe-title-shot-aew-dynamite.md) (WE) ·
 [main event](../matches/2026-09-02-main-event-5-vs-5-aew-dynamite.md) (ICC+).
+
+### Sesión 2026-10-01 s01 — Entrada del Tailgate Brawl (WE)
+- `2026 09 26 AEW All Out`, entrada estilo NFL con barril y pads, **WE**: *"la entrada de los heels estuvo increíble, en sí misma es un segmento"*. [Entradas](../segments/2026-09-26-entradas-tailgate-brawl-dogs-death-riders-bang-bang-gang-aew-all-out.md) · [lucha](../matches/2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md).
 
 ## Pendientes / huecos
 

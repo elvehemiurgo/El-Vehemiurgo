@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ace-austin
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s15 (visión directa — AEW Dynamite 13/5/2026)"
 tags: [ace-austin, aew, repertorio-debe-ser-mas-oldschool, perfect-match-vs-ospreay]
@@ -133,6 +133,10 @@ historia del cinturón.**
 - `2026 09 19 AEW Collision`, promo del Bang Bang Gang, **WE+**.
   [Ficha](../segments/2026-09-19-bang-bang-gang-challenge-tailgate-brawl-aew-collision.md). Contexto posterior (research): BBG ganó el Tailgate
   Brawl en el pre-show de All Out (12:10).
+
+### Sesión 2026-10-01 s01 — vs PAC (ICC) y el gran momento del Tailgate Brawl
+- `2026 09 23 AEW Dynamite`, vs PAC, **ICC**: *"lo mejor del estilo OI4K actualmente"*. Fue la penúltima lucha de PAC. [Ficha](../matches/2026-09-23-pac-vs-ace-austin-aew-dynamite.md).
+- `2026 09 26 AEW All Out`, Tailgate Brawl (sin clase declarada): *"le dieron un gran momento a Ace Austin"* (el *"50-yard touchdown run"*). [Ficha](../matches/2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md).
 
 ## Pendientes / huecos
 

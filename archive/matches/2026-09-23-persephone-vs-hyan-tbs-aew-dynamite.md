@@ -78,7 +78,7 @@ en comentarios. Defensa televisada antes del open challenge del PPV
 ## Pendientes
 
 - [ ] Referee.
-- [ ] **Timestamp 01:29:37**: pieza sin dictar; esperar al Vehemiurgo.
+- [x] **Timestamp 01:29:37** → dictado el 2026-10-01 como 01:29:25: Ospreay & Mike Bailey vs Claudio & Gabe Kidd, ICC+ ([ficha](./2026-09-23-ospreay-bailey-vs-claudio-gabe-kidd-aew-dynamite.md)).
 
 ## Cross-links
 

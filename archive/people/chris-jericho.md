@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chris-jericho
 estado: vivo
-ultima_actualizacion: 2026-09-22
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster Raw 2004-2005 + WCW 1999"
   - "Talk Is Jericho podcast (host) — material on-record extensivo"
@@ -243,6 +243,9 @@ Sin clase declarada sobre el segmento. Pieza:
   Para el Vehemiurgo, *"se siente como downgrade para Jericho en el
   card, pero [...] lo mantienen real"*. Sin clase declarada.
   [Ficha](../matches/2026-09-16-chris-jericho-vs-nick-wayne-aew-dynamite.md).
+
+### Sesión 2026-10-01 s01 — "Cada vez se parece más a Greg Valentine" — la lección de Bockwinkel (sin clase)
+- `2026 09 23 AEW Dynamite`, in-ring con Wayne, sin clase: *"me gusta que Jericho se puso a dibujar paralelismos, es buena idea para un talento nuevo, el booking tiene sentido, es buen rub"*. Cuenta lo que Bockwinkel le dijo (*"you go too fast and you do too many moves"*). Reto para Grand Slam: France (6/10). [Ficha](../segments/2026-09-23-jericho-nick-wayne-in-ring-bockwinkel-paris-aew-dynamite.md).
 
 ## Pendientes
 

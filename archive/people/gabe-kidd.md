@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: gabe-kidd
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 00:16:35)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (AllEliteWrestling.com, PWTorch/Keller, POST Wrestling); WebFetch bloqueado por egress"
@@ -118,6 +118,10 @@ Vehemiurgo lo sigue leyendo como el hallazgo del mes. Piezas:
 
 - `2026 09 16 AEW Dynamite`, con Moxley y PAC vs United Empire,
   **ICC**. [Ficha](../matches/2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md).
+
+### Sesión 2026-10-01 s01 — "Proyecto que no decepcionó" (ICC+) y el foreshadowing (WE)
+- `2026 09 23 AEW Dynamite`, vs Ospreay y Bailey, **ICC+**: *"Gabe luce genial como proyecto, esta temporada estuvo ahí en el main event y creo que no decepcionó"*. [Ficha](../matches/2026-09-23-ospreay-bailey-vs-claudio-gabe-kidd-aew-dynamite.md).
+- Promo de Ospreay: el sneak attack fallido es la parte que recibe la WE. [Ficha](../segments/2026-09-23-ospreay-promo-moxley-kidd-feel-like-the-champion-aew-dynamite.md).
 
 ## Pendientes / huecos
 

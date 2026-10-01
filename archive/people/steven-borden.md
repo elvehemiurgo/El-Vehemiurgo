@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: steven-borden
 estado: stub
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8, Collision 29/8 y All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -164,6 +164,9 @@ vs Young Bucks esa misma noche corriendo con sillas al save. Piezas:
   (12:25)**: Borden cayó de cabeza en un choque aéreo y fue
   hospitalizado; CT limpio según Tony Khan. Sin dictado del
   Vehemiurgo todavía.
+
+### Sesión 2026-10-01 s01 — En las gradas; "hace todos mis movimientos" (WE)
+- `2026 09 23 AEW Dynamite`, promo de Fletcher y Knight, **WE**. Knight se burla del rookie. [Ficha](../segments/2026-09-23-fletcher-knight-promo-dont-call-it-an-upset-darby-borden-aew-dynamite.md).
 
 ## Pendientes / huecos
 

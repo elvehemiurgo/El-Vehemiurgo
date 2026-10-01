@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: windsor
 estado: stub
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Collision 11 abr 2026, dúo con Jamie Hayter)"
   - "Volcado Vehemiurgo 2026-07-14 s05 (visión directa — AEW Spring BreakThru 15/4/2026, con Thekla)"
@@ -50,6 +50,9 @@ tags: [windsor, aew, dato-minimo, jamie-hayter-partner-verif, thekla-acompañant
 mientras Bayne remata con Megabomb tras golpear a Windsor con un
 título. Pieza:
 [vs Megan Bayne](../matches/2026-09-02-windsor-vs-megan-bayne-aew-dynamite.md) (WE).
+
+### Sesión 2026-10-01 s01 — Brawling Birds: el gimmick old-school de Toni Storm (WE)
+- `2026 09 23 AEW Dynamite`, careo con Divine Dominion, **WE**: *"con el antecedente de Toni Storm, esa inspiración para ponerse old-school con el gimmick funciona para mí"*. [Ficha](../segments/2026-09-23-brawling-birds-vs-divine-dominion-careo-stage-aew-dynamite.md).
 
 ## Pendientes / huecos
 

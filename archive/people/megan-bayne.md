@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: megan-bayne
 estado: vivo
-ultima_actualizacion: 2026-09-17
+ultima_actualizacion: 2026-10-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 01:01:46)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (Fightful, SI.com); WebFetch bloqueado por egress"
@@ -61,6 +61,9 @@ tags: [megan-bayne, divine-dominion, lena-kross, aew-womens-world-tag-team-champ
 
 - [`../matches/2026-08-30-brawling-birds-vs-divine-dominion-aew-all-in.md`](../matches/2026-08-30-brawling-birds-vs-divine-dominion-aew-all-in.md) (ICC)
 - [`../matches/2026-09-02-windsor-vs-megan-bayne-aew-dynamite.md`](../matches/2026-09-02-windsor-vs-megan-bayne-aew-dynamite.md) (WE)
+
+### Sesión 2026-10-01 s01 — Divine Dominion: el té y la tetera (WE)
+- `2026 09 23 AEW Dynamite`, careo con las Birds, **WE**; Hayter le pega con la tetera. [Ficha](../segments/2026-09-23-brawling-birds-vs-divine-dominion-careo-stage-aew-dynamite.md).
 
 ## Pendientes / huecos
 

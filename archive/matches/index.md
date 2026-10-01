@@ -13,6 +13,10 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-26 | Bang Bang Gang (Jay White, Ace Austin, Austin & Colten Gunn, w/ Juice Robinson) vs The Dogs (David Finlay & Clark Connors) & Death Riders (Wheeler Yuta & Daniel Garcia) — Tornado Tailgate Brawl | AEW / All Out — Saturday Tailgate Brawl (pre-show) | — | — | en-investigacion | 1 | [→](2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md) |
+| 2026-09-23 | Kyle Fletcher & Kevin Knight vs The Outrunners (Truth Magnum & Turbo Floyd) | AEW / Dynamite (especial de 3 horas Dynamite + Collision) — hora Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-23-fletcher-knight-vs-the-outrunners-aew-dynamite.md) |
+| 2026-09-23 | Will Ospreay & Speedball Mike Bailey vs Claudio Castagnoli & Gabe Kidd | AEW / Dynamite (especial de 3 horas Dynamite + Collision) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-23-ospreay-bailey-vs-claudio-gabe-kidd-aew-dynamite.md) |
+| 2026-09-23 | PAC vs Ace Austin — main event de la hora Collision | AEW / Dynamite (especial de 3 horas Dynamite + Collision) — hora Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-23-pac-vs-ace-austin-aew-dynamite.md) |
 | 2026-09-23 | Persephone vs Hyan — TBS Championship | AEW / Dynamite (especial de 3 horas Dynamite + Collision) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-23-persephone-vs-hyan-tbs-aew-dynamite.md) |
 | 2026-09-21 | Dragon Lee vs Dominik Mysterio vs Penta — Men's Money in the Bank Qualifying Match | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-dragon-lee-vs-dominik-vs-penta-mitb-wwe-raw.md) |
 | 2026-09-21 | Iyo Sky vs Roxanne Perez vs La Catalina — Women's Money in the Bank Qualifying Match | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-iyo-sky-vs-roxanne-perez-vs-la-catalina-mitb-wwe-raw.md) |
