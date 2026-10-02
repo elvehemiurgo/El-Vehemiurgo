@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lena-kross
 estado: vivo
-ultima_actualizacion: 2026-10-01
+ultima_actualizacion: 2026-10-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-17 s01 (visión directa — AEW Dynamite, 2/9/2026, timestamp 01:01:46)"
   - "Sub-agente research-dynamite-020926 (research 2026-09-17) — WebSearch (Fightful); WebFetch bloqueado por egress"
@@ -36,6 +36,9 @@ tags: [lena-kross, divine-dominion, megan-bayne, stub, rol-de-acompañamiento]
 
 ### Sesión 2026-10-01 s01 — Divine Dominion: "promos ok, todavía nada espectacular" (WE)
 - `2026 09 23 AEW Dynamite`, careo con las Birds, **WE**. [Ficha](../segments/2026-09-23-brawling-birds-vs-divine-dominion-careo-stage-aew-dynamite.md).
+
+### Sesión 2026-10-02 s01 — Chicago Street Fight (ICC)
+- `2026 09 26 AEW All Out`, **ICC**; recibe el Two Birds One Stone sobre tachuelas. [Ficha](../matches/2026-09-26-brawling-birds-vs-divine-dominion-chicago-street-fight-aew-all-out.md).
 
 ## Pendientes / huecos
 

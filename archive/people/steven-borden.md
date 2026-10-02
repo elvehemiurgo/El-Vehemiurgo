@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: steven-borden
 estado: stub
-ultima_actualizacion: 2026-10-01
+ultima_actualizacion: 2026-10-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8, Collision 29/8 y All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -167,6 +167,16 @@ vs Young Bucks esa misma noche corriendo con sillas al save. Piezas:
 
 ### Sesión 2026-10-01 s01 — En las gradas; "hace todos mis movimientos" (WE)
 - `2026 09 23 AEW Dynamite`, promo de Fletcher y Knight, **WE**. Knight se burla del rookie. [Ficha](../segments/2026-09-23-fletcher-knight-promo-dont-call-it-an-upset-darby-borden-aew-dynamite.md).
+
+### Sesión 2026-10-02 s01 — "Todavía no se cree el protagonismo" — y la lesión (All Out, ICC)
+
+> *"no se puede hacer mucho con el como babyface, es muy callado, todavia no agarra la confianza, es normal al inicio [...] pero más allá de lo atlético y el look, todavia no se cree el nivel de protagonismo y la dimensión de su rol en AEW, espero que todo haga click par aél másrápido [...] Luego llega la tragedia, ese accidente fue terrible yt super innecesario tambien, terrorifico y no necesitaba exponerse asi, fue un error, de hecho yo pensé que era positiva su relación con Darby y ese estilo suicida que le está dando al arquetipo de body guy face a lo Sting ochentero, pero este es un extremo, nada rentable"*
+>
+> — El Vehemiurgo, 2026-10-02 s01 (verbatim, typos preservados)
+
+- `2026 09 26 AEW All Out`, con Darby vs Fletcher & Knight (#1 contender), **ICC**. Termina por paro médico (12:25): Borden cae de cabeza en un choque aéreo; hospitalizado, CT limpio según Tony Khan. [Ficha](../matches/2026-09-26-fletcher-knight-vs-darby-borden-contender-aew-all-out.md).
+- **Cambio de diagnóstico**: de *"verde"* (16/9 y 23/9) a *"no se cree el protagonismo"*. El problema que el Vehemiurgo ve ya no es el ring, es la confianza.
+- **Primera crítica del archivo al riesgo del proyecto**: el estilo suicida aplicado al rookie es *"un error [...] nada rentable"*.
 
 ## Pendientes / huecos
 

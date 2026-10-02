@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: juice-robinson
 estado: vivo
-ultima_actualizacion: 2026-10-01
+ultima_actualizacion: 2026-10-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s22 (visión directa — AEW Collision, 6/6/2026)"
 tags: [juice-robinson, heroe-fundamental-53, panteon, the-dogs-verif, bullet-club, bang-bang-gang, aew, njpw, over-the-top, bueno-en-el-ring, primer-registro]
@@ -110,6 +110,9 @@ rivalidad. Ver
 - Mismo día: Mick Foley entrevista al grupo, **WE+**
   ([ficha](../segments/2026-09-26-mick-foley-entrevista-bang-bang-gang-aew-all-out-tailgate.md)),
   y las entradas, **WE**.
+
+### Sesión 2026-10-02 s01 — El Tailgate Brawl sube a ICC+
+- La lucha de su alta al panteón se ratifica como **ICC+** el 2026-10-02. [Ficha](../matches/2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md).
 
 ## Pendientes / huecos
 

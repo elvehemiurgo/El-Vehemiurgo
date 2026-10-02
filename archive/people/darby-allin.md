@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: darby-allin
 estado: vivo
-ultima_actualizacion: 2026-10-01
+ultima_actualizacion: 2026-10-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s08 (visión directa — AEW Dynamite 22/4/2026)"
 tags: [darby-allin, aew, campeon-por-culpa-de-mjf, perfect-match-vs-tomasso, sorpresa-no-soy-fan]
@@ -349,6 +349,9 @@ Borden). Piezas:
 
 ### Sesión 2026-10-01 s01 — "Don't call it an upset" (WE)
 - `2026 09 23 AEW Dynamite`, desde las gradas con Borden, en la promo de Fletcher y Knight, **WE**: *"me gusta la dinámica de 'just don't call it an upset'"*. [Ficha](../segments/2026-09-23-fletcher-knight-promo-dont-call-it-an-upset-darby-borden-aew-dynamite.md).
+
+### Sesión 2026-10-02 s01 — "La definición de wrestling en TV" (All Out, ICC)
+- `2026 09 26 AEW All Out`, con Borden vs Fletcher & Knight, **ICC**: *"el estilo de Fletcher y el de Darby es la definición de wrestling en TV actualmente"*. El Vehemiurgo ve en la lesión del rookie el límite del estilo suicida que Darby le pasa. [Ficha](../matches/2026-09-26-fletcher-knight-vs-darby-borden-contender-aew-all-out.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: hangman-adam-page
 estado: vivo
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-02
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + The Elite faction"
   - "Being the Elite + AEW media on-record"
@@ -64,6 +64,9 @@ tags: [hangman-adam-page, the-elite, aew-founding, aew-world-champion-2021, cowb
 ## Piezas relacionadas
 
 - [`../../dossiers/draft-aaa-aew-2026-cluster.md`](../../dossiers/draft-aaa-aew-2026-cluster.md)
+
+### Sesión 2026-10-02 s01 — Trios en All Out: "no me interesó nunca esa historia" (sin clase)
+- `2026 09 26 AEW All Out`, con Brodido vs Swerve & New Level, sin clase: *"no me interesó nunca esa historia de Hangman vs Swerve, pero estuvo cool la lucha"*. [Ficha](../matches/2026-09-26-swerve-new-level-vs-hangman-brodido-trios-aew-all-out.md).
 
 ## Pendientes
 

@@ -16,20 +16,21 @@ referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo increíble: los gimmicks, la velocidad, el respeto a lo old-school realista; seguro costó bookearla y se nota que querían hacer must watch todo el evento, para eso es el buy in; muy dura; le dieron un gran momento a Ace Austin; todos se lucieron, buenas secuencias, spots geniales, el timing; Juice Robinson es muy pro (alta al panteón #53)"
-clases_vehemiurgo: []
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-01
+ultima_actualizacion: 2026-10-02
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-02 s01 (ratificación: ICC+)"
   - "Volcado Vehemiurgo 2026-10-01 s01 (visión directa — AEW All Out, Saturday Tailgate Brawl, 26/9/2026, timestamp 00:49:21)"
   - "Sub-agente dynamite-230926-h2-h3-all-out-tailgate (research 2026-10-01) — WebSearch (Wrestling Inc, POST, prowrestling.net, Fightful, PWTorch vía snippet); WebFetch bloqueado por egress"
-tags: [aew-all-out-2026, tailgate-brawl, bang-bang-gang, the-dogs, death-riders, jay-white, ace-austin, juice-robinson, the-gunns, wheeler-yuta, daniel-garcia, marina-shafir, no-dq, buy-in, must-watch, sin-clase-declarada, alta-panteon-juice-robinson]
+tags: [aew-all-out-2026, tailgate-brawl, bang-bang-gang, the-dogs, death-riders, jay-white, ace-austin, juice-robinson, the-gunns, wheeler-yuta, daniel-garcia, marina-shafir, no-dq, buy-in, must-watch, instant-classic-crown-plus, alta-panteon-juice-robinson]
 ---
 
 # Bang Bang Gang vs The Dogs & Death Riders — Tornado Tailgate Brawl (All Out pre-show, 26/9/2026)
 
-> **Sin clase declarada**: el dictado es todo elogio (*"estuvo
-> increíble [...] estuvo genial, y muy dura"*) pero no trae "se
-> merece" ni sigla, y no se asigna por lectura. **De esta lucha sale
+> **Instant Classic Crown+** (PW·FS·WE+), ratificada el 2026-10-02.
+> El primer dictado (1/10) no traía clase; el segundo la declara
+> literal: *"merece las 3 clases con corona +"*. **De esta lucha sale
 > la alta de Juice Robinson al panteón: Héroe Fundamental #53.**
 
 ## Resumen
@@ -46,8 +47,9 @@ un judo throw y un headlock**; *"Heisman dive"* de White. Finish:
 
 - **Por qué está en mi base**: take completo + alta al panteón.
 - **Veces que lo vi**: 1.
-- **Clase**: **ninguna declarada.** Si el Vehemiurgo la quiere,
-  basta una frase para ratificarla.
+- **Clase**: **Perfect Wrestling + Fighting Spirit + Wrestling
+  Entertainment+ → Instant Classic Crown+**, declarada el 2026-10-02
+  s01.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -76,10 +78,18 @@ un judo throw y un headlock**; *"Heisman dive"* de White. Finish:
 4. **Juice Robinson, "muy pro"**: alta al panteón general como
    **Héroe Fundamental #53**, último lugar, por pedido explícito.
 
+## Sesión 2026-10-02 s01 — ratificación
+
+> *"en aew 2026 09 26 Saturday Tailgate Brawl All Out 00H:49m:21s la
+> lucha del bang bang gang vs dogs & death riders merece las 3 clases
+> con corona +"*
+>
+> — El Vehemiurgo, 2026-10-02 s01 (verbatim, typos preservados)
+
 ## Pendientes
 
 - [ ] Referee; duración con segunda fuente.
-- [ ] Clase: no declarada.
+- [x] Clase → ICC+, ratificada el 2026-10-02 s01.
 
 ## Cross-links
 

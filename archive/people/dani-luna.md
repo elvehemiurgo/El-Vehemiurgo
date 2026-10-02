@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dani-luna
 estado: vivo
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-10-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #9 (análisis monster heel + recomendaciones operativas Samoa Joe/Scott Norton + crítica chain sadismo trillado)"
   - "Lista personal verbatim: 4 entradas Dani Luna 2025"
@@ -166,6 +166,15 @@ categoría "ganándose mi corazón en tiempo real"). Ver
   ella"*).
 - Triple threat FS·WE en Sacrifice:
   [`../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md`](../matches/2026-03-27-triple-threat-kos-title-tna-sacrifice.md).
+
+### Sesión 2026-10-02 s01 — Debut en AEW: "un clásico instantáneo" (ICC+)
+
+> *"buen debut en un show grande, poca reacción, pero buenas connecciones con la escena al rededor de RevPro, puede augurar un run interesante para Dani, se merece más exposición y esta oportunidad, en TNA realmento no encontro como expandir su enterteinment, se limitó a dar buenas luchas, aqui puede toparse con el coach correcto para ella y mejorar su acto, tremendo debut y bienvenido y un showcase genial, un clásico instantaneo"*
+>
+> — El Vehemiurgo, 2026-10-02 s01 (verbatim, typos preservados)
+
+- `2026 09 26 AEW All Out`, responde el open challenge de Persephone por el TBS, **ICC+**; pierde por crucifix powerbomb (14:42). [Ficha](../matches/2026-09-26-persephone-vs-dani-luna-tbs-aew-all-out.md).
+- RUNNER UPS #3 desde julio (como heel monster en TNA); debuta en AEW como face. El Vehemiurgo lee el salto como la oportunidad de expandir el entertainment que en TNA no encontró.
 
 ## Pendientes / huecos
 

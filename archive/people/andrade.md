@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: andrade
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-02
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s18 (visión directa — AEW Dynamite & Collision, 27/5/2026)"
   - "Mención previa: six-man con Takeshita y Mark Davis (8/4/2026)"
@@ -207,6 +207,9 @@ acto"*. Piezas:
   **ICC**. [Ficha](../matches/2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md).
 - Contexto posterior (research): retuvo el National ante PAC en All
   Out.
+
+### Sesión 2026-10-02 s01 — Retiene ante PAC en su última lucha (ICC+)
+- `2026 09 26 AEW All Out`, National Championship, **ICC+**. [Ficha](../matches/2026-09-26-andrade-vs-pac-national-aew-all-out.md).
 
 ## Pendientes / huecos
 

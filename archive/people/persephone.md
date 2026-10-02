@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: persephone
 estado: vivo
-ultima_actualizacion: 2026-10-01
+ultima_actualizacion: 2026-10-02
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo, Arena Tony Arellano 21 ene 2025"
@@ -262,6 +262,10 @@ World" es la rival a la que le ganó el TBS, no un título. Pieza:
 
 ### Sesión 2026-10-01 s01 — "El 90% del paquete completo" (WE)
 - `2026 09 23 AEW Dynamite`, backstage con Baker, **WE**: *"ya es el 90% del paquete completo súper enfocado a crecer y crecer, igual como Kyle Fletcher y Kevin Knight, ese nivel de creación de estrellas"*. [Ficha](../segments/2026-09-23-britt-baker-persephone-promo-mentora-open-challenge-aew-dynamite.md).
+
+### Sesión 2026-10-02 s01 — "Top heels de verdad" (WE) y el open challenge (ICC+)
+- `2026 09 26 AEW All Out`, promo con Baker, **WE**: *"valió la pena el trabajo de entertainment y aprendizaje para Persephone todo el año pasado"*. [Ficha](../segments/2026-09-26-persephone-britt-baker-promo-aew-all-out.md).
+- vs Dani Luna, TBS, **ICC+**: *"cómo vende su desesperación cuando siente que amenazan su posición en el card"*. Retiene con crucifix powerbomb (14:42). [Ficha](../matches/2026-09-26-persephone-vs-dani-luna-tbs-aew-all-out.md).
 
 ## Pendientes / huecos
 
