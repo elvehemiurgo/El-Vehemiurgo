@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: christian-cage
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-03
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 1 'Christian Cage como héroe fundamental'"
   - "Dossieres TNA 2007 + WWE Raw 2004-2005 + WWE SmackDown 2002 + WWE MITB 2013 + AEW 2026"
@@ -474,6 +474,9 @@ satisfecho con hacer trampa sin querer hacerla él mismo. Pieza:
   reportada). [Ficha](../segments/2026-09-23-young-bucks-cope-christian-ftr-segmento-in-ring-aew-dynamite.md).
 - Contexto posterior (research): pierde los títulos en All Out (BTE
   Trigger desde la escalera sobre él).
+
+### Sesión 2026-10-03 s01 — Pierde los títulos en el ladder match de All Out (WE)
+- `2026 09 26 AEW All Out`, three-way ladder match por los títulos de parejas, **WE**: *"la lucha de escaleras estuvo cool"*. Ganan los Young Bucks (23:25, BTE Trigger a Christian desde la escalera). [Ficha](../matches/2026-09-26-young-bucks-vs-cope-cage-vs-ftr-ladder-tag-titles-aew-all-out.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: edge
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-03
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 + cluster Raw 2004-2005"
   - "E&C Pod of Awesomeness + The Edge & Christian Show + Talk Is Jericho"
@@ -212,6 +212,9 @@ quedan explícitamente fuera de la clase. Pieza:
   heel turn o algo"*. [Ficha](../segments/2026-09-23-young-bucks-cope-christian-ftr-segmento-in-ring-aew-dynamite.md).
 - Contexto posterior (research): en All Out, los Young Bucks ganaron
   el three-way ladder match; Cage & Cope pierden los títulos.
+
+### Sesión 2026-10-03 s01 — Pierde los títulos en el ladder match de All Out (WE)
+- `2026 09 26 AEW All Out`, three-way ladder match por los títulos de parejas, **WE**: *"la lucha de escaleras estuvo cool"*. Ganan los Young Bucks (23:25, BTE Trigger a Christian desde la escalera). [Ficha](../matches/2026-09-26-young-bucks-vs-cope-cage-vs-ftr-ladder-tag-titles-aew-all-out.md).
 
 ## Pendientes
 

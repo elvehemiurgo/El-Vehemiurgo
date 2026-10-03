@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ftr
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-03
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
   - "Cross-links previos en christian-cage.md / edge.md (feud 'recalentado' 2026)"
@@ -91,6 +91,9 @@ sí lleva la irrupción posterior de Christian Cage y Cope. Pieza:
   por ellos. [Ficha](../segments/2026-09-23-young-bucks-cope-christian-ftr-segmento-in-ring-aew-dynamite.md).
 - Estipulación final de All Out: **three-way ladder match** (no TLC);
   ganaron los Young Bucks.
+
+### Sesión 2026-10-03 s01 — Ladder match de All Out (WE)
+- `2026 09 26 AEW All Out`, three-way ladder match por los títulos de parejas, **WE**: *"la lucha de escaleras estuvo cool"*. Ganan los Young Bucks (23:25, BTE Trigger a Christian desde la escalera). [Ficha](../matches/2026-09-26-young-bucks-vs-cope-cage-vs-ftr-ladder-tag-titles-aew-all-out.md).
 
 ## Pendientes / huecos
 
