@@ -6,8 +6,8 @@ protagonistas: ["Chelsea Green"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-29
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Badalona (área de Barcelona), España"
+recinto: "Palau Olímpic de Badalona (Olimpic Arena)"
 ubicacion_en_show: "segundos iniciales del show"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Es una experta — todo lo que hace me parece fantástico; Chelsea es wrestling"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s53 (visión directa — SmackDown, 29/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Wrestleview); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, chelsea-green, panteon-alta, kayfabe-y-amor-por-el-gimmick, chelsea-es-wrestling, reserva-finisher]
 ---
 

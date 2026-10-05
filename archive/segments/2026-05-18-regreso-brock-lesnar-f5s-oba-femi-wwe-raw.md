@@ -6,8 +6,8 @@ protagonistas: ["Brock Lesnar", "Oba Femi"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-18
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Greensboro, Carolina del Norte"
+recinto: "First Horizon Coliseum (Greensboro Coliseum)"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'buena sorpresa y es bueno para Oba, este momentazo se merece una enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s49 (visión directa — WWE Raw, 18/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Rajah, WWE.com, POST Wrestling, Fightful, Pro Wrestling Wiki); WebFetch bloqueado por egress"
 tags: [brock-lesnar, oba-femi, gunther, wwe-raw-2026, wrestling-entertainment, regreso-sorpresa, f5, proyeccion-de-booking, campeon-babyface, wrestlemania-43]
 ---
 
@@ -75,9 +76,9 @@ Ver [`../people/oba-femi.md`](../people/oba-femi.md),
 
 ## Pendientes
 
-- [ ] A quién(es) le da los F5s Lesnar — [verif].
-- [ ] Contexto exacto del regreso (¿interrumpe algo? ¿ataca a Oba
-      o a un tercero?).
+- [x] A quién(es) le da los F5s Lesnar — [verif]. → a Oba Femi, cuatro F5 consecutivos (Slam Wrestling, Yahoo Sports, Rajah)
+- [x] Contexto exacto del regreso (¿interrumpe algo? ¿ataca a Oba
+      o a un tercero?). → irrumpe durante el open challenge de Oba Femi y lo ataca a él [una fuente, Wrestling World]; prepara la revancha de Clash in Italy
 - [ ] Seguir la proyección Oba vs Gunther hacia WrestleMania.
 
 ## Cross-links

@@ -5,11 +5,11 @@ participantes: ["Roman Reigns", "Jacob Fatu"]
 empresa: "WWE"
 programa: "Clash in Italy"
 fecha: 2026-05-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Turín, Italia"
+recinto: "Inalpi Arena"
 tipo_match: "singles"
 estipulacion: "Tribal Combat — World Heavyweight Championship; Fatu debe reconocer a Reigns como Tribal Chief"
-duracion: "[verif]"
+duracion: "27:12"
 finish: "Spear a través de una mesa y spear final"
 ganador: "Roman Reigns — retiene el World Heavyweight Championship"
 referee: "[verif]"
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Clásica lucha de OTC en PLE, buenos stakes y booking para Fatu, tiene sus momentos aunque no imperdible"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — Clash in Italy, 31/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, clash-in-italy, roman-reigns, jacob-fatu, otc-formula, spot-objetos-posicionamiento, rivalidad-en-esencia]
 ---
 
@@ -67,8 +68,9 @@ tags: [wwe-2026, clash-in-italy, roman-reigns, jacob-fatu, otc-formula, spot-obj
 
 ## Pendientes / huecos
 
-- [ ] Finish, duración, ubicación en el show.
-- [ ] Ciudad y recinto.
+- [x] Duración → 27:12 (Cagematch); ganador Reigns confirmado (WWE.com)
+- [ ] Finish técnico detallado por fuente externa; ubicación en el show.
+- [x] Ciudad y recinto. → Turín, Italia / Inalpi Arena (Cagematch/WWE.com)
 
 ## Piezas relacionadas
 

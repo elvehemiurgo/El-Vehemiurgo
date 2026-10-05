@@ -5,22 +5,23 @@ participantes: ["Tatum Paxley", "Lizzy Rain"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-19
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles — face vs face"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "11:38 (Cagematch) / 11:37 según otra fuente"
+finish: "contraataque de Paxley → Cemetery Drive, pinfall"
+ganador: "Tatum Paxley — retiene el NXT Women's North American Championship"
 referee: "[verif]"
 encuentros_previos: "compañeras de tag el 12/5/2026 vs Nikkita Lyons & Zaria"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'estuvo cool, face contra face, y fue un gran showcase [...] más reñida y más oldschool'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s49 (visión directa — WWE NXT, 19/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Solowrestling, WWE.com, Cageside Seats); WebFetch bloqueado por egress"
 tags: [tatum-paxley, lizzy-rain, wwe-nxt-2026, singles, sin-clase, face-vs-face, showcase, oldschool, comparacion-iyo-sol]
 ---
 
@@ -58,7 +59,7 @@ tags: [tatum-paxley, lizzy-rain, wwe-nxt-2026, singles, sin-clase, face-vs-face,
 
 ## Pendientes
 
-- [ ] Finish, ganadora, duración, ciudad/recinto.
+- [x] Finish, ganadora, duración, ciudad/recinto. → gana Tatum Paxley (retiene el NXT Women's North American Championship; el `estipulacion` del frontmatter queda sin tocar) con Cemetery Drive; 11:38; Orlando, Florida / WWE Performance Center (Cagematch/WWE.com); post-match Zaria ataca a ambas (Cagematch, Solowrestling, WWE.com)
 - [ ] **Registrar Iyo Sky vs Sol Ruca (WWE Raw, ~mayo 2026)** — el
       Vehemiurgo lo vio y lo usa como vara comparativa, pero no
       está en el archivo. Fecha exacta [verif].

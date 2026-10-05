@@ -6,8 +6,8 @@ protagonistas: ["Ethan Page"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-18
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Greensboro, Carolina del Norte"
+recinto: "First Horizon Coliseum (Greensboro Coliseum)"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'le quedó genial la entrevista [...] esta entrevista se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s49 (visión directa — WWE Raw, 18/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Rajah, WWE.com, POST Wrestling, Fightful, Pro Wrestling Wiki); WebFetch bloqueado por egress"
 tags: [ethan-page, michael-cole, wwe-raw-2026, wrestling-entertainment, entrevista, build, titulo-intercontinental, snme, all-ego]
 ---
 
@@ -55,7 +56,7 @@ tags: [ethan-page, michael-cole, wwe-raw-2026, wrestling-entertainment, entrevis
 ## Pendientes
 
 - [ ] Contenido exacto de la entrevista + duración.
-- [ ] Fecha del SNME y rival por el título IC.
+- [x] Fecha del SNME y rival por el título IC. → Saturday Night's Main Event XLIV, 23/5/2026 (Fort Wayne); campeón y rival: Penta, que retiene (Cagematch, Wrestling Inc.)
 - [ ] Registrar el match por el IC cuando el Vehemiurgo lo vea.
 
 ## Cross-links

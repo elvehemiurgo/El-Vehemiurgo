@@ -3,10 +3,11 @@ nombre: "Kiyoshi Tamura"
 tipo: fact-sheet
 categoria: people
 slug: kiyoshi-tamura
-estado: stub
-ultima_actualizacion: 2026-06-17
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — RINGS 25/9/1996)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — sin búsquedas nuevas (budget de WebSearch agotado); consolidación de los datos del sub-agente 2026-06-17 ya en ficha; WebFetch bloqueado por egress"
 tags: [kiyoshi-tamura, uwf-i, uwf-newborn, rings, fighting-network-rings, shoot-style-puro, akira-maeda-takada-lineage, escuela-uwf, candidato-panteon-vehemiurgo]
 ---
 
@@ -28,7 +29,7 @@ tags: [kiyoshi-tamura, uwf-i, uwf-newborn, rings, fighting-network-rings, shoot-
   Considerado dentro del nicho como **el ejecutor puro** de la
   doctrina UWF.
 
-## Datos duros (confirmados por sub-agente 2026-06-17)
+## Trayectoria condensada (datos confirmados por sub-agente 2026-06-17)
 
 - **Debut**: **1989** en **UWF Newborn** — derrota ante **Minoru
   Suzuki**.

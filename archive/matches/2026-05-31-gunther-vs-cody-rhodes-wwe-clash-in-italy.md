@@ -5,13 +5,13 @@ participantes: ["Gunther", "Cody Rhodes"]
 empresa: "WWE"
 programa: "Clash in Italy"
 fecha: 2026-05-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Turín, Italia"
+recinto: "Inalpi Arena"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "11:35"
+finish: "Cody Cutter + Cross Rhodes, pinfall"
+ganador: "Cody Rhodes — retiene el Undisputed WWE Championship"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Me gustó, no invertí en los stakes, by the book, pero buen show — la secuencia final con la sleeper y las cutters quedó cool"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — Clash in Italy, 31/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com, Bleacher Report); WebFetch bloqueado por egress"
 tags: [wwe-2026, clash-in-italy, gunther, cody-rhodes, cody-babyface-efectivo, secuencia-final-sleeper-cutters]
 ---
 
@@ -51,8 +52,10 @@ tags: [wwe-2026, clash-in-italy, gunther, cody-rhodes, cody-babyface-efectivo, s
 
 ## Pendientes / huecos
 
-- [ ] Finish, duración, ubicación en el show.
-- [ ] Ciudad y recinto.
+- [x] Finish, duración → Cody Cutter + Cross Rhodes; 11:35 (Cagematch, WWE.com)
+- [ ] Ubicación en el show.
+- [x] Ciudad y recinto. → Turín, Italia / Inalpi Arena (Cagematch/WWE.com)
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `estipulacion: standard` vs Cagematch/WWE.com: fue **por el Undisputed WWE Championship** (Cody retiene).
 
 ## Piezas relacionadas
 

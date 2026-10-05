@@ -5,22 +5,23 @@ participantes: ["Fatal Influence", "Wren Sinclair", "Kendal Grey"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-03-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "WWE Performance Center"
 tipo_match: "tag team"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "9:51"
+finish: "Sumisión doble: Grey aplica armbar a Lainey Reid mientras Sinclair aplica el Final Wrench"
+ganador: "Wren Sinclair & Kendal Grey"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece todas las clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 24/3/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, pwtorch); WebFetch bloqueado por egress"
 tags: [fatal-influence, wren-sinclair, kendal-grey, wrenqcc, wwe-nxt-2026, tag-team, perfect-wrestling, fighting-spirit, wrestling-entertainment, oldschool, the-future-in-2026, jacy-fallon-tension]
 ---
 
@@ -56,8 +57,8 @@ tags: [fatal-influence, wren-sinclair, kendal-grey, wrenqcc, wwe-nxt-2026, tag-t
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
-- [ ] Roster completo de Fatal Influence en este match.
+- [x] Finish + duración + ciudad/recinto. → WrenQCC gana por sumisión (armbar de Grey + Final Wrench de Sinclair); 9:51; WWE Performance Center, Orlando (wwe.com/fandom vía snippets).
+- [x] Roster completo de Fatal Influence en este match. → Fallon Henley & Lainey Reid, con Jacy Jayne en la esquina (fandom vía snippet).
 
 ## Cross-links
 

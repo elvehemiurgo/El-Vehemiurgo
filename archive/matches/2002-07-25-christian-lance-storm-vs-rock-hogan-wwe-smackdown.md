@@ -9,13 +9,13 @@ participantes:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2002-07-25
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Indianapolis, IN"
+recinto: "Conseco Fieldhouse (taping 23 jul 2002)"
 tipo_match: "tag — Un-Americans heel team vs main event babyfaces"
 estipulacion: "[verif] — likely WWE Tag Title context (Christian & Storm como Un-Americans)"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "9:16 [una fuente]"
+finish: "DQ: Brock Lesnar interfiere y conecta F-5 a Hogan"
+ganador: "The Rock & Hulk Hogan (por DQ; los títulos no cambian)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal (2026-05-09)"
   - "Sec. 1 del notebook cita esta entrada explícitamente como Christian heroe fundamental"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom, wrestlingrecaps, 411mania); WebFetch bloqueado por egress"
 tags: [wwe-2002, smackdown-jul-2002, christian-cage, lance-storm, the-rock, hulk-hogan, un-americans, mixed-tag-with-legends, christian-eje-vehemiurgia]
 ---
 
@@ -82,8 +83,8 @@ notebook como parte del linaje Christian heroe fundamental.)
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
-- [ ] Stipulación exacta (¿WWE Tag Title match? non-title?).
+- [x] Ganador + finish + duración. → Rock & Hogan ganan por DQ tras interferencia de Lesnar (F-5 a Hogan); 9:16 [una fuente] (fandom + wrestlingrecaps vía snippets).
+- [x] Stipulación exacta (¿WWE Tag Title match? non-title?). → WWE World Tag Team Championship, Christian & Storm (c) con Test en la esquina; títulos no cambian por DQ (fandom vía snippet).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Verbatim Christian + Storm sobre el match.
 - [ ] **Asignación de clase del Vehemiurgo**.

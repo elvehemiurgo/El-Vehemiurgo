@@ -6,8 +6,8 @@ protagonistas: ["Ricky Saints", "Carmelo Hayes"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Lexington, Kentucky"
+recinto: "Rupp Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "sin clase — elogio de conjunto al midcard, no al segmento puntual"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s51 (visión directa — WWE SmackDown, 22/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, PWMania); WebFetch bloqueado por egress"
 tags: [ricky-saints, carmelo-hayes, wwe-smackdown-2026, sin-clase, midcard-masculino, racha-perdedora]
 ---
 

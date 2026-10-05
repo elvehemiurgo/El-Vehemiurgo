@@ -6,8 +6,8 @@ protagonistas: ["Roxanne Perez"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-18
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Greensboro, Carolina del Norte"
+recinto: "First Horizon Coliseum (Greensboro Coliseum)"
 ubicacion_en_show: "tras la derrota de las chicas del Judgment Day"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'muy agresivas, roxanne se vio muy bien, buen momento'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s49 (visión directa — WWE Raw, 18/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Rajah); WebFetch bloqueado por egress"
 tags: [judgment-day, roxanne-perez, wwe-raw-2026, sin-clase, promo-post-derrota, agresividad]
 ---
 

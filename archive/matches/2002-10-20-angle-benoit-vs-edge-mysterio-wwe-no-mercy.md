@@ -13,9 +13,9 @@ ciudad: "Little Rock, AR"
 recinto: "Alltel Arena"
 tipo_match: "tag team — semifinales WWE Tag Team Championship Tournament"
 estipulacion: "[verif] — semifinales tournament por título tag (creación del WWE Tag Team Championship)"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "22:03"
+finish: "Angle contrarresta y aplica el Ankle Lock a Edge, que hace tap out"
+ganador: "Kurt Angle & Chris Benoit"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -27,9 +27,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, tjrwrestling, bleacherreport); WebFetch bloqueado por egress"
 tags: [wwe-2002, no-mercy-2002, kurt-angle, chris-benoit, edge, rey-mysterio, smackdown-six-peak, tag-team-tournament, ppv-tag-classic]
 ---
 
@@ -88,8 +89,7 @@ centro-mesa** del cluster entero.
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración (de memoria: probable Angle &
-      Benoit avanzan a final).
+- [x] Ganador + finish + duración (de memoria: probable Angle & Benoit avanzan a final). → Angle & Benoit ganan por sumisión (Ankle Lock de Angle a Edge); 22:03 (Wikipedia/TJR vía snippets).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Buyrate No Mercy 2002**.
 - [ ] Cobertura POST / Cornette retrospectiva (Conrad Thompson +
@@ -98,6 +98,7 @@ centro-mesa** del cluster entero.
 - [ ] Verbatim Edge en *E&C Show* sobre el match (probable
       existencia).
 - [ ] **Asignación de clase del Vehemiurgo**.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra el match como **semifinal** del torneo; las fuentes lo dan como **final**: Angle & Benoit coronados **primeros WWE Tag Team Champions** en No Mercy 2002 (Wikipedia/TJR vía snippets).
 
 ## Piezas relacionadas
 

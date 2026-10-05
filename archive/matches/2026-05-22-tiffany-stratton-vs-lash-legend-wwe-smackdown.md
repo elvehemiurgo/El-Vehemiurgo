@@ -5,22 +5,23 @@ participantes: ["Tiffany Stratton", "Lash Legend"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Lexington, Kentucky"
+recinto: "Rupp Arena"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "9:05"
+finish: "roll-up de Stratton aprovechando la distracción: Chelsea Green manda a Nia Jax contra el poste"
+ganador: "Tiffany Stratton — retiene el WWE Women's United States Championship"
 referee: "[verif]"
 encuentros_previos: "triple threat con Chelsea Green, 6/2/2026 [en lista personal]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — diagnóstico de desarrollo: 'dejarla sola como la heel de la lucha casi la ahoga [...] fue una noche dura para ellas'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s50 (visión directa — WWE SmackDown, 22/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Wrestling Inc., Pro Wrestling Wiki); WebFetch bloqueado por egress"
 tags: [tiffany-stratton, lash-legend, wwe-smackdown-2026, singles, sin-clase, doctrina-ring-general, heel-que-conduce, verde-developmental, heavyweight, tag-team-como-escuela]
 ---
 
@@ -105,12 +106,12 @@ sino que enfrentaba interferencia activa desde fuera del ring.
 
 ## Pendientes
 
-- [ ] Finish, ganadora, duración, ciudad/recinto.
+- [x] Finish, ganadora, duración, ciudad/recinto. → gana Tiffany Stratton por roll-up; 9:05; Lexington, Kentucky / Rupp Arena (Cagematch/PWMania) (Cagematch, Wrestling Inc.)
 - [ ] Con quién forma Lash Legend el tag team que la protege —
       [verif].
-- [ ] Título en juego, si lo hubo.
-- [ ] Detalle exacto de la interferencia de Chelsea Green (momento,
-      naturaleza) — [verif].
+- [x] Título en juego, si lo hubo. → WWE Women's United States Championship (open challenge), retiene Stratton (Wrestling Inc., Pro Wrestling Wiki)
+- [x] Detalle exacto de la interferencia de Chelsea Green (momento,
+      naturaleza) — [verif]. → en el cierre, Green manda a Nia Jax (ringside con Lash) contra el poste y Stratton aprovecha la distracción para el roll-up (Wrestling Inc.)
 
 ## Cross-links
 

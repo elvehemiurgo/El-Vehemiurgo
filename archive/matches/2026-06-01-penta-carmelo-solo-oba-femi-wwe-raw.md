@@ -5,13 +5,13 @@ participantes: ["Penta", "Carmelo Hayes", "Solo Sikoa", "Oba Femi"]
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-06-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Turín, Italia"
+recinto: "Inalpi Arena"
 tipo_match: "fatal 4-way"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "8:58"
+finish: "Fall From Grace de Oba Femi sobre Solo Sikoa, pinfall (antes lanzó a Talla Tonga a la mesa de comentarios)"
+ganador: "Oba Femi — avanza a semifinales del King of the Ring 2026"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Clásico instantáneo — full gimmick, están viviendo la lucha; ring positioning excelente"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — Monday Night Raw, 1/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com, Fightful, Solowrestling); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, fatal-4-way, penta, carmelo-hayes, solo-sikoa, oba-femi, clasico-instantaneo, ring-positioning, femi-vende-el-brazo]
 ---
 
@@ -53,9 +54,10 @@ tags: [wwe-2026, raw, fatal-4-way, penta, carmelo-hayes, solo-sikoa, oba-femi, c
 
 ## Pendientes / huecos
 
-- [ ] Ganador, finish, duración.
-- [ ] Estipulación exacta del 4-way (eliminación / primera caída) — [verif].
-- [ ] Ciudad y recinto.
+- [x] Ganador, finish, duración. → Oba Femi con Fall From Grace sobre Solo Sikoa; 8:58 (Cagematch, WWE.com)
+- [x] Estipulación del 4-way → fatal four-way de 1ª ronda del King of the Ring 2026, non-title (Cagematch); el `estipulacion: standard` del frontmatter queda sin tocar
+- [ ] Mecánica exacta (eliminación / una caída) — [verif].
+- [x] Ciudad y recinto. → Turín, Italia / Inalpi Arena (Cagematch/WWE.com)
 
 ## Piezas relacionadas
 

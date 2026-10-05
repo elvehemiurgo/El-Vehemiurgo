@@ -6,8 +6,8 @@ protagonistas: ["Zaria"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-06-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Les quedó muy cool, cortito efectivo"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — NXT, 2/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, zaria, ataque-backstage, cortito-efectivo, future-2026]
 ---
 

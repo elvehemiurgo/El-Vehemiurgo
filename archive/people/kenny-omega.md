@@ -3,10 +3,11 @@ nombre: "Kenny Omega"
 tipo: fact-sheet
 categoria: people
 slug: kenny-omega
-estado: stub
-ultima_actualizacion: 2026-09-22
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (wrestlinginc.com, foxnews.com, bleacherreport.com, allelitewrestling.com, postwrestling.com vía snippet; resto ref. general del sub-agente, WebSearch agotado); WebFetch bloqueado por egress"
 tags: [kenny-omega, tyson-smith, the-cleaner, the-elite, bullet-club-leader, njpw-okada-saga, aew-founding-evp, primer-aew-world-champion, one-winged-angel, acto-polarizante-vehemiurgia, frikismo-videojuegos-critica-doctrinal, meltzer-school-workrate-first-opuesto-editorial]
 ---
 
@@ -28,6 +29,57 @@ tags: [kenny-omega, tyson-smith, the-cleaner, the-elite, bullet-club-leader, njp
   **The Best Bout Machine**, **The Belt Collector**.
 - **Finisher signature**: ***One-Winged Angel*** + ***V-Trigger***
   (rodillazo).
+- **Empresa actual (oct 2026)**: **AEW** (EVP y luchador). Ex-AEW
+  World Champion: perdió el título ante Will Ospreay en All In:
+  London (30/8/2026) (Wrestling Inc / allelitewrestling.com vía
+  snippet).
+- **Entrenadores / escuela**: [no confirmado].
+
+> *Nota de research 2026-10-05*: los datos marcados *(ref. general)*
+> salen de la base de conocimiento del sub-agente, no de URL
+> consultada en esta sesión (WebSearch agotado, WebFetch bloqueado);
+> lo de 2026 sí viene de snippets de WebSearch.
+
+## Trayectoria condensada
+
+- **2005–2006** — contrato de desarrollo WWE en Deep South
+  Wrestling; pide su salida *(ref. general)*.
+- **2008** — llega a **DDT** (Japón); forma los **Golden Lovers**
+  con Kota Ibushi *(ref. general)*.
+- **Nov 2014** — en NJPW como junior: **IWGP Junior Heavyweight
+  Champion** *(ref. general; fecha exacta [no confirmado])*.
+- **Ene 2016** — toma el liderazgo del **Bullet Club** tras la
+  salida de AJ Styles; IWGP Intercontinental Champion *(ref.
+  general)*.
+- **Ago 2016** — gana el **G1 Climax**, primer extranjero en
+  hacerlo *(ref. general)*.
+- **2017–2018** — serie con Kazuchika Okada (WK11, 4/1/2017);
+  **primer IWGP US Heavyweight Champion** (jul 2017); **9/6/2018,
+  Dominion: IWGP Heavyweight Champion** vs Okada (2 de 3 caídas)
+  *(ref. general)*.
+- **2019** — deja NJPW; **EVP y fundador de AEW** *(ref. general)*.
+- **2/12/2020, Dynamite: Winter is Coming** — **AEW World Champion
+  por primera vez** vs Jon Moxley; en ese reinado suma el Impact
+  World Title (abr 2021) — el *Belt Collector*. Lo pierde ante
+  Hangman Page en Full Gear 2021 *(ref. general)*.
+- **2023–2024** — IWGP US Champion de nuevo (WK17 vs Ospreay); baja
+  por **diverticulitis** a fines de 2023/2024 *(ref. general; fechas
+  [no confirmado])*.
+- **8/7/2026, Dynamite: Beach Break** (Clearwater, FL) — **AEW World
+  Champion por segunda vez** vs MJF (One-Winged Angel, tras tres
+  V-Triggers; Ospreay le quita el anillo a MJF) (Wrestling Inc /
+  Fox News / Bleacher Report vía snippet).
+- **30/8/2026, All In: London (Wembley)** — **pierde el AEW World
+  Title ante Will Ospreay** (snippet Wrestling Inc /
+  allelitewrestling.com).
+
+> *Contradicciones con "Datos duros" (no se editan, se registran)*:
+> (1) **Omega no fue el primer AEW World Champion** — el primero fue
+> Chris Jericho (All Out 2019) *(ref. general)*; (2) su primer título
+> lo ganó en **Winter is Coming (2/12/2020)**, no en Full Gear;
+> (3) el research ubica el cambio de 2026 el **8/7/2026 vs MJF**, no
+> "hacia el 1/4/2026" (en abril el campeón era Darby Allin — POST
+> Wrestling / prowrestling.net, Dynamite 22/4/2026).
 
 ## Datos duros (preliminar — verificar y expandir)
 

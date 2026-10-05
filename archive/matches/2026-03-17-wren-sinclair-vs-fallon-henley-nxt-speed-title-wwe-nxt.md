@@ -5,11 +5,11 @@ participantes: ["Wren Sinclair", "Fallon Henley"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-03-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Houston, TX"
+recinto: "713 Music Hall"
 tipo_match: "singles — NXT Speed Championship"
 estipulacion: "NXT Speed Championship"
-duracion: "[verif]"
+duracion: "3:39"
 finish: "Wren Sinclair gana con el Final Wrench"
 ganador: "Wren Sinclair (nueva campeona)"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'es la lucha perfecta, se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (fightful, wrestlinginc, wwe.com); WebFetch bloqueado por egress"
 tags: [wren-sinclair, fallon-henley, nxt-speed-championship, wwe-nxt-2026, perfect-wrestling, fighting-spirit, wrestling-entertainment, oldschool, cambio-de-titulo, must-watch, the-future-in-2026]
 ---
 
@@ -57,8 +58,8 @@ tags: [wren-sinclair, fallon-henley, nxt-speed-championship, wwe-nxt-2026, perfe
 
 ## Pendientes
 
-- [ ] Finish exacto (secuencia previa al Final Wrench) + duración
-      + ciudad/recinto.
+- [x] Duración → 3:39, sumisión con Final Wrench a ~1 min del límite de 5; 713 Music Hall, Houston (Fightful/Wrestling Inc vía snippets).
+- [ ] Secuencia previa al Final Wrench (verificar contra video).
 
 ## Cross-links
 

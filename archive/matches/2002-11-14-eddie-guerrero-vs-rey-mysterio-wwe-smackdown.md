@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2002-11-14
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Columbus, OH"
+recinto: "Nationwide Arena [una fuente]"
 tipo_match: "singles — peak lucha-libre revival singles WWE moderno"
 estipulacion: "[verif]"
 duracion: ""
-finish: ""
-ganador: ""
+finish: "Eddie revierte el West Coast Pop en Lasso From El Paso; Rey hace tap out"
+ganador: "Eddie Guerrero"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -23,9 +23,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (kbwrestlingreviews, blogofdoom); WebFetch bloqueado por egress"
 tags: [wwe-2002, smackdown-nov-2002, eddie-guerrero, rey-mysterio, lucha-libre-revival-peak, ecw-pals-reunion, los-guerreros-arc]
 ---
 
@@ -79,7 +80,8 @@ revival.
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish → Eddie Guerrero por sumisión (Lasso From El Paso en reversa del West Coast Pop), parejas vetadas de ringside (KB Wrestling Reviews / Blog of Doom vía snippets).
+- [ ] Duración.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST / Cornette retrospectiva del lucha revival
       SmackDown 2002.

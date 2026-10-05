@@ -5,13 +5,13 @@ participantes: ["Brock Lesnar", "Oba Femi"]
 empresa: "WWE"
 programa: "Clash in Italy"
 fecha: 2026-05-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Turín, Italia"
+recinto: "Inalpi Arena"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "Brock Lesnar [verif]"
+duracion: "6:21"
+finish: "séptimo F5 de Lesnar, pinfall (cuatro F5 de entrada, el sexto a través de la mesa de comentarios)"
+ganador: "Brock Lesnar"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Todo lo que esperaba, genial — solo ese maldito chokeslam botcheado. Impresionante y físico, ahora 1 a 1"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — Clash in Italy, 31/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, POST Wrestling, Wrestling Inc., Fox News, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, clash-in-italy, brock-lesnar, oba-femi, paul-heyman, revancha-oldschool, perfect-match, doctrina-retiro-carny]
 ---
 
@@ -52,9 +53,11 @@ tags: [wwe-2026, clash-in-italy, brock-lesnar, oba-femi, paul-heyman, revancha-o
 
 ## Pendientes / huecos
 
-- [ ] Finish, duración, ubicación en el show.
-- [ ] Ciudad y recinto.
-- [ ] Fecha y resultado del **primer capítulo** de la serie (la lucha que empató).
+- [x] Finish, duración → séptimo F5, pinfall; 6:21 (Cagematch, POST Wrestling, Fox News)
+- [ ] Ubicación en el show.
+- [x] Ciudad y recinto. → Turín, Italia / Inalpi Arena (Cagematch/WWE.com)
+- [x] Resultado del **primer capítulo** → WrestleMania 42, victoria de Oba Femi (Wrestling Inc.)
+- [ ] Fecha exacta (noche) del primer capítulo en WrestleMania 42.
 - [ ] Naturaleza exacta de "la venganza de Lesnar con Paul Heyman" — [verif].
 
 ## Piezas relacionadas

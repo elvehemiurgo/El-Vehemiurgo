@@ -185,7 +185,7 @@ Austin** en esta lectura de 2019).
 - [ ] Trayectoria MLW con fechas/títulos [candidato a `/research`
       si se autoriza].
 - [x] **Identidad de "Kevin Hart"** — sigue sin resolver; ahora
-      tiene ficha propia ([→](./kevin-hart.md)) tras una segunda
+      tiene ficha propia ([→](./kevin-knight.md)) tras una segunda
       aparición (sesión s08, 22/4).
 - [ ] Finish/duración del match vs Okada.
 
@@ -198,4 +198,4 @@ Austin** en esta lectura de 2019).
 - [`./leon-slater.md`](./leon-slater.md) — el que sí es leído
   como "el futuro".
 - [`./okada.md`](./okada.md) — rival del Perfect Match.
-- [`./kevin-hart.md`](./kevin-hart.md) — identidad sin confirmar.
+- [`./kevin-knight.md`](./kevin-knight.md) — identidad sin confirmar.

@@ -75,6 +75,6 @@ tags: [mjf, kevin-hart-verif, aew-dynamite-2026, promo, wrestling-entertainment,
 ## Cross-links
 
 - [`../people/mjf.md`](../people/mjf.md) ·
-  [`../people/kevin-hart.md`](../people/kevin-hart.md)
+  [`../people/kevin-knight.md`](../people/kevin-knight.md)
 - [`../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md`](../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md)
   — el main event que sigue.

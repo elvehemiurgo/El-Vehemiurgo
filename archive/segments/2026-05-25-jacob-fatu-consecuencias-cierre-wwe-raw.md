@@ -6,8 +6,8 @@ protagonistas: ["Jacob Fatu", "Roman Reigns"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-25
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Columbus, Ohio"
+recinto: "Schottenstein Center [una fuente]"
 ubicacion_en_show: "cierre de show"
 duracion: "[verif]"
 linea_textual: "[verif — 'habrá consecuencias']"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment (acotado a la parte final) — 'ahi empieza lo premium'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE Raw, 25/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Wiki); WebFetch bloqueado por egress"
 tags: [jacob-fatu, roman-reigns, wwe-raw-2026, wrestling-entertainment, doctrina-madurez-main-eventer, doctrina-fatu, mfts, bloodline]
 ---
 

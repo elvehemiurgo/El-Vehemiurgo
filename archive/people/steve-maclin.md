@@ -4,11 +4,12 @@ tipo: fact-sheet
 categoria: people
 slug: "steve-maclin"
 estado: stub
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02"
   - "Volcado Vehemiurgo 2026-06-17 #15 (comeback in-ring 12/3)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas: presupuesto agotado; ref. general marcada [no confirmado]); WebFetch bloqueado por egress"
 tags: [steve-maclin, tna, main-eventer, lesion-sacrifice-2026, comeback]
 ---
 
@@ -23,13 +24,20 @@ tags: [steve-maclin, tna, main-eventer, lesion-sacrifice-2026, comeback]
 
 ## Identificación
 
-- **Nombre real**: [verif]
+- **Nombre real**: [verif] — el sub-agente lo tiene como Steven
+  Maclin (nombre de ring = nombre real) *(ref. general; [no
+  confirmado])*.
 - **Nombres de gimmick**: Steve Maclin; Steve Cutler (WWE) [verif].
+- **Background**: veterano de los US Marines *(ref. general; [no
+  confirmado])*.
 - **Empresa actual**: **free agent** (release de TNA el
   7/6/2026, pedido por él tras cinco años).
 
 ## Trayectoria condensada
 
+- *(ref. general, [no confirmado])* WWE como **Steve Cutler**,
+  miembro de **The Forgotten Sons** (NXT / SmackDown); release en
+  2021; llega a Impact/TNA ese mismo año.
 - Ex-TNA World Champion [verif reinado y fechas].
 - 12/3/2026 — comeback in-ring (registrado en sesión #15, match
   pendiente de apertura).

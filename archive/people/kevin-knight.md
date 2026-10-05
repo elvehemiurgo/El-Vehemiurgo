@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-knight
 estado: vivo
-ultima_actualizacion: 2026-10-02
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s09 (visión directa — AEW Dynamite 29/4/2026)"
 tags: [kevin-knight, aew, upset-vs-mjf, low-blow-finish, the-future-in-2026]
@@ -322,7 +322,7 @@ las dos apariciones previas bajo "Kevin Hart" (abril 2026: comparación
 con Myron Reed, "de tú a tú" con MJF). Frustrado por perder su chance
 por el TNT Championship, confronta a Kyle Fletcher; Don Callis media
 y los reserva como equipo en Collision. Ver
-[`./kevin-hart.md`](./kevin-hart.md). Pieza:
+[`./kevin-knight.md`](./kevin-knight.md) (ex `kevin-hart.md`, fusionada). Pieza:
 [confrontación con Fletcher](../segments/2026-09-02-kevin-knight-kyle-fletcher-don-callis-aew-dynamite.md) (WE).
 
 ### Sesión 2026-09-22 s02 — Rebel Heart elaborado y 8-man de Dynamite 16/9
@@ -351,6 +351,90 @@ y los reserva como equipo en Collision. Ver
 
 ### Sesión 2026-10-02 s01 — #1 contender por paro médico (All Out, ICC)
 - `2026 09 26 AEW All Out`, con Fletcher vs Darby & Borden, **ICC**. [Ficha](../matches/2026-09-26-fletcher-knight-vs-darby-borden-contender-aew-all-out.md).
+
+### Fusión 2026-10-05 — sesiones registradas como "Kevin Hart"
+
+> **Nota de fusión**: el archivo tenía una ficha aparte, `kevin-hart.md`,
+> para el nombre dictado *"Kevin Hart"*. El research del 2026-10-05 lo
+> resolvió como **Kevin Knight** (TNT Champion vs MJF, AEW Dynamite
+> 22/4/2026). Sus sesiones se fusionan aquí, con el verbatim intacto.
+
+#### Sesión 2026-07-14 s04 — Comparación con Myron Reed
+
+**Cita verbatim**:
+
+> *"¿que será lo que lo diferencia de Kevin Hart? porque el si y
+> Myron no?"*
+>
+> — El Vehemiurgo, 2026-07-14 s04 (verbatim)
+
+#### Sesión 2026-07-14 s08 — De tú a tú con MJF
+
+**Cita verbatim**:
+
+> *"Kevin Hart le habla de tú a tú, como si MJF se hubiera
+> devaluado al midcard"*
+>
+> — El Vehemiurgo, 2026-07-14 s08 (verbatim)
+
+**Lectura sintética**: la segunda aparición da sustancia narrativa
+al nombre — ya no es solo una comparación de pasada, es un talent
+activo en una storyline concreta. Eso refuerza que se trata de un
+personaje real dentro del archivo del Vehemiurgo, aunque su
+identidad siga sin resolverse.
+
+
+#### Sesión 2026-09-17 s01 — Tercera aparición: research apunta a Kevin Knight
+
+**Cita verbatim** (tercera mención bajo este nombre dictado):
+
+> *"luego Kevin Hart y Fletcher tienen una discución genial, con Don
+> Callis en medio [...] el booking de Kyle y Kevin ha estado
+> excelente siempre"*
+>
+> — El Vehemiurgo, 2026-09-17 s01 (verbatim, typos preservados)
+
+**Avance de identidad (sin cerrar)**: el research de esta sesión
+(AEW Dynamite 2/9/2026) identifica que el segmento de "Kevin Hart"
+vs Kyle Fletcher, mediado por Don Callis, corresponde a **Kevin
+Knight** — con **alta confianza pero fuente Terciaria**, sin
+verificar el cruce con las dos apariciones de abril 2026 (comparación
+con Myron Reed; "de tú a tú" con MJF). **No se fusionan las fichas
+todavía**: la hipótesis queda declarada, pendiente de un research más
+puntual (Fightful/PWTorch del 2/9) que la suba a Secundaria. Ver
+[`./kevin-knight.md`](./kevin-knight.md). Pieza:
+[confrontación con Fletcher](../segments/2026-09-02-kevin-knight-kyle-fletcher-don-callis-aew-dynamite.md) (WE).
+
+#### Resolución de identidad (research 2026-10-05)
+
+**Nombre canónico: Kevin Knight** ("The Jet", AEW) — ver
+[`./kevin-knight.md`](./kevin-knight.md). La hipótesis Kevin Owens
+queda **descartada**.
+
+**Evidencia** (Secundaria, ubicándose en show + fecha dictados):
+
+1. **AEW Dynamite 22/4/2026** (la mención "de tú a tú"): MJF exige a
+   Darby Allin que le devuelva el título mundial y lo confronta el
+   **campeón TNT Kevin Knight**, que le dice que está lloriqueando;
+   MJF responde que ya demostró ser mejor que Knight y termina
+   aceptando un match por el título TNT para la semana siguiente
+   [POST Wrestling, 22/4/2026: *"Kevin Knight vs. MJF set for next
+   week's AEW Dynamite"*; resultados AEW y PWTorch VIP 22/4]. Es
+   exactamente la escena dictada: un campeón de midcard hablándole
+   de igual a igual al ex-campeón mundial.
+2. **AEW Dynamite 29/4/2026**: Knight vence a MJF (low blow) —
+   match ya registrado en [`./kevin-knight.md`](./kevin-knight.md)
+   como el payoff directo del segmento del 22/4.
+3. **AEW Dynamite 2/9/2026**: el segmento con Kyle Fletcher y Don
+   Callis (research 2026-09-17) también es Knight.
+4. **Collision 11/4/2026** (comparación con Myron Reed): la frase
+   *"¿qué lo diferencia de Kevin Hart? porque él sí y Myron no"*
+   encaja con Knight —flyer de la misma camada al que AEW sí empujó
+   (campeón TNT en abril 2026)—; **por lectura**, sin fuente que lo
+   ate directamente, pero sin candidato alternativo en la escena.
+
+**Recomendación**: fusionar esta ficha en `kevin-knight.md` (no se
+renombra ni borra en esta pasada; queda para decisión editorial).
 
 ## Pendientes / huecos
 

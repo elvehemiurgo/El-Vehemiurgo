@@ -5,13 +5,13 @@ participantes: ["Jackson Drake", "Tate Wilder"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-06-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "8:37"
+finish: "450 Splash de Jackson Drake tras powerbomb de Myka Lockwood a Wilder sobre los escalones/apron"
+ganador: "Jackson Drake"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buen showcase, gear a lo Bryan Danielson, otra buena lucha producida por Jackson Drake"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — NXT, 2/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, jackson-drake, tate-wilder, gear-danielson, future-2026, runner-ups]
 ---
 
@@ -51,7 +52,7 @@ tags: [wwe-2026, nxt, jackson-drake, tate-wilder, gear-danielson, future-2026, r
 
 ## Pendientes / huecos
 
-- [ ] Finish, duración.
+- [x] Finish, duración. → 450 Splash de Drake tras ayuda de Myka Lockwood; 8:37 (Cagematch, WWE.com). Sede: Orlando, Florida / WWE Performance Center (Cagematch/WWE.com)
 - [ ] Abrir ficha de **Tate Wilder** si recibe take propio más adelante (por ahora, mención de oponente).
 
 ## Piezas relacionadas

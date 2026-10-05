@@ -5,12 +5,12 @@ participantes: ["Ricky Saints", "[verif — oponente no dictado]"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-29
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Badalona (área de Barcelona), España"
+recinto: "Palau Olímpic de Badalona (Olimpic Arena)"
 tipo_match: "singles (no titular)"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "draw / empate"
+duracion: "3:04 [una fuente]"
+finish: "doble count-out (empate)"
 ganador: "empate — sin ganador"
 referee: "[verif]"
 encuentros_previos: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'La lucha se merece todas las clases, pusieron un clásico instantaneo'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE SmackDown, 29/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com, eWrestling, Yahoo Sports, Wrestleview); WebFetch bloqueado por egress"
 tags: [ricky-saints, wwe-smackdown-2026, perfect-wrestling, fighting-spirit, wrestling-entertainment, perfect-match, draw, titulo-us, doctrina-booking-basico]
 ---
 
@@ -85,10 +86,11 @@ marcado como pendiente de confirmación. Ver
 
 ## Pendientes
 
-- [ ] **Identidad del oponente** — no dictado, [verif].
-- [ ] Finish exacto del draw (tiempo límite, doble pin, etc.).
-- [ ] Ciudad, recinto, duración.
-- [ ] Estado exacto del título US y próximo desafiante.
+- [x] **Identidad del oponente** — no dictado, [verif]. → **Carmelo Hayes** (WWE.com, Yahoo Sports, eWrestling). `match`, `participantes`, título y slug quedan sin tocar para la sesión principal.
+- [x] Finish exacto del draw (tiempo límite, doble pin, etc.). → doble count-out: siguieron peleando afuera y no volvieron a tiempo (eWrestling, Cagematch)
+- [x] Ciudad, recinto, duración. → Badalona (área de Barcelona), España / Palau Olímpic de Badalona (Olimpic Arena) (Cagematch/Wrestleview); 3:04 [una fuente, eWrestling — llamativamente corta, verificar]
+- [x] Estado exacto del título US → Trick Williams campeón; el DCO abre la puerta a un triple threat Trick/Hayes/Saints (WWE.com, Cagematch)
+- [ ] Próximo desafiante confirmado.
 
 ## Cross-links
 

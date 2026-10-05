@@ -4,9 +4,10 @@ tipo: fact-sheet
 categoria: people
 slug: mark-davis
 estado: stub
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (en.wikipedia.org y prowrestling.net vía snippet; WebSearch agotado a mitad de lote); WebFetch bloqueado por egress"
 tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-verif, heel-genial-vehemiurgo, recurrente-lista-personal, heroes-fundamentales-vehemiurgia, panteon-vehemiurgo-43, kyle-fletcher-comparacion, perfect-match-04-marzo]
 ---
 
@@ -36,10 +37,29 @@ tags: [mark-davis, aussie-open, dunkzilla, kyle-fletcher-tag, don-callis-family-
 ## Identificación
 
 - **Nombre de gimmick**: Mark Davis.
-- **Apodo**: *Dunkzilla* [verif].
-- **Origen / nacimiento**: [verif].
+- **Apodo**: *Dunkzilla* (Wikipedia vía snippet).
+- **Origen / nacimiento**: **20/8/1990, Queensland, Australia**
+  [una fuente — snippet de Wikipedia]. El mismo snippet da como
+  nombre real *"Davis Passfield"* — dato raro, [no confirmado].
 - **Equipo signature**: ***Aussie Open*** (con Kyle Fletcher) —
-  tag team australiano [verif reinos].
+  tag team australiano [verif reinos]. Según el snippet, el equipo
+  se dio por retirado el **6/11/2024** y figura activo de nuevo en
+  2026 [una fuente].
+- **Empresa actual (oct 2026)**: **AEW**, miembro de la **Don Callis
+  Family** (snippet Wikipedia).
+
+## Trayectoria condensada
+
+- **Aussie Open** con Kyle Fletcher: equipo formado en la escena
+  británica (RevPro / PROGRESS), luego NJPW y AEW *(ref. general
+  del sub-agente; títulos y fechas [no confirmado])*.
+- **6/11/2024** — Aussie Open se da por retirado como equipo [una
+  fuente].
+- **2026** — en AEW dentro de la Don Callis Family; **22/4/2026,
+  Dynamite** (Portland): vs Will Ospreay en singles
+  (prowrestling.net vía snippet).
+- *Pendiente*: el título de la "coronación del 9/5" sigue sin
+  cerrar — el presupuesto de WebSearch se agotó antes.
 
 ## Datos duros (preliminar — verificar y expandir)
 

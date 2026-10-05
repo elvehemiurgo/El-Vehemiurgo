@@ -5,22 +5,23 @@ participantes: ["Kelani Jordan", "Wren Sinclair"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "NXT Women's Speed Championship"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "11:22"
+finish: "sumisión — knee bar de Kelani Jordan sobre la rodilla lesionada de Wren"
+ganador: "Kelani Jordan"
 referee: "[verif]"
 encuentros_previos: 3
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'sería perfecta, pero Wren todavia está verde en la esfera de vender como wrestler'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE NXT, 26/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com, Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [kelani-jordan, wren-sinclair, wwe-nxt-2026, fighting-spirit, wrestling-entertainment, nxt-speed-championship, reserva-tecnica, doctrina-face-vender-titulo, bryan-danielson, heavyweight]
 ---
 
@@ -83,9 +84,10 @@ historial completo (s35, s37, s40).
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Ganadora — ¿retiene Wren o cambia el título?
-- [ ] Ciudad, recinto.
+- [x] Finish exacto + duración. → sumisión con knee bar; 11:22 (Cagematch, WWE.com)
+- [x] Ganadora — ¿retiene Wren o cambia el título? → gana Kelani Jordan; según las fuentes la lucha fue **sin título en juego** (ver discrepancia) (WWE.com, Wrestling Inc.)
+- [x] Ciudad, recinto. → Orlando, Florida / WWE Performance Center (Cagematch/WWE.com)
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra la lucha como title challenge por el NXT Women's Speed Championship vs WWE.com/Wrestling Inc., que la reportan como **non-title** (Wren Sinclair campeona Speed; Kelani gana por sumisión).
 
 ## Cross-links
 

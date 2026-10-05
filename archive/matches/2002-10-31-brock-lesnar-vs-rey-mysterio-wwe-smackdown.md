@@ -7,12 +7,12 @@ participantes:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2002-10-31
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Grand Rapids, MI"
+recinto: "Van Andel Arena [una fuente]"
 tipo_match: "singles — David vs Goliath puro (WWE Championship match)"
 estipulacion: "[verif] — likely non-title pero con Brock como WWE Champion vigente"
-duracion: ""
-finish: "[verif] — Brock domina"
+duracion: "~4:00 [una fuente]"
+finish: "DQ por interferencia: Big Show irrumpe y lanza a Rey al público (press slam); luego chokeslam de Show a Lesnar sobre la mesa de comentarios"
 ganador: "Brock Lesnar"
 referee: ""
 attendance_anunciada: ""
@@ -23,9 +23,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wrestlingrecaps, handwerkreviews, blogofdoom); WebFetch bloqueado por egress"
 tags: [wwe-2002, smackdown-oct-2002, brock-lesnar, rey-mysterio, david-vs-goliath, monster-vs-cruiserweight, brock-primer-run, heyman-mánager]
 ---
 
@@ -80,7 +81,7 @@ emocional.
 
 ## Pendientes / huecos
 
-- [ ] Finish + duración exactos.
+- [x] Finish + duración exactos. → final por DQ con interferencia de Big Show, ~4 min (wrestlingrecaps + Handwerk + Blog of Doom vía snippets).
 - [ ] Si era WWE Title match o non-title.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Heyman promo segments del show pre/post-match.
@@ -89,6 +90,7 @@ emocional.
 - [ ] Verbatim Heyman + Brock (probable múltiples
       retrospectivas) sobre el cluster Brock-SmackDown 2002.
 - [ ] **Asignación de clase del Vehemiurgo**.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra ganador **Brock Lesnar**; las fuentes dan **Rey Mysterio por DQ** tras la interferencia de Big Show (wrestlingrecaps/Handwerk vía snippets).
 
 ## Piezas relacionadas
 

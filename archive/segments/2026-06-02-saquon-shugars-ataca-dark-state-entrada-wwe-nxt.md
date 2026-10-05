@@ -6,8 +6,8 @@ protagonistas: ["Saquon Shugars", "Dark State"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-06-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Momentazo, se vio muy cool, va con su gimmick"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — NXT, 2/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, saquon-shugars, dark-state, ataque-en-entrada, coherencia-de-gimmick, future-2026]
 ---
 
@@ -51,7 +52,7 @@ tags: [wwe-2026, nxt, saquon-shugars, dark-state, ataque-en-entrada, coherencia-
 ## Pendientes / huecos
 
 - [ ] Finish, duración, ubicación en el show.
-- [ ] Ciudad y recinto.
+- [x] Ciudad y recinto. → Orlando, Florida / WWE Performance Center (Cagematch/WWE.com)
 
 ## Piezas relacionadas
 

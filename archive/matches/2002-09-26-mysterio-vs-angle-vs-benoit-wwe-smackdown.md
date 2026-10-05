@@ -8,13 +8,13 @@ participantes:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2002-09-26
-ciudad: ""
-recinto: "[verif]"
+ciudad: "San Diego, CA"
+recinto: "San Diego Sports Arena (taping 24 sep 2002) [una fuente]"
 tipo_match: "triple threat — Rey Mysterio elevado a la conversación title"
 estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "8:43 [una fuente]"
+finish: "Benoit lanza a Angle al piso con German suplex; Rey conecta West Coast Pop en springboard sobre Benoit para el pin"
+ganador: "Rey Mysterio"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -24,9 +24,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom, handwerkreviews, cagematch); WebFetch bloqueado por egress"
 tags: [wwe-2002, smackdown-sep-2002, rey-mysterio, kurt-angle, chris-benoit, triple-threat, post-summerslam, smackdown-six-formation]
 ---
 
@@ -72,7 +73,7 @@ del style-clash sin distracción. Match icónico para el cluster.
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish + duración. → Rey Mysterio pina a Benoit con West Coast Pop; 8:43 [una fuente] (fandom + Handwerk Reviews vía snippets).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Asignación de clase del Vehemiurgo**.
 

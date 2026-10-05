@@ -5,22 +5,23 @@ participantes: ["Ethan Page", "Penta"]
 empresa: "WWE"
 programa: "Saturday Night's Main Event XLIV"
 fecha: 2026-05-23
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Fort Wayne, Indiana"
+recinto: "Allen County War Memorial Coliseum"
 tipo_match: "singles"
 estipulacion: "[verif — posible título en juego, Penta 'defendiendo su título seguido'"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "14:22"
+finish: "Mexican Destroyer de Penta, tras mandar a Page de hombro contra el esquinero expuesto"
+ganador: "Penta — retiene el WWE Intercontinental Championship"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'seria perfecta si no fuera por los vicios indie mark que tiene'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE Saturday Night's Main Event XLIV, 23/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Wrestling Inc., Bleacher Report, Wrestleview); WebFetch bloqueado por egress"
 tags: [ethan-page, penta, wwe-snme-2026, fighting-spirit, wrestling-entertainment, reserva-tecnica, indie-mark, doctrina-techo-mjf, oldschool]
 ---
 
@@ -75,9 +76,9 @@ old-school.
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Título en juego, si lo hubo.
-- [ ] Ciudad, recinto.
+- [x] Finish exacto + duración. → Mexican Destroyer de Penta; 14:22 (Cagematch, Wrestling Inc., Fox News)
+- [x] Título en juego, si lo hubo. → WWE Intercontinental Championship; Penta retiene (Cagematch, Bleacher Report)
+- [x] Ciudad, recinto. → Fort Wayne, Indiana / Allen County War Memorial Coliseum (Cagematch/Wrestleview)
 
 ## Cross-links
 

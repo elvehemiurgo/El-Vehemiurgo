@@ -3,10 +3,11 @@ nombre: "Satoshi Yoneyama"
 tipo: fact-sheet
 categoria: people
 slug: satoshi-yoneyama
-estado: stub
-ultima_actualizacion: 2026-06-17
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — tag match 1996 [verif show])"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — sin búsquedas nuevas (budget de WebSearch agotado); consolidación de los datos del sub-agente 2026-06-17 ya en ficha; WebFetch bloqueado por egress"
 tags: [satoshi-yoneyama, battlarts, fujiwara-gumi-lineage, shoot-style-indie-japones, generacion-junior-heavyweight-highspeed-1990s]
 ---
 
@@ -25,15 +26,19 @@ tags: [satoshi-yoneyama, battlarts, fujiwara-gumi-lineage, shoot-style-indie-jap
 - **Estilo**: shoot-style indie con vena BattlARTS → luego heavyweight
   de NOAH.
 
-## Datos duros (confirmados por sub-agente 2026-06-17)
+## Trayectoria condensada (datos confirmados por sub-agente 2026-06-17)
 
-- **Debut**: **18 ago 1995** (mismo día que Alexander Otsuka; según
+- **18/8/1995** — debut (mismo día que Alexander Otsuka; según
   fuentes, su rival de debut fue el propio Otsuka).
-- **BattlARTS**: formó el tag **LOVE Warriors** con Otsuka.
-- **Empresas**: BattlARTS, Michinoku Pro, Big Japan, WAR, FMW → y
-  sobre todo **Pro Wrestling NOAH** como Muhammad Yone.
-- **Títulos (como Yone)**: múltiple **GHC Tag Team Champion**, GHC
-  Hardcore, ganador del **Global Tag League 2012** (con Marufuji).
+- **1996** — BattlARTS: forma el tag **LOVE Warriors** con Otsuka.
+- **10/10/1996** — tag con Ikeda vs Otsuka & Ishikawa en el 3er
+  aniversario de Michinoku Pro (ver match stub).
+- Circuito: Michinoku Pro, Big Japan, WAR, FMW.
+- **1999** — pasa a trabajar como **Muhammad (Mohammed) Yone**,
+  *"Mr. Afro"*; carrera central en **Pro Wrestling NOAH**.
+- Como Yone: múltiple **GHC Tag Team Champion**, GHC Hardcore
+  [fechas de reinados pendientes].
+- **2012** — gana la **Global Tag League** con Naomichi Marufuji.
 
 ## Lectura editorial del Vehemiurgo
 

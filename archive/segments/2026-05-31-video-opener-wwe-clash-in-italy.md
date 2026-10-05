@@ -6,8 +6,8 @@ protagonistas: ["[produccion WWE]"]
 empresa: "WWE"
 programa: "Clash in Italy"
 fecha: 2026-05-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Turín, Italia"
+recinto: "Inalpi Arena"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Increíble — esa edición y el uso del slowmo 8K estuvo premium"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — Clash in Italy, 31/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, clash-in-italy, video-opener, produccion, slowmo-8k, edicion-premium]
 ---
 

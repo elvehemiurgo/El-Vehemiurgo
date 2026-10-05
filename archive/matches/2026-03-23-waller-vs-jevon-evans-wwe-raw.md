@@ -5,11 +5,11 @@ participantes: ["Waller", "Jevon Evans"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-03-23
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Boston, MA"
+recinto: "TD Garden"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
+duracion: "9:00 [una fuente]"
 finish: "Waller pone over a Jevon Evans"
 ganador: "Jevon Evans"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit — 'se merece un fighting spirit'"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 23/3/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.net, pwtorch); WebFetch bloqueado por egress"
 tags: [waller, jevon-evans, wwe-raw-2026, singles, fighting-spirit, booking-lento-y-cuidadoso, psicologia]
 ---
 
@@ -48,7 +49,7 @@ Ver [`../people/jevon-evans.md`](../people/jevon-evans.md),
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto. → Je'Von Evans pina limpio con (springboard) OG Cutter; 9:00 [una fuente]; TD Garden, Boston; Kofi Kingston en la esquina de Waller (wwe.com/prowrestling.net vía snippets).
 - [ ] Nombre real de Waller.
 
 ## Cross-links

@@ -5,13 +5,13 @@ participantes: ["Chelsea Green", "Nia Jax"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-29
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Badalona (área de Barcelona), España"
+recinto: "Palau Olímpic de Badalona (Olimpic Arena)"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "7:06"
+finish: "Tiffany Stratton golpea a Nia Jax con el título a espaldas del réferi; Green cubre para el pinfall"
+ganador: "Chelsea Green"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sí protegió a Chelsea — genial verla trabajar con una heavyweight así; normalmente Chelsea es la heel pero aquí Nia estaba dirigiendo"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s53 (visión directa — SmackDown, 29/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com, Wrestleview); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, chelsea-green, nia-jax, regreso-tras-4-meses, babyface-natural, heel-identificable, midcard-femenino]
 ---
 
@@ -53,7 +54,7 @@ tags: [wwe-2026, smackdown, chelsea-green, nia-jax, regreso-tras-4-meses, babyfa
 
 ## Pendientes / huecos
 
-- [ ] Finish y duración (el Vehemiurgo elogia *"el desenlace"* sin describirlo).
+- [x] Finish y duración (el Vehemiurgo elogia *"el desenlace"* sin describirlo). → Stratton golpea a Jax con el título a espaldas del réferi y Green cubre; 7:06 (Cagematch, WWE.com). Sede: Badalona (área de Barcelona), España / Palau Olímpic de Badalona (Olimpic Arena) (Cagematch/Wrestleview)
 - [ ] Confirmar la ausencia previa de ~4 meses de Chelsea Green.
 
 ## Piezas relacionadas

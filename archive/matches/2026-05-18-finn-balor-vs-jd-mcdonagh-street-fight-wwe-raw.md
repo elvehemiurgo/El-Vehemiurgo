@@ -5,22 +5,23 @@ participantes: ["Finn Bálor", "JD McDonagh"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-18
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Greensboro, Carolina del Norte"
+recinto: "First Horizon Coliseum (Greensboro Coliseum)"
 tipo_match: "singles — street fight (desempate de la serie)"
 estipulacion: "street fight"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "14:13 (Cagematch) / ~12:00 según 411mania"
+finish: "Coup de Grâce de Bálor sobre McDonagh (sobre un bote de basura) tras un 619 accidental de Dominik Mysterio a McDonagh"
+ganador: "Finn Bálor"
 referee: "[verif]"
 encuentros_previos: "serie 1-1 en singles: 20/4/2026 (Perfect Match) y 4/5/2026 (Perfect Match con interferencia de Judgment Day); ataque sorpresa de Bálor el 11/5"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece todas las clases esta street fight'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s49 (visión directa — WWE Raw, 18/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, 411mania, Slam Wrestling, Rajah, WWE.com); WebFetch bloqueado por egress"
 tags: [finn-balor, jd-mcdonagh, wwe-raw-2026, street-fight, desempate, perfect-wrestling, fighting-spirit, wrestling-entertainment, selling, spots-locos, trilogia]
 ---
 
@@ -83,9 +84,9 @@ Ver [`../people/finn-balor.md`](../people/finn-balor.md),
 
 ## Pendientes
 
-- [ ] **Ganador del desempate** — dato clave de la serie, sin
-      dictar.
-- [ ] Finish técnico, duración, ciudad/recinto.
+- [x] **Ganador del desempate** — dato clave de la serie, sin
+      dictar. → **Finn Bálor** (Slam Wrestling, 411mania, WWE.com)
+- [x] Finish técnico, duración, ciudad/recinto. → Coup de Grâce tras 619 accidental de Dominik a McDonagh; 14:13 (Cagematch) / ~12:00 según 411mania; Greensboro, Carolina del Norte / First Horizon Coliseum (Greensboro Coliseum) (Cagematch/Rajah)
 
 ## Cross-links
 

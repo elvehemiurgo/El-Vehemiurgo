@@ -6,8 +6,8 @@ protagonistas: ["Chelsea Green", "Tiffany Stratton"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-29
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Badalona (área de Barcelona), España"
+recinto: "Palau Olímpic de Badalona (Olimpic Arena)"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "sin clase — 'muy entretenido', 'sigue siendo must see Chelsea'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE SmackDown, 29/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Wrestleview); WebFetch bloqueado por egress"
 tags: [chelsea-green, tiffany-stratton, wwe-smackdown-2026, sin-clase, brecha-generacional, comedia, must-see]
 ---
 

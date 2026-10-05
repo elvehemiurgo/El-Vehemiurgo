@@ -4,10 +4,11 @@ tipo: fact-sheet
 categoria: people
 slug: nick-wayne
 estado: stub
-ultima_actualizacion: 2026-10-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-31 s57 (VISIONADO DIRECTO — AEW Dynamite 12/8/2026)"
   - "Sub-agentes de research s57 (2026-08-31) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas: presupuesto agotado; cruce interno con kevin-knight.md + ref. general marcada); WebFetch bloqueado por egress"
 tags: [aew-2026, nick-wayne, indie-cosplay, christian-cage, casino-gauntlet, doctrina-gimmick]
 ---
 
@@ -19,10 +20,19 @@ tags: [aew-2026, nick-wayne, indie-cosplay, christian-cage, casino-gauntlet, doc
 
 ## Identificación
 
-- **Nombre real**: [verif]
+- **Nombre real**: [verif] — no cerrado en esta pasada.
+- **Origen / linaje**: hijo del luchador y entrenador **Buddy Wayne**
+  (estado de Washington), cuya escuela —la **Buddy Wayne Academy**—
+  formó también a Darby Allin y Kevin Knight (dato ya registrado en el
+  archivo: [`./kevin-knight.md`](./kevin-knight.md)). Su madre aparece
+  en AEW como *"Mother Wayne"* *(ref. general del sub-agente; [no
+  confirmado])*.
 - **Empresa actual**: AEW
 - **Vínculo clave**: fue pupilo/hijo kayfabe de **Christian Cage** en
   AEW. [verif — naturaleza exacta y fechas de la relación en pantalla]
+  — *(ref. general, [no confirmado])*: se une a Christian en
+  **WrestleDream 2023** traicionando a Darby Allin, núcleo de la
+  facción **The Patriarchy**.
 
 ## Notas editoriales del Vehemiurgo
 
@@ -61,6 +71,11 @@ tags: [aew-2026, nick-wayne, indie-cosplay, christian-cage, casino-gauntlet, doc
 
 ## Trayectoria condensada
 
+- *(ref. general del sub-agente, sin URL en esta sesión — [no
+  confirmado])* Debut adolescente en el circuito indie del Pacífico
+  Noroeste (~2020); firma con AEW al cumplir 18 (2023); **oct 2023,
+  WrestleDream**: turn sobre Darby Allin y alianza con Christian Cage
+  (The Patriarchy).
 - **12/8/2026** — three-way por el spot #2 del Men's Casino Gauntlet de
   All In: London, contra MJF y Mike Bailey. **Pierde** (MJF gana con
   Salt of the Earth, 12:01).

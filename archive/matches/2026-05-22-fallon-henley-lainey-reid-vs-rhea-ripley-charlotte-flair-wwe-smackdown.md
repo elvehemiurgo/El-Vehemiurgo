@@ -5,22 +5,23 @@ participantes: ["Fallon Henley", "Lainey Reid", "Rhea Ripley", "Charlotte Flair"
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Lexington, Kentucky"
+recinto: "Rupp Arena"
 tipo_match: "tag team"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "10:59"
+finish: "Natural Selection de Charlotte Flair, que se etiquetó sola mientras Rhea aplicaba Riptide"
+ganador: "Charlotte Flair & Rhea Ripley (w/ Alexa Bliss)"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'La lucha se merece el fighting spirit class y el enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s51 (visión directa — WWE SmackDown, 22/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Wrestling Inc., PWMania, WWE.com); WebFetch bloqueado por egress"
 tags: [fallon-henley, lainey-reid, rhea-ripley, charlotte-flair, fatal-influence, irresistible-forces, wwe-smackdown-2026, fighting-spirit, wrestling-entertainment, debut-tag-team, team-allstar, contraste-tamano]
 ---
 
@@ -93,8 +94,8 @@ señalaba el versus prometedor Lainey Reid vs Rhea Ripley. Ver
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto + ciudad.
+- [x] Finish exacto + duración. → Natural Selection de Charlotte tras auto-tag durante el Riptide de Rhea; 10:59 (Cagematch, Wrestling Inc.)
+- [x] Recinto + ciudad. → Lexington, Kentucky / Rupp Arena (Cagematch/PWMania)
 
 ## Cross-links
 

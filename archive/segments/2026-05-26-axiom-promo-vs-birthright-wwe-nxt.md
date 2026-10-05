@@ -6,8 +6,8 @@ protagonistas: ["Axiom"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "sin clase — 'me gusta este booking para ellos', elogio a la decisión de casilleo, no a la ejecución puntual"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE NXT, 26/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [axiom, the-birthright, wwe-nxt-2026, sin-clase, atraccion-especial, highflyer, doctrina-casillero-correcto, midcard]
 ---
 

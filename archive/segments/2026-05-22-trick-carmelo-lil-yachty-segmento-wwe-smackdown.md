@@ -6,8 +6,8 @@ protagonistas: ["Trick Williams", "Carmelo Hayes", "Lil Yachty"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Lexington, Kentucky"
+recinto: "Rupp Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "sin clase — 'un buen segmento', Lil Yachty 'lo hizo ok'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s51 (visión directa — WWE SmackDown, 22/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, PWMania, WWE.com, POST Wrestling, Fightful, Pro Wrestling Wiki); WebFetch bloqueado por egress"
 tags: [trick-williams, carmelo-hayes, lil-yachty, ricky-saints, wwe-smackdown-2026, sin-clase, titulo-us, midcard-masculino]
 ---
 
@@ -56,8 +57,8 @@ tags: [trick-williams, carmelo-hayes, lil-yachty, ricky-saints, wwe-smackdown-20
 ## Pendientes
 
 - [ ] Contenido exacto del segmento + duración.
-- [ ] Quién detenta el título US en este momento del booking —
-      [verif].
+- [x] Quién detenta el título US en este momento del booking —
+      [verif]. → Trick Williams (WWE.com, POST Wrestling)
 
 ## Cross-links
 

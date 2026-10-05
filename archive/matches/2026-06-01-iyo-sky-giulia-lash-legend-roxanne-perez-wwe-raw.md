@@ -5,13 +5,13 @@ participantes: ["Iyo Sky", "Giulia", "Lash Legend", "Roxanne Perez"]
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-06-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Turín, Italia"
+recinto: "Inalpi Arena"
 tipo_match: "fatal 4-way"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "10:36"
+finish: "Over the Moonsault de Iyo Sky sobre Giulia, pinfall"
+ganador: "Iyo Sky — avanza a semifinales del Queen of the Ring 2026"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Dream match, está ok — Lash y Roxanne al FUTURE; Giulia expuesta como muy indie en ring positioning"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — Monday Night Raw, 1/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Solowrestling, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, fatal-4-way, iyo-sky, giulia, lash-legend, roxanne-perez, doctrina-fundamentos-ausentes, giulia-face-turn, future-2026]
 ---
 
@@ -55,9 +56,10 @@ tags: [wwe-2026, raw, fatal-4-way, iyo-sky, giulia, lash-legend, roxanne-perez, 
 
 ## Pendientes / huecos
 
-- [ ] Ganadora, finish, duración.
-- [ ] Ciudad y recinto.
+- [x] Ganadora, finish, duración. → Iyo Sky con Over the Moonsault sobre Giulia; 10:36 (Cagematch, Solowrestling)
+- [x] Ciudad y recinto. → Turín, Italia / Inalpi Arena (Cagematch/WWE.com)
 - [ ] Seguimiento del face turn de Giulia — ¿agarró momentum?
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `estipulacion: standard` vs Cagematch: fatal four-way de **1ª ronda del Queen of the Ring 2026**.
 
 ## Piezas relacionadas
 

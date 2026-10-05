@@ -5,22 +5,23 @@ participantes: ["Carmelo Hayes", "Ricky Saints"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-15
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Columbia, Carolina del Sur"
+recinto: "Colonial Life Arena"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "12:44"
+finish: "roll-up de Hayes usando las cuerdas mientras Saints discutía con el árbitro (el réferi lo había pillado usando las cuerdas)"
+ganador: "Carmelo Hayes"
 referee: "[verif]"
 encuentros_previos: "primer encuentro registrado"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece las 3 clases, incluso cuando se tropezaron lo mantuvieron real'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s48 (visión directa — WWE SmackDown, 15/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Solowrestling, WWE.com, PWTorch); WebFetch bloqueado por egress"
 tags: [carmelo-hayes, ricky-saints, wwe-smackdown-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, oldschool, doctrina-el-tropiezo-no-rompe-la-ilusion]
 ---
 
@@ -81,7 +82,7 @@ su primer Perfect Match en SmackDown. Ver
 
 ## Pendientes
 
-- [ ] Finish, ganador, duración, ciudad/recinto.
+- [x] Finish, ganador, duración, ciudad/recinto. → gana Carmelo Hayes por roll-up con los pies en las cuerdas tras discusión de Saints con el réferi; 12:44; Columbia, Carolina del Sur / Colonial Life Arena (Cagematch/WWE.com) (Cagematch, Solowrestling, PWTorch)
 
 ## Cross-links
 

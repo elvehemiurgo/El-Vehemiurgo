@@ -6,8 +6,8 @@ protagonistas: ["Ethan Page"]
 empresa: "WWE"
 programa: "Saturday Night's Main Event XLIV"
 fecha: 2026-05-23
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Fort Wayne, Indiana"
+recinto: "Allen County War Memorial Coliseum"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'super listo para TV, bien oldschool, super fitting para su personaje'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE Saturday Night's Main Event XLIV, 23/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Wrestleview, WWE.com, POST Wrestling, Fightful, Pro Wrestling Wiki); WebFetch bloqueado por egress"
 tags: [ethan-page, wwe-snme-2026, titulo-intercontinental, wrestling-entertainment, oldschool]
 ---
 
@@ -46,7 +47,7 @@ esta misma pelea por el título Intercontinental. Ver
 ## Pendientes
 
 - [ ] Contenido exacto de la promo + duración.
-- [ ] Confirmar campeón IC vigente al momento del reto.
+- [x] Confirmar campeón IC vigente al momento del reto. → Penta, que retiene ante Page esa misma noche (Cagematch, Wrestling Inc.)
 
 ## Cross-links
 

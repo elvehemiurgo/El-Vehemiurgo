@@ -5,22 +5,23 @@ participantes: ["Charlie Dempsey", "Shiloh Hill"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "8:44"
+finish: "suplex de Shiloh Hill, pinfall"
+ganador: "Shiloh Hill"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'Dempsey ya tiene bien cerrado su repertorio [...] Se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE NXT, 26/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com, Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [charlie-dempsey, shiloh-hill, wwe-nxt-2026, wrestling-entertainment, oldschool, doctrina-madurar-prodigio, the-birthright]
 ---
 
@@ -67,9 +68,9 @@ NQCC y su unión a **The Birthright** (10/3/2026). Ver
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Ganador.
-- [ ] Ciudad, recinto.
+- [x] Finish exacto + duración. → suplex de Shiloh Hill; 8:44 (Cagematch, WWE.com)
+- [x] Ganador. → Shiloh Hill (Cagematch, WWE.com)
+- [x] Ciudad, recinto. → Orlando, Florida / WWE Performance Center (Cagematch/WWE.com)
 
 ## Cross-links
 

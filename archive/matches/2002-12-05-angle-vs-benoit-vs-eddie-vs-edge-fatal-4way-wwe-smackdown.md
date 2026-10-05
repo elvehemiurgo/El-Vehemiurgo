@@ -9,13 +9,13 @@ participantes:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2002-12-05
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Dallas, TX"
+recinto: "American Airlines Center [una fuente]"
 tipo_match: "fatal 4-way singles — los 4 SmackDown Six masculinos sin lateral"
 estipulacion: "[verif] — likely number 1 contender al WWE Championship"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "23:15"
+finish: "Eliminación: Benoit elimina a Eddie (5:29), Edge elimina a Benoit (7:12), Angle elimina a Edge (23:15)"
+ganador: "Kurt Angle"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom, 411mania, cagematch); WebFetch bloqueado por egress"
 tags: [wwe-2002, smackdown-dic-2002, kurt-angle, chris-benoit, eddie-guerrero, edge, fatal-4way, smackdown-six-rotation-peak, tv-feature-match]
 ---
 
@@ -82,9 +83,8 @@ showcase final del cluster**.
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración + secuencia.
-- [ ] Stipulación exacta (number 1 contender? title shot
-      directo?).
+- [x] Ganador + finish + duración + secuencia. → Kurt Angle gana la fatal 4-way de eliminación (Eddie 5:29, Benoit 7:12, Edge 23:15) (fandom/411mania vía snippets).
+- [x] Stipulación exacta (number 1 contender? title shot directo?). → eliminación por el #1 contendiente al WWE Championship (vs Big Show en Armageddon 2002) (fandom vía snippet).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST / Cornette retrospectiva.
 - [ ] **Asignación de clase del Vehemiurgo**.

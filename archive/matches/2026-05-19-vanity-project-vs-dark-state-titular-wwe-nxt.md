@@ -5,22 +5,23 @@ participantes: ["Jackson Drake", "Blake Monroe", "Saquon Shugars", "Dion Lennox"
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-19
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "tag team — titular"
 estipulacion: "títulos de parejas [verif cuáles]"
 duracion: "[verif]"
 finish: "final enredado; la culpa recae en Saquon Shugars, que es desterrado de Dark State — face turn"
-ganador: "[verif]"
+ganador: "The Vanity Project (Brad Baylor & Ricky Smokes, w/ Jackson Drake) — retienen el NXT Tag Team Championship"
 referee: "[verif]"
 encuentros_previos: "Vanity Project vs Dark State, NXT 24/2/2026 (en lista personal); promo coral compartida el 12/5/2026"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'esta lucha se merece la fighting spirit y enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s50 (visión directa — WWE NXT, 19/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, WWE.com, Solowrestling, PWTorch); WebFetch bloqueado por egress"
 tags: [vanity-project, dark-state, saquon-shugars, dion-lennox, jackson-drake, blake-monroe, wwe-nxt-2026, tag-team, titular, fighting-spirit, wrestling-entertainment, face-turn, destierro, baits, teamwork, oldschool]
 ---
 
@@ -95,11 +96,13 @@ estatus como **THE FUTURE in 2026 #2**.
 
 ## Pendientes
 
-- [ ] Qué títulos de parejas exactamente — [verif].
-- [ ] Ganadores, finish técnico, duración, ciudad/recinto.
-- [ ] Composición exacta de Dark State en el match (¿Cutler James
-      y Osiris Griffin participan o son solo Saquon y Lennox?).
+- [x] Qué títulos de parejas exactamente — [verif]. → NXT Tag Team Championship, defendido por Vanity Project (WWE.com, Fightful)
+- [x] Ganadores, finish técnico, ciudad/recinto → Brad Baylor & Ricky Smokes retienen; Shugars hace un blind tag y cae en un cradle/roll-up (de Smokes según Fightful, de Baylor según otra fuente); Orlando, Florida / WWE Performance Center (Cagematch/WWE.com)
+- [ ] Duración.
+- [x] Composición exacta de Dark State en el match (¿Cutler James
+      y Osiris Griffin participan o son solo Saquon y Lennox?). → solo Dion Lennox & Saquon Shugars; Griffin y James atacan a Shugars post-match (powerbomb a través de la mesa de comentarios) (Fightful, WWE.com)
 - [ ] Mecánica exacta del destierro.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `participantes` Jackson Drake y Blake Monroe por Vanity Project vs el reporte: luchan **Brad Baylor & Ricky Smokes** (Jackson Drake en ringside) contra Dion Lennox & Saquon Shugars (Fightful, WWE.com).
 
 ## Cross-links
 

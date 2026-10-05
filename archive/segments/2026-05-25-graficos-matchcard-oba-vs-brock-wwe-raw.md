@@ -6,8 +6,8 @@ protagonistas: ["Oba Femi", "Brock Lesnar"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-25
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Columbus, Ohio"
+recinto: "Schottenstein Center [una fuente]"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'excepcionalmente cool'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE Raw, 25/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Wiki, WWE.com, POST Wrestling, Fightful, Pro Wrestling Wiki); WebFetch bloqueado por egress"
 tags: [oba-femi, brock-lesnar, wwe-raw-2026, wrestling-entertainment, matchcard, produccion-tv]
 ---
 
@@ -44,8 +45,8 @@ probablemente contra Gunther en WrestleMania. Ver
 
 ## Pendientes
 
-- [ ] Confirmar si este gráfico anuncia un match real entre Oba y
-      Brock o es material de continuidad/nostalgia — [verif].
+- [x] Confirmar si este gráfico anuncia un match real entre Oba y
+      Brock o es material de continuidad/nostalgia — [verif]. → match real: Brock Lesnar vs Oba Femi, Clash in Italy 31/5/2026 (Lesnar gana, 6:21) (Cagematch, POST Wrestling)
 
 ## Cross-links
 

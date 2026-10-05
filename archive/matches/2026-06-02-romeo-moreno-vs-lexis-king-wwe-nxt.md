@@ -5,13 +5,13 @@ participantes: ["Romeo Moreno", "Lexis King"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-06-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "4:34"
+finish: "Coronation DDT de Lexis King, pinfall"
+ganador: "Lexis King — retiene el WWE Speed Championship"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lucha speed muy buena, buena ejecución y spots — Romeo se ve muy safe; me gusta cuando Lexis se pone stiff"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — NXT, 2/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, romeo-moreno, lexis-king, lucha-speed, safe-vs-stiff, lexis-estilo-oldschool]
 ---
 
@@ -51,8 +52,10 @@ tags: [wwe-2026, nxt, romeo-moreno, lexis-king, lucha-speed, safe-vs-stiff, lexi
 
 ## Pendientes / huecos
 
-- [ ] Finish, duración, ubicación en el show.
-- [ ] Ciudad y recinto.
+- [x] Finish, duración → Coronation DDT de Lexis King; 4:34 (Cagematch, WWE.com)
+- [ ] Ubicación en el show.
+- [x] Ciudad y recinto. → Orlando, Florida / WWE Performance Center (Cagematch/WWE.com)
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `estipulacion: standard` vs Cagematch/WWE.com: fue **por el WWE Speed Championship** (Lexis King retiene).
 
 ## Piezas relacionadas
 

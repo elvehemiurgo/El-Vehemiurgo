@@ -6,8 +6,8 @@ protagonistas: ["Mason Rook", "Kam Hendrix"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-19
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'lo hacen muy bien [...] buen showcase, para ser rookies fue una buena promo'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s49 (visión directa — WWE NXT, 19/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [mason-rook, kam-hendrix, wwe-nxt-2026, sin-clase, rookies, showcase, camada-nueva]
 ---
 

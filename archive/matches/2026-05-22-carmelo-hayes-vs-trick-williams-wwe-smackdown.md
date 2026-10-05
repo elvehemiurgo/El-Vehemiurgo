@@ -5,22 +5,23 @@ participantes: ["Carmelo Hayes", "Trick Williams"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Lexington, Kentucky"
+recinto: "Rupp Arena"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "13:20"
+finish: "Trick Shot de Trick Williams, pinfall, tras dos distracciones de Ricky Saints a Hayes"
+ganador: "Trick Williams (w/ Lil Yachty)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'Melo vs Trick merece un fighting spirit class y el enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s51 (visión directa — WWE SmackDown, 22/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, POST Wrestling, Last Word on Sports, WWE.com, PWMania); WebFetch bloqueado por egress"
 tags: [carmelo-hayes, trick-williams, wwe-smackdown-2026, fighting-spirit, wrestling-entertainment, midcard-masculino, titulo-us]
 ---
 
@@ -63,9 +64,10 @@ Williams desde su debut individual en el archivo (s41-s43). Ver
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto + ciudad.
-- [ ] Estado exacto del título US y quién lo detenta — [verif].
+- [x] Finish exacto + duración. → Trick Shot tras dos distracciones de Ricky Saints; 13:20 (Cagematch, Last Word on Sports)
+- [x] Recinto + ciudad. → Lexington, Kentucky / Rupp Arena (Cagematch/PWMania)
+- [x] Estado exacto del título US y quién lo detenta — [verif]. → Trick Williams, campeón de Estados Unidos (WWE.com, POST Wrestling)
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `estipulacion: standard` vs titular de POST Wrestling (*"Trick Williams and Tiffany Stratton defend titles"*), que sugiere defensa del título US ante Hayes [una fuente].
 
 ## Cross-links
 

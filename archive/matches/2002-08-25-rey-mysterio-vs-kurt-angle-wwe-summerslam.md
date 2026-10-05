@@ -11,9 +11,9 @@ ciudad: "Long Island, NY (Uniondale)"
 recinto: "Nassau Coliseum"
 tipo_match: "singles — primer PPV singles WWE de Rey Mysterio"
 estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "9:20"
+finish: "Angle revierte el hurricanrana desde la tercera cuerda en Ankle Lock; Rey hace tap out"
+ganador: "Kurt Angle"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch, wikipedia, wrestlerant); WebFetch bloqueado por egress"
 tags: [wwe-2002, summerslam-2002, rey-mysterio, kurt-angle, debut-wwe-mainstream-rey, lucha-libre-revival, cruiserweight-vs-shooter, smackdown-six-launch]
 ---
 
@@ -84,7 +85,7 @@ territorial transferido al formato WWE PPV moderno.
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración + secuencia.
+- [x] Finish exacto + duración + secuencia. → Angle gana por sumisión (Ankle Lock en reversa del hurricanrana desde arriba); 9:20 (Cagematch/Wikipedia vía snippets).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Buyrate SummerSlam 2002**.
 - [ ] Cobertura POST / Cornette retrospectiva del debut Rey en

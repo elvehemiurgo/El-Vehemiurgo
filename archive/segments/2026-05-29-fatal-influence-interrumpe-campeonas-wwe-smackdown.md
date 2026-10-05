@@ -6,8 +6,8 @@ protagonistas: ["Fatal Influence", "Jacy Jayne"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-29
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Badalona (área de Barcelona), España"
+recinto: "Palau Olímpic de Badalona (Olimpic Arena)"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Hasta ahora han tenido promos ok — todavía falta la promo de Jacy auditando el locker room"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s53 (visión directa — SmackDown, 29/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Wrestleview); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, fatal-influence, jacy-jayne, promos-ok-sin-clase, pipebomb-pendiente, precedente-esta-ok]
 ---
 

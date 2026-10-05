@@ -5,22 +5,23 @@ participantes: ["Jacy Jayne", "Sol Ruca", "Zaria"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-03-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Houston, TX"
+recinto: "713 Music Hall"
 tipo_match: "triple threat"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif] — final elogiado como 'buenísimo'"
-ganador: "[verif]"
+duracion: "10:47"
+finish: "Fallon Henley y Lainey Reid atacan y distraen a Zaria; Jacy Jayne cubre a Sol Ruca para el pin (final elogiado como 'buenísimo')"
+ganador: "Jacy Jayne (retiene el NXT Women's Championship)"
 referee: "[verif]"
 encuentros_previos: "Rivalidad Sol vs Zaria sostenida, incluye continuación en Raw"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'esta lucha se merece las 3 clases', con techo reconocido ('tienen cierto techo estas chicas, pero lo hicieron muy bien')"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, fightful, prowrestling.net, postwrestling); WebFetch bloqueado por egress"
 tags: [jacy-jayne, sol-ruca, zaria, fatal-influence, wwe-nxt-2026, triple-threat, perfect-wrestling, fighting-spirit, wrestling-entertainment, the-future-in-2026, techo-reconocido]
 ---
 
@@ -63,7 +64,7 @@ tags: [jacy-jayne, sol-ruca, zaria, fatal-influence, wwe-nxt-2026, triple-threat
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto. → Jayne pina a Ruca tras ataque de Henley/Reid a Zaria; 10:47; 713 Music Hall, Houston (wwe.com/Fightful/prowrestling.net vía snippets).
 
 ## Cross-links
 

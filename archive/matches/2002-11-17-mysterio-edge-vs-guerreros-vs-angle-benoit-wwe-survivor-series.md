@@ -15,8 +15,8 @@ ciudad: "New York, NY"
 recinto: "Madison Square Garden"
 tipo_match: "triple threat tag — final WWE Tag Team Championship Tournament"
 estipulacion: "Final del torneo. Ganador = inaugurales WWE Tag Team Champions del SmackDown brand"
-duracion: ""
-finish: "[verif]"
+duracion: "19:18 / 19:23 / 19:25 según fuente"
+finish: "Eliminación: Edge elimina a Angle & Benoit (spear a Benoit). Final: Rey conecta 619 a Eddie; al ir por el West Coast Pop, Chavo lo golpea con el cinturón y Eddie aplica Lasso From El Paso — Rey hace tap out"
 ganador: "Los Guerreros (inaugurales WWE Tag Team Champions)"
 referee: ""
 attendance_anunciada: ""
@@ -29,9 +29,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, onlineworldofwrestling, prowrestling.fandom); WebFetch bloqueado por egress"
 tags: [wwe-2002, survivor-series-2002, smackdown-six-consagración, triple-threat-tag, tag-tournament-final, los-guerreros-inaugural-champs, rey-mysterio, edge, angle, benoit, eddie-guerrero, chavo-guerrero, msg]
 ---
 
@@ -92,7 +93,7 @@ inaugurales. **Pieza icónica del cluster entero**.
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración + secuencia.
+- [x] Finish exacto + duración + secuencia. → Angle/Benoit eliminados por spear de Edge; final con cinturonazo de Chavo + Lasso From El Paso de Eddie a Rey; 19:18-19:25 según fuente (Wikipedia/OWW/fandom vía snippets).
 - [ ] Star rating WON Meltzer (contexto, no veredicto).
 - [ ] **Buyrate Survivor Series 2002**.
 - [ ] Cobertura POST / Cornette retrospectiva del SmackDown Six
@@ -100,6 +101,7 @@ inaugurales. **Pieza icónica del cluster entero**.
 - [ ] Verbatim Edge + Eddie (autobiografía) + Chavo (*In the
       Weeds*) + Rey + Angle (*Kurt Angle Show*) sobre el match.
 - [ ] **Asignación de clase del Vehemiurgo**.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha presenta el match como **final del torneo** y a Los Guerreros como **inaugurales** WWE Tag Team Champions; las fuentes dan a **Angle & Benoit** como primeros campeones (No Mercy 2002) y este match como triple threat de eliminación por el título ya existente (Wikipedia vía snippets).
 
 ## Piezas relacionadas
 

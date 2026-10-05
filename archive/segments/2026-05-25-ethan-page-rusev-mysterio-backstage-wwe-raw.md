@@ -6,8 +6,8 @@ protagonistas: ["Ethan Page", "Adam Pearce", "Rusev", "Rey Mysterio"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-25
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Columbus, Ohio"
+recinto: "Schottenstein Center [una fuente]"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "sin clase — 'buen movimiento', muestra de pull backstage"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE Raw, 25/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Wiki, WWE.com, POST Wrestling, Fightful, Pro Wrestling Wiki); WebFetch bloqueado por egress"
 tags: [ethan-page, adam-pearce, rusev, rey-mysterio, wwe-raw-2026, sin-clase, pull-backstage, midcard-masculino]
 ---
 
@@ -48,8 +49,8 @@ debut de main roster (s39).
 ## Pendientes
 
 - [ ] Contenido exacto del segmento + duración.
-- [ ] Confirmar el match Rusev vs Mysterio resultante — [verif si
-      se registra aparte].
+- [x] Confirmar el match Rusev vs Mysterio resultante — [verif si
+      se registra aparte]. → Rey Mysterio vence a Rusev (9:27) y queda #1 contender al Intercontinental, misma noche (Pro Wrestling Wiki, Fightful)
 
 ## Cross-links
 

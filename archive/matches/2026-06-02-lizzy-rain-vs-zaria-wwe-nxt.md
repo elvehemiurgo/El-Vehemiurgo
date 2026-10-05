@@ -5,13 +5,13 @@ participantes: ["Lizzy Rain", "Zaria"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-06-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "10:32"
+finish: "dos Spears + F-5 de Zaria, pinfall"
+ganador: "Zaria"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, muy atléticas y buenos gimmicks"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — NXT, 2/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, lizzy-rain, zaria, atletismo, gimmicks-legibles]
 ---
 
@@ -50,8 +51,9 @@ tags: [wwe-2026, nxt, lizzy-rain, zaria, atletismo, gimmicks-legibles]
 
 ## Pendientes / huecos
 
-- [ ] Finish, duración, ubicación en el show.
-- [ ] Ciudad y recinto.
+- [x] Finish, duración → dos Spears + F-5 de Zaria; 10:32 (Cagematch, WWE.com)
+- [ ] Ubicación en el show.
+- [x] Ciudad y recinto. → Orlando, Florida / WWE Performance Center (Cagematch/WWE.com)
 
 ## Piezas relacionadas
 

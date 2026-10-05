@@ -3,12 +3,13 @@ nombre: "Matt Hardy"
 tipo: fact-sheet
 categoria: people
 slug: "matt-hardy"
-estado: stub
-ultima_actualizacion: 2026-07-09
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02 adenda"
   - "Panteón del Vehemiurgo (Héroe Fundamental #19)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas: presupuesto agotado; datos de referencia general del sub-agente marcados); WebFetch bloqueado por egress"
 tags: [matt-hardy, tna, heroe-fundamental-19, mic-work, techo-del-mic-tna, hardys, plataforma-mentor, longevidad-carny]
 ---
 
@@ -22,15 +23,40 @@ tags: [matt-hardy, tna, heroe-fundamental-19, mic-work, techo-del-mic-tna, hardy
 
 ## Identificación
 
-- **Nombre real**: Matthew Moore Hardy [verif].
-- **Nombres de gimmick**: Matt Hardy; "Broken"/"Woken" Matt Hardy;
-  Big Money Matt [verif vigencia].
+- **Nombre real**: Matthew Moore Hardy *(ref. general)*.
+- **Nacimiento**: 23/9/1974, Cameron, Carolina del Norte *(ref.
+  general)*.
+- **Nombres de gimmick**: Matt Hardy; *Matt Hardy Version 1* (WWE
+  2003); "Broken"/"Woken" Matt Hardy (TNA 2016 / WWE 2017-18);
+  Big Money Matt (AEW 2021) *(ref. general)*.
+- **Formación**: autodidacta con su hermano Jeff; fundaron la
+  promoción **OMEGA** en Carolina del Norte (1997) *(ref. general)*.
 - **Empresa actual**: TNA Wrestling.
+
+> *Nota de research 2026-10-05*: lo marcado *(ref. general)* sale
+> de la base de conocimiento del sub-agente, sin URL consultada
+> (WebSearch agotado, WebFetch bloqueado).
 
 ## Trayectoria condensada
 
 - Hardy Boyz (WWE, TLC era) — el acto daredevil que definió el tag
   de época. [verif títulos].
+- **1994** — primeras apariciones en la WWF como enhancement; firma
+  en 1998 *(ref. general)*.
+- **1999–2001** — ladder de No Mercy 1999 y las TLC (SummerSlam
+  2000, WrestleMania X-Seven) con Edge & Christian y los Dudleys;
+  múltiples reinados de WWF/WWE Tag Team *(ref. general)*.
+- **2005** — despedido por WWE tras hacer público el affair
+  Lita/Edge; recontratado meses después *(ref. general)*.
+- **2010s** — ROH y TNA; **TNA World Heavyweight Champion en Bound
+  for Glory 2015** *(ref. general; fecha [no confirmado])*;
+  **"Final Deletion"** (julio 2016) *(ref. general)*.
+- **2/4/2017, WrestleMania 33** — regreso de los Hardys a WWE y
+  Raw Tag Team titles *(ref. general)*.
+- **2020–2024** — AEW (debut marzo 2020) *(ref. general)*.
+- **Oct 2024** — vuelta a TNA; los Hardys ganan los **TNA World Tag
+  Team titles** en Bound for Glory 2024 *(ref. general; [no
+  confirmado])*.
 - 2016 — el universo **Broken** en TNA: reinvención carny total a
   los 40+, la prueba de la *longevidad carny* que lo pone en el
   panteón.

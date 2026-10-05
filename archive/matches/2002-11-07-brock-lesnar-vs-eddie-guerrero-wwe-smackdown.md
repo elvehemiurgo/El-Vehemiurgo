@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2002-11-07
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Manchester, NH"
+recinto: "Verizon Wireless Arena"
 tipo_match: "singles — pre-build remoto de WMXX 2004 (15 meses antes)"
 estipulacion: "[verif]"
-duracion: ""
+duracion: "6:39 [una fuente]"
 finish: ""
-ganador: "[verif] — probable Brock"
+ganador: "Brock Lesnar (retiene el WWE Championship)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -23,9 +23,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom, cagematch); WebFetch bloqueado por egress"
 tags: [wwe-2002, smackdown-nov-2002, brock-lesnar, eddie-guerrero, monster-vs-lucha, pre-build-wmxx, brock-primer-run]
 ---
 
@@ -80,7 +81,8 @@ de uno de los momentos más icónicos del catalog WWE moderno
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración exactos.
+- [x] Ganador + duración → Brock Lesnar (c, con Heyman) retiene el WWE Championship; 6:39 [una fuente]; post-match Big Show ataca a Lesnar (fandom vía snippet).
+- [ ] Finish exacto (movimiento del pin).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST / Cornette retrospectiva del seed editorial.
 - [ ] Verbatim Eddie en su autobiografía 2005 *Cheating Death,

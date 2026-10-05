@@ -6,8 +6,8 @@ protagonistas: ["Jacob Fatu", "Roman Reigns", "Jey Uso", "Jimmy Uso"]
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-06-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Turín, Italia"
+recinto: "Inalpi Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El performance de Jacob está imperdible — no es un delirio de WWE, la gente está respondiendo"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — Monday Night Raw, 1/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, jacob-fatu, roman-reigns, jey-uso, jimmy-uso, bloodline, pase-de-antorcha, rebeldia-relatable, acting-carny]
 ---
 
@@ -54,7 +55,7 @@ tags: [wwe-2026, raw, jacob-fatu, roman-reigns, jey-uso, jimmy-uso, bloodline, p
 ## Pendientes / huecos
 
 - [ ] Finish, duración, ubicación en el show.
-- [ ] Ciudad y recinto.
+- [x] Ciudad y recinto. → Turín, Italia / Inalpi Arena (Cagematch/WWE.com)
 
 ## Piezas relacionadas
 

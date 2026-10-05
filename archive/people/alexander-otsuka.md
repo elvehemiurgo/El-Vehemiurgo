@@ -3,10 +3,11 @@ nombre: "Alexander Otsuka"
 tipo: fact-sheet
 categoria: people
 slug: alexander-otsuka
-estado: stub
-ultima_actualizacion: 2026-06-17
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — tag match 1996 [verif show])"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — sin búsquedas nuevas (budget de WebSearch agotado); consolidación de los datos del sub-agente 2026-06-17 ya en ficha; WebFetch bloqueado por egress"
 tags: [alexander-otsuka, battlarts, fujiwara-gumi-lineage, shoot-style-indie-japones, amateur-wrestling-background, generacion-junior-heavyweight-highspeed-1990s, mma-cross-over]
 ---
 
@@ -29,15 +30,20 @@ tags: [alexander-otsuka, battlarts, fujiwara-gumi-lineage, shoot-style-indie-jap
 - **Estilo**: shoot-style worked + amateur takedowns + powerbombs
   legítimos. **Versatilidad** — highspeed o grappling puro.
 
-## Datos duros (confirmados por sub-agente 2026-06-17)
+## Trayectoria condensada (datos confirmados por sub-agente 2026-06-17)
 
-- **Debut**: **18 ago 1995** en PWFG (mismo día que Yoneyama).
-- **Founding member de BattlARTS** (abril 1996).
-- **Tag signature**: **LOVE Warriors** con Yoneyama; feudos violentos
-  con Ishikawa e Ikeda.
-- **MMA real**: debutó en **PRIDE.4 (1998) venciendo a Marco Ruas**
-  en pelea sangrienta; en 1999 entró en **UFO** (la promoción híbrida
-  de Sayama), donde **venció a Satoru Sayama dos veces**.
+- **18/8/1995** — debut en **PWFG** (Fujiwara Gumi), mismo día que
+  Satoshi Yoneyama.
+- **Abr 1996** — **miembro fundador de BattlARTS**. Tag signature:
+  **LOVE Warriors** con Yoneyama; feudos violentos con
+  Ishikawa y Daisuke Ikeda.
+- **10/10/1996** — tag vs Ikeda & Yoneyama (con Ishikawa) en el
+  3er aniversario de Michinoku Pro (ver match stub).
+- **1998 (PRIDE.4)** — debut MMA: **vence a Marco Ruas** en pelea
+  sangrienta.
+- **1999** — entra en **UFO** (promoción híbrida de Satoru Sayama) y
+  **vence a Sayama dos veces**.
+- Post-2000: [sin datos confirmados — pendiente].
 
 ## Lectura editorial del Vehemiurgo
 

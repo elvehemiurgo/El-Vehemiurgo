@@ -36,7 +36,7 @@ tags: [aew-dynamite-2026, kevin-knight, kyle-fletcher, don-callis, don-callis-fa
 > esta sesión identifica a **Kevin Knight** como el talent de este
 > segmento, con **alta confianza pero sin cierre del cruce con las
 > dos apariciones de abril** (ver nota completa en
-> [`../people/kevin-hart.md`](../people/kevin-hart.md)).
+> [`../people/kevin-knight.md`](../people/kevin-knight.md)).
 
 ## Resumen
 
@@ -85,7 +85,7 @@ en AEW Collision.
 ## Cross-links
 
 - [`../people/kevin-knight.md`](../people/kevin-knight.md)
-- [`../people/kevin-hart.md`](../people/kevin-hart.md) — identidad en discusión
+- [`../people/kevin-knight.md`](../people/kevin-knight.md) — identidad en discusión
 - [`../people/kyle-fletcher.md`](../people/kyle-fletcher.md)
 - [`../people/don-callis.md`](../people/don-callis.md)
 - Volcado: [`../../notebook/2026-09-17-s01-dynamite-020926.md`](../../notebook/2026-09-17-s01-dynamite-020926.md)

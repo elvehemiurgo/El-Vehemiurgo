@@ -3,10 +3,11 @@ nombre: "Jon Moxley"
 tipo: fact-sheet
 categoria: people
 slug: jon-moxley
-estado: stub
-ultima_actualizacion: 2026-10-01
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (wrestlinginc.com, prowrestling.net, allelitewrestling.com vía snippet; resto ref. general del sub-agente, WebSearch agotado); WebFetch bloqueado por egress"
 tags: [jon-moxley, dean-ambrose, the-shield, death-riders-lider, aew-world-champion-multiple, promos-fake-criterio-vehemiurgo, run-campeon-aburrido-vehemiurgo, combustible-para-ospreay, acto-que-no-le-interesa-al-vehemiurgo, faceturn-rechazado-como-buen-booking, tony-khan-favoritismo-no-es-merito, autoconsciente-debil-masoquista-anti-oldschool, claudio-castagnoli-unico-que-se-salva]
 ---
 
@@ -26,6 +27,51 @@ tags: [jon-moxley, dean-ambrose, the-shield, death-riders-lider, aew-world-champ
 - **Origen**: Cincinnati, Ohio. 7 dic 1985.
 - **Finisher signature**: ***Death Rider*** (double underhook
   DDT, ex-Dirty Deeds), ***Paradigm Shift***, bulldog choke.
+- **Escuela**: Heartland Wrestling Association (HWA, Cincinnati),
+  con Les Thatcher *(ref. general)*; detalle de entrenadores
+  [no confirmado].
+- **Empresa actual (oct 2026)**: **AEW** — **AEW Continental
+  Champion** vigente y líder de los Death Riders (Wrestling Inc /
+  prowrestling.net / allelitewrestling.com vía snippet, 2026).
+
+> *Nota de research 2026-10-05*: los datos marcados *(ref. general)*
+> salen de la base de conocimiento del sub-agente, no de URL
+> consultada en esta sesión (WebSearch agotado, WebFetch bloqueado);
+> lo de 2026 sí viene de snippets de WebSearch.
+
+## Trayectoria condensada
+
+- **2004** — debut en la HWA de Cincinnati *(ref. general)*.
+- **2009–2011** — circuito indie: CZW (CZW World Heavyweight
+  Champion), IWA Mid-South, Dragon Gate USA *(ref. general; fechas
+  de reinado [no confirmado])*.
+- **2011** — firma con WWE (FCW). **18/11/2012, Survivor Series**:
+  debut en el main roster con **The Shield** *(ref. general)*.
+- **19/6/2016, Money in the Bank** — cobra el maletín sobre Seth
+  Rollins: **WWE Champion** *(ref. general)*. Sale de WWE en abril
+  de 2019.
+- **25/5/2019, Double or Nothing** — debut en AEW como Jon Moxley
+  *(ref. general)*.
+- **29/2/2020, Revolution** — primer reinado de **AEW World
+  Champion** (vs Chris Jericho); lo pierde ante Kenny Omega el
+  2/12/2020 *(ref. general)*.
+- **2022** — campeón interino (Forbidden Door, jun), unificado vs
+  CM Punk (ago), lo pierde y lo recupera (sep), cae ante MJF en
+  Full Gear (nov) *(ref. general; fechas exactas [no confirmado])*.
+- **2024** — IWGP World Heavyweight Champion en NJPW (abr) y, el
+  **12/10/2024 en WrestleDream**, AEW World Champion otra vez vs
+  Bryan Danielson: nacen los **Death Riders** *(ref. general)*.
+- **12/7/2025, All In: Texas** — pierde el AEW World Title ante
+  Hangman Page *(ref. general)*.
+- **27/12/2025, Worlds End** — gana el **Continental Classic 2025**
+  y el **AEW Continental Championship** ante Kazuchika Okada
+  (snippets Wrestling Inc / allelitewrestling.com).
+- **2026** — retiene el Continental ante Will Ospreay en **Dynasty**
+  (tercera defensa); **26/9/2026, All Out**: cae ante Ospreay por el
+  **AEW World Title** (el Continental no estaba en juego);
+  **30/9/2026, Dynamite**: retiene ante Orange Cassidy; **3/10/2026,
+  Collision**: Continental Title Eliminator vs Jake Doyle (snippets
+  Wrestling Inc / prowrestling.net / allelitewrestling.com).
 
 ## Datos duros (preliminar — verificar y expandir)
 

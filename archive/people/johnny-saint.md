@@ -4,9 +4,10 @@ tipo: fact-sheet
 categoria: people
 slug: johnny-saint
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — Michinoku Pro 3rd Anniversary 1996)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — sin búsquedas (budget de WebSearch agotado); solo se anota discrepancia de nombre real; WebFetch bloqueado por egress"
 tags: [johnny-saint, british-wrestling, world-of-sport-itv, catch-as-catch-can-wigan, entertainer-total, michinoku-pro-1996, mountevans-rounds-rules, panteon-vehemiurgo-candidato]
 ---
 
@@ -20,7 +21,11 @@ tags: [johnny-saint, british-wrestling, world-of-sport-itv, catch-as-catch-can-w
 
 ## Identificación
 
-- **Nombre real**: John Lees [verif].
+- **Nombre real**: John Lees [verif]. **Discrepancia (2026-10-05)**:
+  la referencia habitual lo registra como **John Twiss**, nacido en
+  1941 en el área de Manchester — dato de memoria del copiloto, **[no
+  confirmado]** sin fuente web en esta pasada. Resolver antes de
+  publicar.
 - **Fecha de nacimiento**: [verif] — Wigan / Lancashire, Inglaterra [verif].
 - **Escuela / tradición**: catch-as-catch-can Lancashire (escuela Wigan).
 - **Estilo**: técnico puro con vertiente de entertainer — control de

@@ -5,22 +5,23 @@ participantes: ["Sol Ruca", "Becky Lynch"]
 empresa: "WWE"
 programa: "Saturday Night's Main Event XLIV"
 fecha: 2026-05-23
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Fort Wayne, Indiana"
+recinto: "Allen County War Memorial Coliseum"
 tipo_match: "singles"
 estipulacion: "standard (termina en DQ)"
-duracion: "[verif]"
+duracion: "2:26 [una fuente]"
 finish: "descalificación"
-ganador: "[verif — a favor de quién se da la DQ]"
+ganador: "Sol Ruca (por DQ: Becky Lynch interpuso al réferi ante el Sol Snatcher)"
 referee: "[verif]"
 encuentros_previos: "segmento previo 4/5/2026 (WWE Raw)"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — doctrina de estilo: 'no creí que diera una lucha que me guste [...] su estilo debe evolucionar a algo más heavyweight para que sea perfecto'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE Saturday Night's Main Event XLIV, 23/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, TheSportster, Wrestleview); WebFetch bloqueado por egress"
 tags: [sol-ruca, becky-lynch, wwe-snme-2026, singles, sin-clase, dq, doctrina-heel-ring-general, developmental, heavyweight, reserva-tecnica]
 ---
 
@@ -73,8 +74,8 @@ Wrestling Entertainment) — ver
 
 ## Pendientes
 
-- [ ] A favor de quién se da la descalificación.
-- [ ] Duración, ciudad, recinto.
+- [x] A favor de quién se da la descalificación. → Sol Ruca; Becky interpone al réferi ante el Sol Snatcher; Ruca gana así la lucha titular de Clash in Italy (Cagematch, TheSportster)
+- [x] Duración, ciudad, recinto. → 2:26 [una fuente, Cagematch]; Fort Wayne, Indiana / Allen County War Memorial Coliseum (Cagematch/Wrestleview)
 
 ## Cross-links
 

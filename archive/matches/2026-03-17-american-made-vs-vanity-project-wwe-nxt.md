@@ -5,22 +5,23 @@ participantes: ["American Made [verif roster exacto]", "Jackson Drake", "Blake M
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-03-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Houston, TX"
+recinto: "713 Music Hall"
 tipo_match: "tag team"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "12:40 [una fuente]"
+finish: "El Grande Americano conecta su headbutt en salto sobre Ricky Smokes para el pin"
+ganador: "Los Americanos (El Grande Americano, Bravo Americano & Rayo Americano)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece las 3 clases, están muy buenos estos prospectos'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, wrestlinginc); WebFetch bloqueado por egress"
 tags: [american-made, jackson-drake, blake-monroe, vanity-project, wwe-nxt-2026, tag-team, perfect-wrestling, fighting-spirit, wrestling-entertainment, the-future-in-2026, generacion-nxt-poderosa]
 ---
 
@@ -49,9 +50,9 @@ NXT"). Ver
 
 ## Pendientes
 
-- [ ] Confirmar identificación exacta de "los americanos" (equipo
-      rival) — probable American Made [verif roster].
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Confirmar identificación exacta de "los americanos" (equipo rival) — probable American Made [verif roster]. → **Los Americanos** (El Grande Americano, Bravo Americano & Rayo Americano), no American Made (wwe.com 'Los Americanos come to NXT to battle The Vanity Project' + fandom vía snippets). Ver discrepancia.
+- [x] Finish + duración + ciudad/recinto. → headbutt en salto de El Grande Americano sobre Ricky Smokes; 12:40 [una fuente]; 713 Music Hall, Houston (fandom/Fightful vía snippets).
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra rival 'American Made' y a Vanity Project como Jackson Drake + Blake Monroe en un 'tag team'; las fuentes dan **six-man tag**: Los Americanos vs **Vanity Project = Jackson Drake, Brad Baylor & Ricky Smokes** (Blake Monroe no figura en el match) (wwe.com/fandom vía snippets). Revisar participantes, título y slug con el Vehemiurgo.
 
 ## Cross-links
 

@@ -3,10 +3,11 @@ nombre: "Daisuke Ikeda"
 tipo: fact-sheet
 categoria: people
 slug: daisuke-ikeda
-estado: stub
-ultima_actualizacion: 2026-06-17
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — tag match 1996 [verif show])"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — sin búsquedas nuevas (budget de WebSearch agotado); consolidación de los datos del sub-agente 2026-06-17 ya en ficha; WebFetch bloqueado por egress"
 tags: [daisuke-ikeda, battlarts, fujiwara-gumi-lineage, shoot-style-indie-japones, strong-style-1990s, generacion-junior-heavyweight-highspeed-1990s]
 ---
 
@@ -25,19 +26,21 @@ tags: [daisuke-ikeda, battlarts, fujiwara-gumi-lineage, shoot-style-indie-japone
   striking duro, selling físico, herencia Fujiwara Gumi (Yoshiaki
   Fujiwara, ex-UWF).
 
-## Datos duros (confirmados por sub-agente 2026-06-17)
+## Trayectoria condensada (datos confirmados por sub-agente 2026-06-17)
 
-- **Debut**: **5 dic 1993**, entrenado por **Yoshiaki Fujiwara** en
-  Pro Wrestling Fujiwara Gumi (PWFG).
-- **Rol en BattlARTS**: uno de los **pocos heavyweights** en una
-  compañía de juniors — lo que lo empujó a buscar retos afuera
-  (AJPW, NOAH, FMW).
-- **Empresas**: BattlARTS, AJPW, Pro Wrestling NOAH, FMW.
-- **Títulos**: WLW Heavyweight Championship (1 jun 2004, venció a
-  Takeshi Morishima).
-- **Promoción propia**: dirige **Fu-Ten (Futen)** — su propia
-  promoción shoot-style indie. *(Corrección: Futen es de Ikeda, NO de
-  Ishikawa como decía el stub previo.)*
+- **5/12/1993** — debut en Pro Wrestling Fujiwara Gumi (PWFG),
+  entrenado por **Yoshiaki Fujiwara**.
+- **1996** — BattlARTS: uno de los **pocos heavyweights** en una
+  compañía de juniors — lo que lo empujó a buscar retos afuera.
+- **10/10/1996** — tag con Yoneyama vs Otsuka & Ishikawa en el 3er
+  aniversario de Michinoku Pro (ver match stub).
+- Cross-promo: **AJPW, Pro Wrestling NOAH, FMW** [fechas pendientes].
+- **1/6/2004** — gana el **WLW Heavyweight Championship** sobre
+  Takeshi Morishima.
+- **Promoción propia**: dirige **Fu-Ten (Futen)** — shoot-style
+  indie. *(Corrección: Futen es de Ikeda, NO de Ishikawa como decía
+  el stub previo.)*
+- Nacimiento: [no encontrado].
 
 ## Lectura editorial del Vehemiurgo
 

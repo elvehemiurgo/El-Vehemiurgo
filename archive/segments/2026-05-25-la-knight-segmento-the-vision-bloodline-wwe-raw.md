@@ -6,8 +6,8 @@ protagonistas: ["LA Knight", "Bron Breakker", "Jimmy Uso"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-25
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Columbus, Ohio"
+recinto: "Schottenstein Center [una fuente]"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif — preservar las líneas finales contra Jimmy Uso si se consigue transcripción]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment (acotado a las líneas finales contra Jimmy Uso/Bloodline) — 'top tier wrestling, buenisima promo'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE Raw, 25/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Wiki); WebFetch bloqueado por egress"
 tags: [la-knight, bron-breakker, jimmy-uso, bloodline, the-vision, wwe-raw-2026, wrestling-entertainment, doctrina-friccion-correcta, heroe-fundamental-28, panteon]
 ---
 
