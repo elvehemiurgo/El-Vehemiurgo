@@ -6,8 +6,8 @@ protagonistas: ["El Grande Americano", "Chad Gable", "Ludwig Kaiser"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-06-06
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Monterrey, Nuevo León [de las escenas de archivo del máscara vs máscara del 30/5]"
+recinto: "Arena Monterrey [de las escenas de archivo del máscara vs máscara del 30/5]"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Escenas post match justo después de su histórica lucha"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — AAA Worldwide, 6/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — inferencia a partir del hallazgo ya registrado en el archivo (mismo bloque de grabación, Arena Monterrey, 30/5); WebFetch bloqueado por egress"
 tags: [aaa-2026, aaa-worldwide, el-grande-americano, chad-gable, ludwig-kaiser, mascara-vs-mascara, post-match-historico, noche-de-los-grandes]
 ---
 

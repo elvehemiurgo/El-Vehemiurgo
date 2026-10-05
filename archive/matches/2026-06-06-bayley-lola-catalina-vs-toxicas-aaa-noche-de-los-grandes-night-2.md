@@ -9,7 +9,7 @@ ciudad: "Monterrey, Nuevo León"
 recinto: "Arena Monterrey"
 tipo_match: "relevos atómicos femeniles (6-woman tag) — main event"
 estipulacion: "standard"
-duracion: "[verif]"
+duracion: "8:35"
 finish: "La Catalina cubre a Flammer — caderazo en las cuerdas + rodillazo"
 ganador: "Bayley, Lola Vice & La Catalina"
 referee: "[verif]"
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "La lucha perfecta — muy entretenida y muy oldschool las Tóxicas; hasta olvidé que Bayley está aquí bajando el nivel"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — AAA Worldwide, 6/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [aaa-2026, aaa-worldwide, las-toxicas, faccion-full-formation, bayley, perfect-match, runner-ups, oldschool]
 ---
 
@@ -78,7 +79,7 @@ tags: [aaa-2026, aaa-worldwide, las-toxicas, faccion-full-formation, bayley, per
 ## Pendientes / huecos
 
 - [ ] **Identificar la alineación exacta de Las Tóxicas** en esta fecha y al equipo face — [verif].
-- [ ] Ganadoras, finish, duración.
+- [x] Duración → **8:35** (Fightful, research 2026-10-05).
 - [ ] Confirmar la participación de Bayley (lado y rol).
 
 ## Piezas relacionadas

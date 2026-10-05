@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Increíble — de verdad les quedó algo perfecto"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — AAA Worldwide, 6/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, PWTorch); confirma datos ya registrados, no halla segunda fuente de duración ni referee; WebFetch bloqueado por egress"
 tags: [aaa-2026, aaa-worldwide, 5-way, apertura-de-show, perfect-match, participantes-verif]
 ---
 
@@ -62,9 +63,13 @@ tags: [aaa-2026, aaa-worldwide, 5-way, apertura-de-show, perfect-match, particip
 
 ## Pendientes / huecos
 
-- [ ] **Identificar a los cinco participantes** — no dictados. `[verif]`
-- [ ] Ganador, finish, duración.
-- [ ] Estipulación exacta del 5-way.
+- [x] **Identificar a los cinco participantes**, ganador, finish y
+      estipulación → resueltos por research previo (2026-08-01); ver
+      arriba.
+- [ ] Referee.
+- [ ] Confirmar duración con segunda fuente — research 2026-10-05
+      (WebSearch) no encontró una segunda fuente para reemplazar el
+      "7:33 [fuente única]" ya registrado.
 
 ## Piezas relacionadas
 

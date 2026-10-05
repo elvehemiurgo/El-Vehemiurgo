@@ -5,22 +5,23 @@ participantes: ["Zima Ion", "Lince", "Aerostar"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-18
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Ciudad de México"
+recinto: "Gimnasio Olímpico Juan de la Barrera"
 tipo_match: "triple threat — opener del show"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+estipulacion: "standard"
+duracion: "7:07"
+finish: "Lince Dorado conecta sunset flip bomb sobre Aerostar — pinfall"
+ganador: "Lince Dorado"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'muy buena lucha y muy oldschool, se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWMMANews, Gerweck, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [zima-ion, lince, aerostar, aaa-worldwide-2026, triple-threat, opener, perfect-wrestling, fighting-spirit, wrestling-entertainment, oldschool, super-lujo]
 ---
 
@@ -48,7 +49,12 @@ profesionales de este nivel — "muy oldschool". Ver
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → **7:07**, Lince Dorado
+      cubre a Aerostar con sunset flip bomb, en el Gimnasio Olímpico
+      Juan de la Barrera (Ciudad de México) (PWMMANews/Gerweck,
+      research 2026-10-05). Confirmado: el nombre del dictado (ver
+      cita verbatim) corresponde a **Joaquin Wilde** bajo la
+      encarnación **Zima Ion**.
 
 ## Cross-links
 

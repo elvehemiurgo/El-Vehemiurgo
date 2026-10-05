@@ -5,11 +5,11 @@ participantes: ["Hijo del Vikingo", "Mini Vikingo"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Querétaro"
+recinto: "Auditorio José María Arteaga"
 tipo_match: "singles — grudge match"
 estipulacion: "no title"
-duracion: "[verif]"
+duracion: "[no encontrado]"
 finish: "Hijo del Vikingo gana con Phoenix 630 desde el esquinero, con intervención fluida de Dr. Wagner Jr. tras una posible lesión real en el finisher previo"
 ganador: "Hijo del Vikingo"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Wrestling + Fighting Spirit + Wrestling Entertainment — 'se merece toas las clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — AAA Worldwide, 2/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4W/WON, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [hijo-del-vikingo, mini-vikingo, dr-wagner-jr, aaa-2026, singles, grudge-match, perfect-wrestling, fighting-spirit, wrestling-entertainment, phoenix-630, main-eventer, posible-lesion-real]
 ---
 
@@ -69,10 +70,29 @@ tags: [hijo-del-vikingo, mini-vikingo, dr-wagner-jr, aaa-2026, singles, grudge-m
 
 ## Pendientes
 
-- [ ] Ciudad/recinto, duración exacta, finish técnico completo.
+- [x] Ciudad/recinto → **Auditorio José María Arteaga, Querétaro**
+      (F4W/WON, research 2026-10-05).
+- [ ] Duración exacta.
 - [ ] **Confirmar si la lesión de Vikingo fue real o parte del
       angle** — [verif], no fabricar sin fuente.
 - [ ] Historia previa exacta del "grudge" con Mini Vikingo.
+- [ ] **DISCREPANCIA GRAVE (research 2026-10-05)**: esta ficha
+      registra como hecho que **gana Hijo del Vikingo** con Phoenix
+      630. **Múltiples fuentes de research (F4W/WON, Pro Wrestling
+      Dot Net, Fightful) coinciden en lo contrario: gana Mini
+      Vikingo** — descrito como "uno de los upsets más grandes en la
+      historia de la lucha libre": Vikingo powerbombea a Mini, que
+      kickea out; Vikingo va a usar una silla sobre Mini, Dr. Wagner
+      Jr. corre e impacta un **Wagner Driver sobre Vikingo** (no
+      sobre Mini) usando la silla; Mini se levanta y conecta un
+      **630 sobre Vikingo** para el pin 1-2-3. Es decir: el research
+      invierte no solo el ganador sino también quién recibe la
+      intervención de Wagner y quién ejecuta el movimiento final. No
+      se reescribe el frontmatter sin que el Vehemiurgo lo revise —
+      contradice directamente el visionado directo declarado
+      verbatim. Ver también el ítem de "posible lesión real", que
+      bajo la versión del research sería de **Vikingo tras el Wagner
+      Driver**, no tras su propio finisher.
 
 ## Cross-links
 

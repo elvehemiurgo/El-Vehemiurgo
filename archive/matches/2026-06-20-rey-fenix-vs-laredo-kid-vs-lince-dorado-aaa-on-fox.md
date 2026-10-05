@@ -9,7 +9,7 @@ ciudad: "Mérida, Yucatán"
 recinto: "Foro GNP Seguros"
 tipo_match: "3-way"
 estipulacion: "AAA World Cruiserweight Championship — 3-way"
-duracion: "10:51 [Vetter/prowrestling.net] / 11:12 [Bodyslam, PWMania] — dato en conflicto, sin desempate"
+duracion: "~11:11-11:12 [mayoría: F4W/WON, PWMania] / 10:51 [una fuente, Bodyslam] — dato en conflicto, sin desempate definitivo"
 finish: "Fénix bloquea el frog splash de Laredo Kid y remata con Mexican Muscle Buster para el pin sobre Laredo Kid"
 ganador: "Rey Fénix — retiene el AAA World Cruiserweight Championship"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo genial! Son dioses del wrestling"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s06 (visión directa — AAA, dictado como 22/6/2026)"
   - "Sub-agente card-aaa-worldwide-220626 (research 2026-08-01, closed) — CORRIGE fecha real a 20/6/2026"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4W/WON, PWMania, Bodyslam); WebFetch bloqueado por egress"
 tags: [aaa-2026, aaa-on-fox, rey-fenix, laredo-kid, lince-dorado, cruiserweight-championship, dioses-del-wrestling-objetivo, perfect-match, hilo-noche-de-los-grandes]
 ---
 
@@ -60,7 +61,10 @@ se preserva verbatim en la cita.
 
 ## Pendientes / huecos
 
-- [ ] Desempate de duración: 10:51 (Vetter) vs 11:12 (Bodyslam/PWMania).
+- [x] Desempate de duración (parcial) → research 2026-10-05 encuentra
+      **tres fuentes**: F4W/WON (11:11), PWMania (11:12), Bodyslam.net
+      (10:51) — 2 de 3 convergen en ~11:11-11:12. Se registra el
+      consenso mayoritario sin descartar el outlier.
 - [ ] Confirmar si el reto de Mini Vikingo se anunció esa misma noche.
 - [ ] Seguimiento de Lince Dorado — sin registro posterior encontrado.
 

@@ -5,22 +5,23 @@ participantes: ["Julio (Julius Creed)", "Bruno (Brutus Creed)", "Rayo", "Bravo"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-23
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "tag team"
+ciudad: "Ciudad de México"
+recinto: "Gimnasio Olímpico Juan de la Barrera"
+tipo_match: "tag team — street flight"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "[no encontrado]"
+finish: "Termina en caos — No Contest"
+ganador: "Sin decisión (No Contest)"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'esta lucha se merece las 3 clases, es wrestling'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s51 (visión directa — AAA Worldwide, 23/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com); WebFetch bloqueado por egress"
 tags: [americanos-hermanos, creed-brothers, julio, bruno, rayo, bravo, el-grande-americano, aaa-2026, perfect-wrestling, fighting-spirit, wrestling-entertainment, perfect-match, underdog, contraste-visual]
 ---
 
@@ -88,8 +89,10 @@ refuerzo en Raw, 3v3), ahora cruzándolo con el expediente de Rayo
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto + ciudad.
+- [x] Finish + ciudad/recinto → WWE.com lo etiqueta como "street
+      flight" que **termina en caos, No Contest**, en el Gimnasio
+      Olímpico Juan de la Barrera, CDMX (research 2026-10-05).
+- [ ] Duración — ningún recap accesible la reportó.
 - [ ] Confirmar si "los americanos" del dictado se refiere
       exclusivamente a Julio y Bruno o incluye a El Grande
       Americano en ringside — [verif].

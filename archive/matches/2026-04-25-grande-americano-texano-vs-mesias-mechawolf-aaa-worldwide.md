@@ -1,26 +1,27 @@
 ---
 match: "El Grande Americano & Texano Jr. vs Mesías & Mechawolf"
 slug: "2026-04-25-grande-americano-texano-vs-mesias-mechawolf-aaa-worldwide"
-participantes: ["El Grande Americano", "Texano Jr.", "Mesías", "Mechawolf"]
+participantes: ["El Grande Americano II", "Texano Jr.", "Mesías", "Mechawolf"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-25
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Ciudad de México"
+recinto: "Gimnasio Olímpico Juan de la Barrera"
 tipo_match: "tag team all-star"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif] — con ataque post-match de Chad Gable"
-ganador: "[verif]"
+estipulacion: "standard"
+duracion: "[no encontrado]"
+finish: "[no encontrado] — post-match, OG Americano ataca a Texano Jr. y Americano II hace el salvamento"
+ganador: "El Grande Americano II y Texano Jr."
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase declarada — 'buena lucha y buen ataque post match de Gable'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Fightful, Cageside Seats); WebFetch bloqueado por egress"
 tags: [el-grande-americano, texano-jr, mesias, mechawolf, aaa-worldwide-2026, tag-team, sin-clase, chad-gable, validacion-de-veteranos, noche-de-los-grandes]
 ---
 
@@ -52,7 +53,12 @@ AAA. Ataque post-match de Chad Gable. Ver
 ## Pendientes
 
 - [ ] Fecha de Noche de los Grandes.
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Ganador + ciudad/recinto → gana **El Grande Americano II y
+      Texano Jr.**, en el Gimnasio Olímpico Juan de la Barrera
+      (Ciudad de México); se precisa que el Americano que tagueó con
+      Texano fue **"II", no el "Original"** (WWE.com/Fightful,
+      research 2026-10-05).
+- [ ] Finish exacto + duración — ningún recap accesible los reportó.
 
 ## Cross-links
 

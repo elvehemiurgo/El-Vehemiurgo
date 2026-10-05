@@ -6,7 +6,7 @@ empresa: "AAA"
 programa: "Guerra de Titanes 2008"
 fecha: 2008-12-06
 ciudad: "Orizaba, Veracruz"
-recinto: "[verif]"
+recinto: "Plaza de Toros La Concordia"
 tipo_match: "tag team — AAA World Tag Team Championship"
 estipulacion: "standard (reglas de parejas; el finish por count-out lo sugiere — estipulación hardcore no confirmada)"
 duracion: "10:32"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase declarada — 'la lucha y los stakes, todo muy emocionante'"
 clases_vehemiurgo: []
 estado: verificado
-ultima_actualizacion: 2026-07-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s31 (visión directa — AAA, 6/12/2008)"
   - "Sub-agente hardcore-psicosis-vs-moxley-analisis-integral-2026 (research 2026-07-26, closed) — Guerra de Titanes/Orizaba/título/finish [T concordante]"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Wiki/Fandom); WebFetch bloqueado por egress"
 tags: [nicho-el-millonario, joe-lider, teddy-hart, jack-evans, aaa, 2000s-alternativo, hardcore-real, sin-clase, primer-registro]
 ---
 
@@ -74,7 +75,9 @@ tags: [nicho-el-millonario, joe-lider, teddy-hart, jack-evans, aaa, 2000s-altern
 
 - [x] Finish + duración + ciudad — resueltos por research
       2026-07-26 (doble count-out, 10:32, Orizaba).
-- [ ] Recinto exacto + referee.
+- [x] Recinto exacto → **Plaza de Toros La Concordia** (Pro Wrestling
+      Wiki, research 2026-10-05).
+- [ ] Referee.
 
 ## Cross-links
 

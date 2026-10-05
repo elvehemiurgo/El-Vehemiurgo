@@ -5,22 +5,23 @@ participantes: ["Rey Fénix", "Laredo Kid"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-23
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "standard"
-duracion: "[verif]"
-finish: "Laredo Kid retiene con low blow [Secundaria: Fightful 30/5/2026, en el recap del rubber match — research fenix-2026-run]"
-ganador: "[verif]"
+ciudad: "Ciudad de México"
+recinto: "Gimnasio Olímpico Juan de la Barrera"
+tipo_match: "singles — AAA World Cruiserweight Championship"
+estipulacion: "AAA World Cruiserweight Championship"
+duracion: "[no encontrado]"
+finish: "Con el referee distraído consultando con el médico, Laredo Kid castiga a Fénix con un golpe bajo y una patada, luego remata desde la tercera cuerda con un frog splash — pinfall; Rey Mysterio anuncia revancha para Noche de los Grandes"
+ganador: "Laredo Kid (retiene, de forma controvertida)"
 referee: "[verif]"
 encuentros_previos: 1
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'esta lucha se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s51 (visión directa — AAA Worldwide, 23/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Kbwrestlingreviews, Bodyslam); WebFetch bloqueado por egress"
 tags: [rey-fenix, laredo-kid, aaa-2026, rey-mysterio-gm, perfect-wrestling, fighting-spirit, wrestling-entertainment, perfect-match, heel-turn, panteon, heroe-fundamental-49, heroe-fundamental-50]
 ---
 
@@ -90,8 +91,13 @@ Match del 2/5/2026 (s41). Ver
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto + ciudad.
+- [x] Finish exacto + ganador + ciudad/recinto → gana **Laredo Kid**
+      (retiene el título) de forma controvertida: golpe bajo + patada
+      con el referee distraído, remate con frog splash; Rey Mysterio
+      anuncia la revancha para Noche de los Grandes. Gimnasio
+      Olímpico Juan de la Barrera, CDMX (WWE.com, research
+      2026-10-05).
+- [ ] Duración — ningún recap accesible la reportó.
 - [ ] Contenido exacto de la promo del heel turn de Laredo Kid.
 
 ## Cross-links

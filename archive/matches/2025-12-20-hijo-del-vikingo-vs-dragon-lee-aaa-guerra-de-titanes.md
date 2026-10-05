@@ -7,14 +7,14 @@ participantes:
 empresa: "WWE AAA"
 programa: "Guerra de Titanes 2025"
 fecha: 2025-12-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Guadalajara, Jalisco"
+recinto: "Arena Guadalajara"
 tipo_match: "singles — match cumbre lucha mexicana del periodo"
-estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
-referee: ""
+estipulacion: "semifinal"
+duracion: "[no encontrado]"
+finish: "Omos (aliado de Vikingo) le aplica Last Ride powerbomb a Dragon Lee; Vikingo remata con 450 splash — pinfall"
+ganador: "Hijo del Vikingo"
+referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier AAA + AEW 2026"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, Superluchas, ADN40); WebFetch bloqueado por egress"
 tags: [aaa-2025, guerra-de-titanes, hijo-del-vikingo, dragon-lee, lucha-mexicana-cumbre, junior-heavyweight, pre-vikingo-injury-arc, working-agreement-wwe]
 ---
 
@@ -67,7 +68,10 @@ tags: [aaa-2025, guerra-de-titanes, hijo-del-vikingo, dragon-lee, lucha-mexicana
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish → **Hijo del Vikingo**, con interferencia de
+      Omos (Last Ride a Dragon Lee + 450 splash de Vikingo), semifinal
+      en Arena Guadalajara (Fightful/Superluchas, research 2026-10-05).
+- [ ] Duración — ninguna fuente accesible la reportó.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **¿Match donde Vikingo se lesionó?** Verificar timing.
 - [ ] **Asignación de clase del Vehemiurgo**.

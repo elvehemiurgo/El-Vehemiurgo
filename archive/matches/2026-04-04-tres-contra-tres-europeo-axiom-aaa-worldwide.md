@@ -1,26 +1,27 @@
 ---
-match: "3 contra 3 de equipos europeos (Axiom en bandos opuestos)"
+match: "Team Europe vs Team UK (Axiom en bandos opuestos)"
 slug: "2026-04-04-tres-contra-tres-europeo-axiom-aaa-worldwide"
-participantes: ["Axiom", "[verif resto de ambos equipos europeos]"]
+participantes: ["Axiom", "Dorian Van Dux", "Elio LeFleur", "Charlie Dempsey", "Nathan Frazer", "Tristan Angels"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-04
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "3 contra 3"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "[no encontrado]"
+recinto: "[no encontrado]"
+tipo_match: "3 contra 3 — main event"
+estipulacion: "standard"
+duracion: "[no encontrado]"
+finish: "Elio LeFleur remata a Tristan Angels con un movimiento que lo deja de cabeza — pinfall"
+ganador: "Team Europe (Axiom, Dorian Van Dux y Elio LeFleur)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'todo esto se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — AAA Worldwide, 4/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Cagematch); WebFetch bloqueado por egress"
 tags: [axiom, aaa-worldwide-2026, tres-contra-tres, wrestling-entertainment, booking-inteligente, equipos-europeos]
 ---
 
@@ -47,8 +48,12 @@ composición inteligente de los equipos. Ver
 
 ## Pendientes
 
-- [ ] Roster completo de ambos equipos europeos.
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Roster completo de ambos equipos → **Team Europe**: Axiom,
+      Dorian Van Dux, Elio LeFleur. **Team UK**: Charlie Dempsey,
+      Nathan Frazer, Tristan Angels (WWE.com, research 2026-10-05).
+- [x] Finish + ganador → gana **Team Europe**; Elio LeFleur cubre a
+      Tristan Angels tras dejarlo de cabeza (research 2026-10-05).
+- [ ] Duración + ciudad/recinto — ningún recap accesible los reportó.
 - [ ] Contexto narrativo exacto de por qué Axiom queda dividido de
       su equipo — [verif].
 

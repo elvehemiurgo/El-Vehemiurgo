@@ -5,22 +5,23 @@ participantes: ["Cruz del Toro", "Octagón Jr.", "Lince Dorado"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Querétaro"
+recinto: "Auditorio José María Arteaga"
 tipo_match: "triple threat"
 estipulacion: "no title"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "[no encontrado]"
+finish: "Lince Dorado conecta Bronco Buster sobre Cruz del Toro — pinfall"
+ganador: "Lince Dorado"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit — 'se merece el fighting spirit, son muy pros, tremenda lucha'"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — AAA Worldwide, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Thechairshot, TPWW); WebFetch bloqueado por egress"
 tags: [cruz-del-toro, lwo-ex, octagon-jr, lince-dorado, aaa-2026, triple-threat, fighting-spirit]
 ---
 
@@ -44,8 +45,10 @@ sin desarrollo extenso — "muy pros" resume el elogio. Ver
 
 ## Pendientes
 
-- [ ] Finish/duración/ciudad/recinto — el take fue breve, sin
-      detalle técnico.
+- [x] Finish/ganador/ciudad/recinto → gana **Lince Dorado** con
+      **Bronco Buster** sobre Cruz del Toro, en el Auditorio José
+      María Arteaga, Querétaro (WWE.com, research 2026-10-05).
+- [ ] Duración — ningún recap accesible la reportó.
 
 ## Cross-links
 

@@ -5,22 +5,23 @@ participantes: ["Octagón Jr.", "El Grande Americano"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "[no encontrado]"
+recinto: "[no encontrado]"
 tipo_match: "singles"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+estipulacion: "standard"
+duracion: "5:18"
+finish: "[no encontrado — solo se reportó el resultado]"
+ganador: "\"Original\" El Grande Americano"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'este combate se merece un fighting spirit y un enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s37 (visión directa — AAA Worldwide, 11/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [octagon-jr, el-grande-americano, chad-gable, aaa-worldwide-2026, singles, fighting-spirit, wrestling-entertainment, fans-invertidos]
 ---
 
@@ -47,7 +48,10 @@ Americano/Chad Gable — reacción de público total como métrica de
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Duración + ganador → **5:18**, gana **"Original" El Grande
+      Americano** (WWE.com/PWDN, research 2026-10-05).
+- [ ] Finish exacto + ciudad/recinto — ningún recap accesible los
+      reportó.
 
 ## Cross-links
 
