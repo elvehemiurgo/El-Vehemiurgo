@@ -294,7 +294,7 @@ con cada cambio de estado.
 | 2026-05-30 | El Hijo de Dr. Wagner Jr. vs El Hijo del Vikingo | AAA / Noche de los Grandes | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-30-hijo-de-dr-wagner-jr-vs-hijo-del-vikingo-aaa-noche-de-los-grandes.md) |
 | 2026-05-30 | Rey Fénix vs Laredo Kid | AAA / Noche de los Grandes | FS·WE | FC | en-investigacion | 1 | [→](2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md) |
 | 2026-05-29 | Chelsea Green vs Nia Jax | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md) |
-| 2026-05-29 | Ricky Saints vs [verif] | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md) |
+| 2026-05-29 | Ricky Saints vs Carmelo Hayes | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-29-ricky-saints-vs-carmelo-hayes-double-count-out-wwe-smackdown.md) |
 | 2026-05-27 | Ace Austin vs Andrade | AEW / Collision | PW·FS·WE | ICC | stub | 1 | [→](2026-05-27-ace-austin-vs-andrade-aew-collision.md) |
 | 2026-05-27 | Mark Davis vs Jack Perry — revancha | AEW / Dynamite & Collision | — | — | stub | 1 | [→](2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md) |
 | 2026-05-26 | Charlie Dempsey vs Shiloh Hill | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-05-26-charlie-dempsey-vs-shiloh-hill-wwe-nxt.md) |

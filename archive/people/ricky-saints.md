@@ -310,7 +310,7 @@ la incapacidad de ganar se lee como coherente con su gimmick de
 dictado**; queda [verif]. Cierra con el veredicto de conjunto sobre
 la escena del título US (pago del hilo abierto en s51 con Trick
 Williams y Carmelo Hayes). Ver
-[`../matches/2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md`](../matches/2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md).
+[`../matches/2026-05-29-ricky-saints-vs-carmelo-hayes-double-count-out-wwe-smackdown.md`](../matches/2026-05-29-ricky-saints-vs-carmelo-hayes-double-count-out-wwe-smackdown.md).
 
 ## Piezas del Vehemiurgo donde aparece
 
@@ -328,6 +328,6 @@ Williams y Carmelo Hayes). Ver
 - [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md)
 - [`../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md`](../segments/2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md)
 - [`../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md`](../segments/2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md)
-- [`../matches/2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md`](../matches/2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md)
+- [`../matches/2026-05-29-ricky-saints-vs-carmelo-hayes-double-count-out-wwe-smackdown.md`](../matches/2026-05-29-ricky-saints-vs-carmelo-hayes-double-count-out-wwe-smackdown.md)
 - (Pendiente: matches y segmentos NXT 2025-2026 + main roster
   post-WM42.)

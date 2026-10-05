@@ -4,9 +4,10 @@ tipo: fact-sheet
 categoria: people
 slug: thekla
 estado: stub
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcados AEW Dynamite 25 mar + Collision 11 abr 2026)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas: presupuesto agotado; consolidado desde research/closed.md + ref. general marcada); WebFetch bloqueado por egress"
 tags: [thekla, stardom-austriaca, god-s-eye-oedo-tai-verif, proyecto-thekla, nivel-fatal-influence, aew-stardom-partnership-verif, fighting-spirit-recurrente, spider-gimmick-verif]
 ---
 
@@ -25,6 +26,18 @@ tags: [thekla, stardom-austriaca, god-s-eye-oedo-tai-verif, proyecto-thekla, niv
 - **Origen**: Austria [verif]. (Primera/de las pocas luchadoras
   austríacas en el joshi japonés.)
 - **Gimmick**: estética de araña / spider [verif].
+- **Empresa actual (oct 2026)**: AEW. Según research previo del
+  archivo (`aew-160926-me-collision-190926-dynamite-230926`), ganó el
+  **#1 contender ante Willow en All Out** (26/9/2026, 13:19) y venció
+  a Zayda Steel en Collision 19/9 (curb stomp, 11:18).
+- **Recorrido probable** *(ref. general del sub-agente; [no
+  confirmado])*: en STARDOM fue parte de **Oedo Tai** —la misma
+  facción de Starlight Kid, lo que daría peso a la rivalidad de
+  Forbidden Door 2026—; en AEW (2024) formó el **Triangle of
+  Madness** con **Julia Hart** y **Skye Blue** — ver
+  [`./sky-blue.md`](./sky-blue.md).
+- **Nombre real / nacimiento**: no cerrados (WebSearch agotado,
+  WebFetch bloqueado).
 
 ## Datos duros (preliminar — verificar y expandir)
 

@@ -30,6 +30,13 @@ tags: [the-hometown-man, gimmick-nuevo-tna-2026, identidad-verif, local-hero-gim
     ciudad del taping (device territorial clásico).
   - **Repackage** de un talent existente [verif].
   - **Talent recurrente** con gimmick fijo [verif].
+  - **Pista interna (research 2026-10-05)**: el tag que sembró este
+    match pagó en Sacrifice 2026 como **Kazarian & AJ Francis vs
+    Elijah & Cody Deaner** ([`../topics/notas-booking-tna-2026.md`](../topics/notas-booking-tna-2026.md)).
+    Si el compañero sembrado es el propio Hometown Man, el candidato
+    por contexto es **Cody Deaner** — **hipótesis, [no confirmado]**;
+    sin resultados del 19/3 a mano (WebSearch agotado, WebFetch
+    bloqueado) no se resuelve.
 
 ## Contexto (lo poco que se sabe)
 

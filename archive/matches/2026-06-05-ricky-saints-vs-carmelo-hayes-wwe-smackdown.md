@@ -58,7 +58,7 @@ tags: [wwe-2026, smackdown, ricky-saints, carmelo-hayes, revancha-del-draw, prim
 
 - [`../people/ricky-saints.md`](../people/ricky-saints.md)
 - [`../people/carmelo-hayes.md`](../people/carmelo-hayes.md)
-- [`./2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md`](./2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown.md) — el draw que esta revancha paga
+- [`./2026-05-29-ricky-saints-vs-carmelo-hayes-double-count-out-wwe-smackdown.md`](./2026-05-29-ricky-saints-vs-carmelo-hayes-double-count-out-wwe-smackdown.md) — el draw que esta revancha paga
 - [`./2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](./2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md)
 
 - Volcado: [`../../notebook/2026-08-01-s02-clash-in-italy-310526-raw-010626-nxt-020626-smackdown-050626-aaa-060626.md`](../../notebook/2026-08-01-s02-clash-in-italy-310526-raw-010626-nxt-020626-smackdown-050626-aaa-060626.md)

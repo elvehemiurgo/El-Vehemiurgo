@@ -1,7 +1,7 @@
 ---
-match: "Ricky Saints vs [verif]"
-slug: "2026-05-29-ricky-saints-vs-verif-draw-wwe-smackdown"
-participantes: ["Ricky Saints", "[verif — oponente no dictado]"]
+match: "Ricky Saints vs Carmelo Hayes"
+slug: "2026-05-29-ricky-saints-vs-carmelo-hayes-double-count-out-wwe-smackdown"
+participantes: ["Ricky Saints", "Carmelo Hayes"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-29
@@ -25,12 +25,12 @@ fuentes_principales:
 tags: [ricky-saints, wwe-smackdown-2026, perfect-wrestling, fighting-spirit, wrestling-entertainment, perfect-match, draw, titulo-us, doctrina-booking-basico]
 ---
 
-# Ricky Saints vs [verif] — WWE SmackDown (29 may 2026)
+# Ricky Saints vs Carmelo Hayes — WWE SmackDown (29 may 2026)
 
 > **Perfect Match — "un clásico instantáneo"**. Termina en **draw**,
 > resultado leído como acertado dentro del booking básico pero
 > efectivo del gimmick "bocón sin victorias" de Ricky Saints. El
-> oponente **no fue dictado por el Vehemiurgo** — queda [verif].
+> oponente **no fue dictado por el Vehemiurgo**; el research del 2026-10-05 lo identificó como **Carmelo Hayes** (WWE.com, Yahoo Sports, eWrestling). Final por doble count-out.
 
 ## Resumen
 
@@ -86,7 +86,7 @@ marcado como pendiente de confirmación. Ver
 
 ## Pendientes
 
-- [x] **Identidad del oponente** — no dictado, [verif]. → **Carmelo Hayes** (WWE.com, Yahoo Sports, eWrestling). `match`, `participantes`, título y slug quedan sin tocar para la sesión principal.
+- [x] **Identidad del oponente** — no dictado, [verif]. → **Carmelo Hayes** (WWE.com, Yahoo Sports, eWrestling). Ficha renombrada y corregida el 2026-10-05.
 - [x] Finish exacto del draw (tiempo límite, doble pin, etc.). → doble count-out: siguieron peleando afuera y no volvieron a tiempo (eWrestling, Cagematch)
 - [x] Ciudad, recinto, duración. → Badalona (área de Barcelona), España / Palau Olímpic de Badalona (Olimpic Arena) (Cagematch/Wrestleview); 3:04 [una fuente, eWrestling — llamativamente corta, verificar]
 - [x] Estado exacto del título US → Trick Williams campeón; el DCO abre la puerta a un triple threat Trick/Hayes/Saints (WWE.com, Cagematch)
