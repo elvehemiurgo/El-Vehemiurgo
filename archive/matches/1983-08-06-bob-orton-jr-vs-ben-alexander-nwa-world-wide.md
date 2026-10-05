@@ -7,22 +7,23 @@ participantes:
 empresa: "NWA Jim Crockett Promotions"
 programa: "NWA World Wide Wrestling"
 fecha: 1983-08-06
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Spartanburg, SC (taping 1983-07-27) [una fuente]"
+recinto: "Spartanburg Memorial Auditorium [una fuente]"
 tipo_match: "singles — territorial deep dive NWA Crockett"
 estipulacion: ""
-duracion: ""
-finish: ""
-ganador: "[verif] — likely Bob Orton Jr."
+duracion: "~4:40 [una fuente]"
+finish: "Bob Orton Jr. por pinfall tras superplex [una fuente]"
+ganador: "Bob Orton Jr."
 referee: ""
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 6 'Territorial deep dives (1983–1984)'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (midatlanticgateway.com, thehistoryofwwe.com, wwfoldschool.com — snippets); WebFetch bloqueado por egress"
 tags: [nwa-1983, jim-crockett-promotions, world-wide-wrestling, bob-orton-jr, ben-alexander, territorial-deep-dive, cowboy-orton-pre-wwf, randy-orton-padre]
 ---
 
@@ -56,7 +57,7 @@ tags: [nwa-1983, jim-crockett-promotions, world-wide-wrestling, bob-orton-jr, be
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish + duración. → Bob Orton Jr. pina a Ben Alexander con superplex, ~4:40 (thehistoryofwwe.com / Mid-Atlantic Gateway, vía snippets). Taping: Spartanburg Memorial Auditorium, 27 jul 1983 (Mid-Atlantic Gateway, TV Report 6 ago 1983) [una fuente]. Nota: Orton ya había vencido a Alexander con superplex en WW del 11 jun 1983 (taping WPCQ Charlotte 8 jun) — no confundir.
 - [ ] Cobertura *NWA Power Hour* + Tim Hornbaker libros.
 - [ ] **Asignación de clase del Vehemiurgo**.
 

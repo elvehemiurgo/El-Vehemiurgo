@@ -25,11 +25,12 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "TRIPLE-CLASE OPERATIVA: Perfect Wrestling Class + Fighting Spirit Class + Wrestling Entertainment Class (asignada explícitamente — 'se merece todas las clases con creces')"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo"
   - "Sub-agente dynamite-kid-vs-mark-rocco-rivalidad-80s-2026 (lanzado background — pendiente integración)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (itvwrestling.co.uk, cagematch.net, wrestlingheritage.co.uk — snippets); WebFetch bloqueado por egress"
 tags: [british-wrestling-1981, world-of-sport-itv, joint-promotions-dale-martin, dynamite-kid-tom-billington, mark-rollerball-rocco, wigan-tradition-catch-as-catch-can, rivalidad-80s-multi-match, triple-clase-operativa, vehemiurgo-mejores-luchas-de-la-historia, linaje-chris-benoit-davey-richards-tommy-billington, claudemd-sec-2-british-world-of-sport, sub-agente-pendiente]
 ---
 
@@ -300,6 +301,7 @@ estudiar toda la rivalidad"*):
 - [x] ~~Cobertura TV~~ **CONFIRMED ITV WoS broadcast Kent
       Walton**.
 - [ ] **Sede exacta Lewisham** (Theatre vs Catford taping).
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra el DKO como match del 19 dic 1981 en Lewisham, distinto del taping de Catford del 30 nov 1981; snippets de itvwrestling.co.uk / Cagematch indican que el Rocco vs Dynamite con DKO (World Heavy-Middleweight) fue **grabado el 30 nov 1981 en Catford/Lewisham y emitido en WoS el 16 ene 1982** — no aparece emisión del 19 dic 1981 (itvwrestling.co.uk 81/82 + Cagematch, vía snippets).
 - [ ] **Ladder match 1983 fecha + recinto exactos** —
       verif Wrestling Heritage / Cagematch directo.
 - [ ] **Total matches Dynamite vs Rocco** completo (subset TV

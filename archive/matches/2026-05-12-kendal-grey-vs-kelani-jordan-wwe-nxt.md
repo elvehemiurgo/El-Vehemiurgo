@@ -5,22 +5,23 @@ participantes: ["Kendal Grey", "Kelani Jordan"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-12
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
+duracion: "12:47 [una fuente]"
 finish: "[verif]"
-ganador: "[verif]"
+ganador: "Kelani Jordan"
 referee: "[verif]"
 encuentros_previos: "[verif] — ambas vienen del cluster WrenQCC/Kelani ya registrado"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'estuvo fuerte, se merece la enterteinment y fighting spirit classes, muy buena'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, 12/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, Fightful, prowrestling.net, rajah); WebFetch bloqueado por egress"
 tags: [kendal-grey, kelani-jordan, wwe-nxt-2026, singles, fighting-spirit, wrestling-entertainment, wrenqcc, the-future-in-2026]
 ---
 
@@ -48,7 +49,8 @@ otra mitad. Ver
 
 ## Pendientes
 
-- [ ] Finish, ganadora, duración, ciudad/recinto.
+- [x] Ganadora, duración, ciudad/recinto → Kelani Jordan (Kendal Grey acompañada por Wren Sinclair); 12:47 [una fuente]; WWE Performance Center, Orlando (Solowrestling, prowrestling.fandom, rajah)
+- [ ] Finish exacto.
 - [ ] Contexto del build (¿deriva directa de la feud con Wren?).
 
 ## Cross-links

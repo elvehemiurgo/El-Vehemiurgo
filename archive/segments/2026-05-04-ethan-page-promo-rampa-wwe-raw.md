@@ -6,8 +6,8 @@ protagonistas: ["Ethan Page"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-04
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Omaha, Nebraska"
+recinto: "CHI Health Center"
 ubicacion_en_show: "rampa"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'esta promo tipo house show le quedó genial'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE Raw, 4/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, wrestleview, eWrestling); WebFetch bloqueado por egress"
 tags: [ethan-page, wwe-raw-2026, sin-clase, invicto, promo-house-show, campeon-intercontinental, all-ego, comparacion-seth-rollins]
 ---
 

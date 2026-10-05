@@ -5,11 +5,11 @@ participantes: ["Liv Morgan", "Roxanne Perez", "Raquel Rodríguez", "Bayley", "L
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-04-27
-ciudad: "Ciudad natal de Roxanne Perez [verif nombre exacto]"
-recinto: "[verif]"
+ciudad: "Laredo, Texas (ciudad natal de Roxanne Perez)"
+recinto: "Sames Auto Arena"
 tipo_match: "6-woman tag team"
 estipulacion: "[verif]"
-duracion: "[verif]"
+duracion: "9:19 [una fuente]"
 finish: "Liv Morgan y Roxanne Perez cierran la lucha"
 ganador: "Liv Morgan, Roxanne Perez & Raquel Rodríguez [verif]"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment SOLO para los minutos finales — el resto del match sin clase, con reserva sobre Bayley y Lyra Valkyria ('mid, muy aburridas')"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE Raw, 27/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
 tags: [liv-morgan, roxanne-perez, raquel-rodriguez, bayley, lyra-valkyria, wwe-raw-2026, six-woman-tag, wrestling-entertainment-parcial, hometown, reserva-mid, judgment-day]
 ---
 
@@ -64,8 +65,9 @@ tags: [liv-morgan, roxanne-perez, raquel-rodriguez, bayley, lyra-valkyria, wwe-r
 
 ## Pendientes
 
-- [ ] Nombre de la ciudad natal de Roxanne Perez.
-- [ ] Finish + duración + recinto exactos.
+- [x] Nombre de la ciudad natal de Roxanne Perez. → Laredo, Texas (WWE.com, lmtonline.com)
+- [x] Finish + duración + recinto exactos. → Pop Rox de Roxanne Perez sobre Bayley tras distracciones de Liv Morgan; 9:19 [una fuente]; Sames Auto Arena (WWE.com, POST Wrestling, prowrestling.fandom)
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra un 6-woman tag (Liv, Roxanne & Raquel vs Bayley & Lyra) con Liv cerrando la lucha vs las fuentes: tag 2 vs 2 **Roxanne Perez & Raquel Rodríguez vs Bayley & Lyra Valkyria**, con Liv Morgan como acompañante/distracción en ringside; ganan Perez & Rodríguez (WWE.com, lmtonline.com, POST Wrestling).
 
 ## Cross-links
 

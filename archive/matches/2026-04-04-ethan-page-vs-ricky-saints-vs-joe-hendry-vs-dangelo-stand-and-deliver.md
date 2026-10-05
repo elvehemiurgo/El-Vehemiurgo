@@ -9,13 +9,13 @@ participantes:
 empresa: "WWE NXT"
 programa: "Stand & Deliver 2026"
 fecha: 2026-04-04
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Chesterfield, Missouri (área de St. Louis)"
+recinto: "The Factory at The District"
 tipo_match: "fatal 4-way — NXT World Heavyweight Championship match"
 estipulacion: "NXT World Heavyweight Championship fatal 4-way"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "16:01"
+finish: "Tony D'Angelo def. Hendry, Saints y Page — doble clothesline a Saints y Page, spinebuster a Hendry; con el match reducido a Hendry vs D'Angelo, spear + Dead to Rights sobre Hendry para el pin. Title change (D'Angelo, primer NXT Grand Slam Champion)"
+ganador: "Tony D'Angelo (nuevo NXT Champion)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -27,9 +27,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier NXT 2025-2026 Stand & Deliver callups"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia/snippets, POST Wrestling, PWTorch, SI); WebFetch bloqueado por egress"
 tags: [nxt-2026, stand-and-deliver-2026, whc-fatal-4way, ethan-page, ricky-saints, joe-hendry, tony-dangelo, gabagool, triangulo-expandido-payoff, callup-buildup]
 ---
 
@@ -80,7 +81,7 @@ tags: [nxt-2026, stand-and-deliver-2026, whc-fatal-4way, ethan-page, ricky-saint
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish + duración. → Tony D'Angelo, spear + Dead to Rights sobre Joe Hendry, 16:01 (POST Wrestling; Wikipedia vía snippet)
 - [ ] **Attendance Stand & Deliver 2026**.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST Wrestling Rewind-A-NXT.

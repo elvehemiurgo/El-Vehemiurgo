@@ -11,9 +11,9 @@ ciudad: "[verif]"
 recinto: "[verif]"
 tipo_match: "singles — territorial Mid-South era"
 estipulacion: ""
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "~5:00 [una fuente]"
+finish: "Mr. Wrestling II por pinfall tras power knee lift [una fuente]"
+ganador: "Mr. Wrestling II (retiene el National Heavyweight Title) [una fuente]"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -23,10 +23,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. 6 'Territorial deep dives (1983–1984)'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (blogofdoom.com, 411mania.com — snippets); WebFetch bloqueado por egress"
 tags: [mid-south-wrestling, bill-watts, 1983, arn-anderson, mr-wrestling-2, johnny-walker, territorial-deep-dive, pre-four-horsemen-arn, masked-babyface-tradition]
 ---
 
@@ -66,7 +67,8 @@ territorial period.)
 ## Pendientes / huecos
 
 - [ ] **Fecha exacta** (notebook dice "1983" sin más detalle).
-- [ ] Ganador + finish + duración.
+      Candidato: Mid-South TV del **23 jun 1983** (Blog of Doom) [una fuente] — `fecha` del frontmatter no se tocó.
+- [x] Ganador + finish + duración. → Mr. Wrestling II retiene el National Title sobre Arn Anderson con power knee lift, ~5 min (Scott's Blog of Doom, review Mid-South TV 23 jun 1983) [una fuente]. Identificación por candidato único localizado en TV 1983; confirmar contra el visionado del Vehemiurgo.
 - [ ] Cobertura Tim Hornbaker *Capitol Revolution* + *NWA: The
       Untold Story* (libros sobre period).
 - [ ] *Jim Cornette Drive-Thru* episodios sobre Mid-South 1983

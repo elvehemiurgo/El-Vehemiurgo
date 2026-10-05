@@ -9,7 +9,7 @@ ciudad: "Tokio, Japón"
 recinto: "Nippon Budokan"
 tipo_match: "singles"
 estipulacion: "RINGS shoot-style rules + final del Mega Battle Tournament 1996"
-duracion: "[verif]"
+duracion: "12:36"
 finish: "Volk Han por kata-ashi-hishigi (single-leg crush / leglock)"
 ganador: "Volk Han"
 referee: "[verif]"
@@ -19,10 +19,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Triple clase (serie Han-Tamura, decisión 2026-06-17)"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (vio los 4 matches de la serie)"
   - "Sub-agente trilogia-volk-han-tamura-rings-2026"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (tkscissors.blogspot.com, tapology.com, prowrestlingonly — snippets); WebFetch bloqueado por egress"
 tags: [volk-han, kiyoshi-tamura, rings, fighting-network-rings, mega-battle-1996-final, nippon-budokan, shoot-style, perfect-match, fighting-spirit, wrestling-entertainment, serie-han-tamura, 1997]
 ---
 
@@ -57,10 +58,10 @@ emocional del 26/9/97.
 - **Show**: RINGS Mega Battle Tournament 1996 — Grand Final.
 - **Recinto**: Nippon Budokan, Tokio. **Attendance**: 11.800 [verif].
 - **Finish**: Han por single-leg crush (leglock). Gana el torneo.
-- **Duración**: [verif].
+- **Duración**: 12:36 (TK Scissors; Tapology).
 
 ## Pendientes
 
-- [ ] Duración exacta.
+- [x] Duración exacta. → 12:36, kata-ashi-hishigi (TK Scissors blog + Tapology/PWO, vía snippets)
 - [ ] Card completa de la final.
 - [ ] Confirmar attendance.

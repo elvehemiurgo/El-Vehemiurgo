@@ -8,8 +8,8 @@ protagonistas:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-03-27
-ciudad: ""
-recinto: ""
+ciudad: "Pittsburgh, Pennsylvania"
+recinto: "PPG Paints Arena"
 ubicacion_en_show: ""
 duracion: ""
 linea_textual: ""
@@ -23,9 +23,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Cool and fun, personal, nice shot at babyface Fatu"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-03-27 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, POST Wrestling, AXS); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, jacob-fatu, drew-mcintyre, wrestlemania-42-build, babyface-fatu]
 ---
 

@@ -9,9 +9,9 @@ ciudad: "Tokio, Japón"
 recinto: "Ryōgoku Kokugikan (New Sumo Hall)"
 tipo_match: "tag team"
 estipulacion: "shoot-style"
-duracion: "[verif]"
+duracion: "16:32"
 finish: "[verif — reviews accesibles no detallan método]"
-ganador: "Otsuka & Ishikawa [verif]"
+ganador: "Otsuka & Ishikawa"
 referee: "[verif]"
 attendance_anunciada: "7.980 [verif]"
 encuentros_previos: 0
@@ -19,10 +19,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena, muy dura — Fighting Spirit Class"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa)"
   - "Sub-agente cluster-junior-heavyweight-highspeed-90s-2026 (research 2026-06-17): identificación show/fecha/recinto"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch.net, puroresucentral.com, insidepulse.com — snippets); WebFetch bloqueado por egress"
 tags: [daisuke-ikeda, satoshi-yoneyama, alexander-otsuka, yuki-ishikawa, michinoku-pro, michinoku-pro-3rd-anniversary, these-days, ryogoku-kokugikan, shoot-style-japones, battlarts-talents, fighting-spirit, generacion-junior-heavyweight-highspeed-1990s, mismo-show-saint-hoshikawa]
 ---
 
@@ -78,7 +79,7 @@ cluster editorial junior heavyweight 90s.
 - **Fecha**: 10 de octubre de 1996.
 - **Recinto**: **Ryōgoku Kokugikan (New Sumo Hall)**, Tokio.
 - **Attendance**: 7.980 [verif contra ficha completa].
-- **Ganador**: Otsuka & Ishikawa [verif].
+- **Ganador**: Otsuka & Ishikawa (16:32).
 - **Rating de contexto** (no veredicto Vehemiurgia): WON ★★★
   (Meltzer); Cagematch ~7.46.
 
@@ -95,8 +96,8 @@ cluster editorial junior heavyweight 90s.
 ## Pendientes de investigación
 
 - [ ] **Finish exacto** y método (las wikis bloquearon acceso 403).
-- [ ] Confirmar ganador (snippet apunta a Otsuka & Ishikawa).
-- [ ] Duración.
+- [x] Confirmar ganador (snippet apunta a Otsuka & Ishikawa). → Confirmado: Alexander Otsuka & Yuki Ishikawa (Cagematch + Puroresu Central review, vía snippets)
+- [x] Duración. → 16:32 (Cagematch + Puroresu Central, vía snippets)
 - [ ] Attendance confirmada contra ficha completa.
 - [ ] Card completa del Michinoku Pro 3rd Anniversary (cruzar con el
       match de Saint vs Hoshikawa, mismo show).

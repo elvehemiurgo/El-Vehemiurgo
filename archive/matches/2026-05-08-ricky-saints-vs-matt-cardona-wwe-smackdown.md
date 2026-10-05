@@ -5,22 +5,23 @@ participantes: ["Ricky Saints", "Matt Cardona"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Jacksonville, Florida"
+recinto: "VyStar Veterans Memorial Arena"
 tipo_match: "singles"
 estipulacion: "no title"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "8:35"
+finish: "Ricky Saints contraataca con springboard tornado DDT y cierra con Roshambo para el pin"
+ganador: "Ricky Saints"
 referee: "[verif]"
 encuentros_previos: "primer encuentro, tras el cruce backstage del mismo show"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit — 'se merece un fighting spirit'"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
 tags: [ricky-saints, matt-cardona, wwe-smackdown-2026, singles, fighting-spirit, desarrollo-cuidado]
 ---
 
@@ -48,7 +49,7 @@ cuidando su desarrollo con el tiempo. Ver
 
 ## Pendientes
 
-- [ ] Finish/duración/ciudad/recinto.
+- [x] Finish/duración/ciudad/recinto. → springboard tornado DDT + Roshambo; 8:35; VyStar Veterans Memorial Arena, Jacksonville (prowrestling.fandom, lastwordonsports)
 
 ## Cross-links
 

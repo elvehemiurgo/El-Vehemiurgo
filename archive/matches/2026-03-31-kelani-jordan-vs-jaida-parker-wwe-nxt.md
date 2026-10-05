@@ -5,22 +5,23 @@ participantes: ["Kelani Jordan", "Jaida Parker"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-03-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Nueva York, Nueva York"
+recinto: "Infosys Theater at Madison Square Garden"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "9:35 / 9:38 según fuente"
+finish: "Parker frena el split-legged moonsault de Jordan, German suplex desde la tercera cuerda, Hip-notic y goozle a dos manos en sit-out powerbomb (Drive By) para el pin"
+ganador: "Jaida Parker"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'estuvo cool, se merece el enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 31/3/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch snippet, PWTorch, WWE.com); WebFetch bloqueado por egress"
 tags: [kelani-jordan, jaida-parker, wwe-nxt-2026, singles, wrestling-entertainment, heel-turn-crecimiento]
 ---
 
@@ -47,7 +48,7 @@ hacia lo oldschool. Ver
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto. → Jaida Parker gana con Hip-notic + sit-out powerbomb tras German desde la tercera; 9:35 (Cagematch) / 9:38 (PWTorch); Infosys Theater at Madison Square Garden, Nueva York (PWTorch, WWE.com). Referee sin dato.
 
 ## Cross-links
 

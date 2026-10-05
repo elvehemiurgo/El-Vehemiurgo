@@ -8,13 +8,13 @@ participantes:
 empresa: "WWE NXT"
 programa: "Stand & Deliver 2026"
 fecha: 2026-04-04
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Chesterfield, Missouri (área de St. Louis)"
+recinto: "The Factory at The District"
 tipo_match: "triple threat — NXT Women's Championship match"
 estipulacion: "NXT Women's Championship"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "16:15"
+finish: "Lola Vice pinea a Jacy Jayne tras el Backfist — title change"
+ganador: "Lola Vice (nueva NXT Women's Champion)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -26,9 +26,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece un fighting spirit y un enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier NXT 2025-2026 Stand & Deliver callups"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia/snippets, POST Wrestling, SI, sescoops); WebFetch bloqueado por egress"
 tags: [nxt-2026, stand-and-deliver-2026, nxt-womens-title, fatal-influence, jacy-jayne, kendal-grey, lola-vice, wrenqcc, triple-threat-women, pre-callup-build]
 ---
 
@@ -122,7 +123,7 @@ antes de nombrar la fórmula.
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish + duración. → Lola Vice, Backfist sobre Jacy Jayne para el pin, 16:15 (SI / sescoops; Wikipedia vía snippet)
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Mecanismo exacto de la aparición/protección de Wren Sinclair
       esta misma noche — [verif].

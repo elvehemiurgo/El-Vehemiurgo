@@ -7,13 +7,13 @@ participantes:
 empresa: "WAR (Wrestle Association R)"
 programa: "WAR tour 1992"
 fecha: 1992-01-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Yokohama, Kanagawa, Japón [una fuente]"
+recinto: "Yokohama Arena [una fuente]"
 tipo_match: "singles — junior heavyweight cross-tradition mexicano-japonés"
 estipulacion: ""
-duracion: ""
+duracion: "14:55 [una fuente]"
 finish: ""
-ganador: ""
+ganador: "Ultimo Dragon [una fuente]"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -23,10 +23,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. 8 'Tradición lucha libre'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch.net, en.wikipedia.org (WAR), prowrestlingonly — snippets); WebFetch bloqueado por egress"
 tags: [war-1992, gennichiro-tenryu-promotion, negro-casas, ultimo-dragon, junior-heavyweight, cross-tradition-mexico-japan, lucha-libre-tradition, casas-family-legacy, early-tenryu-war]
 ---
 
@@ -71,7 +72,9 @@ tags: [war-1992, gennichiro-tenryu-promotion, negro-casas, ultimo-dragon, junior
 ## Pendientes / huecos
 
 - [ ] **Fecha exacta** (notebook dice "1992" sin más detalle).
-- [ ] Ganador + finish + duración.
+      Candidato: **15 sep 1992**, WAR × WWF, Yokohama Arena [una fuente] — `fecha` del frontmatter no se tocó.
+- [x] Ganador + duración. → Ultimo Dragon d. Negro Casas, 14:55, show WAR × WWF del **15 sep 1992** en Yokohama Arena (Cagematch / Wikipedia *WAR*, vía snippets) [una fuente]. Identificación: único Casas vs Dragon en WAR 1992 localizado (el del 28 ago 1992 en Arena Coliseo es CMLL/UWA).
+- [ ] Finish (método).
 - [ ] **Quién consigue cinturón** si aplica (CMLL? WAR? etc).
 - [ ] Verbatim Negro Casas + Ultimo Dragon entrevistas
       retrospectivas.

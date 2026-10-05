@@ -5,8 +5,8 @@ participantes: ["Dominik Mysterio", "Finn Bálor (The Demon)"]
 empresa: "WWE"
 programa: "WrestleMania 42 Día 2"
 fecha: 2026-04-19
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Paradise, Nevada (área Las Vegas)"
+recinto: "Allegiant Stadium"
 tipo_match: "singles"
 estipulacion: "[verif]"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase declarada — 'la decepción de la noche', crítica dura al gimmick del Demon"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — WrestleMania 42 Día 2, 19/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cupo agotado antes de cubrir el show; sede según anuncio oficial WWE 2025, corroborada en dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md [T1: WWE.com]); WebFetch bloqueado por egress"
 tags: [dominik-mysterio, finn-balor, the-demon, wrestlemania-42, wm42-day-2, sin-clase, decepcion-de-la-noche, critica-de-gimmick]
 ---
 

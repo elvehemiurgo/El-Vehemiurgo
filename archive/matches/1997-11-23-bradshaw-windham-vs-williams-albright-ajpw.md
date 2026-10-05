@@ -14,8 +14,8 @@ recinto: "[verif]"
 tipo_match: "tag — texan + amateur shooter americans en AJPW heavyweight tag"
 estipulacion: "World's Strongest Tag Determination League 1997"
 duracion: ""
-finish: ""
-ganador: ""
+finish: "Pinfall (autor del fall no documentado) [una fuente]"
+ganador: "Gary Albright & Steve Williams [una fuente]"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -27,10 +27,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. Hipótesis Fighting Spirit Class del notebook lo cita como candidato canónico"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch.net, prowrestlinghistory.com — snippets); WebFetch bloqueado por egress"
 tags: [ajpw-1997, worlds-strongest-tag-league, bradshaw, barry-windham, steve-williams, gary-albright, gaijin-tag, heavyweight-shooting, fighting-spirit-class-candidate]
 ---
 
@@ -73,7 +74,8 @@ Spirit Class* del notebook como candidato canónico**.)
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador. → Gary Albright & Steve Williams d. Barry Windham & Justin Bradshaw por pinfall, RWTL 1997, 23 nov 1997 (Cagematch torneo RWTL 1997, vía snippet) [una fuente]
+- [ ] Finish exacto (quién toma el fall) + duración + recinto/ciudad.
 - [ ] Cobertura WON Meltzer AJPW nov 1997.
 - [ ] **Confirmar asignación Fighting Spirit Class** por el
       Vehemiurgo (candidato canónico).

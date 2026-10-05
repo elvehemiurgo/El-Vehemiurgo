@@ -3,10 +3,11 @@ nombre: "Jada Stone"
 tipo: fact-sheet
 categoria: people
 slug: "jada-stone"
-estado: stub
-ultima_actualizacion: 2026-07-09
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, impact.fandom, Fightful, Last Word on Pro Wrestling, Cageside Seats vía snippet); WebFetch bloqueado por egress"
 tags: [jada-stone, tna, performer-revelacion, babyface, descartada-the-future-2026, pronostico-falsable]
 ---
 
@@ -21,15 +22,26 @@ tags: [jada-stone, tna, performer-revelacion, babyface, descartada-the-future-20
 
 ## Identificación
 
-- **Nombre real**: [verif]
+- **Nombre real**: **Savannah Foxworth** [una fuente].
+- **Nacimiento**: **4/8/2003**, Columbia, Carolina del Sur [una fuente].
+- **Escuela**: Palmetto Wrestling Academy.
 - **Nombres de gimmick**: Jada Stone.
-- **Empresa actual**: TNA Wrestling [verif estatus contractual].
+- **Empresa actual (oct 2026)**: TNA Wrestling, bajo contrato.
 
 ## Trayectoria condensada
 
-- [verif — debut, trasfondo indie, llegada a TNA].
+- 31/10/2021 — debut in-ring; circuito indie del sureste de EE.UU.
+- Jun 2025 — taping de TNA Xplosion con **Mila Moore**; TNA anuncia
+  la firma de ambas [Fightful; Last Word on Pro Wrestling, 23/6/2025].
+  **Discrepancia**: Wikipedia (snippet) fecha el anuncio de su firma
+  en Impact del 13/11/2025 — posible anuncio on-air posterior
+  [no confirmado].
 - 27/3/2026 — showcase en el mixed tag de Sacrifice junto a Trey
   Miguel vs Ali & Tasha Steelz (FS + WE por lectura).
+- 27/8/2026 (Impact) — **finalista del torneo inaugural del TNA
+  Knockouts Television Championship**; cae ante **M by Elegance**
+  [Cageside Seats]. Dato a cruzar con el pronóstico falsable de
+  2026-07-09.
 
 ## Notas editoriales del Vehemiurgo
 

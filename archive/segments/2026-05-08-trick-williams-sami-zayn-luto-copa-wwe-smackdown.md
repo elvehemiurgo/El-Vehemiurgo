@@ -6,8 +6,8 @@ protagonistas: ["Trick Williams", "Sami Zayn", "Lil Yachty"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Jacksonville, Florida"
+recinto: "VyStar Veterans Memorial Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'este segmento se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom); WebFetch bloqueado por egress"
 tags: [trick-williams, sami-zayn, lil-yachty, wwe-smackdown-2026, wrestling-entertainment, gingerbread-man, luto, stone-cold-carisma, mjf-comparison, heel-psychology, must-see]
 ---
 

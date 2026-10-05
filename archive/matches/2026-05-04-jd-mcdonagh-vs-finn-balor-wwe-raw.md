@@ -5,22 +5,23 @@ participantes: ["JD McDonagh", "Finn Bálor", "Dominik Mysterio"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-04
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Omaha, Nebraska"
+recinto: "CHI Health Center"
 tipo_match: "singles — rematch, con interferencia de facción"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif — golpe con martillo dentro del cierre, calificado de accidentado]"
-ganador: "[verif — serie ahora 1-1 entre JD y Finn]"
+duracion: "11:45 [una fuente]"
+finish: "Liv Morgan le pasa a Roxanne Perez un martillo (campana según prowrestling.net), Perez golpea a Bálor y JD remata con headbutt para el pin"
+ganador: "JD McDonagh"
 referee: "[verif]"
 encuentros_previos: "JD McDonagh vs Finn Bálor, WWE Raw 20/4/2026 (Perfect Match, victoria de la que ahora se empata la serie)"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece todas las clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE Raw, 4/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
 tags: [jd-mcdonagh, finn-balor, dominik-mysterio, judgment-day, wwe-raw-2026, singles, rematch, perfect-wrestling, fighting-spirit, wrestling-entertainment, interferencia, golpe-de-martillo-accidentado, serie-1-1]
 ---
 
@@ -64,10 +65,10 @@ tags: [jd-mcdonagh, finn-balor, dominik-mysterio, judgment-day, wwe-raw-2026, si
 
 ## Pendientes
 
-- [ ] Finish exacto, duración, ciudad/recinto.
-- [ ] Ganador exacto de este encuentro (se sabe que la serie queda
-      1-1, pero no cuál de los dos ganó esta vez).
-- [ ] Participantes exactos de Judgment Day en la interferencia.
+- [x] Finish exacto, duración, ciudad/recinto. → golpe de Roxanne Perez con martillo (campana según prowrestling.net) + headbutt de JD; 11:45 [una fuente]; CHI Health Center, Omaha (WWE.com, Solowrestling, prowrestling.net)
+- [x] Ganador exacto de este encuentro (se sabe que la serie queda
+      1-1, pero no cuál de los dos ganó esta vez). → JD McDonagh (WWE.com, Solowrestling)
+- [x] Participantes exactos de Judgment Day en la interferencia. → Dominik Mysterio (en la esquina de JD), Liv Morgan y Roxanne Perez (WWE.com, prowrestling.net)
 
 ## Cross-links
 

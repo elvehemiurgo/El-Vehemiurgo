@@ -9,7 +9,7 @@ ciudad: "Sapporo, Hokkaido, Japón"
 recinto: "Nakajima Sports Center"
 tipo_match: "singles"
 estipulacion: "RINGS shoot-style rules (rounds, rope escapes, KO/submission)"
-duracion: "[verif]"
+duracion: "10:32 (Round 1) [una fuente]"
 finish: "Volk Han por submission (atrapa las piernas + armhold/double-wristlock sobre el brazo)"
 ganador: "Volk Han"
 referee: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Obra maestra — las 3 clases con creces (match 1 de la serie de 4)"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (tapology.com, handwerkreviews, josephmontecillo.com — snippets); WebFetch bloqueado por egress"
 tags: [volk-han, kiyoshi-tamura, rings, fighting-network-rings, akira-maeda-promotion, shoot-style, sambo-combat, uwf-i-lineage, pre-ufc-experimental-era, perfect-match, fighting-spirit, wrestling-entertainment, trilogia-han-tamura, 1996]
 ---
 
@@ -96,7 +97,7 @@ formato shoot-style RINGS.
   sobre el brazo cercano.
 - **Contexto**: **primer encuentro** de la serie; **única derrota de
   Tamura en su año debut RINGS** (venía invicto).
-- **Duración**: [verif — no aparece en snippets fiables].
+- **Duración**: 10:32, Round 1 (Tapology) [una fuente].
 
 ## Nota — lugar en la serie
 
@@ -112,6 +113,6 @@ fin vence. Serie completa y decisión en el
 - [x] Show / ciudad / recinto / ganador / finish (sub-agente 2026-06-17).
 - [x] Clase + visionado confirmados (Vehemiurgo 2026-06-17: los 4,
       triple clase).
-- [ ] Duración exacta (snippets no la dan).
+- [x] Duración exacta (snippets no la dan). → 10:32, Round 1, submission de Han (Tapology, vía snippet) [una fuente]
 - [ ] Card completa del Maelstrom VII.
 - [ ] Posición editorial WON sobre el match (contexto, no veredicto).

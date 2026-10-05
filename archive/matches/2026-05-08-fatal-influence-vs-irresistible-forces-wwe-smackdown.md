@@ -5,22 +5,23 @@ participantes: ["Jacy Jayne", "Fallon Henley", "Lainey Reid", "Alexa Bliss", "Rh
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Jacksonville, Florida"
+recinto: "VyStar Veterans Memorial Arena"
 tipo_match: "6-woman tag (3 vs 3)"
 estipulacion: "no title"
-duracion: "[verif]"
-finish: "[verif — cierre descrito como 'cool', las heels de Fatal Influence terminan over]"
-ganador: "[verif]"
+duracion: "9:57 [una fuente]"
+finish: "Rolling Encore de Jacy Jayne sobre Alexa Bliss para el pin; Jade Cargill en ringside saca a Rhea Ripley del ring"
+ganador: "Fatal Influence (Jacy Jayne, Fallon Henley & Lainey Reid)"
 referee: "[verif]"
 encuentros_previos: "debut del trío completo de Fatal Influence en el roster principal; primer choque con Irresistible Forces"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Wrestling + Fighting Spirit + Wrestling Entertainment — 'esta lucha se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
 tags: [fatal-influence, irresistible-forces, jacy-jayne, fallon-henley, lainey-reid, alexa-bliss, rhea-ripley, charlotte-flair, jade-cargill, wwe-smackdown-2026, perfect-wrestling, fighting-spirit, wrestling-entertainment, ring-positioning, heel-limb-work, guerra-de-tercias, debut-roster-principal]
 ---
 
@@ -88,7 +89,7 @@ tags: [fatal-influence, irresistible-forces, jacy-jayne, fallon-henley, lainey-r
 
 ## Pendientes
 
-- [ ] Finish exacto, duración, ciudad/recinto.
+- [x] Finish exacto, duración, ciudad/recinto. → Rolling Encore de Jacy a Bliss; 9:57 [una fuente]; VyStar Veterans Memorial Arena, Jacksonville (prowrestling.fandom, WWE.com, prowrestling.net)
 - [ ] Identificar el "crew" de Jade Cargill — [verif].
 - [ ] Seguir la rivalidad Lainey Reid vs Rhea Ripley.
 

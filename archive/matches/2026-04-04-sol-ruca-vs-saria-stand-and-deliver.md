@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE NXT"
 programa: "Stand & Deliver 2026"
 fecha: 2026-04-04
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Chesterfield, Missouri (área de St. Louis)"
+recinto: "The Factory at The District"
 tipo_match: "singles — blow-off post-traición Saria"
 estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "13:07"
+finish: "Sol Ruca escapa de la llave de Zaria con codazos, avalanche X-Factor y tercer Sol Snatcher para el pin"
+ganador: "Sol Ruca"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier NXT 2025-2026 Stand & Deliver callups"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia/snippets, POST Wrestling, Cageside Seats, 411mania); WebFetch bloqueado por egress"
 tags: [nxt-2026, stand-and-deliver-2026, sol-ruca, saria, traicion-blow-off, betrayal-payoff, womens-feud]
 ---
 
@@ -72,7 +73,7 @@ Cross-link editorial.)
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish + duración. → Sol Ruca, avalanche X-Factor + tercer Sol Snatcher, 13:07 (POST Wrestling / 411mania; Wikipedia vía snippet)
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST Wrestling.
 - [ ] **Asignación de clase del Vehemiurgo**.

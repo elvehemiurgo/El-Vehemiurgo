@@ -3,11 +3,12 @@ nombre: "Harley Hudson"
 tipo: fact-sheet
 categoria: people
 slug: harley-hudson
-estado: stub
-ultima_actualizacion: 2026-06-17
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #20 (*'grace & hudson lucieron geniales'*)"
   - "Lista personal verbatim: 2 entradas Harley Hudson 2025"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom, Fightful, Last Word on Pro Wrestling, Cageside Seats, WrestlingNewsSource vía snippet); WebFetch bloqueado por egress"
 tags: [harley-hudson, tna-knockouts-2025-2026, duo-con-myla-grace, grace-hudson-geniales]
 ---
 
@@ -22,9 +23,25 @@ tags: [harley-hudson, tna-knockouts-2025-2026, duo-con-myla-grace, grace-hudson-
 ## Identificación
 
 - **Nombre de gimmick**: **Harley Hudson**.
-- **Nombre real**: [verif].
-- **Empresa actual (2026)**: TNA Wrestling — Knockouts division.
-- **Dúo signature**: con **Myla Grace** ("Grace & Hudson").
+- **Nombre real**: **Lilli Pruden** [una fuente].
+- **Nacimiento**: **1/10/2002**, Liverpool, Inglaterra [una fuente].
+- **Empresa actual (oct 2026)**: TNA Wrestling — Knockouts division.
+- **Dúo signature**: con **Myla Grace** ("Grace & Hudson"); sin
+  nombre de equipo propio encontrado.
+
+## Trayectoria condensada
+
+- 2017 — debut profesional en el circuito británico.
+- 2017-2025 — indies del Reino Unido y EE.UU.: Futureshock, Iron
+  Girders, Phenomenal Elite, **Pro-Wrestling: EVE**, TNT Extreme,
+  **PROGRESS**, SHINE, entre otras.
+- May 2025 — TNA anuncia su firma, en paquete con **Myla Grace**
+  [Fightful / Last Word on Pro Wrestling].
+- 23/5/2025 (TNA Xplosion) — debut en TNA: vs **Myla Grace**,
+  empate por límite de tiempo; arranque de la historia que deriva en
+  dúo (Cageside Seats, 31/5/2025: *"ya tienen storyline"*).
+- 11/12/2025 y 26/3/2026 (Impact) — registros del dúo en el archivo
+  (ver abajo).
 
 ## Datos duros (preliminar)
 

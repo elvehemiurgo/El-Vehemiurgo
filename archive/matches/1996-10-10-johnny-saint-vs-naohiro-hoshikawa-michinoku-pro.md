@@ -9,9 +9,9 @@ ciudad: "Tokio, Japón"
 recinto: "Ryōgoku Kokugikan (New Sumo Hall)"
 tipo_match: "singles"
 estipulacion: "World of Sport Rules (Mountevans rounds rules)"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "11:03 (Round 4)"
+finish: "Johnny Saint por pinfall tras vertical suplex (puente sobre Hoshikawa), Round 4"
+ganador: "Johnny Saint"
 referee: "[verif]"
 attendance_anunciada: "[verif]"
 attendance_pagada: ""
@@ -23,9 +23,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — todas las clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa del match)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch.net, profightdb.com, puroresucentral.com, insidepulse.com — snippets); WebFetch bloqueado por egress"
 tags: [johnny-saint, naohiro-hoshikawa, michinoku-pro, michinoku-pro-3rd-anniversary, world-of-sport-rules, mountevans-rounds-rules, british-wrestling-cross-japan, perfect-match, fighting-spirit, wrestling-entertainment, 1996, panteon-vehemiurgo-saint]
 ---
 
@@ -109,8 +110,8 @@ de dejarla a la improvisación spot-a-spot.
 
 ## Pendientes de investigación
 
-- [ ] Venue / ciudad exacta del evento.
-- [ ] Duración del match y resultado (quién gana, por cuántas caídas).
+- [x] Venue / ciudad exacta del evento. → Ryōgoku Kokugikan, Tokyo; attendance 7.980; TV Gaora (Cagematch + ProFightDB, vía snippets)
+- [x] Duración del match y resultado (quién gana, por cuántas caídas). → Johnny Saint gana en el Round 4 (11:03) por pinfall tras vertical suplex (Puroresu Central / Inside Pulse review + Cagematch, vía snippets). Fue el último match de Saint en esa etapa (retiro anunciado 10/10/96).
 - [ ] Contexto de la visita de Saint a Michinoku Pro — gira, frecuencia,
       relación con Taka Michinoku u otra dirección.
 - [ ] Star rating WON si fue calificado (contexto, no veredicto).

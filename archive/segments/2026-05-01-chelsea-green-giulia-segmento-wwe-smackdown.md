@@ -6,8 +6,8 @@ protagonistas: ["Chelsea Green", "Giulia"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tulsa, Oklahoma"
+recinto: "BOK Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'el segmento de Chelsea fue muy cool [...] las 4 involucradas aquí están bien motivadas'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, WrestleTix); WebFetch bloqueado por egress"
 tags: [chelsea-green, giulia, wwe-smackdown-2026, sin-clase, segmento-coral, desarrollo-de-personaje]
 ---
 

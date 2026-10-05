@@ -5,22 +5,23 @@ participantes: ["The Miz", "Kit Wilson", "Danhausen", "Minihausen"]
 empresa: "WWE"
 programa: "Backlash"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tampa, Florida"
+recinto: "Benchmark International Arena"
 tipo_match: "tag team"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "11:38 [una fuente]"
+finish: "Kit Wilson empuja a Minihausen a la máquina de clonación y salen más Minihausens; el extintor de Miz le rebota a él y a Wilson, y Danhausen cierra con pump kick sobre Miz"
+ganador: "Danhausen & Minihausen"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Wrestling + Fighting Spirit + Wrestling Entertainment — 'se merece todas las clases [...] legitimamente brillante'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s43 (visión directa — WWE Backlash, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, wrestleview, voicesofwrestling, rajah, ESPN, SI, POST Wrestling, Wrestling Inc); WebFetch bloqueado por egress"
 tags: [the-miz, kit-wilson, pretty-deadly, danhausen, minihausen, wwe-backlash-2026, tag-team, perfect-wrestling, fighting-spirit, wrestling-entertainment, entertainment-autosuficiente, gimmick-comico, legitimamente-brillante]
 ---
 
@@ -61,7 +62,7 @@ tags: [the-miz, kit-wilson, pretty-deadly, danhausen, minihausen, wwe-backlash-2
 - [x] ~~Confirmar identidad de "Kip"~~ → **RESUELTO (s45)**: es
       **Kit Wilson** (Pretty Deadly); *"Kip"* fue error de
       escritura del Vehemiurgo.
-- [ ] Finish, ganador, duración, ciudad/recinto.
+- [x] Finish, ganador, duración, ciudad/recinto. → pump kick de Danhausen a Miz tras el extintor rebotado; 11:38 [una fuente]; Benchmark International Arena, Tampa (POST Wrestling, Wrestling Inc, WWE.com)
 - [ ] Contexto de la rivalidad (cómo se llegó a este tag).
 
 ## Cross-links

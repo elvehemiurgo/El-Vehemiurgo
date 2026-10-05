@@ -3,12 +3,13 @@ nombre: "Elayna Black"
 tipo: fact-sheet
 categoria: people
 slug: elayna-black
-estado: stub
-ultima_actualizacion: 2026-07-13
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-13 s01"
   - "Volcado Vehemiurgo 2026-07-11 s03 (vs Myla Grace)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed): cayó vs Mara Sadé en Sacrifice"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Fightful, Wrestling Inc., SI.com, Ringside News, Yahoo Sports vía snippet); WebFetch bloqueado por egress"
 tags: [elayna-black, tna, knockouts, no-emociona-in-ring, sabe-usar-el-gimmick, doctrina-gimmick-extension-del-artista]
 ---
 
@@ -22,12 +23,23 @@ tags: [elayna-black, tna, knockouts, no-emociona-in-ring, sabe-usar-el-gimmick, 
 
 ## Identificación
 
-- **Nombre real**: [verif].
-- **Nombres de gimmick**: Elayna Black.
-- **Empresa actual**: TNA Wrestling — Knockouts division.
+- **Nombre real**: **Brianna Coda**.
+- **Nacimiento**: **14/1/2001**, Chicago, Illinois (EE.UU.) [snippet Wikipedia].
+- **Nombres de gimmick**: **Elayna Black** (indies 2018-2021 y TNA
+  desde 2026); **Cora Jade** (WWE, 2021-2025).
+- **Escuela**: Freelance Wrestling Academy (Chicago).
+- **Empresa actual (oct 2026)**: TNA Wrestling — Knockouts division.
 
 ## Trayectoria condensada
 
+- 9/12/2018 — debut profesional como Elayna Black.
+- Jul 2019 — gana el torneo Zen of Women's Athletics (ZOWA); circuito
+  indie: ZOWA, RISE, Shimmer, apariciones en Impact y AEW Dark.
+- Ene 2021 — firma con WWE; rebautizada **Cora Jade**, debuta en
+  205 Live y pasa a NXT.
+- 15/1/2026 (Impact) — debut en TNA como Elayna Black, **primera
+  contratación de la nueva figura de autoridad Daria Rae** (ex-Sonya
+  Deville) [Wrestling Inc. / Fightful vía snippet].
 - 27/3/2026 (Sacrifice) — cayó vs Mara Sadé, No DQ
   [research 2026-07-09].
 - 9/4/2026 (Impact) — vs Myla Grace

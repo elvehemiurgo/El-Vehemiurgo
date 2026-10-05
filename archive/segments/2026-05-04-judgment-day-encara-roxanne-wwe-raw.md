@@ -6,8 +6,8 @@ protagonistas: ["Roxanne Perez"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-04
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Omaha, Nebraska"
+recinto: "CHI Health Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'este segmento se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE Raw, 4/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, wrestleview, eWrestling); WebFetch bloqueado por egress"
 tags: [judgment-day, roxanne-perez, wwe-raw-2026, wrestling-entertainment, formula-bloodline, reality-y-wrestling-tradicional]
 ---
 

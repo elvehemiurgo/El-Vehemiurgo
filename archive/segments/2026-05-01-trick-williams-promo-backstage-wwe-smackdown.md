@@ -6,8 +6,8 @@ protagonistas: ["Trick Williams"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tulsa, Oklahoma"
+recinto: "BOK Center"
 ubicacion_en_show: "backstage"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'top tier promo, se merece el enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, WrestleTix); WebFetch bloqueado por egress"
 tags: [trick-williams, wwe-smackdown-2026, wrestling-entertainment, promo, mic-work, el-negocio-personificado]
 ---
 

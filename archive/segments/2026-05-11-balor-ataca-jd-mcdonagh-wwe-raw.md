@@ -6,8 +6,8 @@ protagonistas: ["Finn Bálor", "JD McDonagh"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Knoxville, Tennessee"
+recinto: "Thompson-Boling Arena"
 ubicacion_en_show: "antes del match de Dominik Mysterio"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'quedó muy cool, se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE Raw, 11/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, wrestleview); WebFetch bloqueado por egress"
 tags: [finn-balor, jd-mcdonagh, wwe-raw-2026, wrestling-entertainment, ataque-sorpresa, serie-1-1]
 ---
 

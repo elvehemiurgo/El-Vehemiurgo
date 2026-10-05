@@ -5,22 +5,23 @@ participantes: ["Kiana James", "Tiffany Stratton"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Jacksonville, Florida"
+recinto: "VyStar Veterans Memorial Arena"
 tipo_match: "singles — alrededor del título US"
 estipulacion: "no title directo, pero centrada en la campeona US"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "8:02 [una fuente]"
+finish: "Prettiest Moonsault Ever de Tiffany Stratton"
+ganador: "Tiffany Stratton (retiene)"
 referee: "[verif]"
 encuentros_previos: "primer encuentro registrado; contexto de confusiones con Giulia de fondo"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece el fighting spirit [...] merece el enterteinment class tambien'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
 tags: [kiana-james, tiffany-stratton, wwe-smackdown-2026, singles, fighting-spirit, wrestling-entertainment, stiff, ultima-oportunidad, giulia, midcard-nutrido, us-championship]
 ---
 
@@ -73,7 +74,8 @@ tags: [kiana-james, tiffany-stratton, wwe-smackdown-2026, singles, fighting-spir
 - [x] ~~Identificar "KLR"~~ → **RESUELTO (s44)**: KLR = Kay Lee
       Ray = **Alba Fyre** (misma persona; sigla de su ring name
       previo). Fuera del roster según el dictado.
-- [ ] Finish/duración/ciudad/recinto.
+- [x] Finish/duración/ciudad/recinto. → Prettiest Moonsault Ever; 8:02 [una fuente]; VyStar Veterans Memorial Arena, Jacksonville (prowrestling.fandom, Solowrestling, wrestleview)
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `estipulacion` "no title directo" vs las fuentes: fue defensa del **WWE Women's United States Championship**, Tiffany Stratton retiene (prowrestling.fandom, prowrestling.net, wrestleview).
 
 ## Cross-links
 

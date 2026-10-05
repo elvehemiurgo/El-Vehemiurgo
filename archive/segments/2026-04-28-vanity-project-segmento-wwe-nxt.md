@@ -6,8 +6,8 @@ protagonistas: ["Jackson Drake", "Blake Monroe"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-04-28
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'me gusta la actitud y las promos, estan experimentando y realmente usandolos como personalidades de tv, son el futuro'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, eWrestling); WebFetch bloqueado por egress"
 tags: [vanity-project, jackson-drake, blake-monroe, wwe-nxt-2026, sin-clase, personalidades-de-tv, the-future]
 ---
 

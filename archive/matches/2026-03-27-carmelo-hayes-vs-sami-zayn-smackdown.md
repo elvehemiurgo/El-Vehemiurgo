@@ -7,12 +7,12 @@ participantes:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-03-27
-ciudad: ""
-recinto: ""
+ciudad: "Pittsburgh, Pennsylvania"
+recinto: "PPG Paints Arena"
 tipo_match: "singles"
 estipulacion: ""
-duracion: ""
-finish: "Sami Zayn def. Carmelo Hayes — finish con helluva kick into first 48 (verificar secuencia exacta)"
+duracion: "16:14 [una fuente]"
+finish: "Sami Zayn def. Carmelo Hayes (c) — United States Open Challenge; Trick Williams interfiere, Zayn esquiva y el golpe de Trick impacta a Hayes; Helluva Kick y pin. Title change: Zayn nuevo United States Champion"
 ganador: "Sami Zayn"
 referee: ""
 attendance_anunciada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Empieza con tropiezos, segunda mitad increíble. Helluva kick into first 48 awesome"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-03-27 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch snippet, POST Wrestling, PWTorch, AXS/WrestleTix, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, carmelo-hayes, sami-zayn, helluva-kick, first-48]
 ---
 
@@ -66,8 +67,9 @@ tags: [wwe-2026, smackdown, carmelo-hayes, sami-zayn, helluva-kick, first-48]
 
 ## Pendientes / huecos
 
-- [ ] Recinto, ciudad, attendance, rating SmackDown 2026-03-27.
-- [ ] Duración exacta.
+- [x] Recinto, ciudad → PPG Paints Arena, Pittsburgh, Pennsylvania (Cagematch snippet, AXS)
+- [ ] Attendance (Cagematch reporta 11,526 sin precisar si es pagada), rating SmackDown 2026-03-27.
+- [x] Duración exacta. → 16:14 (Cagematch vía snippet) [una fuente]
 - [ ] Storyline previo + follow-up.
 - [ ] Cobertura PWTorch / POST / Cornette del show.
 - [ ] Asignación de clase del Vehemiurgo.

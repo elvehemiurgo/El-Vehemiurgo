@@ -5,22 +5,23 @@ participantes: ["Asuka", "Iyo Sky"]
 empresa: "WWE"
 programa: "Backlash"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tampa, Florida"
+recinto: "Benchmark International Arena"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "18:07 [una fuente]"
+finish: "Over The Moonsault de Iyo Sky"
+ganador: "Iyo Sky"
 referee: "[verif]"
 encuentros_previos: "múltiples encuentros previos entre ambas [pendiente catalogar]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit — 'se merece un fighting spirit, hubiera sido la lucha perfecta, pero se sobre expusieron con los strikes'"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s43 (visión directa — WWE Backlash, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, wrestleview, voicesofwrestling, rajah, ESPN, SI); WebFetch bloqueado por egress"
 tags: [asuka, iyo-sky, wwe-backlash-2026, singles, fighting-spirit, stiff, sobreexposicion-de-strikes, casi-perfect-match, booking-aburrido]
 ---
 
@@ -66,7 +67,7 @@ tags: [asuka, iyo-sky, wwe-backlash-2026, singles, fighting-spirit, stiff, sobre
 
 ## Pendientes
 
-- [ ] Finish, ganador, duración, ciudad/recinto.
+- [x] Finish, ganador, duración, ciudad/recinto. → Iyo Sky con Over The Moonsault; 18:07 [una fuente]; Benchmark International Arena, Tampa (WWE.com, wrestleview, rajah)
 - [ ] Catalogar los encuentros previos entre Asuka e Iyo Sky que
       el Vehemiurgo da por conocidos.
 - [ ] Contexto del booking que califica de aburrido.

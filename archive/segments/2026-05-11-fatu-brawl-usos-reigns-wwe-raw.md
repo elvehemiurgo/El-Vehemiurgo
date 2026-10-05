@@ -6,8 +6,8 @@ protagonistas: ["Jacob Fatu", "Roman Reigns"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Knoxville, Tennessee"
+recinto: "Thompson-Boling Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'se merece un enterteinment class este segmento'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE Raw, 11/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, wrestleview); WebFetch bloqueado por egress"
 tags: [jacob-fatu, roman-reigns, the-usos, wwe-raw-2026, wrestling-entertainment, brawl, doctrina-monster-heel-que-no-es-monstruo, combustible-unico, linaje-anoai]
 ---
 

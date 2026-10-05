@@ -6,8 +6,8 @@ protagonistas: []
 empresa: "WWE"
 programa: "Backlash"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tampa, Florida"
+recinto: "Benchmark International Arena"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'estuvo increible, se merece el enterteinment class, estuvo histórico'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s43 (visión directa — WWE Backlash, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, wrestleview, voicesofwrestling, rajah, ESPN, SI); WebFetch bloqueado por egress"
 tags: [wwe-backlash-2026, wrestling-entertainment, video-de-produccion, apertura-de-ppv, historico]
 ---
 

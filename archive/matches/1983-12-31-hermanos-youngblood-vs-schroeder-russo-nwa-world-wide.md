@@ -9,13 +9,13 @@ participantes:
 empresa: "NWA Jim Crockett Promotions"
 programa: "NWA World Wide Wrestling"
 fecha: 1983-12-31
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Shelby, NC [una fuente]"
+recinto: "Shelby Recreation Center [una fuente]"
 tipo_match: "tag — territorial period peak, hermanos faces vs heels generic foreign-types"
 estipulacion: ""
 duracion: ""
 finish: ""
-ganador: ""
+ganador: "Mark & Jay Youngblood"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -27,10 +27,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. 6 del notebook 'Territorial deep dives (1983–1984)' contextualiza"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (thehistoryofwwe.com, midatlanticgateway.com — snippets); WebFetch bloqueado por egress"
 tags: [nwa-1983, jim-crockett-promotions, world-wide-wrestling, hermanos-youngblood, jay-youngblood, mark-youngblood, territorial-period, native-american-gimmick, hans-schroeder, joe-russo, tag-team-territorial]
 ---
 
@@ -77,7 +78,8 @@ editorial del territorial period.)
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador. → Mark & Jay Youngblood derrotan a Hans Schroeder & Russo (thehistoryofwwe.com, WW 12/24 + 12/31/83, vía snippet). Taping: Shelby Recreation Center, NC, dic 1983 (Mid-Atlantic Gateway, vía snippet) [una fuente].
+- [ ] Finish + duración.
 - [ ] Cobertura Tim Hornbaker *NWA: The Untold Story* (libro)
       sobre el periodo Crockett 1983.
 - [ ] Verbatim disponible? Probablemente footage YouTube /

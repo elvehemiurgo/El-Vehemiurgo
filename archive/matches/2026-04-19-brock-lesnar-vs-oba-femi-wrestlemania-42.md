@@ -7,8 +7,8 @@ participantes:
 empresa: "WWE"
 programa: "WrestleMania 42 Día 2"
 fecha: 2026-04-19
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Paradise, Nevada (área Las Vegas)"
+recinto: "Allegiant Stadium"
 tipo_match: "singles — Brock return + pass-over rub al monster heel emergente"
 estipulacion: "[verif]"
 duracion: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'histórico [...] se merece un enterteinment class y el fighting spirit, top tier wrestling, muy basado muy fundamental'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WrestleMania 42 cluster"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cupo agotado antes de cubrir el show; sede según anuncio oficial WWE 2025, corroborada en dossiers/draft-stakes-irreversibles-americanos-vs-drew-fatu.md [T1: WWE.com]); WebFetch bloqueado por egress"
 tags: [wrestlemania-42, wm42-day-2, brock-lesnar, oba-femi, brock-return, pass-over-rub, monster-vs-monster, heyman-management]
 ---
 

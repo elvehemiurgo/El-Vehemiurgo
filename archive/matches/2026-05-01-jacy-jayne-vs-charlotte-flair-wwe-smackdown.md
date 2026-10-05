@@ -5,11 +5,11 @@ participantes: ["Jacy Jayne", "Charlotte Flair"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tulsa, Oklahoma"
+recinto: "BOK Center"
 tipo_match: "singles"
 estipulacion: "no title"
-duracion: "[verif]"
+duracion: "10:05"
 finish: "Jacy Jayne gana (tremendo pin en secuencia final)"
 ganador: "Jacy Jayne"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'esta lucha se merece el fighting spirit y enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
 tags: [jacy-jayne, charlotte-flair, fatal-influence, wwe-smackdown-2026, singles, fighting-spirit, wrestling-entertainment, booking-protector, emboscada-post-match]
 ---
 
@@ -71,7 +72,7 @@ tags: [jacy-jayne, charlotte-flair, fatal-influence, wwe-smackdown-2026, singles
 
 ## Pendientes
 
-- [ ] Ciudad/recinto, duración exacta, finish técnico completo.
+- [x] Ciudad/recinto, duración exacta, finish técnico completo. → BOK Center, Tulsa, Oklahoma; 10:05; Fallon Henley rompe el Figure-Eight de Charlotte y Jacy cierra con Rolling Encore (prowrestling.fandom, WWE.com, F4W)
 - [ ] Detalle de la emboscada post-match (participantes exactos).
 
 ## Cross-links

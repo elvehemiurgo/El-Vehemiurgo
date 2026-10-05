@@ -5,11 +5,11 @@ participantes: ["Lizzy Rain", "Nikkita Lyons"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-04-28
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles — debut de Lizzy Rain"
 estipulacion: "no title"
-duracion: "[verif]"
+duracion: "4:19 / 4:17 según fuente"
 finish: "Lizzy Rain gana con Thunder Struck"
 ganador: "Lizzy Rain"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'esta lucha se merece el enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
 tags: [lizzy-rain, nikkita-lyons, wwe-nxt-2026, singles, debut, wrestling-entertainment, cantera-australiana, thunder-struck, dude-love, ric-flair]
 ---
 
@@ -72,7 +73,7 @@ tags: [lizzy-rain, nikkita-lyons, wwe-nxt-2026, singles, debut, wrestling-entert
 
 ## Pendientes
 
-- [ ] Ciudad/recinto, duración exacta.
+- [x] Ciudad/recinto, duración exacta. → WWE Performance Center, Orlando; 4:19 / 4:17 según fuente (WWE.com, eWrestling, PWTorch)
 - [ ] Detalle técnico del Thunder Struck.
 
 ## Cross-links

@@ -5,11 +5,11 @@ participantes: ["Cody Rhodes", "Ricky Saints"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tulsa, Oklahoma"
+recinto: "BOK Center"
 tipo_match: "singles"
 estipulacion: "no title"
-duracion: "[verif]"
+duracion: "9:00 [una fuente]"
 finish: "Cody Rhodes gana con Cross Rhodes"
 ganador: "Cody Rhodes"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece la fighting spirit y enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
 tags: [cody-rhodes, ricky-saints, wwe-smackdown-2026, singles, fighting-spirit, wrestling-entertainment, brecha-de-nivel, fundamentos, cross-rhodes]
 ---
 
@@ -62,7 +63,7 @@ tags: [cody-rhodes, ricky-saints, wwe-smackdown-2026, singles, fighting-spirit, 
 
 ## Pendientes
 
-- [ ] Ciudad/recinto, duración exacta.
+- [x] Ciudad/recinto, duración exacta. → BOK Center, Tulsa, Oklahoma; 9:00 [una fuente] (prowrestling.fandom, WWE.com, CBS Sports)
 
 ## Cross-links
 

@@ -5,8 +5,8 @@ participantes: ["Mason Rook"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-05
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "debut [verif — singles o tag]"
 estipulacion: "[verif]"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'buen debut, su debut en NXT se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, episodio a confirmar)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, Fightful, F4W, thechairshot, Solowrestling); WebFetch bloqueado por egress"
 tags: [mason-rook, wwe-nxt-2026, debut, wrestling-entertainment, fecha-verif, no-binarie, flying-tank]
 ---
 
@@ -56,6 +57,7 @@ por su primera promo in-ring. Ver
 - [ ] **Prioridad: confirmar el episodio exacto** — hipótesis NXT
       5/5/2026, [verif].
 - [ ] Rival(es), tipo de match, finish, duración.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra un debut en match el 5/5/2026 vs las fuentes: el 5/5 **no hubo match de Rook** — tras el main event (Tony D'Angelo vs Tavion Heights) ataca a D'Angelo y Heights y revela el nombre Mason Rook (ex Will Kroos); primera aparición atacando a D'Angelo ya el **28/4/2026**; debut in-ring el **19/5/2026** (con Kam Hendrix vs D'Angelo & Myles Borne) (WWE.com, Fightful, F4W). Decidir episodio y tipo de ficha.
 
 ## Cross-links
 

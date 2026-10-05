@@ -6,8 +6,8 @@ protagonistas: ["Ricky Saints", "Cody Rhodes"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tulsa, Oklahoma"
+recinto: "BOK Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'este segmento se merece el enterteinments class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, WrestleTix); WebFetch bloqueado por egress"
 tags: [ricky-saints, cody-rhodes, wwe-smackdown-2026, debut, main-roster, wrestling-entertainment, rick-rude, heel, mic-work]
 ---
 

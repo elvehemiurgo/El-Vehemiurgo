@@ -5,22 +5,23 @@ participantes: ["Rayo", "Bravo", "Jackson Drake", "Blake Monroe", "El Grande Ame
 empresa: "WWE"
 programa: "NXT Stand & Deliver 2026 [fecha inferida por flujo narrativo, no confirmada]"
 fecha: 2026-04-04
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Chesterfield, Missouri (área de St. Louis)"
+recinto: "The Factory at The District"
 tipo_match: "tag team"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif] — incluye interferencia/topetazo de El Grande Americano ringside"
-ganador: "[verif]"
+duracion: "13:27"
+finish: "Jackson Drake da un cheap shot a Bravo a espaldas del réferi; reverse DDT + double stomp desde la segunda cuerda de Smokes y Baylor sobre Bravo, pin de Ricky Smokes. Antes: El Grande Americano (Nuevo) le pasa a Bravo una placa metálica para la máscara (Smokes la intercepta) y le da un cabezazo a Drake; Smokes lo saca con un dive"
+ganador: "The Vanity Project (Ricky Smokes & Brad Baylor) — retienen NXT Tag Team Championship"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece todas las clases, el nivel es increíble'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s36 (visión directa)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia/snippets, POST Wrestling, Fightful, 411mania); WebFetch bloqueado por egress"
 tags: [rayo, bravo, jackson-drake, blake-monroe, vanity-project, el-grande-americano, wwe-nxt-2026, tag-team, perfect-wrestling, fighting-spirit, wrestling-entertainment, real-no-cosplay]
 ---
 
@@ -55,9 +56,10 @@ tags: [rayo, bravo, jackson-drake, blake-monroe, vanity-project, el-grande-ameri
 
 ## Pendientes
 
-- [ ] Confirmar fecha exacta (inferida por flujo narrativo como
-      Stand & Deliver 4/4/2026, no declarada explícitamente).
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Confirmar fecha exacta (inferida por flujo narrativo como
+      Stand & Deliver 4/4/2026, no declarada explícitamente). → confirmada: Vanity Project vs Los Americanos (Bravo & Rayo) con El Grande Americano ringside fue en Stand & Deliver, 4/4/2026 (POST Wrestling, Fightful)
+- [x] Finish + duración + ciudad/recinto. → pin de Ricky Smokes tras reverse DDT + double stomp sobre Bravo, previo cheap shot de Jackson Drake; 13:27; The Factory at The District, Chesterfield, Missouri (POST Wrestling; Wikipedia vía snippet)
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha lista como participantes a Jackson Drake y Blake Monroe vs Rayo & Bravo, vs las fuentes: el equipo de Vanity Project en el ring fue **Ricky Smokes & Brad Baylor**, con Jackson Drake interviniendo desde afuera (POST Wrestling, Fightful). Blake Monroe no figura en los reportes de este match.
 
 ## Cross-links
 

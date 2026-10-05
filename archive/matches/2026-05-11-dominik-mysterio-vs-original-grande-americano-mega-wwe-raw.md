@@ -5,11 +5,11 @@ participantes: ["Dominik Mysterio", "El Grande Americano Original", "Ludwig Kais
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-05-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Knoxville, Tennessee"
+recinto: "Thompson-Boling Arena"
 tipo_match: "singles — defensa titular"
 estipulacion: "AAA Mega Championship"
-duracion: "[verif]"
+duracion: "9:04 [una fuente]"
 finish: "Dominik Mysterio retiene gracias a El Grande Americano (Ludwig Kaiser)"
 ganador: "Dominik Mysterio (retiene)"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece el enterteinment class y el fighting spirit class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE Raw, 11/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, wrestleview); WebFetch bloqueado por egress"
 tags: [dominik-mysterio, original-grande-americano, ludwig-kaiser, el-grande-americano, wwe-raw-2026, aaa-mega-championship, crossover-aaa-wwe, fighting-spirit, wrestling-entertainment, historico, promocion-cruzada]
 ---
 
@@ -86,7 +87,7 @@ favor del campeón. Ver
 
 ## Pendientes
 
-- [ ] Duración, ciudad/recinto, finish técnico exacto.
+- [x] Duración, ciudad/recinto, finish técnico exacto. → 9:04 [una fuente]; Thompson-Boling Arena, Knoxville; Dominik conecta el 619 al "Original" para retener (WWE.com, prowrestling.fandom, wrestleview)
 - [ ] Identidad bajo la máscara del Original — [verif].
 
 ## Cross-links

@@ -11,7 +11,7 @@ ciudad: "Moline, IL"
 recinto: "The Mark"
 tipo_match: "singles — feud blow-off (Kimberly Page storyline)"
 estipulacion: "[verif]"
-duracion: ""
+duracion: "16:56"
 finish: "[verif] — DDP wins"
 ganador: "DDP"
 referee: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal (2026-05-09)"
   - "Sec. Hipótesis Wrestling Entertainment Class del notebook lo cita como candidato"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (en.wikipedia.org, fandom wikis, tjrwrestling.net, handwerkreviews — snippets); WebFetch bloqueado por egress"
 tags: [wcw-1997, great-american-bash-1997, randy-savage, ddp, kimberly-page-storyline, nwo-era, talent-graduation, wrestling-entertainment-class-candidate]
 ---
 
@@ -84,7 +85,9 @@ canónico.)
 
 ## Pendientes / huecos
 
-- [ ] Finish + duración exactos.
+- [x] Duración. → 16:56 (Wikipedia *The Great American Bash (1997)* + fandom wikis, vía snippets)
+- [ ] Finish exacto — ver discrepancia.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha da ganador **DDP**; las fuentes dan **Randy Savage** ganador en **Falls Count Anywhere**: DDP conecta Diamond Cutter, Scott Hall interfiere con Outsider's Edge y Savage cierra con flying elbow drop (Wikipedia *GAB 1997* + bwwe/wrestlepedia fandom, vía snippets). DDP gana el primer match en Spring Stampede 1997 — posible cruce de los dos PPV.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Buyrate Great American Bash 1997**.
 - [ ] Cobertura Cornette / Conrad Thompson *Something to

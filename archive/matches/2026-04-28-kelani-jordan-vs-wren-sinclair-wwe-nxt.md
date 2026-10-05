@@ -5,22 +5,23 @@ participantes: ["Kelani Jordan", "Wren Sinclair"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-04-28
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles — midcard"
 estipulacion: "no title"
-duracion: "[verif]"
-finish: "[verif — Wren se lastima una pierna durante la lucha]"
-ganador: "[verif]"
+duracion: "10:55 / 10:58 según fuente"
+finish: "One Of A Kind (split-legged moonsault) de Kelani Jordan, tras ceder la rodilla lesionada de Wren al intentar el Final Wrench"
+ganador: "Kelani Jordan"
 referee: "[verif]"
 encuentros_previos: "feud escalando desde inicios de abril 2026 (PWTorch: 'Kelani Jordan brutalizes Wren Sinclair in stunning fashion')"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece un fighting spirit y enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
 tags: [kelani-jordan, wren-sinclair, wwe-nxt-2026, singles, midcard, fighting-spirit, wrestling-entertainment, rvd-influencia, heel-limb-work, developmental-style]
 ---
 
@@ -74,7 +75,7 @@ tags: [kelani-jordan, wren-sinclair, wwe-nxt-2026, singles, midcard, fighting-sp
 
 ## Pendientes
 
-- [ ] Finish exacto, duración, ciudad/recinto.
+- [x] Finish exacto, duración, ciudad/recinto. → split-legged moonsault de Kelani tras fallarle la rodilla a Wren en el Final Wrench; 10:55 / 10:58 según fuente; WWE Performance Center, Orlando (WWE.com, POST Wrestling, Fightful)
 - [ ] Gravedad real de la lesión de pierna de Wren dentro de la
       lucha (angle vs legítima) — [verif].
 

@@ -6,8 +6,8 @@ protagonistas: ["Jacy Jayne", "Fallon Henley", "Lainey Reid", "Alexa Bliss", "Rh
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Jacksonville, Florida"
+recinto: "VyStar Veterans Memorial Arena"
 ubicacion_en_show: "previo al 3v3"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'esta primera interacción estuvo cool, buenos heels, buen conflicto'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom); WebFetch bloqueado por egress"
 tags: [fatal-influence, irresistible-forces, jacy-jayne, fallon-henley, lainey-reid, alexa-bliss, rhea-ripley, charlotte-flair, wwe-smackdown-2026, sin-clase, booking-protector, hostilidad-rhea-charlotte]
 ---
 

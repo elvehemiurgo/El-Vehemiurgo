@@ -5,22 +5,23 @@ participantes: ["The Birthright"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-12
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "six-man tag (3 vs 3)"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "12:57 [una fuente]"
+finish: "pinfall de BirthRight [mecanismo exacto sin confirmar]"
+ganador: "BirthRight (Charlie Dempsey, Channing \"Stacks\" Lorenzo & Uriah Connors)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'se merece un enterteinment class, buena ejecución, pero verde en varios aspectos'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, 12/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, Fightful, prowrestling.net, rajah); WebFetch bloqueado por egress"
 tags: [birthright, lexis-king, uriah-connors, charlie-dempsey, wwe-nxt-2026, six-man-tag, wrestling-entertainment, verde-desarrollo]
 ---
 
@@ -53,8 +54,9 @@ tags: [birthright, lexis-king, uriah-connors, charlie-dempsey, wwe-nxt-2026, six
 
 ## Pendientes
 
-- [ ] Composición exacta de ambos tríos — [verif].
-- [ ] Finish, ganadores, duración, ciudad/recinto.
+- [x] Composición exacta de ambos tríos → BirthRight: Charlie Dempsey, Channing "Stacks" Lorenzo & Uriah Connors (con Arianna Grace y Lexis King en su esquina) vs Sean Legacy, EK Prosper & Tate Wilder (prowrestling.fandom, Solowrestling)
+- [x] Ganadores, duración, ciudad/recinto → BirthRight por pinfall; 12:57 [una fuente]; WWE Performance Center, Orlando (prowrestling.fandom, Solowrestling, rajah)
+- [ ] Finish exacto (mecanismo del pin).
 - [ ] Abrir ficha de facción `promotions/birthright.md` cuando el
       Vehemiurgo le dé take propio.
 

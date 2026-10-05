@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-03-27
-ciudad: ""
-recinto: ""
+ciudad: "Pittsburgh, Pennsylvania"
+recinto: "PPG Paints Arena"
 tipo_match: "singles"
 estipulacion: ""
-duracion: ""
-finish: "Pendiente. Highlight de Tiffany: swanton (verificar contexto)"
-ganador: ""
+duracion: "9:45 [una fuente]"
+finish: "Giulia (con Kiana James) def. Tiffany Stratton — non-title; distracción de Kiana James cuando Tiffany sube por el Prettiest Moonsault Ever, Giulia levanta las rodillas y gana por pin"
+ganador: "Giulia"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Nice match con un par de botches horribles, cool Giulia match, stiffness apreciable, swanton de Tiffany se vio increíble"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-03-27 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch snippet, Fightful, PWTorch, POST Wrestling, WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, giulia, tiffany-stratton, stiff-work, swanton]
 ---
 
@@ -77,8 +78,9 @@ parcial pero no asignado.)
 
 ## Pendientes / huecos
 
-- [ ] Recinto, attendance, rating.
-- [ ] Duración exacta, ganador específico.
+- [x] Recinto → PPG Paints Arena, Pittsburgh, Pennsylvania (Cagematch snippet, AXS)
+- [ ] Attendance, rating.
+- [x] Duración exacta, ganador específico. → Giulia, non-title, rodillas arriba ante el Prettiest Moonsault Ever tras distracción de Kiana James (Fightful, WWE.com); 9:45 (Cagematch vía snippet) [una fuente — el mismo tiempo aparece asignado al tag Bellas vs Bliss & Flair en otro snippet; contrastar]
 - [ ] Identificar los botches específicos (preservar para análisis
       editorial).
 - [ ] Storyline previo + follow-up.

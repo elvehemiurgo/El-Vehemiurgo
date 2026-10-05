@@ -5,22 +5,23 @@ participantes: ["Jacob Fatu", "Roman Reigns"]
 empresa: "WWE"
 programa: "Backlash"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tampa, Florida"
+recinto: "Benchmark International Arena"
 tipo_match: "singles — main event"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "17:50 / 18:02 según fuente"
+finish: "Reigns estampa a Fatu contra el esquinero expuesto y lo remata con un tercer spear para el pin; post-match Fatu aplica el Tongan Death Grip"
+ganador: "Roman Reigns (retiene el World Heavyweight Championship)"
 referee: "[verif]"
 encuentros_previos: "escalada desde Raw 27/4/2026 (cierre 'no estás listo') y firma de contrato Raw 4/5/2026"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece el fighting spirit y enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s43 (visión directa — WWE Backlash, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, wrestleview, voicesofwrestling, rajah, ESPN, SI); WebFetch bloqueado por egress"
 tags: [jacob-fatu, roman-reigns, wwe-backlash-2026, main-event, fighting-spirit, wrestling-entertainment, tongan-death-grip, linaje-anoai, primos-kayfabe, lado-rebelde, near-falls]
 ---
 
@@ -69,8 +70,8 @@ tags: [jacob-fatu, roman-reigns, wwe-backlash-2026, main-event, fighting-spirit,
 
 ## Pendientes
 
-- [ ] Finish, ganador, duración, ciudad/recinto.
-- [ ] Estipulación exacta del main event.
+- [x] Finish, ganador, duración, ciudad/recinto. → Reigns retiene: esquinero expuesto + tercer spear; 17:50 / 18:02 según fuente; Benchmark International Arena, Tampa (WWE.com, SI, ESPN, Yahoo)
+- [x] Estipulación exacta del main event. → World Heavyweight Championship, Reigns campeón defensor (WWE.com, ESPN)
 - [ ] Momento preciso en que se establece el parentesco on-screen.
 
 ## Cross-links

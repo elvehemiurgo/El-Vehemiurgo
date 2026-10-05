@@ -6,8 +6,8 @@ protagonistas: ["Mason Rook", "Tony D'Angelo"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-12
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "a flying tank (autodescripción de Mason Rook)"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'SU participación en este segmento se merece un enterteinment class' (clase acotada a Mason Rook, no al segmento completo)"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, 12/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, Fightful, prowrestling.net, rajah); WebFetch bloqueado por egress"
 tags: [mason-rook, tony-dangelo, wwe-nxt-2026, wrestling-entertainment, clase-parcial, no-binarie, flying-tank, italiano-gangster, camada-nueva]
 ---
 

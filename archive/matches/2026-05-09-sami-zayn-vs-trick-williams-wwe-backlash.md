@@ -5,22 +5,23 @@ participantes: ["Sami Zayn", "Trick Williams", "Lil Yachty"]
 empresa: "WWE"
 programa: "Backlash"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tampa, Florida"
+recinto: "Benchmark International Arena"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif — con payoff declarado satisfactorio]"
-ganador: "[verif]"
+duracion: "12:56 [una fuente]"
+finish: "Trick Williams esquiva el Helluva Kick y conecta el Trick Shot para el pin"
+ganador: "Trick Williams (retiene el WWE United States Championship)"
 referee: "[verif]"
 encuentros_previos: "escalada desde SmackDown 8/5/2026 (segmento de la copa y el luto)"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Wrestling + Fighting Spirit + Wrestling Entertainment — 'se merece todas las clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s43 (visión directa — WWE Backlash, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, wrestleview, voicesofwrestling, rajah, ESPN, SI); WebFetch bloqueado por egress"
 tags: [sami-zayn, trick-williams, lil-yachty, wwe-backlash-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, inversion-ventaja-del-veterano, psicologia-de-heel, payoff, doctrina-booking]
 ---
 
@@ -88,8 +89,8 @@ ortodoxia que este archivo defiende.
 
 ## Pendientes
 
-- [ ] Finish exacto, ganador, duración, ciudad/recinto.
-- [ ] Estipulación del match.
+- [x] Finish exacto, ganador, duración, ciudad/recinto. → Trick Shot de Trick tras esquivar el Helluva Kick; 12:56 [una fuente]; Benchmark International Arena, Tampa (WWE.com, wrestleview, rajah)
+- [x] Estipulación del match. → WWE United States Championship, Trick Williams campeón defensor (WWE.com, wrestleview)
 - [ ] Detalle del papel puntual de Lil Yachty dentro de la lucha.
 
 ## Cross-links

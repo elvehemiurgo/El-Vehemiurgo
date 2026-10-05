@@ -6,8 +6,8 @@ protagonistas: ["Jacy Jayne"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-05-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tulsa, Oklahoma"
+recinto: "BOK Center"
 ubicacion_en_show: "previo al match vs Charlotte Flair"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — build/promo previa al match, sin fórmula de clase declarada"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, WrestleTix); WebFetch bloqueado por egress"
 tags: [jacy-jayne, fatal-influence, wwe-smackdown-2026, sin-clase, oklahoma-verif, booking-protector, fallon-henley, lainey-reid]
 ---
 
@@ -67,8 +68,8 @@ tags: [jacy-jayne, fatal-influence, wwe-smackdown-2026, sin-clase, oklahoma-veri
 
 ## Pendientes
 
-- [ ] Confirmar sede del SmackDown 1/5/2026 (hipótesis: show en
-      Oklahoma, promo = cheap heat a la plaza, no una rival).
+- [x] Confirmar sede del SmackDown 1/5/2026 (hipótesis: show en
+      Oklahoma, promo = cheap heat a la plaza, no una rival). → sede confirmada: BOK Center, Tulsa, Oklahoma (prowrestling.fandom, WrestleTix, bokcenter.com)
 - [ ] Contenido exacto de la promo.
 
 ## Cross-links

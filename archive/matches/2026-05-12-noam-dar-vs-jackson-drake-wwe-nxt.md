@@ -5,22 +5,23 @@ participantes: ["Noam Dar", "Jackson Drake"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-12
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles — regreso de Noam Dar"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "10:21 [una fuente]"
+finish: "Myka Lockwood (Vanity Project) tira del pantalón de Dar a espaldas del réferi; Drake conecta running knee + 450 splash para el pin"
+ganador: "Jackson Drake"
 referee: "[verif]"
 encuentros_previos: "primer encuentro registrado"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'sería la lucha perfecta, pero se ve que Jackson todavía no sabe improvisar cuando se salen de ruta'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, 12/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, Fightful, prowrestling.net, rajah); WebFetch bloqueado por egress"
 tags: [noam-dar, jackson-drake, dr-thirst, wwe-nxt-2026, singles, fighting-spirit, wrestling-entertainment, doctrina-aspereza-y-friccion, improvisacion, casi-perfect-match, regreso]
 ---
 
@@ -79,7 +80,7 @@ puntual, sin que la crítica a Drake reste al conjunto.
 
 ## Pendientes
 
-- [ ] Finish, ganador, duración, ciudad/recinto.
+- [x] Finish, ganador, duración, ciudad/recinto. → Jackson Drake con running knee + 450 splash tras la interferencia de Myka Lockwood; 10:21 [una fuente]; WWE Performance Center, Orlando (Solowrestling, prowrestling.fandom, rajah)
 - [ ] Contexto del regreso de Noam Dar (duración de la ausencia).
 - [ ] Origen del gimmick "Dr. Thirst" de Jackson Drake.
 

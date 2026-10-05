@@ -7,13 +7,13 @@ participantes:
 empresa: "[verif — Vehemiurgo dictó AJPW (Giant Baba 1972+) — sub-agente confirmar (Stan Hansen working Japan 1975 era brief vs Japan-USA rotation peak)]"
 programa: "[verif — AJPW Giant Series 1975 tour probable]"
 fecha: 1975-10-30
-ciudad: "[verif — Japan]"
-recinto: "[verif]"
+ciudad: "Tokyo, Japón"
+recinto: "Kuramae Kokugikan"
 tipo_match: "singles — **gaijin vs gaijin** Japan tour (rara composición: dos extranjeros enfrentados sin face japonés intermediario). Stan Hansen velocidad + explosivo vs Destroyer llaveo imposible de superar"
 estipulacion: "[verif — probable standard singles tour match Japan]"
 duracion: "[verif — Vehemiurgo declara *'match corto pero inolvidable'*]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "The Destroyer por submission con figure-four leglock [una fuente]"
+ganador: "The Destroyer [una fuente]"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "TRIPLE-CLASE OPERATIVA: Perfect Wrestling Class + Fighting Spirit Class + Wrestling Entertainment Class (asignada explícitamente — 'se merece todas las clases')"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial 2026-05-10"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch.net, puroresu.com, retrowrasslin.com — snippets); WebFetch bloqueado por egress"
 tags: [ajpw-1975-tentative, stan-hansen-pre-lariat-peak, the-destroyer-dick-beyer, gaijin-vs-gaijin-japan-tour, llaveo-a-ras-de-lona, match-corto-inolvidable, triple-clase-operativa-quinto-registro, vehemiurgo-todas-las-clases, lariat-top-tier-cluster-cross-link, japan-post-guerra-cluster, sec-2-claudemd, sub-agente-destroyer-research-pending]
 ---
 
@@ -231,8 +232,9 @@ ejecución es perfecta.
 - [ ] **Empresa exacta** — Vehemiurgo dictó AJPW. Sub-agente
       research pendiente confirmar (Stan Hansen Japan 1975
       trajectory pre-peak).
-- [ ] **Recinto + ciudad exactos**.
-- [ ] **Estipulación + finish + ganador + duración exactos**.
+- [x] **Recinto + ciudad exactos**. → Kuramae Kokugikan, Tokyo (Cagematch + puroresu.com + Retro Wrasslin', vía snippets; show AJPW Giant Series 1975, último día de gira)
+- [x] **Finish + ganador**. → The Destroyer gana por submission con figure-four leglock (Retro Wrasslin', *All Japan Retro #5*) [una fuente]
+- [ ] **Estipulación + duración exactos**.
 - [ ] **Star rating WON Meltzer** (contexto histórico).
 - [ ] **Cobertura TV Japan** confirmación.
 - [ ] **Stan Hansen Japan tour 1975 context** — early career

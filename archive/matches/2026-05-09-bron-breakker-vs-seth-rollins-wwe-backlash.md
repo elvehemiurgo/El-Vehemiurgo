@@ -5,22 +5,23 @@ participantes: ["Bron Breakker", "Seth Rollins"]
 empresa: "WWE"
 programa: "Backlash"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Tampa, Florida"
+recinto: "Benchmark International Arena"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "21:26 [una fuente]"
+finish: "Distracción de Austin Theory y Logan Paul; Breakker contrarresta un Stomp desde la segunda cuerda con spear para el pin"
+ganador: "Bron Breakker"
 referee: "[verif]"
 encuentros_previos: "primer encuentro registrado; advertencia editorial previa en s39"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'la decepción [...] todo esto fue un error'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE Backlash, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, wrestleview, voicesofwrestling, rajah, ESPN, SI); WebFetch bloqueado por egress"
 tags: [bron-breakker, seth-rollins, wwe-backlash-2026, singles, sin-clase, decepcion-booking, sobreproteccion, error-booking, indie-mark-critica]
 ---
 
@@ -67,7 +68,7 @@ tags: [bron-breakker, seth-rollins, wwe-backlash-2026, singles, sin-clase, decep
 
 ## Pendientes
 
-- [ ] Finish/duración/ciudad/recinto.
+- [x] Finish/duración/ciudad/recinto. → spear de Breakker contrarrestando el Stomp tras distracción de Theory y Logan Paul; 21:26 [una fuente]; Benchmark International Arena, Tampa (WWE.com, wrestleview, rajah)
 - [ ] Estipulación exacta del match.
 - [ ] Seguir la evolución del booking de Breakker en shows
       posteriores.
