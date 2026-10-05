@@ -6,8 +6,8 @@ protagonistas: ["Kevin Knight", "Kenny Omega"]
 empresa: "AEW"
 programa: "Redemption"
 fecha: 2026-07-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Montreal, Quebec, Canadá"
+recinto: "Bell Centre"
 ubicacion_en_show: "previo al match"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'estuvo increible, top tier, se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., Wrestleview); WebFetch bloqueado por egress"
 tags: [kevin-knight, kenny-omega, aew-redemption-2026, wrestling-entertainment, video-de-produccion, top-tier, build-payoff]
 ---
 
@@ -48,7 +49,8 @@ y
 
 ## Pendientes
 
-- [ ] Contenido exacto del video + duración.
+- [x] Ciudad/recinto → Montreal, Quebec, Canadá, Bell Centre (research 2026-10-05).
+- [ ] Contenido exacto del video + duración — no reportados por las fuentes accesibles.
 
 ## Cross-links
 

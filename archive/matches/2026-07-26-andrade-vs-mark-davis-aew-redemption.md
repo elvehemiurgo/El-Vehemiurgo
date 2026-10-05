@@ -5,22 +5,23 @@ participantes: ["Andrade", "Mark Davis"]
 empresa: "AEW"
 programa: "Redemption"
 fecha: 2026-07-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Montreal, Quebec, Canadá"
+recinto: "Bell Centre"
 tipo_match: "singles — grudge match"
 estipulacion: "[verif]"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Codo giratorio y DDT (Andrade)"
+ganador: "Andrade (nuevo AEW National Champion)"
 referee: "[verif]"
 encuentros_previos: "grudge — historia previa [verif detalle]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'esta lucha se merece las 3 clases, que pros'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, POST Wrestling, Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [andrade, mark-davis, aew-redemption-2026, singles, grudge-match, perfect-wrestling, fighting-spirit, wrestling-entertainment, mejor-tv-andrade, coronacion, heroe-fundamental-43]
 ---
 
@@ -67,7 +68,8 @@ tags: [andrade, mark-davis, aew-redemption-2026, singles, grudge-match, perfect-
 
 ## Pendientes
 
-- [ ] Finish, ganador, duración, ciudad/recinto.
+- [x] Finish, ganador, ciudad/recinto → codo giratorio + DDT, Andrade nuevo AEW National Champion; Montreal, Quebec, Canadá, Bell Centre (research 2026-10-05, Fightful/POST Wrestling).
+- [ ] Duración — ninguna fuente accesible la reporta.
 - [ ] Origen exacto del grudge entre Andrade y Mark Davis — [verif].
 
 ## Cross-links

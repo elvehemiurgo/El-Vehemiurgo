@@ -5,22 +5,23 @@ participantes: ["Jay White", "Juice Robinson", "David Finlay", "Clark Connors"]
 empresa: "AEW"
 programa: "Redemption"
 fecha: 2026-07-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Montreal, Quebec, Canadá"
+recinto: "Bell Centre"
 tipo_match: "tag team — dog collar match"
 estipulacion: "dog collar match"
 duracion: "[verif]"
 finish: "[verif]"
-ganador: "[verif]"
+ganador: "The Dogs (David Finlay & Clark Connors)"
 referee: "[verif]"
 encuentros_previos: "rivalidad Guns/Dogs; escalada desde el golpe con la cadena de David Finlay"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'se merece un enterteinment class', con crítica extensa de timing de la estipulación"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., Wrestleview, Yahoo Sports); WebFetch bloqueado por egress"
 tags: [jay-white, juice-robinson, david-finlay, clark-connors, aew-redemption-2026, tag-team, dog-collar-match, wrestling-entertainment, critica-booking-timing-estipulacion, estipulacion-prematura, bang-bang-gang, the-dogs]
 ---
 
@@ -104,7 +105,9 @@ plazo, no sobre la ejecución del match en sí.
 
 ## Pendientes
 
-- [ ] Finish, ganador, duración, ciudad/recinto.
+- [x] Ganador + ciudad/recinto → The Dogs (Finlay & Connors); Montreal, Quebec, Canadá, Bell Centre (research 2026-10-05, Wrestling Inc./Wrestleview).
+- [ ] Finish exacto + duración — no reportados por las fuentes accesibles.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra la estipulación como "dog collar match" (nombre de archivo y `estipulacion`), pero múltiples coberturas (Wrestling Inc., Wrestleview, PWTorch, ProWrestling.net) la llaman **"Double Chain Match"** / "Tag Team Double Chain Match" — no "dog collar". El volcado verbatim del Vehemiurgo tampoco usa "dog collar" literalmente, solo "cadenas". Posible error de nomenclatura heredado; no se renombra el archivo por esta ley.
 - [x] ~~Lectura de alianza cruzada~~ → **CORREGIDO (s47, por el
       Vehemiurgo)**: no hay alianza cruzada — **Finlay & Connors
       SON The Dogs** (War Dogs del linaje Bullet Club), contra Jay

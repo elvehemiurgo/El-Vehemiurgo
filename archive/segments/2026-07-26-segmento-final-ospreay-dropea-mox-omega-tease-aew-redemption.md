@@ -6,8 +6,8 @@ protagonistas: ["Will Ospreay", "Jon Moxley", "Kenny Omega"]
 empresa: "AEW"
 programa: "Redemption"
 fecha: 2026-07-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Montreal, Quebec, Canadá"
+recinto: "Bell Centre"
 ubicacion_en_show: "cierre del show"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — pieza narrativa evaluada como retcon y proyección, no por ejecución técnica"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., Wrestleview); WebFetch bloqueado por egress"
 tags: [will-ospreay, jon-moxley, kenny-omega, death-riders, aew-redemption-2026, sin-clase, payoff-arco-critico, retcon, aj-styles-paralelismo, cuatro-pilares, cierre-arco-s10-s33, ataque-post-match]
 ---
 
@@ -93,7 +94,8 @@ y los Bucks puede ponerse cool"*.
 
 ## Pendientes
 
-- [ ] Contenido exacto del segmento + duración.
+- [x] Ciudad/recinto → Montreal, Quebec, Canadá, Bell Centre (research 2026-10-05).
+- [ ] Contenido exacto del segmento + duración — no reportados por las fuentes accesibles.
 - [ ] Detalle técnico del ataque post-match.
 - [ ] Naturaleza exacta del paralelismo con AJ Styles — [verif]
       cita textual o visual concreta.

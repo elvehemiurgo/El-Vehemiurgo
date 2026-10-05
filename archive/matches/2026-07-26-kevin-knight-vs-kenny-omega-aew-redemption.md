@@ -5,22 +5,23 @@ participantes: ["Kevin Knight", "Kenny Omega"]
 empresa: "AEW"
 programa: "Redemption"
 fecha: 2026-07-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Montreal, Quebec, Canadá"
+recinto: "Bell Centre"
 tipo_match: "singles"
 estipulacion: "[verif]"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Omega contraataca un leaping lariat con una rodilla en el aire y remata con One-Winged Angel — pinfall"
+ganador: "Kenny Omega (retiene el AEW World Championship)"
 referee: "[verif]"
 encuentros_previos: "escalada desde la interrupción de celebración (15/7/2026) y el ataque go-home (22/7/2026)"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., POST Wrestling); WebFetch bloqueado por egress"
 tags: [kevin-knight, kenny-omega, aew-redemption-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, doctrina-estilo-propio-vs-imponer-el-rival, bron-breakker-cross-marca, heel-heavyweight-oldschool, power-move, strong-style-critica]
 ---
 
@@ -89,7 +90,8 @@ Triple clase limpia, sin reservas. Ver
 
 ## Pendientes
 
-- [ ] Finish, ganador, duración, ciudad/recinto.
+- [x] Finish, ganador, ciudad/recinto → Omega contraataca un leaping lariat con rodilla en el aire y remata con One-Winged Angel, retiene el título; Montreal, Quebec, Canadá, Bell Centre (research 2026-10-05, Wrestling Inc./POST Wrestling).
+- [ ] Duración — ninguna fuente accesible la reporta.
 
 ## Cross-links
 

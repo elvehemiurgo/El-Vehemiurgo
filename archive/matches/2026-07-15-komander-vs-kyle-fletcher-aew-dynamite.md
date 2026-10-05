@@ -5,22 +5,23 @@ participantes: ["Komander", "Kyle Fletcher"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-07-15
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Boston, Massachusetts"
+recinto: "MGM Music Hall"
 tipo_match: "singles"
 estipulacion: "[verif]"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Brainbuster (Fletcher)"
+ganador: "Kyle Fletcher (retiene el AEW International Championship)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece las 3 clases, estuvo muy dura'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s33 (visión directa — AEW Dynamite, 15/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, Bleacher Report, eWrestling, TicketNews); WebFetch bloqueado por egress"
 tags: [komander, kyle-fletcher, aew-dynamite-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, oldschool-en-estilo-indie, foreshadowing-okada]
 ---
 
@@ -62,7 +63,8 @@ tags: [komander, kyle-fletcher, aew-dynamite-2026, singles, perfect-wrestling, f
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + ganador + ciudad/recinto → Brainbuster, Kyle Fletcher retiene el AEW International Championship; Boston, Massachusetts, MGM Music Hall (research 2026-10-05, Fightful/eWrestling).
+- [ ] Duración exacta — ninguna fuente accesible la reporta.
 
 ## Cross-links
 

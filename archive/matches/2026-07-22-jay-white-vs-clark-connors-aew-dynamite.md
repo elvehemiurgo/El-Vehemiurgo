@@ -5,12 +5,12 @@ participantes: ["Jay White", "Clark Connors"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-07-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Nashville, Tennessee"
+recinto: "The Pinnacle"
 tipo_match: "singles — comeback match"
 estipulacion: "[verif]"
 duracion: "[verif]"
-finish: "[verif] — victoria de Jay White"
+finish: "Jay White revierte un Spear de Connors en una guillotine choke"
 ganador: "Jay White"
 referee: "[verif]"
 encuentros_previos: "[verif] — Connors 'intentando lesionarlo otra vez' implica agresión previa"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s34 (visión directa — AEW Dynamite, 22/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wrestlingnoticias, PWTorch, eWrestling); WebFetch bloqueado por egress"
 tags: [jay-white, clark-connors, aew-dynamite-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, bullet-club-generaciones, comeback-match, debut-de-movimientos]
 ---
 
@@ -60,7 +61,8 @@ tags: [jay-white, clark-connors, aew-dynamite-2026, singles, perfect-wrestling, 
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + ciudad/recinto → guillotine choke sobre un Spear revertido; Nashville, Tennessee, The Pinnacle (research 2026-10-05, wrestlingnoticias/PWTorch).
+- [ ] Duración — ninguna fuente accesible la reporta.
 - [ ] Nombre de la nueva sumisión debutada.
 - [ ] Agravio previo de Connors ("otra vez") — [verif].
 - [ ] Aclarar relación exacta Bang Bang Gang / The Guns / The Dogs
