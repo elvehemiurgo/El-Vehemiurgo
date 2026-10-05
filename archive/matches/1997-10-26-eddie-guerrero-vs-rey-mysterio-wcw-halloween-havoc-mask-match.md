@@ -12,7 +12,7 @@ recinto: "MGM Grand Garden Arena"
 tipo_match: "singles — Title vs Mask Match (WCW Cruiserweight Championship)"
 estipulacion: "Title vs Mask — Eddie defendiendo WCW Cruiserweight Title vs Rey arriesgando máscara"
 duracion: ""
-finish: "[verif] — Rey wins via Hurricanrana → pin"
+finish: "Rey revierte un Razor's Edge/Splash Mountain desde la tercera cuerda en avalanche hurricanrana para el pin — gana el Título y conserva la máscara"
 ganador: "Rey Mysterio Jr."
 referee: ""
 attendance_anunciada: ""
@@ -20,10 +20,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 8 'Tradición lucha libre' + linaje Eddie/Rey"
   - "Wrestling Observer Newsletter 1997 + múltiples retrospectivas"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (TJRWrestling, WrestleZone, 411mania); WebFetch bloqueado por egress"
 tags: [wcw-1997, halloween-havoc-1997, eddie-guerrero, rey-mysterio-jr, wcw-cruiserweight-championship, mask-match, lucha-libre-revival-wcw, las-vegas, modern-classic, eddie-rey-rivalry-cumbre]
 ---
 
@@ -78,7 +79,7 @@ cluster lucha tradition.
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración + secuencia.
+- [x] Finish exacto → avalanche hurricanrana revirtiendo Razor's Edge/Splash Mountain desde la tercera cuerda (TJRWrestling, WrestleZone). Duración + secuencia completa minuto a minuto siguen pendientes.
 - [ ] Star rating WON Meltzer (contexto histórico — Meltzer
       le dio ★★★★★ y es uno de sus highest-rated WCW matches).
 - [ ] **Buyrate Halloween Havoc 1997**.

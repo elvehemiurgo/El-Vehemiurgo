@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy bueno, como en los mejores tiempos, es épico este versus, con esos stakes y todos los segmentos, les quedó increíble"
 clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-20
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-20 s03 (visión directa — MLW Slaughterhouse, 4/10/2025, timestamp 02:15:12)"
   - "Sub-agente research-mlw-slaughterhouse-041025 (research 2026-09-20) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (resultados Symphony of Horrors 25/10/2025); WebFetch bloqueado por egress"
 tags: [mlw-2025, slaughterhouse, austin-aries, mistico, opera-cup-2025, wrestling-entertainment-plus, brainbuster, siembra-de-semifinal]
 ---
 
@@ -73,7 +74,9 @@ de la semifinal del Opera Cup 2025 entre ambos.
 ## Pendientes
 
 - [ ] Línea textual/reacción exacta del público.
-- [ ] Resultado de la semifinal Aries vs Místico.
+- [x] Resultado de la semifinal → Místico derrota a Austin Aries por
+      pinfall en 15:57 (MLW Symphony of Horrors, 25/10/2025; research
+      2026-10-05, WebSearch).
 
 ## Cross-links
 

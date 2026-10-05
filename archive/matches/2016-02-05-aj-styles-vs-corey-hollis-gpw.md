@@ -7,22 +7,23 @@ participantes:
 empresa: "GPW (Georgia Pro Wrestling / All-American Wrestling — verificar)"
 programa: "GPW indie show 2016"
 fecha: 2016-02-05
-ciudad: "[verif] — Georgia presunción"
+ciudad: "Canton, GA"
 recinto: "[verif]"
 tipo_match: "singles — AJ late indie pre-WWE signing"
 estipulacion: ""
 duracion: ""
 finish: ""
-ganador: ""
+ganador: "AJ Styles"
 referee: ""
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 9 'AJ Styles arc completo'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (handwerkreviews, GWH News and Notes blogs); WebFetch bloqueado por egress"
 tags: [aj-styles-arc, gpw-2016, corey-hollis, late-indie-pre-wwe, post-njpw-bullet-club, georgia-indie-circuit, pre-royal-rumble-2016-debut]
 ---
 
@@ -54,7 +55,7 @@ tags: [aj-styles-arc, gpw-2016, corey-hollis, late-indie-pre-wwe, post-njpw-bull
 
 - [ ] **Verificar promotora exacta** (GPW = Georgia Pro?
       All-American? otro acrónimo?).
-- [ ] Ganador + finish + duración.
+- [x] Ciudad hallada → Canton, GA (handwerkreviews, GWH News and Notes). Ganador → AJ Styles. Recinto exacto, finish y duración siguen pendientes.
 - [ ] Verbatim AJ entrevistas sobre periodo transición indie/WWE
       ene-mar 2016.
 

@@ -11,7 +11,7 @@ ciudad: "**Tokyo (Sendagaya, Shibuya)**"
 recinto: "**Tokyo Metropolitan Gymnasium**"
 tipo_match: "singles — **NWA International Heavyweight Championship 2/3 falls**, Rikidōzan defendiendo"
 estipulacion: "**2 out of 3 falls** — NWA International Heavyweight Championship"
-duracion: "[verif duración exacta pendiente — Cagematch HTTP 403]"
+duracion: "28:39 [una fuente — Cagematch, vía snippet de búsqueda]"
 finish: "**Rikidōzan retiene** via count-out — caída decisiva: Rikidōzan aplica belly-to-belly suplex al Destroyer al exterior, vuelve al ring antes del 20-count, deja al gaijin afuera"
 ganador: "**Rikidōzan** retiene NWA International Heavyweight Championship"
 referee: "[verif]"
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "TRIPLE-CLASE OPERATIVA: Perfect Wrestling Class + Fighting Spirit Class + Wrestling Entertainment Class (asignada explícitamente — 'se merece todas las clases')"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial 2026-05-10"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch); WebFetch bloqueado por egress"
   - "Sub-agente rikidozan-vs-destroyer-jwa-60s-research-2026 (dossier 2026-05-10, research closed)"
   - "Internet Archive: rikidozanvs.thedestroyerjwa + supreme_showa_rikidozan"
   - "YouTube: d0xXw7yjeVM + Ul6J78avAAc + dom63ZEkdnI"
@@ -173,7 +174,8 @@ nacionalista post-guerra.
 
 ## Pendientes residuales (post-research)
 
-- [ ] **Duración exacta** match 2 dic 1963.
+- [x] **Duración exacta** match 2 dic 1963 → 28:39 (Cagematch, una fuente).
+- [ ] **Referee** — no hallado en snippets disponibles.
 - [ ] **WON star rating retrospectivo** (Meltzer rara vez
       calificó retro material JWA pre-1970).
 - [ ] **Pat O'Connor + Verne Gagne + Bruno Sammartino** gaijins

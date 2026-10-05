@@ -8,12 +8,12 @@ empresa: "IWC (International Wrestling Cartel)"
 programa: "IWC indie 2004 (fecha exacta pendiente)"
 fecha: 2004-01-01
 ciudad: "Pittsburgh PA (territorio IWC)"
-recinto: "[verif]"
+recinto: "CCAC South Campus, West Mifflin PA (área metro Pittsburgh)"
 tipo_match: "singles — AJ indie peak vs Homicide ROH/CZW notable"
 estipulacion: ""
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "23:30"
+finish: "AJ Styles pinea a Homicide (defendiendo el IWC Super Indy Championship)"
+ganador: "AJ Styles (retiene IWC Super Indy Championship)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. 9 del notebook 'AJ Styles arc completo (indie a WWE)' contextualiza esta entrada"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (iwcwrestling.com resultados oficiales); WebFetch bloqueado por egress"
 tags: [iwc-2004, aj-styles, homicide, indie-peak, aj-styles-arc-completo, pittsburgh-territorio, indie-2000s-classic]
 ---
 
@@ -70,8 +71,8 @@ tags: [iwc-2004, aj-styles, homicide, indie-peak, aj-styles-arc-completo, pittsb
 
 ## Pendientes / huecos
 
-- [ ] **Fecha exacta** (2004 sin más detalle en lista personal).
-- [ ] Ganador + finish + duración.
+- [x] **Fecha exacta hallada**: 2004-04-17, evento IWC *"A Gangsta's Retribution"* (iwcwrestling.com resultados oficiales) — **no se modifica el campo `fecha` del frontmatter** (fuera del alcance de este lote de datos duros, pendiente para la sesión principal).
+- [x] Ganador + finish + duración → AJ Styles pinea a Homicide en 23:30, retiene IWC Super Indy Championship (iwcwrestling.com).
 - [ ] Star rating WON Meltzer (probable cubierto en indie
       column).
 - [ ] Verbatim AJ Styles entrevistas retrospectivas sobre periodo
