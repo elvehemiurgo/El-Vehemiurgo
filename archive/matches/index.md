@@ -414,7 +414,7 @@ con cada cambio de estado.
 | 2026-04-04 | Rayo & Bravo vs Vanity Project | WWE / NXT Stand & Deliver 2026 [fecha inferida por flujo narrativo, no confirmada] | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md) |
 | 2026-04-04 | Sol Ruca vs Saria | WWE NXT / Stand & Deliver 2026 | — | — | en-investigacion | 1 | [→](2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
 | 2026-04-04 | Team Japón vs Team Puerto Rico | AAA / AAA Worldwide | FS·WE | FC | en-investigacion | 1 | [→](2026-04-04-team-japon-vs-team-pr-aaa-worldwide.md) |
-| 2026-04-04 | 3 contra 3 de equipos europeos (Axiom en bandos opuestos) | AAA / AAA Worldwide | WE | — | en-investigacion | 1 | [→](2026-04-04-tres-contra-tres-europeo-axiom-aaa-worldwide.md) |
+| 2026-04-04 | Team Europe vs Team UK (Axiom en bandos opuestos) | AAA / AAA Worldwide | WE | — | en-investigacion | 1 | [→](2026-04-04-tres-contra-tres-europeo-axiom-aaa-worldwide.md) |
 | 2026-04-02 | Arianna Grace vs Xia Brookside | TNA Wrestling / iMPACT! | — | — | stub | 1 | [→](2026-04-02-arianna-grace-vs-xia-brookside-tna-impact.md) |
 | 2026-04-02 | Eight-man tag — Ali, Agent Zero, Eddie Edwards & Cedric Alexander vs Santana, Slater, Trey Miguel & Moose | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | verificado | 1 | [→](2026-04-02-multi-man-opener-tna-impact.md) |
 | 2026-04-01 | MJF vs Speedball Mike Bailey | AEW (All Elite Wrestling) / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
@@ -600,8 +600,8 @@ con cada cambio de estado.
 | 2007-05-13 | Christian Cage vs Kurt Angle vs Sting | TNA / Sacrifice 2007 | — | — | en-investigacion | 1 | [→](2007-05-13-christian-vs-angle-vs-sting-tna-sacrifice.md) |
 | 2007-05-13 | James Storm vs Chris Harris — AMW split blow-off | TNA / Sacrifice 2007 | — | — | en-investigacion | 1 | [→](2007-05-13-james-storm-vs-chris-harris-tna-sacrifice.md) |
 | 2007-05-13 | Samoa Joe vs AJ Styles | TNA / Sacrifice 2007 | — | — | en-investigacion | 1 | [→](2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md) |
+| 2006-09-17 | AJ Styles y Team TNA vs. Los Vipers | AAA / Verano de Escándalo 2006 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md) |
 | 2006-08-25 | Ikuto Hidaka & Minoru Fujita (c) vs MCMG (Alex Shelley & Chris Sabin) | ZERO1-MAX / Tenka-Ichi Junior 2006 Tag 2 | — | — | en-investigacion | 1 | [→](2006-08-25-mcmg-vs-hidaka-fujita-zero1-max.md) |
-| 2006-01-01 | AJ Styles y Team TNA vs. Los Vipers | AAA / Verano de Escándalo 2006 (fecha exacta pendiente) | PW·FS·WE | ICC | en-investigacion | 1 | [→](2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md) |
 | 2005-05-16 | Christian vs Ric Flair | WWE / Raw | — | — | en-investigacion | 1 | [→](2005-05-16-christian-vs-ric-flair-wwe-raw.md) |
 | 2005-04-25 | Christian (w/ Triple H) vs Batista | WWE / Monday Night Raw | — | — | en-investigacion | 0 | [→](2005-04-25-christian-cage-vs-batista-raw.md) |
 | 2005-04-04 | Christian vs Chris Jericho vs Shelton Benjamin — triple threat | WWE / Raw | — | — | en-investigacion | 1 | [→](2005-04-04-christian-vs-jericho-vs-benjamin-triple-threat-wwe-raw.md) |
