@@ -7,7 +7,7 @@ empresa: "CZW"
 programa: "The Wolf of Wrestling"
 fecha: 2017-10-14
 ciudad: "Sewell, New Jersey"
-recinto: "[verif]"
+recinto: "Rastelli Complex"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El opening video estuvo genial, MJF elevando el producto, muy buen hype, me parece destacable el show; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s25 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, The Wolf of Wrestling)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Apple TV/Cagematch listing); WebFetch bloqueado por egress"
 tags: [czw-2017, wolf-of-wrestling, mjf, danny-havoc, video-package, wrestling-entertainment, vehemiurgia-czw]
 ---
 

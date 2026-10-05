@@ -6,11 +6,11 @@ empresa: "CZW"
 programa: "The Wolf of Wrestling"
 fecha: 2017-10-14
 ciudad: "Sewell, New Jersey"
-recinto: "[verif]"
+recinto: "Rastelli Complex"
 tipo_match: "fatal 4-way"
 estipulacion: "sin título en juego"
 duracion: "[verif]"
-finish: "[verif — visto en video]"
+finish: "JT Dunn cubre con el Death By Elbow (rolling elbow) [una fuente]"
 ganador: "JT Dunn"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Gran lucha de JT Dunn, cool verlo con el push para su personaje de pro wrestling saviour; buen showcase de talentos; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s25 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, The Wolf of Wrestling)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWPonderings results, Apple TV/Cagematch listing); WebFetch bloqueado por egress"
 tags: [czw-2017, wolf-of-wrestling, jt-dunn, tier-0, john-silver, trey-miguel, space-monkey, roaring-elbow, wrestling-entertainment, vehemiurgia-czw]
 ---
 
@@ -76,7 +77,10 @@ tags: [czw-2017, wolf-of-wrestling, jt-dunn, tier-0, john-silver, trey-miguel, s
 - [ ] **Qué fue de Space Monkey** (en research).
 - [ ] Abrir ficha de JT Dunn — Tier 0 sin ficha, con este take como
       material principal.
-- [ ] Finish exacto y duración.
+- [x] Finish exacto → JT Dunn cubre con el Death By Elbow (rolling
+      elbow) (PWPonderings, resultados agregados vía WebSearch,
+      research 2026-10-05) [una fuente].
+- [ ] Duración y referee del match (sin fuente confiable localizada).
 
 ## Piezas relacionadas
 

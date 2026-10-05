@@ -10,7 +10,7 @@ recinto: "The Coliseum"
 tipo_match: "tag team"
 estipulacion: "sin título"
 duracion: "[verif]"
-finish: "[verif — visto en video]"
+finish: "MJF evita la confrontación física y se retira del ring, dejando a Claxton solo para absorber los finishers de Colon y de RSP, perdiendo el match para su equipo [una fuente]"
 ganador: "Alex Colon & Rickey Shane Page"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Booking muy entretenido; la idea de mezclar a MJF con los deathmatch wrestlers es brillante y estuvo bien ejecutada, conectando con el booking de Claxton y la historia principal de RSP; se merece la WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s27 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Proving Grounds)"
   - "Sub-agente czw-proving-grounds-botb17 (research 2026-08-01) — identificación de nombres y origen del match"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (OWW resultados agregados); WebFetch bloqueado por egress"
 tags: [czw-2018, proving-grounds, mjf, rickey-shane-page, alex-colon, conor-claxton, deathmatch, wrestling-entertainment, vehemiurgia-czw]
 ---
 
@@ -73,9 +74,12 @@ booking eficiente — un match hace doble trabajo.
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto (movimiento, quién cubre a quién) — no confirmado
-      por research.
-- [ ] Duración registrada.
+- [x] Finish exacto → MJF evita la confrontación física con RSP y se
+      retira del ring; Claxton queda solo y absorbe los finishers de
+      Colon y de RSP, perdiendo el match para su equipo (OWW,
+      resultados agregados vía WebSearch, research 2026-10-05) [una
+      fuente].
+- [ ] Duración y referee del match (sin fuente confiable localizada).
 
 ## Piezas relacionadas
 
