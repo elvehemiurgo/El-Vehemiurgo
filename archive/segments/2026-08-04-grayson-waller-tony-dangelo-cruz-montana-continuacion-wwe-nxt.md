@@ -7,7 +7,7 @@ empresa: "WWE"
 programa: "NXT"
 fecha: 2026-08-04
 ciudad: "Orlando, Florida"
-recinto: "[verif]"
+recinto: "WWE Performance Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "cuántas veces más vas a contar la misma historia [Waller a Montana, paráfrasis de prensa]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy bueno, es el único poniendo stakes en esto, relacionados con su frustración de nunca haber sido campeón NXT, lo único orgánico aunque aprobado; este es el show de Grayson Waller ahora, no tiene competencia; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s21 (visión directa — WWE NXT, 4/8/2026)"
   - "Sub-agente card-wwe-nxt-040826 (research 2026-08-01, closed) — 411Mania, Wrestlezone, POST Wrestling"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, grayson-waller, tony-dangelo, mike-santana, cruz-montana, nxt-championship, heatwave, wrestling-entertainment]
 ---
 
@@ -77,6 +78,7 @@ tags: [wwe-2026, nxt, grayson-waller, tony-dangelo, mike-santana, cruz-montana, 
 
 ## Pendientes / huecos
 
+- [x] Confirmar recinto. → WWE Performance Center (Fightful, research 2026-10-05)
 - [ ] Confirmar si Heatwave usa #1 contender's match (versión
       triple-corroborada) o triple threat (mención aislada) — no
       cerrado por research.

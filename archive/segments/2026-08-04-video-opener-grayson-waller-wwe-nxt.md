@@ -7,7 +7,7 @@ empresa: "WWE"
 programa: "NXT"
 fecha: 2026-08-04
 ciudad: "Orlando, Florida"
-recinto: "[verif]"
+recinto: "WWE Performance Center"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Les quedó genial gracias a Grayson Waller y la promo que se mandó la semana pasada, algo muy atractivo; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s21 (visión directa — WWE NXT, 4/8/2026)"
   - "Sub-agente card-wwe-nxt-040826 (research 2026-08-01, closed) — Wrestling Attitude"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, grayson-waller, video-package, wrestling-entertainment]
 ---
 
@@ -53,6 +54,7 @@ tags: [wwe-2026, nxt, grayson-waller, video-package, wrestling-entertainment]
 
 ## Pendientes / huecos
 
+- [x] Confirmar recinto. → WWE Performance Center (Fightful, research 2026-10-05)
 - [ ] Confirmar contenido exacto del video más allá del recap básico.
 
 ## Piezas relacionadas

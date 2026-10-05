@@ -7,7 +7,7 @@ empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-08-07
 ciudad: "Filadelfia, Pensilvania"
-recinto: "[verif]"
+recinto: "Xfinity Mobile Arena [una fuente]"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Me gustó el booking para Chelsea como campeona, el asunto con Tiffany está sugerente y me gusta la tensión, patrón repetido de Tiffany (como con Nia Jax); se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s21 (visión directa — WWE SmackDown, 7/8/2026)"
   - "Sub-agente card-wwe-smackdown-070826-mujeres (research 2026-08-01, closed) — Wrestling Inc, 411MANIA, Last Word on Sports, TJR Wrestling"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, chelsea-green, tiffany-stratton, jacy-jayne, fallon-henley, lainey-reid, interim-womens-championship, womens-us-championship, wrestling-entertainment]
 ---
 
@@ -80,7 +81,8 @@ tags: [wwe-2026, smackdown, chelsea-green, tiffany-stratton, jacy-jayne, fallon-
 ## Pendientes / huecos
 
 - [ ] Confirmar cita textual exacta de las líneas de Henley y Jayne.
-- [ ] Confirmar ubicación en el show y recinto.
+- [x] Confirmar recinto. → Xfinity Mobile Arena [una fuente] (research 2026-10-05)
+- [ ] Confirmar ubicación en el show.
 
 ## Piezas relacionadas
 

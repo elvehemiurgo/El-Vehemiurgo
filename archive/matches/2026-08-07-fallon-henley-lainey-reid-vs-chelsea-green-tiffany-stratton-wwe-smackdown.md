@@ -6,7 +6,7 @@ empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-08-07
 ciudad: "Filadelfia, Pensilvania"
-recinto: "[verif]"
+recinto: "Xfinity Mobile Arena [una fuente]"
 tipo_match: "tag team"
 estipulacion: "WWE Women's Tag Team Championship"
 duracion: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo muy buena, buenos stakes, mucho oro de por medio, lucha all star para empezar el reinado de Chelsea con toda la división alrededor; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s21 (visión directa — WWE SmackDown, 7/8/2026)"
   - "Sub-agente card-wwe-smackdown-070826-mujeres (research 2026-08-01, closed) — Wrestling Inc, WrestleZone, Last Word on Sports, WWE.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, fallon-henley, lainey-reid, chelsea-green, tiffany-stratton, jacy-jayne, nia-jax, lash-legend, womens-tag-team-championship, perfect-match, irresistible-forces]
 ---
 
@@ -77,6 +78,7 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
+- [x] Confirmar recinto. → Xfinity Mobile Arena [una fuente] (research 2026-10-05)
 - [ ] Confirmar duración y réferi.
 - [ ] Seguimiento del reto de Jax por el título interino — fuera del
       horizonte de este registro.

@@ -6,7 +6,7 @@ empresa: "WWE"
 programa: "NXT"
 fecha: 2026-08-04
 ciudad: "Orlando, Florida"
-recinto: "[verif]"
+recinto: "WWE Performance Center"
 tipo_match: "tag team"
 estipulacion: "sin título en juego"
 duracion: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se han vuelto algo a seguir en NXT, restaron cosas innecesarias a su repertorio, más stiff, más oldschool, buena ejecución, buenos gimmicks; su participación en este show se merece un WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s21 (visión directa — WWE NXT, 4/8/2026)"
   - "Sub-agente card-wwe-nxt-040826 (research 2026-08-01, closed) — Wrestling Inc, Slam Wrestling"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, nikkita-lyons, karmen-petrovic, jaida-parker, thea-hail, natalya, wrestling-entertainment, edge]
 ---
 
@@ -67,6 +68,7 @@ participación de conjunto, no sobre el resultado.**
 
 ## Pendientes / huecos
 
+- [x] Confirmar recinto. → WWE Performance Center (Fightful, research 2026-10-05)
 - [ ] Confirmar duración y réferi.
 - [ ] Abrir ficha individual de Thea Hail — hecho en este mismo
       volcado.

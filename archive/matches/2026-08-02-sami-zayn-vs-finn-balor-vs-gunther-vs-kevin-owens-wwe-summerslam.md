@@ -12,7 +12,7 @@ estipulacion: "contendencia #1 al título indisputado de WWE — ampliado de sin
 duracion: "8:30"
 finish: "Kevin Owens remata con Stunners sucesivos a Bálor, Gunther y Zayn"
 ganador: "Kevin Owens — nuevo contendiente #1"
-referee: "[verif]"
+referee: "Ryan Tran [una fuente]"
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "La lucha es perfecta, todos tienen muy buenas motivaciones bookeadas, stakes más altos que nunca, calidad increíble; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s17 (visión directa — WWE SummerSlam Noche 2, 2/8/2026)"
   - "Sub-agente card-wwe-summerslam-n1-n2-2026 (research 2026-08-01, closed) — Forbes, CBS Sports, Fightful, Wrestling Inc"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cobertura consolidada); WebFetch bloqueado por egress"
 tags: [wwe-2026, summerslam, sami-zayn, finn-balor, gunther, kevin-owens, nick-aldis, cm-punk, perfect-match, regreso, fatal-4-way]
 ---
 
@@ -71,7 +72,7 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar réferi.
+- [x] Confirmar réferi. → Ryan Tran [una fuente] (research 2026-10-05)
 - [ ] Verificar justificación kayfabe de la autoridad de Aldis pese a
       su derrota la noche anterior.
 - [ ] Seguimiento del posible feud Owens vs Punk — fuera del horizonte

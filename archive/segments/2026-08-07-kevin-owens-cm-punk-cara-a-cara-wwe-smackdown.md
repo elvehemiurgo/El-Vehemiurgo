@@ -7,7 +7,7 @@ empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-08-07
 ciudad: "Filadelfia, Pensilvania"
-recinto: "[verif]"
+recinto: "Xfinity Mobile Arena [una fuente]"
 ubicacion_en_show: "apertura del show (tras la salida de Cody Rhodes)"
 duracion: "[verif]"
 linea_textual: "seeing what you've become has made me determined to not let this business turn me into a miserable piece of shit like you [Owens, según titular de Fightful, no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue genial, intenso y de ensueño; la promo de Owens en gran parte es mentira (el ángulo moral no es creativo), pero la levantó al final; fue histórico, el feudo generacional del año; se merece la WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s20 (visión directa — WWE SmackDown, 7/8/2026)"
   - "Sub-agente card-wwe-smackdown-070826 (research 2026-08-01, closed) — Fightful, 411mania, POST Wrestling, SEScoops, TJR, Yahoo Sports, WWE.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, kevin-owens, cm-punk, nick-aldis, undisputed-championship, feudo-generacional, kevin-steen, roh, wrestling-entertainment]
 ---
 
@@ -90,7 +91,7 @@ contenido a la estrategia de promo de Owens.**
 ## Pendientes / huecos
 
 - [ ] Verificar el mic-drop de Owens contra video.
-- [ ] Confirmar recinto exacto.
+- [x] Confirmar recinto. → Xfinity Mobile Arena [una fuente] (research 2026-10-05)
 - [ ] Integrar dossier `punk-vs-owens-historia-completa-2026`.
 - [ ] Seguimiento del match titular del 21/8 en Toronto.
 

@@ -9,10 +9,10 @@ ciudad: "Minneapolis, Minnesota"
 recinto: "U.S. Bank Stadium"
 tipo_match: "Hell in a Cell"
 estipulacion: "Hell in a Cell"
-duracion: "[verif]"
+duracion: "11:39 [una fuente]"
 finish: "Lesnar golpea a Femi con las escaleras y conecta múltiples F5 (y un Tombstone); Femi kickea y cierra con Fall from Grace"
 ganador: "Oba Femi"
-referee: "[verif]"
+referee: "Chad Patton [una fuente]"
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue todo lo que me esperaba, más larga por la estipulación, histórico, gimmicks importantes; le daré las 3 clases, me parece un clásico"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s17 (visión directa — WWE SummerSlam Noche 1, 1/8/2026)"
   - "Sub-agente card-wwe-summerslam-n1-n2-2026 (research 2026-08-01, closed) — Fox News, Bleacher Report, WWE.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cobertura consolidada de resultados Night 1); WebFetch bloqueado por egress"
 tags: [wwe-2026, summerslam, oba-femi, brock-lesnar, hell-in-a-cell, perfect-match, rub, clasico]
 ---
 
@@ -63,9 +64,8 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración exacta — no reportada por las fuentes
-      consultadas.
-- [ ] Confirmar réferi.
+- [x] Confirmar duración. → 11:39 [una fuente] (research 2026-10-05; cifra muy cercana a la de Aldis/Gunther del mismo show, registrada sin fusionar)
+- [x] Confirmar réferi. → Chad Patton [una fuente] (research 2026-10-05)
 
 ## Piezas relacionadas
 
