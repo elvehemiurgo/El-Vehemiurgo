@@ -10,7 +10,7 @@ recinto: "Rastelli Complex"
 tipo_match: "singles"
 estipulacion: "CZW World Heavyweight Championship"
 duracion: "[verif]"
-finish: "[verif — visto en video]"
+finish: "Strickland remata con una patada a la cabeza (single kick to the head) para el pin [una fuente]"
 ganador: "Shane Strickland — retiene"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Dos de los agentes libres más geniales de la época, buenos stakes, buenísimo el show de Ethan como retador outsider; el crowd hostil; se merece las 3 clases — el oldschool de Ethan hace lucir muy bien a Swerve"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s26 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, The Wolf of Wrestling)"
   - "Sub-agente czw-noi-cod19 (research 2026-08-01) — estado de títulos CZW fines de 2017"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWPonderings results); WebFetch bloqueado por egress"
 tags: [czw-2017, wolf-of-wrestling, ethan-page, shane-strickland, swerve-strickland, world-heavyweight-championship, tier-0, indie-wrestling-god, perfect-match, vehemiurgia-czw]
 ---
 
@@ -78,7 +79,10 @@ tags: [czw-2017, wolf-of-wrestling, ethan-page, shane-strickland, swerve-strickl
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Finish exacto → Strickland cierra con una patada a la cabeza
+      (single kick to the head) para el pin (PWPonderings, resultados
+      agregados vía WebSearch, research 2026-10-05) [una fuente].
+- [ ] Duración y referee del match (sin fuente confiable localizada).
 - [ ] Ficha propia de Shane Strickland / Swerve para su etapa CZW
       2017 (existe; falta el tramo de defensas).
 
