@@ -4,9 +4,10 @@ tipo: fact-sheet
 categoria: people
 slug: "xia-brookside"
 estado: stub
-ultima_actualizacion: 2026-07-13
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-11 s01"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas: presupuesto agotado; ref. general marcada [no confirmado]); WebFetch bloqueado por egress"
 tags: [xia-brookside, tna, techo-tecnico, indi-hartwell-partner]
 ---
 
@@ -23,9 +24,15 @@ tags: [xia-brookside, tna, techo-tecnico, indi-hartwell-partner]
 - **Nombre real**: [verif].
 - **Nombres de gimmick**: Xia Brookside.
 - **Empresa actual**: TNA Wrestling.
+- **Linaje** *(ref. general del sub-agente; [no confirmado])*: hija
+  de **Robbie Brookside**, veterano británico y coach de WWE;
+  inglesa (Liverpool).
 
 ## Trayectoria condensada
 
+- *(ref. general, [no confirmado])* Circuito británico y **WWE NXT
+  UK** (2018 en adelante, incluido el Mae Young Classic 2018) antes
+  de llegar a TNA.
 - 13/2/2026 — No Surrender: con Indi Hartwell vs The Elegance
   Brand por los Knockouts World Tag Team Titles (derrota por
   screwjob de la faction). Ver

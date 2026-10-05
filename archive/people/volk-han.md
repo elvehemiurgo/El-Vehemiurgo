@@ -3,10 +3,11 @@ nombre: "Volk Han"
 tipo: fact-sheet
 categoria: people
 slug: volk-han
-estado: stub
-ultima_actualizacion: 2026-06-17
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — RINGS 25/9/1996)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas nuevas: presupuesto agotado; consolidado desde research/closed.md); WebFetch bloqueado por egress"
 tags: [volk-han, magomedkhan-amanulayevich-gamzatkhanov, rings, fighting-network-rings, combat-sambo, soviet-sambo-champion, shoot-style, akira-maeda-rings-roster, daguestani-russian, candidato-panteon-vehemiurgo]
 ---
 
@@ -27,6 +28,27 @@ tags: [volk-han, magomedkhan-amanulayevich-gamzatkhanov, rings, fighting-network
   seguidos) → **Combat SAMBO** en el ejército soviético (subcampeón
   nacional 1984, campeón en 3 de los 4 años siguientes). Atleta
   genuino, no formado en wrestling profesional.
+
+## Trayectoria condensada
+
+*(Consolidada desde research previo del archivo —
+`trilogia-volk-han-tamura-rings-2026`, closed— salvo lo marcado.)*
+
+- **Años 80** — lucha libre amateur (campeón junior de la URSS) y
+  **Combat SAMBO** en el ejército soviético: subcampeón nacional 1984,
+  campeón en 3 de los 4 años siguientes.
+- **1991** — scouteado por **Akira Maeda**; debut en RINGS el
+  **7/12/1991** (cuarto torneo RINGS).
+- **1994** — gana el **Mega Battle Tournament**.
+- **25/9/1996, Maelstrom VII (Sapporo)** — vence a Kiyoshi Tamura por
+  sumisión: primer capítulo de la serie de cuatro singles.
+- **22/1/1997, Budokan** — vuelve a vencer a Tamura (leglock) y gana
+  el **Mega Battle Tournament 1996**.
+- **1997–1998** — Tamura le gana los dos siguientes (26/9/1997,
+  cross-armbreaker, 12:48; 21/9/1998, armbar): serie 2-2.
+- **2002** — cierre de RINGS *(ref. general del sub-agente; [no
+  confirmado])*. Carrera posterior (MMA real, rol en Rusia) sin
+  verificar.
 
 ## Datos duros (confirmados por sub-agente 2026-06-17)
 

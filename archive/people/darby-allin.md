@@ -35,7 +35,7 @@ tags: [darby-allin, aew, campeon-por-culpa-de-mjf, perfect-match-vs-tomasso, sor
 - **22/4/2026 (AEW Dynamite)** — defiende título [verif cuál]
   contra Tomasso: **Perfect Match** (PW·FS·WE), sorpresa declarada
   del Vehemiurgo.
-  ([→](../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md)).
+  ([→](../matches/2026-04-22-darby-allin-vs-ciampa-world-title-aew-dynamite.md)).
 - **Contexto narrativo**: se convirtió en campeón como consecuencia
   de la arrogancia de MJF [verif mecánica exacta del cambio de
   título] (ver
@@ -364,7 +364,7 @@ Borden). Piezas:
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md`](../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md)
+- [`../matches/2026-04-22-darby-allin-vs-ciampa-world-title-aew-dynamite.md`](../matches/2026-04-22-darby-allin-vs-ciampa-world-title-aew-dynamite.md)
 - [`../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md`](../matches/2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md)
 - [`../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md`](../matches/2026-05-09-darby-allin-vs-pac-aew-collision-fairway-to-hell.md)
 - [`../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md`](../matches/2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md)

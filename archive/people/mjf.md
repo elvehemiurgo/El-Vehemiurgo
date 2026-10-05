@@ -207,7 +207,7 @@ noche
    elogio. Ver
    [`../segments/2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md`](../segments/2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md)
    y
-   [`../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md`](../matches/2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md).
+   [`../matches/2026-04-22-darby-allin-vs-ciampa-world-title-aew-dynamite.md`](../matches/2026-04-22-darby-allin-vs-ciampa-world-title-aew-dynamite.md).
 
 ### Sesión 2026-07-14 s09 — Dos semanas de "personaje principal" + la ironía workhorse
 

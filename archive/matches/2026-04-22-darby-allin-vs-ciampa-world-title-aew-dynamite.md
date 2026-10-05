@@ -1,37 +1,37 @@
 ---
-match: "Darby Allin (c) vs Tomasso [sic — presumido Tomohiro Ishii] — main event"
-slug: "2026-04-22-darby-allin-vs-tomasso-aew-dynamite"
-participantes: ["Darby Allin", "Tomasso [verif — presumido Tomohiro Ishii]"]
+match: "Darby Allin (c) vs Tommaso Ciampa — AEW World Championship, main event"
+slug: "2026-04-22-darby-allin-vs-ciampa-world-title-aew-dynamite"
+participantes: ["Darby Allin", "Tommaso Ciampa"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-04-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Portland, Oregon"
+recinto: "Veterans Memorial Coliseum"
 tipo_match: "singles"
 estipulacion: "título en juego [verif cuál]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "~18:00 [no confirmado]"
+finish: "Scorpion Deathlock de Darby — rendición"
+ganador: "Darby Allin — retiene el AEW World Championship"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sorpresa total — merece las 3 clases. 'No soy muy fan de las luchas de ambos, pero esta colisión fue muy creativa'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s08 (visión directa — AEW Dynamite 22/4/2026)"
 tags: [darby-allin, tomohiro-ishii-verif, aew-dynamite-2026, main-event, perfect-match, fighting-spirit, wrestling-entertainment, sorpresa-no-soy-fan, violencia-con-proposito, ironia-de-booking-mjf, campeon-por-culpa-de-mjf]
 ---
 
-# Darby Allin (c) vs Tomasso — AEW Dynamite (22 abr 2026)
+# Darby Allin (c) vs Tommaso Ciampa — AEW World Championship (Dynamite, 22 abr 2026)
 
 > **Perfect Match — las tres clases**, y una **sorpresa
 > declarada**: *"no soy muy fan de las luchas de ambos, pero esta
 > colisión fue muy creativa"*. Darby es campeón **por la propia
 > arrogancia de MJF** (ver el segmento previo,
 > [`../segments/2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md`](../segments/2026-04-22-mjf-promo-previa-darby-tomasso-aew-dynamite.md)) —
-> Tomasso es ahora el retador.
+> Tommaso Ciampa (dictado *"Tomasso"*) es el retador.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -62,11 +62,9 @@ tags: [darby-allin, tomohiro-ishii-verif, aew-dynamite-2026, main-event, perfect
 
 ## Pendientes
 
-- [ ] [verif] identidad de "Tomasso" — presumido **Tomohiro
-      Ishii** (aparece en la lista personal del Vehemiurgo; estilo
-      violento coincide), sin confirmar.
-- [ ] [verif] qué título está en juego (¿TNT Championship?).
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Identidad de "Tomasso" → **Tommaso Ciampa** (POST Wrestling 17/4/2026, Wrestling Inc, prowrestling.net, 411mania; research 2026-10-05). Tomohiro Ishii descartado.
+- [x] Título en juego → **AEW World Championship**, primera defensa de Darby.
+- [x] Finish → Scorpion Deathlock, rendición; ~18 min [no confirmado]; Veterans Memorial Coliseum, Portland. Post-match: Ciampa le da la mano y le pone el título al hombro.
 
 ## Cross-links
 

@@ -3,10 +3,11 @@ nombre: "Young Bucks (Matt & Nick Jackson)"
 tipo: fact-sheet
 categoria: people
 slug: young-bucks
-estado: stub
-ultima_actualizacion: 2026-10-03
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynasty 2026) — declaración de héroes fundamentales"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas: presupuesto agotado; ref. general marcada + research/closed.md); WebFetch bloqueado por egress"
 tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, superkick-party, bte, tandem-moderno, heroes-fundamentales-vehemiurgia, dos-perfect-match-2026, panteon-vehemiurgo]
 ---
 
@@ -25,11 +26,41 @@ tags: [young-bucks, matt-jackson, nick-jackson, the-elite, aew-founding-evp, sup
 - **Nombres reales**: Matthew Massie (Matt Jackson) + Nicholas
   Massie (Nick Jackson). Hermanos.
 - **Origen**: Rancho Cucamonga, California.
+- **Nacimiento** *(ref. general del sub-agente; [no confirmado])*:
+  Matt, 13/3/1985; Nick, 28/7/1989.
+- **Formación**: autodidactas (backyard con su padre) + seminarios
+  indie; debut ~2004 *(ref. general; [no confirmado])*.
+- **Empresa actual (oct 2026)**: AEW (EVP y luchadores) — en
+  septiembre de 2026 ganaron el three-way **ladder** de parejas de All
+  Out (research `aew-160926-me-collision-190926-dynamite-230926`,
+  closed).
 - **Equipo**: ***The Young Bucks*** — tag team de hermanos.
 - **Facción**: ***The Elite*** (con Kenny Omega + Cody Rhodes
   originalmente).
 - **Finisher signature**: ***BTE Trigger***, ***Meltzer Driver***,
   ***EVP Trigger***, *superkick party* [verif vigentes].
+
+## Trayectoria condensada
+
+*(ref. general del sub-agente salvo lo marcado; sin URL en esta sesión
+— WebSearch agotado, WebFetch bloqueado.)*
+
+- **~2004** — debut en el circuito independiente del sur de California.
+- **2007–2011** — **PWG** (múltiples reinados de PWG World Tag Team) y
+  paso por TNA como **Generation Me** (2009–2010).
+- **2010s** — **ROH World Tag Team Champions** varias veces y, en
+  NJPW, múltiples **IWGP Junior Heavyweight Tag Team**
+  (desde 2013) [número exacto no confirmado].
+- **2016–2018** — **Bullet Club / The Elite** con Kenny Omega y Cody;
+  **Being The Elite** en YouTube; **All In** (1/9/2018), el show
+  independiente que precipita AEW.
+- **2019** — fundadores y **EVP de AEW**.
+- **2020–2024** — **AEW World Tag Team Champions** en más de un reinado
+  (primero en Full Gear 2020) y **AEW World Trios Champions** con
+  Omega (All Out 2022) [fechas exactas no confirmadas].
+- **2026** — dos Perfect Match en la sesión del Vehemiurgo (ver abajo);
+  **26/9/2026, All Out**: ganan el three-way ladder de parejas
+  (research del archivo, closed).
 
 ## Datos duros (preliminar — verificar y expandir)
 

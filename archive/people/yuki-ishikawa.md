@@ -3,10 +3,11 @@ nombre: "Yuki Ishikawa"
 tipo: fact-sheet
 categoria: people
 slug: yuki-ishikawa
-estado: stub
-ultima_actualizacion: 2026-06-17
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — tag match 1996 [verif show])"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas nuevas: presupuesto agotado; consolidado desde research/closed.md); WebFetch bloqueado por egress"
 tags: [yuki-ishikawa, battlarts-co-founder, fujiwara-gumi-lineage, shoot-style-indie-japones, futen, generacion-junior-heavyweight-highspeed-1990s]
 ---
 
@@ -24,6 +25,27 @@ tags: [yuki-ishikawa, battlarts-co-founder, fujiwara-gumi-lineage, shoot-style-i
 - **Estilo**: shoot-style worked ortodoxo — escuela Fujiwara (joint
   manipulation, transitions, control de ritmo). Considerado uno de
   los **ejes técnicos** de BattlARTS.
+
+## Trayectoria condensada
+
+*(Consolidada desde research previo del archivo —
+`cluster-junior-heavyweight-highspeed-90s-2026`, closed— salvo lo
+marcado.)*
+
+- **1991** — vuelve a Japón y se forma bajo **Yoshiaki Fujiwara** en
+  **PWFG (Fujiwara Gumi)**.
+- **19/11/1995** — encabeza el **éxodo de PWFG** al saber de la
+  reestructuración del roster por los sponsors: se lleva a casi toda
+  la plantilla salvo Fujiwara.
+- **1996** — **funda BattlARTS** con los que no fueron a Pancrase;
+  define el *"bati-bati style"*.
+- **10/10/1996** — con Alexander Otsuka vs Daisuke Ikeda & Satoshi
+  Yoneyama en el **3er aniversario de Michinoku Pro** (Ryōgoku
+  Kokugikan) — no un show de BattlARTS, como se creía; ganadores
+  Otsuka & Ishikawa [verif] ([ficha](../matches/1996-10-10-ikeda-yoneyama-vs-otsuka-ishikawa-michinoku-pro.md)).
+- **Después** — freelancer en Zero1, AJPW e IGF; ex-**NWA
+  Intercontinental Tag Team Champion** [fecha no confirmada].
+- *Fecha de nacimiento*: no encontrada [no confirmado].
 
 ## Datos duros (confirmados por sub-agente 2026-06-17)
 

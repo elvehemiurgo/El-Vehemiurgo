@@ -7,7 +7,7 @@ actualiza con cada alta, lanzamiento, retorno e integración.
 
 | ID | Alcance | Origen | Lanzada | Destino al volver |
 |---|---|---|---|---|
-| `barrido-datos-duros-2026-10` | Barrido de datos duros (duración, referee, finish, ganador, sede) en ~1.100 fichas de match/segment, 26 lotes por empresa y periodo | Pedido del Vehemiurgo 2026-10-05 ("vayamos con todo en ese orden" — fase 1 de 4) | 2026-10-05 | Fichas in-place |
+| `barrido-datos-duros-2026-10` | Barrido de datos duros (duración, referee, finish, ganador, sede) en ~1.100 fichas de match/segment, 26 lotes por empresa y periodo | Pedido del Vehemiurgo 2026-10-05 ("vayamos con todo en ese orden" — fase 1 de 4). **Estado 2026-10-05**: oleada 1 hecha (b01-b05 + stubs A/B); **frenada por el tope de 200 WebSearch por sesión**. Faltan b06-b26 y los restos de b01-b03 | 2026-10-05 | Fichas in-place |
 
 > `pac-fallecimiento-2026`, `pac-evolucion-entertainment-wwe` y
 > `dynamite-230926-h2-h3-all-out-tailgate` cerradas e integradas el

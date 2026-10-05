@@ -360,7 +360,7 @@ con cada cambio de estado.
 | 2026-04-23 | Bear Bronson vs Nic Nemeth | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md) |
 | 2026-04-23 | Matt Hardy ("Broken") vs Dutch | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-23-matt-hardy-vs-dutch-tna-impact.md) |
 | 2026-04-23 | Mike Santana (c) vs Rich Swann — TNA World Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md) |
-| 2026-04-22 | Darby Allin (c) vs Tomasso [sic — presumido Tomohiro Ishii] — main event | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-22-darby-allin-vs-tomasso-aew-dynamite.md) |
+| 2026-04-22 | Darby Allin (c) vs Tommaso Ciampa — AEW World Championship, main event | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-22-darby-allin-vs-ciampa-world-title-aew-dynamite.md) |
 | 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |
 | 2026-04-21 | EK Prosper vs Lexis King | WWE / NXT Revenge — Week 2 | FS | — | en-investigacion | 1 | [→](2026-04-21-ek-prosper-vs-lexis-king-wwe-nxt-revenge-week-2.md) |
 | 2026-04-21 | Sol Ruca vs Zaria (grudge match) | WWE / NXT Revenge — Week 2 | FS·WE | FC | en-investigacion | 1 | [→](2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md) |

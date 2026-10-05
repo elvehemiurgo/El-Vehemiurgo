@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ciampa
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s21 (visión directa — AEW Dynamite, 3/6/2026)"
 tags: [ciampa, tommaso-ciampa, hhh-darling, nxt-burbuja, gargano, jericho-feud-2026, promos-cripticas-peor-que-moxley, primer-registro-escéptico]
@@ -202,6 +202,29 @@ descripción.
 
 - `2026 09 19 AEW Collision`, promo de la DCF, **WE**: la respuesta de
   Okada al reto. El Vehemiurgo: dream match sin gancho. [Ficha](../segments/2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md).
+
+### Fusión 2026-10-05 — la sesión registrada como "Tomasso"
+
+> **Nota de fusión**: el archivo tenía una ficha aparte,
+> `tomasso-verif.md`, para el nombre dictado *"Tomasso"* (presumido
+> Tomohiro Ishii). El research del 2026-10-05 lo resolvió como
+> **Tommaso Ciampa**: retador de Darby por el AEW World Championship
+> en Dynamite, 22/4/2026. La sesión se fusiona aquí, con el verbatim
+> intacto.
+
+#### Sesión 2026-07-14 s08 — Perfect Match sorpresa vs Darby Allin
+
+**Cita verbatim**:
+
+> *"esta lucha se merece las 3 clases, estuvo buenísima, muy
+> violenta, pero relevante, se sintió con propósito"*
+>
+> — El Vehemiurgo, 2026-07-14 s08 (verbatim)
+
+**Lectura sintética**: si la hipótesis Ishii se confirma, coherente
+con su reputación — violencia real, siempre con propósito
+narrativo, nunca solo espectáculo. **Pendiente de confirmación
+antes de tratar esto como dato firme.**
 
 ## Pendientes / huecos
 

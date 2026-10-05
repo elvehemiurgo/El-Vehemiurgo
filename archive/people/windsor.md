@@ -4,10 +4,11 @@ tipo: fact-sheet
 categoria: people
 slug: windsor
 estado: stub
-ultima_actualizacion: 2026-10-02
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Collision 11 abr 2026, dúo con Jamie Hayter)"
   - "Volcado Vehemiurgo 2026-07-14 s05 (visión directa — AEW Spring BreakThru 15/4/2026, con Thekla)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas nuevas: presupuesto agotado; consolidado desde research/closed.md y fichas de match); WebFetch bloqueado por egress"
 tags: [windsor, aew, dato-minimo, jamie-hayter-partner-verif, thekla-acompañante]
 ---
 
@@ -20,9 +21,17 @@ tags: [windsor, aew, dato-minimo, jamie-hayter-partner-verif, thekla-acompañant
 
 ## Identificación
 
-- **Nombre de gimmick**: Windsor.
+- **Nombre de gimmick**: Windsor — en el circuito, **Alex Windsor**
+  (nombre registrado así por el research del archivo,
+  `aew-agosto-2026-camino-a-wembley`).
 - **Nombre real**: [verif].
-- **Empresa actual (2026)**: AEW.
+- **Origen**: británica *(ref. general del sub-agente; [no
+  confirmado])*.
+- **Dato personal registrado**: **esposa de Will Ospreay** (research
+  `aew-agosto-2026-camino-a-wembley`, closed).
+- **Empresa actual (2026)**: AEW — **The Brawling Birds** con
+  **Jamie Hayter**; **AEW Women's World Tag Team Champions** desde
+  All In: London (30/8/2026).
 
 ## Trayectoria condensada
 
@@ -33,6 +42,15 @@ tags: [windsor, aew, dato-minimo, jamie-hayter-partner-verif, thekla-acompañant
   ([→](../segments/2026-04-15-thekla-windsor-promo-aew-spring-breakthru.md)) —
   WE. *"Windsor le seguía el ritmo"* — rol de acompañamiento, no
   protagónico.
+- **30/8/2026, All In: London (Wembley)** — The Brawling Birds
+  (con Jamie Hayter) ganan los **AEW Women's World Tag Team
+  Championships** a Divine Dominion (Two Birds, One Stone sobre Lena
+  Kross); la misma noche Ospreay gana el AEW World Title
+  ([ficha](../matches/2026-08-30-brawling-birds-vs-divine-dominion-aew-all-in.md)).
+- **26/9/2026, All Out** — retienen en Chicago Street Fight vs Divine
+  Dominion (ver sesión 2026-10-02 abajo).
+- *Trayectoria pre-AEW* (circuito británico, debut, entrenadores): no
+  cerrada [no confirmado].
 
 
 ### Sesión 2026-09-17 s01 — Pierde ante Megan Bayne, continuación de Wembley

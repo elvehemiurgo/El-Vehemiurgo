@@ -53,6 +53,7 @@
 | **Elijah / Elias** | *Elijah* = ring name TNA 2025+ (canónico actual). *Elias* = era WWE 2017-2023. En slugs nuevos usar `elijah`. El slug `...-vs-elias-tna-genesis` quedó como legado. |
 | **Kazarian / Frankie Kazarian** | Ambas formas OK en prosa. Slug único: `frankie-kazarian`. |
 | **"Xia Lee" (dictado)** | Sin correspondencia real — mezcla auditiva de "Lei Ying" + "Xia" (Brookside, mencionada en el mismo take). Resuelve a **Lei Ying Lee** por contexto (gimmick "chinese warrior", crítica de promos en idioma no inglés). NO agregar como variante ciega: "Xia" también refiere legítimamente a Xia Brookside en otros contextos. |
+| **Tomasso (dictado) → Tommaso Ciampa** | En dictados de AEW 2026, *"Tomasso"* = **Tommaso Ciampa** (research 2026-10-05; ficha fusionada en `ciampa.md`). No es Tomohiro Ishii. |
 | **Kevin Hart (dictado) → Kevin Knight** | En dictados de AEW 2026, *"Kevin Hart"* = **Kevin Knight** (research 2026-10-05; fichas fusionadas). No es el comediante. |
 | **Skayler (indie MX) / John Skyler (TNA)** | Dos talents distintos. *Skyler* en dictados de indie mexicano = **Skayler** (Los Suicidx, Cd. Neza); *John Skyler* (The Great Hands, TNA) conserva su grafía. Research 2026-09-30. |
 | **Red Escorpión (indie MX) / Rey Escorpión (AAA-CMLL)** | Dos talents distintos. El del King Phantom Navideño 25/12/2025 es **Red Escorpión** [identidad no confirmada]. |
