@@ -12,16 +12,17 @@ estipulacion: "el ganador obtiene la próxima oportunidad por los AEW World Tag 
 duracion: "12:25"
 finish: "Paro médico (referee/doctor stoppage): Borden y Knight/Fletcher chocan en el aire en un doble salto y Borden cae de cabeza"
 ganador: "Kyle Fletcher & Kevin Knight (por paro médico)"
-referee: "[verif]"
+referee: "Bryce Remsburg [una fuente]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, no fue perfecta; el booking de Steven como rookie está bueno pero como babyface es muy callado, todavía no agarra la confianza ni se cree la dimensión de su rol; el estilo de Fletcher y el de Darby es la definición de wrestling en TV actualmente; el accidente fue terrible, súper innecesario, terrorífico, un error, nada rentable"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-02
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-10-02 s01 (visión directa — AEW All Out, 26/9/2026, timestamp 00:30:32)"
   - "Research aew-160926-me-collision-190926-dynamite-230926 (30/9) y dynamite-230926-h2-h3-all-out-tailgate (1/10) — resultados de All Out vía snippet (Wrestling Inc, POST, F4W, 411mania, Wikipedia/fandom)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports); WebFetch bloqueado por egress"
 tags: [aew-all-out-2026, kyle-fletcher, kevin-knight, darby-allin, steven-borden, don-callis-family, numero-uno-contender, lesion-borden, paro-medico, instant-classic-crown, reserva-rookie, heredero-outsider, y2k-highspeed]
 ---
 
@@ -89,7 +90,7 @@ POST).
 
 ## Pendientes
 
-- [ ] Referee.
+- [x] Referee → Bryce Remsburg (research 2026-10-05, Yahoo Sports).
 - [ ] Estado de Borden tras el alta: sin reporte posterior en el
   archivo.
 
