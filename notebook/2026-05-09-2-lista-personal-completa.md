@@ -630,24 +630,24 @@ mantiene visible qué queda.
 - ETHAN PAGE & RICKY STARKS VS JOE HENDRY & MILES BORNE NXT 10.03.2026
 - DOMINIK MYSTERIO VS HIJO DEL VIKINGO AAA Rey de Reyes Week 1, 14.03.2026
 - KELANI JORDAN VS LOLA VICE NXT 17.02.2026
-- JACY JAYNE VS SOL RUCA VS SARIA NXT 17.03.2026
-- ETHAN PAGE, RICKY STARKS AND JOE HENDRY SEGMENT NXT 17.03.2026
+- (✓) **JACY JAYNE VS SOL RUCA VS SARIA NXT 17.03.2026** → [`archive/matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md`](../archive/matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md) (reconciliación automática)
+- (✓) **ETHAN PAGE, RICKY STARKS AND JOE HENDRY SEGMENT NXT 17.03.2026** → [`archive/segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md`](../archive/segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md) (reconciliación automática)
 - THE BIRTHRIGHT AND ROBERT STONE SEGMENT NXT 17.03.2026
 - THE VANITY PROJECT VS LOS AMERICANOS NXT 17.03.2026
-- WREN SINCLAIR VS FALLON HENLEY NXT 17.03.2026
-- TATUM PAXLEY VS IZZI DAME NXT 17.03.2026
-- FATAL INFLUENCE VS WRN QCC NXT 24.03.2026
+- (✓) **WREN SINCLAIR VS FALLON HENLEY NXT 17.03.2026** → [`archive/matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md`](../archive/matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md) (reconciliación automática)
+- (✓) **TATUM PAXLEY VS IZZI DAME NXT 17.03.2026** → [`archive/matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md`](../archive/matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md) (reconciliación automática)
+- (✓) **FATAL INFLUENCE VS WRN QCC NXT 24.03.2026** → [`archive/matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md`](../archive/matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md) (reconciliación automática)
 - CHARLIE DEMPSEY VS DOCTOR THIRST JACKSON DRAKE VS SHYLO VS JOHNNY GARGANO NXT 24.03.2026
 - LOS AMERICANOS VS THE CULLING NXT 24.03.2026
 - JOSH BRIGGS IN HIS SEGMENT BACKSTAGE NXT 24.03.2026
 - OTM & MIKE SANTANA VS DARK STATE NXT 24.03.2026
 - LOS AMERICANOS VS THE BIRTHRIGHT NXT 24.03.2026
 - (✓) **SOL RUCA VS SARIA PROMO VIDEO NXT 24.03.2026** → [`archive/segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md`](../archive/segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md) (reconciliación 2026-06-17)
-- JAYDA PARKER VS KELANI JORDAN NXT 31.03.2026
+- (✓) **JAYDA PARKER VS KELANI JORDAN NXT 31.03.2026** → [`archive/matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md`](../archive/matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md) (reconciliación automática)
 - WHC CONTRACT SIGNING WITH ETHAN PAGE, RICKY, JOE & GABAGOOL NXT 31.03.2026
 - LOLA VICE VS KENDAL GREY NXT 31.03.2026
 - (✓) **JACY JAYNE VS KENDAL GRAY VS LOLA VICE NXT Stand & Deliver 04.04.2026** → [`archive/matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md`](../archive/matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) (Women's Title triple threat, intra-faction dynamic)
-- LOS AMERICANOS VS VANITY PROJECT NXT Stand & Deliver 04.04.2026
+- (✓) **LOS AMERICANOS VS VANITY PROJECT NXT Stand & Deliver 04.04.2026** → [`archive/matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../archive/matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md) (reconciliación automática)
 - (✓) **SOL RUCA VS SARIA NXT Stand & Deliver 04.04.2026** → [`archive/matches/2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md`](../archive/matches/2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) (blow-off traición Saria)
 - MILES BORNE VS JOHNNY GARGANO NXT Stand & Deliver 04.04.2026
 - TATUM PAXLEY VS BLAKE MONROE NXT Stand & Deliver 04.04.2026
@@ -932,11 +932,11 @@ mantiene visible qué queda.
 - LASH LEGEND & NIA JAX POST MATCH ATTACK WWE SmackDown 20.03.2026
 - BROCK LESNAR AND OBA FEMI SEGMENT WWE Raw 23.03.2026
 - LOS AMERICANOS PROMO WWE Raw 23.03.2026
-- GREYSON WALLER VS JEVON EVANS WWE Raw 23.03.2026
+- (✓) **GREYSON WALLER VS JEVON EVANS WWE Raw 23.03.2026** → [`archive/matches/2026-03-23-waller-vs-jevon-evans-wwe-raw.md`](../archive/matches/2026-03-23-waller-vs-jevon-evans-wwe-raw.md) (reconciliación automática)
 - ORIGINAL GRANDE AMERICANO PROMO WWE Raw 23.03.2026
-- STEPHANIE VAQUER ATTACKS LIV MORGAN WWE Raw 23.03.2026
+- (✓) **STEPHANIE VAQUER ATTACKS LIV MORGAN WWE Raw 23.03.2026** → [`archive/segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md`](../archive/segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md) (reconciliación automática)
 - FINN BÁLOR RETURNS WWE Raw 23.03.2026
-- CM PUNK AND THE BLOODLINE SEGMENT WWE Raw 23.03.2026
+- (✓) **CM PUNK AND THE BLOODLINE SEGMENT WWE Raw 23.03.2026** → [`archive/segments/2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md`](../archive/segments/2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md) (reconciliación manual 2026-10-05)
 
 ### Bloque AAA + AEW 2026 + segmentos editorial
 
@@ -994,7 +994,7 @@ mantiene visible qué queda.
 - DARK SILUETA VS MAYKA CMLL 06.03.2026
 - KEYRA & GARRA NEGRA VS SANELY & LA CATALINA CMLL 06.03.2026
 - ZEUXIS VS MINA SHIRAKAWA CMLL 06.03.2026
-- MEI SEIRA & STARLIGHT KID VS LLUVIA & LA JAROCHITA CMLL 06.03.2026
+- (✓) **MEI SEIRA & STARLIGHT KID VS LLUVIA & LA JAROCHITA CMLL 06.03.2026** → [`archive/matches/2026-03-06-mei-seira-starlight-kid-vs-las-indomables-cmll-amazonas.md`](../archive/matches/2026-03-06-mei-seira-starlight-kid-vs-las-indomables-cmll-amazonas.md) (reconciliación manual 2026-10-05)
 - PERSEPHONE VS MONE CMLL 06.03.2026
 - PERSEPHONE VS WILLOW AEW Dynamite 11.03.2026
 - YOUNG BUCKS & MARK BRISCOE VS FTR & CIAMPA AEW Dynamite 11.03.2026
@@ -1118,29 +1118,29 @@ mantiene visible qué queda.
 - CM PUNK VS ROMAN REIGNS PROMO VIDEO WWE WrestleMania 42 Día 2
 - (✓) **CM PUNK VS ROMAN REIGNS WWE WrestleMania 42 Día 2** → [`archive/matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md`](../archive/matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) (**main event máximo + payoff meta-storyline real wrestlers vs play wrestlers**)
 - CM PUNK MISERIA CANTARE PROMO VIDEO WWE WrestleMania 42 Día 2
-- CM PUNK AND CODY RHODES SEGMENT WWE Raw 20.04.2026
-- ETHAN PAGE DEBUT BACKSTAGE WWE Raw 20.04.2026
-- ETHAN PAGE VS JEVON EVANS WWE Raw 20.04.2026
+- (✓) **CM PUNK AND CODY RHODES SEGMENT WWE Raw 20.04.2026** → [`archive/segments/2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md`](../archive/segments/2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md) (reconciliación manual 2026-10-05)
+- (✓) **ETHAN PAGE DEBUT BACKSTAGE WWE Raw 20.04.2026** → [`archive/segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md`](../archive/segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md) (reconciliación automática)
+- (✓) **ETHAN PAGE VS JEVON EVANS WWE Raw 20.04.2026** → [`archive/matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md`](../archive/matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md) (reconciliación automática)
 - IYO SKY & RHEA RIPLEY VS KABUKI WARRIORS WWE Raw 20.04.2026
 - LIV MORGAN CELEBRATION PROMO WWE Raw 20.04.2026
-- SOL RUCA VS LIV MORGAN WWE Raw 20.04.2026
-- FINN BÁLOR VS JD MCDONA WWE Raw 20.04.2026
+- (✓) **SOL RUCA VS LIV MORGAN WWE Raw 20.04.2026** → [`archive/matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md`](../archive/matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md) (reconciliación automática)
+- (✓) **FINN BÁLOR VS JD MCDONA WWE Raw 20.04.2026** → [`archive/matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../archive/matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md) (reconciliación automática)
 - LA KNIGHT PROMO WITH GUNTHER WWE Raw 20.04.2026
 - RHEA RIPLEY AND LIV MORGAN MOMENT BACKSTAGE WWE Raw 20.04.2026
-- ROMAN REIGNS AND JACOB FATU SEGMENT WWE Raw 20.04.2026
+- (✓) **ROMAN REIGNS AND JACOB FATU SEGMENT WWE Raw 20.04.2026** → [`archive/segments/2026-04-20-jacob-fatu-promo-vs-roman-wwe-raw.md`](../archive/segments/2026-04-20-jacob-fatu-promo-vs-roman-wwe-raw.md) (reconciliación automática)
 - (✓) **JACOB FATU IN HIS SEGMENT WWE SmackDown 24.04.2026** → [`archive/segments/2026-04-24-jacob-fatu-segment-smackdown.md`](../archive/segments/2026-04-24-jacob-fatu-segment-smackdown.md)
 
   Cita verbatim preservada en archivo: — *"great promos by Jimmy and Fatu, also cool Tama Tonga with a chance"*
-- TIFFANY STRATTON VS GIULIA WWE SmackDown 24.04.2026
+- (✓) **TIFFANY STRATTON VS GIULIA WWE SmackDown 24.04.2026** → [`archive/matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md`](../archive/matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md) (reconciliación automática)
 - (✓) **FATAL INFLUENCE DEBUT WWE SmackDown 24.04.2026** → [`archive/segments/2026-04-24-fatal-influence-debut-smackdown.md`](../archive/segments/2026-04-24-fatal-influence-debut-smackdown.md) — *"THE GREATEST ACT IN WWE NOW"*
 
   Cita verbatim preservada en archivo: — *"THE GREATEST ACT IN WWE NOW IN THE BIG LEAGUES, THE WHOLE ACT IS HERE"*
-- FATAL INFLUENCE CRASH RHEA'S SEGMENT WWE SmackDown 24.04.2026
-- JACY JAYNE VS RHEA RIPLEY WWE SmackDown 24.04.2026
-- CODY RHODES POST MANIA PROMO WWE SmackDown 24.04.2026
+- (✓) **FATAL INFLUENCE CRASH RHEA'S SEGMENT WWE SmackDown 24.04.2026** → [`archive/segments/2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md`](../archive/segments/2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md) (reconciliación automática)
+- (✓) **JACY JAYNE VS RHEA RIPLEY WWE SmackDown 24.04.2026** → [`archive/matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md`](../archive/matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md) (reconciliación automática)
+- (✓) **CODY RHODES POST MANIA PROMO WWE SmackDown 24.04.2026** → [`archive/segments/2026-04-24-cody-rhodes-promo-fighting-champion-wwe-smackdown.md`](../archive/segments/2026-04-24-cody-rhodes-promo-fighting-champion-wwe-smackdown.md) (reconciliación automática)
 - BROCK LESNAR PROMO VIDEO WWE SmackDown 24.04.2026
 - JACOB FATU VS SOLO SIKOA WWE SmackDown 24.04.2026
-- JACOB FATU DESTROYS EVERYONE WWE SmackDown 24.04.2026
+- (✓) **JACOB FATU DESTROYS EVERYONE WWE SmackDown 24.04.2026** → [`archive/segments/2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md`](../archive/segments/2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md) (reconciliación manual 2026-10-05)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-match: "Mei Seira & Starlight Kid vs Las Indomables [verif integrantes]"
+match: "Mei Seira & Starlight Kid vs Las Indomables (Lluvia & La Jarochita)"
 slug: "2026-03-06-mei-seira-starlight-kid-vs-las-indomables-cmll-amazonas"
-participantes: ["Mei Seira", "Starlight Kid", "Las Indomables [verif integrantes]"]
+participantes: ["Mei Seira", "Starlight Kid", "Lluvia", "La Jarochita"]
 empresa: "CMLL"
 programa: "La Noche de las Amazonas"
 fecha: 2026-03-06
@@ -18,7 +18,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Genial — todas las clases. 'Es una lucha genial, se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s02 (visión directa — CMLL La Noche de las Amazonas)"
 tags: [mei-seira, starlight-kid, las-indomables, cmll, arena-mexico, la-noche-de-las-amazonas, women, joshi-en-cmll, stardom-cmll-crossover, perfect-match, fighting-spirit, wrestling-entertainment, primer-registro-cmll]
@@ -54,6 +54,10 @@ tags: [mei-seira, starlight-kid, las-indomables, cmll, arena-mexico, la-noche-de
    working relationship STARDOM/CMLL 2026: [verif].
 3. **Las Indomables** — facción de rudas CMLL. Integrantes por
    confirmar [verif — no fabricar].
+
+> **Identificación (2026-10-05)**: la lista personal del Vehemiurgo
+> (L997) nombra a las rivales como *"LLUVIA & LA JAROCHITA"*: es
+> verdad de tablas para la alineación de Las Indomables esa noche.
 
 ## Pendientes
 

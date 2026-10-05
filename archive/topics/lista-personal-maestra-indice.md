@@ -26,9 +26,9 @@ reescribible: parsing posicional, normalización de nombres al canon
 `archive/matches/` y `archive/segments/`.
 
 **Conteo actual (2026-08-22)**: **732 entradas** en la lista verbatim —
-**107 integradas** (con marca `(✓)` y ficha) · **625 pendientes**.
+**129 integradas** (con marca `(✓)` y ficha) · **603 pendientes**.
 El archive tiene **1186 fichas individuales** (643 matches +
-543 segments); 107 de ellas están linkeadas 1-a-1 desde bullets
+543 segments); 129 de ellas están linkeadas 1-a-1 desde bullets
 `(✓)` — el resto son piezas abiertas sin bullet propio (centerpieces de
 cluster, drops mid-sesión, dossiers).
 
@@ -40,24 +40,24 @@ abajo), tal como solicitó el Vehemiurgo.
 | 1 | 2026-04-27 | match | BECKY LYNCH VS IYO SKY WWE Monday Night Raw 27.04.2026 | WWE |  | pendiente |  |
 | 2 | 2026-04-27 | match | ETHAN PAGE DURING PENTA VS RUSEV WWE Monday Night Raw 27.04.2026 | WWE |  | pendiente |  |
 | 3 | 2026-04-24 | segment | JACOB FATU IN HIS SEGMENT WWE SmackDown 24.04.2026 | WWE | — | integrado | [→](../segments/2026-04-24-jacob-fatu-segment-smackdown.md) |
-| 4 | 2026-04-24 | match | TIFFANY STRATTON VS GIULIA WWE SmackDown 24.04.2026 | WWE |  | pendiente |  |
+| 4 | 2026-04-24 | match | TIFFANY STRATTON VS GIULIA WWE SmackDown 24.04.2026 | WWE | PW·FS·WE | integrado | [→](../matches/2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md) |
 | 5 | 2026-04-24 | segment | FATAL INFLUENCE DEBUT WWE SmackDown 24.04.2026 | WWE | WE | integrado | [→](../segments/2026-04-24-fatal-influence-debut-smackdown.md) |
-| 6 | 2026-04-24 | segment | FATAL INFLUENCE CRASH RHEA'S SEGMENT WWE SmackDown 24.04.2026 | WWE |  | pendiente |  |
-| 7 | 2026-04-24 | match | JACY JAYNE VS RHEA RIPLEY WWE SmackDown 24.04.2026 | WWE |  | pendiente |  |
-| 8 | 2026-04-24 | segment | CODY RHODES POST MANIA PROMO WWE SmackDown 24.04.2026 | WWE |  | pendiente |  |
+| 6 | 2026-04-24 | segment | FATAL INFLUENCE CRASH RHEA'S SEGMENT WWE SmackDown 24.04.2026 | WWE | WE | integrado | [→](../segments/2026-04-24-fatal-influence-interrumpe-rhea-ripley-wwe-smackdown.md) |
+| 7 | 2026-04-24 | match | JACY JAYNE VS RHEA RIPLEY WWE SmackDown 24.04.2026 | WWE | FS·WE | integrado | [→](../matches/2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md) |
+| 8 | 2026-04-24 | segment | CODY RHODES POST MANIA PROMO WWE SmackDown 24.04.2026 | WWE | WE | integrado | [→](../segments/2026-04-24-cody-rhodes-promo-fighting-champion-wwe-smackdown.md) |
 | 9 | 2026-04-24 | segment | BROCK LESNAR PROMO VIDEO WWE SmackDown 24.04.2026 | WWE |  | pendiente |  |
 | 10 | 2026-04-24 | match | JACOB FATU VS SOLO SIKOA WWE SmackDown 24.04.2026 | WWE |  | pendiente |  |
-| 11 | 2026-04-24 | match | JACOB FATU DESTROYS EVERYONE WWE SmackDown 24.04.2026 | WWE |  | pendiente |  |
-| 12 | 2026-04-20 | segment | CM PUNK AND CODY RHODES SEGMENT WWE Raw 20.04.2026 | WWE |  | pendiente |  |
-| 13 | 2026-04-20 | segment | ETHAN PAGE DEBUT BACKSTAGE WWE Raw 20.04.2026 | WWE |  | pendiente |  |
-| 14 | 2026-04-20 | match | ETHAN PAGE VS JEVON EVANS WWE Raw 20.04.2026 | WWE |  | pendiente |  |
+| 11 | 2026-04-24 | segment | JACOB FATU DESTROYS EVERYONE WWE SmackDown 24.04.2026 | WWE | WE | integrado | [→](../segments/2026-04-24-fatu-devora-bloodline-solo-sikoa-wwe-smackdown.md) |
+| 12 | 2026-04-20 | segment | CM PUNK AND CODY RHODES SEGMENT WWE Raw 20.04.2026 | WWE | WE | integrado | [→](../segments/2026-04-20-cm-punk-post-titulo-cody-entrada-wwe-raw.md) |
+| 13 | 2026-04-20 | segment | ETHAN PAGE DEBUT BACKSTAGE WWE Raw 20.04.2026 | WWE | — | integrado | [→](../segments/2026-04-20-ethan-page-debut-backstage-adam-pearce-wwe-raw.md) |
+| 14 | 2026-04-20 | match | ETHAN PAGE VS JEVON EVANS WWE Raw 20.04.2026 | WWE | WE | integrado | [→](../matches/2026-04-20-ethan-page-vs-jevon-evans-wwe-raw.md) |
 | 15 | 2026-04-20 | match | IYO SKY & RHEA RIPLEY VS KABUKI WARRIORS WWE Raw 20.04.2026 | WWE |  | pendiente |  |
 | 16 | 2026-04-20 | segment | LIV MORGAN CELEBRATION PROMO WWE Raw 20.04.2026 | WWE |  | pendiente |  |
-| 17 | 2026-04-20 | match | SOL RUCA VS LIV MORGAN WWE Raw 20.04.2026 | WWE |  | pendiente |  |
-| 18 | 2026-04-20 | match | FINN BÁLOR VS JD MCDONAGH WWE Raw 20.04.2026 | WWE |  | pendiente |  |
+| 17 | 2026-04-20 | match | SOL RUCA VS LIV MORGAN WWE Raw 20.04.2026 | WWE | WE | integrado | [→](../matches/2026-04-20-sol-ruca-vs-liv-morgan-wwe-raw.md) |
+| 18 | 2026-04-20 | match | FINN BÁLOR VS JD MCDONAGH WWE Raw 20.04.2026 | WWE | PW·FS·WE | integrado | [→](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md) |
 | 19 | 2026-04-20 | segment | LA KNIGHT PROMO WITH GUNTHER WWE Raw 20.04.2026 | WWE |  | pendiente |  |
 | 20 | 2026-04-20 | segment | RHEA RIPLEY AND LIV MORGAN MOMENT BACKSTAGE WWE Raw 20.04.2026 | WWE |  | pendiente |  |
-| 21 | 2026-04-20 | segment | ROMAN REIGNS AND JACOB FATU SEGMENT WWE Raw 20.04.2026 | WWE |  | pendiente |  |
+| 21 | 2026-04-20 | segment | ROMAN REIGNS AND JACOB FATU SEGMENT WWE Raw 20.04.2026 | WWE | — | integrado | [→](../segments/2026-04-20-jacob-fatu-promo-vs-roman-wwe-raw.md) |
 | 22 | 2026-04-19 | match | LESNAR VS FEMI WWE WrestleMania 42 Día 2 (19.04.2026) | WWE | FS·WE | integrado | [→](../matches/2026-04-19-brock-lesnar-vs-oba-femi-wrestlemania-42.md) |
 | 23 | 2026-04-19 | match | RHEA RIPLEY VS JADE CARGILL WWE WrestleMania 42 Día 2 | WWE | — | integrado | [→](../matches/2026-04-19-rhea-ripley-vs-jade-cargill-wrestlemania-42.md) |
 | 24 | 2026-04-19 | match | CM PUNK VS ROMAN REIGNS WWE WrestleMania 42 Día 2 | WWE | PW·FS·WE | integrado | [→](../matches/2026-04-19-cm-punk-vs-roman-reigns-wrestlemania-42.md) |
@@ -93,14 +93,14 @@ abajo), tal como solicitó el Vehemiurgo.
 | 54 | 2026-04-06 | match | LESNAR AND FEMI CONTRACT SIGNING WWE Raw 06.04.2026 | WWE |  | pendiente |  |
 | 55 | 2026-04-06 | segment | FINN BÁLOR VIDEO PROMO WWE Raw 06.04.2026 | WWE |  | pendiente |  |
 | 56 | 2026-04-04 | match | JACY JAYNE VS KENDAL GRAY VS LOLA VICE NXT Stand & Deliver 04.04.2026 | WWE NXT | FS·WE | integrado | [→](../matches/2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
-| 57 | 2026-04-04 | match | LOS AMERICANOS VS VANITY PROJECT NXT Stand & Deliver 04.04.2026 |  |  | pendiente |  |
+| 57 | 2026-04-04 | match | LOS AMERICANOS VS VANITY PROJECT NXT Stand & Deliver 04.04.2026 | WWE | PW·FS·WE | integrado | [→](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md) |
 | 58 | 2026-04-04 | match | SOL RUCA VS SARIA NXT Stand & Deliver 04.04.2026 | WWE NXT | — | integrado | [→](../matches/2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
 | 59 | 2026-04-04 | match | MYLES BORNE VS JOHNNY GARGANO NXT Stand & Deliver 04.04.2026 |  |  | pendiente |  |
 | 60 | 2026-04-04 | match | TATUM PAXLEY VS BLAKE MONROE NXT Stand & Deliver 04.04.2026 |  |  | pendiente |  |
 | 61 | 2026-04-04 | match | ETHAN PAGE VS RICKY SAINTS VS JOE HENDRY VS D'ANGELO NXT Stand & Deliver 04.04.2026 | WWE NXT | — | integrado | [→](../matches/2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
 | 62 | 2026-04-03 | segment | CODY TELLS STEPHANIE SHE IS NOT HER FATHER WWE SmackDown 03.04.2026 | WWE | WE | integrado | [→](../segments/2026-04-03-cody-tells-stephanie-not-her-father-smackdown.md) |
 | 63 | 2026-04-03 | segment | LA KNIGHT WWE SmackDown 03.04.2026 | WWE | — | integrado | [→](../segments/2026-04-03-la-knight-speed-commentary-smackdown.md) |
-| 64 | 2026-03-31 | match | JAIDA PARKER PARKER VS KELANI JORDAN NXT 31.03.2026 |  |  | pendiente |  |
+| 64 | 2026-03-31 | match | JAIDA PARKER PARKER VS KELANI JORDAN NXT 31.03.2026 | WWE | WE | integrado | [→](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md) |
 | 65 | 2026-03-31 | match | WHC CONTRACT SIGNING WITH ETHAN PAGE, RICKY, JOE & GABAGOOL NXT 31.03.2026 |  |  | pendiente |  |
 | 66 | 2026-03-31 | match | LOLA VICE VS KENDAL GREY NXT 31.03.2026 |  |  | pendiente |  |
 | 67 | 2026-03-30 | segment | BROCK LESNAR AND PAUL HEYMAN SEGMENT WWE Raw 30.03.2026 | WWE |  | pendiente |  |
@@ -119,7 +119,7 @@ abajo), tal como solicitó el Vehemiurgo.
 | 80 | 2026-03-25 | segment | CASH WHEELER PROMO AEW Dynamite 25.03.2026 | AEW |  | pendiente |  |
 | 81 | 2026-03-25 | match | DAVID FINLAY & CLARK CONNORS VS RODERICK STRONG & CASSIDY AEW Dynamite 25.03.2026 | AEW |  | pendiente |  |
 | 82 | 2026-03-25 | match | THEKLA VS MINA SHIRAKAWA AEW Dynamite 25.03.2026 | AEW | FS | integrado | [→](../matches/2026-03-25-thekla-vs-mina-aew-dynamite.md) |
-| 83 | 2026-03-24 | match | FATAL INFLUENCE VS WRN QCC NXT 24.03.2026 |  |  | pendiente |  |
+| 83 | 2026-03-24 | match | FATAL INFLUENCE VS WRN QCC NXT 24.03.2026 | WWE | PW·FS·WE | integrado | [→](../matches/2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md) |
 | 84 | 2026-03-24 | match | CHARLIE DEMPSEY VS DOCTOR THIRST JACKSON DRAKE VS SHYLO VS JOHNNY GARGANO NXT 24.03.2026 |  |  | pendiente |  |
 | 85 | 2026-03-24 | match | LOS AMERICANOS VS THE CULLING NXT 24.03.2026 |  |  | pendiente |  |
 | 86 | 2026-03-24 | segment | JOSH BRIGGS IN HIS SEGMENT BACKSTAGE NXT 24.03.2026 |  |  | pendiente |  |
@@ -128,11 +128,11 @@ abajo), tal como solicitó el Vehemiurgo.
 | 89 | 2026-03-24 | segment | SOL RUCA VS SARIA PROMO VIDEO NXT 24.03.2026 | WWE | — | integrado | [→](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md) |
 | 90 | 2026-03-23 | segment | BROCK LESNAR AND OBA FEMI SEGMENT WWE Raw 23.03.2026 | WWE |  | pendiente |  |
 | 91 | 2026-03-23 | segment | LOS AMERICANOS PROMO WWE Raw 23.03.2026 | WWE |  | pendiente |  |
-| 92 | 2026-03-23 | match | GREYSON WALLER VS JEVON EVANS WWE Raw 23.03.2026 | WWE |  | pendiente |  |
+| 92 | 2026-03-23 | match | GREYSON WALLER VS JEVON EVANS WWE Raw 23.03.2026 | WWE | FS | integrado | [→](../matches/2026-03-23-waller-vs-jevon-evans-wwe-raw.md) |
 | 93 | 2026-03-23 | segment | ORIGINAL GRANDE AMERICANO PROMO WWE Raw 23.03.2026 | WWE |  | pendiente |  |
-| 94 | 2026-03-23 | match | STEPHANIE VAQUER ATTACKS LIV MORGAN WWE Raw 23.03.2026 | WWE |  | pendiente |  |
+| 94 | 2026-03-23 | segment | STEPHANIE VAQUER ATTACKS LIV MORGAN WWE Raw 23.03.2026 | WWE | WE | integrado | [→](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md) |
 | 95 | 2026-03-23 | segment | FINN BÁLOR RETURNS WWE Raw 23.03.2026 | WWE |  | pendiente |  |
-| 96 | 2026-03-23 | segment | CM PUNK AND THE BLOODLINE SEGMENT WWE Raw 23.03.2026 | WWE |  | pendiente |  |
+| 96 | 2026-03-23 | segment | CM PUNK AND THE BLOODLINE SEGMENT WWE Raw 23.03.2026 | WWE | — | integrado | [→](../segments/2026-03-23-cm-punk-segmento-reigns-usos-wwe-raw.md) |
 | 97 | 2026-03-20 | match | KIT WILSON IN THE OPENING OF WWE SmackDown 20.03.2026 | WWE |  | pendiente |  |
 | 98 | 2026-03-20 | match | DREW MCINTYRE VS JACOB FATU BRAWL WWE SmackDown 20.03.2026 | WWE |  | pendiente |  |
 | 99 | 2026-03-20 | segment | TRICK WILLIAMS BACKSTAGE WITH SAMI ZAYN WWE SmackDown 20.03.2026 | WWE |  | pendiente |  |
@@ -149,12 +149,12 @@ abajo), tal como solicitó el Vehemiurgo.
 | 110 | 2026-03-18 | segment | GABE KIDD PROMO VIDEO AEW Dynamite 18.03.2026 | AEW |  | pendiente |  |
 | 111 | 2026-03-18 | segment | GABE KIDD PARKING LOT PROMO AEW Dynamite 18.03.2026 | AEW |  | pendiente |  |
 | 112 | 2026-03-18 | match | MARK DAVIS VS MIKE BAILEY AEW Dynamite 18.03.2026 | AEW |  | pendiente |  |
-| 113 | 2026-03-17 | match | JACY JAYNE VS SOL RUCA VS SARIA NXT 17.03.2026 |  |  | pendiente |  |
-| 114 | 2026-03-17 | segment | ETHAN PAGE, RICKY STARKS AND JOE HENDRY SEGMENT NXT 17.03.2026 |  |  | pendiente |  |
+| 113 | 2026-03-17 | match | JACY JAYNE VS SOL RUCA VS SARIA NXT 17.03.2026 | WWE | PW·FS·WE | integrado | [→](../matches/2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md) |
+| 114 | 2026-03-17 | segment | ETHAN PAGE, RICKY STARKS AND JOE HENDRY SEGMENT NXT 17.03.2026 | WWE | WE | integrado | [→](../segments/2026-03-17-ricky-ethan-vanity-hendry-segmento-wwe-nxt.md) |
 | 115 | 2026-03-17 | segment | THE BIRTHRIGHT AND ROBERT STONE SEGMENT NXT 17.03.2026 |  |  | pendiente |  |
 | 116 | 2026-03-17 | match | THE VANITY PROJECT VS LOS AMERICANOS NXT 17.03.2026 |  |  | pendiente |  |
-| 117 | 2026-03-17 | match | WREN SINCLAIR VS FALLON HENLEY NXT 17.03.2026 |  |  | pendiente |  |
-| 118 | 2026-03-17 | match | TATUM PAXLEY VS IZZI DAME NXT 17.03.2026 |  |  | pendiente |  |
+| 117 | 2026-03-17 | match | WREN SINCLAIR VS FALLON HENLEY NXT 17.03.2026 | WWE | PW·FS·WE | integrado | [→](../matches/2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md) |
+| 118 | 2026-03-17 | match | TATUM PAXLEY VS IZZI DAME NXT 17.03.2026 | WWE | — | integrado | [→](../matches/2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md) |
 | 119 | 2026-03-16 | segment | BROCK LESNAR RETURNS FAFO F5 WWE Raw 16.03.2026 | WWE |  | pendiente |  |
 | 120 | 2026-03-16 | match | ORIGINAL GRANDE AMERICANO VS GRANDE AMERICANO WWE Raw 16.03.2026 | WWE |  | pendiente |  |
 | 121 | 2026-03-16 | segment | LIV MORGAN AND THE JUDGMENT DAY VIDEO PROMO WWE Raw 16.03.2026 | WWE |  | pendiente |  |
@@ -221,7 +221,7 @@ abajo), tal como solicitó el Vehemiurgo.
 | 182 | 2026-03-06 | match | DARK SILUETA VS MAYKA CMLL 06.03.2026 | CMLL |  | pendiente |  |
 | 183 | 2026-03-06 | match | KEYRA & GARRA NEGRA VS SANELY & LA CATALINA CMLL 06.03.2026 | CMLL |  | pendiente |  |
 | 184 | 2026-03-06 | match | ZEUXIS VS MINA SHIRAKAWA CMLL 06.03.2026 | CMLL |  | pendiente |  |
-| 185 | 2026-03-06 | match | MEI SEIRA & STARLIGHT KID VS LLUVIA & LA JAROCHITA CMLL 06.03.2026 | CMLL |  | pendiente |  |
+| 185 | 2026-03-06 | match | MEI SEIRA & STARLIGHT KID VS LLUVIA & LA JAROCHITA CMLL 06.03.2026 | CMLL | PW·FS·WE | integrado | [→](../matches/2026-03-06-mei-seira-starlight-kid-vs-las-indomables-cmll-amazonas.md) |
 | 186 | 2026-03-06 | match | PERSEPHONE VS MONE CMLL 06.03.2026 | CMLL |  | pendiente |  |
 | 187 | 2026-03-05 | segment | ODB RETURN SEGMENT WITH HEATHER & M BY ELEGANCE (FIRST HALF) TNA Impact 05.03.2026 | TNA | — | integrado | [→](../segments/2026-03-05-odb-return-segment-with-heather-m-by-elegance-first-half-tna-impact.md) |
 | 188 | 2026-03-05 | match | SINNER & SAINT VS THE SYSTEM'S MYERS & BRONSON VS THE RIGHTEOUS VS SWANN & BDE TNA Impact 05.03.2026 | TNA |  | pendiente |  |

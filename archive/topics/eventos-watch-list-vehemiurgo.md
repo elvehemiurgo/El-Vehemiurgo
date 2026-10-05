@@ -22,9 +22,9 @@ maestra que **todavía no tienen marca `(✓)` ni ficha individual** en
 3+ bullets corresponden al mismo show (típicamente PPV o programa con
 cobertura densa); el resto va como matches/segments sueltos.
 
-**Conteo actual (2026-08-22)**: **625 entradas pendientes** —
-**74 eventos agrupados** (385 entradas) +
-**240 sueltos**. Todo lo que ya tiene ficha fue
+**Conteo actual (2026-08-22)**: **603 entradas pendientes** —
+**72 eventos agrupados** (365 entradas) +
+**238 sueltos**. Todo lo que ya tiene ficha fue
 removido de esta vista.
 
 Orden: **cronológico moderno primero** (2026 arriba, décadas viejas
@@ -39,28 +39,12 @@ programas semanales (Raw, SmackDown, NXT, Dynamite, Impact) tienen
 cobertura match-y-segment densa — ese es el patrón Vehemiurgia
 ortodoxo (booking + segmentos + matches como liturgia completa).
 
-### 2026-04-24 — SmackDown (7 entradas)
+### 2026-04-20 — Raw (4 entradas)
 
-- *match* — TIFFANY STRATTON VS GIULIA WWE SmackDown 24.04.2026
-- *segment* — FATAL INFLUENCE CRASH RHEA'S SEGMENT WWE SmackDown 24.04.2026
-- *match* — JACY JAYNE VS RHEA RIPLEY WWE SmackDown 24.04.2026
-- *segment* — CODY RHODES POST MANIA PROMO WWE SmackDown 24.04.2026
-- *segment* — BROCK LESNAR PROMO VIDEO WWE SmackDown 24.04.2026
-- *match* — JACOB FATU VS SOLO SIKOA WWE SmackDown 24.04.2026
-- *match* — JACOB FATU DESTROYS EVERYONE WWE SmackDown 24.04.2026
-
-### 2026-04-20 — Raw (10 entradas)
-
-- *segment* — CM PUNK AND CODY RHODES SEGMENT WWE Raw 20.04.2026
-- *segment* — ETHAN PAGE DEBUT BACKSTAGE WWE Raw 20.04.2026
-- *match* — ETHAN PAGE VS JEVON EVANS WWE Raw 20.04.2026
 - *match* — IYO SKY & RHEA RIPLEY VS KABUKI WARRIORS WWE Raw 20.04.2026
 - *segment* — LIV MORGAN CELEBRATION PROMO WWE Raw 20.04.2026
-- *match* — SOL RUCA VS LIV MORGAN WWE Raw 20.04.2026
-- *match* — FINN BÁLOR VS JD MCDONAGH WWE Raw 20.04.2026
 - *segment* — LA KNIGHT PROMO WITH GUNTHER WWE Raw 20.04.2026
 - *segment* — RHEA RIPLEY AND LIV MORGAN MOMENT BACKSTAGE WWE Raw 20.04.2026
-- *segment* — ROMAN REIGNS AND JACOB FATU SEGMENT WWE Raw 20.04.2026
 
 ### 2026-04-13 — Raw (4 entradas)
 
@@ -85,12 +69,6 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *match* — LESNAR AND FEMI CONTRACT SIGNING WWE Raw 06.04.2026
 - *segment* — FINN BÁLOR VIDEO PROMO WWE Raw 06.04.2026
 
-### 2026-04-04 — Stand & Deliver (3 entradas)
-
-- *match* — LOS AMERICANOS VS VANITY PROJECT NXT Stand & Deliver 04.04.2026
-- *match* — MYLES BORNE VS JOHNNY GARGANO NXT Stand & Deliver 04.04.2026
-- *match* — TATUM PAXLEY VS BLAKE MONROE NXT Stand & Deliver 04.04.2026
-
 ### 2026-03-30 — Raw (3 entradas)
 
 - *segment* — BROCK LESNAR AND PAUL HEYMAN SEGMENT WWE Raw 30.03.2026
@@ -112,15 +90,12 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — CASH WHEELER PROMO AEW Dynamite 25.03.2026
 - *match* — DAVID FINLAY & CLARK CONNORS VS RODERICK STRONG & CASSIDY AEW Dynamite 25.03.2026
 
-### 2026-03-23 — Raw (7 entradas)
+### 2026-03-23 — Raw (4 entradas)
 
 - *segment* — BROCK LESNAR AND OBA FEMI SEGMENT WWE Raw 23.03.2026
 - *segment* — LOS AMERICANOS PROMO WWE Raw 23.03.2026
-- *match* — GREYSON WALLER VS JEVON EVANS WWE Raw 23.03.2026
 - *segment* — ORIGINAL GRANDE AMERICANO PROMO WWE Raw 23.03.2026
-- *match* — STEPHANIE VAQUER ATTACKS LIV MORGAN WWE Raw 23.03.2026
 - *segment* — FINN BÁLOR RETURNS WWE Raw 23.03.2026
-- *segment* — CM PUNK AND THE BLOODLINE SEGMENT WWE Raw 23.03.2026
 
 ### 2026-03-20 — SmackDown (11 entradas)
 
@@ -215,13 +190,12 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 - *segment* — MCMG TALKING ABOUT THEIR LOSS BACKSTAGE WWE SmackDown 06.03.2026
 - *match* — NICK ALDIS ORDERS MIZ TO MENTOR DANHAUSEN WWE SmackDown 06.03.2026
 
-### 2026-03-06 — CMLL (6 entradas)
+### 2026-03-06 — CMLL (5 entradas)
 
 - *match* — KIRA & ESCADI VS METALICA & CANDELA CMLL 06.03.2026
 - *match* — DARK SILUETA VS MAYKA CMLL 06.03.2026
 - *match* — KEYRA & GARRA NEGRA VS SANELY & LA CATALINA CMLL 06.03.2026
 - *match* — ZEUXIS VS MINA SHIRAKAWA CMLL 06.03.2026
-- *match* — MEI SEIRA & STARLIGHT KID VS LLUVIA & LA JAROCHITA CMLL 06.03.2026
 - *match* — PERSEPHONE VS MONE CMLL 06.03.2026
 
 ### 2026-03-05 — Impact (5 entradas)
@@ -650,23 +624,21 @@ ortodoxo (booking + segmentos + matches como liturgia completa).
 
 - 2026-04-27 · *match* — BECKY LYNCH VS IYO SKY WWE Monday Night Raw 27.04.2026
 - 2026-04-27 · *match* — ETHAN PAGE DURING PENTA VS RUSEV WWE Monday Night Raw 27.04.2026
+- 2026-04-24 · *segment* — BROCK LESNAR PROMO VIDEO WWE SmackDown 24.04.2026
+- 2026-04-24 · *match* — JACOB FATU VS SOLO SIKOA WWE SmackDown 24.04.2026
 - 2026-04-17 · *segment* — ROMAN REIGNS PROMO VIDEO WWE SmackDown 17.04.2026
 - 2026-04-17 · *segment* — JACOB FATU SEGMENT WWE SmackDown 17.04.2026
-- 2026-03-31 · *match* — JAIDA PARKER PARKER VS KELANI JORDAN NXT 31.03.2026
+- 2026-04-04 · *match* — MYLES BORNE VS JOHNNY GARGANO NXT Stand & Deliver 04.04.2026
+- 2026-04-04 · *match* — TATUM PAXLEY VS BLAKE MONROE NXT Stand & Deliver 04.04.2026
 - 2026-03-31 · *match* — WHC CONTRACT SIGNING WITH ETHAN PAGE, RICKY, JOE & GABAGOOL NXT 31.03.2026
 - 2026-03-31 · *match* — LOLA VICE VS KENDAL GREY NXT 31.03.2026
-- 2026-03-24 · *match* — FATAL INFLUENCE VS WRN QCC NXT 24.03.2026
 - 2026-03-24 · *match* — CHARLIE DEMPSEY VS DOCTOR THIRST JACKSON DRAKE VS SHYLO VS JOHNNY GARGANO NXT 24.03.2026
 - 2026-03-24 · *match* — LOS AMERICANOS VS THE CULLING NXT 24.03.2026
 - 2026-03-24 · *segment* — JOSH BRIGGS IN HIS SEGMENT BACKSTAGE NXT 24.03.2026
 - 2026-03-24 · *match* — OTM & MIKE SANTANA VS DARK STATE NXT 24.03.2026
 - 2026-03-24 · *match* — LOS AMERICANOS VS THE BIRTHRIGHT NXT 24.03.2026
-- 2026-03-17 · *match* — JACY JAYNE VS SOL RUCA VS SARIA NXT 17.03.2026
-- 2026-03-17 · *segment* — ETHAN PAGE, RICKY STARKS AND JOE HENDRY SEGMENT NXT 17.03.2026
 - 2026-03-17 · *segment* — THE BIRTHRIGHT AND ROBERT STONE SEGMENT NXT 17.03.2026
 - 2026-03-17 · *match* — THE VANITY PROJECT VS LOS AMERICANOS NXT 17.03.2026
-- 2026-03-17 · *match* — WREN SINCLAIR VS FALLON HENLEY NXT 17.03.2026
-- 2026-03-17 · *match* — TATUM PAXLEY VS IZZI DAME NXT 17.03.2026
 - 2026-03-14 · *match* — DOMINIK MYSTERIO VS HIJO DEL VIKINGO AAA Rey de Reyes Week 1, 14.03.2026
 - 2026-03-10 · *segment* — OPENING VIDEO NXT 10.03.2026
 - 2026-03-10 · *segment* — TATUM PAXLEY AND IZZI DAME SEGMENT NXT 10.03.2026
