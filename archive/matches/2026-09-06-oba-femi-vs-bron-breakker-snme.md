@@ -9,7 +9,7 @@ ciudad: "Atlanta, Georgia"
 recinto: "State Farm Arena"
 tipo_match: "singles"
 estipulacion: "Sin título — \"el futuro de WWE\""
-duracion: "~13:19-14:00"
+duracion: "13:20 [PWTorch; rango previo ~13:19-14:00]"
 finish: "Descalificación: Bronson Reed (de regreso tras 6 meses fuera) irrumpe con silla de acero y golpea a Femi"
 ganador: "Oba Femi (por DQ)"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Femi vs Breaker si tenia hype, construyeron stakes gigantes incluso con el mal booking que traia the vision, muy buen show esta rivalidad, realmente salvando RAW, y esta lucha empieza fuerte, densa en psicología, de verdad le dieron la importancia que merecia es un gran showcase para ambos y ya se mueven como main eventers, no necesitan una facción al rededor, solo necesitan ponerse asi de reales; y aqui pusieron buen selling, una lucha heavyweight dura, wwe realmente confiando en ellos para entretener, sin interferencias ni parafernalia extra, solo un show puesto por estos dos y un vistazo al futuro de wwe. Se merecen las 3 clases; las interferencias luego se sintiewon como parte del acto heel de Breaker, ya no como ruedas de entrenamiento que wwe le pone porque no confia en él, y en el kayfabe refleja perfectamente su frustración con el booking y lo polémico de la facción que esta noche al menos toma forma de algo cool y si me enganchó. Y me gusta la psicología del heat entre Reed y Femi por el gesto de pisarle el pecho al final de la emboscada"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — WWE Sunday Night's Main Event, 6/9/2026)"
   - "Sub-agente research-wwe-snme-060926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch); WebFetch bloqueado por egress"
 tags: [wwe-snme-2026, atlanta, oba-femi, bron-breakker, bronson-reed, the-vision, doctrina-rub-malo, futuro-de-wwe, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Oba Femi vs Bron Breakker (2026 09 06 WWE SNME)
@@ -93,7 +94,7 @@ tags: [wwe-snme-2026, atlanta, oba-femi, bron-breakker, bronson-reed, the-vision
 
 ## Pendientes
 
-- [ ] Duración exacta con segunda fuente.
+- [x] Duración exacta con segunda fuente → **13:20** (PWTorch/Hubbard, research 2026-10-05), consistente con el rango ya registrado.
 
 ## Cross-links
 

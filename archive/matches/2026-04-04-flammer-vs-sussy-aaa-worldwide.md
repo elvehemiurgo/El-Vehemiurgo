@@ -1,26 +1,27 @@
 ---
 match: "Flammer vs Sussy"
 slug: "2026-04-04-flammer-vs-sussy-aaa-worldwide"
-participantes: ["Flammer", "Sussy"]
+participantes: ["Flammer", "Sussy Love"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-04
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles — defensa titular [verif título exacto]"
-estipulacion: "título [verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "Flammer (retiene) [verif]"
+ciudad: "[no encontrado]"
+recinto: "[no encontrado]"
+tipo_match: "singles — defensa titular"
+estipulacion: "AAA Reina de Reinas Championship"
+duracion: "[no encontrado]"
+finish: "Flammer evita un ataque de carrera de Sussy Love y conecta un lungblower — pinfall"
+ganador: "Flammer (retiene)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit — 'se merece el fighting spirit'"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — AAA Worldwide, 4/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [flammer, sussy, aaa-worldwide-2026, singles, fighting-spirit, las-toxicas, defensa-titular, oldschool]
 ---
 
@@ -54,7 +55,11 @@ tags: [flammer, sussy, aaa-worldwide-2026, singles, fighting-spirit, las-toxicas
 
 ## Pendientes
 
-- [ ] Título exacto en juego + finish + duración + ciudad/recinto.
+- [x] Título exacto en juego + finish → **AAA Reina de Reinas
+      Championship**; Flammer esquiva un ataque de carrera y conecta
+      **lungblower** para el pin (POST Wrestling/PWDN, research
+      2026-10-05).
+- [ ] Duración + ciudad/recinto — ningún recap accesible los reportó.
 
 ## Cross-links
 

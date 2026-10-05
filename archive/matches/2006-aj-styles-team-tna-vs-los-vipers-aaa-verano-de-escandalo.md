@@ -1,26 +1,27 @@
 ---
 match: "AJ Styles y Team TNA vs. Los Vipers"
 slug: "2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo"
-participantes: ["AJ Styles", "Samoa Joe", "Team TNA [verif resto]", "Abismo Negro", "Los Vipers [verif resto]"]
+participantes: ["AJ Styles", "Samoa Joe", "Homicide", "Low Ki", "Abismo Negro", "Charly Manson", "Electroshock", "Histeria"]
 empresa: "AAA"
-programa: "Verano de Escándalo 2006 (fecha exacta pendiente)"
-fecha: 2006-01-01
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "multi-man tag (AAA/TNA co-promoción)"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+programa: "Verano de Escándalo 2006"
+fecha: 2006-09-17
+ciudad: "Naucalpan, Estado de México"
+recinto: "El Toreo de Naucalpan"
+tipo_match: "eight-man tag (atómicos)"
+estipulacion: "1ª ronda del Torneo de Atómicos"
+duracion: "20:30"
+finish: "Descalificación"
+ganador: "Team TNA (AJ Styles, Samoa Joe, Homicide y Low Ki)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'esta lucha se merece todas las clases, me dio mucho nostalgia'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s31 (visión directa — AAA Verano de Escándalo 2006)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, Wikipedia, Luchawiki); WebFetch bloqueado por egress"
 tags: [aj-styles, samoa-joe, abismo-negro, team-tna, los-vipers, aaa, tna-aaa-crossover-2006, perfect-wrestling, fighting-spirit, wrestling-entertainment, botches-a-favor, lucha-real-no-perfecta]
 ---
 
@@ -67,10 +68,14 @@ tags: [aj-styles, samoa-joe, abismo-negro, team-tna, los-vipers, aaa, tna-aaa-cr
 
 ## Pendientes
 
-- [ ] Fecha exacta, ciudad, recinto, finish, duración.
-- [ ] Roster completo de ambos equipos (Team TNA y Los Vipers) —
-      solo AJ Styles, Samoa Joe y Abismo Negro confirmados por
-      nombre.
+- [x] Fecha exacta, ciudad, recinto, finish, duración → **17/9/2006,
+      El Toreo de Naucalpan (Naucalpan, Estado de México), DQ, 20:30**
+      (Cagematch/Wikipedia, research 2026-10-05).
+- [x] Roster completo de ambos equipos → **Team TNA**: AJ Styles,
+      Samoa Joe, Homicide, Low Ki. **Vipers Revolution**: Abismo
+      Negro, Charly Manson, Electroshock, Histeria (Cagematch,
+      research 2026-10-05). 1ª ronda del Torneo de Atómicos.
+- [ ] Referee.
 
 ## Cross-links
 

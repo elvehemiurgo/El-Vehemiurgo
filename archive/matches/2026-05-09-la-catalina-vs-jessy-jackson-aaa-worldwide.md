@@ -5,22 +5,23 @@ participantes: ["La Catalina", "Jessy Jackson"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "Querétaro"
+recinto: "Auditorio José María Arteaga"
+tipo_match: "singles — debut en el ring de La Catalina"
+estipulacion: "standard"
+duracion: "[no encontrado]"
+finish: "La Catalina conecta crossbody desde la tercera cuerda — pinfall"
+ganador: "La Catalina"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Wrestling + Fighting Spirit + Wrestling Entertainment — 'tambien se merece todas las clases', con reserva técnica (más old-school recibiendo strikes)"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — AAA Worldwide, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Thechairshot); WebFetch bloqueado por egress"
 tags: [la-catalina, jessy-jackson, aaa-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, reserva-oldschool-strikes, selling]
 ---
 
@@ -56,7 +57,11 @@ tags: [la-catalina, jessy-jackson, aaa-2026, singles, perfect-wrestling, fightin
 - [x] ~~Confirmar identidad exacta de "Jackson"~~ → **RESUELTO
       (s43)**: es **Jessy Jackson / Jessica Jackson**, luchadora de
       AAA. Pendiente solo ratificar la grafía canónica.
-- [ ] Finish/duración/ciudad/recinto.
+- [x] Finish/ganador/ciudad/recinto → gana **La Catalina** (su debut
+      en el ring) con un crossbody desde la tercera cuerda, en el
+      Auditorio José María Arteaga, Querétaro (WWE.com, research
+      2026-10-05).
+- [ ] Duración — ningún recap accesible la reportó.
 
 ## Cross-links
 

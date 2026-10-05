@@ -6,8 +6,8 @@ protagonistas: ["El Grande Americano", "Creed Brothers"]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Querétaro"
+recinto: "Auditorio José María Arteaga"
 ubicacion_en_show: "[verif]"
 duracion: "largo, pero sostenido según el Vehemiurgo"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Wrestling + Fighting Spirit + Wrestling Entertainment — 'se merece todas las clases este segmento'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — AAA Worldwide, 2/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [el-grande-americano, creed-brothers, aaa-2026, contract-signing, perfect-wrestling, fighting-spirit, wrestling-entertainment, top-tier-wrestling, americanos-crossover]
 ---
 
@@ -56,6 +57,8 @@ tags: [el-grande-americano, creed-brothers, aaa-2026, contract-signing, perfect-
 
 ## Pendientes
 
+- [x] Ciudad/recinto → **Auditorio José María Arteaga, Querétaro**
+      (research 2026-10-05).
 - [ ] Contenido exacto del segmento + duración precisa.
 - [ ] Participantes exactos de la firma (además de El Grande
       Americano y Creed Brothers).

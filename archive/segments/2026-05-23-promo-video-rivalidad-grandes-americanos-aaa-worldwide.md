@@ -6,8 +6,8 @@ protagonistas: ["El Grande Americano", "Julio (Julius Creed)", "Bruno (Brutus Cr
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-23
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Ciudad de México"
+recinto: "Gimnasio Olímpico Juan de la Barrera"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'estuvo buenisimo, es cine'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s51 (visión directa — AAA Worldwide, 23/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com); WebFetch bloqueado por egress"
 tags: [el-grande-americano, creed-brothers, aaa-2026, wrestling-entertainment, video-de-hype, es-cine]
 ---
 
@@ -45,6 +46,8 @@ triple clase) y su 3v3 (s42, triple clase).
 
 ## Pendientes
 
+- [x] Ciudad/recinto → **Gimnasio Olímpico Juan de la Barrera, CDMX**
+      (research 2026-10-05).
 - [ ] Contenido exacto del video + duración.
 - [ ] Confirmar si acompaña directamente al match Americanos
       Hermanos vs Rayo & Bravo o es pieza independiente — [verif].

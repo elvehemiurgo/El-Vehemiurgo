@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo brutal, muy real, buenos stakes y la ejecución estuvo muy violenta; tener esta versión de Finn con estos stakes en TV es definitivamente un lujo, y Gunther está mejor que nunca; KO sí rinde in-ring; se merecen las 3 clases — aunque el brawl final pudo ser mejor, pero ok"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s54 (visión directa — WWE SmackDown, 28/8/2026)"
   - "Sub-agente research-wwe-smackdown-280826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com (clips oficiales), POST Wrestling, Pro Wrestling Dot Net (Barnett), Fightful, F4W/WON, Wrestling Inc., Blog of Doom"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, finn-balor, kevin-owens, gunther, sami-zayn, cm-punk, undisputed-wwe-championship, instant-classic-crown, main-event, reserva-de-cierre]
 ---
 
@@ -112,7 +113,8 @@ va del aire.
 ## Pendientes
 
 - [ ] **Duración** — ninguna fuente accesible la reportó.
-- [ ] Referee y etiqueta oficial del finish (DQ vs no contest).
+- [x] Etiqueta oficial del finish → **no contest** (WWE.com, research 2026-10-05).
+- [ ] Referee.
 - [ ] Cómo se resuelve la contendencia vacante rumbo a SNME.
 
 ## Cross-links

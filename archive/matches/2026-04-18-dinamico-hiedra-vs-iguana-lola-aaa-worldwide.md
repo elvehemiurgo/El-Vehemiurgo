@@ -5,22 +5,23 @@ participantes: ["Dinámico", "La Hiedra", "Mr. Iguana", "Lola (AAA)"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-18
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Ciudad de México"
+recinto: "Gimnasio Olímpico Juan de la Barrera"
 tipo_match: "tag team intergender"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+estipulacion: "AAA World Mixed Tag Team Championship"
+duracion: "7:53 [una fuente; otra reporta 7:54]"
+finish: "Mr. Iguana contrarresta un powerbomb de Dinámico con un DDT — pinfall"
+ganador: "Mr. Iguana y Lola Vice (retienen)"
 referee: "[verif]"
 encuentros_previos: "Feud largo Hiedra vs Lola (AAA), extendido durante el año"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'estuvo buenisima, se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4W/WON, Fightful, POST Wrestling, Pro Wrestling Dot Net, Cagematch); WebFetch bloqueado por egress"
 tags: [dinamico, la-hiedra, mr-iguana, lola-aaa, aaa-worldwide-2026, intergender, wrestling-entertainment, rivalidad-sostenida, sistema-tko]
 ---
 
@@ -62,7 +63,24 @@ tags: [dinamico, la-hiedra, mr-iguana, lola-aaa, aaa-worldwide-2026, intergender
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → **7:53-7:54**, Mr. Iguana
+      contrarresta powerbomb de Dinámico con DDT, en el Gimnasio
+      Olímpico Juan de la Barrera (CDMX); título en juego: **AAA
+      World Mixed Tag Team Championship** (F4W/WON, Fightful, POST
+      Wrestling, research 2026-10-05).
+- [ ] **Discrepancia (research 2026-10-05) — identidad de "Lola"**:
+      esta ficha afirma explícitamente que la Lola de este match **no
+      es Lola Vice**, y linkea a una ficha separada
+      `../people/lola-aaa.md`. **Múltiples fuentes de research
+      (F4W/WON, Fightful, Pro Wrestling Dot Net, POST Wrestling,
+      Cagematch) identifican a la compañera de Mr. Iguana como Lola
+      Vice** — la misma campeona cross-promotion NXT/AAA que
+      aparece en otras fichas de este barrido (ver
+      `2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana...md`). No
+      se reescribe la identidad declarada por el Vehemiurgo sin su
+      confirmación; se registra la discrepancia para que decida si
+      `lola-aaa.md` y esta Lola son la misma persona o si hay un
+      error de identificación en el archivo.
 - [ ] Cronología completa del feud Hiedra vs Lola.
 
 ## Cross-links

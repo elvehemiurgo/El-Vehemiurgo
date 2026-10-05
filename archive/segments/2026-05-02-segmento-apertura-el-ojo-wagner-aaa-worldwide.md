@@ -6,8 +6,8 @@ protagonistas: ["Dr. Wagner Jr."]
 empresa: "AAA"
 programa: "Worldwide"
 fecha: 2026-05-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Querétaro"
+recinto: "Auditorio José María Arteaga"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — AAA Worldwide, 2/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [dr-wagner-jr, aaa-worldwide-2026, wrestling-entertainment, apertura-de-show, el-ojo-verif]
 ---
 
@@ -49,6 +50,8 @@ tags: [dr-wagner-jr, aaa-worldwide-2026, wrestling-entertainment, apertura-de-sh
 
 ## Pendientes
 
+- [x] Ciudad/recinto → **Auditorio José María Arteaga, Querétaro**
+      (research 2026-10-05).
 - [ ] Identificar "el ojo" — [verif].
 - [ ] Contenido completo del segmento + duración.
 

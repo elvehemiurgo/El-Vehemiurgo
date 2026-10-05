@@ -2,22 +2,22 @@
 match: "Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana"
 slug: "money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2-2026-03-28"
 participantes:
-  - "Money Machine (tag team AAA — composición exacta [verif])"
+  - "Money Machine (Colmillo de Plata y Garra de Oro)"
   - "La Hiedra (Las Tóxicas — heel)"
   - "Rey Fenix (AAA babyface protagonista)"
-  - "Lola ([verif identidad — probable Lola Vice cross-promotion NXT/AAA o Lola talent específica AAA])"
+  - "Lola Vice (cross-promotion NXT/AAA)"
   - "Mr. Iguana (AAA character carny puro)"
 empresa: "WWE AAA"
 programa: "AAA Rey de Reyes Week 2"
 fecha: 2026-03-28
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Puebla de Zaragoza, Puebla"
+recinto: "Auditorio GNP Seguros"
 tipo_match: "6-person mixed tag — opener AAA Rey de Reyes Week 2 (showcase Fenix babyface)"
 estipulacion: "Standard mixed tag opener"
-duracion: ""
-finish: ""
-ganador: ""
-referee: ""
+duracion: "[no encontrado]"
+finish: "Rey Fenix conecta Fenix Driver sobre Garra de Oro — pinfall"
+ganador: "Rey Fenix, Lola Vice y Mr. Iguana"
+referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
@@ -28,10 +28,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Fightful, Wikipedia); WebFetch bloqueado por egress"
 tags: [aaa-2026, rey-de-reyes-2026-week-2, money-machine, la-hiedra-las-toxicas, rey-fenix-showcase, lola-verif, mr-iguana, fenix-babyface-importante, fenix-solo-push-no-penta-tag, money-machine-putting-over-people, english-promo-limitation-doctrina, vaquer-penta-fenix-barra-alta, punk-cody-gable-kaiser-comparison]
 ---
 
@@ -214,13 +215,20 @@ para columna comparativa:
 
 ## Pendientes / huecos
 
-- [ ] **Composición exacta Money Machine** — tag team AAA
-      contemporary (probable duo a verificar).
-- [ ] **Identidad exacta "Lola"** — ¿Lola Vice cross-promotion
-      NXT/AAA? ¿Lola talent específica AAA? Verificar.
-- [ ] **Mr. Iguana identidad** — character work carny puro AAA.
-- [ ] **Finish + ganador + duración** del opener.
-- [ ] **Cobertura POST + Súper Luchas + Box y Lucha** del show.
+- [x] **Composición exacta Money Machine** → **Colmillo de Plata y
+      Garra de Oro** (WWE.com/Fightful, research 2026-10-05).
+- [x] **Identidad exacta "Lola"** → **Lola Vice**, confirmada por
+      WWE.com (research 2026-10-05).
+- [x] **Finish + ganador** → ganan **Rey Fenix, Lola Vice y Mr.
+      Iguana**; Fenix cubre a **Garra de Oro** con **Fenix Driver**
+      (WWE.com/Fightful, research 2026-10-05).
+- [ ] Duración — ninguna fuente accesible la reportó.
+- [ ] **Discrepancia (research 2026-10-05)**: el dictado fecha el show
+      28/3/2026, pero WWE.com/Cagematch registran la "Rey de Reyes
+      Week 2" (AAA on FOX #10, Part 2) como transmitida/tapeada el
+      **21/3/2026** en Auditorio GNP Seguros, Puebla — no se reescribe
+      `fecha` sin una segunda fuente que confirme cuál corresponde al
+      corte semanal que vio el Vehemiurgo.
 - [ ] **AAA Rey de Reyes Week 2 card completo** — pieza
       editorial extender si hay otros matches signature.
 

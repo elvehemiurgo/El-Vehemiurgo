@@ -5,22 +5,23 @@ participantes: ["Hijo del Vikingo", "Penta"]
 empresa: "AAA"
 programa: "AAA Worldwide"
 fecha: 2026-04-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "[no encontrado]"
+recinto: "[no encontrado]"
 tipo_match: "singles"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+estipulacion: "WWE Men's Intercontinental Championship"
+duracion: "[no encontrado]"
+finish: "Penta, con asistencia de Mini Vikingo, conecta Mexican Destroyer sobre Hijo del Vikingo — pinfall"
+ganador: "Penta (retiene)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase declarada — 'estuvo ok, me entretuvo más el booking para vikingo, pero no soy fan de las luchas de penta'"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s37 (visión directa — AAA Worldwide, 11/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, WWE.com); WebFetch bloqueado por egress"
 tags: [hijo-del-vikingo, penta, aaa-worldwide-2026, singles, sin-clase, reserva-de-estilo]
 ---
 
@@ -47,7 +48,10 @@ estilo de Penta, no del match en general. Ver
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + título en juego → **WWE Men's Intercontinental
+      Championship**; Penta retiene con Mexican Destroyer, asistido
+      por Mini Vikingo (Fightful, research 2026-10-05).
+- [ ] Duración + ciudad/recinto — ningún recap accesible los reportó.
 - [ ] Detalle exacto del booking de Vikingo que interesó al
       Vehemiurgo.
 
