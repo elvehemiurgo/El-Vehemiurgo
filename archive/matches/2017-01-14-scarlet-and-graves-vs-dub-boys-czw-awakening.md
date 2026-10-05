@@ -9,8 +9,8 @@ ciudad: "Voorhees, New Jersey"
 recinto: "Flyers Skate Zone"
 tipo_match: "tag team"
 estipulacion: "CZW World Tag Team Championship"
-duracion: "[verif]"
-finish: "[verif — retención vista en video, mecanismo no dictado]"
+duracion: "12:02"
+finish: "Scarlet & Graves retienen — el referee es distraído por JT Davidson justo cuando Dub Boys conectan su finisher sobre Dezmond Xavier; Xavier responde con un golpe con el propio título a la nuca para el pin"
 ganador: "Scarlet & Graves — retienen"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El estilo OI4K de los prodigios en su punto más rudo y menos safe; los chicos venden, se dan duro, tienen gimmicks, quieren trabajar algo oldschool; FS + WE por el feudo con EYFBO y JT Davidson de manager — gran trabajo de booking"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s23 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Awakening Pt. 1)"
   - "Sub-agente czw-2017-calendario (research 2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch.net, prowrestling.fandom.com, thewrestlingclassic.com); WebFetch bloqueado por egress"
 tags: [czw-2017, awakening, scarlet-and-graves, dezmond-xavier, zachary-wentz, dub-boys, the-rep, jt-davidson, tag-team-championship, vehemiurgia-czw, fighting-spirit]
 ---
 
@@ -73,7 +74,10 @@ tags: [czw-2017, awakening, scarlet-and-graves, dezmond-xavier, zachary-wentz, d
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Finish exacto y duración → 12:02; referee distraído por JT
+      Davidson tras el finisher de Dub Boys sobre Dezmond, que
+      responde con golpe de título para el pin (thewrestlingclassic.com,
+      research 2026-10-05).
 - [ ] Detalle del feudo con EYFBO y el rol exacto de JT Davidson.
 
 ## Piezas relacionadas

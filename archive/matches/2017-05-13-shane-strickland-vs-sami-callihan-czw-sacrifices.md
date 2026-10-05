@@ -6,10 +6,10 @@ empresa: "CZW"
 programa: "Sacrifices"
 fecha: 2017-05-13
 ciudad: "Voorhees, New Jersey"
-recinto: "[verif]"
+recinto: "Flyers Skate Zone"
 tipo_match: "singles"
 estipulacion: "sin título en juego (iPPV)"
-duracion: "[verif]"
+duracion: "10:02"
 finish: "[verif — visto en video]"
 ganador: "Shane Strickland"
 referee: "[verif]"
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo genial, muy buena calidad, muy brutal; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s24 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Sacrifices)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom.com, cagematch.net, thewrestlingrevolution.com, theindyreview.wordpress.com); WebFetch bloqueado por egress"
 tags: [czw-2017, sacrifices, shane-strickland, swerve-strickland, sami-callihan, tier-0, indie-wrestling-god, perfect-match, vehemiurgia-czw]
 ---
 
@@ -58,7 +59,11 @@ tags: [czw-2017, sacrifices, shane-strickland, swerve-strickland, sami-callihan,
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Duración → 10:02 (prowrestling.fandom.com / Cagematch, research
+      2026-10-05).
+- [ ] Finish exacto — mecanismo no confirmado por research; las
+      reseñas de época (thewrestlingrevolution.com, theindyreview.wordpress.com)
+      solo describen ritmo e intercambios, sin nombrar el movimiento final.
 
 ## Piezas relacionadas
 

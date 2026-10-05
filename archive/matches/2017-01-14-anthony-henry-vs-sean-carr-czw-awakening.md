@@ -9,7 +9,7 @@ ciudad: "Voorhees, New Jersey"
 recinto: "Flyers Skate Zone"
 tipo_match: "singles"
 estipulacion: "debut de Sean Carr en CZW"
-duracion: "[verif]"
+duracion: "8:43"
 finish: "[verif — visto en video, mecanismo no dictado]"
 ganador: "Anthony Henry"
 referee: "[verif]"
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lucha tipo NXT, verdes en ejecución y repertorios genéricos de época, pero vi el fighting spirit, la intención de crear un heel y un kayfabe con stakes; se merece un FS"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s23 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Awakening Pt. 1)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch.net, prowrestling.fandom.com, thewrestlingclassic.com); WebFetch bloqueado por egress"
 tags: [czw-2017, awakening, anthony-henry, sean-carr, vehemiurgia-czw, fighting-spirit, debut]
 ---
 
@@ -63,7 +64,10 @@ tags: [czw-2017, awakening, anthony-henry, sean-carr, vehemiurgia-czw, fighting-
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Duración → 8:43 (Cagematch / prowrestling.fandom.com, research 2026-10-05)
+- [ ] Finish exacto — mecanismo del pin no confirmado por research; las
+      reseñas de época (thewrestlingclassic.com) solo registran "Henry
+      picks up the win" sin nombrar el movimiento.
 
 ## Piezas relacionadas
 

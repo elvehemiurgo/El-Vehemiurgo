@@ -12,16 +12,17 @@ estipulacion: "Sin título; apertura del show"
 duracion: "13:49 [verif — fuente única]"
 finish: "[no confirmado] — ganan The Beaver Boys"
 ganador: "The Beaver Boys (Alex Reynolds & John Silver)"
-referee: "[verif]"
+referee: "Kris Levin [verif — snippet IMDb, único réferi listado en el cast de la taping]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "la lucha se merece una WE solo por ellos [Hollister & Konley] — clase con destinatario; ese estilo mma enthusiast hijos de samoa joe que traian era buenisimo, con mejores rivales podrían poner la lucha perfecta"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO con timestamps — 2013 09 14 CZW Down with the Sickness)"
   - "Sub-agente research-czw-dwts-140913 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress: Cagematch, Fandom, ProFightDB, Wrestleview, SMV, OWW, Wikipedia"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (IMDb); WebFetch bloqueado por egress"
 tags: [czw-2013, down-with-the-sickness, voorhees, shane-hollister, caleb-konley, beaver-boys, alex-reynolds, john-silver, indie-vs-oldschool, clase-con-destinatario, death-gods-of-wrestling, wrestling-entertainment]
 ---
 # Hollister & Konley vs The Beaver Boys (2013 09 14 CZW Down with the Sickness)

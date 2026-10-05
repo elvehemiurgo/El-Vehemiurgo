@@ -6,11 +6,11 @@ empresa: "CZW"
 programa: "Sacrifices"
 fecha: 2017-05-13
 ciudad: "Voorhees, New Jersey"
-recinto: "[verif]"
+recinto: "Flyers Skate Zone"
 tipo_match: "street fight"
 estipulacion: "CZW World Heavyweight Championship, CZW Rules"
-duracion: "[verif]"
-finish: "[verif — visto en video]"
+duracion: "21:29"
+finish: "Rush aplica un Rings of Saturn sobre Gacy y se sostiene de la cuerda para la palanca mientras el referee cuenta 3 — finish contestado, el público abucheó ('bullshit') antes del conteo"
 ganador: "Lio Rush — nuevo campeón"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Ya había nacido blackheart Lio Rush, street fight interesante y disfrutable; le doy un FS y WE class"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s24 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Sacrifices)"
   - "Sub-agente czw-sacrifices-130517 (research 2026-08-01, closed) — TheIndyReview, Jerome Reviews Stuff"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom.com, cagematch.net, jeromereviewsstuff.wordpress.com, profightdb.com); WebFetch bloqueado por egress"
 tags: [czw-2017, sacrifices, lio-rush, joe-gacy, czw-world-heavyweight-championship, main-event, title-change, vehemiurgia-czw]
 ---
 
@@ -64,7 +65,10 @@ tags: [czw-2017, sacrifices, lio-rush, joe-gacy, czw-world-heavyweight-champions
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Finish exacto y duración → 21:29; Rush gana aplicando Rings of
+      Saturn mientras se sostiene de la cuerda, conteo de 3 contestado
+      por el público (jeromereviewsstuff.wordpress.com, research
+      2026-10-05).
 
 ## Piezas relacionadas
 

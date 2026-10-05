@@ -9,7 +9,7 @@ ciudad: "Voorhees, New Jersey"
 recinto: "Flyers Skate Zone"
 tipo_match: "singles"
 estipulacion: "sin título en juego"
-duracion: "[verif — el gimmick de Donst en esta era eran las victorias relámpago]"
+duracion: "2:22"
 finish: "[verif — visto en video, victoria aplastante de Donst]"
 ganador: "Tim Donst"
 referee: "[verif]"
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Gimmicks ridículos en colisión manteniéndolo real; me encantaba el gimmick de los 2 segundos, a Donst se le ocurría cada cosa estúpida para sus referencias; la calidad está muy buena, se ve brutal; se merece un WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s25 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Once in a Lifetime)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania.com, cagematch.net); WebFetch bloqueado por egress"
 tags: [czw-2017, once-in-a-lifetime, tim-donst, ace-austin, gimmick-de-los-2-segundos, wrestling-entertainment, vehemiurgia-czw]
 ---
 
@@ -65,7 +66,7 @@ tags: [czw-2017, once-in-a-lifetime, tim-donst, ace-austin, gimmick-de-los-2-seg
 
 ## Pendientes / huecos
 
-- [ ] Duración exacta (relevante por el gimmick de Donst).
+- [x] Duración exacta (relevante por el gimmick de Donst) → 2:22 (411mania.com; cagematch.net)
 
 ## Piezas relacionadas
 

@@ -10,7 +10,7 @@ recinto: "Flyers Skate Zone"
 tipo_match: "singles — título, main event"
 estipulacion: "CZW World Heavyweight Championship"
 duracion: "28:36 [verif — fuente única]"
-finish: "[no confirmado] — retiene Gulak"
+finish: "Sumisión de Gulak, mecanismo exacto no especificado — retiene [una fuente]"
 ganador: "Drew Gulak — retiene"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "estuvo cool, Gulak hizo lucir más real a AR, fue un buen show, se merecen la WE y FS classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-09 s64 (VISIONADO DIRECTO con timestamps — 2014 03 08 CZW High Stakes 5)"
   - "Sub-agente research-czw-high-stakes-5 (research 2026-09-09) — WebSearch; WebFetch bloqueado por egress: Cagematch, Fandom, Wrestleview, Wrestlingrecaps"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia/Fandom, bio de AR Fox); WebFetch bloqueado por egress"
 tags: [czw-2014, high-stakes-5, voorhees, ar-fox, drew-gulak, kimber-lee, world-heavyweight-championship, main-event, feeling-crown, fighting-spirit, wrestling-entertainment]
 ---
 # AR Fox vs Drew Gulak — World Heavyweight Championship (2014 03 08 CZW High Stakes 5)
@@ -51,6 +52,10 @@ el rol del "carrier" en un match.
 - **Main event del show. Gulak (c), con Kimber Lee en la esquina,
   retiene el título mundial ante AR Fox, 28:36** — la duración más
   larga de todo el corpus CZW 2013-2014 del archivo.
+- **Finish: Gulak retiene por sumisión** (research 2026-10-05, bio de
+  AR Fox — una fuente, "losing submission effort", sin nombrar el
+  mecanismo exacto de la llave) — `[no confirmado]` el nombre preciso
+  de la sumisión.
 
 ## Cross-links
 

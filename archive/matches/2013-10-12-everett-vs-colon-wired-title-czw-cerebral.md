@@ -10,7 +10,7 @@ recinto: "Flyers Skate Zone"
 tipo_match: "singles — título"
 estipulacion: "CZW Wired Championship"
 duracion: "17:35 [verif — fuente única]"
-finish: "[no confirmado] — retiene Alex Colon"
+finish: "Colon bloquea un Shooting Star Press de Everett poniendo las rodillas en alto, cubiertas con el cinturón Wired [verif — snippet Wrestleview]"
 ganador: "Alex Colon — retiene"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "es un buen showcase para Andrew como ring general y logró que colón luciera bien como campeon, es buen booking de czw para elevar a su campeon homegrown, aunque Everett perfilaba bien como face por las reacciones y el moveset que tiene, no sé porque insiste en ser un prick y hacerse el heel, hubiera llegado más lejos si abrazaba una versión babyface de si mismo, igual es un gran showcase, se merecen WE y FS classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-09 s64 (VISIONADO DIRECTO con timestamps — 2013 10 12 CZW Cerebral)"
   - "Sub-agente research-czw-dwts-cont-cerebral (research 2026-09-09) — WebSearch; WebFetch bloqueado por egress: Cagematch, Fandom, Wrestleview"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestleview); WebFetch bloqueado por egress"
 tags: [czw-2013, cerebral, voorhees, andrew-everett, alex-colon, wired-championship, ring-general, babyface-vs-heel, booking-homegrown, death-gods-of-wrestling, feeling-crown, fighting-spirit, wrestling-entertainment]
 ---
 # Andrew Everett vs Alex Colon — Wired Championship (2013 10 12 CZW Cerebral)
@@ -61,7 +62,9 @@ tags: [czw-2013, cerebral, voorhees, andrew-everett, alex-colon, wired-champions
 
 ## Datos confirmados por research
 
-- **Alex Colon (c) retiene, 17:35.**
+- **Alex Colon (c) retiene, 17:35.** **Finish**: Everett va por un
+  Shooting Star Press y Colon le pone las rodillas arriba, cubiertas
+  por el cinturón Wired (Wrestleview) `[verif — una fuente]`.
 - **Andrew Everett**: nombre real **Drew Everett Wenkel** (n.
   9/7/1992, Burlington, Carolina del Norte). Debutó enmascarado como
   *Chiva Kid*, se desenmascaró en 2013 — coincide con la ventana de

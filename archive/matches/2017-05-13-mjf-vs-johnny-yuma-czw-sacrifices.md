@@ -6,11 +6,11 @@ empresa: "CZW"
 programa: "Sacrifices"
 fecha: 2017-05-13
 ciudad: "Voorhees, New Jersey"
-recinto: "[verif]"
+recinto: "Flyers Skate Zone"
 tipo_match: "singles"
 estipulacion: "CZW Wired Championship — grudge match"
-duracion: "[verif]"
-finish: "[verif — finisher de MJF descrito como 'standing heat seeker' por el Vehemiurgo]"
+duracion: "5:22"
+finish: "MJF contraataca un scissors/face kick de Yuma con un leaping piledriver (el 'standing heat seeker' que señala el Vehemiurgo) para el pin"
 ganador: "MJF — nuevo campeón"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Increíble cómo MJF sube los stakes de la división sin siquiera ganar el título, grudge match bien construida, atletismo y ejecución top tier; Yuma efectivo pero necesitaba un gimmick más fuerte; se merece las 3 clases, aunque el finisher de MJF no convence"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s24 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Sacrifices)"
   - "Sub-agente czw-sacrifices-130517 (research 2026-08-01, closed) — profightdb, ProWrestling Fandom"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom.com, cagematch.net, jeromereviewsstuff.wordpress.com, profightdb.com); WebFetch bloqueado por egress"
 tags: [czw-2017, sacrifices, mjf, johnny-yuma, wired-championship, tier-2-pillar, perfect-match, vehemiurgia-czw, title-change]
 ---
 
@@ -76,8 +77,11 @@ sobre el finisher.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar nombre exacto del movimiento finisher.
-- [ ] Duración exacta del match.
+- [x] Confirmar nombre exacto del movimiento finisher → leaping
+      piledriver, contrarrestando un scissors/face kick de Yuma
+      (jeromereviewsstuff.wordpress.com, research 2026-10-05).
+- [x] Duración exacta del match → 5:22 (prowrestling.fandom.com /
+      Cagematch, research 2026-10-05).
 
 ## Piezas relacionadas
 

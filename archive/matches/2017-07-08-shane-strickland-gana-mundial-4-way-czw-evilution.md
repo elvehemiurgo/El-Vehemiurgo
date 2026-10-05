@@ -9,8 +9,8 @@ ciudad: "Voorhees, New Jersey"
 recinto: "Flyers Skate Zone"
 tipo_match: "fatal 4-way"
 estipulacion: "CZW World Heavyweight Championship (también en juego el DEFY 8xGP de Richards)"
-duracion: "[verif]"
-finish: "[verif — visto en video]"
+duracion: "14:35"
+finish: "Strickland cubre a Lio Rush con el JML Driver (14:35) [una fuente]"
 ganador: "Shane Strickland — nuevo campeón"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena, el estilo de Richards aterriza bien las innovaciones de los otros 3, la acción se mantuvo real, buenos stakes interpromocionales, la necesidad de imponer el estilo de la nueva generación sobre Davey Richards; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s25 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Evilution)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (thesportster.com); WebFetch bloqueado por egress"
 tags: [czw-2017, evilution, shane-strickland, swerve-strickland, lio-rush, joe-gacy, davey-richards, czw-world-heavyweight-championship, title-change, perfect-match, vehemiurgia-czw]
 ---
 
@@ -68,7 +69,7 @@ los fundamentos.**
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Finish exacto y duración → Strickland cubre a Lio Rush con el JML Driver a los 14:35 (thesportster.com) [una fuente]
 
 ## Piezas relacionadas
 

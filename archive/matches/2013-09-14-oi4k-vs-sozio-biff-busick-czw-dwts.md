@@ -10,18 +10,19 @@ recinto: "Flyers Skate Zone"
 tipo_match: "tag team — grudge match"
 estipulacion: "Sin título; storyline OI4K vs DJ Hyde y The Front"
 duracion: "7:19 [verif — fuente única]"
-finish: "[no confirmado] — gana The Front"
+finish: "Distracción de DJ Hyde a OI4K; The Front consigue el pin [verif — snippet Wrestleview]"
 ganador: "The Front (Biff Busick & Niles Sozio)"
-referee: "[verif]"
+referee: "Kris Levin [verif — snippet IMDb, único réferi listado en el cast de la taping]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "empieza genial estilo irish airborn grudge match [...] obvio Dave y Jake iban a poner el mejor show posible, y con estos rivales si pueden trabajar algo brutal, spots brutales, velocidad, fundamentos, Jake Crist con un gear parecido al de Trevor Murdoch luce genial, se merecen las 3 clases con la corona +"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO con timestamps — 2013 09 14 CZW Down with the Sickness)"
   - "Sub-agente research-czw-dwts-140913 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress: Cagematch, Fandom, ProFightDB, Wrestleview, SMV, OWW, Wikipedia"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (IMDb, Wrestleview); WebFetch bloqueado por egress"
 tags: [czw-2013, down-with-the-sickness, voorhees, oi4k, dave-crist, jake-crist, nevaeh, the-front, biff-busick, sozio, dj-hyde, grudge-match, instant-classic-crown-plus, perfect-wrestling, fighting-spirit, wrestling-entertainment-plus]
 ---
 # OI4K vs The Front — Sozio & Biff Busick (2013 09 14 CZW Down with the Sickness)
@@ -61,7 +62,9 @@ tags: [czw-2013, down-with-the-sickness, voorhees, oi4k, dave-crist, jake-crist,
 ## Datos confirmados por research
 
 - **Gana The Front (Biff Busick & Niles Sozio), 7:19** (Fandom,
-  Cagematch); OI4K con Nevaeh. Finish `[no confirmado]`.
+  Cagematch); OI4K con Nevaeh. **Finish**: DJ Hyde distrae a OI4K
+  desde el ringside, y eso le da a The Front el pin (Wrestleview)
+  `[verif — una fuente]`.
 - **La storyline**: *"DJ Hyde hired Sozio's stable The Front to take
   out the Crist brothers"*. The Front = Busick, Sozio, Eric Corvis,
   Nicholas Kaye. Cronología: **Deja Vu 7 (7/9/2013, Dayton)** — Busick
@@ -77,7 +80,9 @@ tags: [czw-2013, down-with-the-sickness, voorhees, oi4k, dave-crist, jake-crist,
 
 ## Pendientes
 
-- [ ] Finish; resultados de Deja Vu 7.
+- [x] Finish → distracción de DJ Hyde a OI4K, pin de The Front
+      (Wrestleview, research 2026-10-05).
+- [ ] Resultados de Deja Vu 7.
 - [ ] Fichas de Biff Busick y Sozio (mención; no se abren).
 
 ## Cross-links

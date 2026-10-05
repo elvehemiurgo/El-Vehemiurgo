@@ -12,16 +12,17 @@ estipulacion: "Sin título; primera aparición de The Juicy Product bajo ese nom
 duracion: "9:17 [verif — fuente única]"
 finish: "[no confirmado] — gana 4-Loco"
 ganador: "4-Loco (Azrieal & Bandido Jr.)"
-referee: "[verif]"
+referee: "Kris Levin [verif — snippet IMDb, único réferi listado en el cast de la taping]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "muy buena accion y velocidad [...] siempre fueron asi de pros, muy efectivos; y los 4loko tambien son buenos, bandido y azrael traen su acto oldschool y golpean duro, mantuvieron todo muy real; la lucha se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO con timestamps — 2013 09 14 CZW Down with the Sickness)"
   - "Sub-agente research-czw-dwts-140913 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress: Cagematch, Fandom, ProFightDB, Wrestleview, SMV, OWW, Wikipedia"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (IMDb); WebFetch bloqueado por egress"
 tags: [czw-2013, down-with-the-sickness, voorhees, juicy-product, david-starr, jt-dunn, 4-loco, azrieal, bandido-jr, chrissy-rivera, indie-y2k, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # The Juicy Product vs 4-Loco (2013 09 14 CZW Down with the Sickness)
