@@ -5,11 +5,11 @@ participantes: ["Bobby Roode", "Hernandez", "Austin Aries", "Chavo Guerrero Jr."
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "Impact Zone (Universal Studios, Orlando)"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
+duracion: "5:41 [una fuente]"
 finish: "Bulldog de Bobby Roode en el ring sobre Hernandez — pinfall"
 ganador: "Bobby Roode"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo genial, de lo mejor que hicieron con Hernandez singles, buen movimiento para la división tag team, pero se siente como el techo para main eventers home grown, y pone en perspectiva las carreras de Aries y Roode; la lucha se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwmania, Wrestleview); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, bobby-roode, hernandez, austin-aries, chavo-guerrero, dirty-heels, instant-classic-crown, techo-de-home-grown, tag-team-championship]
 ---
 
@@ -68,7 +69,10 @@ Manchester del 25 de enero.
 
 ## Pendientes
 
-- [ ] Duración y referee.
+- [x] Duración → **5:41** [una fuente]; ciudad y recinto →
+      **Orlando, Florida — Impact Zone (Universal Studios)**
+      (research 2026-10-05).
+- [ ] Referee — sin fuente accesible.
 - [ ] **Ficha de people de Hernandez** — sin abrir.
 
 ## Cross-links

@@ -10,7 +10,7 @@ recinto: "Manchester Arena [grabado el 25/1/2013]"
 tipo_match: "tag team — tables match"
 estipulacion: "Tables Match — sin título; Devon era TNA Television Champion"
 duracion: "14:06 [verif — fuente única]"
-finish: "Bully Ray manda a Devon —su ex compañero de los Dudleys— a través de una mesa [chokeslam según Bleacher Report; el mecanismo exacto varía por recap]"
+finish: "Bully Ray manda a Devon —su ex compañero de los Dudleys— a través de una mesa [chokeslam según Bleacher Report y pwmania; uranage/urinage según otra fuente — mecanismo en disputa entre recaps]"
 ganador: "Bully Ray & Sting"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool; la storyline tipo reality TV que armaron con los Hogan estuvo cool como final de Aces & Eights, solo que no le metieron ganas a capitalizar la explosión; la lucha como tal es un espectáculo, se merecen las 3 clases, el booking es bueno porque rescata los activos en los que ya se había invertido, pero no tuvo un clímax apropiado así que verlo en retrospectiva le quita stakes, pero en su momento fue legítimamente entretenido"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-05 s62 (VISIONADO DIRECTO — 2013 02 07 TNA Impact Wrestling)"
   - "Sub-agente research-tna-impact-070213 (research 2026-09-05) — WebSearch; WebFetch bloqueado por egress: Wrestleview, PWTorch (Caldwell), Bleacher Report, Fandom, Wikipedia, WON vía Wrestleview"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Bleacher Report, pwmania, wrestlingrecaps.com); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, gira-uk, manchester, bully-ray, sting, devon, doc, aces-and-eights, tables-match, hogan, brooke-hogan, eric-bischoff, magnus, ec3, balance-aces-eights, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Bully Ray & Sting vs Devon & DOC — Tables Match (2013 02 07 TNA Impact Wrestling)
@@ -84,10 +85,12 @@ mérito de reciclar el capital hundido**, aunque el clímax nunca llegara.
 
 ## Datos confirmados por research
 
-- **Tables Match. Ganan Sting & Bully Ray. 14:06** (fuente única).
-  Finish: **Bully Ray manda a Devon —su ex compañero Dudley— a través
-  de una mesa** (Bleacher Report: *"chokeslammed"*; el mecanismo exacto
-  varía por recap). **Devon era TV Champion.** Crowd *"electric"*.
+- **Tables Match. Ganan Sting & Bully Ray. 14:06** (confirmado por
+  segunda fuente en research 2026-10-05). Finish: **Bully Ray manda a
+  Devon —su ex compañero Dudley— a través de una mesa** (Bleacher
+  Report y pwmania: *"chokeslammed"*; otra fuente describe un
+  **uranage/urinage** — mecanismo en disputa entre recaps). **Devon
+  era TV Champion.** Crowd *"electric"*.
 - **Apertura del mismo show**: promo de Aces & Eights con **Devon**
   (*"dominamos 2013"*), presentando a **Garett Bischoff** y **Wes
   Brisco** — los revelados del 31/1 —; Devon amenaza con terminar la
@@ -113,7 +116,11 @@ mérito de reciclar el capital hundido**, aunque el clímax nunca llegara.
 
 ## Pendientes
 
-- [ ] Confirmar mecanismo exacto del finish (chokeslam vs slam).
+- [x] Mecanismo exacto del finish — **en disputa entre fuentes**:
+      *"chokeslammed"* (Bleacher Report, pwmania) vs **uranage/urinage**
+      (otra fuente) — ambos valores reportados, no se elige uno
+      (research 2026-10-05).
+- [ ] Referee — sin fuente accesible.
 - [ ] **Fichas de people de Bully Ray, Sting, Devon, DOC, Dixie Carter,
       Eric Bischoff, Hulk Hogan** — `_(ficha pendiente)_`.
 - [ ] **Dossier TNA 2013**: el balance de Aces & Eights está completo.

@@ -9,7 +9,7 @@ ciudad: "Manchester, Inglaterra [grabado el 25/1]"
 recinto: "Manchester Arena [grabado el 25/1]"
 tipo_match: "singles"
 estipulacion: "Steel Cage Match — main event"
-duracion: "[verif]"
+duracion: "15:15 [una fuente — PWTorch/Caldwell box score]"
 finish: "Ankle Lock — submission, tras un powerbomb desde las cuerdas que había dejado el tobillo servido"
 ganador: "Kurt Angle"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estos dos siempre ponen un gran show; el booking es funcional pero nada realmente llamativo, pero se encargan de hacer magia igual, y reman la idea de forma efectiva metiéndole FS; se merecen las 3 clases, estuvo genial"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s56 (visión directa — TNA Impact Wrestling, 31/1/2013)"
   - "Sub-agente research-tna-impact-310113 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch/Caldwell); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, kurt-angle, mr-anderson, aces-and-eights, wes-brisco, garett-bischoff, steel-cage, instant-classic-crown, main-event, fighting-spirit, talento-sobre-booking]
 ---
 
@@ -103,7 +104,9 @@ el 3/1.
 
 ## Pendientes
 
-- [ ] Duración y referee — ninguna fuente accesible los reporta.
+- [x] Duración → **15:15** [una fuente — PWTorch/Caldwell box score,
+      research 2026-10-05].
+- [ ] Referee — sin fuente accesible.
 
 ## Cross-links
 

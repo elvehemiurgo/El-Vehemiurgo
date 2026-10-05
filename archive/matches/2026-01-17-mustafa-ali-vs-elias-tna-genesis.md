@@ -8,12 +8,12 @@ empresa: "TNA"
 programa: "Genesis 2026"
 fecha: 2026-01-17
 ciudad: ""
-recinto: "[verif]"
+recinto: "Curtis Culwell Center (Garland, Texas)"
 tipo_match: "singles — Mustafa Ali PPV debut TNA (post-WWE release)"
 estipulacion: "[verif]"
 duracion: ""
-finish: ""
-ganador: ""
+finish: "Tasha Steelz (Order 4) introduce una guitarra; Mustafa Ali golpea a Elijah en la espalda con ella y cubre — pinfall con interferencia"
+ganador: "Mustafa Ali"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2025-2026 Kazarian King era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania, Fightful, Bleacher Report, PWTorch); WebFetch bloqueado por egress"
 tags: [tna-2026, genesis-2026, mustafa-ali, elias, ex-wwe-tna-debut, post-wwe-talent-cluster, casket-build]
 ---
 
@@ -69,7 +70,20 @@ tags: [tna-2026, genesis-2026, mustafa-ali, elias, ex-wwe-tna-debut, post-wwe-ta
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish → **Mustafa Ali derrota a Elijah**: Tasha
+      Steelz (Order 4) mete una guitarra al ring y Ali golpea con
+      ella a Elijah en la espalda antes de cubrir — pinfall con
+      interferencia, con **referee Alice Lane** (411mania, Fightful,
+      Bleacher Report; research 2026-10-05). Recinto → **Curtis
+      Culwell Center, Garland, Texas**.
+- [ ] Duración — sin fuente accesible.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha nombra al
+      rival como **"Elias"**, pero el competidor real en TNA usa el
+      ring name **"Elijah"** — Jeffrey Scuillo, el "Elias" de WWE,
+      se renombró Elijah tras su salida de WWE (2023) y debutó en TNA
+      en febrero de 2025 bajo ese nombre. No se reescribe el nombre
+      en `participantes`/título; se deja constancia para corrección
+      editorial.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Fecha exacta de salida WWE de Ali + términos non-compete.
 - [ ] **Asignación de clase del Vehemiurgo**.

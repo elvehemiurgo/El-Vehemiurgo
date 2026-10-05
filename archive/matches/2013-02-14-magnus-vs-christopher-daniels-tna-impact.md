@@ -9,8 +9,8 @@ ciudad: "Londres, Inglaterra [grabado el 26/1/2013]"
 recinto: "Wembley Arena [grabado el 26/1/2013]"
 tipo_match: "singles — torneo"
 estipulacion: "Torneo de Hogan por el #1 contender al TNA World Heavyweight Championship (Lockdown 2013)"
-duracion: "5:05 [verif — fuente única]"
-finish: "Pinfall de Magnus [mecanismo no confirmado]"
+duracion: "5:05 [confirmado por segunda fuente — research 2026-10-05]"
+finish: "Flying elbow drop desde la tercera cuerda de Magnus sobre Daniels — pinfall [confirmado por dos fuentes, research 2026-10-05]"
 ganador: "Magnus"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "esta lucha se merece las 3 clases, estuvo buenisima, además Magnus tiene los mejores derechazos de su generación, muy oldschool, real wreasslin"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO con timestamps — 2013 02 14 TNA Impact Wrestling)"
   - "Sub-agente research-tna-impact-140213 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress: Wrestleview, Wrestling-Online, PWTorch (Caldwell), Bleacher Report, Fandom, Wikipedia"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wrestling-online.com, agregador de resultados); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, gira-uk, wembley, magnus, nick-aldis, christopher-daniels, kazarian, bad-influence, torneo-numero-uno-contender, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Magnus vs Christopher Daniels (2013 02 14 TNA Impact Wrestling)
@@ -60,9 +61,11 @@ tags: [tna-2013, impact-wrestling, gira-uk, wembley, magnus, nick-aldis, christo
 
 - **Corrección al dictado**: no fue Bad Influence en tag — **singles
   Magnus vs Christopher Daniels, con Kazarian en ringside**. **Magnus
-  gana por pinfall, 5:05** (Fandom; Wikipedia Lockdown 2013);
-  mecanismo del finish `[no confirmado]`. Video oficial de TNA en
-  YouTube: *"Magnus vs. Christopher Daniels At WEMBLEY ARENA!"*.
+  gana por pinfall, 5:05** (Fandom; Wikipedia Lockdown 2013;
+  confirmado por segunda fuente en research 2026-10-05). Mecanismo
+  del finish: **flying elbow drop desde la tercera cuerda** (dos
+  fuentes, research 2026-10-05). Video oficial de TNA en YouTube:
+  *"Magnus vs. Christopher Daniels At WEMBLEY ARENA!"*.
 - **Primera de las cuatro luchas del torneo de Hogan** por el retador
   de Jeff Hardy en Lockdown. Dos victorias (Magnus, Storm) y dos sin
   ganador (Joe/Angle, Aries/Roode) dejaron el torneo sin resolver;
@@ -73,7 +76,11 @@ tags: [tna-2013, impact-wrestling, gira-uk, wembley, magnus, nick-aldis, christo
 
 ## Pendientes
 
-- [ ] Finish exacto contra video; segunda fuente para la duración.
+- [x] Finish exacto → **flying elbow drop desde la tercera cuerda**
+      (dos fuentes); duración confirmada por segunda fuente → **5:05**
+      (research 2026-10-05). Pendiente verificación directa contra
+      video.
+- [ ] Referee — sin fuente accesible.
 - [ ] Ficha de **Christopher Daniels** (Tier 0 como Bad Influence;
       solo Kazarian tiene ficha).
 

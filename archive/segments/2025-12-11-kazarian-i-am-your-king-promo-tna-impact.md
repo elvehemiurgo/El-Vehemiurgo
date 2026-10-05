@@ -8,7 +8,7 @@ empresa: "TNA"
 programa: "Impact"
 fecha: 2025-12-11
 ciudad: ""
-recinto: "[verif]"
+recinto: "El Paso County Coliseum (El Paso, Texas)"
 ubicacion_en_show: "opening segment"
 duracion: ""
 linea_textual: "I am your King."
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2025-2026 Kazarian King era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (rajah.com, Fightful); WebFetch bloqueado por egress"
 tags: [tna-2025, impact-dic-2025, kazarian-king-era, opening-promo, champion-declaration, character-work, regal-charisma]
 ---
 
@@ -59,8 +60,11 @@ Vehemiurgo — peso editorial alto.)
 
 ## Pendientes / huecos
 
+- [x] Recinto → **El Paso County Coliseum, El Paso, Texas** (taping
+      confirmado por rajah.com/Fightful; research 2026-10-05).
 - [ ] Texto completo del promo (preservar contra video).
-- [ ] Duración exacta.
+- [ ] Duración exacta — sin fuente accesible; los recaps no
+      cronometran el segmento.
 - [ ] Cobertura POST Wrestling Rewind-A-Wai TNA.
 - [ ] **Asignación de clase del Vehemiurgo** (candidato fuerte
       a Wrestling Entertainment Class).

@@ -8,12 +8,12 @@ empresa: "TNA"
 programa: "Final Resolution 2025"
 fecha: 2025-12-05
 ciudad: ""
-recinto: "[verif]"
+recinto: "El Paso County Coliseum (El Paso, Texas)"
 tipo_match: "singles — cross-promotion NXT × TNA peak"
 estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "8:56 [una fuente]"
+finish: "Spin the Block de Mike Santana — pinfall"
+ganador: "Mike Santana"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2025-2026 Kazarian King era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (sescoops, Fightful); WebFetch bloqueado por egress"
 tags: [tna-2025, final-resolution-2025, charlie-dempsey, mike-santana, cross-promotion, nxt-tna, snake-pit-wigan, technical-match]
 ---
 
@@ -61,7 +62,10 @@ tags: [tna-2025, final-resolution-2025, charlie-dempsey, mike-santana, cross-pro
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish + duración → **Mike Santana derrota a Charlie
+      Dempsey con Spin the Block, 8:56** [una fuente — sescoops/
+      Fightful] (research 2026-10-05). Recinto → **El Paso County
+      Coliseum, El Paso, Texas**.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Backstage**: cómo se negoció la aparición de Dempsey
       en TNA (Anthem ↔ TKO).

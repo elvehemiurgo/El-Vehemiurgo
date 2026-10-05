@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "estas dos salvan el show, tienen que hacer lucir bien a las faces que son muy verdes, mientras lo mantienen real y cuidan sus strikes, se merecen una WE, duró lo que tenia que durar, y el desenlace me parece buen booking"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s68 (VISIONADO DIRECTO con timestamps — 2013 02 21 TNA Impact Wrestling)"
   - "Sub-agente research-tna-impact-210213-cierre (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress: KB Reviews, Diva Dirt, PWTorch, thehistoryofwwe, OWW, Bleacher Report"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — reconciliación de Pendientes con datos ya presentes en frontmatter; sin WebSearch nuevo necesario para este ítem"
 tags: [tna-2013, impact-wrestling, gira-uk, wembley, knockouts-championship, velvet-sky, gail-kim, tara, miss-tessmacher, taryn-terrell, jessie-godderz, brooke-hogan, referee-rookie, perder-bien, wrestling-entertainment]
 ---
 # 4-way de Knockouts — Velvet Sky, nueva campeona (2013 02 21 TNA Impact Wrestling)
@@ -117,7 +118,10 @@ tags: [tna-2013, impact-wrestling, gira-uk, wembley, knockouts-championship, vel
 
 ## Pendientes
 
-- [ ] Duración exacta (tres fuentes, tres cifras).
+- [x] Duración exacta → ya registrada en frontmatter con **tres
+      fuentes y tres cifras**: **8:34** (thehistoryofwwe), **8:35**
+      (KB Reviews), **8:45** (Fandom) — no se elige una sola; sin
+      referee adicional hallado (research 2026-10-05).
 
 ## Cross-links
 

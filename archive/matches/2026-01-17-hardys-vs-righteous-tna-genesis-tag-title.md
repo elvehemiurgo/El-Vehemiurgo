@@ -5,12 +5,12 @@ participantes: ["Matt Hardy", "Jeff Hardy", "Vincent", "Dutch"]
 empresa: "TNA Wrestling"
 programa: "Genesis 2026 (PPV)"
 fecha: 2026-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Garland, Texas (área de Dallas)"
+recinto: "Curtis Culwell Center"
 tipo_match: "tag team"
 estipulacion: "TNA World Tag Team Championship defense"
 duracion: "[verif]"
-finish: "The Hardys retienen [verif finish exacto]"
+finish: "Twist of Fate (Matt Hardy) + Swanton Bomb (Jeff Hardy) sobre Vincent — pinfall de Jeff. The Hardys retienen"
 ganador: "The Hardys"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,11 +18,12 @@ veces_visto_vehemiurgo: 0
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Sub-agente dutch-bill-carr-carrera-completa-2026 (research 2026-06-17, closed)"
   - "LWOS 17 ene 2026 (anuncio fichaje + debut)"
   - "POST Wrestling 17 ene 2026"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania, Bleacher Report, PWTorch, F4Wonline); WebFetch bloqueado por egress"
 tags: [the-hardys, the-righteous, vincent-marseglia, dutch-bill-carr, tna-world-tag-team-championship, tna-genesis-2026, righteous-debut-tna, mind-games-build, hardys-como-plataforma-mentor-anchor]
 ---
 
@@ -41,7 +42,9 @@ TNA Genesis 2026, primer encuentro **The Righteous vs The Hardys**
 en TNA. The Righteous había sido anunciado como fichaje horas
 antes del show. Storyline previo: semanas de **"mind games"** del
 Righteous sobre Matt y Jeff (estética cult-paranormal del stable
-ROH-AEW). Match titular: **Hardys retienen** [verif finish exacto].
+ROH-AEW). Match titular: **Hardys retienen** con **Twist of Fate
+(Matt) + Swanton Bomb (Jeff) sobre Vincent**, pin de Jeff (research
+2026-10-05).
 Es la **apertura del arco mentor** que el Vehemiurgo identifica en
 el take 2026-06-17.
 
@@ -92,8 +95,12 @@ Wolves)? **Caso testigo en construcción** dentro del archivo.
 ## Pendientes
 
 - [ ] **Visionado por el Vehemiurgo** + clase asignada si aplica.
-- [ ] Recinto + ciudad del show.
-- [ ] Finish exacto + duración.
+- [x] Recinto + ciudad del show → **Curtis Culwell Center, Garland,
+      Texas** (área de Dallas) (research 2026-10-05).
+- [x] Finish exacto → **Twist of Fate (Matt) + Swanton Bomb (Jeff)
+      sobre Vincent**, pin de Jeff (411mania, research 2026-10-05).
+- [ ] Duración — sin fuente accesible. Referee — sin fuente
+      accesible.
 - [ ] Card completa de Genesis 2026.
 - [ ] Fact-sheets pendientes: Matt Hardy (panteón Tier 2 #19),
       Jeff Hardy (panteón Dios #5), The Hardys tag.
