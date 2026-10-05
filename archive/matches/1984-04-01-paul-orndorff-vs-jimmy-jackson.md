@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 6 'Territorial deep dives (1983–1984)'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (thehistoryofwwe.com); WebFetch bloqueado por egress"
 tags: [wwf-1984, paul-orndorff, mr-wonderful, jimmy-jackson, territorial-deep-dive, pre-wrestlemania-i, hogan-feud-build, ncf-territory]
 ---
 
@@ -56,7 +57,12 @@ tags: [wwf-1984, paul-orndorff, mr-wonderful, jimmy-jackson, territorial-deep-di
 
 ## Pendientes / huecos
 
-- [ ] **Verificar fecha exacta** + **lugar exacto**.
+- [ ] **Verificar fecha exacta** + **lugar exacto** — nota
+      (research 2026-10-05): se halló un Orndorff vs Jimmy
+      Jackson homónimo en WWF All Star Wrestling, 21 ene 1984,
+      Hamburg PA (Orndorff gana por pin, piledriver, 5 min),
+      pero no se puede confirmar que sea la misma fecha que
+      esta ficha (1 abr 1984) — no se aplica sin confirmar.
 - [ ] Ganador + finish + duración.
 - [ ] Cobertura Tim Hornbaker *Capitol Revolution* libro WWF
       1984 expansion.

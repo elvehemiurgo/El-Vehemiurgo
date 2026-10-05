@@ -7,8 +7,8 @@ protagonistas:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-04-10
-ciudad: ""
-recinto: ""
+ciudad: "San Jose, California"
+recinto: "SAP Center"
 ubicacion_en_show: ""
 duracion: ""
 linea_textual: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Real wrestlers vs play wrestlers story great — WE declarada 2026-08-01 ('es WE masiva, es tan sin sentido que entretiene')"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-04-10 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports resultados SmackDown 10 abr 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, cody-rhodes, real-vs-play-wrestlers, tko-feud, cm-punk-allied, road-to-mania-42]
 ---
 
@@ -99,7 +100,7 @@ necesitás un shoot para explicar tu kayfabe, tu kayfabe falló.** Ver
 
 - [ ] Líneas textuales exactas del promo de Cody — preservar
       verbatim contra video.
-- [ ] Lugar dentro del show, duración.
+- [x] Ciudad/recinto → San Jose, CA, SAP Center (Yahoo Sports). Lugar dentro del show y duración siguen pendientes.
 - [ ] Mapping completo de la storyline "real vs play wrestlers"
       a lo largo de WWE 2026 — todos los segmentos involucrados.
 - [ ] Cobertura PWTorch / POST / Cornette — Cornette

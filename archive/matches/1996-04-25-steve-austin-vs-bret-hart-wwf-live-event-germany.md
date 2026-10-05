@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. Hipótesis Fighting Spirit Class del notebook lo cita como candidato canónico"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Fandom, WWF Champions Tour 1996 Alemania); WebFetch bloqueado por egress"
 tags: [wwf-1996, live-event, european-tour, steve-austin, bret-hart, pre-king-of-the-ring, pre-stone-cold-name, fighting-spirit-class-candidate, no-tv-no-spectacle-pure-work]
 ---
 
@@ -74,7 +75,13 @@ tags: [wwf-1996, live-event, european-tour, steve-austin, bret-hart, pre-king-of
 ## Pendientes / huecos
 
 - [ ] **Fecha exacta** (notebook dice abr 1996, lugar
-      pendiente).
+      pendiente) — nota (research 2026-10-05): el WWF
+      Champions Tour 1996 por Alemania registra un Bret Hart
+      vs Steve Austin el **22 abr 1996 en Múnich** (Hart gana);
+      no hay fecha 25 abr documentada en las fuentes
+      consultadas. Identificación tentativa, no confirmada —
+      no se aplica a `ciudad`/`recinto` sin verificar contra
+      fuente primaria.
 - [ ] Finish + duración + ganador.
 - [ ] Cobertura WWF European tour 1996.
 - [ ] **Confirmar asignación Fighting Spirit Class** por el

@@ -3,27 +3,28 @@ match: "Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance"
 slug: "dorian-van-dux-loss-nxt-revenge-week-1-2026-04-14"
 participantes:
   - "Dorian Van Dux"
-  - "[verif] — opponent pendiente identificar"
+  - "EK Prosper"
 empresa: "WWE NXT"
 programa: "NXT Revenge Week 1"
 fecha: 2026-04-14
 ciudad: "[verif]"
 recinto: "[verif]"
-tipo_match: "singles — Dorian pierde (presunción setup heel turn future)"
-estipulacion: "[verif]"
+tipo_match: "singles — WWE Speed Championship Tournament"
+estipulacion: "WWE Speed Tournament"
 duracion: ""
-finish: "[verif]"
-ganador: "[verif] — NO es Dorian Van Dux"
+finish: "Van Dux falla un Shooting Star Press y se estrella; EK Prosper conecta un moonsault para el pin"
+ganador: "EK Prosper (avanza a la final del torneo)"
 referee: ""
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial directo 2026-05-10"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Slam Wrestling, Wrestling Inc. resultados NXT Revenge Week One); WebFetch bloqueado por egress"
 tags: [nxt-2026, nxt-revenge-week-1, dorian-van-dux, kid-kash-gear-reference, loss-setup-heel-turn, vehemiurgia-early-identification, mic-skill-debut]
 ---
 
@@ -78,9 +79,11 @@ tags: [nxt-2026, nxt-revenge-week-1, dorian-van-dux, kid-kash-gear-reference, lo
 
 ## Pendientes / huecos
 
-- [ ] **Opponent exacto** del match.
-- [ ] **Finish + duración**.
-- [ ] **Stipulación** (singles? tag? speed match?).
+- [x] **Opponent exacto** → EK Prosper (Slam Wrestling, Wrestling Inc.).
+- [x] **Finish** → Van Dux falla un SSP, EK Prosper conecta moonsault
+      para el pin y avanza a la final del WWE Speed Tournament.
+      Duración sigue pendiente.
+- [x] **Estipulación** → WWE Speed Championship Tournament.
 - [ ] **Background indie pre-NXT** — sub-agente research
       candidate (similar al precedent charlie-chazz-starboy-2026).
 - [ ] **Confirmar heel turn signaling** post-14 abr 2026.

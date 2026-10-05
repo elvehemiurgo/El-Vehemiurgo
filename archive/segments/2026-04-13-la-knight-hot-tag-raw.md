@@ -7,8 +7,8 @@ protagonistas:
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-04-13
-ciudad: ""
-recinto: ""
+ciudad: "Sacramento, California"
+recinto: "Golden 1 Center"
 ubicacion_en_show: ""
 duracion: ""
 linea_textual: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Performance and everything incredible"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, Raw 2026-04-13 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (rajah.com, eWrestling resultados Raw 13 abr 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, la-knight, hot-tag, spot-aislado, tag-team-match]
 ---
 
@@ -77,7 +78,8 @@ combat-real. Espera disparo del Vehemiurgo.)
 
 - [ ] **Identificar el tag team match completo** del que este
       hot tag forma parte. LA Knight + ¿quién? vs ¿quiénes?
-- [ ] Lugar dentro del show, duración del spot.
+- [x] Ciudad/recinto → Sacramento, CA, Golden 1 Center. Lugar
+      dentro del show y duración del spot siguen pendientes.
 - [ ] Secuencia exacta del hot tag (clean house, finisher
       attempt, near-fall, etc.).
 - [ ] **Asignación de clase del Vehemiurgo**.

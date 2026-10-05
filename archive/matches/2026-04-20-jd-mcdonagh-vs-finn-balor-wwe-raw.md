@@ -5,22 +5,23 @@ participantes: ["JD McDonagh", "Finn Bálor"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-04-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Las Vegas, Nevada"
+recinto: "T-Mobile Arena"
 tipo_match: "singles — grudge match"
 estipulacion: "[verif]"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Finn Bálor aplica el Coup de Grace para el pin"
+ganador: "Finn Bálor"
 referee: "[verif]"
 encuentros_previos: "Video promo dual previo (mismo día)"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'la lucha se merece las 3 clases, estos dos son increíbles'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — WWE Raw, 20/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Sportskeeda resultados Raw 20 abr 2026); WebFetch bloqueado por egress"
 tags: [jd-mcdonagh, finn-balor, prince-devitt, wwe-raw-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, sin-el-demon, panteon-48, the-future-in-2026, grudge-match]
 ---
 
@@ -61,7 +62,7 @@ tags: [jd-mcdonagh, finn-balor, prince-devitt, wwe-raw-2026, singles, perfect-wr
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + ciudad/recinto → Finn Bálor gana con Coup de Grace; Las Vegas NV, T-Mobile Arena (Sportskeeda). Duración sigue pendiente.
 
 ## Cross-links
 

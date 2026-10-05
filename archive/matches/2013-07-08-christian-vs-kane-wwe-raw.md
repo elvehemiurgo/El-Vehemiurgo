@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE"
 programa: "Raw"
 fecha: 2013-07-08
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Baltimore, Maryland"
+recinto: "1st Mariner Arena"
 tipo_match: "singles — match anterior al Wyatt Family debut attack"
 estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "7:40"
+finish: "Kane gana — mecanismo exacto no detallado en fuentes consultadas"
+ganador: "Kane"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -23,9 +23,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE MITB 2013 cluster"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (resultados Raw 8 jul 2013); WebFetch bloqueado por egress"
 tags: [wwe-2013, raw-jul-2013, christian-cage, kane, pre-wyatt-attack, christian-fase-intermedia, mitb-build]
 ---
 
@@ -60,7 +61,7 @@ tags: [wwe-2013, raw-jul-2013, christian-cage, kane, pre-wyatt-attack, christian
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + duración → Kane gana en 7:40, 1st Mariner Arena, Baltimore MD (resultados Raw 8 jul 2013). Mecanismo exacto del finish sigue pendiente.
 - [ ] **Asignación de clase del Vehemiurgo**.
 
 ## Piezas relacionadas

@@ -9,8 +9,8 @@ protagonistas:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-04-24
-ciudad: ""
-recinto: ""
+ciudad: "Fort Worth, Texas"
+recinto: "Dickies Arena"
 ubicacion_en_show: ""
 duracion: ""
 linea_textual: ""
@@ -24,9 +24,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Great promos by Jimmy and Fatu, cool Tama Tonga with a chance"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-04-24 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Dickies Arena events, Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, jacob-fatu, jimmy-uso, tama-tonga, post-mania-42, anoai-family-storyline]
 ---
 
@@ -81,7 +82,7 @@ candidatura **Wrestling Entertainment Class** sostenida.)
       contra video.
 - [ ] Específicamente: el *"chance"* que recibió Tama Tonga —
       cómo se ejecutó on-screen.
-- [ ] Lugar dentro del show, duración.
+- [x] Ciudad/recinto → Fort Worth, TX, Dickies Arena (Dickies Arena events, Fightful). Lugar dentro del show y duración siguen pendientes.
 - [ ] Storyline post-WrestleMania 42 que enmarca.
 - [ ] **Asignación de clase del Vehemiurgo**.
 

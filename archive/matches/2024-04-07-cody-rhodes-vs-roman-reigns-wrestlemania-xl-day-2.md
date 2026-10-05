@@ -11,8 +11,8 @@ ciudad: "Philadelphia, PA"
 recinto: "Lincoln Financial Field"
 tipo_match: "singles — Bloodline Rules Undisputed WWE Universal Championship match (main event)"
 estipulacion: "Bloodline Rules + Undisputed WWE Universal Championship"
-duracion: ""
-finish: "[verif] — Cody wins via Cross Rhodes con Seth Rollins + The Rock + Undertaker + John Cena run-ins multiplicados"
+duracion: "33:23"
+finish: "Jimmy Uso superkickea a Cody pero Jey lo detiene; Solo Sikoa aplica el Samoan Spike pero Cody se levanta del pin; Cena saca a Sikoa y le da un Attitude Adjustment a Reigns a través de la mesa de comentaristas; The Rock aparece, se encara con Cena y le da un Rock Bottom; Undertaker aparece y le aplica un Chokeslam a The Rock; Cody conecta tres Cross Rhodes para el pin"
 ganador: "Cody Rhodes"
 referee: ""
 attendance_anunciada: "72,755 (Día 2 attendance)"
@@ -24,9 +24,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster WM42 + Cody arc"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Bleacher Report, Fightful resultados WM XL Noche 2); WebFetch bloqueado por egress"
 tags: [wwe-2024, wrestlemania-xl, day-2, cody-rhodes-finishing-the-story, roman-reigns-loss-1316-days-reign-end, dusty-rhodes-legacy-completion, the-rock-heel-aliado, philadelphia, modern-classic-wm-main-event-anchor]
 ---
 
@@ -88,7 +89,7 @@ multi-año.
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración + secuencia run-ins.
+- [x] Finish exacto + duración + secuencia run-ins → 33:23; cascada de interferencias (Jimmy/Jey Uso, Solo Sikoa, Cena, The Rock, Undertaker) hasta tres Cross Rhodes (Bleacher Report, Fightful).
 - [ ] **Buyrate WMXL** Día 1 + Día 2 estimates.
 - [ ] Star rating WON Meltzer (contexto histórico).
 - [ ] Cobertura POST + Cornette + Conrad Thompson.

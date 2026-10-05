@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. 5 del notebook 'Bret Hart deep cuts — carny tradition' contextualiza"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch vía snippet, resultados Raw abr 1995); WebFetch bloqueado por egress"
 tags: [wwf-1995, raw-1995, bret-hart, owen-hart, hart-brothers-feud, pre-wm-xi, bret-deep-cuts, carny-tradition]
 ---
 
@@ -79,7 +80,11 @@ interés Vehemiurgia en Bret deep cuts**.)
 
 - [ ] **Fecha exacta** (notebook dice "Raw before WrestleMania
       XI" — WMXI fue 02.04.1995, este Raw probable es 27.03.1995
-      o 03.04.1995).
+      o 03.04.1995) — nota (research 2026-10-05): las fuentes
+      consultadas solo documentan un tag match el 3 abr 1995
+      (Bob Holly, Bret Hart & 1-2-3 Kid vs Hakushi, Owen Hart &
+      Yokozuna, Mid-Hudson Civic Center, Poughkeepsie NY), no
+      un singles Bret/Owen. No se puede confirmar identificación.
 - [ ] Ganador + finish + duración.
 - [ ] Star rating WON Meltzer (contexto, no veredicto).
 - [ ] **Asignación de clase del Vehemiurgo**.

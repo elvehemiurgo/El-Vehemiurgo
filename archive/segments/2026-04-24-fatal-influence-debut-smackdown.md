@@ -9,8 +9,8 @@ protagonistas:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-04-24
-ciudad: ""
-recinto: ""
+ciudad: "Fort Worth, Texas"
+recinto: "Dickies Arena"
 ubicacion_en_show: ""
 duracion: ""
 linea_textual: ""
@@ -24,9 +24,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'THE GREATEST ACT IN WWE NOW IN THE BIG LEAGUES' + 'se merece el enterteinment class' (primer segmento: ataque a la división tag team)"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-04-24 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Dickies Arena events, Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, fatal-influence, debut-main-roster, call-up-tko, jacy-jayne, fallon-henley, lainey-reid, rhea-ripley-crash]
 ---
 
@@ -110,7 +111,7 @@ declaración *"greatest act in WWE now"* del notebook 2026-05-09.
 
 - [ ] Líneas textuales del segmento — preservar contra video.
 - [ ] Roster exacto de la división tag team atacada.
-- [ ] Lugar dentro del show, duración.
+- [x] Ciudad/recinto → Fort Worth, TX, Dickies Arena (Dickies Arena events, Fightful). Lugar dentro del show y duración siguen pendientes.
 - [ ] Cobertura PWTorch / POST / Cornette del show.
 
 ## Piezas relacionadas

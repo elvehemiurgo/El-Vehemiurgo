@@ -5,22 +5,23 @@ participantes: ["Sol Ruca", "Zaria"]
 empresa: "WWE"
 programa: "NXT Revenge — Week 2"
 fecha: 2026-04-21
-ciudad: "[verif]"
+ciudad: "Orlando, Florida"
 recinto: "[verif]"
-tipo_match: "singles — grudge match"
-estipulacion: "[verif]"
+tipo_match: "singles — Last Woman Standing (main event de NXT Revenge Week 2)"
+estipulacion: "Last Woman Standing"
 duracion: "[verif]"
-finish: "[verif] — incluye spot F5 en la mesa de comentaristas"
-ganador: "[verif]"
+finish: "Zaria empuja a Sol Ruca desde un balcón/perch; Ruca atraviesa una mesa y no rompe la segunda — Zaria gana por Last Woman Standing. Incluye spot previo del F5 en la mesa de comentaristas"
+ganador: "Zaria"
 referee: "[verif]"
 encuentros_previos: "Rivalidad sostenida desde NXT (17/3, 24/2 heel turn, etc.)"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merecen una fighting spirit y un enterteinment class', con reserva sobre el setup del F5"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — WWE NXT Revenge Week 2, 21/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Slam Wrestling resultados NXT Revenge Week Two); WebFetch bloqueado por egress"
 tags: [sol-ruca, zaria, wwe-nxt-2026, singles, fighting-spirit, wrestling-entertainment, grudge-match, payoff-mutuo, reserva-tecnica-puntual, spot-en-las-alturas]
 ---
 
@@ -62,7 +63,7 @@ tags: [sol-ruca, zaria, wwe-nxt-2026, singles, fighting-spirit, wrestling-entert
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + ganador + ciudad → Zaria gana el Last Woman Standing empujando a Sol Ruca a través de una mesa desde las alturas; Orlando FL (WWE.com, Slam Wrestling). Duración y recinto exacto siguen pendientes.
 
 ## Cross-links
 

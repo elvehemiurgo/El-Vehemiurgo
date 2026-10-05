@@ -9,13 +9,13 @@ participantes:
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-04-13
-ciudad: ""
-recinto: ""
+ciudad: "Sacramento, California"
+recinto: "Golden 1 Center"
 tipo_match: "tag team"
 estipulacion: ""
 duracion: ""
-finish: ""
-ganador: ""
+finish: "Dragon Lee aplica un Styles Clash sobre JD McDonagh para el pin, tras hot tag de Lee y un dive de Jevon Evans sobre Rusev"
+ganador: "Dragon Lee & Jevon Evans"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -27,9 +27,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "McDonagh started stiff (cool); styles clash sequence phenomenal"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, Raw 2026-04-13 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (resultados Raw 13 abr 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, jd-mcdonagh, rusev, dragon-lee, jevon-evans, stiff-work, styles-clash, judgment-day-vs-luchadores]
 ---
 
@@ -77,9 +78,11 @@ bien presentado. Espera disparo del Vehemiurgo para asignar.)
 
 ## Pendientes / huecos
 
-- [ ] Finish, ganador, duración.
-- [ ] Verificar contra video: quién conectó el Styles Clash y
-      contexto exacto de la secuencia.
+- [x] Finish, ganador → Dragon Lee & Jevon Evans ganan; Dragon Lee
+      conecta el Styles Clash sobre JD McDonagh para el pin
+      (research 2026-10-05, resultados Raw). Ciudad/recinto →
+      Sacramento, CA, Golden 1 Center (rajah.com, eWrestling).
+      Duración sigue pendiente.
 - [ ] Storyline previo (Judgment Day vs luchadores en Raw 2026).
 - [ ] Recinto, attendance, rating.
 - [ ] **Asignación de clase del Vehemiurgo**.

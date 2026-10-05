@@ -23,10 +23,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. 5 'Bret Hart deep cuts — carny tradition'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (IMDb, thehistoryofwwe.com); WebFetch bloqueado por egress"
 tags: [wwf-1992, bret-hart, the-mountie, jacques-rougeau, wwf-championship-defense, bret-deep-cuts, canadian-territory, post-summerslam-92-build]
 ---
 
@@ -71,7 +72,16 @@ tags: [wwf-1992, bret-hart, the-mountie, jacques-rougeau, wwf-championship-defen
 
 ## Pendientes / huecos
 
-- [ ] Finish + duración exactos.
+- [ ] Finish + duración exactos — nota (research 2026-10-05):
+      las fuentes consultadas ubican un WWF Title dark match
+      Bret Hart vs The Mountie el 26 oct 1992 en el Prairie
+      Capitol Convention Center, Springfield, IL (TV taping de
+      Survivor Series Showdown), lo que **contradice** la ciudad
+      ya registrada en esta ficha (Saskatoon, Saskatchewan). No
+      se modifica `ciudad` por no ser placeholder de este lote —
+      **Discrepancia (research 2026-10-05)**: verificar Saskatoon
+      vs Springfield IL contra fuente primaria antes de tocar el
+      campo.
 - [ ] **Verificar fecha exacta** (notebook dice 26.10.1992).
 - [ ] Cobertura WWF Magazine + WON nov 1992 (Bret early
       reign coverage).
