@@ -7,8 +7,8 @@ empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-07-24
 ciudad: "Oakland, California"
-recinto: "[verif]"
-ubicacion_en_show: "[verif]"
+recinto: "Oakland Arena"
+ubicacion_en_show: "segmento de cierre del show"
 duracion: "[verif]"
 linea_textual: "he has nothing left to lose (Aldis, sobre sí mismo)"
 gimmick_momento: "[verif]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sublime, un sueño tener a Gunther trabajando contra lo mejor de NWA en distintas eras (Aldis, Pearce); muy buenas promos, buenísima programación, es una dream match — sin fórmula de clase declarada"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s14 (visión directa — WWE SmackDown, 24/7/2026)"
   - "Sub-agente card-wwe-smackdown-240726 (research 2026-08-01, closed) — 411mania, Fightful, PWTorch, Cageside Seats"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Ticketmaster, Wrestleview); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, nick-aldis, gunther, adam-pearce, summerslam, nwa-legado, sin-clase]
 ---
 
@@ -75,7 +76,7 @@ programación.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar recinto exacto y ubicación en el show.
+- [x] Confirmar recinto y ubicación en el show. → Oakland Arena, segmento de cierre del show (Wrestleview, research 2026-10-05)
 - [ ] Verificar si Gunther declaró explícitamente arriesgar su carrera.
 
 ## Piezas relacionadas

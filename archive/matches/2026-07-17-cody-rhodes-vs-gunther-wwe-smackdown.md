@@ -9,7 +9,7 @@ ciudad: "Albany, Nueva York"
 recinto: "MVP Arena"
 tipo_match: "singles"
 estipulacion: "calentamiento go-home hacia el tag de Saturday Night's Main Event (Punk/Rhodes vs Gunther/Zayn)"
-duracion: "[verif]"
+duracion: "12:52 [una fuente]"
 finish: "No contest — Sami Zayn irrumpe y ataca a CM Punk en el ringside mientras Rhodes tenía a Gunther en la Figure-Four; la distracción hace que Rhodes suelte la llave y Zayn lo mande contra el poste"
 ganador: "sin decisión — no contest"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Gran lucha, evolución del personaje de Gunther bien entendida por el Vehemiurgo — corporate darling egoísta, no un fenómeno físico como Brock u Oba; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s11 (visión directa — WWE SmackDown, 17/7/2026)"
   - "Sub-agente card-wwe-smackdown-170726 (research 2026-08-01, closed) — WWE.com, Wrestleview, Sunday Guardian Live"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (thesportster); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, cody-rhodes, gunther, sami-zayn, cm-punk, snme, summerslam, perfect-match, no-contest]
 ---
 
@@ -86,8 +87,7 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración exacta — no reportada por las fuentes
-      consultadas.
+- [x] Confirmar duración exacta. → 12:52 [una fuente] (thesportster, 2026-10-05)
 - [ ] Confirmar réferi.
 
 ## Piezas relacionadas

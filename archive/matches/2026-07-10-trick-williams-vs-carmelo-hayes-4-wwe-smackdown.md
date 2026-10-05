@@ -9,9 +9,9 @@ ciudad: "Oklahoma City, Oklahoma"
 recinto: "Paycom Center"
 tipo_match: "singles"
 estipulacion: "WWE United States Championship"
-duracion: "[verif]"
+duracion: "10:29 [una fuente]"
 finish: "Regreso de Baron Corbin, que liquida a los dos"
-ganador: "Sin resolución limpia — interferencia de Baron Corbin [discrepancia de fuentes: DQ vs No Contest]"
+ganador: "No Contest — interferencia de Baron Corbin, que liquida a los dos (confirmado No Contest, no DQ)"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merece todas las clases, estos dos cuidan sus gimmicks y tienen buenos movimientos, solo Trick tiene algunos momentos que le falta pulir, pero con Melo pisa el acelerador; se notan más cómodos moviéndose como main eventers, buen selling efectivo, buenos counters, le dieron profundidad con intervenciones y el brazo; está cool que los protejan con una intervención, solo que nunca me gustó Corbin, pero la lucha en cuestión estuvo impecable"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s10 (visión directa — SmackDown, 10/7/2026)"
   - "Sub-agente card-wwe-smackdown-100726 (research 2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (eWrestlingNews, Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, trick-williams, carmelo-hayes, us-championship, baron-corbin-regreso, cuarto-capitulo, perfect-match, madurez-main-event]
 ---
 
@@ -50,12 +51,12 @@ tags: [wwe-2026, smackdown, trick-williams, carmelo-hayes, us-championship, baro
 - **Elogio técnico específico**: secuencias más físicas y reales, buenos counters. **En vez de un "greatest hits" de spots conocidos, le dieron profundidad con intervenciones y trabajo del brazo** — secuencias nuevas, no repetición.
 - **Reserva puntual sobre Trick**: *"algunos momentos que le falta pulir"*, contra un Carmelo que *"pisa el acelerador"*.
 - **La protección vía intervención se lee como acierto de booking**: *"está cool que los protejan con una intervención"* — el regreso de Baron Corbin cierra sin desgastar a ninguno de los dos con una derrota limpia.
-- **Discrepancia de fuentes sin resolver**: unas dan el finish como DQ, otras como No Contest — ambas registradas.
+- **Discrepancia de fuentes resuelta por research (2026-10-05)**: No Contest confirmado (no DQ), duración 10:29 [una fuente].
 
 ## Pendientes / huecos
 
-- [ ] Resolver DQ vs No Contest.
-- [ ] Duración exacta.
+- [x] Resolver DQ vs No Contest. → No Contest, confirmado (eWrestlingNews/Fightful, 2026-07-10)
+- [x] Duración exacta. → 10:29 [una fuente] (eWrestlingNews, 2026-07-10)
 - [ ] Confirmar el próximo capítulo de la rivalidad tras el regreso de Corbin.
 
 ## Piezas relacionadas

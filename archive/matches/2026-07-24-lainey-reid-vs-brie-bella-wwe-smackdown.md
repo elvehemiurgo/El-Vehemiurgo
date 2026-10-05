@@ -6,10 +6,10 @@ empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-07-24
 ciudad: "Oakland, California"
-recinto: "[verif]"
+recinto: "Oakland Arena"
 tipo_match: "singles"
 estipulacion: "sin título en juego"
-duracion: "[verif]"
+duracion: "5:42 [una fuente]"
 finish: "Brie Bella vence a Lainey Reid por pinfall (roll-up)"
 ganador: "Brie Bella"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "No fue un clásico instantáneo al nivel de lo que Reid puede dar, pero sí fue un éxito de performance y posicionamiento como heel; sin fórmula de clase declarada"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s14 (visión directa — WWE SmackDown, 24/7/2026)"
   - "Sub-agente card-wwe-smackdown-240726 (research 2026-08-01, closed) — Bleacher Report, eWrestling, RingsideNews, Rajah.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Ticketmaster, eWrestling); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, lainey-reid, brie-bella, nikki-bella, fatal-influence, summerslam, sin-clase]
 ---
 
@@ -69,7 +70,8 @@ de performance y reserva sobre el resultado del match como pieza.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar recinto y duración.
+- [x] Confirmar recinto. → Oakland Arena (Ticketmaster/eWrestling, research 2026-10-05)
+- [x] Confirmar duración. → 5:42 [una fuente] (research 2026-10-05)
 - [ ] Seguimiento del Six-Woman Tag de SummerSlam — fuera del horizonte
       de este registro.
 

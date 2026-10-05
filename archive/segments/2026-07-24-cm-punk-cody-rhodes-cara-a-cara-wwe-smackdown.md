@@ -7,7 +7,7 @@ empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-07-24
 ciudad: "Oakland, California"
-recinto: "[verif]"
+recinto: "Oakland Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy intenso y muy real, me gustó mucho, para ser face contra face lo hicieron personal para ambos, escaló muy rápido, está bien oldschool, buenísimo — sin fórmula de clase declarada"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s14 (visión directa — WWE SmackDown, 24/7/2026)"
   - "Sub-agente card-wwe-smackdown-240726 (research 2026-08-01, closed) — Sunday Guardian Live, Cageside Seats, Heavy.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Ticketmaster, eWrestling); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, cm-punk, cody-rhodes, summerslam, sin-clase, face-vs-face]
 ---
 
@@ -73,7 +74,8 @@ declaración de clase.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar recinto y ubicación exacta en el show.
+- [x] Confirmar recinto. → Oakland Arena (Ticketmaster/eWrestling, research 2026-10-05)
+- [ ] Confirmar ubicación exacta en el show.
 - [ ] Buscar transcripción/video para verificar si se mencionó
       explícitamente el pipebomb de 2011.
 

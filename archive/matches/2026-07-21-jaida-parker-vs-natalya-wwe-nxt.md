@@ -5,8 +5,8 @@ participantes: ["Jaida Parker", "Natalya", "Thea Hail", "Nikkita Lyons", "Karmen
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-07-21
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "sin título en juego"
 duracion: "11:27"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Me sorprendió, Nattie le sacó una gran lucha, muy oldschool, algo stiff, buenas secuencias de wrestling estilo stampede; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s13 (visión directa — WWE NXT, 21/7/2026)"
   - "Sub-agente card-wwe-nxt-210726 (research 2026-08-01, closed) — Wrestlezone, Wrestling Inc, PWTorch, WrestleTalk"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, jaida-parker, natalya, thea-hail, nikkita-lyons, karmen-petrovic, sharpshooter, perfect-match, faccion]
 ---
 
@@ -83,7 +84,8 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar ciudad, recinto y réferi.
+- [x] Confirmar ciudad y recinto. → Orlando, Florida — WWE Performance Center (Fightful, research 2026-10-05)
+- [ ] Confirmar réferi.
 - [ ] Abrir fichas individuales de Natalya y Karmen Petrovic — hecho en
       este mismo volcado.
 

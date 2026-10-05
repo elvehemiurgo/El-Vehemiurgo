@@ -9,7 +9,7 @@ ciudad: "Albany, Nueva York"
 recinto: "MVP Arena"
 tipo_match: "singles"
 estipulacion: "clasificatorio para el Interim WWE Women's Championship Ladder Match de SummerSlam — sin título de Stratton en juego"
-duracion: "[verif]"
+duracion: "7:46 [una fuente]"
 finish: "Stratton contrarresta el Rolling Encore de Jayne y remata con Prettiest Moonsault Ever"
 ganador: "Tiffany Stratton"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Un espectáculo desde las entradas y el promo video previo; evolución notable de Tiffany, timing de main eventer; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s11 (visión directa — WWE SmackDown, 17/7/2026)"
   - "Sub-agente card-wwe-smackdown-170726 (research 2026-08-01, closed) — POST Wrestling, WWE.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, jacy-jayne, tiffany-stratton, interim-championship-ladder-match, summerslam, perfect-match, fatal-influence]
 ---
 
@@ -88,7 +89,8 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración exacta y réferi.
+- [x] Confirmar duración exacta. → 7:46 [una fuente] (research 2026-10-05)
+- [ ] Confirmar réferi.
 - [ ] Confirmar si el ataque de Fatal Influence (Lainey Reid, Fallon
       Henley) previo a la campana entra como parte de este registro o
       merece segmento propio — por ahora anotado aquí.
