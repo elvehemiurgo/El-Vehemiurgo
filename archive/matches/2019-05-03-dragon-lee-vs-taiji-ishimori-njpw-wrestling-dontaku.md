@@ -11,9 +11,9 @@ ciudad: "Fukuoka"
 recinto: "Fukuoka Convention Center"
 tipo_match: "singles — IWGP Junior Heavyweight Championship match"
 estipulacion: "IWGP Junior Heavyweight Championship"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "25:53"
+finish: "Dragon Lee retiene — mecanismo exacto del pin no detallado en fuentes consultadas [verif]"
+ganador: "Dragon Lee (retiene IWGP Junior Heavyweight Championship)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. Hipótesis Fighting Spirit Class del notebook lo cita como candidato canónico"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Dot Net, Wrestling Inc. resultados 3 may 2019); WebFetch bloqueado por egress"
 tags: [njpw-2019, wrestling-dontaku, dragon-lee, taiji-ishimori, junior-heavyweight, fukuoka, fighting-spirit-class-candidate, mexican-junior-tradition]
 ---
 
@@ -70,7 +71,7 @@ Spirit Class* del notebook como candidato canónico**.)
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + duración → Dragon Lee retiene IWGP Junior Heavyweight Championship en 25:53 (Pro Wrestling Dot Net, Wrestling Inc.). Mecanismo exacto del finish sigue pendiente.
 - [ ] Cobertura WON Meltzer + Bryan Alvarez Wrestling Dontaku
       2019.
 - [ ] **Confirmar asignación Fighting Spirit Class** por el

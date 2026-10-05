@@ -8,23 +8,24 @@ participantes:
 empresa: "WWE NXT"
 programa: "NXT Revenge Week 1"
 fecha: 2026-04-14
-ciudad: "[verif]"
+ciudad: "Orlando, Florida"
 recinto: "[verif]"
 tipo_match: "singles — NXT Women's Championship match (intra-Fatal Influence)"
 estipulacion: "NXT Women's Championship — Lola defendiendo, Jacy challenging"
 duracion: ""
-finish: ""
-ganador: ""
+finish: "Lola Vice retiene — mecanismo exacto no detallado en fuentes consultadas"
+ganador: "Lola Vice (retiene el NXT Women's Championship)"
 referee: ""
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece el fighting spirit y el enterteinment class' (elevada 2026-07-14, previamente solo Fighting Spirit)"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial directo 2026-05-10 sobre NXT Revenge Week 1"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, rajah.com resultados NXT Revenge Week One); WebFetch bloqueado por egress"
 tags: [nxt-2026, nxt-revenge-week-1, jacy-jayne, lola-vice, fallon-henley, fatal-influence-despedida, womens-title, fighting-spirit-class, intra-faction, pre-callup-smackdown]
 ---
 
@@ -147,7 +148,7 @@ luchas"* — crítica de matchmaking interno, no de talento. Ver
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración exactos.
+- [x] Ganador → Lola Vice retiene el NXT Women's Championship (WWE.com). Finish exacto y duración siguen pendientes.
 - [ ] Secuencia exacta del Fallon Henley 619 spot + Lola
       sell.
 - [ ] Cobertura POST Wrestling Rewind-A-NXT.

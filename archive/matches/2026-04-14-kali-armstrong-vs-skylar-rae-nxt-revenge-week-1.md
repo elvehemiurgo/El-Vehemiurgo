@@ -12,7 +12,7 @@ recinto: "WWE Performance Center, Orlando (presunción)"
 tipo_match: "singles (squash con comeback)"
 estipulacion: ""
 duracion: ""
-finish: "Kali Armstrong def. Skylar Rae con finisher brutal (verificar nombre del finisher)"
+finish: "Kali Armstrong def. Skylar Rae con la Kali Connection"
 ganador: "Kali Armstrong"
 referee: ""
 attendance_anunciada: ""
@@ -26,9 +26,10 @@ calificacion_vehemiurgo: "Gran showcase para Kali, muy old-school, gimmick + bod
 clases_vehemiurgo:
   - fighting-spirit
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT Revenge Week 1 2026-04-14"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc. resultados NXT Revenge Week One); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, nxt-revenge-2026, kali-armstrong, skylar-rae, armstrong-family-lineage, fighting-spirit-class, body-guy, squash-with-comeback, babyface-natural]
 ---
 
@@ -113,8 +114,7 @@ show, ni algo safe"*.
 - [ ] **Research familia Armstrong** delegado a sub-agente
       `kali-armstrong-family-2026` — ver
       [`../../research/pending.md`](../../research/pending.md).
-- [ ] Finish exacto + nombre del finisher de Kali ("brutal" per
-      Vehemiurgo).
+- [x] Finish exacto + nombre del finisher de Kali → la Kali Connection (Wrestling Inc., research 2026-10-05).
 - [ ] Duración del match.
 - [ ] Recinto, attendance, rating.
 - [ ] Cobertura PWTorch / POST / Cornette del NXT Revenge Week 1.

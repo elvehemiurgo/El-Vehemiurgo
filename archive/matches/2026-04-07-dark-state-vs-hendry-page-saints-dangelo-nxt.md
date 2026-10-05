@@ -2,7 +2,7 @@
 match: "Dark State vs Joe Hendry, Ethan Page, Ricky Saints & Tony D'Angelo"
 slug: "dark-state-vs-hendry-page-saints-dangelo-nxt-2026-04-07"
 participantes:
-  - "Dark State (Saquon Shugars + miembros — composición pendiente confirmar)"
+  - "Dark State (Dion Lennox, Shaquon Shugars, Osiris Griffin, Cutler James)"
   - "Joe Hendry"
   - "Ethan Page"
   - "Ricky Saints"
@@ -11,8 +11,8 @@ empresa: "WWE"
 programa: "NXT TV (semanal)"
 fecha: 2026-04-07
 ciudad: ""
-recinto: "WWE Performance Center, Orlando (presunción — verificar)"
-tipo_match: "8-man tag (4v4) — confirmar exacta"
+recinto: "WWE Performance Center, Orlando"
+tipo_match: "8-man tag (4v4)"
 estipulacion: ""
 duracion: ""
 finish: "Equipo Hendry / Page / Saints / D'Angelo gana. Secuencia final destaca la lanza de Tony D'Angelo + intervención clave de Ethan Page."
@@ -28,9 +28,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buen wrestling, buenas secuencias, muy buen selling"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT TV semanal 2026-04-07"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports, Sportskeeda resultados NXT 7 abr 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, nxt-tv, dark-state, joe-hendry, ethan-page, ricky-saints, tony-dangelo, saquon-shugars, 8-man-tag]
 ---
 
@@ -128,11 +129,12 @@ asignar.)
 
 ## Pendientes / huecos
 
-- [ ] **Composición exacta de Dark State** en este match. Saquon
-      Shugars confirmado; los otros tres miembros pendientes.
-- [ ] Tipo de match exacto (8-man tag elimination? regular tag?
-      con stipulation?).
-- [ ] Recinto, attendance del PLE.
+- [x] **Composición exacta de Dark State** → Dion Lennox, Shaquon
+      Shugars, Osiris Griffin y Cutler James (Yahoo Sports,
+      Sportskeeda, research 2026-10-05).
+- [x] Tipo de match exacto → 8-man tag team match.
+- [x] Recinto → WWE Performance Center, Orlando FL (no es PLE, es
+      NXT TV semanal). Attendance sigue pendiente.
 - [ ] Duración y finish con secuencia final preservada contra
       video.
 - [ ] Cobertura PWTorch / POST / Cornette del show.

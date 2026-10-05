@@ -11,8 +11,8 @@ ciudad: "Lyon, France"
 recinto: "LDLC Arena"
 tipo_match: "singles — Undisputed WWE Universal Championship match"
 estipulacion: "Undisputed WWE Universal Championship — Cody defendiendo post-WMXL"
-duracion: ""
-finish: "[verif] — Cody retains"
+duracion: "27:21"
+finish: "Cody Cutter desde la tercera cuerda seguido de un Cross Rhodes — pin"
 ganador: "Cody Rhodes"
 referee: ""
 attendance_anunciada: ""
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 9 'AJ Styles arc completo'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Slam Wrestling, Cageside Seats, Forbes resultados Backlash France); WebFetch bloqueado por egress"
 tags: [wwe-2024, backlash-france-2024, aj-styles, cody-rhodes, undisputed-wwe-title, post-wmxl-defense, lyon-france, aj-arc-veterano-vs-finisher-story]
 ---
 
@@ -56,7 +57,7 @@ tags: [wwe-2024, backlash-france-2024, aj-styles, cody-rhodes, undisputed-wwe-ti
 
 ## Pendientes / huecos
 
-- [ ] Finish + duración exactos.
+- [x] Finish + duración exactos → 27:21, Cody Cutter desde la tercera cuerda + Cross Rhodes (Slam Wrestling, Cageside Seats, Forbes).
 - [ ] Star rating WON Meltzer (contexto, no veredicto).
 - [ ] Cobertura POST Wrestling + Cornette reaction (alta
       probabilidad).

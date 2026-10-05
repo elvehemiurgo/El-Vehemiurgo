@@ -6,8 +6,8 @@ protagonistas: ["Trick Williams", "Bron Breakker"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-06-05
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Bolonia, Italia"
+recinto: "Unipol Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Gran promo de Trick, el careo con Bron fue cool — Bron cada vez más mini Rollins y aburrido"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — SmackDown, 5/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, pwmania resultados SmackDown 5 jun 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, trick-williams, bron-breakker, king-of-the-ring-2026, diagnostico-bron-mini-rollins]
 ---
 
@@ -50,7 +51,7 @@ tags: [wwe-2026, smackdown, trick-williams, bron-breakker, king-of-the-ring-2026
 
 ## Pendientes / huecos
 
-- [ ] Resultado de la lucha de Trick en el torneo.
+- [x] Resultado de la lucha de Trick en el torneo → perdió el fatal 4-way de primera ronda (Dominik Mysterio gana, ver [`../matches/2026-06-05-4-way-wwe-smackdown.md`](../matches/2026-06-05-4-way-wwe-smackdown.md)). Ciudad/recinto → Bolonia, Unipol Arena.
 - [ ] Cuadro completo del King of the Ring 2026.
 
 ## Piezas relacionadas

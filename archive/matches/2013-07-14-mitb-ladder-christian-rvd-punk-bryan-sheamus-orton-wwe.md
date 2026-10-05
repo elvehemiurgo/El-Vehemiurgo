@@ -15,8 +15,8 @@ ciudad: "Philadelphia, PA"
 recinto: "Wells Fargo Center"
 tipo_match: "ladder match — Money in the Bank WHC contract"
 estipulacion: "MITB ladder match — World Heavyweight Championship contract"
-duracion: ""
-finish: "[verif] — Randy Orton wins"
+duracion: "28:38"
+finish: "Paul Heyman golpea a CM Punk con la escalera (lo abre la cabeza), RVD intenta subir y recibe un RKO de Orton, que sube y toma el maletín"
 ganador: "Randy Orton"
 referee: ""
 attendance_anunciada: ""
@@ -29,9 +29,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE MITB 2013 cluster"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Sportskeeda resultados MITB 2013); WebFetch bloqueado por egress"
 tags: [wwe-2013, money-in-the-bank-2013, mitb-classic, christian-cage, rvd-wwe-return, cm-punk, daniel-bryan, sheamus, randy-orton, wh-title-contract, summerslam-2013-cash-in-build]
 ---
 
@@ -71,7 +72,7 @@ tags: [wwe-2013, money-in-the-bank-2013, mitb-classic, christian-cage, rvd-wwe-r
 
 ## Pendientes / huecos
 
-- [ ] Finish + duración + secuencia.
+- [x] Finish + duración + secuencia → 28:38; Heyman abre a Punk con la escalera, Orton le da RKO a RVD en la escalera y sube por el maletín (WWE.com, Sportskeeda).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura *Something To Wrestle* (alta probabilidad).
 - [ ] **Asignación de clase del Vehemiurgo** (candidato fuerte

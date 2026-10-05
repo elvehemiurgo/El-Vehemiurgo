@@ -13,7 +13,7 @@ ciudad: "Tokyo, Japón"
 recinto: "Korakuen Hall"
 tipo_match: "tag team — cross-promotion joshi pillars dream tag (Sendai/Marvelous representadas vs Stardom local + celebrity)"
 estipulacion: "Standard tag"
-duracion: "[verif min — pendiente]"
+duracion: "12:21"
 finish: "**Sareee Diving Footstomp sobre Fuwa-chan** (confirmado sub-agente takumi-iroha-tag-matches-2026-lista-pendiente-ver 2026-05-10)"
 ganador: "**SPARK RUSH (Sareee + Takumi Iroha)** — gana"
 referee: ""
@@ -27,10 +27,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit Class (asignada explícitamente — 'fighting spirit asegurado')"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial directo 2026-05-10"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (resultados Stardom in Korakuen 28 feb 2026); WebFetch bloqueado por egress"
 tags: [stardom-2026, korakuen-hall, joshi-cross-promotion, sareee, takumi-iroha, hazuki, fuwa-chan, marvelous-style, sendai-girls-pillar, marufuji-style-takumi, fighting-spirit-class, hazuki-heroe-vehemiurgo, hazuki-is-god, mismo-card-kira-stardom-debut]
 ---
 
@@ -158,7 +159,7 @@ como modificador gimmick**.
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración exactos.
+- [x] Ganador + finish + duración exactos → SPARK RUSH (Sareee & Takumi Iroha) ganan en 12:21, Sareee Diving Footstomp sobre Fuwa-chan (resultados Stardom in Korakuen 28 feb 2026).
 - [ ] **Star rating WON Meltzer / Voices of Wrestling
       Stardom Watch Guide feb 2026** (contexto).
 - [ ] **Sub-agente research delegado `hazuki-fuera-de-stardom-

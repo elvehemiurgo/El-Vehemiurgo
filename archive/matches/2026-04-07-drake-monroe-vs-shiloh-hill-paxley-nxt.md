@@ -2,20 +2,20 @@
 match: "Jackson Drake & Blake Monroe vs Shiloh Hill & Tatum Paxley"
 slug: "2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt"
 participantes:
-  - "Jackson Drake (presunción — confirmar)"
+  - "Jackson Drake"
   - "Blake Monroe"
-  - "Shiloh Hill (presunción — confirmar)"
-  - "Tatum Paxley (presunción — confirmar)"
+  - "Shiloh Hill"
+  - "Tatum Paxley"
 empresa: "WWE"
 programa: "NXT (TV semanal)"
 fecha: 2026-04-07
 ciudad: ""
-recinto: "WWE Performance Center, Orlando (presunción — verificar)"
-tipo_match: "tag team mixto / intergender (4 personas — composición a confirmar)"
+recinto: "WWE Performance Center, Orlando"
+tipo_match: "tag team mixto / intergender — Jackson Drake & Blake Monroe vs Shiloh Hill & Tatum Paxley"
 estipulacion: ""
 duracion: ""
-finish: ""
-ganador: ""
+finish: "Jackson Drake & Blake Monroe derrotan a Shiloh Hill & Tatum Paxley — mecanismo exacto no detallado en fuentes consultadas"
+ganador: "Jackson Drake & Blake Monroe"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -29,9 +29,10 @@ clases_vehemiurgo:
   - perfect-wrestling
   - wrestling-entertainment
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT TV semanal 2026-04-07 (fecha confirmada por el Vehemiurgo 2026-05-10)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports, Sportskeeda resultados NXT 7 abr 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, nxt-tv, blake-monroe, jackson-drake, shiloh-hill, tatum-paxley, perfect-wrestling-class, wrestling-entertainment-class, multi-classification, mixed-tag]
 ---
 
@@ -167,12 +168,12 @@ de "lo real" del archivo.
       prevalece o si ambas se mantienen.
 - [x] ~~Confirmar fecha exacta del match~~ → **CONFIRMADA
       (2026-05-10)**: NXT TV semanal del 7 abr 2026.
-- [ ] **Confirmar composición exacta** de los 4 participantes y
-      partnership (Drake + Monroe vs Shiloh Hill + Paxley vs alguna
-      variante).
-- [ ] **Confirmar tipo de match** (mixed tag intergender o tag
-      femenino con apellidos de stable / faction).
-- [ ] Finish + duración + secuencias destacadas.
+- [x] **Composición confirmada** → Jackson Drake & Blake Monroe vs
+      Shiloh Hill & Tatum Paxley, mixed tag (Yahoo Sports, Sportskeeda,
+      research 2026-10-05).
+- [x] **Tipo de match confirmado** → mixed tag intergender, ganan
+      Drake & Monroe.
+- [ ] Finish exacto (mecanismo) + duración + secuencias destacadas.
 - [ ] Storyline previo y follow-up.
 - [ ] Cobertura PWTorch (Wells live report NXT 4/7) si lo cubrió.
 - [ ] Cobertura POST Wrestling Rewind-A-NXT del 7-8 abr.

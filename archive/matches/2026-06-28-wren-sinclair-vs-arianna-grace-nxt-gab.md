@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merece un WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s08 (visión directa — NXT Great American Bash 2026, 28/6/2026)"
   - "Sub-agente card-nxt-gab-280626 (research 2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (SI/Fannation resultados NXT Great American Bash 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt-great-american-bash, wren-sinclair, arianna-grace, speed-championship, birthright, charlie-dempsey-interferencia]
 ---
 
@@ -52,7 +53,7 @@ tags: [wwe-2026, nxt-great-american-bash, wren-sinclair, arianna-grace, speed-ch
 
 ## Pendientes / huecos
 
-- [ ] Duración exacta — discrepancia de 11 vs 12 segundos restantes entre fuentes.
+- [x] Duración exacta → 4:49 confirmado por SI/Fannation (research 2026-10-05), consistente con el rango ≈4:48-4:49 ya registrado.
 
 ## Piezas relacionadas
 

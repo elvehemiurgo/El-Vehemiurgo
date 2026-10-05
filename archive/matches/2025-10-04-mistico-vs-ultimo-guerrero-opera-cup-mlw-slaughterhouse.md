@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo genial, oldschool, dura, estuvo increíble"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-20
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-20 s03 (visión directa — MLW Slaughterhouse, 4/10/2025, timestamp 02:00:07)"
   - "Sub-agente research-mlw-slaughterhouse-041025 (research 2026-09-20) — WebSearch (MLW.com, Fightful); WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia Opera Cup 2025, resultados Symphony of Horrors); WebFetch bloqueado por egress"
 tags: [mlw-2025, slaughterhouse, mistico, ultimo-guerrero, opera-cup-2025, cmll, instant-classic-crown-plus, oldschool, la-mistica]
 ---
 
@@ -63,8 +64,10 @@ lo ataca de inmediato post-match (ver ficha aparte).
 ## Pendientes
 
 - [ ] Referee.
-- [ ] Resultado de la semifinal Místico vs Aries y de la final vs
-      Volador Jr. — fuera del alcance de este registro.
+- [x] Resultado de la semifinal y la final → Místico derrota a Austin
+      Aries por pinfall en 15:57 (MLW Symphony of Horrors, 25/10/2025);
+      en la final, Místico derrota a Volador Jr. por submission en
+      10:53 y gana el Opera Cup 2025 (research 2026-10-05, WebSearch).
 
 ## Cross-links
 

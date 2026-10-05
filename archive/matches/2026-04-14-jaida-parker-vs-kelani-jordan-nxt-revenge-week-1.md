@@ -5,12 +5,12 @@ participantes: ["Jaida Parker", "Kelani Jordan"]
 empresa: "WWE"
 programa: "NXT Revenge — Week 1"
 fecha: 2026-04-14
-ciudad: "[verif]"
+ciudad: "Orlando, Florida"
 recinto: "[verif]"
 tipo_match: "singles"
 estipulacion: "[verif]"
 duracion: "[verif]"
-finish: "[verif] — victoria de Kelani Jordan"
+finish: "Jaida Parker colisiona accidentalmente con un esquinero sin protección que había fallado en usar antes; Kelani Jordan aprovecha con un Split-Legged Moonsault para el pin"
 ganador: "Kelani Jordan"
 referee: "[verif]"
 encuentros_previos: "Rematch — encuentro previo 31/3/2026 (WWE NXT)"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'esta si se merece el fighting spirit y el enterteinment class', mejor que sus encuentros previos"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s37 (visión directa — WWE NXT Revenge Week 1, 14/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc. resultados NXT Revenge Week One); WebFetch bloqueado por egress"
 tags: [jaida-parker, kelani-jordan, wwe-nxt-2026, singles, fighting-spirit, wrestling-entertainment, rematch, mejora-sobre-encuentro-previo]
 ---
 
@@ -56,7 +57,7 @@ tags: [jaida-parker, kelani-jordan, wwe-nxt-2026, singles, fighting-spirit, wres
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + ciudad → Split-Legged Moonsault de Kelani Jordan tras choque accidental de Parker con un esquinero expuesto; Orlando, FL (Wrestling Inc.). Duración y recinto exacto siguen pendientes.
 
 ## Cross-links
 

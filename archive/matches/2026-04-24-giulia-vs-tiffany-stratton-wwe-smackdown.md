@@ -5,12 +5,12 @@ participantes: ["Giulia", "Tiffany Stratton"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-04-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Fort Worth, Texas"
+recinto: "Dickies Arena"
 tipo_match: "singles — título en juego, cambio de título"
-estipulacion: "título femenino [verif exacto]"
+estipulacion: "WWE Women's United States Championship — Giulia defendiendo"
 duracion: "[verif]"
-finish: "Tiffany Stratton gana el título con el Arrivederchi [verif si el finisher es de Giulia o Tiffany]"
+finish: "Tiffany Stratton gana el título con la Prettiest Moonsault Ever (el Arrivederchi es el finisher de Giulia, ejecutado durante el match pero no la jugada decisiva)"
 ganador: "Tiffany Stratton (nueva campeona)"
 referee: "[verif]"
 encuentros_previos: "Giulia había recuperado el título recientemente; segundo encuentro registrado entre ambas (previo: 27/3/2026)"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'esta lucha se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — WWE SmackDown, 24/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, Wikipedia resultados SmackDown 24 abr 2026); WebFetch bloqueado por egress"
 tags: [giulia, tiffany-stratton, wwe-smackdown-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, cambio-de-titulo, llaveo-vs-estilo-atletico-developmental, kiana-james, backlash-2026]
 ---
 
@@ -71,7 +72,7 @@ tags: [giulia, tiffany-stratton, wwe-smackdown-2026, singles, perfect-wrestling,
 
 ## Pendientes
 
-- [ ] Título exacto en juego + finish + duración + ciudad/recinto.
+- [x] Título exacto en juego + finish → WWE Women's United States Championship; Tiffany gana con Prettiest Moonsault Ever (POST Wrestling). Duración y ciudad/recinto siguen pendientes.
 - [ ] Confirmar Backlash 2026 como próximo PLE del arco.
 
 ## Cross-links

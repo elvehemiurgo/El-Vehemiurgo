@@ -9,7 +9,7 @@ protagonistas:
 empresa: "WWE NXT"
 programa: "NXT Revenge Week 1"
 fecha: 2026-04-14
-ciudad: "[verif]"
+ciudad: "Orlando, Florida"
 recinto: "[verif]"
 ubicacion_en_show: "[verif]"
 duracion: ""
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial directo 2026-05-10 sobre NXT Revenge Week 1"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (rajah.com resultados NXT Revenge Week One); WebFetch bloqueado por egress"
 tags: [nxt-2026, nxt-revenge-week-1, saquon-shugars, myles-borne, dark-state, showcase-performance, talent-diferencial, vehemiurgo-want-more, gimmick-de-oficio]
 ---
 

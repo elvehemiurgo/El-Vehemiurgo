@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-04-06
-ciudad: ""
-recinto: ""
+ciudad: "Houston, Texas"
+recinto: "Toyota Center"
 tipo_match: "singles"
 estipulacion: ""
 duracion: ""
-finish: ""
-ganador: ""
+finish: "Austin Theory gana con interferencia involuntaria de IShowSpeed, en el corner de The Vision"
+ganador: "Austin Theory"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "What a show"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, Raw 2026-04-06 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, khelnow resultados Raw 6 abr 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, la-knight, austin-theory]
 ---
 
@@ -66,7 +67,7 @@ Espera disparo del Vehemiurgo para asignar.)
 
 ## Pendientes / huecos
 
-- [ ] Finish, duración, recinto, attendance, rating.
+- [x] Finish → Austin Theory gana (IShowSpeed interfiere accidentalmente a favor de Theory); Adam Pearce anuncia The Vision & Speed vs Knight & The Usos para WrestleMania 42 (Fightful, khelnow). Ciudad/recinto → Houston, TX, Toyota Center (PWTorch, Yahoo Sports). Duración y attendance exacta siguen pendientes.
 - [ ] Storyline previo + follow-up.
 - [ ] **Asignación de clase del Vehemiurgo**.
 

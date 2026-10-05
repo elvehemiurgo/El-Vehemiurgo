@@ -12,17 +12,18 @@ recinto: "Madison Square Garden"
 tipo_match: "singles — likely United States Championship match (AJ era US Champion 2017)"
 estipulacion: "[verif] — likely US Title"
 duracion: ""
-finish: ""
-ganador: ""
+finish: "AJ Styles aplica el Phenomenal Forearm desde la tercera cuerda — pin"
+ganador: "AJ Styles (gana el WWE United States Championship)"
 referee: ""
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 9 'AJ Styles arc completo'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, TheSportster); WebFetch bloqueado por egress"
 tags: [wwe-2017, aj-styles, kevin-owens, msg-house-show, us-title, aj-arc-wwe-early-run, post-summerslam-2017-feud]
 ---
 
@@ -50,7 +51,7 @@ tags: [wwe-2017, aj-styles, kevin-owens, msg-house-show, us-title, aj-arc-wwe-ea
 
 ## Pendientes / huecos
 
-- [ ] Stipulación exacta + ganador + finish + duración.
+- [x] Ganador + finish → AJ Styles gana el WWE United States Championship con Phenomenal Forearm (WWE.com, TheSportster). Duración exacta sigue pendiente.
 - [ ] Cobertura WWE house show 2017 archive.
 - [ ] **Asignación de clase del Vehemiurgo**.
 

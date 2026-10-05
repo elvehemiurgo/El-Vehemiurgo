@@ -12,17 +12,18 @@ recinto: "[verif]"
 tipo_match: "singles — AJ early indie career pre-TNA"
 estipulacion: ""
 duracion: ""
-finish: ""
-ganador: ""
+finish: "AJ Styles gana vía Shooting Star Press"
+ganador: "AJ Styles"
 referee: ""
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 9 'AJ Styles arc completo'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania retrospectiva AJ Styles); WebFetch bloqueado por egress"
 tags: [aj-styles-arc, indie-2001, rick-michaels, wwf-developmental, pre-tna, georgia-indie-circuit, aj-arc-pieza-1]
 ---
 
@@ -58,7 +59,7 @@ contextualiza el arc completo.)
 - [ ] **Empresa exacta** (WWF developmental? NCW Anarchy
       Wrestling? WCW outlaw indies?).
 - [ ] **Lugar exacto**.
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish → fue el primer tryout match de AJ Styles para WWF, antes de un taping de Raw; AJ ganó con Shooting Star Press pero no recibió contrato (411mania). Duración y lugar exacto siguen pendientes.
 - [ ] Verbatim AJ retrospectivas indie 2001 period.
 - [ ] **Asignación de clase del Vehemiurgo**.
 

@@ -9,13 +9,13 @@ participantes:
 empresa: "ZERO1-MAX"
 programa: "Tenka-Ichi Junior 2006 Tag 2"
 fecha: 2006-08-25
-ciudad: "[verif]"
+ciudad: "Tokyo, Japón [una fuente — Wikipedia, historial de título]"
 recinto: "[verif]"
 tipo_match: "tag — junior heavyweight tag classic"
 estipulacion: "Defensa título tag de Hidaka & Fujita"
 duracion: ""
 finish: ""
-ganador: ""
+ganador: "MCMG (Alex Shelley & Chris Sabin) — ganan el NWA International Lightweight Tag Team Championship (reinado de 590 días) [una fuente — Wikipedia]"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -27,10 +27,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. Hipótesis Fighting Spirit Class del notebook lo cita como candidato canónico"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia historial NWA International Lightweight Tag Team Championship); WebFetch bloqueado por egress"
 tags: [zero1-max-2006, tenka-ichi-junior, mcmg, motor-city-machine-guns, alex-shelley, chris-sabin, ikuto-hidaka, minoru-fujita, junior-heavyweight-tag, fighting-spirit-class-candidate, gaijin-vs-natives]
 ---
 
@@ -69,7 +70,7 @@ Spirit Class* del notebook como candidato canónico**.)
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador → MCMG (Shelley & Sabin) ganan el NWA International Lightweight Tag Team Championship, reinado de 590 días (Wikipedia, una fuente). Finish exacto + duración siguen pendientes.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Confirmar asignación Fighting Spirit Class** por el
       Vehemiurgo (candidato canónico).

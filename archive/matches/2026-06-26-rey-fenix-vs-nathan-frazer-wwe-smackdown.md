@@ -9,7 +9,7 @@ ciudad: "Londres, Inglaterra"
 recinto: "The O2 Arena"
 tipo_match: "singles"
 estipulacion: "AAA World Cruiserweight Championship"
-duracion: "9:40 [SI/Fannation, Fightful, PWDN — research fenix-2026-run; el ~10:30 de Wrestling Inc. queda como variante]"
+duracion: "9:40 [mayoría de fuentes — SI/Fannation, Fightful, PWDN, 411mania; el ~10:30 de Wrestling Inc. queda como variante aislada]"
 finish: "Fénix lo agarra en la tercera cuerda y remata con Mexican Muscle Buster desde arriba"
 ganador: "Rey Fénix — retiene el título"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merece una FS y un WE classes, Fénix nunca decepciona"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s07 (visión directa — SmackDown, 26/6/2026)"
   - "Sub-agente card-wwe-smackdown-260626 (research 2026-08-01, closed) — resuelve la grafía Frazer"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, rey-fenix, nathan-frazer, aaa-cruiserweight-championship, fraxiom-segunda-mitad, nunca-decepciona]
 ---
 
@@ -52,7 +53,7 @@ tags: [wwe-2026, smackdown, rey-fenix, nathan-frazer, aaa-cruiserweight-champion
 
 ## Pendientes / huecos
 
-- [ ] Desempate de duración: 9:40 (Fandom) vs ~10:30 (Wrestling Inc.).
+- [x] Desempate de duración (research 2026-10-05) → 9:40 confirmado por cuatro fuentes independientes (SI/Fannation, Fightful, PWDN, 411mania) contra una sola fuente con ~10:30 (Wrestling Inc.) — 9:40 se adopta como valor mayoritario.
 
 ## Piezas relacionadas
 

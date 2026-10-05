@@ -9,7 +9,7 @@ ciudad: "Atlantic City, Nueva Jersey"
 recinto: "Jim Whelan Boardwalk Hall"
 tipo_match: "singles"
 estipulacion: "dream match, sin título en juego"
-duracion: "11:00 [conflicto de fuentes con una cifra de 7:41 sin confirmar a qué lucha corresponde]"
+duracion: "10:45-11:00 [TheSportster da 10:45; otra fuente mayoritaria ya citada daba 11:00 — ambas cercanas y se adoptan sobre la cifra aislada de 7:41, sin confirmar a qué lucha corresponde]"
 finish: "619 + frog splash"
 ganador: "Rey Mysterio"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo ok — el booking para Ethan parece confuso, ojalá pueda canjear esta derrota rápido, sus promos siempre levantan, así que se ve bien, todavía es un booking entretenido"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s08 (visión directa — Monday Night Raw, 29/6/2026)"
   - "Sub-agente de research (2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (TheSportster resultados Raw 29 jun 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, ethan-page, rey-mysterio, dream-match, precedente-esta-ok, mascara-en-juego-dentro-del-match, revancha-cobrada]
 ---
 
@@ -52,7 +53,7 @@ tags: [wwe-2026, raw, ethan-page, rey-mysterio, dream-match, precedente-esta-ok,
 
 ## Pendientes / huecos
 
-- [ ] Resolver el conflicto de duración: 11:00 (mayoritario) vs 7:41 (fuente sin confirmar a qué lucha corresponde).
+- [x] Conflicto de duración (research 2026-10-05) → TheSportster confirma 10:45, muy cercano al 11:00 ya mayoritario; se descarta el 7:41 como cifra aislada/no confirmada.
 - [ ] Post-match — no reportado.
 
 ## Piezas relacionadas

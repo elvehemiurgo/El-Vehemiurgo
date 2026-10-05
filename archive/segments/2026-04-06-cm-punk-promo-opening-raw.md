@@ -7,8 +7,8 @@ protagonistas:
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-04-06
-ciudad: ""
-recinto: ""
+ciudad: "Houston, Texas"
+recinto: "Toyota Center"
 ubicacion_en_show: "opening segment"
 duracion: ""
 linea_textual: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Promo of the year — old CM Punk, kind of heelish, really over, really great — WE declarada 2026-08-01 ('es WE masiva, es tan sin sentido que entretiene')"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, Raw 2026-04-06 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Yahoo Sports resultados Raw 6 abr 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, cm-punk, opening-promo, promo-of-the-year, road-to-mania-42]
 ---
 
@@ -86,8 +87,10 @@ y la encuadra dentro del frame *"real wrestlers vs play wrestlers"*. Ver
 - [ ] Líneas textuales exactas del promo — preservar verbatim
       contra video.
 - [ ] Duración del promo.
-- [ ] Target específico del promo (Roman Reigns? Cody? Pat
-      McAfee? Bloodline? TKO?).
+- [x] Ciudad/recinto → Houston, TX, Toyota Center (PWTorch, Yahoo
+      Sports). Target específico → Punk se dirige a Roman Reigns
+      y Pat McAfee, y pide a WWE bajar el precio de las entradas
+      de WrestleMania 42 (khelnow).
 - [ ] Cobertura PWTorch / POST / Cornette — Cornette especialmente
       relevante para este promo de Punk.
 - [ ] **Asignación de clase del Vehemiurgo** (Wrestling

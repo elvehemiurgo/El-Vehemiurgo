@@ -8,7 +8,7 @@ empresa: "WWE"
 programa: "NXT (TV semanal)"
 fecha: 2026-04-07
 ciudad: ""
-recinto: "WWE Performance Center, Orlando (presunción — verificar)"
+recinto: "WWE Performance Center, Orlando"
 tipo_match: "singles"
 estipulacion: ""
 duracion: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'la lucha merece el fighting spirit y el enterteinment class' (resuelto 2026-07-14, previamente pendiente)"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT TV 2026-04-07"
   - "PWTorch (Wells live report NXT 4/7/2026): Sol Ruca vs Izzi Dame confirmado en card"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports, Sportskeeda resultados NXT 7 abr 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, nxt-tv, sol-ruca, izzi-dame, zaria-interference, the-culling]
 ---
 
@@ -157,7 +158,7 @@ fighting spirit y el enterteinment class"*.
 
 ## Pendientes / huecos
 
-- [ ] Recinto exacto y attendance.
+- [x] Recinto exacto → WWE Performance Center, Orlando FL (confirmado, research 2026-10-05). Attendance sigue pendiente.
 - [ ] Duración del match.
 - [ ] Cobertura PWTorch (Wells live report 4/7/2026 ya confirma
       el match en card; cuerpo del recap pendiente para más

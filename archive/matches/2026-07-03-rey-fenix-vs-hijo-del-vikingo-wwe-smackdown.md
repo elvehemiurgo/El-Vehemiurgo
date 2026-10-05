@@ -9,7 +9,7 @@ ciudad: "Atlantic City, Nueva Jersey"
 recinto: "Jim Whelan Boardwalk Hall"
 tipo_match: "singles"
 estipulacion: "AAA World Cruiserweight Championship"
-duracion: "≈8:50-9:00 [derivado, no confirmado en fuente directa]"
+duracion: "8:54 [411mania, research 2026-10-05 — confirma el rango derivado ≈8:50-9:00]"
 finish: "Vikingo falla un springboard 450 splash; Fénix lo castiga en la esquina y remata con el Mexican Muscle Buster"
 ganador: "Rey Fénix — retiene el título"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Medio protegieron a Vikingo con un ataque en NXT esa semana para que resista, pero el moveset de Vikingo es muy arriesgado, no siempre aterriza; se merece un FS y WE classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s08 (visión directa — SmackDown, 3/7/2026)"
   - "Sub-agente de research (2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania resultados SmackDown 3 jul 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, rey-fenix, hijo-del-vikingo, aaa-cruiserweight-championship, dioses-del-wrestling-objetivo, lesion-real-detras-de-camara]
 ---
 
@@ -54,7 +55,8 @@ tags: [wwe-2026, smackdown, rey-fenix, hijo-del-vikingo, aaa-cruiserweight-champ
 ## Pendientes / huecos
 
 - [ ] Verificar si hubo o no un frog splash — divergencia entre el dictado y el research, sin resolver contra video.
-- [ ] Duración exacta — derivada, no confirmada.
+- [x] Duración exacta → 8:54 (411mania, research 2026-10-05).
+- [ ] **Discrepancia (research 2026-10-05)**: 411mania describe el movimiento final como "Black Fire Driver (Spinning Sitout Kinniku Buster)", distinto del "Mexican Muscle Buster" que registra el research previo (2026-08-01). No se sobreescribe `finish` — ambas versiones quedan anotadas hasta verificar contra video.
 
 ## Piezas relacionadas
 

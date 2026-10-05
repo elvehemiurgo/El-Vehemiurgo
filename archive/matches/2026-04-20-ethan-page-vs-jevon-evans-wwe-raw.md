@@ -5,8 +5,8 @@ participantes: ["Ethan Page", "Jevon Evans", "Rusev"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-04-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Las Vegas, Nevada"
+recinto: "T-Mobile Arena"
 tipo_match: "singles — rivalidad NXT revivida"
 estipulacion: "[verif]"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'la lucha se merece el enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — WWE Raw, 20/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Sportskeeda, khelnow resultados Raw 20 abr 2026); WebFetch bloqueado por egress"
 tags: [ethan-page, jevon-evans, rusev, wwe-raw-2026, singles, wrestling-entertainment, clasico-de-nxt, underdog, psicologia]
 ---
 
@@ -49,8 +50,10 @@ underdog bien definido. Ver
 
 ## Pendientes
 
-- [ ] Finish exacto (mecánica de la interferencia de Rusev) +
-      duración + ciudad/recinto.
+- [x] Ciudad/recinto → Las Vegas, NV, T-Mobile Arena (Sportskeeda). Página
+      WWE confirma que Page se vuelve retador #1 al Intercontinental
+      Championship de Penta. Finish exacto (mecánica de la interferencia
+      de Rusev) y duración siguen pendientes.
 
 ## Cross-links
 

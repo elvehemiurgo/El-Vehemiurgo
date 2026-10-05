@@ -11,8 +11,8 @@ ciudad: "Landover, Maryland"
 recinto: "Capital Centre"
 tipo_match: "singles — Intercontinental Championship match (Valentine defending)"
 estipulacion: "Intercontinental Championship"
-duracion: ""
-finish: "[verif] — Valentine retains via Figure-Four"
+duracion: "3:34"
+finish: "Greg Valentine retiene el Intercontinental Championship — sumisión con figure-four leglock. Durante el match se rompió la cuerda media del ring cuando Valentine metió la rodilla en el esquinero al evadir Bellomo"
 ganador: "Greg Valentine"
 referee: ""
 attendance_anunciada: ""
@@ -23,10 +23,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. 6 'Territorial deep dives (1983–1984)'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (thehistoryofwwe.com Capital Centre results); WebFetch bloqueado por egress"
 tags: [wwf-1984, capital-center, greg-valentine, salvatore-bellomo, intercontinental-championship, figure-four, territorial-deep-dive, post-wrestlemania-i-era, johnny-valiant-managed]
 ---
 
@@ -67,7 +68,7 @@ pre-WrestleMania I expansion era.)
 - [ ] **Verificar fecha exacta** + estipulación exacta
       (Valentine wins IC Title 24.09.1984, ¿match 09.06.1984
       es pre-coronation challenge?).
-- [ ] Finish + duración.
+- [x] Finish + duración → sumisión figure-four leglock en 3:34 (thehistoryofwwe.com, resultados Capital Centre).
 - [ ] Cobertura WWF Magazine + dirt sheets period 1984.
 - [ ] Tim Hornbaker *Capitol Revolution* libro WWF 1984
       expansion.

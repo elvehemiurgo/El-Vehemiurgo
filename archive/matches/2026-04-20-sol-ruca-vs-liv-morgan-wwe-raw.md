@@ -5,8 +5,8 @@ participantes: ["Sol Ruca", "Liv Morgan", "Zaria"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-04-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Las Vegas, Nevada"
+recinto: "T-Mobile Arena"
 tipo_match: "singles — debut match roster principal"
 estipulacion: "[verif]"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'estuvo ok, se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — WWE Raw, 20/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Sportskeeda resultados Raw 20 abr 2026); WebFetch bloqueado por egress"
 tags: [sol-ruca, liv-morgan, zaria, wwe-raw-2026, singles, wrestling-entertainment, soul-snatcher-debut, highflying-oldschool, stephanie-vaquer-teaser]
 ---
 
@@ -60,7 +61,7 @@ tags: [sol-ruca, liv-morgan, zaria, wwe-raw-2026, singles, wrestling-entertainme
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Ciudad/recinto → Las Vegas, NV, T-Mobile Arena (Sportskeeda). Liv Morgan iba acompañada de Roxanne Perez y Raquel Rodríguez. Finish exacto y duración siguen pendientes.
 
 ## Cross-links
 

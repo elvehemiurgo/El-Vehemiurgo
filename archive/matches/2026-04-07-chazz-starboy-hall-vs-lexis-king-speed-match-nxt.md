@@ -8,7 +8,7 @@ empresa: "WWE"
 programa: "NXT (TV semanal)"
 fecha: 2026-04-07
 ciudad: ""
-recinto: "WWE Performance Center, Orlando (presunción — verificar)"
+recinto: "WWE Performance Center, Orlando"
 tipo_match: "singles, formato NXT Speed (time limit 3 minutos)"
 estipulacion: "Primera ronda del torneo por el vacante WWE Men's Speed Championship"
 duracion: "2:06 (Last Word) / 2:09 (Fightful, MPE) — discrepancia menor entre fuentes secundarias"
@@ -27,9 +27,10 @@ clases_vehemiurgo:
   - perfect-wrestling
   - fighting-spirit
 estado: verificado
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT TV 2026-04-07"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports, Sportskeeda resultados NXT 7 abr 2026); WebFetch bloqueado por egress"
   - "PWTorch (Wells live report NXT 4/7/2026)"
   - "Last Word on Pro Wrestling — WWE Speed Lexis King vs NXT Debutant"
   - "Fightful — Chazz Hall (Starboy Charlie) Competes In Singles Action On 4/7 WWE NXT"
@@ -156,8 +157,7 @@ registro 2026 de la base** para esta combinación.
 
 ## Pendientes / huecos
 
-- [ ] Recinto exacto del taping (presunción Performance Center,
-      verificar).
+- [x] Recinto exacto del taping → WWE Performance Center, Orlando FL (confirmado, research 2026-10-05).
 - [ ] Cobertura PWTorch Dailycast — *Wrestling Coast to Coast
       4/29/2026* (Maitland & McClelland) tocó WWE ID prospects
       incluyendo a Hall — escucha humana pendiente.

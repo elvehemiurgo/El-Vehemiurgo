@@ -5,8 +5,8 @@ participantes: ["Jacy Jayne", "Rhea Ripley"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-04-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Fort Worth, Texas"
+recinto: "Dickies Arena"
 tipo_match: "singles — debut de riesgo alto para Fatal Influence"
 estipulacion: "[verif]"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'esta lucha se merece un fighting spirit y un enterteinments class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — WWE SmackDown, 24/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Dickies Arena events, Fightful, WrestleTalk); WebFetch bloqueado por egress"
 tags: [jacy-jayne, rhea-ripley, fallon-henley, lainey-reid, wwe-smackdown-2026, singles, fighting-spirit, wrestling-entertainment, estilo-sureno-slam-bang, emboscada, caracterizacion-gimmicks]
 ---
 
@@ -93,7 +94,7 @@ tags: [jacy-jayne, rhea-ripley, fallon-henley, lainey-reid, wwe-smackdown-2026, 
 
 ## Pendientes
 
-- [ ] Finish exacto de la emboscada + duración + ciudad/recinto.
+- [x] Ciudad/recinto → Fort Worth, TX, Dickies Arena. Finish exacto de la emboscada y duración siguen pendientes.
 
 ## Cross-links
 

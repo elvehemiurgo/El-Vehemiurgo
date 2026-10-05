@@ -10,8 +10,8 @@ recinto: "Arena México"
 tipo_match: "tag team (women's) [verif formato / caídas]"
 estipulacion: "standard"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Las Indomables retienen el CMLL Women's World Tag Team Championship — mecanismo exacto del fall no detallado en fuentes consultadas [una fuente]"
+ganador: "Las Indomables (Lluvia & La Jarochita) — retienen CMLL Women's World Tag Team Championship"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
@@ -21,6 +21,7 @@ estado: stub
 ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s02 (visión directa — CMLL La Noche de las Amazonas)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (TPWW, Fightful resultados 6 mar 2026); WebFetch bloqueado por egress"
 tags: [mei-seira, starlight-kid, las-indomables, cmll, arena-mexico, la-noche-de-las-amazonas, women, joshi-en-cmll, stardom-cmll-crossover, perfect-match, fighting-spirit, wrestling-entertainment, primer-registro-cmll]
 ---
 
@@ -62,7 +63,7 @@ tags: [mei-seira, starlight-kid, las-indomables, cmll, arena-mexico, la-noche-de
 ## Pendientes
 
 - [ ] **Integrantes de Las Indomables** (el equipo rudo).
-- [ ] Finish + ganador + duración + caídas (formato 2/3 si aplica).
+- [x] Ganador → Las Indomables (Lluvia & La Jarochita) retienen CMLL Women's World Tag Team Championship (TPWW). Finish exacto, duración y caídas siguen pendientes (no detallados en fuentes consultadas).
 - [ ] Naturaleza del cruce STARDOM ↔ CMLL (excursión / exchange).
 - [ ] Fichas individuales Mei Seira / Starlight Kid cuando reciban
       take propio.

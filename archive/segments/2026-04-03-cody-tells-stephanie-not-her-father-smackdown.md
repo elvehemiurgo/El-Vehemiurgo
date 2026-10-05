@@ -8,8 +8,8 @@ protagonistas:
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-04-03
-ciudad: ""
-recinto: ""
+ciudad: "St. Louis, Missouri"
+recinto: "Enterprise Center"
 ubicacion_en_show: ""
 duracion: ""
 linea_textual: "\"You are not your father\" (cita reconstruida del título dictado por el Vehemiurgo)"
@@ -23,9 +23,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Cool moment, Cody promo great, único uso útil de Stephanie en WWE programming — WE declarada 2026-08-01 ('es WE masiva, es tan sin sentido que entretiene')"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, SmackDown 2026-04-03 (anotación en notebook list)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch resultados SmackDown 3 abr 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, cody-rhodes, stephanie-mcmahon, cody-promo, road-to-mania-42]
 ---
 
@@ -91,7 +92,7 @@ y `glossary/clases-vehemiurgo.md`.
 - [ ] Cita textual exacta del *"you are not your father"* contra
       video (la línea reconstruida del título del notebook es
       paráfrasis).
-- [ ] Lugar dentro del show, duración.
+- [x] Ciudad/recinto → St. Louis, MO, Enterprise Center (PWTorch). Lugar dentro del show y duración siguen pendientes.
 - [ ] Storyline previo + follow-up.
 - [ ] Asignación de clase del Vehemiurgo.
 

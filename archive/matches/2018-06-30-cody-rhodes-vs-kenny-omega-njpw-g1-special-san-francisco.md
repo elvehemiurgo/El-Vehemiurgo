@@ -12,8 +12,8 @@ recinto: "Cow Palace"
 tipo_match: "singles — IWGP United States Heavyweight Championship match"
 estipulacion: "IWGP United States Heavyweight Championship"
 duracion: ""
-finish: ""
-ganador: ""
+finish: "Kenny Omega retiene vía One Winged Angel"
+ganador: "Kenny Omega (vía One Winged Angel — ver discrepancia de título abajo)"
 referee: ""
 attendance_anunciada: "8,500+"
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4WOnline, Cageside Seats, Wrestleview); WebFetch bloqueado por egress"
 tags: [njpw-2018, g1-special-san-francisco, cody-rhodes, kenny-omega, iwgp-us-heavyweight, bullet-club-split, pre-aew-foundation, cody-pre-aew, omega-bullet-club-peak]
 ---
 
@@ -77,7 +78,9 @@ tags: [njpw-2018, g1-special-san-francisco, cody-rhodes, kenny-omega, iwgp-us-he
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish → Kenny Omega retiene vía One Winged Angel (F4WOnline, Cageside Seats, Wrestleview). Duración exacta sigue pendiente.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha fecha el show en 2018-06-30; las fuentes consultadas (F4WOnline, Cageside Seats, Wrestleview) fechan *G1 Special in San Francisco* el **2018-07-07**. Verificar fecha real contra fuente primaria (NJPW) — posible confusión con otro evento de la gira.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha describe la estipulación como IWGP United States Heavyweight Championship; las mismas fuentes indican que este match Cody vs Omega fue por el **IWGP Heavyweight Championship** (el título de EE.UU. se disputó aparte, Juice Robinson vs Jay White, en el mismo show). Verificar contra fuente primaria antes de corregir `estipulacion`/`tipo_match`.
 - [ ] Star rating WON Meltzer (alta probabilidad cubierto, WON
       cubre NJPW extensivamente).
 - [ ] Attendance + gate Cow Palace.

@@ -5,12 +5,12 @@ participantes: ["Ricky Saints", "Carmelo Hayes"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-06-05
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Bolonia, Italia"
+recinto: "Unipol Arena"
 tipo_match: "singles"
 estipulacion: "revancha del draw del 29/5"
-duracion: "[verif]"
-finish: "[verif]"
+duracion: "10:13"
+finish: "[verif] — mecanismo exacto no detallado en fuentes consultadas"
 ganador: "Ricky Saints"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buenísima — la revancha después del draw, primera gran victoria para Ricky"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — SmackDown, 5/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom.com resultados SmackDown 5 jun 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, ricky-saints, carmelo-hayes, revancha-del-draw, primera-victoria-main-roster, perfect-match]
 ---
 
@@ -51,7 +52,7 @@ tags: [wwe-2026, smackdown, ricky-saints, carmelo-hayes, revancha-del-draw, prim
 
 ## Pendientes / huecos
 
-- [ ] Finish, duración.
+- [x] Duración → 10:13 (prowrestling.fandom.com). Ciudad/recinto → Bolonia, Unipol Arena. Finish exacto sigue pendiente.
 - [ ] Confirmar si esta revancha resuelve la escena del título US o la escala.
 
 ## Piezas relacionadas

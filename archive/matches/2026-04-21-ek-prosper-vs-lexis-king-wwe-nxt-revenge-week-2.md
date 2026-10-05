@@ -5,22 +5,23 @@ participantes: ["EK Prosper", "Lexis King"]
 empresa: "WWE"
 programa: "NXT Revenge — Week 2"
 fecha: 2026-04-21
-ciudad: "[verif]"
+ciudad: "Orlando, Florida"
 recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "[verif]"
+tipo_match: "singles — final del torneo WWE Speed Championship (título vacante)"
+estipulacion: "WWE Speed Championship (vacante, tras la lesión de Elio LeFleur)"
 duracion: "[verif]"
-finish: "[verif] — incluye spot en el apron"
-ganador: "[verif]"
+finish: "Lexis King conecta The Coronation para el pin — incluye spot en el apron"
+ganador: "Lexis King (nuevo WWE Speed Champion)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit — 'se merece un fighting spirit'"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT Revenge Week 2, 21/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (rajah.com, resultados NXT Revenge Week Two); WebFetch bloqueado por egress"
 tags: [ek-prosper, lexis-king, wwe-nxt-2026, singles, fighting-spirit, sink-or-swim, moveset-efectivo, spot-en-el-apron]
 ---
 
@@ -58,7 +59,7 @@ tags: [ek-prosper, lexis-king, wwe-nxt-2026, singles, fighting-spirit, sink-or-s
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + ganador + ciudad → Lexis King gana el WWE Speed Championship (vacante) con The Coronation, Orlando FL (rajah.com). Duración y recinto exacto siguen pendientes.
 - [ ] Nombre completo de "Ariana"/Arianna mencionada.
 
 ## Cross-links

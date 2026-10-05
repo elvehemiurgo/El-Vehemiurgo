@@ -9,8 +9,8 @@ ciudad: "Paris, Francia"
 recinto: "Accor Arena"
 tipo_match: "singles"
 estipulacion: "WWE Intercontinental Championship"
-duracion: "[verif]"
-finish: "Mexican Destroyer"
+duracion: "un poco menos de 7:30 [una fuente — Wrestling Inc., no exacto]"
+finish: "Rey conecta un segundo 619; Penta levanta las rodillas en el splash de seguimiento y remata con un Mexican Destroyer"
 ganador: "Penta — retiene el Intercontinental Championship"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Cuidaron el selling, no usaron el dream match de excusa para bajar la calidad — Rey estaba luchando como en los tempranos 2000s"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s05 (visión directa — Monday Night Raw, 8/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., 411mania, Cageside Seats resultados Raw 8 jun 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, penta, rey-mysterio, intercontinental-championship, dream-match-con-cuidado, rey-comebacks, penta-medido, poison-rana, doctrina-post-noche-de-los-grandes]
 ---
 
@@ -52,7 +53,7 @@ tags: [wwe-2026, raw, penta, rey-mysterio, intercontinental-championship, dream-
 
 ## Pendientes / huecos
 
-- [ ] Duración exacta.
+- [x] Duración exacta → "un poco menos de 7:30" según Wrestling Inc. [una fuente, no exacta a segundos].
 - [ ] Confirmar si era defensa regular o parte de un build específico hacia otro reto.
 
 ## Piezas relacionadas

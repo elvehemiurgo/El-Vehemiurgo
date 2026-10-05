@@ -7,13 +7,13 @@ participantes:
 empresa: "WWF"
 programa: "WWF Coliseum Video Exclusive (dark match)"
 fecha: 1994-01-01
-ciudad: "[verif] — TV taping dark match"
-recinto: "[verif]"
+ciudad: "Corpus Christi, Texas [una fuente]"
+recinto: "Memorial Coliseum [una fuente]"
 tipo_match: "singles — No Holds Barred (dark match Coliseum Video Exclusive)"
 estipulacion: "No Holds Barred — Coliseum Video Exclusive (no televised)"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "13:58 [una fuente]"
+finish: "Bret Hart gana el No Holds Barred [una fuente — mecanismo exacto no detallado]"
+ganador: "Bret Hart [una fuente]"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -23,10 +23,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. 5 'Bret Hart deep cuts — carny tradition'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch vía snippet); WebFetch bloqueado por egress"
 tags: [wwf-1994, coliseum-video-exclusive, dark-match, bret-hart, owen-hart, no-holds-barred, hart-brothers-feud, bret-deep-cuts, carny-distribution-channel]
 ---
 
@@ -67,11 +68,16 @@ distribution carny pre-internet**.)
 ## Pendientes / huecos
 
 - [ ] **Fecha exacta del match** (notebook dice "1994" sin
-      más detalle).
-- [ ] **Lugar exacto** (TV taping arena).
+      más detalle) — nota: una fuente (Cagematch vía snippet)
+      ubica un match homónimo grabado 1994 y emitido 10 ene
+      1995 en Corpus Christi, TX; identificación tentativa, no
+      confirmada contra fuente primaria.
+- [x] **Lugar exacto** → Memorial Coliseum, Corpus Christi, TX
+      [una fuente, identificación tentativa].
 - [ ] **Coliseum Video release específico** (qué VHS title
       lo contiene).
-- [ ] Ganador + finish + duración.
+- [x] Ganador + duración → Bret Hart gana en 13:58 [una fuente].
+      Mecanismo exacto del finish sigue pendiente.
 - [ ] Verbatim Bret en *Hitman* autobiografía.
 - [ ] **Asignación de clase del Vehemiurgo**.
 

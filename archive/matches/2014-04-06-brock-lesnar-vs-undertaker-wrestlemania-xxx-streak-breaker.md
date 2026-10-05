@@ -11,8 +11,8 @@ ciudad: "New Orleans, LA"
 recinto: "Mercedes-Benz Superdome"
 tipo_match: "singles — The Streak match"
 estipulacion: "The Streak (21-0 hasta este match) vs Brock Lesnar"
-duracion: ""
-finish: "[verif] — Brock wins via F-5, Streak ends 21-1"
+duracion: "[verif]"
+finish: "Brock Lesnar aplica un tercer F-5 y cubre a Undertaker para el pin — termina la Streak en 21-1"
 ganador: "Brock Lesnar"
 referee: ""
 attendance_anunciada: "75,167"
@@ -24,9 +24,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo cluster Brock + Vehemiurgia interest"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (ESPN, Bleacher Report, Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [wwe-2014, wrestlemania-xxx, brock-lesnar, the-undertaker, the-streak-21-1, streak-breaker, paul-heyman-brock-special-counsel, new-orleans, modern-classic-shocking-finish]
 ---
 
@@ -75,7 +76,7 @@ tags: [wwe-2014, wrestlemania-xxx, brock-lesnar, the-undertaker, the-streak-21-1
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración + secuencia.
+- [x] Finish exacto → tercer F-5 y pin (ESPN, Bleacher Report, Wrestling Inc.). Duración exacta no confirmada en fuentes consultadas.
 - [ ] Star rating WON Meltzer (contexto histórico —
       controversial, considera el match en sí ★★★/4 pero el
       moment cultural enormous).
