@@ -5,8 +5,8 @@ participantes: ["Jay Bradley", "Brian Cage"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-10
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "singles"
 estipulacion: "Gut Check"
 duracion: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Está genial encontrar esta gema; Bradley tenía potencial, pero empeoraba cada año — esto es lo mejor que se ha visto en TV, y tiene una buena lariat como finisher; y Brian Cage sigue siendo Brian Cage; pusieron una gran lucha, se merecen las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, jay-bradley, brian-cage, gut-check, instant-classic-crown, gema-de-archivo, lariat]
 ---
 
@@ -74,7 +75,10 @@ contrato; **Cage ni siquiera llegó a la votación**.
 
 ## Pendientes
 
-- [ ] Duración y referee.
+- [ ] Duración y referee — sin fuente accesible.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Prowrestling
+      Fandom, vía WebSearch).
 - [ ] **Fichas de people de Jay Bradley y Brian Cage** — sin abrir.
 
 ## Cross-links

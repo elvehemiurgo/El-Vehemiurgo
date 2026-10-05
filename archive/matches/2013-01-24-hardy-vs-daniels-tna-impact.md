@@ -5,11 +5,11 @@ participantes: ["Jeff Hardy", "Christopher Daniels", "Frankie Kazarian"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "Impact Zone (Universal Studios, Orlando)"
 tipo_match: "singles"
 estipulacion: "TNA World Heavyweight Championship"
-duracion: "[verif]"
+duracion: "14:11 [una fuente]"
 finish: "Twist of Fate y Swanton Bomb, tras sacarse de encima a Kazarian en ringside — pinfall"
 ganador: "Jeff Hardy (retiene)"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo increíble, tremenda dream match, les quedó perfecta, se merece las 3 clases; Daniels trabajando así como main eventer es genial, el verdadero ring general en TV en los 2000s; muy buenos spots, muy real, súper merecido showcase para Daniels y muy buen booking para Jeff"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwmania, Wrestleview); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, jeff-hardy, christopher-daniels, kazarian, world-heavyweight-championship, instant-classic-crown, dream-match, ring-general, elaboracion, silencio-editorial-levantado]
 ---
 
@@ -97,7 +98,11 @@ Bully Ray en Lockdown**, el 10/3/2013.
 
 ## Pendientes
 
-- [ ] Duración y referee.
+- [x] Duración → **14:11** [una fuente — Wrestleview/pwmania]. Ciudad
+      y recinto → **Orlando, Florida — Impact Zone (Universal
+      Studios)** (research 2026-10-05).
+- [ ] Referee — sin fuente accesible; los recaps consultados
+      (Wrestleview, pwmania, 411mania) no identifican al árbitro.
 - [x] **Lectura recibida** — s56, con las tres clases.
 
 ## Cross-links

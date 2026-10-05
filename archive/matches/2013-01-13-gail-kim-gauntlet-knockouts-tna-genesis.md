@@ -5,23 +5,24 @@ participantes: ["Gail Kim", "Velvet Sky", "Mickie James", "Miss Tessmacher", "OD
 empresa: "TNA"
 programa: "Genesis"
 fecha: 2013-01-13
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "gauntlet"
 estipulacion: "contendiente Nº1 al TNA Knockouts Championship"
 duracion: "11:55"
 finish: "Gail Kim elimina a Tessmacher, ODB y Mickie; Velvet Sky la remata con double underhook facebuster — con el pie de Gail bajo la cuerda que la árbitro Taryn Terrell no ve"
 ganador: "Velvet Sky"
-referee: "[verif]"
+referee: "Taryn Terrell"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Gail hace lucir bien a cualquiera, incluso hacen lucha libre que se ve cool, muy real Gail y sabe producir violencia; es un gran showcase para Gail, y el inicio realmente de su ángulo con Taryn Terrell; esta lucha merece una WE y FS clases"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagesideseats); WebFetch bloqueado por egress"
 tags: [tna-2013, genesis-2013, gail-kim, velvet-sky, mickie-james, miss-tessmacher, odb, taryn-terrell, knockouts, feeling-crown, gauntlet, polemica-arbitral]
 ---
 
@@ -90,6 +91,11 @@ Taryn Terrell no ve**. **Gana Velvet Sky.**
 
 ## Pendientes
 
+- [x] Referee → **Taryn Terrell** (confirmado por el propio ángulo
+      documentado en la ficha — el pie de Gail bajo la cuerda que
+      ella no ve).
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
 - [ ] **Ficha de people de Taryn Terrell, Velvet Sky y ODB** — sin
       abrir.
 

@@ -5,8 +5,8 @@ participantes: ["Rey Fénix", "Mini Vikingo"]
 empresa: "AAA"
 programa: "Verano de Escándalo (Noche 2)"
 fecha: 2026-08-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Aguascalientes"
+recinto: "Arena San Marcos"
 tipo_match: "singles"
 estipulacion: "AAA World Cruiserweight Championship"
 duracion: "10:54"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Increíble, se merece las 3 clases, mejores crucifijos de Mini Vikingo, ejecución y espectáculo excepcional, innovación con sentido, lucha titular con tiempo y pase de PPV clásico"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s16 (visión directa — AAA Verano de Escándalo Noche 2, 1/8/2026)"
   - "Sub-agente card-aaa-verano-escandalo-2-010826 (research 2026-08-01, closed) — Fightful, ProWrestling.net, WWE.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Fightful, F4WOnline); WebFetch bloqueado por egress"
 tags: [aaa-2026, verano-de-escandalo, rey-fenix, mini-vikingo, aaa-world-cruiserweight-championship, main-event, perfect-match, corey-graves, rey-mysterio-comentarios]
 ---
 
@@ -72,8 +73,10 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar ciudad y recinto exactos.
-- [ ] Confirmar réferi.
+- [x] Confirmar ciudad y recinto → **Aguascalientes, Arena San
+      Marcos** (research 2026-10-05) — misma sede que Noche 1, dentro
+      de la serie de tres semanas.
+- [ ] Confirmar réferi — ningún outlet consultado lo reporta.
 - [ ] Verificar cita textual "the ultimate underdog" contra video.
 
 ## Piezas relacionadas

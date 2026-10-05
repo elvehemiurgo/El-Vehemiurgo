@@ -6,8 +6,8 @@ protagonistas: ["Mr. Anderson"]
 empresa: "TNA"
 programa: "Genesis"
 fecha: 2013-01-13
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "backstage"
 duracion: "[verif]"
 linea_textual: "[verif — no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Real como siempre, muy bueno con el ángulo que le dieron; ojalá hubiera tenido su payoff por este booking, pero igual siempre deja un buen show"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagesideseats); WebFetch bloqueado por egress"
 tags: [tna-2013, genesis-2013, mr-anderson, aces-and-eights, death-gods, sin-clase, payoff-ausente]
 ---
 
@@ -58,7 +59,9 @@ tags: [tna-2013, genesis-2013, mr-anderson, aces-and-eights, death-gods, sin-cla
 
 ## Pendientes / huecos
 
-- [ ] Contenido de la promo — [verif].
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
+- [ ] Contenido de la promo y duración — [verif].
 
 ## Piezas relacionadas
 

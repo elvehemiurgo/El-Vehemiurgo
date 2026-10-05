@@ -6,8 +6,8 @@ protagonistas: ["Kurt Angle", "Mr. Anderson"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "Impact Zone (Universal Studios, Orlando)"
 ubicacion_en_show: "in-ring"
 duracion: "[verif]"
 linea_textual: "[verif — no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Un brawl in-ring buenísimo, se merece una WE"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwmania, Wrestleview); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, kurt-angle, mr-anderson, taz, aces-and-eights, steel-cage, open-fight-night, death-gods, wrestling-entertainment]
 ---
 
@@ -78,6 +79,10 @@ reveal de Bully Ray en Lockdown.**
 - [ ] Verbatim contra video.
 - [ ] Registro del **steel cage Angle vs Anderson del 31/1/2013** si
       el Vehemiurgo lo ve.
+- [x] Ciudad y recinto → **Orlando, Florida — Impact Zone (Universal
+      Studios)** (research 2026-10-05).
+- [ ] Duración — sin fuente accesible (los recaps no cronometran
+      segmentos backstage/in-ring breves).
 
 ## Piezas relacionadas
 

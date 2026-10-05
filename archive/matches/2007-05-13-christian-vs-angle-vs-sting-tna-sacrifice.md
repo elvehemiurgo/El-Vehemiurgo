@@ -8,28 +8,29 @@ participantes:
 empresa: "TNA"
 programa: "Sacrifice 2007"
 fecha: 2007-05-13
-ciudad: ""
-recinto: "TNA Impact! Zone, Orlando (presunción — verificar)"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact! Zone, Universal Studios"
 tipo_match: "triple threat"
-estipulacion: "NWA World Heavyweight Championship (TNA-defended) [verif]"
-duracion: ""
-finish: ""
-ganador: ""
+estipulacion: "TNA World Heavyweight Championship — título inaugural, creado ese mismo día tras que la NWA le retirara a Christian Cage el NWA World Heavyweight Championship (y a Team 3D el NWA World Tag Team Championship) por negarse a defenderlo en territorios NWA; la NWA cortó lazos con TNA esa jornada"
+duracion: "10:44"
+finish: "Kurt Angle gana el triple threat por pinfall y se consagra primer TNA World Heavyweight Champion — mecanismo exacto del cover no detallado por las fuentes consultadas"
+ganador: "Kurt Angle"
 referee: ""
-attendance_anunciada: ""
+attendance_anunciada: "900 (cifra estándar reportada para los PPV del Impact Zone en 2007: Sacrifice, No Surrender y Turning Point)"
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
-buy_rate: ""
+buy_rate: "21.000 buys (estimado — TNA no publica buyrates oficiales)"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09-2-lista-personal-completa.md) — TNA Sacrifice 2007 cluster"
   - "Dossier draft-tna-2007-christian-coalition-era.md"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagematch, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2007, sacrifice-2007, christian-cage, kurt-angle, sting, nwa-tna-championship, christian-coalition-era, main-event, triple-threat]
 ---
 
@@ -80,11 +81,21 @@ del cluster TNA 2007** que él llama "tierra sagrada".)
 
 ## Pendientes / huecos
 
-- [ ] Finish, ganador, duración (verificar Cagematch).
-- [ ] Confirmar nombre exacto del título defendido (NWA TNA o
-      TNA en 2007).
-- [ ] Recinto / attendance / gate / buy rate (verificar WON 2007
-      paywall).
+- [x] Finish, ganador, duración → **Kurt Angle** gana el triple
+      threat en **10:44** y se consagra primer **TNA World
+      Heavyweight Champion** (Wikipedia / Cagematch, vía WebSearch;
+      mecanismo exacto del pin no detallado por las fuentes).
+- [x] Confirmar nombre exacto del título defendido → era **TNA
+      World Heavyweight Championship**, título inaugural: esa misma
+      mañana la NWA le quitó a Christian Cage el NWA World
+      Heavyweight Championship (y a Team 3D el NWA World Tag Team
+      Championship) por negarse a defenderlo en territorios NWA, y
+      cortó lazos con TNA.
+- [x] Recinto / attendance / buy rate → TNA Impact! Zone (Universal
+      Studios, Orlando, FL); **900** de asistencia (cifra estándar
+      de los PPV 2007 en esa sede); **~21.000 buys** estimados.
+- [ ] Gate — no disponible: el Impact Zone era sede de tapings de TV,
+      sin boletería/gate tradicional reportado por WON u otra fuente.
 - [ ] Cobertura WON Meltzer — star rating + reporte factual.
 - [ ] Cornette on-record sobre este match (Drive-Thru archive).
 - [ ] **Asignación de clase del Vehemiurgo**.

@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "buena lucha, enterteinment oldschool, booking clásico de Sting intentando pasar ese heat a Bully, muy entretenido y oldschool, además la demora de Hogan y todo si añadió mucho a la emoción, buenos comebacks, polémica con lo de Brooke, y victoria importante para el club, Me gustó el booking y el show que dieron"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s68 (VISIONADO DIRECTO con timestamps — 2013 02 21 TNA Impact Wrestling)"
   - "Sub-agente research-tna-impact-210213-cierre (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress: KB Reviews, Diva Dirt, PWTorch, thehistoryofwwe, OWW, Bleacher Report"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — reconciliación de Pendientes con datos ya presentes en frontmatter; WebSearch adicional sin hallazgo de referee"
 tags: [tna-2013, impact-wrestling, gira-uk, wembley, bully-ray, sting, hulk-hogan, aces-and-eights, devon, doc, mr-anderson, brooke-hogan, transferencia-de-heat, lockdown-2013, wrestling-entertainment]
 ---
 # Bully Ray & Sting vs Aces & Eights — main event (2013 02 21 TNA Impact Wrestling)
@@ -95,7 +96,10 @@ tags: [tna-2013, impact-wrestling, gira-uk, wembley, bully-ray, sting, hulk-hoga
 ## Pendientes
 
 - [ ] Identidad del *"Vice President"* en la corrida final.
-- [ ] Duración exacta (dos fuentes, dos cifras).
+- [x] Duración exacta → ya registrada en frontmatter con **dos
+      fuentes y dos cifras**: **11:15** (Fandom, thehistoryofwwe),
+      **11:26** (KB) — no se elige una sola (research 2026-10-05).
+- [ ] Referee — sin fuente accesible.
 
 ## Cross-links
 

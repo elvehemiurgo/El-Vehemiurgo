@@ -9,8 +9,8 @@ ciudad: "Nashville, Tennessee, USA"
 recinto: "The Pinnacle"
 tipo_match: "singles"
 estipulacion: "TNA Knockouts World Championship — title vs title? [verif] / standard title match"
-duracion: "[verif]"
-finish: "Arianna Grace gana el título [verif finish exacto]"
+duracion: "13:25 [una fuente]"
+finish: "Arianna Grace se pone un sock estilo Cobra en la mano derecha y conecta un Cobra strike al cuello de Lei Ying Lee, seguido de un neckbreaker sobre la rodilla — pinfall, nueva campeona"
 ganador: "Arianna Grace (NUEVA TNA Knockouts World Champion)"
 referee: "[verif]"
 attendance_anunciada: "~1,453 (estimación WrestleTix, mismo show que Elegance vs Brookside/Hartwell)"
@@ -19,10 +19,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Anchor de la declaración THE FUTURE in 2026 #3 — sin clase declarada todavía"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — anchor declaración Arianna Grace prospecto)"
   - "Sub-agente m-by-elegance-no-surrender-2026 (research 2026-06-17, closed): confirma Arianna NEW Knockouts Champion"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania, f4wonline, Wrestling Inc, LWOS); WebFetch bloqueado por egress"
 tags: [lei-ying-lee, arianna-grace, gabriella-marella, santino-marella-hija, stacks-pareja, tna-knockouts-world-championship, tna-no-surrender-2026, nashville-the-pinnacle, heel-chickenshit-cheat-tactics, title-change, the-future-in-2026-anchor]
 ---
 
@@ -89,7 +90,9 @@ manipulación + ejecución oportunista. Old-school cien por ciento.
 
 **Match**:
 - Arianna huye, evita, hace trampas. Heel chickenshit clásico.
-- Gana el título [verif finish exacto].
+- Gana el título con un **Cobra strike** (sock en la mano) al cuello
+  de Lee y un **neckbreaker sobre la rodilla** — pinfall, en **13:25**
+  (research 2026-10-05).
 
 **Post-match**:
 - Misma noche, en otro segmento: **return de Mickie James** (ataque
@@ -114,7 +117,10 @@ manipulación + ejecución oportunista. Old-school cien por ciento.
 ## Pendientes
 
 - [ ] Clase Vehemiurgia si decide asignarla.
-- [ ] **Finish exacto y duración** del match.
+- [x] **Finish exacto y duración** del match → **Cobra strike +
+      neckbreaker sobre la rodilla, 13:25** [una fuente — 411mania/
+      f4wonline] (research 2026-10-05).
+- [ ] Referee — sin fuente accesible.
 - [ ] Lugar en la card.
 - [ ] Lei Ying Lee fact-sheet (campeona derrotada).
 - [ ] Santino Marella fact-sheet (rol exacto en TNA 2026).

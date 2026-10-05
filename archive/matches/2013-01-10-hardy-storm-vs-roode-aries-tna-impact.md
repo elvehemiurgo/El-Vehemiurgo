@@ -5,8 +5,8 @@ participantes: ["Jeff Hardy", "James Storm", "Bobby Roode", "Austin Aries"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-10
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "tag team"
 estipulacion: "standard"
 duracion: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo genial, muy oldschool, estuvo muy real; Bobby Roode es genial; la lucha es obligatoria, es un clásico instantáneo, se merece las 3 clases; y el booking está bien, todo alrededor de Jeff fue un acierto como siempre"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom, PWTorch); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, jeff-hardy, james-storm, bobby-roode, austin-aries, dirty-heels, instant-classic-crown, death-gods, clasico-instantaneo]
 ---
 
@@ -65,8 +66,12 @@ título mundial. **Ganan Hardy y Storm por descalificación.**
 
 ## Pendientes
 
-- [ ] **Mecanismo exacto de la descalificación** — no confirmado.
-- [ ] Duración y referee.
+- [ ] **Mecanismo exacto de la descalificación** — no confirmado;
+      sin fuente accesible más allá del resultado.
+- [ ] Duración y referee — sin fuente accesible.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Prowrestling
+      Fandom, vía WebSearch).
 
 ## Cross-links
 

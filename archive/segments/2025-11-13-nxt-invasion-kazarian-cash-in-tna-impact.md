@@ -10,7 +10,7 @@ empresa: "TNA"
 programa: "Impact"
 fecha: 2025-11-13
 ciudad: ""
-recinto: "[verif]"
+recinto: "Full Sail University (Winter Park, Florida)"
 ubicacion_en_show: "[verif] — likely main event closing angle"
 duracion: ""
 linea_textual: ""
@@ -24,9 +24,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2025-2026 Kazarian King era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, Fightful, Ringside News); WebFetch bloqueado por egress"
 tags: [tna-2025, impact-nov-2025, kazarian-king-era, nxt-invasion, feast-or-fired-cash-in, cross-promotion, foundation-moment, world-title-change]
 ---
 
@@ -67,6 +68,8 @@ heel claro + título claro + payoff visual claro.
 
 ## Pendientes / huecos
 
+- [x] Recinto → **Full Sail University (Winter Park, Florida)**
+      (research 2026-10-05).
 - [ ] **Composición exacta** de los NXT stars que invadieron.
 - [ ] **Quién era el TNA World Champion** pre-cash-in.
 - [ ] **Términos del working agreement TKO-Anthem** para

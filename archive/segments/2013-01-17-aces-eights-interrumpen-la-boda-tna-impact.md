@@ -6,8 +6,8 @@ protagonistas: ["Bully Ray", "Brooke Hogan", "Taz", "Hulk Hogan", "Sting", "Tomm
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "cierre del show"
 duracion: "[verif]"
 linea_textual: "Are you sure you wanna do this [citado por el Vehemiurgo; no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, ese segmento se merece una WE; es muy gracioso 'are you sure you wanna do this', y la revelación, buen momento, estuvo cool"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagesideseats, Diva Dirt); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, bully-ray, brooke-hogan, taz, hulk-hogan, sting, tommy-dreamer, aces-and-eights, boda, traicion, revelacion, wrestling-entertainment]
 ---
 
@@ -79,7 +80,9 @@ es la pieza que hace creíble esa traición.**
 
 ## Pendientes / huecos
 
-- [ ] Verbatim contra video.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
+- [ ] Verbatim contra video; duración — [verif].
 - [ ] **Fichas de people de Brooke Hogan, Taz y Tommy Dreamer** — sin
       abrir.
 

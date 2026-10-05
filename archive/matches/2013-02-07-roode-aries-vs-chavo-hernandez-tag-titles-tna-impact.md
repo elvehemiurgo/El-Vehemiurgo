@@ -9,7 +9,7 @@ ciudad: "Manchester, Inglaterra [grabado el 25/1/2013]"
 recinto: "Manchester Arena [grabado el 25/1/2013]"
 tipo_match: "tag team — título"
 estipulacion: "TNA World Tag Team Championships"
-duracion: "17:50 [verif — fuente única]"
+duracion: "17:50 [confirmado por segunda fuente — research 2026-10-05]"
 finish: "Combo Double R Spinebuster de Roode + 450 Splash de Aries sobre Chavo Guerrero Jr. — después de que Roode abandonara el ring dejando solo a Aries y volviera"
 ganador: "Bobby Roode & Austin Aries — nuevos campeones"
 referee: "[verif]"
@@ -19,10 +19,11 @@ calificacion_vehemiurgo: "Súper lucha, se merece las 3 clases, top tier wrestli
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 perfect_declarado: true
 estado: en-investigacion
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-05 s62 (VISIONADO DIRECTO — 2013 02 07 TNA Impact Wrestling)"
   - "Sub-agente research-tna-impact-070213 (research 2026-09-05) — WebSearch; WebFetch bloqueado por egress: Wrestleview, PWTorch (Caldwell), Bleacher Report, Fandom, Wikipedia, WON vía Wrestleview"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (agregador de resultados TNA 2013, OWW); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, gira-uk, manchester, dirty-heels, bobby-roode, austin-aries, chavo-guerrero-jr, hernandez, tag-team-championship, coronacion, perfect-declarado, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Roode & Aries vs Chavo & Hernandez — Tag Team Championships (2013 02 07 TNA Impact Wrestling)
@@ -122,7 +123,9 @@ resto del sistema.
 ## Pendientes
 
 - [ ] **Ratificar la mecánica de PERFECT** (ver arriba).
-- [ ] Confirmar la duración con segunda fuente.
+- [x] Duración confirmada por segunda fuente → **17:50**
+      (research 2026-10-05).
+- [ ] Referee — sin fuente accesible.
 - [ ] **Fichas de people de Roode, Aries, Chavo Guerrero Jr. y
       Hernandez** — `_(ficha pendiente)_`. Roode y Aries son Tier 0.
 

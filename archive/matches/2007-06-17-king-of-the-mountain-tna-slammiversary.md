@@ -10,27 +10,28 @@ participantes:
 empresa: "TNA"
 programa: "Slammiversary 2007"
 fecha: 2007-06-17
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Nashville, TN"
+recinto: "Nashville Municipal Auditorium"
 tipo_match: "King of the Mountain (TNA signature match — multi-talent ladder + reverse ladder mechanics)"
-estipulacion: "TNA innovation: penalty box + reverse ladder rules. Pin/sub para 'earn the right' a colgar el cinturón. Ganador = quien cuelga el cinturón en el gancho elevado."
-duracion: ""
-finish: ""
-ganador: ""
+estipulacion: "TNA innovation: penalty box + reverse ladder rules. Pin/sub para 'earn the right' a colgar el cinturón. Ganador = quien cuelga el cinturón en el gancho elevado. Título vacante TNA World Heavyweight Championship en juego."
+duracion: "19:21"
+finish: "Kurt Angle cuelga el cinturón en el gancho elevado — gana el TNA World Heavyweight Championship vacante; secuencia exacta de la eliminación de los otros cuatro no detallada por las fuentes consultadas"
+ganador: "Kurt Angle"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
-buy_rate: ""
+buy_rate: "22.000 buys (estimado, para el show completo — TNA no publica buyrates oficiales)"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2007 Christian Coalition era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagematch, F4WOnline, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2007, slammiversary-2007, king-of-the-mountain, tna-innovation, christian-cage, samoa-joe, kurt-angle, aj-styles, chris-harris, multi-talent-match]
 ---
 
@@ -84,8 +85,14 @@ editorial del cluster entero** en un solo match.
 
 ## Pendientes / huecos
 
-- [ ] Ganador del match + secuencia exacta del finish.
-- [ ] Duración.
+- [x] Recinto → **Nashville Municipal Auditorium, Nashville, TN**
+      (no fue en el Impact Zone — Slammiversary 2007 fue house show
+      de gira; Wikipedia / Cagematch, vía WebSearch).
+- [x] Ganador del match + duración → **Kurt Angle** cuelga el
+      cinturón y gana el **TNA World Heavyweight Championship**
+      vacante, en **19:21**. **Secuencia exacta de la eliminación**
+      de Styles, Christian, Joe y Harris **no detallada** por las
+      fuentes consultadas.
 - [ ] Star rating WON.
 - [ ] **Asignación de clase del Vehemiurgo** — posible candidato
       a Wrestling Entertainment por el formato spectacle + Fighting

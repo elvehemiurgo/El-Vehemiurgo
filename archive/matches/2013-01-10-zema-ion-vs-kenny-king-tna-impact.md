@@ -5,12 +5,12 @@ participantes: ["Zema Ion", "Kenny King"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-10
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "singles"
 estipulacion: "semifinal del torneo por el contendiente Nº1 al TNA X Division Championship"
 duracion: "[verif]"
-finish: "[no confirmado]"
+finish: "[no confirmado] — ninguna fuente accesible detalla el mecanismo exacto"
 ganador: "Kenny King"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Un clásico TNA, está genial, se merece las 3 clases; aquí hay un suplex brutal de Zema, es el facial que sale mal; es una lucha brutal, talentazos, victoria brutal, buenísimo"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom, Wrestleview); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, zema-ion, kenny-king, x-division, instant-classic-crown, jericho-wcw, rvd, techo-de-midcard]
 ---
 
@@ -73,8 +74,12 @@ Championship** de RVD. **Gana Kenny King** y avanza a la final contra
 
 ## Pendientes
 
-- [ ] **Finish** — ninguna fuente accesible lo reporta.
-- [ ] Duración y referee.
+- [ ] **Finish** — ninguna fuente accesible lo reporta (Wrestleview
+      describe la acción general sin dar el movimiento final).
+- [ ] Duración y referee — sin fuente accesible.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Prowrestling
+      Fandom, vía WebSearch).
 - [ ] **Fichas de people de Zema Ion y Kenny King** — sin abrir.
 
 ## Cross-links

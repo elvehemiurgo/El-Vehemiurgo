@@ -9,7 +9,7 @@ ciudad: "Aguascalientes"
 recinto: "Arena San Marcos"
 tipo_match: "tag team"
 estipulacion: "sin título en juego — ángulo Los Perros del Mal"
-duracion: "[verif]"
+duracion: "20:34"
 finish: "El Grande Americano se arrastra pidiendo el relevo; Dominik se deja caer del apron y no hace el tag, abandonándolo; Daga remata con doble stomp desde la esquina superior"
 ganador: "Ángel Garza & Daga (Los Perros del Mal)"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo buena, angulo heavyweight de TV, todos los spots, todas las interferencias, tan fuerte como Noche de los Grandes, realmente emocionante; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s14 (visión directa — AAA Verano de Escándalo Noche 1, 25/7/2026)"
   - "Sub-agente card-aaa-verano-escandalo-1-250726 (research 2026-08-01, closed) — POST Wrestling, 411MANIA, Fightful, SSBCrack News, Cageside Seats"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, Cageside Seats); WebFetch bloqueado por egress"
 tags: [aaa-2026, verano-de-escandalo, dominik-mysterio, el-grande-americano, angel-garza, daga, los-perros-del-mal, traicion, omos, dorian-roldan, perfect-match]
 ---
 
@@ -69,7 +70,13 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración y réferi.
+- [x] Confirmar duración → **20:34** (POST Wrestling, Cageside Seats
+      — research 2026-10-05). El mismo research añade un detalle no
+      registrado en el dictado: el réferi fue sacado del ring en el
+      tramo final y no estaba disponible para contar cuando Dominik
+      abandona a Americano, lo que explica por qué Rey Mysterio no
+      interviene antes del pin.
+- [ ] Confirmar réferi — ningún outlet consultado acredita el nombre.
 - [ ] Verificar nombre exacto del finisher de Daga (research lo
       reportó como "doble stomp", con una variante "Dagge Double
       Stomp" sin segunda fuente).

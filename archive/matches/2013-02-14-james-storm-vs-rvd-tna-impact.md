@@ -9,7 +9,7 @@ ciudad: "Londres, Inglaterra [grabado el 26/1/2013]"
 recinto: "Wembley Arena [grabado el 26/1/2013]"
 tipo_match: "singles — torneo"
 estipulacion: "Torneo de Hogan por el #1 contender; RVD campeón X Division, non-title"
-duracion: "[verif] (~10 min de TV desde 00:52:41 en el visionado)"
+duracion: "5:48 [una fuente] (~10 min de TV desde 00:52:41 en el visionado)"
 finish: "Last Call superkick de Storm, pinfall"
 ganador: "James Storm"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "dream match, lucha de calidad, se merece las 3 clases, y el booking me parece bueno de hecho [...] me gustó aunque los strikes estaban debiles, muy safe, pero lo demás muy duro, y Storm gana, es genial ver a RVD ponerlo over antes de irse"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO con timestamps — 2013 02 14 TNA Impact Wrestling)"
   - "Sub-agente research-tna-impact-140213 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress: Wrestleview, Wrestling-Online, PWTorch (Caldwell), Bleacher Report, Fandom, Wikipedia"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (agregador de resultados, cageside seats); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, gira-uk, wembley, james-storm, rvd, rob-van-dam, x-division, kenny-king, chris-sabin, dream-match, put-over, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # James Storm vs Rob Van Dam (2013 02 14 TNA Impact Wrestling)
@@ -65,12 +66,13 @@ tags: [tna-2013, impact-wrestling, gira-uk, wembley, james-storm, rvd, rob-van-d
 ## Datos confirmados por research
 
 - **Storm gana por pinfall con Last Call superkick**; non-title
-  (Fandom; Bleacher Report). Duración `[no confirmado]`.
+  (Fandom; Bleacher Report). **Duración: 5:48** [una fuente, research
+  2026-10-05].
 - Contexto X Division: RVD retuvo el 7/2 ante King y Zema Ion (5:58);
-  **Kenny King le ganó el título antes de Lockdown** (era campeón el
-  10/3, retuvo ante York e Ion) — fecha exacta `[verif]`, probable
-  Impact 28/2. Chris Sabin estaba lesionado de la rodilla y volvió a
-  mediados de 2013 `[verif]`.
+  **Kenny King le ganó el título a RVD el 28/2/2013** (cageside seats,
+  research 2026-10-05) — *"RVD's X Division title reign ends not with
+  a bang but a whimper"*. Chris Sabin estaba lesionado de la rodilla y
+  volvió a mediados de 2013 `[verif]`.
 - **La salida de RVD**: contrato vencido en el primer semestre de
   2013; reapareció en WWE en **Money in the Bank, 14/7/2013** (el
   archivo tiene ese match registrado). Fecha exacta de su última
@@ -80,8 +82,12 @@ tags: [tna-2013, impact-wrestling, gira-uk, wembley, james-storm, rvd, rob-van-d
 
 ## Pendientes
 
-- [ ] Duración; fecha de King venciendo a RVD; última fecha de RVD en
-      TNA.
+- [x] Duración → **5:48** [una fuente]; fecha de King venciendo a RVD
+      → **28/2/2013** (cageside seats) (research 2026-10-05).
+- [ ] Última fecha de RVD en TNA — no confirmada; no se encontró
+      fuente con fecha exacta de su última aparición (las fuentes
+      solo describen que su contrato venció "en el primer semestre de
+      2013"). Referee de este match — sin fuente accesible.
 - [ ] **Fichas de James Storm y RVD** (ambos en el panteón,
       `_(ficha pendiente)_`).
 

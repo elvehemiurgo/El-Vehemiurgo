@@ -9,7 +9,7 @@ ciudad: "Londres, Inglaterra [grabado el 26/1/2013]"
 recinto: "Wembley Arena [grabado el 26/1/2013]"
 tipo_match: "singles — torneo, main event"
 estipulacion: "Torneo de Hogan por el #1 contender al TNA World Heavyweight Championship (Lockdown 2013)"
-duracion: "13:47 [verif — fuente única]"
+duracion: "13:47 / 13:45 según otra fuente (variación menor; research 2026-10-05)"
 finish: "Doble count-out: finger poke of doom mutuo sin caída, Aries empuja a Roode contra el réferi, doble spot Eddie Guerrero con la silla, y Chavo Guerrero Jr. y Hernandez bajan con camisetas de Aries y Roode — los dos se distraen y ninguno vuelve a tiempo"
 ganador: "sin ganador — doble count-out"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "super entretenido el ángulo [...] que pros, y muy dirty heels, solitos podrían llenar horas de programación, esta lucha se merece las 3 clases y la corona con +, ponen toda una pelicula de lucha heel vs heel, con un doble spot de eddie guerrero y todo, y el final con Chavo y Hernandez costandoles la lucha fue genial, top tier wrestling, y es una forma inteligente para mantener a los dirty heels lejos del titulo mundial y que siga siendo entretenido"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO con timestamps — 2013 02 14 TNA Impact Wrestling)"
   - "Sub-agente research-tna-impact-140213 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress: Wrestleview, Wrestling-Online, PWTorch (Caldwell), Bleacher Report, Fandom, Wikipedia"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch/Caldwell, agregador de resultados); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, gira-uk, wembley, dirty-heels, austin-aries, bobby-roode, chavo-guerrero-jr, hernandez, heel-vs-heel, finger-poke-of-doom, eddie-guerrero-spot, main-event, grey-booking, instant-classic-crown-plus, perfect-wrestling, fighting-spirit, wrestling-entertainment-plus]
 ---
 # Austin Aries vs Bobby Roode (2013 02 14 TNA Impact Wrestling)
@@ -85,7 +86,9 @@ tags: [tna-2013, impact-wrestling, gira-uk, wembley, dirty-heels, austin-aries, 
 
 ## Pendientes
 
-- [ ] Segunda fuente para la duración.
+- [x] Segunda fuente para la duración → **13:47** (PWTorch/Caldwell
+      box score) con variación menor de **13:45** en otra fuente
+      (research 2026-10-05). Referee: sin fuente accesible.
 - [ ] **Fichas de Aries y Roode** — Tier 0, ahora con Corona+ entre
       sí. `_(ficha pendiente)_`.
 

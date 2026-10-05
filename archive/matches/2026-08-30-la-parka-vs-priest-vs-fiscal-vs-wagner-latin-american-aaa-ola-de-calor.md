@@ -9,7 +9,7 @@ ciudad: "Edinburg, Texas"
 recinto: "Bert Ogden Arena"
 tipo_match: "fatal four-way"
 estipulacion: "AAA Latin American Championship — vacante"
-duracion: "[verif]"
+duracion: "9:21 [una fuente]"
 finish: "Damián Priest conecta South of Heaven sobre El Fiscal; La Parka entra a romper el conteo y remata con Thriller Suplex sobre El Fiscal"
 ganador: "La Parka — nuevo campeón"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, lo mantuvieron real, si hay gente oldschool acá, se merecen las 3 clases, apostaron por algo más calmado bien duro, stiff y buenas secuencias, se merecen una WE y FS"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-03 s59 (VISIONADO DIRECTO — AAA Ola de Calor, 30/8/2026)"
   - "Sub-agente research-aaa-ola-de-calor-300826 (research 2026-09-03) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [aaa-2026, ola-de-calor, la-parka, damian-priest, el-fiscal, hijo-de-dr-wagner-jr, aaa-latin-american-championship, wwe-aaa-crossover, contradiccion-de-clase, feeling-crown, fighting-spirit, wrestling-entertainment]
 ---
 # Fatal four-way — AAA Latin American Championship (30/8/2026)
@@ -91,7 +92,8 @@ Crown.
 
 - [ ] **Ratificar la contradicción de clase** ("3 clases" vs "WE y
       FS").
-- [ ] Duración — no reportada en ninguna fuente accesible.
+- [x] Duración → **9:21** [una fuente, research 2026-10-05] — réferi
+      sigue sin reportarse en ningún outlet consultado.
 - [ ] Abrir ficha de **Damián Priest** (AAA/WWE) — distinta de
       `adam-priest.md`.
 

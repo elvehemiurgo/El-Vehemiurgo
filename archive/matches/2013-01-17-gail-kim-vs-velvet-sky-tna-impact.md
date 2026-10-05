@@ -5,23 +5,24 @@ participantes: ["Gail Kim", "Velvet Sky", "Taryn Terrell"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "singles"
 estipulacion: "contendencia al TNA Knockouts Championship en juego"
-duracion: "[verif]"
-finish: "Gail Kim discute con la árbitro Taryn Terrell y eso le cuesta la lucha — mecanismo exacto [no confirmado]"
+duracion: "5:55"
+finish: "Velvet pone el pie bajo la cuerda para detener una cuenta de Gail; Gail discute con la árbitro Taryn Terrell por la decisión, y eso le da tiempo a Velvet para remontar con un bulldog (In Your Face) y su finisher — pinfall"
 ganador: "Velvet Sky"
-referee: "[verif]"
+referee: "Taryn Terrell"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Es un reto para Gail; empieza lenta groundeada, convirtiendo a Velvet en algo más heavyweight, funciona, series de counters, no exponen a Velvet, además de la psicología con la referí Terrell; es lo mejor que puedes hacer con Velvet en cuanto a wrestling in-ring; se merece una WE"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Diva Dirt, Wrestleview); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, gail-kim, velvet-sky, taryn-terrell, knockouts, proteccion-de-talento, psicologia-arbitral, wrestling-entertainment]
 ---
 
@@ -73,8 +74,17 @@ lucha** — continuación directa del conflicto nacido en Genesis.
 
 ## Pendientes
 
-- [ ] **Mecanismo exacto del finish** — no confirmado.
-- [ ] Duración.
+- [x] **Mecanismo exacto del finish** → Velvet detiene una cuenta de
+      Gail poniendo el pie bajo la cuerda; **Gail discute con Taryn
+      Terrell** por la decisión, y eso le da tiempo a Velvet de
+      remontar con clotheslines, head scissors, un bulldog (**In
+      Your Face**) y su finisher para el pin (Diva Dirt / Wrestleview,
+      vía WebSearch).
+- [x] Duración → **5:55**.
+- [x] Referee → **Taryn Terrell** — confirmada por el propio ángulo
+      (es la protagonista de la discusión que decide el finish).
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
 
 ## Cross-links
 

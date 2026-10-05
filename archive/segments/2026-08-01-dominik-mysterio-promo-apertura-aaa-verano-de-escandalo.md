@@ -6,8 +6,8 @@ protagonistas: ["Dominik Mysterio", "Omos", "Dorian Roldán"]
 empresa: "AAA"
 programa: "Verano de Escándalo (Noche 2)"
 fecha: 2026-08-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Aguascalientes"
+recinto: "Arena San Marcos"
 ubicacion_en_show: "apertura del show, tras el video de recap"
 duracion: "[verif]"
 linea_textual: "What can I tell you? What did you expect from Dirty Dom? What did you expect from the Dirtiest of the Dirty, the King of the Wrestlers?"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Habla como wrestler de verdad, poniéndose más duro cada semana; esta promo se merece una WE class porque es la evolución"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s16 (visión directa — AAA Verano de Escándalo Noche 2, 1/8/2026)"
   - "Sub-agente card-aaa-verano-escandalo-2-010826 (research 2026-08-01, closed) — F4WOnline, Fightful"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Fightful, F4WOnline); WebFetch bloqueado por egress"
 tags: [aaa-2026, verano-de-escandalo, dominik-mysterio, omos, dorian-roldan, wrestling-entertainment, evolucion]
 ---
 
@@ -59,7 +60,11 @@ tags: [aaa-2026, verano-de-escandalo, dominik-mysterio, omos, dorian-roldan, wre
 
 ## Pendientes / huecos
 
-- [ ] Confirmar ubicación exacta y duración.
+- [x] Confirmar ciudad y recinto → **Aguascalientes, Arena San
+      Marcos** (research 2026-10-05) — misma sede que Noche 1, dentro
+      de la serie de tres semanas.
+- [ ] Confirmar ubicación exacta dentro del show y duración — sin
+      fuente.
 
 ## Piezas relacionadas
 

@@ -9,7 +9,7 @@ ciudad: "Manchester, Inglaterra [grabado el 25/1]"
 recinto: "Manchester Arena [grabado el 25/1]"
 tipo_match: "singles"
 estipulacion: "Open Fight Night"
-duracion: "[verif]"
+duracion: "10:28 [una fuente — PWTorch/Caldwell box score]"
 finish: "Brainbuster de Austin Aries — pinfall, tras distracción de Roode, que atrae al referee hacia Hernandez y acomoda a Chavo"
 ganador: "Austin Aries"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Colisión histórica la verdad, Generation Next vs SmackDown Six, súper épico, muy dura esta lucha, se merece las 3 clases; Dirty Heels on top, buenísima la psicología, y buena apuesta, estos talentos te arman un show donde sea"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s56 (visión directa — TNA Impact Wrestling, 31/1/2013)"
   - "Sub-agente research-tna-impact-310113 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch/Caldwell); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, chavo-guerrero, austin-aries, bobby-roode, dirty-heels, generation-next, smackdown-six, instant-classic-crown, dream-match, colision-de-linajes]
 ---
 
@@ -80,7 +81,9 @@ tags: [tna-2013, impact-wrestling, chavo-guerrero, austin-aries, bobby-roode, di
 
 ## Pendientes
 
-- [ ] Duración y referee — ninguna fuente accesible los reporta.
+- [x] Duración → **10:28** [una fuente — PWTorch/Caldwell box score,
+      research 2026-10-05].
+- [ ] Referee — sin fuente accesible.
 - [ ] **Ficha de people de Chavo Guerrero Jr.** — sin abrir.
 
 ## Cross-links

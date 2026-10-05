@@ -10,7 +10,7 @@ recinto: "Coliseo Centenario"
 tipo_match: "singles"
 estipulacion: "Sin título; showcase de La Catalina rumbo a Triplemanía"
 duracion: "3:33"
-finish: "Slam de estómago / spinning faceplant de La Catalina [nombre técnico no confirmado]"
+finish: "Spinning faceplant de La Catalina [una fuente]"
 ganador: "La Catalina"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "adelicious vs catalina con flamer en comentarios, me esperaba algo stiff, porque el enterteinment ya lo tienen, la Catalina se ve genial en tv, es todo lo que Vaquer debería ser, es normal compararlas, y está brillando como babyface muy vocal, pensè que Shanny la desplazaria pero le estan dando el protagonismo de triplemania, y siempre pone buenas luchas; esta lucha se merece las 3 clases, y adelicious tiene el mejor sling blade in the business; se vieron muy cool"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — AAA Worldwide, emitido 5/9/2026)"
   - "Sub-agente research-aaa-worldwide-050926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (sacnilk.com); WebFetch bloqueado por egress"
 tags: [aaa-worldwide-2026, adelicious, la-catalina, flammer, lady-shani, stephanie-vaquer, comparacion-editorial, triplemania-34, torreon, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Adelicious vs La Catalina (AAA Worldwide, emitido 5/9/2026)
@@ -80,8 +81,10 @@ tags: [aaa-worldwide-2026, adelicious, la-catalina, flammer, lady-shani, stephan
 
 ## Pendientes
 
-- [ ] Nombre técnico exacto del finish de Catalina.
+- [x] Nombre técnico exacto del finish de Catalina → **spinning
+      faceplant** [una fuente — sacnilk.com, research 2026-10-05].
 - [ ] Ficha nueva de Adelicious — primer registro individual.
+- [ ] Referee — ningún outlet consultado lo reporta.
 
 ## Cross-links
 

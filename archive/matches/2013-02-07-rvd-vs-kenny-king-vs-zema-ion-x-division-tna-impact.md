@@ -9,7 +9,7 @@ ciudad: "Manchester, Inglaterra [grabado el 25/1/2013]"
 recinto: "Manchester Arena [grabado el 25/1/2013]"
 tipo_match: "three-way"
 estipulacion: "TNA X Division Championship"
-duracion: "5:58 [verif — fuente única]"
+duracion: "5:58 [confirmado por segunda fuente — research 2026-10-05]"
 finish: "Five-Star Frog Splash de RVD sobre Kenny King; el pin fue sobre Zema Ion"
 ganador: "Rob Van Dam — retiene"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "De las últimas fechas de RVD; inicia algo accidentada, pero buen ritmo, wrestlers buenos, RVD es muy oldschool, Kenny y Zema con esta producción así apretadísima de esta era lucen genial; me gusta lo stiff que se pone esta lucha, buen selling, se merecen las 3 clases, hubo spots muy buenos y secuencias enfermas muy cool, pusieron un súper show"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-05 s62 (VISIONADO DIRECTO — 2013 02 07 TNA Impact Wrestling)"
   - "Sub-agente research-tna-impact-070213 (research 2026-09-05) — WebSearch; WebFetch bloqueado por egress: Wrestleview, PWTorch (Caldwell), Bleacher Report, Fandom, Wikipedia, WON vía Wrestleview"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (agregador de resultados TNA 2013, OWW); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, gira-uk, manchester, rvd, kenny-king, zema-ion, x-division, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # RVD vs Kenny King vs Zema Ion — X Division Championship (2013 02 07 TNA Impact Wrestling)
@@ -83,7 +84,9 @@ gimmick AAA 2026 de Joaquin Wilde. Zema Ion queda `_(ficha pendiente)_`.
 
 ## Pendientes
 
-- [ ] Confirmar la duración con segunda fuente.
+- [x] Duración confirmada por segunda fuente → **5:58**
+      (research 2026-10-05).
+- [ ] Referee — sin fuente accesible.
 - [ ] Fichas de people de **Rob Van Dam**, **Kenny King** y **Zema
       Ion** — `_(ficha pendiente)_`.
 

@@ -11,12 +11,12 @@ empresa: "TNA"
 programa: "Turning Point 2025"
 fecha: 2025-11-14
 ciudad: ""
-recinto: "[verif]"
+recinto: "Full Sail University (Winter Park, Florida)"
 tipo_match: "tag (probable trios o tag team — [verif] composición exacta)"
 estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "14:21 [una fuente]"
+finish: "Spiral Tap de Dezmond Xavier sobre JDC — pinfall (eight-man tag)"
+ganador: "The Rascalz"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -28,9 +28,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2025-2026 Kazarian King era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful, cageside seats); WebFetch bloqueado por egress"
 tags: [tna-2025, turning-point-2025, the-system, the-rascalz, tag-team-feature, tna-tag-division, faction-vs-tag]
 ---
 
@@ -61,8 +62,20 @@ tags: [tna-2025, turning-point-2025, the-system, the-rascalz, tag-team-feature, 
 
 ## Pendientes / huecos
 
-- [ ] Composición exacta (¿tag o trios?).
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish + duración → **The Rascalz** (Dezmond Xavier,
+      Trey Miguel, Zachary Wentz, Myron Reed) ganan por **Spiral Tap
+      de Xavier sobre JDC**, en **14:21** [una fuente — PWTorch/
+      Fightful] (research 2026-10-05). Recinto → **Full Sail
+      University, Winter Park, Florida**.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha lista
+      `participantes` como Eddie Edwards, Brian Myers, Bronson
+      (The System) vs Trey Miguel, Zachary Wentz (The Rascalz) —
+      tag/trios sin confirmar; las fuentes (PWTorch, Fightful)
+      reportan un **eight-man tag**: The System = **Moose, Eddie
+      Edwards, Brian Myers, JDC**; The Rascalz = **Dezmond Xavier,
+      Trey Miguel, Zachary Wentz, Myron Reed** (Bronson no aparece en
+      los recaps consultados). No se reescribe `participantes`; se
+      deja esta discrepancia para revisión editorial.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST Wrestling.
 - [ ] **Asignación de clase del Vehemiurgo**.

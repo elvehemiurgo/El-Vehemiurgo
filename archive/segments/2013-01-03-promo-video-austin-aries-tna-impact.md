@@ -6,8 +6,8 @@ protagonistas: ["Austin Aries", "Bully Ray", "Hulk Hogan"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif — no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Son buenos rubs para él; si tenía que perder contra Jeff, pero siempre le dieron cosas importantes y sí era Total Nonstop Aries estos años, es un dios del wrestling Aries; este video se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, austin-aries, bully-ray, hulk-hogan, promo-video, total-nonstop-aries, panteon-tier-0, ratificacion, wrestling-entertainment]
 ---
 
@@ -65,7 +66,10 @@ tags: [tna-2013, impact-wrestling, austin-aries, bully-ray, hulk-hogan, promo-vi
 
 ## Pendientes / huecos
 
-- [ ] Contenido del video — [verif].
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Prowrestling
+      Fandom, vía WebSearch).
+- [ ] Contenido del video y duración — [verif].
 - [ ] **Ficha de people de Austin Aries** — figura en el panteón sin
       ficha propia.
 

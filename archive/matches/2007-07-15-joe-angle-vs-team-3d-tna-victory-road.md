@@ -9,27 +9,28 @@ participantes:
 empresa: "TNA"
 programa: "Victory Road 2007"
 fecha: 2007-07-15
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact! Zone, Universal Studios"
 tipo_match: "tag team — forced alliance (Joe + Angle vs adversario común)"
-estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+estipulacion: "Winner Take All — quien fije el pin o la sumisión gana el título de la persona vencida (NWA/TNA World Tag Team Championship, nombre en transición ese año — Team 3D lo defendía)"
+duracion: "18:25"
+finish: "Samoa Joe fija el pin sobre Brother Ray (Bubba Ray Dudley) — Joe y Angle ganan el campeonato en pareja; Joe elige retenerlo en solitario y desafía a Angle a un Winner Take All en Hard Justice"
+ganador: "Samoa Joe y Kurt Angle"
 referee: ""
-attendance_anunciada: ""
+attendance_anunciada: "900 (cifra estándar reportada para los PPV del Impact Zone en 2007)"
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
-buy_rate: ""
+buy_rate: "15.000 buys (estimado — TNA no publica buyrates oficiales)"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2007"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagematch, Prowrestling Fandom, Facebook/Impact Wrestling archivo); WebFetch bloqueado por egress"
 tags: [tna-2007, victory-road-2007, samoa-joe, kurt-angle, team-3d, forced-alliance, joe-angle-arc, build-hard-justice]
 ---
 
@@ -69,9 +70,18 @@ del resultado.
 
 ## Pendientes / huecos
 
-- [ ] Ganador del match, finish exacto, duración.
+- [x] Ganador del match, finish exacto, duración → **Samoa Joe y
+      Kurt Angle** ganan en **18:25**: **Joe fija el pin sobre
+      Brother Ray**, bajo estipulación *"winner take all"* (quien
+      fije la caída gana el título de la persona vencida). Joe
+      retiene el título en solitario y desafía a Angle a un Winner
+      Take All en Hard Justice (Wikipedia / Cagematch, vía
+      WebSearch).
 - [ ] Star rating WON.
-- [ ] Stipulation exacta (TNA Tag Title? Special challenge?).
+- [x] Stipulation exacta → **Winner Take All** por el campeonato de
+      parejas que defendía Team 3D (las fuentes varían entre
+      nombrarlo NWA y TNA World Tag Team Championship, nombre en
+      transición ese año).
 - [ ] Cobertura POST / Cornette retrospectiva sobre el arc.
 - [ ] **Asignación de clase del Vehemiurgo**.
 

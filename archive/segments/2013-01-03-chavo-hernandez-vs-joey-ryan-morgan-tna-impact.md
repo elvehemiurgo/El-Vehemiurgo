@@ -6,10 +6,10 @@ protagonistas: ["Chavo Guerrero Jr.", "Hernandez", "Joey Ryan", "Matt Morgan"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "[verif]"
-duracion: "[verif]"
+duracion: "0:57"
 linea_textual: "[verif — no verificado contra video]"
 gimmick_momento: "el equipo campeon y los retadores midiendose en un singles que termina por DQ, con las dos esquinas llenas"
 storyline: "Construccion directa al match por los TNA World Tag Team Championships en Genesis. Hernandez vs Joey Ryan en singles, con Chavo Guerrero Jr. y Matt Morgan en las esquinas. Gana Hernandez por descalificacion cuando Morgan interviene con discus clothesline; despues Morgan le mete un Carbon Footprint a Chavo."
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Este segmento está cool, de hecho calidad, le meten muchas ganas, y es buena acción para la división tag team; el segmento y 'lucha' aquí merecen una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, chavo-guerrero, hernandez, joey-ryan, matt-morgan, tag-team-championship, mcmg, beer-money, russo, wrestling-entertainment, prospectos-desperdiciados]
 ---
 
@@ -82,6 +83,11 @@ tags: [tna-2013, impact-wrestling, chavo-guerrero, hernandez, joey-ryan, matt-mo
 
 ## Pendientes / huecos
 
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Prowrestling
+      Fandom, vía WebSearch).
+- [x] Duración → **0:57** (Prowrestling Fandom, vía WebSearch).
+- [ ] Ubicación exacta dentro del show — sin fuente accesible.
 - [ ] **Fichas de people de Chavo Guerrero Jr., Hernandez, Matt Morgan
       y Joey Ryan** — sin abrir.
 - [ ] El caso **Hernandez / Morgan** como fracaso de booking es

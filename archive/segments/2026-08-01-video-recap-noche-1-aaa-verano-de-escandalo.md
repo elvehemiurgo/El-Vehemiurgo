@@ -6,8 +6,8 @@ protagonistas: ["Dominik Mysterio", "El Grande Americano", "Ángel Garza", "Daga
 empresa: "AAA"
 programa: "Verano de Escándalo (Noche 2)"
 fecha: 2026-08-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Aguascalientes"
+recinto: "Arena San Marcos"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo buenazo, se merece un WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s16 (visión directa — AAA Verano de Escándalo Noche 2, 1/8/2026)"
   - "Sub-agente card-aaa-verano-escandalo-2-010826 (research 2026-08-01, closed) — F4WOnline, TPWW"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Fightful, F4WOnline); WebFetch bloqueado por egress"
 tags: [aaa-2026, verano-de-escandalo, dominik-mysterio, el-grande-americano, los-perros-del-mal, wrestling-entertainment]
 ---
 
@@ -52,7 +53,11 @@ tags: [aaa-2026, verano-de-escandalo, dominik-mysterio, el-grande-americano, los
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración y outlet de producción del video.
+- [x] Confirmar ciudad y recinto → **Aguascalientes, Arena San
+      Marcos** (research 2026-10-05) — misma sede que Noche 1, dentro
+      de la serie de tres semanas.
+- [ ] Confirmar duración y outlet de producción del video — sin
+      fuente.
 
 ## Piezas relacionadas
 

@@ -5,8 +5,8 @@ participantes: ["La Parka", "Mecha Wolf", "Lince Dorado"]
 empresa: "AAA"
 programa: "Verano de Escándalo (Noche 2)"
 fecha: 2026-08-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Aguascalientes"
+recinto: "Arena San Marcos"
 tipo_match: "three-way"
 estipulacion: "clasificatorio para el Fatal 4-Way por el AAA Latin American Championship vacante en Triplemanía 34"
 duracion: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo larga y muy dura, solo un tropiezo con buen selling, fue brutal; se merece todas las clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s16 (visión directa — AAA Verano de Escándalo Noche 2, 1/8/2026)"
   - "Sub-agente card-aaa-verano-escandalo-2-010826 (research 2026-08-01, closed) — POST Wrestling, TPWW"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Fightful, F4WOnline); WebFetch bloqueado por egress"
 tags: [aaa-2026, verano-de-escandalo, la-parka, mecha-wolf, lince-dorado, triplemania-34, latin-american-championship, perfect-match, clasificatorio]
 ---
 
@@ -66,7 +67,13 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar ciudad, recinto, duración y réferi.
+- [x] Confirmar ciudad y recinto → **Aguascalientes, Arena San
+      Marcos** (research 2026-10-05) — Noche 2 (1/8) es la segunda
+      semana de la serie de tres semanas *Verano de Escándalo*,
+      corroborada por múltiples outlets como transmitida desde la
+      misma sede que Noche 1; sin fuente que lo contradiga.
+- [ ] Confirmar duración y réferi — ningún outlet consultado los
+      reporta.
 - [ ] Abrir ficha individual de Mecha Wolf — hecho en este mismo
       volcado.
 - [ ] Seguimiento de los clasificatorios restantes hacia el Fatal

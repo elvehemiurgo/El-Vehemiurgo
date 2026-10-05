@@ -9,11 +9,11 @@ participantes:
 empresa: "WWE / TNA"
 programa: "NXT (taping; cross-promotional con TNA)"
 fecha: 2026-02-03
-ciudad: ""
-recinto: ""
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "tag team"
 estipulacion: "TNA Knockouts Tag Team Championship"
-duracion: ""
+duracion: "11:33 [una fuente]"
 finish: "The Elegance Brand retiene los TNA Knockouts Tag Titles. Pérdida atribuida a infighting entre las miembros de ZaRuca — primera fisura on-screen del tag team, antecedente directo del heel turn de Zaria del 24 feb 2026."
 ganador: "The Elegance Brand"
 referee: ""
@@ -28,10 +28,11 @@ calificacion_vehemiurgo: "Increíble y cerca de ser perfecta, pero fue una batal
 clases_vehemiurgo:
   - fighting-spirit
 estado: en-investigacion
-ultima_actualizacion: 2026-05-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT 2026-02-03"
   - "Wikipedia — Zaria (wrestler) — confirma fecha y resultado"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Fightful, pwtorch.com, prowrestling.net); WebFetch bloqueado por egress"
 tags: [wwe-2026, tna-2026, nxt, zaruca, the-elegance-brand, sol-ruca, zaria, m-by-elegance, heather-by-elegance, tna-knockouts-tag-titles, fighting-spirit-class]
 ---
 
@@ -102,11 +103,26 @@ definición canónica de **Fighting Spirit Class**:
 
 ## Pendientes / huecos
 
-- [ ] Recinto, ciudad, attendance.
-- [ ] Duración exacta del match.
-- [ ] Mecánica del finish — cómo se ejecutó la *infighting*
-      narrative, qué spot puntual la disparó.
+- [x] Recinto y ciudad → **WWE Performance Center, Orlando, Florida**
+      (research 2026-10-05).
+- [ ] Attendance — sin fuente; las tapings de TV en el Performance
+      Center no publican cifras de asistencia.
+- [x] Duración exacta del match → **11:33** [una fuente] (research
+      2026-10-05).
+- [x] Mecánica del finish — **confirmada**: Zaria se niega a darle el
+      tag a Sol y buscan resolverlo solas; M by Elegance empuja a
+      Zaria hacia Sol, que conecta accidentalmente el **Sol Snatcher**
+      (su propio finisher) sobre Zaria; Ash by Elegance tira a Sol
+      contra las escaleras del ring, y The Elegance Brand remata a
+      Zaria para el pin y retiene (Fightful, WWE.com; research
+      2026-10-05).
 - [ ] Cobertura PWTorch / POST / Cornette del NXT 2026-02-03.
+- [ ] **Discrepancia (research 2026-10-05)**: la secuencia del
+      finish reportada por Fightful menciona a **"Ash by Elegance"**
+      interviniendo (tira a Sol Ruca contra las escaleras del ring),
+      una tercera integrante no listada en `participantes` de esta
+      ficha (que solo trae a M by Elegance y Heather by Elegance). No
+      se modifica `participantes`; se deja constancia para revisión.
 - [ ] Lectura editorial expandida del Vehemiurgo (la cita actual
       es la asignación de clase; espacio para profundizar
       cuando reviste el match).

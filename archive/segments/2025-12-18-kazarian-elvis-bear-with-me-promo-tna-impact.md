@@ -9,7 +9,7 @@ empresa: "TNA"
 programa: "Impact"
 fecha: 2025-12-18
 ciudad: ""
-recinto: "[verif]"
+recinto: "El Paso County Coliseum (El Paso, Texas)"
 ubicacion_en_show: "[verif]"
 duracion: ""
 linea_textual: "Bear with me."
@@ -23,10 +23,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class (identificada por el Vehemiurgo en notebook)"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2025-2026 Kazarian King era"
   - "El Vehemiurgo identificó esta pieza como candidato Wrestling Entertainment Class en notebook (sec. Hipótesis Wrestling Entertainment Class)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (ewrestling.com, rajah.com, PWTorch); WebFetch bloqueado por egress"
 tags: [tna-2025, impact-dic-2025, kazarian-king-era, elvis-impression, character-spectacle, comedy-heel, build-vs-bear-bronson, wrestling-entertainment-class]
 ---
 
@@ -73,8 +74,11 @@ Bear Bronson y por qué Kazarian está como heel underestimating.
 
 ## Pendientes / huecos
 
+- [x] Recinto → **El Paso County Coliseum, El Paso, Texas** (taping
+      confirmado por ewrestling.com/rajah.com/PWTorch; research
+      2026-10-05).
 - [ ] Texto completo del promo (preservar contra video).
-- [ ] Duración exacta.
+- [ ] Duración exacta — sin fuente accesible.
 - [ ] Cobertura POST Wrestling Rewind-A-Wai TNA.
 - [ ] **Composición**: ¿solo verbal o Kazarian apareció vestido
       como Elvis? Trajes? Comedy spots físicos?

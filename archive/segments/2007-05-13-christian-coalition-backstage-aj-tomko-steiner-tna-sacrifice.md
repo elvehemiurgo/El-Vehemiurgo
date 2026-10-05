@@ -10,8 +10,8 @@ protagonistas:
 empresa: "TNA"
 programa: "Sacrifice 2007"
 fecha: 2007-05-13
-ciudad: ""
-recinto: "TNA Impact! Zone, Orlando (presunción)"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact! Zone, Universal Studios"
 ubicacion_en_show: "backstage"
 duracion: ""
 linea_textual: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2007 Christian Coalition era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagematch); WebFetch bloqueado por egress"
 tags: [tna-2007, sacrifice-2007, christian-coalition, backstage-segment, faction-cohesion, christian-cage, aj-styles, tyson-tomko, scott-steiner, gimmick-definition]
 ---
 
@@ -82,7 +83,10 @@ denso de los 4 talents.)
 ## Pendientes / huecos
 
 - [ ] Líneas textuales del segmento — preservar contra video.
-- [ ] Lugar dentro del show, duración.
+- [x] Recinto confirmado → **TNA Impact! Zone, Universal Studios,
+      Orlando, FL** (Wikipedia / Cagematch, vía WebSearch).
+- [ ] Lugar exacto dentro del show, duración — sin fuente accesible
+      para un segmento backstage puntual de un taping de 2007.
 - [ ] Cobertura POST / Cornette retrospectiva sobre Christian
       Coalition era.
 - [ ] **Asignación de clase del Vehemiurgo**.

@@ -5,8 +5,8 @@ participantes: ["Kenny King", "Christian York", "Rob Van Dam"]
 empresa: "TNA"
 programa: "Genesis"
 fecha: 2013-01-13
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "singles"
 estipulacion: "final del torneo por el contendiente Nº1 al TNA X Division Championship"
 duracion: "10:12"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, se merece una WE class; no fue nada muy especial, pero tiene sus momentos; buen showcase de York como underdog, y luego sale RVD y es un buen show aunque pudo durar menos; sigue siendo buen booking para Kenny King"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagesideseats); WebFetch bloqueado por egress"
 tags: [tna-2013, genesis-2013, kenny-king, christian-york, rvd, x-division, underdog, wrestling-entertainment, reserva-de-duracion]
 ---
 
@@ -38,7 +39,8 @@ tags: [tna-2013, genesis-2013, kenny-king, christian-york, rvd, x-division, unde
 Championship**. **Gana Christian York** en **10:12**: King busca un
 roll-up y **York se sienta encima** para el tres. **Post-match, King
 le mete el Royal Flush.** Inmediatamente después, **York enfrenta a
-RVD por el título** — y RVD retiene.
+RVD por el título** — y RVD retiene con un **Five Star Frog
+Splash**.
 
 ## Lectura del Vehemiurgo
 
@@ -77,7 +79,12 @@ del **7 de febrero de 2013**.
 
 ## Pendientes
 
-- [ ] Referee y finish de RVD vs York (no confirmado).
+- [ ] Referee — sin fuente accesible.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
+- [x] Finish de RVD vs York → **RVD conecta el Five Star Frog
+      Splash** y retiene el **TNA X Division Championship** sobre
+      Christian York (Wikipedia / Cagesideseats, vía WebSearch).
 
 ## Cross-links
 

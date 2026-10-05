@@ -7,29 +7,30 @@ participantes:
 empresa: "TNA"
 programa: "Sacrifice 2007"
 fecha: 2007-05-13
-ciudad: ""
-recinto: "TNA Impact! Zone, Orlando (presunción)"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact! Zone, Universal Studios"
 tipo_match: "singles"
-estipulacion: "[verif] — AMW (America's Most Wanted) split blow-off"
-duracion: ""
-finish: ""
-ganador: ""
+estipulacion: "Texas Death Match — AMW (America's Most Wanted) split blow-off"
+duracion: "17:12 / 17:18 según fuente"
+finish: "Chris Harris derrota a James Storm — mecanismo exacto no detallado por las fuentes consultadas"
+ganador: "Chris Harris"
 referee: ""
-attendance_anunciada: ""
+attendance_anunciada: "900 (cifra estándar reportada para los PPV del Impact Zone en 2007)"
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
-buy_rate: ""
+buy_rate: "21.000 buys (estimado, para el show completo — TNA no publica buyrates oficiales)"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + AMW rivalry video-package documentado el mismo show"
   - "Dossier draft-tna-2007-christian-coalition-era.md"
-tags: [tna-2007, sacrifice-2007, james-storm, chris-harris, amw-split, blow-off, beer-money-build, tag-team-split]
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagematch, Prowrestling Fandom); WebFetch bloqueado por egress"
+tags: [tna-2007, sacrifice-2007, james-storm, chris-harris, amw-split, blow-off, beer-money-build, tag-team-split, texas-death-match]
 ---
 
 # James Storm vs Chris Harris — AMW split blow-off — TNA Sacrifice (13 may 2007)
@@ -64,9 +65,13 @@ Detalle del cluster en
 
 ## Pendientes / huecos
 
-- [ ] Finish, ganador, duración.
-- [ ] Stipulation exacta (¿retirement match? ¿submission?
-      ¿first blood?).
+- [x] Finish, ganador, duración → **Chris Harris derrota a James
+      Storm** en un **Texas Death Match**, **17:12 / 17:18 según
+      fuente** (Wikipedia / Cagematch, vía WebSearch; mecanismo
+      exacto del finish no detallado). **Storm pierde el blow-off**,
+      consistente con su heel turn posterior.
+- [x] Stipulation exacta → **Texas Death Match** (no retirement,
+      submission ni first blood).
 - [ ] Star rating WON Meltzer + reportes backstage del split.
 - [ ] **Asignación de clase del Vehemiurgo**.
 

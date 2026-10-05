@@ -5,8 +5,8 @@ participantes: ["Gail Kim", "Tara", "Mickie James", "Miss Tessmacher"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "tag team"
 estipulacion: "standard"
 duracion: "13:00"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buen wrestling, buen mix; en este mix le sacan una buena lucha; Gail sigue siendo una heel efectiva; era muy disfrutable la participación de Tessmacher, nunca la expusieron al menos no este año; la lucha se merece una WE y FS class, muy pros"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, gail-kim, tara, mickie-james, miss-tessmacher, knockouts, feeling-crown, taryn-terrell, jerarquia-de-division]
 ---
 
@@ -89,7 +90,10 @@ la confirma**, sin descartar ninguno: puede haber estado presente como
 ## Pendientes
 
 - [ ] Presencia de Taryn Terrell esa noche — [verif] contra video.
-- [ ] Referee.
+- [ ] Referee — sin fuente accesible que lo identifique.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Prowrestling
+      Fandom, vía WebSearch).
 
 ## Cross-links
 

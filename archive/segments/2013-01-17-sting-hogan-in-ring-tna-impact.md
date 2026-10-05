@@ -6,8 +6,8 @@ protagonistas: ["Sting", "Hulk Hogan"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "in-ring"
 duracion: "[verif]"
 linea_textual: "[verif — no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Tienen un buen rato in ring, es cool, se merece una WE"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagesideseats); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, sting, hulk-hogan, bully-ray, brooke-hogan, boda, wrestling-entertainment]
 ---
 
@@ -69,7 +70,9 @@ el notebook.
 
 ## Pendientes / huecos
 
-- [ ] Contenido del segmento — [verif].
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
+- [ ] Contenido del segmento y duración — [verif].
 - [ ] **Ficha de people de Sting** — sin abrir.
 
 ## Piezas relacionadas

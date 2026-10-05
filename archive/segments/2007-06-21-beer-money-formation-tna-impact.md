@@ -8,9 +8,9 @@ protagonistas:
 empresa: "TNA"
 programa: "Impact"
 fecha: 2007-06-21
-ciudad: ""
-recinto: "TNA Impact! Zone, Orlando (presunción)"
-ubicacion_en_show: "post-match (post Storm + Roode vs Eric Young + Rhino)"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact! Zone, Universal Studios"
+ubicacion_en_show: "post-match (post Storm + Roode vs Eric Young + Rhino) — Impact #156"
 duracion: ""
 linea_textual: ""
 gimmick_momento: "James Storm post-AMW split (heel character + cowboy + beer drinker). Robert Roode post-Eric Young feud, heel character refinándose."
@@ -23,9 +23,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2007"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Bleacher Report, thesmackdownhotel.com); WebFetch bloqueado por egress"
 tags: [tna-2007, beer-money-formation, james-storm, robert-roode, tag-team-formation, post-amw-split-payoff, faction-foundation-moment]
 ---
 
@@ -77,8 +78,23 @@ performance autocontenida**.)
 
 - [ ] Secuencia exacta del post-match formation (handshake?
       shared beer? promo conjunta?).
-- [ ] Match anterior — duración, finish exacto.
+- [ ] Match anterior (Storm + Roode vs Eric Young + Rhino) —
+      duración, finish exacto: sin fuente accesible que detalle el
+      match más allá del resultado (ganan Storm y Roode).
 - [ ] Cobertura WON Meltzer del formation moment.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra la
+      formación de Beer Money el 21/6/2007 como momento post-match.
+      Research encuentra **dos relatos distintos**: (a) Bleacher
+      Report ubica un primer teaming informal de Storm y Roode
+      contra LAX ya desde el 12/6/2007, con el nombre "Beer Money,
+      Inc." adoptado esos meses y derrotas subsiguientes ante LAX,
+      MCMG y Joe & Nash; (b) la página dedicada de Wikipedia a
+      "Beer Money, Inc." ubica el **debut televisado formal del
+      equipo contra LAX el 12/6/2008**, con el primer reinado de
+      TNA World Tag Team Championship en Hard Justice 2008. No se
+      pudo reconciliar si el 21/6/2007 es la fecha correcta de "la"
+      formación o si hubo una etapa de teaming ocasional en 2007
+      distinta del lanzamiento formal de 2008.
 - [ ] Cornette / Conrad / Cornette Experience sobre Beer Money —
       probable que tengan retrospectivas.
 - [ ] **Asignación de clase del Vehemiurgo**.

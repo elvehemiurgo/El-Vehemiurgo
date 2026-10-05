@@ -6,8 +6,8 @@ protagonistas: ["Austin Aries", "Bobby Roode", "Chavo Guerrero Jr.", "Hernandez"
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "in-ring"
 duracion: "[verif]"
 linea_textual: "Sí... all you 13 year old girls can scream [Austin Aries, sobre los fans de Jeff Hardy — citado por el Vehemiurgo; no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Top tier wrestling, es buenísimo; me encanta cuando Aries se enoja por los fans de Jeff y dice 'sí... all you 13 year old girls can scream', ES MUY BUENO; y luego interrumpen Chavo y Hernandez, muy buen brawl, muy buenos gallos, son muy duros todos; se merecen una WE+"
 clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Bleacher Report); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, austin-aries, bobby-roode, dirty-heels, chavo-guerrero, hernandez, jeff-hardy, we-plus, heat-de-heel, linea-memorable]
 ---
 
@@ -64,14 +65,17 @@ tags: [tna-2013, impact-wrestling, austin-aries, bobby-roode, dirty-heels, chavo
 
 ## Pendientes / huecos
 
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
 - [ ] **Verbatim exacto de la línea contra video** — la cita viene del
       recuerdo del Vehemiurgo, que es visión directa pero no
       transcripción.
-- [ ] **Resultado de la lucha Aries y Roode vs Chavo y Hernandez** de
-      esa noche — **research no pudo confirmarlo**: la cobertura
-      describe la acción (Roode salva a Aries cuando Hernandez busca
-      el Border Toss, los heels se retiran) **sin dar ganador**. Puede
-      haber sido un no-finish.
+- [x] **Resultado de la lucha Aries y Roode vs Chavo y Hernandez** de
+      esa noche → **confirmado que no hubo lucha formal**: Bleacher
+      Report describe el segmento como brawl de interrupción —
+      Guerrero y Hernandez fuerzan a Aries y Roode a salir del ring —
+      sin que se haya pactado ni resuelto un match con finish
+      (Wikipedia / Bleacher Report, vía WebSearch).
 
 ## Piezas relacionadas
 
