@@ -6,8 +6,8 @@ protagonistas: ["Jeff Hardy", "Christopher Daniels", "Frankie Kazarian", "James 
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
 linea_textual: "[verif — no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Top babyface, muy buena producción de TNA de un QB babyface protagonista, el booking estuvo buenísimo consistentemente y esta continuación es genial; al final Storm hace el salve y este segmento se merece una WE class, estuvo genial"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Bleacher Report); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, jeff-hardy, bad-influence, kazarian, christopher-daniels, james-storm, creatures, qb-babyface, aj-styles, wrestling-entertainment]
 ---
 
@@ -71,7 +72,9 @@ tags: [tna-2013, impact-wrestling, jeff-hardy, bad-influence, kazarian, christop
 
 ## Pendientes / huecos
 
-- [ ] Contenido del segmento — [verif].
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
+- [ ] Contenido del segmento y duración — [verif].
 
 ## Piezas relacionadas
 

@@ -6,8 +6,8 @@ protagonistas: ["Gail Kim", "Taryn Terrell"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "backstage"
 duracion: "[verif]"
 linea_textual: "Llevás seis meses acá, yo llevo años [Gail Kim a Taryn Terrell — parafraseo de recap secundario, no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Es buen acting para un show de wrestling, de hecho está muy bien producido; se merece una WE"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Diva Dirt); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, gail-kim, taryn-terrell, knockouts, acting, produccion-tna, wrestling-entertainment]
 ---
 
@@ -66,7 +67,9 @@ tags: [tna-2013, impact-wrestling, gail-kim, taryn-terrell, knockouts, acting, p
 
 ## Pendientes / huecos
 
-- [ ] Verbatim contra video.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
+- [ ] Verbatim contra video; duración — [verif].
 - [ ] **Ficha de people de Taryn Terrell** — sin abrir.
 
 ## Piezas relacionadas

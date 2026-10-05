@@ -6,8 +6,8 @@ protagonistas: ["Bully Ray", "Taz"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "backstage, previo a la boda"
 duracion: "[verif]"
 linea_textual: "Paul va a devolver la llamada en cinco minutos [Bully Ray a Taz — parafraseo de recap secundario, no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merece una WE, lo hicieron bien; son segmentos de pura exposición para que avance el booking, pero tienen sus momentos; estos momentos son muy cool dentro del kayfabe, fan service, ok"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagesideseats); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, bully-ray, taz, paul-heyman, ecw, aces-and-eights, fan-service, exposicion-de-booking, wrestling-entertainment]
 ---
 
@@ -73,7 +74,10 @@ Aces & Eights en plena boda, horas después.
 
 ## Pendientes / huecos
 
-- [ ] Verbatim contra video — la línea proviene de recap secundario.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
+- [ ] Verbatim contra video — la línea proviene de recap secundario;
+      duración — [verif].
 - [ ] **Fichas de people de Taz y Paul Heyman en contexto TNA** —
       Heyman tiene ficha; Taz no.
 

@@ -5,11 +5,11 @@ participantes: ["Christopher Daniels", "James Storm", "Frankie Kazarian"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "singles"
 estipulacion: "standard — con swerve de entrada"
-duracion: "[verif]"
+duracion: "4:06"
 finish: "Last Call (superkick) de Storm, tras esquivar a Daniels en el apron — pinfall"
 ganador: "James Storm"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Súper show, completos profesionales, de lo mejor del wrestling en TV, un clásico de los 2000s, buenos gimmicks; se merecen las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, christopher-daniels, james-storm, kazarian, bad-influence, swerve, instant-classic-crown, clasico-de-los-2000s]
 ---
 
@@ -71,7 +72,11 @@ tags: [tna-2013, impact-wrestling, christopher-daniels, james-storm, kazarian, b
 
 ## Pendientes
 
-- [ ] Duración exacta y referee.
+- [x] Duración exacta → **4:06** (Prowrestling Fandom, vía
+      WebSearch).
+- [ ] Referee — sin fuente accesible que lo identifique.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
 
 ## Cross-links
 

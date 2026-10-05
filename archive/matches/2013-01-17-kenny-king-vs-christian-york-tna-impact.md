@@ -5,12 +5,12 @@ participantes: ["Kenny King", "Christian York"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "singles"
 estipulacion: "grudge match / return match"
 duracion: "2:52"
-finish: "[no confirmado]"
+finish: "Kenny King gana con un rollup agarrando un puñado de trunks de Christian York"
 ganador: "Kenny King"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Es como si York hubiera tenido un speedrun en TNA, hizo de todo muy rápido, hasta luchó con Jeff Hardy, tag team con RVD, y nunca conectó totalmente, pero estuvo ahí, estuvo ok"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, kenny-king, christian-york, x-division, sin-clase, speedrun, mike-tenay]
 ---
 
@@ -74,7 +75,12 @@ editorial, CLAUDE.md §4).
 
 ## Pendientes
 
-- [ ] Finish y referee.
+- [x] Finish → **Kenny King gana con un rollup**, agarrando **un
+      puñado de trunks** de York (Wikipedia / Prowrestling Fandom,
+      vía WebSearch).
+- [ ] Referee — sin fuente accesible.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
 
 ## Cross-links
 

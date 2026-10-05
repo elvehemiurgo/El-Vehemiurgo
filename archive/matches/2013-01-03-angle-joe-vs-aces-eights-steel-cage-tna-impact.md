@@ -5,11 +5,11 @@ participantes: ["Kurt Angle", "Samoa Joe", "Devon", "Mike Knox", "DOC", "Sting"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "tag team"
 estipulacion: "Steel Cage Match"
-duracion: "[verif]"
+duracion: "11:44"
 finish: "DOC ataca a Angle antes de entrar y traba la jaula, dejando a Joe solo; Angle le mete un low blow, le saca la llave y entra — victoria de Angle y Joe"
 ganador: "Kurt Angle y Samoa Joe"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Es cool, pero aquí querías ver a Joe y Angle juntos destruyendo toda una facción; es un showcase de Joe en handicap y tiene lo suyo, me parece buen booking además, empieza como nada imperdible pero escala muy bien; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Prowrestling Fandom, Wrestleview); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, kurt-angle, samoa-joe, devon, mike-knox, doc, sting, aces-and-eights, steel-cage, handicap, instant-classic-crown, balance-de-angulo]
 ---
 
@@ -92,7 +93,9 @@ Knox** (luego Knux).
 
 ## Pendientes
 
-- [ ] Duración y referee.
+- [x] Duración → **11:44** (Prowrestling Fandom / Wrestleview, vía
+      WebSearch).
+- [ ] Referee — sin fuente accesible que lo identifique.
 - [ ] **Fichas de people de Devon, DOC (Luke Gallows) y Mike Knox** —
       sin abrir.
 

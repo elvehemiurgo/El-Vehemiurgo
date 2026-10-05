@@ -5,8 +5,8 @@ participantes: ["Christopher Daniels", "James Storm", "Frankie Kazarian"]
 empresa: "TNA"
 programa: "Genesis"
 fecha: 2013-01-13
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "singles"
 estipulacion: "contendiente Nº1 al TNA World Heavyweight Championship"
 duracion: "13:24"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo increíble, se merece las 3 clases, top tier wrestling de los 2000s"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagesideseats); WebFetch bloqueado por egress"
 tags: [tna-2013, genesis-2013, christopher-daniels, james-storm, kazarian, bad-influence, instant-classic-crown, panteon-tier-1, finish-sucio, top-tier-2000s]
 ---
 
@@ -71,7 +72,10 @@ de Bad Influence que el Vehemiurgo viene premiando toda la sesión como
 
 ## Pendientes
 
-- [ ] Referee.
+- [ ] Referee — sin fuente accesible.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Cageside
+      Seats, vía WebSearch).
 - [ ] **Ficha de people de James Storm** — figura en el panteón sin
       ficha propia, y ahora en el Tier 1.
 

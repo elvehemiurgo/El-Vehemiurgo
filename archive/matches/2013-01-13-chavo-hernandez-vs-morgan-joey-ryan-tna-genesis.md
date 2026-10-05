@@ -5,8 +5,8 @@ participantes: ["Chavo Guerrero Jr.", "Hernandez", "Matt Morgan", "Joey Ryan"]
 empresa: "TNA"
 programa: "Genesis"
 fecha: 2013-01-13
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "tag team"
 estipulacion: "TNA World Tag Team Championship"
 duracion: "11:30"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena lucha, ritmo frenético, muy bueno; aunque los heels sí están verdes, sigue siendo un buen showcase; y al final un powerbomb brutal todo botcheado y el frogsplash, buen show; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagesideseats); WebFetch bloqueado por egress"
 tags: [tna-2013, genesis-2013, chavo-guerrero, hernandez, matt-morgan, joey-ryan, tag-team-championship, botch, wrestling-entertainment, primera-lucha-del-ppv]
 ---
 
@@ -66,7 +67,10 @@ Chavo sobre Joey Ryan**.
 
 ## Pendientes
 
-- [ ] Referee.
+- [ ] Referee — sin fuente accesible.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Cageside
+      Seats, vía WebSearch).
 - [ ] **Fichas de people de Chavo Guerrero Jr., Hernandez, Matt Morgan
       y Joey Ryan** — sin abrir.
 

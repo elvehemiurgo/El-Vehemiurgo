@@ -5,12 +5,12 @@ participantes: ["James Storm", "Jeff Hardy", "Christopher Daniels", "Frankie Kaz
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "tag team"
 estipulacion: "standard"
 duracion: "11:55"
-finish: "[no confirmado] — señalada como Match of the Night por la cobertura"
+finish: "Jeff Hardy conecta un Twist of Fate de la nada — pinfall; señalada como Match of the Night por la cobertura"
 ganador: "James Storm y Jeff Hardy"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Otra genialidad oldschool, se merecen las 3 clases, muy buen show, perfecto todo incluso los tropiezos, son reales todos, top heels de la historia, lo dieron todo por TNA hasta el último segundo"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Bleacher Report, Wrestleview); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, james-storm, jeff-hardy, bad-influence, kazarian, christopher-daniels, instant-classic-crown, top-heels-de-la-historia, panteon]
 ---
 
@@ -33,7 +34,8 @@ tags: [tna-2013, impact-wrestling, james-storm, jeff-hardy, bad-influence, kazar
 
 ## Resumen
 
-**11:55**. **Ganan Storm y Hardy.** La cobertura de la época la señaló
+**11:55**. **Ganan Storm y Hardy**, con **Jeff Hardy conectando un
+Twist of Fate de la nada** para el pin. La cobertura de la época la señaló
 como **Match of the Night**.
 
 ## Lectura del Vehemiurgo
@@ -67,8 +69,12 @@ como **Match of the Night**.
 
 ## Pendientes
 
-- [ ] **Finish** — no confirmado.
-- [ ] Referee.
+- [x] **Finish** → **Jeff Hardy conecta un Twist of Fate de la
+      nada** sobre uno de los miembros de Bad Influence para el pin
+      (Bleacher Report / Wrestleview, vía WebSearch).
+- [ ] Referee — sin fuente accesible.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)**.
 
 ## Cross-links
 

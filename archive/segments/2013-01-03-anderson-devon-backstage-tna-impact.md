@@ -6,8 +6,8 @@ protagonistas: ["Mr. Anderson", "Devon"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "backstage"
 duracion: "[verif]"
 linea_textual: "[verif — no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Este ángulo era genial, pero sufrió de sobreproducción; sí fue cool y tiene momentos brillantes, pero claramente no fue todo éxito — no podemos negar que fue programación épica y una gran plataforma para tener a face Angle ocupado en TV"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, mr-anderson, devon, aces-and-eights, bully-ray, wes-brisco, garett-bischoff, sin-clase, balance-de-angulo, sobreproduccion]
 ---
 
@@ -85,7 +86,12 @@ promos memorables propias de la facción**. Ver
 
 ## Pendientes / huecos
 
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Prowrestling
+      Fandom, vía WebSearch).
 - [ ] Contenido del segmento — [verif].
+- [ ] Duración — sin fuente accesible para un segmento backstage
+      puntual.
 - [ ] **Fichas de people de Devon, Wes Brisco y Garett Bischoff** —
       sin abrir; mencionados dentro del balance, sin take individual.
 - [ ] El balance de Aces & Eights es **material de dossier**.

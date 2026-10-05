@@ -5,8 +5,8 @@ participantes: ["Kid Kash", "Christian York"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "singles"
 estipulacion: "semifinal del torneo por el contendiente Nº1 al TNA X Division Championship"
 duracion: "3:45"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merece una WE; es de las últimas de Kid Kash en TV, realmente soy fan"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, kid-kash, christian-york, x-division, death-gods, austin-aries, chris-sabin, techo-de-division, wrestling-entertainment]
 ---
 
@@ -73,7 +74,10 @@ tags: [tna-2013, impact-wrestling, kid-kash, christian-york, x-division, death-g
 
 ## Pendientes
 
-- [ ] Referee.
+- [ ] Referee — sin fuente accesible que lo identifique.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Prowrestling
+      Fandom, vía WebSearch).
 - [ ] **Fichas de people de Kid Kash, EZ Money y Christian York** —
       los dos primeros entran a DEATH GODS en esta sesión.
 

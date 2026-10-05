@@ -5,8 +5,8 @@ participantes: ["Mr. Anderson", "Samoa Joe", "Mike Knox"]
 empresa: "TNA"
 programa: "Genesis"
 fecha: 2013-01-13
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 tipo_match: "singles"
 estipulacion: "standard"
 duracion: "10:45"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Empieza muy fuerte, gimmicks poderosos, completos pros, buenos stakes aunque Joe está todo contenido sin posibilidad de salir del midcard, pero sí le saben y ponen buen wrestling; merecen las 3 clases; muy buenos spots, en un tope Joe aterriza directamente en su rodilla, es brutal, súper oldschool"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagesideseats, Wrestlingrecaps); WebFetch bloqueado por egress"
 tags: [tna-2013, genesis-2013, mr-anderson, samoa-joe, mike-knox, aces-and-eights, instant-classic-crown, techo-de-midcard, tope]
 ---
 
@@ -66,7 +67,11 @@ entre el público**, se da vuelta y come el **Mic Check**.
 
 ## Pendientes
 
-- [ ] Referee.
+- [ ] Referee — sin fuente accesible.
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Cageside
+      Seats, vía WebSearch; fue el último PPV live de TNA en el
+      Impact Zone original antes de la gira).
 - [ ] Verificar el spot del tope contra video.
 
 ## Cross-links

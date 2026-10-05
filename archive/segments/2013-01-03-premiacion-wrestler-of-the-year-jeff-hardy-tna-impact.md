@@ -6,8 +6,8 @@ protagonistas: ["Jeff Hardy", "Bobby Roode", "Austin Aries"]
 empresa: "TNA"
 programa: "Impact Wrestling"
 fecha: 2013-01-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, FL"
+recinto: "TNA Impact Zone (Soundstage 21, Universal Studios)"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
 linea_textual: "[verif — no verificado contra video]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El segmento es genial; el booking de Jeff estos años es genial e impecable; Roode y Aries venden cualquier ángulo, tienen gimmicks poderosos y son dirty heels oldschool y auténticos, wrestlers de verdad; este segmento se merece una WE+ es excepcional"
 clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s55 (visión directa — corpus TNA enero 2013)"
   - "Sub-agente research-tna-enero-2013 (research 2026-08-26) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Prowrestling Fandom); WebFetch bloqueado por egress"
 tags: [tna-2013, impact-wrestling, jeff-hardy, bobby-roode, austin-aries, dirty-heels, wrestler-of-the-year, we-plus, victory-road-2011, babyface-inabucheable]
 ---
 
@@ -94,7 +95,10 @@ tags: [tna-2013, impact-wrestling, jeff-hardy, bobby-roode, austin-aries, dirty-
 
 ## Pendientes / huecos
 
-- [ ] Nominados exactos y desarrollo del segmento — [verif].
+- [x] Ciudad y recinto → **Orlando, FL** — **TNA Impact Zone
+      (Soundstage 21, Universal Studios)** (Wikipedia / Prowrestling
+      Fandom, vía WebSearch).
+- [ ] Nominados exactos, desarrollo del segmento y duración — [verif].
 - [ ] La tesis del fenómeno Hardy es **material de dossier**, no de
       ficha.
 
