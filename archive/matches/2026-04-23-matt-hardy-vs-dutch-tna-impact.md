@@ -9,7 +9,7 @@ ciudad: "Syracuse, Nueva York"
 recinto: "Upstate Medical University Arena"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
+duracion: "11:00 [una fuente]"
 finish: "Matt intenta un flying elbow drop sobre Dutch a traves de una mesa que no se rompe; lo recoloca contra el apron y usa un suplex para romperla ahi. Vincent sale de abajo del ring, mete una silla para distraer al referee, baja a Matt de los turnbuckles, y Dutch conecta un swinging side slam para el pinfall"
 ganador: "Dutch"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Matt Hardy, Broken Matt, cada vez se parece mas a Mick Foley, aqui construyendo algo; estos dos si pueden vender algo real algo oldschool, me gusto el balance de los spots, incluso cuando Matt casi se arranca el brazo en el spot de la mesa que no se rompio; se merece las 3 clases, fue cool estuvo loca"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s47 (visión directa — TNA iMPACT!, 23/4/2026)"
   - "Sub-agente research-tna-impact-230426-300426 (research 2026-08-01, closed) — cobertura de resultados de show"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (TNA Wrestling oficial, Wrestling Inc, PWTorch, agregado de cobertura); WebFetch bloqueado por egress"
 tags: [tna-2026, impact, matt-hardy, dutch, vincent, the-righteous, broken-matt, mick-foley-comparacion, perfect-match, doctrina-veterania-creativa]
 ---
 
@@ -78,7 +79,7 @@ tags: [tna-2026, impact, matt-hardy, dutch, vincent, the-righteous, broken-matt,
 ## Pendientes / huecos
 
 - [ ] Réferi.
-- [ ] Duración exacta.
+- [x] Duración exacta. → 11:00 (WebSearch — agregado TNA oficial/Wrestling Inc/PWTorch, una fuente consolidada).
 - [ ] Nombre exacto del finisher de Dutch usado acá (¿"Death Walks"?).
 
 ## Piezas relacionadas
