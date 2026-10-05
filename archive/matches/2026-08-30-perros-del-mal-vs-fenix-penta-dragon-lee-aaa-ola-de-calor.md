@@ -9,7 +9,7 @@ ciudad: "Edinburg, Texas"
 recinto: "Bert Ogden Arena"
 tipo_match: "trios"
 estipulacion: "grudge match — main event, sin título en juego"
-duracion: "[verif]"
+duracion: "11:50 [una fuente]"
 finish: "Rey Fénix conecta Mexican Muscle Buster sobre Berto para el pinfall"
 ganador: "Rey Fénix, Penta y Dragon Lee"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buena velocidad, me gustó la agresividad de los perros, buen trabajo en vender la grudge match, tienen un buen ángulo y el rub de Roman Reigns, la lucha estuvo muy buena al estilo Fénix, y Daga que trae la violencia highspeed se ve listo para ser coacheado, listo para ser entertainer; el booking en un inicio fue underwhelming pero si tiene forma y se ve una intención real de construir algo, no veo nada malo, de hecho está muy bueno; Penta se vio bien, era el protagonista, pero se ve muy safe muy WWE, incluso calling it in the ring, evidente selfaware, pero no tan descarado como Jon Moxley; los demás luchadores levantan la lucha, y los Garza traen ese estilo Héctor Garza en los strikes, muy brutal; la lucha se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-03 s59 (VISIONADO DIRECTO — AAA Ola de Calor, 30/8/2026)"
   - "Sub-agente research-aaa-ola-de-calor-300826 (research 2026-09-03) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [aaa-2026, ola-de-calor, perros-del-mal, daga, angel-garza, berto, karmen-petrovic, rey-fenix, penta, dragon-lee, hector-garza, grudge-match, doctrina-selfaware, triplemania-34, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Los Perros del Mal vs Fénix, Penta y Dragon Lee — main event (30/8/2026)
@@ -105,7 +106,8 @@ tags: [aaa-2026, ola-de-calor, perros-del-mal, daga, angel-garza, berto, karmen-
 
 ## Pendientes
 
-- [ ] Duración de la lucha — no reportada.
+- [x] Duración de la lucha → **11:50** [una fuente, research
+      2026-10-05]. Réferi sigue sin reportarse.
 - [ ] Confirmar el rol exacto de Karmen Petrovic en el post-match.
 - [ ] Fichas de people de **Berto** — sin abrir.
 

@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy emocionante, los comentaristas poniéndolos super over; muy buena lucha donde no expusieron a Omos; el reto era para Galeno, cómo imponer su estilo mientras hace lucir a Omos como estrella, y lo logró; la mantuvieron cortita, el booking ahora tiene stakes para Omos y protegen a Galeno"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — AAA Worldwide, 22/8/2026)"
   - "Sub-agente research-aaa-150826-220826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com (primaria), Pro Wrestling Dot Net (Vetter), Fightful, F4W/WON, POST Wrestling"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Dot Net / Vetter); WebFetch bloqueado por egress"
 tags: [aaa-2026, worldwide, omos, galeno-del-mal, rey-mysterio, dorian-roldan, el-ojo, aaa-latin-american-championship, sin-clase, proteccion-de-gimmick, doctrina-del-monstruo]
 ---
 
@@ -105,7 +106,12 @@ indefinidamente de AAA** — Omos le pega en el pecho y lo tira al piso.
 
 ## Pendientes
 
-- [ ] Referee y mecanismo formal del no contest.
+- [ ] Referee — ningún outlet consultado lo reporta.
+- [x] Mecanismo formal del no contest → **el réferi pita el campanazo
+      tras que Galeno golpeara a Omos con las escaleras del ring en
+      el ringside (5:00); Omos responde azotándolo con ellas, y ahí
+      se corta la lucha sin decisión** (Pro Wrestling Dot Net /
+      Vetter, research 2026-10-05).
 - [ ] Alcance real de la suspensión: ¿cuánto dura en kayfabe?
 
 ## Cross-links
