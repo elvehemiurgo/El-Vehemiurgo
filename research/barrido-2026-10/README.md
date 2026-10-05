@@ -61,3 +61,18 @@ frontmatter :: pendientes abiertos`.
 4. Al final, escribe `research/barrido-2026-10/informe-<rama>.md`:
    conteos por lote, lista de discrepancias (ficha + detalle), qué
    quedó sin cubrir y por qué. Commit + push.
+
+## Sesiones hijas lanzadas (2026-10-05, Sonnet 5)
+
+| Hija | Lotes | Rama | Sesión |
+|---|---|---|---|
+| 1 | 01-03 | `claude/barrido-hija-1` | session_01URo11KXD3ZCeDw3FCM8hGV |
+| 2 | 04-06 | `claude/barrido-hija-2` | session_01P3uA2MBAhxADnF5FNegE72 |
+| 3 | 07-09 | `claude/barrido-hija-3` | session_0116YYuFy3UhfWZzstWJarmT |
+| 4 | 10-12 | `claude/barrido-hija-4` | session_012mr48o5zhBJi9bh1MkwdBZ |
+| 5 | 13-15 | `claude/barrido-hija-5` | session_015nDbYXLfcrzTbupTgBHXNt |
+| 6 | 16-18 | `claude/barrido-hija-6` | session_013LRMmNCyyqCYNMymfDFKwM |
+| 7 | 19-21 | `claude/barrido-hija-7` | session_01YMiL2ScgUioci39fjM8Kzg |
+
+La sesión principal integra las ramas en
+`claude/wrestling-history-platform-KYaB6` y regenera índices y vistas.
