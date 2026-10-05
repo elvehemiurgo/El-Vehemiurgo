@@ -6,8 +6,8 @@ protagonistas: ["LA Knight", "Roman Reigns"]
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-08-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Des Moines, Iowa"
+recinto: "Casey's Center"
 ubicacion_en_show: "apertura del show"
 duracion: "[verif]"
 linea_textual: "el que lleva un reloj de Walmart [Reigns sobre Knight, paráfrasis de prensa]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Me encanta el booking de LA los últimos dos meses, aquí lo sacan para meterse con Roman, se burla felicitándolo por ganarle a Rollins sin ayuda en SummerSlam; muy buen segmento, se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s17 (visión directa — WWE Raw, 3/8/2026)"
   - "Sub-agente card-wwe-raw-030826 (research 2026-08-01, closed) — Fightful, Wrestling Inc, Cageside Seats, 411MANIA"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, la-knight, roman-reigns, seth-rollins, bloodline, summerslam, wrestling-entertainment]
 ---
 
@@ -70,7 +71,7 @@ tags: [wwe-2026, raw, la-knight, roman-reigns, seth-rollins, bloodline, summersl
 ## Pendientes / huecos
 
 - [ ] Confirmar cita textual exacta de Reigns contra video.
-- [ ] Confirmar ciudad, recinto y ubicación exacta.
+- [x] Confirmar ciudad y recinto. → Des Moines, Iowa — Casey's Center (Fightful, research 2026-10-05)
 - [ ] Seguimiento de un posible match Knight vs Reigns — fuera del
       horizonte de este registro.
 

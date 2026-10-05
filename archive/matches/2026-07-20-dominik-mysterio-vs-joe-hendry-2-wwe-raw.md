@@ -5,11 +5,11 @@ participantes: ["Dominik Mysterio", "Joe Hendry", "Liv Morgan", "Danhausen", "Iy
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-07-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Detroit, Michigan"
+recinto: "Little Caesars Arena"
 tipo_match: "singles"
 estipulacion: "no-title (AAA Mega Championship de Dominik no en juego)"
-duracion: "[verif]"
+duracion: "9:21 [una fuente]"
 finish: "Iyo Sky neutraliza a Liv Morgan; Danhausen conecta el Danhausen Death Drop sobre Dominik; Hendry capitaliza para el pin"
 ganador: "Joe Hendry"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo genial, se merece las 3 clases, con las interferencias de Liv y Danhausen y todo"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s13 (visión directa — WWE Raw, 20/7/2026)"
   - "Sub-agente card-wwe-raw-200726 (research 2026-08-01, closed) — WWE.com, 411Mania"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (313Presents, AXS); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, dominik-mysterio, joe-hendry, liv-morgan, danhausen, iyo-sky, judgment-day, perfect-match]
 ---
 
@@ -67,7 +68,9 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar ciudad, recinto, duración y réferi.
+- [x] Confirmar ciudad y recinto. → Detroit, Michigan — Little Caesars Arena (313Presents/AXS, research 2026-10-05)
+- [x] Confirmar duración. → 9:21 [una fuente] (research 2026-10-05)
+- [ ] Confirmar réferi.
 
 ## Piezas relacionadas
 

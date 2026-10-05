@@ -9,7 +9,7 @@ ciudad: "Nueva York, Nueva York"
 recinto: "Madison Square Garden"
 tipo_match: "tag team"
 estipulacion: "si ganan Gunther y Zayn, se suman al título indisputado de Punk en SummerSlam; si ganan Punk y Rhodes, queda mano a mano"
-duracion: "~15:00 [verif — sin fuente primaria exacta]"
+duracion: "14:07 / 14:08 (dos fuentes) / ~15:00 (aproximado, tercera fuente) — fuentes divergen"
 finish: "Gunther golpea a Rhodes con el título indisputado y lo powerbombea; Nick Aldis saca al segundo réferi del ring y golpea a Gunther con el cinturón; Punk conecta GTS sobre Gunther, coloca a Rhodes encima, el réferi original cuenta el tres"
 ganador: "Cody Rhodes & CM Punk"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy emocionante desde el inicio, muy stiff, muy acelerada, muy cardiaca, me encantó, se merece las 3 clases; booking brillante con Punk vs Zayn como choque de dos eras"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s12 (visión directa — WWE Saturday Night's Main Event, 18/7/2026)"
   - "Sub-agente card-wwe-snme-180726 (research 2026-08-01, closed) — 411Mania, Bleacher Report, NoDQ, Pro Wrestling Dot Net, WrestlePurists"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411Mania, Bleacher Report, NoDQ); WebFetch bloqueado por egress"
 tags: [wwe-2026, snme, cody-rhodes, cm-punk, gunther, sami-zayn, nick-aldis, summerslam, main-event, perfect-match, screwjob]
 ---
 
@@ -81,7 +82,7 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración exacta — fuentes solo dan aproximado.
+- [x] Confirmar duración. → fuentes divergen: 14:07 / 14:08 / ~15:00, sin cifra exacta única (411Mania/Bleacher Report/NoDQ, research 2026-10-05)
 - [ ] Confirmar réferi original.
 - [ ] Seguimiento del arco Gunther vs Nick Aldis camino a SummerSlam.
 

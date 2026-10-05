@@ -8,7 +8,7 @@ programa: "NXT"
 fecha: 2026-07-07
 ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
-ubicacion_en_show: "[verif]"
+ubicacion_en_show: "después del fatal 4-way de tag team por la contendencia #1 al NXT Tag Team Title, donde Shugars interfiere contra Dion Lennox antes de escapar"
 duracion: "[verif]"
 linea_textual: "\"Él está jugando ajedrez y ellos están jugando Hungry Hungry Hippos\" · \"él está up next, ellos están up never\" (paráfrasis de reporte, no verificadas contra video)"
 gimmick_momento: "Saquon Shugars colocando frases de personaje pese a no tener una blood feud súper producida"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buena promo, no le están dando la blood feud super producida, pero con el relleno que le dieron, está colocando sus frases, está quedando como Dave cool, me gusta"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s09 (visión directa — WWE NXT, 7/7/2026)"
   - "Sub-agente card-wwe-nxt-070726 (research 2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, solowrestling); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, saquon-shugars, darkstate, dion-lennox, promo-de-relleno, dave-verif, up-next-up-never]
 ---
 
@@ -78,7 +79,8 @@ declaración explícita, no se infla.
 
 - [ ] **Identidad de "Dave"** — preguntar directamente al Vehemiurgo.
 - [ ] Líneas textuales no verificadas contra video.
-- [ ] Duración y ubicación exacta en el show.
+- [x] Ubicación exacta en el show. → después del fatal 4-way de tag team por la contendencia #1, con interferencia de Shugars contra Dion Lennox (Fightful / solowrestling, 2026-07-07)
+- [ ] Duración del segmento.
 
 ## Piezas relacionadas
 

@@ -18,11 +18,12 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool desde las entradas; Solo realmente se la está creyendo como main eventer, los Usos sí vendieron una grudge match y LA estuvo perfecto — a diferencia de Jey y sus tropiezos toda la lucha; hubieran tenido una lucha perfecta con mejores rivales, pero fue entretenido y el booking está bueno; se merecen la WE y FS class"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s50 (visión directa — WWE Raw, 24/8/2026)"
   - "Sub-agente research-wwe-raw-240826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com, SI/FanNation, POST Wrestling"
   - "Sub-agente research-aaa-150826-raw-240826 (research 2026-08-26, closed) — WebSearch: Wrestling Inc., Ringside News, WrestleZone, F4W/WON (expulsión de Bronco Nima de Perros del Mal)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, SI/FanNation); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, la-knight, solo-sikoa, jey-uso, jimmy-uso, bloodline, royce-keys, otm, bronco-nima, lucien-price, perros-del-mal, grudge-match, reserva-jey-uso, perfect-match-descartado]
 ---
 
@@ -145,7 +146,8 @@ sostenida por los hechos, no como dato de la ficción.**
 
 ## Pendientes
 
-- [ ] Duración, referee y secuencia exacta de la emboscada.
+- [x] Secuencia exacta de la emboscada. → Confirmada (ver Resumen y Storyline arriba): Royce Keys se lleva a Sikoa y Jey Uso por la barrera, OTM ataca a Knight y Jimmy Uso, powerbomb a Jimmy a través de la mesa (WWE.com/SI, research 2026-10-05)
+- [ ] Duración y referee.
 - [ ] ¿El trío recibe nombre en pantalla en shows posteriores? —
       [verif].
 

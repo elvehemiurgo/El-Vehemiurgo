@@ -9,7 +9,7 @@ ciudad: "Ottawa, Ontario, Canadá"
 recinto: "Canadian Tire Centre"
 tipo_match: "singles"
 estipulacion: "semifinal de torneo — contendiente Nº1 al World Heavyweight Championship"
-duracion: "14:00 (PWTorch/Keller — research fenix-2026-run)"
+duracion: "13:31 (PWTorch/PostWrestling, reporte directo — research 2026-10-05)"
 finish: "Mexican Muscle Buster — pinfall [corroborado: es el finisher con que Fénix retuvo el AAA Cruiserweight ante Noisy Boy el 15/8; sigue sin verificación contra video]"
 ganador: "Rey Fénix"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo increible, la velocidad y lo prolijo de su lucha libre, strikes con peso que sí conectan, top tier wrestling; un performance generacional realmente, esto es wrestling en tv; se merece las 3 clases — con una única reserva: el primer 'good bye amigo' no conectó totalmente"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s49 (visión directa — WWE Raw, 24/8/2026)"
   - "Sub-agente research-wwe-raw-240826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: POST Wrestling, Wrestling Inc., WWE.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, PostWrestling, LastWordOnSports); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, dragon-lee, rey-fenix, lucha-libre, torneo-wwe-aaa, cdmx-140926, triple-clase, performance-generacional, wrestling-en-tv]
 ---
 
@@ -104,7 +105,7 @@ México**.
       15/8 ante Noisy Boy en AAA (ver
       [`./2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md`](./2026-08-15-noisy-boy-vs-rey-fenix-aaa-worldwide.md)).
       Falta verificación contra video.
-- [ ] Duración oficial (la estimación de ~13-14 min es nivel 3).
+- [x] Duración oficial. → 13:31, confirmada por fuente de reporte directo, nivel de confianza más alto (PWTorch/PostWrestling, research 2026-10-05)
 - [ ] Verificar contra video el primer *"good bye amigo"* que el
       Vehemiurgo marca como fallido.
 

@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Pensé que iba a ser ok nada más, pero me sorprendió, spots fuertes, ambas jugándose sus finishers difíciles; se merece las 3 clases, la vería otra vez"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s19 (visión directa — WWE Raw, 3/8/2026)"
   - "Sub-agente card-wwe-raw-030826-p2 (research 2026-08-01, closed) — Sportskeeda, WWE.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, roxanne-perez, sol-ruca, judgment-day, liv-morgan, raquel-rodriguez, becky-lynch, perfect-match, dq, pop-rox]
 ---
 
@@ -77,10 +78,10 @@ Entertainment, declaradas explícitas.**
   Judgment Day castiga a Ruca — clothesline de Raquel Rodríguez,
   **"Pop Rox" de Roxanne Perez** (nombre correcto del finisher) y
   Tejana Bomb de Rodríguez. **Ahí sale Becky Lynch** a confrontarlos.
-- **"Soul Snatcher" de Sol Ruca no confirmado**: no aparece en ninguna
-  fuente de research — puede ser el finisher real de Ruca simplemente
-  no usado esta noche (el match no llegó a un cierre por movimiento
-  decisivo), o un dato a verificar directamente.
+- **Confirmado por research (2026-10-05)**: **"Sol Snatcher"** (no
+  "Soul Snatcher") es el finisher real de Sol Ruca — aparece también
+  el 27/7/2026 y el 10/8/2026, en ambos casos como movimiento de
+  cierre consistente.
 - **Detalle de ejecución valorado explícitamente**: "los ratos de
   comerciales fueron creativos y aportaron a la historia de Roxanne
   desesperada por juntar pins" — atención al ritmo de transmisión, no
@@ -89,7 +90,7 @@ Entertainment, declaradas explícitas.**
 ## Pendientes / huecos
 
 - [ ] Confirmar réferi.
-- [ ] Verificar si "Soul Snatcher" es finisher real de Sol Ruca.
+- [x] Verificar si "Sol Snatcher" es finisher real de Sol Ruca. → Confirmado (research 2026-10-05), aparece también el 27/7 y 10/8.
 
 ## Piezas relacionadas
 

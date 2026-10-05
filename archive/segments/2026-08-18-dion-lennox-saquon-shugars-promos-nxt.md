@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buenas promos, como wrestlers oldschool, muy buena interacción; están dejándolos ser y están tomando forma, sobre todo Saquon, él mismo puede poner el show; se merecen una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — WWE NXT, 18/8/2026)"
   - "Sub-agente research-wwe-nxt-180826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com (primaria), POST Wrestling, Fightful, F4W/WON, Wrestling Inc., PWTorch (Wells)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PostWrestling, WrestlingInc); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, dion-lennox, saquon-shugars, cutler-james, osiris-griffin, steel-cage, weaponized, promo-oldschool, wrestling-entertainment]
 ---
 
@@ -69,13 +70,15 @@ tags: [wwe-nxt-2026, dion-lennox, saquon-shugars, cutler-james, osiris-griffin, 
 - **Shugars desafía a un Steel Cage Match**; **Lennox acepta y sube la
   apuesta agregando la estipulación "Weaponized"** — armas dentro de
   la estructura. **El que acepta es el que escala.**
-- **Payoff**: el **Weaponized Steel Cage Match** se disputó en el
-  **NXT del 25/8/2026** — resultado fuera del alcance de este research.
+- **Payoff, confirmado por research (2026-10-05)**: en el **Weaponized
+  Steel Cage Match** del NXT del 25/8/2026, **Saquon Shugars venció a
+  Dion Lennox** con un crossbody desde arriba de la jaula, a pesar de
+  una rodilla comprometida.
 
 ## Pendientes / huecos
 
 - [ ] Verbatim contra video.
-- [ ] Resultado del Weaponized Steel Cage del 25/8.
+- [x] Resultado del Weaponized Steel Cage del 25/8. → Shugars venció a Lennox con crossbody desde arriba de la jaula (PostWrestling/WrestlingInc, research 2026-10-05)
 - [ ] Fichas de **Cutler James** y **Osiris Griffin** — mencionados,
       sin take individual; no se abren stubs.
 

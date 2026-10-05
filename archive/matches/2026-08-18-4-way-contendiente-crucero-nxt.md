@@ -9,7 +9,7 @@ ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "fatal 4-way"
 estipulacion: "contendiente Nº1 al AAA World Cruiserweight Championship de Rey Fénix (título no en juego)"
-duracion: "[verif]"
+duracion: "10:26 [una fuente]"
 finish: "Romeo Moreno cae sobre Tristan Angels para el pin y La Parka rompe la cuenta; EK Prosper engancha a Moreno con moonsault desde la tercera y se lleva la caída"
 ganador: "EK Prosper"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muchas ganas, buenos movimientos, mucha velocidad, muy buenos talentos para trabajar; les falta ponerse más oldschool pero tienen ese lado clásico, sobre todo Tristan con su gimmick, podría convertirse en alguien realmente cautivante; Rome y EK estuvieron geniales, muy cardíacos, no los veo tan safe como para ser developmental; se merece las 3 clases, muy buenas secuencias y un final cardíaco perfecto"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — WWE NXT, 18/8/2026)"
   - "Sub-agente research-wwe-nxt-180826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com (primaria), POST Wrestling, Fightful, F4W/WON, Wrestling Inc., PWTorch (Wells)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, ek-prosper, la-parka, tristan-angels, romeo-moreno, noam-dar, rey-fenix, aaa-cruiserweight-championship, triple-clase, gimmick-clasico, hunter-hearst-helmsley, reserva-safe-revertida]
 ---
 
@@ -114,7 +115,8 @@ de Rey Fénix** —título **no** en juego acá— y lo disputa el 25/8.
 
 ## Pendientes
 
-- [ ] Duración y referee.
+- [x] Duración. → 10:26 [una fuente] (research 2026-10-05)
+- [ ] Referee.
 - [ ] **Alineaciones face/heel**: ninguna fuente las asigna. *"EK y
       Moreno como babyfaces"* es **lectura del Vehemiurgo**, no dato.
 

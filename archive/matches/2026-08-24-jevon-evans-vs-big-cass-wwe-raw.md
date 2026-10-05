@@ -9,7 +9,7 @@ ciudad: "Ottawa, Ontario, Canadá"
 recinto: "Canadian Tire Centre"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
+duracion: "~9:00 (aproximado, \"just under nine minutes\" — research 2026-10-05)"
 finish: "Evans sube al top rope, Cass lo empuja al vacío y lo remata con Big Boot — pinfall"
 ganador: "Big Cass"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Le dieron tremenda entrada, de verdad luce como super estrella; un regreso mejor bienvenido y más atractivo que Baron Corbin; un argumento muy emocionante y tenerlo como bully en tv está muy bueno; la lucha se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s49 (visión directa — WWE Raw, 24/8/2026)"
   - "Sub-agente research-wwe-raw-240826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: Wrestling Inc., 411Mania, Wrestlezone"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, jevon-evans, big-cass, dominik-mysterio, jd-mcdonagh, judgment-day, triple-clase, monster-heel, gimmick-de-rehabilitacion, midcard-con-stakes]
 ---
 
@@ -111,9 +112,10 @@ Mysterio backstage esa misma noche.
   2018). Su regreso fue el **3/8/2026**, destrozando a Evans (boot,
   clothesline, bear hug y **East River Crossing**, su finisher nominal
   del run).
-- **Nota de precisión**: el finish del 24/8 fue el **Big Boot**, no el
-  East River Crossing. Un snippet sugiere que el East River Crossing
-  también apareció esa noche, **sin confirmar**.
+- **Nota de precisión, confirmada por research (2026-10-05)**: el
+  finish del 24/8 fue el **Big Boot**, no el East River Crossing — ese
+  movimiento corresponde al regreso de Big Cass del 3/8/2026, un hecho
+  distinto. No apareció en este match.
 - **Dominik y JD no intervinieron en el final** — su ataque fue
   **post-match**, como cobro del salve backstage. El resultado no se
   vio afectado.
@@ -122,8 +124,9 @@ Mysterio backstage esa misma noche.
 
 ## Pendientes
 
-- [ ] Duración, referee y si el East River Crossing apareció en el
-      match — [verif].
+- [x] Duración. → ~9:00, aproximado (research 2026-10-05)
+- [x] Si el East River Crossing apareció en el match. → No; corresponde al regreso del 3/8, hecho distinto (research 2026-10-05)
+- [ ] Referee.
 - [ ] Cómo se mueve el booking tras la victoria, según el propio
       Vehemiurgo: *"una victoria aquí mueve el booking de forma
       importante"*.

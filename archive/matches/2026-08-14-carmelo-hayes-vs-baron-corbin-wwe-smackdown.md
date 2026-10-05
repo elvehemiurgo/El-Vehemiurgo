@@ -9,7 +9,7 @@ ciudad: "Boston, Massachusetts"
 recinto: "TD Garden"
 tipo_match: "singles"
 estipulacion: "WWE United States Championship"
-duracion: "[verif]"
+duracion: "9:18 / 10:00 según fuente"
 finish: "Hayes conecta un frog splash desde la tercera cuerda e intenta el Nothing But Net; Corbin lo contrarresta empujándolo contra la barricada de ringside y remata con End of Days"
 ganador: "Baron Corbin — retiene"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merecen una WE sobre todo por el esfuerzo de Carmelo y su selling"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s38 (visión directa — WWE SmackDown, 14/8/2026)"
   - "Sub-agente research-smackdown-140826 (research 2026-08-01, closed) — WWE.com, AOL/Wrestling News Report, Pro Wrestling Dot Net"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.net/pwtorch); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, carmelo-hayes, baron-corbin, trick-williams, us-championship, wrestling-entertainment]
 ---
 
@@ -86,7 +87,8 @@ selling de Corbin.**
 
 ## Pendientes / huecos
 
-- [ ] Duración exacta y réferi — [verif].
+- [x] Duración. → fuentes divergen: 9:18 / 10:00, sin cifra única (research 2026-10-05)
+- [ ] Confirmar réferi.
 - [ ] Confirmar si el gimmick de motociclista de Corbin se desarrolla
       como stable/facción en shows posteriores — [verif].
 

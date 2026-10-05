@@ -9,7 +9,7 @@ ciudad: "Minneapolis, Minnesota"
 recinto: "U.S. Bank Stadium"
 tipo_match: "singles"
 estipulacion: "WWE Intercontinental Championship (Penta defendía)"
-duracion: "[verif]"
+duracion: "~11:00 [aproximado, una fuente]"
 finish: "Gable contrarresta un Destroyer de Penta y cierra con ankle lock hasta el tap out"
 ganador: "Chad Gable — nuevo campeón"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "No es mi tipo de lucha, pero sí dieron un show, se merece un WE class, los destroyers y strikes así no me gustan, pero no puedo negar el espectáculo"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s17 (visión directa — WWE SummerSlam Noche 2, 2/8/2026)"
   - "Sub-agente card-wwe-summerslam-n1-n2-2026 (research 2026-08-01, closed) — Khelnow, Forbes, Bleacher Report, Fox News, PWTorch"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Bleacher Report); WebFetch bloqueado por egress"
 tags: [wwe-2026, summerslam, chad-gable, penta, wwe-intercontinental-championship, wrestling-entertainment, hometown-win]
 ---
 
@@ -63,7 +64,8 @@ personal (no de calidad).**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración y réferi.
+- [x] Confirmar duración. → ~11:00, aproximado, una fuente (Bleacher Report, research 2026-10-05)
+- [ ] Confirmar réferi.
 
 ## Piezas relacionadas
 

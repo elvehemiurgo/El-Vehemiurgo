@@ -9,7 +9,7 @@ ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "sin título — feudo de ex-compañeros de tag"
-duracion: "[verif]"
+duracion: "4:45 [una fuente]"
 finish: "Hendrix roba la victoria con tácticas sucias"
 ganador: "Kam Hendrix"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Presentación muy cool, de verdad quiere entretener y luchar a nivel de enterteiner; se están esforzando dejándose coachable; quieren ser wrestlers con full gimmick; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026)"
   - "Sub-agente nxt-110826-pase2 (research 2026-08-01) — origen del feudo y resultado"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, Wrestling Inc); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, kam-hendrix, mason-rook, heel-turn, wrestling-entertainment]
 ---
 
@@ -70,7 +71,7 @@ sobre lo que vio en video**, no como dato reportado.
 
 - [ ] Confirmación de la gimmick de dupla/hermanos que sugiere el
       dictado — no encontrada en cobertura.
-- [ ] Duración del match.
+- [x] Duración del match. → 4:45 [una fuente] (research 2026-10-05)
 
 ## Piezas relacionadas
 

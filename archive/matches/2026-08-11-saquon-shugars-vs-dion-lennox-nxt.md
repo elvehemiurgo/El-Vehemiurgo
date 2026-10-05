@@ -9,7 +9,7 @@ ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "sin título — grudge match dentro de la ojeriza de Shugars con Dark State"
-duracion: "[verif]"
+duracion: "5:00 [una fuente]"
 finish: "Sitout slam de Lennox"
 ganador: "Dion Lennox"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lucha esperada; el enterteinment prefabricado de su primer programa estuvo ok, pero genérico; desde el tag donde tenía que buscarse compañero para enfrentar a Dark State empezó a mostrar más de sí mismo, en el micrófono y sus ideas, más auténtico y entretenido; con Saquon todo es más oldschool; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026)"
   - "Sub-agente nxt-110826-pase2 (research 2026-08-01) — resultado, finish y contexto del arco con Dark State"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, saquon-shugars, dion-lennox, dark-state, grudge-match, oldschool, wrestling-entertainment]
 ---
 
@@ -91,7 +92,7 @@ gimmick, marcado en tiempo real**:
 
 - [ ] Confirmar el detalle exacto del tag "buscarse compañero" — no
       cruzado con precisión por research.
-- [ ] Duración del match.
+- [x] Duración del match. → 5:00 [una fuente] (Pro Wrestling Dot Net, research 2026-10-05)
 
 ## Piezas relacionadas
 

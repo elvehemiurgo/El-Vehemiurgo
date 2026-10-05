@@ -5,11 +5,11 @@ participantes: ["LA Knight", "Jacob Fatu", "Jimmy Uso", "Royce Keys", "Solo Siko
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-07-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Detroit, Michigan"
+recinto: "Little Caesars Arena"
 tipo_match: "singles"
 estipulacion: "main event, build hacia el six-man de SummerSlam"
-duracion: "[verif]"
+duracion: "14:16 [una fuente]"
 finish: "Jimmy Uso distrae al réferi tras un BFT de Knight; Fatu remonta con Samoan Drop + doble moonsault"
 ganador: "Jacob Fatu"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Increíble, se merece las 3 clases, ya hay confianza de parte de WWE, estilo imbatible; buen booking para LA y Fatu, el post match también estuvo cool"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s13 (visión directa — WWE Raw, 20/7/2026)"
   - "Sub-agente card-wwe-raw-200726 (research 2026-08-01, closed) — WWE.com, Wrestling Inc, KhelNow, Pro Wrestling Dot Net, PWTorch"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (313Presents, AXS); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, la-knight, jacob-fatu, jimmy-uso, royce-keys, solo-sikoa, bloodline, summerslam, perfect-match, main-event]
 ---
 
@@ -65,7 +66,9 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar ciudad, recinto, duración y réferi.
+- [x] Confirmar ciudad y recinto. → Detroit, Michigan — Little Caesars Arena (313Presents/AXS, research 2026-10-05)
+- [x] Confirmar duración. → 14:16 [una fuente] (research 2026-10-05)
+- [ ] Confirmar réferi.
 
 ## Piezas relacionadas
 

@@ -9,10 +9,10 @@ ciudad: "Minneapolis, Minnesota"
 recinto: "U.S. Bank Stadium"
 tipo_match: "singles"
 estipulacion: "sin título en juego — primer match de Aldis en tres años"
-duracion: "[verif]"
+duracion: "11:40 [una fuente]"
 finish: "Gunther somete a Aldis con sleeper hold hasta el tap out"
 ganador: "Gunther"
-referee: "[verif]"
+referee: "Dan Engler [una fuente]"
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Histórico, Aldis lo hizo genial, ponlo en el panteón de héroes de una vez; la lucha se merece las 3 clases, estuvo perfecta"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s16 (visión directa — WWE SummerSlam Noche 1, 1/8/2026)"
   - "Sub-agente card-wwe-summerslam-n1-010826 (research 2026-08-01, closed) — Forbes, F4WOnline, Yahoo Sports, Cageside Seats"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Bleacher Report, Yahoo Sports); WebFetch bloqueado por egress"
 tags: [wwe-2026, summerslam, nick-aldis, gunther, panteon, perfect-match, retorno]
 ---
 
@@ -70,7 +71,8 @@ Nick Aldis entra como **Héroe Fundamental #52**. Procesado vía skill
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración.
+- [x] Confirmar duración. → 11:40 [una fuente] (research 2026-10-05; cifra muy cercana a la de Femi/Lesnar del mismo show, registrada sin fusionar)
+- [x] Confirmar réferi. → Dan Engler [una fuente] (research 2026-10-05)
 - [ ] Verificar la nota de "presupuesto especial" de producción.
 
 ## Piezas relacionadas

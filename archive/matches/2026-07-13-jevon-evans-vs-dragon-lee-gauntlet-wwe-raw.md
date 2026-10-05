@@ -10,7 +10,7 @@ recinto: "American Airlines Center"
 tipo_match: "singles"
 estipulacion: "Gauntlet #1 Contender al Intercontinental Championship — tercera caída"
 duracion: "[dentro del gauntlet, total 38:18]"
-finish: "[verif — no confirmado en fuente primaria/secundaria]"
+finish: "Roll-up sobre Dragon Lee [una fuente]"
 ganador: "Je'Von Evans"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merecen las 3 clases por su participación en esta programación, de verdad pusieron una gran pelea, se mueven como wrestlers, Jevon saca lo mejor de los luchadores más oldschool, esta fue una dream match con mucha calidad, incluso cuando se tropezaron para el tornado ddt, estaban vendiendo, son muy profesionales, podrían poner una lucha muy impresionante los dos en un PLE"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s10 (visión directa — WWE Raw, 13/7/2026)"
   - "Sub-agente card-wwe-raw-130726 (research 2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, Wrestlinginc); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, jevon-evans, dragon-lee, gauntlet-intercontinental, dream-match, perfect-match, tropiezo-cubierto-por-selling]
 ---
 
@@ -52,7 +53,7 @@ tags: [wwe-2026, raw, jevon-evans, dragon-lee, gauntlet-intercontinental, dream-
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto — no confirmado en fuente primaria ni secundaria.
+- [x] Finish exacto. → Roll-up sobre Dragon Lee [una fuente] (research 2026-10-05)
 - [ ] Duración individual de esta caída.
 
 ## Piezas relacionadas

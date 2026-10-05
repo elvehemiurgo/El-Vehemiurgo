@@ -9,7 +9,7 @@ ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "sin título"
-duracion: "[verif]"
+duracion: "3:30 [una fuente]"
 finish: "[verif — visto en video]"
 ganador: "Lexis King"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lexis está haciendo todo el repertorio de MJF, es MJF en NXT, bueno en el mic, lo coachearon para parecerse a MJF aunque conserva crossbodies y superkicks; siguen el booking de Price con su historia tras la unión de Numa a Perros del Mal, podría ser un face cool, le falta mucho; esta lucha está ok"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026)"
   - "Sub-agente nxt-110826-pase2 (research 2026-08-01) — identificación y contexto"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, lexis-king, brian-pillman-jr, lucien-price, mjf-comparacion, sin-clase-declarada]
 ---
 
@@ -69,7 +70,13 @@ tags: [wwe-2026, nxt, lexis-king, brian-pillman-jr, lucien-price, mjf-comparacio
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Duración. → 3:30 [una fuente] (Fightful, research 2026-10-05)
+- [ ] Finish exacto.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra ganador
+      Lexis King, pero Fightful describe el finish como un **One-Armed
+      Powerbomb (pinfall) de Price** — sin aclarar si fue Price
+      rematando a King o King contrarrestando y cubriendo. No se
+      reescribe el ganador sin confirmación contra video.
 
 ## Piezas relacionadas
 

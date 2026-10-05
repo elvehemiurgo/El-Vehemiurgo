@@ -5,8 +5,8 @@ participantes: ["Saquon Shugars", "Romeo Moreno", "Noam Dar", "Dion Lennox", "Cu
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-07-21
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Orlando, Florida"
+recinto: "WWE Performance Center"
 tipo_match: "six-man tag"
 estipulacion: "sin título en juego"
 duracion: "9:26"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lucha genial, Noam Dar y Saquon a otro nivel, elevan la lucha y la ponen muy oldschool con ejecución perfecta; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s13 (visión directa — WWE NXT, 21/7/2026)"
   - "Sub-agente card-wwe-nxt-210726 (research 2026-08-01, closed) — PWTorch, Fandom, eWrestlingNews"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, saquon-shugars, romeo-moreno, noam-dar, darkstate, dion-lennox, perfect-match, six-man]
 ---
 
@@ -70,7 +71,8 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Confirmar ciudad, recinto y réferi.
+- [x] Confirmar ciudad y recinto. → Orlando, Florida — WWE Performance Center (Fightful, research 2026-10-05)
+- [ ] Confirmar réferi.
 - [ ] Abrir fichas individuales de Cutler James y Osiris Griffin — hecho
       en este mismo volcado.
 

@@ -9,7 +9,7 @@ ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
+duracion: "3:12 [una fuente]"
 finish: "Drake cae sobre el referee, NARAKU sale de abajo del ring y escupe mist a Hill, y Drake remata con 450 splash — pinfall"
 ganador: "Jackson Drake"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo muy buena; Jackson es el futuro de WWE no hay duda; acción muy buena, calidad, y gimmicks y ejecución oldschool muy efectiva; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — WWE NXT, 18/8/2026)"
   - "Sub-agente research-wwe-nxt-180826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com (primaria), POST Wrestling, Fightful, F4W/WON, Wrestling Inc., PWTorch (Wells)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, shiloh-hill, jackson-drake, naraku, vanity-project, the-future-in-2026, triple-clase, ejecucion-oldschool, heatwave-2026, finish-sucio]
 ---
 
@@ -100,7 +101,8 @@ menor]"*; queda resuelto y el registro actualizado.
 
 ## Pendientes
 
-- [ ] Duración y referee.
+- [x] Duración. → 3:12 [una fuente] (research 2026-10-05)
+- [ ] Referee.
 - [ ] Ficha de people de **NARAKU** — sin abrir.
 
 ## Cross-links

@@ -7,7 +7,7 @@ empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-08-07
 ciudad: "Filadelfia, Pensilvania"
-recinto: "[verif]"
+recinto: "Xfinity Mobile Arena [una fuente]"
 ubicacion_en_show: "apertura del show (primer tramo)"
 duracion: "[verif]"
 linea_textual: "Te llamas Legend Killer. Mira alrededor, Randy: eres la última leyenda que queda en WWE [segmento posterior, paráfrasis de prensa]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Cody hizo muy bien su parte, lo de pensar si Punk está aliado con Orton es algo que no se me ocurrió; se arriesgan a que la gente abuchee a Cody, pero es entretenido; se merece un WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s20 (visión directa — WWE SmackDown, 7/8/2026)"
   - "Sub-agente card-wwe-smackdown-070826 (research 2026-08-01, closed) — Cageside Seats, Fightful, Wrestlezone, 411mania"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Bleacher Report, ESPN, Fox News); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, cody-rhodes, cm-punk, randy-orton, summerslam-fallout, wrestling-entertainment]
 ---
 
@@ -66,6 +67,14 @@ tags: [wwe-2026, smackdown, cody-rhodes, cm-punk, randy-orton, summerslam-fallou
 - **El riesgo que señala el Vehemiurgo** (que abucheen a Cody al
   revivir la rivalidad con Orton) queda como pronóstico editorial
   falsable, a seguir en el arco.
+- **WrestleMania 42, Cody Rhodes vs Randy Orton, confirmado por
+  research (2026-10-05)**: Cody retuvo el Undisputed WWE Championship
+  en 22:40. Orton conectó un RKO, pero el réferi Charles Robinson
+  estaba fuera de foco porque Pat McAfee (réferi especial) había
+  regresado; Orton le dio un RKO también a McAfee, lo que permitió a
+  Rhodes rematar con Cross Rhodes para el pin. Post-match, Orton le
+  arrebató el título a Rhodes, lo golpeó con el cinturón y lo remató
+  con un punt kick.
 
 ### Sesión 2026-08-01 s21 — Elaboración: lectura de posible heel turn
 
@@ -93,9 +102,8 @@ Elogio de fondo: Cody como creador de stakes, no solo ejecutor de
 
 ## Pendientes / huecos
 
-- [ ] Confirmar recinto exacto.
-- [ ] Resultado exacto de Cody vs Orton en WrestleMania 42 — snippets
-      contradictorios.
+- [x] Confirmar recinto. → Xfinity Mobile Arena [una fuente] (research 2026-10-05)
+- [x] Resultado exacto de Cody vs Orton en WrestleMania 42. → Cody retiene en 22:40, Cross Rhodes tras RKO de Orton a Pat McAfee (réferi especial); post-match Orton le arrebata el título y lo ataca (Bleacher Report/ESPN/Fox News, research 2026-10-05)
 - [ ] Seguimiento del pronóstico "van a abuchear a Cody".
 
 ## Piezas relacionadas

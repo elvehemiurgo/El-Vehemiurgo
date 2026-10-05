@@ -9,7 +9,7 @@ ciudad: "Buffalo, Nueva York"
 recinto: "KeyBank Center"
 tipo_match: "singles"
 estipulacion: "WWE Intercontinental Championship — primera defensa de Gable"
-duracion: "[verif]"
+duracion: "13:14 [una fuente]"
 finish: "Gable atrapa a Mysterio en ankle lock; Mysterio se suelta y conecta 619s consecutivos; Gable vuelve al ankle lock, y sobre un intento de pin de Mysterio lo revierte en un victory roll para ganar"
 ganador: "Chad Gable — retiene"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Gran lucha, pero muy safe, muy lento, tiene buenos momentos, pero no es el clasico que pensarias; FS y WE classes, bien por ratos pero en general tranquila"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s42 (visión directa — WWE Raw, 17/8/2026)"
   - "Sub-agente research-wwe-raw-170826-parte2 (research 2026-08-01, closed) — Wrestling Inc, PWTorch"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WrestlingInc, WrestleZone); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, chad-gable, rey-mysterio, intercontinental-championship, fighting-spirit, wrestling-entertainment, reserva-de-ritmo]
 ---
 
@@ -73,7 +74,7 @@ sostenida en toda la lectura.**
 
 ## Pendientes / huecos
 
-- [ ] Duración exacta — no reportada en fuentes disponibles.
+- [x] Duración exacta. → 13:14 [una fuente] (WrestlingInc/WrestleZone, research 2026-10-05)
 - [ ] Réferi.
 
 ## Piezas relacionadas

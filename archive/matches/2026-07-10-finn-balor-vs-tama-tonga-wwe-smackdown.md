@@ -9,7 +9,7 @@ ciudad: "Oklahoma City, Oklahoma"
 recinto: "Paycom Center"
 tipo_match: "singles"
 estipulacion: "singles, con Talla Tonga en ringside"
-duracion: "[verif]"
+duracion: "9:47 [una fuente]"
 finish: "Coup de Grâce, tras un suicide senton sobre Tama y Talla Tonga"
 ganador: "Finn Bálor"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se armó un ángulo muy cool y cortito con Tama y Finn, sobre el éxodo de los hijos de Haku probando como tag team; buen acto heel, buen acto tag team; esta lucha debía vender a Tama como heel midcard creíble en TV, y lo lograron; se merece una WE"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s10 (visión directa — SmackDown, 10/7/2026)"
   - "Sub-agente card-wwe-smackdown-100726 (research 2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (eWrestlingNews, Fightful); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, finn-balor, tama-tonga, talla-tonga, exodo-mfts, bullet-club-subtexto, hijos-de-haku, dinastia]
 ---
 
@@ -53,7 +54,7 @@ tags: [wwe-2026, smackdown, finn-balor, tama-tonga, talla-tonga, exodo-mfts, bul
 
 ## Pendientes / huecos
 
-- [ ] Duración exacta.
+- [x] Duración exacta. → 9:47 [una fuente] (eWrestlingNews, 2026-07-10)
 - [ ] Confirmar próximo capítulo de la revancha anunciada.
 
 ## Piezas relacionadas

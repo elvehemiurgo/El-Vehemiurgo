@@ -9,7 +9,7 @@ ciudad: "Rosemont (Chicago), Illinois"
 recinto: "Allstate Arena"
 tipo_match: "singles"
 estipulacion: "Undisputed WWE Championship"
-duracion: "[verif]"
+duracion: "20:28 [una fuente]"
 finish: "Helluva Kick en la esquina (el finisher del propio Zayn) seguido de GTS"
 ganador: "CM Punk — nuevo Undisputed WWE Champion"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El regreso de Punk en Chicago, buenísimo, ahora sí se pone interesante el booking; se merecen las 3 clases con la corona + (declarado 2026-09-13)"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-13
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s08 (visión directa — Monday Night Raw, 6/7/2026)"
   - "Sub-agente de research (2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (handwerkreviews.wordpress.com); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, cm-punk, sami-zayn, chicago, regreso, undisputed-wwe-championship, nick-aldis, cult-of-personality, take-incompleto, instant-classic-crown-plus, clase-declarada-en-diferido]
 ---
 
@@ -104,7 +105,7 @@ cobrado el 11/9/2026, cuando Zayn recupera el título en un match ICC+.
 ## Pendientes / huecos
 
 - [ ] **EL TAKE ESTÁ INCOMPLETO** — el Vehemiurgo cortó la frase en "con toda esta idea de". Retomar cuando continúe el dictado, sin fabricar el cierre.
-- [ ] Duración del match.
+- [x] Duración del match. → 20:28 [una fuente] (handwerkreviews.wordpress.com, 2026-09-11)
 - [ ] Attendance y rating del show.
 
 ## Análisis comparado

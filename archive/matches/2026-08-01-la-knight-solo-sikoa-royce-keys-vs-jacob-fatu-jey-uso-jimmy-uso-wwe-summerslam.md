@@ -9,7 +9,7 @@ ciudad: "Minneapolis, Minnesota"
 recinto: "U.S. Bank Stadium"
 tipo_match: "six-man tag"
 estipulacion: "sin título en juego — cierre del arco Bloodline vs Knight/Sikoa/Keys"
-duracion: "[verif]"
+duracion: "8:38 (dato oficial WWE)"
 finish: "Solo Sikoa aplica Samoan Spike a Jimmy Uso, distrayendo a Jey; LA Knight remata a Jey Uso con BFT"
 ganador: "LA Knight, Solo Sikoa & Royce Keys"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merece un WE class solo por la campaña de LA Knight y su victoria sobre el Bloodline, su actuación estuvo perfecta"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s16 (visión directa — WWE SummerSlam Noche 1, 1/8/2026)"
   - "Sub-agente card-wwe-summerslam-n1-010826 (research 2026-08-01, closed) — Forbes, Cageside Seats, khelnow, bettorsinsider"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (bettorsinsider, Bleacher Report); WebFetch bloqueado por egress"
 tags: [wwe-2026, summerslam, la-knight, solo-sikoa, royce-keys, jacob-fatu, jey-uso, jimmy-uso, bloodline, wrestling-entertainment, six-man]
 ---
 
@@ -61,7 +62,7 @@ tags: [wwe-2026, summerslam, la-knight, solo-sikoa, royce-keys, jacob-fatu, jey-
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración.
+- [x] Confirmar duración. → 8:38, dato oficial WWE (bettorsinsider/Bleacher Report, research 2026-10-05)
 
 ## Piezas relacionadas
 

@@ -10,7 +10,7 @@ recinto: "WWE Performance Center"
 tipo_match: "fatal 4-way"
 estipulacion: "NXT Women's North American Championship — defensa titular de Zaria"
 duracion: "12:46"
-finish: "Spear + F-5 sobre Nikkita Lyons [finish exacto no confirmado en fuente primaria/secundaria]"
+finish: "Zaria lanza a Lyons de vuelta al ring, Spear, remata con F-5 sobre Nikkita Lyons"
 ganador: "Zaria — retiene el título"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Pusieron una lucha muy buena, no es perfecta pero mucho kayfabe, se merece una WE y una FS classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s10 (visión directa — WWE NXT, 14/7/2026)"
   - "Sub-agente card-wwe-nxt-140726 (research 2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com highlights); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, zaria, izzi-dame, lizzy-rain, nikkita-lyons, north-american-championship, correccion-defensa-no-contendencia, layla-diggs-lesion]
 ---
 
@@ -52,7 +53,7 @@ tags: [wwe-2026, nxt, zaria, izzi-dame, lizzy-rain, nikkita-lyons, north-america
 
 ## Pendientes / huecos
 
-- [ ] Confirmar finish exacto en fuente primaria/secundaria — solo hallado en terciaria.
+- [x] Confirmar finish exacto en fuente primaria/secundaria. → Confirmado: Zaria lanza a Lyons al ring, Spear, remata con F-5 (WWE.com highlights, 14/7/2026)
 - [ ] Duración y contexto de la lesión de Layla Diggs.
 
 ## Piezas relacionadas

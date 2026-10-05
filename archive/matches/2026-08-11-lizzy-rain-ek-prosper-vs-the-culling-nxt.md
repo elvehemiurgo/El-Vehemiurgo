@@ -9,7 +9,7 @@ ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "mixed tag team"
 estipulacion: "sin título — Shawn Spears estaba anunciado como partner de Rain y no apareció"
-duracion: "[verif]"
+duracion: "10:48 [una fuente]"
 finish: "Moonsault de EK Prosper sobre Niko Vance"
 ganador: "Lizzy Rain & EK Prosper"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Hicieron las cosas interesantes aquí con la lucha en parejas; parecía que Spears decidió abandonar a Lizzy, y esta última inicia con una buena promo y luego con todo tipo grudge match; se merece una WE class; sigue sin convencer el selling; el thunderstruck countered into a powerbomb quedó perfecto"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s33 y s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026)"
   - "Sub-agente nxt-110826 (research 2026-08-01) — card, identidades y contexto del ángulo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt, lizzy-rain, ek-prosper, izzi-dame, niko-vance, the-culling, shawn-spears, sin-clase-declarada]
 ---
 
@@ -144,7 +145,7 @@ primer take.**
       aún no indexado. `[verif]`
 - [ ] Explicación de la ausencia de Shawn Spears (no la dieron en TV,
       ni hay reporte backstage).
-- [ ] Duración del match.
+- [x] Duración del match. → 10:48 [una fuente] (411mania, research 2026-10-05)
 
 ## Piezas relacionadas
 

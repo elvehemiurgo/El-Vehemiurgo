@@ -9,7 +9,7 @@ ciudad: "Minneapolis, Minnesota"
 recinto: "U.S. Bank Stadium"
 tipo_match: "six-woman tag"
 estipulacion: "sin título en juego"
-duracion: "[verif]"
+duracion: "7:30 [una fuente]"
 finish: "Jacy Jayne remata a Paige con Rolling Encore"
 ganador: "Fatal Influence (Jacy Jayne, Fallon Henley, Lainey Reid)"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Actuación increíble, cargaron con las Bellas, victoria genial perfecta para el booking; esta lucha se merece una FS y WE classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s16 (visión directa — WWE SummerSlam Noche 1, 1/8/2026)"
   - "Sub-agente card-wwe-summerslam-n1-010826 (research 2026-08-01, closed) — Bleacher Report, Wrestling Inc, Cageside Seats, 411mania, khelnow"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (khelnow); WebFetch bloqueado por egress"
 tags: [wwe-2026, summerslam, fatal-influence, jacy-jayne, fallon-henley, lainey-reid, nikki-bella, brie-bella, paige, heel-turn, fighting-spirit]
 ---
 
@@ -71,7 +72,7 @@ tags: [wwe-2026, summerslam, fatal-influence, jacy-jayne, fallon-henley, lainey-
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración.
+- [x] Confirmar duración. → 7:30 [una fuente] (khelnow, research 2026-10-05)
 - [ ] Seguimiento del arco post-turn heel de las Bellas contra Paige —
       fuera del horizonte de este registro.
 

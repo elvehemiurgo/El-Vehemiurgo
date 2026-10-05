@@ -6,8 +6,8 @@ protagonistas: ["LA Knight", "Roman Reigns", "Jacob Fatu"]
 empresa: "WWE"
 programa: "Monday Night Raw"
 fecha: 2026-07-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Detroit, Michigan"
+recinto: "Little Caesars Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "es todo lo que WWE quería que Roman fuera desde el principio / 'fact of life' / 'smack you back to factory settings'"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "LO más cool de RAW ahora mismo, promo buenísima, spin nuevo sobre Roman, trae de vuelta el 'fact of life', luego se mete con Fatu con 'smack you back to factory settings'; se merece un WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s13 (visión directa — WWE Raw, 20/7/2026)"
   - "Sub-agente card-wwe-raw-200726 (research 2026-08-01, closed) — Superluchas/Solowrestling"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (313Presents, AXS); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, la-knight, roman-reigns, jacob-fatu, summerslam, wrestling-entertainment, fact-of-life]
 ---
 
@@ -82,7 +83,8 @@ tags: [wwe-2026, raw, la-knight, roman-reigns, jacob-fatu, summerslam, wrestling
 ## Pendientes / huecos
 
 - [ ] Confirmar transcripción exacta contra video de ambas líneas.
-- [ ] Confirmar ubicación en el show, ciudad y recinto.
+- [x] Confirmar ciudad y recinto. → Detroit, Michigan — Little Caesars Arena (313Presents/AXS, research 2026-10-05)
+- [ ] Confirmar ubicación exacta en el show.
 
 ## Piezas relacionadas
 
