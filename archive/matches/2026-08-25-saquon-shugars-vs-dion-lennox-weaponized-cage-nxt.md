@@ -12,16 +12,17 @@ estipulacion: "Weaponized Steel Cage Match"
 duracion: "14:45"
 finish: "Shugars trepa al tope de la jaula con la rodilla destrozada y cae con crossbody sobre Lennox — pinfall"
 ganador: "Saquon Shugars"
-referee: "[verif]"
+referee: "Derek Sanders"
 encuentros_previos: 2
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo genial, mucho fighting spirit; los spots con la silla de Saquon fueron muy brillantes, creatividad nivel Raven con un hardcore psicológico denso; los gimmicks y el oldschool hacen que se mantenga real incluso en los contados tropiezos u oversells; lo que no me gustó fue el downselling del bate y los objetos; se merecen las 3 clases igual, porque supieron terminar de forma genial"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s52 (visión directa — WWE NXT, 25/8/2026)"
   - "Sub-agente research-wwe-nxt-250826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com (primaria), POST Wrestling, PWTorch (Wells), Pro Wrestling Dot Net (Moore), Fightful, Wrestling Inc., 411mania"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cageside Seats); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, saquon-shugars, dion-lennox, darkstate, weaponized-steel-cage, hardcore-psicologico, raven, downselling-de-objetos, instant-classic-crown, doctrina-del-objeto-protegido]
 ---
 
@@ -137,7 +138,7 @@ archivo la registra así, sin corregir el dictado ni descartar el dato.
 
 ## Pendientes
 
-- [ ] Referee.
+- [x] Referee → Derek Sanders (Cageside Seats, research 2026-10-05).
 - [ ] **¿El downselling de objetos merece topic de doctrina propio?**
       — a la espera de llamado del Vehemiurgo.
 - [ ] Verificar contra video el trato del bate, para cerrar si el
