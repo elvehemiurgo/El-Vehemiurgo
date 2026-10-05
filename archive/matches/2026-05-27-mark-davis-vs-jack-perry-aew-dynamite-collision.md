@@ -5,12 +5,12 @@ participantes: ["Mark Davis", "Jack Perry"]
 empresa: "AEW"
 programa: "Dynamite & Collision"
 fecha: 2026-05-27
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Philadelphia, PA"
+recinto: "Liacouras Center"
 tipo_match: "singles"
 estipulacion: "standard [verif]"
 duracion: "[verif]"
-finish: "[verif — victoria definitiva de Mark Davis]"
+finish: "Avalanche piledriver de Mark Davis — cierra el Owen Hart Cup quarterfinal"
 ganador: "Mark Davis"
 referee: "[verif]"
 encuentros_previos: "2026-05-09 — coronación de Mark Davis, Fairway to Hell"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'estuvo cool [...] el hecho de que Mark Davis haya ganado de forma definitiva estuvo genial, me parece buen booking'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s18 (visión directa — AEW Dynamite & Collision, 27/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, eWrestling); WebFetch bloqueado por egress"
 tags: [mark-davis, jack-perry, aew-dynamite-collision-2026, singles, sin-clase, revancha, victoria-definitiva, odio-el-estilo-de-perry, davis-siempre-convence]
 ---
 
@@ -51,7 +52,9 @@ tags: [mark-davis, jack-perry, aew-dynamite-collision-2026, singles, sin-clase, 
 
 ## Pendientes
 
-- [ ] Finish exacto + duración + ciudad/recinto.
+- [x] Finish exacto + ciudad/recinto → avalanche piledriver de Mark
+      Davis, Philadelphia PA (Liacouras Center) (PWTorch, 27/5/2026).
+- [ ] Duración exacta — no reportada por las fuentes consultadas.
 
 ## Cross-links
 

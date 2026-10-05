@@ -5,22 +5,23 @@ participantes: ["Will Ospreay", "Mark Davis"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-06-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Richmond, VA"
+recinto: "Siegel Center"
 tipo_match: "singles"
 estipulacion: "standard [verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "23:16"
+finish: "Ospreay somete a Davis — 2026 Men's Owen Hart Cup Semi Final, con interferencia de Don Callis Family"
+ganador: "Will Ospreay"
 referee: "[verif]"
 encuentros_previos: "2026-04-22 — primer Perfect Match entre ambos"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit Class — 'la lucha está genial, y merece la clase de fighting spirit'. Booking alrededor de Ospreay criticado con dureza, separado de la clase."
 clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s21 (visión directa — AEW Dynamite, 3/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cageside Seats, Wrestleview); WebFetch bloqueado por egress"
 tags: [will-ospreay, mark-davis, jon-moxley, aew-dynamite-2026, singles, fighting-spirit, sidekick-de-moxley-critica-continua, peter-parker-jokes-persisten, parche-de-davis-broma, mox-tiene-a-tk-en-el-bolsillo]
 ---
 
@@ -73,7 +74,9 @@ tags: [will-ospreay, mark-davis, jon-moxley, aew-dynamite-2026, singles, fightin
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Ospreay gana por
+      sumisión (Owen Hart Cup Semi Final, con interferencia de Don
+      Callis Family), 23:16, Richmond, VA (Siegel Center).
 - [ ] [verif] contenido exacto de la broma del parche.
 
 ## Cross-links

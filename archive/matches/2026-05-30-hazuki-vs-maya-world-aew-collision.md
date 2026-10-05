@@ -5,11 +5,11 @@ participantes: ["Hazuki", "Maya World"]
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-05-30
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Huntsville, AL"
+recinto: "Von Braun Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
+duracion: "10:20"
 finish: "[verif — victoria de Maya World, amenaza a la campeona del CMLL]"
 ganador: "Maya World"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'estuvo genial', elogio fuerte sin invocar vocabulario de clase"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s19 (visión directa — AEW Collision, 30/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., cageside/smarkoutmoment); WebFetch bloqueado por egress"
 tags: [hazuki, maya-world, aew-collision-2026, singles, sin-clase, rookie-del-momento, owen-hart-tournament, sueño-hecho-realidad, persephone-comentarios]
 ---
 
@@ -66,8 +67,16 @@ tags: [hazuki, maya-world, aew-collision-2026, singles, sin-clase, rookie-del-mo
 
 ## Pendientes
 
-- [ ] Finish exacto + duración + ciudad/recinto.
+- [x] Duración + ciudad/recinto → 10:20, Huntsville, AL (Von Braun
+      Center) (Wrestling Inc., 30/5/2026).
+- [ ] Finish exacto — sin confirmar en las fuentes consultadas.
 - [ ] [verif] identidad de la campeona del CMLL amenazada.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra el
+      resultado como victoria de Maya World ("amenaza a la campeona
+      del CMLL"); las fuentes consultadas (Wrestling Inc., 30/5/2026)
+      registran lo contrario — "Hazuki defeated Maya World (10:20)".
+      No se reescribe el resultado; se deja constancia para
+      verificación contra video.
 
 ## Cross-links
 

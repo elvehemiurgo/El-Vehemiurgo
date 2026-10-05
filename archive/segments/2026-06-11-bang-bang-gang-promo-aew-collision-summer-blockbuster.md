@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Collision Summer Blockbuster"
 fecha: 2026-06-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Cincinnati, OH"
+recinto: "Andrew J. Brady Music Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'una promo increíble, estuvo genial, es un click muy cool, cada vez tiene más protagonismo'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s25 (visión directa — AEW Collision Summer Blockbuster, 11/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [bang-bang-gang, the-dogs, david-finlay, juice-robinson, jay-white, aew-collision-2026, promo, sin-clase, protagonismo-creciente]
 ---
 
@@ -48,6 +49,8 @@ White.
 - [ ] Línea textual + duración exacta.
 - [ ] [verif] relación exacta de nomenclatura entre "The Dogs" y
       "Bang Bang Gang" (¿mismo grupo, sub-facción?).
+- [x] Ciudad/recinto → Cincinnati, OH (Andrew J. Brady Music
+      Center).
 
 ## Cross-links
 

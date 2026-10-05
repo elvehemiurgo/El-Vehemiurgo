@@ -5,22 +5,23 @@ participantes: ["Persephone", "Hazuki"]
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-06-06
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Youngstown, OH"
+recinto: "Covelli Centre"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "12:22"
+finish: "Hazuki conecta un lung blower y remata con un rollup para la victoria, avanza a semifinales del Owen Hart Cup femenino"
+ganador: "Hazuki"
 referee: "[verif]"
 encuentros_previos: "[verif — ver también Hazuki vs Maya World, 30/5, misma órbita de booking]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'esta lucha se merece la clase de fighting spirit y de entertainment'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s23 (visión directa — AEW Collision, 6/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, F4WOnline); WebFetch bloqueado por egress"
 tags: [persephone, hazuki, mercedes-mone, aew-collision-2026, singles, fighting-spirit, wrestling-entertainment, ritmo-tranquilo-pero-emocionante, veterana-impone-respeto, revancha-mone-estirada, owen-hart-tournament-2026]
 ---
 
@@ -69,7 +70,9 @@ tags: [persephone, hazuki, mercedes-mone, aew-collision-2026, singles, fighting-
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Hazuki gana con lung
+      blower + rollup, 12:22, Youngstown, OH (Covelli Centre)
+      (Fightful, 6/6/2026).
 - [ ] Seguir el build hacia la revancha con Mercedes Moné.
 
 ## Cross-links

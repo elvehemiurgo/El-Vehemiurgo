@@ -5,12 +5,12 @@ participantes: ["Kyle Fletcher", "Konosuke Takeshita"]
 empresa: "AEW"
 programa: "Beach Break"
 fecha: 2026-07-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Clearwater Beach, FL"
+recinto: "The BayCare Sound"
 tipo_match: "singles — título en juego [verif cuál]"
 estipulacion: "título [verif]"
-duracion: "[verif]"
-finish: "Victoria limpia de Fletcher — cambio de título"
+duracion: "16:47"
+finish: "Victoria limpia de Fletcher con brainbuster en el esquinero — cambio de título"
 ganador: "Kyle Fletcher (nuevo campeón)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit, con reserva — 'estuvo muy dura, muy buenos spots [...] pero pecan de muy indies'"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s33 (visión directa — AEW Beach Break, 8/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, eWrestling); WebFetch bloqueado por egress"
 tags: [kyle-fletcher, konosuke-takeshita, aew-beach-break-2026, singles, fighting-spirit, cambio-de-titulo, don-callis-family, reserva-tecnica]
 ---
 
@@ -62,8 +63,11 @@ tags: [kyle-fletcher, konosuke-takeshita, aew-beach-break-2026, singles, fightin
 
 ## Pendientes
 
-- [ ] Confirmar qué título cambió de manos.
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Confirmar qué título cambió de manos → **AEW International
+      Championship** (POST Wrestling, 8/7/2026). No se edita el
+      campo `estipulacion`, fuera del alcance de este barrido.
+- [x] Finish + duración + ciudad/recinto → brainbuster en el
+      esquinero, 16:47, Clearwater Beach, FL (The BayCare Sound).
 
 ## Cross-links
 

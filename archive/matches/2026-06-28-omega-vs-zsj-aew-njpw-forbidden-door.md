@@ -5,22 +5,23 @@ participantes: ["Kenny Omega", "Zack Sabre Jr"]
 empresa: "AEW x NJPW"
 programa: "Forbidden Door"
 fecha: 2026-06-28
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "San Jose, CA"
+recinto: "SAP Center"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "26:30"
+finish: "Kenny Omega gana por pinfall — primer cruce entre ambos desde 2018"
+ganador: "Kenny Omega"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'la lucha estuvo genial [...] se merece la clase de fighting spirit y entertainment'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s27 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania — Hall's Review); WebFetch bloqueado por egress"
 tags: [kenny-omega, zack-sabre-jr, aew-njpw-forbidden-door-2026, singles, fighting-spirit, wrestling-entertainment, alta-panteon-47, pago-del-buildup, oro-puro]
 ---
 
@@ -62,7 +63,10 @@ tags: [kenny-omega, zack-sabre-jr, aew-njpw-forbidden-door-2026, singles, fighti
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Omega gana por pinfall,
+      26:30, San Jose, CA (SAP Center) (411mania, 28/6/2026). El
+      movimiento exacto del finish no está especificado en las
+      fuentes consultadas.
 
 ## Cross-links
 

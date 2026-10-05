@@ -9,8 +9,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-06-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Sugar Land, TX"
+recinto: "Smart Financial Centre at Sugar Land"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'es un sueño hecho realidad este booking', pero con reservas: Jack Perry de por medio y las promos de Omega leídas como 'siempre mid'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 (visión directa — AEW Dynamite, 17/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (TheSportster, Wrestleview); WebFetch bloqueado por egress"
 tags: [zack-sabre-jr, kenny-omega, jack-perry, aew-dynamite-2026, angle, sin-clase, forbidden-door-2026, zsj-propia-faccion, no-dejaron-hablar-a-zsj, omega-promos-mid, critica-jack-perry]
 ---
 
@@ -62,6 +63,8 @@ tags: [zack-sabre-jr, kenny-omega, jack-perry, aew-dynamite-2026, angle, sin-cla
 
 - [ ] Línea textual + contenido exacto del segmento.
 - [ ] Duración + ubicación en el show.
+- [x] Ciudad/recinto → Sugar Land, TX (Smart Financial Centre at
+      Sugar Land).
 - [ ] Seguir el build hasta Forbidden Door.
 
 ## Cross-links

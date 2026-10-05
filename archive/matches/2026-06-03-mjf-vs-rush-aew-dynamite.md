@@ -5,22 +5,23 @@ participantes: ["MJF", "Rush"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-06-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Richmond, VA"
+recinto: "Siegel Center"
 tipo_match: "singles"
 estipulacion: "[verif — título en juego]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "18:32"
+finish: "No Count Out Match — MJF retiene al someter a Rush (brazo lesionado) hasta el desmayo"
+ganador: "MJF (retiene)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece las 3 clases — 'esta lucha se merece las 3 clases, el booking estuvo muy bueno'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s20 (visión directa — AEW Dynamite, 3/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cageside Seats, Wrestleview, Fightful); WebFetch bloqueado por egress"
 tags: [mjf, rush, aew-dynamite-2026, singles, perfect-match, fighting-spirit, wrestling-entertainment, matador-gimmick, contraste-lucha-libre-vs-hollywood, guerra-de-arena-mexicana, catedra-de-mjf]
 ---
 
@@ -73,7 +74,12 @@ tags: [mjf, rush, aew-dynamite-2026, singles, perfect-match, fighting-spirit, wr
 
 ## Pendientes
 
-- [ ] [verif] título en juego + finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → No Count Out Match, MJF
+      retiene el AEW World Championship sometiendo a Rush hasta el
+      desmayo, 18:32, Richmond, VA (Siegel Center) (Cageside Seats /
+      Wrestleview, 3/6/2026).
+- [x] Título en juego → AEW World Championship (no se edita el
+      campo `estipulacion`, fuera del alcance de este barrido).
 
 ## Cross-links
 

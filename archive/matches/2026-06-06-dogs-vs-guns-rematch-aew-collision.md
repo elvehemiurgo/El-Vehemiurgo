@@ -5,8 +5,8 @@ participantes: ["The Dogs (con David Finlay, Juice Robinson [verif])", "The Guns
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-06-06
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Youngstown, OH"
+recinto: "Covelli Centre"
 tipo_match: "tag team"
 estipulacion: "standard"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece las 3 clases — 'esta lucha se merece las 3 clases, aunque estuvo sencilla, es sencilla en el buen sentido'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s22 (visión directa — AEW Collision, 6/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (eWrestling, smarkoutmoment); WebFetch bloqueado por egress"
 tags: [the-dogs, the-guns, clark-connors, juice-robinson, david-finlay, aew-collision-2026, tag-team, perfect-match, fighting-spirit, wrestling-entertainment, rematch-muy-esperado, sencilla-en-el-buen-sentido, queja-de-programacion-no-dynamite]
 ---
 
@@ -66,7 +67,18 @@ tags: [the-dogs, the-guns, clark-connors, juice-robinson, david-finlay, aew-coll
 ## Pendientes
 
 - [ ] Confirmar integrantes exactos de ambos equipos.
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Ciudad/recinto → Youngstown, OH (Covelli Centre) (eWrestling,
+      6/6/2026).
+- [ ] Finish + duración — sin confirmar por la discrepancia de abajo.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra un
+      rematch de equipos The Dogs vs The Guns; las fuentes
+      consultadas (Fightful/Wrestling Inc/smarkoutmoment,
+      6/6/2026) no registran ese tag match en la card del 6/6 —
+      registran en cambio un singles: **Clark Connors (The Guns)
+      derrotó a Juice Robinson (The Dogs) en 13:10**, con Finlay
+      interfiriendo con el shillelagh para el spear de Connors. No
+      se reescribe el resultado de la ficha; se deja constancia
+      para verificación contra video.
 
 ## Cross-links
 

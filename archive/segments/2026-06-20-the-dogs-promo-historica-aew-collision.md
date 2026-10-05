@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-06-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Sugar Land, TX"
+recinto: "Smart Financial Centre at Sugar Land"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'esta promo se merece el entertainment class, porque me parece histórico para la carrera de The Dogs'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s26 (visión directa — AEW Collision, 20/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [the-dogs, david-finlay, aew-collision-2026, promo, wrestling-entertainment, finlay-es-una-estrella, momento-historico, critica-quirurgica-cierre-de-promo]
 ---
 
@@ -63,6 +64,8 @@ tags: [the-dogs, david-finlay, aew-collision-2026, promo, wrestling-entertainmen
 - [ ] Línea textual completa.
 - [ ] [verif] confirmar quién exactamente compartió la promo con
       Finlay (¿Juice Robinson?).
+- [x] Ciudad/recinto → Sugar Land, TX (Smart Financial Centre at
+      Sugar Land).
 
 ## Cross-links
 

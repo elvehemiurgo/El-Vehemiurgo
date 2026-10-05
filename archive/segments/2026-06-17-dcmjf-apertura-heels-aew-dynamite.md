@@ -9,8 +9,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-06-17
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Sugar Land, TX"
+recinto: "Smart Financial Centre at Sugar Land"
 ubicacion_en_show: "Apertura del show"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'este segmento se merece el entertainment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s25 (visión directa — AEW Dynamite, 17/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (TheSportster, Wrestleview); WebFetch bloqueado por egress"
 tags: [mjf, don-callis, andrade, aew-dynamite-2026, promo, wrestling-entertainment, todos-los-heels, andrade-ingles-atropellado-pero-navegando, dcmjf]
 ---
 
@@ -60,9 +61,14 @@ tags: [mjf, don-callis, andrade, aew-dynamite-2026, promo, wrestling-entertainme
 
 ## Pendientes
 
-- [ ] [verif] integrantes exactos de "DCMJF" (¿Kevin Knight? ¿Kyle
-      Fletcher?).
+- [x] Integrantes exactos de "DCMJF" → confirmados por el 12-man
+      tag del mismo show (TheSportster/Wrestleview, 17/6/2026):
+      MJF, Kevin Knight, Kyle Fletcher, Jake Doyle, Kazuchika Okada
+      y Andrade El Ídolo (vs Mark Briscoe, Orange Cassidy, Roderick
+      Strong, Kyle O'Reilly, Konosuke Takeshita y Darby Allin).
 - [ ] Línea textual + duración exacta.
+- [x] Ciudad/recinto → Sugar Land, TX (Smart Financial Centre at
+      Sugar Land).
 
 ## Cross-links
 

@@ -5,22 +5,23 @@ participantes: ["Thekla", "Starlight Kid"]
 empresa: "AEW x NJPW"
 programa: "Forbidden Door"
 fecha: 2026-06-28
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "San Jose, CA"
+recinto: "SAP Center"
 tipo_match: "singles"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+estipulacion: "AEW Women's World Championship"
+duracion: "18:45"
+finish: "Thekla (c) gana con dos stomps — retiene el AEW Women's World Championship"
+ganador: "Thekla (retiene)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'esta lucha [...] se merece todas las clases, top tier wrestling'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s28 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., TheSportster); WebFetch bloqueado por egress"
 tags: [thekla, starlight-kid, aew-njpw-forbidden-door-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, stardom-vs-aew, joshi-tropes, ppv-pacing, doctrina-womens-wrestling]
 ---
 
@@ -69,7 +70,9 @@ tags: [thekla, starlight-kid, aew-njpw-forbidden-door-2026, singles, perfect-wre
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Thekla retiene con dos
+      stomps, 18:45, San Jose, CA (SAP Center) (Wrestling Inc.,
+      28/6/2026).
 
 ## Cross-links
 

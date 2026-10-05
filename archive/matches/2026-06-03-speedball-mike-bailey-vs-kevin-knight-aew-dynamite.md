@@ -5,22 +5,23 @@ participantes: ["Speedball Mike Bailey", "Kevin Knight"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-06-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Richmond, VA"
+recinto: "Siegel Center"
 tipo_match: "singles"
 estipulacion: "[verif — título TNT en juego, verif poseedor exacto]"
-duracion: "[verif]"
+duracion: "13:15"
 finish: "Sky high desde el esquinero — descrito como caída peligrosa"
-ganador: "[verif]"
+ganador: "Kevin Knight (c) — retiene el AEW TNT Championship, con asistencia de Callis y Jake Doyle"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece las 3 clases — 'hicieron todo excelente'. Reserva de seguridad sobre el finish (sky high desde el esquinero, 'horrible', 'peligrosísima')."
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s20 (visión directa — AEW Dynamite, 3/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cageside Seats, Wrestleview); WebFetch bloqueado por egress"
 tags: [speedball-mike-bailey, kevin-knight, aew-dynamite-2026, singles, perfect-match, fighting-spirit, wrestling-entertainment, sky-high-peligroso, cross-link-lesion-christian-jericho-2004, promo-video-buenisimo, kevin-knight-heel-turn-don-callis-family, campeon-tnt-verif]
 ---
 
@@ -76,9 +77,11 @@ tags: [speedball-mike-bailey, kevin-knight, aew-dynamite-2026, singles, perfect-
 
 ## Pendientes
 
-- [ ] [verif] identidad exacta del campeón TNT mencionado.
-- [ ] Finish exacto (más allá del sky high) + duración +
-      ciudad/recinto.
+- [x] Identidad exacta del campeón TNT → **Kevin Knight**, retiene
+      el título en este match (Cageside Seats, 3/6/2026).
+- [x] Duración + ciudad/recinto → 13:15, Richmond, VA (Siegel
+      Center). El finish exacto más allá del sky high (asistencia
+      de Callis/Doyle) ya está en `ganador`.
 
 ## Cross-links
 

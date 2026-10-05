@@ -5,22 +5,23 @@ participantes: ["The Dogs", "Christian Cage", "Edge"]
 empresa: "AEW x NJPW"
 programa: "Forbidden Door"
 fecha: 2026-06-28
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "San Jose, CA"
+recinto: "SAP Center"
 tipo_match: "tag team"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+estipulacion: "AEW World Tag Team Championship"
+duracion: "16:45"
+finish: "Jay White regresa e interfiere con un Blade Runner sobre Finlay; Copeland remata con un Spear — Cope & Cage retienen"
+ganador: "Christian Cage & Adam Copeland (retienen)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase declarada — elogio fuerte de booking y ejecución: 'estuvo igual de buena, como todas las luchas de Christian, estuvo muy bien construida'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s29 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., POST Wrestling, Fightful); WebFetch bloqueado por egress"
 tags: [the-dogs, christian-cage, edge, cope-cage, aew-njpw-forbidden-door-2026, tag-team, bullet-club-nostalgia, veteranos-campeones, sin-clase-booking-elogiado]
 ---
 
@@ -66,7 +67,10 @@ tags: [the-dogs, christian-cage, edge, cope-cage, aew-njpw-forbidden-door-2026, 
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Cope & Cage retienen
+      tras el regreso de Jay White (Blade Runner + Spear), 16:45,
+      San Jose, CA (SAP Center) (Wrestling Inc./POST Wrestling,
+      28/6/2026).
 
 ## Cross-links
 

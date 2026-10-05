@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-06-06
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Youngstown, OH"
+recinto: "Covelli Centre"
 ubicacion_en_show: "Post-match, tras el rematch vs The Guns"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'una muy buena, se merece la clase de entertainer'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s22 (visión directa — AEW Collision, 6/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (eWrestling, Fightful); WebFetch bloqueado por egress"
 tags: [the-dogs, aew-collision-2026, promo, wrestling-entertainment, todo-se-esta-armando-bien, multiples-frentes-cocinandose]
 ---
 
@@ -50,6 +51,12 @@ abiertos.
 ## Pendientes
 
 - [ ] Línea textual + duración exacta.
+- [x] Ciudad/recinto → Youngstown, OH (Covelli Centre).
+- [ ] **Discrepancia (research 2026-10-05)**: este segmento se
+      ubica "post-match, tras el rematch vs The Guns"; las fuentes
+      consultadas no registran ese rematch como tag team en la
+      card del 6/6 (ver la discrepancia anotada en
+      [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)).
 
 ## Cross-links
 

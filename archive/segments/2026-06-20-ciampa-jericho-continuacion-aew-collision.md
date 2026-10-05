@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-06-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Sugar Land, TX"
+recinto: "Smart Financial Centre at Sugar Land"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'un gran segmento, muy bueno [...] es un gran programa para estos dos'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s26 (visión directa — AEW Collision, 20/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [ciampa, chris-jericho, aew-collision-2026, promo, sin-clase, gran-programa, continuacion-del-feud]
 ---
 
@@ -46,6 +47,11 @@ Vehemiurgo sobre Ciampa) — el feud sostiene calidad sin declive.
 ## Pendientes
 
 - [ ] Línea textual de ambas piezas + duración.
+- [x] Ciudad/recinto → Sugar Land, TX (Smart Financial Centre at
+      Sugar Land). Contexto confirmado: Ciampa reta a Jericho a un
+      match en Beach Break, Jericho acepta (Wrestling Inc.,
+      20/6/2026) — paga en
+      [`../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md`](../matches/2026-07-08-ciampa-vs-jericho-aew-beach-break.md).
 
 ## Cross-links
 

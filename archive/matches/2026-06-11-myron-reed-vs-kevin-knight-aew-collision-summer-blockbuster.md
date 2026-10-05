@@ -5,22 +5,23 @@ participantes: ["Myron Reed", "Kevin Knight"]
 empresa: "AEW"
 programa: "Collision Summer Blockbuster"
 fecha: 2026-06-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Cincinnati, OH"
+recinto: "Andrew J. Brady Music Center"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: "[verif]"
+duracion: "13:15"
 finish: "[verif]"
-ganador: "[verif]"
+ganador: "Kevin Knight (c) — retiene el AEW TNT Championship"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece todas las clases (mensaje del Vehemiurgo cortado, sin desarrollo adicional todavía)"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s24 (visión directa — AEW Collision Summer Blockbuster, 11/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (411mania, Fightful, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [myron-reed, kevin-knight, aew-collision-2026, singles, perfect-match, fighting-spirit, wrestling-entertainment, mensaje-inconcluso, kevin-knight-heel-consolidado]
 ---
 
@@ -46,7 +47,10 @@ adicional; si retoma el tema en una sesión futura, se actualiza.
 ## Pendientes
 
 - [ ] [verif] resto del take del Vehemiurgo — mensaje cortado.
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Ganador + duración + ciudad/recinto → Kevin Knight retiene el
+      AEW TNT Championship, 13:15, Cincinnati, OH (Andrew J. Brady
+      Music Center) (411mania/Fightful, 11-13/6/2026).
+- [ ] Finish exacto — sin confirmar en las fuentes consultadas.
 
 ## Cross-links
 
