@@ -9,8 +9,8 @@ protagonistas:
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-05
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "College Park, Georgia"
+recinto: "Gateway Center Arena"
 ubicacion_en_show: "in-ring promo segment, primera mitad"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buen ejercicio rudo para M en mic — promo mejor que la de Ash, más corta. M + Heather entertainers reales."
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #11 (visión directa — segmento in-ring 5 mar + cross-link Ash 26 feb)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (fightful.com, slamwrestling.net, pwtorch.com); WebFetch bloqueado por egress"
 tags: [m-by-elegance, heather-by-elegance, odb-return-tna-2026, mic-work-elegance-brand, m-debe-cortar-promos-leadership-mic, ash-no-fuerte-en-mic-proteger, heather-m-entertainers-reales, the-future-in-2026-numero-1-update, cluster-tna-elegance-evolucion]
 ---
 

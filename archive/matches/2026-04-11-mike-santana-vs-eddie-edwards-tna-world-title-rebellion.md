@@ -12,7 +12,7 @@ estipulacion: "TNA World Championship — cobrado con el maletin Feast or Fired 
 duracion: "19:25"
 finish: "Tras el spear de Moose sobre Edwards (kickout), el Rolling Cutter de Santana sobre Cedric Alexander (run-in) y un Boston Knee Party de Edwards (conteo de dos), Santana conecta dos Spin the Block consecutivos y cubre"
 ganador: "Mike Santana — retiene"
-referee: "[verif]"
+referee: "Alice Lane"
 attendance_anunciada: "2.969 [1 fuente, sin especificar paid o announced]"
 attendance_pagada: ""
 gate: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Eddie es una serpiente como CM Punk, un verdadero wrestler, muy oldschool, feeling de dojo violento; armaron una gran lucha, muy emocionante; se merecia las 3 clases pero el final enredado salio mal, la revelacion de Alisha no era emocionante ni creible y resto a la lucha, la intervencion de Cedric fue mas efectiva; se merece una WE y FS classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s40 (vision directa - TNA Rebellion, 11/4/2026)"
   - "Sub-agente research-tna-impact-090426-rebellion-110426 (research 2026-08-01, closed) - Fightful, Cageside Seats, POST Wrestling, PWTorch, Pro Wrestling Dot Net"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Pro Wrestling Dot Net, Wikipedia); WebFetch bloqueado por egress"
 tags: [tna-2026, rebellion, mike-santana, eddie-edwards, the-system, moose, alisha-edwards, cedric-alexander, tna-world-championship, american-wolves, eyfbo, boston-vs-nueva-york, fighting-spirit, wrestling-entertainment]
 ---
 
@@ -144,11 +145,18 @@ explícitas, con reserva por el final.**
 
 ## Pendientes / huecos
 
-- [ ] Réferi.
+- [x] Réferi → Alice Lane (nombre de ring de Katie Reynolds), confirmada
+      por Pro Wrestling Dot Net quitándole la muleta a Alisha para
+      Edwards y deteniendo el conteo tras el spear de Moose.
 - [ ] Verificar contra video el spot del brazo de Santana contra el
       poste.
 - [ ] Confirmar los "irish whips" señalados por el Vehemiurgo como
       "vicios de esta era" — sin detalle específico en las fuentes.
+- [ ] **Discrepancia (research 2026-10-05)**: ficha registra
+      `attendance_anunciada` 2.969 [1 fuente] para Rebellion 2026 vs
+      Wikipedia, que reporta 3.929 pagados; otra base de datos (profightdb)
+      coincide en 2.969. Dos fuentes contra una, sin resolver cuál es la
+      correcta.
 
 ## Piezas relacionadas
 

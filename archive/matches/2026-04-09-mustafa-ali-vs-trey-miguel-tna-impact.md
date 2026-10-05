@@ -5,8 +5,8 @@ participantes: ["Mustafa Ali", "Trey Miguel"]
 empresa: "TNA Wrestling"
 programa: "iMPACT!"
 fecha: 2026-04-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "New Orleans / Westwego, Louisiana"
+recinto: "Alario Center"
 tipo_match: "singles [verif]"
 estipulacion: "[verif]"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Ali brillante como siempre; Trey genial como babyface — sin clase declarada"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-11 s04 (visión directa — TNA Impact 9/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — ciudad/recinto por cruce con ficha ya investigada 2026-04-09-hardys-vs-righteous-tna-impact.md (research 2026-08-01: Wrestling Inc, PWTorch, TNA Wrestling oficial, Fightful), mismo taping; formato/ganador/finish/referee/duración sin cobertura — presupuesto de WebSearch de la sesión agotado antes de poder buscarlos; WebFetch bloqueado por egress"
 tags: [mustafa-ali, trey-miguel, order-4, tna-impact-2026, sin-clase, programa-muy-bueno, trey-babyface-maduro, go-home-rebellion]
 ---
 

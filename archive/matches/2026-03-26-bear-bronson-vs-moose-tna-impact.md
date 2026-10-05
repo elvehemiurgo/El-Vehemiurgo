@@ -5,22 +5,23 @@ participantes: ["Bear Bronson", "Moose"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Atlanta, Georgia"
+recinto: "Gateway Center Arena"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "13:08"
+finish: "Moose conecta un Spear sobre Bronson para el pin, tras un brawl físico de big men dentro y fuera del ring; ex compañeros de NFL de Moose en primera fila bloquean la interferencia de The System"
+ganador: "Moose"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit. Conectado directo al Myers vs Jeff Hardy del mismo show — booking entrelazado. Promos post-match geniales"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #19 (visión directa — FS class + booking entrelazado)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (ewrestling.com, rajah.com, wrestlinginc.com, postwrestling.com); WebFetch bloqueado por egress"
 tags: [bear-bronson, moose, the-system, tna-impact-26-mar-2026, fighting-spirit, booking-entrelazado-myers-jeff-hardy, big-men-hardcore, promos-post-match-geniales, cluster-the-system-vs-hardys-moose]
 ---
 
@@ -69,8 +70,8 @@ Este match + el Myers vs Jeff Hardy = **cross-booking doble** del
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto + ciudad.
+- [x] Finish exacto + duración → Moose gana con Spear sobre Bronson en 13:08 (WebSearch: wrestlinginc.com, postwrestling.com, 26-mar-2026).
+- [x] Recinto + ciudad → Gateway Center Arena, Atlanta, Georgia (WebSearch: ewrestling.com, rajah.com).
 - [ ] Contenido de las promos post-match.
 - [ ] Confirmar identidad Bear Bronson (ex-Bear Country con Bear
       Boulder).

@@ -9,8 +9,8 @@ protagonistas:
 empresa: "TNA Wrestling"
 programa: "iMPACT!"
 fecha: 2026-04-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "New Orleans / Westwego, Louisiana"
+recinto: "Alario Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy cool, buena TV — sin clase declarada (elogio de booking/character, no invoca vocabulario de clases)"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-11 s01 (visión directa — TNA Impact 2/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful, Slam Wrestling; ciudad/recinto por el mismo taping del show); WebFetch bloqueado por egress"
 tags: [mike-santana, arianna-grace, stacks, tna-impact-2026, backstage, sin-clase, rub-campeon-mundial-titulo-secundario, self-aware-tv, entertainer-transciende, roba-protagonismo-kos]
 ---
 

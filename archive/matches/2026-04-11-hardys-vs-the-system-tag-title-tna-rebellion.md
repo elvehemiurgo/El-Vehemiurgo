@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Setup perfecto para The System como heels; muy buen booking para los Hardys como leyendas vivientes usandolos de plataforma para la division tag; Bronson aprendiendo y vendiendo con puros profesionales; es buen heat hacerle pin a Jeff; se merecen una WE y FS classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s40 (vision directa - TNA Rebellion, 11/4/2026)"
   - "Sub-agente research-tna-impact-090426-rebellion-110426 (research 2026-08-01, closed) - Fightful, Cageside Seats, Last Word on Pro Wrestling, PWTorch, Pro Wrestling Dot Net"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, PWTorch, Yardbarker); WebFetch bloqueado por egress"
 tags: [tna-2026, rebellion, matt-hardy, jeff-hardy, brian-myers, bear-bronson, the-system, tag-team-championship, cambio-de-titulo, proyecto-bear-bronson, hardys-plataforma, fighting-spirit, wrestling-entertainment]
 ---
 
@@ -99,8 +100,13 @@ explícitas.**
 
 - [ ] Verificar contra video el tramo Jeff/Bronson (¿aguante o quiebre
       de Myers?).
-- [ ] Réferi.
+- [ ] Réferi — no confirmado por ninguna fuente de prensa consultada.
 - [ ] Confirmar el detalle del brazo lesionado de Jeff — 1 fuente.
+- [ ] **Discrepancia (research 2026-10-05)**: ficha registra
+      `attendance_anunciada` 2.969 [1 fuente] para Rebellion 2026 vs
+      Wikipedia, que reporta 3.929 pagados; otra base de datos (profightdb)
+      coincide en 2.969. Dos fuentes contra una, sin resolver cuál es la
+      correcta.
 
 ## Piezas relacionadas
 

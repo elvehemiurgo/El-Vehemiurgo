@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "EY corta una promo muy oldschool muy genial, elevando a EC3; buena idea setearlo con EY que hablo de Dixie y todo el gimmick EC3; Ethan fuera de TNA es raro y cringe, pero EC3 es cool, es historico, es trouble trouble trouble; se merecen una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s40 (vision directa - TNA Rebellion, 11/4/2026)"
   - "Sub-agente research-tna-impact-090426-rebellion-110426 (research 2026-08-01, closed) - POST Wrestling, PWTorch, Cageside Seats, Ringside News, Last Word on Pro Wrestling"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cageside Seats, Last Word on Pro Wrestling, Wikipedia); WebFetch bloqueado por egress"
 tags: [tna-2026, rebellion, eric-young, ec3, dixie-carter, regreso, gimmick-en-su-contexto, cleveland, wrestling-entertainment]
 ---
 
@@ -91,6 +92,13 @@ tags: [tna-2026, rebellion, eric-young, ec3, dixie-carter, regreso, gimmick-en-s
 - [ ] Confirmar todos los verbatims contra audio/video (los
       disponibles son live reports tecleados en vivo).
 - [ ] Número exacto de reinados mundiales de EC3 en TNA.
+- [ ] Duración exacta del segmento — ninguna fuente de prensa consultada
+      reporta timestamp.
+- [ ] **Discrepancia (research 2026-10-05)**: ficha registra
+      `attendance_anunciada` 2.969 [1 fuente] para Rebellion 2026 vs
+      Wikipedia, que reporta 3.929 pagados; otra base de datos (profightdb)
+      coincide en 2.969. Dos fuentes contra una, sin resolver cuál es la
+      correcta.
 
 ## Piezas relacionadas
 

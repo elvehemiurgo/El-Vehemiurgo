@@ -9,7 +9,7 @@ ciudad: "Voorhees, New Jersey"
 recinto: "Flyers Skate Zone"
 tipo_match: "tornado 6-man tag"
 estipulacion: "sin título en juego (iPPV)"
-duracion: "[verif]"
+duracion: "13:07"
 finish: "[verif — visto en video]"
 ganador: "Scarlet & Graves + Trey Miguel"
 referee: "[verif]"
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Increíble, el standard de luchas que ponían, se robaban el show cada noche; mentores contra jóvenes promesas, este pase de antorcha es el que da nombre al evento y es la evilution de CZW; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s25 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Evilution)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch.net); WebFetch bloqueado por egress"
 tags: [czw-2017, evilution, scarlet-and-graves, dezmond-xavier, zachary-wentz, trey-miguel, oi4k, ove, dave-crist, jake-crist, sami-callihan, pase-de-antorcha, perfect-match, vehemiurgia-czw]
 ---
 
@@ -77,7 +78,8 @@ tags: [czw-2017, evilution, scarlet-and-graves, dezmond-xavier, zachary-wentz, t
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Duración → 13:07 (cagematch.net)
+- [ ] Finish exacto.
 
 ## Piezas relacionadas
 

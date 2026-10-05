@@ -5,22 +5,23 @@ participantes: ["Brian Myers", "Jeff Hardy"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Atlanta, Georgia"
+recinto: "Gateway Center Arena"
 tipo_match: "singles"
 estipulacion: "standard"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Jeff Hardy (con Matt Hardy) conecta Twist of Fate y remata con Swanton Bomb para el pin sobre Myers"
+ganador: "Jeff Hardy"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit. Continuación del booking Myers/Moose/System — conecta directo a Bear vs Moose. Promos post-match geniales"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #19 (visión directa — FS class + booking que conecta a Bear vs Moose)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (ewrestling.com, rajah.com, tnawrestling.com); WebFetch bloqueado por egress"
 tags: [brian-myers, jeff-hardy, the-system, the-hardys, tna-impact-26-mar-2026, fighting-spirit, booking-conecta-bear-vs-moose, promos-post-match-geniales, cluster-the-system-vs-hardys-moose]
 ---
 
@@ -88,9 +89,10 @@ post-match geniales**. **FS class**.
 
 ## Pendientes
 
-- [ ] Finish exacto + duración de ambos matches.
+- [x] Finish exacto (este match) → Jeff Hardy gana con Twist of Fate + Swanton Bomb (WebSearch: ewrestling.com, rajah.com, 26-mar-2026).
+- [ ] Duración exacta de este match (no reportada en las fuentes consultadas; la de Bear Bronson vs Moose sí quedó confirmada: 13:08, ver esa ficha).
 - [ ] Contenido de las promos post-match.
-- [ ] Recinto + ciudad.
+- [x] Recinto + ciudad → Gateway Center Arena, Atlanta, Georgia (WebSearch: ewrestling.com, rajah.com).
 - [ ] Tracking del arc post-26/3 (¿tag match The System vs
       Hardys+Moose? ¿face turn Moose?).
 

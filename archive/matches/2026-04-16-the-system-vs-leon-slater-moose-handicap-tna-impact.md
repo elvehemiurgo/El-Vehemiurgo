@@ -9,7 +9,7 @@ ciudad: "Syracuse, Nueva York"
 recinto: "Upstate Medical University Arena"
 tipo_match: "handicap match (4-on-2)"
 estipulacion: "The System completo vs Leon Slater & Moose"
-duracion: "[verif]"
+duracion: "7:08 [1 fuente]"
 finish: "Slater conecta un Handspring Double Back Elbow sobre Bronson y Myers, choca con Edwards vía crossbody, Edwards lo baja con Blue Thunderbomb, Myers agrega un elbow drop, Alexander suma un frog splash — Cedric Alexander cierra contrando un roll-up de Slater con un Lumbar Check para el pinfall"
 ganador: "The System (Edwards, Myers, Bronson & Alexander)"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "El booking es bueno para Lion y Moose con The System; la accion estuvo genial, muy pros; se merece las 3 clases, Myers y toda su estrategia se vio genial, le dieron buenos momentos a Bear, su quimica con Moose es muy buena; Lion Slater con el hot tag simplemente increible; la secuencia final con Cedric les salio perfecta, deja muy over a Cedric"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s44 (visión directa — TNA iMPACT!, 16/4/2026)"
   - "Sub-agente research-tna-impact-160426-parte2 (research 2026-08-01, closed) — Pro Wrestling Dot Net, Fightful, Wikipedia"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch); WebFetch bloqueado por egress"
 tags: [tna-2026, impact, the-system, eddie-edwards, brian-myers, bear-bronson, cedric-alexander, leon-slater, moose, handicap-match, perfect-match, roh-genealogia, main-event]
 ---
 
@@ -111,9 +112,10 @@ tags: [tna-2026, impact, the-system, eddie-edwards, brian-myers, bear-bronson, c
 
 ## Pendientes / huecos
 
-- [ ] Duración exacta — no reportada con timestamp preciso en las
-      fuentes disponibles.
-- [ ] Réferi.
+- [x] Duración exacta — no reportada con timestamp preciso en las
+      fuentes disponibles → 7:08, reportada por PWTorch (recap del
+      5/7/2026 que referencia el resultado del 4/16) [1 fuente].
+- [ ] Réferi — no confirmado por ninguna fuente de prensa consultada.
 - [ ] Confirmar líneas textuales contra video.
 
 ## Piezas relacionadas

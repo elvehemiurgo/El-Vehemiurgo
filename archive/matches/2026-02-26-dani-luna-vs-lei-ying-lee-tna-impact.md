@@ -5,22 +5,23 @@ participantes: ["Dani Luna", "Lei Ying Lee"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-02-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Nashville, Tennessee, USA"
+recinto: "The Pinnacle"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "10:16"
+finish: "Pinfall — Dani Luna estrella a Lei Ying Lee contra el esquinero (con cadena envuelta) y conecta 'Luna Landing' para la cuenta."
+ganador: "Dani Luna"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lucha genial con limitaciones — momentos brillantes de ambas. Sin clase declarada (lectura crítica con matiz, no Perfect Match)"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #9 (visión directa — análisis individual de cada wrestler)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, ewrestling.com, wrestlingheadlines.com); WebFetch bloqueado por egress"
 tags: [dani-luna, lei-ying-lee, ex-xia-li-verif, tna-impact-26-feb-2026, mismo-show-slater-santana-nemeths, knockouts-division, take-matizado-no-perfect-match, lectura-individual-doble]
 ---
 
@@ -87,8 +88,13 @@ más en **lectura individual de cada talent**:
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto.
+- [x] Finish exacto + duración. → **Dani Luna gana en 10:16**: estrella
+      a Lee contra el esquinero con cadena envuelta y conecta la
+      *Luna Landing* (PWTorch, 2/26/2026).
+- [x] Recinto. → **The Pinnacle**, Nashville, TN — mismo recinto que
+      el resto de tapings TNA Impact de esta etapa (eWrestling
+      confirma "Nashville, TN" para el show del 26/2).
+- [ ] Referee — no reportado en coverage disponible.
 - [ ] Card completa (mismo show del Perfect Match Slater & Santana
       vs Nemeths + segment Mickie James si aplica).
 - [ ] Apertura matches del cluster Dani Luna 2025-2026 (5 entradas

@@ -12,16 +12,17 @@ estipulacion: "CZW World Heavyweight Championship"
 duracion: "18:55 [verif — fuente única, coincide entre dos búsquedas]"
 finish: "Sumisión de Gulak"
 ganador: "Drew Gulak — retiene"
-referee: "[verif]"
+referee: "Kris Levin [verif — snippet IMDb, único réferi listado en el cast de la taping]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "figuras polémicas, pero si lo mantienen real, buena competencia buenas llaves, y creo que Dickinson es todo lo que Moxley cree que es en su cabeza, de hecho si es badass y creible y aqui se complementan muy bien con Gulak, los spots de sand bagging estuvieron cool, si vendieron muy bien, se merecen las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-09 s64 (VISIONADO DIRECTO con timestamps — 2013 09 14 CZW Down with the Sickness, cierre)"
   - "Sub-agente research-czw-dwts-cont-cerebral (research 2026-09-09) — WebSearch; WebFetch bloqueado por egress: Cagematch, Fandom, Wrestleview"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (IMDb); WebFetch bloqueado por egress"
 tags: [czw-2013, down-with-the-sickness, voorhees, chris-dickinson, drew-gulak, world-heavyweight-championship, sandbagging, jon-moxley-comparacion, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Chris Dickinson vs Drew Gulak — World Heavyweight Championship (2013 09 14 CZW Down with the Sickness)

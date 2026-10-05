@@ -9,7 +9,7 @@ ciudad: "Westwego, Louisiana (metro New Orleans)"
 recinto: "Alario Center"
 tipo_match: "tag team"
 estipulacion: "standard"
-duracion: "[verif]"
+duracion: "8:42"
 finish: "Distracción (Matt Hardy ensangrentado en el titantron, Dutch parado sobre él) → Roster Cut (Myers) + Lumbar Check (Alexander) sobre Jeff"
 ganador: "The System (Myers & Alexander)"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena lucha — todas las clases. Otra masterpiece de Myers y los Hardys"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: verificado
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02 (visión directa — TNA Sacrifice)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wrestlinginc.com, solowrestling.com); WebFetch bloqueado por egress"
 tags: [brian-myers, cedric-alexander, jeff-hardy, vincent, the-righteous, the-system, tna-sacrifice-2026, tag-team, perfect-match, fighting-spirit, wrestling-entertainment, masterpiece-myers-hardys, cedric-alineado-con-the-system-confirmado, angulo-matt-hardy-titantron]
 ---
 
@@ -82,7 +83,8 @@ tags: [brian-myers, cedric-alexander, jeff-hardy, vincent, the-righteous, the-sy
 
 ## Pendientes
 
-- [ ] Duración + referee.
+- [x] Duración → 8:42 (WebSearch: wrestlinginc.com, solowrestling.com, 27-mar-2026).
+- [ ] Referee (no confirmado).
 - [ ] Estatus formal de Cedric en The System (¿miembro pleno?).
 - [ ] Kayfabe del ataque de Dutch a Matt (¿por qué? ¿programa
       Righteous/Hardys paralelo?).

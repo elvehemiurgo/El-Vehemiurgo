@@ -9,8 +9,8 @@ ciudad: "Westwego, Louisiana (metro New Orleans)"
 recinto: "Alario Center"
 tipo_match: "singles"
 estipulacion: "[verif — probable defensa del título de Slater]"
-duracion: "[verif]"
-finish: "[verif]"
+duracion: "15:16"
+finish: "Slater contrarresta a Eric Young, conecta un Styles Clash y remata con Swanton 450 desde la esquina para el pin"
 ganador: "Leon Slater (retiene el X Division Championship)"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lucha espectacular — todas las clases (declarado explícito)"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: verificado
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 (visión directa — TNA Sacrifice)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (f4wonline.com, fightful.com); WebFetch bloqueado por egress"
 tags: [eric-young, leon-slater, tna-sacrifice-2026, perfect-match, fighting-spirit, wrestling-entertainment, veterano-vs-presente, arbol-aprendizaje-en-accion, tercer-perfect-match-slater]
 ---
 
@@ -68,9 +69,16 @@ Vehemiurgo, *"lucha espectacular"* dentro de un Sacrifice
 
 ## Pendientes
 
-- [ ] Título en juego + finish + duración.
-- [ ] Recinto + ciudad + card completa de Sacrifice.
-- [ ] Posición en la card.
+- [x] Título en juego + finish + duración → defensa del **TNA
+      X Division Championship**; Slater gana con Styles Clash +
+      Swanton 450 en 15:16 (WebSearch: f4wonline.com, fightful.com,
+      27-mar-2026). El campo `estipulacion` sigue con su `[verif]`
+      original — fuera del alcance de este barrido, queda anotado
+      acá para la próxima pasada.
+- [x] Recinto + ciudad → ya registrados (Alario Center, Westwego,
+      Louisiana). Card completa de Sacrifice → ver fichas hermanas
+      del show (research 2026-10-05).
+- [ ] Posición en la card (no confirmada).
 
 ## Cross-links
 

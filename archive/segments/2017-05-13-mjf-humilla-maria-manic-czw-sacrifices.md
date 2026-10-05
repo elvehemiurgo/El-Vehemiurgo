@@ -7,7 +7,7 @@ empresa: "CZW"
 programa: "Sacrifices"
 fecha: 2017-05-13
 ciudad: "Voorhees, New Jersey"
-recinto: "[verif]"
+recinto: "Flyers Skate Zone"
 ubicacion_en_show: "post-match de MJF vs Johnny Yuma"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo ok"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s24 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Sacrifices)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom.com, cagematch.net, profightdb.com); WebFetch bloqueado por egress"
 tags: [czw-2017, sacrifices, mjf, maria-manic, sin-clase, regla-ok, vehemiurgia-czw]
 ---
 

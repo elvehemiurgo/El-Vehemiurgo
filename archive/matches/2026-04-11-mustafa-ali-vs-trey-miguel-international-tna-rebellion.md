@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Ali es un arquitecto, todas sus luchas son geniales; el selling es muy alto, me tuvo enganchado; se merece las 3 clases, aunque hay un par de spots no tan prolijos y siempre pensare que menos es mas; el spot de las mascaras si es un error, hubiera quedado mejor un golpe con el titulo y ya"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s40 (vision directa - TNA Rebellion, 11/4/2026)"
   - "Sub-agente research-tna-impact-090426-rebellion-110426 (research 2026-08-01, closed) - Fightful, 411MANIA, Ringside News, PWTorch, Pro Wrestling Dot Net"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, Wrestling Inc, Yahoo Sports, Wikipedia); WebFetch bloqueado por egress"
 tags: [tna-2026, rebellion, mustafa-ali, trey-miguel, order-4, tasha-steelz, the-great-hands, international-championship, cambio-de-titulo, perfect-match, ali-arquitecto]
 ---
 
@@ -99,9 +100,14 @@ junto al elogio y no anula la clase.
 
 ## Pendientes / huecos
 
-- [ ] Réferi.
+- [ ] Réferi — no confirmado por ninguna fuente de prensa consultada.
 - [ ] Verificar contra video cuáles fueron los spots que el Vehemiurgo
       considera "no tan prolijos".
+- [ ] **Discrepancia (research 2026-10-05)**: ficha registra
+      `attendance_anunciada` 2.969 [1 fuente] para Rebellion 2026 vs
+      Wikipedia, que reporta 3.929 pagados; otra base de datos (profightdb)
+      coincide en 2.969. Dos fuentes contra una, sin resolver cuál es la
+      correcta.
 
 ## Piezas relacionadas
 

@@ -5,23 +5,24 @@ participantes: ["Moose", "Cedric Alexander"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-12
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "College Park, Georgia"
+recinto: "Gateway Center Arena"
 tipo_match: "singles"
 estipulacion: "Street Fight"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "16:13"
+finish: "Moose conecta un spear a Cedric Alexander a través de una mesa en la esquina y cubre"
+ganador: "Moose"
 referee: "[verif]"
 encuentros_previos: 2
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Street Fight muy buena — Fighting Spirit. Muy oldschool + muy física + legítimamente entretenida. Cedric mantiene real; Moose repite pumpkick + vicios thighslap pero es bueno. Booking Moose babyface (cazar a The System) se ve muy cool"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #15 (visión directa — Fighting Spirit class + crítica thighslap como vicio actual)"
   - "Volcado Vehemiurgo 2026-06-17 #16 (estipulación Street Fight confirmada + lectura Moose babyface cazando a The System)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, wrestlinginc.com, postwrestling.com); WebFetch bloqueado por egress"
 tags: [moose, cedric-alexander, tna-impact-12-mar-2026, street-fight, fighting-spirit, oldschool-fisico, moose-pumpkick-repetitivo-critica, thighslap-vicio-escena-actual-pieza-editorial, cedric-lo-mantiene-real, moose-babyface-turn-cazar-the-system-booking, encuentros-previos-genesis-2026-impact-22-ene]
 ---
 
@@ -180,13 +181,27 @@ Class**.
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto + ciudad.
-- [ ] Card completa TNA Impact 12/3/2026 (incluye también:
-      Elijah vs AJ Francis, Hardys vs Sinner & Saint, Santana
-      y Maclin backstage, Arianna + Stacks atacan Hartwell,
-      Steve Maclin in-ring comeback segment, Rosemary y
-      Swinger's Palace segment).
+- [x] Finish exacto + duración → **Moose gana en 16:13 con un
+      spear a Cedric Alexander a través de una mesa puesta en la
+      esquina**; en el desarrollo: chair shots afuera del ring,
+      Alisha Edwards interviene para frenar a Alexander, low
+      blow de Alexander + powerbomb a Moose sobre un bote de
+      basura parado, superplex de Moose sobre una pila de sillas
+      (cover a 2) antes del spear final (research 2026-10-05,
+      pwtorch.com / wrestlinginc.com). Referee no identificado en
+      los recaps consultados.
+- [x] Recinto + ciudad → **Gateway Center Arena, College Park,
+      Georgia** (research 2026-10-05, pwtorch.com / rajah.com).
+- [x] Card completa TNA Impact 12/3/2026 → The Hardys def. Sinner
+      & Saint; Indi Hartwell def. Kelsey Heather; Trey Miguel,
+      Rich Swann & BDE def. Order 4 (Ali, Skyler & Hotch); AJ
+      Francis def. Elijah; Ricky Sosa def. Brad Attitude; Moose
+      def. Cedric Alexander (Atlanta Street Fight, este) (research
+      2026-10-05, pwtorch.com). El backstage Santana/Maclin, el
+      ataque de Arianna + Stacks a Hartwell, el segmento de
+      comeback de Steve Maclin y el de Rosemary en Swinger's
+      Palace no aparecen en los recaps de resultados consultados
+      — [ ] sigue pendiente confirmarlos puntualmente.
 - [ ] **Pieza editorial al horno — escribir**: *"El thighslap
       como vicio contemporáneo del wrestling"*.
 

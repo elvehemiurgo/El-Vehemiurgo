@@ -5,22 +5,23 @@ participantes: ["Tessa Blanchard", "Myla Grace", "Harley Hudson", "[verif trío 
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Atlanta, Georgia"
+recinto: "Gateway Center Arena"
 tipo_match: "six-woman tag (3 vs 3)"
 estipulacion: "standard"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Tessa Blanchard conecta un Buzzsaw Kick sobre Myla Grace para el pin"
+ganador: "Tessa Blanchard, Mila Moore & Victoria Crawford"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buena 3 contra 3 — Fighting Spirit + Wrestling Entertainment. Grace & Hudson lucieron geniales. Tessa protagonista interesante (un poco cringe, aún no habla como wrestler total, pero intensidad + apuesta por polémica y heat)"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #20 (visión directa — FS + WE class + take Tessa + altas Future)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (ewrestling.com, rajah.com, wrestlinginc.com, tnawrestling.com); WebFetch bloqueado por egress"
 tags: [tessa-blanchard, myla-grace, harley-hudson, mila-moore-verif, tna-impact-26-mar-2026, six-woman-tag, fighting-spirit, wrestling-entertainment, grace-hudson-geniales, tessa-protagonista-cringe-pero-intensa, heat-polemica-apuesta, the-future-in-2026-myla-grace-mila-moore]
 ---
 
@@ -78,13 +79,26 @@ wrestler totalmente"*). Doble clase: **FS + WE**.
 
 ## Pendientes
 
-- [ ] **Lineup completo del 3 vs 3** — confirmar los 6 nombres y
-      la división de equipos. Confirmados mencionados: Tessa
-      Blanchard, Myla Grace, Harley Hudson. **Mila Moore probable**
-      [verif]. Faltan 2-3 nombres.
-- [ ] Finish exacto + duración + ganador.
-- [ ] Recinto + ciudad.
+- [x] **Lineup completo del 3 vs 3** → confirmado: **Tessa
+      Blanchard, Mila Moore & Victoria Crawford** vencieron a
+      **Jody Threat, Myla Grace & Harley Hudson** (WebSearch:
+      ewrestling.com, rajah.com, wrestlinginc.com, 26-mar-2026).
+- [x] Finish exacto + ganador → ver arriba (Buzzsaw Kick de
+      Blanchard sobre Grace).
+- [ ] Duración (no reportada en las fuentes consultadas).
+- [x] Recinto + ciudad → Gateway Center Arena, Atlanta, Georgia
+      (WebSearch: ewrestling.com, rajah.com).
 - [ ] Contexto: ¿storyline detrás del 3 vs 3? ¿alianzas?
+- [ ] **Discrepancia (research 2026-10-05)**: el campo
+      `participantes` de esta ficha lista a Tessa Blanchard junto
+      con Myla Grace y Harley Hudson sin distinguir equipos, lo
+      que puede leerse como que iban en el mismo trío. Las fuentes
+      del show (ewrestling.com, rajah.com, wrestlinginc.com)
+      confirman que **Tessa Blanchard competía del lado ganador
+      junto a Mila Moore y Victoria Crawford**, enfrentando —no
+      acompañando— a Jody Threat, Myla Grace y Harley Hudson. No
+      se edita `participantes` (fuera del alcance de este barrido);
+      queda para corrección editorial de ese campo.
 
 ## Cross-links
 

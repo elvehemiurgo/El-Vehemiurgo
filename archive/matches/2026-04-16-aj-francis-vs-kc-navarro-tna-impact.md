@@ -9,8 +9,8 @@ ciudad: "Syracuse, Nueva York"
 recinto: "Upstate Medical University Arena"
 tipo_match: "singles"
 estipulacion: "grudge match entre ex-compañeros de First Cla$$"
-duracion: "~7:01 [1 fuente, sin cruzar]"
-finish: "AJ Francis va por su finisher (chokeslam o Down Payment, según la fuente); Navarro lo contrarresta con un victory roll/hurricanrana en rollup para el pinfall"
+duracion: "~7:01–7:05 [2 fuentes, sin cruce exacto: una reporta 7:01, otra 7:05]"
+finish: "AJ Francis va por un chokeslam (confirmado por una segunda fuente; una fuente minoritaria lo había descrito como 'Down Payment'); Navarro lo contrarresta con un victory roll/hurricanrana en rollup para el pinfall"
 ganador: "KC Navarro"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Genial, era la grudgematch esperada, muy buenos spots, crearon stakes entre ambos; Francis definitivamente puede hablar, es como Joe Hendry, es un tema de produccion y direccion; KC estuvo totalmente a la altura, esta es su historia de underdog en tv, con un comeback emotivo; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s43 (visión directa — TNA iMPACT!, 16/4/2026)"
   - "Sub-agente research-tna-impact-160426 (research 2026-08-01, closed) — Fightful, Slam Wrestling, Pro Wrestling Dot Net, tnawrestling.com"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Blog of Doom, eWrestling, Rajah); WebFetch bloqueado por egress"
 tags: [tna-2026, impact, aj-francis, kc-navarro, nic-nemeth, first-class, grudge-match, comeback, perfect-match]
 ---
 
@@ -89,10 +90,14 @@ tags: [tna-2026, impact, aj-francis, kc-navarro, nic-nemeth, first-class, grudge
 
 ## Pendientes / huecos
 
-- [ ] Nombre exacto del finisher de AJ Francis — fuentes divergen
-      entre chokeslam y "Down Payment".
-- [ ] Réferi.
-- [ ] Duración exacta — solo una fuente reporta ~7:01, sin cruzar.
+- [x] Nombre exacto del finisher de AJ Francis — fuentes divergen
+      entre chokeslam y "Down Payment" → una segunda fuente (Blog of
+      Doom/eWrestling) confirma chokeslam; la mención de "Down Payment"
+      queda como variante minoritaria sin cruzar.
+- [ ] Réferi — no confirmado por ninguna fuente de prensa consultada.
+- [x] Duración exacta — solo una fuente reporta ~7:01, sin cruzar →
+      una segunda fuente reporta 7:05; ambas coinciden en el entorno de
+      los 7 minutos pero sin cifra exacta cruzada.
 
 ## Piezas relacionadas
 

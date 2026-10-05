@@ -12,16 +12,17 @@ estipulacion: "Sin título; debut de Candice LeRae en CZW"
 duracion: "15:45 [verif — fuente única]"
 finish: "[no confirmado] — ganan Parks & Cherry Bomb"
 ganador: "Pepper Parks & Cherry Bomb"
-referee: "[verif]"
+referee: "Kris Levin [verif — snippet IMDb, único réferi listado en el cast de la taping]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "se merecen una WE y FS classes, porque Candice y Cherry pusieron wrestling, no les importó dj hyde, no les importó si los fans querian ultraviolence, usaron la oportunidad para moverse como wrestlers, estuvieron geniales, pero al rededor de los spots de humor y todo eso, disfrutable"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO con timestamps — 2013 09 14 CZW Down with the Sickness)"
   - "Sub-agente research-czw-dwts-140913 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress: Cagematch, Fandom, ProFightDB, Wrestleview, SMV, OWW, Wikipedia"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (IMDb); WebFetch bloqueado por egress"
 tags: [czw-2013, down-with-the-sickness, voorhees, pepper-parks, braxton-sutter, the-blade, cherry-bomb, allie, the-bunny, candice-lerae, greg-excellent, comedy-wrestling, joey-ryan, mixed-tag, debut, death-gods-of-wrestling, feeling-crown, fighting-spirit, wrestling-entertainment]
 ---
 # Pepper Parks & Cherry Bomb vs Candice LeRae & Greg Excellent (2013 09 14 CZW Down with the Sickness)

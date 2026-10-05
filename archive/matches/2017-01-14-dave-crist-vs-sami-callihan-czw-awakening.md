@@ -9,7 +9,7 @@ ciudad: "Voorhees, New Jersey"
 recinto: "Flyers Skate Zone"
 tipo_match: "singles"
 estipulacion: "sin título en juego"
-duracion: "[verif]"
+duracion: "15:11"
 finish: "victoria LIMPIA de Dave Crist [mecanismo exacto verif]"
 ganador: "Dave Crist"
 referee: "[verif]"
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Representa todo lo que me enamora del wrestling indie moderno; toda la tensión CZW/WWE, el arquetipo del infravalorado, el booking interpromocional; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s23 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Awakening Pt. 1)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch.net, prowrestling.fandom.com, thewrestlingclassic.com); WebFetch bloqueado por egress"
 tags: [czw-2017, awakening, dave-crist, sami-callihan, oi4k, escuela-de-ohio, tier-0, perfect-match, vehemiurgia-czw]
 ---
 
@@ -72,7 +73,11 @@ Entertainment, declaradas explícitas.**
 
 ## Pendientes / huecos
 
-- [ ] Mecanismo exacto del finish y duración.
+- [x] Duración → 15:11 (Cagematch / prowrestling.fandom.com, research 2026-10-05)
+- [ ] Mecanismo exacto del finish — no confirmado por research (reseñas
+      de época solo registran la victoria limpia y el bicycle kick de
+      Dave al referee que intenta ayudar a Callihan, ya citado en la
+      lectura de arriba).
 - [ ] Identidad del "grupo JML" (en research).
 
 ## Piezas relacionadas

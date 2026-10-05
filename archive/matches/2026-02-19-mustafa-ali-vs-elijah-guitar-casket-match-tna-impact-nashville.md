@@ -6,21 +6,22 @@ empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-02-19
 ciudad: "Nashville, Tennessee, USA (Music City)"
-recinto: "[verif]"
+recinto: "The Pinnacle"
 tipo_match: "singles"
 estipulacion: "Guitar Casket Match (combinación gimmick guitarra firma de Elijah + casket — semilla del Genesis 17 ene 2026)"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "12:00"
+finish: "Elijah mete a Ali a través de una puerta hacia el interior del estuche-guitarra gigante con un chokeslam, tras un brawl con armas (guitarras e instrumentos) e interferencia de Order 4 (ya vetados, pero sin DQ en la estipulación)."
+ganador: "Elijah"
 referee: "[verif]"
 encuentros_previos: 1
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — todas las clases. Anchor de la declaración 'Ali run generacional + selling legendario'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — declaración Perfect Match + run generacional Ali)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, postwrestling.com, wrestlinginc.com, cagesideseats.com); WebFetch bloqueado por egress"
 tags: [mustafa-ali, elijah-ex-elias, tna-impact-nashville-music-city, guitar-casket-match, perfect-match, fighting-spirit, wrestling-entertainment, ali-heel-protagonico-tna, ali-pone-over-babyface, impact-wrestling-camiseta-detalle-carny, selling-legendario-aj-styles-nic-nemeth-nivel, doctrina-workhorse-encarnada]
 ---
 
@@ -99,7 +100,7 @@ intención + cada riesgo con recompensa**.
 - **Fecha**: 19 feb 2026.
 - **Ciudad**: **Nashville, TN — *Music City*** (home turf simbólico
   de Elijah, que mantiene su gimmick musical post-WWE).
-- **Recinto**: [verif].
+- **Recinto**: The Pinnacle.
 - **Estipulación**: Guitar Casket Match.
 
 ## Cross-link doctrina workhorse — Ali como caso vivo 2026
@@ -117,8 +118,15 @@ finge.
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto.
+- [x] Finish exacto + duración. → **Elijah gana en 12:00** vía
+      chokeslam a Ali a través de una puerta hacia el estuche-guitarra
+      gigante, tras brawl con instrumentos e interferencia de Order 4
+      (PWTorch, POST Wrestling, Wrestling Inc, 2/19/2026).
+- [x] Recinto. → **The Pinnacle**, Nashville, TN (mismo recinto que
+      No Surrender 13/2 y el resto de tapings TNA Impact de la etapa,
+      confirmado por múltiples outlets).
+- [ ] Referee — no reportado en coverage disponible (PWTorch, POST
+      Wrestling, Wrestling Inc no lo mencionan).
 - [ ] Card completa del Impact 19 feb 2026.
 - [ ] Match pre-build: Hardy vs Ali 22/1/2026 + segments build.
 - [ ] **Apertura Elijah (ex-Elias) fact-sheet** — ahora con feud

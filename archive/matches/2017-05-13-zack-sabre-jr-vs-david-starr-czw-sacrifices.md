@@ -6,11 +6,11 @@ empresa: "CZW"
 programa: "Sacrifices"
 fecha: 2017-05-13
 ciudad: "Voorhees, New Jersey"
-recinto: "[verif]"
+recinto: "Flyers Skate Zone"
 tipo_match: "singles"
 estipulacion: "sin título en juego (iPPV)"
-duracion: "[verif]"
-finish: "[verif — visto en video]"
+duracion: "14:29"
+finish: "Zack Sabre Jr. gana por roll-up — final que deja planteada una revancha, no por sumisión a pesar del estilo técnico de ambos"
 ganador: "Zack Sabre Jr."
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Un clásico de esa época, full gimmick, full kayfabe, ambos se quieren lucir a ras de lona; se merece las 3 clases, aunque Starr se ve inmaduro en el selling en ciertas partes"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s24 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Sacrifices)"
   - "Sub-agente czw-sacrifices-130517 (research 2026-08-01, closed) — Cagematch, Fightful, WrestleTalk, Cageside Seats, PostWrestling"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom.com, cagematch.net, thewrestlingrevolution.com); WebFetch bloqueado por egress"
 tags: [czw-2017, sacrifices, zack-sabre-jr, david-starr, tier-0, indie-wrestling-god, chain-wrestling, perfect-match, vehemiurgia-czw, match-of-the-night]
 ---
 
@@ -79,7 +80,9 @@ selling de Starr.**
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Finish exacto y duración → 14:29; ZSJ gana por roll-up, dejando
+      planteada una revancha (thewrestlingrevolution.com, research
+      2026-10-05).
 - [ ] Pico exacto de ranking PWI 500 de Starr (research no lo cerró).
 
 ## Piezas relacionadas

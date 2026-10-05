@@ -6,10 +6,10 @@ empresa: "CZW"
 programa: "Sacrifices"
 fecha: 2017-05-13
 ciudad: "Voorhees, New Jersey"
-recinto: "[verif]"
+recinto: "Flyers Skate Zone"
 tipo_match: "tag team"
 estipulacion: "sin título en juego (iPPV)"
-duracion: "[verif]"
+duracion: "4:02"
 finish: "[verif — visto en video, mecanismo no dictado]"
 ganador: "Private Party"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lucha muy cool, muy física, tiene sus tropiezos, pero el selling de todos es muy bueno, los Dub Boys atrapan muy bien los dives; se merece una FS y WE class"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s24 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Sacrifices)"
   - "Sub-agente czw-sacrifices-130517 (research 2026-08-01, closed) — PWInsider, PWPonderings"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom.com, cagematch.net, theindyreview.wordpress.com, profightdb.com); WebFetch bloqueado por egress"
 tags: [czw-2017, sacrifices, private-party, marq-quen, isiah-kassidy, dub-boys, the-rep, vehemiurgia-czw, fighting-spirit]
 ---
 
@@ -64,7 +65,12 @@ tags: [czw-2017, sacrifices, private-party, marq-quen, isiah-kassidy, dub-boys, 
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto y duración.
+- [x] Duración → 4:02 (prowrestling.fandom.com / Cagematch, research
+      2026-10-05).
+- [ ] Finish exacto — mecanismo no confirmado por research;
+      theindyreview.wordpress.com solo describe un "finishing stretch"
+      caótico con silla, escoba y cadena, sin nombrar el movimiento
+      final.
 - [ ] Fechas exactas del reinado de 668 días de The REP.
 
 ## Piezas relacionadas

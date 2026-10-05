@@ -10,7 +10,7 @@ recinto: "Flyers Skate Zone"
 tipo_match: "singles"
 estipulacion: "Sin título — Alexander James ostentaba el CZW Junior Heavyweight Championship de forma honoraria"
 duracion: "6:54 [verif — fuente única]"
-finish: "[no confirmado] — gana Caleb Konley"
+finish: "Sumisión de Konley con un Boston crab con brazo atrapado — gana Caleb Konley [una fuente]"
 ganador: "Caleb Konley"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Alexander vs Caleb Konley, por fin Konley en solitario, muy agresivo, tuvo sus runs como babyface exitosas por ahi en las indies, u aqui Alexander James tambien era buen heel, podia poner un show, pero sus promos nunca fueron tan fuertes, son workhorses muy carismaticos, muy buenos strikes de Caleb, y spots cool, se merecen una WE y FS, se dieron muy duro, estuvo cool"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-09 s64 (VISIONADO DIRECTO con timestamps — 2014 03 08 CZW High Stakes 5)"
   - "Sub-agente research-czw-high-stakes-5 (research 2026-09-09) — WebSearch; WebFetch bloqueado por egress: Cagematch, Fandom, Wrestleview, Wrestlingrecaps"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestlingrecaps); WebFetch bloqueado por egress"
 tags: [czw-2013, czw-2014, high-stakes-5, voorhees, alexander-james, caleb-konley, primer-singles, workhorses, feeling-crown, fighting-spirit, wrestling-entertainment]
 ---
 # Alexander James vs Caleb Konley (2014 03 08 CZW High Stakes 5)
@@ -59,7 +60,8 @@ tags: [czw-2013, czw-2014, high-stakes-5, voorhees, alexander-james, caleb-konle
 
 ## Datos confirmados por research
 
-- **Gana Caleb Konley, 6:54.**
+- **Gana Caleb Konley, 6:54**, por sumisión con un Boston crab con el
+  brazo atrapado (research 2026-10-05, Wrestlingrecaps — una fuente).
 - **Alexander James**: ostentaba el **CZW Junior Heavyweight
   Championship honorario** en esta fecha (esta lucha fue sin título
   en juego); ganó el título "real" el 11/1/2014. Su pertenencia

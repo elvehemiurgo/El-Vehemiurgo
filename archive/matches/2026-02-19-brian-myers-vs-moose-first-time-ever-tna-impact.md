@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "De lo más genial del año — todas las clases. First time ever + historia detrás + setup insuperable para algo tan de psychos, muy hardcore"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #18 (visión directa — Perfect Match + setup insuperable + top tier entertainers)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, fightful.com, 411mania.com); WebFetch bloqueado por egress — datos duros NO cerrados por discrepancia de fecha, ver Pendientes"
 tags: [brian-myers, moose, the-system, tna-impact-19-feb-2026, first-time-ever, perfect-match, fighting-spirit, wrestling-entertainment, hardcore-psychos, myers-promo-backstage-setup, santino-aparicion, myers-losing-streak-referencia, top-tier-entertainers, cluster-moose-vs-the-system]
 ---
 
@@ -121,6 +122,19 @@ Este match es **capítulo clave del arc Moose vs The System**:
 
 ## Pendientes
 
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha fecha este
+      match en TNA Impact del 19/2/2026 (Nashville, The Pinnacle),
+      pero la card completa de ese show (confirmada vía POST
+      Wrestling/PWTorch) **no incluye** Myers vs Moose — ese episodio
+      cierra con Elijah vs Ali, Trey Miguel vs Stacks, Threat vs
+      Blanchard, etc. Un match "Brian Myers vs Moose — First Time
+      Ever" con setup idéntico al descrito por el Vehemiurgo (Santino
+      vetando a The System del ringside, spear-squash) sí aparece,
+      pero en **TNA Impact emitido el 19/3/2026** desde Gateway
+      Center Arena, College Park, GA (PWTorch 19/3/26; Fightful).
+      No se cerraron los datos duros (finish/duración/ganador/ciudad/
+      recinto) hasta que el Vehemiurgo confirme si la fecha correcta
+      de este take es 19/3 y no 19/2.
 - [ ] Finish exacto + duración + estipulación formal.
 - [ ] Recinto + ciudad.
 - [ ] Detalle de la aparición de Santino (¿autoridad? ¿ref

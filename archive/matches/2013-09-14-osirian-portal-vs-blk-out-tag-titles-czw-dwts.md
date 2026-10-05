@@ -12,16 +12,17 @@ estipulacion: "CZW Tag Team Championship"
 duracion: "8:17 [verif — fuente única, coincide entre dos búsquedas]"
 finish: "[no confirmado] — retiene BLK OUT"
 ganador: "BLK OUT (BLK Jeez & Ruckus) — retienen"
-referee: "[verif]"
+referee: "Kris Levin [verif — snippet IMDb, único réferi listado en el cast de la taping]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "en una lucha de revancha, una rivalidad de ensueño de hecho, lo mantienen real, son tipos oldschool, me gustó mucho el selling de revancha y rivalidad personal, muy vocal, pero si se ven verdes todavia, se merecen una WE porque si tienen buenos spots como ophidian haciendo un step up cutter en el cemento"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-09 s64 (VISIONADO DIRECTO con timestamps — 2013 09 14 CZW Down with the Sickness, cierre)"
   - "Sub-agente research-czw-dwts-cont-cerebral (research 2026-09-09) — WebSearch; WebFetch bloqueado por egress: Cagematch, Fandom, Wrestleview"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (IMDb); WebFetch bloqueado por egress"
 tags: [czw-2013, down-with-the-sickness, voorhees, osirian-portal, amasis, ophidian, blk-out, blk-jeez, ruckus, tag-team-championship, rematch, wrestling-entertainment]
 ---
 # The Osirian Portal vs BLK OUT — Tag Team Championship (2013 09 14 CZW Down with the Sickness)

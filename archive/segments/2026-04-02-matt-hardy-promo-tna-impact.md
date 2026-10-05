@@ -8,8 +8,8 @@ protagonistas:
 empresa: "TNA Wrestling"
 programa: "iMPACT!"
 fecha: 2026-04-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "New Orleans / Westwego, Louisiana"
+recinto: "Alario Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena — sin clase declarada"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02 adenda (visión directa — TNA Impact 2/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful, Slam Wrestling; ciudad/recinto por el mismo taping del show); WebFetch bloqueado por egress"
 tags: [matt-hardy, jeff-hardy, tna-impact-2026, promo, sin-clase, techo-del-mic-tna, arbol-de-aprendizaje]
 ---
 

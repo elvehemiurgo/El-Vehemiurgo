@@ -9,8 +9,8 @@ ciudad: "Cleveland, Ohio"
 recinto: "Wolstein Center"
 tipo_match: "singles"
 estipulacion: "TNA Knockouts World Championship"
-duracion: "[verif]"
-finish: "[verif]"
+duracion: "8:50"
+finish: "Lei Ying Lee conecta el Warrior's Way y cubre a Grace; Xia Brookside pone el pie de Grace en la cuerda para romper el conteo, arrastra a Lee afuera del ring y la ataca; de vuelta adentro, Grace remata con un shining wizard a la cabeza para el pinfall"
 ganador: "Arianna Grace (retiene)"
 referee: "[verif]"
 encuentros_previos: "1 (No Surrender 13/2/2026, ahí Arianna le ganó el título)"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lei Ying Lee cool in-ring, mejores strikes que nunca — pero el gimmick se diluye en la promo; Arianna retiene abrazando el gimmick old-school. Sin clase declarada — registro doctrinal, no de calidad de match"
 clases_vehemiurgo: []
 estado: verificado
-ultima_actualizacion: 2026-07-13
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-13 s01 (visión directa — TNA Rebellion 11/4/2026)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed): Arianna Grace retiene el KOs Title vs Lei Ying Lee en Rebellion"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, PWTorch, Cageside Seats, 411mania, Diva Dirt); WebFetch bloqueado por egress"
 tags: [arianna-grace, lei-ying-lee, tna-knockouts-world-championship, tna-rebellion-2026, singles, sin-clase, doctrina-gimmick, gimmick-diluido, gimmick-oldschool-abrazado]
 ---
 
@@ -69,7 +70,8 @@ tags: [arianna-grace, lei-ying-lee, tna-knockouts-world-championship, tna-rebell
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
+- [x] Finish exacto + duración → 8:50; Lee cubre tras Warrior's Way, Xia Brookside rompe el conteo poniendo el pie de Grace en la cuerda, ataca a Lee, y Grace cierra con shining wizard (Fightful, PWTorch, Cageside Seats, 411mania).
+- [ ] Réferi — no confirmado por ninguna fuente de prensa consultada.
 - [ ] [verif] identidad Xia Li (WWE) → Lei Ying Lee (pendiente
       histórico de la ficha).
 
