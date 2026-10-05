@@ -448,7 +448,7 @@ con cada cambio de estado.
 | 2026-03-06 | Mei Seira & Starlight Kid vs Las Indomables (Lluvia & La Jarochita) | CMLL / La Noche de las Amazonas | PW·FS·WE | ICC | stub | 1 | [→](2026-03-06-mei-seira-starlight-kid-vs-las-indomables-cmll-amazonas.md) |
 | 2026-03-05 | Arianna Grace (c) vs Jodi Threat — TNA Knockouts World Championship — Primera defensa | TNA Wrestling / Thursday Night iMPACT | — | — | stub | 1 | [→](2026-03-05-arianna-grace-vs-jodi-threat-tna-impact-primera-defensa.md) |
 | 2026-03-05 | Leon Slater (c) vs Nic Nemeth — Dream Rematch | TNA Wrestling / Thursday Night iMPACT | PW·FS·WE | ICC | stub | 1 | [→](2026-03-05-leon-slater-vs-nic-nemeth-tna-impact-dream-rematch.md) |
-| 2026-03-04 | Main event — trios (3 vs 3) [verif lineup completo] | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-03-04-main-event-trios-aew-dynamite.md) |
+| 2026-03-04 | Main event — trios (3 vs 3), AEW World Trios Championship | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-03-04-main-event-trios-aew-dynamite.md) |
 | 2026-02-28 | God's Eye (Ami Sourei, Lady C & Ranna Yagami) vs India Sioux, Tabata & Kira | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | — | en-investigacion | 1 | [→](2026-02-28-kira-stardom-debut-six-woman-tag-korakuen.md) |
 | 2026-02-28 | Sareee & Takumi Iroha vs Hazuki & Fuwa-chan | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | — | en-investigacion | 1 | [→](2026-02-28-sareee-iroha-vs-hazuki-fuwa-chan-stardom-korakuen.md) |
 | 2026-02-26 | Dani Luna vs Lei Ying Lee | TNA Wrestling / Thursday Night iMPACT | — | — | stub | 1 | [→](2026-02-26-dani-luna-vs-lei-ying-lee-tna-impact.md) |

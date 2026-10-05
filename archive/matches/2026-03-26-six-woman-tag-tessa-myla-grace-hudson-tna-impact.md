@@ -81,7 +81,7 @@ wrestler totalmente"*). Doble clase: **FS + WE**.
 
 - [x] **Lineup completo del 3 vs 3** → confirmado: **Tessa
       Blanchard, Mila Moore & Victoria Crawford** vencieron a
-      **Jody Threat, Myla Grace & Harley Hudson** (WebSearch:
+      **Jodi Threat, Myla Grace & Harley Hudson** (WebSearch:
       ewrestling.com, rajah.com, wrestlinginc.com, 26-mar-2026).
 - [x] Finish exacto + ganador → ver arriba (Buzzsaw Kick de
       Blanchard sobre Grace).
@@ -96,7 +96,7 @@ wrestler totalmente"*). Doble clase: **FS + WE**.
       del show (ewrestling.com, rajah.com, wrestlinginc.com)
       confirman que **Tessa Blanchard competía del lado ganador
       junto a Mila Moore y Victoria Crawford**, enfrentando —no
-      acompañando— a Jody Threat, Myla Grace y Harley Hudson. No
+      acompañando— a Jodi Threat, Myla Grace y Harley Hudson. No
       se edita `participantes` (fuera del alcance de este barrido);
       queda para corrección editorial de ese campo.
 
