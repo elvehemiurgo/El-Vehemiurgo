@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo bien"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s06 (visión directa — SmackDown, 19/6/2026)"
   - "Sub-agentes de research (2026-08-01, closed) — card completo, finishes, contexto"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, prowrestling.fandom.com, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, ricky-saints, carmelo-hayes, us-title-contender, turnbuckle-expuesto, saints-trabaja-sucio,rivalidad-larga]
 ---
 
@@ -54,7 +55,7 @@ tags: [wwe-2026, smackdown, ricky-saints, carmelo-hayes, us-title-contender, tur
 ## Pendientes / huecos
 
 - [ ] Registrar los capítulos del 22/5 (ataque backstage) y 29/5 (doble count-out) si el Vehemiurgo confirma que quiere sumarlos — `[no dictado por él directamente, hallazgo de research]`.
-- [ ] Verificar el resultado real del 15/5 contra fuente primaria — un snippet de research sugiere que pudo haber ganado Hayes, contradiciendo el registro previo del archivo, que lo tiene `[verif]` (no se había fijado ganador).
+- [x] Verificar el resultado real del 15/5 (research 2026-10-05) → confirmado: **Carmelo Hayes ganó** el 15/5/2026 (rollup usando las cuerdas tras fallar el Dirty Diana), ~12 min. Fuentes: WWE.com, prowrestling.fandom.com, Pro Wrestling Dot Net. Esto corrige la incertidumbre previa del archivo — no se reescribe la ficha del 15/5 (fuera del alcance de este lote), queda anotado para que la sesión principal actualice [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md).
 
 ## Piezas relacionadas
 

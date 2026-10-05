@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buena, se merece un FS y WE classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s07 (visión directa — WWE Raw, 22/6/2026)"
   - "Sub-agente card-wwe-raw-220626 (research 2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, Wrestling Inc. resultados Raw 1 jun 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, ethan-page, dragon-lee, low-blow-finish, continuacion-desenmascaramiento, bloque-lucha-libre-mexicana, go-home-night-of-champions]
 ---
 
@@ -82,7 +83,7 @@ tags: [wwe-2026, raw, ethan-page, dragon-lee, low-blow-finish, continuacion-dese
       desenmascaramiento tras la campana.
 - [ ] Naturaleza exacta del low blow (rodillazo vs headbutt bajo) —
       fuentes en conflicto, sin video verificado.
-- [ ] Resultado del tag del 1/6/2026 (Rey & Dragon Lee vs Page & Rusev).
+- [x] Resultado del tag del 1/6/2026 (research 2026-10-05) → Rey Mysterio & Dragon Lee derrotaron a Ethan Page & Rusev; Dragon Lee saca a Rusev del ringside y Rey remata a Page con un 619 (WWE.com, Wrestling Inc.).
 
 ## Piezas relacionadas
 

@@ -9,7 +9,7 @@ ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "grudge match, sin título en juego"
-duracion: "[verif]"
+duracion: "14:21"
 finish: "Reverse diving splash desde la segunda/tercera cuerda, tras un strike en la esquina"
 ganador: "Saquon Shugars"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Su lucha con Lennox fue ok — momentos brillantes de Saquon como siempre, pero no hay programación con stakes para él; el booking se puso aburrido, genérico de face de NXT"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s08 (visión directa — NXT Great American Bash 2026, 28/6/2026)"
   - "Sub-agente card-nxt-gab-280626 (research 2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (SI/Fannation resultados NXT Great American Bash 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, nxt-great-american-bash, saquon-shugars, dion-lennox, dark-state, expulsion, booking-generico, sin-stakes, precedente-esta-ok]
 ---
 
@@ -53,7 +54,7 @@ tags: [wwe-2026, nxt-great-american-bash, saquon-shugars, dion-lennox, dark-stat
 
 ## Pendientes / huecos
 
-- [ ] Duración exacta.
+- [x] Duración exacta → 14:21 (SI/Fannation, research 2026-10-05).
 - [ ] Fecha y contenido del "nuevo tema musical" que Shugars reclama compuesto por Jim Johnston — declaración del talento, no confirmada por WWE.
 
 ## Piezas relacionadas

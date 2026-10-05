@@ -1,17 +1,17 @@
 ---
 match: "Fatal 4-way"
 slug: "2026-06-05-4-way-wwe-smackdown"
-participantes: ["[verif]"]
+participantes: ["Dominik Mysterio", "Bron Breakker", "Damian Priest", "Trick Williams"]
 empresa: "WWE"
 programa: "SmackDown"
 fecha: 2026-06-05
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "fatal 4-way"
-estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "Bolonia, Italia"
+recinto: "Unipol Arena"
+tipo_match: "fatal 4-way — King of the Ring 2026, primera ronda"
+estipulacion: "King of the Ring 2026, primera ronda"
+duracion: "16:53"
+finish: "Dominik Mysterio (con Liv Morgan) gana — mecanismo exacto del pin no detallado en fuentes consultadas"
+ganador: "Dominik Mysterio — avanza en el King of the Ring 2026"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Una 4 way ok"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s53 (visión directa — SmackDown, 5/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (WWE.com, pwmania resultados SmackDown 5 jun 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, smackdown, fatal-4-way, sin-clase, participantes-verif, precedente-esta-ok]
 ---
 
@@ -51,9 +52,9 @@ tags: [wwe-2026, smackdown, fatal-4-way, sin-clase, participantes-verif, precede
 
 ## Pendientes / huecos
 
-- [ ] **Identificar a los cuatro participantes** — no dictados. `[verif]`
-- [ ] Ganador, finish, duración.
-- [ ] Confirmar si era clasificatoria de King of the Ring o de contendencia.
+- [x] **Participantes identificados** → Dominik Mysterio, Bron Breakker, Damian Priest, Trick Williams (WWE.com, pwmania).
+- [x] Ganador, duración → Dominik Mysterio gana en 16:53. Mecanismo exacto del finish sigue pendiente.
+- [x] Confirmado → primera ronda del King of the Ring 2026.
 
 ## Piezas relacionadas
 

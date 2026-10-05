@@ -9,7 +9,7 @@ ciudad: "Riyadh, Arabia Saudita"
 recinto: "Kingdom Arena"
 tipo_match: "triple threat"
 estipulacion: "Undisputed WWE Championship"
-duracion: "18:38 [no confirmado contra tabla]"
+duracion: "18:38 [confirmado — Yahoo Sports]"
 finish: "Zayn se zafa de un segundo Cross Rhodes en el aire y enrolla a Cody Rhodes en un roll-up para el 1-2-3"
 ganador: "Sami Zayn — nuevo Undisputed WWE Champion"
 referee: "[verif]"
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, se merece un FS y un WE classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s08 (visión directa — Night of Champions, 27/6/2026)"
   - "Sub-agente de research (2026-08-01, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports resultados Night of Champions 2026); WebFetch bloqueado por egress"
 tags: [wwe-2026, night-of-champions, cody-rhodes, gunther, sami-zayn, undisputed-wwe-championship, primer-titulo-mundial-zayn, triple-threat]
 ---
 
@@ -52,7 +53,7 @@ tags: [wwe-2026, night-of-champions, cody-rhodes, gunther, sami-zayn, undisputed
 
 ## Pendientes / huecos
 
-- [ ] Confirmar duración contra tabla de resultados (18:38 viene de snippet).
+- [x] Duración confirmada → 18:38 (Yahoo Sports, research 2026-10-05).
 - [ ] Gate del evento — no reportado.
 
 ## Piezas relacionadas
