@@ -12,16 +12,17 @@ estipulacion: "AEW World Trios Championships — Trios Roulette Royale: siete tr
 duracion: "[verif — un solo reporte da 39:00]"
 finish: "Swerve Strickland y The New Level eliminan a Gabe Kidd, Claudio Castagnoli y PAC"
 ganador: "Swerve Strickland y The New Level (Kofi y Austin Creed) — nuevos campeones"
-referee: "[verif]"
+referee: "Aubrey Edwards [una fuente]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Empieza súper alto como grudge match entre los Dogs y los Guns, muy buena rivalidad y psicología; es genial ver a Roderick Strong competir con estos stakes, buenos spots, pero también cosas absurdas y pues los Death Riders son aburridos, entonces se merecen una WE, le daré el FS también porque sí había stakes y el ángulo de Hangman y White que es latente y añade mucho estuvo genial toda la lucha, Bandido vendiendo el hombro"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8 y 26/8, Collision 22/8 y 29/8, All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [aew-2026, all-in-london, wembley, trios-roulette-royale, trios-championship, swerve-strickland, the-new-level, kofi, austin-creed, jay-white, the-dogs, gabe-kidd, hangman-adam-page, bandido, brody-king, roderick-strong, ricochet, death-riders, feeling-crown, fighting-spirit, wrestling-entertainment]
 ---
 # Trios Roulette Royale — AEW All In: London (30/8/2026)
@@ -175,6 +176,7 @@ Kofi y Austin Creed, que era su **debut absoluto en AEW**.
 
 ## Pendientes
 
+- [x] Referee → Aubrey Edwards (research 2026-10-05, [una fuente]).
 - [ ] **Duración** — un solo reporte da 39:00, sin corroborar.
 - [ ] Quién eliminó a **Clark Connors**.
 - [ ] **Nota de nombres canónicos**: AEW los presenta como **"Kofi"** y

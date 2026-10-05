@@ -12,16 +12,17 @@ estipulacion: "AEW World Tag Team Championships"
 duracion: "~20:00"
 finish: "Con la visión del árbitro obstruida, Christian Cage usa el yeso del antebrazo como arma sobre Matt Jackson; eso abre el spear y la cuenta de tres"
 ganador: "Christian Cage y Adam Copeland — retienen"
-referee: "[verif]"
+referee: "Rick Knox [una fuente]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "La lucha me gustó, los spots, las ideas, y las secuencias, el desenlace con el cast en el brazo y eso, no sé, creo que restó, se merecen una WE y FS classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8 y 26/8, Collision 22/8 y 29/8, All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [aew-2026, all-in-london, wembley, young-bucks, matt-jackson, nick-jackson, christian-cage, edge, tag-team-championship, feeling-crown, fighting-spirit, wrestling-entertainment]
 ---
 # Young Bucks vs Cage & Cope — Tag Titles (30/8/2026)
@@ -79,6 +80,7 @@ tags: [aew-2026, all-in-london, wembley, young-bucks, matt-jackson, nick-jackson
 - [ ] **Qué había exactamente en el brace**: las coberturas se dividen
       entre *"a cast on his forearm"*, *"an arm brace"* y *"a wrench in
       his elbow pad"*. **Es justo el objeto que el Vehemiurgo objeta.**
+- [x] Referee → Rick Knox, reportado atendiendo a Nick Jackson durante el match (research 2026-10-05, [una fuente]).
 
 ## Cross-links
 

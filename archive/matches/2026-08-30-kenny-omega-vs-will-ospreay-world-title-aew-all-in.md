@@ -12,16 +12,17 @@ estipulacion: "AEW World Championship"
 duracion: "~34:00"
 finish: "Hidden Blade, después de que Omega pateara a la cuenta de uno tras un Storm Breaker"
 ganador: "Will Ospreay — nuevo campeón, primer título mundial de su carrera"
-referee: "[verif]"
+referee: "Paul Turner"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "La lucha sí está buena, no es la rivalidad del año ni la lucha del año, pero estuvo buena; Kenny como heel prick sigue siendo una caricatura, nunca va a ser tan épico como MJF o algo oldschool, pero hizo esto disfrutable; es de lo mejor de este booking forzado que hasta el último momento tuvo que darle protagonismo a Mox; a Ospreay desde que debutó le ponen obstáculos absurdos con tal de no dejarlo ser como babyface; pero la lucha como tal, yo le doy las 3 clases, lo que no tiene de oldschool lo tiene de espectáculo"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8 y 26/8, Collision 22/8 y 29/8, All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [aew-2026, all-in-london, wembley, kenny-omega, will-ospreay, world-championship, jon-moxley, doctrina-omega, draw, gate, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # Kenny Omega (c) vs Will Ospreay — AEW World Championship (30/8/2026)
@@ -118,6 +119,7 @@ attendance más altos de la historia de AEW, y sigue sin ser 50.000.
 
 ## Pendientes
 
+- [x] Referee → Paul Turner (research 2026-10-05, Fightful — Omega lo elogió post-show como "el tercer hombre en el ring").
 - [ ] Duración exacta al segundo.
 - [ ] Rating de WON — no publicado al momento del research.
 

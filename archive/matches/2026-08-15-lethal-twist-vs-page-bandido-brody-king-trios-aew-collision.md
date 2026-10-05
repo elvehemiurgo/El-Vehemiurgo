@@ -10,7 +10,7 @@ recinto: "The Pearl Theater — Palms Casino Resort"
 tipo_match: "six-man tag — título"
 estipulacion: "AEW World Trios Championship — primera defensa de los campeones"
 duracion: "13:00"
-finish: "[verif] — el mecanismo exacto no lo reportan las coberturas"
+finish: "Page y Bandido lanzan a Lee Johnson a los brazos de Brody King, que remata con un piledriver — pinfall sobre Johnson"
 ganador: "Adam Page, Bandido y Brody King — retienen"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue una lucha genial, de verdad tienen velocidad y spots geniales, armaron una lucha genial y de verdad están aprendiendo de Lethal, le están metiendo al entertainment, tienen un gran acto y secuencias tag team muy cool, y se metieron con los MCMG durante su entrada, se mueven como wrestlers y les importan sus stakes, me encantó lo que vi, se merecen las 3 clases. El Lethal Twist es legítimamente top tier wrestling"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-31
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-31 s57 (VISIONADO DIRECTO — AEW Grand Slam Mexico 5/8, Dynamite 12/8, Collision 15/8, Dynamite 19/8 de 2026)"
   - "Sub-agentes de research s57 (2026-08-31) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Sportskeeda); WebFetch bloqueado por egress"
 tags: [aew-2026, collision, jay-lethal, blake-christian, lee-johnson, the-lethal-twist, hangman-adam-page, bandido, brody-king, trios-championship, motor-city-machine-guns, instant-classic-crown, perfect-wrestling, fighting-spirit, wrestling-entertainment]
 ---
 # The Lethal Twist vs los campeones de tríos — AEW Collision (15/8/2026)
@@ -86,8 +87,8 @@ tags: [aew-2026, collision, jay-lethal, blake-christian, lee-johnson, the-lethal
 
 ## Pendientes
 
-- [ ] Finish exacto — las coberturas dan duración y resultado, no el
-      mecanismo.
+- [x] Finish exacto → Page y Bandido lanzan a Johnson a los brazos de Brody King, que remata con piledriver sobre Johnson (research 2026-10-05, Sportskeeda).
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `duracion: "13:00"`; Sportskeeda reporta **9:46 (tiempo al aire)** para el mismo finish. No se reescribe `duracion` por esta ley.
 - [ ] Fichas de people de **Blake Christian** y **Lee Johnson** — sin
       abrir.
 

@@ -10,7 +10,7 @@ recinto: "Chesapeake Employers Insurance Arena"
 tipo_match: "singles — torneo"
 estipulacion: "AEW Continental Challenge Cup (C3), cuartos de final — Moxley entra como AEW Continental Champion"
 duracion: "[verif]"
-finish: "Rear naked choke (sumisión) [verif — una cobertura menciona en cambio un Death Rider DDT con pinfall]"
+finish: "Moxley conecta un Death Rider, White resiste el conteo, y Moxley remata con un sleeper hold — sumisión (technical knockout)"
 ganador: "Jon Moxley — avanza"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "White tuvo que sacarle una lucha ok al luchador más fake actualmente, el selling es terrible y yo reemplazaría el tiempo en TV de Moxley con Jay White de una vez, pero es una lucha ok de White esto"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8 y 26/8, Collision 22/8 y 29/8, All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports, PWTorch); WebFetch bloqueado por egress"
 tags: [aew-2026, dynamite, jay-white, jon-moxley, continental-challenge-cup, doctrina-fake, sin-clase-declarada]
 ---
 # Jay White vs Jon Moxley — C3, cuartos (19/8/2026)
@@ -78,11 +79,8 @@ tags: [aew-2026, dynamite, jay-white, jon-moxley, continental-challenge-cup, doc
 
 ## Pendientes
 
-- [ ] **Finish en disputa**: una cobertura lo da como **rear naked
-      choke** (coherente con su primera ronda ante Jack Perry), otra
-      como **Death Rider DDT con pinfall**. **Registrado como sumisión
-      con `[verif]`.**
-- [ ] Duración.
+- [x] **Finish** → resuelto por research 2026-10-05 (Yahoo Sports): Moxley conecta un Death Rider, White resiste, Moxley remata con sleeper hold (technical knockout). Reconcilia las dos versiones previas en disputa.
+- [ ] Duración — ninguna fuente accesible la reporta.
 
 ## Cross-links
 
