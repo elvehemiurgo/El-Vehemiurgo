@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE"
 programa: "Raw"
 fecha: 2004-05-10
-ciudad: ""
-recinto: "[verif]"
+ciudad: "San Jose, CA"
+recinto: "HP Pavilion"
 tipo_match: "singles — steel cage match (blow-off del feud)"
 estipulacion: "steel cage — el feud Christian-Jericho-Trish llega a su payoff territorial"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "11:43 [una fuente]"
+finish: "Walls of Jericho (sumisión)"
+ganador: "Chris Jericho"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE Raw 2004-2005 Christian-Jericho era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch, prowrestling.fandom, cagematch); WebFetch bloqueado por egress"
 tags: [wwe-2004, raw-may-2004, christian-cage, chris-jericho, trish-stratus, steel-cage, blow-off, territorial-booking]
 ---
 
@@ -99,7 +100,7 @@ para el disparador de este recuerdo.
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración exactos.
+- [x] Ganador + finish + duración exactos. → Jericho gana con Walls of Jericho; 11:43 [una fuente]; HP Pavilion, San Jose (pwtorch 20 YRS AGO + fandom vía snippets).
 - [ ] Atmósfera del segmento (Trish ringside? Tomko run-in
       previa?).
 - [ ] Star rating WON Meltzer (contexto).

@@ -11,8 +11,8 @@ ciudad: "Springfield, MA"
 recinto: "Springfield Civic Center"
 tipo_match: "singles — Intercontinental Championship match (Rocky Maivia heel)"
 estipulacion: "Intercontinental Championship — Austin defendiendo"
-duracion: ""
-finish: "[verif] — Austin retains via DQ o forfeit (storyline-driven)"
+duracion: "5:37 / 5:33 según fuente"
+finish: "Rock se pone brass knuckles; Austin bloquea y conecta el Stunner para el pin (Austin retiene el IC). Pre-match: Stunner a D'Lo Brown sobre la pickup"
 ganador: "Steve Austin"
 referee: ""
 attendance_anunciada: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. Hipótesis Wrestling Entertainment Class del notebook lo cita como candidato canónico"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, wrestlingrecaps, kbwrestlingreviews); WebFetch bloqueado por egress"
 tags: [wwf-1997, in-your-house, austin-rocky-maivia, ic-title, attitude-era-emerging, character-charisma-clash, wrestling-entertainment-class-candidate, springfield]
 ---
 
@@ -72,7 +73,7 @@ canónico**.)
 
 ## Pendientes / huecos
 
-- [ ] Finish + duración + secuencia.
+- [x] Finish + duración + secuencia. → Austin bloquea las brass knuckles de Rock y lo pina con Stunner; 5:37 / 5:33 según fuente (Wikipedia / wrestlingrecaps-KB vía snippets).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Buyrate In Your House 19**.
 - [ ] **Confirmar asignación Wrestling Entertainment Class**

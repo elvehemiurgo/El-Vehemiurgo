@@ -24,10 +24,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 cross-link + linaje Eddie"
   - "Múltiples retrospectivas + Cheating Death, Stealing Life autobiografía Eddie 2005"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, prowrestling.fandom, wrestletalk); WebFetch bloqueado por egress"
 tags: [wwe-2004, wrestlemania-xx, brock-lesnar, eddie-guerrero, wwe-championship-coronation, eddie-cumbre-carrera, msg, mexican-american-champion-historic, post-build-2002-payoff, brock-departure-foretold]
 ---
 
@@ -106,6 +107,7 @@ booking carny ortodoxo aplicado al talent latino"*.
       final MSG (complicación editorial post-2007 Benoit
       tragedia).
 - [ ] **Asignación de clase del Vehemiurgo** (anchor pieza).
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra Brock vs Eddie por el WWE Championship en WrestleMania XX (14 mar 2004); las fuentes dan en WMXX **Eddie Guerrero vs Kurt Angle** (Eddie retiene, 21:32) y **Goldberg vs Brock Lesnar** (Austin referee especial, 13:43); el cambio de título Brock→Eddie fue en **No Way Out 2004 (15 feb 2004)**, con spear de Goldberg + Frog Splash (Wikipedia/fandom/WrestleTalk vía snippets). Revisar show y fecha de la ficha.
 
 ## Piezas relacionadas
 

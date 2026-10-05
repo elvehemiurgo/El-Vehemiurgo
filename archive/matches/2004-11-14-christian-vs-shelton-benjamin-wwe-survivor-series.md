@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE"
 programa: "Survivor Series 2004"
 fecha: 2004-11-14
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Cleveland, OH"
+recinto: "Gund Arena"
 tipo_match: "singles — Intercontinental Title bracket / mid-card spotlight"
 estipulacion: "[verif] — likely IC Title match"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "13:22"
+finish: "T-Bone Suplex, pinfall"
+ganador: "Shelton Benjamin (retiene el IC)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE Raw 2004-2005 Christian-Jericho era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (onlineworldofwrestling, prowrestling.fandom, tjrwrestling); WebFetch bloqueado por egress"
 tags: [wwe-2004, survivor-series-2004, christian-cage, shelton-benjamin, mid-card-spotlight, ic-title-bracket, oficio-puro]
 ---
 
@@ -79,8 +80,8 @@ suficientemente físico.
 
 ## Pendientes / huecos
 
-- [ ] Stipulación exacta (¿IC Title? ¿number 1 contender?).
-- [ ] Ganador + finish + duración.
+- [x] Stipulación exacta (¿IC Title? ¿number 1 contender?). → WWE Intercontinental Championship, Shelton defiende; Christian con Tyson Tomko (OWW/fandom vía snippets).
+- [x] Ganador + finish + duración. → Shelton Benjamin por pinfall con T-Bone Suplex, 13:22 (OWW/fandom vía snippets).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Asignación de clase del Vehemiurgo**.
 

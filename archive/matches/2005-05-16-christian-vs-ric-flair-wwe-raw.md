@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE"
 programa: "Raw"
 fecha: 2005-05-16
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Omaha, NE"
+recinto: "Qwest Center"
 tipo_match: "singles — tail-end CLB heel run vs leyenda Evolution"
 estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "3:00 [una fuente]"
+finish: "Roll-up de Flair con agarre de mallas y pies en las cuerdas"
+ganador: "Ric Flair"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE Raw 2004-2005 Christian-Jericho era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (prowrestling.fandom, wrestlezone, pwtorch); WebFetch bloqueado por egress"
 tags: [wwe-2005, raw-may-2005, christian-cage, ric-flair, captain-charisma, evolution-era, leyenda-vs-mid-upper]
 ---
 
@@ -82,7 +83,7 @@ backstage real**.
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish + duración. → Ric Flair por roll-up con mallas y cuerdas; 3:00 [una fuente]; Qwest Center, Omaha (fandom/Wrestlezone vía snippets).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Cobertura POST / Cornette retrospectiva del Christian
       run final WWE 2005 + decisión de salir a TNA.

@@ -11,8 +11,8 @@ ciudad: "New York, NY"
 recinto: "Madison Square Garden"
 tipo_match: "singles (storyline trigger — Trish Stratus heel turn)"
 estipulacion: ""
-duracion: ""
-finish: "[verif] — pin con apoyo de Trish Stratus traicionando a Jericho"
+duracion: "15:03 [una fuente]"
+finish: "Trish, intentando golpear a Christian, conecta por error un codazo a Jericho; Christian lo enrolla (roll-up) para el pin [una fuente]"
 ganador: "Christian"
 referee: ""
 attendance_anunciada: "20,000+ (sold out MSG)"
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE Raw 2004-2005 Christian-Jericho era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia); WebFetch bloqueado por egress"
 tags: [wwe-2004, wrestlemania-xx, christian-cage, chris-jericho, trish-stratus, heel-turn, triangle-storyline, captain-charisma]
 ---
 
@@ -87,7 +88,8 @@ disparo en escenario máximo, consecuencia visible inmediata.
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración + secuencia Trish-traición.
+- [x] Duración → 15:03 [una fuente]; finish: codazo accidental de Trish a Jericho + roll-up de Christian (Wikipedia vía snippet).
+- [ ] Secuencia exacta Trish-traición (ver discrepancia).
 - [ ] Star rating WON Meltzer (contexto histórico, no veredicto).
 - [ ] Cobertura POST / Cornette retrospectiva del feud.
 - [ ] Verbatim de Jericho en *Talk Is Jericho* sobre el match
@@ -95,6 +97,7 @@ disparo en escenario máximo, consecuencia visible inmediata.
 - [ ] Verbatim de Christian sobre la apuesta storyline.
 - [ ] Verbatim de Trish sobre el heel turn execution.
 - [ ] **Asignación de clase del Vehemiurgo**.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha encuadra el finish como 'pin con apoyo de Trish traicionando a Jericho'; la fuente describe el codazo de Trish a Jericho como **accidental** (apuntaba a Christian) — el heel turn de Trish sería posterior (Wikipedia vía snippet). Verificar contra video.
 
 ## Piezas relacionadas
 

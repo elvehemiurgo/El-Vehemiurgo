@@ -11,7 +11,7 @@ ciudad: "New York, NY"
 recinto: "Madison Square Garden"
 tipo_match: "singles — opener legendario WrestleMania X (Hart brothers feud peak)"
 estipulacion: ""
-duracion: ""
+duracion: "20:21"
 finish: "[verif] — Owen pin Bret limpio"
 ganador: "Owen Hart"
 referee: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal (2026-05-09)"
   - "WWE archive + WON Newsletter mar 1994"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch, tjrwrestling); WebFetch bloqueado por egress"
 tags: [wwf-1994, wrestlemania-x, owen-hart, bret-hart, hart-brothers-feud, msg, opener-legendario, kayfabe-clean-pin, landmark-historic]
 ---
 
@@ -84,7 +85,8 @@ you protect both talents in a match"*.
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración (de memoria: ~20 minutos).
+- [x] Duración → 20:21 (Cagematch vía snippet WebSearch); pin limpio de Owen tras intercambio de Sharpshooters (TJR).
+- [ ] Finish exacto: mecánica del pin final (verificar contra video).
 - [ ] Star rating WON Meltzer (contexto histórico, no
       veredicto — Meltzer le dio 5★).
 - [ ] Cobertura Cornette + Conrad Thompson + Bruce Prichard

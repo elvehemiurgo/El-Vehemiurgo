@@ -12,17 +12,18 @@ recinto: "Arrowhead Pond"
 tipo_match: "singles — 60-minute Iron Man Match"
 estipulacion: "60-minute Iron Man Match WWF Championship — quien tiene más decisiones gana. Bret defendiendo."
 duracion: "60+ min (sudden death overtime)"
-finish: "[verif] — Sudden death overtime, HBK wins via Sweet Chin Music post 60 min draw"
+finish: "60:00 sin caídas (0-0); Gorilla Monsoon ordena sudden death overtime; HBK gana con Sweet Chin Music"
 ganador: "Shawn Michaels (post overtime)"
-referee: ""
+referee: "Earl Hebner"
 attendance_anunciada: "18,853"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo cluster Bret + Wrestling Entertainment Class context"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, bleacherreport, tjrwrestling); WebFetch bloqueado por egress"
 tags: [wwf-1996, wrestlemania-12, iron-man-match, bret-hart, shawn-michaels, hbk-boyhood-dream-fulfilled, wwf-championship-coronation-hbk, modern-classic-anchor, anaheim, 60-minute-format]
 ---
 
@@ -69,7 +70,7 @@ tags: [wwf-1996, wrestlemania-12, iron-man-match, bret-hart, shawn-michaels, hbk
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + secuencia overtime.
+- [x] Finish exacto + secuencia overtime. → 0-0 a los 60 min, Monsoon ordena sudden death, Sweet Chin Music de HBK para el pin; duración total 1:01:56 [una fuente]; referee Earl Hebner (WWE.com / Bleacher Report vía snippets).
 - [ ] Star rating WON Meltzer (★★★★½ contexto histórico).
 - [ ] **Buyrate WrestleMania XII**.
 - [ ] Cobertura *Something to Wrestle on WrestleMania XII* +

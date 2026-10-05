@@ -15,8 +15,8 @@ ciudad: "Los Angeles, CA"
 recinto: "Staples Center"
 tipo_match: "ladder match — inaugural Money in the Bank, 6-talent"
 estipulacion: "Inaugural MITB. Ganador = contract para World Heavyweight Championship match en cualquier momento del año"
-duracion: ""
-finish: "[verif] — Edge agarra el briefcase"
+duracion: "15:17"
+finish: "Edge golpea a Benoit con una silla y descuelga el maletín"
 ganador: "Edge"
 referee: ""
 attendance_anunciada: "20,193"
@@ -29,10 +29,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal (2026-05-09)"
   - "WWE archive + WON Newsletter abr 2005"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, tjrwrestling, wwe.com); WebFetch bloqueado por egress"
 tags: [wwe-2005, wrestlemania-21, money-in-the-bank-inaugural, ladder-match, edge-wins, christian-cage, mid-card-spectacle, format-innovation]
 ---
 
@@ -81,7 +82,7 @@ estructura WWE para los siguientes 20 años. Candidato fuerte a
 
 ## Pendientes / huecos
 
-- [ ] Finish + duración exactos.
+- [x] Finish + duración exactos. → silletazo de Edge a Benoit y descuelga el briefcase; 15:17 (Wikipedia/TJR vía snippets).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Verbatim Jericho sobre la creación del concepto MITB.
 - [ ] Verbatim Edge sobre el cash-in eventual y la victoria

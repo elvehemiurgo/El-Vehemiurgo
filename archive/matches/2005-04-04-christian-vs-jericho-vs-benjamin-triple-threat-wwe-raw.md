@@ -8,13 +8,13 @@ participantes:
 empresa: "WWE"
 programa: "Raw"
 fecha: 2005-04-04
-ciudad: ""
+ciudad: "Los Angeles, CA"
 recinto: "[verif]"
 tipo_match: "triple threat — graduación final del triángulo expandido"
 estipulacion: "[verif] — likely Intercontinental Title o number 1 contender"
-duracion: ""
+duracion: "7:35 [una fuente]"
 finish: ""
-ganador: ""
+ganador: "Shelton Benjamin (retiene el IC)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -26,9 +26,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE Raw 2004-2005 Christian-Jericho era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, pwtorch); WebFetch bloqueado por egress"
 tags: [wwe-2005, raw-abr-2005, christian-cage, chris-jericho, shelton-benjamin, triple-threat, mid-card-graduation, post-wm21-set-up]
 ---
 
@@ -77,7 +78,8 @@ Cronología tail-end del cluster:
 
 ## Pendientes / huecos
 
-- [ ] Stipulación exacta + ganador + finish + duración.
+- [x] Stipulación → triple threat por el WWE Intercontinental Championship; ganador Shelton Benjamin (retiene); 7:35 [una fuente] (wwe.com video + fandom vía snippets).
+- [ ] Finish exacto (quién fue pinado y cómo) + recinto.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] Verificar si la doble entrada en la lista es duplicación
       o cobertura intencional (probable duplicación).

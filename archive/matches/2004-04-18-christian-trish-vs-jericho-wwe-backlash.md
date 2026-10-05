@@ -12,7 +12,7 @@ ciudad: "Edmonton, Alberta, Canada"
 recinto: "Rexall Place (Skyreach Centre en 2004)"
 tipo_match: "handicap (2-on-1) — payoff del Trish heel turn WMXX"
 estipulacion: "[verif] handicap match, Christian + Trish vs Jericho"
-duracion: ""
+duracion: "11:12"
 finish: "[verif]"
 ganador: "Christian"
 referee: ""
@@ -26,9 +26,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE Raw 2004-2005 Christian-Jericho era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, wrestlingrecaps, kbwrestlingreviews); WebFetch bloqueado por egress"
 tags: [wwe-2004, backlash-2004, christian-cage, chris-jericho, trish-stratus, handicap-match, triangle-payoff, edmonton]
 ---
 
@@ -87,7 +88,8 @@ exactamente la clase de booking que el Vehemiurgo respeta.
 
 ## Pendientes / huecos
 
-- [ ] Finish + duración + secuencia exacta.
+- [x] Duración → 11:12 (Wikipedia + wrestlingrecaps/KB vía snippets).
+- [ ] Finish + secuencia exacta (ver discrepancia de ganador).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Buyrate Backlash 2004**.
 - [ ] Attendance + gate Edmonton.
@@ -96,6 +98,7 @@ exactamente la clase de booking que el Vehemiurgo respeta.
 - [ ] Cobertura POST / Cornette retrospectiva.
 - [ ] Verbatim Trish + Christian + Jericho sobre el match.
 - [ ] **Asignación de clase del Vehemiurgo**.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra ganador **Christian**; las fuentes dan **Chris Jericho** ganador: lanza a Christian sobre Trish y lo pina tras un enzuigiri (Wikipedia + profightdb/KB vía snippets).
 
 ## Piezas relacionadas
 

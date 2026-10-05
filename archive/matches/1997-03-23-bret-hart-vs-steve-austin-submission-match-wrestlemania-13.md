@@ -11,8 +11,8 @@ ciudad: "Rosemont, IL"
 recinto: "Rosemont Horizon"
 tipo_match: "singles — Submission Match"
 estipulacion: "Submission Match — Special Guest Referee Ken Shamrock"
-duracion: ""
-finish: "[verif] — Bret wins via Sharpshooter, Austin se desmaya pero NO submits (icono blood passing out)"
+duracion: "22:05"
+finish: "Austin, ensangrentado, se desmaya en el Sharpshooter sin rendirse; Ken Shamrock detiene el match por decisión del referee — Bret gana; Bret no suelta la llave (double turn)"
 ganador: "Bret Hart"
 referee: "Ken Shamrock"
 attendance_anunciada: ""
@@ -20,10 +20,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 5 + Wrestling Entertainment Class anchors"
   - "WON Newsletter mar 1997 ★★★★★ (contexto histórico)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (cagematch, wikipedia, wwe.com); WebFetch bloqueado por egress"
 tags: [wwf-1997, wrestlemania-13, bret-hart, steve-austin, submission-match, ken-shamrock-ref, double-turn-perfecto, austin-face-turn-bret-heel-turn, modern-classic-anchor, blood-passing-out-iconic-image]
 ---
 
@@ -81,7 +82,7 @@ pieza obligatoria**.
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración + secuencia.
+- [x] Finish exacto + duración + secuencia. → 22:05; Austin se desmaya en el Sharpshooter, victoria de Bret por decisión del referee (Shamrock) (Cagematch + Wikipedia vía snippets).
 - [ ] Cobertura *Something to Wrestle on WrestleMania XIII* +
       Cornette retrospective (alta probabilidad).
 - [ ] Verbatim Bret en *Hitman* autobiografía sobre el match.

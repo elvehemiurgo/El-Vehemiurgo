@@ -7,13 +7,13 @@ participantes:
 empresa: "WWE"
 programa: "Unforgiven 2004"
 fecha: 2004-09-12
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Portland, OR"
+recinto: "Rose Garden"
 tipo_match: "singles"
 estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+duracion: "22:29"
+finish: "Jericho descuelga el cinturón (ladder match por el IC vacante)"
+ganador: "Chris Jericho"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE Raw 2004-2005 Christian-Jericho era"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, wrestlingrecaps, tjrwrestling); WebFetch bloqueado por egress"
 tags: [wwe-2004, unforgiven-2004, christian-cage, chris-jericho, ppv-feud-resurfacing, captain-charisma]
 ---
 
@@ -74,8 +75,8 @@ en formato resurgente.)
 
 ## Pendientes / huecos
 
-- [ ] **Verificar fecha exacta** (presunción: 12 sep 2004).
-- [ ] Ganador + finish + duración + stipulación.
+- [x] **Verificar fecha exacta** (presunción: 12 sep 2004). → confirmada: 12 sep 2004, Portland (Wikipedia vía snippet).
+- [x] Ganador + finish + duración + stipulación. → ladder match por el WWE Intercontinental Championship vacante; Jericho gana descolgando el cinturón; 22:29 (Wikipedia/wrestlingrecaps vía snippets).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Buyrate Unforgiven 2004**.
 - [ ] Cobertura POST / Cornette retrospectiva del second feud

@@ -3,10 +3,11 @@ nombre: "Romeo Moreno"
 tipo: fact-sheet
 categoria: people
 slug: romeo-moreno
-estado: stub
-ultima_actualizacion: 2026-08-26
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — WWE NXT, 2/6/2026)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — sin búsquedas nuevas (budget de WebSearch agotado); consolidación del research ya registrado en la ficha (s51); WebFetch bloqueado por egress"
 tags: [romeo-moreno, wwe-nxt-2026, lucha-speed, babyface, reserva-safe, primer-registro-individual]
 ---
 
@@ -19,13 +20,26 @@ tags: [romeo-moreno, wwe-nxt-2026, lucha-speed, babyface, reserva-safe, primer-r
 ## Identificación
 
 - **Nombre de gimmick**: Romeo Moreno.
-- **Nombre real**: [verif].
-- **Empresa (2026)**: WWE NXT.
+- **Nombre real**: **Jaime Zozaya-García** (research s51).
+- **Nacimiento**: **11/7/2002**, **Madrid**, España (research s51).
+- **Nombre previo**: **Zozaya** (indies europeas y Japón/México).
+- **Empresa (oct 2026)**: WWE NXT. Entrenador y fecha de debut: [no
+  encontrados].
 
 ## Trayectoria condensada
 
+- Pre-WWE — como **Zozaya**: PROGRESS, RevPro (Reino Unido),
+  **Pro Wrestling NOAH** y **CMLL** [fechas no confirmadas].
 - **2/6/2026 (WWE NXT)** — vs Lexis King: Wrestling Entertainment.
   ([→](../matches/2026-06-02-romeo-moreno-vs-lexis-king-wwe-nxt.md)).
+- **21/7/2026 (NXT)** — con Saquon Shugars y Noam Dar, cae ante
+  Darkstate (come la powerbomb asistida).
+- **18/8/2026 (NXT)** — 4-way, come el pin de EK Prosper; sale
+  acompañado por Noam Dar.
+- **25/8/2026 (NXT)** — 8-man en el bando face vs The Birthright;
+  pierden (Dempsey pina a Dar).
+- **8/9/2026 (NXT)** — con Noam Dar vs Creed Brothers; cae ante
+  Julius Creed.
 
 ## Notas editoriales del Vehemiurgo
 

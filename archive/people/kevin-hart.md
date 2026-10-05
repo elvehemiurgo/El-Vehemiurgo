@@ -4,10 +4,11 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-hart
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s04 (visión directa — AEW Collision 11/4/2026, primera mención)"
   - "Volcado Vehemiurgo 2026-07-14 s08 (visión directa — AEW Dynamite 22/4/2026, segunda mención)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, All Elite Wrestling results, PWTorch, Fox News, Yahoo Sports vía snippet); WebFetch bloqueado por egress"
 tags: [kevin-hart, identidad-sin-confirmar, dos-apariciones, myron-reed-comparacion, mjf-de-tu-a-tu, kevin-owens-hipotesis-no-confirmada]
 ---
 
@@ -89,6 +90,37 @@ todavía**: la hipótesis queda declarada, pendiente de un research más
 puntual (Fightful/PWTorch del 2/9) que la suba a Secundaria. Ver
 [`./kevin-knight.md`](./kevin-knight.md). Pieza:
 [confrontación con Fletcher](../segments/2026-09-02-kevin-knight-kyle-fletcher-don-callis-aew-dynamite.md) (WE).
+
+## Resolución de identidad (research 2026-10-05)
+
+**Nombre canónico: Kevin Knight** ("The Jet", AEW) — ver
+[`./kevin-knight.md`](./kevin-knight.md). La hipótesis Kevin Owens
+queda **descartada**.
+
+**Evidencia** (Secundaria, ubicándose en show + fecha dictados):
+
+1. **AEW Dynamite 22/4/2026** (la mención "de tú a tú"): MJF exige a
+   Darby Allin que le devuelva el título mundial y lo confronta el
+   **campeón TNT Kevin Knight**, que le dice que está lloriqueando;
+   MJF responde que ya demostró ser mejor que Knight y termina
+   aceptando un match por el título TNT para la semana siguiente
+   [POST Wrestling, 22/4/2026: *"Kevin Knight vs. MJF set for next
+   week's AEW Dynamite"*; resultados AEW y PWTorch VIP 22/4]. Es
+   exactamente la escena dictada: un campeón de midcard hablándole
+   de igual a igual al ex-campeón mundial.
+2. **AEW Dynamite 29/4/2026**: Knight vence a MJF (low blow) —
+   match ya registrado en [`./kevin-knight.md`](./kevin-knight.md)
+   como el payoff directo del segmento del 22/4.
+3. **AEW Dynamite 2/9/2026**: el segmento con Kyle Fletcher y Don
+   Callis (research 2026-09-17) también es Knight.
+4. **Collision 11/4/2026** (comparación con Myron Reed): la frase
+   *"¿qué lo diferencia de Kevin Hart? porque él sí y Myron no"*
+   encaja con Knight —flyer de la misma camada al que AEW sí empujó
+   (campeón TNT en abril 2026)—; **por lectura**, sin fuente que lo
+   ate directamente, pero sin candidato alternativo en la escena.
+
+**Recomendación**: fusionar esta ficha en `kevin-knight.md` (no se
+renombra ni borra en esta pasada; queda para decisión editorial).
 
 ## Pendientes / huecos
 

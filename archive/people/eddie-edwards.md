@@ -3,12 +3,13 @@ nombre: "Eddie Edwards"
 tipo: fact-sheet
 categoria: people
 slug: "eddie-edwards"
-estado: stub
-ultima_actualizacion: 2026-08-01
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 y s02"
   - "Volcado Vehemiurgo 2026-06-17 (panteón Tier 2 #11 — American Wolves)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Cagematch títulos, wrestling fandom vía snippet); WebFetch bloqueado por egress"
 tags: [eddie-edwards, tna, the-system, lider-de-faction, american-wolves, panteon-tier-2, build-rebellion-2026]
 ---
 
@@ -24,16 +25,22 @@ tags: [eddie-edwards, tna, the-system, lider-de-faction, american-wolves, panteo
 
 ## Identificación
 
-- **Nombre real**: Eddie Edwards [verif nombre completo].
+- **Nombre real**: **Eric Maher**.
+- **Nacimiento**: **30/12/1983**; de **Boston**, Massachusetts.
 - **Nombres de gimmick**: Eddie Edwards; American Wolves (tag,
   con Davey Richards).
-- **Empresa actual**: TNA Wrestling.
+- **Empresa actual (oct 2026)**: TNA Wrestling — líder de The System.
 
 ## Trayectoria condensada
 
 - ROH: American Wolves con Davey Richards — la razón del puesto
-  en el panteón (Tier 2 #11). [verif títulos ROH].
-- TNA desde 2014 [verif]: ex-World Champion [verif reinados].
+  en el panteón (Tier 2 #11). En ROH: **2x World Tag Team Champion**
+  (con Richards), **campeón inaugural de ROH Television** y **ROH
+  World Champion** — primer **Triple Crown** de ROH.
+- TNA desde 2014 [año no reconfirmado esta sesión]: **TNA World
+  Heavyweight Champion del 3/10/2016 al 8/1/2017**; **7x TNA World
+  Tag Team Champion** (5 con Richards, 2 con Brian Myers). Primer
+  luchador en completar la Triple Crown de ROH y la de TNA.
 - 2026 — líder de The System, figura de la "era corporativa" de
   TNA (take s01): plataforma para Bear Bronson y Cedric Alexander.
 - 27/3/2026 — Sacrifice: pierde vs Moose por DQ (0:32, run-in de

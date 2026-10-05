@@ -11,8 +11,8 @@ ciudad: "San Jose, CA"
 recinto: "San Jose Arena"
 tipo_match: "singles — Casket Match (WWF Championship)"
 estipulacion: "Casket Match — WWF Championship match"
-duracion: ""
-finish: "[verif] — Shawn retains via Kane interference (Kane debut)"
+duracion: "20:37 [una fuente]"
+finish: "Chyna ataca al referee; NAO y Los Boricuas atacan a Undertaker; Kane aparece, los limpia y chokeslamea a Undertaker dentro del ataúd — HBK retiene. Post-match Kane y Paul Bearer queman el ataúd"
 ganador: "Shawn Michaels"
 referee: ""
 attendance_anunciada: ""
@@ -25,9 +25,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, prowrestling.fandom); WebFetch bloqueado por egress"
 tags: [wwf-1998, royal-rumble-1998, shawn-michaels, undertaker, casket-match, wwf-championship, kane-debut, hbk-back-injury, attitude-era-emerging]
 ---
 
@@ -81,7 +82,7 @@ pieza histórica obligatoria.)
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración + secuencia Kane interference.
+- [x] Finish exacto + duración + secuencia Kane interference. → Kane chokeslamea a Undertaker dentro del ataúd tras ref bump de Chyna y ataque de NAO + Los Boricuas; 20:37 [una fuente] (Wikipedia/fandom vía snippets).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Buyrate Royal Rumble 1998**.
 - [ ] Verbatim Shawn en *Heartbreak & Triumph* autobiografía
