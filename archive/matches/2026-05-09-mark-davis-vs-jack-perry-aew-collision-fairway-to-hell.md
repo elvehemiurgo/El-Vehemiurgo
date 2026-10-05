@@ -5,22 +5,23 @@ participantes: ["Mark Davis", "Jack Perry"]
 empresa: "AEW"
 programa: "Collision — Fairway to Hell"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "West Palm Beach, FL"
+recinto: "SoFi Center"
 tipo_match: "singles"
-estipulacion: "título en juego [verif cuál] — coronación"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "Mark Davis (coronación)"
+estipulacion: "título en juego — AEW National Championship, Jack Perry (c) defendiendo — coronación"
+duracion: "14:00"
+finish: "Don Callis baja desde comentarios a distraer al referee; Ricochet golpea a Perry con un palo de golf; Mark Davis remata con un piledriver para ganar el AEW National Championship"
+ganador: "Mark Davis (coronación) — nuevo AEW National Champion"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece las 3 clases — 'esta lucha y coronación se merece las 3 clases, estuvo muy buena'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s13 (visión directa — AEW Collision Fairway to Hell, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Sportskeeda, F4WOnline, POST Wrestling); referee no confirmado; WebFetch bloqueado por egress"
 tags: [mark-davis, jack-perry, aew-collision-2026, fairway-to-hell, singles, coronacion, perfect-match, fighting-spirit, wrestling-entertainment, no-fan-del-estilo-de-perry, davis-siempre-buen-show]
 ---
 
@@ -57,8 +58,12 @@ tags: [mark-davis, jack-perry, aew-collision-2026, fairway-to-hell, singles, cor
 
 ## Pendientes
 
-- [ ] [verif] qué título ganó Mark Davis.
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Título ganado por Mark Davis → AEW National Championship
+      (research 2026-10-05).
+- [x] Finish + duración + ciudad/recinto → Don Callis distrae al
+      referee, Ricochet golpea a Perry con un palo de golf,
+      Davis remata con piledriver, 14:00, SoFi Center, West Palm
+      Beach FL (research 2026-10-05).
 
 ## Cross-links
 

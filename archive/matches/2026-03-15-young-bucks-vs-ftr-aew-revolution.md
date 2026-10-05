@@ -9,13 +9,13 @@ participantes:
 empresa: "AEW"
 programa: "Revolution 2026"
 fecha: 2026-03-15
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "tag — feud histórico cierre / blow-off PPV"
-estipulacion: "[verif]"
-duracion: ""
-finish: ""
-ganador: ""
+ciudad: "Los Angeles, CA"
+recinto: "Crypto.com Arena"
+tipo_match: "tag — feud histórico cierre / blow-off PPV — AEW World Tag Team Championship"
+estipulacion: "título en juego — AEW World Tag Team Championship, FTR (c) defendiendo"
+duracion: "19:41"
+finish: "FTR retiene con un avalanche Shatter Machine"
+ganador: "FTR (Cash Wheeler & Dax Harwood) — retienen"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -27,9 +27,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier AAA + AEW 2026"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Bleacher Report, SI/FanNation, POST Wrestling, Cageside Seats, prowrestling.fandom); WebFetch bloqueado por egress"
 tags: [aew-2026, revolution-2026, young-bucks, ftr, tag-feud-blow-off, indie-tag-tradition, ciampa-cross, takeover-period]
 ---
 
@@ -81,7 +82,10 @@ tags: [aew-2026, revolution-2026, young-bucks, ftr, tag-feud-blow-off, indie-tag
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador + finish + duración → FTR retiene el AEW World Tag
+      Team Championship con avalanche Shatter Machine, 19:41
+      (research 2026-10-05).
+- [ ] Referee no confirmado por research.
 - [ ] Star rating WON Meltzer (Meltzer fan declarado de Bucks
       + FTR — contexto, no veredicto).
 - [ ] **Cornette reaction** post-match (alta probabilidad de

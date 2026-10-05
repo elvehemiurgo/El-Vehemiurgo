@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-06-06
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Youngstown, OH"
+recinto: "Covelli Centre"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'estuvo muy cool [...] Ciampa estuvo en su punto'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s22 (visión directa — AEW Collision, 6/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [ciampa, aew-collision-2026, squash, promo, sin-clase, oldschool-tipo-wcw-tv, no-ataque-backstage-rutina, oportunidad-bien-aprovechada]
 ---
 
@@ -54,7 +55,10 @@ correcta.
       sesión s24, misma órbita del feud Ciampa/Jericho. Confianza
       razonable, no absoluta. Ver
       [`../people/tony-schiavone.md`](../people/tony-schiavone.md).
-- [ ] Línea textual + rival de la squash.
+- [x] Rival de la squash → **BEEF** (Tommaso Ciampa defeated BEEF),
+      según Fightful, 6/6/2026. Línea textual exacta sigue sin
+      confirmar.
+- [x] Ciudad/recinto → Youngstown, OH (Covelli Centre).
 
 ## Cross-links
 

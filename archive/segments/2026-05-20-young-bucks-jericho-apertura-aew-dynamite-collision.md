@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite & Collision"
 fecha: 2026-05-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Portland, ME"
+recinto: "Cross Insurance Arena"
 ubicacion_en_show: "Apertura del show"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'estuvo muy cool, sí me entretuvo, típico humor de los YBs'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s16 (visión directa — AEW Dynamite & Collision 20/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc): el ángulo deriva en el opener 3v3 (Jericho & Young Bucks caen ante Ricochet, Andrade & Mark Davis) — ver [`../matches/2026-05-20-opener-3-contra-3-aew-dynamite-collision.md`](../matches/2026-05-20-opener-3-contra-3-aew-dynamite-collision.md); WebFetch bloqueado por egress"
 tags: [young-bucks, chris-jericho, aew-dynamite-collision-2026, apertura, wrestling-entertainment, humor-tipico-ybs, primer-registro-jericho]
 ---
 
@@ -48,6 +49,8 @@ marca registrada, no novedad — y aun así funciona.
 
 ## Pendientes
 
+- [x] Ciudad/recinto → Cross Insurance Arena, Portland ME
+      (research 2026-10-05).
 - [ ] Línea textual + contenido exacto del segmento.
 - [ ] Duración + ubicación en el show.
 

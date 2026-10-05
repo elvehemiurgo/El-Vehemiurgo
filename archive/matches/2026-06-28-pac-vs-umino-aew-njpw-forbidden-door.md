@@ -5,22 +5,23 @@ participantes: ["PAC", "Umino"]
 empresa: "AEW x NJPW"
 programa: "Forbidden Door"
 fecha: 2026-06-28
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "San Jose, CA"
+recinto: "SAP Center"
 tipo_match: "singles"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+estipulacion: "IWGP Global Heavyweight Championship"
+duracion: "18:15"
+finish: "Shota Umino (c) gana con Paradigm Shift — retiene el IWGP Global Heavyweight Championship"
+ganador: "Shota Umino (retiene)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'fue genial! merece todas las clases, se vio increible'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s28 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., TheSportster); WebFetch bloqueado por egress"
 tags: [pac, umino, aew-njpw-forbidden-door-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, primer-registro-umino]
 ---
 
@@ -44,8 +45,11 @@ archivo — sin datos duros de identidad todavía, ver
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
-- [ ] Identidad completa de Umino.
+- [x] Finish + duración + ciudad/recinto → Shota Umino retiene el
+      IWGP Global Heavyweight Championship con Paradigm Shift,
+      18:15, San Jose, CA (SAP Center) (Wrestling Inc., 28/6/2026).
+- [x] Identidad completa de Umino → **Shota Umino**, campeón IWGP
+      Global Heavyweight en este match.
 
 ## Cross-links
 

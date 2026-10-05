@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Collision Summer Blockbuster"
 fecha: 2026-06-11
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Cincinnati, OH"
+recinto: "Andrew J. Brady Music Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'aquí estuvo perfecta [...] muy buena promo y muy buen gimmick'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s25 (visión directa — AEW Collision Summer Blockbuster, 11/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [thekla, aew-collision-2026, promo, sin-clase, cringe-pero-cool, fan-stardom-2014-2022, proyecto-thekla]
 ---
 
@@ -57,6 +58,8 @@ tags: [thekla, aew-collision-2026, promo, sin-clase, cringe-pero-cool, fan-stard
 ## Pendientes
 
 - [ ] Línea textual + duración exacta.
+- [x] Ciudad/recinto → Cincinnati, OH (Andrew J. Brady Music
+      Center).
 
 ## Cross-links
 

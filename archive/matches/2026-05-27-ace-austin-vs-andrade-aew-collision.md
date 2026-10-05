@@ -5,12 +5,12 @@ participantes: ["Ace Austin", "Andrade"]
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-05-27
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Philadelphia, PA"
+recinto: "Liacouras Center"
 tipo_match: "singles"
 estipulacion: "standard [verif]"
-duracion: "[verif]"
-finish: "[verif — pin de Andrade]"
+duracion: "9:00"
+finish: "Andrade gana por pinfall tras powerbomb en la esquina"
 ganador: "Andrade"
 referee: "[verif]"
 encuentros_previos: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece todas las clases — 'a esta le pondría todas las clases, se lo merece'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s18 (visión directa — AEW Collision, 27/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, eWrestling, Fightful); WebFetch bloqueado por egress"
 tags: [ace-austin, andrade, aew-collision-2026, singles, perfect-match, fighting-spirit, wrestling-entertainment, face-vs-face-encubierto, evolucion-ace-austin, andrade-cerca-del-faceturn, showcase-honorable, segundo-perfect-match-ace-austin]
 ---
 
@@ -69,7 +70,9 @@ tags: [ace-austin, andrade, aew-collision-2026, singles, perfect-match, fighting
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Andrade gana por pinfall
+      (powerbomb en la esquina), 9:00, Philadelphia PA (Liacouras
+      Center) (PWTorch / eWrestling, 27/5/2026).
 - [ ] [verif] título en juego, si lo hay.
 
 ## Cross-links

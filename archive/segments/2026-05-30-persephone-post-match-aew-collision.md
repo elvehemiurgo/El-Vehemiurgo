@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-05-30
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Huntsville, AL"
+recinto: "Von Braun Center"
 ubicacion_en_show: "Post-match, tras Hazuki vs Maya World"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'siento que está aprendiendo las cosas correctas, se ve muy fuerte perse'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s19 (visión directa — AEW Collision, 30/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [persephone, aew-collision-2026, promo, sin-clase, desarrollo-de-mic-en-ingles, heel-extranjero-que-no-gana, comparacion-pac-samoa-joe, cmll-titulos-midcard, critica-mercedes-mone]
 ---
 
@@ -75,6 +76,7 @@ tags: [persephone, aew-collision-2026, promo, sin-clase, desarrollo-de-mic-en-in
 ## Pendientes
 
 - [ ] Línea textual + duración exacta.
+- [x] Ciudad/recinto → Huntsville, AL (Von Braun Center).
 - [ ] Seguir si AEW refresca el patrón de booking en próximas
       apariciones.
 

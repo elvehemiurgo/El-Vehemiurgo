@@ -6,9 +6,9 @@ protagonistas: ["Jamie Hayter [verif]", "Windsor"]
 empresa: "AEW (All Elite Wrestling)"
 programa: "Collision"
 fecha: 2026-04-11
-ciudad: "[verif]"
-recinto: "[verif]"
-ubicacion_en_show: "[verif]"
+ciudad: "Edmonton, Alberta (Canadá) [grabado]"
+recinto: "Rogers Place"
+ubicacion_en_show: "[verif — no identificado como segmento aparte en los recaps consultados]"
 duracion: "[verif]"
 linea_textual: ""
 gimmick_momento: "[verif — dúo/alianza Windsor + Hayter]"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment. 'Awesome promo, really good.' El Vehemiurgo la llama 'old-school' = Fighting Spirit (autenticidad cruda) + Wrestling Entertainment (character work)."
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Collision 11 abr 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (confirma venue del show, Rogers Place/Edmonton AB grabado; no se halló recap que detalle esta promo específica); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, jamie-hayter-verif, windsor-verif, promo-tag, fighting-spirit-class, wrestling-entertainment-class, old-school-igual-fighting-spirit, primera-promo-fighting-spirit, identidad-contexto-pendiente-verif]
 ---
 
@@ -68,7 +69,10 @@ tags: [aew-collision-2026, jamie-hayter-verif, windsor-verif, promo-tag, fightin
       relación entre ambas (¿alianza?, ¿tag?, ¿facción?).
 - [ ] **Contenido de la promo**: a quién va dirigida, qué
       construye, líneas destacadas.
-- [ ] **Ubicación en show + duración + ciudad/recinto**.
+- [x] **Ciudad/recinto** → Rogers Place, Edmonton AB (grabado)
+      (research 2026-10-05).
+- [ ] **Ubicación en show + duración** — no identificado como
+      segmento aparte en los recaps consultados.
 - [ ] Evaluar fact-sheets: Jamie Hayter, Windsor.
 
 ## Piezas relacionadas

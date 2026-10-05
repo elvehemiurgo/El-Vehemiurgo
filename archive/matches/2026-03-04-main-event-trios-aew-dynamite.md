@@ -1,26 +1,27 @@
 ---
-match: "Main event — trios (3 vs 3) [verif lineup completo]"
+match: "Main event — trios (3 vs 3), AEW World Trios Championship"
 slug: "2026-03-04-main-event-trios-aew-dynamite"
-participantes: ["Mark Davis", "[verif resto del lineup]"]
+participantes: ["Mark Davis", "Kazuchika Okada", "Kyle Fletcher", "Hangman Adam Page", "Kevin Knight", "Mike Bailey (JetSpeed / Jet Set Rodeo, campeones defendiendo)"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-03-04
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "trios (six-man tag)"
-estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "El Paso, TX"
+recinto: "Don Haskins Center"
+tipo_match: "trios (six-man tag) — AEW World Trios Championship"
+estipulacion: "título en juego — Don Callis Family (Okada/Fletcher/Davis) retadores vs JetSpeed/Jet Set Rodeo (Hangman Page, Kevin Knight, Mike Bailey) campeones"
+duracion: "13:27"
+finish: "MJF interfiere y sacar a Hangman cuando preparaba el Buckshot Lariat; en el ring, Okada golpea a Knight con el Rainmaker y Mark Davis remata con un piledriver para el pin"
+ganador: "Don Callis Family (Okada, Fletcher & Davis) — nuevos AEW World Trios Champions"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buenísimo — todas las clases. 'Se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s01 (visión directa — AEW Dynamite 4/3/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, All Elite Wrestling, Cageside Seats, Rajah, Razorfine); WebFetch bloqueado por egress"
 tags: [mark-davis, aew-dynamite-2026, trios, six-man-tag, perfect-match, fighting-spirit, wrestling-entertainment, mark-davis-infravalorado, aussie-open, kyle-fletcher-comparacion]
 ---
 
@@ -58,10 +59,18 @@ tags: [mark-davis, aew-dynamite-2026, trios, six-man-tag, perfect-match, fightin
 
 ## Pendientes
 
-- [ ] Lineup completo (ambos equipos) + rivales + finish +
-      duración + sede.
+- [x] Lineup completo (ambos equipos) + rivales + finish +
+      duración + sede → Don Callis Family (Okada, Fletcher,
+      Davis) vence a JetSpeed/Jet Set Rodeo (Hangman Page, Kevin
+      Knight, Mike Bailey) por el AEW World Trios Championship,
+      13:27, Don Haskins Center, El Paso TX (research 2026-10-05).
 - [ ] ¿Este main event conecta con el six-man del 8/4 (Takeshita,
-      Andrade, Davis) o es un trío/rival distinto?
+      Andrade, Davis) o es un trío/rival distinto? — **Nota**: es
+      un trío distinto (este es Okada/Fletcher/Davis como Don
+      Callis Family contra JetSpeed; el del 8/4 es
+      Takeshita/Andrade/Davis), confirmado por research
+      2026-10-05.
+- [ ] Referee no confirmado por research.
 
 ## Cross-links
 

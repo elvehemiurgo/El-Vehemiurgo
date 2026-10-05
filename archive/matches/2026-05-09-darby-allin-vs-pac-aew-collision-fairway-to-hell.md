@@ -5,22 +5,23 @@ participantes: ["Darby Allin", "PAC"]
 empresa: "AEW"
 programa: "Collision — Fairway to Hell"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "standard [verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "West Palm Beach, FL"
+recinto: "SoFi Center"
+tipo_match: "singles — AEW World Championship"
+estipulacion: "título en juego, sin cuenta afuera (no-countout) — Darby Allin (c) defendiendo"
+duracion: "20:00"
+finish: "Darby Allin retiene aprovechando la estipulación sin cuenta afuera, sobreviviendo una caída desde un balcón a través de una pila de cuatro mesas"
+ganador: "Darby Allin — retiene"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece todas las clases — 'fue muy real'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s14 (visión directa — AEW Collision Fairway to Hell, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Sportskeeda, F4WOnline, POST Wrestling); referee no confirmado; WebFetch bloqueado por egress"
 tags: [darby-allin, pac, aew-collision-2026, fairway-to-hell, main-event, perfect-match, fighting-spirit, wrestling-entertainment, muy-real, tercer-perfect-match-darby-consecutivo, alta-panteon-46]
 ---
 
@@ -56,7 +57,10 @@ tags: [darby-allin, pac, aew-collision-2026, fairway-to-hell, main-event, perfec
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Darby retiene el AEW
+      World Championship (no-countout, sobrevive caída por balcón
+      a través de 4 mesas), 20:00, SoFi Center, West Palm Beach FL
+      (research 2026-10-05).
 
 ## Cross-links
 

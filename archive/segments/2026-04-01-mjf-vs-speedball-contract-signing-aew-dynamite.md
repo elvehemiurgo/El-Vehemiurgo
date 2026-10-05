@@ -8,9 +8,9 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-04-01
-ciudad: "[verif]"
-recinto: "[verif]"
-ubicacion_en_show: "[verif — previo al main event de la misma noche]"
+ciudad: "Winnipeg, MB (Canadá)"
+recinto: "Canada Life Centre"
+ubicacion_en_show: "Apertura del show"
 duracion: "[verif]"
 linea_textual: "[verif]"
 gimmick_momento: "Contract signing camino al Perfect Match de esa misma noche; Bailey flaquea en su promo frente al modern heel old-school MJF"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — crítica puntual: Bailey 'como que se ahogó en su promo'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s03 (visión directa — AEW Dynamite 1/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Wrestleview, SI/FanNation); WebFetch bloqueado por egress"
 tags: [mjf, speedball-mike-bailey, aew-dynamite-2026, contract-signing, sin-clase, bailey-se-ahoga-en-promo, semilla-del-pendiente-de-promos]
 ---
 
@@ -49,9 +50,22 @@ arma principal) hace más notorio el bache verbal de Bailey.
 
 ## Pendientes
 
-- [ ] Línea textual + ubicación exacta en el show.
-- [ ] Estipulación pactada en la firma (¿algo más allá de
-      singles standard?).
+- [x] Ciudad/recinto + ubicación en el show → Canada Life
+      Centre, Winnipeg MB; segmento de apertura (research
+      2026-10-05).
+- [ ] Línea textual exacta.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra
+      esto como "contract signing MJF vs Speedball Mike Bailey".
+      Los recaps consultados (PWTorch, Wrestleview, SI/FanNation)
+      describen el segmento de apertura como la **firma de
+      contrato entre MJF y Kenny Omega** (AEW World Championship
+      en Dynasty, 12 abr, Vancouver) — con Chris Jericho
+      interrumpiendo. El cruce MJF-Bailey surge **dentro** de ese
+      mismo segmento (MJF se burla de la salud de Omega, Bailey
+      interviene y así se pacta el singles de esa noche), no como
+      firma de contrato aparte entre MJF y Bailey. No se
+      reescribe el hecho; se deja esta nota para contraste
+      editorial.
 
 ## Cross-links
 

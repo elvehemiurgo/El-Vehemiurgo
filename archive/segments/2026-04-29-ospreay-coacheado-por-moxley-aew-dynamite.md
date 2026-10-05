@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-04-29
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Fairfax, VA"
+recinto: "Eaglebank Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — giro que decepciona. 'La verdad me perdieron con este giro'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s10 (visión directa — AEW Dynamite 29/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (confirma venue del show; no se halló recap que detalle este segmento específico); WebFetch bloqueado por egress"
 tags: [will-ospreay, jon-moxley, aew-dynamite-2026, angle, sin-clase, giro-que-decepciona, mentoria-vs-caceria, hope-booking-mjf-vs-ospreay]
 ---
 
@@ -53,6 +54,8 @@ desarrollo completo de la crítica en
 
 ## Pendientes
 
+- [x] Ciudad/recinto → Eaglebank Arena, Fairfax VA (research
+      2026-10-05).
 - [ ] Línea textual + contenido exacto del coaching.
 - [ ] Ubicación en el show + duración.
 

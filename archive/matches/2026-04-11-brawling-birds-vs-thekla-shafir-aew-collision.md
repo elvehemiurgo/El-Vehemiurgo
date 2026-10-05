@@ -8,13 +8,13 @@ participantes:
 empresa: "AEW (All Elite Wrestling)"
 programa: "Collision"
 fecha: 2026-04-11
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "tag femenino [verif — probable 2 vs 2: Brawling Birds vs Thekla & Shafir]"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "Edmonton, Alberta (Canadá) [grabado — taping conjunto con el Dynamite de la semana]"
+recinto: "Rogers Place"
+tipo_match: "tag femenino 2 vs 2: Brawling Birds vs Thekla (AEW Women's World Champion) & Marina Shafir"
+estipulacion: "standard"
+duracion: "9:02"
+finish: "Brawling Birds ganan por pinfall con el Two Birds, One Stone"
+ganador: "Brawling Birds"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -26,10 +26,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit Class — 'pusieron un clásico'. Brawling Birds geniales + Thekla genial + Shafir ok ('me pese darle una clase a Marina'). Las otras 3 pusieron el clásico; Marina se beneficia de la clase del match."
 clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Collision 11 abr 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (All Elite Wrestling, Wrestling Inc, Fightful, Rajah, eWrestling); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, brawling-birds, thekla, marina-shafir, proyecto-thekla, fighting-spirit-class, brawling-birds-golpean-duro, marina-shafir-me-pesa-darle-clase, grupo-moxley-meh, nepotismo-windsor, identidad-estructura-pendiente-verif]
 ---
 
@@ -88,13 +89,17 @@ tags: [aew-collision-2026, brawling-birds, thekla, marina-shafir, proyecto-thekl
 ## Pendientes / huecos
 
 - [x] **CLASE ASIGNADA** — Fighting Spirit (Vehemiurgo 2026-05-26).
+- [x] **Estructura del match (2v2)** confirmada por research
+      2026-10-05: Brawling Birds vs Thekla (AEW Women's World
+      Champion) & Marina Shafir.
 - [ ] **Identidades**: ¿quiénes son las **Brawling Birds**?
-      ¿conexión con Windsor & Hayter? ¿estructura del match
-      (2v2)?
+      ¿conexión con Windsor & Hayter?
 - [ ] **Confirmar Thekla** (STARDOM) + su rol/proyecto en AEW.
 - [ ] **Alineaciones de facción**: ¿Thekla + Shafir = lado
       Death Riders/Windsor? ¿Brawling Birds = babyfaces?
-- [ ] **Ciudad, recinto, finish, ganador, duración**.
+- [x] **Ciudad, recinto, finish, ganador, duración** →
+      Rogers Place, Edmonton AB (taping); Brawling Birds ganan
+      con Two Birds, One Stone, 9:02 (research 2026-10-05).
 - [ ] Fact-sheets pendientes: Brawling Birds, Marina Shafir,
       Windsor.
 

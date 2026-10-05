@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Revolution 2026"
 fecha: 2026-03-15
-ciudad: ""
-recinto: "[verif]"
+ciudad: "Los Angeles, CA"
+recinto: "Crypto.com Arena"
 ubicacion_en_show: "[verif]"
 duracion: ""
 linea_textual: ""
@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal (2026-05-09)"
   - "Sec. 1 del notebook cita esta entrada explícitamente: 'AEW Revolution 2026 con un Killswitch'"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling: el post-match de FTR vs Young Bucks describe a Christian Cage sorprendiendo a FTR por detrás, consistente con el spot); WebFetch bloqueado por egress"
 tags: [aew-2026, revolution-2026, christian-cage, killswitch, modern-era-veteran, christian-eje-vehemiurgia, fase-4-linaje]
 ---
 
@@ -72,9 +73,13 @@ como pieza obligatoria del linaje Christian.)
 
 ## Pendientes / huecos
 
-- [ ] **Target** del Killswitch (¿en qué match exactamente?
-      ¿single, tag, multi-talent?).
-- [ ] Lugar dentro del show Revolution 2026.
+- [x] **Target** del Killswitch — ubicado en el post-match de
+      Young Bucks vs FTR: Copeland regresa, Christian Cage
+      sorprende a FTR por detrás abriendo paso al Spear de Cope
+      (research 2026-10-05; POST Wrestling no nombra el
+      Killswitch explícitamente, se infiere del mismo spot).
+- [x] Lugar dentro del show → Crypto.com Arena, Los Angeles, CA
+      (research 2026-10-05).
 - [ ] Cobertura AEW media (Andrew Goldstein, Jim Ross
       commentary on stream).
 - [ ] **Asignación de clase del Vehemiurgo**.

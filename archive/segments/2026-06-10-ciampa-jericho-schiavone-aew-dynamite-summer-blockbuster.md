@@ -9,8 +9,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite Summer Blockbuster"
 fecha: 2026-06-10
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Cincinnati, OH"
+recinto: "Andrew J. Brady Music Center"
 ubicacion_en_show: "Apertura del show"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase declarada — 'mucho entertainment', pero no invoca la fórmula estándar. 'Muy bien hecho, muy balanceado, muy buena TV'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s24 (visión directa — AEW Dynamite Summer Blockbuster, 10/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [ciampa, chris-jericho, tony-schiavone, aew-dynamite-2026, promo, sin-clase, jericho-voz-del-vehemiurgo, burbuja-nxt, colision-de-personalidades, jericho-mas-efectivo-que-moxley, primer-registro-schiavone]
 ---
 
@@ -89,6 +90,8 @@ tags: [ciampa, chris-jericho, tony-schiavone, aew-dynamite-2026, promo, sin-clas
 - [ ] Duración + ubicación exacta.
 - [ ] [verif] confirmar identidad de Tony Schiavone (dictado
       "Schiavone"/"Schibani" en sesiones distintas).
+- [x] Ciudad/recinto → Cincinnati, OH (Andrew J. Brady Music
+      Center).
 
 ## Cross-links
 

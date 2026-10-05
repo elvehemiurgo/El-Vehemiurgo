@@ -22,10 +22,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buen showcase de talentos; increíble para Scarlet & Graves que vuelven de tour en el peak de su estilo, y la coronación de The Rep con satisfacción del booking; se merece la FS y WE class"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s26 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Cage of Death 19)"
   - "Sub-agente czw-noi-cod19 (research 2026-08-01) — participantes, duración y linaje del título"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, profightdb/Cagematch agregados); WebFetch bloqueado por egress"
 tags: [czw-2017, cage-of-death-19, the-rep, nate-carter, dave-mccall, scarlet-and-graves, dezmond-xavier, zachary-wentz, ove, oi4k, dave-crist, jake-crist, alex-reynolds, tag-team-championship, cambio-de-titulo, vehemiurgia-czw]
 ---
 
@@ -89,9 +90,18 @@ Night of Infamy. El verbatim se preserva; el registro usa el card real.
 
 ## Pendientes / huecos
 
-- [ ] Quién cubre a quién en el finish.
+- [ ] Quién cubre a quién en el finish (sin fuente confiable con el
+      detalle del cover; solo se confirma el resultado general).
 - [ ] Confirmar el *pop-up Flatliner* como movimiento del finish (dato
       de visionado directo, no cruzado con reporte).
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra una
+      "corrección de research" que da el cuarto equipo como Alex
+      Reynolds & Matt Palmer; una fuente agregada vía WebSearch
+      (resultados de card, profightdb/cagematch) lo da como Alex
+      Reynolds & **Dan Barry** — coincidiendo con el dictado original
+      del Vehemiurgo, no con la "corrección" previa. Sin poder abrir
+      Cagematch directamente (proxy bloqueado), no se resuelve acá;
+      queda para research dedicado.
 
 ## Piezas relacionadas
 

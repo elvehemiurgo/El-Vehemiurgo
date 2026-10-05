@@ -8,9 +8,9 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-05-13
-ciudad: "[verif]"
-recinto: "[verif]"
-ubicacion_en_show: "[verif]"
+ciudad: "North Charleston, SC / Asheville, NC según fuente [no confirmado — fuentes discrepan]"
+recinto: "North Charleston Coliseum / Harrah's Cherokee Center según fuente [no confirmado — fuentes discrepan]"
+ubicacion_en_show: "Cierre del show (post-match del main event Darby vs Takeshita)"
 duracion: "[verif]"
 linea_textual: "[verif]"
 gimmick_momento: "Firma de contrato con timing declarado como perfecto"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'el timing me pareció perfecto, realmente se merece la clase de entertainer'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s16 (visión directa — AEW Dynamite 13/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, TheSportster, SI/FanNation): confirma que la firma es para el Title vs Hair Match en Double or Nothing, y que MJF ataca a Allin con el Dynamite Diamond Ring tras firmar, con el salvataje de Kevin Knight cerrando el show; ciudad/recinto discrepante entre fuentes; WebFetch bloqueado por egress"
 tags: [mjf, darby-allin, aew-dynamite-2026, contract-signing, wrestling-entertainment, timing-perfecto]
 ---
 
@@ -48,8 +49,14 @@ enfrentamiento directo con Darby Allin (Héroe Fundamental #46).
 
 ## Pendientes
 
-- [ ] Línea textual + duración + ubicación en el show.
-- [ ] [verif] estipulación pactada para el futuro match.
+- [x] **Estipulación pactada** → Title vs Hair Match en Double or
+      Nothing; tras firmar, MJF ataca a Allin con el Dynamite
+      Diamond Ring y Kevin Knight corre a salvarlo para cerrar el
+      show (research 2026-10-05).
+- [ ] **Discrepancia (research 2026-10-05)**: ciudad/recinto sin
+      confirmar — ver nota en las fichas de match del mismo show
+      (13/5).
+- [ ] Línea textual + duración exactas.
 
 ## Cross-links
 

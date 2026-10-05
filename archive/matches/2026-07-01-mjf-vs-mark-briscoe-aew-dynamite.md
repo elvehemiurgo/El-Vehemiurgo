@@ -5,12 +5,12 @@ participantes: ["MJF", "Mark Briscoe"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-07-01
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "San Diego, CA"
+recinto: "Viejas Arena"
 tipo_match: "singles — título AEW World en juego"
 estipulacion: "AEW World Championship"
-duracion: "[verif]"
-finish: "[verif — MJF retiene]"
+duracion: "18:34"
+finish: "MJF sobrevive Froggy Bows y un Jay Driller, remata con Alabama Slam y Heat Seeker — retiene"
 ganador: "MJF (retiene)"
 referee: "[verif]"
 encuentros_previos: "Rivalidad retomada s26 (2026-06-24, promo video), ver segmento previo"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment con reserva — 'se merece el enterteinment class por el contexto y las promos, pero no me emociona tanto como otras defensas de MJF'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s32 (visión directa — AEW Dynamite, 1/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yardbarker, eWrestling, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [mjf, mark-briscoe, aew-world-championship, aew-dynamite-2026, wrestling-entertainment, reserva-tecnica, kenny-omega-buildup, wembley-2026]
 ---
 
@@ -70,7 +71,10 @@ tags: [mjf, mark-briscoe, aew-world-championship, aew-dynamite-2026, wrestling-e
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → MJF retiene con Alabama
+      Slam + Heat Seeker tras sobrevivir Froggy Bows y un Jay
+      Driller, 18:34, San Diego, CA (Viejas Arena) (Yardbarker/
+      eWrestling, 1/7/2026).
 
 ## Cross-links
 

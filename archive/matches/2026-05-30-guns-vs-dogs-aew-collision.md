@@ -5,12 +5,12 @@ participantes: ["The Guns", "The Dogs (con David Finlay)"]
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-05-30
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Huntsville, AL"
+recinto: "Von Braun Center"
 tipo_match: "tag team"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif — victoria decisiva de The Dogs]"
+duracion: "10:44"
+finish: "The Dogs (David Finlay & Clark Connors) derrotan a The Gunns (Austin & Colten Gunn)"
 ganador: "The Dogs"
 referee: "[verif]"
 encuentros_previos: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece todas las clases — 'una lucha muy buena, muy cargada de historia [...] esta lucha se merece todas las clases'. Única reserva: Moxley en comentarios."
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s19 (visión directa — AEW Collision, 30/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., Fightful, Ticketmaster); WebFetch bloqueado por egress"
 tags: [the-guns, the-dogs, david-finlay, jay-white, bang-bang-gang, cope-cage, aew-collision-2026, tag-team, perfect-match, fighting-spirit, wrestling-entertainment, bullet-club-nostalgia, victoria-decisiva-antes-de-jay-white, moxley-en-comentarios-arruina, faces-infravalorados]
 ---
 
@@ -69,8 +70,11 @@ tags: [the-guns, the-dogs, david-finlay, jay-white, bang-bang-gang, cope-cage, a
 
 ## Pendientes
 
-- [ ] [verif] integrantes exactos de The Guns y The Dogs.
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Integrantes exactos → The Dogs (David Finlay & Clark Connors)
+      vs The Gunns (Austin & Colten Gunn) (Wrestling Inc./Fightful,
+      30/5/2026).
+- [x] Finish + duración + ciudad/recinto → The Dogs ganan, 10:44,
+      Huntsville, AL (Von Braun Center).
 - [ ] Ficha propia para Jay White cuando aparezca en pantalla
       (por ahora solo referenciado como ausente/esperado).
 

@@ -5,22 +5,23 @@ participantes: ["MJF", "Kevin Knight"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-04-29
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "standard"
-duracion: "[verif]"
-finish: "Low blow — Kevin Knight pinea a MJF (upset)"
-ganador: "Kevin Knight"
+ciudad: "Fairfax, VA"
+recinto: "Eaglebank Arena"
+tipo_match: "singles — AEW TNT Championship"
+estipulacion: "título en juego — AEW TNT Championship, Kevin Knight (c) defendiendo"
+duracion: "15:17"
+finish: "Knight retiene el TNT Championship — responde con un low blow propio tras uno de MJF y aprovecha el pin sorpresa"
+ganador: "Kevin Knight — retiene"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — elogio de booking/storyline, no de calificación técnica. 'MJF le da la lucha de su vida a Kevin Knight'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s09 (visión directa — AEW Dynamite 29/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, PWMania, Slam Wrestling, Ringside News); referee no confirmado; WebFetch bloqueado por egress"
 tags: [mjf, kevin-knight, aew-dynamite-2026, singles, sin-clase, upset-low-blow, ironia-para-max, booking-doctrina, personaje-principal]
 ---
 
@@ -56,8 +57,10 @@ tags: [mjf, kevin-knight, aew-dynamite-2026, singles, sin-clase, upset-low-blow,
 
 ## Pendientes
 
-- [ ] Finish exacto (¿quién ejecuta el low blow, cómo se revierte
-      a favor de Knight?) + duración + ciudad/recinto.
+- [x] Finish exacto + duración + ciudad/recinto → es título en
+      juego (TNT Championship, Knight retiene); Knight responde
+      con low blow propio y aprovecha el pin sorpresa, 15:17,
+      Eaglebank Arena, Fairfax VA (research 2026-10-05).
 - [ ] Línea textual de la promo post-match.
 
 ## Cross-links

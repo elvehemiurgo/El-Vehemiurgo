@@ -9,8 +9,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite Summer Blockbuster"
 fecha: 2026-06-10
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Cincinnati, OH"
+recinto: "Andrew J. Brady Music Center"
 ubicacion_en_show: "Backstage"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'estuvo genial, se merece un entertainment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s24 (visión directa — AEW Dynamite Summer Blockbuster, 10/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [mjf, don-callis, kevin-knight, andrade, aew-dynamite-2026, promo, wrestling-entertainment, oro-puro, rub-genuino, el-jet, andrade-desconfia]
 ---
 
@@ -60,6 +61,8 @@ tags: [mjf, don-callis, kevin-knight, andrade, aew-dynamite-2026, promo, wrestli
 
 - [ ] Línea textual completa.
 - [ ] Duración + ubicación exacta.
+- [x] Ciudad/recinto → Cincinnati, OH (Andrew J. Brady Music
+      Center).
 
 ## Cross-links
 

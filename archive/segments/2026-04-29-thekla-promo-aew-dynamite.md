@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-04-29
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Fairfax, VA"
+recinto: "Eaglebank Arena"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'se merece la clase de entertainer'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s09 (visión directa — AEW Dynamite 29/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (confirma venue del show; no se halló recap que detalle este segmento específico); WebFetch bloqueado por egress"
 tags: [thekla, sky-blue, aew-dynamite-2026, promo, wrestling-entertainment, proyecto-thekla, progreso-semanal, primer-registro-sky-blue]
 ---
 
@@ -58,6 +59,8 @@ tags: [thekla, sky-blue, aew-dynamite-2026, promo, wrestling-entertainment, proy
 
 ## Pendientes
 
+- [x] Ciudad/recinto → Eaglebank Arena, Fairfax VA (research
+      2026-10-05).
 - [ ] Línea textual + ubicación en el show.
 - [ ] Rol exacto de Sky Blue en el proyecto de Thekla.
 

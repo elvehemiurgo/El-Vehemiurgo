@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite & Collision"
 fecha: 2026-05-27
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Philadelphia, PA"
+recinto: "Liacouras Center"
 ubicacion_en_show: "Post-match, tras Mark Davis vs Jack Perry"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'estuvo genial; Don es muy bueno, incluso cuando se le caen las gomas'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s18 (visión directa — AEW Dynamite & Collision, 27/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, eWrestling); WebFetch bloqueado por egress"
 tags: [don-callis, will-ospreay, aew-dynamite-collision-2026, promo, sin-clase, don-callis-family-arco-completo-elogiado, se-le-caen-las-gomas]
 ---
 
@@ -55,7 +56,8 @@ tags: [don-callis, will-ospreay, aew-dynamite-collision-2026, promo, sin-clase, 
 ## Pendientes
 
 - [ ] Línea textual + contenido de la amenaza.
-- [ ] Duración + ubicación en el show.
+- [x] Ciudad/recinto → Philadelphia, PA (Liacouras Center) (PWTorch,
+      27/5/2026). Duración exacta sigue sin confirmar.
 
 ## Cross-links
 

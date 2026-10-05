@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-06-03
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Richmond, VA"
+recinto: "Siegel Center"
 ubicacion_en_show: "Backstage"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'son cool, estos saben cómo hacer que te importe su lucha [...] es de verdad emocionante'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s21 (visión directa — AEW Dynamite, 3/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cageside Seats); WebFetch bloqueado por egress"
 tags: [the-dogs, david-finlay, young-bucks, cope-cage, aew-dynamite-2026, promo, sin-clase, oportunidad-titular-robada, triple-frente-narrativo]
 ---
 
@@ -55,6 +56,7 @@ oportunidad titular ganada por mérito propio dentro de la ficción.
 ## Pendientes
 
 - [ ] Línea textual + duración exacta.
+- [x] Ciudad/recinto → Richmond, VA (Siegel Center).
 
 ## Cross-links
 

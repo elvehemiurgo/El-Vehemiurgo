@@ -6,9 +6,9 @@ protagonistas: ["MJF (Maxwell Jacob Friedman)"]
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynamite"
 fecha: 2026-04-08
-ciudad: "[verif]"
-recinto: "[verif]"
-ubicacion_en_show: "[verif]"
+ciudad: "Edmonton, Alberta (Canadá)"
+recinto: "Rogers Place"
+ubicacion_en_show: "[verif — no identificado como segmento aparte en los recaps consultados]"
 duracion: "[verif]"
 linea_textual: ""
 gimmick_momento: "MJF top heel amado, run heel reset 2026"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "'Me gustó mucho' — narrador old-school, vibra TV de los 2000s, muy cool. Sin clase asignada (el Vehemiurgo elogió la producción, no clasificó)."
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful, Rajah: confirman show en Rogers Place, Edmonton AB, pero no detallan este video package específico); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, mjf, video-package, narrador-old-school, vibra-tv-2000s, produccion-carny-craft, sin-clase-asignada]
 ---
 
@@ -67,7 +68,10 @@ tags: [aew-dynamite-2026, mjf, video-package, narrador-old-school, vibra-tv-2000
       retador, recap del arco, hype de un match?
 - [ ] **Identificar al narrador** (¿voz reconocible? ¿homenaje
       a un narrador clásico WWF/WCW de los 2000s?).
-- [ ] **Ubicación en show + duración**.
+- [x] **Ciudad/recinto** → Rogers Place, Edmonton AB (research
+      2026-10-05).
+- [ ] **Ubicación en show + duración** — no identificado como
+      segmento aparte en los recaps consultados.
 - [ ] ¿Asignar clase? — latente (Wrestling Entertainment
       candidata por producción).
 

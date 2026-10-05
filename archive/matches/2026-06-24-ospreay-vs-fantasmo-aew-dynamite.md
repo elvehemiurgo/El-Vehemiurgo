@@ -5,22 +5,23 @@ participantes: ["Will Ospreay", "Fantasmo"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-06-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Rio Rancho, NM"
+recinto: "Rio Rancho Events Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "10:40 / 10:45 según fuente"
+finish: "Styles Clash seguido de Hidden Blade"
+ganador: "Will Ospreay"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece la clase de fighting spirit y el entertainment class, estuvo muy dura'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s26 (visión directa — AEW Dynamite, 24/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4WOnline, PWTorch, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [will-ospreay, fantasmo, aew-dynamite-2026, singles, fighting-spirit, wrestling-entertainment, sin-vicios-indie, primer-registro-fantasmo]
 ---
 
@@ -52,7 +53,9 @@ tags: [will-ospreay, fantasmo, aew-dynamite-2026, singles, fighting-spirit, wres
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Ospreay gana con Styles
+      Clash + Hidden Blade, 10:40/10:45 según fuente, Rio Rancho,
+      NM (Rio Rancho Events Center) (F4WOnline/PWTorch, 24/6/2026).
 
 ## Cross-links
 

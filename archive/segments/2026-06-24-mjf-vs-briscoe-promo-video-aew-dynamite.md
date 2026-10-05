@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-06-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Rio Rancho, NM"
+recinto: "Rio Rancho Events Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'está bueno el promo video [...] me sigue emocionando esto'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s26 (visión directa — AEW Dynamite, 24/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4WOnline, PWTorch); WebFetch bloqueado por egress"
 tags: [mjf, mark-briscoe, andrade, kyle-fletcher, konosuke-takeshita, okada, kevin-knight, darby-allin, aew-dynamite-2026, video-package, sin-clase, rivalidad-retomada, booking-apretado, forbidden-door-6vs6, primer-registro-mark-briscoe]
 ---
 
@@ -73,6 +74,7 @@ tags: [mjf, mark-briscoe, andrade, kyle-fletcher, konosuke-takeshita, okada, kev
 - [ ] Línea textual del video.
 - [ ] [verif] contexto histórico previo de la rivalidad MJF/Mark
       Briscoe (¿cuándo empezó, cómo quedó "donde la dejaron"?).
+- [x] Ciudad/recinto → Rio Rancho, NM (Rio Rancho Events Center).
 
 ## Cross-links
 

@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Collision — Fairway to Hell"
 fecha: 2026-05-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "West Palm Beach, FL"
+recinto: "SoFi Center"
 ubicacion_en_show: "Post-match, tras la coronación de Mark Davis"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — elogio superlativo sin invocar vocabulario de clases. 'Estuvo perfecto, es lo mejor que se ha visto de Ricochet'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s13 (visión directa — AEW Collision Fairway to Hell, 9/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Sportskeeda): contexto aclarado — Ricochet interviene a favor de Mark Davis en el match anterior (golpea a Perry con un palo de golf), lo que explica el tono favorable de este segmento post-match; WebFetch bloqueado por egress"
 tags: [don-callis, ricochet, aew-collision-2026, fairway-to-hell, promo, sin-clase, lo-mejor-de-ricochet, don-callis-experto]
 ---
 
@@ -56,9 +57,13 @@ tags: [don-callis, ricochet, aew-collision-2026, fairway-to-hell, promo, sin-cla
 
 ## Pendientes
 
-- [ ] Línea textual + contexto narrativo exacto (¿Don Callis
-      maneja a Ricochet? ¿reacción a la coronación de Davis?).
-- [ ] Ubicación en el show + duración.
+- [x] Ciudad/recinto → SoFi Center, West Palm Beach FL (research
+      2026-10-05).
+- [x] Contexto narrativo → Ricochet fue parte activa de la
+      coronación de Davis (golpeó a Perry con un palo de golf en
+      el match previo); este segmento post-match sigue esa misma
+      línea (research 2026-10-05).
+- [ ] Línea textual exacta + ubicación en el show + duración.
 
 ## Cross-links
 

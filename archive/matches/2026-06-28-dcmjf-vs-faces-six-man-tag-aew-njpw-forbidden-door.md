@@ -5,22 +5,23 @@ participantes: ["MJF", "Kevin Knight", "Andrade", "Mark Briscoe", "Darby Allin",
 empresa: "AEW x NJPW"
 programa: "Forbidden Door"
 fecha: 2026-06-28
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "San Jose, CA"
+recinto: "SAP Center"
 tipo_match: "6 vs 6 tag team"
 estipulacion: "[verif]"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Steel Cage Match — Team Briscoe derrota a Team DCMJF; Mark Briscoe gana el derecho a retar a MJF por el AEW World Championship"
+ganador: "Team Briscoe (faces)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase declarada — 'esta lucha multiman en el ppv no me emociona, es parte del booking'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s30 (visión directa — AEW x NJPW Forbidden Door, 28/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., TheSportster, TPWW); WebFetch bloqueado por egress"
 tags: [mjf, kevin-knight, andrade, mark-briscoe, darby-allin, aew-njpw-forbidden-door-2026, six-man-tag, sin-clase, andrade-face-turn, darby-venganza-knight]
 ---
 
@@ -76,7 +77,11 @@ tags: [mjf, kevin-knight, andrade, mark-briscoe, darby-allin, aew-njpw-forbidden
 
 ## Pendientes
 
-- [ ] Finish + duración + ganador + ciudad/recinto.
+- [x] Finish + ganador + ciudad/recinto → Steel Cage Match, Team
+      Briscoe derrota a Team DCMJF (Mark Briscoe gana el derecho a
+      retar a MJF por el título mundial), San Jose, CA (SAP Center)
+      (Wrestling Inc./TheSportster, 28/6/2026).
+- [ ] Duración exacta — no reportada por las fuentes consultadas.
 - [ ] Roster completo de ambos equipos (6v6 = 12 nombres; solo 5
       confirmados por el take).
 - [ ] Naturaleza exacta de la venganza de Darby contra Knight

@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite & Collision"
 fecha: 2026-05-27
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Philadelphia, PA"
+recinto: "Liacouras Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'se merece el entertainment class, junto con Rush de hecho, esta es la mejor actuación que ha tenido como personalidad de TV'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s18 (visión directa — AEW Dynamite & Collision, 27/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, eWrestling); WebFetch bloqueado por egress"
 tags: [mjf, rush, aew-dynamite-collision-2026, promo, wrestling-entertainment, mejor-actuacion-tv-de-rush, bilinguismo-abrazado, contraste-con-andrade, primer-registro-rush]
 ---
 
@@ -61,7 +62,8 @@ tags: [mjf, rush, aew-dynamite-collision-2026, promo, wrestling-entertainment, m
 ## Pendientes
 
 - [ ] Línea textual + contexto de storyline exacto.
-- [ ] Duración + ubicación en el show.
+- [x] Ciudad/recinto → Philadelphia, PA (Liacouras Center) (PWTorch,
+      27/5/2026). Duración y ubicación exacta en el show sin confirmar.
 
 ## Cross-links
 

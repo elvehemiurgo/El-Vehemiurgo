@@ -9,8 +9,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Double or Nothing"
 fecha: 2026-05-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "New York, NY (Queens)"
+recinto: "Louis Armstrong Stadium"
 ubicacion_en_show: "Post-match, tras Okada vs Takeshita"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -21,9 +21,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'todo ese booking estuvo buenísimo, hasta el climax, fue muy satisfactorio, estuvo perfecto'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4WOnline, Fightful): precisa el mecanismo — en el match previo, Don Callis frena a Okada para que no le rompa el cuello a Takeshita; en este post-match, el **retorno de Kyle Fletcher se lee como una traición a Takeshita**, lo que detona su turn babyface (el relato de \"climax satisfactorio\" del Vehemiurgo es compatible con una traición que genera simpatía del público, no con un gesto amistoso de Fletcher); WebFetch bloqueado por egress"
 tags: [don-callis, kyle-fletcher, konosuke-takeshita, aew-double-or-nothing-2026, angle, turn, sin-clase, takeshita-full-babyface, mejor-booking-de-la-noche, primer-registro-kyle-fletcher]
 ---
 
@@ -64,9 +65,13 @@ tags: [don-callis, kyle-fletcher, konosuke-takeshita, aew-double-or-nothing-2026
 
 ## Pendientes
 
-- [ ] Línea textual + secuencia exacta del climax.
-- [ ] [verif] rol específico de Kyle Fletcher en la ruptura.
-- [ ] Duración + ubicación en el show.
+- [x] Ciudad/recinto → Louis Armstrong Stadium, New York NY
+      (research 2026-10-05).
+- [x] Rol de Kyle Fletcher → research describe su regreso como
+      una **traición a Takeshita** (no una reconciliación), lo
+      que detona el turn babyface (research 2026-10-05).
+- [ ] Línea textual + secuencia exacta del climax + duración +
+      ubicación en el show.
 
 ## Cross-links
 

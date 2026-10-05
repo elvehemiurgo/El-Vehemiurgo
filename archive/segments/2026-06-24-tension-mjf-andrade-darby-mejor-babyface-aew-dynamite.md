@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-06-24
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Rio Rancho, NM"
+recinto: "Rio Rancho Events Center"
 ubicacion_en_show: "Cierre del show"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'estuvo buenísimo'. Dispara la declaración editorial más fuerte del archivo sobre Darby Allin."
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s26 (visión directa — AEW Dynamite, 24/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4WOnline, PWTorch); WebFetch bloqueado por egress"
 tags: [mjf, andrade, darby-allin, will-ospreay, jon-moxley, aew-dynamite-2026, promo, sin-clase, tension-entre-heels, darby-mejor-babyface-de-aew, booking-superior-a-ospreay, moxley-cancerigeno]
 ---
 
@@ -72,6 +73,7 @@ tags: [mjf, andrade, darby-allin, will-ospreay, jon-moxley, aew-dynamite-2026, p
       referenciada aquí (¿match reciente? ¿segmento?).
 - [ ] Seguir si esta declaración sobre Darby se sostiene en
       próximas sesiones.
+- [x] Ciudad/recinto → Rio Rancho, NM (Rio Rancho Events Center).
 
 ## Cross-links
 

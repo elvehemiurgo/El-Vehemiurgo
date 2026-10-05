@@ -6,8 +6,8 @@ protagonistas: ["United Empire (Will Ospreay + Callum Newman [verif] + resto)", 
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynamite"
 fecha: 2026-04-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Edmonton, Alberta (Canadá)"
+recinto: "Rogers Place"
 ubicacion_en_show: "opening segment"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buen segmento de apertura + buen showcase para Callum Newman. Sin clase asignada (el Vehemiurgo no le dio clase)."
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch titula esto \"United Empire surprise\"; el pago en el ring fue el 8-man tag United Empire vs Death Riders, 21:00, ganado por Ospreay — ver [`../matches/2026-04-08-united-empire-showcase-aew-dynamite.md`](../matches/2026-04-08-united-empire-showcase-aew-dynamite.md)); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, united-empire, death-riders, jon-moxley, will-ospreay, callum-newman-showcase, faction-vs-faction-ambush, opener, njpw-cruce-newman-ospreay, build-moxley-vs-ospreay, identidad-newman-pendiente-verif]
 ---
 
@@ -108,6 +109,7 @@ construyendo junto a Ospreay.
 - [ ] Roster exacto United Empire + Death Riders esa noche.
 - [ ] Beats del segmento + cómo cierra.
 - [ ] Confirmar Callum Newman + su rol NJPW/AEW.
-- [ ] Ciudad + recinto Dynamite 8 abr 2026.
+- [x] Ciudad + recinto Dynamite 8 abr 2026 → Rogers Place,
+      Edmonton AB (research 2026-10-05).
 - [ ] Fact-sheets pendientes: Jon Moxley, Callum Newman,
       facción United Empire, facción Death Riders.

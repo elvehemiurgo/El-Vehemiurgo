@@ -7,13 +7,13 @@ participantes:
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynamite"
 fecha: 2026-04-01
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles — [verif]"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "Winnipeg, MB (Canadá)"
+recinto: "Canada Life Centre"
+tipo_match: "singles — standard"
+estipulacion: "standard"
+duracion: "17:00"
+finish: "PAC ataca el cuello ya operado de Ospreay desde la entrada; Ospreay revierte un intento de Brutalizer de PAC en un pinning combination para ganar"
+ganador: "Will Ospreay"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment. 'Muy buena.' No Perfect (esa noche solo MJF vs Speedball define)."
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 1 abr 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (SI/FanNation, Bleacher Report, Last Word on Pro Wrestling, Rajah); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, pac-bastard, will-ospreay, dos-britanicos, fighting-spirit-class, wrestling-entertainment-class, no-perfect-misma-noche-que-mjf-speedball, identidad-contexto-pendiente-verif]
 ---
 
@@ -67,8 +68,13 @@ tags: [aew-dynamite-2026, pac-bastard, will-ospreay, dos-britanicos, fighting-sp
 
 - [x] **CLASE ASIGNADA** — Fighting Spirit + Wrestling
       Entertainment (Vehemiurgo 2026-05-26).
-- [ ] **Verificar contexto**: ¿título?, posición en card, build.
-- [ ] **Ciudad, recinto, finish, ganador, duración**.
+- [x] **Verificar contexto** → sin título en juego; PAC ataca el
+      cuello operado de Ospreay desde la entrada (research
+      2026-10-05).
+- [x] **Ciudad, recinto, finish, ganador, duración** → Winnipeg
+      MB, Canada Life Centre; Ospreay gana revirtiendo un
+      Brutalizer en pinning combination, 17:00 (research
+      2026-10-05).
 - [ ] **Historia previa PAC vs Ospreay** (NJPW/AEW).
 - [ ] **Fact-sheet PAC** — pendiente apertura (Ospreay sí tiene:
       [`../people/will-ospreay.md`](../people/will-ospreay.md)).

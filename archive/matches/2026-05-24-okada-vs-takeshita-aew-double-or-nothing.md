@@ -5,22 +5,23 @@ participantes: ["Okada", "Konosuke Takeshita"]
 empresa: "AEW"
 programa: "Double or Nothing"
 fecha: 2026-05-24
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "standard [verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "New York, NY (Queens)"
+recinto: "Louis Armstrong Stadium"
+tipo_match: "singles — AEW International Championship"
+estipulacion: "título en juego — AEW International Championship, Okada (c) defendiendo"
+duracion: "18:00"
+finish: "Takeshita gana el AEW International Championship (2do reinado) con el Raging Fire; Don Callis interviene para frenar a Okada antes de que le rompa el cuello a Takeshita"
+ganador: "Konosuke Takeshita — nuevo AEW International Champion"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'estuvo ok, no me gusta mucho ese estilo super AEW que manejan'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, Bleacher Report, Pro Wrestling Dot Net, F4WOnline); referee no confirmado; WebFetch bloqueado por egress"
 tags: [okada, konosuke-takeshita, aew-double-or-nothing-2026, singles, sin-clase, estilo-super-aew-critica, booking-mejor-que-el-estilo]
 ---
 
@@ -54,7 +55,10 @@ tags: [okada, konosuke-takeshita, aew-double-or-nothing-2026, singles, sin-clase
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → título en juego (AEW
+      International Championship); Takeshita gana con Raging
+      Fire, 18:00, Louis Armstrong Stadium, New York NY (research
+      2026-10-05).
 - [ ] [verif] qué define exactamente el "estilo super AEW" para el
       Vehemiurgo — pendiente desarrollo futuro.
 

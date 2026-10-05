@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite Summer Blockbuster"
 fecha: 2026-06-10
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Cincinnati, OH"
+recinto: "Andrew J. Brady Music Center"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'esta promo de Zack se merece una clase de entertainment'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s24 (visión directa — AEW Dynamite Summer Blockbuster, 10/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [zack-sabre-jr, kenny-omega, aew-dynamite-2026, video-package, wrestling-entertainment, primer-registro-zsj]
 ---
 
@@ -48,6 +49,8 @@ sí, independiente del match que anticipa (todavía no visto). Ver
 
 - [ ] Línea textual de la promo.
 - [ ] Registrar el match ZSJ vs Omega cuando el Vehemiurgo lo vea.
+- [x] Ciudad/recinto → Cincinnati, OH (Andrew J. Brady Music
+      Center).
 
 ## Cross-links
 

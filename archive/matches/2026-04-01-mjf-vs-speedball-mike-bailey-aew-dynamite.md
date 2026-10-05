@@ -7,13 +7,13 @@ participantes:
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynamite"
 fecha: 2026-04-01
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles — [verif si hubo título en juego]"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "Winnipeg, MB (Canadá)"
+recinto: "Canada Life Centre"
+tipo_match: "singles — AEW World Championship Eliminator Match"
+estipulacion: "Championship Eliminator Match (sin título en juego directo; define contendiente)"
+duracion: "15:40"
+finish: "MJF golpea a Bailey con un piledriver en el apron y remata con un Heatseeker para el pin (victoria limpia)"
+ganador: "MJF"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,11 +25,12 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "PERFECT MATCH — las tres clases (Perfect Wrestling + Fighting Spirit + Wrestling Entertainment). 'Fue increíble.' Techo absoluto del oficio (casi unicornio per doctrina)."
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 1 abr 2026)"
   - "Visionado directo del Vehemiurgo"
   - "Volcado Vehemiurgo 2026-07-14 s03 (elaboración + contract signing + queja de booking)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (SI/FanNation, Bleacher Report, Fightful, Rajah, PWTorch, Cagematch); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, mjf-top-heel-amado, speedball-mike-bailey, perfect-match-las-tres-clases, perfect-wrestling-class, fighting-spirit-class, wrestling-entertainment-class, techo-absoluto-casi-unicornio, primer-triple-clase-contemporaneo-2026-declarado-en-vivo, identidad-contexto-pendiente-verif, kenny-omega-campeon-error-booking, mjf-removido-camino-a-wembley]
 ---
 
@@ -116,9 +117,12 @@ tags: [aew-dynamite-2026, mjf-top-heel-amado, speedball-mike-bailey, perfect-mat
 
 - [x] **CLASE ASIGNADA** — Perfect Wrestling + Fighting Spirit +
       Wrestling Entertainment (Vehemiurgo 2026-05-26).
-- [ ] **Verificar contexto**: ¿título en juego? ¿posición en
-      card (main event probable)? ¿build del feud MJF-Bailey?
-- [ ] **Ciudad, recinto, finish, ganador, duración**.
+- [x] **Verificar contexto** → no es título en juego directo:
+      es un Championship Eliminator Match; main event de la noche
+      (research 2026-10-05).
+- [x] **Ciudad, recinto, finish, ganador, duración** → Winnipeg
+      MB, Canada Life Centre; MJF gana por pin (piledriver en
+      apron + Heatseeker), 15:40 (research 2026-10-05).
 - [ ] **Desarrollar la Lectura**: qué ejes Perfect cumple — por
       qué define (vs el FS+WE de PAC/Ospreay).
 - [x] **Fact-sheet Speedball Mike Bailey** — abierta 2026-07-14.

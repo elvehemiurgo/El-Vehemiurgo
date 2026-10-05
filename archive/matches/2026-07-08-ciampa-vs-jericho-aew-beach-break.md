@@ -5,12 +5,12 @@ participantes: ["Ciampa", "Chris Jericho"]
 empresa: "AEW"
 programa: "Beach Break"
 fecha: 2026-07-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Clearwater Beach, FL"
+recinto: "The BayCare Sound"
 tipo_match: "singles — dream match / grudge match"
 estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif] — Jericho pone over a Ciampa"
+duracion: "13:46"
+finish: "Ciampa le arroja arena a los ojos de Jericho y gana — Jericho pone over a Ciampa"
 ganador: "Ciampa"
 referee: "[verif]"
 encuentros_previos: "Feud construido desde s21/s24/s26 (segmentos previos)"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'se merece las 3 clases', con reserva puntual sobre los rodillazos de Ciampa"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s33 (visión directa — AEW Beach Break, 8/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, eWrestling, 411mania — Hall's Review); WebFetch bloqueado por egress"
 tags: [ciampa, chris-jericho, aew-beach-break-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, grudge-match, reserva-tecnica, dream-match]
 ---
 
@@ -62,7 +63,9 @@ tags: [ciampa, chris-jericho, aew-beach-break-2026, singles, perfect-wrestling, 
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Ciampa gana arrojándole
+      arena a los ojos de Jericho, 13:46, Clearwater Beach, FL
+      (The BayCare Sound) (POST Wrestling/eWrestling, 8/7/2026).
 
 ## Cross-links
 

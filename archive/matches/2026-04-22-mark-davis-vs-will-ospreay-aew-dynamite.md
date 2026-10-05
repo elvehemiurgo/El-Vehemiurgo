@@ -5,22 +5,23 @@ participantes: ["Mark Davis", "Will Ospreay"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-04-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Portland, OR"
+recinto: "Veterans Memorial Coliseum"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
-referee: "[verif]"
+duracion: "15:33 (detenido por stoppage médico)"
+finish: "Mark Davis conecta un piledriver sobre el apron; Ospreay queda con el brazo sin sensibilidad y el médico de turno (Doc Sampson) detiene el combate — Davis gana por stoppage"
+ganador: "Mark Davis (por doctor stoppage)"
+referee: "Paul Turner"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece todas las clases, simplemente increíble"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s06 (visión directa — AEW Dynamite 22/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Slam Wrestling, WrestleZone, Cagematch); WebFetch bloqueado por egress"
 tags: [mark-davis, will-ospreay, aew-dynamite-2026, singles, perfect-match, fighting-spirit, wrestling-entertainment, mark-davis-singles-cumbre, segundo-perfect-match-ospreay-en-semanas, panteon-vehemiurgo-43-reafirmado]
 ---
 
@@ -59,7 +60,11 @@ tags: [mark-davis, will-ospreay, aew-dynamite-2026, singles, perfect-match, figh
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Mark Davis gana por
+      doctor stoppage (piledriver en el apron deja a Ospreay sin
+      sensibilidad en el brazo), 15:33, Veterans Memorial
+      Coliseum, Portland OR, referee Paul Turner (research
+      2026-10-05).
 
 ## Cross-links
 

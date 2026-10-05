@@ -5,12 +5,12 @@ participantes: ["Maya World", "Athena"]
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-06-20
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Sugar Land, TX"
+recinto: "Smart Financial Centre at Sugar Land"
 tipo_match: "singles"
 estipulacion: "standard"
 duracion: "[verif]"
-finish: "[verif — upset, victoria de Maya World]"
+finish: "Maya World gana por roll-up — 2026 Women's Owen Hart Cup Semi Final Match"
 ganador: "Maya World"
 referee: "[verif]"
 encuentros_previos: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit Class — 'se merece un fighting spirit', con reserva sobre los 'vicios típicos de AEW' (exceso indie)"
 clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s26 (visión directa — AEW Collision, 20/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (TPWW, Sportskeeda); WebFetch bloqueado por egress"
 tags: [maya-world, athena, aew-collision-2026, singles, fighting-spirit, upset, institucion-wrestling-femenino, contrato-especial-aew, vicios-indie-de-aew, underdog-booking, no-soy-super-fan]
 ---
 
@@ -62,7 +63,10 @@ tags: [maya-world, athena, aew-collision-2026, singles, fighting-spirit, upset, 
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + ciudad/recinto → Maya World gana por roll-up (Owen
+      Hart Cup Semi Final), Sugar Land, TX (Smart Financial Centre
+      at Sugar Land) (TPWW/Sportskeeda, 20/6/2026).
+- [ ] Duración exacta — sin confirmar en las fuentes consultadas.
 - [ ] [verif] naturaleza exacta del "contrato especial" de Athena
       con AEW.
 

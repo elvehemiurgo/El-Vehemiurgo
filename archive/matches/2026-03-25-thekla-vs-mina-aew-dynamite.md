@@ -7,13 +7,13 @@ participantes:
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynamite"
 fecha: 2026-03-25
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles femenino — [verif si es parte del Owen Hart Foundation Tournament women's 2026]"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "St. Paul, MN"
+recinto: "Roy Wilkins Auditorium"
+tipo_match: "singles femenino — AEW Women's World Championship (no parte confirmada del Owen Hart Foundation Tournament por research)"
+estipulacion: "título en juego — AEW Women's World Championship, Thekla (c) defendiendo"
+duracion: "10:43"
+finish: "Thekla retiene el AEW Women's World Championship (mecanismo exacto del finish no especificado en las fuentes consultadas) [parcial]"
+ganador: "Thekla — retiene"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit Class — 'estas dos sí luchan de verdad', 'se dieron duro'. El único punto débil es el posicionamiento (donde se nota el fake), que la mantiene por debajo de Perfect."
 clases_vehemiurgo: ["fighting-spirit"]
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Rajah, Slam Wrestling, RiverCentre); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, thekla, mina-shirakawa-verif, lucha-de-verdad, se-dieron-duro, fighting-spirit-class, posicionamiento-donde-se-nota-fake, trucos-selling-oldschool-enmascararian, identidad-contexto-pendiente-verif]
 ---
 
@@ -78,8 +79,14 @@ tags: [aew-dynamite-2026, thekla, mina-shirakawa-verif, lucha-de-verdad, se-dier
       ¿Mina = Mina Shirakawa?
 - [ ] **Verificar contexto**: ¿parte del Owen Hart Foundation
       Tournament women's 2026? ¿Cross-promotion STARDOM-AEW?
-- [ ] **Ciudad, recinto, ubicación en card**.
-- [ ] **Estipulación, duración, finish, ganador**.
+- [x] **Ciudad, recinto** → St. Paul, MN, Roy Wilkins Auditorium
+      (research 2026-10-05).
+- [x] **Estipulación, duración, ganador** → AEW Women's World
+      Championship, Thekla (c) retiene, 10:43 (research
+      2026-10-05).
+- [ ] **Finish exacto** (mecanismo del pin/sumisión) — no
+      especificado en las fuentes consultadas [parcial].
+- [ ] **Ubicación en card** — no especificada por research.
 - [ ] **Historia previa STARDOM** entre ambas.
 
 ## Piezas relacionadas

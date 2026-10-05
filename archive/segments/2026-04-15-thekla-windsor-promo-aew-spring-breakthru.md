@@ -8,9 +8,9 @@ protagonistas:
 empresa: "AEW"
 programa: "Spring BreakThru"
 fecha: 2026-04-15
-ciudad: "[verif]"
-recinto: "[verif]"
-ubicacion_en_show: "[verif]"
+ciudad: "Seattle, WA"
+recinto: "Angel of the Winds Arena"
+ubicacion_en_show: "[verif — promo hype de cara al cruce Thekla vs Alex Windsor en Collision, no un match de este show]"
 duracion: "[verif]"
 linea_textual: "[verif]"
 gimmick_momento: "Thekla carga la promo; Windsor la acompaña al ritmo, sin liderar"
@@ -20,9 +20,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'gran promo, me gustó el estilo'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s05 (visión directa — AEW Spring BreakThru 15/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (TPWW: ubica el cruce Thekla/Alex Windsor como pactado para Collision, no Spring BreakThru — consistente con esta ficha siendo la promo de hype, no el match); WebFetch bloqueado por egress"
 tags: [thekla, windsor, aew-spring-breakthru-2026, promo, wrestling-entertainment, thekla-carga-la-promo, proyecto-thekla]
 ---
 
@@ -57,8 +58,13 @@ tags: [thekla, windsor, aew-spring-breakthru-2026, promo, wrestling-entertainmen
 
 ## Pendientes
 
-- [ ] Línea textual + contexto de storyline exacto.
-- [ ] Ubicación en el show + duración.
+- [x] **Ciudad/recinto** → Angel of the Winds Arena, Seattle WA
+      (research 2026-10-05).
+- [x] **Contexto de storyline** → research ubica el cruce in-ring
+      Thekla vs Alex Windsor como pactado para Collision (no para
+      este show); esta promo funciona como hype de ese build
+      (research 2026-10-05).
+- [ ] Línea textual exacta + ubicación en el show + duración.
 
 ## Cross-links
 

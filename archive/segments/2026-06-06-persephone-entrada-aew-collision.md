@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-06-06
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Youngstown, OH"
+recinto: "Covelli Centre"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'tremenda entrada, esta presentación la puso a otro nivel'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s23 (visión directa — AEW Collision, 6/6/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (eWrestling); WebFetch bloqueado por egress"
 tags: [persephone, aew-collision-2026, entrada, sin-clase, progreso-de-ingles, comparacion-vaquer-iyo-sky, ambiciosa, main-eventer-en-construccion]
 ---
 
@@ -60,6 +61,7 @@ tags: [persephone, aew-collision-2026, entrada, sin-clase, progreso-de-ingles, c
 
 - [ ] Línea textual + descripción exacta de la presentación.
 - [ ] Duración + ubicación en el show.
+- [x] Ciudad/recinto → Youngstown, OH (Covelli Centre).
 
 ## Cross-links
 
