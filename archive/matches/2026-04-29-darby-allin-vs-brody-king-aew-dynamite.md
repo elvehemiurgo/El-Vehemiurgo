@@ -5,22 +5,23 @@ participantes: ["Darby Allin", "Brody King"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-04-29
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "título en juego [verif cuál]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "Fairfax, VA"
+recinto: "Eaglebank Arena"
+tipo_match: "singles — main event"
+estipulacion: "título en juego — AEW World Championship, Darby Allin (c) defendiendo"
+duracion: "16:27"
+finish: "Darby Allin retiene con Coffin Drops consecutivos, tras un combate que se derramó a ringside y la mesa de comentaristas"
+ganador: "Darby Allin — retiene"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece todas las clases — 'se cuidaron mucho de no verse fake'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s12 (visión directa — AEW Dynamite 29/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful, Bodyslam, eWrestling); referee no confirmado; WebFetch bloqueado por egress"
 tags: [darby-allin, brody-king, aew-dynamite-2026, main-event, perfect-match, fighting-spirit, wrestling-entertainment, no-fake, nueva-escuela-oldschool, cluster-mjf-payoff]
 ---
 
@@ -57,7 +58,10 @@ tags: [darby-allin, brody-king, aew-dynamite-2026, main-event, perfect-match, fi
 
 ## Pendientes
 
-- [ ] [verif] título en juego + finish + duración + ciudad/recinto.
+- [x] Título en juego + finish + duración + ciudad/recinto → AEW
+      World Championship; Darby retiene con Coffin Drops
+      consecutivos, 16:27, Eaglebank Arena, Fairfax VA (research
+      2026-10-05).
 
 ## Cross-links
 

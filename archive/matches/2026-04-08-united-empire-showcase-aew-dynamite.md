@@ -2,18 +2,18 @@
 match: "United Empire en acción (showcase)"
 slug: "united-empire-showcase-aew-dynamite-2026-04-08"
 participantes:
-  - "United Empire [verif — Callum Newman y/o miembros]"
-  - "[verif — rival(es)]"
+  - "United Empire (incl. Will Ospreay) [verif roster exacto]"
+  - "Death Riders (incl. Jon Moxley) [verif roster exacto]"
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynamite"
 fecha: 2026-04-08
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "[verif — singles o tag de United Empire]"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "Edmonton, Alberta (Canadá)"
+recinto: "Rogers Place"
+tipo_match: "8-man tag — main event (United Empire vs Death Riders)"
+estipulacion: "weapons/hardcore (mesas; descrito como match caótico con armas)"
+duracion: "21:00"
+finish: "Ospreay manda a Moxley a través de una mesa con un Hidden Blade para el pin"
+ganador: "United Empire"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "'Tuvo sus momentos' — no le gusta mucho, pero 'lindo showcase'. SIN clase asignada."
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful, Rajah); WebFetch bloqueado por egress. Nota: research identifica esta lucha como el main event 8-man tag (United Empire vs Death Riders), no un showcase menor — ver discrepancia en Pendientes"
 tags: [aew-dynamite-2026, united-empire, showcase, tuvo-sus-momentos, sin-clase-asignada, participantes-pendientes-verif]
 ---
 
@@ -56,10 +57,21 @@ tags: [aew-dynamite-2026, united-empire, showcase, tuvo-sus-momentos, sin-clase-
 
 ## Pendientes / huecos
 
-- [ ] **Identificar participantes** (¿Newman singles? ¿tag de
-      United Empire? ¿rivales?).
-- [ ] **Tipo de match, ciudad, recinto, finish, ganador,
-      duración**.
+- [x] **Tipo de match, ciudad, recinto, finish, ganador,
+      duración** → 8-man tag main event, Edmonton AB (Canadá),
+      Rogers Place; United Empire gana (Ospreay manda a Moxley a
+      través de una mesa con Hidden Blade), 21:00 (research
+      2026-10-05).
+- [ ] **Discrepancia/precisión (research 2026-10-05)**: los
+      recaps describen esta lucha como el **main event** de la
+      noche (United Empire vs Death Riders, 8-man tag), no como
+      un "showcase" menor de United Empire en solitario — podría
+      ser el mismo evento que el Vehemiurgo describe con
+      tibieza, o un tramo distinto dentro de la misma lucha
+      caótica. No se reescribe la calificación del Vehemiurgo;
+      se deja la nota.
+- [ ] **Identificar roster exacto** de ambos lados más allá de
+      Ospreay/Moxley.
 - [ ] Relación con el opener (mismo show) y el cruce NJPW
       Newman/Ospreay.
 

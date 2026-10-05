@@ -5,22 +5,23 @@ participantes: ["Darby Allin", "MJF"]
 empresa: "AEW"
 programa: "Double or Nothing"
 fecha: 2026-05-24
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "[verif — título en juego]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "New York, NY (Queens)"
+recinto: "Louis Armstrong Stadium"
+tipo_match: "singles — main event"
+estipulacion: "Title vs. Hair Match — AEW World Championship, Darby Allin (c) defendiendo el título y el cabello de MJF en juego"
+duracion: "24:01"
+finish: "MJF derriba a Allin con un Avalanche Tombstone Piledriver y remata con un headlock takeover para el pin — recupera el AEW World Championship (tercer reinado) y conserva su cabello"
+ganador: "MJF — nuevo (3 veces) AEW World Champion"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase declarada — 'buenísimo, fue histórico'. Elogio máximo de la sesión, sin invocar vocabulario de clase."
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4WOnline, Wrestling Inc, Yahoo Sports, Cageside Seats, All Elite Wrestling); referee no confirmado; WebFetch bloqueado por egress"
 tags: [darby-allin, mjf, kevin-knight, aew-double-or-nothing-2026, main-event, sin-clase, historico, sangre-en-la-nuca, climax-cardiaco, turn-kevin-knight, payoff-arco-mjf]
 ---
 
@@ -70,8 +71,10 @@ tags: [darby-allin, mjf, kevin-knight, aew-double-or-nothing-2026, main-event, s
 
 ## Pendientes
 
-- [ ] [verif] título en juego (si lo hay).
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Título en juego + finish + duración + ciudad/recinto → AEW
+      World Championship, Title vs. Hair Match; MJF gana con
+      Avalanche Tombstone Piledriver + headlock takeover, 24:01,
+      Louis Armstrong Stadium, New York NY (research 2026-10-05).
 - [ ] [verif] naturaleza exacta del turn de Kevin Knight (¿a quién
       traiciona? ¿con quién se alía?).
 

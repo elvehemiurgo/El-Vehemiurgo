@@ -8,13 +8,13 @@ participantes:
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynasty 2026 (PPV)"
 fecha: 2026-04-12
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "tag team (2 vs 2)"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "Vancouver, British Columbia (Canadá)"
+recinto: "Rogers Arena"
+tipo_match: "tag team (2 vs 2) — apertura del PPV"
+estipulacion: "standard (sin título en juego)"
+duracion: "19:55"
+finish: "Los Young Bucks van por el TK Driver; Takeshita agarra el pie de Nick Jackson pero lo suelta (tensión interna con Okada) — los Bucks conectan el TK Driver y pinean a Okada"
+ganador: "Young Bucks (Matt & Nick Jackson)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -26,10 +26,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "PERFECT MATCH — las tres clases. 'Otra obra maestra, fue increíble, el booking es realmente atrayente.' Young Bucks declarados héroes fundamentales del Vehemiurgo."
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynasty 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, Wrestling Inc, 411mania, NoDQ, SE Scoops); WebFetch bloqueado por egress"
 tags: [aew-dynasty-2026, young-bucks, matt-jackson, nick-jackson, kazuchika-okada, konosuke-takeshita, perfect-match-las-tres-clases, obra-maestra, booking-atrayente, tercer-triple-clase-contemporaneo-2026, young-bucks-heroes-fundamentales, dynasty-2026-12-abr]
 ---
 
@@ -77,9 +78,13 @@ tags: [aew-dynasty-2026, young-bucks, matt-jackson, nick-jackson, kazuchika-okad
 
 - [x] **CLASES ASIGNADAS** — las tres (Vehemiurgo 2026-05-26).
 - [x] **Fecha confirmada**: 12 abr 2026 (Vehemiurgo 2026-05-26).
-- [ ] **Ciudad, recinto, finish, ganador, duración**.
-- [ ] **Estipulación / contexto del feud** (¿títulos?, ¿Don
-      Callis Family storyline?).
+- [x] **Ciudad, recinto, finish, ganador, duración** →
+      Rogers Arena, Vancouver BC; Young Bucks ganan con TK Driver
+      sobre Okada tras tensión interna Okada/Takeshita, 19:55
+      (research 2026-10-05).
+- [x] **Contexto del feud** → sin título en juego; apertura del
+      PPV, explota la fractura Okada/Takeshita dentro de Don
+      Callis Family (research 2026-10-05).
 - [ ] **Desarrollar la Lectura**: qué ejes Perfect cumple
       (booking atrayente ya señalado por el Vehemiurgo).
 - [ ] Fact-sheets pendientes: Kazuchika Okada, Konosuke

@@ -5,22 +5,23 @@ participantes: ["Will Ospreay", "Hechicero"]
 empresa: "AEW"
 programa: "Spring BreakThru"
 fecha: 2026-04-15
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Seattle, WA"
+recinto: "Angel of the Winds Arena"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "17:59"
+finish: "Ospreay gana por pinfall con el Hidden Blade"
+ganador: "Will Ospreay"
 referee: "[verif]"
 encuentros_previos: "[verif — ver tag Young Bucks vs Hechicero & el clon, Collision 11/4]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Genial — merece las tres clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s05 (visión directa — AEW Spring BreakThru 15/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, Last Word on Pro Wrestling, Cageside Seats, TPWW); referee no confirmado; WebFetch bloqueado por egress"
 tags: [will-ospreay, hechicero, aew-spring-breakthru-2026, singles, perfect-match, fighting-spirit, wrestling-entertainment, primer-registro-individual-hechicero, gimmick-completo-doctrina]
 ---
 
@@ -53,7 +54,9 @@ tags: [will-ospreay, hechicero, aew-spring-breakthru-2026, singles, perfect-matc
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Ospreay gana con
+      Hidden Blade, 17:59, Angel of the Winds Arena, Seattle WA
+      (research 2026-10-05).
 - [ ] [verif] contexto/build previo (¿conectado al tag de
       Collision 11/4?).
 

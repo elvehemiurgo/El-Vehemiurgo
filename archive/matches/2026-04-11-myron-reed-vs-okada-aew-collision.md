@@ -5,22 +5,23 @@ participantes: ["Myron Reed", "Okada"]
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-04-11
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "Edmonton, Alberta (Canadá) [grabado]"
+recinto: "Rogers Place"
+tipo_match: "singles — AEW International Championship"
+estipulacion: "título en juego — AEW International Championship, Okada (c) defendiendo"
+duracion: "10:22"
+finish: "Okada retiene por pinfall con el Rainmaker"
+ganador: "Kazuchika Okada — retiene"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece todas las clases — 'todo estuvo genial'. Única reserva: los golpes ('ya no golpean como antes en general')"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s04 (visión directa — AEW Collision 11/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (All Elite Wrestling, Wrestling Inc, Fightful, Rajah); referee no confirmado; WebFetch bloqueado por egress"
 tags: [myron-reed, okada, aew-collision-2026, singles, perfect-match, fighting-spirit, wrestling-entertainment, reserva-tecnica-golpes, primer-registro-myron-reed, primer-registro-okada, pregunta-por-que-nunca-fue-el-elegido]
 ---
 
@@ -54,7 +55,9 @@ tags: [myron-reed, okada, aew-collision-2026, singles, perfect-match, fighting-s
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + duración + ciudad/recinto → Okada retiene el AEW
+      International Championship con Rainmaker, 10:22, Rogers
+      Place, Edmonton AB (research 2026-10-05).
 - [ ] [verif] encuentros previos Reed/Okada.
 
 ## Cross-links

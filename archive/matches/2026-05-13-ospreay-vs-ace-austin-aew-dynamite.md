@@ -5,22 +5,23 @@ participantes: ["Will Ospreay", "Ace Austin"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-05-13
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "North Charleston, SC / Asheville, NC según fuente [no confirmado — fuentes discrepan]"
+recinto: "North Charleston Coliseum / Harrah's Cherokee Center según fuente [no confirmado — fuentes discrepan]"
 tipo_match: "singles"
 estipulacion: "standard"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Ospreay gana por sumisión con un Fujiwara Armbar tras un Hidden Blade"
+ganador: "Will Ospreay"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece las 3 clases — 'incluso cuando se tropezaban estaba buena la pelea, lo mantuvieron real'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s15 (visión directa — AEW Dynamite 13/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports, Pro Wrestling Dot Net, Fightful); ciudad/recinto discrepante entre fuentes, duración y referee no confirmados; WebFetch bloqueado por egress"
 tags: [will-ospreay, ace-austin, aew-dynamite-2026, singles, perfect-match, fighting-spirit, wrestling-entertainment, tropiezos-no-rompen-lo-real, austin-repertorio-oldschool-pendiente, tercer-perfect-match-ospreay]
 ---
 
@@ -57,7 +58,12 @@ tags: [will-ospreay, ace-austin, aew-dynamite-2026, singles, perfect-match, figh
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish → Ospreay gana por sumisión (Fujiwara Armbar tras
+      Hidden Blade) (research 2026-10-05).
+- [ ] **Discrepancia (research 2026-10-05)**: ciudad/recinto sin
+      confirmar — ver nota idéntica en la ficha de Darby vs
+      Takeshita del mismo show. Duración y referee tampoco
+      confirmados.
 - [ ] [verif] qué partes específicas del repertorio de Ace Austin
       señala el Vehemiurgo (pendiente take más desarrollado).
 

@@ -5,17 +5,19 @@ participantes:
   - "Konosuke Takeshita (heel — Don Callis Family [verif])"
   - "Andrade (heel — Don Callis Family [verif])"
   - "Mark Davis (heel — Aussie Open / Don Callis Family [verif])"
-  - "[verif — trío rival babyface]"
+  - "Darby Allin"
+  - "Bandido (ROH World Champion)"
+  - "Jack Perry (AEW National Champion)"
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynamite"
 fecha: 2026-04-08
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Edmonton, Alberta (Canadá)"
+recinto: "Rogers Place"
 tipo_match: "six-man tag (3 vs 3)"
-estipulacion: "[verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+estipulacion: "standard"
+duracion: "13:00"
+finish: "Don Callis Family gana por pinfall — Andrade El Ídolo remata a Jack Perry con su finisher (reportado como \"DM\")"
+ganador: "Don Callis Family (Andrade, Takeshita & Mark Davis)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -27,10 +29,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "'Está buena' — buena acción y dinámica; Takeshita, Andrade y Mark Davis lucieron geniales como heels, Mark Davis especialmente cool. SIN clase asignada (el Vehemiurgo no le dio clase, solo elogió)."
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful, Rajah, eWrestling, Pro Wrestling Dot Net); WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, six-man-tag, konosuke-takeshita, andrade, mark-davis, trio-heel-genial, don-callis-family-verif, buena-accion-y-dinamica, mark-davis-cool, sin-clase-asignada, trio-rival-pendiente-verif]
 ---
 
@@ -71,10 +74,16 @@ tags: [aew-dynamite-2026, six-man-tag, konosuke-takeshita, andrade, mark-davis, 
 
 ## Pendientes / huecos
 
-- [ ] **Identificar el trío rival babyface**.
-- [ ] **Confirmar Don Callis Family** como el trío heel (alta
-      probabilidad).
-- [ ] **Ciudad, recinto, finish, ganador, duración**.
+- [x] **Identificar el trío rival babyface** → Darby Allin,
+      Bandido (ROH World Champion) y Jack Perry (AEW National
+      Champion) (research 2026-10-05).
+- [x] **Confirmar Don Callis Family** como el trío heel →
+      confirmado: Andrade El Ídolo, Konosuke Takeshita, Mark
+      Davis (research 2026-10-05).
+- [x] **Ciudad, recinto, finish, ganador, duración** →
+      Edmonton AB (Canadá), Rogers Place; Don Callis Family gana
+      por pinfall (finisher de Andrade sobre Perry), 13:00
+      (research 2026-10-05).
 - [ ] ¿Asignar clase? — latente, pendiente decisión del
       Vehemiurgo (elogió "buena acción y dinámica" pero no
       clasificó).

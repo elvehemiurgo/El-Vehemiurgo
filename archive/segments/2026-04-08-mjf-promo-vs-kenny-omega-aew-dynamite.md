@@ -6,9 +6,9 @@ protagonistas: ["MJF (Maxwell Jacob Friedman)", "Kenny Omega"]
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynamite"
 fecha: 2026-04-08
-ciudad: "[verif]"
-recinto: "[verif]"
-ubicacion_en_show: "[verif]"
+ciudad: "Edmonton, Alberta (Canadá)"
+recinto: "Rogers Place"
+ubicacion_en_show: "Segmento de cierre del show"
 duracion: "[verif]"
 linea_textual: ""
 gimmick_momento: "MJF top heel amado vs Kenny Omega (build del feud, Kenny como retador)"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'muy cool', por la promo y participación de MJF. Kenny 'estuvo ok'."
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 8 abr 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful): el show cierra con la confrontación Omega/MJF camino a Dynasty, Omega se queda con el Dynamite Diamond Ring; WebFetch bloqueado por egress"
 tags: [aew-dynamite-2026, mjf-top-heel-amado, kenny-omega, promo, build-mjf-vs-kenny, wrestling-entertainment-class, mjf-carga-el-segmento, kenny-estuvo-ok]
 ---
 
@@ -65,9 +66,14 @@ tags: [aew-dynamite-2026, mjf-top-heel-amado, kenny-omega, promo, build-mjf-vs-k
 
 - [x] **CLASE ASIGNADA** — Wrestling Entertainment (Vehemiurgo
       2026-05-26).
-- [ ] **Contenido de la promo**: líneas, ángulo, qué se anuncia
-      (¿match firmado? ¿stipulation?).
-- [ ] **Ubicación en show + duración**.
+- [x] **Contenido de la promo** → confrontación de cierre de
+      show entre Omega y MJF camino a su AEW World Championship
+      Match en Dynasty (12 abr); Omega gana la partida verbal y
+      se queda sosteniendo el Dynamite Diamond Ring (research
+      2026-10-05).
+- [x] **Ubicación en show** → segmento de cierre, Rogers Place,
+      Edmonton AB (research 2026-10-05).
+- [ ] Duración exacta no encontrada.
 - [ ] Registrar línea textual destacable si la hubo.
 
 ## Piezas relacionadas

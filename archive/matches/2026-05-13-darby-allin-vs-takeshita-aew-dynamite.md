@@ -5,22 +5,23 @@ participantes: ["Darby Allin", "Konosuke Takeshita"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-05-13
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "standard [verif]"
+ciudad: "North Charleston, SC / Asheville, NC según fuente [no confirmado — fuentes discrepan]"
+recinto: "North Charleston Coliseum / Harrah's Cherokee Center según fuente [no confirmado — fuentes discrepan]"
+tipo_match: "singles — AEW World Championship"
+estipulacion: "título en juego, Darby Allin (c) defendiendo"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Darby Allin retiene por pinfall con dos Coffin Drops; Takeshita se niega a usar el Dynamite Diamond Ring que Don Callis le ofrece, lo que le da tiempo a Allin de recuperarse"
+ganador: "Darby Allin — retiene"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece las 3 clases — 'después todo estuvo brutal'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s15 (visión directa — AEW Dynamite 13/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Slam Wrestling, POST Wrestling, SI/FanNation, Pro Wrestling Dot Net, TPWW); ciudad/recinto discrepante entre fuentes (North Charleston Coliseum vs Harrah's Cherokee Center/Asheville), duración y referee no confirmados; WebFetch bloqueado por egress"
 tags: [darby-allin, konosuke-takeshita, aew-dynamite-2026, main-event, perfect-match, fighting-spirit, wrestling-entertainment, cuarto-perfect-match-darby-consecutivo, takeshita-booking-diluyendose, primer-registro-individual-takeshita]
 ---
 
@@ -57,7 +58,14 @@ tags: [darby-allin, konosuke-takeshita, aew-dynamite-2026, main-event, perfect-m
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish → Darby retiene con dos Coffin Drops tras que
+      Takeshita se niega a usar el Dynamite Diamond Ring (research
+      2026-10-05).
+- [ ] **Discrepancia (research 2026-10-05)**: la ciudad/recinto
+      no se pudo confirmar — una fuente da North Charleston
+      Coliseum (North Charleston, SC) y otra Harrah's Cherokee
+      Center (Asheville, NC) para el mismo show. Duración y
+      referee tampoco confirmados.
 - [ ] [verif] en qué se nota la dilución del booking de Takeshita
       (pendiente de desarrollo futuro).
 

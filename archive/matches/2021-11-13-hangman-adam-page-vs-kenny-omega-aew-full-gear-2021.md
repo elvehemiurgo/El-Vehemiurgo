@@ -11,18 +11,19 @@ ciudad: "Minneapolis, MN"
 recinto: "Target Center"
 tipo_match: "singles — AEW World Heavyweight Championship redemption arc payoff"
 estipulacion: "AEW World Heavyweight Championship — Omega defendiendo, Hangman challenging"
-duracion: ""
-finish: "[verif] — Hangman wins via Buckshot Lariat"
+duracion: "25:11"
+finish: "Hangman gana por pinfall con doble Buckshot Lariat; el referee original Paul Turner fue derribado durante la secuencia final y Aubrey Edwards entró a tomar el control hasta el pin"
 ganador: "Hangman Adam Page"
-referee: ""
+referee: "Paul Turner (derribado) / Aubrey Edwards (entra a terminar el match)"
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo cluster AAA + AEW 2026 + Hangman fact-sheet"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Slam Wrestling, F4WOnline, Cageside Seats); WebFetch bloqueado por egress"
 tags: [aew-2021, full-gear-2021, hangman-adam-page, kenny-omega, aew-world-championship-coronation, redemption-arc-payoff, the-elite-betrayal-storyline, modern-classic-emotional, deserve-it-storyline]
 ---
 
@@ -73,7 +74,9 @@ tags: [aew-2021, full-gear-2021, hangman-adam-page, kenny-omega, aew-world-champ
 
 ## Pendientes / huecos
 
-- [ ] Finish exacto + duración + secuencia.
+- [x] Finish exacto + duración → doble Buckshot Lariat, 25:11,
+      con cambio de referee (Paul Turner → Aubrey Edwards) en la
+      secuencia final (research 2026-10-05).
 - [ ] Star rating WON Meltzer (★★★★+ contexto histórico —
       Meltzer fan declarado).
 - [ ] Cobertura POST Wrestling + Cornette reaction.

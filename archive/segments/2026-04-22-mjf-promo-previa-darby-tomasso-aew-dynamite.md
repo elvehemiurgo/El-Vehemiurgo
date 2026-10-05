@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-04-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Portland, OR"
+recinto: "Veterans Memorial Coliseum"
 ubicacion_en_show: "Previo al main event (Darby Allin vs Tomasso)"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — declarada explícita solo por este segmento"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s08 (visión directa — AEW Dynamite 22/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (SI/FanNation, Fightful, Pro Wrestling Dot Net): confirma AEW World Title Match Darby Allin (c) vs Tommaso Ciampa esa misma noche, consistente con el cross-link ya presente en la ficha; WebFetch bloqueado por egress"
 tags: [mjf, kevin-hart-verif, aew-dynamite-2026, promo, wrestling-entertainment, ironia-de-booking, arrogancia-mjf, devaluado-al-midcard, psicologia-del-booking]
 ---
 
@@ -68,6 +69,8 @@ tags: [mjf, kevin-hart-verif, aew-dynamite-2026, promo, wrestling-entertainment,
 
 ## Pendientes
 
+- [x] **Ciudad/recinto** → Veterans Memorial Coliseum, Portland
+      OR (research 2026-10-05).
 - [ ] Línea textual exacta.
 - [ ] Identidad de Kevin Hart.
 - [ ] Duración + ubicación exacta en el show.

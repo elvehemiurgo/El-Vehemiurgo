@@ -5,22 +5,23 @@ participantes: ["Darby Allin", "Speedball Mike Bailey"]
 empresa: "AEW"
 programa: "Dynamite & Collision"
 fecha: 2026-05-20
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "standard"
+ciudad: "Portland, ME"
+recinto: "Cross Insurance Arena"
+tipo_match: "singles — AEW World Championship"
+estipulacion: "título en juego, Darby Allin (c) defendiendo"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Darby Allin retiene por sumisión — tras varios Coffin Drops, remata con el Scorpion Death Lock"
+ganador: "Darby Allin — retiene"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — elogio sin vocabulario de clase. 'Estuvo muy buena también, Bailey se vio muy cool con esa actitud'"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s16 (visión directa — AEW Dynamite & Collision 20/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc, Last Word on Pro Wrestling, Sportskeeda); duración y referee no confirmados; WebFetch bloqueado por egress"
 tags: [darby-allin, speedball-mike-bailey, aew-dynamite-collision-2026, singles, sin-clase, promos-mejoran, paquete-completo-en-progreso]
 ---
 
@@ -59,7 +60,10 @@ tags: [darby-allin, speedball-mike-bailey, aew-dynamite-collision-2026, singles,
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Finish + ciudad/recinto → Darby retiene por sumisión
+      (Scorpion Death Lock tras Coffin Drops), Cross Insurance
+      Arena, Portland ME (research 2026-10-05).
+- [ ] Duración y referee no confirmados por research.
 
 ## Cross-links
 

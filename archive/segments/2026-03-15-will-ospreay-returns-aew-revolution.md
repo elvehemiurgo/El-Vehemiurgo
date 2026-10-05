@@ -7,8 +7,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Revolution 2026"
 fecha: 2026-03-15
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Los Angeles, CA"
+recinto: "Crypto.com Arena"
 ubicacion_en_show: "[verif]"
 duracion: ""
 linea_textual: ""
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier AAA + AEW 2026"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (SI/FanNation, Bleacher Report); WebFetch bloqueado por egress"
 tags: [aew-2026, revolution-2026, will-ospreay, return-moment, pre-takeshita-feud, character-arc-launch, ospreay-moxley-arc]
 ---
 
@@ -69,6 +70,8 @@ matiz Cornette-school vs Vehemiurgia school.)
 
 ## Pendientes / huecos
 
+- [x] Ciudad/recinto → Crypto.com Arena, Los Angeles, CA (research
+      2026-10-05).
 - [ ] Texto del promo / segment exacto.
 - [ ] Reaction del público.
 - [ ] Cobertura Cornette post-Revolution (alta probabilidad).

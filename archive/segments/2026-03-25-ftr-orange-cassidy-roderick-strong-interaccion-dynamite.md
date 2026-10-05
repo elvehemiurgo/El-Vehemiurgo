@@ -6,10 +6,10 @@ protagonistas: ["FTR (Dax Harwood + Cash Wheeler)", "Orange Cassidy", "Roderick 
 empresa: "AEW (All Elite Wrestling)"
 programa: "Dynamite"
 fecha: 2026-03-25
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "St. Paul, MN"
+recinto: "Roy Wilkins Auditorium"
 ubicacion_en_show: "[verif — dentro del bloque FTR / promo frente a los fans]"
-duracion: "[verif — 'esos segundos de programación' (Vehemiurgo), micro-momento]"
+duracion: "[verif — 'esos segundos de programación' (Vehemiurgo), micro-momento; no identificado como match individual en los recaps consultados, sin tiempo propio]"
 linea_textual: ""
 gimmick_momento: "FTR top heels tag team + Orange Cassidy babyface slacker carny + Roderick Strong"
 storyline: "Bloque FTR post-Revolution — angle FTR vs Cope & Cage (recalentado) + FTR promo frente a los fans"
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Clase Wrestling Entertainment asignada explícitamente — micro-momento de interacción que el Vehemiurgo rescata de un bloque macro que no le emociona"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-05-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
   - "Visionado directo del Vehemiurgo"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch recap: FTR da un mensaje a Copeland referenciando el ataque a Beth Phoenix; no se nombra explícitamente a Orange Cassidy/Roderick Strong en ese segmento, pero el recap sitúa el bloque FTR dentro del show; David Finlay & Clark Connors derrotaron a Orange Cassidy & Roderick Strong como match aparte); WebFetch bloqueado por egress"
 tags: [ftr, dax-harwood, cash-wheeler, orange-cassidy, roderick-strong, aew-dynamite-2026, interaccion-carny-cool, clase-wrestling-entertainment, micro-momento-rescatado, bloque-ftr-cope-and-cage-angle]
 ---
 
@@ -127,7 +128,16 @@ Roderick Strong.)_
       ubicación en show.
 - [ ] Mapear la relación FTR ↔ Orange Cassidy + Roderick
       Strong en marzo 2026 (¿feud?, ¿tag division?).
-- [ ] Confirmar ciudad + recinto del Dynamite 25 mar 2026.
+- [x] Confirmar ciudad + recinto del Dynamite 25 mar 2026 → St.
+      Paul, MN, Roy Wilkins Auditorium (research 2026-10-05).
+- [ ] **Discrepancia/precisión (research 2026-10-05)**: los
+      recaps (PWTorch) registran un match aparte "David Finlay &
+      Clark Connors vs Orange Cassidy & Roderick Strong" esa
+      noche — no queda claro si la "interacción" que describe el
+      Vehemiurgo es parte de ese match o un segmento promo
+      distinto dentro del bloque FTR. No se encontró mención
+      explícita de FTR interactuando in-ring con Cassidy/Strong
+      en los recaps consultados.
 - [x] Roderick Strong fact-sheet abierto (héroe fundamental
       declarado) → [`../people/roderick-strong.md`](../people/roderick-strong.md).
 - [ ] Evaluar apertura de fact-sheets: FTR (o Dax Harwood +

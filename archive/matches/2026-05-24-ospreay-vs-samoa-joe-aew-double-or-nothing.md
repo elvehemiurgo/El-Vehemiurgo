@@ -5,22 +5,23 @@ participantes: ["Will Ospreay", "Samoa Joe"]
 empresa: "AEW"
 programa: "Double or Nothing"
 fecha: 2026-05-24
-ciudad: "[verif]"
-recinto: "[verif]"
-tipo_match: "singles"
-estipulacion: "standard [verif]"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+ciudad: "New York, NY (Queens)"
+recinto: "Louis Armstrong Stadium"
+tipo_match: "singles — 2026 Men's Owen Hart Cup, primera ronda"
+estipulacion: "torneo — Owen Hart Cup 2026, primera ronda"
+duracion: "13:52"
+finish: "Will Ospreay gana (mecanismo exacto del pin no detallado en las fuentes) [parcial]"
+ganador: "Will Ospreay"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece todas las clases — 'siempre Joe pone buenas luchas'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (SI/FanNation, All Elite Wrestling); finish exacto y referee no confirmados; WebFetch bloqueado por egress"
 tags: [will-ospreay, samoa-joe, aew-double-or-nothing-2026, singles, perfect-match, fighting-spirit, wrestling-entertainment, death-riders-critica-reafirmada, cuarto-perfect-match-ospreay]
 ---
 
@@ -52,7 +53,11 @@ tags: [will-ospreay, samoa-joe, aew-double-or-nothing-2026, singles, perfect-mat
 
 ## Pendientes
 
-- [ ] Finish + duración + ciudad/recinto.
+- [x] Duración + ciudad/recinto + contexto → es primera ronda
+      del 2026 Men's Owen Hart Cup; Ospreay gana, 13:52, Louis
+      Armstrong Stadium, New York NY (research 2026-10-05).
+- [ ] Finish exacto (mecanismo del pin) + referee — no detallados
+      en las fuentes consultadas.
 
 ## Cross-links
 

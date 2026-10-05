@@ -12,7 +12,7 @@ recinto: "Addition Financial Arena"
 tipo_match: "singles — Dog Collar Match (blow-off del feud)"
 estipulacion: "Dog Collar Match. Tribute al Greg Valentine vs Roddy Piper 1983 NWA Starrcade dog collar match."
 duracion: ""
-finish: "[verif] — CM Punk wins"
+finish: "CM Punk gana por pinfall golpeando a MJF con el Dynamite Diamond Ring, después de que Wardlow traicionara a MJF y le entregara el anillo a Punk"
 ganador: "CM Punk"
 referee: ""
 attendance_anunciada: ""
@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal (2026-05-09)"
   - "AEW archive + WON Newsletter mar 2022"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Bleacher Report, WrestleZone, Cageside Seats, ComicBook); duración exacta y referee no confirmados pese a búsqueda dedicada (reviews de Cagematch mencionan ~32-40 min, sin tiempo oficial); WebFetch bloqueado por egress"
 tags: [aew-2022, revolution-2022, cm-punk, mjf, dog-collar-match, blood-feud, territorial-callback, piper-valentine-tribute, modern-classic, blow-off]
 ---
 
@@ -91,7 +92,12 @@ Entertainment Class** por el storytelling violent.
 
 ## Pendientes / huecos
 
-- [ ] Finish + duración exactos.
+- [x] Finish → CM Punk gana por pinfall golpeando a MJF con el
+      Dynamite Diamond Ring tras el turn de Wardlow (research
+      2026-10-05).
+- [ ] Duración exacta sin confirmar — reviews de Cagematch dan
+      estimaciones dispares (~32 min / ~40 min), sin tiempo
+      oficial localizado [no confirmado].
 - [ ] Star rating WON Meltzer (contexto histórico, no
       veredicto).
 - [ ] Cobertura POST Wrestling + Cornette reaction.
