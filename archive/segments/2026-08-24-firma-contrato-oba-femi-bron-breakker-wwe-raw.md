@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo fuerte, promos solidas, mucha confianza; me le convenció de que tiene carisma, no necesita a Heyman y menos a Rollins; lo mejor que se ha visto en RAW desde su debut; el show que puso asustando a Heyman y empezando el brawl, simplemente genial; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s49 (visión directa — WWE Raw, 24/8/2026)"
   - "Sub-agente research-wwe-raw-240826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com, PWTorch (Keller), F4W/WON, UPI, Rajah"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Bleacher Report, NoDQ); WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, oba-femi, bron-breakker, paul-heyman, austin-theory, adam-pearce, the-vision, snme-060926, doctrina-rub-malo, wrestling-entertainment]
 ---
 
@@ -109,13 +110,23 @@ tags: [wwe-2026, raw, oba-femi, bron-breakker, paul-heyman, austin-theory, adam-
   **Femi firma al final, tras el powerbomb**. El archivo registra
   ambas y no adjudica.
 
+## Resultado de SNME 6/9/2026, confirmado por research (2026-10-05)
+
+**Oba Femi venció a Bron Breakker por descalificación**, tras la
+interferencia de **Bronson Reed** (regreso sorpresa): Reed golpea a
+Femi con una silla y aplica un Tsunami; Breakker remata con una spear;
+Reed vuelve a aplicar más Tsunamis hasta que los oficiales
+intervienen. [Bleacher Report/NoDQ]
+
 ## Pendientes / huecos
 
 - [ ] Resolver la discrepancia sobre el orden de las firmas — [verif]
       contra video.
 - [ ] ¿Ruptura formal de Breakker con The Vision tras empujar a
       Heyman, o gesto aislado? — [verif].
-- [ ] Resultado de **Oba Femi vs. Bron Breakker** en SNME (6/9/2026).
+- [x] Resultado de **Oba Femi vs. Bron Breakker** en SNME (6/9/2026).
+      → Femi gana por DQ tras interferencia de Bronson Reed
+      (Bleacher Report/NoDQ, research 2026-10-05)
 
 ## Piezas relacionadas
 

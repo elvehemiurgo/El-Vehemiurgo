@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool; me gustó el acto de Lexis para evitar a Lucien y huir de él, es fresco; el hijo del Loose Cannon se siente como top heel en esta lucha, muy buen selling, atención a los detalles; la lucha se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — WWE NXT, 18/8/2026)"
   - "Sub-agente research-wwe-nxt-180826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com (primaria), POST Wrestling, Fightful, F4W/WON, Wrestling Inc., PWTorch (Wells)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, lexis-king, lucien-price, brian-pillman, birthright, charlie-dempsey, uriah-connors, stacks-lorenzo, bronco-nima, wwe-speed-championship, triple-clase, heel-de-evasion]
 ---
 
@@ -92,7 +93,8 @@ de Birthright y **salvada de Bronco Nima**.
 
 ## Pendientes
 
-- [ ] Referee y secuencia completa.
+- [x] Secuencia completa. → Confirmada (ver resumen arriba): Stacks Lorenzo distrae al referee, Connors y Dempsey sujetan los tobillos de Price (research 2026-10-05)
+- [ ] Referee (nombre no encontrado).
 - [ ] Ficha de people de **Uriah Connors** — sin abrir.
 
 ## Cross-links

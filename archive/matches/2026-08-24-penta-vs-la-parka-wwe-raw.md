@@ -9,8 +9,8 @@ ciudad: "Ottawa, Ontario, Canadá"
 recinto: "Canadian Tire Centre"
 tipo_match: "singles"
 estipulacion: "semifinal de torneo — contendiente Nº1 al World Heavyweight Championship"
-duracion: "[verif]"
-finish: "Springboard Mexican Destroyer — pinfall"
+duracion: "8:53 [una fuente]"
+finish: "Penta contrarresta el Bone Breaker (finisher de La Parka) con un Sacrifice y remata con Springboard Mexican Destroyer — pinfall"
 ganador: "Penta"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy cool que lo bookearan, y sí pusieron una gran lucha; iban después de Fénix vs Lee, un acto increíble difícil de seguir, y apostaron por un pase más calmado; buenas secuencias, buenos gimmicks, protegieron el finisher de La Parka como algo importante; lo mantuvieron real — con la reserva de que Penta se ve muy safe últimamente; se merecen las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s50 (visión directa — WWE Raw, 24/8/2026)"
   - "Sub-agente research-wwe-raw-240826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: Rajah, Slam Wrestling, Fightful"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-2026, raw, penta, la-parka, lucha-libre, torneo-wwe-aaa, cdmx-140926, triple-clase, arquitectura-de-card, proteccion-de-finisher, reserva-penta-safe]
 ---
 
@@ -98,8 +99,9 @@ semifinal la misma noche; el ganador reta a Reigns en **CDMX el
 
 ## Pendientes
 
-- [ ] Duración, referee y el nombre del finisher de La Parka que el
-      Vehemiurgo destaca como protegido — [verif].
+- [x] Duración. → 8:53 [una fuente] (research 2026-10-05)
+- [x] Nombre del finisher de La Parka. → Bone Breaker, confirmado (research 2026-10-05)
+- [ ] Referee.
 - [ ] Confirmar cuál portador del personaje **La Parka** es el que
       lucha acá (AAA 2026) — el archivo tiene ficha abierta con
       identificación incompleta.

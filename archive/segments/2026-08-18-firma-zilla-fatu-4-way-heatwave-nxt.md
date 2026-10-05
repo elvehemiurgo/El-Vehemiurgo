@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy fuerte, de frente le pusieron buenos stakes, su promo realmente estuvo buena, con Montana, Waller y D'Angelo super pendientes, y de frente bookean una 4 way para Heatwave; me encantó todo sobre este segmento, se puso muy épica la escena del título mundial en NXT; se merecen una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — WWE NXT, 18/8/2026)"
   - "Sub-agente research-wwe-nxt-180826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress: WWE.com (primaria), POST Wrestling, Fightful, F4W/WON, Wrestling Inc., PWTorch (Wells)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Bleacher Report, Fox News); WebFetch bloqueado por egress"
 tags: [wwe-nxt-2026, zilla-fatu, umaga, anoai-fatu, tony-dangelo, grayson-waller, mike-santana, cruz-montana, robert-stone, nxt-championship, heatwave-2026, firma-de-contrato, wrestling-entertainment]
 ---
 
@@ -96,10 +97,18 @@ tags: [wwe-nxt-2026, zilla-fatu, umaga, anoai-fatu, tony-dangelo, grayson-waller
   Venía de perder el **House of Glory Crown Jewel Championship ante
   Amazing Red** el **8/8/2026**, diez días antes de firmar.
 
+## Resultado de Heatwave, confirmado por research (2026-10-05)
+
+En **NXT Heatwave 2026** (30/8/2026), **Grayson Waller ganó el NXT
+Championship** venciendo a Tony D'Angelo, Zilla Fatu y Cruz Montana
+con un elbow drop de alto riesgo.
+
 ## Pendientes / huecos
 
 - [ ] Verbatim contra video.
-- [ ] Resultado del fatal 4-way de Heatwave.
+- [x] Resultado del fatal 4-way de Heatwave. → Grayson Waller nuevo
+      campeón, venció a D'Angelo, Fatu y Montana (Bleacher Report/Fox
+      News, research 2026-10-05)
 
 ## Piezas relacionadas
 
