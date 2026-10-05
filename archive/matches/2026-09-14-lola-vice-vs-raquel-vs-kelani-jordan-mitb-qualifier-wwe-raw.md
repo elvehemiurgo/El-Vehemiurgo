@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Actos sólidos; la lucha se merece WE + FS. Lola se ve muy bien, buenos strikes, y es buen booking ponerla contra el Judgment Day de arranque; de Kelani no mostraron nada de su mic, solo in-ring -- estuvo bien para un primer contacto, buen showcase"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-16
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-16 s02 (visión directa — WWE Raw, 14/9/2026, timestamp 01:32:51)"
   - "Sub-agente research-triplemania-xxxiv-d2-raw-140926 (research 2026-09-16) — WebSearch (WWE.com); WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch); WebFetch bloqueado por egress"
 tags: [wwe-raw-2026, lola-vice, raquel-rodriguez, kelani-jordan, money-in-the-bank, ciudad-de-mexico, feeling-crown, debut-en-raw, judgment-day, gimmick-underground, presentacion-guiada]
 ---
 
@@ -101,8 +102,12 @@ compite como Campeona Intercontinental Femenina.
 - [x] Debut confirmado para las dos: Vice, primer match en Raw; Jordan,
       primera aparición in-ring en Raw, billeada como NXT Women's
       Champion vigente [Primaria: WWE.com preview 14/9/2026].
-- [ ] Referee. Keller marcó uno de los dos clasificatorios como el que
-      "no funcionó" sin que el snippet diga cuál — `[verif]`.
+- [x] **Keller/PWTorch "didn't work"** → confirmado que es **esta
+      lucha** (women's qualifier, no la de Je'Von Evans): el punto era
+      darle impulso a Lola Vice en su llegada al roster principal, y
+      aunque la acción estuvo bien, Vice no generó la primera
+      impresión esperada (PWTorch/Hubbard, research 2026-10-05).
+- [ ] Referee.
 
 ## Cross-links
 
