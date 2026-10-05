@@ -3,12 +3,13 @@ nombre: "Bear Bronson"
 tipo: fact-sheet
 categoria: people
 slug: bear-bronson
-estado: stub
-ultima_actualizacion: 2026-07-09
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #19 (match vs Moose FS)"
   - "The System roster (KO Tag Champion con Brian Myers, Rebellion 2026)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, prowrestling.fandom, POST Wrestling, Fightful, tnawrestling.com, 411mania, Last Word on Pro Wrestling vía snippet); WebFetch bloqueado por egress"
 tags: [bear-bronson, ex-bear-country-bear-boulder, the-system, ko-world-tag-champion-rebellion-2026, big-man-heavyweight, moose-fs-match]
 ---
 
@@ -22,16 +23,31 @@ tags: [bear-bronson, ex-bear-country-bear-boulder, the-system, ko-world-tag-cham
 ## Identificación
 
 - **Nombre de gimmick**: **Bear Bronson**.
-- **Nombre real**: [verif].
+- **Nombre real**: **Joseph Fitzpatrick** ("Joe Fitz" en algunas
+  fuentes).
+- **Nacimiento**: **13/11/1995** [una fuente].
+- **Escuela / entrenadores**: **Create-A-Pro Wrestling Academy**
+  (Nueva York); entrenado por **Brian Myers** y **Pat Buck** — es
+  decir, su tag partner en The System es también su entrenador.
 - **Equipo previo**: ***Bear Country*** (con **Bear Boulder** /
-  Bear Beefcake) — tag team de dos big men, indies + AEW/ROH.
-- **Empresa actual (2026)**: TNA Wrestling — **The System**.
+  Bear Beefcake) — tag team de dos big men, indies + AEW/ROH; el
+  equipo figura luego como **Iron Savages** [no confirmado el
+  detalle del rebautizo].
+- **Empresa actual (oct 2026)**: TNA Wrestling — **The System**.
 
 ## Trayectoria (preliminar)
 
+- **13/2/2015** — debut in-ring en Create-A-Pro.
+- **AEW Dark, 15 dic [2020, año no confirmado]** — debut de Bear
+  Country en AEW, derrota ante Evil Uno & Stu Grayson (Dark Order).
 - **Indies + AEW/ROH** como Bear Country (con Bear Boulder).
-- **TNA 2025-2026** — sumado a **The System** (con Eddie Edwards +
-  Brian Myers + Alisha).
+- **5/12/2025** — debut en TNA en el pre-show *Countdown to Final
+  Resolution* (six-man tag) [POST Wrestling].
+- **Ene 2026** — TNA oficializa su firma (tnawrestling.com; Last
+  Word on Pro Wrestling, 29/1/2026).
+- **TNA 2025-2026** — presentado como nuevo miembro de **The System**,
+  noche en que la facción se vuelve contra Moose y JDC (con Eddie
+  Edwards + Brian Myers + Alisha).
 - **TNA World Tag Team Champion** con Brian Myers — ganado a **The
   Hardys en Rebellion 2026** (11 abr).
 - **26 mar (Impact)** — vs **Moose**, FS class

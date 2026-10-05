@@ -25,10 +25,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal (2026-05-09)"
   - "IWA Mid-South archive + Ian Rotten interviews retrospectivas"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (en.wikipedia.org, smartmarkvideo.com, onlineworldofwrestling.com, prowrestlingstories.com — snippets); WebFetch bloqueado por egress"
 tags: [iwa-mid-south, indie-classic, eddie-guerrero, cm-punk, eddie-wwe-release-period, cm-punk-indie-ascendente, indianapolis-indies, ian-rotten, dos-iconos-pre-fame]
 ---
 
@@ -83,6 +84,7 @@ indie classic.)
 ## Pendientes / huecos
 
 - [ ] Finish + duración exactos.
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra **Eddie Guerrero** ganador en *Revolution Strong Style*, Indianapolis (presunción); las fuentes dan para el 2 mar 2002 el show **IWA Mid-South *Morris Mayhem*, Morris, IL**, donde **CM Punk derrota a Eddie Guerrero** (con ayuda de Rey Mysterio) y recupera el IWA-MS Heavyweight Title. Eddie había ganado el título la noche anterior (1 mar 2002, triple amenaza con Punk y Rey) (Wikipedia *IWA-MS Heavyweight Championship* + SmartMark Video + OWW + prowrestlingstories, vía snippets). Revisar si el Vehemiurgo vio el 1 mar o el 2 mar.
 - [ ] Star rating WON Meltzer (probable cubierto en indie
       column).
 - [ ] Verbatim Punk en *Tales from the Territories* / *Talk Is

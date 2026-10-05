@@ -15,17 +15,18 @@ tipo_match: "tag — ROH founding generation feud"
 estipulacion: "[verif]"
 duracion: ""
 finish: ""
-ganador: ""
+ganador: "AJ Styles & Low Ki"
 referee: ""
 attendance_anunciada: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-05-10
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Notebook del Vehemiurgo, sec. 9 'AJ Styles arc completo'"
   - "ROH archive 2003"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (blogofdoom.com, prowrestling.fandom.com, thesmackdownhotel.com — snippets); WebFetch bloqueado por egress"
 tags: [roh-2003, aj-styles-arc, low-ki, christopher-daniels, xavier, the-prophecy, roh-founding-generation, ecw-arena, indie-2003-classic]
 ---
 
@@ -60,8 +61,10 @@ tags: [roh-2003, aj-styles-arc, low-ki, christopher-daniels, xavier, the-prophec
 
 ## Pendientes / huecos
 
-- [ ] Ganador + finish + duración.
+- [x] Ganador. → Low Ki & AJ Styles d. The Prophecy (Christopher Daniels & Xavier, con Allison Danger), **No Holds Barred**, main event (Scott's Blog of Doom + Pro Wrestling Wiki, vía snippets)
+- [ ] Finish + duración.
 - [ ] **Verificar lugar exacto** (Philly ECW Arena probable).
+- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra ciudad **Philadelphia, PA** (recinto ECW Arena por presunción); las fuentes ubican *Revenge on the Prophecy* en **West Mifflin, PA — CCAC South Campus**, attendance ~300 (Pro Wrestling Wiki/fandom + Blog of Doom + TheSmackDownHotel, vía snippets).
 - [ ] Cobertura ROH archive + retrospectives.
 - [ ] **Asignación de clase del Vehemiurgo** (candidato Fighting
       Spirit Class).
