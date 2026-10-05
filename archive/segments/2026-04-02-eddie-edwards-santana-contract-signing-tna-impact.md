@@ -10,8 +10,8 @@ protagonistas:
 empresa: "TNA Wrestling"
 programa: "iMPACT!"
 fecha: 2026-04-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "New Orleans / Westwego, Louisiana"
+recinto: "Alario Center"
 ubicacion_en_show: "[verif — cierre de show, tras el salve de Santana tobre Grace vs Brookside]"
 duracion: "[verif]"
 linea_textual: "[verif — Eddie menciona a la hija de Santana; Santana responde con Alisha, esposa de Eddie]"
@@ -22,9 +22,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Eddie ok, buen material de continuidad; climax muy cool (emboscada + salve); spot final de Slater increíble — sin clase declarada sobre el segmento"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-11 s02 (visión directa — TNA Impact 2/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful, Slam Wrestling; ciudad/recinto por el mismo taping del show); WebFetch bloqueado por egress"
 tags: [eddie-edwards, mike-santana, cedric-alexander, leon-slater, the-system, tna-impact-2026, contract-signing, sin-clase, tv-de-los-90s, ataque-personal-familia, spot-over-the-top-corner, build-rebellion]
 ---
 

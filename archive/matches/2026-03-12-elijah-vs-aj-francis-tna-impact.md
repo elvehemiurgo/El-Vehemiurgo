@@ -5,22 +5,23 @@ participantes: ["Elijah", "AJ Francis"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-12
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "College Park, Georgia"
+recinto: "Gateway Center Arena"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "7:00"
+finish: "AJ Francis conecta el Down Payment y cubre"
+ganador: "AJ Francis"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena lucha, TV ready — actúan como wrestlers + saben hacer un irish whip correctamente"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #14 (visión directa — TV ready + irish whip correcto + alejados de vicios)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, rajah.com); WebFetch bloqueado por egress"
 tags: [elijah, ex-elias-wwe, aj-francis, ex-top-dolla-wwe, tna-impact-12-mar-2026, tv-ready, actuan-como-wrestlers, irish-whip-correcto-oficio-basico, alejados-de-vicios-actuales, doctrina-oficio-basico-pieza-al-horno]
 ---
 
@@ -127,11 +128,23 @@ propia:
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto + ciudad.
-- [ ] Card completa TNA Impact 12/3/2026 (también incluye el
-      ataque Arianna + Stacks a Hartwell + Rosemary Swinger's
-      Palace segment).
+- [x] Finish exacto + duración → **AJ Francis gana en 7:00 con el
+      Down Payment** (durante el match, Frankie Kazarian interfirió
+      fuera de la vista del referee; tras la campana, Hometown Man
+      corrió a hacer el save de Elijah) (research 2026-10-05,
+      pwtorch.com). Referee no identificado en los recaps
+      consultados.
+- [x] Recinto + ciudad → **Gateway Center Arena, College Park,
+      Georgia** (research 2026-10-05, pwtorch.com / rajah.com).
+- [x] Card completa TNA Impact 12/3/2026 → The Hardys def. Sinner
+      & Saint; Indi Hartwell def. Kelsey Heather; Trey Miguel,
+      Rich Swann & BDE def. Order 4 (Ali, Skyler & Hotch); AJ
+      Francis def. Elijah (este); Ricky Sosa def. Brad Attitude;
+      Moose def. Cedric Alexander (Atlanta Street Fight) (research
+      2026-10-05, pwtorch.com). El ataque Arianna + Stacks a
+      Hartwell y el segmento de Rosemary en Swinger's Palace no
+      aparecen en los recaps de resultados consultados — [ ]
+      sigue pendiente confirmarlos puntualmente.
 - [ ] **Pieza editorial al horno — escribir**: *"El irish whip
       correcto como prueba del oficio básico"*. Material primario
       completo, pendiente solo de la decisión del Vehemiurgo.

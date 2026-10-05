@@ -9,8 +9,8 @@ ciudad: "Westwego, Louisiana (metro New Orleans)"
 recinto: "Alario Center"
 tipo_match: "triple threat"
 estipulacion: "TNA Knockouts World Championship"
-duracion: "[verif]"
-finish: "[verif]"
+duracion: "13:43"
+finish: "Lei Ying Lee conecta un spinning head kick + helicopter slam sobre Dani Luna y va al cover, pero Stacks saca a Lee del ring; Grace entra y roba el pin sobre Luna"
 ganador: "Arianna Grace (retiene)"
 referee: "[verif]"
 encuentros_previos: 2
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena — Fighting Spirit + Wrestling Entertainment (declaradas explícitas)"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: verificado
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 (visión directa — TNA Sacrifice)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, prowrestling.net, slamwrestling.net); WebFetch bloqueado por egress"
 tags: [arianna-grace, lei-ying-lee, dani-luna, tna-sacrifice-2026, knockouts-world-championship, triple-threat, fighting-spirit, wrestling-entertainment, the-future-in-2026-numero-3-anchor, kos-division-2026]
 ---
 
@@ -66,12 +67,15 @@ tags: [arianna-grace, lei-ying-lee, dani-luna, tna-sacrifice-2026, knockouts-wor
 
 ## Pendientes
 
-- [ ] **Lineup confirmado** (Arianna/Lei/Dani inferido del take).
+- [x] **Lineup confirmado** → Arianna Grace (c) vs Lei Ying Lee vs
+      Dani Luna (WebSearch: pwtorch.com, prowrestling.net,
+      27-mar-2026).
 - [x] Ganadora — Arianna Grace retiene (research 2026-07-09;
       lineup confirmado). Rebellion 11/4: retuvo de nuevo vs Lei
       Ying Lee.
-- [ ] Finish exacto + duración.
-- [ ] Posición en card.
+- [x] Finish exacto + duración → ver finish arriba, 13:43
+      (WebSearch: pwtorch.com, prowrestling.net, slamwrestling.net).
+- [ ] Posición en card (no confirmada).
 
 ## Cross-links
 

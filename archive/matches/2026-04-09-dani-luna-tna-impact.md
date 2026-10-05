@@ -5,8 +5,8 @@ participantes: ["Dani Luna", "[verif rival]"]
 empresa: "TNA Wrestling"
 programa: "iMPACT!"
 fecha: 2026-04-09
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "New Orleans / Westwego, Louisiana"
+recinto: "Alario Center"
 tipo_match: "singles [verif]"
 estipulacion: "[verif]"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Impresionado — el sweet spot de monster heel finalmente alcanzado; sin clase declarada sobre el match, registro por el hito de performance"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-11 (visión directa — TNA Impact 9/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — ciudad/recinto por cruce con ficha ya investigada 2026-04-09-hardys-vs-righteous-tna-impact.md (research 2026-08-01: Wrestling Inc, PWTorch, TNA Wrestling oficial, Fightful), mismo taping; rival/finish/ganador/referee/duración sin cobertura — presupuesto de WebSearch de la sesión agotado antes de poder buscarlos; WebFetch bloqueado por egress"
 tags: [dani-luna, tna-impact-2026, sin-clase, sweet-spot-alcanzado, monster-heel-payoff, runner-ups-alta-formal, roadmap-samoa-joe-scott-norton]
 ---
 
@@ -61,8 +62,12 @@ tags: [dani-luna, tna-impact-2026, sin-clase, sweet-spot-alcanzado, monster-heel
 
 ## Pendientes
 
-- [ ] Rival, estipulación, finish, duración.
-- [ ] Ciudad y recinto.
+- [ ] Rival, estipulación, finish, duración — sin cobertura; el
+      presupuesto de WebSearch de la sesión se agotó antes de poder
+      buscar este match específico.
+- [x] Ciudad y recinto → **Alario Center, New Orleans / Westwego,
+      Louisiana** (mismo taping que Hardys vs Righteous, 9/4/2026,
+      cruzado con research 2026-08-01 de esa ficha).
 
 ## Cross-links
 

@@ -9,8 +9,8 @@ ciudad: "Westwego, Louisiana (metro New Orleans)"
 recinto: "Alario Center"
 tipo_match: "tag team"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
+duracion: "11:18 / 11:20 según fuente"
+finish: "Kazarian cubre a Home Town Man con un Fade to Black (piledriver), después de un doble rope-walk de Elijah/HTM, la guitarra de Elijah destruida contra las escaleras y un chokeslam de Francis sobre la cuerda a HTM"
 ganador: "Kazarian & AJ Francis [reportado como victoria sobre 'Elijah & The Home Town Man' — presumido Deaner bajo el gimmick, verif]"
 referee: "[verif]"
 encuentros_previos: 0
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Muy buena — lo mantienen real. Sin clase declarada (FS-language presente pero el Vehemiurgo declaró clases en otras piezas del mismo volcado y omitió esta — omisión deliberada)"
 clases_vehemiurgo: []
 estado: verificado
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s01 (visión directa — TNA Sacrifice)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, prowrestling.net); WebFetch bloqueado por egress"
 tags: [frankie-kazarian, aj-francis, elijah, cody-deaner, tna-sacrifice-2026, tag-heel-entretenido, lo-mantienen-real, payoff-tag-sembrado-sesion-17, romper-el-techo-de-tna-2026, sin-clase-omision-deliberada]
 ---
 
@@ -70,7 +71,10 @@ build *"camino a Sacrifice"* que el Vehemiurgo califica de
 
 ## Pendientes
 
-- [ ] Finish + duración + posición en card.
+- [x] Finish + duración → Kazarian cubre a Home Town Man con Fade
+      to Black, 11:18 / 11:20 según fuente (WebSearch: pwtorch.com,
+      prowrestling.net, 27/29-mar-2026).
+- [ ] Posición exacta en card (no confirmada).
 - [ ] ¿Clase? — pendiente de llamado del Vehemiurgo.
 - [ ] Cody Deaner — stub si recibe take individual.
 

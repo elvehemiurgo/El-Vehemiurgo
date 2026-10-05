@@ -5,22 +5,23 @@ participantes: ["Leon Slater", "Mike Santana", "Nic Nemeth", "Ryan Nemeth"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-02-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Nashville, Tennessee, USA"
+recinto: "The Pinnacle"
 tipo_match: "tag team"
 estipulacion: "standard tag"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "11:11"
+finish: "Pinfall — Eric Young distrae a Leon Slater desde ringside; Slater de todas formas va por el Swanton 450, pero Nic Nemeth levanta las rodillas y cubre para la cuenta sobre Slater."
+ganador: "The Nemeths (Nic & Ryan Nemeth)"
 referee: "[verif]"
 encuentros_previos: 1
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — todas las clases. Anchor de la declaración 'Lion Slater bookeo quirúrgico + presente, no futuro + X-Division representada'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión directa — declaración Perfect Match + Slater 'ya no es el futuro, es el presente')"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (f4wonline.com, postwrestling.com, pwtorch.com, ewrestling.com); WebFetch bloqueado por egress"
 tags: [leon-slater, mike-santana, nic-nemeth, ryan-nemeth, the-nemeths-tag, tna-impact-26-feb-2026, perfect-match, fighting-spirit, wrestling-entertainment, x-division-representacion, booking-quirurgico-tna-2026, dinero-tko-en-slater, presente-no-futuro, cluster-tna-bien-bookeada-2026]
 ---
 
@@ -113,8 +114,13 @@ booking de Lion es excepcional"*.
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
-- [ ] Recinto.
+- [x] Finish exacto + duración. → **The Nemeths ganan en 11:11**:
+      Eric Young distrae a Slater desde ringside, Slater va igual por
+      el Swanton 450 y Nic Nemeth levanta las rodillas y cubre
+      (F4W/WON, POST Wrestling, PWTorch, 2/26/2026). Setea Slater vs
+      Nic Nemeth por el X-Division Championship la semana siguiente.
+- [x] Recinto. → **The Pinnacle**, Nashville, TN.
+- [ ] Referee — no reportado en coverage disponible.
 - [ ] Build pre-match: No Surrender 13 feb (pendiente apertura) +
       segment 19 feb (pendiente).
 - [ ] Follow-up: Slater vs Nic Nemeth singles 5 mar 2026.

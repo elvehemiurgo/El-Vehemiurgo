@@ -5,11 +5,11 @@ participantes: ["Mustafa Ali", "Agent Zero", "Eddie Edwards", "Cedric Alexander"
 empresa: "TNA Wrestling"
 programa: "iMPACT!"
 fecha: 2026-04-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "New Orleans / Westwego, Louisiana"
+recinto: "Alario Center"
 tipo_match: "eight-man tag"
 estipulacion: "standard (anunciado por Santino Marella)"
-duracion: "[verif]"
+duracion: "~15:33 (Edwards pinea a Santana a ese minutaje)"
 finish: "Eddie Edwards pinea al campeón Mike Santana con el Boston Knee Party"
 ganador: "Ali, Agent Zero, Edwards & Alexander (w/ Order 4)"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Increíble — todas las clases. 'Todo salió perfecto, cada miembro aquí merece una medalla'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: verificado
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02 (visión directa — TNA Impact 2/4/2026)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Wrestling Inc, thechairshot.com agregado); WebFetch bloqueado por egress"
 tags: [mustafa-ali, agent-zero, eddie-edwards, cedric-alexander, mike-santana, leon-slater, trey-miguel, moose, order-4, the-system, tna-impact-2026, eight-man-tag, opener, perfect-match, fighting-spirit, wrestling-entertainment, pin-al-campeon, boston-knee-party, build-rebellion, posicionamiento-de-heels]
 ---
 
@@ -73,8 +74,11 @@ tags: [mustafa-ali, agent-zero, eddie-edwards, cedric-alexander, mike-santana, l
 - [x] Campeón pineado — Mike Santana (declarado 2026-07-09,
       confirmado por research).
 - [x] Resultado de Rebellion — Santana retiene (Spin the Block).
-- [ ] Posición exacta en la card (¿abrió el show?) [no confirmado
-      en reportes] + duración.
+- [x] Posición exacta en la card + duración → **RESUELTO**: abrió
+      el show (confirmado como "opening contest" por Wrestling Inc y
+      reseñas agregadas); Edwards pinea a Santana a los ~15:33.
+      Réferi sin identificar en los reportes consultados — queda
+      `[verif]`.
 
 ## Cross-links
 

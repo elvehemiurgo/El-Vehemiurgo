@@ -5,11 +5,11 @@ participantes: ["Arianna Grace", "Jodi Threat"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-05
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "College Park, Georgia"
+recinto: "Gateway Center Arena"
 tipo_match: "singles"
 estipulacion: "TNA Knockouts World Championship — primera defensa de Arianna"
-duracion: "[verif]"
+duracion: "6:00"
 finish: "Arianna retiene [verif finish exacto — el Vehemiurgo lo describe como 'final muy accidentado']"
 ganador: "Arianna Grace (retiene)"
 referee: "[verif]"
@@ -19,9 +19,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Primera defensa con cluster de protección + final accidentado. Sin clase declarada (lectura matizada — 'sigo creyendo en el proyecto, le falta elevar juego in-ring')"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #10 (visión directa — primera defensa Arianna, cluster protección + lo que le falta)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, rajah.com); WebFetch bloqueado por egress"
 tags: [arianna-grace, jodi-threat, tna-knockouts-world-championship-primera-defensa, dani-luna-ringside, indi-hartwell-ringside, tessa-blanchard-comentarios, stacks-ayuda-kayfabe, cluster-proteccion-campeona, final-accidentado, gimmick-kayfabe-bien-integrados, puliendose-en-tiempo-real, the-future-in-2026-numero-3-update]
 ---
 
@@ -132,10 +133,17 @@ deja material para evolucionar.
 
 ## Pendientes
 
-- [ ] Finish exacto + duración + descripción del *"final
-      accidentado"* (¿botched spot? ¿run-in mal sincronizado?
-      ¿ref bump fuera de timing?).
-- [ ] Recinto + ciudad.
+- [x] Duración → **6:00** (research 2026-10-05, pwtorch.com).
+- [ ] Finish exacto + descripción del *"final accidentado"*
+      (¿botched spot? ¿run-in mal sincronizado? ¿ref bump fuera de
+      timing?) — pwtorch solo registra *"Grace rolled up Jody and
+      got the pin"*, no confirma si es el mismo final accidentado
+      que describe el Vehemiurgo o una síntesis genérica del
+      recap; referee tampoco aparece en los recaps consultados.
+- [x] Recinto + ciudad → **Gateway Center Arena, College Park,
+      Georgia** (research 2026-10-05, pwtorch.com / rajah.com —
+      taping también referido como "Atlanta, GA" en algunas notas
+      de prensa).
 - [ ] Apertura segments del build (battle royal Jodi, Tessa promos,
       Arianna promo 19/2).
 - [ ] Tracking del feud Arianna vs Indi Hartwell post-12/3/2026.

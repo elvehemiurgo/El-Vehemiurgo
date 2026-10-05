@@ -5,22 +5,23 @@ participantes: ["The Hometown Man", "Frankie Kazarian"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-19
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "College Park, Georgia"
+recinto: "Gateway Center Arena"
 tipo_match: "singles"
 estipulacion: "standard [verif — posible título King reign]"
-duracion: "[verif]"
+duracion: "6:19"
 finish: "Secuencia enredada al final que conecta a Elijah al feud [verif finish exacto]"
-ganador: "[verif]"
+ganador: "The Hometown Man"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Booking genial — clásico oldschool. Setup de tag match futuro + Elijah como héroe con entrada a lo Undertaker. Sin clase declarada (take de booking, no de calidad de match)"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #17 (visión directa — take de booking clásico + setup Elijah)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (fightful.com, pwtorch.com, cagesideseats.com, cagematch.net); WebFetch bloqueado por egress"
 tags: [the-hometown-man, frankie-kazarian, kazarian-king-reign, elijah-conectado-al-feud, tna-impact-19-mar-2026, booking-clasico-oldschool, setup-tag-match-futuro, elijah-heroe-entrada-undertaker, take-de-booking-no-de-clase, cluster-tna-bien-bookeada-2026]
 ---
 
@@ -124,14 +125,35 @@ storytelling).
 
 ## Pendientes
 
-- [ ] **Identidad de "The Hometown Man"** — gimmick nuevo,
-      verificar quién es (¿repackage? ¿local gimmick? ¿talent
-      específico?).
-- [ ] Finish exacto de la secuencia enredada.
-- [ ] Título en juego (¿King reign de Kazarian defendido?).
+- [x] **Identidad de "The Hometown Man"** → el gimmick es
+      interpretado por **Cody Deaner** (Christopher Gray), según
+      cagesideseats.com / cagematch.net — [un hallazgo externo a
+      este match, sin take propio del Vehemiurgo sobre la
+      identidad; ficha de persona `the-hometown-man.md` queda
+      fuera del alcance de este barrido].
+- [x] Ganador + duración → **The Hometown Man gana por pinfall en
+      6:19**, con cradle sobre Kazarian; en el desarrollo, AJ
+      Francis intentó interferir y Hometown Man lo sacó del
+      ringside, y Kazarian empujó al referee en un spot de
+      distracción de unos 10 segundos (research 2026-10-05,
+      fightful.com). Referee no identificado por nombre en los
+      recaps consultados.
+- [ ] Finish exacto de la secuencia enredada que conecta a Elijah
+      (el cradle final está confirmado, pero el detalle completo
+      de cómo se integra el guitar shot de Elijah a AJ Francis
+      sigue sin precisar en los recaps consultados).
+- [ ] Título en juego (¿King reign de Kazarian defendido?) — no
+      confirmado como título en los recaps consultados.
 - [ ] **Tag match futuro** sembrado — identificar cuando ocurra.
-- [ ] Recinto + ciudad (relevante para el gimmick "Hometown").
-- [ ] Card completa TNA Impact 19/3/2026.
+- [x] Recinto + ciudad → **Gateway Center Arena, College Park,
+      Georgia** (research 2026-10-05, pwtorch.com).
+- [x] Card completa TNA Impact 19/3/2026 → Hometown Man def.
+      Frankie Kazarian (este); Mr. Elegance def. Mike Jackson;
+      Arianna Grace & Dani Luna def. Lei Ying Lee & Xia Brookside;
+      Moose def. Brian Myers; Elayna Black def. Jada Stone; Nic
+      Nemeth & Ryan Nemeth def. Vincent & Dutch; + segmento
+      face-to-face Mike Santana / Steve Maclin (research
+      2026-10-05, fightful.com, pwtorch.com).
 
 ## Cross-links
 

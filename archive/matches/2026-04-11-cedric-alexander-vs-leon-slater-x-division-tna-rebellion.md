@@ -9,8 +9,8 @@ ciudad: "Cleveland, Ohio"
 recinto: "Wolstein Center"
 tipo_match: "singles"
 estipulacion: "X Division Championship"
-duracion: "[verif]"
-finish: "[verif]"
+duracion: "14:20"
+finish: "Cedric Alexander introduce el cinturón del X Division al match tras varios near-falls (incluye un brainbuster desde el turnbuckle superior y un Lumbar Check que Slater resiste con el pie en la cuerda); Slater capitaliza el error, conecta un Styles Clash sobre el propio título y remata con un 450 Swanton para el pinfall"
 ganador: "Leon Slater (retiene)"
 referee: "[verif]"
 encuentros_previos: "[verif — cruce en el eight-man del 2/4 y el contract signing]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "La lucha perfecta — todas las clases. 'Super cardiaco: improvisación, psicología, spots, secuencias oldschool, fue increíble'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: verificado
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-11 s04 (visión directa — TNA Rebellion 11/4/2026)"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed): Slater retiene"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fox News, 411mania, Wrestling News Source, PWTorch); WebFetch bloqueado por egress"
 tags: [leon-slater, cedric-alexander, x-division-championship, tna-rebellion-2026, opener, perfect-match, fighting-spirit, wrestling-entertainment, super-cardiaco, improvisacion-psicologia-spots-oldschool, the-system]
 ---
 
@@ -66,7 +67,8 @@ tags: [leon-slater, cedric-alexander, x-division-championship, tna-rebellion-202
 
 ## Pendientes
 
-- [ ] Finish exacto + duración.
+- [x] Finish exacto + duración → 14:20; Styles Clash de Slater sobre Alexander, encima del título que Alexander había metido al match, y 450 Swanton para el pin (Fox News, 411mania, PWTorch).
+- [ ] Réferi — no confirmado por ninguna fuente de prensa consultada.
 - [ ] Voces/reacción (¿qué dijo la prensa del opener?).
 
 ## Cross-links

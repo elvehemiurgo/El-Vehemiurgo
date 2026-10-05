@@ -9,7 +9,7 @@ ciudad: "Westwego, Louisiana (metro New Orleans)"
 recinto: "Alario Center"
 tipo_match: "mixed tag"
 estipulacion: "standard"
-duracion: "[verif]"
+duracion: "15:15 [una fuente]"
 finish: "Order 4 amarra a Trey con zip-ties a la cuerda baja; Ali conecta Dance with the Devil sobre Stone, la levanta del cover y remata con 450 splash para el pin"
 ganador: "Order 4 (Ali & Tasha Steelz)"
 referee: "[verif]"
@@ -18,11 +18,12 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "FS explícita + WE ratificada explícitamente el 2026-07-09 ('world class' → Wrestling Entertainment: 'ratifico WE')"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: verificado
-ultima_actualizacion: 2026-07-09
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02 (visión directa — TNA Sacrifice)"
   - "Ratificación WE: Vehemiurgo 2026-07-09 s01"
   - "Sub-agente maclin-lesion-y-rebellion-build-2026 (research 2026-07-09, closed)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (fightful.com); WebFetch bloqueado por egress"
 tags: [order-4, mustafa-ali, tasha-steelz, trey-miguel, jada-stone, tna-sacrifice-2026, mixed-tag, fighting-spirit, wrestling-entertainment, we-ratificada-2026-07-09, ali-corrige-el-tag-oldschool, jada-stone-revelacion, quimica-ali-trey]
 ---
 
@@ -69,7 +70,7 @@ tags: [order-4, mustafa-ali, tasha-steelz, trey-miguel, jada-stone, tna-sacrific
 
 - [x] Configuración, ganador y finish — resueltos (research
       2026-07-09). Sin título en juego.
-- [ ] Duración.
+- [x] Duración → 15:15 (WebSearch: fightful.com; fuente única).
 - [x] **Ratificación WE** ("world class") — ratificada 2026-07-09.
 - [x] ¿Jada Stone a THE FUTURE in 2026? — **no entra** (2026-07-09).
 

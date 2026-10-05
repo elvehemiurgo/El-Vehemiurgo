@@ -8,8 +8,8 @@ protagonistas:
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-02-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Nashville, Tennessee, USA"
+recinto: "The Pinnacle"
 ubicacion_en_show: "[verif]"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,10 +20,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Lista personal Vehemiurgo verbatim línea 749"
   - "Cross-link sesión 2026-06-17 #11 (diagnóstico Ash mic-work)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, fightful.com, ewrestling.com); WebFetch bloqueado por egress"
 tags: [mickie-james, ash-by-elegance, ash-se-ahoga-en-mic, mickie-salva-segmento, follow-up-no-surrender-2026-02-13, cluster-elegance-vs-mickie-james-arc, diagnostico-mic-work-ash-anchor]
 ---
 

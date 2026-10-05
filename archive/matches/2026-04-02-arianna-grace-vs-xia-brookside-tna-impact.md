@@ -5,22 +5,23 @@ participantes: ["Arianna Grace", "Xia Brookside"]
 empresa: "TNA Wrestling"
 programa: "iMPACT!"
 fecha: 2026-04-02
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "New Orleans / Westwego, Louisiana"
+recinto: "Alario Center"
 tipo_match: "singles"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif — final anticlimático y accidentado]"
-ganador: "[verif]"
+duracion: "~12:00 (fuentes varían entre 11:40 y 12:00)"
+finish: "Grace golpea a Brookside con el cinturón a espaldas del árbitro (distraído por Stacks) y remata con un golpe de rodilla/facebuster de cara para el pin"
+ganador: "Arianna Grace (retiene el TNA Knockouts World Championship)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Ok, final un poco anticlimático y accidentado — ninguna de las dos es todavía 'tan pro' in-ring — sin clase"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-07-11
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-11 s01 (visión directa — TNA Impact 2/4/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch, Fightful, Slam Wrestling, WrestleView, Wrestling Inc); WebFetch bloqueado por egress"
 tags: [arianna-grace, xia-brookside, tna-impact-2026, singles, sin-clase, final-anticlimatico, techo-tecnico-arianna, santana-salve-puente-eddie-edwards]
 ---
 
@@ -60,8 +61,18 @@ tags: [arianna-grace, xia-brookside, tna-impact-2026, singles, sin-clase, final-
 
 ## Pendientes
 
-- [ ] Finish exacto + duración + naturaleza del "accidente".
+- [x] Finish exacto + duración + naturaleza del "accidente" → Grace
+      golpea a Brookside con el cinturón a espaldas del árbitro
+      (Stacks distrae) y remata con rodilla/facebuster de cara;
+      ~12:00; gana Grace y retiene el Knockouts World Championship
+      (PWTorch, Slam Wrestling, WrestleView, Wrestling Inc). Réferi
+      sin identificar en los reportes consultados — queda `[verif]`.
 - [ ] Motivo y forma del salve de Santana.
+- [ ] **Discrepancia (research 2026-10-05)**: el frontmatter registra
+      `estipulacion: "standard"`, pero las fuentes confirman que fue
+      **título** — Arianna Grace defendía el TNA Knockouts World
+      Championship ante Xia Brookside, con el ganador enfrentando a
+      Léi Yǐng Lee en Rebellion (PWTorch, Fightful).
 - [x] Segmento de Eddie Edwards — resuelto (ver
       [`../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md`](../segments/2026-04-02-eddie-edwards-santana-contract-signing-tna-impact.md)).
 

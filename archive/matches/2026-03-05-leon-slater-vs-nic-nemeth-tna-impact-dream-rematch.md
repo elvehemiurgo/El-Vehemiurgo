@@ -5,11 +5,11 @@ participantes: ["Leon Slater", "Nic Nemeth"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-05
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "College Park, Georgia"
+recinto: "Gateway Center Arena"
 tipo_match: "singles"
 estipulacion: "Title defense [verif título exacto — probable X-Division o TNA World]"
-duracion: "[verif]"
+duracion: "13:00"
 finish: "Slater retiene [verif finish exacto + comentario sobre setup fameasser incómodo]"
 ganador: "Leon Slater (retiene)"
 referee: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Clásico instantáneo — todas las clases. Booking perfecto: revancha de la victoria previa de Nemeth, Slater retiene, Nemeth queda como retador #1 para Slammiversary."
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #13 (visión directa — Perfect Match + comparación cumbre AJ Styles + Jeff Hardy)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (pwtorch.com, rajah.com); WebFetch bloqueado por egress"
 tags: [leon-slater, nic-nemeth, tna-impact-5-mar-2026, perfect-match, fighting-spirit, wrestling-entertainment, dream-rematch, booking-perfecto-revancha, slammiversary-build-retador-numero-uno, quimica-magistral, fameasser-setup-critica-menor, jeff-hardy-poses-comparacion, aj-styles-jeff-hardy-explosion-esperada, cluster-tna-bien-bookeada-2026, tercer-perfect-match-tna-impact-en-dos-sesiones]
 ---
 
@@ -147,15 +148,23 @@ Slammiversary**, continuando el build de un reinado calibrado.
 
 ## Pendientes
 
-- [ ] **Verificar título exacto** del match (X-Division? TNA
-      World?).
-- [ ] Finish exacto + duración + descripción del setup fameasser
-      incómodo (diagnóstico técnico).
+- [x] **Verificar título exacto** del match → **TNA X Division
+      Championship** (research 2026-10-05, pwtorch.com).
+- [x] Duración → **13:00** (research 2026-10-05, pwtorch.com).
+- [ ] Finish exacto + descripción del setup fameasser incómodo
+      (diagnóstico técnico) — los recaps consultados no detallan
+      el setup específico del fameasser ni confirman referee.
 - [ ] **Victoria previa Nemeth sobre Slater** — fecha exacta +
       contexto.
 - [ ] Build hacia Slammiversary 2026 — segments post-5/3 con
       Nemeth como retador #1.
-- [ ] Card completa TNA Impact 5/3/2026.
+- [x] Card completa TNA Impact 5/3/2026 → **TNA Knockouts World
+      Championship**: Arianna Grace (c) def. Jodi Threat;
+      **TNA X Division Championship**: Leon Slater (c) def. Nic
+      Nemeth; **4-way #1 contenders tag**: The System (Myers &
+      Bronson) def. The Righteous, Sinner & Saint, Rich Swann &
+      BDE; Elayna Black def. Mara Sadé; + segmento ODB return vs
+      Elegance Brand (research 2026-10-05, pwtorch.com, rajah.com).
 
 ## Cross-links
 
