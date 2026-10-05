@@ -3,11 +3,12 @@ nombre: "Steven Borden"
 tipo: fact-sheet
 categoria: people
 slug: steven-borden
-estado: stub
-ultima_actualizacion: 2026-10-02
+estado: vivo
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-02 s58 (VISIONADO DIRECTO — AEW Dynamite 19/8, Collision 29/8 y All In: London 30/8 de 2026)"
   - "Sub-agentes de research s58 (2026-09-02) — WebSearch; WebFetch bloqueado por egress en este environment"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas nuevas: presupuesto agotado; consolidado desde research/closed.md); WebFetch bloqueado por egress"
 tags: [aew-2026, steven-borden, sting, darby-allin, kevin-knight, segunda-generacion, long-term-booking, all-in-london]
 ---
 
@@ -47,6 +48,13 @@ tags: [aew-2026, steven-borden, sting, darby-allin, kevin-knight, segunda-genera
   lo golpea con el TNT Championship**.
 - **30/8/2026, All In: London** — **asiste a Darby Allin junto a
   Sting** en el Falls Count Anywhere donde Allin recupera el TNT Title.
+- **16/9/2026, Dynamite** — en el 8-man pinea a Dax Harwood (Scorpion
+  Death Drop + Coffin Drop) (research `aew-dynamite-160926`, closed).
+- **26/9/2026, All Out** — con Darby vs Fletcher & Knight (#1
+  contender): **paro médico a los 12:25** tras caer de cabeza en un
+  choque aéreo; hospitalizado, CT limpio según Tony Khan (research
+  `aew-160926-me-collision-190926-dynamite-230926`, closed).
+- *Fecha de nacimiento*: no encontrada en esta pasada [no confirmado].
 
 ## Notas editoriales del Vehemiurgo
 

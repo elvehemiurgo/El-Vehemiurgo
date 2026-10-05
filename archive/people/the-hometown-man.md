@@ -4,9 +4,10 @@ tipo: fact-sheet
 categoria: people
 slug: the-hometown-man
 estado: stub
-ultima_actualizacion: 2026-06-17
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #17 (match vs Kazarian TNA Impact 19/3/2026)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas: presupuesto agotado; identidad no resuelta); WebFetch bloqueado por egress"
 tags: [the-hometown-man, gimmick-nuevo-tna-2026, identidad-verif, local-hero-gimmick, oponente-kazarian, cluster-elijah-feud]
 ---
 

@@ -4,10 +4,11 @@ tipo: fact-sheet
 categoria: people
 slug: "tasha-steelz"
 estado: stub
-ultima_actualizacion: 2026-07-05
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-05 s02"
   - "Volcado Vehemiurgo 2026-06-17 #10 (árbol de aprendizaje en mic)"
+  - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (sin consultas: presupuesto agotado; ref. general marcada [no confirmado]); WebFetch bloqueado por egress"
 tags: [tasha-steelz, tna, mic-work, mentora, arbol-de-aprendizaje, fighting-spirit-adjacent]
 ---
 
@@ -27,7 +28,11 @@ tags: [tasha-steelz, tna, mic-work, mentora, arbol-de-aprendizaje, fighting-spir
 
 ## Trayectoria condensada
 
-- Ex-Knockouts World Champion [verif reinado y fechas].
+- Ex-Knockouts World Champion [verif reinado y fechas] — el
+  sub-agente lo ubica en **2022** (ganado en la órbita de Sacrifice,
+  perdido ante Taya Valkyrie) *(ref. general; [no confirmado])*.
+- **Fire 'N Flava** con Kiera Hogan: Knockouts World Tag Team
+  Champions en Impact (2020-21) *(ref. general; [no confirmado])*.
 - 2026: acto regular del roster femenino + rol de mentora en mic
   (árbol de aprendizaje, sesión #10).
 - 27/3/2026 — mixed tag en Sacrifice junto a Mustafa Ali (FS + WE
