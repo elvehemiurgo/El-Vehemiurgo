@@ -9,7 +9,7 @@ ciudad: "Springfield, Massachusetts"
 recinto: "MassMutual Center"
 tipo_match: "battle royal (12 participantes) — tributo benéfico"
 estipulacion: "el ganador dona $100.000 a la caridad de su elección, en nombre de Andy Williams"
-duracion: "[no confirmado]"
+duracion: "16:24"
 finish: "Daniel Garcia elimina en último lugar a Josh Alexander"
 ganador: "Daniel Garcia — dona los $100.000 a MusiCares"
 referee: "[verif]"
@@ -18,10 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue muy entretenido, emocionante por momentos, y Josh Alexander en la final estuvo cool"
 clases_vehemiurgo: ["wrestling-entertainment", "fighting-spirit"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 12/9/2026, timestamp 01:37:23)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch (allelitewrestling.com, F4WOnline); WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, andy-williams, the-butcher, daniel-garcia, josh-alexander, tributo-benefico, feeling-crown, dato-sensible]
 ---
 
@@ -82,7 +83,8 @@ $100.000 a **MusiCares**.
 
 ## Pendientes
 
-- [ ] Duración exacta, referee, orden completo de eliminaciones.
+- [x] Duración → 16:24 (research 2026-10-05, Yahoo Sports).
+- [ ] Referee, orden completo de eliminaciones.
 - [ ] Verificación de segunda fuente primaria sobre el fallecimiento
       de Andy Williams.
 

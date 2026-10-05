@@ -12,16 +12,17 @@ estipulacion: "AEW World Championship — si Omega perdía, no podría volver a 
 duracion: "24:06 [agregador terciario, sin corroborar contra WON]"
 finish: "MJF le mete un low blow y lo golpea con el cinturón; Omega patea a la cuenta de uno, conecta tres V-Triggers y remata con el One-Winged Angel — pinfall. Sin interferencia externa: la trampa fue del propio campeón, y falló"
 ganador: "Kenny Omega (nuevo AEW World Champion)"
-referee: "[verif]"
+referee: "Bryce Remsburg [una fuente]"
 encuentros_previos: "MJF 2-0 histórico vs Omega (revelado s32); build vía sacrificio de Mark Briscoe (1/7/2026)"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "'Esta lucha es la más débil del reinado de MJF [...] MJF debió ganar' — y aun así, las 3 clases con la corona + (declarado 2026-09-13): la objeción es de booking, no de match"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-13
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s33 (visión directa — AEW Beach Break, 8/7/2026)"
   - "Sub-agente research-comparativa-titulos-2026 (research 2026-09-13) — WebSearch (POST Wrestling, AEW.com, Cageside Seats, F4W/WON, Wrestlenomics); WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful); WebFetch bloqueado por egress"
 tags: [mjf, kenny-omega, aew-world-championship, aew-beach-break-2026, cambio-de-titulo, critica-de-booking, wembley-2026, cuatro-pilares, instant-classic-crown-plus, clase-declarada-en-diferido, booking-no-es-clase]
 ---
 

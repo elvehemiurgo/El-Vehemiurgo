@@ -5,22 +5,23 @@ participantes: ["Komander", "El Clon"]
 empresa: "AEW"
 programa: "Redemption"
 fecha: 2026-07-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Montreal, Quebec, Canadá"
+recinto: "Bell Centre"
 tipo_match: "ladder match (multi-hombres, opener)"
 estipulacion: "ladder match"
 duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+finish: "Mike Bailey retira el objeto en disputa desde lo alto de la escalera"
+ganador: "Mike Bailey (nuevo #1 contender al AEW International Championship)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'se merece un enterteinment class', con reserva de estipulación y sobreexposición puntual"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, NoDQ, TJR Wrestling); WebFetch bloqueado por egress"
 tags: [komander, el-clon, aew-redemption-2026, ladder-match, opener, wrestling-entertainment, runner-ups, sobreexposicion, reserva-estipulacion]
 ---
 
@@ -62,9 +63,9 @@ tags: [komander, el-clon, aew-redemption-2026, ladder-match, opener, wrestling-e
 
 ## Pendientes
 
-- [ ] Composición completa del ladder match — solo Komander y El
-      Clon nombrados; resto de participantes [verif].
-- [ ] Finish, ganador, duración, ciudad/recinto.
+- [x] Composición completa del ladder match → Mike Bailey, Jack Perry, El Clon, The Beast Mortos, Nick Wayne y Komander (research 2026-10-05, Fightful/NoDQ) — no se reescribe `participantes` en frontmatter (fuera de los campos habilitados por esta ley).
+- [x] Ganador + ciudad/recinto → Mike Bailey, nuevo #1 contender al AEW International Championship; Montreal, Quebec, Canadá, Bell Centre.
+- [ ] Finish exacto (objeto colgado) + duración — no reportados por las fuentes accesibles.
 
 ## Cross-links
 

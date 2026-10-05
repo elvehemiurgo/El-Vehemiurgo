@@ -6,8 +6,8 @@ protagonistas: ["David Finlay", "Jay White"]
 empresa: "AEW"
 programa: "Redemption"
 fecha: 2026-07-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Montreal, Quebec, Canadá"
+recinto: "Bell Centre"
 ubicacion_en_show: "previo a Jay White & Juice Robinson vs David Finlay & Clark Connors"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'el promo video estuvo buenisimo, se merece un enterteinment class'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., Wrestleview); WebFetch bloqueado por egress"
 tags: [david-finlay, jay-white, the-guns, the-dogs, bang-bang-gang, war-dogs, aew-redemption-2026, wrestling-entertainment, video-de-produccion, build, bullet-club-linaje]
 ---
 
@@ -60,7 +61,8 @@ tags: [david-finlay, jay-white, the-guns, the-dogs, bang-bang-gang, war-dogs, ae
 
 - [x] ~~Identidad de "Davis" y "Jay"~~ → **RESUELTO (s47)**:
       David Finlay y Jay White.
-- [ ] Contenido exacto del video + duración.
+- [x] Ciudad/recinto → Montreal, Quebec, Canadá, Bell Centre (research 2026-10-05).
+- [ ] Contenido exacto del video + duración — no reportados por las fuentes accesibles.
 
 ## Cross-links
 

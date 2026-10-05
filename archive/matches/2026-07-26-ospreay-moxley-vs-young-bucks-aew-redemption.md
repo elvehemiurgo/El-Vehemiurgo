@@ -5,8 +5,8 @@ participantes: ["Will Ospreay", "Jon Moxley", "Matt Jackson", "Nick Jackson"]
 empresa: "AEW"
 programa: "Redemption"
 fecha: 2026-07-26
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Montreal, Quebec, Canadá"
+recinto: "Bell Centre"
 tipo_match: "tag team"
 estipulacion: "[verif]"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'se merece un enterteinment class', con reserva puntual sobre los vicios in-ring de Moxley"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., bleacher report); WebFetch bloqueado por egress"
 tags: [will-ospreay, jon-moxley, matt-jackson, nick-jackson, young-bucks, aew-redemption-2026, tag-team, wrestling-entertainment, doctrina-desacuerdo-etico-nunca-tuvo-sentido, payoff-simbolico, egomaniaco, vicios-in-ring-moxley, cierre-arco-critico-s10-s33]
 ---
 
@@ -94,7 +95,8 @@ de la relación creativa de Moxley con AEW.
 
 ## Pendientes
 
-- [ ] Finish técnico exacto + duración + ciudad/recinto.
+- [x] Finish técnico exacto + ciudad/recinto → Matt Jackson sacó a Moxley con un Canadian Destroyer, los Young Bucks conectaron un BTE Trigger y dispararon superkicks antes de que Matt cubriera a Moxley para el pinfall; Montreal, Quebec, Canadá, Bell Centre (research 2026-10-05, Wrestling Inc.).
+- [ ] Duración — ninguna fuente accesible la reporta.
 - [ ] Estipulación del match.
 - [ ] Naturaleza exacta de la lesión kayfabe de Nick Jackson.
 

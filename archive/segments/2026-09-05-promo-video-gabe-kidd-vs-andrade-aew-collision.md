@@ -6,8 +6,8 @@ protagonistas: ["Gabe Kidd", "Andrade"]
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-09-05
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Allen, Texas"
+recinto: "Credit Union of Texas Event Center"
 ubicacion_en_show: "timestamp 00:49:31"
 duracion: "[verif]"
 linea_textual: ""
@@ -21,10 +21,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Estuvo cool, recapitulando todo desde NJPW"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-18
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Collision, 5/9/2026, timestamp 00:49:31)"
   - "Sub-agente research-aew-cards-050926-090926-120926 (research 2026-09-18) — WebSearch; WebFetch bloqueado por egress"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Slam Wrestling, allelitewrestling.com); WebFetch bloqueado por egress"
 tags: [aew-collision-2026, gabe-kidd, andrade, njpw, promo-video, wrestling-entertainment, rematch]
 ---
 
@@ -63,6 +64,7 @@ Andrade, recapitulando su historia compartida desde NJPW.
 
 ## Pendientes
 
+- [x] Ciudad/recinto → Allen, Texas, Credit Union of Texas Event Center (research 2026-10-05).
 - [ ] Contenido exacto del video, duración.
 
 ## Cross-links

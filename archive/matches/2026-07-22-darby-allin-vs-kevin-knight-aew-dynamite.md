@@ -5,8 +5,8 @@ participantes: ["Darby Allin", "Kevin Knight"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-07-22
-ciudad: "[verif]"
-recinto: "[verif]"
+ciudad: "Nashville, Tennessee"
+recinto: "The Pinnacle"
 tipo_match: "singles — venganza"
 estipulacion: "[verif]"
 duracion: "[verif]"
@@ -18,9 +18,10 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'esta lucha se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-05
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s33 (visión directa — AEW Dynamite, 22/7/2026)"
+  - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (eWrestling, Ringside News, Cageside Seats); WebFetch bloqueado por egress"
 tags: [darby-allin, kevin-knight, aew-dynamite-2026, singles, perfect-wrestling, fighting-spirit, wrestling-entertainment, payoff, venganza, hardcore-top-tier, trampa]
 ---
 
@@ -60,7 +61,9 @@ tags: [darby-allin, kevin-knight, aew-dynamite-2026, singles, perfect-wrestling,
 
 ## Pendientes
 
-- [ ] Finish exacto (spot de trampa) + duración + ciudad/recinto.
+- [x] Ciudad/recinto → Nashville, Tennessee, The Pinnacle (research 2026-10-05, eWrestling).
+- [x] Finish exacto → Knight golpea a Allin en la nuca con el propio TNT Championship a espaldas del referee y remata con UFO Splash (research 2026-10-05, Ringside News/Cageside Seats).
+- [ ] Duración — ninguna fuente accesible la reporta.
 
 ## Cross-links
 
