@@ -19,10 +19,11 @@ gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Luego el ataque post match de Reed y The Vision estuvo cool, la verdad lo de Austin y Maxinne me duerme, así que me gustó que lo interrumpan, y felizmente Oba si aparece para hacer el salve, muy babyface el gesto de salvar a los jobbers como colateral de su venganza no necesariamente porque degienda a los debiles, y es un buen segmento, les quedó cool, se merecen una WE"
-clases_vehemiurgo: ["wrestling-entertainment"]
+clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-06 s01 (segunda lectura, timestamp 00:20:49)"
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — WWE Raw, 7/9/2026)"
   - "Sub-agente research-wwe-raw-070926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
 tags: [wwe-raw-2026, birmingham, the-vision, bronson-reed, austin-theory, maxxine-dupri, otis, akira-tozawa, oba-femi, salve-babyface, wrestling-entertainment]
@@ -71,3 +72,16 @@ tags: [wwe-raw-2026, birmingham, the-vision, bronson-reed, austin-theory, maxxin
 - [`../people/oba-femi.md`](../people/oba-femi.md) · [`../people/bronson-reed.md`](../people/bronson-reed.md)
 
 - Volcado: [`../../notebook/2026-08-01-s67-smackdown-040926-aaa-050926-snme-060926-raw-070926.md`](../../notebook/2026-08-01-s67-smackdown-040926-aaa-050926-snme-060926-raw-070926.md)
+
+## Sesión 2026-10-06 s01 — sube a WE+
+
+> *"Oba Femi interrumpe el abuso de the vision in ring, buen segmento, y esta rivalidad Breaker vs Femi es lo mejor que tiene WWE en RAW, y estan sumando de buena forma a Bronson Reed a la mezcla durante este episodio al menos, y m,e gusta ver a Austin THeory y Logan Paul como enhacemente para Femi, es muy buena programaciòn apra cualquier face serio, la verdad lucieron genial en este segmento, se merecen una WE+"*
+>
+> — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
+- **Clase: sube de WE a WE+**, declarada literal.
+- *"Esta rivalidad Breakker vs Femi es lo mejor que tiene WWE en Raw"*: el veredicto de programa más alto del archivo sobre Raw 2026.
+- Theory y Logan Paul como *enhancement* para Femi: el Vehemiurgo lo lee como buena programación para un face serio.
+
+Volcado: [`../../notebook/2026-10-06-s01-dynamite-tributo-pac-raw-nxt-aaa-smackdown-septiembre.md`](../../notebook/2026-10-06-s01-dynamite-tributo-pac-raw-nxt-aaa-smackdown-septiembre.md)
+

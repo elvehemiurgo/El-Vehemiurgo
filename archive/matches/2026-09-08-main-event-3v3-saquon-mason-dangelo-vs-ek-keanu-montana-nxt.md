@@ -18,8 +18,9 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Se merecen las 3 clases; Montana muy over cerrando entradas, encontrando su estilo main eventer; Waller en comentarios despertó al lockeroom con su checkup"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-23
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-06 s01 (segunda lectura, timestamp 01:22:48)"
   - "Volcado Vehemiurgo 2026-09-12 s01 (visión directa — WWE NXT, 8/9/2026, timestamp 01:16:17)"
   - "Sub-agente research-wwe-nxt-080926 (research 2026-09-12) — WebSearch (Cageside Seats, POST Wrestling, PWMania, SEScoops); WebFetch bloqueado por egress"
   - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (WWE.com, Wrestlezone, Ringside News, prowrestling.net); WebFetch bloqueado por egress"
@@ -100,6 +101,18 @@ Prosper, en vez de dejar que D'Angelo cierre lo que empezó.
   "aplanarlo" en su debut.
 - **Consecuencia**: avanzan los tres al **triple threat por la #1
   contendencia** al NXT Championship de Grayson Waller.
+
+## Sesión 2026-10-06 s01 — segunda lectura
+
+> *"el 3 vs 3 con Squon, Mason y DAngelo vs EK, Montana y Keanu, estuvo buena, son buenos talentos, Saquon y Montana destacan mucho, lo de Keanu es una pena, su carrera truncada, de hecho era prometedora como prospecto; por su parte EK realmente está motivado en este run, le dieron buenoas luchas como face underdog, y si ha evolucionado en su enterteinment, cada vez menos alérgico al micrófono como dice Waller. Se merecen las 3 clases. Mason necesitaba este finish y lo aprovechó y vendio bioen."*
+>
+> — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
+- **Clase: ICC ratificada.**
+- *"Lo de Keanu es una pena, su carrera truncada"*: contexto pendiente del research del volcado.
+- *"Mason necesitaba este finish y lo aprovechó"*.
+
+Volcado: [`../../notebook/2026-10-06-s01-dynamite-tributo-pac-raw-nxt-aaa-smackdown-septiembre.md`](../../notebook/2026-10-06-s01-dynamite-tributo-pac-raw-nxt-aaa-smackdown-septiembre.md)
 
 ## Pendientes
 

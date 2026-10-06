@@ -18,8 +18,9 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Breaker entra a la 3 way de forma muy cool, super violento y luego entra Ethan, de lo mejor del midcard a medirse en este universo contra Breaker y Rey Mysterio, buenisimo el booking para este tipo de dream matches, la colisión de escuelas en este ring fue increible, muy pros, naturales para dar una lucha oldschool real, incluso Breaker que suele pecar de safe, fue presionado y se siente más comodo más violento, se merecen las 3 clses con la corona +, ejecución muy top tier, son muy buenos"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-23
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-06 s01 (segunda lectura, timestamp 00:39:50)"
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO con timestamps — WWE Raw, 7/9/2026)"
   - "Sub-agente research-wwe-raw-070926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
   - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (PWTorch, prowrestling.net, Wrestleview); WebFetch bloqueado por egress"
@@ -61,6 +62,18 @@ tags: [wwe-raw-2026, birmingham, bron-breakker, rey-mysterio, ethan-page, money-
 
 - **Money in the Bank Qualifier**: gana **Bron Breakker**, con doble
   Frankensteiner y Spear sobre Mysterio.
+
+## Sesión 2026-10-06 s01 — segunda lectura: "tremenda dream match"
+
+> *"bRON bREAKER VS eTHAN pAGE VS rEY mYSTERIO, TREMENDA DREAM MATCH, muy buena,buenos gimmicks, realmente oldschool, y estilos que me gustan, Breaker se vio muy fuerte, realmente en el uppercard a diferencia de Ethan, lo cual está bien, es buen booking el de ambos en paralelo, este primer roce puede ser foreshadowing de un futuro wrestlemania, se merecen las 3 clases, Rey Mysterio moviendose como si fuera 2003,  muy buena lucha."*
+>
+> — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
+- **Clase: se mantiene ICC+.** Esta segunda lectura dice *"las 3 clases"* sin el +; la primera (s67) lo había declarado literal. Como el + no se infiere ni se quita sin declaración explícita, queda la clase más alta ya declarada. **Pendiente de ratificar** si el Vehemiurgo quiere bajarla a ICC.
+- *"Este primer roce puede ser foreshadowing de un futuro WrestleMania"*: Breakker vs Page como cartelera a largo plazo.
+- *"Rey Mysterio moviéndose como si fuera 2003."*
+
+Volcado: [`../../notebook/2026-10-06-s01-dynamite-tributo-pac-raw-nxt-aaa-smackdown-septiembre.md`](../../notebook/2026-10-06-s01-dynamite-tributo-pac-raw-nxt-aaa-smackdown-septiembre.md)
 
 ## Pendientes
 

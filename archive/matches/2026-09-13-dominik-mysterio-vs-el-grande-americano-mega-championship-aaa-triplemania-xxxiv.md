@@ -16,10 +16,11 @@ referee: "Rey Mysterio (como GM de AAA, cuenta el finish)"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue wrestling, no decepcionó la lucha ni el booking; es un reto difícil tener a Grande ahora como campeón face, tendrá que hacerlo tan bien como Cody"
-clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-09-23
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-06 s01 (segunda lectura, timestamp 02:12:21)"
   - "Volcado Vehemiurgo 2026-09-16 s01 (visión directa — AAA TripleMania XXXIV Day 2, 13/9/2026, timestamp 02:12:28)"
   - "Sub-agente research-triplemania-xxxiv-d2-raw-140926 (research 2026-09-16) — WebSearch (Pro Wrestling Dot Net/Vetter, F4W/WON, WWE.com, SI/Fannation, 411Mania); WebFetch bloqueado por egress"
   - "Sub-agente pendientes-fichas-sep26 (research 2026-09-23) — WebSearch (yahoo sports, variety, 411mania, ringsidenews, postwrestling); WebFetch bloqueado por egress"
@@ -92,6 +93,17 @@ máscara como Campeón Intercontinental en el Raw del día siguiente.**
 
 El archivo tiene ficha separada:
 [`../people/original-grande-americano.md`](../people/original-grande-americano.md).
+
+## Sesión 2026-10-06 s01 — sube a ICC+
+
+> *"Grande Americano vs Dominik, estuvo genial, si fue pancracio mexicano, se merece las 3 clases con coronas +, fue muy a lo WWE tambien, muy oldshcool enterteinment"*
+>
+> — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
+- **Clase: sube de ICC a ICC+**, declarada literal (*"con coronas +"*).
+- *"Sí fue pancracio mexicano [...] fue muy a lo WWE también"*: uno de los cuatro estilos supremos, con producción WWE.
+
+Volcado: [`../../notebook/2026-10-06-s01-dynamite-tributo-pac-raw-nxt-aaa-smackdown-septiembre.md`](../../notebook/2026-10-06-s01-dynamite-tributo-pac-raw-nxt-aaa-smackdown-septiembre.md)
 
 ## Pendientes
 
