@@ -1,14 +1,14 @@
 ---
 match: "Vanity Project vs Dark State (titular de parejas)"
 slug: "2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt"
-participantes: ["Jackson Drake", "Blake Monroe", "Saquon Shugars", "Dion Lennox"]
+participantes: ["Brad Baylor", "Ricky Smokes", "Jackson Drake (ringside)", "Saquon Shugars", "Dion Lennox"]
 empresa: "WWE"
 programa: "NXT"
 fecha: 2026-05-19
 ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "tag team — titular"
-estipulacion: "títulos de parejas [verif cuáles]"
+estipulacion: "NXT Tag Team Championship — defensa de The Vanity Project"
 duracion: "[verif]"
 finish: "final enredado; la culpa recae en Saquon Shugars, que es desterrado de Dark State — face turn"
 ganador: "The Vanity Project (Brad Baylor & Ricky Smokes, w/ Jackson Drake) — retienen el NXT Tag Team Championship"
@@ -18,7 +18,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'esta lucha se merece la fighting spirit y enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s50 (visión directa — WWE NXT, 19/5/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Fightful, WWE.com, Solowrestling, PWTorch); WebFetch bloqueado por egress"
@@ -27,7 +27,10 @@ tags: [vanity-project, dark-state, saquon-shugars, dion-lennox, jackson-drake, b
 
 # Vanity Project vs Dark State (titular de parejas) — WWE NXT (19 may 2026)
 
-> **Fighting Spirit + Wrestling Entertainment**. **El payoff del
+> **Fighting Spirit + Wrestling Entertainment**. Brad Baylor &
+> Ricky Smokes (Vanity Project, con Jackson Drake en ringside)
+> retienen el NXT Tag Team Championship ante Dion Lennox & Saquon
+> Shugars. **El payoff del
 > arco de Saquon Shugars**: el final enredado le carga la culpa,
 > lo destierran de Dark State y consuma el **face turn**.
 
@@ -94,6 +97,13 @@ se viene para él"* — continuidad directa de s40 (*"ya quiero ver
 que le metan toda la velocidad a Saquon en singles"*) y de su
 estatus como **THE FUTURE in 2026 #2**.
 
+## Corrección (2026-10-06)
+
+- `participantes`: de Jackson Drake & Blake Monroe a **Brad Baylor &
+  Ricky Smokes** por Vanity Project, con **Jackson Drake en
+  ringside**; Blake Monroe no figura (Fightful, WWE.com).
+  `estipulacion` cerrada como NXT Tag Team Championship.
+
 ## Pendientes
 
 - [x] Qué títulos de parejas exactamente — [verif]. → NXT Tag Team Championship, defendido por Vanity Project (WWE.com, Fightful)
@@ -102,7 +112,7 @@ estatus como **THE FUTURE in 2026 #2**.
 - [x] Composición exacta de Dark State en el match (¿Cutler James
       y Osiris Griffin participan o son solo Saquon y Lennox?). → solo Dion Lennox & Saquon Shugars; Griffin y James atacan a Shugars post-match (powerbomb a través de la mesa de comentarios) (Fightful, WWE.com)
 - [ ] Mecánica exacta del destierro.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `participantes` Jackson Drake y Blake Monroe por Vanity Project vs el reporte: luchan **Brad Baylor & Ricky Smokes** (Jackson Drake en ringside) contra Dion Lennox & Saquon Shugars (Fightful, WWE.com).
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: Vanity Project corregido a Baylor & Smokes (Drake en ringside). Nota original: la ficha registra `participantes` Jackson Drake y Blake Monroe por Vanity Project vs el reporte: luchan **Brad Baylor & Ricky Smokes** (Jackson Drake en ringside) contra Dion Lennox & Saquon Shugars (Fightful, WWE.com).
 
 ## Cross-links
 

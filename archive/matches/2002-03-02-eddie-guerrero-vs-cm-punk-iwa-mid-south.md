@@ -5,15 +5,15 @@ participantes:
   - "Eddie Guerrero"
   - "CM Punk"
 empresa: "IWA Mid-South"
-programa: "Revolution Strong Style"
+programa: "Morris Mayhem"
 fecha: 2002-03-02
-ciudad: "Indianapolis, IN (presunción)"
+ciudad: "Morris, IL"
 recinto: "[verif]"
-tipo_match: "singles — Eddie post-WWE release, CM Punk indie ascendente"
-estipulacion: ""
+tipo_match: "singles — IWA Mid-South Heavyweight Championship (Eddie defiende)"
+estipulacion: "IWA Mid-South Heavyweight Championship"
 duracion: ""
-finish: "[verif] — Eddie wins (de memoria)"
-ganador: "Eddie Guerrero"
+finish: "CM Punk gana por pinfall con ayuda de Rey Mysterio y recupera el IWA-MS Heavyweight Title [mecanismo exacto verif]"
+ganador: "CM Punk (nuevo IWA Mid-South Heavyweight Champion)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -25,7 +25,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal (2026-05-09)"
   - "IWA Mid-South archive + Ian Rotten interviews retrospectivas"
@@ -36,7 +36,10 @@ tags: [iwa-mid-south, indie-classic, eddie-guerrero, cm-punk, eddie-wwe-release-
 # Eddie Guerrero vs CM Punk — IWA Mid-South (2 mar 2002)
 
 > **Indie classic obligatorio**. Dos íconos cruzando en
-> Indianapolis indies pre-WWE-WCW-AEW. Eddie post-WWE release
+> IWA Mid-South (*Morris Mayhem*, Morris, IL) pre-WWE-WCW-AEW:
+> **CM Punk derrota a Eddie Guerrero** (con ayuda de Rey
+> Mysterio) y recupera el IWA-MS Heavyweight Title que Eddie le
+> había ganado la noche anterior. Eddie post-WWE release
 > (período Lifestyle problems → recovery), CM Punk indie
 > ascendente pre-ROH-WWE. **Carny puro indie 2000s**.
 
@@ -51,7 +54,9 @@ tags: [iwa-mid-south, indie-classic, eddie-guerrero, cm-punk, eddie-wwe-release-
 - **IWA Mid-South** = promotora indie hardcore Indianapolis bajo
   Ian Rotten. Reputación de **carny work + violence + indie
   identity propia**.
-- **2 mar 2002** *(este match)*: el cruce.
+- **1 mar 2002**: Eddie gana el IWA-MS Heavyweight Title en triple
+  amenaza con Punk y Rey Mysterio.
+- **2 mar 2002** *(este match)*: Punk recupera el título ante Eddie.
 
 ## Significancia editorial
 
@@ -81,10 +86,25 @@ tags: [iwa-mid-south, indie-classic, eddie-guerrero, cm-punk, eddie-wwe-release-
 (Pendiente verbatim. Entry registrada en lista personal como
 indie classic.)
 
+## Corrección (2026-10-06)
+
+- **Show / ciudad**: `programa` de *Revolution Strong Style* a
+  **Morris Mayhem**; `ciudad` de *Indianapolis, IN (presunción)* a
+  **Morris, IL**.
+- **Ganador**: de *Eddie Guerrero (de memoria)* a **CM Punk**, con ayuda
+  de Rey Mysterio.
+- **Estipulación**: de vacío a **IWA Mid-South Heavyweight
+  Championship** (Eddie lo había ganado la noche anterior, 1 mar 2002,
+  en triple amenaza con Punk y Rey). La fecha dictada (02.03.2002)
+  corresponde al singles Eddie vs Punk; se mantiene.
+- Fuente: Wikipedia *IWA Mid-South Heavyweight Championship* +
+  SmartMark Video + OWW + prowrestlingstories (vía snippets, research
+  barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
 - [ ] Finish + duración exactos.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra **Eddie Guerrero** ganador en *Revolution Strong Style*, Indianapolis (presunción); las fuentes dan para el 2 mar 2002 el show **IWA Mid-South *Morris Mayhem*, Morris, IL**, donde **CM Punk derrota a Eddie Guerrero** (con ayuda de Rey Mysterio) y recupera el IWA-MS Heavyweight Title. Eddie había ganado el título la noche anterior (1 mar 2002, triple amenaza con Punk y Rey) (Wikipedia *IWA-MS Heavyweight Championship* + SmartMark Video + OWW + prowrestlingstories, vía snippets). Revisar si el Vehemiurgo vio el 1 mar o el 2 mar.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: show corregido a Morris Mayhem (Morris, IL); ganador CM Punk, que recupera el IWA-MS Heavyweight Title; la fecha dictada 2 mar corresponde al singles. Nota original: la ficha registra **Eddie Guerrero** ganador en *Revolution Strong Style*, Indianapolis (presunción); las fuentes dan para el 2 mar 2002 el show **IWA Mid-South *Morris Mayhem*, Morris, IL**, donde **CM Punk derrota a Eddie Guerrero** (con ayuda de Rey Mysterio) y recupera el IWA-MS Heavyweight Title. Eddie había ganado el título la noche anterior (1 mar 2002, triple amenaza con Punk y Rey) (Wikipedia *IWA-MS Heavyweight Championship* + SmartMark Video + OWW + prowrestlingstories, vía snippets). Revisar si el Vehemiurgo vio el 1 mar o el 2 mar.
 - [ ] Star rating WON Meltzer (probable cubierto en indie
       column).
 - [ ] Verbatim Punk en *Tales from the Territories* / *Talk Is

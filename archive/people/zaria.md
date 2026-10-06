@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: zaria
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Wikipedia — Zaria (wrestler)"
   - "Cobertura PWTorch / 411mania / TJR Wrestling — NXT 2024–2026"
@@ -254,3 +254,10 @@ Sol Ruca. Ver
 **Lectura sintética**: doble clase para el payoff de la rivalidad.
 Ver
 [`../matches/2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md`](../matches/2026-04-21-sol-ruca-vs-zaria-grudge-match-wwe-nxt-revenge-week-2.md).
+
+### Sesión 2026-10-06 s01 — Careo y tag (NXT 15/9 y 22/9)
+
+- **Careo con Kelani Jordan y La Catalina** (NXT 15/9): *"Zaria entrò con mucha confianza tambien, realmente si le està agarrando el truco"*. Clase: sin clase. Ficha: [`../segments/2026-09-15-careo-kelani-jordan-la-catalina-zaria-nxt.md`](../segments/2026-09-15-careo-kelani-jordan-la-catalina-zaria-nxt.md)
+- **Con Kelani Jordan vs La Catalina y Thea Hail** (NXT 22/9): *"esa secuencia final estuvo dificil y les quedó perfecta, muy pros"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-22-la-catalina-thea-hail-vs-zaria-kelani-jordan-nxt.md`](../matches/2026-09-22-la-catalina-thea-hail-vs-zaria-kelani-jordan-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)

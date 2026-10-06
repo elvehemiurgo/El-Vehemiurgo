@@ -1,6 +1,6 @@
 ---
-match: "Kelani Jordan vs Wren Sinclair (title challenge)"
-slug: "2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt"
+match: "Kelani Jordan vs Wren Sinclair (non-title)"
+slug: "2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt"
 participantes: ["Kelani Jordan", "Wren Sinclair"]
 empresa: "WWE"
 programa: "NXT"
@@ -8,7 +8,7 @@ fecha: 2026-05-26
 ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
 tipo_match: "singles"
-estipulacion: "NXT Women's Speed Championship"
+estipulacion: "non-title — Wren Sinclair, campeona NXT Women's Speed, sin título en juego"
 duracion: "11:22"
 finish: "sumisión — knee bar de Kelani Jordan sobre la rodilla lesionada de Wren"
 ganador: "Kelani Jordan"
@@ -18,25 +18,27 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'sería perfecta, pero Wren todavia está verde en la esfera de vender como wrestler'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s52 (visión directa — WWE NXT, 26/5/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com, Wrestling Inc.); WebFetch bloqueado por egress"
 tags: [kelani-jordan, wren-sinclair, wwe-nxt-2026, fighting-spirit, wrestling-entertainment, nxt-speed-championship, reserva-tecnica, doctrina-face-vender-titulo, bryan-danielson, heavyweight]
 ---
 
-# Kelani Jordan vs Wren Sinclair (title challenge) — WWE NXT (26 may 2026)
+# Kelani Jordan vs Wren Sinclair (non-title) — WWE NXT (26 may 2026)
 
 > **Fighting Spirit + Wrestling Entertainment**, con reserva
-> técnica sobre Wren Sinclair como campeona defendiendo: *"todavía
+> técnica sobre Wren Sinclair, campeona Speed en un match sin
+> título en juego: *"todavía
 > está verde en la esfera de vender como wrestler"*. Kelani Jordan,
 > retadora, es *"full main eventer"*.
 
 ## Resumen
 
-Cuarto capítulo del expediente entre ambas (s35, s37, s40, y ahora
-este título challenge por el NXT Women's Speed Championship). Kelani
-Jordan reta por el título que Wren Sinclair ganó el 17/3/2026.
+Cuarto encuentro del expediente entre ambas (s35, s37, s40, y ahora
+este non-title). Kelani Jordan enfrenta a la campeona NXT Women's
+Speed —título que Wren Sinclair ganó el 17/3/2026— sin el cinturón
+en juego, y gana por sumisión.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -82,12 +84,22 @@ Cuarto encuentro consecutivo de la rivalidad — ver
 [`../people/wren-sinclair.md`](../people/wren-sinclair.md) para el
 historial completo (s35, s37, s40).
 
+## Corrección (2026-10-06)
+
+- `estipulacion`: de title challenge por el NXT Women's Speed
+  Championship a **non-title**; Kelani gana por sumisión, Wren
+  sigue campeona (WWE.com, Wrestling Inc.). Título y H1 ajustados;
+  el slug conserva "title-challenge" por estabilidad de links.
+- El verbatim del Vehemiurgo se preserva; su recuerdo de visionado
+  difiere de la fuente en el encuadre de Kelani "como retadora" —
+  no hubo título en juego.
+
 ## Pendientes
 
 - [x] Finish exacto + duración. → sumisión con knee bar; 11:22 (Cagematch, WWE.com)
 - [x] Ganadora — ¿retiene Wren o cambia el título? → gana Kelani Jordan; según las fuentes la lucha fue **sin título en juego** (ver discrepancia) (WWE.com, Wrestling Inc.)
 - [x] Ciudad, recinto. → Orlando, Florida / WWE Performance Center (Cagematch/WWE.com)
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra la lucha como title challenge por el NXT Women's Speed Championship vs WWE.com/Wrestling Inc., que la reportan como **non-title** (Wren Sinclair campeona Speed; Kelani gana por sumisión).
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: corregido a non-title. Nota original: la ficha registra la lucha como title challenge por el NXT Women's Speed Championship vs WWE.com/Wrestling Inc., que la reportan como **non-title** (Wren Sinclair campeona Speed; Kelani gana por sumisión).
 
 ## Cross-links
 

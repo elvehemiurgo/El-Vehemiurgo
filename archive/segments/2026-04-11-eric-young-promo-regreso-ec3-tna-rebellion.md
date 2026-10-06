@@ -13,7 +13,7 @@ duracion: "[verif]"
 linea_textual: "I understand you are a nepo baby, and Aunt Dixie isn't here to protect you anymore [Eric Young, live report — NO verificado contra video]"
 gimmick_momento: "EC3 vuelve a un ring de TNA por primera vez desde 2020, en su ciudad natal"
 storyline: "Eric Young sale al ring y llama a EC3 burlandose de el como 'nepo baby' y recordando que 'Aunt Dixie' ya no esta para protegerlo. EC3 aparece, brawl inmediato, lo baja con un slam grande, toma el microfono, confirma su regreso y lo desafia para el iMPACT del 16/4."
-attendance_anunciada: "2.969 [1 fuente, sin especificar paid o announced]"
+attendance_anunciada: "2.969 (fuente previa + profightdb, sin especificar paid/announced) / 3.929 pagados (Wikipedia) según fuente"
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
@@ -21,7 +21,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "EY corta una promo muy oldschool muy genial, elevando a EC3; buena idea setearlo con EY que hablo de Dixie y todo el gimmick EC3; Ethan fuera de TNA es raro y cringe, pero EC3 es cool, es historico, es trouble trouble trouble; se merecen una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s40 (vision directa - TNA Rebellion, 11/4/2026)"
   - "Sub-agente research-tna-impact-090426-rebellion-110426 (research 2026-08-01, closed) - POST Wrestling, PWTorch, Cageside Seats, Ringside News, Last Word on Pro Wrestling"
@@ -84,6 +84,13 @@ tags: [tna-2026, rebellion, eric-young, ec3, dixie-carter, regreso, gimmick-en-s
 - ***"Trouble trouble trouble"*** es la catchphrase del EC3 original de
   TNA — el Vehemiurgo la cita como sello de identidad del gimmick.
 
+## Corrección (2026-10-06)
+
+- Attendance de Rebellion 2026: conflicto sin desempate — 2.969
+  (fuente previa + profightdb) vs 3.929 pagados (Wikipedia). Se
+  conservan ambas cifras en `attendance_anunciada`; ninguna es
+  fuente primaria de la empresa.
+
 ## Pendientes / huecos
 
 - [ ] **Verificar contra video** si hubo además una promo larga de
@@ -94,7 +101,7 @@ tags: [tna-2026, rebellion, eric-young, ec3, dixie-carter, regreso, gimmick-en-s
 - [ ] Número exacto de reinados mundiales de EC3 en TNA.
 - [ ] Duración exacta del segmento — ninguna fuente de prensa consultada
       reporta timestamp.
-- [ ] **Discrepancia (research 2026-10-05)**: ficha registra
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: se registran ambas cifras (2.969 / 3.929) en el campo, sin desempate. Nota original: ficha registra
       `attendance_anunciada` 2.969 [1 fuente] para Rebellion 2026 vs
       Wikipedia, que reporta 3.929 pagados; otra base de datos (profightdb)
       coincide en 2.969. Dos fuentes contra una, sin resolver cuál es la

@@ -14,7 +14,7 @@
 ## 2026-07-26 | AEW | Redemption
 - archive/matches/2026-07-26-andrade-vs-mark-davis-aew-redemption.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish, ganador, duración, ciudad/recinto.']
 - archive/matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish, ganador, duración, ciudad/recinto.']
-- archive/matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish, ganador, duración, ciudad/recinto.']
+- archive/matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish, ganador, duración, ciudad/recinto.']
 - archive/matches/2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish, ganador, duración, ciudad/recinto.']
 - archive/matches/2026-07-26-ladder-match-opener-aew-redemption.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish, ganador, duración, ciudad/recinto.']
 - archive/matches/2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md :: frontmatter placeholders=['duracion', 'referee', 'ciudad', 'recinto'] :: pendientes=['Finish técnico exacto + duración + ciudad/recinto.']

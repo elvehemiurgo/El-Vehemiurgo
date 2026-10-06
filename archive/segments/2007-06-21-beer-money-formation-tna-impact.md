@@ -14,7 +14,7 @@ ubicacion_en_show: "post-match (post Storm + Roode vs Eric Young + Rhino) — Im
 duracion: ""
 linea_textual: ""
 gimmick_momento: "James Storm post-AMW split (heel character + cowboy + beer drinker). Robert Roode post-Eric Young feud, heel character refinándose."
-storyline: "Formación del tag team **Beer Money** — una de las tag teams definitorias de TNA 2007-2010."
+storyline: "Formación del tag team **Beer Money** — una de las tag teams definitorias de TNA. Fecha de formación en disputa: teaming Storm-Roode ya en 2007 (12/6/2007 vs LAX, Bleacher Report) / debut televisado formal del equipo como Beer Money, Inc. el 12/6/2008 vs LAX (Wikipedia) según fuente."
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
@@ -23,7 +23,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier TNA 2007"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wikipedia, Bleacher Report, thesmackdownhotel.com); WebFetch bloqueado por egress"
@@ -32,8 +32,11 @@ tags: [tna-2007, beer-money-formation, james-storm, robert-roode, tag-team-forma
 
 # Beer Money Formation — TNA Impact (21 jun 2007)
 
-> **El momento fundacional de Beer Money** — una de las **mejores
-> tag teams TNA 2007-2010**. El Vehemiurgo lo registra como entry
+> **Momento de teaming Storm-Roode registrado como formación de
+> Beer Money** — una de las **mejores tag teams de TNA**. La
+> fecha de "la" formación está en disputa entre fuentes: teaming
+> informal ya en 2007 (Bleacher Report) / debut formal de *Beer
+> Money, Inc.* el 12/6/2008 (Wikipedia). El Vehemiurgo lo registra como entry
 > propio separado del match que precede. Pieza documentada en el
 > dossier
 > [`../../dossiers/draft-tna-2007-christian-coalition-era.md`](../../dossiers/draft-tna-2007-christian-coalition-era.md).
@@ -74,6 +77,20 @@ performance autocontenida**.)
 
 (Pendiente.)
 
+## Corrección (2026-10-06)
+
+- **Sin tiebreak**: dos fuentes se contradicen y ninguna es primaria.
+  (a) Bleacher Report: teaming informal Storm-Roode desde el
+  12/6/2007 vs LAX, con el nombre *Beer Money, Inc.* adoptado esos
+  meses; (b) Wikipedia (*Beer Money, Inc.*): debut televisado formal
+  del equipo el **12/6/2008** vs LAX, primer reinado de TNA World Tag
+  Team Championship en Hard Justice 2008.
+- Se registran **ambas versiones** en `storyline` y en el lead
+  ("A / B según fuente"). La ficha conserva su fecha (21/6/2007) como
+  momento de teaming dictado por el archivo; no se renombra.
+- Fuente: Bleacher Report + Wikipedia (vía snippets, research
+  barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
 - [ ] Secuencia exacta del post-match formation (handshake?
@@ -82,7 +99,7 @@ performance autocontenida**.)
       duración, finish exacto: sin fuente accesible que detalle el
       match más allá del resultado (ganan Storm y Roode).
 - [ ] Cobertura WON Meltzer del formation moment.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra la
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: sin tiebreak entre fuentes: se registran ambas versiones (teaming 2007 según Bleacher Report / debut formal 12/6/2008 según Wikipedia); fecha de ficha se mantiene. Nota original: la ficha registra la
       formación de Beer Money el 21/6/2007 como momento post-match.
       Research encuentra **dos relatos distintos**: (a) Bleacher
       Report ubica un primer teaming informal de Storm y Roode

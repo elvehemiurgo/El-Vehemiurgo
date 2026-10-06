@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mason-rook
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, debut + 12/5/2026)"
 tags: [mason-rook, wwe-nxt-2026, debut, no-binarie, flying-tank, wrestling-entertainment, primer-registro-individual]
@@ -33,7 +33,7 @@ tags: [mason-rook, wwe-nxt-2026, debut, no-binarie, flying-tank, wrestling-enter
 
 - **[verif fecha — hipótesis NXT 5/5/2026]** — debut en NXT:
   Wrestling Entertainment.
-  ([→](../matches/2026-05-05-mason-rook-debut-wwe-nxt.md)).
+  ([→](../segments/2026-05-05-mason-rook-debut-ataque-dangelo-heights-wwe-nxt.md)).
 - **12/5/2026 (WWE NXT)** — segmento in-ring con Tony D'Angelo y
   la camada nueva: Wrestling Entertainment (clase **solo** por la
   participación de Mason).
@@ -124,6 +124,13 @@ campana. Después interrumpe la promo de Waller reclamando el título.
 [vs Kam Hendrix](../matches/2026-09-01-kam-hendrix-vs-mason-rook-nxt.md) (ICC) ·
 [en la fila de retadores de Waller](../segments/2026-09-01-promo-grayson-waller-campeon-saquon-shugars-nxt.md) (WE+)
 
+### Sesión 2026-10-06 s01 — Title shot y careo con Waller (NXT 15/9 y 22/9)
+
+- **Triple threat vs Saquon y D'Angelo (gana la #1 contendencia)** (NXT 15/9): *"Saquon Shugars vs Mason vs DAngelo"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-15-mason-rook-vs-saquon-shugars-vs-tony-dangelo-triple-threat-nxt.md`](../matches/2026-09-15-mason-rook-vs-saquon-shugars-vs-tony-dangelo-triple-threat-nxt.md)
+- **Careo con Grayson Waller** (NXT 22/9): *"de hecho buenos comebacks de Mason, pero Mason debe ponerse más malo"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-22-grayson-waller-mason-rook-careo-in-ring-nxt.md`](../segments/2026-09-22-grayson-waller-mason-rook-careo-in-ring-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar el episodio exacto del debut** — hipótesis
@@ -134,7 +141,7 @@ campana. Después interrumpe la promo de Waller reclamando el título.
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-05-05-mason-rook-debut-wwe-nxt.md`](../matches/2026-05-05-mason-rook-debut-wwe-nxt.md)
+- [`../segments/2026-05-05-mason-rook-debut-ataque-dangelo-heights-wwe-nxt.md`](../segments/2026-05-05-mason-rook-debut-ataque-dangelo-heights-wwe-nxt.md)
 - [`../segments/2026-05-12-mason-rook-segmento-inring-dangelo-wwe-nxt.md`](../segments/2026-05-12-mason-rook-segmento-inring-dangelo-wwe-nxt.md)
 - [`../segments/2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md`](../segments/2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md)
 

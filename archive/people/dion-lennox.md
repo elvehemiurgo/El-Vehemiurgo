@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dion-lennox
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s50 (visión directa — WWE NXT, 19/5/2026)"
   - "Mención previa como integrante de Dark State (segmento NXT Revenge Week 1, 14/4/2026)"
@@ -118,6 +118,12 @@ por el Vehemiurgo, consistente con su registro previo (s08).
 - **Cierra la rivalidad**: tercer encuentro, tras haber expulsado a
   Shugars de **DarkState** junto a Osiris Griffin y Cutler James.
 - Ver [`../matches/2026-08-25-saquon-shugars-vs-dion-lennox-weaponized-cage-nxt.md`](../matches/2026-08-25-saquon-shugars-vs-dion-lennox-weaponized-cage-nxt.md).
+
+### Sesión 2026-10-06 s01 — El heel privilegiado (NXT 22/9)
+
+- **In-ring con Cruz Montana** (NXT 22/9): *"lograron vender a Lennox como un heell efectivo y con  un buen gimmick de chico privilegiado pero a su manera"*. Clase: **Wrestling Entertainment+**. Ficha: [`../segments/2026-09-22-cruz-montana-dion-lennox-in-ring-nxt.md`](../segments/2026-09-22-cruz-montana-dion-lennox-in-ring-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

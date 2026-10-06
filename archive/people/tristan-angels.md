@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tristan-angels
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — WWE NXT, 18/8/2026)"
   - "Sub-agente research-wwe-nxt-180826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress"
@@ -116,6 +116,12 @@ no Angels — tres fuentes coinciden.)*
 **Pieza de la sesión**:
 [vs Zilla Fatu](../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md) (**ICC**) ·
 [`../topics/runner-ups.md`](../topics/runner-ups.md) — #12
+
+### Sesión 2026-10-06 s01 — Le cuesta la lucha a Saquon (NXT 15/9)
+
+- **Interferencia en el triple threat** (NXT 15/9): *"ESTE ÀNGULO CON tRISTAN COSTANDOLE LA LUCHA Y TODO, ESTÀ FGENIAL"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-15-mason-rook-vs-saquon-shugars-vs-tony-dangelo-triple-threat-nxt.md`](../matches/2026-09-15-mason-rook-vs-saquon-shugars-vs-tony-dangelo-triple-threat-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

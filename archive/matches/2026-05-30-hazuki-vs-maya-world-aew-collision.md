@@ -10,15 +10,15 @@ recinto: "Von Braun Center"
 tipo_match: "singles"
 estipulacion: "standard"
 duracion: "10:20"
-finish: "[verif — victoria de Maya World, amenaza a la campeona del CMLL]"
-ganador: "Maya World"
+finish: "victoria de Hazuki — mecanismo exacto [verif]"
+ganador: "Hazuki"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Sin clase — 'estuvo genial', elogio fuerte sin invocar vocabulario de clase"
 clases_vehemiurgo: []
 estado: stub
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s19 (visión directa — AEW Collision, 30/5/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., cageside/smarkoutmoment); WebFetch bloqueado por egress"
@@ -29,9 +29,9 @@ tags: [hazuki, maya-world, aew-collision-2026, singles, sin-clase, rookie-del-mo
 
 > **Sin clase declarada, pero elogio de doble vía**: la historia
 > de Maya World como *"rookie del momento"* es *"muy buena y
-> real"*, y Hazuki *"le regaló una lucha muy dura"*. Verla vencer
-> y amenazar a la campeona del CMLL es *"un sueño hecho
-> realidad"*.
+> real"*, y Hazuki *"le regaló una lucha muy dura"*. Ver a Hazuki
+> bookeada en TV con una victoria y amenazando a la campeona del
+> CMLL es *"un sueño hecho realidad"*.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -65,13 +65,23 @@ tags: [hazuki, maya-world, aew-collision-2026, singles, sin-clase, rookie-del-mo
    segmento post-match
    [`../segments/2026-05-30-persephone-post-match-aew-collision.md`](../segments/2026-05-30-persephone-post-match-aew-collision.md).
 
+## Corrección (2026-10-06)
+
+- `ganador`: de Maya World a **Hazuki** ("Hazuki defeated Maya World
+  (10:20)", Wrestling Inc., 30/5/2026). La lectura previa atribuía a
+  Maya la victoria y la amenaza a la campeona del CMLL; releído en
+  contexto, el verbatim (*"volviendo a la lucha de Hazuki [...]
+  verla bookeada así en tv con una victoria y amenazando a la
+  campeona del CMLL"*) se refiere a Hazuki y coincide con la fuente.
+  El verbatim se preserva intacto.
+
 ## Pendientes
 
 - [x] Duración + ciudad/recinto → 10:20, Huntsville, AL (Von Braun
       Center) (Wrestling Inc., 30/5/2026).
 - [ ] Finish exacto — sin confirmar en las fuentes consultadas.
 - [ ] [verif] identidad de la campeona del CMLL amenazada.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra el
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: ganadora corregida a Hazuki (Wrestling Inc.); el verbatim ya lo decía. Nota original: la ficha registra el
       resultado como victoria de Maya World ("amenaza a la campeona
       del CMLL"); las fuentes consultadas (Wrestling Inc., 30/5/2026)
       registran lo contrario — "Hazuki defeated Maya World (10:20)".

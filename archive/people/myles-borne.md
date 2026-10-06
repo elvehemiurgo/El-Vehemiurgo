@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: myles-borne
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026)"
 tags: [myles-borne, identidad-consolidada, wwe-nxt-2026, campeon, primer-registro-individual]
@@ -95,6 +95,13 @@ esa misma noche, junto al de parejas.
 
 **Pieza de la sesión**:
 [vs Jackson Drake, North American Championship](../matches/2026-08-30-myles-borne-vs-jackson-drake-north-american-nxt-heatwave.md) (FS·WE)
+
+### Sesión 2026-10-06 s01 — La disculpa y la segunda traición (NXT 15/9)
+
+- **Ángulo con Tavion Heights** (NXT 15/9): *"ahora sin las cadenas de tener que ser babyface representaciòn de minoria en tv"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-15-myles-borne-tavion-heights-disculpa-traicion-nxt.md`](../segments/2026-09-15-myles-borne-tavion-heights-disculpa-traicion-nxt.md)
+- **Ángulo con Tavion Heights** (NXT 15/9): *"este segmento esta parte de su performance si està al nivel de un Orton"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-15-myles-borne-tavion-heights-disculpa-traicion-nxt.md`](../segments/2026-09-15-myles-borne-tavion-heights-disculpa-traicion-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

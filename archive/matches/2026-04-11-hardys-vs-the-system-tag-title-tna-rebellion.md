@@ -13,7 +13,7 @@ duracion: "10:25"
 finish: "Matt conecta Twist of Fate a Bronson; Jeff sube al Swanton y Myers lo baja de la esquina (azotandole el brazo ya lastimado contra la lona); Myers manda a Matt por encima de la tercera cuerda; Bronson levanta a Jeff en sit-out tombstone piledriver, Myers agrega un superkick a Jeff justo antes del impacto, Bronson completa y cubre"
 ganador: "Brian Myers & Bear Bronson (The System) — nuevos campeones"
 referee: "[verif]"
-attendance_anunciada: "2.969 [1 fuente, sin especificar paid o announced]"
+attendance_anunciada: "2.969 (fuente previa + profightdb, sin especificar paid/announced) / 3.929 pagados (Wikipedia) según fuente"
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
@@ -22,7 +22,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Setup perfecto para The System como heels; muy buen booking para los Hardys como leyendas vivientes usandolos de plataforma para la division tag; Bronson aprendiendo y vendiendo con puros profesionales; es buen heat hacerle pin a Jeff; se merecen una WE y FS classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s40 (vision directa - TNA Rebellion, 11/4/2026)"
   - "Sub-agente research-tna-impact-090426-rebellion-110426 (research 2026-08-01, closed) - Fightful, Cageside Seats, Last Word on Pro Wrestling, PWTorch, Pro Wrestling Dot Net"
@@ -96,13 +96,20 @@ explícitas.**
   American Wolves de Eddie Edwards**, hoy líder de The System, la
   facción que recibe la plataforma.
 
+## Corrección (2026-10-06)
+
+- Attendance de Rebellion 2026: conflicto sin desempate — 2.969
+  (fuente previa + profightdb) vs 3.929 pagados (Wikipedia). Se
+  conservan ambas cifras en `attendance_anunciada`; ninguna es
+  fuente primaria de la empresa.
+
 ## Pendientes / huecos
 
 - [ ] Verificar contra video el tramo Jeff/Bronson (¿aguante o quiebre
       de Myers?).
 - [ ] Réferi — no confirmado por ninguna fuente de prensa consultada.
 - [ ] Confirmar el detalle del brazo lesionado de Jeff — 1 fuente.
-- [ ] **Discrepancia (research 2026-10-05)**: ficha registra
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: se registran ambas cifras (2.969 / 3.929) en el campo, sin desempate. Nota original: ficha registra
       `attendance_anunciada` 2.969 [1 fuente] para Rebellion 2026 vs
       Wikipedia, que reporta 3.929 pagados; otra base de datos (profightdb)
       coincide en 2.969. Dos fuentes contra una, sin resolver cuál es la

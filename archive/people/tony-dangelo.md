@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tony-dangelo
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, 12/5/2026)"
   - "Menciones previas: 8-man tag NXT 7/4/2026, fatal 4-way Stand & Deliver 4/4/2026"
@@ -139,6 +139,12 @@ Montana, tras robar el pin con un Stunner sobre Montana.
 
 **Pieza de la sesión**:
 [main event, NXT Championship](../matches/2026-08-30-tony-dangelo-vs-cruz-montana-vs-grayson-waller-vs-zilla-fatu-nxt-championship-nxt-heatwave.md) (ICC)
+
+### Sesión 2026-10-06 s01 — Triple threat (NXT 15/9)
+
+- **Vs Saquon Shugars y Mason Rook** (NXT 15/9): *"Saquon Shugars vs Mason vs DAngelo"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-15-mason-rook-vs-saquon-shugars-vs-tony-dangelo-triple-threat-nxt.md`](../matches/2026-09-15-mason-rook-vs-saquon-shugars-vs-tony-dangelo-triple-threat-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

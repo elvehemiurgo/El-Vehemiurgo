@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: persephone
 estado: vivo
-ultima_actualizacion: 2026-10-02
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026 + take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo, Arena Tony Arellano 21 ene 2025"
@@ -266,6 +266,12 @@ World" es la rival a la que le ganó el TBS, no un título. Pieza:
 ### Sesión 2026-10-02 s01 — "Top heels de verdad" (WE) y el open challenge (ICC+)
 - `2026 09 26 AEW All Out`, promo con Baker, **WE**: *"valió la pena el trabajo de entertainment y aprendizaje para Persephone todo el año pasado"*. [Ficha](../segments/2026-09-26-persephone-britt-baker-promo-aew-all-out.md).
 - vs Dani Luna, TBS, **ICC+**: *"cómo vende su desesperación cuando siente que amenazan su posición en el card"*. Retiene con crucifix powerbomb (14:42). [Ficha](../matches/2026-09-26-persephone-vs-dani-luna-tbs-aew-all-out.md).
+
+### Sesión 2026-10-06 s01 — El trios del tributo (Dynamite 30/9)
+
+- **Con Baker y Moné vs Rosa, Hyan y Shafir** (Dynamite 30/9): *"vi muy buena quimica entre Perse y Rosa, y eso empujó a la DMD a meterle más fuerza"*. Clase: **Wrestling Entertainment**. Ficha: [`../matches/2026-09-30-thunder-rosa-hyan-shafir-vs-persephone-baker-mone-aew-dynamite.md`](../matches/2026-09-30-thunder-rosa-hyan-shafir-vs-persephone-baker-mone-aew-dynamite.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

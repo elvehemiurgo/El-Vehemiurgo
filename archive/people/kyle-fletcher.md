@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kyle-fletcher
 estado: vivo
-ultima_actualizacion: 2026-10-02
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s17 (visión directa — AEW Double or Nothing, 24/5/2026)"
 tags: [kyle-fletcher, aussie-open, don-callis-family-verif, aew, primer-registro, turn-babyface-takeshita]
@@ -255,6 +255,12 @@ corto bien ejecutado**.
 
 ### Sesión 2026-10-02 s01 — "La definición de wrestling en TV" (All Out, ICC)
 - `2026 09 26 AEW All Out`, con Knight vs Darby & Borden, **ICC**: *"definitivamente el estilo de Fletcher y el de Darby es la definición de wrestling en TV actualmente"*. Gana por paro médico. [Ficha](../matches/2026-09-26-fletcher-knight-vs-darby-borden-contender-aew-all-out.md).
+
+### Sesión 2026-10-06 s01 — Fletcher empujando el 4 vs 4 (Dynamite 30/9)
+
+- **Don Callis Family vs The Elite** (Dynamite 30/9): *"los heels armando la lucha con el estilo de Fletcher empujando todo"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-30-the-elite-vs-don-callis-family-8-man-aew-dynamite.md`](../matches/2026-09-30-the-elite-vs-don-callis-family-8-man-aew-dynamite.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

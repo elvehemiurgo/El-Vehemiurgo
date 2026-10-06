@@ -33,7 +33,7 @@ tags: [juice-robinson, heroe-fundamental-53, panteon, the-dogs-verif, bullet-clu
 - **6/6/2026 (AEW Collision)** — rematch The Dogs vs The Guns,
   pareja destacada "Connors vs Juice": **Perfect Match**
   (PW·FS·WE).
-  ([→](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)).
+  ([→](../matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -79,7 +79,7 @@ de facción de cara a Redemption 2026. Ver
 de lujo junto a Jay White, con la reserva de que la dog collar
 "real" que ambos merecen queda pendiente para más adelante en la
 rivalidad. Ver
-[`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+[`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md).
 
 ### Sesión 2026-09-30 s01 — El silbato: challenge al Tailgate Brawl (WE+)
 
@@ -126,9 +126,9 @@ rivalidad. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
+- [`../matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md`](../matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md)
 - [`../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md`](../segments/2026-07-22-promo-backstage-bang-bang-gang-juice-robinson-aew-dynamite.md)
-- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)
+- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md)
 
 ## Cross-links
 

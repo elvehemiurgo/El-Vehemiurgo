@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: el-fiscal
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s05 (visión directa — AAA Worldwide, 13/6/2026)"
   - "Sub-agente card-aaa-worldwide-130626 (research 2026-08-01, closed)"
@@ -86,6 +86,12 @@ campeonato de La Parka. Mención de conjunto, tres clases.
 
 **Pieza de la sesión**:
 [con La Parka & Mr. Iguana vs Los Vipers & Dinámico](../matches/2026-09-05-la-parka-fiscal-iguana-vs-los-vipers-dinamico-aaa-worldwide.md) (ICC)
+
+### Sesión 2026-10-06 s01 — Vs Dinámico (AAA Worldwide 19/9)
+
+- **Vs Dinámico** (AAA Worldwide 19/9): *"buenisima lucha, muy oldshcool, hermoso lo que hicieron"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-19-dinamico-vs-el-fiscal-aaa-worldwide.md`](../matches/2026-09-19-dinamico-vs-el-fiscal-aaa-worldwide.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

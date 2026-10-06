@@ -13,6 +13,10 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-09-30 | Death Riders (Claudio Castagnoli, Wheeler Yuta, Daniel Garcia, Gabe Kidd & Bryan Danielson) vs Don Callis Family (Mark Davis, Josh Alexander, Wardlow, Lance Archer & Jake Doyle) — ten-man tag | AEW / Dynamite: A Tribute to PAC | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-30-death-riders-vs-don-callis-family-10-man-aew-dynamite.md) |
+| 2026-09-30 | The Elite (Kenny Omega, Hangman Adam Page & The Young Bucks) vs Don Callis Family (Kyle Fletcher, Kevin Knight, Trent Beretta & Rocky Romero) — eight-man tag | AEW / Dynamite: A Tribute to PAC | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-30-the-elite-vs-don-callis-family-8-man-aew-dynamite.md) |
+| 2026-09-30 | Thunder Rosa, Hyan & Marina Shafir vs Persephone, Britt Baker & Mercedes Moné — trios femenino | AEW / Dynamite: A Tribute to PAC | WE | — | en-investigacion | 1 | [→](2026-09-30-thunder-rosa-hyan-shafir-vs-persephone-baker-mone-aew-dynamite.md) |
+| 2026-09-30 | Will Ospreay vs Ricochet | AEW / Dynamite: A Tribute to PAC | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-30-will-ospreay-vs-ricochet-aew-dynamite.md) |
 | 2026-09-26 | Andrade vs PAC — AEW National Championship | AEW / All Out | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-26-andrade-vs-pac-national-aew-all-out.md) |
 | 2026-09-26 | Bang Bang Gang (Jay White, Ace Austin, Austin & Colten Gunn, w/ Juice Robinson) vs The Dogs (David Finlay & Clark Connors) & Death Riders (Wheeler Yuta & Daniel Garcia) — Tornado Tailgate Brawl | AEW / All Out — Saturday Tailgate Brawl (pre-show) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md) |
 | 2026-09-26 | Brawling Birds (Jamie Hayter & Windsor) vs Divine Dominion (Lena Kross & Megan Bayne) — Chicago Street Fight, AEW Women's World Tag Team Championships | AEW / All Out | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-26-brawling-birds-vs-divine-dominion-chicago-street-fight-aew-all-out.md) |
@@ -20,14 +24,23 @@ con cada cambio de estado.
 | 2026-09-26 | Persephone vs Dani Luna — TBS Championship (open challenge) | AEW / All Out | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-26-persephone-vs-dani-luna-tbs-aew-all-out.md) |
 | 2026-09-26 | Swerve Strickland & New Level (Kofi Kingston & Austin Creed) vs Hangman Adam Page & Brodido (Brody King & Bandido) — AEW World Trios Championship | AEW / All Out | — | — | en-investigacion | 1 | [→](2026-09-26-swerve-new-level-vs-hangman-brodido-trios-aew-all-out.md) |
 | 2026-09-26 | Young Bucks vs Christian Cage & Edge (Adam Copeland) vs FTR — Three-Way Ladder Match, AEW World Tag Team Championships | AEW / All Out | WE | — | en-investigacion | 1 | [→](2026-09-26-young-bucks-vs-cope-cage-vs-ftr-ladder-tag-titles-aew-all-out.md) |
+| 2026-09-25 | Lash Legend vs Charlotte Flair vs Giulia — clasificatorio a Money in the Bank | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-09-25-lash-legend-vs-charlotte-flair-vs-giulia-mitb-qualifier-wwe-smackdown.md) |
+| 2026-09-25 | Trick Williams vs Baron Corbin — United States Championship, steel cage | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-09-25-trick-williams-vs-baron-corbin-steel-cage-us-title-wwe-smackdown.md) |
 | 2026-09-23 | Kyle Fletcher & Kevin Knight vs The Outrunners (Truth Magnum & Turbo Floyd) | AEW / Dynamite (especial de 3 horas Dynamite + Collision) — hora Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-23-fletcher-knight-vs-the-outrunners-aew-dynamite.md) |
 | 2026-09-23 | Will Ospreay & Speedball Mike Bailey vs Claudio Castagnoli & Gabe Kidd | AEW / Dynamite (especial de 3 horas Dynamite + Collision) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-23-ospreay-bailey-vs-claudio-gabe-kidd-aew-dynamite.md) |
 | 2026-09-23 | PAC vs Ace Austin — main event de la hora Collision | AEW / Dynamite (especial de 3 horas Dynamite + Collision) — hora Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-23-pac-vs-ace-austin-aew-dynamite.md) |
 | 2026-09-23 | Persephone vs Hyan — TBS Championship | AEW / Dynamite (especial de 3 horas Dynamite + Collision) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-23-persephone-vs-hyan-tbs-aew-dynamite.md) |
+| 2026-09-22 | Birthright (Lexis King, Uriah Connors & Stacks) vs Zilla Fatu, Sean Legacy & Dorian Van Dux — six-man tag | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-09-22-birthright-vs-zilla-fatu-sean-legacy-dorian-van-dux-nxt.md) |
+| 2026-09-22 | Creed Brothers vs Jax Presley & Harley Riggins — Dusty Classic, primera ronda | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-22-creed-brothers-vs-jax-presley-harley-riggins-dusty-classic-nxt.md) |
+| 2026-09-22 | La Catalina & Thea Hail vs Zaria & Kelani Jordan | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-22-la-catalina-thea-hail-vs-zaria-kelani-jordan-nxt.md) |
+| 2026-09-22 | Noam Dar & Romeo Moreno vs Los Americanos (Bravo Americano & Rayo Americano) — Dusty Classic, primera ronda | WWE / NXT | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-22-noam-dar-romeo-moreno-vs-los-americanos-dusty-classic-nxt.md) |
+| 2026-09-22 | Skylar Raye vs Kali Armstrong — grudge match | WWE / NXT | FS·WE | FC | en-investigacion | 1 | [→](2026-09-22-skylar-raye-vs-kali-armstrong-nxt.md) |
 | 2026-09-21 | Dragon Lee vs Dominik Mysterio vs Penta — Men's Money in the Bank Qualifying Match | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-dragon-lee-vs-dominik-vs-penta-mitb-wwe-raw.md) |
 | 2026-09-21 | Iyo Sky vs Roxanne Perez vs La Catalina — Women's Money in the Bank Qualifying Match | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-iyo-sky-vs-roxanne-perez-vs-la-catalina-mitb-wwe-raw.md) |
 | 2026-09-21 | Jevon Evans vs Bron Breakker | WWE / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-21-jevon-evans-vs-bron-breakker-wwe-raw.md) |
 | 2026-09-19 | Darby Allin vs Myron Reed — TNT Championship (open challenge) | AEW / Collision | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-19-darby-allin-vs-myron-reed-tnt-aew-collision.md) |
+| 2026-09-19 | Dinámico vs El Fiscal | AAA / AAA Worldwide (AAA on FOX) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-19-dinamico-vs-el-fiscal-aaa-worldwide.md) |
+| 2026-09-19 | La Hiedra vs Faby Apache | AAA / AAA Worldwide (AAA on FOX) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-19-la-hiedra-vs-faby-apache-aaa-worldwide.md) |
 | 2026-09-19 | PAC vs Adam Priest | AEW / Collision | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-19-pac-vs-adam-priest-aew-collision.md) |
 | 2026-09-19 | Thekla vs Zayda Steel | AEW / Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-19-thekla-vs-zayda-steel-aew-collision.md) |
 | 2026-09-18 | Bakusai (Shinsuke Nakamura & Kyoki) vs MFTs (Tama Tonga & Talla Tonga) | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-09-18-bakusai-vs-mfts-wwe-smackdown.md) |
@@ -37,6 +50,9 @@ con cada cambio de estado.
 | 2026-09-16 | Chris Jericho vs Nick Wayne | AEW / Dynamite | — | — | en-investigacion | 1 | [→](2026-09-16-chris-jericho-vs-nick-wayne-aew-dynamite.md) |
 | 2026-09-16 | Cope, Christian Cage, Darby Allin & Steven Borden vs FTR, Kyle Fletcher & Kevin Knight | AEW / Dynamite | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-16-cope-christian-darby-borden-vs-ftr-fletcher-knight-aew-dynamite.md) |
 | 2026-09-16 | Death Riders (Jon Moxley, PAC & Gabe Kidd) vs United Empire (Will Ospreay, Andrade & Francesco Akira) | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-16-death-riders-vs-united-empire-main-event-aew-dynamite.md) |
+| 2026-09-15 | EK Prosper & Cruz Montana vs Vanity Project (Ricky Smokes & Brad Baylor) — all-star tag | WWE / NXT | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-15-ek-prosper-cruz-montana-vs-vanity-project-nxt.md) |
+| 2026-09-15 | Lizzy Rain vs Kali Armstrong | WWE / NXT | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-15-kali-armstrong-vs-lizzy-rain-nxt.md) |
+| 2026-09-15 | Saquon Shugars vs Mason Rook vs Tony D'Angelo — triple threat por la #1 contendencia al NXT Championship | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-15-mason-rook-vs-saquon-shugars-vs-tony-dangelo-triple-threat-nxt.md) |
 | 2026-09-14 | Chad Gable (c) vs Dragon Lee — WWE Intercontinental Championship | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-14-chad-gable-vs-dragon-lee-intercontinental-wwe-raw.md) |
 | 2026-09-14 | Stephanie Vaquer & El Grande Americano vs Liv Morgan & Dominik Mysterio — mixed tag | WWE / Monday Night Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-14-dominik-liv-vs-vaquer-grande-americano-wwe-raw.md) |
 | 2026-09-14 | Je'Von Evans vs Austin Theory vs Big Cass — Money in the Bank Qualifier | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-14-jevon-evans-vs-big-cass-vs-austin-theory-mitb-qualifier-wwe-raw.md) |
@@ -44,6 +60,7 @@ con cada cambio de estado.
 | 2026-09-14 | Roman Reigns (c) vs Penta — World Heavyweight Championship | WWE / Monday Night Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-14-roman-reigns-vs-penta-world-title-wwe-raw.md) |
 | 2026-09-13 | Dominik Mysterio (c) vs El Grande Americano — AAA Mega Championship, No DQ | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-13-dominik-mysterio-vs-el-grande-americano-mega-championship-aaa-triplemania-xxxiv.md) |
 | 2026-09-13 | Flammer (c) vs La Catalina — AAA Reina de Reinas Championship | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-13-flammer-vs-la-catalina-reina-de-reinas-aaa-triplemania-xxxiv.md) |
+| 2026-09-13 | The War Raiders (Erik & Ivar) vs Hijo de Dr. Wagner Jr. & Galeno — Campeonato Mundial de Parejas AAA | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-13-hijo-de-dr-wagner-jr-galeno-vs-the-war-raiders-parejas-aaa-triplemania-xxxiv.md) |
 | 2026-09-13 | Rey Fénix (c) vs Jack Cartwheel vs Nathan Frazer vs Mini Vikingo — AAA World Cruiserweight Championship | AAA / TripleMania XXXIV — Day 2 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-09-13-rey-fenix-vs-cartwheel-vs-frazer-vs-mini-vikingo-cruiserweight-aaa-triplemania-xxxiv.md) |
 | 2026-09-12 | "The Butcher" Andy Williams Battle Royal | AEW / Collision | WE·FS | FC | en-investigacion | 1 | [→](2026-09-12-andy-williams-battle-royal-aew-collision.md) |
 | 2026-09-12 | PAC & The Dogs vs Bang Bang Gang | AEW / Collision | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-09-12-dogs-pac-vs-bang-bang-gang-aew-collision.md) |
@@ -195,7 +212,7 @@ con cada cambio de estado.
 | 2026-07-27 | Raquel Rodríguez vs Sol Ruca | WWE / Monday Night Raw | FS·WE | FC | en-investigacion | 1 | [→](2026-07-27-raquel-rodriguez-vs-sol-ruca-wwe-raw.md) |
 | 2026-07-26 | Andrade vs Mark Davis | AEW / Redemption | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-26-andrade-vs-mark-davis-aew-redemption.md) |
 | 2026-07-26 | Bandido vs Kyle Fletcher | AEW / Redemption | WE | — | en-investigacion | 1 | [→](2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md) |
-| 2026-07-26 | Jay White & Juice Robinson vs David Finlay & Clark Connors | AEW / Redemption | WE | — | en-investigacion | 1 | [→](2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md) |
+| 2026-07-26 | Jay White & Juice Robinson vs David Finlay & Clark Connors | AEW / Redemption | WE | — | en-investigacion | 1 | [→](2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md) |
 | 2026-07-26 | Kevin Knight vs Kenny Omega | AEW / Redemption | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-26-kevin-knight-vs-kenny-omega-aew-redemption.md) |
 | 2026-07-26 | Ladder match (opener) | AEW / Redemption | WE | — | en-investigacion | 1 | [→](2026-07-26-ladder-match-opener-aew-redemption.md) |
 | 2026-07-26 | Will Ospreay & Jon Moxley vs Young Bucks | AEW / Redemption | WE | — | en-investigacion | 1 | [→](2026-07-26-ospreay-moxley-vs-young-bucks-aew-redemption.md) |
@@ -272,7 +289,7 @@ con cada cambio de estado.
 | 2026-06-08 | Penta vs Rey Mysterio | WWE / Monday Night Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-08-penta-vs-rey-mysterio-wwe-raw.md) |
 | 2026-06-06 | Lince Dorado vs Octagón Jr. vs Cruz del Toro vs Mini Vikingo vs Joaquín Wilde | AAA / Noche de los Grandes — Night 2 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-06-5-way-contendencia-crucero-aaa-noche-de-los-grandes-night-2.md) |
 | 2026-06-06 | Bayley, Lola Vice & La Catalina vs Las Tóxicas (Flammer, La Hiedra & Maravilla) | AAA / Noche de los Grandes — Night 2 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-06-bayley-lola-catalina-vs-toxicas-aaa-noche-de-los-grandes-night-2.md) |
-| 2026-06-06 | The Dogs vs The Guns — rematch | AEW / Collision | PW·FS·WE | ICC | stub | 1 | [→](2026-06-06-dogs-vs-guns-rematch-aew-collision.md) |
+| 2026-06-06 | Clark Connors vs Juice Robinson (The Guns vs The Dogs — rematch) | AEW / Collision | PW·FS·WE | ICC | stub | 1 | [→](2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md) |
 | 2026-06-06 | Persephone vs Hazuki | AEW / Collision | FS·WE | FC | stub | 1 | [→](2026-06-06-persephone-vs-hazuki-aew-collision.md) |
 | 2026-06-05 | Fatal 4-way | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-06-05-4-way-wwe-smackdown.md) |
 | 2026-06-05 | Chelsea Green vs Lash Legend | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md) |
@@ -298,7 +315,7 @@ con cada cambio de estado.
 | 2026-05-27 | Ace Austin vs Andrade | AEW / Collision | PW·FS·WE | ICC | stub | 1 | [→](2026-05-27-ace-austin-vs-andrade-aew-collision.md) |
 | 2026-05-27 | Mark Davis vs Jack Perry — revancha | AEW / Dynamite & Collision | — | — | stub | 1 | [→](2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md) |
 | 2026-05-26 | Charlie Dempsey vs Shiloh Hill | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-05-26-charlie-dempsey-vs-shiloh-hill-wwe-nxt.md) |
-| 2026-05-26 | Kelani Jordan vs Wren Sinclair (title challenge) | WWE / NXT | FS·WE | FC | en-investigacion | 1 | [→](2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md) |
+| 2026-05-26 | Kelani Jordan vs Wren Sinclair (non-title) | WWE / NXT | FS·WE | FC | en-investigacion | 1 | [→](2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md) |
 | 2026-05-24 | Cope & Christian Cage vs FTR (Dax Harwood & Cash Wheeler) — Street Fight | AEW / Double or Nothing | PW·FS·WE | ICC | stub | 1 | [→](2026-05-24-cope-cage-vs-ftr-aew-double-or-nothing.md) |
 | 2026-05-24 | Darby Allin vs MJF — main event | AEW / Double or Nothing | — | — | stub | 1 | [→](2026-05-24-darby-allin-vs-mjf-aew-double-or-nothing.md) |
 | 2026-05-24 | Multi-man con Chris Jericho y otros [verif participantes] | AEW / Double or Nothing | — | — | stub | 1 | [→](2026-05-24-multiman-jericho-aew-double-or-nothing.md) |
@@ -336,7 +353,6 @@ con cada cambio de estado.
 | 2026-05-08 | Fatal Influence vs Irresistible Forces (3 vs 3) | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md) |
 | 2026-05-08 | Kiana James vs Tiffany Stratton | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-05-08 | Ricky Saints vs Matt Cardona | WWE / SmackDown | FS | — | en-investigacion | 1 | [→](2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md) |
-| 2026-05-05 | Debut de Mason Rook en NXT | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-05-05-mason-rook-debut-wwe-nxt.md) |
 | 2026-05-04 | JD McDonagh vs Finn Bálor (rematch, con interferencia de Judgment Day) | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md) |
 | 2026-05-02 | Hijo del Vikingo vs Mini Vikingo | AAA / Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md) |
 | 2026-05-02 | Rey Fénix vs Laredo Kid | AAA / Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md) |
@@ -350,8 +366,8 @@ con cada cambio de estado.
 | 2026-04-28 | Kelani Jordan vs Wren Sinclair | WWE / NXT | FS·WE | FC | en-investigacion | 1 | [→](2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md) |
 | 2026-04-28 | Lizzy Rain vs Nikkita Lyons | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-04-28-lizzy-rain-vs-nikkita-lyons-wwe-nxt.md) |
 | 2026-04-28 | Saquon Shugars vs Myles Borne (cash-in) | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-28-saquon-shugars-vs-myles-borne-cashin-wwe-nxt.md) |
-| 2026-04-27 | Liv Morgan, Roxanne Perez & Raquel Rodríguez vs Bayley & Lyra Valkyria | WWE / Raw | WE | — | en-investigacion | 1 | [→](2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md) |
 | 2026-04-27 | Rey Mysterio vs El Grande Americano | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw.md) |
+| 2026-04-27 | Roxanne Perez & Raquel Rodríguez (con Liv Morgan) vs Bayley & Lyra Valkyria | WWE / Raw | WE | — | en-investigacion | 1 | [→](2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md) |
 | 2026-04-25 | El Grande Americano & Texano Jr. vs Mesías & Mechawolf | AAA / AAA Worldwide | — | — | en-investigacion | 1 | [→](2026-04-25-grande-americano-texano-vs-mesias-mechawolf-aaa-worldwide.md) |
 | 2026-04-25 | La Parka & Rey Fénix vs Money Machine | AAA / AAA Worldwide | FS·WE | FC | en-investigacion | 1 | [→](2026-04-25-la-parka-fenix-vs-money-machine-aaa-worldwide.md) |
 | 2026-04-25 | Laredo Kid vs Wagner | AAA / AAA Worldwide | FS | — | en-investigacion | 1 | [→](2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md) |
@@ -459,7 +475,7 @@ con cada cambio de estado.
 | 2026-02-13 | Lei Ying Lee (c) vs Arianna Grace — TNA Knockouts World Championship | TNA Wrestling / No Surrender 2026 (special — TNA+ / TrillerTV) | — | — | stub | 1 | [→](2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md) |
 | 2026-02-03 | ZaRuca (Sol Ruca & Zaria) vs The Elegance Brand (M by Elegance & Heather by Elegance) | WWE / TNA / NXT (taping; cross-promotional con TNA) | FS | — | en-investigacion | 1 | [→](2026-02-03-zaruca-vs-elegance-brand-nxt.md) |
 | 2026-01-17 | The Hardys (Matt & Jeff) (c) vs The Righteous (Vincent & Dutch) — TNA World Tag Team Championship | TNA Wrestling / Genesis 2026 (PPV) | — | — | stub | 0 | [→](2026-01-17-hardys-vs-righteous-tna-genesis-tag-title.md) |
-| 2026-01-17 | Mustafa Ali vs Elias | TNA / Genesis 2026 | — | — | en-investigacion | 1 | [→](2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) |
+| 2026-01-17 | Mustafa Ali vs Elijah | TNA / Genesis 2026 | — | — | en-investigacion | 1 | [→](2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) |
 | 2026-01-01 | Skayler vs Visionario vs Shao — three-way | Mi Sagrada Lucha Libre / Mi Sagrada Lucha Libre (YouTube; fecha de show pendiente — la fecha del frontmatter es placeholder de orden) | FS·WE | FC | en-investigacion | 1 | [→](2026-skayler-vs-visionario-vs-shao-mi-sagrada-lucha-libre.md) |
 | 2026-01-01 | Visionario, Skayler & Madness vs Bumbu, Kikiri Punk & Shere Khan | Mi Sagrada Lucha Libre / Mi Sagrada Lucha Libre (YouTube; fecha de show pendiente — la fecha del frontmatter es placeholder de orden) | FS·WE | FC | en-investigacion | 1 | [→](2026-visionario-skayler-madness-vs-bumbu-kikiri-punk-shere-khan-mi-sagrada-lucha-libre.md) |
 | 2025-12-25 | Skayler, Visionario & Chicanito vs Astrolux, Black Metal & Red Escorpión | The King Phantom / Una Noche de Regresos (dictado: 'King Phantom Navideño') | WE | — | en-investigacion | 1 | [→](2025-12-25-skayler-visionario-chicanito-vs-astrolux-black-metal-red-escorpion-king-phantom-navideno.md) |
@@ -489,7 +505,7 @@ con cada cambio de estado.
 | 2018-10-13 | MJF vs David Starr | CZW / Better Than Our Best | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) |
 | 2018-09-08 | Blackwater vs Ace Austin vs KC Navarro vs Jordan Oliver | CZW / Down With the Sickness | — | — | en-investigacion | 1 | [→](2018-09-08-4-way-wired-blackwater-gana-czw-dwts.md) |
 | 2018-09-08 | Brandon Kirk vs Max Caster | CZW / Down With the Sickness | WE | — | en-investigacion | 1 | [→](2018-09-08-brandon-kirk-vs-max-caster-czw-dwts.md) |
-| 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco | — | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
+| 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco (7 jul 2018 — fecha/slug pendientes de renombre) | — | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
 | 2018-04-14 | David Starr vs Tessa Blanchard vs Peter Avalon | CZW / Best of the Best 17 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-04-14-david-starr-tessa-blanchard-avalon-czw-botb17.md) |
 | 2018-04-14 | David Starr vs Matt Riddle vs Tessa Blanchard | CZW / Best of the Best 17 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-04-14-david-starr-vs-matt-riddle-tessa-blanchard-czw-botb17.md) |
 | 2018-04-14 | David Starr vs Zachary Wentz | CZW / Best of the Best 17 | — | — | en-investigacion | 1 | [→](2018-04-14-david-starr-vs-zachary-wentz-final-czw-botb17.md) |
@@ -499,7 +515,7 @@ con cada cambio de estado.
 | 2017-12-09 | David Starr vs Ethan Page | CZW / Cage of Death 19 | — | — | en-investigacion | 1 | [→](2017-12-09-david-starr-vs-ethan-page-czw-cage-of-death-19.md) |
 | 2017-12-09 | MJF vs Joey Janela (revancha) | CZW / Cage of Death 19 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2017-12-09-mjf-vs-joey-janela-revancha-czw-cage-of-death-19.md) |
 | 2017-12-09 | Nick Aldis vs Tim Storm | CZW / Cage of Death 19 | WE | — | en-investigacion | 1 | [→](2017-12-09-nick-aldis-vs-tim-storm-czw-cage-of-death-19.md) |
-| 2017-12-09 | The Rep vs Scarlet and Graves vs oVe vs Alex Reynolds & Matt Palmer | CZW / Cage of Death 19 | FS·WE | FC | en-investigacion | 1 | [→](2017-12-09-tag-titles-4-way-the-rep-gana-czw-cage-of-death-19.md) |
+| 2017-12-09 | The Rep vs Scarlet and Graves vs oVe vs Alex Reynolds & Dan Barry | CZW / Cage of Death 19 | FS·WE | FC | en-investigacion | 1 | [→](2017-12-09-tag-titles-4-way-the-rep-gana-czw-cage-of-death-19.md) |
 | 2017-11-11 | Brandon Kirk vs Jimmy Lloyd | CZW / Night of Infamy | WE | — | en-investigacion | 1 | [→](2017-11-11-brandon-kirk-vs-jimmy-lloyd-czw-night-of-infamy.md) |
 | 2017-11-11 | JT Dunn vs Ace Romero vs Josh Briggs | CZW / Night of Infamy | PW·FS·WE | ICC | en-investigacion | 1 | [→](2017-11-11-jt-dunn-vs-ace-romero-czw-night-of-infamy.md) |
 | 2017-11-11 | MJF vs Dezmond Xavier | CZW / Night of Infamy | PW·FS·WE | ICC | en-investigacion | 1 | [→](2017-11-11-mjf-vs-dezmond-xavier-czw-night-of-infamy.md) |
@@ -610,7 +626,7 @@ con cada cambio de estado.
 | 2004-09-12 | Christian vs Chris Jericho | WWE / Unforgiven 2004 | — | — | en-investigacion | 1 | [→](2004-09-12-christian-vs-jericho-wwe-unforgiven.md) |
 | 2004-05-10 | Christian vs Chris Jericho — steel cage match | WWE / Raw | — | — | en-investigacion | 1 | [→](2004-05-10-christian-vs-jericho-steel-cage-wwe-raw.md) |
 | 2004-04-18 | Christian & Trish Stratus vs Chris Jericho — handicap match | WWE / Backlash 2004 | — | — | en-investigacion | 1 | [→](2004-04-18-christian-trish-vs-jericho-wwe-backlash.md) |
-| 2004-03-14 | Brock Lesnar vs Eddie Guerrero — WWE Championship | WWE / WrestleMania XX | — | — | en-investigacion | 1 | [→](2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md) |
+| 2004-03-14 | Brock Lesnar vs Eddie Guerrero — WWE Championship | WWE / No Way Out 2004 (15 feb 2004) — NO WrestleMania XX; fecha/slug pendientes de renombre | — | — | en-investigacion | 1 | [→](2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md) |
 | 2004-03-14 | Christian vs Chris Jericho | WWE / WrestleMania XX | — | — | en-investigacion | 1 | [→](2004-03-14-christian-vs-jericho-wrestlemania-xx.md) |
 | 2004-01-01 | AJ Styles vs Homicide | IWC (International Wrestling Cartel) / IWC indie 2004 (fecha exacta pendiente) | — | — | en-investigacion | 1 | [→](2004-aj-styles-vs-homicide-iwc.md) |
 | 2003-01-11 | AJ Styles & Low Ki vs Christopher Daniels & Xavier (The Prophecy) | ROH (Ring of Honor) / ROH Revenge On The Prophecy | — | — | en-investigacion | 1 | [→](2003-01-11-aj-styles-low-ki-vs-daniels-xavier-roh.md) |
@@ -623,7 +639,7 @@ con cada cambio de estado.
 | 2002-09-26 | Rey Mysterio vs Kurt Angle vs Chris Benoit — triple threat | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2002-09-26-mysterio-vs-angle-vs-benoit-wwe-smackdown.md) |
 | 2002-08-25 | Rey Mysterio vs Kurt Angle | WWE / SummerSlam 2002 | — | — | en-investigacion | 1 | [→](2002-08-25-rey-mysterio-vs-kurt-angle-wwe-summerslam.md) |
 | 2002-07-25 | Christian & Lance Storm vs The Rock & Hulk Hogan | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2002-07-25-christian-lance-storm-vs-rock-hogan-wwe-smackdown.md) |
-| 2002-03-02 | Eddie Guerrero vs CM Punk | IWA Mid-South / Revolution Strong Style | — | — | en-investigacion | 1 | [→](2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md) |
+| 2002-03-02 | Eddie Guerrero vs CM Punk | IWA Mid-South / Morris Mayhem | — | — | en-investigacion | 1 | [→](2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md) |
 | 2001-07-09 | AJ Styles vs Rick Michaels | WWF (developmental indie cross / NCW) / [verif] — likely WWF developmental territorial 2001 | — | — | en-investigacion | 1 | [→](2001-07-09-aj-styles-vs-rick-michaels-wwf.md) |
 | 1998-09-21 | Volk Han vs Kiyoshi Tamura — Fighting Integration VI | Fighting Network RINGS / RINGS Fighting Integration VI | PW·FS·WE | ICC | stub | 1 | [→](1998-09-21-volk-han-vs-kiyoshi-tamura-rings-fighting-integration-vi.md) |
 | 1998-01-18 | Shawn Michaels vs Undertaker — Casket Match | WWF / Royal Rumble 1998 | — | — | en-investigacion | 1 | [→](1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md) |
@@ -645,7 +661,7 @@ con cada cambio de estado.
 | 1995-04-01 | Bret Hart vs Owen Hart — WWF Raw pre-WrestleMania XI | WWF / Raw | — | — | en-investigacion | 1 | [→](1995-bret-hart-vs-owen-hart-wwf-raw-pre-wmxi.md) |
 | 1994-03-20 | Owen Hart vs Bret Hart | WWF / WrestleMania X | — | — | en-investigacion | 1 | [→](1994-03-20-owen-hart-vs-bret-hart-wrestlemania-x.md) |
 | 1994-01-01 | Bret Hart vs Owen Hart — No Holds Barred (Coliseum Video Exclusive) | WWF / WWF Coliseum Video Exclusive (dark match) | — | — | en-investigacion | 1 | [→](1994-bret-hart-vs-owen-hart-coliseum-video-no-holds-barred.md) |
-| 1992-10-26 | Bret 'The Hitman' Hart vs The Mountie | WWF / TV taping / live event Saskatoon | — | — | en-investigacion | 1 | [→](1992-10-26-bret-hart-vs-the-mountie-wwf.md) |
+| 1992-10-26 | Bret 'The Hitman' Hart vs The Mountie | WWF / WWF TV taping (*Survivor Series Showdown*) — dark match | — | — | en-investigacion | 1 | [→](1992-10-26-bret-hart-vs-the-mountie-wwf.md) |
 | 1992-01-01 | Negro Casas vs Ultimo Dragon | WAR (Wrestle Association R) / WAR tour 1992 | — | — | en-investigacion | 1 | [→](1992-negro-casas-vs-ultimo-dragon-war.md) |
 | 1984-06-09 | Greg 'The Hammer' Valentine vs Salvatore Bellomo | WWF (territorial era) / WWF house show / TV taping Capital Center | — | — | en-investigacion | 1 | [→](1984-06-09-greg-valentine-vs-salvatore-bellomo-capital-center.md) |
 | 1984-04-01 | Paul Orndorff vs Jimmy Jackson | WWF (territorial era pre-WrestleMania I) / WWF house show / TV taping | — | — | en-investigacion | 1 | [→](1984-04-01-paul-orndorff-vs-jimmy-jackson.md) |

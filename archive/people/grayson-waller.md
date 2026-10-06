@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: grayson-waller
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Sub-agente card-wwe-nxt-280726 (research 2026-08-01, closed) — Wrestling Attitude, RingsideNews, WrestlingHeadlines, Forbes, WrestleZone"
   - "El Vehemiurgo, notebook 2026-08-01 s15 (visión directa)"
@@ -200,6 +200,12 @@ puntual que se ajuste literalmente a "despertó al lockeroom"**; las
 citas de Waller burlándose del vestuario que circulan en prensa son
 del episodio del 1/9, no de este. Ver
 [`../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md`](../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md).
+
+### Sesión 2026-10-06 s01 — Aussie vs Aussie (NXT 22/9)
+
+- **Careo con Mason Rook** (NXT 22/9): *"Waller brillante como siempre, Ausie vs Ausie"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-22-grayson-waller-mason-rook-careo-in-ring-nxt.md`](../segments/2026-09-22-grayson-waller-mason-rook-careo-in-ring-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

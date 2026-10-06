@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: thunder-rosa
 estado: vivo
-ultima_actualizacion: 2026-10-01
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-18 s01 (visión directa — AEW Rebel Heart, 9/9/2026, timestamp 00:34:24)"
 tags: [thunder-rosa, aew, cmll-crossover, primer-registro, stiff, sin-gimmicks-extra]
@@ -45,6 +45,12 @@ sin ese recurso y el Vehemiurgo lo celebra.
 
 ### Sesión 2026-10-01 s01 — "Buenas luchas desde que dejó de hacer street fights"
 - `2026 09 23 AEW Dynamite`, nueva pareja de Hyan, sin clase: *"Thunder Rosa que está poniendo buenas luchas desde que dejó de hacer street fights"*. [Ficha](../segments/2026-09-23-hyan-thunder-rosa-nueva-pareja-backstage-aew-dynamite.md).
+
+### Sesión 2026-10-06 s01 — El trios del tributo (Dynamite 30/9)
+
+- **Con Hyan y Shafir vs Persephone, Baker y Moné** (Dynamite 30/9): *"vi muy buena quimica entre Perse y Rosa"*. Clase: **Wrestling Entertainment**. Ficha: [`../matches/2026-09-30-thunder-rosa-hyan-shafir-vs-persephone-baker-mone-aew-dynamite.md`](../matches/2026-09-30-thunder-rosa-hyan-shafir-vs-persephone-baker-mone-aew-dynamite.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

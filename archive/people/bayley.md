@@ -57,7 +57,7 @@ Sasha Banks, Charlotte Flair, Becky Lynch), calificado como
 **Lectura sintética**: primer match/segmento propio del archivo —
 reserva directa dentro de un tag team centrado en Roxanne Perez.
 Ver
-[`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md).
+[`../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: saquon-shugars
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Wikipedia — Saquon Shugars"
   - "Cobertura WWE NXT 2025-2026"
@@ -427,6 +427,13 @@ contradicción. Ver la tabla cronológica al inicio de la ficha. Ver
 **Lectura sintética**: Wrestling Entertainment — imagen visual de
 cierre que continúa el face turn consumado en s50. Ver
 [`../segments/2026-05-26-saquon-shugars-acecho-techo-carro-wwe-nxt.md`](../segments/2026-05-26-saquon-shugars-acecho-techo-carro-wwe-nxt.md).
+
+### Sesión 2026-10-06 s01 — Macho Man y la tercera rueda (NXT 15/9)
+
+- **Promo backstage** (NXT 15/9): *"se ve que le encanta el macho man, lo hace muy bien, top tier promo"*. Clase: **Wrestling Entertainment+**. Ficha: [`../segments/2026-09-15-saquon-shugars-promo-backstage-macho-man-nxt.md`](../segments/2026-09-15-saquon-shugars-promo-backstage-macho-man-nxt.md)
+- **Triple threat vs Mason Rook y Tony D'Angelo** (NXT 15/9): *"es muy destacable su psicologia, es el futuro"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-15-mason-rook-vs-saquon-shugars-vs-tony-dangelo-triple-threat-nxt.md`](../matches/2026-09-15-mason-rook-vs-saquon-shugars-vs-tony-dangelo-triple-threat-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Piezas del Vehemiurgo donde aparece
 

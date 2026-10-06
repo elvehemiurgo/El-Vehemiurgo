@@ -95,5 +95,5 @@ Ver [`../people/finn-balor.md`](../people/finn-balor.md),
 - [`../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-04-20-jd-mcdonagh-vs-finn-balor-wwe-raw.md) ·
   [`../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md`](../matches/2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md) ·
   [`../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md`](../segments/2026-05-11-balor-ataca-jd-mcdonagh-wwe-raw.md)
-- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)
+- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md)
   — contraste: estipulación hardcore que sí entorpeció.

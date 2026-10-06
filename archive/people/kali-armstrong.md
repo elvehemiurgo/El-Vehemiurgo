@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kali-armstrong
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Cobertura WWE NXT 2025-2026"
   - "Visionado directo del Vehemiurgo, NXT Revenge Week 1 2026-04-14"
@@ -242,6 +242,13 @@ del ring antes de caer ante el F-5 de Zaria.
 
 **Pieza de la sesión**:
 [vs Wren Sinclair y Zaria, unificación](../matches/2026-08-30-wren-sinclair-vs-kali-armstrong-vs-zaria-unificacion-nxt-heatwave.md) (FS·WE)
+
+### Sesión 2026-10-06 s01 — Rain y Raye en dos semanas (NXT 15/9 y 22/9)
+
+- **Vs Lizzy Rain** (NXT 15/9): *"no tienen miedo de ser wrestlers full kayfabe"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-15-kali-armstrong-vs-lizzy-rain-nxt.md`](../matches/2026-09-15-kali-armstrong-vs-lizzy-rain-nxt.md)
+- **Vs Skylar Raye** (NXT 22/9): *"el desenlace caotico con otro callup de evolve continua el booking accidentado muy bueno para proteger a Armstronge"*. Clase: **Feeling Crown** (FS·WE). Ficha: [`../matches/2026-09-22-skylar-raye-vs-kali-armstrong-nxt.md`](../matches/2026-09-22-skylar-raye-vs-kali-armstrong-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Lectura consolidada del Vehemiurgo
 

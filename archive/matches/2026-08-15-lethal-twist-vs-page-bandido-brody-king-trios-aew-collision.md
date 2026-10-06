@@ -9,7 +9,7 @@ ciudad: "Las Vegas, Nevada"
 recinto: "The Pearl Theater — Palms Casino Resort"
 tipo_match: "six-man tag — título"
 estipulacion: "AEW World Trios Championship — primera defensa de los campeones"
-duracion: "13:00"
+duracion: "13:00 / 9:46 (tiempo al aire, Sportskeeda) según fuente"
 finish: "Page y Bandido lanzan a Lee Johnson a los brazos de Brody King, que remata con un piledriver — pinfall sobre Johnson"
 ganador: "Adam Page, Bandido y Brody King — retienen"
 referee: "[verif]"
@@ -18,7 +18,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fue una lucha genial, de verdad tienen velocidad y spots geniales, armaron una lucha genial y de verdad están aprendiendo de Lethal, le están metiendo al entertainment, tienen un gran acto y secuencias tag team muy cool, y se metieron con los MCMG durante su entrada, se mueven como wrestlers y les importan sus stakes, me encantó lo que vi, se merecen las 3 clases. El Lethal Twist es legítimamente top tier wrestling"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-31 s57 (VISIONADO DIRECTO — AEW Grand Slam Mexico 5/8, Dynamite 12/8, Collision 15/8, Dynamite 19/8 de 2026)"
   - "Sub-agentes de research s57 (2026-08-31) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -75,7 +75,7 @@ tags: [aew-2026, collision, jay-lethal, blake-christian, lee-johnson, the-lethal
   equipo, y eso lo vuelve más fuerte, no menos.**
 - **Era una lucha titular: AEW World Trios Championship**, y fue la
   **primera defensa** de Page, Bandido y Brody King, campeones desde
-  Grand Slam Mexico. **Los campeones retienen. 13:00.**
+  Grand Slam Mexico. **Los campeones retienen. 13:00 (9:46 al aire según Sportskeeda).**
 - **El *"se metieron con los MCMG durante su entrada"* es literal y
   tiene contexto**: **Blake Christian entró mostrando la mano, que
   decía "The Swirl > MCMG"**. Es un ángulo activo — los Motor City
@@ -85,10 +85,16 @@ tags: [aew-2026, collision, jay-lethal, blake-christian, lee-johnson, the-lethal
   el propio Lethal Twist atacan a los campeones.
 - **El show**: Pearl Theater, Palms Casino Resort, Las Vegas.
 
+## Corrección (2026-10-06)
+
+- `duracion`: conflicto sin desempate — 13:00 (research previo) /
+  9:46 tiempo al aire (Sportskeeda); la diferencia puede deberse a
+  tiempo en comerciales (picture-in-picture). Se conservan ambas.
+
 ## Pendientes
 
 - [x] Finish exacto → Page y Bandido lanzan a Johnson a los brazos de Brody King, que remata con piledriver sobre Johnson (research 2026-10-05, Sportskeeda).
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `duracion: "13:00"`; Sportskeeda reporta **9:46 (tiempo al aire)** para el mismo finish. No se reescribe `duracion` por esta ley.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: `duracion` con ambas cifras (13:00 / 9:46 al aire), sin desempate. Nota original: la ficha registra `duracion: "13:00"`; Sportskeeda reporta **9:46 (tiempo al aire)** para el mismo finish. No se reescribe `duracion` por esta ley.
 - [ ] Fichas de people de **Blake Christian** y **Lee Johnson** — sin
       abrir.
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: mike-santana
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #5 (caso testigo 'breakout tardío' THE FUTURE in 2026 — advertencia editorial)"
   - "Volcado Vehemiurgo 2026-06-17 #8 (tag partner Leon Slater, main event TNA presente)"
@@ -495,6 +495,14 @@ visual del estatus. **Instant Classic Crown declarada** para el
 match completo. **Cae** en el bando perdedor — Mason Rook remata con
 un blind tag a EK Prosper. Ver
 [`../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md`](../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md).
+
+### Sesión 2026-10-06 s01 — Cruz Montana, locker room leader (NXT 15/9 y 22/9)
+
+- **Segmento con Vanity Project y EK** (NXT 15/9): *"Montana realmente jugando serio, hablando como main eventer, se adueñò del segmento"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-15-vanity-project-ek-prosper-cruz-montana-segmento-nxt.md`](../segments/2026-09-15-vanity-project-ek-prosper-cruz-montana-segmento-nxt.md)
+- **Con EK Prosper vs Vanity Project** (NXT 15/9): *"quiere ser main eventer, locker room leader, the peoples champ, de verdad lo va a hacer"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-15-ek-prosper-cruz-montana-vs-vanity-project-nxt.md`](../matches/2026-09-15-ek-prosper-cruz-montana-vs-vanity-project-nxt.md)
+- **In-ring con Dion Lennox** (NXT 22/9): *"Cruz Montana adueñandose del ring en su segmento in ring, muy cómodo ya"*. Clase: **Wrestling Entertainment+**. Ficha: [`../segments/2026-09-22-cruz-montana-dion-lennox-in-ring-nxt.md`](../segments/2026-09-22-cruz-montana-dion-lennox-in-ring-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

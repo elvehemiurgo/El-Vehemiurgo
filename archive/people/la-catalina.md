@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-catalina
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial 2026-05-10 Kira vs Persephone"
   - "Confirmación directa del Vehemiurgo 2026-05-10: 'La Catalina ya firmó con WWE y AAA'"
@@ -266,3 +266,9 @@ Flammer, Reina de Reinas).
 [promo en español](../segments/2026-09-05-promo-la-catalina-aaa-worldwide.md) (sin clase) ·
 [vs Adelicious](../matches/2026-09-05-adelicious-vs-la-catalina-aaa-worldwide.md) (ICC)
 
+### Sesión 2026-10-06 s01 — Cruce con NXT (NXT 15/9 y 22/9)
+
+- **Careo con Kelani Jordan y Zaria** (NXT 15/9): *"si estuvo debil la promo de Catalina, muy genèrica"*. Clase: sin clase. Ficha: [`../segments/2026-09-15-careo-kelani-jordan-la-catalina-zaria-nxt.md`](../segments/2026-09-15-careo-kelani-jordan-la-catalina-zaria-nxt.md)
+- **Con Thea Hail vs Zaria y Kelani Jordan** (NXT 22/9): *"si pusieron una buena lucha aqui, se merecen las 3 clases"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-22-la-catalina-thea-hail-vs-zaria-kelani-jordan-nxt.md`](../matches/2026-09-22-la-catalina-thea-hail-vs-zaria-kelani-jordan-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)

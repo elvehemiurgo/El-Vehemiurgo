@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ricochet
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s13 (visión directa — AEW Collision Fairway to Hell, 9/5/2026)"
 tags: [ricochet, aew, techo-personal-declarado, mejor-version-vista]
@@ -107,6 +107,12 @@ archivo (precedente Saquon Shugars, s48 — ordenar por fecha de show).
 El archivo no adjudica si es booking deliberado o inconsistencia de
 guion. Pieza:
 [promo de apertura de Ospreay](../segments/2026-09-02-will-ospreay-promo-apertura-anuncio-ricochet-aew-dynamite.md) (WE).
+
+### Sesión 2026-10-06 s01 — Vs Ospreay en el tributo a PAC
+
+- **Vs Will Ospreay** (Dynamite 30/9): *"quieren darle más peso a cada spot, no como antes que se trataba de quemar spots uno tras otro"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-30-will-ospreay-vs-ricochet-aew-dynamite.md`](../matches/2026-09-30-will-ospreay-vs-ricochet-aew-dynamite.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: giulia
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-09 (lista personal completa + takes rivalidades vigentes)"
   - "Volcado Vehemiurgo 2026-07-14 s28 (visión directa — comparación con Thekla)"
@@ -244,6 +244,12 @@ Giulia, y conecta con la reserva de booking ya anotada en s16.
 reserva explícita ("espero que sí"), no da el progreso por
 consumado. Pieza:
 [backstage vs Nia y Lash](../segments/2026-09-18-giulia-backstage-nia-lash-wwe-smackdown.md) (WE).
+
+### Sesión 2026-10-06 s01 — Vs Lash y Charlotte (SmackDown 25/9)
+
+- **Vs Lash Legend vs Charlotte Flair** (SmackDown 25/9): *"Giulia y Lash se pusieron muystiff aqui puede haber un clásico instantaneo"*. Clase: **Feeling Crown** (FS·WE). Ficha: [`../matches/2026-09-25-lash-legend-vs-charlotte-flair-vs-giulia-mitb-qualifier-wwe-smackdown.md`](../matches/2026-09-25-lash-legend-vs-charlotte-flair-vs-giulia-mitb-qualifier-wwe-smackdown.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

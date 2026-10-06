@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: la-hiedra
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
   - "Mención previa en dossier AAA/AEW 2026 cluster (roster AAA Knockouts)"
@@ -135,6 +135,12 @@ Tóxicas" antes que ganar ella misma—; **cae** cuando Roxanne Perez la
 empuja contra Flammer, y discute con su propia líder en el ring tras
 la derrota. Ver
 [`../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md).
+
+### Sesión 2026-10-06 s01 — Vs Faby Apache (AAA Worldwide 19/9)
+
+- **Vs Faby Apache** (AAA Worldwide 19/9): *"muy stiff, si fue lucha libre"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-19-la-hiedra-vs-faby-apache-aaa-worldwide.md`](../matches/2026-09-19-la-hiedra-vs-faby-apache-aaa-worldwide.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

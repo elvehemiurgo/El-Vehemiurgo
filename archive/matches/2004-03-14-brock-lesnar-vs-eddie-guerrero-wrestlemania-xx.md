@@ -5,17 +5,17 @@ participantes:
   - "Brock Lesnar"
   - "Eddie Guerrero"
 empresa: "WWE"
-programa: "WrestleMania XX"
+programa: "No Way Out 2004 (15 feb 2004) — NO WrestleMania XX; fecha/slug pendientes de renombre"
 fecha: 2004-03-14
-ciudad: "New York, NY"
-recinto: "Madison Square Garden"
+ciudad: "Daly City, CA [verif — no consta en las fuentes del barrido]"
+recinto: "Cow Palace [verif — no consta en las fuentes del barrido]"
 tipo_match: "singles — WWE Championship match (Brock defendiendo, Eddie challenging)"
 estipulacion: "WWE Championship — Brock defendiendo"
 duracion: ""
-finish: "[verif] — Eddie wins via Frog Splash + Brock chair distraction"
-ganador: "Eddie Guerrero"
+finish: "Eddie gana por pinfall con Frog Splash tras spear de Goldberg (interferencia) a Lesnar"
+ganador: "Eddie Guerrero (nuevo WWE Champion)"
 referee: ""
-attendance_anunciada: "20,000+"
+attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
 buy_rate: ""
@@ -24,19 +24,21 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster SmackDown 2002 cross-link + linaje Eddie"
   - "Múltiples retrospectivas + Cheating Death, Stealing Life autobiografía Eddie 2005"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, prowrestling.fandom, wrestletalk); WebFetch bloqueado por egress"
-tags: [wwe-2004, wrestlemania-xx, brock-lesnar, eddie-guerrero, wwe-championship-coronation, eddie-cumbre-carrera, msg, mexican-american-champion-historic, post-build-2002-payoff, brock-departure-foretold]
+tags: [wwe-2004, no-way-out-2004, brock-lesnar, eddie-guerrero, wwe-championship-coronation, eddie-cumbre-carrera, mexican-american-champion-historic, post-build-2002-payoff, brock-departure-foretold]
 ---
 
-# Brock Lesnar vs Eddie Guerrero — WWE Championship — WrestleMania XX (14 mar 2004)
+# Brock Lesnar vs Eddie Guerrero — WWE Championship — No Way Out 2004 (15 feb 2004)
 
 > **Coronación cumbre de la carrera Eddie Guerrero**. WWE
-> Championship coronation en MSG WrestleMania XX, 18 meses
-> post-build remoto SmackDown 7 nov 2002. Pieza editorial
+> Championship coronation en **No Way Out 2004 (15 feb 2004)**,
+> 15 meses post-build remoto SmackDown 7 nov 2002 — Frog Splash
+> tras spear de Goldberg a Lesnar. En WrestleMania XX Eddie
+> **retiene** ante Kurt Angle y Brock pierde ante Goldberg. Pieza editorial
 > **anchor obligatoria** del proyecto Vehemiurgia +
 > cluster SmackDown 2002 saga.
 
@@ -47,36 +49,31 @@ tags: [wwe-2004, wrestlemania-xx, brock-lesnar, eddie-guerrero, wwe-championship
   ([`./2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md`](./2002-11-07-brock-lesnar-vs-eddie-guerrero-wwe-smackdown.md)).
 - **2003**: Eddie reign US Champion + Cruiserweight + tag con
   Chavo (Los Guerreros) — consolidación contender main event.
-- **No Way Out 2004 (15 feb 2004)**: **Eddie gana WWE
-  Championship #1 contender** vs Brock Lesnar. Build directo a
-  WMXX.
-- **WrestleMania XX 14 mar 2004** *(este match)*: la
-  coronación.
+- **No Way Out 2004 (15 feb 2004)** *(este match)*: **Eddie
+  gana el WWE Championship** vs Brock Lesnar — Goldberg
+  interfiere con spear, Eddie cierra con Frog Splash.
+- **WrestleMania XX 14 mar 2004**: Eddie retiene vs Kurt Angle
+  (21:32); Brock pierde vs Goldberg (Austin referee especial,
+  13:43).
 
 ## Significancia editorial
 
-- **Eddie corona WWE Champion en MSG WrestleMania**:
+- **Eddie corona WWE Champion en No Way Out 2004**:
   **moment más editorialmente cargado de la carrera Eddie** y
   **uno de los moments más editorialmente significativos del
-  WWE moderno**. Hispanic Heritage cumbre + **Best Friends Win
-  Big** (Chris Benoit también gana World Heavyweight Title misma
-  noche, dos best friends celebrating con title al final del
-  show — cierre emocional MSG).
+  WWE moderno**. Hispanic Heritage cumbre. El **Best Friends Win
+  Big** (Benoit gana el World Heavyweight Title, celebración en
+  MSG) ocurre un mes después en WrestleMania XX, con Eddie ya
+  campeón tras retener ante Angle.
 - **Booking carny ortodoxo aplicado al underdog babyface
   storyline**: Eddie es David vs Brock Goliath, gana via
-  resourcefulness *"lying, cheating, stealing"* (chair
-  distraction al ref + Frog Splash). **Carny puro old-school**
+  la interferencia de Goldberg (spear a Brock) + Frog Splash. **Carny puro old-school**
   — el babyface gana porque **outsmarts el monster**, no por
   superior physicality.
-- **Brock Lesnar departure foretold**: Brock departure WWE
-  post-WMXX ya estaba decidido backstage pre-show. Brock
-  pasa over a Eddie como **última act WWE primer run**
-  (Brock no vuelve hasta abr 2012, 8 años hiatus). Carny
-  ortodoxo: leyenda saliendo pasa over al ascendente.
-- **MSG escenario máximo + WrestleMania**: **legitimación
-  máxima** de la coronación. Eddie + Benoit + Mick Foley
-  (referee SmackDown previo) abrazo final = **moment
-  emocional más cargado WrestleMania moderno**.
+- **Brock Lesnar departure foretold**: Brock pasa over a Eddie
+  un mes antes de su salida post-WMXX (su última lucha del
+  primer run es vs Goldberg en WMXX; no vuelve hasta abr 2012).
+  Carny ortodoxo: el que sale pasa over al ascendente.
 
 ## Lectura del Vehemiurgo
 
@@ -90,6 +87,24 @@ la combinación de spectacle + storytelling carny + intensity.
 **Pieza editorial al horno**: columna sobre *"WrestleMania XX
 2004 Eddie Guerrero coronation como ejemplo paradigmático de
 booking carny ortodoxo aplicado al talent latino"*.
+
+## Corrección (2026-10-06)
+
+- **Show y fecha**: el cambio de título Brock → Eddie **no ocurrió en
+  WrestleMania XX (14 mar 2004)** sino en **No Way Out 2004 (15 feb
+  2004)**. En WMXX hubo Eddie vs Kurt Angle (Eddie retiene, 21:32) y
+  Goldberg vs Brock Lesnar (Austin referee especial, 13:43). WMXX era
+  inferencia del archivo (síntesis de batch), no dictado verbatim.
+- **Finish**: de *Frog Splash + chair distraction* a **Frog Splash tras
+  spear de Goldberg** a Lesnar.
+- `programa`, H1, lead, storyline y significancia ajustados;
+  `attendance_anunciada` (20,000+, cifra de WMXX/MSG) vaciado.
+  `ciudad`/`recinto` (Cow Palace, Daly City) cargados con `[verif]`:
+  no constan en las fuentes del barrido.
+- `fecha` y slug **no** se tocan: ficha listada para **RENOMBRAR** a
+  `2004-02-15-brock-lesnar-vs-eddie-guerrero-wwe-no-way-out`.
+- Fuente: Wikipedia + prowrestling.fandom + WrestleTalk (vía snippets,
+  research barrido-datos-duros-2026-10).
 
 ## Pendientes / huecos
 
@@ -107,7 +122,7 @@ booking carny ortodoxo aplicado al talent latino"*.
       final MSG (complicación editorial post-2007 Benoit
       tragedia).
 - [ ] **Asignación de clase del Vehemiurgo** (anchor pieza).
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra Brock vs Eddie por el WWE Championship en WrestleMania XX (14 mar 2004); las fuentes dan en WMXX **Eddie Guerrero vs Kurt Angle** (Eddie retiene, 21:32) y **Goldberg vs Brock Lesnar** (Austin referee especial, 13:43); el cambio de título Brock→Eddie fue en **No Way Out 2004 (15 feb 2004)**, con spear de Goldberg + Frog Splash (Wikipedia/fandom/WrestleTalk vía snippets). Revisar show y fecha de la ficha.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: el título cambió de manos en No Way Out 2004 (15 feb 2004), no en WMXX; finish con spear de Goldberg + Frog Splash; fecha/slug pendientes de renombre. Nota original: la ficha registra Brock vs Eddie por el WWE Championship en WrestleMania XX (14 mar 2004); las fuentes dan en WMXX **Eddie Guerrero vs Kurt Angle** (Eddie retiene, 21:32) y **Goldberg vs Brock Lesnar** (Austin referee especial, 13:43); el cambio de título Brock→Eddie fue en **No Way Out 2004 (15 feb 2004)**, con spear de Goldberg + Frog Splash (Wikipedia/fandom/WrestleTalk vía snippets). Revisar show y fecha de la ficha.
 
 ## Piezas relacionadas
 

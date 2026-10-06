@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lash-legend
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s50 (visión directa — WWE SmackDown, 22/5/2026)"
   - "Menciones previas en la lista personal (5 apariciones registradas: vs Charlotte Flair 26/12/2025, triple threat con Chelsea Green y Tiffany Stratton 06/02/2026, four-way con Nia Jax/Rhea/Iyo 27/02/2026, entre otras)"
@@ -177,6 +177,13 @@ se merecen las 3 clases"*.
 
 **Pieza de la sesión**:
 [Stratton vs Jax](../matches/2026-09-04-tiffany-stratton-vs-nia-jax-wwe-smackdown.md) (ICC, mención)
+
+### Sesión 2026-10-06 s01 — El paquete completo (SmackDown 25/9)
+
+- **Promo con Nia Jax** (SmackDown 25/9): *"muy buen booking para Lash que es el paquete completo ahora mismo"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-25-nia-jax-lash-legend-promo-wwe-smackdown.md`](../segments/2026-09-25-nia-jax-lash-legend-promo-wwe-smackdown.md)
+- **Vs Charlotte Flair vs Giulia (clasifica a MITB)** (SmackDown 25/9): *"buen showcase para Lash, la única con stakes con proyección, la más completa de estas 3"*. Clase: **Feeling Crown** (FS·WE). Ficha: [`../matches/2026-09-25-lash-legend-vs-charlotte-flair-vs-giulia-mitb-qualifier-wwe-smackdown.md`](../matches/2026-09-25-lash-legend-vs-charlotte-flair-vs-giulia-mitb-qualifier-wwe-smackdown.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

@@ -69,4 +69,4 @@ tags: [mason-rook, tony-dangelo, wwe-nxt-2026, wrestling-entertainment, clase-pa
 
 - [`../people/mason-rook.md`](../people/mason-rook.md) ·
   [`../people/tony-dangelo.md`](../people/tony-dangelo.md)
-- [`../matches/2026-05-05-mason-rook-debut-wwe-nxt.md`](../matches/2026-05-05-mason-rook-debut-wwe-nxt.md)
+- [`../segments/2026-05-05-mason-rook-debut-ataque-dangelo-heights-wwe-nxt.md`](../segments/2026-05-05-mason-rook-debut-ataque-dangelo-heights-wwe-nxt.md)

@@ -1,7 +1,7 @@
 ---
-match: "The Rep vs Scarlet and Graves vs oVe vs Alex Reynolds & Matt Palmer"
+match: "The Rep vs Scarlet and Graves vs oVe vs Alex Reynolds & Dan Barry"
 slug: "2017-12-09-tag-titles-4-way-the-rep-gana-czw-cage-of-death-19"
-participantes: ["Nate Carter", "David McCall", "Dezmond Xavier", "Zachary Wentz", "Dave Crist", "Jake Crist", "Alex Reynolds", "Matt Palmer"]
+participantes: ["Nate Carter", "David McCall", "Dezmond Xavier", "Zachary Wentz", "Dave Crist", "Jake Crist", "Alex Reynolds", "Dan Barry"]
 empresa: "CZW"
 programa: "Cage of Death 19"
 fecha: 2017-12-09
@@ -22,7 +22,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buen showcase de talentos; increíble para Scarlet & Graves que vuelven de tour en el peak de su estilo, y la coronación de The Rep con satisfacción del booking; se merece la FS y WE class"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s26 (VISIONADO DIRECTO — VEHEMIURGIA: CZW 2017-2018, Cage of Death 19)"
   - "Sub-agente czw-noi-cod19 (research 2026-08-01) — participantes, duración y linaje del título"
@@ -36,10 +36,11 @@ tags: [czw-2017, cage-of-death-19, the-rep, nate-carter, dave-mccall, scarlet-an
 > Rep** y el último match de Scarlet and Graves como campeones tras
 > casi un año de reinado.
 
-**Corrección de research**: el Vehemiurgo dictó el cuarto equipo como
-*"Reynolds & Dan Barry"*. El card publicado registra a **Alex Reynolds
-& Matt Palmer** — Reynolds ya separado de John Silver tras su turn en
-Night of Infamy. El verbatim se preserva; el registro usa el card real.
+**Cuarto equipo**: **Alex Reynolds & Dan Barry**, como dictó el
+Vehemiurgo — Reynolds ya separado de John Silver tras su turn en
+Night of Infamy. (Una "corrección de research" previa lo había
+cambiado a Matt Palmer; quedó revertida el 2026-10-06, ver
+Corrección.)
 
 ## Lectura del Vehemiurgo
 
@@ -82,11 +83,23 @@ Night of Infamy. El verbatim se preserva; el registro usa el card real.
 
 - **Fin del reinado de Scarlet and Graves**: campeones desde el
   **10/12/2016** (a EYFBO). Casi exactamente un año.
-- **Continuidad del turn**: Alex Reynolds llega con **Matt Palmer**,
+- **Continuidad del turn**: Alex Reynolds llega con **Dan Barry**,
   no con John Silver — el split de los Beaver Boys se ejecutó un mes
   antes en Night of Infamy, cuando Reynolds se reveló como uno de los
   enmascarados de Joe Gacy.
 - **The Rep cierra 2017 como campeón de tag** de la casa.
+
+## Corrección (2026-10-06)
+
+- **Cuarto equipo restaurado al dictado**: de *Alex Reynolds & Matt
+  Palmer* (corrección de research previa, s26) a **Alex Reynolds & Dan
+  Barry**, como dictó el Vehemiurgo. El dictado es verdad de tablas y
+  la fuente agregada del barrido (resultados de card profightdb /
+  Cagematch vía WebSearch) coincide con él; la "corrección" previa no
+  tenía respaldo superior. `match`, `participantes`, nota de lead y
+  contexto de booking ajustados.
+- Fuente: dictado del Vehemiurgo 2026-08-01 s26 + profightdb/Cagematch
+  agregados (vía WebSearch, research barrido-datos-duros-2026-10).
 
 ## Pendientes / huecos
 
@@ -94,7 +107,7 @@ Night of Infamy. El verbatim se preserva; el registro usa el card real.
       detalle del cover; solo se confirma el resultado general).
 - [ ] Confirmar el *pop-up Flatliner* como movimiento del finish (dato
       de visionado directo, no cruzado con reporte).
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra una
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: cuarto equipo restaurado al dictado: Alex Reynolds & Dan Barry (la fuente agregada coincide; se revierte la corrección previa a Matt Palmer). Nota original: la ficha registra una
       "corrección de research" que da el cuarto equipo como Alex
       Reynolds & Matt Palmer; una fuente agregada vía WebSearch
       (resultados de card, profightdb/cagematch) lo da como Alex

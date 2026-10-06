@@ -5,11 +5,11 @@ participantes:
   - "Bret 'The Hitman' Hart"
   - "The Mountie (Jacques Rougeau)"
 empresa: "WWF"
-programa: "TV taping / live event Saskatoon"
+programa: "WWF TV taping (*Survivor Series Showdown*) — dark match"
 fecha: 1992-10-26
-ciudad: "Saskatoon, Saskatchewan, Canada"
-recinto: "[verif]"
-tipo_match: "singles — WWF Championship match"
+ciudad: "Springfield, IL, USA"
+recinto: "Prairie Capitol Convention Center"
+tipo_match: "singles — WWF Championship match (dark match de TV taping)"
 estipulacion: "WWF Championship"
 duracion: ""
 finish: "[verif] — Bret retains (Sharpshooter)"
@@ -23,7 +23,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sec. 5 'Bret Hart deep cuts — carny tradition'"
@@ -35,7 +35,8 @@ tags: [wwf-1992, bret-hart, the-mountie, jacques-rougeau, wwf-championship-defen
 
 > **Bret deep cut** identificado en sec. 5 del notebook
 > *"Bret Hart deep cuts — carny tradition"*. WWF Title defense
-> en Saskatchewan Canada vs The Mountie (Jacques Rougeau).
+> en dark match del TV taping de Springfield, IL (Prairie
+> Capitol Convention Center) vs The Mountie (Jacques Rougeau).
 > Pieza del periodo Bret recién coronado WWF Champion (post
 > oct 1992 win vs Ric Flair).
 
@@ -51,8 +52,9 @@ tags: [wwf-1992, bret-hart, the-mountie, jacques-rougeau, wwf-championship-defen
 
 ## Significancia editorial
 
-- **Defensa territorial puro**: Saskatchewan Canada hosting
-  Canadian babyface Bret + Canadian heel Mountie. Choque
+- **Defensa de campeón recién coronado ante público americano**
+  (Springfield, IL; dark match de taping): Canadian babyface
+  Bret + Canadian heel Mountie. Choque
   *babyface canadiense puro* (Bret Hart, Hart Foundation
   family legend) vs *heel canadiense carácter* (Mountie,
   gimmick-character heel). **Booking carny ortodoxo aplicado
@@ -70,18 +72,22 @@ tags: [wwf-1992, bret-hart, the-mountie, jacques-rougeau, wwf-championship-defen
 
 (Pendiente verbatim.)
 
+## Corrección (2026-10-06)
+
+- **Ciudad / recinto / programa**: `ciudad` pasa de *Saskatoon,
+  Saskatchewan, Canada* a **Springfield, IL**; `recinto` de `[verif]`
+  a **Prairie Capitol Convention Center**; `programa` pasa a **WWF TV
+  taping de *Survivor Series Showdown* — dark match**. Saskatoon era
+  inferencia del archivo (cruce con la coronación de Bret del 12 oct
+  1992 en Saskatoon), no dictado: el Vehemiurgo solo dictó la fecha
+  26.10.1992, que se mantiene.
+- Fuente: IMDb + thehistoryofwwe.com (vía snippets, research
+  barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
-- [ ] Finish + duración exactos — nota (research 2026-10-05):
-      las fuentes consultadas ubican un WWF Title dark match
-      Bret Hart vs The Mountie el 26 oct 1992 en el Prairie
-      Capitol Convention Center, Springfield, IL (TV taping de
-      Survivor Series Showdown), lo que **contradice** la ciudad
-      ya registrada en esta ficha (Saskatoon, Saskatchewan). No
-      se modifica `ciudad` por no ser placeholder de este lote —
-      **Discrepancia (research 2026-10-05)**: verificar Saskatoon
-      vs Springfield IL contra fuente primaria antes de tocar el
-      campo.
+- [ ] Finish + duración exactos.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: ciudad corregida a Springfield, IL (Prairie Capitol Convention Center, dark match del taping de Survivor Series Showdown); Saskatoon era inferencia del archivo. Nota original: las fuentes ubicaban el WWF Title dark match Bret vs Mountie del 26 oct 1992 en Springfield, IL, contra el Saskatoon registrado.
 - [ ] **Verificar fecha exacta** (notebook dice 26.10.1992).
 - [ ] Cobertura WWF Magazine + WON nov 1992 (Bret early
       reign coverage).

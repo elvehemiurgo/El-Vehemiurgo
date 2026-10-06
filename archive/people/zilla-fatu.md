@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: zilla-fatu
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026, debut)"
   - "Sub-agente nxt-110826 (research 2026-08-01)"
@@ -177,6 +177,12 @@ para el análisis completo.
 **Piezas de la sesión**:
 [vs Tristan Angels](../matches/2026-09-01-zilla-fatu-vs-tristan-angels-nxt.md) (**ICC**) ·
 [BirthRight lo rodea](../segments/2026-09-01-birthright-rodea-a-zilla-fatu-nxt.md) (sin clase)
+
+### Sesión 2026-10-06 s01 — Tiene que despertar (NXT 22/9)
+
+- **Six-man vs Birthright** (NXT 22/9): *"a Zilla le está costando armar solo un acto tipo Montana o Waller, pero está a tiempo de destacar"*. Clase: **Wrestling Entertainment**. Ficha: [`../matches/2026-09-22-birthright-vs-zilla-fatu-sean-legacy-dorian-van-dux-nxt.md`](../matches/2026-09-22-birthright-vs-zilla-fatu-sean-legacy-dorian-van-dux-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

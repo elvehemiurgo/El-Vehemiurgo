@@ -27,7 +27,7 @@ tags: [lyra-valkyria, wwe-raw-2026, reserva-mid, primer-registro-individual]
 - **27/4/2026 (WWE Raw)** — con Bayley vs Liv Morgan, Roxanne
   Perez y Raquel Rodríguez: sin clase para la generalidad del
   match, Wrestling Entertainment solo en los minutos finales.
-  ([→](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)).
+  ([→](../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -52,7 +52,7 @@ rivales de mayor nivel.
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
+- [`../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
 
 ## Cross-links
 

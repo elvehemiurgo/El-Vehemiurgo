@@ -7,8 +7,8 @@ programa: "SmackDown"
 fecha: 2026-05-08
 ciudad: "Jacksonville, Florida"
 recinto: "VyStar Veterans Memorial Arena"
-tipo_match: "singles — alrededor del título US"
-estipulacion: "no title directo, pero centrada en la campeona US"
+tipo_match: "singles — title match"
+estipulacion: "WWE Women's United States Championship — defensa de Tiffany Stratton"
 duracion: "8:02 [una fuente]"
 finish: "Prettiest Moonsault Ever de Tiffany Stratton"
 ganador: "Tiffany Stratton (retiene)"
@@ -18,7 +18,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'se merece el fighting spirit [...] merece el enterteinment class tambien'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
@@ -27,7 +27,8 @@ tags: [kiana-james, tiffany-stratton, wwe-smackdown-2026, singles, fighting-spir
 
 # Kiana James vs Tiffany Stratton — WWE SmackDown (8 may 2026)
 
-> **Fighting Spirit + Wrestling Entertainment**. Midcard "muy bien
+> **Fighting Spirit + Wrestling Entertainment**. Defensa del WWE
+> Women's United States Championship — midcard "muy bien
 > nutrido" alrededor de la campeona US — Kiana luchando "como si
 > fuera su última oportunidad en la vida".
 
@@ -69,13 +70,19 @@ tags: [kiana-james, tiffany-stratton, wwe-smackdown-2026, singles, fighting-spir
    [`../people/giulia.md`](../people/giulia.md),
    [`../people/chelsea-green.md`](../people/chelsea-green.md).
 
+## Corrección (2026-10-06)
+
+- `estipulacion`: de "no title directo" a **defensa del WWE Women's
+  United States Championship**; Tiffany Stratton retiene
+  (prowrestling.fandom, prowrestling.net, wrestleview).
+
 ## Pendientes
 
 - [x] ~~Identificar "KLR"~~ → **RESUELTO (s44)**: KLR = Kay Lee
       Ray = **Alba Fyre** (misma persona; sigla de su ring name
       previo). Fuera del roster según el dictado.
 - [x] Finish/duración/ciudad/recinto. → Prettiest Moonsault Ever; 8:02 [una fuente]; VyStar Veterans Memorial Arena, Jacksonville (prowrestling.fandom, Solowrestling, wrestleview)
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `estipulacion` "no title directo" vs las fuentes: fue defensa del **WWE Women's United States Championship**, Tiffany Stratton retiene (prowrestling.fandom, prowrestling.net, wrestleview).
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: corregido a defensa del Women's US Championship. Nota original: la ficha registra `estipulacion` "no title directo" vs las fuentes: fue defensa del **WWE Women's United States Championship**, Tiffany Stratton retiene (prowrestling.fandom, prowrestling.net, wrestleview).
 
 ## Cross-links
 

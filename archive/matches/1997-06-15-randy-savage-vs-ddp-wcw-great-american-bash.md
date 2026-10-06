@@ -9,11 +9,11 @@ programa: "The Great American Bash 1997"
 fecha: 1997-06-15
 ciudad: "Moline, IL"
 recinto: "The Mark"
-tipo_match: "singles — feud blow-off (Kimberly Page storyline)"
-estipulacion: "[verif]"
+tipo_match: "singles — Falls Count Anywhere (Kimberly Page storyline)"
+estipulacion: "Falls Count Anywhere"
 duracion: "16:56"
-finish: "[verif] — DDP wins"
-ganador: "DDP"
+finish: "Savage gana por pinfall con flying elbow drop, tras Diamond Cutter de DDP y Outsider's Edge de Scott Hall (interferencia nWo)"
+ganador: "Randy Savage"
 referee: ""
 attendance_anunciada: "9,326"
 attendance_pagada: ""
@@ -25,7 +25,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo, lista personal (2026-05-09)"
   - "Sec. Hipótesis Wrestling Entertainment Class del notebook lo cita como candidato"
@@ -35,8 +35,11 @@ tags: [wcw-1997, great-american-bash-1997, randy-savage, ddp, kimberly-page-stor
 
 # Randy Savage vs DDP — WCW Great American Bash (15 jun 1997)
 
-> **Match de graduación de DDP** post construcción del feud
-> con Savage centrado en la storyline Kimberly Page. Carny puro
+> **Rematch Falls Count Anywhere** del feud DDP-Savage
+> (DDP había ganado el primer match en Spring Stampede 1997):
+> esta vez **gana Savage** con flying elbow drop tras la
+> interferencia de Scott Hall (Outsider's Edge). Storyline
+> Kimberly Page. Carny puro
 > old-school: marido defendiendo a esposa de heel manipulador.
 > **Identificado por el Vehemiurgo como candidato Wrestling
 > Entertainment Class** en sec. *Hipótesis Wrestling
@@ -53,7 +56,9 @@ tags: [wcw-1997, great-american-bash-1997, randy-savage, ddp, kimberly-page-stor
 - **Build 1996-1997**: Savage acosa a Kimberly, DDP defiende,
   feud escala. Pieces en backstage segments + en-ring promos +
   vignettes vintage.
-- **Great American Bash 1997** *(este match)*: blow-off.
+- **Spring Stampede 1997**: primer match, gana DDP.
+- **Great American Bash 1997** *(este match)*: rematch Falls Count
+  Anywhere — gana Savage con ayuda nWo (Scott Hall).
 
 ## Significancia editorial
 
@@ -83,11 +88,22 @@ tags: [wcw-1997, great-american-bash-1997, randy-savage, ddp, kimberly-page-stor
 Wrestling Entertainment Class*** del notebook como candidato
 canónico.)
 
+## Corrección (2026-10-06)
+
+- **Ganador**: de *DDP* a **Randy Savage**.
+- **Estipulación**: de `[verif]` a **Falls Count Anywhere**.
+- **Finish**: DDP conecta Diamond Cutter, Scott Hall interfiere con
+  Outsider's Edge y Savage cierra con flying elbow drop.
+- El "DDP wins" registrado era cruce con **Spring Stampede 1997**,
+  donde DDP sí gana el primer match del feud.
+- Fuente: Wikipedia *The Great American Bash (1997)* + bwwe /
+  wrestlepedia fandom (vía snippets, research barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
 - [x] Duración. → 16:56 (Wikipedia *The Great American Bash (1997)* + fandom wikis, vía snippets)
 - [ ] Finish exacto — ver discrepancia.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha da ganador **DDP**; las fuentes dan **Randy Savage** ganador en **Falls Count Anywhere**: DDP conecta Diamond Cutter, Scott Hall interfiere con Outsider's Edge y Savage cierra con flying elbow drop (Wikipedia *GAB 1997* + bwwe/wrestlepedia fandom, vía snippets). DDP gana el primer match en Spring Stampede 1997 — posible cruce de los dos PPV.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: ganador corregido a Randy Savage (Falls Count Anywhere, flying elbow tras Outsider's Edge de Scott Hall); el triunfo de DDP corresponde a Spring Stampede 1997. Nota original: la ficha da ganador **DDP**; las fuentes dan **Randy Savage** ganador en **Falls Count Anywhere**: DDP conecta Diamond Cutter, Scott Hall interfiere con Outsider's Edge y Savage cierra con flying elbow drop (Wikipedia *GAB 1997* + bwwe/wrestlepedia fandom, vía snippets). DDP gana el primer match en Spring Stampede 1997 — posible cruce de los dos PPV.
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Buyrate Great American Bash 1997**.
 - [ ] Cobertura Cornette / Conrad Thompson *Something to

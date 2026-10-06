@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: pac
 estado: fallecido
-ultima_actualizacion: 2026-10-02
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s14 (visión directa — AEW Collision Fairway to Hell, 9/5/2026)"
   - "Volcado Vehemiurgo 2026-10-01 s01 (PAC vs Ace Austin, Dynamite 23/9 — registro del fallecimiento)"
@@ -150,6 +150,13 @@ alto nivel en singles de peso. Ver
 
 ### Sesión 2026-10-02 s01 — Su última lucha: vs Andrade (ICC+)
 - `2026 09 26 AEW All Out`, opener, National Championship, **ICC+**: *"muy loco todo el contexto, lucha increíble"*. Andrade revierte el Brutalizer en un roll-up. Falleció al día siguiente. [Ficha](../matches/2026-09-26-andrade-vs-pac-national-aew-all-out.md).
+
+### Sesión 2026-10-06 s01 — La noche tributo (Dynamite 30/9)
+
+- **Video tributo** (Dynamite 30/9): *"el tributo a PAC estuvo increible, este promo video se merece una WE+"*. Clase: **Wrestling Entertainment+**. Ficha: [`../segments/2026-09-30-video-tributo-pac-aew-dynamite.md`](../segments/2026-09-30-video-tributo-pac-aew-dynamite.md)
+- **Ospreay vs Ricochet, finish con el Black Arrow** (Dynamite 30/9): *"para mi es una lucha perfecta"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-30-will-ospreay-vs-ricochet-aew-dynamite.md`](../matches/2026-09-30-will-ospreay-vs-ricochet-aew-dynamite.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

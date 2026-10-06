@@ -63,7 +63,7 @@ en el mismo match.
 
 **Lectura sintética**: segundo Perfect Match consecutivo contra
 The Dogs. Ver
-[`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md).
+[`../matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md`](../matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md).
 
 ### Sesión 2026-07-14 s46 — Promo video de Redemption + alianza cruzada de Connors
 
@@ -73,7 +73,7 @@ Connors (Guns) hace equipo puntual con David Finlay (Dogs) contra
 Jay White & Juice Robinson. Ver
 [`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md)
 y
-[`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+[`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md).
 
 ## Pendientes / huecos
 

@@ -49,7 +49,7 @@ independiente.
 
 ## Discrepancias registradas
 
-1. **Lote 19** — `archive/matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`:
+1. **Lote 19** — `archive/matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`:
    la ficha (nombre de archivo y `estipulacion`) registra la
    estipulación como **"dog collar match"**; múltiples coberturas
    (Wrestling Inc., Wrestleview, PWTorch, ProWrestling.net) la

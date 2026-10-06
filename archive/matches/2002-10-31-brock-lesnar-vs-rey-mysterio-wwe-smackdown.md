@@ -12,8 +12,8 @@ recinto: "Van Andel Arena [una fuente]"
 tipo_match: "singles — David vs Goliath puro (WWE Championship match)"
 estipulacion: "[verif] — likely non-title pero con Brock como WWE Champion vigente"
 duracion: "~4:00 [una fuente]"
-finish: "DQ por interferencia: Big Show irrumpe y lanza a Rey al público (press slam); luego chokeslam de Show a Lesnar sobre la mesa de comentarios"
-ganador: "Brock Lesnar"
+finish: "Rey Mysterio gana por DQ por interferencia: Big Show irrumpe y lanza a Rey al público (press slam); luego chokeslam de Show a Lesnar sobre la mesa de comentarios"
+ganador: "Rey Mysterio (por DQ)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -23,7 +23,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wrestlingrecaps, handwerkreviews, blogofdoom); WebFetch bloqueado por egress"
@@ -34,7 +34,8 @@ tags: [wwe-2002, smackdown-oct-2002, brock-lesnar, rey-mysterio, david-vs-goliat
 
 > **David vs Goliath puro en TV semanal**. Brock como WWE
 > Champion monstruo, Rey Mysterio como cruiserweight más
-> pequeño del roster. Match icónico del cluster — la oposición
+> pequeño del roster. **Rey gana por DQ** cuando Big Show
+> irrumpe y lo lanza al público. Match icónico del cluster — la oposición
 > de tamaño llevada al extremo absoluto. Pieza centerpiece del
 > cluster en
 > [`../../dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md`](../../dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md).
@@ -79,6 +80,15 @@ workrate. Posible multi-clase con **Fighting Spirit Class** si
 la performance de Rey vendiendo el dominio sostiene el peso
 emocional.
 
+## Corrección (2026-10-06)
+
+- **Ganador**: de *Brock Lesnar* a **Rey Mysterio por DQ**, tras la
+  interferencia de Big Show (press slam de Rey al público, luego
+  chokeslam a Lesnar sobre la mesa de comentarios). El `finish` ya
+  registraba la DQ; el ganador quedaba contradictorio.
+- Fuente: wrestlingrecaps + Handwerk Reviews (vía snippets, research
+  barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
 - [x] Finish + duración exactos. → final por DQ con interferencia de Big Show, ~4 min (wrestlingrecaps + Handwerk + Blog of Doom vía snippets).
@@ -90,7 +100,7 @@ emocional.
 - [ ] Verbatim Heyman + Brock (probable múltiples
       retrospectivas) sobre el cluster Brock-SmackDown 2002.
 - [ ] **Asignación de clase del Vehemiurgo**.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra ganador **Brock Lesnar**; las fuentes dan **Rey Mysterio por DQ** tras la interferencia de Big Show (wrestlingrecaps/Handwerk vía snippets).
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: ganador corregido a Rey Mysterio por DQ (interferencia de Big Show). Nota original: la ficha registra ganador **Brock Lesnar**; las fuentes dan **Rey Mysterio por DQ** tras la interferencia de Big Show (wrestlingrecaps/Handwerk vía snippets).
 
 ## Piezas relacionadas
 

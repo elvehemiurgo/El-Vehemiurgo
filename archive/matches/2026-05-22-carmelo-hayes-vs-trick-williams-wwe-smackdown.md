@@ -8,17 +8,17 @@ fecha: 2026-05-22
 ciudad: "Lexington, Kentucky"
 recinto: "Rupp Arena"
 tipo_match: "singles"
-estipulacion: "standard"
+estipulacion: "standard (research previo) / WWE United States Championship — defensa de Trick Williams según titular de POST Wrestling [una fuente]"
 duracion: "13:20"
 finish: "Trick Shot de Trick Williams, pinfall, tras dos distracciones de Ricky Saints a Hayes"
-ganador: "Trick Williams (w/ Lil Yachty)"
+ganador: "Trick Williams (w/ Lil Yachty) — retiene si fue title match (ver estipulacion)"
 referee: "[verif]"
 encuentros_previos: "[verif]"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Fighting Spirit + Wrestling Entertainment — 'Melo vs Trick merece un fighting spirit class y el enterteinment class'"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s51 (visión directa — WWE SmackDown, 22/5/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, POST Wrestling, Last Word on Sports, WWE.com, PWMania); WebFetch bloqueado por egress"
@@ -62,12 +62,21 @@ Saints (15/5, s48) y de la racha consecutiva de clases de Trick
 Williams desde su debut individual en el archivo (s41-s43). Ver
 [`../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md`](../matches/2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md).
 
+## Corrección (2026-10-06)
+
+- `estipulacion`: conflicto sin desempate. Trick Williams era campeón
+  US (WWE.com, POST Wrestling) y el titular de POST Wrestling
+  (*"Trick Williams and Tiffany Stratton defend titles"*) sugiere
+  defensa ante Hayes, pero es una sola fuente y por titular; el
+  research previo lo registraba sin título. Se conservan ambas
+  versiones en el campo.
+
 ## Pendientes
 
 - [x] Finish exacto + duración. → Trick Shot tras dos distracciones de Ricky Saints; 13:20 (Cagematch, Last Word on Sports)
 - [x] Recinto + ciudad. → Lexington, Kentucky / Rupp Arena (Cagematch/PWMania)
 - [x] Estado exacto del título US y quién lo detenta — [verif]. → Trick Williams, campeón de Estados Unidos (WWE.com, POST Wrestling)
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `estipulacion: standard` vs titular de POST Wrestling (*"Trick Williams and Tiffany Stratton defend titles"*), que sugiere defensa del título US ante Hayes [una fuente].
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: `estipulacion` con ambas versiones (standard / defensa US según POST), sin desempate. Nota original: la ficha registra `estipulacion: standard` vs titular de POST Wrestling (*"Trick Williams and Tiffany Stratton defend titles"*), que sugiere defensa del título US ante Hayes [una fuente].
 
 ## Cross-links
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kelani-jordan
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 31/3/2026)"
 tags: [kelani-jordan, wwe-nxt-2026, heel-turn, wrestling-entertainment, primer-registro-individual]
@@ -135,7 +135,7 @@ por el título Speed — cuarto capítulo del expediente vs Wren
 Sinclair, con Kelani liderando el match como retadora "full main
 eventer" y proyección de carrera declarada hacia un futuro call-up
 de main roster. Ver
-[`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md)
+[`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md)
 y
 [`../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md`](../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md).
 
@@ -312,6 +312,13 @@ Victoria D'Errico. Ver
 **Pieza de la sesión**:
 [clasificatorio femenino al MITB](../matches/2026-09-14-lola-vice-vs-raquel-vs-kelani-jordan-mitb-qualifier-wwe-raw.md) (**FC**)
 
+### Sesión 2026-10-06 s01 — La MVP del tag (NXT 15/9 y 22/9)
+
+- **Careo con La Catalina y Zaria** (NXT 15/9): *"este reinado de Kelani deberìa ser icònico despues de tanta evoluciòn para ella"*. Clase: sin clase. Ficha: [`../segments/2026-09-15-careo-kelani-jordan-la-catalina-zaria-nxt.md`](../segments/2026-09-15-careo-kelani-jordan-la-catalina-zaria-nxt.md)
+- **Con Zaria vs La Catalina y Thea Hail** (NXT 22/9): *"como siempre la mvp es Kelany, entra con toda la actitud de top heel"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-22-la-catalina-thea-hail-vs-zaria-kelani-jordan-nxt.md`](../matches/2026-09-22-la-catalina-thea-hail-vs-zaria-kelani-jordan-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
@@ -323,7 +330,7 @@ Victoria D'Errico. Ver
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-06-09-kelani-jordan-vs-kendal-grey-wwe-nxt.md`](../matches/2026-06-09-kelani-jordan-vs-kendal-grey-wwe-nxt.md)
-- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md)
+- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md)
 - [`../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md`](../segments/2026-05-26-kelani-jordan-post-match-over-wwe-nxt.md)
 - [`../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md`](../matches/2026-05-12-kendal-grey-vs-kelani-jordan-wwe-nxt.md)
 - [`../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md`](../matches/2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md)

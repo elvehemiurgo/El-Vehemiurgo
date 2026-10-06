@@ -55,7 +55,7 @@ tags: [david-finlay, jay-white, the-guns, the-dogs, bang-bang-gang, war-dogs, ae
    [`../people/the-dogs.md`](../people/the-dogs.md), sesiones s19,
    s26, s29).
 3. Ver
-   [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+   [`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md).
 
 ## Pendientes
 

@@ -5,8 +5,8 @@ participantes: ["Will Ospreay", "Ace Austin"]
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-05-13
-ciudad: "North Charleston, SC / Asheville, NC según fuente [no confirmado — fuentes discrepan]"
-recinto: "North Charleston Coliseum / Harrah's Cherokee Center según fuente [no confirmado — fuentes discrepan]"
+ciudad: "North Charleston, SC / Asheville, NC según fuente"
+recinto: "North Charleston Coliseum / Harrah's Cherokee Center según fuente"
 tipo_match: "singles"
 estipulacion: "standard"
 duracion: "[verif]"
@@ -18,7 +18,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece las 3 clases — 'incluso cuando se tropezaban estaba buena la pelea, lo mantuvieron real'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s15 (visión directa — AEW Dynamite 13/5/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Yahoo Sports, Pro Wrestling Dot Net, Fightful); ciudad/recinto discrepante entre fuentes, duración y referee no confirmados; WebFetch bloqueado por egress"
@@ -56,11 +56,18 @@ tags: [will-ospreay, ace-austin, aew-dynamite-2026, singles, perfect-match, figh
    Vehemiurgo separa: el match funcionó igual, pero hay un consejo
    de estilo de fondo (menos spot-heavy moderno, más fundamentos).
 
+## Corrección (2026-10-06)
+
+- Ciudad/recinto del Dynamite del 13/5/2026: conflicto sin desempate
+  entre fuentes (North Charleston Coliseum, North Charleston, SC /
+  Harrah's Cherokee Center, Asheville, NC). Se conservan ambas
+  versiones en `ciudad` y `recinto`.
+
 ## Pendientes
 
 - [x] Finish → Ospreay gana por sumisión (Fujiwara Armbar tras
       Hidden Blade) (research 2026-10-05).
-- [ ] **Discrepancia (research 2026-10-05)**: ciudad/recinto sin
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: ciudad/recinto quedan con ambas versiones según fuente; duración/referee siguen como hueco [verif] en frontmatter, no como discrepancia. Nota original: ciudad/recinto sin
       confirmar — ver nota idéntica en la ficha de Darby vs
       Takeshita del mismo show. Duración y referee tampoco
       confirmados.

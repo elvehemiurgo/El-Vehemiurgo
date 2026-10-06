@@ -10,7 +10,7 @@ recinto: "Jim Whelan Boardwalk Hall"
 tipo_match: "singles"
 estipulacion: "AAA World Cruiserweight Championship"
 duracion: "8:54 [411mania, research 2026-10-05 — confirma el rango derivado ≈8:50-9:00]"
-finish: "Vikingo falla un springboard 450 splash; Fénix lo castiga en la esquina y remata con el Mexican Muscle Buster"
+finish: "Vikingo falla un springboard 450 splash; Fénix lo castiga en la esquina y remata con el Mexican Muscle Buster (research 2026-08-01) / Black Fire Driver — spinning sitout kinniku buster (411mania) según fuente"
 ganador: "Rey Fénix — retiene el título"
 referee: "[verif]"
 attendance_anunciada: ""
@@ -22,7 +22,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Medio protegieron a Vikingo con un ataque en NXT esa semana para que resista, pero el moveset de Vikingo es muy arriesgado, no siempre aterriza; se merece un FS y WE classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s08 (visión directa — SmackDown, 3/7/2026)"
   - "Sub-agente de research (2026-08-01, closed)"
@@ -48,15 +48,23 @@ tags: [wwe-2026, smackdown, rey-fenix, hijo-del-vikingo, aaa-cruiserweight-champ
 
 - **FS + WE.**
 - **CORRECCIÓN DE ARCHIVO IMPORTANTE**: el ataque en NXT (Keanu Carver golpeando a Vikingo con un tubo de plomo, cancelando su defensa del Latin American Championship) **no fue para protegerlo de cara a este match — cubría una lesión real de rodilla** (inflamación severa, luego cirugía confirmada). **La cronología de producción invierte la de emisión**: este match se grabó el **29/6**, el ataque se emitió el **30/6**, y salió al aire recién el **3/7**. En pantalla el ataque parece preceder al match; en la realidad, el match ya estaba en lata cuando Vikingo se lesionó. *"La protección es de emisión, no de trabajo"* — explica por qué desaparece después, no por qué aguanta el finish.
-- **Sobre el finish**: research describe un **450 splash fallado** de Vikingo y el **Mexican Muscle Buster** de Fénix como remate — no un frog splash como recuerda el dictado. Se registra la versión de research; el dictado queda preservado en la cita.
+- **Sobre el finish**: research describe un **450 splash fallado** de Vikingo y el **Mexican Muscle Buster** (o **Black Fire Driver** según 411mania) de Fénix como remate — no un frog splash como recuerda el dictado. Se registra la versión de research; el dictado queda preservado en la cita.
 - **Momento destacado**: poison rana desde la tercera cuerda de Vikingo con kickout de Fénix, cánticos de "this is awesome".
 - **Dato de contexto**: primera lucha singles 1-a-1 entre ambos en WWE; para Vikingo eran 294 días sin competir en la compañía.
+
+## Corrección (2026-10-06)
+
+- `finish`: conflicto de nomenclatura sin desempate — "Mexican
+  Muscle Buster" (research 2026-08-01) / "Black Fire Driver
+  (Spinning Sitout Kinniku Buster)" (411mania). Ambas describen un
+  muscle buster de Fénix y pueden ser el mismo movimiento con
+  distinto nombre; se conservan las dos en el campo.
 
 ## Pendientes / huecos
 
 - [ ] Verificar si hubo o no un frog splash — divergencia entre el dictado y el research, sin resolver contra video.
 - [x] Duración exacta → 8:54 (411mania, research 2026-10-05).
-- [ ] **Discrepancia (research 2026-10-05)**: 411mania describe el movimiento final como "Black Fire Driver (Spinning Sitout Kinniku Buster)", distinto del "Mexican Muscle Buster" que registra el research previo (2026-08-01). No se sobreescribe `finish` — ambas versiones quedan anotadas hasta verificar contra video.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: `finish` con ambas denominaciones (Mexican Muscle Buster / Black Fire Driver). Nota original: 411mania describe el movimiento final como "Black Fire Driver (Spinning Sitout Kinniku Buster)", distinto del "Mexican Muscle Buster" que registra el research previo (2026-08-01). No se sobreescribe `finish` — ambas versiones quedan anotadas hasta verificar contra video.
 
 ## Piezas relacionadas
 

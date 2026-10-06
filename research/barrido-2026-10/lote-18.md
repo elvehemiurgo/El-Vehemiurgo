@@ -25,7 +25,7 @@
 - archive/segments/2026-06-03-thekla-promo-vs-stardom-aew-dynamite.md :: frontmatter placeholders=['duracion', 'ciudad', 'recinto'] :: pendientes=['Duración + ubicación en el show.']
 
 ## 2026-06-06 | AEW | Collision
-- archive/matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish + duración + ciudad/recinto.']
+- archive/matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish + duración + ciudad/recinto.']
 - archive/matches/2026-06-06-persephone-vs-hazuki-aew-collision.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish + duración + ciudad/recinto.']
 - archive/segments/2026-06-06-ciampa-squash-amenaza-aew-collision.md :: frontmatter placeholders=['duracion', 'ciudad', 'recinto'] :: pendientes=[]
 - archive/segments/2026-06-06-persephone-entrada-aew-collision.md :: frontmatter placeholders=['duracion', 'ciudad', 'recinto'] :: pendientes=['Duración + ubicación en el show.']

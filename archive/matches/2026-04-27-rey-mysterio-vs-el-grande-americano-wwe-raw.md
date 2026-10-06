@@ -1,7 +1,7 @@
 ---
 match: "Rey Mysterio vs El Grande Americano"
 slug: "2026-04-27-rey-mysterio-vs-el-grande-americano-wwe-raw"
-participantes: ["Rey Mysterio", "El Grande Americano"]
+participantes: ["Rey Mysterio", "El Grande Americano", "Rayo (ringside)", "Bravo (ringside)", "\"Original\" El Grande Americano (interviene)"]
 empresa: "WWE"
 programa: "Raw"
 fecha: 2026-04-27
@@ -18,7 +18,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Perfect Match — 'esta lucha se merece las 3 clases'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — WWE Raw, 27/4/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wwe.com, prowrestling.fandom, fightful, prowrestling.net, solowrestling); WebFetch bloqueado por egress"
@@ -87,22 +87,36 @@ dictó (typo incluido, [sic]).
    reales)**: la estructura de dos personas es real. El gimmick de
    El Grande Americano fue creado por **Chad Gable** y **Ludwig
    Kaiser también lo ha portado** (precedente real desde 2025). En
-   este match, **Kaiser lucha bajo la máscara** mientras **Gable
-   interfiere/trampea desde afuera** — eso es lo que el dictado
-   describe. Ver
+   este match, **Kaiser lucha bajo la máscara**; las trampas vienen
+   de **Rayo y Bravo en ringside** (Bravo mete la placa de acero en
+   la máscara) y el **"Original" Grande Americano** llega para
+   frustrar el golpe (corrección 2026-10-06, ver abajo). Ver
    [`../people/ludwig-kaiser.md`](../people/ludwig-kaiser.md).
 3. **Lección de booking**: Mysterio gana, pero la distracción de
    la trampa de Kaiser es lo que le costó la victoria — "pudo
    derrotar a Mysterio si no se hubiera distraído".
 
+## Corrección (2026-10-06)
+
+- La ficha (s40/s44) atribuía las trampas a Gable interfiriendo
+  desde afuera. Según WWE.com y prowrestling.fandom: en ringside
+  estaban **Rayo y Bravo** (Bravo puso la placa de acero en la
+  máscara) y quien llega es el **"Original" Grande Americano**, que
+  frustra la trampa; Rey gana con 619 + springboard frogsplash.
+  Se agregan Rayo, Bravo y el "Original" a `participantes`.
+- El verbatim del Vehemiurgo se preserva; su recuerdo de visionado
+  difiere de la fuente en atribuir el "comportamiento delincuente"
+  a Gable — la fuente lo da a Rayo y Bravo.
+
 ## Pendientes
 
 - [x] ~~Aclarar identidad Gable/Kaiser~~ → **RESUELTO (s44)**:
-      gimmick compartido — Kaiser bajo la máscara en este match,
-      Gable interfiriendo desde afuera.
+      gimmick compartido — Kaiser bajo la máscara en este match
+      (la interferencia de Gable quedó corregida el 2026-10-06:
+      trampas de Rayo y Bravo, intervención del "Original").
 - [x] Finish + duración exacta + ciudad/recinto. → 619 + springboard frogsplash tras la intervención del "Original"; 8:35; Sames Auto Arena, Laredo, Texas (WWE.com, POST Wrestling, prowrestling.fandom)
 - [ ] Fecha de Noche de los Grandes (AAA).
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha (s40/s44) atribuye las trampas a Gable interfiriendo desde afuera vs las fuentes: en ringside estaban **Rayo y Bravo** (Bravo puso la placa de acero en la máscara) y quien llega es el **"Original" Grande Americano**, que frustra a su rival (WWE.com, prowrestling.fandom). Revisar quién es quién bajo cada máscara.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: trampas reasignadas a Rayo y Bravo en ringside; el "Original" Grande Americano frustra el golpe. Nota original: la ficha (s40/s44) atribuye las trampas a Gable interfiriendo desde afuera vs las fuentes: en ringside estaban **Rayo y Bravo** (Bravo puso la placa de acero en la máscara) y quien llega es el **"Original" Grande Americano**, que frustra a su rival (WWE.com, prowrestling.fandom). Revisar quién es quién bajo cada máscara.
 
 ## Cross-links
 

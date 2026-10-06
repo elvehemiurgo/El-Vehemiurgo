@@ -13,8 +13,8 @@ recinto: "Rexall Place (Skyreach Centre en 2004)"
 tipo_match: "handicap (2-on-1) — payoff del Trish heel turn WMXX"
 estipulacion: "[verif] handicap match, Christian + Trish vs Jericho"
 duracion: "11:12"
-finish: "[verif]"
-ganador: "Christian"
+finish: "Jericho lanza a Christian sobre Trish y lo pina tras un enzuigiri"
+ganador: "Chris Jericho"
 referee: ""
 attendance_anunciada: "[verif] — Edmonton home crowd Stratus dynamic"
 attendance_pagada: ""
@@ -26,7 +26,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE Raw 2004-2005 Christian-Jericho era"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, wrestlingrecaps, kbwrestlingreviews); WebFetch bloqueado por egress"
@@ -36,7 +36,8 @@ tags: [wwe-2004, backlash-2004, christian-cage, chris-jericho, trish-stratus, ha
 # Christian & Trish Stratus vs Chris Jericho — Backlash 2004 (18 abr 2004)
 
 > **Peak performance del triangle storyline**. Handicap match
-> con Trish ya consolidada heel post-WMXX. Edmonton hosting a
+> con Trish ya consolidada heel post-WMXX. **Gana Jericho**:
+> lanza a Christian sobre Trish y lo pina tras un enzuigiri. Edmonton hosting a
 > Trish Stratus (canadiense local) + Christian (canadiense local
 > Toronto-area) **trabajando como heels en territorio propio**
 > — *uno de los detalles carny más jugosos del periodo*. Pieza
@@ -69,9 +70,9 @@ Continuación directa del WMXX detonante
   Es **test del oficio**: ¿logran Christian y Trish trabajar
   como heels reales en territorio propio? El match documenta
   la respuesta.
-- Si gana Christian/Trish → **escala el feud**, Jericho
-  necesita venganza más grande (steel cage Raw 10 may).
-- Si gana Jericho → desinfla el triangle prematuramente.
+- **Gana Jericho** (pin a Christian tras enzuigiri) y aun así el
+  feud escala: la heel couple queda debiendo y el blow-off va al
+  steel cage de Raw (10 may).
 
 ## Lectura del Vehemiurgo
 
@@ -86,10 +87,18 @@ que el oficio de Christian + Trish se sostiene aún jugando
 contra el reflejo del público. **Carny ortodoxo arriesgado** —
 exactamente la clase de booking que el Vehemiurgo respeta.
 
+## Corrección (2026-10-06)
+
+- **Ganador**: de *Christian* a **Chris Jericho**.
+- **Finish**: de `[verif]` a **Jericho lanza a Christian sobre Trish y
+  lo pina tras un enzuigiri**. Lead y significancia ajustados.
+- Fuente: Wikipedia + profightdb + KB Wrestling Reviews (vía snippets,
+  research barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
 - [x] Duración → 11:12 (Wikipedia + wrestlingrecaps/KB vía snippets).
-- [ ] Finish + secuencia exacta (ver discrepancia de ganador).
+- [x] Finish → Jericho lanza a Christian sobre Trish y lo pina tras enzuigiri (ver Corrección).
 - [ ] Star rating WON Meltzer (contexto).
 - [ ] **Buyrate Backlash 2004**.
 - [ ] Attendance + gate Edmonton.
@@ -98,7 +107,7 @@ exactamente la clase de booking que el Vehemiurgo respeta.
 - [ ] Cobertura POST / Cornette retrospectiva.
 - [ ] Verbatim Trish + Christian + Jericho sobre el match.
 - [ ] **Asignación de clase del Vehemiurgo**.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra ganador **Christian**; las fuentes dan **Chris Jericho** ganador: lanza a Christian sobre Trish y lo pina tras un enzuigiri (Wikipedia + profightdb/KB vía snippets).
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: ganador corregido a Chris Jericho (lanza a Christian sobre Trish, pin tras enzuigiri). Nota original: la ficha registra ganador **Christian**; las fuentes dan **Chris Jericho** ganador: lanza a Christian sobre Trish y lo pina tras un enzuigiri (Wikipedia + profightdb/KB vía snippets).
 
 ## Piezas relacionadas
 

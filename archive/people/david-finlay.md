@@ -35,7 +35,7 @@ tags: [david-finlay, the-dogs, bang-bang-gang, njpw-crossover, bullet-club-nosta
 - **26/7/2026 (AEW Redemption)** — con Clark Connors vs Jay White
   & Juice Robinson (dog collar match): Wrestling Entertainment,
   con crítica de timing de estipulación.
-  ([→](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)).
+  ([→](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md)).
 
 ## Notas editoriales del Vehemiurgo
 
@@ -55,7 +55,7 @@ tags: [david-finlay, the-dogs, bang-bang-gang, njpw-crossover, bullet-club-nosta
 escalada (el golpe con la cadena) — el Vehemiurgo lee que ese
 momento debía ser el detonante de una futura dog collar bien
 bookeada, no algo resuelto en el mismo capítulo que lo generó. Ver
-[`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+[`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md).
 
 ### Sesión 2026-08-31 s57 — La promo que el Vehemiurgo ubicó bien de memoria
 
@@ -101,7 +101,7 @@ bookeada, no algo resuelto en el mismo capítulo que lo generó. Ver
 
 - [`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md)
   — protagonista del video ("toda la historia entre David y Jay").
-- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)
+- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md)
 - (Historial extenso previo: ver
   [`the-dogs.md`](./the-dogs.md).)
 

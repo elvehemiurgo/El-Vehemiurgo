@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kenny-omega
 estado: vivo
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo 2026-05-26 (volcado AEW Dynamite 25 mar 2026)"
   - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — WebSearch (wrestlinginc.com, foxnews.com, bleacherreport.com, allelitewrestling.com, postwrestling.com vía snippet; resto ref. general del sub-agente, WebSearch agotado); WebFetch bloqueado por egress"
@@ -542,6 +542,12 @@ Omega necesita para funcionar mejor — con escalada a rivalidad
 personal (ataque post-match) y paralelismo explícito con AJ Styles
 (posible cita a los Cuatro Pilares del Puroresu). Ver
 [`../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md`](../segments/2026-07-26-segmento-final-ospreay-dropea-mox-omega-tease-aew-redemption.md).
+
+### Sesión 2026-10-06 s01 — The Elite reunida (Dynamite 30/9)
+
+- **The Elite vs Don Callis Family** (Dynamite 30/9): *"lucha increible, como en los viejos tiempos de the elite"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-30-the-elite-vs-don-callis-family-8-man-aew-dynamite.md`](../matches/2026-09-30-the-elite-vs-don-callis-family-8-man-aew-dynamite.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Piezas del Vehemiurgo donde aparece
 

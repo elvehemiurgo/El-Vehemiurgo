@@ -13,7 +13,7 @@ duracion: "19:25"
 finish: "Tras el spear de Moose sobre Edwards (kickout), el Rolling Cutter de Santana sobre Cedric Alexander (run-in) y un Boston Knee Party de Edwards (conteo de dos), Santana conecta dos Spin the Block consecutivos y cubre"
 ganador: "Mike Santana — retiene"
 referee: "Alice Lane"
-attendance_anunciada: "2.969 [1 fuente, sin especificar paid o announced]"
+attendance_anunciada: "2.969 (fuente previa + profightdb, sin especificar paid/announced) / 3.929 pagados (Wikipedia) según fuente"
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
@@ -22,7 +22,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Eddie es una serpiente como CM Punk, un verdadero wrestler, muy oldschool, feeling de dojo violento; armaron una gran lucha, muy emocionante; se merecia las 3 clases pero el final enredado salio mal, la revelacion de Alisha no era emocionante ni creible y resto a la lucha, la intervencion de Cedric fue mas efectiva; se merece una WE y FS classes"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s40 (vision directa - TNA Rebellion, 11/4/2026)"
   - "Sub-agente research-tna-impact-090426-rebellion-110426 (research 2026-08-01, closed) - Fightful, Cageside Seats, POST Wrestling, PWTorch, Pro Wrestling Dot Net"
@@ -143,6 +143,13 @@ explícitas, con reserva por el final.**
   No Surrender match que solo termina si JDC o Alisha tiran la toalla
   — Alisha finalmente la tira para salvar a su marido.
 
+## Corrección (2026-10-06)
+
+- Attendance de Rebellion 2026: conflicto sin desempate — 2.969
+  (fuente previa + profightdb) vs 3.929 pagados (Wikipedia). Se
+  conservan ambas cifras en `attendance_anunciada`; ninguna es
+  fuente primaria de la empresa.
+
 ## Pendientes / huecos
 
 - [x] Réferi → Alice Lane (nombre de ring de Katie Reynolds), confirmada
@@ -152,7 +159,7 @@ explícitas, con reserva por el final.**
       poste.
 - [ ] Confirmar los "irish whips" señalados por el Vehemiurgo como
       "vicios de esta era" — sin detalle específico en las fuentes.
-- [ ] **Discrepancia (research 2026-10-05)**: ficha registra
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: se registran ambas cifras (2.969 / 3.929) en el campo, sin desempate. Nota original: ficha registra
       `attendance_anunciada` 2.969 [1 fuente] para Rebellion 2026 vs
       Wikipedia, que reporta 3.929 pagados; otra base de datos (profightdb)
       coincide en 2.969. Dos fuentes contra una, sin resolver cuál es la

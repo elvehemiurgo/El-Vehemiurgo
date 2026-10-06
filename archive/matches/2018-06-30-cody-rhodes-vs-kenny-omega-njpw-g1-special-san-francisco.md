@@ -5,15 +5,15 @@ participantes:
   - "Cody Rhodes"
   - "Kenny Omega"
 empresa: "NJPW (New Japan Pro Wrestling)"
-programa: "G1 Special in San Francisco"
+programa: "G1 Special in San Francisco (7 jul 2018 — fecha/slug pendientes de renombre)"
 fecha: 2018-06-30
 ciudad: "San Francisco, CA"
 recinto: "Cow Palace"
-tipo_match: "singles — IWGP United States Heavyweight Championship match"
-estipulacion: "IWGP United States Heavyweight Championship"
+tipo_match: "singles — IWGP Heavyweight Championship match"
+estipulacion: "IWGP Heavyweight Championship (Omega defiende)"
 duracion: ""
 finish: "Kenny Omega retiene vía One Winged Angel"
-ganador: "Kenny Omega (vía One Winged Angel — ver discrepancia de título abajo)"
+ganador: "Kenny Omega (retiene el IWGP Heavyweight Championship vía One Winged Angel)"
 referee: ""
 attendance_anunciada: "8,500+"
 attendance_pagada: ""
@@ -25,17 +25,18 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo (2026-05-09)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (F4WOnline, Cageside Seats, Wrestleview); WebFetch bloqueado por egress"
-tags: [njpw-2018, g1-special-san-francisco, cody-rhodes, kenny-omega, iwgp-us-heavyweight, bullet-club-split, pre-aew-foundation, cody-pre-aew, omega-bullet-club-peak]
+tags: [njpw-2018, g1-special-san-francisco, cody-rhodes, kenny-omega, iwgp-heavyweight, bullet-club-split, pre-aew-foundation, cody-pre-aew, omega-bullet-club-peak]
 ---
 
-# Cody Rhodes vs Kenny Omega — NJPW G1 Special San Francisco (30 jun 2018)
+# Cody Rhodes vs Kenny Omega — NJPW G1 Special San Francisco (7 jul 2018)
 
 > **Pieza editorial fundacional pre-AEW**. Cody Rhodes vs Kenny
-> Omega en el peak del Bullet Club + tensiones internas que
+> Omega por el **IWGP Heavyweight Championship** (Omega retiene)
+> en el peak del Bullet Club + tensiones internas que
 > conducen a la fundación de AEW en enero 2019. Match
 > obligatorio del **arc Cody Rhodes pre-WWE return + arc Kenny
 > Omega peak NJPW**.
@@ -67,20 +68,35 @@ tags: [njpw-2018, g1-special-san-francisco, cody-rhodes, kenny-omega, iwgp-us-he
 - **Kenny Omega peak NJPW**: post G1 Climax 2017 winner + WK12
   vs Naito + el run BC final. Match cierre del peak Omega
   pre-AEW.
-- **IWGP US Heavyweight Championship**: título creado para
-  expandir NJPW al mercado norteamericano. Match en San
-  Francisco + título US = **proyecto editorial NJPW para
-  consolidar su presencia USA** que después gobierna AEW.
+- **IWGP Heavyweight Championship en suelo americano**: el
+  título máximo de NJPW defendido en California (el IWGP US
+  Heavyweight se disputó aparte en el mismo show, Juice Robinson
+  vs Jay White) = **proyecto editorial NJPW para consolidar su
+  presencia USA** que después gobierna AEW.
 
 ## Lectura del Vehemiurgo
 
 (Pendiente verbatim.)
 
+## Corrección (2026-10-06)
+
+- **Título en juego**: `estipulacion`/`tipo_match` de *IWGP United
+  States Heavyweight Championship* a **IWGP Heavyweight Championship**
+  (Omega retiene). El US Title se disputó aparte en el mismo show
+  (Juice Robinson vs Jay White). Significancia y tags ajustados.
+- **Fecha**: el show fue el **7 jul 2018**, no el 30 jun. El dictado
+  solo traía "G1 Special in San Francisco 2018"; el 30/6 era
+  inferencia del archivo. H1 y `programa` corregidos; `fecha` y slug
+  **no** se tocan: ficha listada para **RENOMBRAR** a
+  `2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco`.
+- Fuente: F4WOnline + Cageside Seats + Wrestleview (vía WebSearch,
+  research barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
 - [x] Ganador + finish → Kenny Omega retiene vía One Winged Angel (F4WOnline, Cageside Seats, Wrestleview). Duración exacta sigue pendiente.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha fecha el show en 2018-06-30; las fuentes consultadas (F4WOnline, Cageside Seats, Wrestleview) fechan *G1 Special in San Francisco* el **2018-07-07**. Verificar fecha real contra fuente primaria (NJPW) — posible confusión con otro evento de la gira.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha describe la estipulación como IWGP United States Heavyweight Championship; las mismas fuentes indican que este match Cody vs Omega fue por el **IWGP Heavyweight Championship** (el título de EE.UU. se disputó aparte, Juice Robinson vs Jay White, en el mismo show). Verificar contra fuente primaria antes de corregir `estipulacion`/`tipo_match`.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: fecha real 7 jul 2018 (tres fuentes); H1/programa corregidos, fecha y slug pendientes de renombre. Nota original: la ficha fecha el show en 2018-06-30; las fuentes consultadas (F4WOnline, Cageside Seats, Wrestleview) fechan *G1 Special in San Francisco* el **2018-07-07**. Verificar fecha real contra fuente primaria (NJPW) — posible confusión con otro evento de la gira.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: título en juego corregido a IWGP Heavyweight Championship (Omega retiene); el US Title fue Juice vs Jay White aparte. Nota original: la ficha describe la estipulación como IWGP United States Heavyweight Championship; las mismas fuentes indican que este match Cody vs Omega fue por el **IWGP Heavyweight Championship** (el título de EE.UU. se disputó aparte, Juice Robinson vs Jay White, en el mismo show). Verificar contra fuente primaria antes de corregir `estipulacion`/`tipo_match`.
 - [ ] Star rating WON Meltzer (alta probabilidad cubierto, WON
       cubre NJPW extensivamente).
 - [ ] Attendance + gate Cow Palace.

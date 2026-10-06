@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lizzy-rain
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s40 (visión directa — WWE NXT, 28/4/2026, debut)"
 tags: [lizzy-rain, wwe-nxt-2026, debut, cantera-australiana, face, wrestling-entertainment, primer-registro-individual]
@@ -155,6 +155,12 @@ describe **no aparecen en el registro de este show** — puede referirse
 al singles del 28/7 o a material posterior. `[verif]`
 
 **Pieza**: [mixed tag vs The Culling](../matches/2026-08-11-lizzy-rain-ek-prosper-vs-the-culling-nxt.md) (sin clase declarada)
+
+### Sesión 2026-10-06 s01 — Vs Kali Armstrong (NXT 15/9)
+
+- **Vs Kali Armstrong** (NXT 15/9): *"buenos strikes de Lizzy, me gusta su estilo, no es my ràpida de hecho, pero coloca muy bien cada patada"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-15-kali-armstrong-vs-lizzy-rain-nxt.md`](../matches/2026-09-15-kali-armstrong-vs-lizzy-rain-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

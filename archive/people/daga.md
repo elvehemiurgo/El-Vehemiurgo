@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: daga
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Sub-agente card-aaa-worldwide-180726 (research 2026-08-01, closed) — POST Wrestling, Cageside Seats, Fightful"
   - "El Vehemiurgo, notebook 2026-08-01 s12 (visión directa)"
@@ -129,6 +129,12 @@ poner su tema original, "Perros" de Cartel de Santa**.
 
 **Pieza de la sesión**:
 [el ataque de Los Perros del Mal](../segments/2026-09-13-los-perros-del-mal-ataque-post-match-aaa-triplemania-xxxiv.md) (**WE+**)
+
+### Sesión 2026-10-06 s01 — La promo de los campeones de tríos (AAA Worldwide 19/9)
+
+- **Promo de Los Perros del Mal (clase a Daga)** (AAA Worldwide 19/9): *"Daga es muy cool, de verdad lo hace muy bien"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-19-los-perros-del-mal-promo-backstage-campeones-trios-aaa-worldwide.md`](../segments/2026-09-19-los-perros-del-mal-promo-backstage-campeones-trios-aaa-worldwide.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

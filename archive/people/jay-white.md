@@ -111,7 +111,7 @@ leído como implosión generacional del Bullet Club. Ver
 **Lectura sintética**: Wrestling Entertainment, con crítica de
 timing — la estipulación llegó antes de que la rivalidad
 acumulara historial suficiente. Ver
-[`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)
+[`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md)
 y el video previo
 [`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md).
 
@@ -226,7 +226,7 @@ y el video previo
 - [`../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md`](../segments/2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md)
 - [`../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md`](../matches/2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md)
 - [`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md)
-- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md)
+- [`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md)
 
 ## Cross-links
 

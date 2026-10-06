@@ -13,7 +13,7 @@ duracion: "12:40"
 finish: "Tasha Steelz distrae al referee; The Great Hands (Jason Hotch y John Skyler) golpean a Trey con los cascos de utileria de la entrada de Order 4; Ali sube y conecta el 450 splash para el pin"
 ganador: "Mustafa Ali — nuevo campeon"
 referee: "[verif]"
-attendance_anunciada: "2.969 [1 fuente, sin especificar paid o announced]"
+attendance_anunciada: "2.969 (fuente previa + profightdb, sin especificar paid/announced) / 3.929 pagados (Wikipedia) según fuente"
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
@@ -22,7 +22,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Ali es un arquitecto, todas sus luchas son geniales; el selling es muy alto, me tuvo enganchado; se merece las 3 clases, aunque hay un par de spots no tan prolijos y siempre pensare que menos es mas; el spot de las mascaras si es un error, hubiera quedado mejor un golpe con el titulo y ya"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s40 (vision directa - TNA Rebellion, 11/4/2026)"
   - "Sub-agente research-tna-impact-090426-rebellion-110426 (research 2026-08-01, closed) - Fightful, 411MANIA, Ringside News, PWTorch, Pro Wrestling Dot Net"
@@ -98,12 +98,19 @@ junto al elogio y no anula la clase.
   un **cutter** cuando iba al 450, y conecta un **twisting Canadian
   Destroyer** como near-fall temprano.
 
+## Corrección (2026-10-06)
+
+- Attendance de Rebellion 2026: conflicto sin desempate — 2.969
+  (fuente previa + profightdb) vs 3.929 pagados (Wikipedia). Se
+  conservan ambas cifras en `attendance_anunciada`; ninguna es
+  fuente primaria de la empresa.
+
 ## Pendientes / huecos
 
 - [ ] Réferi — no confirmado por ninguna fuente de prensa consultada.
 - [ ] Verificar contra video cuáles fueron los spots que el Vehemiurgo
       considera "no tan prolijos".
-- [ ] **Discrepancia (research 2026-10-05)**: ficha registra
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: se registran ambas cifras (2.969 / 3.929) en el campo, sin desempate. Nota original: ficha registra
       `attendance_anunciada` 2.969 [1 fuente] para Rebellion 2026 vs
       Wikipedia, que reporta 3.929 pagados; otra base de datos (profightdb)
       coincide en 2.969. Dos fuentes contra una, sin resolver cuál es la

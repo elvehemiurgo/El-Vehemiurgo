@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: dinamico
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — AAA Worldwide, 18/4/2026)"
 tags: [dinamico, aaa, wrestling-entertainment, primer-registro-individual]
@@ -50,6 +50,12 @@ Taurus (Los Vipers) para completar el trío contra La Parka, El Fiscal
 
 **Pieza de la sesión**:
 [con Los Vipers vs La Parka, El Fiscal & Mr. Iguana](../matches/2026-09-05-la-parka-fiscal-iguana-vs-los-vipers-dinamico-aaa-worldwide.md) (ICC)
+
+### Sesión 2026-10-06 s01 — Vs El Fiscal (AAA Worldwide 19/9)
+
+- **Vs El Fiscal** (AAA Worldwide 19/9): *"buenisima lucha, muy oldshcool, hermoso lo que hicieron"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-19-dinamico-vs-el-fiscal-aaa-worldwide.md`](../matches/2026-09-19-dinamico-vs-el-fiscal-aaa-worldwide.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

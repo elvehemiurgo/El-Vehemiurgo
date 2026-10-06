@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: faby-apache
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Sub-agente card-aaa-worldwide-180726 (research 2026-08-01, closed) — 411Mania, Diva-Dirt, WWE.com highlights"
   - "El Vehemiurgo, notebook 2026-08-01 s12 (visión directa; dictado como 'Fabi Apache' — grafía de prensa corregida a Faby)"
@@ -56,6 +56,12 @@ documentó en Gail Kim y Tara sosteniendo a las faces verdes de TNA
 2013 — acá aplicado a una Roxanne Perez ya buena, no verde, elevada
 de todos modos. Ver
 [`../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-roxanne-perez-vs-natalya-vs-faby-apache-vs-la-hiedra-aaa-triplemania-xxxiv.md).
+
+### Sesión 2026-10-06 s01 — Vs La Hiedra (AAA Worldwide 19/9)
+
+- **Vs La Hiedra** (AAA Worldwide 19/9): *"luego bookearon un cásico instantaneo, la hiedra vs fabi apache, estuvo increible"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-19-la-hiedra-vs-faby-apache-aaa-worldwide.md`](../matches/2026-09-19-la-hiedra-vs-faby-apache-aaa-worldwide.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

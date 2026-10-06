@@ -99,7 +99,7 @@ feud con Cope & Cage, oportunidad titular ganada). Ver
 The Guns, más una segunda Wrestling Entertainment para su
 promoción del mic — consolidación total del momento del equipo.
 Ver
-[`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
+[`../matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md`](../matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md)
 y
 [`../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md`](../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md).
 
@@ -224,7 +224,7 @@ nombró "The Dogs" en su dictado, solo a "Gabe Kid". Piezas:
 
 - [`../matches/2026-05-30-guns-vs-dogs-aew-collision.md`](../matches/2026-05-30-guns-vs-dogs-aew-collision.md)
 - [`../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md`](../segments/2026-06-03-the-dogs-backstage-aew-dynamite.md)
-- [`../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`](../matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md)
+- [`../matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md`](../matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md)
 - [`../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md`](../segments/2026-06-06-the-dogs-promo-post-match-aew-collision.md)
 - [`../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md`](../segments/2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md)
 - [`../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md`](../segments/2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md)
@@ -290,7 +290,7 @@ acumulara historial suficiente para ameritarla; David Finlay hace
 equipo con Clark Connors (The Guns) contra el enemigo común. Ver
 [`../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md`](../segments/2026-07-26-guns-vs-dogs-promo-video-aew-redemption.md)
 y
-[`../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption.md).
+[`../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md`](../matches/2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption.md).
 
 ## Cross-links
 

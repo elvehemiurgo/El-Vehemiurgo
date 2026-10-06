@@ -7,8 +7,8 @@ programa: "NXT"
 fecha: 2026-06-02
 ciudad: "Orlando, Florida"
 recinto: "WWE Performance Center"
-tipo_match: "singles"
-estipulacion: "standard"
+tipo_match: "singles — title match"
+estipulacion: "WWE Speed Championship — defensa de Lexis King"
 duracion: "4:34"
 finish: "Coronation DDT de Lexis King, pinfall"
 ganador: "Lexis King — retiene el WWE Speed Championship"
@@ -22,7 +22,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lucha speed muy buena, buena ejecución y spots — Romeo se ve muy safe; me gusta cuando Lexis se pone stiff"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — NXT, 2/6/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com); WebFetch bloqueado por egress"
@@ -31,7 +31,7 @@ tags: [wwe-2026, nxt, romeo-moreno, lexis-king, lucha-speed, safe-vs-stiff, lexi
 
 # Romeo Moreno vs Lexis King — NXT (2/6/2026)
 
-> Wrestling Entertainment. Showcase de velocidad con **la reserva recurrente del Vehemiurgo sobre el trabajo *safe***, y elogio a Lexis King por perfeccionar su estilo old-school.
+> Wrestling Entertainment. Defensa del WWE Speed Championship (Lexis King retiene). Showcase de velocidad con **la reserva recurrente del Vehemiurgo sobre el trabajo *safe***, y elogio a Lexis King por perfeccionar su estilo old-school.
 
 ## Lectura del Vehemiurgo
 
@@ -50,12 +50,17 @@ tags: [wwe-2026, nxt, romeo-moreno, lexis-king, lucha-speed, safe-vs-stiff, lexi
 - **Lexis King, en progresión reconocida**: *"me gusta cuando Lexis se pone stiff, **ya está perfeccionando su estilo old-school**"*. Continúa la línea que el archivo viene siguiéndole.
 - **El contraste safe/stiff dentro del mismo match** es el eje de la lectura: el que se pone duro es el que se lleva el elogio de oficio.
 
+## Corrección (2026-10-06)
+
+- `estipulacion`: de "standard" a **WWE Speed Championship**; Lexis
+  King retiene (Cagematch, WWE.com).
+
 ## Pendientes / huecos
 
 - [x] Finish, duración → Coronation DDT de Lexis King; 4:34 (Cagematch, WWE.com)
 - [ ] Ubicación en el show.
 - [x] Ciudad y recinto. → Orlando, Florida / WWE Performance Center (Cagematch/WWE.com)
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `estipulacion: standard` vs Cagematch/WWE.com: fue **por el WWE Speed Championship** (Lexis King retiene).
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: corregido a defensa del WWE Speed Championship. Nota original: la ficha registra `estipulacion: standard` vs Cagematch/WWE.com: fue **por el WWE Speed Championship** (Lexis King retiene).
 
 ## Piezas relacionadas
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: hijo-de-dr-wagner-jr
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s39 (visión directa — AAA Worldwide, 25/4/2026)"
 tags: [hijo-de-dr-wagner-jr, aaa, linaje-wagner, identidad-consolidada, fighting-spirit, golpes-duros, primer-registro-individual]
@@ -119,6 +119,12 @@ Parka.
 
 **Pieza de la sesión**:
 [fatal four-way, Latin American Championship](../matches/2026-08-30-la-parka-vs-priest-vs-fiscal-vs-wagner-latin-american-aaa-ola-de-calor.md) (FS·WE — con contradicción de dictado sin resolver)
+
+### Sesión 2026-10-06 s01 — Campeón de parejas AAA con Galeno (TripleMania XXXIV D2)
+
+- **Con Galeno vs The War Raiders** (TripleMania XXXIV D2): *"los wagner son muy oldschool, le sacan buenas luchas a todos"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-13-hijo-de-dr-wagner-jr-galeno-vs-the-war-raiders-parejas-aaa-triplemania-xxxiv.md`](../matches/2026-09-13-hijo-de-dr-wagner-jr-galeno-vs-the-war-raiders-parejas-aaa-triplemania-xxxiv.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

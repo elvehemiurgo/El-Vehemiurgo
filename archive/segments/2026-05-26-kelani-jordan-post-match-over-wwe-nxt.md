@@ -54,4 +54,4 @@ face establecido, calificada de *"el proyecto perfecto"*. Ver
 ## Cross-links
 
 - [`../people/kelani-jordan.md`](../people/kelani-jordan.md)
-- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md)
+- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md)

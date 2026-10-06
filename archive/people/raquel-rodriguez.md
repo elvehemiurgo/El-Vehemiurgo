@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: raquel-rodriguez
 estado: vivo
-ultima_actualizacion: 2026-09-04
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Wikipedia — Raquel Rodriguez"
   - "Cobertura WWE 2021–2026 (NXT, SmackDown, Raw, Judgment Day affiliation 2025–2026)"
@@ -112,7 +112,7 @@ sección 10.
 **Contexto**: tag team con Liv Morgan y Roxanne Perez vs Bayley y
 Lyra Valkyria, WWE Raw 27/4/2026 — el Vehemiurgo asignó Wrestling
 Entertainment solo a los minutos finales de la lucha. Ver
-[`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md).
+[`../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md).
 
 **Cita verbatim**:
 
@@ -255,6 +255,12 @@ estuvo activa en el ring como músculo de Judgment Day (Raw, 17/8/2026,
 Buffalo). Ver
 [`../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md`](../segments/2026-08-17-liv-morgan-vaquer-becky-lynch-judgment-day-wwe-raw.md).
 
+### Sesión 2026-10-06 s01 — Promo con Roxanne (Raw 7/9)
+
+- **Promo con Roxanne Perez** (Raw 7/9): *"promo sólida de Roxanne y Raquel, estuvo cool"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-07-roxanne-perez-raquel-rodriguez-promo-wwe-raw.md`](../segments/2026-09-07-roxanne-perez-raquel-rodriguez-promo-wwe-raw.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y segmentos del 2025 que sustentan la
@@ -271,7 +277,7 @@ Buffalo). Ver
 
 - [`../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md`](../segments/2026-06-08-liv-morgan-roxanne-perez-backstage-wwe-raw.md)
 - [`../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md`](../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md)
-- [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
+- [`../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
   — Wrestling Entertainment (minutos finales), selling del crossbody.
 - [`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md)
   — cheap heat sobre los escándalos de Paige.

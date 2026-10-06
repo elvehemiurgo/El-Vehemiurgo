@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: trick-williams
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
   - "Mención previa en notebook 2026-05-09 (lista personal completa) — vs Rey Fénix 09/01 y 13/02/2026, backstage con Jacob Fatu y Nick Aldis 13/03/2026, vs Jacob Fatu 13/03/2026, backstage con Sami Zayn 20/03/2026"
@@ -272,6 +272,12 @@ Proyección directa de main event. Pieza:
 entretenimiento" no es la fórmula "se merece"). Segunda proyección de
 main event en la misma noche, sumada al MITB Qualifier. Pieza:
 [molesta a Sami](../segments/2026-09-18-trick-williams-molesta-sami-backstage-wwe-smackdown.md) (sin clase).
+
+### Sesión 2026-10-06 s01 — Retiene en la jaula (SmackDown 25/9)
+
+- **Vs Baron Corbin, steel cage** (SmackDown 25/9): *"buena grudgematch, no me atrajo, pero esta lucha merece una WE"*. Clase: **Wrestling Entertainment**. Ficha: [`../matches/2026-09-25-trick-williams-vs-baron-corbin-steel-cage-us-title-wwe-smackdown.md`](../matches/2026-09-25-trick-williams-vs-baron-corbin-steel-cage-us-title-wwe-smackdown.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: noam-dar
 estado: vivo
-ultima_actualizacion: 2026-07-14
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE NXT, 12/5/2026)"
 tags: [noam-dar, wwe-nxt-2026, regreso, veterano, fighting-spirit, wrestling-entertainment, doctrina-aspereza-y-friccion, primer-registro-individual]
@@ -84,6 +84,12 @@ necesitar ganar (doctrina compartida con Bad Influence en TNA 2013).
 Stone a reclamar por un ataque previo de los Creed; Stone se disculpó
 y autorizó el match. Ver
 [`../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md`](../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md).
+
+### Sesión 2026-10-06 s01 — Con Romeo vs Los Americanos (NXT 22/9)
+
+- **Con Romeo Moreno vs Los Americanos, Dusty Classic** (NXT 22/9): *"Noam y Romero andan muy motivados realmente vendiendo con calidad todos sus spots"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-22-noam-dar-romeo-moreno-vs-los-americanos-dusty-classic-nxt.md`](../matches/2026-09-22-noam-dar-romeo-moreno-vs-los-americanos-dusty-classic-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: will-ospreay
 estado: vivo
-ultima_actualizacion: 2026-10-01
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo, cluster AAA + AEW 2026"
   - "Multiple retrospectivas Cornette critical + Meltzer favorable"
@@ -539,3 +539,8 @@ baja la clase, es objeción de programación. Pieza:
 [la entrada tributo](../segments/2026-08-30-entrada-tributo-will-ospreay-aew-all-in.md) (WE) ·
 [vs Kenny Omega, AEW World Championship](../matches/2026-08-30-kenny-omega-vs-will-ospreay-world-title-aew-all-in.md) (**ICC**)
 
+### Sesión 2026-10-06 s01 — Vs Ricochet en el tributo a PAC
+
+- **Vs Ricochet** (Dynamite 30/9): *"esta es la primera lucha de estos dos que me gusta, se siente más producida como heavyweight"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-30-will-ospreay-vs-ricochet-aew-dynamite.md`](../matches/2026-09-30-will-ospreay-vs-ricochet-aew-dynamite.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)

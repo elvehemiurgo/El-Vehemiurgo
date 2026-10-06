@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: ek-prosper
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-26 s51 (visión directa — WWE NXT, 18/8/2026)"
   - "Sub-agente research-wwe-nxt-180826 (research 2026-08-26, closed) — WebSearch; WebFetch bloqueado por egress"
@@ -142,6 +142,13 @@ semanas atrás — tensión que sigue sin resolver dentro del trío heel.
 **Cae en el main event**: Mason Rook remata con un blind tag. Ver
 [`../segments/2026-09-08-backstage-montana-ek-keanu-stone-nxt.md`](../segments/2026-09-08-backstage-montana-ek-keanu-stone-nxt.md) y
 [`../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md`](../matches/2026-09-08-main-event-3v3-saquon-mason-dangelo-vs-ek-keanu-montana-nxt.md).
+
+### Sesión 2026-10-06 s01 — El swanton desde la tercera y el micrófono (NXT 15/9 y 22/9)
+
+- **Con Cruz Montana vs Vanity Project** (NXT 15/9): *"EK tiene esta 00H:59m:49sswanton block buster desde la tercera cuerda, està increible y le sale perfecto"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-15-ek-prosper-cruz-montana-vs-vanity-project-nxt.md`](../matches/2026-09-15-ek-prosper-cruz-montana-vs-vanity-project-nxt.md)
+- **Six-man vs Birthright (presencia en discrepancia con el registro oficial)** (NXT 22/9): *"EK ya se ve muy comodo con el neterteinment, pero está igual que Zilla, ahora solo como face, tiene que hacer un Montana"*. Clase: **Wrestling Entertainment**. Ficha: [`../matches/2026-09-22-birthright-vs-zilla-fatu-sean-legacy-dorian-van-dux-nxt.md`](../matches/2026-09-22-birthright-vs-zilla-fatu-sean-legacy-dorian-van-dux-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

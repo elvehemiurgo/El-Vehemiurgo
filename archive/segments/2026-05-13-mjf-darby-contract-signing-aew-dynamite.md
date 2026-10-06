@@ -8,8 +8,8 @@ protagonistas:
 empresa: "AEW"
 programa: "Dynamite"
 fecha: 2026-05-13
-ciudad: "North Charleston, SC / Asheville, NC según fuente [no confirmado — fuentes discrepan]"
-recinto: "North Charleston Coliseum / Harrah's Cherokee Center según fuente [no confirmado — fuentes discrepan]"
+ciudad: "North Charleston, SC / Asheville, NC según fuente"
+recinto: "North Charleston Coliseum / Harrah's Cherokee Center según fuente"
 ubicacion_en_show: "Cierre del show (post-match del main event Darby vs Takeshita)"
 duracion: "[verif]"
 linea_textual: "[verif]"
@@ -20,7 +20,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment Class — 'el timing me pareció perfecto, realmente se merece la clase de entertainer'"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s16 (visión directa — AEW Dynamite 13/5/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (POST Wrestling, TheSportster, SI/FanNation): confirma que la firma es para el Title vs Hair Match en Double or Nothing, y que MJF ataca a Allin con el Dynamite Diamond Ring tras firmar, con el salvataje de Kevin Knight cerrando el show; ciudad/recinto discrepante entre fuentes; WebFetch bloqueado por egress"
@@ -47,13 +47,20 @@ coherente con el expediente completo de MJF como el mejor
 vendedor de promo del roster, ahora en construcción hacia un
 enfrentamiento directo con Darby Allin (Héroe Fundamental #46).
 
+## Corrección (2026-10-06)
+
+- Ciudad/recinto del Dynamite del 13/5/2026: conflicto sin desempate
+  entre fuentes (North Charleston Coliseum, North Charleston, SC /
+  Harrah's Cherokee Center, Asheville, NC). Se conservan ambas
+  versiones en `ciudad` y `recinto`.
+
 ## Pendientes
 
 - [x] **Estipulación pactada** → Title vs Hair Match en Double or
       Nothing; tras firmar, MJF ataca a Allin con el Dynamite
       Diamond Ring y Kevin Knight corre a salvarlo para cerrar el
       show (research 2026-10-05).
-- [ ] **Discrepancia (research 2026-10-05)**: ciudad/recinto sin
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: ciudad/recinto quedan con ambas versiones según fuente; duración/referee siguen como hueco [verif] en frontmatter, no como discrepancia. Nota original: ciudad/recinto sin
       confirmar — ver nota en las fichas de match del mismo show
       (13/5).
 - [ ] Línea textual + duración exactas.

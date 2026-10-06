@@ -222,7 +222,7 @@ y [`charlie-dempsey.md`](./charlie-dempsey.md).
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-04-28-kelani-jordan-vs-wren-sinclair-wwe-nxt.md)
-- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md)
+- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md)
 - [`../promotions/wrenqcc.md`](../promotions/wrenqcc.md) — tag
   team activo (mitad).
 - [`../promotions/nqcc.md`](../promotions/nqcc.md) — ex-miembro
@@ -308,7 +308,7 @@ babyface — preocupación visible por la performance y el ring
 positioning le impide alcanzar el Perfect Match en ese rol. El
 Vehemiurgo cita a **Bryan Danielson** como modelo de venta de
 título a seguir. Ver
-[`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md).
+[`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md).
 
 ### Sesión 2026-09-12 s01 — "Destacando" en NXT (8/9/2026): el kendo stick contra Kelani Jordan
 

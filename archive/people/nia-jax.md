@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nia-jax
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — WWE SmackDown, 5/6/2026)"
   - "Menciones de contexto previas: conflicto con Chelsea Green y Lash Legend (s51, 22/5/2026)"
@@ -158,6 +158,12 @@ abucheada desde principios de septiembre por eso; **pierde** el
 Interim WWE Women's Championship de Chelsea Green tras un finisher
 con un botch de ejecución que igual conecta para el pin. Ver
 [`../matches/2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md`](../matches/2026-09-11-chelsea-green-vs-nia-jax-interim-womens-title-wwe-smackdown.md).
+
+### Sesión 2026-10-06 s01 — Promo con Lash (SmackDown 25/9)
+
+- **Promo con Lash Legend** (SmackDown 25/9): *"buenas heels en tv, buenas promos,  siempre son amenazantes y van directo al punto hablando fuerte como wrestlers"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-25-nia-jax-lash-legend-promo-wwe-smackdown.md`](../segments/2026-09-25-nia-jax-lash-legend-promo-wwe-smackdown.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

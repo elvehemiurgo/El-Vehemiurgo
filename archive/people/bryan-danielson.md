@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: bryan-danielson
 estado: vivo
-ultima_actualizacion: 2026-09-09
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Panteón de Héroes Fundamentales (archive/topics/heroes-fundamentales-vehemiurgia.md) — declaraciones del Vehemiurgo 2026-05-10 → 2026-08-26"
   - "Sub-agentes research-panteon-fichas-pendientes (research 2026-09-09) — WebSearch; Cagematch/Wikipedia/Fandom bloqueados por egress: datos de trayectoria son snippets cruzados, no fuente primaria leída"
@@ -39,6 +39,13 @@ tags: [bryan-danielson, daniel-bryan, american-dragon, roh, wwe, aew, blackpool-
 
 Cerró la lista masiva de s26 con la frase *"...y Bryan Danielson en el Tier 0"* — el único de esa tanda nombrado con la cláusula del tier explícita. Rama *"worker de oficio total"*: el archivo lo usa como **unidad de medida** — *"un workhorse que se puede pulir hasta ser un Bryan Danielson"* (doctrina The Righteous), *"haga un Steve Austin o un Daniel Bryan"* (s49, sobre Jevon Evans). Su ficha es la referencia contra la que el panteón mide a los técnicos que quiere ver crecer.
 
+### Sesión 2026-10-06 s01 — Sale del retiro en la noche tributo a PAC
+
+- **Regreso del retiro** (Dynamite 30/9): *"todo muy emotivo, y muy poderoso en cuanto al tributo, fue un gran momento"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-30-bryan-danielson-regreso-del-retiro-aew-dynamite.md`](../segments/2026-09-30-bryan-danielson-regreso-del-retiro-aew-dynamite.md)
+- **10-man con Death Riders** (Dynamite 30/9): *"grannmomento, gran booking surreal y muy explosivo"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-30-death-riders-vs-don-callis-family-10-man-aew-dynamite.md`](../matches/2026-09-30-death-riders-vs-don-callis-family-10-man-aew-dynamite.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
 ## Pendientes / huecos
 
 - [ ] Fechas WWE de memoria (2010, 2011, 2018, 2021) `[verif]`.
@@ -54,7 +61,7 @@ Cerró la lista masiva de s26 con la frase *"...y Bryan Danielson en el Tier 0"*
 
 - [`../matches/2003-01-11-aj-styles-low-ki-vs-daniels-xavier-roh.md`](../matches/2003-01-11-aj-styles-low-ki-vs-daniels-xavier-roh.md) (sin clase)
 - [`../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md`](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md) (sin clase)
-- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-title-challenge-wwe-nxt.md) (FS·WE)
+- [`../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md`](../matches/2026-05-26-kelani-jordan-vs-wren-sinclair-wwe-nxt.md) (FS·WE)
 - [`../matches/2026-06-02-jackson-drake-vs-tate-wilder-wwe-nxt.md`](../matches/2026-06-02-jackson-drake-vs-tate-wilder-wwe-nxt.md) (sin clase)
 
 ## Cross-links

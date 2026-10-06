@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: angel-garza
 estado: vivo
-ultima_actualizacion: 2026-09-03
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Sub-agente card-aaa-verano-escandalo-1-250726 (research 2026-08-01, closed) — POST Wrestling, 411MANIA, Fightful"
   - "El Vehemiurgo, notebook 2026-08-01 s14 (visión directa)"
@@ -54,6 +54,12 @@ Triplemanía 34.
 
 **Pieza de la sesión**:
 [main event, trios](../matches/2026-08-30-perros-del-mal-vs-fenix-penta-dragon-lee-aaa-ola-de-calor.md) (ICC)
+
+### Sesión 2026-10-06 s01 — Todavía forzado en Los Perros del Mal (AAA Worldwide 19/9)
+
+- **Promo de Los Perros del Mal (clase a Daga, no a Angel)** (AAA Worldwide 19/9): *"Garza se ve muy forzado todavia, no es como que quiera imitar al Querubin, pero no encuentra su estilo todavia"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-19-los-perros-del-mal-promo-backstage-campeones-trios-aaa-worldwide.md`](../segments/2026-09-19-los-perros-del-mal-promo-backstage-campeones-trios-aaa-worldwide.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

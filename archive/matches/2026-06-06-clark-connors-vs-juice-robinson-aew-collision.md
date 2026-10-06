@@ -1,36 +1,37 @@
 ---
-match: "The Dogs vs The Guns — rematch"
-slug: "2026-06-06-dogs-vs-guns-rematch-aew-collision"
-participantes: ["The Dogs (con David Finlay, Juice Robinson [verif])", "The Guns (con Clark Connors [verif])"]
+match: "Clark Connors vs Juice Robinson (The Guns vs The Dogs — rematch)"
+slug: "2026-06-06-clark-connors-vs-juice-robinson-aew-collision"
+participantes: ["Clark Connors (The Guns)", "Juice Robinson (The Dogs)", "David Finlay (interviene)"]
 empresa: "AEW"
 programa: "Collision"
 fecha: 2026-06-06
 ciudad: "Youngstown, OH"
 recinto: "Covelli Centre"
-tipo_match: "tag team"
+tipo_match: "singles (rematch entre facciones)"
 estipulacion: "standard"
-duracion: "[verif]"
-finish: "[verif]"
-ganador: "[verif]"
+duracion: "13:10"
+finish: "spear de Clark Connors, pinfall, tras interferencia de David Finlay con el shillelagh"
+ganador: "Clark Connors"
 referee: "[verif]"
 encuentros_previos: "2026-05-30 — primer Perfect Match entre ambos equipos"
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Merece las 3 clases — 'esta lucha se merece las 3 clases, aunque estuvo sencilla, es sencilla en el buen sentido'"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s22 (visión directa — AEW Collision, 6/6/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (eWrestling, smarkoutmoment); WebFetch bloqueado por egress"
 tags: [the-dogs, the-guns, clark-connors, juice-robinson, david-finlay, aew-collision-2026, tag-team, perfect-match, fighting-spirit, wrestling-entertainment, rematch-muy-esperado, sencilla-en-el-buen-sentido, queja-de-programacion-no-dynamite]
 ---
 
-# The Dogs vs The Guns — rematch (AEW Collision, 6 jun 2026)
+# Clark Connors vs Juice Robinson (The Guns vs The Dogs — rematch) — AEW Collision, 6 jun 2026
 
 > **Perfect Match — las tres clases** (*"esta lucha se merece las
 > 3 clases"*), pese a ser *"sencilla, en el buen sentido"*.
-> Segundo encuentro entre ambos equipos tras el Perfect Match del
-> 30/5. Pareja individual destacada: **Connors vs Juice**.
+> Segundo encuentro entre ambas facciones tras el Perfect Match
+> del 30/5, esta vez en singles: **Clark Connors vence a Juice
+> Robinson** con spear tras el shillelagh de Finlay.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -50,27 +51,35 @@ tags: [the-dogs, the-guns, clark-connors, juice-robinson, david-finlay, aew-coll
 
 **Lectura sintética**:
 
-1. **Segundo Perfect Match consecutivo entre los mismos equipos**
+1. **Segundo Perfect Match consecutivo entre las mismas facciones**
    — confirma consistencia de la rivalidad, no un pico aislado.
 2. **"Sencilla en el buen sentido"**: distinción de matiz — no
    sobrecargada, con tiempo dedicado a vender el gimmick
    individual de cada talent.
-3. **Connors vs Juice — pareja destacada**: presumiblemente
-   **Clark Connors** (The Guns) y **Juice Robinson** (The Dogs,
-   coherente con la nostalgia Bullet Club ya establecida) —
-   identidad razonablemente confiada, no confirmada del todo.
+3. **Connors vs Juice — el match mismo**: **Clark Connors** (The
+   Guns) vs **Juice Robinson** (The Dogs) en singles — confirmado
+   por research (corrección 2026-10-06).
 4. **Queja de programación separada del juicio de booking**: el
    Vehemiurgo lamenta que el feud viva en Collision, pero aclara
    que eso no equivale a mal cuidado narrativo — *"me alegra que
    sí estén cuidando su booking"*.
 
+## Corrección (2026-10-06)
+
+- De tag team The Dogs vs The Guns a **singles Clark Connors (The
+  Guns) vs Juice Robinson (The Dogs)**: Connors gana en 13:10 con
+  spear, tras la interferencia de David Finlay con el shillelagh
+  (Fightful, Wrestling Inc, smarkoutmoment, 6/6/2026). El dictado
+  ya nombraba *"Connors vs Juice"*: coincide con la fuente. Slug
+  conservado por estabilidad de links.
+
 ## Pendientes
 
-- [ ] Confirmar integrantes exactos de ambos equipos.
+- [x] Confirmar integrantes exactos → singles Clark Connors vs Juice Robinson, con David Finlay interfiriendo.
 - [x] Ciudad/recinto → Youngstown, OH (Covelli Centre) (eWrestling,
       6/6/2026).
-- [ ] Finish + duración — sin confirmar por la discrepancia de abajo.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra un
+- [x] Finish + duración → spear de Connors tras el shillelagh de Finlay; 13:10.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: corregido a singles Connors vs Juice, gana Connors (spear tras shillelagh de Finlay, 13:10). Nota original: la ficha registra un
       rematch de equipos The Dogs vs The Guns; las fuentes
       consultadas (Fightful/Wrestling Inc/smarkoutmoment,
       6/6/2026) no registran ese tag match en la card del 6/6 —

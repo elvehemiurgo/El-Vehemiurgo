@@ -54,7 +54,7 @@ video, como indica la regla 5 del README.
 6. **`archive/matches/2026-05-30-hazuki-vs-maya-world-aew-collision.md`**
    (lote 18) — la ficha registra victoria de Maya World; Wrestling Inc.
    registra lo contrario: Hazuki ganó en 10:20.
-7. **`archive/matches/2026-06-06-dogs-vs-guns-rematch-aew-collision.md`**
+7. **`archive/matches/2026-06-06-clark-connors-vs-juice-robinson-aew-collision.md`**
    y su segmento asociado (lote 18) — la ficha registra un tag team
    rematch; las fuentes no listan ese match en la card del 6/6 —
    registran un singles Clark Connors (The Guns) derrota a Juice

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tavion-heights
 estado: vivo
-ultima_actualizacion: 2026-09-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-04 s61 (VISIONADO DIRECTO — WWE NXT Heatwave, 30/8/2026)"
   - "Sub-agente research-nxt-heatwave-cont-nxt-010926 (research 2026-09-04) — WebSearch; WebFetch bloqueado por egress en este environment"
@@ -97,6 +97,12 @@ muy explosivo in-ring" mide exactamente ese momento de transición.
 Jackson Drake (c); Heights casi se lo lleva con un Ankle Lock sobre
 un pie lesionado de Drake, pero **pierde** por 450 Splash. Ver
 [`../matches/2026-09-08-jackson-drake-vs-tavion-heights-nxt.md`](../matches/2026-09-08-jackson-drake-vs-tavion-heights-nxt.md).
+
+### Sesión 2026-10-06 s01 — La segunda traición de Borne (NXT 15/9)
+
+- **Ángulo con Myles Borne** (NXT 15/9): *"cuando se abrazan y la segunda traiciòn, realmente vi buen acting, o sea, full kayfabe"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-15-myles-borne-tavion-heights-disculpa-traicion-nxt.md`](../segments/2026-09-15-myles-borne-tavion-heights-disculpa-traicion-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

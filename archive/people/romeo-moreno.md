@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: romeo-moreno
 estado: vivo
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — WWE NXT, 2/6/2026)"
   - "Sub-agente completar-stubs-2026-10 (research 2026-10-05) — sin búsquedas nuevas (budget de WebSearch agotado); consolidación del research ya registrado en la ficha (s51); WebFetch bloqueado por egress"
@@ -137,6 +137,12 @@ que eso baje la clase: la crítica es de detalle, no de fondo.
 **Cae el match**: Julius Creed lo remata con un double sit-out
 powerbomb tras una clothesline. Ver
 [`../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md`](../matches/2026-09-08-noam-dar-romeo-moreno-vs-creed-brothers-nxt.md).
+
+### Sesión 2026-10-06 s01 — El diplomado europeo (NXT 22/9)
+
+- **Con Noam Dar vs Los Americanos, Dusty Classic** (NXT 22/9): *"realmente un diplomado intenso para Romeo que se lo merece"*. Clase: **Instant Classic Crown+** (PW·FS·WE+). Ficha: [`../matches/2026-09-22-noam-dar-romeo-moreno-vs-los-americanos-dusty-classic-nxt.md`](../matches/2026-09-22-noam-dar-romeo-moreno-vs-los-americanos-dusty-classic-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

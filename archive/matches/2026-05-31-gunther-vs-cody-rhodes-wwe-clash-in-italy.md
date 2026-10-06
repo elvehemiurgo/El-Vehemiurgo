@@ -7,8 +7,8 @@ programa: "Clash in Italy"
 fecha: 2026-05-31
 ciudad: "Turín, Italia"
 recinto: "Inalpi Arena"
-tipo_match: "singles"
-estipulacion: "standard"
+tipo_match: "singles — title match"
+estipulacion: "Undisputed WWE Championship — defensa de Cody Rhodes"
 duracion: "11:35"
 finish: "Cody Cutter + Cross Rhodes, pinfall"
 ganador: "Cody Rhodes — retiene el Undisputed WWE Championship"
@@ -22,7 +22,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Me gustó, no invertí en los stakes, by the book, pero buen show — la secuencia final con la sleeper y las cutters quedó cool"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s02 (visión directa — Clash in Italy, 31/5/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Cagematch, WWE.com, Bleacher Report); WebFetch bloqueado por egress"
@@ -31,7 +31,7 @@ tags: [wwe-2026, clash-in-italy, gunther, cody-rhodes, cody-babyface-efectivo, s
 
 # Gunther vs Cody Rhodes — Clash in Italy (31/5/2026)
 
-> Primer capítulo del programa Gunther vs Cody. **Doble clase con reserva declarada sobre los stakes**: el Vehemiurgo no invirtió en la premisa, pero el show y la ejecución sostienen la clase.
+> Primer capítulo del programa Gunther vs Cody, con el Undisputed WWE Championship en juego (Cody retiene). **Doble clase con reserva declarada sobre los stakes**: el Vehemiurgo no invirtió en la premisa, pero el show y la ejecución sostienen la clase.
 
 ## Lectura del Vehemiurgo
 
@@ -50,12 +50,17 @@ tags: [wwe-2026, clash-in-italy, gunther, cody-rhodes, cody-babyface-efectivo, s
 - **Ambos entretienen en el micrófono** — el mérito se reparte, no es un carry.
 - **El pico está en los minutos finales**: la secuencia de **sleeper y cutters** es lo que el Vehemiurgo destaca por nombre.
 
+## Corrección (2026-10-06)
+
+- `estipulacion`: de "standard" a **Undisputed WWE Championship**;
+  Cody Rhodes retiene (Cagematch, WWE.com).
+
 ## Pendientes / huecos
 
 - [x] Finish, duración → Cody Cutter + Cross Rhodes; 11:35 (Cagematch, WWE.com)
 - [ ] Ubicación en el show.
 - [x] Ciudad y recinto. → Turín, Italia / Inalpi Arena (Cagematch/WWE.com)
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra `estipulacion: standard` vs Cagematch/WWE.com: fue **por el Undisputed WWE Championship** (Cody retiene).
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: corregido a defensa del Undisputed WWE Championship. Nota original: la ficha registra `estipulacion: standard` vs Cagematch/WWE.com: fue **por el Undisputed WWE Championship** (Cody retiene).
 
 ## Piezas relacionadas
 

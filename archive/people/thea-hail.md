@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: thea-hail
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Sub-agente card-wwe-nxt-210726 (research 2026-08-01, closed)"
   - "Sub-agente card-wwe-nxt-040826 (research 2026-08-01, closed) — Wrestling Inc, Slam Wrestling"
@@ -36,6 +36,12 @@ Vehemiurgo sobre el match (elogio de conjunto, no individual).
 
 **Lectura sintética**: **WE** para el match completo, sin distinción
 individual.
+
+### Sesión 2026-10-06 s01 — Rollup a Zaria (NXT 22/9)
+
+- **Con La Catalina vs Zaria y Kelani Jordan** (NXT 22/9): *"Thea se ha puesto fuerte, está más stif y de hecho si puede rendir in ring"*. Clase: **Instant Classic Crown** (PW·FS·WE). Ficha: [`../matches/2026-09-22-la-catalina-thea-hail-vs-zaria-kelani-jordan-nxt.md`](../matches/2026-09-22-la-catalina-thea-hail-vs-zaria-kelani-jordan-nxt.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

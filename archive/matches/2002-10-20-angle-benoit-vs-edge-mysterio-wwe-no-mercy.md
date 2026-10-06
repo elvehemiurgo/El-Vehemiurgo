@@ -11,11 +11,11 @@ programa: "No Mercy 2002"
 fecha: 2002-10-20
 ciudad: "Little Rock, AR"
 recinto: "Alltel Arena"
-tipo_match: "tag team — semifinales WWE Tag Team Championship Tournament"
-estipulacion: "[verif] — semifinales tournament por título tag (creación del WWE Tag Team Championship)"
+tipo_match: "tag team — final WWE Tag Team Championship Tournament"
+estipulacion: "Final del torneo por el WWE Tag Team Championship (título nuevo del SmackDown brand) — ganadores = primeros campeones"
 duracion: "22:03"
 finish: "Angle contrarresta y aplica el Ankle Lock a Edge, que hace tap out"
-ganador: "Kurt Angle & Chris Benoit"
+ganador: "Kurt Angle & Chris Benoit (primeros WWE Tag Team Champions)"
 referee: ""
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -27,7 +27,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo + Dossier WWE SmackDown 2002 Mysterio/Angle/Eddie/Edge/Brock saga"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (wikipedia, tjrwrestling, bleacherreport); WebFetch bloqueado por egress"
@@ -37,7 +37,8 @@ tags: [wwe-2002, no-mercy-2002, kurt-angle, chris-benoit, edge, rey-mysterio, sm
 # Angle & Benoit vs Edge & Mysterio — WWE No Mercy 2002 (20 oct 2002)
 
 > **Peak PPV tag del SmackDown Six concept**. Cuatro de los seis
-> SmackDown Six en un solo match. Considerado **uno de los
+> SmackDown Six en un solo match: **final del torneo** que corona
+> a Angle & Benoit como **primeros WWE Tag Team Champions**. Considerado **uno de los
 > mejores PPV tag matches de la era WWE moderna** por consenso
 > editorial (incluida la escuela Meltzer-school como dato de
 > archivo). Pieza centerpiece del cluster en
@@ -50,10 +51,11 @@ tags: [wwe-2002, no-mercy-2002, kurt-angle, chris-benoit, edge, rey-mysterio, sm
   Tag Title de Raw quedó como World Tag Team Championship).
 - **17 oct 2002 SmackDown**: Angle & Benoit vs Los Guerreros
   (otra semifinal del torneo).
-- **No Mercy 2002 (20 oct)**: Angle & Benoit vs Edge & Mysterio
-  como semifinal del lado opuesto del bracket.
-- **Final del torneo** (Survivor Series 2002): triple threat
-  tag con Los Guerreros agregados como wildcard.
+- **No Mercy 2002 (20 oct)** *(este match)*: **final del torneo**
+  — Angle & Benoit derrotan a Edge & Mysterio y son coronados
+  **primeros WWE Tag Team Champions**.
+- **Survivor Series 2002 (17 nov)**: triple threat tag de
+  eliminación por el título ya existente (gana Los Guerreros).
 
 ## Significancia editorial
 
@@ -87,6 +89,16 @@ como entry propio del PPV.)
 + tag storytelling clásico + intensidad in-ring. **Pieza
 centro-mesa** del cluster entero.
 
+## Corrección (2026-10-06)
+
+- **Ronda del torneo**: de *semifinal* a **final** del WWE Tag Team
+  Championship Tournament. Angle & Benoit son coronados **primeros WWE
+  Tag Team Champions** del SmackDown brand. `tipo_match`,
+  `estipulacion`, `ganador`, lead y storyline ajustados; Survivor
+  Series 2002 deja de figurar como final del torneo.
+- Fuente: Wikipedia + TJR Wrestling (vía snippets, research
+  barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
 - [x] Ganador + finish + duración (de memoria: probable Angle & Benoit avanzan a final). → Angle & Benoit ganan por sumisión (Ankle Lock de Angle a Edge); 22:03 (Wikipedia/TJR vía snippets).
@@ -98,10 +110,10 @@ centro-mesa** del cluster entero.
 - [ ] Verbatim Edge en *E&C Show* sobre el match (probable
       existencia).
 - [ ] **Asignación de clase del Vehemiurgo**.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra el match como **semifinal** del torneo; las fuentes lo dan como **final**: Angle & Benoit coronados **primeros WWE Tag Team Champions** en No Mercy 2002 (Wikipedia/TJR vía snippets).
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: el match fue la final del torneo; Angle & Benoit primeros WWE Tag Team Champions. Nota original: la ficha registra el match como **semifinal** del torneo; las fuentes lo dan como **final**: Angle & Benoit coronados **primeros WWE Tag Team Champions** en No Mercy 2002 (Wikipedia/TJR vía snippets).
 
 ## Piezas relacionadas
 
 - [`../../dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md`](../../dossiers/draft-wwe-smackdown-2002-mysterio-angle-eddie-edge-brock-saga.md).
 - [`./2002-11-17-mysterio-edge-vs-guerreros-vs-angle-benoit-wwe-survivor-series.md`](./2002-11-17-mysterio-edge-vs-guerreros-vs-angle-benoit-wwe-survivor-series.md)
-  — final del torneo (triple threat tag).
+  — triple threat tag de eliminación por el título (Survivor Series 2002).

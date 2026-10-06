@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: roxanne-perez
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE Raw, 30/3/2026)"
 tags: [roxanne-perez, wwe-raw-2026, regreso, wrestling-entertainment, primer-registro-individual]
@@ -57,7 +57,7 @@ backstage; protagonismo total en el tag team match de su ciudad
 natal (clase parcial solo en los minutos finales). Ver
 [`../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md`](../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md)
 y
-[`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md).
+[`../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md).
 
 ### Sesión 2026-07-14 s41 — Judgment Day la encara: fórmula "tipo Bloodline"
 
@@ -271,6 +271,12 @@ estancada como enhancement. Piezas:
 [vs Iyo Sky y La Catalina](../matches/2026-09-21-iyo-sky-vs-roxanne-perez-vs-la-catalina-mitb-wwe-raw.md) (ICC+) ·
 [careo con Lola Vice](../segments/2026-09-21-careo-roxanne-lola-vice-wwe-raw.md) (sin clase).
 
+### Sesión 2026-10-06 s01 — Promo con Raquel (Raw 7/9)
+
+- **Promo con Raquel Rodríguez** (Raw 7/9): *"promo sólida de Roxanne y Raquel, estuvo cool"*. Clase: **Wrestling Entertainment**. Ficha: [`../segments/2026-09-07-roxanne-perez-raquel-rodriguez-promo-wwe-raw.md`](../segments/2026-09-07-roxanne-perez-raquel-rodriguez-promo-wwe-raw.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.
@@ -286,7 +292,7 @@ estancada como enhancement. Piezas:
 - [`../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md`](../segments/2026-06-01-roxanne-perez-planes-judgment-day-wwe-raw.md)
 - [`../segments/2026-03-30-roxanne-perez-regreso-wwe-raw.md`](../segments/2026-03-30-roxanne-perez-regreso-wwe-raw.md)
 - [`../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md`](../segments/2026-04-27-liv-roxanne-finn-backstage-wwe-raw.md)
-- [`../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-liv-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
+- [`../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md`](../matches/2026-04-27-roxanne-raquel-vs-bayley-lyra-wwe-raw.md)
 - [`../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md`](../segments/2026-05-04-judgment-day-encara-roxanne-wwe-raw.md)
 - [`../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md`](../segments/2026-05-11-roxanne-raquel-promo-campeonas-emboscada-wwe-raw.md)
 - [`../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md`](../segments/2026-05-11-judgment-day-chicas-fans-byron-saxton-wwe-raw.md)

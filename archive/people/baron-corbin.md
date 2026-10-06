@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: baron-corbin
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "El Vehemiurgo, notebook 2026-08-01 s11, s16 (visión directa)"
 ---
@@ -88,6 +88,12 @@ Williams la misma noche.
 
 **Pieza de la sesión**:
 [vs Lil Yachty → vs Trick Williams](../matches/2026-09-06-lil-yachty-vs-baron-corbin-five-minute-challenge-snme.md) (WE)
+
+### Sesión 2026-10-06 s01 — La jaula y la pregunta de booking (SmackDown 25/9)
+
+- **Vs Trick Williams, steel cage** (SmackDown 25/9): *"no entiendo porque Corbin es tan poderoso en el booking de WWE pero bueno"*. Clase: **Wrestling Entertainment**. Ficha: [`../matches/2026-09-25-trick-williams-vs-baron-corbin-steel-cage-us-title-wwe-smackdown.md`](../matches/2026-09-25-trick-williams-vs-baron-corbin-steel-cage-us-title-wwe-smackdown.md)
+
+  — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
 ## Pendientes / huecos
 

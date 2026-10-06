@@ -10,8 +10,8 @@ recinto: "WWE Performance Center"
 tipo_match: "singles"
 estipulacion: "sin título"
 duracion: "3:30 [una fuente]"
-finish: "[verif — visto en video]"
-ganador: "Lexis King"
+finish: "One-Armed Powerbomb de Lucien Price, pinfall (Fightful) — sin aclarar si Price remata o King contrarresta y cubre"
+ganador: "Lexis King (research 2026-08-01) / Lucien Price (lectura posible del finish de Fightful) según fuente"
 referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
@@ -22,7 +22,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Lexis está haciendo todo el repertorio de MJF, es MJF en NXT, bueno en el mic, lo coachearon para parecerse a MJF aunque conserva crossbodies y superkicks; siguen el booking de Price con su historia tras la unión de Numa a Perros del Mal, podría ser un face cool, le falta mucho; esta lucha está ok"
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-08-01 s34 (VISIONADO DIRECTO — WWE NXT 11/8/2026)"
   - "Sub-agente nxt-110826-pase2 (research 2026-08-01) — identificación y contexto"
@@ -68,11 +68,19 @@ tags: [wwe-2026, nxt, lexis-king, brian-pillman-jr, lucien-price, mjf-comparacio
   de [Lucien Price](../people/lucien-price.md) para el detalle del
   cruce WWE-AAA que sostiene su historia.
 
+## Corrección (2026-10-06)
+
+- `ganador`/`finish`: conflicto sin desempate. El archivo registraba
+  ganador Lexis King; Fightful describe el finish como One-Armed
+  Powerbomb (pinfall) de Price sin aclarar quién cubre. Se conservan
+  ambas versiones en `ganador` y se registra la descripción de
+  Fightful en `finish`.
+
 ## Pendientes / huecos
 
 - [x] Duración. → 3:30 [una fuente] (Fightful, research 2026-10-05)
 - [ ] Finish exacto.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra ganador
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: `ganador` con ambas versiones (King / Price) y finish de Fightful registrado; sin desempate. Nota original: la ficha registra ganador
       Lexis King, pero Fightful describe el finish como un **One-Armed
       Powerbomb (pinfall) de Price** — sin aclarar si fue Price
       rematando a King o King contrarrestando y cubriendo. No se

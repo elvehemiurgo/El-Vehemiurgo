@@ -1,14 +1,14 @@
 ---
 match: "Jay White & Juice Robinson vs David Finlay & Clark Connors"
-slug: "2026-07-26-jay-juice-vs-finlay-connors-dog-collar-aew-redemption"
+slug: "2026-07-26-jay-juice-vs-finlay-connors-double-chain-aew-redemption"
 participantes: ["Jay White", "Juice Robinson", "David Finlay", "Clark Connors"]
 empresa: "AEW"
 programa: "Redemption"
 fecha: 2026-07-26
 ciudad: "Montreal, Quebec, Canadá"
 recinto: "Bell Centre"
-tipo_match: "tag team — dog collar match"
-estipulacion: "dog collar match"
+tipo_match: "tag team — Tag Team Double Chain Match"
+estipulacion: "Tag Team Double Chain Match (nombre oficial según coberturas; el dictado la llama dog collar)"
 duracion: "[verif]"
 finish: "[verif]"
 ganador: "The Dogs (David Finlay & Clark Connors)"
@@ -18,19 +18,20 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Wrestling Entertainment — 'se merece un enterteinment class', con crítica extensa de timing de la estipulación"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s46 (visión directa — AEW Redemption, 26/7/2026)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Wrestling Inc., Wrestleview, Yahoo Sports); WebFetch bloqueado por egress"
 tags: [jay-white, juice-robinson, david-finlay, clark-connors, aew-redemption-2026, tag-team, dog-collar-match, wrestling-entertainment, critica-booking-timing-estipulacion, estipulacion-prematura, bang-bang-gang, the-dogs]
 ---
 
-# Jay White & Juice Robinson vs David Finlay & Clark Connors (dog collar) — AEW Redemption (26 jul 2026)
+# Jay White & Juice Robinson vs David Finlay & Clark Connors (Double Chain Match) — AEW Redemption (26 jul 2026)
 
 > **Wrestling Entertainment** (*"se merece un enterteinment
 > class"*), con la crítica de booking más extensa y específica de
-> la sesión: la dog collar match llegó **antes de tiempo** en la
-> rivalidad.
+> la sesión: la estipulación de cadenas —*Tag Team Double Chain
+> Match* en la nomenclatura oficial, "dog collar" en el dictado—
+> llegó **antes de tiempo** en la rivalidad.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -103,11 +104,22 @@ Pese a toda la crítica de secuencia, la clase se sostiene:
 Wrestling Entertainment. La reserva es sobre el booking de largo
 plazo, no sobre la ejecución del match en sí.
 
+## Corrección (2026-10-06)
+
+- `estipulacion`/`tipo_match`: de "dog collar match" a **Tag Team
+  Double Chain Match**, nombre usado por Wrestling Inc., Wrestleview,
+  PWTorch y ProWrestling.net. Precisión sobre la nota de research: el
+  verbatim **sí** dice "dog collar" (tres veces); la lectura
+  sintética conserva ese término como vocabulario del take.
+- El verbatim del Vehemiurgo se preserva; su recuerdo de visionado
+  difiere de la fuente en el nombre de la estipulación (dog collar vs
+  double chain). Slug conservado por estabilidad de links.
+
 ## Pendientes
 
 - [x] Ganador + ciudad/recinto → The Dogs (Finlay & Connors); Montreal, Quebec, Canadá, Bell Centre (research 2026-10-05, Wrestling Inc./Wrestleview).
 - [ ] Finish exacto + duración — no reportados por las fuentes accesibles.
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra la estipulación como "dog collar match" (nombre de archivo y `estipulacion`), pero múltiples coberturas (Wrestling Inc., Wrestleview, PWTorch, ProWrestling.net) la llaman **"Double Chain Match"** / "Tag Team Double Chain Match" — no "dog collar". El volcado verbatim del Vehemiurgo tampoco usa "dog collar" literalmente, solo "cadenas". Posible error de nomenclatura heredado; no se renombra el archivo por esta ley.
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: estipulación corregida a Tag Team Double Chain Match; "dog collar" queda como término del dictado. Nota original: la ficha registra la estipulación como "dog collar match" (nombre de archivo y `estipulacion`), pero múltiples coberturas (Wrestling Inc., Wrestleview, PWTorch, ProWrestling.net) la llaman **"Double Chain Match"** / "Tag Team Double Chain Match" — no "dog collar". El volcado verbatim del Vehemiurgo tampoco usa "dog collar" literalmente, solo "cadenas". Posible error de nomenclatura heredado; no se renombra el archivo por esta ley.
 - [x] ~~Lectura de alianza cruzada~~ → **CORREGIDO (s47, por el
       Vehemiurgo)**: no hay alianza cruzada — **Finlay & Connors
       SON The Dogs** (War Dogs del linaje Bullet Club), contra Jay
