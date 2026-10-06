@@ -69,7 +69,7 @@ tags: [wwe-raw-2026, birmingham, bron-breakker, rey-mysterio, ethan-page, money-
 >
 > — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
-- **Clase: se mantiene ICC+.** Esta segunda lectura dice *"las 3 clases"* sin el +; la primera (s67) lo había declarado literal. Como el + no se infiere ni se quita sin declaración explícita, queda la clase más alta ya declarada. **Pendiente de ratificar** si el Vehemiurgo quiere bajarla a ICC.
+- **Clase: ICC+, ratificada** el 2026-10-06 s02: *"la triple de Raw 7/9 queda ICC+"* (verbatim). La segunda lectura decía *"las 3 clases"* sin el +; el Vehemiurgo confirmó la corona +.
 - *"Este primer roce puede ser foreshadowing de un futuro WrestleMania"*: Breakker vs Page como cartelera a largo plazo.
 - *"Rey Mysterio moviéndose como si fuera 2003."*
 
