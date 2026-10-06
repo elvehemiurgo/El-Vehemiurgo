@@ -39,7 +39,7 @@ ultima_actualizacion: 2026-06-17
 
 ### 1. Myers vs Moose first time ever — PERFECT MATCH + candidato MOTY
 
-**Distribución**: `archive/matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`
+**Distribución**: `archive/matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`
 (triple clase).
 
 - ***"Tiene que ser de lo más genial del año"*** — **candidato a
@@ -107,7 +107,7 @@ Refuerza el patrón TNA bien bookeada.
 
 ## Distribuciones realizadas
 
-- [x] Match anchor: `archive/matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`
+- [x] Match anchor: `archive/matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`
       (Perfect Match, candidato MOTY).
 - [x] Fact-sheet `archive/people/brian-myers.md` (losing streak
       callback + The System).

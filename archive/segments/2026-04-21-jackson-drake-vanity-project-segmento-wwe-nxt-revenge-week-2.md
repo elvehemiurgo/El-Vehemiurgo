@@ -31,7 +31,7 @@ tags: [jackson-drake, blake-monroe, vanity-project, wwe-nxt-2026, wrestling-ente
 
 **Lectura sintética**: reafirma el estatus alto de Vanity Project,
 ya elogiado como "generación muy poderosa" el 17/3/2026 (ver
-[`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md))
+[`../matches/2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md))
 y ya de alta en THE FUTURE in 2026. Ver
 [`../people/jackson-drake.md`](../people/jackson-drake.md),
 [`../people/blake-monroe.md`](../people/blake-monroe.md).

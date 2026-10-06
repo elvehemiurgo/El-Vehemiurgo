@@ -92,6 +92,6 @@ tags: [aew-2021, full-gear-2021, hangman-adam-page, kenny-omega, aew-world-champ
   paralelo *finishing the story* WMXL 2024.
 - [`./2024-04-07-cody-rhodes-vs-roman-reigns-wrestlemania-xl-day-2.md`](./2024-04-07-cody-rhodes-vs-roman-reigns-wrestlemania-xl-day-2.md)
   — paralelo babyface earning championship multi-año build.
-- [`./2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](./2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md)
+- [`./2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](./2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md)
   — Kenny Omega NJPW pre-AEW (linaje Omega-Page tag history
   precedente).

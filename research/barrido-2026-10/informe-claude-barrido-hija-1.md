@@ -22,7 +22,7 @@ errores antes de cada commit.
 
 ## Discrepancias documentadas (requieren atención editorial)
 
-1. **`archive/matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`**
+1. **`archive/matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`**
    — la ficha fecha el show el 2018-06-30; las fuentes consultadas
    (F4WOnline, Cageside Seats, Wrestleview) lo fechan el 2018-07-07.
    Además, la ficha describe la estipulación como IWGP US Heavyweight

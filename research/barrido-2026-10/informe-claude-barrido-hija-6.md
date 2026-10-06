@@ -35,7 +35,7 @@ video, como indica la regla 5 del README.
    agregada vía WebSearch (profightdb/Cagematch, Fightful) lo da como
    Alex Reynolds & **Dan Barry** — coincidiendo con el dictado original
    del Vehemiurgo, no con la "corrección".
-2. **`archive/segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md`**
+2. **`archive/segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md`**
    (lote 17) — la ficha la registra como firma MJF vs Bailey; los
    recaps dicen que el segmento de apertura fue la firma MJF vs Kenny
    Omega para Dynasty, con el cruce de Bailey dentro del mismo segmento.

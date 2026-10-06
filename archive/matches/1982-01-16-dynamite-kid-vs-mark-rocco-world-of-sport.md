@@ -1,13 +1,13 @@
 ---
 match: "Dynamite Kid vs Mark 'Rollerball' Rocco"
-slug: "dynamite-kid-vs-mark-rocco-british-wrestling-1981-12-19"
+slug: "1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport"
 participantes:
   - "Dynamite Kid (Tom Billington — British wrestling pillar pre-Calgary)"
   - "Mark 'Rollerball' Rocco (Joint Promotions / Dale Martin British heavyweight pillar)"
 empresa: "**Joint Promotions / Dale Martin Promotions** (London territory) — confirmed sub-agente 2026-05-10"
-programa: "**ITV World of Sport** Saturday afternoon broadcast — comentarista Kent Walton"
-fecha: 1981-12-19
-ciudad: "**Lewisham, South London** (probable taping Catford/Lewisham broadcast 19 dic)"
+programa: "**ITV World of Sport** Saturday afternoon broadcast (emisión 16 ene 1982; taping 30 nov 1981) — comentarista Kent Walton"
+fecha: 1982-01-16
+ciudad: "**Catford/Lewisham, South London** — taping 30 nov 1981 (emisión WoS 16 ene 1982)"
 recinto: "[verif Lewisham Theatre vs Catford specific venue]"
 tipo_match: "singles — **British rounds rules (Admiral-Lord Mountevans rules)** + **World Heavy-Middleweight Title** (Rocco defendiendo)"
 estipulacion: "**British rounds rules**: 6 rounds × 3 min con descanso 30 seg + best of 2-out-of-3 falls (pin/submission/count-out 10 = KO) + KO o DQ termina al instante + public warnings escalando a DQ. Codificadas 1947 por comité presidido por Almirante Lord Mountevans. **NXT Heritage Cup contemporáneo (WWE 2020+) es heredero formal directo**."
@@ -18,14 +18,14 @@ referee: "[verif]"
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
-rating_tv: "**Broadcast ITV World of Sport sábado 19 dic 1981** Saturday afternoon strand (Kent Walton voz tradicional del strand 1965-1985)"
+rating_tv: "**Broadcast ITV World of Sport sábado 16 ene 1982** (grabado 30 nov 1981; no consta emisión 19 dic 1981) — Saturday afternoon strand (Kent Walton voz tradicional del strand 1965-1985)"
 buy_rate: ""
 encuentros_previos: "≥2 documentados: **26 nov 1980 Walthamstow** (★★★★ Cagematch) + **6 dic 1980 World of Sport broadcast**. Múltiples matches rivalidad 80s mapeados por sub-agente."
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "TRIPLE-CLASE OPERATIVA: Perfect Wrestling Class + Fighting Spirit Class + Wrestling Entertainment Class (asignada explícitamente — 'se merece todas las clases con creces')"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo"
@@ -34,7 +34,7 @@ fuentes_principales:
 tags: [british-wrestling-1981, world-of-sport-itv, joint-promotions-dale-martin, dynamite-kid-tom-billington, mark-rollerball-rocco, wigan-tradition-catch-as-catch-can, rivalidad-80s-multi-match, triple-clase-operativa, vehemiurgo-mejores-luchas-de-la-historia, linaje-chris-benoit-davey-richards-tommy-billington, claudemd-sec-2-british-world-of-sport, sub-agente-pendiente]
 ---
 
-# Dynamite Kid vs Mark "Rollerball" Rocco — British wrestling (19 dic 1981)
+# Dynamite Kid vs Mark "Rollerball" Rocco — British wrestling (grabado 30 nov 1981, emitido 16 ene 1982)
 
 > **TERCER MATCH TRIPLE-CLASE OPERATIVA del proyecto
 > Vehemiurgia** (tras Kira vs Persephone 21 sept 2025 + Hayabusa/
@@ -223,9 +223,8 @@ Verbatim Vehemiurgo (subtext doctrinal):
 |---|---|---|---|
 | **26 nov 1980** | Walthamstow Assembly Hall (taped → WoS) | British rounds rules, World H-M Title | ★★★★ Cagematch (match signature previo) |
 | **6 dic 1980** | World of Sport broadcast | British rounds rules | YouTube documentado |
-| **30 nov 1981** | Catford (probable taping) | British rounds rules | [verif] |
-| **19 dic 1981** ★ | **Lewisham South London** *(este match)* | World H-M Title, British rules | **DOUBLE KO** — Rocco retiene |
-| **16 ene 1982** | WoS broadcast | **3 rounds × 15 min, best of 2 falls** World H-M | Rematch directo |
+| **30 nov 1981** ★ | **Catford/Lewisham** — taping *(este match)* | World H-M Title, British rules | **DOUBLE KO** — Rocco retiene |
+| **16 ene 1982** | WoS broadcast *(emisión de este match)* | **3 rounds × 15 min, best of 2 falls** World H-M | Emisión del taping del 30 nov 1981 (antes registrada como rematch) |
 | **1983** | All Star tour | Tag: Rocco & Fit Finlay vs Dynamite & Marty Jones | Dynamite pina a Finlay |
 | **1983** | All Star tour | 30-min iron man | Time-limit draw 1-1 |
 | **1983** | All Star tour | **LADDER MATCH** World H-M Title | **Rocco retiene** atando brazos Dynamite — **pieza pionera ladder match UK** |
@@ -253,7 +252,8 @@ Razor 1994"*.
 **YouTube uploads confirmados** (request *"necesito ver y
 estudiar toda la rivalidad"*):
 
-- **Dynamite vs Rocco 19 dic 1981** (este match anchor):
+- **Dynamite vs Rocco, grabado 30 nov 1981 / emitido 16 ene 1982**
+  (este match anchor; registrado antes como 19 dic 1981):
   `youtube.com/watch?v=Y6IkFdJEhHI`
 - **26 nov 1980 Walthamstow**: `youtube.com/watch?v=QNiCtpBbUGA`
 - **6 dic 1980 World of Sport**: parte 1
@@ -291,6 +291,26 @@ estudiar toda la rivalidad"*):
 10. **Terry Rudge vs Marty Jones** (citado por William Regal
     como su match favorito de todos los tiempos).
 
+## Corrección (2026-10-06)
+
+- **Fecha y archivo corregidos**: `fecha` pasa de 1981-12-19 a 1982-01-16; la ficha se renombró en consecuencia (barrido de discrepancias, 2026-10-06). Se usa la **fecha de emisión** (16/1/1982, ITV World of Sport), con grabación el 30/11/1981 en Catford/Lewisham, siguiendo el precedente del archivo para TV grabada.
+
+- **Fecha / emisión**: el Rocco vs Dynamite con double KO (World
+  Heavy-Middleweight) fue **grabado el 30 nov 1981 en
+  Catford/Lewisham y emitido en World of Sport el 16 ene 1982**; no
+  consta emisión del 19 dic 1981. `ciudad`, `programa`, `rating_tv`,
+  H1, tabla cronológica (las filas 30 nov / 19 dic / 16 ene eran el
+  mismo match) y material de visionado ajustados. Los dos links de
+  YouTube (19 dic y 16 ene) quedan listados: probablemente son el
+  mismo combate, a verificar al revisar el video.
+- El verbatim del Vehemiurgo se preserva; su recuerdo de visionado
+  difiere de la fuente en la fecha (dictó *"12.19.1981"*; la fuente da
+  taping 30 nov 1981 / emisión 16 ene 1982).
+- `fecha` y slug **no** se tocan: ficha listada para **RENOMBRAR** a
+  `1981-11-30-dynamite-kid-vs-mark-rocco-british-wrestling`.
+- Fuente: itvwrestling.co.uk (índices 81/82) + Cagematch (vía
+  snippets, research barrido-datos-duros-2026-10).
+
 ## Pendientes residuales
 
 - [x] ~~Empresa exacta~~ **CONFIRMED Joint Promotions / Dale
@@ -300,8 +320,8 @@ estudiar toda la rivalidad"*):
 - [x] ~~Finish~~ **CONFIRMED double KO Rocco retiene**.
 - [x] ~~Cobertura TV~~ **CONFIRMED ITV WoS broadcast Kent
       Walton**.
-- [ ] **Sede exacta Lewisham** (Theatre vs Catford taping).
-- [ ] **Discrepancia (research 2026-10-05)**: la ficha registra el DKO como match del 19 dic 1981 en Lewisham, distinto del taping de Catford del 30 nov 1981; snippets de itvwrestling.co.uk / Cagematch indican que el Rocco vs Dynamite con DKO (World Heavy-Middleweight) fue **grabado el 30 nov 1981 en Catford/Lewisham y emitido en WoS el 16 ene 1982** — no aparece emisión del 19 dic 1981 (itvwrestling.co.uk 81/82 + Cagematch, vía snippets).
+- [ ] **Sede exacta** del taping del 30 nov 1981 (Catford vs Lewisham venue específico).
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: match grabado 30 nov 1981 (Catford/Lewisham) y emitido en WoS el 16 ene 1982; no hubo emisión 19 dic 1981; fecha/slug pendientes de renombre. Nota original: la ficha registra el DKO como match del 19 dic 1981 en Lewisham, distinto del taping de Catford del 30 nov 1981; snippets de itvwrestling.co.uk / Cagematch indican que el Rocco vs Dynamite con DKO (World Heavy-Middleweight) fue **grabado el 30 nov 1981 en Catford/Lewisham y emitido en WoS el 16 ene 1982** — no aparece emisión del 19 dic 1981 (itvwrestling.co.uk 81/82 + Cagematch, vía snippets).
 - [ ] **Ladder match 1983 fecha + recinto exactos** —
       verif Wrestling Heritage / Cagematch directo.
 - [ ] **Total matches Dynamite vs Rocco** completo (subset TV

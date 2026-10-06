@@ -43,7 +43,7 @@ ciudad/recinto, resuelto de una vez al confirmar sede por show.)
    System = Moose, Eddie Edwards, Brian Myers, JDC; The Rascalz =
    Dezmond Xavier, Trey Miguel, Zachary Wentz, Myron Reed. Bronson no
    aparece en los recaps consultados.
-4. **`archive/matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md`**
+4. **`archive/matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md`**
    (lote 12): la ficha nombra al rival como "Elias"; el competidor
    real en TNA usa el ring name "Elijah" (Jeffrey Scuillo, el "Elias"
    de WWE, se renombró tras su salida de WWE en 2023 y debutó en TNA

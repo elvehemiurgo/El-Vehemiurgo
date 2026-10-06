@@ -65,7 +65,7 @@
 - archive/matches/2026-01-17-hardys-vs-righteous-tna-genesis-tag-title.md :: frontmatter placeholders=['duracion', 'referee', 'ciudad', 'recinto'] :: pendientes=['Recinto + ciudad del show.', 'Finish exacto + duración.']
 
 ## 2026-01-17 | TNA | Genesis 2026
-- archive/matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md :: frontmatter placeholders=['recinto'] :: pendientes=['Ganador + finish + duración.']
+- archive/matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md :: frontmatter placeholders=['recinto'] :: pendientes=['Ganador + finish + duración.']
 
 ## 2026-02-03 | WWE / TNA | NXT (taping; cross-promotional con TNA)
 - archive/matches/2026-02-03-zaruca-vs-elegance-brand-nxt.md :: frontmatter placeholders=[] :: pendientes=['Recinto, ciudad, attendance.', 'Duración exacta del match.', 'Mecánica del finish — cómo se ejecutó la *infighting*']

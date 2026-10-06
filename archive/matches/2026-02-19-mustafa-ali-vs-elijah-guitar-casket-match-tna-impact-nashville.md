@@ -89,7 +89,7 @@ intención + cada riesgo con recompensa**.
 ## Storyline y construcción
 
 - **Pre-match build**:
-  - **17 ene 2026 (Genesis)**: Ali vs Elias [→](2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) — match con tag `casket-build` (semilla de la estipulación posterior).
+  - **17 ene 2026 (Genesis)**: Ali vs Elias [→](2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md) — match con tag `casket-build` (semilla de la estipulación posterior).
   - **22 ene 2026 (Impact)**: Jeff Hardy vs Mustafa Ali [verif resultado, pendiente apertura].
   - **12 feb 2026 (Impact)**: Mustafa Ali and Elijah Promo Video [pendiente segment file].
   - **19 feb 2026**: el blow-off Guitar Casket Match — este match.
@@ -138,7 +138,7 @@ finge.
 
 - [`../people/mustafa-ali.md`](../people/mustafa-ali.md) — fact-sheet
   con take editorial completo.
-- [`./2026-01-17-mustafa-ali-vs-elias-tna-genesis.md`](./2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)
+- [`./2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md`](./2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md)
   — match previo del feud (semilla casket).
 - [`../topics/doctrina-workhorse-vivir-como-wrestlers.md`](../topics/doctrina-workhorse-vivir-como-wrestlers.md)
   — Ali como caso vivo 2026.

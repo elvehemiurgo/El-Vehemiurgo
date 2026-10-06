@@ -46,7 +46,7 @@ tags: [mustafa-ali, ex-wwe-204-live, tna-2025-2026-run-generacional, heel-protag
   - Sep 2025 — Ali & Trick Williams vs Leon Slater & Mike Santana.
   - 4 dic 2025 — Trey Miguel vs Mustafa Ali.
   - 8 ene 2026 — Mustafa Ali in-ring segment.
-  - **17 ene 2026 — vs Elias (Genesis 2026 PPV)** ([→](../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)) — debut PPV TNA post-WWE. Tag `casket-build`.
+  - **17 ene 2026 — vs Elias (Genesis 2026 PPV)** ([→](../matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md)) — debut PPV TNA post-WWE. Tag `casket-build`.
   - 22 ene 2026 — Jeff Hardy vs Mustafa Ali.
   - 12 feb 2026 — Mustafa Ali and Elijah promo video.
   - **19 feb 2026 — vs Elijah (Guitar Casket Match, Nashville)** ([→](../matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md))
@@ -283,7 +283,7 @@ momento fuerte del match corto. Ver
 
 - [`../matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md`](../matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md)
   — **Perfect Match triple clase**, anchor de la declaración 2026-06-17.
-- [`../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md`](../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)
+- [`../matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md`](../matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md)
   — PPV debut TNA del feud Ali-Elijah.
 
 ## Cross-links

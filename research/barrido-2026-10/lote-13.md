@@ -4,7 +4,7 @@
 - archive/matches/2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md :: frontmatter placeholders=['referee'] :: pendientes=['Referee.']
 
 ## 2026-02-19 | TNA Wrestling | Thursday Night iMPACT
-- archive/matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish exacto + duración + estipulación formal.', 'Recinto + ciudad.']
+- archive/matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['Finish exacto + duración + estipulación formal.', 'Recinto + ciudad.']
 - archive/matches/2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ganador', 'recinto'] :: pendientes=['Finish exacto + duración.', 'Recinto.']
 
 ## 2026-02-26 | TNA Wrestling | Thursday Night iMPACT

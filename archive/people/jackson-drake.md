@@ -28,7 +28,7 @@ tags: [jackson-drake, vanity-project, blake-monroe, wwe-nxt-2026, the-future-in-
 
 - **17/3/2026 (WWE NXT)** — con Blake Monroe (Vanity Project) vs
   American Made: Perfect Match (PW·FS·WE).
-  ([→](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)).
+  ([→](../matches/2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md)).
 - **21/4/2026 (WWE NXT Revenge Week 2)** — segmento con Blake
   Monroe: Wrestling Entertainment.
   ([→](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)).
@@ -230,7 +230,7 @@ State. Ver [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.
 - [`../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md`](../matches/2026-05-12-noam-dar-vs-jackson-drake-wwe-nxt.md)
 - [`../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md`](../segments/2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md)
 - [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)
-- [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
+- [`../matches/2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md)
 - [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)
 - [`../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md)

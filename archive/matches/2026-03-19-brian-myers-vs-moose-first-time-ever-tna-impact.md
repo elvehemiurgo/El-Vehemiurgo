@@ -1,10 +1,10 @@
 ---
 match: "Brian Myers vs Moose — First Time Ever"
-slug: "2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact"
+slug: "2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact"
 participantes: ["Brian Myers", "Moose"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT (emitido 19/3/2026 — fecha/slug pendientes de renombre)"
-fecha: 2026-02-19
+fecha: 2026-03-19
 ciudad: "College Park, GA"
 recinto: "Gateway Center Arena"
 tipo_match: "singles"
@@ -121,6 +121,8 @@ Este match es **capítulo clave del arc Moose vs The System**:
 **El arc sostiene el posible face turn de Moose** (sesión #16).
 
 ## Corrección (2026-10-06)
+
+- **Fecha y archivo corregidos**: `fecha` pasa de 2026-02-19 a 2026-03-19; la ficha se renombró en consecuencia (barrido de discrepancias, 2026-10-06).
 
 - **Show / fecha**: la card del TNA Impact del 19/2/2026 (Nashville)
   **no incluye** Myers vs Moose. El match con setup idéntico al

@@ -113,5 +113,5 @@ Wolves)? **Caso testigo en construcción** dentro del archivo.
 - [`../promotions/the-righteous.md`](../promotions/the-righteous.md).
 - [`../topics/hardys-como-plataforma-mentor.md`](../topics/hardys-como-plataforma-mentor.md)
   — tesis del Vehemiurgo, anchor TNA 2026.
-- [`./2026-01-17-mustafa-ali-vs-elias-tna-genesis.md`](./2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)
+- [`./2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md`](./2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md)
   — mismo show (Genesis 2026).

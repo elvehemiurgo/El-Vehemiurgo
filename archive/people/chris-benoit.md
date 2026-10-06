@@ -55,8 +55,8 @@ Declarado en la expansión del 2026-06-17 (*"Chris Benoit 31"*, luego #32), rama
 
 ### Mencionado / referencia editorial
 
-- [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md) (PW·FS·WE)
-- [`../matches/2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md`](../matches/2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md) (sin clase)
+- [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md) (PW·FS·WE)
+- [`../matches/2004-02-15-brock-lesnar-vs-eddie-guerrero-wwe-no-way-out.md`](../matches/2004-02-15-brock-lesnar-vs-eddie-guerrero-wwe-no-way-out.md) (sin clase)
 - [`../matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md`](../matches/2005-04-03-money-in-the-bank-ladder-match-wrestlemania-21.md) (sin clase)
 
 ## Cross-links

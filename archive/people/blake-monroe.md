@@ -205,7 +205,7 @@ y
 **Lectura sintética**: **THE FUTURE in 2026 #12** — Perfect Match
 vs American Made (17/3/2026) + segunda Wrestling Entertainment en
 segmento (21/4/2026). Ver
-[`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
+[`../matches/2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md)
 y
 [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md).
 
@@ -317,7 +317,7 @@ Ver [`./chelsea-green.md`](./chelsea-green.md) y
 - [`../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md`](../matches/2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md)
 - [`matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md`](../matches/2026-04-07-drake-monroe-vs-shiloh-hill-paxley-nxt.md)
   — Multi-clase Perfect Wrestling + Wrestling Entertainment.
-- [`../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-american-made-vs-vanity-project-wwe-nxt.md)
+- [`../matches/2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md`](../matches/2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md)
 - [`../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md`](../segments/2026-04-21-jackson-drake-vanity-project-segmento-wwe-nxt-revenge-week-2.md)
 - [`segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md`](../segments/2026-04-07-blake-monroe-vanity-project-alliance-nxt.md)
 - [`../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md`](../matches/2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md)

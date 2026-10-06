@@ -63,7 +63,7 @@ tags: [dynamite-kid, tom-billington, british-wrestling-pillar, joint-promotions-
 - **Rivalidad signature con Mark "Rollerball" Rocco** años
   80s (sub-agente mapeando completa).
 - **Match anchor Vehemiurgia**: **19 dic 1981 vs Mark Rocco**
-  ([`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md))
+  ([`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md))
   — **TERCER MATCH TRIPLE-CLASE OPERATIVA del proyecto
   Vehemiurgia**.
 
@@ -235,7 +235,7 @@ lanzado background mapeando.
 ## Piezas relacionadas
 
 ### Match centerpiece anchor
-- [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+- [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
   — **TERCER MATCH TRIPLE-CLASE OPERATIVA del proyecto
   Vehemiurgia**.
 

@@ -248,7 +248,7 @@ ejecución es perfecta.
 - [`./2025-09-21-kira-vs-persephone-arena-coliseo-tony-arellano-torreon.md`](./2025-09-21-kira-vs-persephone-arena-coliseo-tony-arellano-torreon.md)
 - [`./1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](./1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md)
   — **cross-link directo cluster Lariat top-tier triad**.
-- [`./1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](./1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+- [`./1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](./1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
 - [`./1963-12-02-rikidozan-vs-the-destroyer-jwa.md`](./1963-12-02-rikidozan-vs-the-destroyer-jwa.md)
   — **previo anchor Destroyer 12 años antes**, cross-link
   doctrinas Destroyer move repertoire + heel character work

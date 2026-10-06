@@ -10,7 +10,7 @@
 - archive/matches/2025-12-20-hijo-del-vikingo-vs-dragon-lee-aaa-guerra-de-titanes.md :: frontmatter placeholders=['ciudad', 'recinto'] :: pendientes=['Ganador + finish + duración.']
 
 ## 2026-03-28 | WWE AAA | AAA Rey de Reyes Week 2
-- archive/matches/2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md :: frontmatter placeholders=['ciudad', 'recinto'] :: pendientes=['**Finish + ganador + duración** del opener.']
+- archive/matches/2026-03-21-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md :: frontmatter placeholders=['ciudad', 'recinto'] :: pendientes=['**Finish + ganador + duración** del opener.']
 
 ## 2026-04-04 | AAA | AAA Worldwide
 - archive/matches/2026-04-04-flammer-vs-sussy-aaa-worldwide.md :: frontmatter placeholders=['duracion', 'referee', 'finish', 'ciudad', 'recinto'] :: pendientes=['Título exacto en juego + finish + duración + ciudad/recinto.']

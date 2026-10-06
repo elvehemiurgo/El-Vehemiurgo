@@ -70,7 +70,7 @@ tags: [speedball-mike-bailey, aew, high-flyer, kickboxer, mjf-perfect-match, bab
    cargar un Perfect Match contra un top heel como MJF.
 2. **El único pendiente es la promo** — coherente con lo visto en
    el contract signing previo (*"se ahogó en su promo"*, ver
-   [`../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md`](../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md)):
+   [`../segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md`](../segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md)):
    el defecto ya estaba sembrado antes del match.
 3. **Contraste generativo con MJF** — comparte cartel con el
    modern heel old-school cuya arma principal es la promo; el
@@ -200,7 +200,7 @@ lo que su gimmick sugeriría a primera vista.
 ## Piezas del Vehemiurgo donde aparece
 
 - [`../matches/2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md`](../matches/2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md)
-- [`../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md`](../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md)
+- [`../segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md`](../segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md)
 
 ## Cross-links
 

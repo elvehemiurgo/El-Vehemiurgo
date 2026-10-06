@@ -27,7 +27,7 @@ quedaron sin ningún cambio (ver abajo, presupuesto agotado).
 
 ## Discrepancias (7, todas en lote 13 — lote 14 y 15 sin discrepancias)
 
-1. **`archive/matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`**
+1. **`archive/matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`**
    — la ficha data el match el 19/2/2026, pero la card completa y
    confirmada de ese episodio (Nashville, The Pinnacle) no incluye
    a Myers vs Moose. El match con el setup descrito por el

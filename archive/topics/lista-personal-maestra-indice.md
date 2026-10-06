@@ -303,7 +303,7 @@ abajo), tal como solicitó el Vehemiurgo.
 | 264 | 2026-02-20 | match | RANDY ORTON VS ALEISTER BLACK SmackDown 20.02.2026 |  |  | pendiente |  |
 | 265 | 2026-02-19 | match | HEATHER BY ELEGANCE VS INDI HARTWELL TNA Impact 19.02.2026 | TNA |  | pendiente |  |
 | 266 | 2026-02-19 | segment | LEON SLATER, MIKE SANTANA, NICK AND RYAN NEMETH SEGMENT TNA Impact 19.02.2026 | TNA |  | pendiente |  |
-| 267 | 2026-02-19 | match | THE SYSTEM PROMO AGAINST MOOSE TNA Impact 19.02.2026 | TNA | PW·FS·WE | integrado | [→](../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md) |
+| 267 | 2026-02-19 | match | THE SYSTEM PROMO AGAINST MOOSE TNA Impact 19.02.2026 | TNA | PW·FS·WE | integrado | [→](../matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md) |
 | 268 | 2026-02-19 | segment | ARIANNA GRACE PROMO AS NEW KOS CHAMPION TNA Impact 19.02.2026 | TNA |  | pendiente |  |
 | 269 | 2026-02-19 | match | TESSA BLANCHARD VS JODI THREAT TNA Impact 19.02.2026 | TNA |  | pendiente |  |
 | 270 | 2026-02-19 | match | SINNER & SAINT VS SWANN & BDE TNA Impact 19.02.2026 | TNA |  | pendiente |  |
@@ -410,7 +410,7 @@ abajo), tal como solicitó el Vehemiurgo.
 | 371 | 2026-01-21 | match | SAMOA JOE VS MIKE BAILEY AEW Dynamite 21.01.2026 | AEW |  | pendiente |  |
 | 372 | 2026-01-20 | match | FALLON HENLEY & LAINEY REID VS SOL RUCA VS WREN QCC NXT 20.01.2026 |  |  | pendiente |  |
 | 373 | 2026-01-19 | match | CM PUNK VS FINN BÁLOR WWE Raw 19.01.2026 | WWE |  | pendiente |  |
-| 374 | 2026-01-17 | match | MUSTAFA ALI VS ELIAS TNA Genesis 17.01.2026 | TNA | — | integrado | [→](../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) |
+| 374 | 2026-01-17 | match | MUSTAFA ALI VS ELIAS TNA Genesis 17.01.2026 | TNA | — | integrado | [→](../matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md) |
 | 375 | 2026-01-17 | match | JDC VS EDDIE EDWARDS TNA Genesis 17.01.2026 | TNA |  | pendiente |  |
 | 376 | 2026-01-17 | match | LEI YING LEE VS SARIA TNA Genesis 17.01.2026 | TNA |  | pendiente |  |
 | 377 | 2026-01-17 | match | MOOSE VS JOE HENDRY VS CEDRIC ALEXANDER TNA Genesis 17.01.2026 | TNA |  | pendiente |  |
@@ -502,7 +502,7 @@ abajo), tal como solicitó el Vehemiurgo.
 | 463 | 2022-03-06 | match | CM PUNK VS MJF AEW Revolution Dog Collar Match | AEW | — | integrado | [→](../matches/2022-03-06-cm-punk-vs-mjf-dog-collar-match-aew-revolution.md) |
 | 464 | 2021-XX-XX | match | JACOB FATU VS ALEX HAMMERSTONE MLW Fightland 2021 | MLW |  | pendiente |  |
 | 465 | 2019-05-03 | match | DRAGON LEE VS TAIJI ISHIMORI NJPW Wrestling Dontaku 2019 | NJPW | — | integrado | [→](../matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md) |
-| 466 | 2018-06-30 | match | CODY RHODES VS KENNY OMEGA NJPW G1 Special in San Francisco 2018 | NJPW | — | integrado | [→](../matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
+| 466 | 2018-07-07 | match | CODY RHODES VS KENNY OMEGA NJPW G1 Special in San Francisco 2018 | NJPW | — | integrado | [→](../matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
 | 467 | 2017-07-07 | match | AJ STYLES VS KEVIN OWENS WWE MSG 07.07.2017 | WWE | — | integrado | [→](../matches/2017-07-07-aj-styles-vs-kevin-owens-wwe-msg.md) |
 | 468 | 2016-XX-XX | match | CHRIS HERO VS ZACK SABRE JR Limitless Wrestling 2016 |  |  | pendiente |  |
 | 469 | 2016-02-05 | match | AJ STYLES VS COREY HOLLIS GPW 05.02.2016 | GPW (Georgia Pro Wrestling / All-American Wrestling — verificar) | — | integrado | [→](../matches/2016-02-05-aj-styles-vs-corey-hollis-gpw.md) |

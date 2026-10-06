@@ -124,7 +124,7 @@ del **Perfect Match first time ever** del arc vs The System:
   clase. **El booking correcto maximiza a Moose**.
 - Refuerza la lectura babyface (#16): el arc vs The System es su
   mejor vehículo.
-- Match: [`../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md).
+- Match: [`../matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md).
 
 ### Sesión 2026-07-05 s02 — vs Eddie en Sacrifice: corta, cargada por el storyline
 

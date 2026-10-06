@@ -102,7 +102,7 @@ multi-año.
   Cody arc fase 3 cumbre.
 - [`../people/roman-reigns.md`](../people/roman-reigns.md) —
   1,316 días reign termina.
-- [`./2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](./2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md)
+- [`./2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](./2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md)
   — Cody arc fase 1.
 - [`./2024-aj-styles-vs-cody-rhodes-wwe-backlash.md`](./2024-aj-styles-vs-cody-rhodes-wwe-backlash.md)
   — primer defense post-WMXL.

@@ -44,7 +44,7 @@ tags: [elijah, ex-elias-wwe, gimmick-musical-guitarra, music-city-nashville-home
 - **2026 — feud signature con Mustafa Ali (Genesis → Casket
   Nashville)**:
   - **17 ene 2026 (Genesis)** — vs Ali, debut PPV TNA del feud
-    ([→](../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)).
+    ([→](../matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md)).
     Tag `casket-build`.
   - **29 ene 2026 (Impact)** — Jason Hotch vs Elias [pendiente].
   - **12 feb 2026 (Impact)** — Ali and Elijah promo video
@@ -169,7 +169,7 @@ Ver
   — **Perfect Match** Casket Music City.
 - [`../matches/2026-03-12-elijah-vs-aj-francis-tna-impact.md`](../matches/2026-03-12-elijah-vs-aj-francis-tna-impact.md)
   — anchor doctrina oficio básico.
-- [`../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md`](../matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)
+- [`../matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md`](../matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md)
   — PPV debut del feud.
 
 ## Cross-links

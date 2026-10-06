@@ -1,6 +1,6 @@
 ---
 match: "Mustafa Ali vs Elijah"
-slug: "mustafa-ali-vs-elias-tna-genesis-2026-01-17"
+slug: "2026-01-17-mustafa-ali-vs-elijah-tna-genesis"
 participantes:
   - "Mustafa Ali"
   - "Elijah"

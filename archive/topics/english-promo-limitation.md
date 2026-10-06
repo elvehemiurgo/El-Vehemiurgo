@@ -119,7 +119,7 @@ modelo histórico**:
   — pendiente abrir (multi-lingual top tier).
 
 ### Match anchor doctrina
-- [`../matches/2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md`](../matches/2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md)
+- [`../matches/2026-03-21-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md`](../matches/2026-03-21-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md)
   — match donde el Vehemiurgo declara la doctrina.
 
 ### Cluster legacy masters

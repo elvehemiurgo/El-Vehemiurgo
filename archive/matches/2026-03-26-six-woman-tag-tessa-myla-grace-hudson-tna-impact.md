@@ -1,7 +1,7 @@
 ---
-match: "Six-Woman Tag — Tessa Blanchard, Myla Grace & Harley Hudson vs [trío rival]"
+match: "Six-Woman Tag — Tessa Blanchard, Mila Moore & Victoria Crawford vs Jodi Threat, Myla Grace & Harley Hudson"
 slug: "2026-03-26-six-woman-tag-tessa-myla-grace-hudson-tna-impact"
-participantes: ["Tessa Blanchard", "Myla Grace", "Harley Hudson", "[verif trío rival]"]
+participantes: ["Tessa Blanchard", "Mila Moore", "Victoria Crawford", "Jodi Threat", "Myla Grace", "Harley Hudson"]
 empresa: "TNA Wrestling"
 programa: "Thursday Night iMPACT"
 fecha: 2026-03-26
@@ -18,11 +18,11 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Buena 3 contra 3 — Fighting Spirit + Wrestling Entertainment. Grace & Hudson lucieron geniales. Tessa protagonista interesante (un poco cringe, aún no habla como wrestler total, pero intensidad + apuesta por polémica y heat)"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: stub
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 #20 (visión directa — FS + WE class + take Tessa + altas Future)"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (ewrestling.com, rajah.com, wrestlinginc.com, tnawrestling.com); WebFetch bloqueado por egress"
-tags: [tessa-blanchard, myla-grace, harley-hudson, mila-moore-verif, tna-impact-26-mar-2026, six-woman-tag, fighting-spirit, wrestling-entertainment, grace-hudson-geniales, tessa-protagonista-cringe-pero-intensa, heat-polemica-apuesta, the-future-in-2026-myla-grace-mila-moore]
+tags: [tessa-blanchard, myla-grace, harley-hudson, mila-moore, victoria-crawford, jodi-threat, tna-impact-26-mar-2026, six-woman-tag, fighting-spirit, wrestling-entertainment, grace-hudson-geniales, tessa-protagonista-cringe-pero-intensa, heat-polemica-apuesta, the-future-in-2026-myla-grace-mila-moore]
 ---
 
 # Six-Woman Tag (3 vs 3) — TNA Impact (26 mar 2026)
@@ -35,7 +35,9 @@ tags: [tessa-blanchard, myla-grace, harley-hudson, mila-moore-verif, tna-impact-
 
 ## Resumen
 
-Six-woman tag Knockouts TNA Impact 26/3/2026 (mismo show que el
+Six-woman tag Knockouts TNA Impact 26/3/2026: **Tessa Blanchard,
+Mila Moore & Victoria Crawford** vencen a **Jodi Threat, Myla Grace &
+Harley Hudson** (Buzzsaw Kick de Tessa sobre Grace) (mismo show que el
 cross-booking Myers vs Jeff Hardy + Bear vs Moose). **Grace &
 Hudson lucieron geniales**; **Tessa Blanchard** como protagonista
 del match — el Vehemiurgo la lee con **matiz crítico** (interesante
@@ -77,6 +79,17 @@ wrestler totalmente"*). Doble clase: **FS + WE**.
    a la lista del FUTURE 2026"* — el match consolida a Grace como
    prospecto + suma a Mila Moore.
 
+## Corrección (2026-10-06)
+
+- **Equipos**: `participantes` y `match` dejan de agrupar a Tessa con
+  Grace & Hudson. Trío ganador: **Tessa Blanchard, Mila Moore &
+  Victoria Crawford**; trío rival: **Jodi Threat, Myla Grace & Harley
+  Hudson**. Tags y Resumen ajustados.
+- El filename/slug (`...-tessa-myla-grace-hudson-...`) nombra a
+  protagonistas de ambos lados sin afirmar equipos; no se renombra.
+- Fuente: ewrestling.com + rajah.com + wrestlinginc.com (vía
+  WebSearch, research barrido-datos-duros-2026-10).
+
 ## Pendientes
 
 - [x] **Lineup completo del 3 vs 3** → confirmado: **Tessa
@@ -89,7 +102,7 @@ wrestler totalmente"*). Doble clase: **FS + WE**.
 - [x] Recinto + ciudad → Gateway Center Arena, Atlanta, Georgia
       (WebSearch: ewrestling.com, rajah.com).
 - [ ] Contexto: ¿storyline detrás del 3 vs 3? ¿alianzas?
-- [ ] **Discrepancia (research 2026-10-05)**: el campo
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: equipos separados en match/participantes: Tessa, Mila Moore & Victoria Crawford vs Jodi Threat, Myla Grace & Harley Hudson. Nota original: el campo
       `participantes` de esta ficha lista a Tessa Blanchard junto
       con Myla Grace y Harley Hudson sin distinguir equipos, lo
       que puede leerse como que iban en el mismo trío. Las fuentes

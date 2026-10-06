@@ -66,7 +66,7 @@ vez.
    registró la discrepancia sin tocar la identidad declarada ni la
    ficha `lola-aaa.md`.
 
-3. **`archive/matches/2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md`**
+3. **`archive/matches/2026-03-21-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md`**
    — el dictado fecha el show el **28/3/2026**, pero WWE.com/Cagematch
    registran "Rey de Reyes Week 2" (AAA on FOX #10, Part 2) como
    transmitida/tapeada el **21/3/2026**. No se reescribió `fecha` sin

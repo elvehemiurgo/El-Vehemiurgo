@@ -95,7 +95,7 @@ final.
 - **O** · **LUCHA** — Cody Rhodes vs Kenny Omega
   - **Dónde**: _posición no registrada_
   - **Clase**: — *(sin clase declarada)*
-  - [→ ficha](../archive/matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md)
+  - [→ ficha](../archive/matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md)
 
 ### `2021 11 13 AEW Full Gear`
 

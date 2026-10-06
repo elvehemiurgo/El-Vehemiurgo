@@ -135,7 +135,7 @@ se ejecuta**.
   Wigan tradition contemporary vía Regal lineage.
 
 ### Match anchor referencia
-- [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+- [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
   — match anchor del Vehemiurgo donde se documenta este
   linaje.
 

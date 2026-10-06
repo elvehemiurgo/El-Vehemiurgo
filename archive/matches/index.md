@@ -427,7 +427,7 @@ con cada cambio de estado.
 | 2026-04-04 | Ethan Page vs Ricky Saints vs Joe Hendry vs Tony D'Angelo — fatal 4-way | WWE NXT / Stand & Deliver 2026 | — | — | en-investigacion | 1 | [→](2026-04-04-ethan-page-vs-ricky-saints-vs-joe-hendry-vs-dangelo-stand-and-deliver.md) |
 | 2026-04-04 | Flammer vs Sussy | AAA / AAA Worldwide | FS | — | en-investigacion | 1 | [→](2026-04-04-flammer-vs-sussy-aaa-worldwide.md) |
 | 2026-04-04 | Jacy Jayne vs Kendal Grey vs Lola Vice — triple threat | WWE NXT / Stand & Deliver 2026 | FS·WE | FC | en-investigacion | 1 | [→](2026-04-04-jacy-jayne-vs-kendal-grey-vs-lola-vice-stand-and-deliver.md) |
-| 2026-04-04 | Rayo & Bravo vs Vanity Project | WWE / NXT Stand & Deliver 2026 [fecha inferida por flujo narrativo, no confirmada] | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md) |
+| 2026-04-04 | Rayo & Bravo vs Vanity Project | WWE / NXT Stand & Deliver 2026 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-04-rayo-bravo-vs-vanity-project-wwe-nxt-stand-and-deliver.md) |
 | 2026-04-04 | Sol Ruca vs Saria | WWE NXT / Stand & Deliver 2026 | — | — | en-investigacion | 1 | [→](2026-04-04-sol-ruca-vs-saria-stand-and-deliver.md) |
 | 2026-04-04 | Team Japón vs Team Puerto Rico | AAA / AAA Worldwide | FS·WE | FC | en-investigacion | 1 | [→](2026-04-04-team-japon-vs-team-pr-aaa-worldwide.md) |
 | 2026-04-04 | Team Europe vs Team UK (Axiom en bandos opuestos) | AAA / AAA Worldwide | WE | — | en-investigacion | 1 | [→](2026-04-04-tres-contra-tres-europeo-axiom-aaa-worldwide.md) |
@@ -436,7 +436,6 @@ con cada cambio de estado.
 | 2026-04-01 | MJF vs Speedball Mike Bailey | AEW (All Elite Wrestling) / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-01-mjf-vs-speedball-mike-bailey-aew-dynamite.md) |
 | 2026-04-01 | PAC vs Will Ospreay | AEW (All Elite Wrestling) / Dynamite | FS·WE | FC | stub | 1 | [→](2026-04-01-pac-vs-ospreay-aew-dynamite.md) |
 | 2026-03-31 | Kelani Jordan vs Jaida Parker | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-03-31-kelani-jordan-vs-jaida-parker-wwe-nxt.md) |
-| 2026-03-28 | Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana | WWE AAA / AAA Rey de Reyes Week 2 | — | — | en-investigacion | 1 | [→](2026-03-28-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md) |
 | 2026-03-27 | Order 4 (Mustafa Ali & Tasha Steelz) vs Trey Miguel & Jada Stone — mixed tag | TNA Wrestling / Sacrifice 2026 | FS·WE | FC | verificado | 1 | [→](2026-03-27-ali-tasha-vs-trey-jada-stone-mixed-tag-tna-sacrifice.md) |
 | 2026-03-27 | Carmelo Hayes vs Sami Zayn | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-03-27-carmelo-hayes-vs-sami-zayn-smackdown.md) |
 | 2026-03-27 | Eric Young vs Leon Slater | TNA Wrestling / Sacrifice 2026 | PW·FS·WE | ICC | verificado | 1 | [→](2026-03-27-eric-young-vs-leon-slater-tna-sacrifice.md) |
@@ -448,14 +447,16 @@ con cada cambio de estado.
 | 2026-03-27 | Triple threat — TNA Knockouts World Championship (Arianna Grace (c) vs Lei Ying Lee vs Dani Luna) | TNA Wrestling / Sacrifice 2026 | FS·WE | FC | verificado | 1 | [→](2026-03-27-triple-threat-kos-title-tna-sacrifice.md) |
 | 2026-03-26 | Bear Bronson vs Moose | TNA Wrestling / Thursday Night iMPACT | FS | — | stub | 1 | [→](2026-03-26-bear-bronson-vs-moose-tna-impact.md) |
 | 2026-03-26 | Brian Myers vs Jeff Hardy | TNA Wrestling / Thursday Night iMPACT | FS | — | stub | 1 | [→](2026-03-26-brian-myers-vs-jeff-hardy-tna-impact.md) |
-| 2026-03-26 | Six-Woman Tag — Tessa Blanchard, Myla Grace & Harley Hudson vs [trío rival] | TNA Wrestling / Thursday Night iMPACT | FS·WE | FC | stub | 1 | [→](2026-03-26-six-woman-tag-tessa-myla-grace-hudson-tna-impact.md) |
+| 2026-03-26 | Six-Woman Tag — Tessa Blanchard, Mila Moore & Victoria Crawford vs Jodi Threat, Myla Grace & Harley Hudson | TNA Wrestling / Thursday Night iMPACT | FS·WE | FC | stub | 1 | [→](2026-03-26-six-woman-tag-tessa-myla-grace-hudson-tna-impact.md) |
 | 2026-03-25 | Thekla vs Mina | AEW (All Elite Wrestling) / Dynamite | FS | — | stub | 1 | [→](2026-03-25-thekla-vs-mina-aew-dynamite.md) |
 | 2026-03-24 | Fatal Influence vs WrenQCC | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-03-24-fatal-influence-vs-wrenqcc-wwe-nxt.md) |
 | 2026-03-23 | Dominik Mysterio vs Penta | WWE / Raw | WE | — | en-investigacion | 1 | [→](2026-03-23-dominik-vs-penta-wwe-raw.md) |
 | 2026-03-23 | Waller vs Jevon Evans | WWE / Raw | FS | — | en-investigacion | 1 | [→](2026-03-23-waller-vs-jevon-evans-wwe-raw.md) |
+| 2026-03-21 | Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana | WWE AAA / AAA Rey de Reyes Week 2 (AAA on FOX #10, Part 2 — tapeado/transmitido 21/3/2026 según WWE.com/Cagematch; fecha/slug pendientes de renombre) | — | — | en-investigacion | 1 | [→](2026-03-21-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2.md) |
+| 2026-03-19 | Brian Myers vs Moose — First Time Ever | TNA Wrestling / Thursday Night iMPACT (emitido 19/3/2026 — fecha/slug pendientes de renombre) | PW·FS·WE | ICC | stub | 1 | [→](2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md) |
 | 2026-03-19 | The Hometown Man vs Kazarian | TNA Wrestling / Thursday Night iMPACT | — | — | stub | 1 | [→](2026-03-19-hometown-man-vs-kazarian-tna-impact.md) |
-| 2026-03-17 | American Made vs Vanity Project | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-03-17-american-made-vs-vanity-project-wwe-nxt.md) |
 | 2026-03-17 | Jacy Jayne vs Sol Ruca vs Zaria | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-03-17-jacy-jayne-vs-sol-ruca-vs-zaria-wwe-nxt.md) |
+| 2026-03-17 | Los Americanos vs The Vanity Project | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-03-17-los-americanos-vs-vanity-project-wwe-nxt.md) |
 | 2026-03-17 | Tatum Paxley vs Izzi Dame | WWE / NXT | — | — | en-investigacion | 1 | [→](2026-03-17-tatum-paxley-vs-izzi-dame-wwe-nxt.md) |
 | 2026-03-17 | Wren Sinclair vs Fallon Henley | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-03-17-wren-sinclair-vs-fallon-henley-nxt-speed-title-wwe-nxt.md) |
 | 2026-03-15 | Young Bucks vs FTR | AEW / Revolution 2026 | — | — | en-investigacion | 1 | [→](2026-03-15-young-bucks-vs-ftr-aew-revolution.md) |
@@ -469,13 +470,12 @@ con cada cambio de estado.
 | 2026-02-28 | Sareee & Takumi Iroha vs Hazuki & Fuwa-chan | STARDOM (World Wonder Ring Stardom) / Stardom in KORAKUEN | FS | — | en-investigacion | 1 | [→](2026-02-28-sareee-iroha-vs-hazuki-fuwa-chan-stardom-korakuen.md) |
 | 2026-02-26 | Dani Luna vs Lei Ying Lee | TNA Wrestling / Thursday Night iMPACT | — | — | stub | 1 | [→](2026-02-26-dani-luna-vs-lei-ying-lee-tna-impact.md) |
 | 2026-02-26 | Leon Slater & Mike Santana vs The Nemeths (Nic & Ryan Nemeth) | TNA Wrestling / Thursday Night iMPACT | PW·FS·WE | ICC | stub | 1 | [→](2026-02-26-leon-slater-mike-santana-vs-nemeths-tna-impact.md) |
-| 2026-02-19 | Brian Myers vs Moose — First Time Ever | TNA Wrestling / Thursday Night iMPACT (emitido 19/3/2026 — fecha/slug pendientes de renombre) | PW·FS·WE | ICC | stub | 1 | [→](2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md) |
 | 2026-02-19 | Mustafa Ali vs Elijah (Elias) — Guitar Casket Match | TNA Wrestling / Thursday Night iMPACT | PW·FS·WE | ICC | stub | 1 | [→](2026-02-19-mustafa-ali-vs-elijah-guitar-casket-match-tna-impact-nashville.md) |
 | 2026-02-13 | The Elegance Brand (Heather & M by Elegance) (c) vs Xia Brookside & Indi Hartwell — Knockouts World Tag Team Championship | TNA Wrestling / No Surrender 2026 (special — TNA+ / TrillerTV, no PPV tradicional) | — | — | stub | 1 | [→](2026-02-13-elegance-brand-vs-brookside-hartwell-tna-no-surrender.md) |
 | 2026-02-13 | Lei Ying Lee (c) vs Arianna Grace — TNA Knockouts World Championship | TNA Wrestling / No Surrender 2026 (special — TNA+ / TrillerTV) | — | — | stub | 1 | [→](2026-02-13-lei-ying-lee-vs-arianna-grace-tna-no-surrender-ko-title.md) |
 | 2026-02-03 | ZaRuca (Sol Ruca & Zaria) vs The Elegance Brand (M by Elegance & Heather by Elegance) | WWE / TNA / NXT (taping; cross-promotional con TNA) | FS | — | en-investigacion | 1 | [→](2026-02-03-zaruca-vs-elegance-brand-nxt.md) |
 | 2026-01-17 | The Hardys (Matt & Jeff) (c) vs The Righteous (Vincent & Dutch) — TNA World Tag Team Championship | TNA Wrestling / Genesis 2026 (PPV) | — | — | stub | 0 | [→](2026-01-17-hardys-vs-righteous-tna-genesis-tag-title.md) |
-| 2026-01-17 | Mustafa Ali vs Elijah | TNA / Genesis 2026 | — | — | en-investigacion | 1 | [→](2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) |
+| 2026-01-17 | Mustafa Ali vs Elijah | TNA / Genesis 2026 | — | — | en-investigacion | 1 | [→](2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md) |
 | 2026-01-01 | Skayler vs Visionario vs Shao — three-way | Mi Sagrada Lucha Libre / Mi Sagrada Lucha Libre (YouTube; fecha de show pendiente — la fecha del frontmatter es placeholder de orden) | FS·WE | FC | en-investigacion | 1 | [→](2026-skayler-vs-visionario-vs-shao-mi-sagrada-lucha-libre.md) |
 | 2026-01-01 | Visionario, Skayler & Madness vs Bumbu, Kikiri Punk & Shere Khan | Mi Sagrada Lucha Libre / Mi Sagrada Lucha Libre (YouTube; fecha de show pendiente — la fecha del frontmatter es placeholder de orden) | FS·WE | FC | en-investigacion | 1 | [→](2026-visionario-skayler-madness-vs-bumbu-kikiri-punk-shere-khan-mi-sagrada-lucha-libre.md) |
 | 2025-12-25 | Skayler, Visionario & Chicanito vs Astrolux, Black Metal & Red Escorpión | The King Phantom / Una Noche de Regresos (dictado: 'King Phantom Navideño') | WE | — | en-investigacion | 1 | [→](2025-12-25-skayler-visionario-chicanito-vs-astrolux-black-metal-red-escorpion-king-phantom-navideno.md) |
@@ -505,7 +505,7 @@ con cada cambio de estado.
 | 2018-10-13 | MJF vs David Starr | CZW / Better Than Our Best | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-10-13-mjf-vs-david-starr-czw-better-than-our-best.md) |
 | 2018-09-08 | Blackwater vs Ace Austin vs KC Navarro vs Jordan Oliver | CZW / Down With the Sickness | — | — | en-investigacion | 1 | [→](2018-09-08-4-way-wired-blackwater-gana-czw-dwts.md) |
 | 2018-09-08 | Brandon Kirk vs Max Caster | CZW / Down With the Sickness | WE | — | en-investigacion | 1 | [→](2018-09-08-brandon-kirk-vs-max-caster-czw-dwts.md) |
-| 2018-06-30 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco (7 jul 2018 — fecha/slug pendientes de renombre) | — | — | en-investigacion | 1 | [→](2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
+| 2018-07-07 | Cody Rhodes vs Kenny Omega | NJPW (New Japan Pro Wrestling) / G1 Special in San Francisco (7 jul 2018 — fecha/slug pendientes de renombre) | — | — | en-investigacion | 1 | [→](2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) |
 | 2018-04-14 | David Starr vs Tessa Blanchard vs Peter Avalon | CZW / Best of the Best 17 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-04-14-david-starr-tessa-blanchard-avalon-czw-botb17.md) |
 | 2018-04-14 | David Starr vs Matt Riddle vs Tessa Blanchard | CZW / Best of the Best 17 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2018-04-14-david-starr-vs-matt-riddle-tessa-blanchard-czw-botb17.md) |
 | 2018-04-14 | David Starr vs Zachary Wentz | CZW / Best of the Best 17 | — | — | en-investigacion | 1 | [→](2018-04-14-david-starr-vs-zachary-wentz-final-czw-botb17.md) |
@@ -626,8 +626,8 @@ con cada cambio de estado.
 | 2004-09-12 | Christian vs Chris Jericho | WWE / Unforgiven 2004 | — | — | en-investigacion | 1 | [→](2004-09-12-christian-vs-jericho-wwe-unforgiven.md) |
 | 2004-05-10 | Christian vs Chris Jericho — steel cage match | WWE / Raw | — | — | en-investigacion | 1 | [→](2004-05-10-christian-vs-jericho-steel-cage-wwe-raw.md) |
 | 2004-04-18 | Christian & Trish Stratus vs Chris Jericho — handicap match | WWE / Backlash 2004 | — | — | en-investigacion | 1 | [→](2004-04-18-christian-trish-vs-jericho-wwe-backlash.md) |
-| 2004-03-14 | Brock Lesnar vs Eddie Guerrero — WWE Championship | WWE / No Way Out 2004 (15 feb 2004) — NO WrestleMania XX; fecha/slug pendientes de renombre | — | — | en-investigacion | 1 | [→](2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md) |
 | 2004-03-14 | Christian vs Chris Jericho | WWE / WrestleMania XX | — | — | en-investigacion | 1 | [→](2004-03-14-christian-vs-jericho-wrestlemania-xx.md) |
+| 2004-02-15 | Brock Lesnar vs Eddie Guerrero — WWE Championship | WWE / No Way Out 2004 (15 feb 2004) — NO WrestleMania XX; fecha/slug pendientes de renombre | — | — | en-investigacion | 1 | [→](2004-02-15-brock-lesnar-vs-eddie-guerrero-wwe-no-way-out.md) |
 | 2004-01-01 | AJ Styles vs Homicide | IWC (International Wrestling Cartel) / IWC indie 2004 (fecha exacta pendiente) | — | — | en-investigacion | 1 | [→](2004-aj-styles-vs-homicide-iwc.md) |
 | 2003-01-11 | AJ Styles & Low Ki vs Christopher Daniels & Xavier (The Prophecy) | ROH (Ring of Honor) / ROH Revenge On The Prophecy | — | — | en-investigacion | 1 | [→](2003-01-11-aj-styles-low-ki-vs-daniels-xavier-roh.md) |
 | 2002-12-05 | Kurt Angle vs Chris Benoit vs Eddie Guerrero vs Edge — fatal 4-way | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2002-12-05-angle-vs-benoit-vs-eddie-vs-edge-fatal-4way-wwe-smackdown.md) |
@@ -669,7 +669,7 @@ con cada cambio de estado.
 | 1983-08-06 | Bob Orton Jr. vs Ben Alexander | NWA Jim Crockett Promotions / NWA World Wide Wrestling | — | — | en-investigacion | 1 | [→](1983-08-06-bob-orton-jr-vs-ben-alexander-nwa-world-wide.md) |
 | 1983-01-01 | Arn Anderson vs Mr. Wrestling 2 | Mid-South Wrestling (Bill Watts) / Mid-South Wrestling TV | — | — | en-investigacion | 1 | [→](1983-arn-anderson-vs-mr-wrestling-2-mid-south.md) |
 | 1982-09-11 | Terry Funk vs Stan Hansen | AJPW (All Japan Pro Wrestling) — Giant Baba era / [verif — probable Excite Series 1982 o pre-Giant Series 1982] | PW·FS·WE | ICC | verificado | 1 | [→](1982-09-11-terry-funk-vs-stan-hansen-ajpw.md) |
-| 1981-12-19 | Dynamite Kid vs Mark 'Rollerball' Rocco | **Joint Promotions / Dale Martin Promotions** (London territory) — confirmed sub-agente 2026-05-10 / **ITV World of Sport** Saturday afternoon broadcast — comentarista Kent Walton | PW·FS·WE | ICC | en-investigacion | 1 | [→](1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md) |
+| 1982-01-16 | Dynamite Kid vs Mark 'Rollerball' Rocco | **Joint Promotions / Dale Martin Promotions** (London territory) — confirmed sub-agente 2026-05-10 / **ITV World of Sport** Saturday afternoon broadcast (emisión 16 ene 1982; taping 30 nov 1981) — comentarista Kent Walton | PW·FS·WE | ICC | en-investigacion | 1 | [→](1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md) |
 | 1975-10-30 | Stan Hansen vs The Destroyer | [verif — Vehemiurgo dictó AJPW (Giant Baba 1972+) — sub-agente confirmar (Stan Hansen working Japan 1975 era brief vs Japan-USA rotation peak)] / [verif — AJPW Giant Series 1975 tour probable] | PW·FS·WE | ICC | en-investigacion | 1 | [→](1975-10-30-stan-hansen-vs-the-destroyer-ajpw.md) |
 | 1963-12-02 | Rikidōzan vs The Destroyer — NWA International Heavyweight Championship | **JWA (Japan Pro Wrestling Alliance)** — fundada por Rikidōzan 1953 / JWA tour Tokyo — broadcast Nippon Television (NTV) | PW·FS·WE | ICC | en-investigacion | 1 | [→](1963-12-02-rikidozan-vs-the-destroyer-jwa.md) |
 

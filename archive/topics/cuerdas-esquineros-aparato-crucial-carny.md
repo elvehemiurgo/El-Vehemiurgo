@@ -159,7 +159,7 @@ Pieza editorial del topic file:
 ### Cluster doctrinas strong style auténtico vs cosplay
 - [`../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](../matches/1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md)
   — strong style auténtico anchor AJPW Four Pillars.
-- [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+- [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
   — British catch tradition anchor.
 
 ### Cluster CLAUDE.md sec. 2 Japón post-guerra

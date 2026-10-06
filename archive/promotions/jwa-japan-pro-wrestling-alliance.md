@@ -108,7 +108,7 @@ tags: [jwa, japan-pro-wrestling-alliance, fundada-1953-rikidozan, primera-promot
 - **Inoki estudiante directo Gotch** = **semilla strong
   style NJPW post-1972**.
 - Cross-link Wigan tradition documentada en
-  [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+  [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
   + [`../people/charlie-dempsey.md`](../people/charlie-dempsey.md)
   (ring name Snake Pit Wigan reference).
 

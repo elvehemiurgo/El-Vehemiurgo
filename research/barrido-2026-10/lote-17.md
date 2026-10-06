@@ -23,7 +23,7 @@
 - archive/matches/2026-04-01-pac-vs-ospreay-aew-dynamite.md :: frontmatter placeholders=['duracion', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['**Ciudad, recinto, finish, ganador, duración**.']
 
 ## 2026-04-01 | AEW | Dynamite
-- archive/segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md :: frontmatter placeholders=['duracion', 'ciudad', 'recinto'] :: pendientes=[]
+- archive/segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md :: frontmatter placeholders=['duracion', 'ciudad', 'recinto'] :: pendientes=[]
 
 ## 2026-04-08 | AEW (All Elite Wrestling) | Dynamite
 - archive/matches/2026-04-08-takeshita-andrade-davis-six-man-tag-aew-dynamite.md :: frontmatter placeholders=['duracion', 'finish', 'ganador', 'ciudad', 'recinto'] :: pendientes=['**Ciudad, recinto, finish, ganador, duración**.']

@@ -28,7 +28,7 @@
 - archive/matches/2016-02-05-aj-styles-vs-corey-hollis-gpw.md :: frontmatter placeholders=['ciudad', 'recinto'] :: pendientes=['Ganador + finish + duración.']
 
 ## 2018-06-30 | NJPW (New Japan Pro Wrestling) | G1 Special in San Francisco
-- archive/matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md :: frontmatter placeholders=[] :: pendientes=['Ganador + finish + duración.']
+- archive/matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md :: frontmatter placeholders=[] :: pendientes=['Ganador + finish + duración.']
 
 ## 2019-05-03 | NJPW (New Japan Pro Wrestling) | Wrestling Dontaku 2019
 - archive/matches/2019-05-03-dragon-lee-vs-taiji-ishimori-njpw-wrestling-dontaku.md :: frontmatter placeholders=[] :: pendientes=['Ganador + finish + duración.']

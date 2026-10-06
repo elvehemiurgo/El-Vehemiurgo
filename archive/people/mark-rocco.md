@@ -68,7 +68,7 @@ tags: [mark-rocco, jonathan-mark-hussey, rollerball-apodo-1975-film, manchester-
   de la historia del título).
 - **Feud signature con Dynamite Kid** años 80s (sub-agente
   mapeo completo —
-  [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+  [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
   + ladder match 1983 pioneer UK).
 
 ### All Star Wrestling defection (~1981-1982)
@@ -154,7 +154,7 @@ DYNAMITE KID (también beneficiario Wigan tradition)
 
 ## Cluster matches anchor Vehemiurgia
 
-- [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+- [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
   — **TERCER MATCH TRIPLE-CLASE OPERATIVA del proyecto**.
   Finish confirmado **double KO**, Rocco retiene World H-M
   Title.
@@ -187,7 +187,7 @@ DYNAMITE KID (también beneficiario Wigan tradition)
 ## Piezas relacionadas
 
 ### Match anchor centerpiece
-- [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+- [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
   — TERCER MATCH TRIPLE-CLASE OPERATIVA.
 
 ### Linaje Wigan tradition

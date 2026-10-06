@@ -1,12 +1,12 @@
 ---
 match: "Brock Lesnar vs Eddie Guerrero — WWE Championship"
-slug: "brock-lesnar-vs-eddie-guerrero-wrestlemania-xx-2004-03-14"
+slug: "2004-02-15-brock-lesnar-vs-eddie-guerrero-wwe-no-way-out"
 participantes:
   - "Brock Lesnar"
   - "Eddie Guerrero"
 empresa: "WWE"
 programa: "No Way Out 2004 (15 feb 2004) — NO WrestleMania XX; fecha/slug pendientes de renombre"
-fecha: 2004-03-14
+fecha: 2004-02-15
 ciudad: "Daly City, CA [verif — no consta en las fuentes del barrido]"
 recinto: "Cow Palace [verif — no consta en las fuentes del barrido]"
 tipo_match: "singles — WWE Championship match (Brock defendiendo, Eddie challenging)"
@@ -89,6 +89,8 @@ la combinación de spectacle + storytelling carny + intensity.
 booking carny ortodoxo aplicado al talent latino"*.
 
 ## Corrección (2026-10-06)
+
+- **Fecha y archivo corregidos**: `fecha` pasa de 2004-03-14 a 2004-02-15; la ficha se renombró en consecuencia (barrido de discrepancias, 2026-10-06).
 
 - **Show y fecha**: el cambio de título Brock → Eddie **no ocurrió en
   WrestleMania XX (14 mar 2004)** sino en **No Way Out 2004 (15 feb

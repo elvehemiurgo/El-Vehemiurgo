@@ -87,7 +87,7 @@ American free-form mainstream.
 
 ## Match anchor del cluster — Dynamite vs Rocco 19 dic 1981
 
-[`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+[`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
 es **el match anchor del cluster doctrinal Mountevans rules**:
 
 - **Estipulación exacta confirmed**: World Heavy-Middleweight

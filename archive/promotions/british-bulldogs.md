@@ -46,7 +46,7 @@ Declarados en la expansión del 2026-06-17 (*"The British Bulldogs 41"*, luego #
 
 ### Protagonista
 
-- [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md) (PW·FS·WE)
+- [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md) (PW·FS·WE)
 
 ### Mencionado / referencia editorial
 
@@ -57,6 +57,6 @@ Declarados en la expansión del 2026-06-17 (*"The British Bulldogs 41"*, luego #
 
 - [`../people/dynamite-kid.md`](../people/dynamite-kid.md) · [`../people/bret-hart.md`](../people/bret-hart.md) · [`../people/owen-hart.md`](../people/owen-hart.md) · [`../people/tommy-billington.md`](../people/tommy-billington.md)
 - [`../people/mark-rocco.md`](../people/mark-rocco.md) — la rama Wigan.
-- [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+- [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
 - [`../topics/heroes-fundamentales-vehemiurgia.md`](../topics/heroes-fundamentales-vehemiurgia.md)
 - Volcado de apertura: [`../../notebook/2026-08-01-s66-panteon-fichas-pendientes.md`](../../notebook/2026-08-01-s66-panteon-fichas-pendientes.md)

@@ -112,7 +112,7 @@ propia:
   [`../topics/tna-2026-arbol-de-aprendizaje-en-mic.md`](../topics/tna-2026-arbol-de-aprendizaje-en-mic.md).
 - **Cluster Elijah arco TNA 2026**:
   - 17 ene 2026 (Genesis) — vs Ali (PPV debut TNA del feud)
-    ([→](2026-01-17-mustafa-ali-vs-elias-tna-genesis.md)).
+    ([→](2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md)).
   - 29 ene 2026 (Impact) — Jason Hotch vs Elias [pendiente].
   - 12 feb 2026 (Impact) — Ali and Elijah promo video [pendiente].
   - 19 feb 2026 (Impact) — **Ali vs Elijah Guitar Casket Match

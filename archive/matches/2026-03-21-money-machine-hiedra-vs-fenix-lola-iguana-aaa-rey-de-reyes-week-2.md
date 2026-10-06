@@ -1,6 +1,6 @@
 ---
 match: "Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana"
-slug: "money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2-2026-03-28"
+slug: "2026-03-21-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2"
 participantes:
   - "Money Machine (Colmillo de Plata y Garra de Oro)"
   - "La Hiedra (Las Tóxicas — heel)"
@@ -8,8 +8,8 @@ participantes:
   - "Lola Vice (cross-promotion NXT/AAA)"
   - "Mr. Iguana (AAA character carny puro)"
 empresa: "WWE AAA"
-programa: "AAA Rey de Reyes Week 2"
-fecha: 2026-03-28
+programa: "AAA Rey de Reyes Week 2 (AAA on FOX #10, Part 2 — tapeado/transmitido 21/3/2026 según WWE.com/Cagematch; fecha/slug pendientes de renombre)"
+fecha: 2026-03-21
 ciudad: "Puebla de Zaragoza, Puebla"
 recinto: "Auditorio GNP Seguros"
 tipo_match: "6-person mixed tag — opener AAA Rey de Reyes Week 2 (showcase Fenix babyface)"
@@ -28,7 +28,7 @@ veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: ""
 clases_vehemiurgo: []
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo, take editorial extenso 2026-05-10"
   - "Visionado directo del Vehemiurgo"
@@ -36,9 +36,11 @@ fuentes_principales:
 tags: [aaa-2026, rey-de-reyes-2026-week-2, money-machine, la-hiedra-las-toxicas, rey-fenix-showcase, lola-verif, mr-iguana, fenix-babyface-importante, fenix-solo-push-no-penta-tag, money-machine-putting-over-people, english-promo-limitation-doctrina, vaquer-penta-fenix-barra-alta, punk-cody-gable-kaiser-comparison]
 ---
 
-# Money Machine & La Hiedra vs Rey Fenix, Lola & Mr. Iguana — AAA Rey de Reyes Week 2 (28 mar 2026)
+# Money Machine & La Hiedra vs Rey Fenix, Lola Vice & Mr. Iguana — AAA Rey de Reyes Week 2 (21 mar 2026)
 
-> **Opener AAA Rey de Reyes Week 2** — showcase Fenix como
+> **Opener AAA Rey de Reyes Week 2** (AAA on FOX #10, Part 2;
+> Auditorio GNP Seguros, Puebla, **21/3/2026** según WWE.com y
+> Cagematch) — showcase Fenix como
 > babyface importante AAA + Money Machine putting people over.
 > Pieza editorial **doble**: (a) AAA capitaliza cariño Fenix
 > sin recurrir al shortcut tag con Penta, (b) **doctrina nueva
@@ -213,6 +215,24 @@ para columna comparativa:
 > buenas, top tier wrestling, de verdad destacable, así que la
 > barra está alta."
 
+## Corrección (2026-10-06)
+
+- **Fecha y archivo corregidos**: `fecha` pasa de 2026-03-28 a 2026-03-21; la ficha se renombró en consecuencia (barrido de discrepancias, 2026-10-06).
+
+- **Fecha del show**: WWE.com y Cagematch registran *Rey de Reyes Week
+  2* (AAA on FOX #10, Part 2) como **tapeado/transmitido el 21/3/2026**
+  en el Auditorio GNP Seguros, Puebla — dos fuentes concordantes contra
+  el 28/3 del dictado. H1, lead y `programa` corregidos. `fecha` y slug
+  **no** se tocan: ficha listada para **RENOMBRAR** a
+  `2026-03-21-money-machine-hiedra-vs-fenix-lola-iguana-aaa-rey-de-reyes-week-2`.
+  Salvedad: si el Vehemiurgo vio una retransmisión del 28/3, la fecha
+  de show sigue siendo el 21/3.
+- El verbatim del Vehemiurgo se preserva; su recuerdo de visionado
+  difiere de la fuente en la fecha (dictó *"2026-03-28"*; la fuente da
+  21/3/2026).
+- Fuente: WWE.com + Cagematch (vía WebSearch, research
+  barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
 - [x] **Composición exacta Money Machine** → **Colmillo de Plata y
@@ -223,7 +243,7 @@ para columna comparativa:
       Iguana**; Fenix cubre a **Garra de Oro** con **Fenix Driver**
       (WWE.com/Fightful, research 2026-10-05).
 - [ ] Duración — ninguna fuente accesible la reportó.
-- [ ] **Discrepancia (research 2026-10-05)**: el dictado fecha el show
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: show fechado 21/3/2026 por WWE.com y Cagematch (dos fuentes concordantes); H1/programa corregidos, fecha y slug pendientes de renombre. Nota original: el dictado fecha el show
       28/3/2026, pero WWE.com/Cagematch registran la "Rey de Reyes
       Week 2" (AAA on FOX #10, Part 2) como transmitida/tapeada el
       **21/3/2026** en Auditorio GNP Seguros, Puebla — no se reescribe

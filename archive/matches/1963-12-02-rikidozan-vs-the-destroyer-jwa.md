@@ -191,7 +191,7 @@ nacionalista post-guerra.
 ### Cluster matches triple-clase operativa
 - [`./2025-09-21-kira-vs-persephone-arena-coliseo-tony-arellano-torreon.md`](./2025-09-21-kira-vs-persephone-arena-coliseo-tony-arellano-torreon.md)
 - [`./1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md`](./1997-11-23-hayabusa-shinzaki-vs-kawada-taue-ajpw-rwtl.md)
-- [`./1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](./1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+- [`./1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](./1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
 - [`./1975-10-30-stan-hansen-vs-the-destroyer-ajpw.md`](./1975-10-30-stan-hansen-vs-the-destroyer-ajpw.md)
   — segundo anchor Destroyer + cluster Lariat top-tier triad.
 

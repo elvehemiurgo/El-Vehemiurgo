@@ -65,7 +65,7 @@ tags: [cody-rhodes, american-nightmare, dusty-rhodes-son, stardust, aew-co-found
   - IWGP United States Heavyweight Championship.
   - Bullet Club period peak.
   - Pre-AEW foundation tension build.
-  - [`../matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](../matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md).
+  - [`../matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](../matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md).
 
 ### AEW co-founder + EVP (2019-2022)
 - **All In 2018** (Cody + Young Bucks indie event) =
@@ -483,7 +483,7 @@ grande") y siembra el rematch sin piedad. Pieza:
 - [`../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md`](../matches/2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md)
 - [`../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md`](../matches/2026-05-31-gunther-vs-cody-rhodes-wwe-clash-in-italy.md)
 ### Centerpieces principales
-- [`../matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](../matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md)
+- [`../matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](../matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md)
 - [`../matches/2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md`](../matches/2026-04-18-cody-rhodes-vs-randy-orton-wrestlemania-42.md)
 
 ### Segmentos (Batch 1 + WM42)

@@ -1,12 +1,12 @@
 ---
 match: "Cody Rhodes vs Kenny Omega"
-slug: "cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco-2018-06-30"
+slug: "2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco"
 participantes:
   - "Cody Rhodes"
   - "Kenny Omega"
 empresa: "NJPW (New Japan Pro Wrestling)"
 programa: "G1 Special in San Francisco (7 jul 2018 — fecha/slug pendientes de renombre)"
-fecha: 2018-06-30
+fecha: 2018-07-07
 ciudad: "San Francisco, CA"
 recinto: "Cow Palace"
 tipo_match: "singles — IWGP Heavyweight Championship match"
@@ -79,6 +79,8 @@ tags: [njpw-2018, g1-special-san-francisco, cody-rhodes, kenny-omega, iwgp-heavy
 (Pendiente verbatim.)
 
 ## Corrección (2026-10-06)
+
+- **Fecha y archivo corregidos**: `fecha` pasa de 2018-06-30 a 2018-07-07; la ficha se renombró en consecuencia (barrido de discrepancias, 2026-10-06).
 
 - **Título en juego**: `estipulacion`/`tipo_match` de *IWGP United
   States Heavyweight Championship* a **IWGP Heavyweight Championship**

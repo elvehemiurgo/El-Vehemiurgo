@@ -103,6 +103,6 @@ post-match geniales**. **FS class**.
   Dios #5.
 - [`../matches/2026-03-26-bear-bronson-vs-moose-tna-impact.md`](2026-03-26-bear-bronson-vs-moose-tna-impact.md)
   — match conectado del mismo show.
-- [`../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md)
+- [`../matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md)
   — Perfect Match previo del arc.
 - [`../promotions/the-system.md`](../promotions/the-system.md).

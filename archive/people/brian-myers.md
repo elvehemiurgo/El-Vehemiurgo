@@ -47,7 +47,7 @@ tags: [brian-myers, ex-curt-hawkins-wwe, ex-major-brothers-edgeheads, losing-str
     The Hardys en **Rebellion 2026**).
 - **2026 — arc vs Moose**:
   - **19 feb (Impact)** — **first time ever vs Moose** = Perfect
-    Match ([→](../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md))
+    Match ([→](../matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md))
     + promo backstage con The System (setup insuperable).
 
 ## Notas editoriales del Vehemiurgo
@@ -162,7 +162,7 @@ un elbow drop en la secuencia final del main event 4-on-2. Ver
 
 ## Piezas del Vehemiurgo donde aparece
 
-- [`../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md)
+- [`../matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md)
   — **Perfect Match** first time ever.
 
 ## Cross-links

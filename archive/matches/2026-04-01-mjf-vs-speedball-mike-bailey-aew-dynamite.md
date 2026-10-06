@@ -103,7 +103,7 @@ tags: [aew-dynamite-2026, mjf-top-heel-amado, speedball-mike-bailey, perfect-mat
    contract signing previo *"se ahogó en su promo"* — coherente
    con el diagnóstico de esta misma sesión (*"ojalá le meta más a
    las promos, solo le falta eso"*). Ver
-   [`../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md`](../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md)
+   [`../segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md`](../segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md)
    y la ficha
    [`../people/speedball-mike-bailey.md`](../people/speedball-mike-bailey.md).
 3. **Queja de booking aparte del match**: Kenny Omega como
@@ -140,7 +140,7 @@ tags: [aew-dynamite-2026, mjf-top-heel-amado, speedball-mike-bailey, perfect-mat
   — doctrina (combo de las tres = techo absoluto).
 - [`../people/speedball-mike-bailey.md`](../people/speedball-mike-bailey.md)
   — ficha abierta 2026-07-14.
-- [`../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md`](../segments/2026-04-01-mjf-vs-speedball-contract-signing-aew-dynamite.md)
+- [`../segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md`](../segments/2026-04-01-mjf-omega-contract-signing-bailey-aew-dynamite.md)
   — contract signing previo, mismo show.
 - [`../people/kenny-omega.md`](../people/kenny-omega.md) — queja
   de booking (campeón, 2026-07-14).

@@ -86,5 +86,5 @@ tags: [johnny-saint, british-wrestling, world-of-sport-itv, catch-as-catch-can-w
 - [`../topics/mountevans-rounds-rules.md`](../topics/mountevans-rounds-rules.md)
   — formato que Saint domina.
 - [`./mark-rocco.md`](./mark-rocco.md) — contemporáneo British, panteón #10.
-- [`../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](../matches/1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+- [`../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](../matches/1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
   — el match referencial de la era World of Sport.

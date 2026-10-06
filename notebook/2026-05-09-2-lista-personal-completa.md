@@ -704,7 +704,7 @@ mantiene visible qué queda.
 - THE SYSTEM VS THE HARDYS, LEON SLATER & CEDRIC ALEXANDER TNA Impact 08.01.2026
 - ORDER 4 VS THE HARDYS & ELIAS TNA Impact 15.01.2026
 - KAZARIAN VS SANTANA TNA 15.01.2026
-- (✓) **MUSTAFA ALI VS ELIAS TNA Genesis 17.01.2026** → [`archive/matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md`](../archive/matches/2026-01-17-mustafa-ali-vs-elias-tna-genesis.md) (PPV debut TNA de Ali post-WWE release)
+- (✓) **MUSTAFA ALI VS ELIAS TNA Genesis 17.01.2026** → [`archive/matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md`](../archive/matches/2026-01-17-mustafa-ali-vs-elijah-tna-genesis.md) (PPV debut TNA de Ali post-WWE release)
 - JDC VS EDDIE EDWARDS TNA Genesis 17.01.2026
 - LEI YING LEE VS SARIA TNA Genesis 17.01.2026
 - MOOSE VS JOE HENDRY VS CEDRIC ALEXANDER TNA Genesis 17.01.2026
@@ -739,7 +739,7 @@ mantiene visible qué queda.
 - EDDIE EDWARDS & NIC NEMETH VS LION SLATHER & MIKE SANTANA TNA No Surrender 13.02.2026
 - HEATHER BY ELEGANCE VS INDY HARTWELL TNA Impact 19.02.2026
 - LEON SLATHER, MIKE SANTANA, NICK AND RYAN NEMETH SEGMENT TNA Impact 19.02.2026
-- (✓) **THE SYSTEM PROMO AGAINST MOOSE TNA Impact 19.02.2026** → setup backstage integrado en [`archive/matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../archive/matches/2026-02-19-brian-myers-vs-moose-first-time-ever-tna-impact.md) (promo de Myers con The System = setup insuperable del Perfect Match first time ever, sesión 2026-06-17 #18)
+- (✓) **THE SYSTEM PROMO AGAINST MOOSE TNA Impact 19.02.2026** → setup backstage integrado en [`archive/matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md`](../archive/matches/2026-03-19-brian-myers-vs-moose-first-time-ever-tna-impact.md) (promo de Myers con The System = setup insuperable del Perfect Match first time ever, sesión 2026-06-17 #18)
 - ARIANA GRACE PROMO AS NEW KOS CHAMPION TNA Impact 19.02.2026
 - TESSA BLANCHARD VS JODY THREAT TNA Impact 19.02.2026
 - SINNER & SAINT VS SWANN & BDE TNA Impact 19.02.2026
@@ -874,7 +874,7 @@ mantiene visible qué queda.
 - CW ANDERSON VS CM PUNK ROH One Year Anniversary Show 08.02.2003
 - SAMOA JOE VS BRYAN DANIELSON ROH One Year Anniversary Show 08.02.2003
 - SAMOA JOE VS EZ MONEY VS HOMICIDE VS WHITMER ROH One Year Anniversary Show 08.02.2003
-- (✓) **CODY RHODES VS KENNY OMEGA NJPW G1 Special in San Francisco 2018** → [`archive/matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](../archive/matches/2018-06-30-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) (pre-AEW foundation, Cody arc fase 1)
+- (✓) **CODY RHODES VS KENNY OMEGA NJPW G1 Special in San Francisco 2018** → [`archive/matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md`](../archive/matches/2018-07-07-cody-rhodes-vs-kenny-omega-njpw-g1-special-san-francisco.md) (pre-AEW foundation, Cody arc fase 1)
 
 ### Bloque WWE 2026 03–04 (post Mania, Brock returns, Cody/Stephanie, anotaciones)
 
@@ -1899,7 +1899,7 @@ orden, trabaja continuamente por 30min" — Vehemiurgo).
    — modern classic anchor pieza Eddie/Rey rivalry cumbre WCW.
 2. **Brock Lesnar vs Eddie Guerrero — WrestleMania XX 2004
    coronation** —
-   [`archive/matches/2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md`](../archive/matches/2004-03-14-brock-lesnar-vs-eddie-guerrero-wrestlemania-xx.md)
+   [`archive/matches/2004-02-15-brock-lesnar-vs-eddie-guerrero-wwe-no-way-out.md`](../archive/matches/2004-02-15-brock-lesnar-vs-eddie-guerrero-wwe-no-way-out.md)
    — coronation cumbre carrera Eddie + payoff seed editorial
    SmackDown 7 nov 2002.
 

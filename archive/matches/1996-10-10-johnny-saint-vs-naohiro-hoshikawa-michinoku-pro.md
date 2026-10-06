@@ -82,7 +82,7 @@ Hoshikawa, lugar en la card del aniversario.]
   capacidad de vender el trabajo del rival. Selling viejo, valor
   permanente.
 - **Linaje al que pertenece**: dialoga directamente con
-  [`1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md`](1981-12-19-dynamite-kid-vs-mark-rocco-british-wrestling.md)
+  [`1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md`](1982-01-16-dynamite-kid-vs-mark-rocco-world-of-sport.md)
   (World of Sport rules en ITV) y con el marco doctrinal de
   [`../topics/mountevans-rounds-rules.md`](../topics/mountevans-rounds-rules.md).
   También es el primer match británico del panteón que cruza a Japón.
