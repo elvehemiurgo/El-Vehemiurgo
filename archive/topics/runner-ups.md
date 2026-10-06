@@ -283,7 +283,7 @@ enfría, queda el registro de por qué no.
 - **Match anchor**: vs Kali Armstrong, **2026 09 22 WWE NXT** — **WE y
   FS → Feeling Crown** (ratificada en s02), desenlace caótico con otro
   callup de Evolve.
-  _(ficha en curso)_
+  [→](../people/skylar-raye.md) · [`../matches/2026-09-22-skylar-raye-vs-kali-armstrong-nxt.md`](../matches/2026-09-22-skylar-raye-vs-kali-armstrong-nxt.md)
 
 ## Pendientes
 

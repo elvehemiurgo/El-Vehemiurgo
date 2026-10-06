@@ -166,5 +166,5 @@ tags: [aew-dynamite-2026, tributo-pac, bryan-danielson, don-callis-family, the-e
 
 ## Próximos pasos
 
-- [ ] Integrar el research.
-- [ ] Fichas, índices, RUNNER UPS, vistas, lint, commit.
+- [x] Integrar el research.
+- [x] Fichas, índices, RUNNER UPS, vistas, lint, commit.

@@ -6,6 +6,7 @@ participantes:
   - "Zaria"
   - "M by Elegance"
   - "Heather by Elegance"
+  - "Ash by Elegance (The Elegance Brand — interviene en el finish, no legal)"
 empresa: "WWE / TNA"
 programa: "NXT (taping; cross-promotional con TNA)"
 fecha: 2026-02-03
@@ -28,7 +29,7 @@ calificacion_vehemiurgo: "Increíble y cerca de ser perfecta, pero fue una batal
 clases_vehemiurgo:
   - fighting-spirit
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Visionado directo del Vehemiurgo, NXT 2026-02-03"
   - "Wikipedia — Zaria (wrestler) — confirma fecha y resultado"
@@ -46,8 +47,10 @@ tags: [wwe-2026, tna-2026, nxt, zaruca, the-elegance-brand, sol-ruca, zaria, m-b
 
 ## Resumen
 
-**ZaRuca pierde los TNA Knockouts Tag Titles** ante The Elegance
-Brand en un NXT cross-promocional con TNA. **Última pieza on-screen
+**ZaRuca no consigue los TNA Knockouts Tag Titles** ante The Elegance
+Brand (M y Heather, con **Ash by Elegance** interviniendo en el
+finish: tira a Sol contra las escaleras del ring) en un NXT
+cross-promocional con TNA. **Última pieza on-screen
 del tag team ZaRuca**: la pérdida se atribuye a *infighting* entre
 Sol y Zaria, antecedente directo del heel turn de Zaria del **24
 feb 2026** (3 semanas después).
@@ -101,6 +104,20 @@ definición canónica de **Fighting Spirit Class**:
 - *(continúa en* [`zaria.md`](../people/zaria.md) *y*
   [`sol-ruca.md`](../people/sol-ruca.md)*).*
 
+## Corrección (2026-10-06)
+
+- **Participantes**: se agrega **Ash by Elegance** (tercera integrante
+  de The Elegance Brand) como interviniente no legal: en el finish
+  tira a Sol Ruca contra las escaleras del ring. M by Elegance y
+  Heather by Elegance siguen como el equipo legal. Resumen ajustado.
+- Además el Resumen decía que ZaRuca "pierde" los títulos: ZaRuca
+  llegaba como challenger y The Elegance Brand **retiene** (como ya
+  registraban `finish` y el Booking timeline).
+- El verbatim del Vehemiurgo (solo M y Heather) se preserva: nombra al
+  equipo legal; no hay contradicción con la fuente.
+- Fuente: Fightful + WWE.com (vía WebSearch, research
+  barrido-datos-duros-2026-10).
+
 ## Pendientes / huecos
 
 - [x] Recinto y ciudad → **WWE Performance Center, Orlando, Florida**
@@ -117,7 +134,7 @@ definición canónica de **Fighting Spirit Class**:
       Zaria para el pin y retiene (Fightful, WWE.com; research
       2026-10-05).
 - [ ] Cobertura PWTorch / POST / Cornette del NXT 2026-02-03.
-- [ ] **Discrepancia (research 2026-10-05)**: la secuencia del
+- [x] **Discrepancia (research 2026-10-05)** → **resuelta 2026-10-06**: Ash by Elegance agregada a participantes como interviniente no legal del finish. Nota original: la secuencia del
       finish reportada por Fightful menciona a **"Ash by Elegance"**
       interviniendo (tira a Sol Ruca contra las escaleras del ring),
       una tercera integrante no listada en `participantes` de esta
