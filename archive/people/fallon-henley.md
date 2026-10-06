@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: fallon-henley
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s35 (visión directa — WWE NXT, 17/3/2026)"
 tags: [fallon-henley, wwe-nxt, heroe-fundamental-37, triple-corona-midcard, panteon, nxt-speed-championship]
@@ -195,6 +195,9 @@ conjunto en [`../promotions/fatal-influence.md`](../promotions/fatal-influence.m
 
 **Pieza de la sesión**:
 [& Reid vs Flair & Paxley](../matches/2026-09-04-charlotte-flair-paxley-vs-henley-reid-wwe-smackdown.md) (WE)
+
+### Sesión 2026-10-06 s03 — Fatal Influence completa (ICC)
+- `2026 09 25 WWE SmackDown`, **ICC**: *"las verdaderas heels de este show"*. [Ficha](../matches/2026-09-25-fatal-influence-vs-chelsea-tiffany-paige-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: jacy-jayne
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Wikipedia — Jacy Jayne"
   - "Cobertura WWE NXT 2021-2026"
@@ -349,6 +349,9 @@ observado también en otra sesión temprana del archivo. Ver
 de un match de tres — clasifica al Women's Money in the Bank robando
 el pin sobre Alexa Bliss. Pieza:
 [vs Cargill y Bliss](../matches/2026-09-18-jacy-jayne-vs-cargill-vs-bliss-mitb-wwe-smackdown.md) (WE).
+
+### Sesión 2026-10-06 s03 — Hace el pin a Paige (ICC)
+- `2026 09 25 WWE SmackDown`, Fatal Influence vs Chelsea, Tiffany & Paige, **ICC**. [Ficha](../matches/2026-09-25-fatal-influence-vs-chelsea-tiffany-paige-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

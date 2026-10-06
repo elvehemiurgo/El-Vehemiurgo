@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: tiffany-stratton
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — WWE SmackDown, 17/4/2026)"
   - "Mención previa: match vs Giulia (27/3/2026, WWE SmackDown)"
@@ -291,6 +291,9 @@ eje de carisma/entertainment.
 **Piezas de la sesión**:
 [segmento con Chelsea Green](../segments/2026-09-04-chelsea-green-apta-nia-lash-tiffany-salva-wwe-smackdown.md) (WE+) ·
 [vs Nia Jax](../matches/2026-09-04-tiffany-stratton-vs-nia-jax-wwe-smackdown.md) (ICC)
+
+### Sesión 2026-10-06 s03 — "Ha evolucionado su estilo" (ICC)
+- `2026 09 25 WWE SmackDown`, **ICC**: *"Tiffany ha evolucionado su estilo, de verdad se siente más real y stiff, aunque sigue siendo una outsider"*. [Ficha](../matches/2026-09-25-fatal-influence-vs-chelsea-tiffany-paige-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

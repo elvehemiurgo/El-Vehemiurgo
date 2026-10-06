@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: chelsea-green
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s41 (visión directa — WWE SmackDown, 1/5/2026)"
   - "Mención previa en notebook 2026-05-09 (lista personal completa) — vs Giulia 02/01/2026, vs Jordynne Grace 16/01/2026, vs Tiffany Stratton/Lash Legend 06/02/2026, con Sol Ruca NXT 23/12/2025"
@@ -332,6 +332,9 @@ Tiffany Stratton en paralelo busca su lugar en el MITB femenino —
 ambas suman piso a la división que gira alrededor del reinado de
 Green. Pieza:
 [backstage con Bella](../segments/2026-09-18-chelsea-green-nikki-bella-backstage-wwe-smackdown.md) (WE).
+
+### Sesión 2026-10-06 s03 — 6-woman vs Fatal Influence (ICC)
+- `2026 09 25 WWE SmackDown`, **ICC**. [Ficha](../matches/2026-09-25-fatal-influence-vs-chelsea-tiffany-paige-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

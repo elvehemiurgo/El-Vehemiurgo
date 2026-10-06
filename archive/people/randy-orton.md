@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: randy-orton
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Sub-agente card-wwe-smackdown-070826 (research 2026-08-01, closed) — Yahoo Sports, Forbes, ESPN, Fightful, 411mania"
   - "El Vehemiurgo, notebook 2026-08-01 s20 (visión directa)"
@@ -148,6 +148,9 @@ Trick Williams tras un RKO propio en el aire sobre Rey Fénix. Misma
 noche, en la entrevista de Cody Rhodes, se plantea el rematch entre
 ambos tras Sunday Night's Main Event. Pieza:
 [vs Fénix y Williams](../matches/2026-09-18-randy-orton-vs-rey-fenix-vs-trick-williams-mitb-wwe-smackdown.md) (ICC+).
+
+### Sesión 2026-10-06 s03 — Se autobookea la entrevista con Cole (WE)
+- `2026 09 25 WWE SmackDown`, **WE**: *"es un heel muy cobarde porque se adelanta a una posible victoria de Cody y se blinda"*. [Ficha](../segments/2026-09-25-randy-orton-entrevista-michael-cole-cody-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

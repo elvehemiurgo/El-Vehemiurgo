@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: kevin-owens
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Sub-agente card-wwe-summerslam-n1-n2-2026 (research 2026-08-01, closed) — Forbes, CBS Sports, Fightful, Wrestling Inc, Last Word on Pro Wrestling"
   - "El Vehemiurgo, notebook 2026-08-01 s17 (visión directa)"
@@ -272,6 +272,9 @@ arranque de rivalidad decepcionante (guion 009) — pero el botch de
 Owens en el cierre es, explícitamente, el único motivo por el que la
 pieza no llega a Instant Classic Crown+. Pieza:
 [vs Sami, título](../matches/2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md) (ICC).
+
+### Sesión 2026-10-06 s03 — El espacio que deja (mención)
+- `2026 09 25 WWE SmackDown`, segmento de Sami: *"está ocupando todo el espacio que Owens no quiere o quizá Owens a propósito está dejando que Sami tenga su momento"*. [Ficha](../segments/2026-09-25-sami-zayn-paranoico-gargano-lerae-balor-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

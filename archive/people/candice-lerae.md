@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: candice-lerae
 estado: vivo
-ultima_actualizacion: 2026-09-08
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-08 s63 (VISIONADO DIRECTO — 2013 09 14 CZW Down with the Sickness)"
   - "Sub-agente research-czw-dwts-140913 (research 2026-09-08) — WebSearch; WebFetch bloqueado por egress"
@@ -81,6 +81,9 @@ intento de Gargano y, después, el Helluva Kick con el que Zayn gana
 el título. Ver
 [`../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md`](../segments/2026-09-11-sami-zayn-promo-it-has-to-be-me-wwe-smackdown.md) y
 [`../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md`](../matches/2026-09-11-cm-punk-vs-sami-zayn-undisputed-title-wwe-smackdown.md).
+
+### Sesión 2026-10-06 s03 — Segmento con Sami (WE)
+- `2026 09 25 WWE SmackDown`, **WE**. [Ficha](../segments/2026-09-25-sami-zayn-paranoico-gargano-lerae-balor-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

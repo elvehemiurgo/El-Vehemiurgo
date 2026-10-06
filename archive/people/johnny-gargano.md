@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: johnny-gargano
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-09-11 s67 (VISIONADO DIRECTO — 2026 09 04 WWE SmackDown)"
   - "Sub-agente research-wwe-smackdown-040926 (research 2026-09-11) — WebSearch; WebFetch bloqueado por egress"
@@ -104,6 +104,9 @@ titular prometida; **Zayn niega haber hecho esa promesa**; Kevin
 Owens interrumpe y lo Stunnea. Continuidad directa de la condición
 planteada el 4/9 y ratificada el 11/9. Pieza:
 [promo Sami/Aldis](../segments/2026-09-18-sami-zayn-nick-aldis-promo-heel-vs-heel-wwe-smackdown.md) (WE).
+
+### Sesión 2026-10-06 s03 — "Esta victoria es por tipos como nosotros" (WE)
+- `2026 09 25 WWE SmackDown`, segmento con Sami, **WE**; el Vehemiurgo lo lee como *"downgrade"* de la escena titular. [Ficha](../segments/2026-09-25-sami-zayn-paranoico-gargano-lerae-balor-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: sami-zayn
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s42 (visión directa — WWE SmackDown, 8/5/2026)"
 tags: [sami-zayn, wwe-smackdown-2026, face, wrestling-entertainment, trick-williams, primer-registro-individual]
@@ -342,6 +342,9 @@ inédito de precisión sobre esa mecánica. CM Punk presente para los
 stakes; post-match aplica más de un GTS. Piezas:
 [vs Owens, título](../matches/2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md) (ICC) ·
 [post-match con Punk](../segments/2026-09-18-post-match-cm-punk-gts-wwe-smackdown.md) (WE).
+
+### Sesión 2026-10-06 s03 — El campeón paranoico (WE)
+- `2026 09 25 WWE SmackDown`, **WE**: *"Sami super paranoico es muy entretenido [...] pero realmente no creo que Sami esté elevando la escena"*. [Ficha](../segments/2026-09-25-sami-zayn-paranoico-gargano-lerae-balor-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

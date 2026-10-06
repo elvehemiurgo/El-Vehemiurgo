@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: finn-balor
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Wikipedia — Finn Bálor"
   - "Insight with Chris Van Vliet — entrevistas varias"
@@ -266,6 +266,9 @@ dice que ya no lo ve a él **"solo su sombra"**; Bálor lo llama
 por otra oportunidad titular. Ambos sin título en este punto. **Sin
 match anunciado** al cierre del research. Ver
 [`../segments/2026-08-14-gunther-finn-balor-backstage-wwe-smackdown.md`](../segments/2026-08-14-gunther-finn-balor-backstage-wwe-smackdown.md).
+
+### Sesión 2026-10-06 s03 — De vuelta en la escena del main event (WE)
+- `2026 09 25 WWE SmackDown`, segmento con Sami, **WE**: *"técnicamente tenemos a Finn en la escena del main event así que eso es algo"*. [Ficha](../segments/2026-09-25-sami-zayn-paranoico-gargano-lerae-balor-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

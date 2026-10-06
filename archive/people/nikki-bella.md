@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: nikki-bella
 estado: vivo
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Sub-agente card-wwe-smackdown-240726 (research 2026-08-01, closed)"
   - "Sub-agente card-wwe-summerslam-n1-010826 (research 2026-08-01, closed) — Bleacher Report, Wrestling Inc, Cageside Seats, 411mania"
@@ -72,6 +72,9 @@ Vehemiurgo declara compartida con Becky Lynch. Regreso sorpresa,
 retando directamente al WWE Women's Championship de Chelsea Green sin
 pasar por clasificatorios. Pieza:
 [backstage con Green](../segments/2026-09-18-chelsea-green-nikki-bella-backstage-wwe-smackdown.md) (WE).
+
+### Sesión 2026-10-06 s03 — Hace tropezar a Paige (ICC)
+- `2026 09 25 WWE SmackDown`: su interferencia decide el 6-woman. [Ficha](../matches/2026-09-25-fatal-influence-vs-chelsea-tiffany-paige-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

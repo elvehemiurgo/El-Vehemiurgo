@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: paige
 estado: vivo
-ultima_actualizacion: 2026-08-26
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s47 (visión directa — WWE Raw, 11/5/2026)"
   - "Mención previa: s41 ('las bellas y paige')"
@@ -124,6 +124,9 @@ contrario, Nikki y Brie Bella le hicieron heel turn en SummerSlam
 - **Post-match**: **regreso de Nikki Bella**, que sale desde el
   público y la ataca por la espalda — spear y **Rack Attack 2.0**.
 - Ver [`../matches/2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md`](../matches/2026-08-28-paige-vs-jacy-jayne-womens-us-title-wwe-smackdown.md).
+
+### Sesión 2026-10-06 s03 — Face turn; recibe el pin (ICC)
+- `2026 09 25 WWE SmackDown`, **ICC**: Nikki Bella la hace tropezar y Jacy Jayne la cubre. [Ficha](../matches/2026-09-25-fatal-influence-vs-chelsea-tiffany-paige-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

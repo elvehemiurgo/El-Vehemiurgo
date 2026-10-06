@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: cody-rhodes
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Notebook del Vehemiurgo, múltiples menciones"
   - "Dossier WrestleMania 42 + WWE MITB 2013 + cluster cross-link NJPW 2018"
@@ -459,6 +459,9 @@ costó el match). Responde a la traición de sus aliados de
 WrestleMania 40 con una lectura institucional ("WWE es un equipo más
 grande") y siembra el rematch sin piedad. Pieza:
 [entrevista](../segments/2026-09-18-cody-rhodes-entrevista-wwe-smackdown.md) (WE).
+
+### Sesión 2026-10-06 s03 — El blanco de los celos de Orton (WE)
+- `2026 09 25 WWE SmackDown`, entrevista de Orton con Cole, **WE**: *"buen material como para jugar con el status face de Cody, sí merece un rival como Orton"*. [Ficha](../segments/2026-09-25-randy-orton-entrevista-michael-cole-cody-wwe-smackdown.md).
 
 ## Pendientes / huecos
 

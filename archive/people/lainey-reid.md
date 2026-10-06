@@ -4,7 +4,7 @@ tipo: fact-sheet
 categoria: people
 slug: lainey-reid
 estado: vivo
-ultima_actualizacion: 2026-09-11
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-14 s38 (visión directa — WWE SmackDown, 17/4/2026)"
 tags: [lainey-reid, wwe-nxt, heroe-fundamental-38, panteon, titulos-en-pareja-femeninos-excepcion]
@@ -167,6 +167,9 @@ conjunto en [`../promotions/fatal-influence.md`](../promotions/fatal-influence.m
 
 **Pieza de la sesión**:
 [& Henley vs Flair & Paxley](../matches/2026-09-04-charlotte-flair-paxley-vs-henley-reid-wwe-smackdown.md) (WE)
+
+### Sesión 2026-10-06 s03 — Fatal Influence completa (ICC)
+- `2026 09 25 WWE SmackDown`, **ICC**: *"me encanta los detalles que cuida Fatal Influence en su selling"*. [Ficha](../matches/2026-09-25-fatal-influence-vs-chelsea-tiffany-paige-wwe-smackdown.md).
 
 ## Pendientes / huecos
 
