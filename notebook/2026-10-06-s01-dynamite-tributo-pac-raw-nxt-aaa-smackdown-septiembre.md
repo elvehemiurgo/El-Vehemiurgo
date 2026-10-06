@@ -106,11 +106,11 @@ tags: [aew-dynamite-2026, tributo-pac, bryan-danielson, don-callis-family, the-e
 
 | # | Show | TS | Pieza | Clase |
 |---|---|---|---|---|
-| 1 | `2026 09 30 AEW Dynamite` | 00:31:34 | Regreso de Bryan Danielson | **sin clase** (*"fue un gran momento"*) |
+| 1 | `2026 09 30 AEW Dynamite` | 00:31:34 | Regreso de Bryan Danielson | **WE** (ratificada en s02) |
 | 2 | ídem | 00:36:16 | Don Callis Family vs The Elite, 4 vs 4 | **ICC** |
 | 3 | ídem | 01:05:48 | Ospreay vs Ricochet | **ICC+** |
 | 4 | ídem | 01:29:35 | Persephone, Baker & Moné vs Thunder Rosa, Hyan & Shafir | **WE** |
-| 5 | ídem | 01:49:05 | Davis, Alexander, Wardlow, Archer & Doyle vs Claudio, Yuta, Garcia, Kidd & Danielson | **ICC** — reserva: *"demasiado protagonismo a Garcia y Shafir, eso la baja"* |
+| 5 | ídem | 01:49:05 | Davis, Alexander, Wardlow, Archer & Doyle vs Claudio, Yuta, Garcia, Kidd & Danielson | **ICC** — reserva: *"demasiado protagonismo a Garcia y Shafir, eso la baja"*; ratificada ICC en s02 |
 | 6 | ídem | 02:11:27 | Video tributo a PAC | **WE+** |
 | 7 | `2026 09 07 WWE Raw` | 00:20:49 | Oba Femi interrumpe a The Vision (elaboración) | **WE+** |
 | 8 | ídem | 00:39:50 | Breakker vs Page vs Rey (elaboración) | **ICC** |
@@ -121,7 +121,7 @@ tags: [aew-dynamite-2026, tributo-pac, bryan-danielson, don-callis-family, the-e
 | 13 | `2026 09 15 WWE NXT` | 00:01:41 | Lizzy Rain vs Kali Armstrong | **ICC+** |
 | 14 | ídem | 00:17:31 | Segmento Vanity Project / EK / Montana | **WE** |
 | 15 | ídem | 00:43:22 | Myles Borne / Tavion Heights | **WE** |
-| 16 | ídem | 00:47:21 | EK & Montana vs Vanity Project | **ICC+** — reserva: el dive mal atrapado por Brad Baylor (01:01:47) |
+| 16 | ídem | 00:47:21 | EK & Montana vs Vanity Project | **ICC+** — reserva: el dive mal atrapado por Brad Baylor (01:01:47); ratificada ICC+ en s02 |
 | 17 | ídem | 01:03:31 | Promo backstage de Saquon Shugars | **WE+** |
 | 18 | ídem | 01:06:08 | Careo Kelani / Catalina / Zaria | **sin clase** (*"está ok"*) |
 | 19 | ídem | 01:17:09 | Creed Brothers (promo) | **WE** |
@@ -132,7 +132,7 @@ tags: [aew-dynamite-2026, tributo-pac, bryan-danielson, don-callis-family, the-e
 | 24 | ídem | 00:47:32 | La Hiedra vs Faby Apache | **ICC+** |
 | 25 | `2026 09 22 WWE NXT` | 00:01:01 | Promo video del Dusty Classic | **WE** |
 | 26 | ídem | 00:02:37 | Romeo & Noam vs Los Americanos | **ICC+** |
-| 27 | ídem | 00:25:47 | Skylar Raye vs Kali Armstrong | **FC** + **alta a RUNNER UPS** |
+| 27 | ídem | 00:25:47 | Skylar Raye vs Kali Armstrong | **FC** (WE y FS, ratificada en s02) + **alta a RUNNER UPS** |
 | 28 | ídem | 00:39:19 | Catalina & Thea vs Zaria & Kelani | **ICC** |
 | 29 | ídem | 00:54:55 | Montana / Lennox in-ring | **WE+** |
 | 30 | ídem | 01:08:42 | Creed Brothers vs Jax Presley & Harley Riggins | **ICC** |
@@ -142,7 +142,21 @@ tags: [aew-dynamite-2026, tributo-pac, bryan-danielson, don-callis-family, the-e
 | 34 | ídem | 00:21:31 | Promo Nia Jax y Lash Legend | **WE** |
 | 35 | ídem | 00:23:35 | Punk / Owens / Aldis en la oficina | **sin clase** (*"estuvo ok"*) |
 | 36 | ídem | 00:25:56 | Chelsea Green | **sin clase** (*"está ok"*) |
-| 37 | ídem | 00:29:08 | Lash vs Charlotte vs Giulia | **FC** |
+| 37 | ídem | 00:29:08 | Lash vs Charlotte vs Giulia | **FC** (WE y FS, ratificada en s02) |
+
+## s02 (mismo día) — ratificaciones del Vehemiurgo
+
+> *"el regreso de Danielson WE*
+> *Lash vs Charlotte vs Giulia y Skylar Raye vs Kali Armstrong quedan  "WE y FS".*
+> *el 5 vs 5 con Danielson las 3 clases*
+> *el all-star tag de NXT 15/9 las 3 clases con corona +"*
+>
+> — El Vehemiurgo, 2026-10-06 s02 (verbatim)
+
+- Pieza 1 (regreso de Danielson): de sin clase a **WE**.
+- Piezas 27 y 37: **FC** (WE + FS) confirmada.
+- Pieza 5 (5 vs 5 con Danielson): **ICC** confirmada pese a la reserva.
+- Pieza 16 (EK & Montana vs Vanity Project): **ICC+** confirmada pese a la reserva.
 
 ## Distribución
 
