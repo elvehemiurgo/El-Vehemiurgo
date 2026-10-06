@@ -4,12 +4,13 @@ slug: runner-ups
 tipo: topic
 categoria: lista-oficial
 estado: vivo
-ultima_actualizacion: 2026-09-30
+ultima_actualizacion: 2026-10-06
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-09 s01 (propuesta + casos fundantes)"
   - "Volcado Vehemiurgo 2026-07-11 (bautizo + primera alta formal: Dani Luna)"
   - "Volcado Vehemiurgo 2026-07-14 s46 (alta doble: Komander + El Clon, AEW Redemption)"
   - "Volcado Vehemiurgo 2026-09-30 s01 (altas #13 Hyan y #14 Visionario)"
+  - "Volcado Vehemiurgo 2026-10-06 s01 (alta #15 Skylar Raye)"
 tags: [runner-ups, mustafa-ali, mike-santana, dani-luna, komander, arez, hyan, visionario, indie-mexicano, presente-no-futuro, antesala-panteon]
 ---
 
@@ -260,6 +261,29 @@ enfría, queda el registro de por qué no.
   derrota [una fuente].
   [→](../people/visionario.md) ·
   [`../matches/2025-10-26-skayler-visionario-vs-korvus-black-miner-vs-blue-win-koda-hwe-arena-ancestral.md`](../matches/2025-10-26-skayler-visionario-vs-korvus-black-miner-vs-blue-win-koda-hwe-arena-ancestral.md)
+
+### #15 — Skylar Raye *(declarada 2026-10-06 s01)*
+
+> *"Skylar Raye vs Kali Armstrong, buenos actos, veo buena actitud en la
+> promo y debut de Skylar buen selling, buenas secuencias coherentes
+> con la velocidad que manejan, me gustó la innovación, highspeed
+> americano femenino es raro, y SKylar lo hizo muy bien [...] el
+> potencial está ahi muy fuerte [...] realmente quiero ver más de ella,
+> pongamos a Raye en los que se ganaron mi corazon"*
+>
+> — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
+- **Empresa**: WWE NXT (debut el 22/9/2026; callup de Evolve).
+- **Por qué entra**: fórmula de bautizo exacta, dicha sobre su
+  **debut**. El elogio es de estilo y de proyección: *"highspeed
+  americano femenino es raro, y Skylar lo hizo muy bien"*, la línea
+  que la conecta con la doctrina Y2K HIGHSPEED sin declararla en ese
+  panteón. La reserva queda dicha: *"se nota algo de verde en el
+  selling y transiciones"*.
+- **Match anchor**: vs Kali Armstrong, **2026 09 22 WWE NXT** — **WE y
+  FS → Feeling Crown** (ratificada en s02), desenlace caótico con otro
+  callup de Evolve.
+  _(ficha en curso)_
 
 ## Pendientes
 
