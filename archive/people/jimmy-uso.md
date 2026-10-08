@@ -97,6 +97,15 @@ protagonistas del turn (Sikoa y Knight).
   alcanzaban para la lucha perfecta.
 - Ver [`../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md`](../matches/2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, apertura — [Promo video de apertura: el repackage de OTM / 946 y Royce Keys contra The Bloodline](../segments/2026-09-28-promo-video-otm-946-royce-keys-jacob-fatu-wwe-raw.md) — **WE**.
+- Raw, 28/9/2026, apertura (tras el video) — [Jacob Fatu y los Usos, promo in-ring; debut de Jaida Parker en Raw](../segments/2026-09-28-jacob-fatu-usos-promo-in-ring-debut-jaida-parker-wwe-raw.md) — **sin clase**.
+- Raw, 28/9/2026, 02:12:05 — [The Bloodline vs 946: brawl final y Jaida Parker atropella a Jacob Fatu](../segments/2026-09-28-bloodline-vs-946-brawl-final-jaida-parker-wwe-raw.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

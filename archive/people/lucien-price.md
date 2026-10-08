@@ -138,6 +138,13 @@ incendiando el auto rentado de los Usos tras su llamada vía jumbotron.
 [video package](../segments/2026-09-07-promo-video-royce-keys-otm-wwe-raw.md) (WE+) ·
 [cierre de show](../segments/2026-09-07-segmento-final-otm-wwe-raw.md) (WE)
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 02:12:05 — [The Bloodline vs 946: brawl final y Jaida Parker atropella a Jacob Fatu](../segments/2026-09-28-bloodline-vs-946-brawl-final-jaida-parker-wwe-raw.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos (nombre real, formación).

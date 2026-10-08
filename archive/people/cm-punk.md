@@ -574,6 +574,15 @@ research); post-match conecta más de un GTS. Piezas:
 [vs Zayn/Owens, contexto](../matches/2026-09-18-sami-zayn-vs-kevin-owens-undisputed-title-wwe-smackdown.md) (ICC) ·
 [post-match](../segments/2026-09-18-post-match-cm-punk-gts-wwe-smackdown.md) (WE).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- SmackDown, 25/9/2026, 01:09:03 — [Gunther, promo backstage: "the ghost of Finn Bálor"](../segments/2026-09-25-gunther-promo-backstage-ghost-of-finn-balor-wwe-smackdown.md) — **sin clase**.
+- SmackDown, 25/9/2026, 01:13:55 — [Cody Rhodes responde a Orton, menosprecia a Punk y a Sami; careo con CM Punk](../segments/2026-09-25-cody-rhodes-responde-orton-careo-cm-punk-wwe-smackdown.md) — **WE**.
+- SmackDown, 25/9/2026, 01:19:48 — [CM Punk vs Finn Bálor vs Gunther (clasificatoria a Money in the Bank)](../matches/2026-09-25-cm-punk-vs-finn-balor-vs-gunther-mitb-qualifier-wwe-smackdown.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

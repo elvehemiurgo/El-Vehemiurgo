@@ -182,6 +182,16 @@ The Shield en cobertura es de estilo de presentación, no de un
 ataque puntual imitando el debut de 2012. Pieza:
 [secuestro de Solo](../segments/2026-09-21-ataque-secuestro-solo-946-wwe-raw.md) (WE).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, apertura — [Promo video de apertura: el repackage de OTM / 946 y Royce Keys contra The Bloodline](../segments/2026-09-28-promo-video-otm-946-royce-keys-jacob-fatu-wwe-raw.md) — **WE**.
+- Raw, 28/9/2026, 02:12:05 — [The Bloodline vs 946: brawl final y Jaida Parker atropella a Jacob Fatu](../segments/2026-09-28-bloodline-vs-946-brawl-final-jaida-parker-wwe-raw.md) — **FC**.
+
+**ICC con destinatario** por su performance en el brawl final contra Jacob Fatu (*"al performance de Jacob y Royce Keys aquí hay que darles las 3 clases"*).
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, edad y entrenamiento.

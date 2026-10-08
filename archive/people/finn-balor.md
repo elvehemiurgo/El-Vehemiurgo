@@ -270,6 +270,16 @@ match anunciado** al cierre del research. Ver
 ### Sesión 2026-10-06 s03 — De vuelta en la escena del main event (WE)
 - `2026 09 25 WWE SmackDown`, segmento con Sami, **WE**: *"técnicamente tenemos a Finn en la escena del main event así que eso es algo"*. [Ficha](../segments/2026-09-25-sami-zayn-paranoico-gargano-lerae-balor-wwe-smackdown.md).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- SmackDown, 25/9/2026, 01:09:03 — [Gunther, promo backstage: "the ghost of Finn Bálor"](../segments/2026-09-25-gunther-promo-backstage-ghost-of-finn-balor-wwe-smackdown.md) — **sin clase**.
+- SmackDown, 25/9/2026, 01:19:48 — [CM Punk vs Finn Bálor vs Gunther (clasificatoria a Money in the Bank)](../matches/2026-09-25-cm-punk-vs-finn-balor-vs-gunther-mitb-qualifier-wwe-smackdown.md) — **ICC**.
+
+Protegido en la triple: *"puede haber esperanza para su booking"*; el careo con Punk *"de ensueño"*.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de los runs como Demon gimmick.

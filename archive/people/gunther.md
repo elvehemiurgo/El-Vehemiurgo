@@ -340,6 +340,14 @@ la confrontación con Aldis quedó en *"ok"*.
 [promo de apertura](../segments/2026-09-04-gunther-promo-apertura-sami-zayn-wwe-smackdown.md) (sin clase) ·
 [confrontación con Aldis](../segments/2026-09-04-gunther-confronta-nick-aldis-wwe-smackdown.md) (sin clase)
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- SmackDown, 25/9/2026, 01:09:03 — [Gunther, promo backstage: "the ghost of Finn Bálor"](../segments/2026-09-25-gunther-promo-backstage-ghost-of-finn-balor-wwe-smackdown.md) — **sin clase**.
+- SmackDown, 25/9/2026, 01:19:48 — [CM Punk vs Finn Bálor vs Gunther (clasificatoria a Money in the Bank)](../matches/2026-09-25-cm-punk-vs-finn-balor-vs-gunther-mitb-qualifier-wwe-smackdown.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [x] ~~Nombre real~~ → pendiente el nombre civil, pero **gimmick previo

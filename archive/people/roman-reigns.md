@@ -304,6 +304,14 @@ Vehemiurgo va al setup más que al resultado: *"muy buen booking y
 más altos y realistas posibles"*. Ver
 [`../matches/2026-09-14-roman-reigns-vs-penta-world-title-wwe-raw.md`](../matches/2026-09-14-roman-reigns-vs-penta-world-title-wwe-raw.md).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, apertura — [Promo video de apertura: el repackage de OTM / 946 y Royce Keys contra The Bloodline](../segments/2026-09-28-promo-video-otm-946-royce-keys-jacob-fatu-wwe-raw.md) — **WE**.
+- Raw, 28/9/2026, 01:11:40 — [LA Knight, promo video contra Roman Reigns](../segments/2026-09-28-la-knight-promo-video-roman-reigns-wwe-raw.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

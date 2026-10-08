@@ -430,6 +430,13 @@ we used to play wrestling in my parents' beds"* (Busted Open).
   ùltimos tiempos [...] es el màs puro en el mainstream"*.
   [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 01:38:23 — [Rey Fénix, Chad Gable y Ethan Page](../segments/2026-09-28-rey-fenix-chad-gable-ethan-page-segmento-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [x] Nombre real (no público), debut WWE (4/4/2025 vs Frazer),

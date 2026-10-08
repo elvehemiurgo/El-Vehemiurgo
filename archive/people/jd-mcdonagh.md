@@ -202,6 +202,14 @@ Torito disfrazado de Minihausen).
 
 **Lectura sintética**: **WE** para el match completo.
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 00:10:04 — [Dominik Mysterio y JD McDonagh con Je'Von Evans y Penta](../segments/2026-09-28-dominik-jd-mcdonagh-jevon-evans-penta-segmento-wwe-raw.md) — **WE**.
+- Raw, 28/9/2026, 01:42:19 — [Penta & Je'Von Evans vs Dominik Mysterio & JD McDonagh](../matches/2026-09-28-penta-jevon-evans-vs-dominik-jd-mcdonagh-wwe-raw.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut profesional.

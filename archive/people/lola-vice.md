@@ -178,6 +178,15 @@ World Mixed Tag Team Championship junto a Mr. Iguana.
 **Pieza de la sesión**:
 [clasificatorio femenino al MITB](../matches/2026-09-14-lola-vice-vs-raquel-vs-kelani-jordan-mitb-qualifier-wwe-raw.md) (**FC**)
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 00:14:44 — [Lola Vice vs Roxanne Perez](../matches/2026-09-28-lola-vice-vs-roxanne-perez-wwe-raw.md) — **WE**.
+
+Primer singles en Raw: armdrag botcheado y spot rehecho; *"muy fake para mi gusto todavía"*, pero el spinning backfist queda muy over.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de obtención del NXT Women's Title (Stand &

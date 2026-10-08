@@ -215,6 +215,13 @@ Monies vs Danhausen (SummerSlam Noche 2, 2/8/2026), ayudando a
 Danhausen — confirmado por research, aunque el detalle exacto "slap
 nutz" no se halló en cobertura.
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 00:31:13 — [Joe Hendry, videoclip producido por WWE](../segments/2026-09-28-joe-hendry-videoclip-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas TNA World Title run.

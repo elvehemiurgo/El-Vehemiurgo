@@ -108,6 +108,14 @@ arco "Jevon contra el mundo". Ver
   y quedó saldada.
 - Ver [`../matches/2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md`](../matches/2026-08-24-jevon-evans-vs-big-cass-wwe-raw.md).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 00:29:43 — [Dragon Lee, promo con Big Cass](../segments/2026-09-28-dragon-lee-promo-big-cass-wwe-raw.md) — **WE**.
+- Raw, 28/9/2026, 00:47:44 — [Dragon Lee vs Big Cass](../matches/2026-09-28-dragon-lee-vs-big-cass-wwe-raw.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria completa pre-2026 (WWE original, indies, AEW).

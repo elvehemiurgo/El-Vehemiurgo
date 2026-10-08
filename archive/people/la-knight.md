@@ -490,6 +490,14 @@ título. Se beneficia del secuestro de Solo Sikoa por 946 esa misma
 noche, que divide el frente del Bloodline. Pieza:
 [promo de retador](../segments/2026-09-21-la-knight-promo-retador-reigns-wwe-raw.md) (WE+).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 01:11:40 — [LA Knight, promo video contra Roman Reigns](../segments/2026-09-28-la-knight-promo-video-roman-reigns-wwe-raw.md) — **WE+**.
+- Raw, 28/9/2026, 01:34:36 — [LA Knight molesta a The Bloodline](../segments/2026-09-28-la-knight-molesta-bloodline-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Catalogar matches y momentos clave 2023–2026 que sustenten el

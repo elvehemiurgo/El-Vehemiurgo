@@ -47,6 +47,15 @@ de liderazgo de match, no de ejecución individual solamente. Ver
 para el análisis completo, incluida la rivalidad previa con Las
 Tóxicas.
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- AAA on FOX, 26/9/2026, 00:47:19 — [Adelicious vs La Hiedra vs Lady Shani](../matches/2026-09-26-adelicious-vs-la-hiedra-vs-lady-shani-aaa-on-fox.md) — **ICC**.
+
+*"Una verdadera ring general de verdad efectiva"*.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos.

@@ -70,6 +70,13 @@ tags: [bronson-reed, the-vision, bron-breakker, oba-femi, regreso-de-lesion, tsu
 [apertura de Raw](../segments/2026-09-07-the-vision-promos-breakker-reed-wwe-raw.md) (WE) ·
 [ataque/salve](../segments/2026-09-07-ataque-vision-salve-oba-femi-wwe-raw.md) (WE)
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 00:38:14 — [Oba Femi y Bronson Reed: el match oficial para Money in the Bank](../segments/2026-09-28-oba-femi-bronson-reed-segmento-mitb-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de la lesión de bíceps y del regreso.

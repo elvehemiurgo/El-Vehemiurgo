@@ -145,6 +145,13 @@ de Reinas en Triplemanía 34 Noche 2.
 **Pieza de la sesión**:
 [vs La Catalina, Reina de Reinas](../matches/2026-09-13-flammer-vs-la-catalina-reina-de-reinas-aaa-triplemania-xxxiv.md) (**ICC+**)
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- AAA on FOX, 26/9/2026, 00:47:19 — [Adelicious vs La Hiedra vs Lady Shani](../matches/2026-09-26-adelicious-vs-la-hiedra-vs-lady-shani-aaa-on-fox.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

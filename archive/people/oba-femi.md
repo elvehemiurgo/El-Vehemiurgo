@@ -221,6 +221,15 @@ mantiene reserva sobre cómo se vio el aterrizaje. Paul Heyman lo
 declara "un problema" para Breakker. Pieza:
 [ataque post-match](../segments/2026-09-21-oba-femi-ataque-postmatch-wwe-raw.md) (WE+).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 00:38:14 — [Oba Femi y Bronson Reed: el match oficial para Money in the Bank](../segments/2026-09-28-oba-femi-bronson-reed-segmento-mitb-wwe-raw.md) — **WE**.
+
+*"Full main eventer"*; WWE le traspasa el paquete Brock.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes
 
 - [ ] NXT World Championship reigns — pieces editoriales.

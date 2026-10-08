@@ -56,6 +56,13 @@ brutales y stiff y oldschool"*.
 en la primera qualifying match hacia un Fatal 4-Way por el AAA Latin
 American Championship vacante en Triplemanía 34.
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- AAA on FOX, 26/9/2026, 00:27:48 — [Dinámico vs Texano Jr.](../matches/2026-09-26-dinamico-vs-texano-jr-aaa-on-fox.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -277,6 +277,13 @@ estancada como enhancement. Piezas:
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 00:14:44 — [Lola Vice vs Roxanne Perez](../matches/2026-09-28-lola-vice-vs-roxanne-perez-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.

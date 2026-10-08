@@ -357,6 +357,13 @@ verbaliza después que "Oba Femi seguir respirando es un problema".
 Pieza:
 [vs Jevon Evans](../matches/2026-09-21-jevon-evans-vs-bron-breakker-wwe-raw.md) (ICC+).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 01:42:19 — [Penta & Je'Von Evans vs Dominik Mysterio & JD McDonagh](../matches/2026-09-28-penta-jevon-evans-vs-dominik-jd-mcdonagh-wwe-raw.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos (nombre real, fecha de

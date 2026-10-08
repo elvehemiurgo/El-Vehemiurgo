@@ -346,6 +346,13 @@ stakes; post-match aplica más de un GTS. Piezas:
 ### Sesión 2026-10-06 s03 — El campeón paranoico (WE)
 - `2026 09 25 WWE SmackDown`, **WE**: *"Sami super paranoico es muy entretenido [...] pero realmente no creo que Sami esté elevando la escena"*. [Ficha](../segments/2026-09-25-sami-zayn-paranoico-gargano-lerae-balor-wwe-smackdown.md).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- SmackDown, 25/9/2026, 01:13:55 — [Cody Rhodes responde a Orton, menosprecia a Punk y a Sami; careo con CM Punk](../segments/2026-09-25-cody-rhodes-responde-orton-careo-cm-punk-wwe-smackdown.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

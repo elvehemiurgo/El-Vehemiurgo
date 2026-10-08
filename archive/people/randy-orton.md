@@ -152,6 +152,13 @@ ambos tras Sunday Night's Main Event. Pieza:
 ### Sesión 2026-10-06 s03 — Se autobookea la entrevista con Cole (WE)
 - `2026 09 25 WWE SmackDown`, **WE**: *"es un heel muy cobarde porque se adelanta a una posible victoria de Cody y se blinda"*. [Ficha](../segments/2026-09-25-randy-orton-entrevista-michael-cole-cody-wwe-smackdown.md).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- SmackDown, 25/9/2026, 01:13:55 — [Cody Rhodes responde a Orton, menosprecia a Punk y a Sami; careo con CM Punk](../segments/2026-09-25-cody-rhodes-responde-orton-careo-cm-punk-wwe-smackdown.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Resultado exacto de Cody vs Orton en WrestleMania 42 — snippets

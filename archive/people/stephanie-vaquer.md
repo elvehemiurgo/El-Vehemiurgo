@@ -354,6 +354,16 @@ revancha para Liv Morgan y title shot futuro para Becky Lynch, sin
 necesitar la ayuda de esta última para vencer a Morgan. Pieza:
 [promo con Liv y Becky](../segments/2026-09-21-liv-morgan-promo-becky-vaquer-wwe-raw.md) (WE+).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 00:47:44 — [Dragon Lee vs Big Cass](../matches/2026-09-28-dragon-lee-vs-big-cass-wwe-raw.md) — **ICC**.
+- Raw, 28/9/2026, 01:10:08 — [Stephanie Vaquer, promo](../segments/2026-09-28-stephanie-vaquer-promo-wwe-raw.md) — **WE**.
+
+El español *"para darle picante, no como muleta"*.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run NJPW STARDOM (fechas, IWGP Women's

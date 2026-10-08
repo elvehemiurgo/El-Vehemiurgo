@@ -305,6 +305,13 @@ Tres apariciones, tres funciones distintas y todas old-school:
 [segmento con Tim Storm](../segments/2017-12-09-ethan-page-segmento-tim-storm-czw-cage-of-death-19.md) (WE) ·
 [vs David Starr](../matches/2017-12-09-david-starr-vs-ethan-page-czw-cage-of-death-19.md) (sin clase declarada)
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 01:38:23 — [Rey Fénix, Chad Gable y Ethan Page](../segments/2026-09-28-rey-fenix-chad-gable-ethan-page-segmento-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de NXT Champion run.

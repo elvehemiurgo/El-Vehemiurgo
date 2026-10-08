@@ -463,6 +463,13 @@ grande") y siembra el rematch sin piedad. Pieza:
 ### Sesión 2026-10-06 s03 — El blanco de los celos de Orton (WE)
 - `2026 09 25 WWE SmackDown`, entrevista de Orton con Cole, **WE**: *"buen material como para jugar con el status face de Cody, sí merece un rival como Orton"*. [Ficha](../segments/2026-09-25-randy-orton-entrevista-michael-cole-cody-wwe-smackdown.md).
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- SmackDown, 25/9/2026, 01:13:55 — [Cody Rhodes responde a Orton, menosprecia a Punk y a Sami; careo con CM Punk](../segments/2026-09-25-cody-rhodes-responde-orton-careo-cm-punk-wwe-smackdown.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

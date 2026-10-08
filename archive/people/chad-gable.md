@@ -139,6 +139,13 @@ Ficha de la identidad enmascarada:
 **Pieza de la sesión**:
 [vs Dragon Lee, Intercontinental Championship](../matches/2026-09-14-chad-gable-vs-dragon-lee-intercontinental-wwe-raw.md) (**ICC+**)
 
+
+### Sesión 2026-10-08 s01 — SmackDown 25/9, AAA on FOX 26/9, Raw 28/9
+
+- Raw, 28/9/2026, 01:38:23 — [Rey Fénix, Chad Gable y Ethan Page](../segments/2026-09-28-rey-fenix-chad-gable-ethan-page-segmento-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
