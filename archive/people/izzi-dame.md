@@ -161,6 +161,13 @@ stable**, tras Brooks Jensen y **Tatum Paxley**.
 
 **Pieza**: [mixed tag vs Lizzy Rain y EK Prosper](../matches/2026-08-11-lizzy-rain-ek-prosper-vs-the-culling-nxt.md) (sin clase declarada)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 6/10/2026, 01:15:04 — [Battle royal de 20 mujeres por la contendencia #1 al NXT Women's Championship](../matches/2026-10-06-battle-royal-contendiente-nxt-womens-title-wren-sinclair-wwe-nxt.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del debut NXT.

@@ -180,6 +180,16 @@ actual.)
   cierra con *"todos de partida son buenos prospectos"*.
   [Arquetipo](../topics/arquetipo-el-heredero-outsider.md).
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 01:18:52 — [Grayson Waller open challenge: la carrera por la oportunidad y el careo Zilla Fatu–Cruz Montana](../segments/2026-09-29-grayson-waller-open-challenge-intro-zilla-fatu-cruz-montana-wwe-nxt.md) — **WE+**.
+- NXT, 29/9/2026, 01:44:12 — [Zilla Fatu, promo de cierre contra BirthRight y Lexis King](../segments/2026-09-29-zilla-fatu-promo-cierre-birthright-lexis-king-wwe-nxt.md) — **WE+**.
+- NXT, 6/10/2026, 00:03:44 — [Zilla Fatu vs Lexis King](../matches/2026-10-06-zilla-fatu-vs-lexis-king-wwe-nxt.md) — **WE**.
+- NXT, 6/10/2026, 01:03:43 — [BirthRight (Charlie Dempsey & Lexis King) vs Tokyo Bad Boys](../matches/2026-10-06-birthright-dempsey-king-vs-tokyo-bad-boys-dusty-classic-wwe-nxt.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Run completo MLW con fechas.

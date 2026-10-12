@@ -338,6 +338,16 @@ por victory roll tras intercambio de ankle lock y 619s. Post-match
 pide colocarse el cinturón él mismo. Ver
 [`../matches/2026-08-17-chad-gable-vs-rey-mysterio-ic-title-wwe-raw.md`](../matches/2026-08-17-chad-gable-vs-rey-mysterio-ic-title-wwe-raw.md).
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 01:53:17 — [CM Punk, Rey Mysterio & El Grande Americano vs Dominik Mysterio, JD McDonagh & Omos](../matches/2026-09-26-cm-punk-rey-mysterio-el-grande-americano-vs-dominik-jd-mcdonagh-omos-wwe-aaa-worlds-collide.md) — **FC**.
+- AAA Worldwide, 3/10/2026, 00:43:17 — [Dominik Mysterio & Omos vs Rey Mysterio & El Grande Americano](../matches/2026-10-03-dominik-mysterio-omos-vs-rey-mysterio-el-grande-americano-aaa-worldwide.md) — **ICC**.
+- Raw, 5/10/2026, 00:44:36 — [Dragon Lee al micrófono: propone el tag contra Judgment Day](../segments/2026-10-05-dragon-lee-microfono-rey-mysterio-judgment-day-wwe-raw.md) — **WE**.
+- Raw, 5/10/2026, 01:27:54 — [Dominik Mysterio & JD McDonagh vs Rey Mysterio & Dragon Lee](../matches/2026-10-05-dominik-jd-mcdonagh-vs-rey-mysterio-dragon-lee-wwe-raw.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] **WCW Halloween Havoc 1997 mask match vs Eddie** —

@@ -136,6 +136,14 @@ poner su tema original, "Perros" de Cartel de Santa**.
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 01:29:51 — [Penta & Rey Fénix vs Los Perros del Mal (Daga & Berto)](../matches/2026-09-26-penta-rey-fenix-vs-perros-del-mal-daga-berto-wwe-aaa-worlds-collide.md) — **ICC**.
+- AAA Worldwide, 3/10/2026, 00:23:26 — [La Parka (c) vs Mr. Iguana (Campeonato Latinoamericano AAA)](../matches/2026-10-03-la-parka-vs-mr-iguana-campeonato-latinoamericano-aaa-worldwide.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de carrera pre-2026 (debut, cronología de títulos).

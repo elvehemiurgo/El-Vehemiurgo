@@ -95,6 +95,15 @@ Frazer. **Cae** eliminado en el tramo final tras un spot de dedos
 torcidos de Los Americanos. Ver
 [`../matches/2026-09-11-fraxiom-vs-los-americanos-vs-tokyo-bad-boys-vs-lwo-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-fraxiom-vs-los-americanos-vs-tokyo-bad-boys-vs-lwo-aaa-triplemania-xxxiv.md).
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 00:15:15 — [Los Wagner, Fraxiom y The Vanity Project: backstage y careo rumbo al Dusty Classic](../segments/2026-09-29-wagner-galeno-fraxiom-vanity-project-backstage-dusty-classic-wwe-nxt.md) — **WE**.
+- Worlds Collide, 26/9/2026, 00:51:44 — [Mini Vikingo vs Axiom vs EK Prosper vs Je'Von Evans (#1 contendiente al AAA World Cruiserweight)](../matches/2026-09-26-mini-vikingo-vs-axiom-vs-ek-prosper-vs-jevon-evans-wwe-aaa-worlds-collide.md) — **ICC+**.
+- SmackDown, 2/10/2026, 00:18:31 — [Ricky Saints & The War Raiders vs Rey Fénix & Fraxiom](../matches/2026-10-02-ricky-saints-war-raiders-vs-rey-fenix-fraxiom-wwe-smackdown.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

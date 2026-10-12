@@ -504,6 +504,13 @@ un blind tag a EK Prosper. Ver
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 01:18:52 — [Grayson Waller open challenge: la carrera por la oportunidad y el careo Zilla Fatu–Cruz Montana](../segments/2026-09-29-grayson-waller-open-challenge-intro-zilla-fatu-cruz-montana-wwe-nxt.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

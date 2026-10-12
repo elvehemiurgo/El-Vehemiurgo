@@ -284,6 +284,16 @@ estancada como enhancement. Piezas:
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 01:11:35 — [La Catalina (c) vs Roxanne Perez (Reina de Reinas AAA)](../matches/2026-09-26-la-catalina-vs-roxanne-perez-reina-de-reinas-wwe-aaa-worlds-collide.md) — **ICC+**.
+- Worlds Collide, 26/9/2026, 01:27:32 — [Roxanne Perez ataca a La Catalina tras la lucha y levanta el título](../segments/2026-09-26-roxanne-perez-ataque-post-match-la-catalina-wwe-aaa-worlds-collide.md) — **WE**.
+- Raw, 5/10/2026, 00:52:38 — [Raquel Rodriguez & Roxanne Perez vs Sol Ruca & Lola Vice](../matches/2026-10-05-raquel-rodriguez-roxanne-perez-vs-sol-ruca-lola-vice-wwe-raw.md) — **FC**.
+- Raw, 5/10/2026, 02:20:17 — [Becky Lynch vs Liv Morgan (#1 contendiente): el desenlace con Roxanne, Raquel y Vaquer](../matches/2026-10-05-becky-lynch-vs-liv-morgan-contendiente-desenlace-vaquer-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NXT completa.

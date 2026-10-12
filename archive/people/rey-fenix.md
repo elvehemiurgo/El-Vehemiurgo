@@ -437,6 +437,17 @@ we used to play wrestling in my parents' beds"* (Busted Open).
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 00:51:44 — [Mini Vikingo vs Axiom vs EK Prosper vs Je'Von Evans (#1 contendiente al AAA World Cruiserweight)](../matches/2026-09-26-mini-vikingo-vs-axiom-vs-ek-prosper-vs-jevon-evans-wwe-aaa-worlds-collide.md) — **ICC+**.
+- Worlds Collide, 26/9/2026, 01:29:51 — [Penta & Rey Fénix vs Los Perros del Mal (Daga & Berto)](../matches/2026-09-26-penta-rey-fenix-vs-perros-del-mal-daga-berto-wwe-aaa-worlds-collide.md) — **ICC**.
+- SmackDown, 2/10/2026, 00:18:31 — [Ricky Saints & The War Raiders vs Rey Fénix & Fraxiom](../matches/2026-10-02-ricky-saints-war-raiders-vs-rey-fenix-fraxiom-wwe-smackdown.md) — **WE**.
+- Raw, 5/10/2026, 01:07:07 — [Ethan Page, promo in-ring contra los cruiserweights](../segments/2026-10-05-ethan-page-promo-in-ring-cruiserweights-rey-fenix-wwe-raw.md) — **WE**.
+- Raw, 5/10/2026, 01:11:59 — [Rey Fénix vs Ethan Page](../matches/2026-10-05-rey-fenix-vs-ethan-page-wwe-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [x] Nombre real (no público), debut WWE (4/4/2025 vs Frazer),

@@ -312,6 +312,15 @@ Tres apariciones, tres funciones distintas y todas old-school:
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 00:22:51 — [Myles Borne, promo: de underdog a "The Favorite"](../segments/2026-09-29-myles-borne-promo-the-favorite-heel-turn-wwe-nxt.md) — **sin clase**.
+- Raw, 5/10/2026, 01:07:07 — [Ethan Page, promo in-ring contra los cruiserweights](../segments/2026-10-05-ethan-page-promo-in-ring-cruiserweights-rey-fenix-wwe-raw.md) — **WE**.
+- Raw, 5/10/2026, 01:11:59 — [Rey Fénix vs Ethan Page](../matches/2026-10-05-rey-fenix-vs-ethan-page-wwe-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de NXT Champion run.

@@ -369,6 +369,15 @@ Dominik Mysterio (ICC+). Piezas:
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 01:29:51 — [Penta & Rey Fénix vs Los Perros del Mal (Daga & Berto)](../matches/2026-09-26-penta-rey-fenix-vs-perros-del-mal-daga-berto-wwe-aaa-worlds-collide.md) — **ICC**.
+- SmackDown, 2/10/2026, 00:41:09 — [Sami Zayn, promo in-ring: Je'Von Evans, Penta y Trick Williams; ataque de Finn Bálor y Gunther](../segments/2026-10-02-sami-zayn-promo-jevon-penta-trick-ataque-balor-gunther-wwe-smackdown.md) — **WE+**.
+- Raw, 5/10/2026, 00:22:21 — [Penta & Je'Von Evans vs Bron Breakker & Austin Theory](../matches/2026-10-05-penta-jevon-evans-vs-bron-breakker-austin-theory-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa lucha libre/AAA/WWE.

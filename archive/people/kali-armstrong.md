@@ -259,6 +259,13 @@ apellidos cargados sin honrar el linaje, en contraste con el
 trabajo de Dempsey, Lexis King o Brian James reconociendo a sus
 padres como parte del act.)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 6/10/2026, 01:15:04 — [Battle royal de 20 mujeres por la contendencia #1 al NXT Women's Championship](../matches/2026-10-06-battle-royal-contendiente-nxt-womens-title-wren-sinclair-wwe-nxt.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [x] ~~Research delegado: relación con la familia Armstrong~~

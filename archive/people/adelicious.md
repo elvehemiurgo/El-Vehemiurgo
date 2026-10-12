@@ -62,6 +62,13 @@ propia pese a ser un rol de tune-up.
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 00:03:42 — [La Parka, Mr. Iguana, Mascarita Sagrada & Adelicious vs The Vanity Project & Mini Abismo Negro](../matches/2026-09-26-la-parka-iguana-mascarita-sagrada-adelicious-vs-vanity-project-mini-abismo-negro-wwe-aaa-worlds-collide.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa completa.

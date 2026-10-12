@@ -276,6 +276,13 @@ pieza no llega a Instant Classic Crown+. Pieza:
 ### Sesión 2026-10-06 s03 — El espacio que deja (mención)
 - `2026 09 25 WWE SmackDown`, segmento de Sami: *"está ocupando todo el espacio que Owens no quiere o quizá Owens a propósito está dejando que Sami tenga su momento"*. [Ficha](../segments/2026-09-25-sami-zayn-paranoico-gargano-lerae-balor-wwe-smackdown.md).
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- SmackDown, 2/10/2026, 01:19:43 — [Kevin Owens vs Cody Rhodes vs Johnny Gargano (clasificatoria a Money in the Bank)](../matches/2026-10-02-kevin-owens-vs-cody-rhodes-vs-johnny-gargano-mitb-qualifier-wwe-smackdown.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).

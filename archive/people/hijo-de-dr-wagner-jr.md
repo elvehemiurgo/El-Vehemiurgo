@@ -126,6 +126,13 @@ Parka.
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 00:15:15 — [Los Wagner, Fraxiom y The Vanity Project: backstage y careo rumbo al Dusty Classic](../segments/2026-09-29-wagner-galeno-fraxiom-vanity-project-backstage-dusty-classic-wwe-nxt.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [x] ~~Confirmar identidad exacta~~ → **RESUELTO (s45)**: es

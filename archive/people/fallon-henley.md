@@ -199,6 +199,13 @@ conjunto en [`../promotions/fatal-influence.md`](../promotions/fatal-influence.m
 ### Sesión 2026-10-06 s03 — Fatal Influence completa (ICC)
 - `2026 09 25 WWE SmackDown`, **ICC**: *"las verdaderas heels de este show"*. [Ficha](../matches/2026-09-25-fatal-influence-vs-chelsea-tiffany-paige-wwe-smackdown.md).
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 00:36:39 — [Fatal Influence vs Las Tóxicas](../matches/2026-09-26-fatal-influence-vs-las-toxicas-wwe-aaa-worlds-collide.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

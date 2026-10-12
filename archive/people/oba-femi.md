@@ -230,6 +230,15 @@ declara "un problema" para Breakker. Pieza:
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 01:53:17 — [CM Punk, Rey Mysterio & El Grande Americano vs Dominik Mysterio, JD McDonagh & Omos](../matches/2026-09-26-cm-punk-rey-mysterio-el-grande-americano-vs-dominik-jd-mcdonagh-omos-wwe-aaa-worlds-collide.md) — **FC**.
+- Raw, 5/10/2026, 00:34:00 — [Bronson Reed ataca tras la lucha; Oba Femi hace el save](../segments/2026-10-05-bronson-reed-ataque-post-match-oba-femi-save-wwe-raw.md) — **WE**.
+- Raw, 5/10/2026, 01:57:48 — [Paul Heyman y Bronson Reed: "Oba Femi has humbled me"](../segments/2026-10-05-paul-heyman-bronson-reed-backstage-oba-femi-wwe-raw.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes
 
 - [ ] NXT World Championship reigns — pieces editoriales.

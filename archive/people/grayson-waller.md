@@ -207,6 +207,16 @@ del episodio del 1/9, no de este. Ver
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 00:26:50 — [Grayson Waller, promo backstage tras la lesión de Mason Rook](../segments/2026-09-29-grayson-waller-promo-backstage-lesion-mason-rook-wwe-nxt.md) — **WE**.
+- NXT, 29/9/2026, 01:18:52 — [Grayson Waller open challenge: la carrera por la oportunidad y el careo Zilla Fatu–Cruz Montana](../segments/2026-09-29-grayson-waller-open-challenge-intro-zilla-fatu-cruz-montana-wwe-nxt.md) — **WE+**.
+- NXT, 29/9/2026, 01:22:35 — [Grayson Waller (c) vs EK Prosper (NXT Championship, open challenge)](../matches/2026-09-29-grayson-waller-vs-ek-prosper-nxt-title-open-challenge-wwe-nxt.md) — **ICC+**.
+- NXT, 6/10/2026, 00:36:27 — [Grayson Waller, Myles Borne y Tony D'Angelo](../segments/2026-10-06-grayson-waller-myles-borne-tony-dangelo-segmento-wwe-nxt.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Transcripción completa verbatim de la promo.

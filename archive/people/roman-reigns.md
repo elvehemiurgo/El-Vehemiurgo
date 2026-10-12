@@ -312,6 +312,14 @@ más altos y realistas posibles"*. Ver
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Raw, 5/10/2026, 00:05:27 — [LA Knight, promo in-ring y careo con Roman Reigns antes de Money in the Bank](../segments/2026-10-05-la-knight-promo-careo-roman-reigns-previa-mitb-wwe-raw.md) — **WE+**.
+- Raw, 5/10/2026, 00:47:31 — [Roman Reigns encara a los Usos por The 946; regreso de Solo Sikoa](../segments/2026-10-05-roman-reigns-encara-usos-946-regreso-solo-sikoa-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

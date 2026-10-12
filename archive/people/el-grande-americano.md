@@ -412,6 +412,14 @@ metálicas.
 [segmento de apertura de Raw](../segments/2026-09-14-promo-vaquer-liv-dominik-gms-wwe-raw.md) (**WE+**) ·
 [mixed tag con Vaquer](../matches/2026-09-14-dominik-liv-vs-vaquer-grande-americano-wwe-raw.md) (**ICC**)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 01:53:17 — [CM Punk, Rey Mysterio & El Grande Americano vs Dominik Mysterio, JD McDonagh & Omos](../matches/2026-09-26-cm-punk-rey-mysterio-el-grande-americano-vs-dominik-jd-mcdonagh-omos-wwe-aaa-worlds-collide.md) — **FC**.
+- AAA Worldwide, 3/10/2026, 00:43:17 — [Dominik Mysterio & Omos vs Rey Mysterio & El Grande Americano](../matches/2026-10-03-dominik-mysterio-omos-vs-rey-mysterio-el-grande-americano-aaa-worldwide.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Resultado de **Rey Mysterio vs El Grande Americano en WrestleMania

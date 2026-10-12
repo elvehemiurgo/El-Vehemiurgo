@@ -103,6 +103,14 @@ esa misma noche, junto al de parejas.
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 00:22:51 — [Myles Borne, promo: de underdog a "The Favorite"](../segments/2026-09-29-myles-borne-promo-the-favorite-heel-turn-wwe-nxt.md) — **sin clase**.
+- NXT, 6/10/2026, 00:36:27 — [Grayson Waller, Myles Borne y Tony D'Angelo](../segments/2026-10-06-grayson-waller-myles-borne-tony-dangelo-segmento-wwe-nxt.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

@@ -200,6 +200,13 @@ de Birthright de esa misma noche. Ver
 [`../matches/2026-09-08-jackson-drake-vs-tavion-heights-nxt.md`](../matches/2026-09-08-jackson-drake-vs-tavion-heights-nxt.md) y
 [`../segments/2026-09-08-backstage-birthright-vanity-project-darkstate-nxt.md`](../segments/2026-09-08-backstage-birthright-vanity-project-darkstate-nxt.md).
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 00:03:42 — [La Parka, Mr. Iguana, Mascarita Sagrada & Adelicious vs The Vanity Project & Mini Abismo Negro](../matches/2026-09-26-la-parka-iguana-mascarita-sagrada-adelicious-vs-vanity-project-mini-abismo-negro-wwe-aaa-worlds-collide.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

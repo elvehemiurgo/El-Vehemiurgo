@@ -24,6 +24,7 @@
 | Indi Hartwell | Indy Hartwell |
 | Mark Rocco | Marc Rocko, Mark Rocko |
 | Kelani Jordan | Kelany Jordan |
+| Uriah Connors | Uria Conners, Uria Connors |
 | Jada Stone | Jaida Stone |
 | Candice LeRae | Candace Lerae, Candace LeRae |
 | Rick Rude | Rick Roode |

@@ -174,6 +174,15 @@ marco televisivo, con la corona más alta intacta. Ver
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 00:21:21 — [Dragon Lee vs Jack Cartwheel](../matches/2026-09-26-dragon-lee-vs-jack-cartwheel-wwe-aaa-worlds-collide.md) — **ICC+**.
+- Raw, 5/10/2026, 00:44:36 — [Dragon Lee al micrófono: propone el tag contra Judgment Day](../segments/2026-10-05-dragon-lee-microfono-rey-mysterio-judgment-day-wwe-raw.md) — **WE**.
+- Raw, 5/10/2026, 01:27:54 — [Dominik Mysterio & JD McDonagh vs Rey Mysterio & Dragon Lee](../matches/2026-10-05-dominik-jd-mcdonagh-vs-rey-mysterio-dragon-lee-wwe-raw.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes
 
 - [ ] CMLL early career + Best of Super Juniors NJPW pieces.

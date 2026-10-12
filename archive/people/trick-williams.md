@@ -279,6 +279,14 @@ main event en la misma noche, sumada al MITB Qualifier. Pieza:
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- SmackDown, 2/10/2026, 00:34:03 — [Cody Rhodes rumbo a su clasificatoria y Trick Williams lo encara](../segments/2026-10-02-cody-rhodes-promo-trick-williams-wwe-smackdown.md) — **WE**.
+- SmackDown, 2/10/2026, 00:41:09 — [Sami Zayn, promo in-ring: Je'Von Evans, Penta y Trick Williams; ataque de Finn Bálor y Gunther](../segments/2026-10-02-sami-zayn-promo-jevon-penta-trick-ataque-balor-gunther-wwe-smackdown.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (NXT y main

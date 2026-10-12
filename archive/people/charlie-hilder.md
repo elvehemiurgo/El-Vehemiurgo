@@ -279,6 +279,13 @@ desarrolla. Caso Hall como ejemplo paradigmático.
 Hilder como **caso del top tier face emergente que el WWE ID
 program valida sin destruir su marca indie**.)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 00:27:50 — [Mini Vikingo & Chazz "Starboy" Hall vs BirthRight (Uriah Connors & Stacks)](../matches/2026-09-29-mini-vikingo-chazz-hall-vs-birthright-connors-stacks-dusty-classic-wwe-nxt.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] **El Tecolote interview**

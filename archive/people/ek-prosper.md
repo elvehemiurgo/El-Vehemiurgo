@@ -13,6 +13,8 @@ tags: [ek-prosper, wwe-nxt-2026, wwe-id, aaa-cruiserweight-championship, rey-fen
 
 # EK Prosper
 
+> **THE FUTURE in 2026 #22** (declarado 2026-10-12 s01).
+>
 > Primer registro individual del archivo. Entra ganando: se lleva el
 > fatal 4-way por el contendiente Nº1 al AAA World Cruiserweight
 > Championship, y con el elogio que este archivo reserva para muy
@@ -149,6 +151,16 @@ semanas atrás — tensión que sigue sin resolver dentro del trío heel.
 - **Six-man vs Birthright (presencia en discrepancia con el registro oficial)** (NXT 22/9): *"EK ya se ve muy comodo con el neterteinment, pero está igual que Zilla, ahora solo como face, tiene que hacer un Montana"*. Clase: **Wrestling Entertainment**. Ficha: [`../matches/2026-09-22-birthright-vs-zilla-fatu-sean-legacy-dorian-van-dux-nxt.md`](../matches/2026-09-22-birthright-vs-zilla-fatu-sean-legacy-dorian-van-dux-nxt.md)
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
+
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 01:22:35 — [Grayson Waller (c) vs EK Prosper (NXT Championship, open challenge)](../matches/2026-09-29-grayson-waller-vs-ek-prosper-nxt-title-open-challenge-wwe-nxt.md) — **ICC+**.
+- Worlds Collide, 26/9/2026, 00:51:44 — [Mini Vikingo vs Axiom vs EK Prosper vs Je'Von Evans (#1 contendiente al AAA World Cruiserweight)](../matches/2026-09-26-mini-vikingo-vs-axiom-vs-ek-prosper-vs-jevon-evans-wwe-aaa-worlds-collide.md) — **ICC+**.
+
+**ALTA a THE FUTURE in 2026 — #22.**
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
 
 ## Pendientes / huecos
 

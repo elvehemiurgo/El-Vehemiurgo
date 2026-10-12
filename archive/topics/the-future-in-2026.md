@@ -4,12 +4,13 @@ slug: the-future-in-2026
 tipo: topic
 categoria: lista-anual-prospectos
 estado: vivo
-ultima_actualizacion: 2026-09-02
+ultima_actualizacion: 2026-10-12
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-06-17 (visión TNA No Surrender 13 feb 2026 — declaración de lista)"
   - "Volcado Vehemiurgo 2026-07-14 s30 (AEW x NJPW Forbidden Door — altas Kevin Knight y Lio Rush)"
+  - "Volcado Vehemiurgo 2026-10-12 s01 (NXT 29/9/2026 — altas Uriah Connors y EK Prosper)"
   - "Volcado Vehemiurgo 2026-09-02 s58 (AEW agosto 2026 + All In: London — altas Maya World y Persephone)"
-tags: [the-future-in-2026, lista-anual, prospectos-innegables, maya-world, persephone, aew-2026, declaracion-2026-09-02, m-by-elegance, saquon-shugars, kevin-knight, lio-rush, jacy-jayne, sol-ruca, zaria, jackson-drake, blake-monroe, wren-sinclair, kendal-grey, izzi-dame, oldschool-en-nueva-generacion, wrestlers-no-cosplayers, doctrina-vehemiurgia, declaracion-2026-06-17, declaracion-2026-07-14]
+tags: [the-future-in-2026, uriah-connors, ek-prosper, declaracion-2026-10-12, lista-anual, prospectos-innegables, maya-world, persephone, aew-2026, declaracion-2026-09-02, m-by-elegance, saquon-shugars, kevin-knight, lio-rush, jacy-jayne, sol-ruca, zaria, jackson-drake, blake-monroe, wren-sinclair, kendal-grey, izzi-dame, oldschool-en-nueva-generacion, wrestlers-no-cosplayers, doctrina-vehemiurgia, declaracion-2026-06-17, declaracion-2026-07-14]
 ---
 
 # THE FUTURE IN 2026 — Lista anual del Vehemiurgo
@@ -326,6 +327,38 @@ Tres ejes del criterio:
 - **Match anchor**: **Maya World (c) vs Persephone**, All In: London
   30/8/2026 — **triple clase** y coronación.
 
+### #21 — Uriah Connors *(declarado 2026-10-12 s01)*
+
+> *"es de lo mejor de NXT, pongamos a Uria en THE FUTURE in 2026"*
+>
+> — El Vehemiurgo, 2026-10-12 s01 (verbatim)
+
+- **Empresa**: WWE NXT. Integrante de BirthRight.
+- **Por qué entra**: selling y timing *"nivel Mini Vikingo"*, strikes
+  fuertes y un estilo británico emparentado con Lewis Girvan y Aspen
+  Faith, *"pero más prolijo, se nota el developmental de WWE"*. Con
+  Mini Vikingo empuja a los otros dos de la lucha a respetar las
+  reglas tag team. Es el eje old-school del criterio.
+- **Ficha**: [`../people/uriah-connors.md`](../people/uriah-connors.md).
+- **Match anchor**: Mini Vikingo & Chazz "Starboy" Hall vs BirthRight
+  (Uriah Connors & Stacks), NXT 29/9/2026, Dusty Classic: **ICC**.
+
+### #22 — EK Prosper *(declarado 2026-10-12 s01)*
+
+> *"realmente construyeron a EK como proyecto serio, son dos talentos
+> geniales, pongamos a EK en la lista de THE FUTURE 2026"*
+>
+> — El Vehemiurgo, 2026-10-12 s01 (verbatim)
+
+- **Empresa**: WWE NXT / WWE ID, en el circuito crucero AAA.
+- **Por qué entra**: underdog que *"es muy bueno vendiendo"* y que *"sí
+  se está tomando en serio mejorar en el micrófono"*. Es el eje del
+  querer. En Worlds Collide, *"de los mejores highflyers ahora
+  mismo"*.
+- **Ficha**: [`../people/ek-prosper.md`](../people/ek-prosper.md).
+- **Match anchor**: Grayson Waller (c) vs EK Prosper, open challenge
+  por el NXT Championship, NXT 29/9/2026: **ICC+**.
+
 ## El advertencia editorial — *"no como Santana"*
 
 El Vehemiurgo encuadra la lista con una **advertencia comparativa**
@@ -413,11 +446,13 @@ explícitamente *encabeza la lista*).
 - [`../people/roxanne-perez.md`](../people/roxanne-perez.md) — #18.
 - [`../people/maya-world.md`](../people/maya-world.md) — #19.
 - [`../people/persephone.md`](../people/persephone.md) — #20.
+- [`../people/uriah-connors.md`](../people/uriah-connors.md) — #21.
+- [`../people/ek-prosper.md`](../people/ek-prosper.md) — #22.
 - **Nota de composición**: 4 **TNA Knockouts** (M by Elegance,
-  Arianna Grace, Myla Grace, Mila Moore) + 12 **WWE** (Saquon
+  Arianna Grace, Myla Grace, Mila Moore) + 14 **WWE** (Saquon
   Shugars, Jacy Jayne, Sol Ruca, Zaria, Jackson Drake, Blake
   Monroe, Wren Sinclair, Kendal Grey, Izzi Dame, JD McDonagh,
-  Lash Legend, Roxanne Perez) + 4 **AEW** (Kevin Knight, Lio Rush,
+  Lash Legend, Roxanne Perez, Uriah Connors, EK Prosper) + 4 **AEW** (Kevin Knight, Lio Rush,
   Maya World, Persephone). WWE es la rama dominante desde s35; la
   rama AEW se duplica en s58 con las dos altas de la división
   femenina.

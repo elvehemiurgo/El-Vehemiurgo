@@ -98,6 +98,14 @@ Mexican Muscle Buster.
 **Pieza de la sesión**:
 [vs Nathan Frazer y Jack Cartwheel](../matches/2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md) (FS·WE)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 00:27:50 — [Mini Vikingo & Chazz "Starboy" Hall vs BirthRight (Uriah Connors & Stacks)](../matches/2026-09-29-mini-vikingo-chazz-hall-vs-birthright-connors-stacks-dusty-classic-wwe-nxt.md) — **ICC**.
+- Worlds Collide, 26/9/2026, 00:51:44 — [Mini Vikingo vs Axiom vs EK Prosper vs Je'Von Evans (#1 contendiente al AAA World Cruiserweight)](../matches/2026-09-26-mini-vikingo-vs-axiom-vs-ek-prosper-vs-jevon-evans-wwe-aaa-worlds-collide.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

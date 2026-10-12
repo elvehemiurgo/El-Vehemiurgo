@@ -184,6 +184,16 @@ para el análisis completo.
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 29/9/2026, 00:27:50 — [Mini Vikingo & Chazz "Starboy" Hall vs BirthRight (Uriah Connors & Stacks)](../matches/2026-09-29-mini-vikingo-chazz-hall-vs-birthright-connors-stacks-dusty-classic-wwe-nxt.md) — **ICC**.
+- NXT, 29/9/2026, 01:18:52 — [Grayson Waller open challenge: la carrera por la oportunidad y el careo Zilla Fatu–Cruz Montana](../segments/2026-09-29-grayson-waller-open-challenge-intro-zilla-fatu-cruz-montana-wwe-nxt.md) — **WE+**.
+- NXT, 29/9/2026, 01:44:12 — [Zilla Fatu, promo de cierre contra BirthRight y Lexis King](../segments/2026-09-29-zilla-fatu-promo-cierre-birthright-lexis-king-wwe-nxt.md) — **WE+**.
+- NXT, 6/10/2026, 00:03:44 — [Zilla Fatu vs Lexis King](../matches/2026-10-06-zilla-fatu-vs-lexis-king-wwe-nxt.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos (nombre real, formación,

@@ -192,6 +192,14 @@ frenarle la cuenta sobre Laredo — tensión con su amigo dentro de la
 ficción. Ver
 [`../matches/2026-09-11-la-parka-vs-laredo-kid-vs-mr-iguana-latin-american-title-aaa-triplemania-xxxiv.md`](../matches/2026-09-11-la-parka-vs-laredo-kid-vs-mr-iguana-latin-american-title-aaa-triplemania-xxxiv.md).
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 00:03:42 — [La Parka, Mr. Iguana, Mascarita Sagrada & Adelicious vs The Vanity Project & Mini Abismo Negro](../matches/2026-09-26-la-parka-iguana-mascarita-sagrada-adelicious-vs-vanity-project-mini-abismo-negro-wwe-aaa-worlds-collide.md) — **ICC**.
+- AAA Worldwide, 3/10/2026, 00:23:26 — [La Parka (c) vs Mr. Iguana (Campeonato Latinoamericano AAA)](../matches/2026-10-03-la-parka-vs-mr-iguana-campeonato-latinoamericano-aaa-worldwide.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

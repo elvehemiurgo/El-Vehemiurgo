@@ -221,6 +221,14 @@ noche. Ver
 
 (Pendiente.)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- NXT, 6/10/2026, 00:03:44 — [Zilla Fatu vs Lexis King](../matches/2026-10-06-zilla-fatu-vs-lexis-king-wwe-nxt.md) — **WE**.
+- NXT, 6/10/2026, 01:03:43 — [BirthRight (Charlie Dempsey & Lexis King) vs Tokyo Bad Boys](../matches/2026-10-06-birthright-dempsey-king-vs-tokyo-bad-boys-dusty-classic-wwe-nxt.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] **Cornette directo sobre Dempsey / Regal / NQCC**: búsqueda

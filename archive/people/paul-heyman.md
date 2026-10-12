@@ -97,6 +97,13 @@ comentario de booking, no calificación de una pieza.
 **Pieza de la sesión**:
 [promo video Breaker vs Femi](../segments/2026-08-31-promo-video-bron-breakker-vs-oba-femi-wwe-raw.md) (WE)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Raw, 5/10/2026, 01:57:48 — [Paul Heyman y Bronson Reed: "Oba Femi has humbled me"](../segments/2026-10-05-paul-heyman-bronson-reed-backstage-oba-femi-wwe-raw.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Rol exacto y continuidad de Heyman en este ángulo vs otros

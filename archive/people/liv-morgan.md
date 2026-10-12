@@ -196,6 +196,13 @@ Becky es "la main eventer" en dinero. Vaquer confirma su revancha.
 Pieza:
 [promo con Becky y Vaquer](../segments/2026-09-21-liv-morgan-promo-becky-vaquer-wwe-raw.md) (WE+).
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Raw, 5/10/2026, 02:20:17 — [Becky Lynch vs Liv Morgan (#1 contendiente): el desenlace con Roxanne, Raquel y Vaquer](../matches/2026-10-05-becky-lynch-vs-liv-morgan-contendiente-desenlace-vaquer-wwe-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Cronología precisa del run como Women's World Champion (fecha

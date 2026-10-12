@@ -470,6 +470,14 @@ grande") y siembra el rematch sin piedad. Pieza:
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- SmackDown, 2/10/2026, 00:34:03 — [Cody Rhodes rumbo a su clasificatoria y Trick Williams lo encara](../segments/2026-10-02-cody-rhodes-promo-trick-williams-wwe-smackdown.md) — **WE**.
+- SmackDown, 2/10/2026, 01:19:43 — [Kevin Owens vs Cody Rhodes vs Johnny Gargano (clasificatoria a Money in the Bank)](../matches/2026-10-02-kevin-owens-vs-cody-rhodes-vs-johnny-gargano-mitb-qualifier-wwe-smackdown.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] **WrestleMania XL Day 2 2024 vs Roman Reigns** — pieza

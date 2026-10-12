@@ -69,6 +69,13 @@ tags: [jack-cartwheel, aaa, mini-estrella, runner-ups, selling-real, primer-regi
 **Pieza de la sesión**:
 [vs Mini Vikingo y Nathan Frazer](../matches/2026-08-30-mini-vikingo-vs-nathan-frazer-vs-jack-cartwheel-aaa-ola-de-calor.md) (FS·WE)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Worlds Collide, 26/9/2026, 00:21:21 — [Dragon Lee vs Jack Cartwheel](../matches/2026-09-26-dragon-lee-vs-jack-cartwheel-wwe-aaa-worlds-collide.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

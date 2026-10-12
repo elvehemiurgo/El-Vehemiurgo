@@ -116,6 +116,13 @@ arco "Jevon contra el mundo". Ver
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- Raw, 5/10/2026, 01:27:54 — [Dominik Mysterio & JD McDonagh vs Rey Mysterio & Dragon Lee](../matches/2026-10-05-dominik-jd-mcdonagh-vs-rey-mysterio-dragon-lee-wwe-raw.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria completa pre-2026 (WWE original, indies, AEW).

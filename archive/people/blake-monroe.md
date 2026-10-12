@@ -178,6 +178,13 @@ Neutralizer. Ver
 y
 [`../matches/2026-08-21-giulia-vs-blake-monroe-wwe-smackdown.md`](../matches/2026-08-21-giulia-vs-blake-monroe-wwe-smackdown.md).
 
+
+### Sesión 2026-10-12 s01 — NXT 29/9, Worlds Collide 26/9, SmackDown 2/10, AAA 3/10, Raw 5/10, NXT 6/10
+
+- SmackDown, 2/10/2026, 01:03:13 — [Blake Monroe vs Giulia (grudge match)](../matches/2026-10-02-blake-monroe-vs-giulia-grudge-match-wwe-smackdown.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar grafía oficial WWE del nombre**.
