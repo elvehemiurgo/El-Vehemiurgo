@@ -13,6 +13,16 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-10-10 | Liv Morgan vs Stephanie Vaquer (c) vs Becky Lynch — Women's World Championship | WWE / Money in the Bank | WE | — | en-investigacion | 1 | [→](2026-10-10-liv-morgan-vs-stephanie-vaquer-vs-becky-lynch-womens-world-title-wwe-money-in-the-bank.md) |
+| 2026-10-10 | Los Americanos (Rayo Americano & Bravo Americano) vs Tokyo Bad Boys (SB Kento & Takuma) | AAA / AAA Worldwide | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-10-los-americanos-vs-tokyo-bad-boys-aaa-worldwide.md) |
+| 2026-10-10 | Men's Money in the Bank ladder match | WWE / Money in the Bank | — | — | en-investigacion | 1 | [→](2026-10-10-mens-money-in-the-bank-ladder-match-wwe-money-in-the-bank.md) |
+| 2026-10-10 | Mini Vikingo vs Jack Cartwheel vs Nobu San vs Joaquin Wilde (#1 contendiente al AAA World Cruiserweight) | AAA / AAA Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-10-mini-vikingo-vs-jack-cartwheel-vs-nobu-san-vs-joaquin-wilde-aaa-worldwide.md) |
+| 2026-10-10 | Oba Femi vs Bronson Reed | WWE / Money in the Bank | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-10-oba-femi-vs-bronson-reed-wwe-money-in-the-bank.md) |
+| 2026-10-10 | Roman Reigns (c) vs LA Knight — World Heavyweight Championship | WWE / Money in the Bank | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-10-roman-reigns-vs-la-knight-world-heavyweight-title-wwe-money-in-the-bank.md) |
+| 2026-10-10 | Women's Money in the Bank ladder match | WWE / Money in the Bank | FS·WE | FC | en-investigacion | 1 | [→](2026-10-10-womens-money-in-the-bank-ladder-match-wwe-money-in-the-bank.md) |
+| 2026-10-09 | Alexa Bliss & Tatum Paxley vs Fatal Influence (Fallon Henley & Lainey Reid) — WWE Women's Tag Team Championship | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-09-alexa-bliss-tatum-paxley-vs-fatal-influence-womens-tag-titles-wwe-smackdown.md) |
+| 2026-10-09 | Lash Legend, Tiffany Stratton & Jacy Jayne vs Sol Ruca, Lola Vice & Roxanne Perez (SmackDown vs Raw) | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-09-lash-legend-tiffany-stratton-jacy-jayne-vs-sol-ruca-lola-vice-roxanne-perez-wwe-smackdown.md) |
+| 2026-10-09 | Trick Williams vs Bron Breakker | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-09-trick-williams-vs-bron-breakker-wwe-smackdown.md) |
 | 2026-10-06 | Battle royal de 20 mujeres por la contendencia #1 al NXT Women's Championship | WWE / NXT | FS·WE | FC | en-investigacion | 1 | [→](2026-10-06-battle-royal-contendiente-nxt-womens-title-wren-sinclair-wwe-nxt.md) |
 | 2026-10-06 | BirthRight (Charlie Dempsey & Lexis King) vs Tokyo Bad Boys | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-06-birthright-dempsey-king-vs-tokyo-bad-boys-dusty-classic-wwe-nxt.md) |
 | 2026-10-06 | Zilla Fatu vs Lexis King | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-10-06-zilla-fatu-vs-lexis-king-wwe-nxt.md) |

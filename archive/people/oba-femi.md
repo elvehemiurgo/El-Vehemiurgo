@@ -239,6 +239,13 @@ Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.
 
 Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
 
+
+### Sesión 2026-10-16 s01 — SmackDown 9/10, AAA 10/10, Money in the Bank 10/10
+
+- Money in the Bank, 10/10/2026, 01:13:57 — [Oba Femi vs Bronson Reed](../matches/2026-10-10-oba-femi-vs-bronson-reed-wwe-money-in-the-bank.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
+
 ## Pendientes
 
 - [ ] NXT World Championship reigns — pieces editoriales.

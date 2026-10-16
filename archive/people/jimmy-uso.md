@@ -113,6 +113,13 @@ Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.
 
 Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
 
+
+### Sesión 2026-10-16 s01 — SmackDown 9/10, AAA 10/10, Money in the Bank 10/10
+
+- Money in the Bank, 10/10/2026, 00:03:31 — [Roman Reigns (c) vs LA Knight — World Heavyweight Championship](../matches/2026-10-10-roman-reigns-vs-la-knight-world-heavyweight-title-wwe-money-in-the-bank.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

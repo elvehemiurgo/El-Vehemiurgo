@@ -98,6 +98,14 @@ esa misma noche.
 **Pieza de la sesión**:
 [vs Baron Corbin](../matches/2026-09-06-lil-yachty-vs-baron-corbin-five-minute-challenge-snme.md) (WE)
 
+
+### Sesión 2026-10-16 s01 — SmackDown 9/10, AAA 10/10, Money in the Bank 10/10
+
+- SmackDown, 9/10/2026, apertura — [Adam Pearce, Nick Aldis, Trick Williams y Bron Breakker: el main event se pacta](../segments/2026-10-09-pearce-aldis-trick-williams-bron-breakker-segmento-wwe-smackdown.md) — **WE+**.
+- Money in the Bank, 10/10/2026, 02:01:16 — [Men's Money in the Bank ladder match](../matches/2026-10-10-mens-money-in-the-bank-ladder-match-wwe-money-in-the-bank.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha de incorporación al acto de Trick Williams y naturaleza

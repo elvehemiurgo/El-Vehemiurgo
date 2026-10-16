@@ -139,6 +139,13 @@ elogio recae en las heels, la reserva en la elección de rivales.
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-16 s01 — SmackDown 9/10, AAA 10/10, Money in the Bank 10/10
+
+- SmackDown, 9/10/2026, 01:13:22 — [Alexa Bliss & Tatum Paxley vs Fatal Influence (Fallon Henley & Lainey Reid) — WWE Women's Tag Team Championship](../matches/2026-10-09-alexa-bliss-tatum-paxley-vs-fatal-influence-womens-tag-titles-wwe-smackdown.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
+
 ## Pendientes / huecos
 
 - [ ] Confirmar nombre real, debut, trayectoria completa (carrera

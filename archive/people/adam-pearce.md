@@ -87,6 +87,13 @@ al frente de Raw y SmackDown mientras dure el interinato.
 es de linaje NWA compartido con Aldis, no un take individual sobre
 Pearce.
 
+
+### Sesión 2026-10-16 s01 — SmackDown 9/10, AAA 10/10, Money in the Bank 10/10
+
+- SmackDown, 9/10/2026, apertura — [Adam Pearce, Nick Aldis, Trick Williams y Bron Breakker: el main event se pacta](../segments/2026-10-09-pearce-aldis-trick-williams-bron-breakker-segmento-wwe-smackdown.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
+
 ## Pendientes / huecos
 
 - [ ] **Carrera indie completa** — el Vehemiurgo declaró que *"ya

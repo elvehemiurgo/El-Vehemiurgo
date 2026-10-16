@@ -591,6 +591,14 @@ Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.
 
 Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
 
+
+### Sesión 2026-10-16 s01 — SmackDown 9/10, AAA 10/10, Money in the Bank 10/10
+
+- SmackDown, 9/10/2026, 00:04:17 — [CM Punk, promo previa a MITB: Sami Zayn y Kevin Owens](../segments/2026-10-09-cm-punk-promo-escalera-sami-zayn-kevin-owens-previa-mitb-wwe-smackdown.md) — **sin clase**.
+- Money in the Bank, 10/10/2026, 02:01:16 — [Men's Money in the Bank ladder match](../matches/2026-10-10-mens-money-in-the-bank-ladder-match-wwe-money-in-the-bank.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
+
 ## Pendientes / huecos
 
 - [ ] **Pipebomb promo 27 jun 2011** — abrir como segment

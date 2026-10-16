@@ -66,6 +66,13 @@ posible.
 **Pieza de la sesión**:
 [& Kit Wilson vs Bakusai](../matches/2026-09-04-bakusai-vs-miz-wilson-wwe-smackdown.md) (ICC)
 
+
+### Sesión 2026-10-16 s01 — SmackDown 9/10, AAA 10/10, Money in the Bank 10/10
+
+- SmackDown, 9/10/2026, 00:56:00 — [Cody Rhodes interrumpe a The Miz y Kit Wilson; Nick Aldis y el pleito con Orton](../segments/2026-10-09-cody-rhodes-interrumpe-miz-kit-wilson-aldis-orton-wwe-smackdown.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa (carrera extensa,

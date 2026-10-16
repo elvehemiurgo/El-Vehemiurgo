@@ -4,14 +4,15 @@ slug: runner-ups
 tipo: topic
 categoria: lista-oficial
 estado: vivo
-ultima_actualizacion: 2026-10-06
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-07-09 s01 (propuesta + casos fundantes)"
   - "Volcado Vehemiurgo 2026-07-11 (bautizo + primera alta formal: Dani Luna)"
   - "Volcado Vehemiurgo 2026-07-14 s46 (alta doble: Komander + El Clon, AEW Redemption)"
   - "Volcado Vehemiurgo 2026-09-30 s01 (altas #13 Hyan y #14 Visionario)"
   - "Volcado Vehemiurgo 2026-10-06 s01 (alta #15 Skylar Raye)"
-tags: [runner-ups, mustafa-ali, mike-santana, dani-luna, komander, arez, hyan, visionario, indie-mexicano, presente-no-futuro, antesala-panteon]
+  - "Volcado Vehemiurgo 2026-10-16 s01 (altas #16 SB Kento y #17 Takuma)"
+tags: [runner-ups, sb-kento, takuma, tokyo-bad-boys, mustafa-ali, mike-santana, dani-luna, komander, arez, hyan, visionario, indie-mexicano, presente-no-futuro, antesala-panteon]
 ---
 
 # RUNNER UPS — "ganándose mi corazón en tiempo real"
@@ -284,6 +285,29 @@ enfría, queda el registro de por qué no.
   FS → Feeling Crown** (ratificada en s02), desenlace caótico con otro
   callup de Evolve.
   [→](../people/skylar-raye.md) · [`../matches/2026-09-22-skylar-raye-vs-kali-armstrong-nxt.md`](../matches/2026-09-22-skylar-raye-vs-kali-armstrong-nxt.md)
+
+### #16 — SB Kento *(declarado 2026-10-16 s01, en bloque con Takuma)*
+
+> *"tokyo bad boys Kento y Takuma vs los americanos, fue increible, se
+> merecen las 3 clases con corona +, pon a ambos tokyo bad boys en la
+> lista de los que se ganaron mi corazón, estuvo genial CON SPOTS
+> OLDSCHOOL DE LUCA"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (verbatim, typos preservados)
+
+- **Empresa**: AAA (Tokyo Bad Boys). Formado en Dragongate; GLEAT.
+- **Por qué entra**: la revancha contra Los Americanos, **ICC+**, con
+  *"spots old-school de lucha"*. Alta en dupla: el Vehemiurgo pide
+  *"a ambos"*.
+- **Match anchor**: Los Americanos vs Tokyo Bad Boys, **2026 10 10 AAA
+  Worldwide** — **ICC+**.
+  [→](../people/sb-kento.md) · [`../matches/2026-10-10-los-americanos-vs-tokyo-bad-boys-aaa-worldwide.md`](../matches/2026-10-10-los-americanos-vs-tokyo-bad-boys-aaa-worldwide.md)
+
+### #17 — Takuma *(declarado 2026-10-16 s01, en bloque con SB Kento)*
+
+- **Empresa**: AAA (Tokyo Bad Boys). Formado en Dragongate.
+- **Por qué entra**: la misma declaración y el mismo match que el #16.
+  [→](../people/takuma.md)
 
 ## Pendientes
 

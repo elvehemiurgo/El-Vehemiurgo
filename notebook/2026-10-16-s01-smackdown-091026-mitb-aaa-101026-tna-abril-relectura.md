@@ -283,4 +283,67 @@ Volcado de 25 párrafos. Los 10 de TNA iMPACT de abril son **relectura** (visió
 
 ## Takes y clases
 
-*(en curso: research de SmackDown 9/10, AAA 10/10 y MITB en marcha)*
+| # | Show | TS | Pieza | Clase | Ficha |
+|---|---|---|---|---|---|
+| 1 | SmackDown, 9/10/2026 | apertura | Adam Pearce, Nick Aldis, Trick Williams y Bron Breakker: el main event se pacta | **WE+** | [ficha](../archive/segments/2026-10-09-pearce-aldis-trick-williams-bron-breakker-segmento-wwe-smackdown.md) |
+| 2 | SmackDown, 9/10/2026 | 00:04:17 | CM Punk, promo previa a MITB: Sami Zayn y Kevin Owens | sin clase | [ficha](../archive/segments/2026-10-09-cm-punk-promo-escalera-sami-zayn-kevin-owens-previa-mitb-wwe-smackdown.md) |
+| 3 | SmackDown, 9/10/2026 | 00:19:04 | Lash Legend, Tiffany Stratton & Jacy Jayne vs Sol Ruca, Lola Vice & Roxanne Perez (SmackDown vs Raw) | **ICC** | [ficha](../archive/matches/2026-10-09-lash-legend-tiffany-stratton-jacy-jayne-vs-sol-ruca-lola-vice-roxanne-perez-wwe-smackdown.md) |
+| 4 | SmackDown, 9/10/2026 | 00:56:00 | Cody Rhodes interrumpe a The Miz y Kit Wilson; Nick Aldis y el pleito con Orton | **WE** | [ficha](../archive/segments/2026-10-09-cody-rhodes-interrumpe-miz-kit-wilson-aldis-orton-wwe-smackdown.md) |
+| 5 | SmackDown, 9/10/2026 | 01:11:57 | Sami Zayn, Johnny Gargano y Candice LeRae en backstage; aparece Bron Breakker | **WE** | [ficha](../archive/segments/2026-10-09-sami-zayn-johnny-gargano-candice-lerae-backstage-bron-breakker-wwe-smackdown.md) |
+| 6 | SmackDown, 9/10/2026 | 01:13:22 | Alexa Bliss & Tatum Paxley vs Fatal Influence (Fallon Henley & Lainey Reid) — WWE Women's Tag Team Championship | **ICC** | [ficha](../archive/matches/2026-10-09-alexa-bliss-tatum-paxley-vs-fatal-influence-womens-tag-titles-wwe-smackdown.md) |
+| 7 | SmackDown, 9/10/2026 | 01:21:44 | Trick Williams vs Bron Breakker | **ICC** | [ficha](../archive/matches/2026-10-09-trick-williams-vs-bron-breakker-wwe-smackdown.md) |
+| 8 | SmackDown, 9/10/2026 | 01:33:30 | Promo video de Money in the Bank | **WE+** | [ficha](../archive/segments/2026-10-09-promo-video-money-in-the-bank-wwe-smackdown.md) |
+| 9 | AAA Worldwide, 10/10/2026 | 00:03:53 | Los Americanos (Rayo Americano & Bravo Americano) vs Tokyo Bad Boys (SB Kento & Takuma) | **ICC+** | [ficha](../archive/matches/2026-10-10-los-americanos-vs-tokyo-bad-boys-aaa-worldwide.md) |
+| 10 | AAA Worldwide, 10/10/2026 | 00:40:51 | Mini Vikingo vs Jack Cartwheel vs Nobu San vs Joaquin Wilde (#1 contendiente al AAA World Cruiserweight) | **ICC** | [ficha](../archive/matches/2026-10-10-mini-vikingo-vs-jack-cartwheel-vs-nobu-san-vs-joaquin-wilde-aaa-worldwide.md) |
+| 11 | Money in the Bank, 10/10/2026 | 00:03:31 | Roman Reigns (c) vs LA Knight — World Heavyweight Championship | **ICC+** | [ficha](../archive/matches/2026-10-10-roman-reigns-vs-la-knight-world-heavyweight-title-wwe-money-in-the-bank.md) |
+| 12 | Money in the Bank, 10/10/2026 | 00:47:18 | Women's Money in the Bank ladder match | **FC** | [ficha](../archive/matches/2026-10-10-womens-money-in-the-bank-ladder-match-wwe-money-in-the-bank.md) |
+| 13 | Money in the Bank, 10/10/2026 | 01:13:57 | Oba Femi vs Bronson Reed | **ICC** | [ficha](../archive/matches/2026-10-10-oba-femi-vs-bronson-reed-wwe-money-in-the-bank.md) |
+| 14 | Money in the Bank, 10/10/2026 | 01:33:48 | Liv Morgan vs Stephanie Vaquer (c) vs Becky Lynch — Women's World Championship | **WE** | [ficha](../archive/matches/2026-10-10-liv-morgan-vs-stephanie-vaquer-vs-becky-lynch-womens-world-title-wwe-money-in-the-bank.md) |
+| 15 | Money in the Bank, 10/10/2026 | 02:01:16 | Men's Money in the Bank ladder match | sin clase | [ficha](../archive/matches/2026-10-10-mens-money-in-the-bank-ladder-match-wwe-money-in-the-bank.md) |
+
+Piezas nuevas: **2 ICC+** · **5 ICC** · **1 FC** · **2 WE+** · **3 WE** · **2 sin clase**.
+
+### TNA iMPACT abril — relectura (visión 2, fichas existentes actualizadas in-place)
+
+| Ficha | Antes | Ahora |
+|---|---|---|
+| [2026-04-16-aj-francis-vs-kc-navarro-tna-impact](../archive/matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md) | ICC | ICC (ratifica) |
+| [2026-04-16-ec3-promo-cruzada-tna-impact](../archive/segments/2026-04-16-ec3-promo-cruzada-tna-impact.md) | WE | WE (ratifica) |
+| [2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact](../archive/segments/2026-04-16-the-system-myers-celebra-cedric-reta-slater-tna-impact.md) | WE | WE conservada — relectura sin clase declarada |
+| [2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact](../archive/segments/2026-04-16-nemeths-kc-navarro-the-system-bear-bronson-reta-tna-impact.md) | WE | WE (ratifica) |
+| [2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact](../archive/segments/2026-04-16-rich-swann-acepta-open-challenge-santana-tna-impact.md) | WE | WE+ |
+| [2026-04-16-ec3-vs-eric-young-tna-impact](../archive/matches/2026-04-16-ec3-vs-eric-young-tna-impact.md) | FC | FC conservada — *"no le pondré una clase"*, pendiente de ratificación |
+| [2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact](../archive/matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md) | ICC | ICC+ |
+| [2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact](../archive/matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md) | FC | ICC |
+| [2026-04-23-matt-hardy-vs-dutch-tna-impact](../archive/matches/2026-04-23-matt-hardy-vs-dutch-tna-impact.md) | ICC | ICC (ratifica) |
+| [2026-04-30-vincent-vs-jeff-hardy-tna-impact](../archive/matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md) | WE | ICC |
+
+## Altas a listas
+
+- **RUNNER UPS #16 — SB Kento** y **#17 — Takuma** (Tokyo Bad Boys): *"pon a ambos tokyo bad boys en la lista de los que se ganaron mi corazón"*. Fichas nuevas: [`sb-kento`](../archive/people/sb-kento.md), [`takuma`](../archive/people/takuma.md).
+
+## Research (sub-agentes, WebSearch 2026-10-16)
+
+**SmackDown 9/10** (Cajundome, Lafayette):
+- Lash, Tiffany & Jacy def. Sol, Lola & Roxanne; post-match Lash ataca a sus compañeras.
+- **Alexa Bliss & Tatum Paxley def. Fatal Influence (Henley & Reid) y ganan los WWE Women's Tag Team Championship**. Bliss reemplaza a Charlotte, atacada backstage. Paxley cubre a Henley con el Cemetery Drive.
+- Trick vs Bron: **DQ** por The Vision; cierre con Reed y Breakker en pie.
+- **Discrepancia**: las fuentes ponen Cody vs Orton en SmackDown 16/10 (Sacramento), no en MITB. Las líneas de Owens del dictado no aparecen en las fuentes. Sacnilk dice que Punk abrió el show; el orden queda `[verif]`.
+
+**AAA Worldwide 10/10** (grabado el 3/10, Domo de la Feria, León):
+- **Los Americanos def. Tokyo Bad Boys** (finish `[verif]`).
+- **Mini Vikingo** gana el 4-way (630 sobre Nobu San) y va contra Rey Fénix en Héroes Inmortales (24/10).
+- Tokyo Bad Boys = **SB Kento** (Kento Kobune), **Takuma** (Takuma Fujiwara) y **Nobu San** (Nobuhiro Shimatani). Kento y Takuma salen del dojo de Dragongate; en AAA desde, al menos, noviembre de 2024.
+
+**Money in the Bank 10/10** (Smoothie King Center, Nueva Orleans; 12.935 según Wikipedia vía snippet, cifra announced, no paid; WrestleTix pre-show 11.406 distribuidos):
+- **Reigns (c) def. LA Knight** (opener; según WrestleVotes, iba a ser el main event, fuente terciaria).
+- **Tiffany Stratton** gana el maletín femenino (segundo de su carrera).
+- **Oba Femi def. Bronson Reed** (Fall From Grace).
+- **Liv Morgan gana el Women's World Championship** (Oblivion a Vaquer).
+- **Penta** gana el maletín masculino. Je'Von Evans atraviesa el techo de una ambulancia; sin diagnóstico oficial. Owens: heel work documentado sobre Punk, sin heel turn formal en las fuentes.
+
+## Próximos pasos
+
+- [ ] EC3 vs Eric Young: ¿se retira la FC (*"no le pondré una clase"*)?
+- [ ] Finish de Los Americanos vs Tokyo Bad Boys; duraciones y referees.
+

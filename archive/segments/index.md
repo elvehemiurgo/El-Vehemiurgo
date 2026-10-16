@@ -12,6 +12,11 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-10-09 | CM Punk, promo previa a MITB: Sami Zayn y Kevin Owens | WWE / SmackDown | promo in-ring | — | — | en-investigacion | 1 | [→](2026-10-09-cm-punk-promo-escalera-sami-zayn-kevin-owens-previa-mitb-wwe-smackdown.md) |
+| 2026-10-09 | Cody Rhodes interrumpe a The Miz y Kit Wilson; Nick Aldis y el pleito con Orton | WWE / SmackDown | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-10-09-cody-rhodes-interrumpe-miz-kit-wilson-aldis-orton-wwe-smackdown.md) |
+| 2026-10-09 | Adam Pearce, Nick Aldis, Trick Williams y Bron Breakker: el main event se pacta | WWE / SmackDown | segmento in-ring | WE+ | — | en-investigacion | 1 | [→](2026-10-09-pearce-aldis-trick-williams-bron-breakker-segmento-wwe-smackdown.md) |
+| 2026-10-09 | Promo video de Money in the Bank | WWE / SmackDown | promo video | WE+ | — | en-investigacion | 1 | [→](2026-10-09-promo-video-money-in-the-bank-wwe-smackdown.md) |
+| 2026-10-09 | Sami Zayn, Johnny Gargano y Candice LeRae en backstage; aparece Bron Breakker | WWE / SmackDown | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-10-09-sami-zayn-johnny-gargano-candice-lerae-backstage-bron-breakker-wwe-smackdown.md) |
 | 2026-10-06 | Grayson Waller, Myles Borne y Tony D'Angelo | WWE / NXT | segmento in-ring | WE+ | — | en-investigacion | 1 | [→](2026-10-06-grayson-waller-myles-borne-tony-dangelo-segmento-wwe-nxt.md) |
 | 2026-10-06 | Kelani Jordan, promo de top heel | WWE / NXT | promo | WE | — | en-investigacion | 1 | [→](2026-10-06-kelani-jordan-promo-top-heel-wwe-nxt.md) |
 | 2026-10-05 | Bronson Reed ataca tras la lucha; Oba Femi hace el save | WWE / Raw | ataque post-match / brawl | WE | — | en-investigacion | 1 | [→](2026-10-05-bronson-reed-ataque-post-match-oba-femi-save-wwe-raw.md) |

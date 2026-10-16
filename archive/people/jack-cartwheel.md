@@ -76,6 +76,13 @@ tags: [jack-cartwheel, aaa, mini-estrella, runner-ups, selling-real, primer-regi
 
 Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
 
+
+### Sesión 2026-10-16 s01 — SmackDown 9/10, AAA 10/10, Money in the Bank 10/10
+
+- AAA Worldwide, 10/10/2026, 00:40:51 — [Mini Vikingo vs Jack Cartwheel vs Nobu San vs Joaquin Wilde (#1 contendiente al AAA World Cruiserweight)](../matches/2026-10-10-mini-vikingo-vs-jack-cartwheel-vs-nobu-san-vs-joaquin-wilde-aaa-worldwide.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

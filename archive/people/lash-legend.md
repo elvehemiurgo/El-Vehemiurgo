@@ -192,6 +192,14 @@ se merecen las 3 clases"*.
 
 Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
 
+
+### Sesión 2026-10-16 s01 — SmackDown 9/10, AAA 10/10, Money in the Bank 10/10
+
+- SmackDown, 9/10/2026, 00:19:04 — [Lash Legend, Tiffany Stratton & Jacy Jayne vs Sol Ruca, Lola Vice & Roxanne Perez (SmackDown vs Raw)](../matches/2026-10-09-lash-legend-tiffany-stratton-jacy-jayne-vs-sol-ruca-lola-vice-roxanne-perez-wwe-smackdown.md) — **ICC**.
+- Money in the Bank, 10/10/2026, 00:47:18 — [Women's Money in the Bank ladder match](../matches/2026-10-10-womens-money-in-the-bank-ladder-match-wwe-money-in-the-bank.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.
