@@ -18,18 +18,21 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 buy_rate: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "No decepciono, desde la preparacion backstage, toda la agresividad del inicio, es un booking genial y con mucha nostalgia; claramente no es main event, pero incluso con ese techo se puede hacer magia; me encanto el desenlace, el spot fue accidentado pero lo mantuvieron real; pero lo de las gradas y el ultimo spot si se vio mal, muy lento; se merece una FS class y una WE class"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s44 (visión directa — TNA iMPACT!, 16/4/2026)"
   - "Sub-agente research-tna-impact-160426-parte2 (research 2026-08-01, closed) — Fightful, Cageside Seats, PWTorch, Wrestling Inc"
 tags: [tna-2026, impact, ec3, eric-young, no-contest, doctrina-gimmick-en-su-contexto, fighting-spirit, wrestling-entertainment, discrepancia-de-fuente]
 ---
 
 # EC3 vs Eric Young — TNA iMPACT! (16/4/2026)
+
+> **Relectura 2026-10-16 s01: el Vehemiurgo dice "no le pondré una clase". Se conserva la FC de la primera visión hasta que ratifique.**
 
 > Fighting Spirit + Wrestling Entertainment, declaradas explícitas.
 > **Discrepancia de research sin resolver**: el no contest a los 2:05
@@ -91,6 +94,17 @@ explícitas.**
   es main event ni nada así, pero incluso con ese techo se puede
   hacer magia"* — el Vehemiurgo evalúa el proyecto EC3 dentro de su
   escala real, no contra un estándar que no le corresponde.
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"00H:56m:47s EC3 vs EY, esta es más una lucha de storyline, como un
+> setup, estuvo entretenido, pero no le poncré una clase"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Pregunta abierta**: en la relectura el Vehemiurgo dice *"no le pondré una clase"* (*"es más una lucha de storyline, como un setup"*). **Se conserva la Feeling Crown de la primera visión** hasta que ratifique si la retira.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 

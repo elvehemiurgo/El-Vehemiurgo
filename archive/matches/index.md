@@ -388,7 +388,7 @@ con cada cambio de estado.
 | 2026-05-01 | Cody Rhodes vs Ricky Saints | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-05-01-cody-rhodes-vs-ricky-saints-wwe-smackdown.md) |
 | 2026-05-01 | Jacy Jayne vs Charlotte Flair | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-05-01-jacy-jayne-vs-charlotte-flair-wwe-smackdown.md) |
 | 2026-04-30 | Mustafa Ali (c) vs Adam Brooks — TNA International Championship | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-04-30-mustafa-ali-vs-adam-brooks-tna-impact.md) |
-| 2026-04-30 | Vincent vs Jeff Hardy | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-04-30-vincent-vs-jeff-hardy-tna-impact.md) |
+| 2026-04-30 | Vincent vs Jeff Hardy | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 2 | [→](2026-04-30-vincent-vs-jeff-hardy-tna-impact.md) |
 | 2026-04-29 | Cope (Adam Copeland) & Christian Cage vs RPG Vice | AEW / Dynamite | WE | — | stub | 1 | [→](2026-04-29-cope-cage-vs-rpg-vice-aew-dynamite.md) |
 | 2026-04-29 | Darby Allin (c) vs Brody King — main event | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-29-darby-allin-vs-brody-king-aew-dynamite.md) |
 | 2026-04-29 | MJF vs Kevin Knight | AEW / Dynamite | — | — | stub | 1 | [→](2026-04-29-mjf-vs-kevin-knight-aew-dynamite.md) |
@@ -402,8 +402,8 @@ con cada cambio de estado.
 | 2026-04-25 | Laredo Kid vs Wagner | AAA / AAA Worldwide | FS | — | en-investigacion | 1 | [→](2026-04-25-laredo-kid-vs-wagner-aaa-worldwide.md) |
 | 2026-04-24 | Giulia vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-24-giulia-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-04-24 | Jacy Jayne vs Rhea Ripley | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-04-24-jacy-jayne-vs-rhea-ripley-wwe-smackdown.md) |
-| 2026-04-23 | Bear Bronson vs Nic Nemeth | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md) |
-| 2026-04-23 | Matt Hardy ("Broken") vs Dutch | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-23-matt-hardy-vs-dutch-tna-impact.md) |
+| 2026-04-23 | Bear Bronson vs Nic Nemeth | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 2 | [→](2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md) |
+| 2026-04-23 | Matt Hardy ("Broken") vs Dutch | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 2 | [→](2026-04-23-matt-hardy-vs-dutch-tna-impact.md) |
 | 2026-04-23 | Mike Santana (c) vs Rich Swann — TNA World Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md) |
 | 2026-04-22 | Darby Allin (c) vs Tommaso Ciampa — AEW World Championship, main event | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-22-darby-allin-vs-ciampa-world-title-aew-dynamite.md) |
 | 2026-04-22 | Mark Davis vs Will Ospreay | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-04-22-mark-davis-vs-will-ospreay-aew-dynamite.md) |
@@ -422,9 +422,9 @@ con cada cambio de estado.
 | 2026-04-18 | Liv Morgan vs Stephanie Vaquer | WWE / WrestleMania 42 Día 1 | — | — | en-investigacion | 1 | [→](2026-04-18-liv-morgan-vs-stephanie-vaquer-wrestlemania-42.md) |
 | 2026-04-18 | Zima Ion vs Lince vs Aerostar | AAA / AAA Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-18-zima-ion-vs-lince-vs-aerostar-aaa-worldwide.md) |
 | 2026-04-17 | Jordynne Grace vs Tiffany Stratton | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-04-17-jordynne-grace-vs-tiffany-stratton-wwe-smackdown.md) |
-| 2026-04-16 | AJ Francis vs KC Navarro | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md) |
-| 2026-04-16 | EC3 vs Eric Young | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-04-16-ec3-vs-eric-young-tna-impact.md) |
-| 2026-04-16 | The System (Eddie Edwards, Brian Myers, Bear Bronson & Cedric Alexander) vs Leon Slater & Moose — 4-on-2 Handicap Match | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md) |
+| 2026-04-16 | AJ Francis vs KC Navarro | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 2 | [→](2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md) |
+| 2026-04-16 | EC3 vs Eric Young | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 2 | [→](2026-04-16-ec3-vs-eric-young-tna-impact.md) |
+| 2026-04-16 | The System (Eddie Edwards, Brian Myers, Bear Bronson & Cedric Alexander) vs Leon Slater & Moose — 4-on-2 Handicap Match | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 2 | [→](2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md) |
 | 2026-04-15 | Will Ospreay vs Hechicero | AEW / Spring BreakThru | PW·FS·WE | ICC | stub | 1 | [→](2026-04-15-ospreay-vs-hechicero-aew-spring-breakthru.md) |
 | 2026-04-14 | Dorian Van Dux pierde — NXT Revenge Week 1 debut/early appearance | WWE NXT / NXT Revenge Week 1 | — | — | en-investigacion | 1 | [→](2026-04-14-dorian-van-dux-loss-nxt-revenge-week-1.md) |
 | 2026-04-14 | Jacy Jayne vs Lola Vice | WWE NXT / NXT Revenge Week 1 | FS·WE | FC | en-investigacion | 1 | [→](2026-04-14-jacy-jayne-vs-lola-vice-nxt-revenge-week-1.md) |

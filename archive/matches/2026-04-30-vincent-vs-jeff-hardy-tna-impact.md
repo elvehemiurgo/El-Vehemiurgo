@@ -18,18 +18,21 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 buy_rate: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "Jeff tiene ese estilo de lucha de tv TNA de Spike TV, bien rapido al inicio, luego se extendio y se me hizo larga; no es una lucha buena de Jeff Hardy, solo esta ok; fue buena idea apoyarse en Broken Matt Hardy, final fan service; The Righteous no se volvieron estrellas, fue un año de programacion ok; se merece una WE class"
-clases_vehemiurgo: ["wrestling-entertainment"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s48 (visión directa — TNA iMPACT!, 30/4/2026)"
   - "Sub-agente research-tna-impact-230426-300426 (research 2026-08-01, closed) — Wrestling Inc, 411mania, F4WOnline"
 tags: [tna-2026, impact, vincent, jeff-hardy, matt-hardy, dutch, the-righteous, broken-matt-debut, balance-de-año, reserva-tecnica]
 ---
 
 # Vincent vs Jeff Hardy — TNA iMPACT! (30/4/2026)
+
+> **Relectura 2026-10-16 s01: sube a Instant Classic Crown (PW·FS·WE).**
 
 > Wrestling Entertainment declarada, con reserva técnica explícita
 > sobre el ritmo y la calidad del trabajo de Jeff Hardy. Marca el
@@ -73,6 +76,25 @@ sostenida en toda la lectura.**
 - **Nota de matiz sobre The Righteous, pese al balance tibio**: *"me
   gustó el acting de The Righteous después de perder, hay algo ahí"*
   — reserva positiva puntual que no altera el veredicto general.
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"en tna 2026 04 30 iMPACT 00H:04m:14s tenemos la continuación con ahora
+> Jeff contra Vincent, buen selling de grudge match, me gustó la mezcla,
+> oldschool y sencilla, efectiva, se merecen las 3 clases, estuvo
+> cortita, y vuelve el broken matt, y sigue sin ser muy entendible lo
+> que quieren contar, pero lo mantienen oldschool y corto y con buenos
+> spots, además de la psicologia de que the righteous queria esta
+> locura, y romper a matt y jeff, asi que es medio satisfactorio para
+> ellos el resultado, pero esos stakes solos no serian suficientes, por
+> eso se vio bien que pongan los titulos en juego y las carreras de los
+> hardys, de verdad estan apostando fuerte por the righteous"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Sube de WE a ICC** (*"se merecen las 3 clases"*). La primera visión la había leído larga (*"solo está ok"*); la relectura la ve *"cortita"*, *"old-school y sencilla, efectiva"*. Reserva: Broken Matt *"sigue sin ser muy entendible lo que quieren contar"*; los stakes sostenidos por los títulos y las carreras de los Hardys en juego.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 

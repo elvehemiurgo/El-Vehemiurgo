@@ -18,12 +18,13 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 buy_rate: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "Matt Hardy, Broken Matt, cada vez se parece mas a Mick Foley, aqui construyendo algo; estos dos si pueden vender algo real algo oldschool, me gusto el balance de los spots, incluso cuando Matt casi se arranca el brazo en el spot de la mesa que no se rompio; se merece las 3 clases, fue cool estuvo loca"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s47 (visión directa — TNA iMPACT!, 23/4/2026)"
   - "Sub-agente research-tna-impact-230426-300426 (research 2026-08-01, closed) — cobertura de resultados de show"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (TNA Wrestling oficial, Wrestling Inc, PWTorch, agregado de cobertura); WebFetch bloqueado por egress"
@@ -31,6 +32,8 @@ tags: [tna-2026, impact, matt-hardy, dutch, vincent, the-righteous, broken-matt,
 ---
 
 # Matt Hardy vs Dutch — TNA iMPACT! (23/4/2026)
+
+> **Relectura 2026-10-16 s01: ratifica Instant Classic Crown (PW·FS·WE).**
 
 > Perfect Wrestling + Fighting Spirit + Wrestling Entertainment,
 > declaradas explícitas. **Confirmado por research**: el spot de mesa
@@ -75,6 +78,28 @@ tags: [tna-2026, impact, matt-hardy, dutch, vincent, the-righteous, broken-matt,
   swinging side slam.
 - **Continuidad de facción**: The Righteous (Vincent + Dutch) siguen
   activos en el feud abierto con los Hardys desde el 9/4.
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"00H:28m:21s Matt Hardy buscando venganza por su hermano, la verdad The
+> Righteous si tiene buenas ideas y momentos cool, pero no se
+> convirtieron en estrellas este año, pero la idea es aprovechar a los
+> hardys lo más posible y que uno de los rubs funcione, tal vez no
+> debieron extenderse todfo el año con esta programación, pero
+> mantuvieron los stakes relevantes para los hardys, o sea, es un buen
+> run y booking de estas leyendas vivientes haciendo lo suyo y vendiendo
+> tickets sin parar, aqui tenemos Matt Hardy vs Dutch,y se vio genial,
+> la verdad su estilo heavyweight con pequeños impulsos de Dutch estuvo
+> cool, muy oldschool, se merecen las 3 clases, los spots de las mesas
+> estuvieron brutales a lo Mick Foley, y el gimmick de Broken Matt Hardy
+> como contenido y apunto de descontrolarse de Matt se traduce muy bien
+> en los spots y el selling, la verdad estuvo genial este show"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Ratifica la triple clase**. Suma: *"los spots de las mesas estuvieron brutales a lo Mick Foley"*; Broken Matt *"a punto de descontrolarse"* se traduce en spots y selling. Lectura de The Righteous: *"no se convirtieron en estrellas este año"*, pero mantuvieron los stakes de los Hardys, *"vendiendo tickets sin parar"*.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 

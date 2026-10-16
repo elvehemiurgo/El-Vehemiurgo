@@ -128,7 +128,7 @@ abajo), tal como solicitó el Vehemiurgo.
 | 89 | 2026-03-24 | segment | SOL RUCA VS SARIA PROMO VIDEO NXT 24.03.2026 | WWE | — | integrado | [→](../segments/2026-03-24-sol-ruca-you-didnt-wanted-a-team-nxt.md) |
 | 90 | 2026-03-23 | segment | BROCK LESNAR AND OBA FEMI SEGMENT WWE Raw 23.03.2026 | WWE |  | pendiente |  |
 | 91 | 2026-03-23 | segment | LOS AMERICANOS PROMO WWE Raw 23.03.2026 | WWE |  | pendiente |  |
-| 92 | 2026-03-23 | match | GRAYSON WALLER VS JEVON EVANS WWE Raw 23.03.2026 | WWE | FS | integrado | [→](../matches/2026-03-23-waller-vs-jevon-evans-wwe-raw.md) |
+| 92 | 2026-03-23 | match | GREYSON WALLER VS JEVON EVANS WWE Raw 23.03.2026 | WWE | FS | integrado | [→](../matches/2026-03-23-waller-vs-jevon-evans-wwe-raw.md) |
 | 93 | 2026-03-23 | segment | ORIGINAL GRANDE AMERICANO PROMO WWE Raw 23.03.2026 | WWE |  | pendiente |  |
 | 94 | 2026-03-23 | segment | STEPHANIE VAQUER ATTACKS LIV MORGAN WWE Raw 23.03.2026 | WWE | WE | integrado | [→](../segments/2026-03-23-vaquer-ataca-liv-morgan-wwe-raw.md) |
 | 95 | 2026-03-23 | segment | FINN BÁLOR RETURNS WWE Raw 23.03.2026 | WWE |  | pendiente |  |

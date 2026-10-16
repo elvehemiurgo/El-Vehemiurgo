@@ -17,18 +17,21 @@ attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "Rich Swann lo hizo genial con Santana, Swann puede ser un enterteiner completo, deberian darle un run full heel asi como campeon, es muy oldschool en sus promos; se merece una WE class"
-clases_vehemiurgo: ["wrestling-entertainment"]
+clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s44 (visión directa — TNA iMPACT!, 16/4/2026)"
   - "Sub-agente research-tna-impact-160426-parte2 (research 2026-08-01, closed) — POST Wrestling, F4WOnline"
 tags: [tna-2026, impact, mike-santana, rich-swann, tna-world-championship, open-challenge, propuesta-de-carrera, wrestling-entertainment]
 ---
 
 # Rich Swann acepta el open challenge de Santana — TNA iMPACT! (16/4/2026)
+
+> **Relectura 2026-10-16 s01: sube a WE+.**
 
 > Wrestling Entertainment declarada. **Corrección de research**: no
 > fue un match — Santana lanzó un open challenge por el TNA World
@@ -61,6 +64,20 @@ tags: [tna-2026, impact, mike-santana, rich-swann, tna-world-championship, open-
 - **El pago real llega después**: el título Santana vs Swann se
   disputa el **23/4/2026** (gana Santana, 19:08) — fuera del
   horizonte de este registro.
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"00H:47m:14s Mike Santana en su forma final en TNA, reta a Swann en una
+> programación interesante, buen booking para Swann y buen showcase de
+> dos faces cara a cara, fue muy emotivo, y gran despedida estas últimas
+> fechas de Santana antes de irse a WWE, son muy bnuenos en el mic, se
+> merecen una WE+"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Sube de WE a WE+** (*"se merecen una WE+"*, + literal). Suma: *"Mike Santana en su forma final en TNA"*, *"muy emotivo"*, la despedida de Santana antes de irse a WWE.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 

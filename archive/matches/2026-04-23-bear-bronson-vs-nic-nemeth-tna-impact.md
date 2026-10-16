@@ -18,18 +18,21 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 buy_rate: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "Esperaba un showcase y una evolucion de Bear en TV, y eso es lo que dieron; si estan dandole una chance real a Bear para hacer algo importante, no es un talento generacional pero tiene la oportunidad de posicionarse como performer world class y aprender de los mejores; se merece una WE y FS classes, no es perfecta y se ve aun verde Bear como heel principal, pero el oldschool esta ahi"
-clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s45 (visión directa — TNA iMPACT!, 23/4/2026)"
   - "Sub-agente research-tna-impact-230426 (research 2026-08-01, closed) — PWTorch, Blog of Doom, 411mania, PWMania"
 tags: [tna-2026, impact, bear-bronson, nic-nemeth, alisha-edwards, the-system, kc-navarro, ryan-nemeth, proyecto-bear-bronson, fighting-spirit, wrestling-entertainment]
 ---
 
 # Bear Bronson vs Nic Nemeth — TNA iMPACT! (23/4/2026)
+
+> **Relectura 2026-10-16 s01: sube a Instant Classic Crown (PW·FS·WE).**
 
 > Fighting Spirit + Wrestling Entertainment, con reserva explícita de
 > desarrollo ("aún verde como heel principal"). Pago directo del reto
@@ -97,6 +100,23 @@ explícitas, con reserva de desarrollo.**
   pero tiene la oportunidad de posicionarse como performer world
   class y aprender de los mejores"* — continuidad directa del
   proyecto de construcción fijado en s40 y escalado en s44.
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"en tna 2026 04 23 iMPACT 00H:01m:31s Bear Bronson vs Nic Nemeth, dream
+> match, pero bookeada como programación importante, buena promo la
+> semana pasada, el ángulo de Ryan Nemeth celoso de KC y su hermano, no
+> es tan interesante, podría ser entretenido, pero Bronson aprovechó
+> para cortar una gran promo y ahora una lucha con el Nemeth que se vio
+> genial, muy buena oportunidad de bookear esto protegiendo todo lo
+> importante, retoman el ángulo con KC con una intervensión, nuevamente
+> manteniendolo simple y ejecutando bien, se merecen las 3 clases"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Sube de Feeling Crown a ICC** (*"se merecen las 3 clases"*). Suma: dream match bookeada como programación importante; el ángulo de Ryan Nemeth celoso de KC *"no es tan interesante"*; la intervención de KC *"manteniéndolo simple y ejecutando bien"*.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 

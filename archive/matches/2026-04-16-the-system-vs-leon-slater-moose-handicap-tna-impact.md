@@ -18,12 +18,13 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 buy_rate: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "El booking es bueno para Lion y Moose con The System; la accion estuvo genial, muy pros; se merece las 3 clases, Myers y toda su estrategia se vio genial, le dieron buenos momentos a Bear, su quimica con Moose es muy buena; Lion Slater con el hot tag simplemente increible; la secuencia final con Cedric les salio perfecta, deja muy over a Cedric"
-clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s44 (visión directa — TNA iMPACT!, 16/4/2026)"
   - "Sub-agente research-tna-impact-160426-parte2 (research 2026-08-01, closed) — Pro Wrestling Dot Net, Fightful, Wikipedia"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (PWTorch); WebFetch bloqueado por egress"
@@ -31,6 +32,8 @@ tags: [tna-2026, impact, the-system, eddie-edwards, brian-myers, bear-bronson, c
 ---
 
 # The System vs Leon Slater & Moose — TNA iMPACT! (16/4/2026)
+
+> **Relectura 2026-10-16 s01: sube a Instant Classic Crown+ (PW·FS·WE+).**
 
 > Perfect Wrestling + Fighting Spirit + Wrestling Entertainment,
 > declaradas explícitas. Elaboración con clase completa del handicap
@@ -109,6 +112,27 @@ tags: [tna-2026, impact, the-system, eddie-edwards, brian-myers, bear-bronson, c
   vio como una estrella generacional"* — el Vehemiurgo valida
   explícitamente que absorbió el pulido de promo/entretenimiento de
   NXT sin perder dureza física ni volverse "soft".
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"01H:13m:58s Slater & Moose vs The System, buen booking, está genial
+> para construir a Slayter, la verdad se ve genial como face principal
+> despues de Santana, tiene rivales premium para construir su acto, y es
+> una buena historia, la verdad su booking consistente ha estado genial;
+> y aunque Moose y Edwards si es algo repetitivo en TNA, ahora no son
+> los protagonistas son colaterales a la historia principal que es
+> Slater llegando al campeonato mundial, la verdad es un gran mix para
+> buena programaciónm esta lucha se merece las 3 clases con la corona +,
+> me gusta que lo mantienen real, es un gran ángulo. Y Cedric logra un
+> pin sobre Lion, lo cual es cool para la x division, la verdad Ali dejó
+> la barra alta para la x division, y estos stakes y el protagonismo de
+> Lion estan geniales para continuar la buena programación"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Sube de ICC a ICC+** (*"las 3 clases con la corona +"*). Suma: Slater como *"face principal después de Santana"* con rivales premium; Moose y Edwards *"colaterales a la historia principal que es Slater llegando al campeonato mundial"*; el pin de Cedric sobre Slater *"es cool para la X Division"*, porque *"Ali dejó la barra alta"*.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 

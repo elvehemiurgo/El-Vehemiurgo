@@ -17,18 +17,21 @@ attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "Quisiera que Myers sea el protagonista, pero van a apostar por Edwards y Moose otra vez; le dan a Cedric su momento para retar a Lion otra vez, ese intercambio estuvo muy bien, le pusieron muchas ganas, Lion se esta convirtiendo en un paquete completo muy confiable; Moose tuvo material para cortar una buena promo; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s43 (visión directa — TNA iMPACT!, 16/4/2026)"
   - "Sub-agente research-tna-impact-160426 (research 2026-08-01, closed) — Fightful, Cageside Seats, Wrestling Inc, tnawrestling.com"
 tags: [tna-2026, impact, the-system, brian-myers, bear-bronson, eddie-edwards, moose, cedric-alexander, leon-slater, x-division-championship, wrestling-entertainment]
 ---
 
 # The System celebra, Cedric reta a Slater — TNA iMPACT! (16/4/2026)
+
+> **Relectura 2026-10-16 s01: sin clase declarada. Se conserva la WE de la primera visión.**
 
 > Wrestling Entertainment declarada. Preferencia editorial explícita
 > contrastada con la decisión real de booking, y elogio directo a
@@ -79,6 +82,25 @@ tags: [tna-2026, impact, the-system, brian-myers, bear-bronson, eddie-edwards, m
 - **Moose, con material propio**: el intercambio incluye acusaciones
   directas de Moose a The System llamándolos "excusas", cargando el
   ida y vuelta verbal con Edwards.
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"00H:16m:38s segmento in ring de The System, promo de Bryan Myers,
+> super disfrutable todo lo que tocan Myers y Edwards, ahora
+> construyendo a Bear Bronson y tambien con Cedric como leyenda viviente
+> infravalorada, buen setup, y oposición perfecta para Santana todo este
+> tiempo, luego Slayter y Moose como faces, es programación cool, solo
+> no entiendo porque Sonia debe ser personaje recurrente, igual que
+> Alisha, y van a repetir Eddie vs Moose, que bueno es un buen clásico,
+> pero quisiera algo nuevo, no creo que necesitemos GM despues de
+> santino, Sonia no es tan mala como Dixie Carter, pero tapoco es que
+> sea entretenida"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Sin clase en la relectura.** No hubo *"se merece"*. **Se conserva la WE de la primera visión**, porque una relectura sin declaración no retira una clase. Suma: Myers y Edwards construyendo a Bear Bronson, Cedric como *"leyenda viviente infravalorada"*. Reserva: Sonia como GM recurrente (*"no es tan mala como Dixie Carter, pero tampoco es que sea entretenida"*), Alisha recurrente y la repetición de Eddie vs Moose.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 

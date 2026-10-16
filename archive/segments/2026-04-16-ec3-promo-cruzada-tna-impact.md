@@ -17,18 +17,21 @@ attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "Es el viejo EC3, TNA EC3, buenisima la promo, se merece una WE class, esto si me emociona"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s43 (visión directa — TNA iMPACT!, 16/4/2026)"
   - "Sub-agente research-tna-impact-160426 (research 2026-08-01, closed) — Fightful, Slam Wrestling, Pro Wrestling Dot Net"
 tags: [tna-2026, impact, ec3, eric-young, regreso, doctrina-gimmick-en-su-contexto, wrestling-entertainment]
 ---
 
 # EC3 — "no es un comeback, es una cruzada" — TNA iMPACT! (16/4/2026)
+
+> **Relectura 2026-10-16 s01: ratifica WE.**
 
 > Wrestling Entertainment declarada. Continuidad directa de la
 > doctrina fijada en s40 sobre su regreso: el gimmick de EC3 solo
@@ -70,6 +73,19 @@ tags: [tna-2026, impact, ec3, eric-young, regreso, doctrina-gimmick-en-su-contex
   *"trouble, trouble, trouble"* — puede que esos elementos aparezcan
   en otras piezas del arco de regreso, pero no están verificados
   específicamente acá.
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"00H:15m:51s Promo de EC3, me gusta su etilo, está más psicodélico que
+> en su anterior run con TNA, pero se le entiende, no es algo vacio como
+> las promos de Malakain Black o Jack Perry, EC3 lo mantiene corto y
+> entretenido, le doy una WE"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Ratifica la WE** (*"le doy una WE"*). Suma: *"más psicodélico que en su anterior run"*, pero se entiende; *"no es algo vacío como las promos de Malakai Black o Jack Perry"*.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 

@@ -18,12 +18,13 @@ attendance_pagada: ""
 gate: ""
 rating_tv: ""
 buy_rate: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "Genial, era la grudgematch esperada, muy buenos spots, crearon stakes entre ambos; Francis definitivamente puede hablar, es como Joe Hendry, es un tema de produccion y direccion; KC estuvo totalmente a la altura, esta es su historia de underdog en tv, con un comeback emotivo; se merece las 3 clases"
 clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-05
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s43 (visión directa — TNA iMPACT!, 16/4/2026)"
   - "Sub-agente research-tna-impact-160426 (research 2026-08-01, closed) — Fightful, Slam Wrestling, Pro Wrestling Dot Net, tnawrestling.com"
   - "Sub-agente barrido-datos-duros-2026-10 (research 2026-10-05) — WebSearch (Blog of Doom, eWrestling, Rajah); WebFetch bloqueado por egress"
@@ -31,6 +32,8 @@ tags: [tna-2026, impact, aj-francis, kc-navarro, nic-nemeth, first-class, grudge
 ---
 
 # AJ Francis vs KC Navarro — TNA iMPACT! (16/4/2026)
+
+> **Relectura 2026-10-16 s01: ratifica Instant Classic Crown (PW·FS·WE).**
 
 > Perfect Wrestling + Fighting Spirit + Wrestling Entertainment,
 > declaradas explícitas. **El primer match real de regreso de KC
@@ -87,6 +90,22 @@ tags: [tna-2026, impact, aj-francis, kc-navarro, nic-nemeth, first-class, grudge
   Vehemiurgo de que la apuestan a seguir y escalarla con Navarro se
   sostiene — el desenlace real llega después con un Sac-Town Street
   Fight (14/5/2026), fuera del horizonte de este registro.
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"en TNA 2026 04 16 iMPACT 00H:07m:35s KC Navarro vs AJ Francis, la
+> grudge match, me gusta que TNA apueste por KC como babyface en la x
+> division, le dieron importancia a su regreso, Francis siempre puede
+> vender un ángulo, y aqui le pusieron a Nic Nemeth en comentarios
+> poniendolo over, fue buen booking, y la lucha estuvo cool, lo
+> mantuvieron real y no ambicionaron mucho, pero ejecutado excelente, se
+> merecnen las 3 clases, buen booking para KC"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Ratifica la triple clase** (*"se merecen las 3 clases, buen booking para KC"*). Suma: Nic Nemeth en comentarios poniéndolo over, y TNA apostando por KC como babyface de la X Division.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 

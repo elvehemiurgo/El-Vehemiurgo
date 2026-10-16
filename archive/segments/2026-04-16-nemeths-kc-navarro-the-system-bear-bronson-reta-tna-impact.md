@@ -17,18 +17,21 @@ attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
-veces_visto_vehemiurgo: 1
+veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "Estuvo genial, todo lo que estan haciendo para construir a Bear me parece cool, deberian acelerarle mas; se merece una WE class"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-08-01
+ultima_actualizacion: 2026-10-16
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s44 (visión directa — TNA iMPACT!, 16/4/2026)"
   - "Sub-agente research-tna-impact-160426-parte2 (research 2026-08-01, closed) — Blog of Doom"
 tags: [tna-2026, impact, nic-nemeth, ryan-nemeth, kc-navarro, bear-bronson, brian-myers, the-system, proyecto-bear-bronson, wrestling-entertainment]
 ---
 
 # Los Nemeth, KC Navarro y The System — TNA iMPACT! (16/4/2026)
+
+> **Relectura 2026-10-16 s01: ratifica WE.**
 
 > Wrestling Entertainment declarada. Continuidad directa del proyecto
 > de construcción de **Bear Bronson** ya fijado en s40 — acá es él
@@ -61,6 +64,19 @@ tags: [tna-2026, impact, nic-nemeth, ryan-nemeth, kc-navarro, bear-bronson, bria
   siguiente (23/4/2026), fuera del horizonte de este registro.
 - **Mandato editorial explícito**: *"deberían acelerarle más"* — el
   Vehemiurgo pide mayor ritmo de push, no solo aprueba la dirección.
+
+## Relectura 2026-10-16 s01 (visión 2)
+
+> *"00H:46m:20s luego Nemeth y Bear Bronson se mandaron un buen segmento,
+> muy oldschoool, buena psicologia de estos veteranos en esta escena
+> empujando a los nuevos a prestarle atención a hablar como wrestlers,
+> se merecen una WE"*
+>
+> — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
+
+**Ratifica la WE** (*"se merecen una WE"*). Suma: *"muy old-school"*, veteranos *"empujando a los nuevos a prestarle atención a hablar como wrestlers"*.
+
+Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
 ## Pendientes / huecos
 
