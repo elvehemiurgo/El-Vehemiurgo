@@ -295,6 +295,13 @@ usado, heel chickenshit clásico, "no utiliza patadas innecesarias
 ni promos genéricas"). Ver
 [`../topics/doctrina-gimmick-extension-del-artista.md`](../topics/doctrina-gimmick-extension-del-artista.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:15:48 — [Arianna Grace, promo](../segments/2026-05-07-arianna-grace-promo-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real definitivo + fecha y lugar de nacimiento.

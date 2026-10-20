@@ -511,6 +511,19 @@ un blind tag a EK Prosper. Ver
 
 Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 14/5/2026, 00:02:49 — [Battle royal por el retador #1 al TNA World Championship](../matches/2026-05-14-battle-royal-retador-1-tna-world-title-eric-young-tna-impact.md) — **WE**.
+- TNA iMPACT!, 14/5/2026, 00:14:55 — [Eric Young cuenta sus víctimas y va por Santana](../segments/2026-05-14-eric-young-promo-victimas-va-por-santana-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 14/5/2026, 00:42:02 — [Mike Santana responde a Eric Young](../segments/2026-05-14-mike-santana-promo-respuesta-eric-young-tna-impact.md) — **WE**.
+- TNA iMPACT!, 21/5/2026, 01:03:46 — [Mike Santana vs Steve Maclin: brawl backstage con seguridad](../segments/2026-05-21-mike-santana-steve-maclin-brawl-backstage-seguridad-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 21/5/2026, 01:05:50 — [Mike Santana (c) vs Steve Maclin — TNA World Championship (revancha de Sacrifice)](../matches/2026-05-21-mike-santana-vs-steve-maclin-tna-world-title-revancha-sacrifice-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 28/5/2026, apertura — [Champions Challenge: Santana, Ali, Cedric Alexander, Myers & Bronson vs Elijah, KC Navarro, Leon Slater, Eric Young & Kazarian](../matches/2026-05-28-champions-challenge-campeones-vs-retadores-kc-navarro-pinea-ali-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 4/6/2026, 00:40:57 — [Eric Young, promo in-ring; Mike Santana responde](../segments/2026-06-04-eric-young-promo-in-ring-mike-santana-responde-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

@@ -63,6 +63,14 @@ tags: [elayna-black, tna, knockouts, no-emociona-in-ring, sabe-usar-el-gimmick, 
 gimmick trabajado con intención compensa el techo in-ring. Ver
 [`../topics/doctrina-gimmick-extension-del-artista.md`](../topics/doctrina-gimmick-extension-del-artista.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:20:19 — [Elayna Black, Ash by Elegance e Indi Hartwell](../segments/2026-05-07-elayna-black-ash-by-elegance-indi-hartwell-segmento-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 28/5/2026, 01:04:19 — [Knockouts Champions Challenge: Xia Brookside, Elayna Black & Mara Sadè vs Léi Yǐng Lee, M by Elegance & Heather by Elegance](../matches/2026-05-28-knockouts-champions-challenge-xia-brookside-pinea-lei-ying-lee-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, background pre-TNA.

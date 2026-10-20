@@ -381,6 +381,11 @@ cada alta y con cada cambio de estado.
 | 2026-06-05 | Gunther abre el show — promo por lo de Clash in Italy | WWE / SmackDown | in-ring promo (apertura de show) | WE | — | en-investigacion | 1 | [→](2026-06-05-gunther-promo-apertura-wwe-smackdown.md) |
 | 2026-06-05 | Promo backstage de Jacy Jayne | WWE / SmackDown | promo backstage / ataque | WE | — | en-investigacion | 1 | [→](2026-06-05-jacy-jayne-promo-backstage-wwe-smackdown.md) |
 | 2026-06-05 | Promo de Trick Williams y careo con Bron Breakker | WWE / SmackDown | promo + careo | — | — | en-investigacion | 1 | [→](2026-06-05-trick-williams-promo-careo-bron-wwe-smackdown.md) |
+| 2026-06-04 | AJ Francis, segmento in-ring con Elijah | TNA Wrestling / iMPACT! | promo in-ring + ataque | WE | — | en-investigacion | 1 | [→](2026-06-04-aj-francis-segmento-in-ring-elijah-tna-impact.md) |
+| 2026-06-04 | Eric Young, promo in-ring; Mike Santana responde | TNA Wrestling / iMPACT! | promo in-ring + careo | WE+ | — | en-investigacion | 1 | [→](2026-06-04-eric-young-promo-in-ring-mike-santana-responde-tna-impact.md) |
+| 2026-06-04 | Rescate de Fabian Aichner y Leon Slater | TNA Wrestling / iMPACT! | run-in / save | WE | — | en-investigacion | 1 | [→](2026-06-04-fabian-aichner-leon-slater-rescate-bde-tna-impact.md) |
+| 2026-06-04 | Mustafa Ali, promo como top heel con su facción | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-06-04-mustafa-ali-promo-faccion-tasha-steelz-tna-impact.md) |
+| 2026-06-04 | Promo video: The Righteous y los Hardys rumbo a la Wicked Garden | TNA Wrestling / iMPACT! | promo video | WE | — | en-investigacion | 1 | [→](2026-06-04-promo-video-the-righteous-hardys-wicked-garden-tna-impact.md) |
 | 2026-06-03 | Backstage — Don Callis (cede el momento a Okada) | AEW / Dynamite | promo (backstage) | — | — | stub | 1 | [→](2026-06-03-don-callis-okada-backstage-aew-dynamite.md) |
 | 2026-06-03 | Build — promo de apertura de Rush + backstage con Andrade | AEW / Dynamite | promo (apertura + backstage) | — | — | stub | 1 | [→](2026-06-03-rush-build-mjf-aew-dynamite.md) |
 | 2026-06-03 | Backstage — The Dogs | AEW / Dynamite | promo (backstage) | — | — | stub | 1 | [→](2026-06-03-the-dogs-backstage-aew-dynamite.md) |
@@ -422,12 +427,22 @@ cada alta y con cada cambio de estado.
 | 2026-05-22 | Debut de Blake Monroe en main roster — burla a Chelsea Green | WWE / SmackDown | backstage / debut de talent | WE | — | en-investigacion | 1 | [→](2026-05-22-blake-monroe-debut-main-roster-vs-chelsea-green-wwe-smackdown.md) |
 | 2026-05-22 | Ricky Saints y Carmelo Hayes backstage | WWE / SmackDown | backstage | — | — | en-investigacion | 1 | [→](2026-05-22-ricky-carmelo-backstage-wwe-smackdown.md) |
 | 2026-05-22 | Segmento previo Trick Williams, Carmelo Hayes y Lil Yachty | WWE / SmackDown | promo / build previo a match | — | — | en-investigacion | 1 | [→](2026-05-22-trick-carmelo-lil-yachty-segmento-wwe-smackdown.md) |
+| 2026-05-21 | Eric Young con Steve Maclin: "siempre tuve razón" | TNA Wrestling / iMPACT! | promo / backstage | — | — | en-investigacion | 1 | [→](2026-05-21-eric-young-promo-steve-maclin-tna-impact.md) |
+| 2026-05-21 | Mike Santana vs Steve Maclin: brawl backstage con seguridad | TNA Wrestling / iMPACT! | brawl backstage | WE+ | — | en-investigacion | 1 | [→](2026-05-21-mike-santana-steve-maclin-brawl-backstage-seguridad-tna-impact.md) |
+| 2026-05-21 | The System abre celebrando a Cedric "record taker"; debut de Fabian Aichner | TNA Wrestling / iMPACT! | promo in-ring + debut | WE+ | — | en-investigacion | 1 | [→](2026-05-21-the-system-celebra-cedric-record-taker-debut-fabian-aichner-tna-impact.md) |
 | 2026-05-20 | Post-match — MJF (con Kevin Knight) | AEW / Dynamite & Collision | promo (post-match) | — | — | stub | 1 | [→](2026-05-20-mjf-post-match-kevin-knight-aew-dynamite-collision.md) |
 | 2026-05-20 | Apertura — Young Bucks & Chris Jericho | AEW / Dynamite & Collision | promo (apertura de show) | WE | — | stub | 1 | [→](2026-05-20-young-bucks-jericho-apertura-aew-dynamite-collision.md) |
 | 2026-05-19 | Segmento de Mason Rook con Kam Hendrix | WWE / NXT | promo / confrontación (rookies) | — | — | en-investigacion | 1 | [→](2026-05-19-mason-rook-kam-hendrix-segmento-wwe-nxt.md) |
 | 2026-05-18 | Entrevista de Ethan Page con Michael Cole | WWE / Raw | entrevista (sentada, con Michael Cole) | WE | — | en-investigacion | 1 | [→](2026-05-18-ethan-page-entrevista-michael-cole-wwe-raw.md) |
 | 2026-05-18 | Promo del Judgment Day tras perder su lucha | WWE / Raw | promo post-match | — | — | en-investigacion | 1 | [→](2026-05-18-judgment-day-promo-post-derrota-wwe-raw.md) |
 | 2026-05-18 | Regreso de Brock Lesnar: los F5s, y la lectura de booking para Oba Femi | WWE / Raw | regreso sorpresa / ataque | WE | — | en-investigacion | 1 | [→](2026-05-18-regreso-brock-lesnar-f5s-oba-femi-wwe-raw.md) |
+| 2026-05-14 | Eric Young cuenta sus víctimas y va por Santana | TNA Wrestling / iMPACT! | promo | WE+ | — | en-investigacion | 1 | [→](2026-05-14-eric-young-promo-victimas-va-por-santana-tna-impact.md) |
+| 2026-05-14 | Leon Slater, promo de main eventer con los Hardys | TNA Wrestling / iMPACT! | promo + segmento | WE+ | — | en-investigacion | 1 | [→](2026-05-14-leon-slater-promo-main-eventer-hardys-tna-impact.md) |
+| 2026-05-14 | Leon Slater, video de apertura | TNA Wrestling / iMPACT! | promo video | WE | — | en-investigacion | 1 | [→](2026-05-14-leon-slater-video-opener-tna-impact.md) |
+| 2026-05-14 | Matt Hardy, promo: el anuncio de los Broken Hardys | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-05-14-matt-hardy-promo-broken-hardys-tna-impact.md) |
+| 2026-05-14 | Mike Santana responde a Eric Young | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-05-14-mike-santana-promo-respuesta-eric-young-tna-impact.md) |
+| 2026-05-14 | Mustafa Ali quiere los segmentos grandes | TNA Wrestling / iMPACT! | segmento | WE | — | en-investigacion | 1 | [→](2026-05-14-mustafa-ali-segmento-heat-tna-impact.md) |
+| 2026-05-14 | The System, promo: protagonismo para Cedric Alexander | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-05-14-the-system-promo-cedric-alexander-tna-impact.md) |
 | 2026-05-13 | Contract signing — MJF vs Darby Allin | AEW / Dynamite | contract signing | WE | — | stub | 1 | [→](2026-05-13-mjf-darby-contract-signing-aew-dynamite.md) |
 | 2026-05-12 | Segmento in-ring de Mason Rook, con promo de Tony D'Angelo | WWE / NXT | promo coral in-ring (camada nueva) | WE | — | en-investigacion | 1 | [→](2026-05-12-mason-rook-segmento-inring-dangelo-wwe-nxt.md) |
 | 2026-05-12 | Promo de Vanity Project + Dark State | WWE / NXT | promo coral (dos facciones) | WE | — | en-investigacion | 1 | [→](2026-05-12-vanity-project-dark-state-promo-wwe-nxt.md) |
@@ -441,6 +456,10 @@ cada alta y con cada cambio de estado.
 | 2026-05-08 | Fatal Influence interrumpe a las campeonas, entra Irresistible Forces | WWE / SmackDown | promo / confrontación (facciones) | — | — | en-investigacion | 1 | [→](2026-05-08-fatal-influence-interrumpe-irresistible-forces-wwe-smackdown.md) |
 | 2026-05-08 | Ricky Saints y Matt Cardona cruzan caminos | WWE / SmackDown | promo (backstage) | WE | — | en-investigacion | 1 | [→](2026-05-08-ricky-saints-matt-cardona-cruzan-caminos-wwe-smackdown.md) |
 | 2026-05-08 | Trick Williams: entrada de luto con la copa, confrontación con Sami Zayn | WWE / SmackDown | promo / confrontación (heel psychology) | WE | — | en-investigacion | 1 | [→](2026-05-08-trick-williams-sami-zayn-luto-copa-wwe-smackdown.md) |
+| 2026-05-07 | Arianna Grace, promo | TNA Wrestling / iMPACT! | promo | — | — | en-investigacion | 1 | [→](2026-05-07-arianna-grace-promo-tna-impact.md) |
+| 2026-05-07 | Elayna Black, Ash by Elegance e Indi Hartwell | TNA Wrestling / iMPACT! | segmento in-ring | — | — | en-investigacion | 1 | [→](2026-05-07-elayna-black-ash-by-elegance-indi-hartwell-segmento-tna-impact.md) |
+| 2026-05-07 | KC Navarro, promo | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-05-07-kc-navarro-promo-tna-impact.md) |
+| 2026-05-07 | Promo video: los Hardys y The Righteous | TNA Wrestling / iMPACT! | promo video | WE | — | en-investigacion | 1 | [→](2026-05-07-promo-video-hardys-the-righteous-tna-impact.md) |
 | 2026-05-05 | Debut de Mason Rook en NXT — ataque post-main event a Tony D'Angelo y Tavion Heights | WWE / NXT | ataque post-main event / debut y revelación del nombre | WE | — | en-investigacion | 1 | [→](2026-05-05-mason-rook-debut-ataque-dangelo-heights-wwe-nxt.md) |
 | 2026-05-04 | Concierto de Joe Hendry, interrumpido por Logan Paul | WWE / Raw | concierto / interrupción | WE | — | en-investigacion | 1 | [→](2026-05-04-concierto-hendry-interrupcion-logan-paul-wwe-raw.md) |
 | 2026-05-04 | Promo de Ethan Page desde la rampa | WWE / Raw | promo (desde la rampa) | — | — | en-investigacion | 1 | [→](2026-05-04-ethan-page-promo-rampa-wwe-raw.md) |

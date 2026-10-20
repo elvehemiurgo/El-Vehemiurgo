@@ -128,6 +128,19 @@ aire" y lo enmarca como el rival perfecto para su "trial by combat".
 Ver
 [`../segments/2026-04-23-ec3-promo-trial-by-combat-tna-impact.md`](../segments/2026-04-23-ec3-promo-trial-by-combat-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:04:06 — [Eric Young vs EC3 (No DQ)](../matches/2026-05-07-eric-young-vs-ec3-no-dq-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 14/5/2026, 00:02:49 — [Battle royal por el retador #1 al TNA World Championship](../matches/2026-05-14-battle-royal-retador-1-tna-world-title-eric-young-tna-impact.md) — **WE**.
+- TNA iMPACT!, 14/5/2026, 00:14:55 — [Eric Young cuenta sus víctimas y va por Santana](../segments/2026-05-14-eric-young-promo-victimas-va-por-santana-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 14/5/2026, 00:42:02 — [Mike Santana responde a Eric Young](../segments/2026-05-14-mike-santana-promo-respuesta-eric-young-tna-impact.md) — **WE**.
+- TNA iMPACT!, 21/5/2026, 00:51:47 — [Eric Young con Steve Maclin: "siempre tuve razón"](../segments/2026-05-21-eric-young-promo-steve-maclin-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 28/5/2026, apertura — [Champions Challenge: Santana, Ali, Cedric Alexander, Myers & Bronson vs Elijah, KC Navarro, Leon Slater, Eric Young & Kazarian](../matches/2026-05-28-champions-challenge-campeones-vs-retadores-kc-navarro-pinea-ali-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 4/6/2026, 00:40:57 — [Eric Young, promo in-ring; Mike Santana responde](../segments/2026-06-04-eric-young-promo-in-ring-mike-santana-responde-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).

@@ -92,6 +92,13 @@ tags: [jada-stone, tna, performer-revelacion, babyface, descartada-the-future-20
    en el tiempo [...] no creo que destaque mucho"* (con la reserva
    *"podría equivocarme"*). Revisar en 6-12 meses.
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 21/5/2026, 00:54:01 — [Xia Brookside vs Jada Stone](../matches/2026-05-21-xia-brookside-vs-jada-stone-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, edad, debut, trayectoria pre-TNA.

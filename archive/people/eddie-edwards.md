@@ -208,6 +208,19 @@ a The System", con una variación de estilo que el Vehemiurgo destaca
 puntualmente. Ver
 [`../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md`](../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:40:30 — [Leon Slater & Moose vs Eddie Edwards & Cedric Alexander](../matches/2026-05-07-leon-slater-moose-vs-eddie-edwards-cedric-alexander-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 14/5/2026, 00:02:49 — [Battle royal por el retador #1 al TNA World Championship](../matches/2026-05-14-battle-royal-retador-1-tna-world-title-eric-young-tna-impact.md) — **WE**.
+- TNA iMPACT!, 14/5/2026, 00:22:26 — [The System, promo: protagonismo para Cedric Alexander](../segments/2026-05-14-the-system-promo-cedric-alexander-tna-impact.md) — **WE**.
+- TNA iMPACT!, 21/5/2026, 00:01:05 — [The System abre celebrando a Cedric "record taker"; debut de Fabian Aichner](../segments/2026-05-21-the-system-celebra-cedric-record-taker-debut-fabian-aichner-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 28/5/2026, 00:52:18 — [Fabian Aichner vs Eddie Edwards](../matches/2026-05-28-fabian-aichner-vs-eddie-edwards-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 4/6/2026, 00:01:50 — [Eddie Edwards vs BDE](../matches/2026-06-04-eddie-edwards-vs-bde-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 4/6/2026, 00:09:33 — [Rescate de Fabian Aichner y Leon Slater](../segments/2026-06-04-fabian-aichner-leon-slater-rescate-bde-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).

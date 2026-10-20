@@ -166,6 +166,16 @@ pero cumple ejes parciales.
    y el match
    [`../matches/2026-04-11-arianna-grace-vs-lei-ying-lee-tna-rebellion-ko-title.md`](../matches/2026-04-11-arianna-grace-vs-lei-ying-lee-tna-rebellion-ko-title.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:15:48 — [Arianna Grace, promo](../segments/2026-05-07-arianna-grace-promo-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 21/5/2026, 00:54:01 — [Xia Brookside vs Jada Stone](../matches/2026-05-21-xia-brookside-vs-jada-stone-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 28/5/2026, 01:04:19 — [Knockouts Champions Challenge: Xia Brookside, Elayna Black & Mara Sadè vs Léi Yǐng Lee, M by Elegance & Heather by Elegance](../matches/2026-05-28-knockouts-champions-challenge-xia-brookside-pinea-lei-ying-lee-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 4/6/2026, 00:54:09 — [Mr. Elegance vs Léi Yǐng Lee (intergénero)](../matches/2026-06-04-mr-elegance-vs-lei-ying-lee-intergenero-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad Xia Li WWE** → Lei Ying Lee TNA.

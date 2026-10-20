@@ -46,6 +46,13 @@ Cerró la lista masiva de s26 con la frase *"...y Bryan Danielson en el Tier 0"*
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 21/5/2026, 00:41:58 — [Mustafa Ali (c) vs Chazz "Starboy" Hall — TNA International Championship](../matches/2026-05-21-mustafa-ali-vs-chazz-hall-international-title-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas WWE de memoria (2010, 2011, 2018, 2021) `[verif]`.

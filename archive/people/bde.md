@@ -71,6 +71,14 @@ tags: [bde, tna-2025-2026-talent-nuevo, par-con-rich-swann-promesa, segments-eri
   segments con Nic Nemeth (rub) + Eric Young (mentor) +
   tag con Swann (par emergente) en menos de 60 días.
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 4/6/2026, 00:01:50 — [Eddie Edwards vs BDE](../matches/2026-06-04-eddie-edwards-vs-bde-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 4/6/2026, 00:09:33 — [Rescate de Fabian Aichner y Leon Slater](../segments/2026-06-04-fabian-aichner-leon-slater-rescate-bde-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + edad + background indie** — verificación

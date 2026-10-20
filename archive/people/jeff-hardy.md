@@ -184,6 +184,18 @@ Ver
   es un veredicto cerrado.
 - Ver [`../matches/2013-01-24-hardy-vs-daniels-tna-impact.md`](../matches/2013-01-24-hardy-vs-daniels-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 01:00:41 — [Promo video: los Hardys y The Righteous](../segments/2026-05-07-promo-video-hardys-the-righteous-tna-impact.md) — **WE**.
+- TNA iMPACT!, 14/5/2026, 00:11:52 — [Leon Slater, promo de main eventer con los Hardys](../segments/2026-05-14-leon-slater-promo-main-eventer-hardys-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 14/5/2026, 01:03:20 — [Matt Hardy, promo: el anuncio de los Broken Hardys](../segments/2026-05-14-matt-hardy-promo-broken-hardys-tna-impact.md) — **WE**.
+- TNA iMPACT!, 21/5/2026, 00:24:12 — [Broken Matt Hardy vs Vincent (Jeff Hardy y Dutch esposados)](../matches/2026-05-21-broken-matt-hardy-vs-vincent-esposados-tna-impact.md) — **WE**.
+- TNA iMPACT!, 4/6/2026, 00:11:55 — [Promo video: The Righteous y los Hardys rumbo a la Wicked Garden](../segments/2026-06-04-promo-video-the-righteous-hardys-wicked-garden-tna-impact.md) — **WE**.
+- TNA iMPACT!, 4/6/2026, 01:06:00 — [The Righteous (Vincent & Dutch) vs The Broken Hardys — Wicked Garden Match](../matches/2026-06-04-the-righteous-vs-broken-hardys-wicked-garden-match-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia

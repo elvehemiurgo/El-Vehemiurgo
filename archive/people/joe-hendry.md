@@ -222,6 +222,13 @@ nutz" no se halló en cobertura.
 
 Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md`](../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.md)
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 14/5/2026, 00:14:55 — [Eric Young cuenta sus víctimas y va por Santana](../segments/2026-05-14-eric-young-promo-victimas-va-por-santana-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas TNA World Title run.

@@ -276,6 +276,18 @@ entretenimiento/promos de NXT **sin ablandarse ni volverse safe** —
 sigue golpeando duro y old-school. Ver
 [`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:40:30 — [Leon Slater & Moose vs Eddie Edwards & Cedric Alexander](../matches/2026-05-07-leon-slater-moose-vs-eddie-edwards-cedric-alexander-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 14/5/2026, apertura — [Leon Slater, video de apertura](../segments/2026-05-14-leon-slater-video-opener-tna-impact.md) — **WE**.
+- TNA iMPACT!, 14/5/2026, 00:11:52 — [Leon Slater, promo de main eventer con los Hardys](../segments/2026-05-14-leon-slater-promo-main-eventer-hardys-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 14/5/2026, 01:05:05 — [Cedric Alexander vs Leon Slater (c) — TNA X Division Championship, 2 de 3 caídas](../matches/2026-05-14-cedric-alexander-vs-leon-slater-x-division-2-de-3-caidas-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 28/5/2026, apertura — [Champions Challenge: Santana, Ali, Cedric Alexander, Myers & Bronson vs Elijah, KC Navarro, Leon Slater, Eric Young & Kazarian](../matches/2026-05-28-champions-challenge-campeones-vs-retadores-kc-navarro-pinea-ali-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 4/6/2026, 00:09:33 — [Rescate de Fabian Aichner y Leon Slater](../segments/2026-06-04-fabian-aichner-leon-slater-rescate-bde-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.

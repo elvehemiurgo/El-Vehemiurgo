@@ -119,6 +119,14 @@ independiente que Francis tiene fama real de buen promo poco
 explotado. Ver
 [`../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md`](../matches/2026-04-16-aj-francis-vs-kc-navarro-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 14/5/2026, 00:28:22 — [AJ Francis vs KC Navarro (Street Fight)](../matches/2026-05-14-aj-francis-vs-kc-navarro-street-fight-tna-impact.md) — **FC**.
+- TNA iMPACT!, 4/6/2026, 00:13:37 — [AJ Francis, segmento in-ring con Elijah](../segments/2026-06-04-aj-francis-segmento-in-ring-elijah-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha exacta de nacimiento.

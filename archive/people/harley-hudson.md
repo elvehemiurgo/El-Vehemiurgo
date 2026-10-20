@@ -63,6 +63,13 @@ Vehemiurgo **no la sumó a Future** (solo Myla Grace + Mila Moore),
 pero *"lucieron geniales"* la incluye en el elogio. Pendiente ver
 si el Vehemiurgo la declara prospecto individual más adelante.
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 28/5/2026, 00:26:32 — [Tessa Blanchard vs Harley Hudson](../matches/2026-05-28-tessa-blanchard-vs-harley-hudson-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + origen + background.

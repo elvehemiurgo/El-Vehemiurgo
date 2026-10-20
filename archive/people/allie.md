@@ -51,6 +51,13 @@ fondo hacia el armazón narrativo del Undead Realm (crítica de booking
 dirigida a Rosemary como autora, no a Allie). Ver
 [`../segments/2026-04-16-allie-regresa-undead-realm-tna-impact.md`](../segments/2026-04-16-allie-regresa-undead-realm-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 14/5/2026, 00:52:55 — [Allie & Rosemary vs Mila Moore & Victoria Crawford](../matches/2026-05-14-allie-rosemary-vs-mila-moore-victoria-crawford-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

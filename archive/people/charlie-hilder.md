@@ -286,6 +286,13 @@ program valida sin destruir su marca indie**.)
 
 Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 21/5/2026, 00:41:58 — [Mustafa Ali (c) vs Chazz "Starboy" Hall — TNA International Championship](../matches/2026-05-21-mustafa-ali-vs-chazz-hall-international-title-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] **El Tecolote interview**

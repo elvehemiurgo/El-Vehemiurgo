@@ -151,6 +151,15 @@ guitarra en la cabeza antes de que Kazarian toque la cuarta esquina.
 Ver
 [`../segments/2026-04-30-kazarian-promo-guitar-strap-match-tna-impact.md`](../segments/2026-04-30-kazarian-promo-guitar-strap-match-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 14/5/2026, 00:02:49 — [Battle royal por el retador #1 al TNA World Championship](../matches/2026-05-14-battle-royal-retador-1-tna-world-title-eric-young-tna-impact.md) — **WE**.
+- TNA iMPACT!, 28/5/2026, apertura — [Champions Challenge: Santana, Ali, Cedric Alexander, Myers & Bronson vs Elijah, KC Navarro, Leon Slater, Eric Young & Kazarian](../matches/2026-05-28-champions-challenge-campeones-vs-retadores-kc-navarro-pinea-ali-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 4/6/2026, 00:13:37 — [AJ Francis, segmento in-ring con Elijah](../segments/2026-06-04-aj-francis-segmento-in-ring-elijah-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado.

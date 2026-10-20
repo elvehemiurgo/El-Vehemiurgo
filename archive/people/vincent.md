@@ -131,6 +131,17 @@ Dentro de un balance de año tibio para The Righteous en conjunto
 actoral post-derrota como algo con potencial. Ver
 [`../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md`](../matches/2026-04-30-vincent-vs-jeff-hardy-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 01:00:41 — [Promo video: los Hardys y The Righteous](../segments/2026-05-07-promo-video-hardys-the-righteous-tna-impact.md) — **WE**.
+- TNA iMPACT!, 14/5/2026, 00:02:49 — [Battle royal por el retador #1 al TNA World Championship](../matches/2026-05-14-battle-royal-retador-1-tna-world-title-eric-young-tna-impact.md) — **WE**.
+- TNA iMPACT!, 21/5/2026, 00:24:12 — [Broken Matt Hardy vs Vincent (Jeff Hardy y Dutch esposados)](../matches/2026-05-21-broken-matt-hardy-vs-vincent-esposados-tna-impact.md) — **WE**.
+- TNA iMPACT!, 4/6/2026, 00:11:55 — [Promo video: The Righteous y los Hardys rumbo a la Wicked Garden](../segments/2026-06-04-promo-video-the-righteous-hardys-wicked-garden-tna-impact.md) — **WE**.
+- TNA iMPACT!, 4/6/2026, 01:06:00 — [The Righteous (Vincent & Dutch) vs The Broken Hardys — Wicked Garden Match](../matches/2026-06-04-the-righteous-vs-broken-hardys-wicked-garden-match-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [x] Identidad confirmada (Vinny Marseglia, Rhode Island).

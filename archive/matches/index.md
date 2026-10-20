@@ -333,6 +333,9 @@ con cada cambio de estado.
 | 2026-06-05 | Fatal 4-way | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-06-05-4-way-wwe-smackdown.md) |
 | 2026-06-05 | Chelsea Green vs Lash Legend | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-05-chelsea-green-vs-lash-legend-wwe-smackdown.md) |
 | 2026-06-05 | Ricky Saints vs Carmelo Hayes | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-05-ricky-saints-vs-carmelo-hayes-wwe-smackdown.md) |
+| 2026-06-04 | Eddie Edwards vs BDE | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-06-04-eddie-edwards-vs-bde-tna-impact.md) |
+| 2026-06-04 | Mr. Elegance vs Léi Yǐng Lee (intergénero) | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-06-04-mr-elegance-vs-lei-ying-lee-intergenero-tna-impact.md) |
+| 2026-06-04 | The Righteous (Vincent & Dutch) vs The Broken Hardys — Wicked Garden Match | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-06-04-the-righteous-vs-broken-hardys-wicked-garden-match-tna-impact.md) |
 | 2026-06-03 | MJF vs Rush | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-06-03-mjf-vs-rush-aew-dynamite.md) |
 | 2026-06-03 | Will Ospreay vs Mark Davis | AEW / Dynamite | FS | — | stub | 1 | [→](2026-06-03-ospreay-vs-mark-davis-aew-dynamite.md) |
 | 2026-06-03 | Speedball Mike Bailey vs Kevin Knight | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-06-03-speedball-mike-bailey-vs-kevin-knight-aew-dynamite.md) |
@@ -351,6 +354,10 @@ con cada cambio de estado.
 | 2026-05-30 | Rey Fénix vs Laredo Kid | AAA / Noche de los Grandes | FS·WE | FC | en-investigacion | 1 | [→](2026-05-30-rey-fenix-vs-laredo-kid-aaa-noche-de-los-grandes.md) |
 | 2026-05-29 | Chelsea Green vs Nia Jax | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-05-29-chelsea-green-vs-nia-jax-wwe-smackdown.md) |
 | 2026-05-29 | Ricky Saints vs Carmelo Hayes | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-29-ricky-saints-vs-carmelo-hayes-double-count-out-wwe-smackdown.md) |
+| 2026-05-28 | Champions Challenge: Santana, Ali, Cedric Alexander, Myers & Bronson vs Elijah, KC Navarro, Leon Slater, Eric Young & Kazarian | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-05-28-champions-challenge-campeones-vs-retadores-kc-navarro-pinea-ali-tna-impact.md) |
+| 2026-05-28 | Fabian Aichner vs Eddie Edwards | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-05-28-fabian-aichner-vs-eddie-edwards-tna-impact.md) |
+| 2026-05-28 | Knockouts Champions Challenge: Xia Brookside, Elayna Black & Mara Sadè vs Léi Yǐng Lee, M by Elegance & Heather by Elegance | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-28-knockouts-champions-challenge-xia-brookside-pinea-lei-ying-lee-tna-impact.md) |
+| 2026-05-28 | Tessa Blanchard vs Harley Hudson | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-05-28-tessa-blanchard-vs-harley-hudson-tna-impact.md) |
 | 2026-05-27 | Ace Austin vs Andrade | AEW / Collision | PW·FS·WE | ICC | stub | 1 | [→](2026-05-27-ace-austin-vs-andrade-aew-collision.md) |
 | 2026-05-27 | Mark Davis vs Jack Perry — revancha | AEW / Dynamite & Collision | — | — | stub | 1 | [→](2026-05-27-mark-davis-vs-jack-perry-aew-dynamite-collision.md) |
 | 2026-05-26 | Charlie Dempsey vs Shiloh Hill | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-05-26-charlie-dempsey-vs-shiloh-hill-wwe-nxt.md) |
@@ -367,12 +374,20 @@ con cada cambio de estado.
 | 2026-05-22 | Carmelo Hayes vs Trick Williams | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-05-22-carmelo-hayes-vs-trick-williams-wwe-smackdown.md) |
 | 2026-05-22 | Fallon Henley & Lainey Reid vs Rhea Ripley & Charlotte Flair | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-05-22-fallon-henley-lainey-reid-vs-rhea-ripley-charlotte-flair-wwe-smackdown.md) |
 | 2026-05-22 | Tiffany Stratton vs Lash Legend | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-05-22-tiffany-stratton-vs-lash-legend-wwe-smackdown.md) |
+| 2026-05-21 | Broken Matt Hardy vs Vincent (Jeff Hardy y Dutch esposados) | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-05-21-broken-matt-hardy-vs-vincent-esposados-tna-impact.md) |
+| 2026-05-21 | Mike Santana (c) vs Steve Maclin — TNA World Championship (revancha de Sacrifice) | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-05-21-mike-santana-vs-steve-maclin-tna-world-title-revancha-sacrifice-tna-impact.md) |
+| 2026-05-21 | Mustafa Ali (c) vs Chazz "Starboy" Hall — TNA International Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-05-21-mustafa-ali-vs-chazz-hall-international-title-tna-impact.md) |
+| 2026-05-21 | Xia Brookside vs Jada Stone | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-21-xia-brookside-vs-jada-stone-tna-impact.md) |
 | 2026-05-20 | Darby Allin vs Speedball Mike Bailey | AEW / Dynamite & Collision | — | — | stub | 1 | [→](2026-05-20-darby-allin-vs-speedball-mike-bailey-aew-dynamite-collision.md) |
 | 2026-05-20 | Opener 3 contra 3 [verif participantes] | AEW / Dynamite & Collision | FS | — | stub | 1 | [→](2026-05-20-opener-3-contra-3-aew-dynamite-collision.md) |
 | 2026-05-19 | Tatum Paxley vs Lizzy Rain | WWE / NXT | — | — | en-investigacion | 1 | [→](2026-05-19-tatum-paxley-vs-lizzy-rain-wwe-nxt.md) |
 | 2026-05-19 | Vanity Project vs Dark State (titular de parejas) | WWE / NXT | FS·WE | FC | en-investigacion | 1 | [→](2026-05-19-vanity-project-vs-dark-state-titular-wwe-nxt.md) |
 | 2026-05-18 | Finn Bálor vs JD McDonagh (street fight, desempate) | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-18-finn-balor-vs-jd-mcdonagh-street-fight-wwe-raw.md) |
 | 2026-05-15 | Carmelo Hayes vs Ricky Saints | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-15-carmelo-hayes-vs-ricky-saints-wwe-smackdown.md) |
+| 2026-05-14 | AJ Francis vs KC Navarro (Street Fight) | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-05-14-aj-francis-vs-kc-navarro-street-fight-tna-impact.md) |
+| 2026-05-14 | Allie & Rosemary vs Mila Moore & Victoria Crawford | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-14-allie-rosemary-vs-mila-moore-victoria-crawford-tna-impact.md) |
+| 2026-05-14 | Battle royal por el retador #1 al TNA World Championship | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-05-14-battle-royal-retador-1-tna-world-title-eric-young-tna-impact.md) |
+| 2026-05-14 | Cedric Alexander vs Leon Slater (c) — TNA X Division Championship, 2 de 3 caídas | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-05-14-cedric-alexander-vs-leon-slater-x-division-2-de-3-caidas-tna-impact.md) |
 | 2026-05-13 | Darby Allin vs Konosuke Takeshita — main event | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-05-13-darby-allin-vs-takeshita-aew-dynamite.md) |
 | 2026-05-13 | Will Ospreay vs Ace Austin | AEW / Dynamite | PW·FS·WE | ICC | stub | 1 | [→](2026-05-13-ospreay-vs-ace-austin-aew-dynamite.md) |
 | 2026-05-12 | The Birthright vs los faces (3 vs 3) | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-05-12-birthright-vs-faces-3v3-wwe-nxt.md) |
@@ -392,6 +407,9 @@ con cada cambio de estado.
 | 2026-05-08 | Fatal Influence vs Irresistible Forces (3 vs 3) | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-08-fatal-influence-vs-irresistible-forces-wwe-smackdown.md) |
 | 2026-05-08 | Kiana James vs Tiffany Stratton | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-05-08-kiana-james-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-05-08 | Ricky Saints vs Matt Cardona | WWE / SmackDown | FS | — | en-investigacion | 1 | [→](2026-05-08-ricky-saints-vs-matt-cardona-wwe-smackdown.md) |
+| 2026-05-07 | Eric Young vs EC3 (No DQ) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-07-eric-young-vs-ec3-no-dq-tna-impact.md) |
+| 2026-05-07 | Leon Slater & Moose vs Eddie Edwards & Cedric Alexander | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-05-07-leon-slater-moose-vs-eddie-edwards-cedric-alexander-tna-impact.md) |
+| 2026-05-07 | The System (Brian Myers & Bear Bronson) (c) vs Nic Nemeth & KC Navarro — TNA World Tag Team Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-07-the-system-myers-bronson-vs-nic-nemeth-kc-navarro-tag-titles-tna-impact.md) |
 | 2026-05-04 | JD McDonagh vs Finn Bálor (rematch, con interferencia de Judgment Day) | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-04-jd-mcdonagh-vs-finn-balor-wwe-raw.md) |
 | 2026-05-02 | Hijo del Vikingo vs Mini Vikingo | AAA / Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-02-hijo-del-vikingo-vs-mini-vikingo-aaa-worldwide.md) |
 | 2026-05-02 | Rey Fénix vs Laredo Kid | AAA / Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-05-02-rey-fenix-vs-laredo-kid-aaa-worldwide.md) |

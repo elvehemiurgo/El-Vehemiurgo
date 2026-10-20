@@ -176,6 +176,13 @@ categoría "ganándose mi corazón en tiempo real"). Ver
 - `2026 09 26 AEW All Out`, responde el open challenge de Persephone por el TBS, **ICC+**; pierde por crucifix powerbomb (14:42). [Ficha](../matches/2026-09-26-persephone-vs-dani-luna-tbs-aew-all-out.md).
 - RUNNER UPS #3 desde julio (como heel monster en TNA); debuta en AEW como face. El Vehemiurgo lee el salto como la oportunidad de expandir el entertainment que en TNA no encontró.
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:15:48 — [Arianna Grace, promo](../segments/2026-05-07-arianna-grace-promo-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad británica de origen.

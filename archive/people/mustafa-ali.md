@@ -262,6 +262,16 @@ esquinero — prensa coincide en marcar ese quiebre puntual como el
 momento fuerte del match corto. Ver
 [`../matches/2026-04-30-mustafa-ali-vs-adam-brooks-tna-impact.md`](../matches/2026-04-30-mustafa-ali-vs-adam-brooks-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 14/5/2026, 00:14:03 — [Mustafa Ali quiere los segmentos grandes](../segments/2026-05-14-mustafa-ali-segmento-heat-tna-impact.md) — **WE**.
+- TNA iMPACT!, 21/5/2026, 00:41:58 — [Mustafa Ali (c) vs Chazz "Starboy" Hall — TNA International Championship](../matches/2026-05-21-mustafa-ali-vs-chazz-hall-international-title-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 28/5/2026, apertura — [Champions Challenge: Santana, Ali, Cedric Alexander, Myers & Bronson vs Elijah, KC Navarro, Leon Slater, Eric Young & Kazarian](../matches/2026-05-28-champions-challenge-campeones-vs-retadores-kc-navarro-pinea-ali-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 4/6/2026, 00:50:59 — [Mustafa Ali, promo como top heel con su facción](../segments/2026-06-04-mustafa-ali-promo-faccion-tasha-steelz-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo + nacimiento.

@@ -53,6 +53,13 @@ existe una figura con más credibilidad de kayfabe disponible en el
 propio roster de autoridad. Ver
 [`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 21/5/2026, 00:51:47 — [Eric Young con Steve Maclin: "siempre tuve razón"](../segments/2026-05-21-eric-young-promo-steve-maclin-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de debut como Daria Rae en TNA.

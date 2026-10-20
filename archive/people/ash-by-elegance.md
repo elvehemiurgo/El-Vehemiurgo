@@ -116,6 +116,13 @@ El Vehemiurgo, al declarar a M by Elegance como **THE FUTURE in
   interview) sobre cómo se armó el dúo.
 - **Re-firma 2026**: confirmada por POST 28 ene 2026.
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:20:19 — [Elayna Black, Ash by Elegance e Indi Hartwell](../segments/2026-05-07-elayna-black-ash-by-elegance-indi-hartwell-segmento-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar de nacimiento.

@@ -58,6 +58,14 @@ tags: [jason-hotch, ex-wwe-nxt-trick-williams-orange-cuatro, tna-2025-2026-apren
   mic-work británico técnico; Tasha Steelz aporta KO scene +
   promo carny. **Dos vertientes complementarias**.
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 14/5/2026, 00:02:49 — [Battle royal por el retador #1 al TNA World Championship](../matches/2026-05-14-battle-royal-retador-1-tna-world-title-eric-young-tna-impact.md) — **WE**.
+- TNA iMPACT!, 4/6/2026, 00:50:59 — [Mustafa Ali, promo como top heel con su facción](../segments/2026-06-04-mustafa-ali-promo-faccion-tasha-steelz-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.

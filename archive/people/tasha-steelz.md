@@ -58,6 +58,13 @@ tags: [tasha-steelz, tna, mic-work, mentora, arbol-de-aprendizaje, fighting-spir
    Tasha lo vende como corrección jerárquica dentro del equipo
    heel: pedagogía old-school en vivo.
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 4/6/2026, 00:50:59 — [Mustafa Ali, promo como top heel con su facción](../segments/2026-06-04-mustafa-ali-promo-faccion-tasha-steelz-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, reinados de título con fechas.

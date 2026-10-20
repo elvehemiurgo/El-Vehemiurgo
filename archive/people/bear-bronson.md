@@ -168,6 +168,17 @@ corresponde al segmento completo. Promete cobrarse contra Nic Nemeth
 tras la derrota registrada en s45. Ver
 [`../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md`](../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:27:36 — [The System (Brian Myers & Bear Bronson) (c) vs Nic Nemeth & KC Navarro — TNA World Tag Team Championship](../matches/2026-05-07-the-system-myers-bronson-vs-nic-nemeth-kc-navarro-tag-titles-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 14/5/2026, 00:02:49 — [Battle royal por el retador #1 al TNA World Championship](../matches/2026-05-14-battle-royal-retador-1-tna-world-title-eric-young-tna-impact.md) — **WE**.
+- TNA iMPACT!, 14/5/2026, 00:22:26 — [The System, promo: protagonismo para Cedric Alexander](../segments/2026-05-14-the-system-promo-cedric-alexander-tna-impact.md) — **WE**.
+- TNA iMPACT!, 21/5/2026, 00:01:05 — [The System abre celebrando a Cedric "record taker"; debut de Fabian Aichner](../segments/2026-05-21-the-system-celebra-cedric-record-taker-debut-fabian-aichner-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 28/5/2026, apertura — [Champions Challenge: Santana, Ali, Cedric Alexander, Myers & Bronson vs Elijah, KC Navarro, Leon Slater, Eric Young & Kazarian](../matches/2026-05-28-champions-challenge-campeones-vs-retadores-kc-navarro-pinea-ali-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + origen.

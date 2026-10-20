@@ -70,6 +70,13 @@ tags: [indi-hartwell, ex-wwe-nxt-the-way, ex-dexter-lumis-marriage-kayfabe, tna-
 - **Indi como heel veterana** que puede llevar feud con Arianna.
   No es prospecto — es **pieza del roster que sirve al main story**.
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:20:19 — [Elayna Black, Ash by Elegance e Indi Hartwell](../segments/2026-05-07-elayna-black-ash-by-elegance-indi-hartwell-segmento-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento.

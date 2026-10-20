@@ -179,6 +179,13 @@ donde Myers falla un spear dirigido a él y golpea a Bronson por error;
 cae junto a Leon Slater. Ver
 [`../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md`](../matches/2026-04-16-the-system-vs-leon-slater-moose-handicap-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:40:30 — [Leon Slater & Moose vs Eddie Edwards & Cedric Alexander](../matches/2026-05-07-leon-slater-moose-vs-eddie-edwards-cedric-alexander-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).

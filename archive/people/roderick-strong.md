@@ -170,6 +170,13 @@ sub-grupo *workers de oficio* (donde encaja Roderick). Roderick
 pertenece al **núcleo old-school**; los Bucks, a la rama
 moderna-con-sustancia.
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 14/5/2026, 01:05:05 — [Cedric Alexander vs Leon Slater (c) — TNA X Division Championship, 2 de 3 caídas](../matches/2026-05-14-cedric-alexander-vs-leon-slater-x-division-2-de-3-caidas-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + fecha/lugar de nacimiento exactos** —

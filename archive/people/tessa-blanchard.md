@@ -147,6 +147,13 @@ archivo tiene sobre ella**:
   actual.
 - **Triple clase** para el match completo (3-way ante Peter Avalon).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 28/5/2026, 00:26:32 — [Tessa Blanchard vs Harley Hudson](../matches/2026-05-28-tessa-blanchard-vs-harley-hudson-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar exacto de nacimiento.

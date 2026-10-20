@@ -145,6 +145,14 @@ tras su regreso al ring el 13/9/2025. Piezas:
 [vs Paul London](../matches/2025-10-04-austin-aries-vs-paul-london-opera-cup-mlw-slaughterhouse.md) (ICC+) ·
 [ataque a Místico](../segments/2025-10-04-austin-aries-ataque-postmatch-mistico-mlw-slaughterhouse.md) (WE+).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 14/5/2026, 01:05:05 — [Cedric Alexander vs Leon Slater (c) — TNA X Division Championship, 2 de 3 caídas](../matches/2026-05-14-cedric-alexander-vs-leon-slater-x-division-2-de-3-caidas-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 28/5/2026, 00:52:18 — [Fabian Aichner vs Eddie Edwards](../matches/2026-05-28-fabian-aichner-vs-eddie-edwards-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Número total de reinados como X Division Champion.

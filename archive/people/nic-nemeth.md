@@ -153,6 +153,13 @@ Navarro sobre The System le permite a Ryan meterlo de nuevo al ring
 para el superkick + Danger Zone. Ver
 [`../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md`](../matches/2026-04-23-bear-bronson-vs-nic-nemeth-tna-impact.md).
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 7/5/2026, 00:27:36 — [The System (Brian Myers & Bear Bronson) (c) vs Nic Nemeth & KC Navarro — TNA World Tag Team Championship](../matches/2026-05-07-the-system-myers-bronson-vs-nic-nemeth-kc-navarro-tag-titles-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).

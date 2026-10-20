@@ -88,6 +88,15 @@ Del dossier `maclin-lesion-y-rebellion-build-2026` (closed):
    **Free agent a julio 2026** (*"I saw the writing on the
    wall"*), especulación AEW/ROH/WWE [Fightful; 411mania].
 
+
+### Sesión 2026-10-20 s01 — TNA iMPACT!, mayo–junio 2026
+
+- TNA iMPACT!, 21/5/2026, 00:51:47 — [Eric Young con Steve Maclin: "siempre tuve razón"](../segments/2026-05-21-eric-young-promo-steve-maclin-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 21/5/2026, 01:03:46 — [Mike Santana vs Steve Maclin: brawl backstage con seguridad](../segments/2026-05-21-mike-santana-steve-maclin-brawl-backstage-seguridad-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 21/5/2026, 01:05:50 — [Mike Santana (c) vs Steve Maclin — TNA World Championship (revancha de Sacrifice)](../matches/2026-05-21-mike-santana-vs-steve-maclin-tna-world-title-revancha-sacrifice-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
+
 ## Pendientes / huecos
 
 - [x] Lesión, clearance y release — resueltos (research
