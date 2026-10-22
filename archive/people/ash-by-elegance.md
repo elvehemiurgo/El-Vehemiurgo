@@ -123,6 +123,14 @@ El Vehemiurgo, al declarar a M by Elegance como **THE FUTURE in
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 25/6/2026, 00:18:46 — [Mara Sadè vs M by Elegance (tras el crash out de Ash)](../matches/2026-06-25-mara-sade-vs-m-by-elegance-crash-out-ash-tna-impact.md) — **ICC+**.
+- TNA Slammiversary, 28/6/2026, 00:50:03 — [Demon Bunny (Allie & Rosemary) vs The Elegance Brand (M & Heather by Elegance) (c) — TNA Knockouts World Tag Team Championship](../matches/2026-06-28-demon-bunny-allie-rosemary-vs-elegance-brand-ko-tag-titles-tna-slammiversary.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar de nacimiento.

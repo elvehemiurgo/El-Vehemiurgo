@@ -53,6 +53,16 @@ tags: [fabian-aichner, giovanni-vinci, tna-2026, the-system, primer-registro-ind
 3. **Vs Eddie Edwards (ICC+)**: *"una lucha cardíaca y muy dura [...]
    muy stiff"*.
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 00:40:55 — [The System (Eddie Edwards & Cedric Alexander) vs Fabian Aichner & Leon Slater](../matches/2026-06-11-the-system-edwards-alexander-vs-fabian-aichner-leon-slater-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 18/6/2026, 01:01:17 — [Fabian Aichner, promo y careo con Nic Nemeth](../segments/2026-06-18-fabian-aichner-promo-careo-nic-nemeth-tna-impact.md) — **WE**.
+- TNA iMPACT!, 25/6/2026, 01:06:23 — [Frankie Kazarian, Cedric Alexander & Mr. Elegance vs Fabian Aichner, KC Navarro & Leon Slater](../matches/2026-06-25-kazarian-cedric-alexander-mr-elegance-vs-aichner-kc-navarro-leon-slater-tna-impact.md) — **ICC**.
+- TNA Slammiversary, 28/6/2026, 00:07:56 — [Ultimate X por el TNA X Division Championship](../matches/2026-06-28-ultimate-x-x-division-title-cedric-alexander-retiene-tna-slammiversary.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria WWE con fechas; fecha exacta del debut en TNA.

@@ -60,6 +60,15 @@ propio roster de autoridad. Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 18/6/2026, 00:29:20 — ["The King's Speech" de Kazarian: Cedric Alexander, Leon Slater y la Ultimate X](../segments/2026-06-18-kazarian-kings-speech-cedric-leon-slater-ultimate-x-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 25/6/2026, 00:02:49 — [Broken Hardys, The Righteous, Myers y Bear Bronson: segmento del ladder](../segments/2026-06-25-broken-hardys-the-righteous-myers-bronson-segmento-ladder-tna-impact.md) — **WE**.
+- TNA Slammiversary, 28/6/2026, 01:05:46 — [Mustafa Ali (c) vs Rich Swann vs Uhaa Nation — TNA International Championship (open challenge)](../matches/2026-06-28-mustafa-ali-vs-rich-swann-vs-uhaa-nation-international-title-tna-slammiversary.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de debut como Daria Rae en TNA.

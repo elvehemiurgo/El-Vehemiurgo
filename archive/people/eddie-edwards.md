@@ -221,6 +221,17 @@ puntualmente. Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 00:40:55 — [The System (Eddie Edwards & Cedric Alexander) vs Fabian Aichner & Leon Slater](../matches/2026-06-11-the-system-edwards-alexander-vs-fabian-aichner-leon-slater-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 18/6/2026, 01:03:42 — [The System (Eddie Edwards, Brian Myers & Bear Bronson) vs Broken Hardys & Moose](../matches/2026-06-18-the-system-edwards-myers-bronson-vs-broken-hardys-moose-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 25/6/2026, 00:55:08 — [Moose, con JDC, promo contra Eddie Edwards](../segments/2026-06-25-moose-jdc-promo-contra-eddie-edwards-tna-impact.md) — **WE**.
+- TNA Slammiversary, 28/6/2026, 01:21:25 — [The System: video del reset y presentación especial de Eddie Edwards en Boston](../segments/2026-06-28-the-system-reset-promo-video-eddie-edwards-boston-tna-slammiversary.md) — **WE**.
+- TNA Slammiversary, 28/6/2026, 01:24:35 — [Moose vs Eddie Edwards — No Surrender Match](../matches/2026-06-28-moose-vs-eddie-edwards-no-surrender-match-tna-slammiversary.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).

@@ -141,6 +141,16 @@ Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, apertura — [Video de apertura con Eric Young](../segments/2026-06-11-eric-young-video-opener-tna-impact.md) — **WE**.
+- TNA iMPACT!, 11/6/2026, 00:02:50 — [Mike Santana (c) vs Eric Young — TNA World Championship](../matches/2026-06-11-mike-santana-vs-eric-young-tna-world-title-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 25/6/2026, 00:24:59 — [Eric Young, promo video sobre Ricky Sosa: tradición y jerarquía](../segments/2026-06-25-eric-young-promo-video-ricky-sosa-tradicion-jerarquia-tna-impact.md) — **WE+**.
+- Countdown to Slammiversary, 28/6/2026, 00:43:48 — [Ricky Sosa vs Eric Young](../matches/2026-06-28-ricky-sosa-vs-eric-young-tna-countdown-slammiversary.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).

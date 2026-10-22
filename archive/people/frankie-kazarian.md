@@ -305,6 +305,16 @@ sino por **character + storyline + identidad de brand**.
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 18/6/2026, 00:29:20 — ["The King's Speech" de Kazarian: Cedric Alexander, Leon Slater y la Ultimate X](../segments/2026-06-18-kazarian-kings-speech-cedric-leon-slater-ultimate-x-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 25/6/2026, 01:06:23 — [Frankie Kazarian, Cedric Alexander & Mr. Elegance vs Fabian Aichner, KC Navarro & Leon Slater](../matches/2026-06-25-kazarian-cedric-alexander-mr-elegance-vs-aichner-kc-navarro-leon-slater-tna-impact.md) — **ICC**.
+- TNA Slammiversary, 28/6/2026, 00:07:56 — [Ultimate X por el TNA X Division Championship](../matches/2026-06-28-ultimate-x-x-division-title-cedric-alexander-retiene-tna-slammiversary.md) — **ICC**.
+- TNA Slammiversary, 28/6/2026, 00:24:50 — [Kazarian presenta a Amazing Red: anuncio del Hall of Fame](../segments/2026-06-28-kazarian-promo-amazing-red-hall-of-fame-tna-slammiversary.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] **Christopher Daniels + Kaz Bad Influence run TNA** —

@@ -288,6 +288,16 @@ sigue golpeando duro y old-school. Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 00:40:55 — [The System (Eddie Edwards & Cedric Alexander) vs Fabian Aichner & Leon Slater](../matches/2026-06-11-the-system-edwards-alexander-vs-fabian-aichner-leon-slater-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 18/6/2026, 00:29:20 — ["The King's Speech" de Kazarian: Cedric Alexander, Leon Slater y la Ultimate X](../segments/2026-06-18-kazarian-kings-speech-cedric-leon-slater-ultimate-x-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 25/6/2026, 01:06:23 — [Frankie Kazarian, Cedric Alexander & Mr. Elegance vs Fabian Aichner, KC Navarro & Leon Slater](../matches/2026-06-25-kazarian-cedric-alexander-mr-elegance-vs-aichner-kc-navarro-leon-slater-tna-impact.md) — **ICC**.
+- TNA Slammiversary, 28/6/2026, 00:07:56 — [Ultimate X por el TNA X Division Championship](../matches/2026-06-28-ultimate-x-x-division-title-cedric-alexander-retiene-tna-slammiversary.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.

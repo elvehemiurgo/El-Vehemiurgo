@@ -70,6 +70,13 @@ si el Vehemiurgo la declara prospecto individual más adelante.
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 25/6/2026, 00:36:23 — [Xia Brookside vs Harley Hudson](../matches/2026-06-25-xia-brookside-vs-harley-hudson-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + origen + background.

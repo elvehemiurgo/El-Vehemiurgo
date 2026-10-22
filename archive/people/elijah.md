@@ -160,6 +160,14 @@ Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 18/6/2026, 00:39:36 — [AJ Francis, "Inside the Music" (video noventero)](../segments/2026-06-18-aj-francis-inside-the-music-video-elijah-tna-impact.md) — **WE**.
+- TNA Slammiversary, 28/6/2026, 00:37:09 — [Elijah vs AJ Francis](../matches/2026-06-28-elijah-vs-aj-francis-tna-slammiversary.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado.

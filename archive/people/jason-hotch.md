@@ -66,6 +66,15 @@ tags: [jason-hotch, ex-wwe-nxt-trick-williams-orange-cuatro, tna-2025-2026-apren
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 01:15:18 — [Mustafa Ali (c) vs KC Navarro — TNA International Championship](../matches/2026-06-11-mustafa-ali-vs-kc-navarro-international-title-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 18/6/2026, 00:14:11 — [KC Navarro, Mike Santana & Nic Nemeth vs Order 4 (Mustafa Ali & The Great Hands)](../matches/2026-06-18-kc-navarro-santana-nemeth-vs-order-4-ali-great-hands-tna-impact.md) — **ICC**.
+- TNA Slammiversary, 28/6/2026, 02:06:24 — [The Hardys vs The System (Myers & Bronson) (c) vs The Righteous vs The Great Hands — ladder match, TNA World Tag Team Championship](../matches/2026-06-28-hardys-vs-the-system-vs-the-righteous-vs-great-hands-ladder-tag-titles-tna-slammiversary.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.

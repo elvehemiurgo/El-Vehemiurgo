@@ -160,6 +160,24 @@ para el superkick + Danger Zone. Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 00:22:08 — [Nic Nemeth amaga con canjear el Call Your Shot](../segments/2026-06-11-nic-nemeth-casi-cash-in-call-your-shot-tna-impact.md) — **WE**.
+- TNA iMPACT!, 11/6/2026, 00:38:19 — [Los faces y Ryan Nemeth](../segments/2026-06-11-faces-ryan-nemeth-segmento-tna-impact.md) — **WE**.
+- TNA iMPACT!, 11/6/2026, 01:15:18 — [Mustafa Ali (c) vs KC Navarro — TNA International Championship](../matches/2026-06-11-mustafa-ali-vs-kc-navarro-international-title-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 18/6/2026, 00:14:11 — [KC Navarro, Mike Santana & Nic Nemeth vs Order 4 (Mustafa Ali & The Great Hands)](../matches/2026-06-18-kc-navarro-santana-nemeth-vs-order-4-ali-great-hands-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 18/6/2026, 01:01:17 — [Fabian Aichner, promo y careo con Nic Nemeth](../segments/2026-06-18-fabian-aichner-promo-careo-nic-nemeth-tna-impact.md) — **WE**.
+- TNA iMPACT!, 18/6/2026, 01:03:14 — [Santana, harto de la confusión, reta a Nic Nemeth](../segments/2026-06-18-mike-santana-reta-nic-nemeth-tna-impact.md) — **WE**.
+- TNA iMPACT!, 18/6/2026, 01:19:18 — [Segmento final: Santana llama a Nemeth](../segments/2026-06-18-mike-santana-llama-a-nic-nemeth-segmento-final-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 25/6/2026, apertura — [Promo video de apertura, go-home a Slammiversary](../segments/2026-06-25-promo-video-opener-go-home-slammiversary-tna-impact.md) — **WE**.
+- TNA iMPACT!, 25/6/2026, 00:47:17 — ["Final words": Santana y Nic Nemeth (World Title Summit)](../segments/2026-06-25-santana-nic-nemeth-final-words-world-title-summit-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 25/6/2026, 01:27:31 — [Nic Nemeth, segmento in-ring: heel turn antes de Slammiversary](../segments/2026-06-25-nic-nemeth-segmento-in-ring-heel-turn-send-off-tna-impact.md) — **WE**.
+- TNA Slammiversary, 28/6/2026, 02:32:57 — [Promo video: Mike Santana vs Nic Nemeth](../segments/2026-06-28-promo-video-santana-vs-nic-nemeth-tna-slammiversary.md) — **WE**.
+- TNA Slammiversary, 28/6/2026, 02:35:07 — [Nic Nemeth vs Mike Santana (c) — TNA World Championship](../matches/2026-06-28-nic-nemeth-vs-mike-santana-tna-world-title-tna-slammiversary.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).

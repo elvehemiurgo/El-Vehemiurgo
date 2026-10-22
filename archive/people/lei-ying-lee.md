@@ -176,6 +176,15 @@ pero cumple ejes parciales.
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 00:35:22 — [Brawl entre Léi Yǐng Lee y Xia Brookside](../segments/2026-06-11-lei-ying-lee-xia-brookside-brawl-tna-impact.md) — **WE**.
+- TNA iMPACT!, 25/6/2026, 00:36:23 — [Xia Brookside vs Harley Hudson](../matches/2026-06-25-xia-brookside-vs-harley-hudson-tna-impact.md) — **ICC**.
+- TNA Slammiversary, 28/6/2026, 01:46:14 — [Xia Brookside vs Léi Yǐng Lee (c) — TNA Knockouts World Championship](../matches/2026-06-28-xia-brookside-vs-lei-ying-lee-knockouts-world-title-tna-slammiversary.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] **Confirmar identidad Xia Li WWE** → Lei Ying Lee TNA.

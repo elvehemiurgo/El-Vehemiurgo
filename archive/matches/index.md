@@ -298,17 +298,30 @@ con cada cambio de estado.
 | 2026-06-29 | Chad Gable vs JD McDonagh | WWE / Monday Night Raw | WE | — | en-investigacion | 1 | [→](2026-06-29-chad-gable-vs-jd-mcdonagh-wwe-raw.md) |
 | 2026-06-29 | Ethan Page vs Rey Mysterio | WWE / Monday Night Raw | — | — | en-investigacion | 1 | [→](2026-06-29-ethan-page-vs-rey-mysterio-wwe-raw.md) |
 | 2026-06-28 | DCMJF vs faces (6 vs 6) | AEW x NJPW / Forbidden Door | — | — | stub | 1 | [→](2026-06-28-dcmjf-vs-faces-six-man-tag-aew-njpw-forbidden-door.md) |
+| 2026-06-28 | Demon Bunny (Allie & Rosemary) vs The Elegance Brand (M & Heather by Elegance) (c) — TNA Knockouts World Tag Team Championship | TNA Wrestling / Slammiversary | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-06-28-demon-bunny-allie-rosemary-vs-elegance-brand-ko-tag-titles-tna-slammiversary.md) |
 | 2026-06-28 | The Dogs vs Cope & Cage | AEW x NJPW / Forbidden Door | — | — | stub | 1 | [→](2026-06-28-dogs-vs-cope-cage-aew-njpw-forbidden-door.md) |
+| 2026-06-28 | Elayna Black vs Indi Hartwell vs Mara Sadè | TNA Wrestling / Countdown to Slammiversary | FS·WE | FC | en-investigacion | 1 | [→](2026-06-28-elayna-black-vs-indi-hartwell-vs-mara-sade-tna-countdown-slammiversary.md) |
+| 2026-06-28 | Elijah vs AJ Francis | TNA Wrestling / Slammiversary | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-28-elijah-vs-aj-francis-tna-slammiversary.md) |
+| 2026-06-28 | The Hardys vs The System (Myers & Bronson) (c) vs The Righteous vs The Great Hands — ladder match, TNA World Tag Team Championship | TNA Wrestling / Slammiversary | WE | — | en-investigacion | 1 | [→](2026-06-28-hardys-vs-the-system-vs-the-righteous-vs-great-hands-ladder-tag-titles-tna-slammiversary.md) |
 | 2026-06-28 | Kendal Grey vs Lola Vice | WWE / NXT Great American Bash 2026 | WE | — | en-investigacion | 1 | [→](2026-06-28-kendal-grey-vs-lola-vice-nxt-gab.md) |
+| 2026-06-28 | Moose vs Eddie Edwards — No Surrender Match | TNA Wrestling / Slammiversary | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-06-28-moose-vs-eddie-edwards-no-surrender-match-tna-slammiversary.md) |
+| 2026-06-28 | Mustafa Ali (c) vs Rich Swann vs Uhaa Nation — TNA International Championship (open challenge) | TNA Wrestling / Slammiversary | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-28-mustafa-ali-vs-rich-swann-vs-uhaa-nation-international-title-tna-slammiversary.md) |
+| 2026-06-28 | Nic Nemeth vs Mike Santana (c) — TNA World Championship | TNA Wrestling / Slammiversary | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-06-28-nic-nemeth-vs-mike-santana-tna-world-title-tna-slammiversary.md) |
 | 2026-06-28 | Kenny Omega vs Zack Sabre Jr | AEW x NJPW / Forbidden Door | FS·WE | FC | stub | 1 | [→](2026-06-28-omega-vs-zsj-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | PAC vs Umino | AEW x NJPW / Forbidden Door | PW·FS·WE | ICC | stub | 1 | [→](2026-06-28-pac-vs-umino-aew-njpw-forbidden-door.md) |
+| 2026-06-28 | Ricky Sosa vs Eric Young | TNA Wrestling / Countdown to Slammiversary | — | — | en-investigacion | 1 | [→](2026-06-28-ricky-sosa-vs-eric-young-tna-countdown-slammiversary.md) |
 | 2026-06-28 | Saquon Shugars vs Dion Lennox | WWE / NXT Great American Bash 2026 | — | — | en-investigacion | 1 | [→](2026-06-28-saquon-shugars-vs-dion-lennox-nxt-gab.md) |
 | 2026-06-28 | Thekla vs Starlight Kid | AEW x NJPW / Forbidden Door | PW·FS·WE | ICC | stub | 1 | [→](2026-06-28-thekla-vs-starlight-kid-aew-njpw-forbidden-door.md) |
+| 2026-06-28 | Ultimate X por el TNA X Division Championship | TNA Wrestling / Slammiversary | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-28-ultimate-x-x-division-title-cedric-alexander-retiene-tna-slammiversary.md) |
 | 2026-06-28 | Wren Sinclair vs Arianna Grace | WWE / NXT Great American Bash 2026 | WE | — | en-investigacion | 1 | [→](2026-06-28-wren-sinclair-vs-arianna-grace-nxt-gab.md) |
+| 2026-06-28 | Xia Brookside vs Léi Yǐng Lee (c) — TNA Knockouts World Championship | TNA Wrestling / Slammiversary | FS·WE | FC | en-investigacion | 1 | [→](2026-06-28-xia-brookside-vs-lei-ying-lee-knockouts-world-title-tna-slammiversary.md) |
 | 2026-06-27 | Cody Rhodes vs Gunther vs Sami Zayn | WWE / Night of Champions | FS·WE | FC | en-investigacion | 1 | [→](2026-06-27-cody-rhodes-vs-gunther-vs-sami-zayn-wwe-night-of-champions.md) |
 | 2026-06-27 | La Hiedra vs Lola Vice | AAA / WWE NXT (crossover) / Lucha Libre AAA (AAA on FOX, emisión semanal 2 de la grabación del 20/6) | FS·WE | FC | en-investigacion | 1 | [→](2026-06-27-la-hiedra-vs-lola-vice-aaa-worldwide.md) |
 | 2026-06-27 | Trick Williams vs Ricky Saints | WWE / Night of Champions | FS·WE | FC | en-investigacion | 1 | [→](2026-06-27-trick-williams-vs-ricky-saints-wwe-night-of-champions.md) |
 | 2026-06-26 | Rey Fénix vs Nathan Frazer | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-06-26-rey-fenix-vs-nathan-frazer-wwe-smackdown.md) |
+| 2026-06-25 | Frankie Kazarian, Cedric Alexander & Mr. Elegance vs Fabian Aichner, KC Navarro & Leon Slater | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-25-kazarian-cedric-alexander-mr-elegance-vs-aichner-kc-navarro-leon-slater-tna-impact.md) |
+| 2026-06-25 | Mara Sadè vs M by Elegance (tras el crash out de Ash) | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-06-25-mara-sade-vs-m-by-elegance-crash-out-ash-tna-impact.md) |
+| 2026-06-25 | Xia Brookside vs Harley Hudson | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-25-xia-brookside-vs-harley-hudson-tna-impact.md) |
 | 2026-06-24 | Will Ospreay vs Fantasmo | AEW / Dynamite | FS·WE | FC | stub | 1 | [→](2026-06-24-ospreay-vs-fantasmo-aew-dynamite.md) |
 | 2026-06-22 | Ethan Page vs Dragon Lee | WWE / Monday Night Raw | FS·WE | FC | en-investigacion | 1 | [→](2026-06-22-ethan-page-vs-dragon-lee-wwe-raw.md) |
 | 2026-06-20 | Maya World vs Athena | AEW / Collision | FS | — | stub | 1 | [→](2026-06-20-maya-world-vs-athena-aew-collision.md) |
@@ -316,13 +329,19 @@ con cada cambio de estado.
 | 2026-06-20 | Zack Sabre Jr vs Adam Priest | AEW / Collision | FS | — | stub | 1 | [→](2026-06-20-zsj-vs-adam-priest-aew-collision.md) |
 | 2026-06-19 | Cody Rhodes vs Gunther — árbitro especial Sami Zayn | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-19-cody-rhodes-vs-gunther-arbitro-sami-zayn-wwe-smackdown.md) |
 | 2026-06-19 | Ricky Saints vs Carmelo Hayes | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-06-19-ricky-saints-vs-carmelo-hayes-3-wwe-smackdown.md) |
+| 2026-06-18 | KC Navarro, Mike Santana & Nic Nemeth vs Order 4 (Mustafa Ali & The Great Hands) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-18-kc-navarro-santana-nemeth-vs-order-4-ali-great-hands-tna-impact.md) |
+| 2026-06-18 | The System (Eddie Edwards, Brian Myers & Bear Bronson) vs Broken Hardys & Moose | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-06-18-the-system-edwards-myers-bronson-vs-broken-hardys-moose-tna-impact.md) |
 | 2026-06-15 | Je'Von Evans vs Austin Theory | WWE / Monday Night Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-15-je-von-evans-vs-austin-theory-wwe-raw.md) |
 | 2026-06-15 | Oba Femi vs Dominik Mysterio | WWE / Monday Night Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-15-oba-femi-vs-dominik-mysterio-wwe-raw.md) |
 | 2026-06-13 | El Fiscal, Octagon Jr. y La Parka vs Los Vipers | AAA / AAA Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-13-los-vipers-vs-fiscal-octagon-parka-aaa-worldwide.md) |
 | 2026-06-12 | Jey Uso vs LA Knight vs Finn Bálor vs Royce Keys | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-06-12-jey-uso-vs-la-knight-vs-finn-balor-vs-royce-keys-wwe-smackdown.md) |
 | 2026-06-12 | Rey Fénix vs Axiom | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-06-12-rey-fenix-vs-axiom-wwe-smackdown.md) |
 | 2026-06-12 | Scream Mode (Brie Bella & Paige) vs Fatal Influence (Fallon Henley & Lainey Reid) | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-06-12-scream-mode-vs-fatal-influence-wwe-smackdown.md) |
+| 2026-06-11 | Allie, Rosemary & Mara Sadè (Undead Realm) vs The Elegance Brand | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-11-allie-rosemary-mara-sade-vs-the-elegance-brand-tna-impact.md) |
+| 2026-06-11 | Mike Santana (c) vs Eric Young — TNA World Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-06-11-mike-santana-vs-eric-young-tna-world-title-tna-impact.md) |
+| 2026-06-11 | Mustafa Ali (c) vs KC Navarro — TNA International Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-06-11-mustafa-ali-vs-kc-navarro-international-title-tna-impact.md) |
 | 2026-06-11 | Myron Reed vs Kevin Knight | AEW / Collision Summer Blockbuster | PW·FS·WE | ICC | stub | 1 | [→](2026-06-11-myron-reed-vs-kevin-knight-aew-collision-summer-blockbuster.md) |
+| 2026-06-11 | The System (Eddie Edwards & Cedric Alexander) vs Fabian Aichner & Leon Slater | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-06-11-the-system-edwards-alexander-vs-fabian-aichner-leon-slater-tna-impact.md) |
 | 2026-06-09 | Kelani Jordan vs Kendal Grey | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-09-kelani-jordan-vs-kendal-grey-wwe-nxt.md) |
 | 2026-06-09 | Tatum Paxley vs Zaria | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-06-09-tatum-paxley-vs-zaria-wwe-nxt.md) |
 | 2026-06-08 | Penta vs Rey Mysterio | WWE / Monday Night Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-08-penta-vs-rey-mysterio-wwe-raw.md) |

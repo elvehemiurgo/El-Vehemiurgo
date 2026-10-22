@@ -104,6 +104,13 @@ outlets como candidato a Match of the Year en TNA. Ver
 y
 [`../matches/2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md`](../matches/2026-04-23-mike-santana-vs-rich-swann-tna-world-title-tna-impact.md).
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA Slammiversary, 28/6/2026, 01:05:46 — [Mustafa Ali (c) vs Rich Swann vs Uhaa Nation — TNA International Championship (open challenge)](../matches/2026-06-28-mustafa-ali-vs-rich-swann-vs-uhaa-nation-international-title-tna-slammiversary.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.

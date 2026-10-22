@@ -272,6 +272,16 @@ momento fuerte del match corto. Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 00:25:49 — [Mustafa Ali, promo backstage contra KC Navarro](../segments/2026-06-11-mustafa-ali-backstage-kc-navarro-tna-impact.md) — **WE**.
+- TNA iMPACT!, 11/6/2026, 01:15:18 — [Mustafa Ali (c) vs KC Navarro — TNA International Championship](../matches/2026-06-11-mustafa-ali-vs-kc-navarro-international-title-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 18/6/2026, 00:14:11 — [KC Navarro, Mike Santana & Nic Nemeth vs Order 4 (Mustafa Ali & The Great Hands)](../matches/2026-06-18-kc-navarro-santana-nemeth-vs-order-4-ali-great-hands-tna-impact.md) — **ICC**.
+- TNA Slammiversary, 28/6/2026, 01:05:46 — [Mustafa Ali (c) vs Rich Swann vs Uhaa Nation — TNA International Championship (open challenge)](../matches/2026-06-28-mustafa-ali-vs-rich-swann-vs-uhaa-nation-international-title-tna-slammiversary.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo + nacimiento.

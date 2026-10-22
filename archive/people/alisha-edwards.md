@@ -71,6 +71,15 @@ Vehemiurgo no abandona la objeción de reparto que le fijó en s45 —la
 repite explícitamente como problema en curso, no como queja nueva. Ver
 [`../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md`](../segments/2026-04-23-the-system-promo-parking-lot-tna-impact.md).
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 18/6/2026, 01:03:42 — [The System (Eddie Edwards, Brian Myers & Bear Bronson) vs Broken Hardys & Moose](../matches/2026-06-18-the-system-edwards-myers-bronson-vs-broken-hardys-moose-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 25/6/2026, 00:55:08 — [Moose, con JDC, promo contra Eddie Edwards](../segments/2026-06-25-moose-jdc-promo-contra-eddie-edwards-tna-impact.md) — **WE**.
+- TNA Slammiversary, 28/6/2026, 01:24:35 — [Moose vs Eddie Edwards — No Surrender Match](../matches/2026-06-28-moose-vs-eddie-edwards-no-surrender-match-tna-slammiversary.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

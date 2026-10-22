@@ -112,6 +112,13 @@ hipotética, hay una figura con más credibilidad de kayfabe ya
 disponible en el propio roster de autoridad. Ver
 [`../people/daria-rae.md`](../people/daria-rae.md).
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 00:58:11 — [The Righteous, promo: van por los títulos de parejas](../segments/2026-06-11-the-righteous-promo-santino-ladder-titulos-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Confirmar título exacto en TNA (Director of Authority).

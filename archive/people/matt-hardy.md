@@ -156,6 +156,16 @@ aparición del gimmick "Broken" en esta continuidad.** Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 00:58:11 — [The Righteous, promo: van por los títulos de parejas](../segments/2026-06-11-the-righteous-promo-santino-ladder-titulos-tna-impact.md) — **WE**.
+- TNA iMPACT!, 18/6/2026, 01:03:42 — [The System (Eddie Edwards, Brian Myers & Bear Bronson) vs Broken Hardys & Moose](../matches/2026-06-18-the-system-edwards-myers-bronson-vs-broken-hardys-moose-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 25/6/2026, 00:02:49 — [Broken Hardys, The Righteous, Myers y Bear Bronson: segmento del ladder](../segments/2026-06-25-broken-hardys-the-righteous-myers-bronson-segmento-ladder-tna-impact.md) — **WE**.
+- TNA Slammiversary, 28/6/2026, 02:06:24 — [The Hardys vs The System (Myers & Bronson) (c) vs The Righteous vs The Great Hands — ladder match, TNA World Tag Team Championship](../matches/2026-06-28-hardys-vs-the-system-vs-the-righteous-vs-great-hands-ladder-tag-titles-tna-slammiversary.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Títulos y reinados con fechas (WWE, TNA, ROH, AEW).

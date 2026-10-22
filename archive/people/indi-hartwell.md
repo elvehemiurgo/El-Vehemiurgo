@@ -77,6 +77,13 @@ tags: [indi-hartwell, ex-wwe-nxt-the-way, ex-dexter-lumis-marriage-kayfabe, tna-
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- Countdown to Slammiversary, 28/6/2026, 00:14:02 — [Elayna Black vs Indi Hartwell vs Mara Sadè](../matches/2026-06-28-elayna-black-vs-indi-hartwell-vs-mara-sade-tna-countdown-slammiversary.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento.

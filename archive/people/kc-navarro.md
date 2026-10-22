@@ -120,6 +120,18 @@ registrados en el segmento del 16/4. Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 00:25:49 — [Mustafa Ali, promo backstage contra KC Navarro](../segments/2026-06-11-mustafa-ali-backstage-kc-navarro-tna-impact.md) — **WE**.
+- TNA iMPACT!, 11/6/2026, 00:38:19 — [Los faces y Ryan Nemeth](../segments/2026-06-11-faces-ryan-nemeth-segmento-tna-impact.md) — **WE**.
+- TNA iMPACT!, 11/6/2026, 01:15:18 — [Mustafa Ali (c) vs KC Navarro — TNA International Championship](../matches/2026-06-11-mustafa-ali-vs-kc-navarro-international-title-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 18/6/2026, 00:14:11 — [KC Navarro, Mike Santana & Nic Nemeth vs Order 4 (Mustafa Ali & The Great Hands)](../matches/2026-06-18-kc-navarro-santana-nemeth-vs-order-4-ali-great-hands-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 25/6/2026, 01:06:23 — [Frankie Kazarian, Cedric Alexander & Mr. Elegance vs Fabian Aichner, KC Navarro & Leon Slater](../matches/2026-06-25-kazarian-cedric-alexander-mr-elegance-vs-aichner-kc-navarro-leon-slater-tna-impact.md) — **ICC**.
+- TNA Slammiversary, 28/6/2026, 00:07:56 — [Ultimate X por el TNA X Division Championship](../matches/2026-06-28-ultimate-x-x-division-title-cedric-alexander-retiene-tna-slammiversary.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Naturaleza de la lesión que lo sacó hasta Rebellion 2026.

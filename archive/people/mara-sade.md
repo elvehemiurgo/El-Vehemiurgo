@@ -74,6 +74,15 @@ con la doctrina disparada esta sesión (ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-22 s01 — TNA iMPACT! junio y Slammiversary 2026
+
+- TNA iMPACT!, 11/6/2026, 01:02:24 — [Allie, Rosemary & Mara Sadè (Undead Realm) vs The Elegance Brand](../matches/2026-06-11-allie-rosemary-mara-sade-vs-the-elegance-brand-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 25/6/2026, 00:18:46 — [Mara Sadè vs M by Elegance (tras el crash out de Ash)](../matches/2026-06-25-mara-sade-vs-m-by-elegance-crash-out-ash-tna-impact.md) — **ICC+**.
+- Countdown to Slammiversary, 28/6/2026, 00:14:02 — [Elayna Black vs Indi Hartwell vs Mara Sadè](../matches/2026-06-28-elayna-black-vs-indi-hartwell-vs-mara-sade-tna-countdown-slammiversary.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, background pre-TNA.

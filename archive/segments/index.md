@@ -342,10 +342,23 @@ cada alta y con cada cambio de estado.
 | 2026-06-29 | Brock Lesnar regresa e interrumpe a Oba Femi — reto a Hell in a Cell | WWE / Monday Night Raw | in-ring confrontation / desafío | WE | — | en-investigacion | 1 | [→](2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md) |
 | 2026-06-28 | Promo video: DCMJF vs faces (6 vs 6) | AEW x NJPW / Forbidden Door | promo video (hype package) | — | — | stub | 1 | [→](2026-06-28-dcmjf-vs-faces-promo-video-aew-njpw-forbidden-door.md) |
 | 2026-06-28 | Promo video: The Dogs vs Cope & Cage | AEW x NJPW / Forbidden Door | promo video (hype package) | WE | — | stub | 1 | [→](2026-06-28-dogs-vs-cope-cage-promo-video-aew-njpw-forbidden-door.md) |
+| 2026-06-28 | Homenaje a Konnan: anuncio del Hall of Fame | TNA Wrestling / Slammiversary | homenaje / video | WE | — | en-investigacion | 1 | [→](2026-06-28-homenaje-konnan-hall-of-fame-santana-tna-slammiversary.md) |
 | 2026-06-28 | Regreso de Jay White | AEW x NJPW / Forbidden Door | return moment | — | — | stub | 1 | [→](2026-06-28-jay-white-regreso-aew-njpw-forbidden-door.md) |
+| 2026-06-28 | Kazarian presenta a Amazing Red: anuncio del Hall of Fame | TNA Wrestling / Slammiversary | promo post-match | WE | — | en-investigacion | 1 | [→](2026-06-28-kazarian-promo-amazing-red-hall-of-fame-tna-slammiversary.md) |
+| 2026-06-28 | Mike Santana, promo la noche de Slammiversary | TNA Wrestling / Slammiversary | promo | WE | — | en-investigacion | 1 | [→](2026-06-28-mike-santana-promo-slammiversary-tna-slammiversary.md) |
+| 2026-06-28 | Promo video: Mike Santana vs Nic Nemeth | TNA Wrestling / Slammiversary | promo video | WE | — | en-investigacion | 1 | [→](2026-06-28-promo-video-santana-vs-nic-nemeth-tna-slammiversary.md) |
+| 2026-06-28 | Ten bell salute para Joe Doering | TNA Wrestling / Slammiversary | homenaje | WE | — | en-investigacion | 1 | [→](2026-06-28-ten-bell-salute-joe-doering-tna-slammiversary.md) |
+| 2026-06-28 | The System: video del reset y presentación especial de Eddie Edwards en Boston | TNA Wrestling / Slammiversary | promo video + entrada | WE | — | en-investigacion | 1 | [→](2026-06-28-the-system-reset-promo-video-eddie-edwards-boston-tna-slammiversary.md) |
 | 2026-06-28 | Promo video: Thekla vs Starlight Kid | AEW x NJPW / Forbidden Door | promo video (hype package) | WE | — | stub | 1 | [→](2026-06-28-thekla-vs-starlight-kid-promo-video-aew-njpw-forbidden-door.md) |
+| 2026-06-28 | Video package de Slammiversary | TNA Wrestling / Slammiversary | video package | WE+ | — | en-investigacion | 1 | [→](2026-06-28-video-package-slammiversary-tna-slammiversary.md) |
 | 2026-06-26 | LA Knight rechaza la alianza de Solo Sikoa | WWE / SmackDown | in-ring confrontation | WE | — | en-investigacion | 1 | [→](2026-06-26-la-knight-rechaza-solo-sikoa-wwe-smackdown.md) |
 | 2026-06-26 | Trick Williams & Lil Yachty vs Ricky Saints — apertura del show | WWE / SmackDown | in-ring promo / cheap shots | WE | — | en-investigacion | 1 | [→](2026-06-26-trick-williams-lil-yachty-ricky-saints-wwe-smackdown.md) |
+| 2026-06-25 | Broken Hardys, The Righteous, Myers y Bear Bronson: segmento del ladder | TNA Wrestling / iMPACT! | segmento in-ring + brawl | WE | — | en-investigacion | 1 | [→](2026-06-25-broken-hardys-the-righteous-myers-bronson-segmento-ladder-tna-impact.md) |
+| 2026-06-25 | Eric Young, promo video sobre Ricky Sosa: tradición y jerarquía | TNA Wrestling / iMPACT! | promo video | WE+ | — | en-investigacion | 1 | [→](2026-06-25-eric-young-promo-video-ricky-sosa-tradicion-jerarquia-tna-impact.md) |
+| 2026-06-25 | Moose, con JDC, promo contra Eddie Edwards | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-06-25-moose-jdc-promo-contra-eddie-edwards-tna-impact.md) |
+| 2026-06-25 | Nic Nemeth, segmento in-ring: heel turn antes de Slammiversary | TNA Wrestling / iMPACT! | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-06-25-nic-nemeth-segmento-in-ring-heel-turn-send-off-tna-impact.md) |
+| 2026-06-25 | Promo video de apertura, go-home a Slammiversary | TNA Wrestling / iMPACT! | promo video | WE | — | en-investigacion | 1 | [→](2026-06-25-promo-video-opener-go-home-slammiversary-tna-impact.md) |
+| 2026-06-25 | "Final words": Santana y Nic Nemeth (World Title Summit) | TNA Wrestling / iMPACT! | segmento tipo entrevista | WE+ | — | en-investigacion | 1 | [→](2026-06-25-santana-nic-nemeth-final-words-world-title-summit-tna-impact.md) |
 | 2026-06-24 | Backstage — Cope & Cage vs The Dogs | AEW / Dynamite | promo (backstage) | — | — | stub | 1 | [→](2026-06-24-cope-cage-vs-dogs-backstage-aew-dynamite.md) |
 | 2026-06-24 | Promo video — MJF vs Mark Briscoe, rivalidad retomada | AEW / Dynamite | video package (promo) | — | — | stub | 1 | [→](2026-06-24-mjf-vs-briscoe-promo-video-aew-dynamite.md) |
 | 2026-06-24 | Tensión MJF/Andrade — cierre de show | AEW / Dynamite | promo (cierre de show) | — | — | stub | 1 | [→](2026-06-24-tension-mjf-andrade-darby-mejor-babyface-aew-dynamite.md) |
@@ -353,6 +366,13 @@ cada alta y con cada cambio de estado.
 | 2026-06-20 | Promo de Dominik Mysterio | AAA / AAA on FOX #23 | promo backstage | WE | — | en-investigacion | 1 | [→](2026-06-20-dominik-mysterio-promo-aaa-on-fox.md) |
 | 2026-06-20 | Promo video: Fénix vs Laredo Kid | AAA / AAA on FOX #23 | video package | WE | — | en-investigacion | 1 | [→](2026-06-20-promo-video-fenix-vs-laredo-aaa-on-fox.md) |
 | 2026-06-20 | Promo histórica — The Dogs | AEW / Collision | promo | WE | — | stub | 1 | [→](2026-06-20-the-dogs-promo-historica-aew-collision.md) |
+| 2026-06-18 | AJ Francis, "Inside the Music" (video noventero) | TNA Wrestling / iMPACT! | video package | WE | — | en-investigacion | 1 | [→](2026-06-18-aj-francis-inside-the-music-video-elijah-tna-impact.md) |
+| 2026-06-18 | Fabian Aichner, promo y careo con Nic Nemeth | TNA Wrestling / iMPACT! | promo + careo | WE | — | en-investigacion | 1 | [→](2026-06-18-fabian-aichner-promo-careo-nic-nemeth-tna-impact.md) |
+| 2026-06-18 | "The King's Speech" de Kazarian: Cedric Alexander, Leon Slater y la Ultimate X | TNA Wrestling / iMPACT! | segmento in-ring | — | — | en-investigacion | 1 | [→](2026-06-18-kazarian-kings-speech-cedric-leon-slater-ultimate-x-tna-impact.md) |
+| 2026-06-18 | Segmento final: Santana llama a Nemeth | TNA Wrestling / iMPACT! | segmento in-ring de cierre | WE+ | — | en-investigacion | 1 | [→](2026-06-18-mike-santana-llama-a-nic-nemeth-segmento-final-tna-impact.md) |
+| 2026-06-18 | Mike Santana, promo | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-06-18-mike-santana-promo-tna-impact.md) |
+| 2026-06-18 | Santana, harto de la confusión, reta a Nic Nemeth | TNA Wrestling / iMPACT! | segmento | WE | — | en-investigacion | 1 | [→](2026-06-18-mike-santana-reta-nic-nemeth-tna-impact.md) |
+| 2026-06-18 | Promo video de anuncio (Lockdown, según el dictado) | TNA Wrestling / iMPACT! | promo video | WE+ | — | en-investigacion | 1 | [→](2026-06-18-promo-video-anuncio-lockdown-tna-impact.md) |
 | 2026-06-17 | Apertura — DCMJF (Don Callis Family + MJF, todos los heels) | AEW / Dynamite | promo (apertura de show) | WE | — | stub | 1 | [→](2026-06-17-dcmjf-apertura-heels-aew-dynamite.md) |
 | 2026-06-17 | Continuación del booking — ZSJ vs Kenny Omega (build a AEW Forbidden Door) | AEW / Dynamite | angle / build | — | — | stub | 1 | [→](2026-06-17-zsj-vs-omega-forbidden-door-build-aew-dynamite.md) |
 | 2026-06-15 | El Bloodline ataca a Eric André | WWE / Monday Night Raw | segmento de apertura + ataque a celebridad | WE | — | en-investigacion | 1 | [→](2026-06-15-bloodline-ataca-eric-andre-wwe-raw.md) |
@@ -363,6 +383,12 @@ cada alta y con cada cambio de estado.
 | 2026-06-12 | LA Knight — promo con Cathy Kelley antes del King of the Ring | WWE / SmackDown | entrevista backstage | WE | — | en-investigacion | 1 | [→](2026-06-12-la-knight-promo-cathy-kelley-wwe-smackdown.md) |
 | 2026-06-12 | Trick Williams — promo, y careo con Carmelo Hayes y Ricky Saints | WWE / SmackDown | in-ring promo + brawl | WE | — | en-investigacion | 1 | [→](2026-06-12-trick-williams-promo-carmelo-hayes-ricky-saints-wwe-smackdown.md) |
 | 2026-06-11 | Promo — Bang Bang Gang | AEW / Collision Summer Blockbuster | promo | — | — | stub | 1 | [→](2026-06-11-bang-bang-gang-promo-aew-collision-summer-blockbuster.md) |
+| 2026-06-11 | Video de apertura con Eric Young | TNA Wrestling / iMPACT! | promo video | WE | — | en-investigacion | 1 | [→](2026-06-11-eric-young-video-opener-tna-impact.md) |
+| 2026-06-11 | Los faces y Ryan Nemeth | TNA Wrestling / iMPACT! | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-06-11-faces-ryan-nemeth-segmento-tna-impact.md) |
+| 2026-06-11 | Brawl entre Léi Yǐng Lee y Xia Brookside | TNA Wrestling / iMPACT! | brawl | WE | — | en-investigacion | 1 | [→](2026-06-11-lei-ying-lee-xia-brookside-brawl-tna-impact.md) |
+| 2026-06-11 | Mustafa Ali, promo backstage contra KC Navarro | TNA Wrestling / iMPACT! | promo backstage | WE | — | en-investigacion | 1 | [→](2026-06-11-mustafa-ali-backstage-kc-navarro-tna-impact.md) |
+| 2026-06-11 | Nic Nemeth amaga con canjear el Call Your Shot | TNA Wrestling / iMPACT! | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-06-11-nic-nemeth-casi-cash-in-call-your-shot-tna-impact.md) |
+| 2026-06-11 | The Righteous, promo: van por los títulos de parejas | TNA Wrestling / iMPACT! | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-06-11-the-righteous-promo-santino-ladder-titulos-tna-impact.md) |
 | 2026-06-11 | Promo — Thekla | AEW / Collision Summer Blockbuster | promo | — | — | stub | 1 | [→](2026-06-11-thekla-promo-aew-collision-summer-blockbuster.md) |
 | 2026-06-10 | Apertura — Ciampa vs Jericho, entrevista con Tony Schiavone | AEW / Dynamite Summer Blockbuster | promo (entrevista de apertura) | — | — | stub | 1 | [→](2026-06-10-ciampa-jericho-schiavone-aew-dynamite-summer-blockbuster.md) |
 | 2026-06-10 | Kevin Knight & Don Callis — regreso de Darby Allin | AEW / Dynamite Summer Blockbuster | promo | WE | — | stub | 1 | [→](2026-06-10-kevin-knight-don-callis-regreso-darby-aew-dynamite-summer-blockbuster.md) |
