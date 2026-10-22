@@ -77,7 +77,7 @@ tags: [tna-2026, impact, kazarian, elijah, guitar-strap-match, comedia, correcci
 
 ## Piezas relacionadas
 
-- [`../people/kazarian.md`](../people/kazarian.md)
+- [`../people/frankie-kazarian.md`](../people/frankie-kazarian.md)
 - [`../people/elijah.md`](../people/elijah.md)
 - [`./2026-04-30-kazarian-promo-guitar-strap-match-tna-impact.md`](./2026-04-30-kazarian-promo-guitar-strap-match-tna-impact.md)
 

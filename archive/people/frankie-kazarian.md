@@ -227,6 +227,39 @@ puro veterano-as-anchor**.
 (`kazarian.md`, s47). El registro de nombres fija slug único
 `frankie-kazarian`; fusión propuesta en el notebook s63.
 
+### Fusión 2026-10-22 — bloques de la ficha duplicada `kazarian.md`
+
+> La ficha `kazarian.md` (abierta en s47/s48, 2026-08-01, "primer
+> registro individual") registraba al mismo talent. Se fusiona aquí sin
+> reescribir: sus bloques de sesión van tal cual abajo.
+
+### Sesión 2026-08-01 s47 — "Un dios del entretenimiento, siempre efectivo cuando lo dejan cocinar"
+
+**Cita verbatim**:
+
+> *"Kaz burlandose de Elias con este segmento funcionó genial,
+> Kazarian es un dios del enterteinment, siempre efectivo cuando lo
+> dejan cocinar, no soy muy fan del gimmick de los conciertos, pero
+> esto estuvo cool"*
+>
+> — El Vehemiurgo, 2026-08-01 s47 (verbatim)
+
+**Lectura sintética**: **WE**. Elogio de oficio de primer orden, con
+la reserva característica del Vehemiurgo separando el mérito de
+ejecución del gusto personal por el gimmick de fondo.
+
+### Sesión 2026-08-01 s48 — Promo rumbo al Guitar Strap Match: "muy buena promo"
+
+**Cita verbatim**:
+
+> *"Kazarian backstage hablando sobre su guitar strap match que tendrá
+> con Elias, muy buena promo, se merece una WE class"*
+>
+> — El Vehemiurgo, 2026-08-01 s48 (verbatim)
+
+**Lectura sintética**: **WE**. Repasa su currículum histórico de X
+Division con Gia Miller antes de caer esa misma noche ante Elijah.
+
 ## Lectura consolidada del Vehemiurgo
 
 **Kazarian es el ejemplo paradigmático del veterano-as-anchor
@@ -283,6 +316,9 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
       pendiente apertura individual.
 
 ## Piezas del Vehemiurgo donde aparece
+
+- [`../segments/2026-04-23-kazarian-burla-elijah-guitar-strap-tna-impact.md`](../segments/2026-04-23-kazarian-burla-elijah-guitar-strap-tna-impact.md)
+- [`../segments/2026-04-30-kazarian-promo-guitar-strap-match-tna-impact.md`](../segments/2026-04-30-kazarian-promo-guitar-strap-match-tna-impact.md)
 
 ### Segmentos centerpieces
 - [`../segments/2025-11-13-nxt-invasion-kazarian-cash-in-tna-impact.md`](../segments/2025-11-13-nxt-invasion-kazarian-cash-in-tna-impact.md)

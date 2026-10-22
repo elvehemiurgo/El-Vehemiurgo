@@ -70,7 +70,7 @@ tags: [tna-2026, impact, kazarian, elijah, guitar-strap-match, x-division-histor
 
 ## Piezas relacionadas
 
-- [`../people/kazarian.md`](../people/kazarian.md)
+- [`../people/frankie-kazarian.md`](../people/frankie-kazarian.md)
 - [`../people/elijah.md`](../people/elijah.md)
 - [`../segments/2026-04-23-kazarian-burla-elijah-guitar-strap-tna-impact.md`](../segments/2026-04-23-kazarian-burla-elijah-guitar-strap-tna-impact.md)
 
