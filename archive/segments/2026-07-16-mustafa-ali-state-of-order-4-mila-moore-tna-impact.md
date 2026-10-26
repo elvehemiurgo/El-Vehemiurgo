@@ -19,10 +19,11 @@ gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Ali tiene un muy buen papel, estuvo un rato sin storyline grande pero esto con Jason Hotch es cool; segunda vez que casi se rompe Order 4; Ali busca dominar y trascender de una vez; recoger a Mila Moore post-Tessa estuvo bien, tiene potencial real; Ali molestando a Tasha, buen heel tipo Vince; un rol de politiqueo muy divertido con luchas excelentes"
-clases_vehemiurgo: []
+clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
 ultima_actualizacion: 2026-10-26
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-26 s02 (declaración de clase posterior)"
   - "Volcado Vehemiurgo 2026-10-26 s01 (visión directa — TNA iMPACT!, 16/7/2026, timestamp 00:29:11)"
   - "WebSearch 2026-10-26 vía sub-agente (KB Wrestling Reviews, Fightful, PWTorch, Wrestling Inc, Solowrestling, prowrestling.net, TNAwrestling.com) — resultados; taping 1-2/7/2026 en Albany"
 tags: [tna-impact-2026, mustafa-ali, order-4, mila-moore, tasha-steelz, jason-hotch, the-future-in-2026]
@@ -30,7 +31,7 @@ tags: [tna-impact-2026, mustafa-ali, order-4, mila-moore, tasha-steelz, jason-ho
 
 # Mustafa Ali, "State of the Order 4 Address": Mila Moore entra a Order 4 (TNA iMPACT!, 16/7/2026)
 
-> **Sin clase**: lectura registrada tal cual.
+> **Wrestling Entertainment** declarada en 2026-10-26 s02 (*"el segmento de Order 4 se merece una WE"*). En s01 había quedado sin clase.
 
 ## Resumen
 
@@ -38,7 +39,7 @@ Timestamp **00:29:11**. Ali da su "State of the Order 4 Address": suma a Mila Mo
 
 ## Lectura del Vehemiurgo
 
-- **Clase**: **Sin clase.** No hubo *"se merece"*; la lectura se registra tal cual.
+- **Clase**: **Wrestling Entertainment**, declarada en 2026-10-26 s02 (*"el segmento de Order 4 se merece una WE"*). En s01 había quedado sin clase.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -56,10 +57,21 @@ Timestamp **00:29:11**. Ali da su "State of the Order 4 Address": suma a Mila Mo
 
 **Lectura sintética**:
 
-1. **Sin clase declarada**: el elogio no lleva *"se merece"*.
+1. **Sin clase en s01; WE declarada en s02** (ver abajo).
 2. **Heel tipo Vince**: *"un rol de politiqueo muy divertido con luchas excelentes"*.
 3. **Mila Moore** (THE FUTURE #5) post-Tessa: *"tiene potencial real"*.
 4. **Order 4 a punto de romperse**, por segunda vez.
+
+## Declaración de clase — 2026-10-26 s02
+
+> *"en tna 2026 07 16 iMPACT 00H:29m:11s el segmento de Order 4 se merece
+> una WE"*
+>
+> — El Vehemiurgo, 2026-10-26 s02 (verbatim, typos preservados)
+
+El segmento pasa de sin clase a **WE**, declarada de forma explícita.
+
+Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
 ## Pendientes
 

@@ -80,6 +80,13 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
 
+
+### Sesión 2026-10-26 s02 — TNA iMPACT!, 16/7 y 23/7/2026
+
+- TNA iMPACT!, 23/7/2026, 00:23:26 — [Mustafa Ali y Order 4](../segments/2026-07-23-mustafa-ali-order-4-segmento-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
+
 ## Pendientes / huecos
 
 - [ ] **Identidad y datos básicos** — prioridad.

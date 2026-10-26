@@ -160,6 +160,13 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
 
+
+### Sesión 2026-10-26 s02 — TNA iMPACT!, 16/7 y 23/7/2026
+
+- TNA iMPACT!, 23/7/2026, 00:41:29 — [The Hardys (c) vs The Righteous — "Righteous Deletion" match, TNA World Tag Team Championship](../matches/2026-07-23-the-hardys-vs-the-righteous-righteous-deletion-tag-titles-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
+
 ## Pendientes / huecos
 
 - [x] Identidad confirmada (Vinny Marseglia, Rhode Island).

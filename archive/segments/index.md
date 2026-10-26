@@ -301,6 +301,8 @@ cada alta y con cada cambio de estado.
 | 2026-07-24 | CM Punk y Cody Rhodes — cara a cara personal | WWE / SmackDown | cara a cara / confrontación verbal | — | — | en-investigacion | 1 | [→](2026-07-24-cm-punk-cody-rhodes-cara-a-cara-wwe-smackdown.md) |
 | 2026-07-24 | Fatal Influence — promo previa al match de Lainey Reid vs Brie Bella | WWE / SmackDown | promo de facción | — | — | en-investigacion | 1 | [→](2026-07-24-fatal-influence-promo-wwe-smackdown.md) |
 | 2026-07-24 | Nick Aldis y Gunther — firma de contrato para SummerSlam | WWE / SmackDown | firma de contrato | — | — | en-investigacion | 1 | [→](2026-07-24-nick-aldis-gunther-firma-contrato-wwe-smackdown.md) |
+| 2026-07-23 | Mustafa Ali y Jason Hotch, segmento tenso | TNA Wrestling / iMPACT! | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-07-23-mustafa-ali-jason-hotch-segmento-tenso-tna-impact.md) |
+| 2026-07-23 | Mustafa Ali y Order 4 | TNA Wrestling / iMPACT! | segmento | — | — | en-investigacion | 1 | [→](2026-07-23-mustafa-ali-order-4-segmento-tna-impact.md) |
 | 2026-07-22 | Bang Bang Gang: entrada completa | AEW / Dynamite | entrance / posicionamiento de facción | — | — | stub | 1 | [→](2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md) |
 | 2026-07-22 | Post-match main event: Kevin Knight ataca a Kenny Omega (go-home show) | AEW / Dynamite | post-match / ataque sorpresa | WE | — | stub | 1 | [→](2026-07-22-kevin-knight-ataca-omega-go-home-aew-dynamite.md) |
 | 2026-07-22 | Post-match: David Finlay interrumpe, Bang Bang Gang salva a Jay White | AEW / Dynamite | post-match / run-in | — | — | stub | 1 | [→](2026-07-22-post-match-finlay-interrumpe-bang-bang-gang-salva-aew-dynamite.md) |
@@ -312,7 +314,8 @@ cada alta y con cada cambio de estado.
 | 2026-07-17 | LA Knight — recap de su promo en Fanatics Fest NYC | WWE / SmackDown | recap / promo | WE | — | en-investigacion | 1 | [→](2026-07-17-la-knight-recap-fanatics-fest-wwe-smackdown.md) |
 | 2026-07-17 | Sami Zayn ataca a CM Punk — brawl de cierre | WWE / SmackDown | brawl / angle | WE | — | en-investigacion | 1 | [→](2026-07-17-sami-zayn-ataca-cm-punk-wwe-smackdown.md) |
 | 2026-07-16 | Elayna Black, promo interrumpida por Xia Brookside | TNA Wrestling / iMPACT! | promo + careo heel vs heel | — | — | en-investigacion | 1 | [→](2026-07-16-elayna-black-promo-interrumpida-xia-brookside-tna-impact.md) |
-| 2026-07-16 | Mustafa Ali, "State of the Order 4 Address": Mila Moore entra a Order 4 | TNA Wrestling / iMPACT! | segmento in-ring | — | — | en-investigacion | 1 | [→](2026-07-16-mustafa-ali-state-of-order-4-mila-moore-tna-impact.md) |
+| 2026-07-16 | Mustafa Ali, "State of the Order 4 Address": Mila Moore entra a Order 4 | TNA Wrestling / iMPACT! | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-07-16-mustafa-ali-state-of-order-4-mila-moore-tna-impact.md) |
+| 2026-07-16 | Nic Nemeth, segmento in-ring; KC Navarro lanza su reto | TNA Wrestling / iMPACT! | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-07-16-nic-nemeth-kc-navarro-segmento-in-ring-reto-tna-impact.md) |
 | 2026-07-16 | Promo video de apertura | TNA Wrestling / iMPACT! | promo video | WE | — | en-investigacion | 1 | [→](2026-07-16-promo-video-opener-tna-impact.md) |
 | 2026-07-16 | The System, promo: Brian Myers y Bear Bronson | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-07-16-the-system-promo-myers-bear-bronson-tna-impact.md) |
 | 2026-07-15 | Promo backstage: Andrade revela más planes (roba el anillo de MJF) | AEW / Dynamite | promo backstage | — | — | stub | 1 | [→](2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md) |

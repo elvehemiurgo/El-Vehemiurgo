@@ -142,6 +142,13 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
 
+
+### Sesión 2026-10-26 s02 — TNA iMPACT!, 16/7 y 23/7/2026
+
+- TNA iMPACT!, 16/7/2026, 01:04:56 — [Nic Nemeth, segmento in-ring; KC Navarro lanza su reto](../segments/2026-07-16-nic-nemeth-kc-navarro-segmento-in-ring-reto-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
+
 ## Pendientes / huecos
 
 - [ ] Naturaleza de la lesión que lo sacó hasta Rebellion 2026.

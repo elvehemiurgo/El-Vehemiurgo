@@ -52,6 +52,13 @@ tags: [ricky-sosa, tna-2026, eric-young, derecho-de-piso, proyecto-verde, primer
 pin sobre Eric Young en el Countdown fue *"meh"*, porque *"el stage es
 muy grande para él"*. La reserva técnica es el ring positioning.
 
+
+### Sesión 2026-10-26 s02 — TNA iMPACT!, 16/7 y 23/7/2026
+
+- TNA iMPACT!, 16/7/2026, 00:38:31 — [Bear Bronson vs Ricky Sosa](../matches/2026-07-16-bear-bronson-vs-ricky-sosa-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y trayectoria previa a TNA.

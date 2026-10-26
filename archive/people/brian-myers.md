@@ -178,6 +178,13 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
 
+
+### Sesión 2026-10-26 s02 — TNA iMPACT!, 16/7 y 23/7/2026
+
+- TNA iMPACT!, 16/7/2026, 00:38:31 — [Bear Bronson vs Ricky Sosa](../matches/2026-07-16-bear-bronson-vs-ricky-sosa-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de nacimiento + confirmación Long Island.

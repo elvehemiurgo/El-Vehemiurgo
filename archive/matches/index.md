@@ -258,6 +258,9 @@ con cada cambio de estado.
 | 2026-07-25 | Dominik Mysterio & El Grande Americano vs Ángel Garza & Daga | AAA / Verano de Escándalo (Noche 1) | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-25-dominik-mysterio-el-grande-americano-vs-angel-garza-daga-aaa-verano-de-escandalo.md) |
 | 2026-07-25 | Mr. Iguana & Lola Vice (c) vs La Hiedra & Laredo Kid | AAA / Verano de Escándalo (Noche 1) | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-25-mr-iguana-lola-vice-vs-la-hiedra-laredo-kid-aaa-verano-de-escandalo.md) |
 | 2026-07-24 | Lainey Reid vs Brie Bella | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-07-24-lainey-reid-vs-brie-bella-wwe-smackdown.md) |
+| 2026-07-23 | Frankie Kazarian & AJ Francis vs Moose & Elijah | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-23-kazarian-aj-francis-vs-moose-elijah-tna-impact.md) |
+| 2026-07-23 | Mr. Elegance vs BDE | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-07-23-mr-elegance-vs-bde-tna-impact.md) |
+| 2026-07-23 | The Hardys (c) vs The Righteous — "Righteous Deletion" match, TNA World Tag Team Championship | TNA Wrestling / iMPACT! | — | — | en-investigacion | 1 | [→](2026-07-23-the-hardys-vs-the-righteous-righteous-deletion-tag-titles-tna-impact.md) |
 | 2026-07-22 | Darby Allin vs Kevin Knight | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md) |
 | 2026-07-22 | Jay White vs Clark Connors | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md) |
 | 2026-07-21 | Jaida Parker vs Natalya | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-21-jaida-parker-vs-natalya-wwe-nxt.md) |
@@ -272,8 +275,11 @@ con cada cambio de estado.
 | 2026-07-17 | Finn Bálor vs Talla Tonga | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-07-17-finn-balor-vs-talla-tonga-wwe-smackdown.md) |
 | 2026-07-17 | Jacy Jayne vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-17-jacy-jayne-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-07-17 | Trick Williams vs Carmelo Hayes (5ta) | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-07-17-trick-williams-vs-carmelo-hayes-5-wwe-smackdown.md) |
+| 2026-07-16 | Bear Bronson vs Ricky Sosa | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-16-bear-bronson-vs-ricky-sosa-tna-impact.md) |
+| 2026-07-16 | Cedric Alexander (c) vs Fabian Aichner — TNA X Division Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-16-cedric-alexander-vs-fabian-aichner-x-division-title-tna-impact.md) |
 | 2026-07-16 | M by Elegance vs Rosemary — torneo KO TV Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-16-m-by-elegance-vs-rosemary-ko-tv-torneo-tna-impact.md) |
 | 2026-07-16 | Moose vs AJ Francis | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-16-moose-vs-aj-francis-tna-impact.md) |
+| 2026-07-16 | Thea Hail vs Harley Hudson — torneo KO TV Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-16-thea-hail-vs-harley-hudson-ko-tv-torneo-tna-impact.md) |
 | 2026-07-15 | Andrade vs Jake Doyle | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md) |
 | 2026-07-15 | Komander vs Kyle Fletcher | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md) |
 | 2026-07-14 | Lola Vice vs Kelani Jordan vs Kali Armstrong | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-07-14-lola-vice-vs-kelani-jordan-vs-kali-armstrong-wwe-nxt.md) |

@@ -43,6 +43,13 @@ individual.
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-10-26 s02 — TNA iMPACT!, 16/7 y 23/7/2026
+
+- TNA iMPACT!, 16/7/2026, 00:54:32 — [Thea Hail vs Harley Hudson — torneo KO TV Championship](../matches/2026-07-16-thea-hail-vs-harley-hudson-ko-tv-torneo-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de carrera (debut, procedencia).

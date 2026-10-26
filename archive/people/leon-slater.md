@@ -308,6 +308,13 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
 
+
+### Sesión 2026-10-26 s02 — TNA iMPACT!, 16/7 y 23/7/2026
+
+- TNA iMPACT!, 16/7/2026, 01:13:59 — [Cedric Alexander (c) vs Fabian Aichner — TNA X Division Championship](../matches/2026-07-16-cedric-alexander-vs-fabian-aichner-x-division-title-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.

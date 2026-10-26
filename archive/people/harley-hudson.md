@@ -77,6 +77,13 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s02 — TNA iMPACT!, 16/7 y 23/7/2026
+
+- TNA iMPACT!, 16/7/2026, 00:54:32 — [Thea Hail vs Harley Hudson — torneo KO TV Championship](../matches/2026-07-16-thea-hail-vs-harley-hudson-ko-tv-torneo-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + origen + background.
