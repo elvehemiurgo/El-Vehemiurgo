@@ -311,6 +311,10 @@ cada alta y con cada cambio de estado.
 | 2026-07-17 | CM Punk y Cody Rhodes — "I'll see you tomorrow" | WWE / SmackDown | face a face / build | WE | — | en-investigacion | 1 | [→](2026-07-17-cm-punk-cody-rhodes-see-you-tomorrow-wwe-smackdown.md) |
 | 2026-07-17 | LA Knight — recap de su promo en Fanatics Fest NYC | WWE / SmackDown | recap / promo | WE | — | en-investigacion | 1 | [→](2026-07-17-la-knight-recap-fanatics-fest-wwe-smackdown.md) |
 | 2026-07-17 | Sami Zayn ataca a CM Punk — brawl de cierre | WWE / SmackDown | brawl / angle | WE | — | en-investigacion | 1 | [→](2026-07-17-sami-zayn-ataca-cm-punk-wwe-smackdown.md) |
+| 2026-07-16 | Elayna Black, promo interrumpida por Xia Brookside | TNA Wrestling / iMPACT! | promo + careo heel vs heel | — | — | en-investigacion | 1 | [→](2026-07-16-elayna-black-promo-interrumpida-xia-brookside-tna-impact.md) |
+| 2026-07-16 | Mustafa Ali, "State of the Order 4 Address": Mila Moore entra a Order 4 | TNA Wrestling / iMPACT! | segmento in-ring | — | — | en-investigacion | 1 | [→](2026-07-16-mustafa-ali-state-of-order-4-mila-moore-tna-impact.md) |
+| 2026-07-16 | Promo video de apertura | TNA Wrestling / iMPACT! | promo video | WE | — | en-investigacion | 1 | [→](2026-07-16-promo-video-opener-tna-impact.md) |
+| 2026-07-16 | The System, promo: Brian Myers y Bear Bronson | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-07-16-the-system-promo-myers-bear-bronson-tna-impact.md) |
 | 2026-07-15 | Promo backstage: Andrade revela más planes (roba el anillo de MJF) | AEW / Dynamite | promo backstage | — | — | stub | 1 | [→](2026-07-15-andrade-promo-backstage-anillo-mjf-aew-dynamite.md) |
 | 2026-07-15 | The Dogs atacan a Cope & Cage + retoma el Bang Bang Gang | AEW / Dynamite | angle / ataque | — | — | stub | 1 | [→](2026-07-15-dogs-attack-cope-cage-bang-bang-gang-aew-dynamite.md) |
 | 2026-07-15 | Promo backstage: Fletcher (con Okada) vende Bandido para Redemption | AEW / Dynamite | promo backstage | WE | — | stub | 1 | [→](2026-07-15-fletcher-promo-backstage-okada-bandido-aew-dynamite.md) |
@@ -330,6 +334,8 @@ cada alta y con cada cambio de estado.
 | 2026-07-10 | Recapitulación de Fatal Influence | WWE / SmackDown | video package / recap | WE | — | en-investigacion | 1 | [→](2026-07-10-recap-fatal-influence-wwe-smackdown.md) |
 | 2026-07-10 | Recapitulación de la promo de Sami Zayn tras perder el título | WWE / SmackDown | video package / recap | WE | — | en-investigacion | 1 | [→](2026-07-10-recap-promo-sami-zayn-wwe-smackdown.md) |
 | 2026-07-10 | Trick Williams y Lil Yachty backstage antes de la lucha titular | WWE / SmackDown | backstage | WE | — | en-investigacion | 1 | [→](2026-07-10-trick-williams-lil-yachty-backstage-wwe-smackdown.md) |
+| 2026-07-09 | "The King's Speech": Kazarian entrevista a Moose; entra AJ Francis | TNA Wrestling / iMPACT! | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-07-09-kazarian-kings-speech-moose-aj-francis-tna-impact.md) |
+| 2026-07-09 | KC Navarro: la traición de Nic Nemeth | TNA Wrestling / iMPACT! | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-07-09-kc-navarro-segmento-traicion-nic-nemeth-tna-impact.md) |
 | 2026-07-08 | Post-match: promo de Fletcher con Callis y Foley + promo de Andrade | AEW / Beach Break | promo post-match | WE | — | stub | 1 | [→](2026-07-08-fletcher-post-match-callis-foley-andrade-promo-aew-beach-break.md) |
 | 2026-07-08 | Promo backstage: MJF se burla del booking de Ospreay | AEW / Beach Break | promo backstage | WE | — | stub | 1 | [→](2026-07-08-mjf-promo-backstage-burla-ospreay-aew-beach-break.md) |
 | 2026-07-07 | Promo backstage de Saquon Shugars | WWE / NXT | entrevista backstage | — | — | en-investigacion | 1 | [→](2026-07-07-saquon-shugars-promo-backstage-wwe-nxt.md) |
@@ -337,6 +343,13 @@ cada alta y con cada cambio de estado.
 | 2026-07-06 | Promo backstage de Joe Hendry | WWE / Monday Night Raw | entrevista backstage | WE | — | en-investigacion | 1 | [→](2026-07-06-joe-hendry-promo-backstage-wwe-raw.md) |
 | 2026-07-06 | Promo del Judgment Day en el clubhouse | WWE / Monday Night Raw | promo de facción | WE | — | en-investigacion | 1 | [→](2026-07-06-judgment-day-clubhouse-promo-wwe-raw.md) |
 | 2026-07-04 | Debut de Damian Priest en AAA | WWE / AAA on FOX #25 | presentación / rueda de prensa | — | — | en-investigacion | 1 | [→](2026-07-04-debut-damian-priest-aaa-on-fox.md) |
+| 2026-07-02 | Leon Slater, promo tras la Ultimate X | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-07-02-leon-slater-promo-tras-ultimate-x-main-event-tna-impact.md) |
+| 2026-07-02 | Ryan Nemeth presenta al campeón Nic Nemeth; KC Navarro interrumpe | TNA Wrestling / iMPACT! | segmento in-ring de apertura | WE | — | en-investigacion | 1 | [→](2026-07-02-nic-nemeth-campeon-ryan-nemeth-kc-navarro-apertura-tna-impact.md) |
+| 2026-07-02 | Nic Nemeth interrumpe el injury report | TNA Wrestling / iMPACT! | segmento | WE | — | en-investigacion | 1 | [→](2026-07-02-nic-nemeth-interrumpe-injury-report-tna-impact.md) |
+| 2026-07-02 | Post-match: Nic Nemeth y el "kid" a KC Navarro | TNA Wrestling / iMPACT! | segmento post-match | — | — | en-investigacion | 1 | [→](2026-07-02-nic-nemeth-post-match-kc-navarro-kid-tna-impact.md) |
+| 2026-07-02 | Rich Swann guía a BDE en la promo | TNA Wrestling / iMPACT! | promo | — | — | en-investigacion | 1 | [→](2026-07-02-rich-swann-guia-bde-promo-tna-impact.md) |
+| 2026-07-02 | The System, The Righteous y Ricky Sosa; Leon Slater se lanza sobre The System | TNA Wrestling / iMPACT! | segmento + brawl | WE | — | en-investigacion | 1 | [→](2026-07-02-the-system-the-righteous-ricky-sosa-leon-slater-brawl-tna-impact.md) |
+| 2026-07-02 | Xia Brookside, celebración como nueva campeona KO | TNA Wrestling / iMPACT! | segmento de celebración | — | — | en-investigacion | 1 | [→](2026-07-02-xia-brookside-celebracion-campeona-ko-tna-impact.md) |
 | 2026-07-01 | Promo backstage: MJF sobre Andrade | AEW / Dynamite | promo backstage | WE | — | stub | 1 | [→](2026-07-01-mjf-promo-backstage-andrade-aew-dynamite.md) |
 | 2026-06-30 | Segmento de Lizzy Rain: "I'm making it rain, baby!" | WWE / NXT | backstage / gag | WE | — | en-investigacion | 1 | [→](2026-06-30-lizzy-rain-segmento-absurdo-wwe-nxt.md) |
 | 2026-06-29 | Brock Lesnar regresa e interrumpe a Oba Femi — reto a Hell in a Cell | WWE / Monday Night Raw | in-ring confrontation / desafío | WE | — | en-investigacion | 1 | [→](2026-06-29-brock-lesnar-regreso-reto-oba-femi-wwe-raw.md) |

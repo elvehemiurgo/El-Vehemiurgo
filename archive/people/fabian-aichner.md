@@ -63,6 +63,13 @@ tags: [fabian-aichner, giovanni-vinci, tna-2026, the-system, primer-registro-ind
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 2/7/2026, 00:28:15 — [6-way X Division scramble por el retador #1: Fabian Aichner vs Rich Swann vs BDE vs Mr. Elegance vs Home Town Man vs Jason Hotch](../matches/2026-07-02-fabian-aichner-gana-6-way-scramble-x-division-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria WWE con fechas; fecha exacta del debut en TNA.

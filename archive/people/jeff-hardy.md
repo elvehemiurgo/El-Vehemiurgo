@@ -205,6 +205,13 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 9/7/2026, 00:01:13 — [The Hardys (c) vs The Great Hands — TNA World Tag Team Championship](../matches/2026-07-09-the-hardys-vs-the-great-hands-tag-titles-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia

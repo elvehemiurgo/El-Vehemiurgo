@@ -73,6 +73,14 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 2/7/2026, 00:16:09 — [Mara Sadè vs Tasha Steelz — torneo KO TV Championship](../matches/2026-07-02-mara-sade-vs-tasha-steelz-ko-tv-torneo-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 16/7/2026, 00:29:11 — [Mustafa Ali, "State of the Order 4 Address": Mila Moore entra a Order 4](../segments/2026-07-16-mustafa-ali-state-of-order-4-mila-moore-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, reinados de título con fechas.

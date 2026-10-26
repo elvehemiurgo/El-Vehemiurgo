@@ -62,6 +62,13 @@ tags: [jodi-threat, ex-canadian-indie, tna-knockouts-2025-2026, veterana-cluster
   ganar la oportunidad (battle royal), perder con dignidad para
   hacer ver bien al campeón. Cornette-school 101.
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 9/7/2026, 00:55:18 — [Jodi Threat vs Gabby Forza — torneo KO TV Championship](../matches/2026-07-09-jodi-threat-vs-gabby-forza-ko-tv-torneo-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad canadiense.

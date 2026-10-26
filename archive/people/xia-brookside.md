@@ -109,6 +109,15 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 2/7/2026, 00:57:43 — [Xia Brookside, celebración como nueva campeona KO](../segments/2026-07-02-xia-brookside-celebracion-campeona-ko-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 9/7/2026, 01:12:33 — [Xia Brookside (c) vs Léi Yǐng Lee — revancha No DQ, Knockouts World Championship](../matches/2026-07-09-xia-brookside-vs-lei-ying-lee-no-dq-revancha-tna-impact.md) — **FC**.
+- TNA iMPACT!, 16/7/2026, 00:27:25 — [Elayna Black, promo interrumpida por Xia Brookside](../segments/2026-07-16-elayna-black-promo-interrumpida-xia-brookside-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-TNA (UK indies / NXT UK

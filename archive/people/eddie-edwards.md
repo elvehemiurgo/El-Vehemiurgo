@@ -232,6 +232,15 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 2/7/2026, 00:12:47 — [Leon Slater, promo tras la Ultimate X](../segments/2026-07-02-leon-slater-promo-tras-ultimate-x-main-event-tna-impact.md) — **WE**.
+- TNA iMPACT!, 2/7/2026, 00:43:25 — [The System, The Righteous y Ricky Sosa; Leon Slater se lanza sobre The System](../segments/2026-07-02-the-system-the-righteous-ricky-sosa-leon-slater-brawl-tna-impact.md) — **WE**.
+- TNA iMPACT!, 2/7/2026, 01:13:54 — [Eddie Edwards vs Leon Slater](../matches/2026-07-02-eddie-edwards-vs-leon-slater-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).

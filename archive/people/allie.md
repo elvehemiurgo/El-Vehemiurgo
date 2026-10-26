@@ -66,6 +66,14 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 2/7/2026, 00:49:01 — [Heather by Elegance vs Allie — torneo KO TV Championship](../matches/2026-07-02-heather-by-elegance-vs-allie-ko-tv-torneo-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 16/7/2026, 00:02:54 — [M by Elegance vs Rosemary — torneo KO TV Championship](../matches/2026-07-16-m-by-elegance-vs-rosemary-ko-tv-torneo-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

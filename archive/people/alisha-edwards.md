@@ -80,6 +80,13 @@ repite explícitamente como problema en curso, no como queja nueva. Ver
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 2/7/2026, 01:13:54 — [Eddie Edwards vs Leon Slater](../matches/2026-07-02-eddie-edwards-vs-leon-slater-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

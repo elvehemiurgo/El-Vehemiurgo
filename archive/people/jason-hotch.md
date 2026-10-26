@@ -75,6 +75,15 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 2/7/2026, 00:28:15 — [6-way X Division scramble por el retador #1: Fabian Aichner vs Rich Swann vs BDE vs Mr. Elegance vs Home Town Man vs Jason Hotch](../matches/2026-07-02-fabian-aichner-gana-6-way-scramble-x-division-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 9/7/2026, 00:01:13 — [The Hardys (c) vs The Great Hands — TNA World Tag Team Championship](../matches/2026-07-09-the-hardys-vs-the-great-hands-tag-titles-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 16/7/2026, 00:29:11 — [Mustafa Ali, "State of the Order 4 Address": Mila Moore entra a Order 4](../segments/2026-07-16-mustafa-ali-state-of-order-4-mila-moore-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.

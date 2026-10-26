@@ -272,6 +272,8 @@ con cada cambio de estado.
 | 2026-07-17 | Finn Bálor vs Talla Tonga | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-07-17-finn-balor-vs-talla-tonga-wwe-smackdown.md) |
 | 2026-07-17 | Jacy Jayne vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-17-jacy-jayne-vs-tiffany-stratton-wwe-smackdown.md) |
 | 2026-07-17 | Trick Williams vs Carmelo Hayes (5ta) | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-07-17-trick-williams-vs-carmelo-hayes-5-wwe-smackdown.md) |
+| 2026-07-16 | M by Elegance vs Rosemary — torneo KO TV Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-16-m-by-elegance-vs-rosemary-ko-tv-torneo-tna-impact.md) |
+| 2026-07-16 | Moose vs AJ Francis | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-16-moose-vs-aj-francis-tna-impact.md) |
 | 2026-07-15 | Andrade vs Jake Doyle | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-15-andrade-vs-jake-doyle-aew-dynamite.md) |
 | 2026-07-15 | Komander vs Kyle Fletcher | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-15-komander-vs-kyle-fletcher-aew-dynamite.md) |
 | 2026-07-14 | Lola Vice vs Kelani Jordan vs Kali Armstrong | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-07-14-lola-vice-vs-kelani-jordan-vs-kali-armstrong-wwe-nxt.md) |
@@ -284,6 +286,10 @@ con cada cambio de estado.
 | 2026-07-11 | Money Machine vs Epydemius Jr. & Noisy Boy | AAA / AAA on FOX #26 | WE | — | en-investigacion | 1 | [→](2026-07-11-money-machine-vs-epydemius-jr-noisy-boy-aaa-on-fox.md) |
 | 2026-07-10 | Finn Bálor vs Tama Tonga | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-07-10-finn-balor-vs-tama-tonga-wwe-smackdown.md) |
 | 2026-07-10 | Trick Williams vs Carmelo Hayes | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-10-trick-williams-vs-carmelo-hayes-4-wwe-smackdown.md) |
+| 2026-07-09 | Jodi Threat vs Gabby Forza — torneo KO TV Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-09-jodi-threat-vs-gabby-forza-ko-tv-torneo-tna-impact.md) |
+| 2026-07-09 | Leon Slater & Ricky Sosa vs The System (Myers & Bronson) vs The Righteous | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-09-leon-slater-ricky-sosa-vs-the-system-vs-the-righteous-tna-impact.md) |
+| 2026-07-09 | The Hardys (c) vs The Great Hands — TNA World Tag Team Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-09-the-hardys-vs-the-great-hands-tag-titles-tna-impact.md) |
+| 2026-07-09 | Xia Brookside (c) vs Léi Yǐng Lee — revancha No DQ, Knockouts World Championship | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-07-09-xia-brookside-vs-lei-ying-lee-no-dq-revancha-tna-impact.md) |
 | 2026-07-08 | Ciampa vs Chris Jericho | AEW / Beach Break | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-08-ciampa-vs-jericho-aew-beach-break.md) |
 | 2026-07-08 | Kyle Fletcher vs Konosuke Takeshita | AEW / Beach Break | FS | — | en-investigacion | 1 | [→](2026-07-08-fletcher-vs-takeshita-aew-beach-break.md) |
 | 2026-07-08 | Gauntlet Match: Maya World vs. Athena vs. Mercedes Moné (y otras [verif]) | AEW / Beach Break | — | — | en-investigacion | 1 | [→](2026-07-08-maya-world-vs-athena-mercedes-mone-gauntlet-aew-beach-break.md) |
@@ -292,6 +298,11 @@ con cada cambio de estado.
 | 2026-07-04 | El Fiscal vs Abismo Negro Jr. | WWE / AAA on FOX #25 | FS·WE | FC | en-investigacion | 1 | [→](2026-07-04-el-fiscal-vs-abismo-negro-jr-aaa-on-fox.md) |
 | 2026-07-04 | Lady Shani vs Flammer | WWE / AAA on FOX #25 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-04-lady-shani-vs-flammer-aaa-on-fox.md) |
 | 2026-07-03 | Rey Fénix vs El Hijo del Vikingo | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-07-03-rey-fenix-vs-hijo-del-vikingo-wwe-smackdown.md) |
+| 2026-07-02 | Eddie Edwards vs Leon Slater | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-02-eddie-edwards-vs-leon-slater-tna-impact.md) |
+| 2026-07-02 | 6-way X Division scramble por el retador #1: Fabian Aichner vs Rich Swann vs BDE vs Mr. Elegance vs Home Town Man vs Jason Hotch | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-02-fabian-aichner-gana-6-way-scramble-x-division-tna-impact.md) |
+| 2026-07-02 | Heather by Elegance vs Allie — torneo KO TV Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-02-heather-by-elegance-vs-allie-ko-tv-torneo-tna-impact.md) |
+| 2026-07-02 | KC Navarro vs Ryan Nemeth | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-02-kc-navarro-vs-ryan-nemeth-tna-impact.md) |
+| 2026-07-02 | Mara Sadè vs Tasha Steelz — torneo KO TV Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-02-mara-sade-vs-tasha-steelz-ko-tv-torneo-tna-impact.md) |
 | 2026-07-01 | MJF vs Mark Briscoe | AEW / Dynamite | WE | — | en-investigacion | 1 | [→](2026-07-01-mjf-vs-mark-briscoe-aew-dynamite.md) |
 | 2026-06-30 | Jackson Drake vs Mason Rook | WWE / NXT | WE | — | en-investigacion | 1 | [→](2026-06-30-jackson-drake-vs-mason-rook-wwe-nxt.md) |
 | 2026-06-30 | The Vanity Project (Brad Baylor & Ricky Smokes) vs El Hijo de Dr. Wagner Jr. & Galeno del Mal | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-06-30-vanity-project-vs-wagner-jr-galeno-del-mal-wwe-nxt.md) |

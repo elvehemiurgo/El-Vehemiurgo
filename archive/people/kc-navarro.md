@@ -132,6 +132,16 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 2/7/2026, 00:03:47 — [Ryan Nemeth presenta al campeón Nic Nemeth; KC Navarro interrumpe](../segments/2026-07-02-nic-nemeth-campeon-ryan-nemeth-kc-navarro-apertura-tna-impact.md) — **WE**.
+- TNA iMPACT!, 2/7/2026, 01:04:29 — [KC Navarro vs Ryan Nemeth](../matches/2026-07-02-kc-navarro-vs-ryan-nemeth-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 2/7/2026, 01:10:18 — [Post-match: Nic Nemeth y el "kid" a KC Navarro](../segments/2026-07-02-nic-nemeth-post-match-kc-navarro-kid-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 9/7/2026, 01:06:01 — [KC Navarro: la traición de Nic Nemeth](../segments/2026-07-09-kc-navarro-segmento-traicion-nic-nemeth-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Naturaleza de la lesión que lo sacó hasta Rebellion 2026.

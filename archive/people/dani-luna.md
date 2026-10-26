@@ -183,6 +183,13 @@ categoría "ganándose mi corazón en tiempo real"). Ver
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 9/7/2026, 00:55:18 — [Jodi Threat vs Gabby Forza — torneo KO TV Championship](../matches/2026-07-09-jodi-threat-vs-gabby-forza-ko-tv-torneo-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad británica de origen.

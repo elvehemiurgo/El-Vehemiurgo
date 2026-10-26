@@ -111,6 +111,14 @@ y
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 2/7/2026, 00:27:37 — [Rich Swann guía a BDE en la promo](../segments/2026-07-02-rich-swann-guia-bde-promo-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 2/7/2026, 00:28:15 — [6-way X Division scramble por el retador #1: Fabian Aichner vs Rich Swann vs BDE vs Mr. Elegance vs Home Town Man vs Jason Hotch](../matches/2026-07-02-fabian-aichner-gana-6-way-scramble-x-division-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.

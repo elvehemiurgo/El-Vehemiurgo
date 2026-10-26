@@ -170,6 +170,14 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-26 s01 — TNA iMPACT!, julio 2026
+
+- TNA iMPACT!, 9/7/2026, 00:36:23 — [Leon Slater & Ricky Sosa vs The System (Myers & Bronson) vs The Righteous](../matches/2026-07-09-leon-slater-ricky-sosa-vs-the-system-vs-the-righteous-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 16/7/2026, 00:15:21 — [The System, promo: Brian Myers y Bear Bronson](../segments/2026-07-16-the-system-promo-myers-bear-bronson-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de nacimiento + confirmación Long Island.
