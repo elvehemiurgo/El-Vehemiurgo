@@ -260,7 +260,8 @@ con cada cambio de estado.
 | 2026-07-24 | Lainey Reid vs Brie Bella | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2026-07-24-lainey-reid-vs-brie-bella-wwe-smackdown.md) |
 | 2026-07-23 | Frankie Kazarian & AJ Francis vs Moose & Elijah | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-23-kazarian-aj-francis-vs-moose-elijah-tna-impact.md) |
 | 2026-07-23 | Mr. Elegance vs BDE | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-07-23-mr-elegance-vs-bde-tna-impact.md) |
-| 2026-07-23 | The Hardys (c) vs The Righteous — "Righteous Deletion" match, TNA World Tag Team Championship | TNA Wrestling / iMPACT! | — | — | en-investigacion | 1 | [→](2026-07-23-the-hardys-vs-the-righteous-righteous-deletion-tag-titles-tna-impact.md) |
+| 2026-07-23 | Nic Nemeth (c) vs KC Navarro — TNA World Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-23-nic-nemeth-vs-kc-navarro-tna-world-title-tna-impact.md) |
+| 2026-07-23 | The Hardys (c) vs The Righteous — "Righteous Deletion" match, TNA World Tag Team Championship | TNA Wrestling / iMPACT! | WE+ | — | en-investigacion | 1 | [→](2026-07-23-the-hardys-vs-the-righteous-righteous-deletion-tag-titles-tna-impact.md) |
 | 2026-07-22 | Darby Allin vs Kevin Knight | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-22-darby-allin-vs-kevin-knight-aew-dynamite.md) |
 | 2026-07-22 | Jay White vs Clark Connors | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-22-jay-white-vs-clark-connors-aew-dynamite.md) |
 | 2026-07-21 | Jaida Parker vs Natalya | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-21-jaida-parker-vs-natalya-wwe-nxt.md) |

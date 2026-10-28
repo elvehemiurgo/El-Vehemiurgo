@@ -180,6 +180,13 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-10-28 s01 — TNA iMPACT!, 23/7/2026
+
+- [Hardys vs The Righteous (Righteous Deletion) — WE+ declarada](../matches/2026-07-23-the-hardys-vs-the-righteous-righteous-deletion-tag-titles-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md`](../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md)
+
 ## Pendientes / huecos
 
 - [ ] Títulos y reinados con fechas (WWE, TNA, ROH, AEW).

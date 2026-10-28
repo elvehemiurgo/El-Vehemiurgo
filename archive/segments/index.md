@@ -301,6 +301,7 @@ cada alta y con cada cambio de estado.
 | 2026-07-24 | CM Punk y Cody Rhodes — cara a cara personal | WWE / SmackDown | cara a cara / confrontación verbal | — | — | en-investigacion | 1 | [→](2026-07-24-cm-punk-cody-rhodes-cara-a-cara-wwe-smackdown.md) |
 | 2026-07-24 | Fatal Influence — promo previa al match de Lainey Reid vs Brie Bella | WWE / SmackDown | promo de facción | — | — | en-investigacion | 1 | [→](2026-07-24-fatal-influence-promo-wwe-smackdown.md) |
 | 2026-07-24 | Nick Aldis y Gunther — firma de contrato para SummerSlam | WWE / SmackDown | firma de contrato | — | — | en-investigacion | 1 | [→](2026-07-24-nick-aldis-gunther-firma-contrato-wwe-smackdown.md) |
+| 2026-07-23 | Mustafa Ali y Jason Hotch: segmento antes del main event | TNA Wrestling / iMPACT! | segmento backstage / in-ring | WE+ | — | en-investigacion | 1 | [→](2026-07-23-mustafa-ali-jason-hotch-segmento-cierre-tna-impact.md) |
 | 2026-07-23 | Mustafa Ali y Jason Hotch, segmento tenso | TNA Wrestling / iMPACT! | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-07-23-mustafa-ali-jason-hotch-segmento-tenso-tna-impact.md) |
 | 2026-07-23 | Mustafa Ali y Order 4 | TNA Wrestling / iMPACT! | segmento | — | — | en-investigacion | 1 | [→](2026-07-23-mustafa-ali-order-4-segmento-tna-impact.md) |
 | 2026-07-22 | Bang Bang Gang: entrada completa | AEW / Dynamite | entrance / posicionamiento de facción | — | — | stub | 1 | [→](2026-07-22-bang-bang-gang-entrada-completa-aew-dynamite.md) |

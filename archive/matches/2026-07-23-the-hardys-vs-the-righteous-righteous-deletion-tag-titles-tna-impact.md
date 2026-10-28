@@ -15,11 +15,12 @@ ganador: "The Hardys (retienen)"
 referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "la lucha pregrabada estuvo buenísima, increíble la verdad"
-clases_vehemiurgo: []
+calificacion_vehemiurgo: "la lucha pregrabada estuvo buenísima, increíble la verdad; se merece una WE+ (declarada 2026-10-28 s01)"
+clases_vehemiurgo: ["wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-26
+ultima_actualizacion: 2026-10-28
 fuentes_principales:
+  - "Volcado Vehemiurgo 2026-10-28 s01 (corrección: fecha ratificada 23/7, WE+ declarada)"
   - "Volcado Vehemiurgo 2026-10-26 s02 (visión directa — TNA iMPACT!, 23/7/2026, timestamp 00:41:29)"
   - "WebSearch 2026-10-26 (KB Wrestling Reviews, Fightful, Solowrestling, prowrestling.net, Wrestling Inc) — resultados; taping 1-2/7/2026 en Albany"
 tags: [tna-impact-2026, hardys, the-righteous, righteous-deletion, cinematic-match, tna-tag-titles]
@@ -27,7 +28,7 @@ tags: [tna-impact-2026, hardys, the-righteous, righteous-deletion, cinematic-mat
 
 # The Hardys (c) vs The Righteous — "Righteous Deletion" match, TNA World Tag Team Championship (TNA iMPACT!, 23/7/2026)
 
-> **Sin clase**: lectura registrada tal cual.
+> **WE+** declarada en 2026-10-28 s01 (*"se merece una WE+"*). En 2026-10-26 s02 había quedado sin clase.
 
 ## Resumen
 
@@ -35,7 +36,7 @@ Timestamp **00:41:29**. Lucha pregrabada, al estilo de las cinematic matches. **
 
 ## Lectura del Vehemiurgo
 
-- **Clase**: **Sin clase.** No hubo *"se merece"*; la lectura se registra tal cual.
+- **Clase**: **WE+**, declarada en 2026-10-28 s01 con el + literal.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -46,8 +47,20 @@ Timestamp **00:41:29**. Lucha pregrabada, al estilo de las cinematic matches. **
 
 **Lectura sintética**:
 
-1. **Sin clase declarada**: *"buenísima, increíble"*, sin *"se merece"*. Queda sin clase hasta que el Vehemiurgo la declare.
+1. **WE+ declarada** en la corrección del 2026-10-28 s01. Antes había quedado sin clase.
 2. **Formato cinematográfico**: el Broken universe en su terreno.
+
+## Corrección — 2026-10-28 s01
+
+> *"00H:41m:29s la lucha pre grabada de los hardys y the righteous estuvo
+> buenisima, increible la verdad, se merece una WE+ " TODAS ESTAS
+> PERTENECEN A tna 2026 07 23 iMPACT"*
+>
+> — El Vehemiurgo, 2026-10-28 s01 (verbatim, typos preservados)
+
+El Vehemiurgo ratifica que la pieza pertenece a **TNA iMPACT! 23/7/2026**, la fecha que ya tenía la ficha, y declara **WE+**.
+
+Volcado: [`../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md`](../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md)
 
 ## Pendientes
 
