@@ -131,6 +131,13 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 20/8/2026, 00:07:56 — [Rich Swann vs Mr. Elegance](../matches/2026-08-20-rich-swann-vs-mr-elegance-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar de nacimiento.

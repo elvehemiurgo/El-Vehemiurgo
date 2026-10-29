@@ -88,6 +88,13 @@ tags: [kurt-angle, olympic-shooter, wwe-champion-wrestlemania-2000, smackdown-si
 - [`../../dossiers/draft-tna-2007-christian-coalition-era.md`](../../dossiers/draft-tna-2007-christian-coalition-era.md)
 - Múltiples centerpieces SmackDown 2002 + TNA 2007.
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 6/8/2026, 01:27:59 — [Jeff Hardy y Nic Nemeth: la firma de contrato atípica](../segments/2026-08-06-jeff-hardy-nic-nemeth-firma-contrato-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes
 
 - [ ] **WrestleMania 2000 4-corner WWE Title** — pieza editorial.

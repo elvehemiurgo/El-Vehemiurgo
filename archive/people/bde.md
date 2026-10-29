@@ -94,6 +94,13 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 13/8/2026, 00:30:42 — [Rich Swann, BDE & Trey Miguel vs Order 4 (Mustafa Ali, John Skyler & Agent Zero)](../matches/2026-08-13-rich-swann-bde-trey-miguel-vs-order-4-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + edad + background indie** — verificación

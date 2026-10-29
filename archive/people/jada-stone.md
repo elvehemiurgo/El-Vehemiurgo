@@ -99,6 +99,13 @@ tags: [jada-stone, tna, performer-revelacion, babyface, descartada-the-future-20
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 20/8/2026, 00:18:55 — [Jada Stone vs Heather by Elegance — torneo KO TV Championship (semifinal)](../matches/2026-08-20-jada-stone-vs-heather-by-elegance-ko-tv-semifinal-tna-impact.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, edad, debut, trayectoria pre-TNA.

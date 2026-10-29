@@ -315,6 +315,15 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 30/7/2026, 00:02:47 — [Ricky Sosa & Leon Slater vs Eddie Edwards & Cedric Alexander](../matches/2026-07-30-ricky-sosa-leon-slater-vs-eddie-edwards-cedric-alexander-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 6/8/2026, 01:05:39 — [Cedric Alexander y Leon Slater: formato entrevista](../segments/2026-08-06-cedric-alexander-leon-slater-entrevista-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 13/8/2026, 00:02:39 — [Ricky Sosa vs Brian Myers](../matches/2026-08-13-ricky-sosa-vs-brian-myers-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.

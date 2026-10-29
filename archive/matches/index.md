@@ -186,6 +186,8 @@ con cada cambio de estado.
 | 2026-08-21 | CM Punk (c) vs Kevin Owens — Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md) |
 | 2026-08-21 | Giulia vs Blake Monroe | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-08-21-giulia-vs-blake-monroe-wwe-smackdown.md) |
 | 2026-08-21 | Lash Legend vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md) |
+| 2026-08-20 | Jada Stone vs Heather by Elegance — torneo KO TV Championship (semifinal) | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-08-20-jada-stone-vs-heather-by-elegance-ko-tv-semifinal-tna-impact.md) |
+| 2026-08-20 | Rich Swann vs Mr. Elegance | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-08-20-rich-swann-vs-mr-elegance-tna-impact.md) |
 | 2026-08-19 | Jay White vs Jon Moxley — Continental Challenge Cup, cuartos de final | AEW / Dynamite | — | — | en-investigacion | 1 | [→](2026-08-19-jay-white-vs-jon-moxley-aew-dynamite.md) |
 | 2026-08-19 | Maya World (c) vs Kris Statlander vs Hikaru Shida vs Persephone — AEW TBS Championship | AEW / Dynamite | WE | — | en-investigacion | 1 | [→](2026-08-19-tbs-title-4-way-maya-world-vs-statlander-shida-persephone-aew-dynamite.md) |
 | 2026-08-18 | EK Prosper vs La Parka vs Tristan Angels vs Romeo Moreno — contendiente Nº1 al AAA World Cruiserweight Championship | WWE / NXT | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-18-4-way-contendiente-crucero-nxt.md) |
@@ -204,6 +206,11 @@ con cada cambio de estado.
 | 2026-08-14 | Carmelo Hayes vs Baron Corbin (c) — WWE United States Championship | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-08-14-carmelo-hayes-vs-baron-corbin-wwe-smackdown.md) |
 | 2026-08-14 | Matt Cardona vs Gunther — Street Clothes Match | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-14-matt-cardona-vs-gunther-wwe-smackdown.md) |
 | 2026-08-14 | Tiffany Stratton (c) vs Jacy Jayne — WWE Women's United States Championship | WWE / SmackDown | FS·WE | FC | en-investigacion | 1 | [→](2026-08-14-tiffany-stratton-vs-jacy-jayne-wwe-smackdown.md) |
+| 2026-08-13 | KC Navarro vs Eddie Edwards | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-08-13-kc-navarro-vs-eddie-edwards-tna-impact.md) |
+| 2026-08-13 | M by Elegance vs Indi Hartwell — torneo KO TV Championship (semifinal) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-13-m-by-elegance-vs-indi-hartwell-ko-tv-semifinal-tna-impact.md) |
+| 2026-08-13 | Nic Nemeth (c) vs Jeff Hardy — TNA World Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-08-13-nic-nemeth-vs-jeff-hardy-tna-world-title-tna-impact.md) |
+| 2026-08-13 | Rich Swann, BDE & Trey Miguel vs Order 4 (Mustafa Ali, John Skyler & Agent Zero) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-13-rich-swann-bde-trey-miguel-vs-order-4-tna-impact.md) |
+| 2026-08-13 | Ricky Sosa vs Brian Myers | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-08-13-ricky-sosa-vs-brian-myers-tna-impact.md) |
 | 2026-08-12 | Jay White vs David Finlay — Continental Challenge Cup, primera ronda | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-12-jay-white-vs-david-finlay-aew-dynamite.md) |
 | 2026-08-12 | Kevin Knight (c) vs Chris Jericho — AEW TNT Championship | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-12-kevin-knight-vs-chris-jericho-aew-dynamite.md) |
 | 2026-08-12 | MJF vs Mike Bailey vs Nick Wayne — spot #2 del Casino Gauntlet de All In: London | AEW / Dynamite | WE | — | en-investigacion | 1 | [→](2026-08-12-mjf-vs-mike-bailey-vs-nick-wayne-aew-dynamite.md) |
@@ -218,6 +225,10 @@ con cada cambio de estado.
 | 2026-08-08 | El Fiscal vs Psycho Clown vs Cruz Del Toro | AAA / Verano De Escándalo (Semana 3) | WE | — | en-investigacion | 1 | [→](2026-08-08-el-fiscal-vs-psycho-clown-vs-cruz-del-toro-aaa-verano-3.md) |
 | 2026-08-08 | Lady Shani vs Flammer vs La Catalina | AAA / Verano De Escándalo (Semana 3) | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-08-shani-vs-flammer-vs-catalina-aaa-verano-3.md) |
 | 2026-08-07 | Fallon Henley & Lainey Reid (c) vs Chelsea Green & Tiffany Stratton | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-07-fallon-henley-lainey-reid-vs-chelsea-green-tiffany-stratton-wwe-smackdown.md) |
+| 2026-08-06 | Eddie Edwards & Brian Myers vs Fabian Aichner & KC Navarro | TNA Wrestling / iMPACT! | — | — | en-investigacion | 1 | [→](2026-08-06-eddie-edwards-brian-myers-vs-fabian-aichner-kc-navarro-tna-impact.md) |
+| 2026-08-06 | Heather by Elegance vs Mara Sadè — torneo KO TV Championship (cuartos) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-06-heather-by-elegance-vs-mara-sade-ko-tv-torneo-tna-impact.md) |
+| 2026-08-06 | KC Navarro vs Brian Myers | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-08-06-kc-navarro-vs-brian-myers-tna-impact.md) |
+| 2026-08-06 | Matt Hardy vs Ryan Nemeth | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-08-06-matt-hardy-vs-ryan-nemeth-tna-impact.md) |
 | 2026-08-05 | Andrade El Ídolo vs Tommaso Ciampa vs Komander | AEW / Grand Slam Mexico | WE | — | en-investigacion | 1 | [→](2026-08-05-andrade-vs-ciampa-vs-komander-national-aew-gsm.md) |
 | 2026-08-05 | Christian Cage, Edge & The Young Bucks vs The Death Riders | AEW / Grand Slam Mexico | WE | — | en-investigacion | 1 | [→](2026-08-05-christian-cope-young-bucks-vs-death-riders-aew-gsm.md) |
 | 2026-08-05 | Kyle Fletcher vs Mike Bailey | AEW / Grand Slam Mexico | PW·FS·WE | ICC | en-investigacion | 2 | [→](2026-08-05-kyle-fletcher-vs-mike-bailey-international-aew-gsm.md) |
@@ -241,9 +252,12 @@ con cada cambio de estado.
 | 2026-07-31 | Giulia vs Lash Legend | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-31-giulia-vs-lash-legend-wwe-smackdown.md) |
 | 2026-07-31 | Rey Fénix vs JD McDonagh | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-31-rey-fenix-vs-jd-mcdonagh-wwe-smackdown.md) |
 | 2026-07-30 | Bang Bang Gang vs The Death Riders | AEW / Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-30-bang-bang-gang-vs-death-riders-aew-collision.md) |
+| 2026-07-30 | The Elegance Brand (M & Heather by Elegance) vs Allie — Knockouts World Tag Team Championship (handicap) | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-30-elegance-brand-vs-allie-handicap-ko-tag-titles-tna-impact.md) |
 | 2026-07-30 | Hazuki & The Brawling Birds vs Athena, Billie Starkz & Diamante | AEW / Collision | WE | — | en-investigacion | 1 | [→](2026-07-30-hazuki-brawling-birds-vs-athena-starkz-diamante-aew-collision.md) |
+| 2026-07-30 | Jason Hotch vs Mustafa Ali (c) — TNA International Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-07-30-jason-hotch-vs-mustafa-ali-international-title-tna-impact.md) |
 | 2026-07-30 | Jay Lethal vs Komander | AEW / Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-30-jay-lethal-vs-komander-aew-collision.md) |
 | 2026-07-30 | The Demand vs The Rascalz | AEW / Collision | FS·WE | FC | en-investigacion | 1 | [→](2026-07-30-rascalz-vs-the-demand-trios-aew-collision.md) |
+| 2026-07-30 | Ricky Sosa & Leon Slater vs Eddie Edwards & Cedric Alexander | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-30-ricky-sosa-leon-slater-vs-eddie-edwards-cedric-alexander-tna-impact.md) |
 | 2026-07-29 | Kyle Fletcher, Brian Cage & Jake Doyle vs Mike Bailey, Brody King & Bandido | AEW / Dynamite | WE | — | en-investigacion | 1 | [→](2026-07-29-fletcher-doyle-cage-vs-brodido-bailey-aew-dynamite.md) |
 | 2026-07-29 | Jon Moxley vs Komander | AEW / Dynamite | — | — | en-investigacion | 1 | [→](2026-07-29-jon-moxley-vs-komander-aew-dynamite.md) |
 | 2026-07-29 | Maya World vs Persephone | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-07-29-maya-world-vs-persephone-tbs-aew-dynamite.md) |

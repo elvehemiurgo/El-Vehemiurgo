@@ -142,6 +142,14 @@ Confirma un cutter cazando a Ali en pleno 450 y un twisting Canadian
 Destroyer como spots destacados. Ver
 [`../matches/2026-04-11-mustafa-ali-vs-trey-miguel-international-tna-rebellion.md`](../matches/2026-04-11-mustafa-ali-vs-trey-miguel-international-tna-rebellion.md).
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 13/8/2026, 00:30:42 — [Rich Swann, BDE & Trey Miguel vs Order 4 (Mustafa Ali, John Skyler & Agent Zero)](../matches/2026-08-13-rich-swann-bde-trey-miguel-vs-order-4-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 20/8/2026, apertura — [Promo video de apertura: Ali vs Hotch y el regreso de Trey Miguel](../segments/2026-08-20-promo-video-opener-ali-hotch-trey-miguel-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad de origen.

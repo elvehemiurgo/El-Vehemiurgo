@@ -90,6 +90,13 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 6/8/2026, 00:16:00 — [Heather by Elegance vs Mara Sadè — torneo KO TV Championship (cuartos)](../matches/2026-08-06-heather-by-elegance-vs-mara-sade-ko-tv-torneo-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, background pre-TNA.

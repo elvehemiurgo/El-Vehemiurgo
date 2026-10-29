@@ -185,6 +185,15 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 6/8/2026, 00:30:55 — [KC Navarro vs Brian Myers](../matches/2026-08-06-kc-navarro-vs-brian-myers-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 6/8/2026, 00:36:55 — [Eddie Edwards & Brian Myers vs Fabian Aichner & KC Navarro](../matches/2026-08-06-eddie-edwards-brian-myers-vs-fabian-aichner-kc-navarro-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 13/8/2026, 00:02:39 — [Ricky Sosa vs Brian Myers](../matches/2026-08-13-ricky-sosa-vs-brian-myers-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de nacimiento + confirmación Long Island.

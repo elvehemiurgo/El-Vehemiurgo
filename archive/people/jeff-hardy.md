@@ -226,6 +226,17 @@ Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](..
 
 Volcado: [`../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md`](../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 30/7/2026, 00:56:04 — [Los Hardys, promo frenética: "challenge accepted"](../segments/2026-07-30-hardys-promo-challenge-accepted-tna-impact.md) — **WE**.
+- TNA iMPACT!, 6/8/2026, 00:01:28 — [Matt Hardy vs Ryan Nemeth](../matches/2026-08-06-matt-hardy-vs-ryan-nemeth-tna-impact.md) — **WE**.
+- TNA iMPACT!, 6/8/2026, 01:27:59 — [Jeff Hardy y Nic Nemeth: la firma de contrato atípica](../segments/2026-08-06-jeff-hardy-nic-nemeth-firma-contrato-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 13/8/2026, 00:28:37 — [Promo video: Jeff Hardy vs Nic Nemeth](../segments/2026-08-13-promo-video-jeff-hardy-vs-nic-nemeth-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 13/8/2026, 01:08:53 — [Nic Nemeth (c) vs Jeff Hardy — TNA World Championship](../matches/2026-08-13-nic-nemeth-vs-jeff-hardy-tna-world-title-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia

@@ -88,6 +88,14 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 30/7/2026, 01:16:50 — [Jason Hotch vs Mustafa Ali (c) — TNA International Championship](../matches/2026-07-30-jason-hotch-vs-mustafa-ali-international-title-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 6/8/2026, 00:51:44 — [Jason Hotch, con Tasha Steelz y John Skyler](../segments/2026-08-06-jason-hotch-tasha-steelz-john-skyler-segmento-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, reinados de título con fechas.

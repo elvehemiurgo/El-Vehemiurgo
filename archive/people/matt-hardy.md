@@ -187,6 +187,14 @@ Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](..
 
 Volcado: [`../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md`](../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 30/7/2026, 00:56:04 — [Los Hardys, promo frenética: "challenge accepted"](../segments/2026-07-30-hardys-promo-challenge-accepted-tna-impact.md) — **WE**.
+- TNA iMPACT!, 6/8/2026, 00:01:28 — [Matt Hardy vs Ryan Nemeth](../matches/2026-08-06-matt-hardy-vs-ryan-nemeth-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Títulos y reinados con fechas (WWE, TNA, ROH, AEW).

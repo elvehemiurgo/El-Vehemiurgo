@@ -84,6 +84,13 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 13/8/2026, 00:44:41 — [M by Elegance vs Indi Hartwell — torneo KO TV Championship (semifinal)](../matches/2026-08-13-m-by-elegance-vs-indi-hartwell-ko-tv-semifinal-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento.

@@ -211,6 +211,14 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 6/8/2026, 01:10:49 — [Frankie Kazarian, segmento: la rivalidad con Moose](../segments/2026-08-06-frankie-kazarian-segmento-moose-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 13/8/2026, 00:19:43 — [Moose, "Face of the Franchise": la burla a Kazarian](../segments/2026-08-13-moose-face-of-the-franchise-burla-kazarian-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).

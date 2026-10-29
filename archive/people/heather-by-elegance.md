@@ -120,6 +120,16 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 30/7/2026, 00:48:51 — [The Elegance Brand (M & Heather by Elegance) vs Allie — Knockouts World Tag Team Championship (handicap)](../matches/2026-07-30-elegance-brand-vs-allie-handicap-ko-tag-titles-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 6/8/2026, 00:16:00 — [Heather by Elegance vs Mara Sadè — torneo KO TV Championship (cuartos)](../matches/2026-08-06-heather-by-elegance-vs-mara-sade-ko-tv-torneo-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 20/8/2026, 00:07:56 — [Rich Swann vs Mr. Elegance](../matches/2026-08-20-rich-swann-vs-mr-elegance-tna-impact.md) — **WE**.
+- TNA iMPACT!, 20/8/2026, 00:18:55 — [Jada Stone vs Heather by Elegance — torneo KO TV Championship (semifinal)](../matches/2026-08-20-jada-stone-vs-heather-by-elegance-ko-tv-semifinal-tna-impact.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar de nacimiento.

@@ -151,6 +151,13 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 30/7/2026, 01:16:50 — [Jason Hotch vs Mustafa Ali (c) — TNA International Championship](../matches/2026-07-30-jason-hotch-vs-mustafa-ali-international-title-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).

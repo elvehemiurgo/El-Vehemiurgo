@@ -306,6 +306,17 @@ Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](..
 
 Volcado: [`../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md`](../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 30/7/2026, 01:16:50 — [Jason Hotch vs Mustafa Ali (c) — TNA International Championship](../matches/2026-07-30-jason-hotch-vs-mustafa-ali-international-title-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 6/8/2026, 00:28:36 — [Mustafa Ali, el ángulo oscuro contra Jason Hotch y su familia](../segments/2026-08-06-mustafa-ali-angulo-oscuro-jason-hotch-familia-tna-impact.md) — **WE**.
+- TNA iMPACT!, 13/8/2026, 00:30:42 — [Rich Swann, BDE & Trey Miguel vs Order 4 (Mustafa Ali, John Skyler & Agent Zero)](../matches/2026-08-13-rich-swann-bde-trey-miguel-vs-order-4-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 20/8/2026, apertura — [Promo video de apertura: Ali vs Hotch y el regreso de Trey Miguel](../segments/2026-08-20-promo-video-opener-ali-hotch-trey-miguel-tna-impact.md) — **WE**.
+- TNA iMPACT!, 20/8/2026, 00:01:48 — [Mustafa Ali en el ring con Order 4: exige lealtad a Skyler](../segments/2026-08-20-mustafa-ali-in-ring-order-4-skyler-vs-hotch-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo + nacimiento.

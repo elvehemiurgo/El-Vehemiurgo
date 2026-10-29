@@ -206,6 +206,15 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md`](../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversary.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 30/7/2026, 00:48:51 — [The Elegance Brand (M & Heather by Elegance) vs Allie — Knockouts World Tag Team Championship (handicap)](../matches/2026-07-30-elegance-brand-vs-allie-handicap-ko-tag-titles-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 13/8/2026, 00:44:41 — [M by Elegance vs Indi Hartwell — torneo KO TV Championship (semifinal)](../matches/2026-08-13-m-by-elegance-vs-indi-hartwell-ko-tv-semifinal-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 20/8/2026, 00:07:56 — [Rich Swann vs Mr. Elegance](../matches/2026-08-20-rich-swann-vs-mr-elegance-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [x] Background indie pre-Elegance (Black and Brave + ex-volleyball NCAA).

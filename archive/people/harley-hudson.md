@@ -84,6 +84,14 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 6/8/2026, 00:58:19 — [Harley Hudson y Alisha Edwards: el ángulo del despido](../segments/2026-08-06-harley-hudson-alisha-edwards-angulo-despido-tna-impact.md) — **WE**.
+- TNA iMPACT!, 13/8/2026, 00:55:06 — [Harley Hudson, video sobre ella](../segments/2026-08-13-harley-hudson-video-perfil-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + origen + background.

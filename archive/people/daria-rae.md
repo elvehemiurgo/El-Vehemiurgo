@@ -69,6 +69,14 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-10-29 s01 — TNA iMPACT!, 30/7 a 20/8/2026
+
+- TNA iMPACT!, 6/8/2026, 00:58:19 — [Harley Hudson y Alisha Edwards: el ángulo del despido](../segments/2026-08-06-harley-hudson-alisha-edwards-angulo-despido-tna-impact.md) — **WE**.
+- TNA iMPACT!, 20/8/2026, 00:06:35 — [Jason Hotch responde: lo personal](../segments/2026-08-20-jason-hotch-respuesta-personal-daria-rae-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de debut como Daria Rae en TNA.
