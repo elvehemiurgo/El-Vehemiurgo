@@ -221,6 +221,14 @@ entre Kenny Omega y Will Ospreay tras el ataque post-match. Ver
 No genera clase ni nota dedicada — mención cruzada, posible
 lectura en clave de Cuatro Pilares del Puroresu.
 
+
+### Sesión 2026-10-31 s02 — TNA Lockdown 2026 (cierre)
+
+- TNA Lockdown, 23/8/2026, 01:43:29 — [Avery Styles firma con TNA; Kazarian lo interrumpe](../segments/2026-08-23-avery-styles-firma-tna-kazarian-tna-lockdown.md) — **WE**.
+- TNA Lockdown, 23/8/2026, post-match (02:37:27) — [Post-match: Leon Slater activa la Opción C y reta a Nic Nemeth para Bound for Glory](../segments/2026-08-23-leon-slater-opcion-c-reta-nic-nemeth-bound-for-glory-tna-lockdown.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
+
 ## Pendientes / huecos
 
 - [ ] **AJ vs Kurt Angle TNA matches** (4 entradas en lista

@@ -113,6 +113,13 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-10-31 s02 — TNA Lockdown 2026 (cierre)
+
+- TNA Lockdown, 23/8/2026, 02:10:40 — [Lethal Lockdown: The System (Edwards, Myers, Bear Bronson & Alisha Edwards) vs KC Navarro, Fabian Aichner, Ricky Sosa & Jada Stone](../matches/2026-08-23-lethal-lockdown-the-system-vs-navarro-aichner-sosa-jada-stone-tna-lockdown.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, edad, debut, trayectoria pre-TNA.

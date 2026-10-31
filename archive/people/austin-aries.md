@@ -153,6 +153,13 @@ tras su regreso al ring el 13/9/2025. Piezas:
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-31 s02 — TNA Lockdown 2026 (cierre)
+
+- TNA Lockdown, 23/8/2026, 01:50:49 — [Leon Slater vs Cedric Alexander (c) — TNA X Division Championship (Last Man Standing en jaula)](../matches/2026-08-23-leon-slater-vs-cedric-alexander-last-man-standing-cage-x-division-tna-lockdown.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
+
 ## Pendientes / huecos
 
 - [ ] Número total de reinados como X Division Champion.

@@ -220,6 +220,14 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-10-31 s02 — TNA Lockdown 2026 (cierre)
+
+- TNA Lockdown, 23/8/2026, 02:37:27 — [The Nemeths vs The Hardys (c) — TNA World Tag Team Championship (jaula)](../matches/2026-08-23-nemeths-vs-hardys-tag-titles-cage-tna-lockdown.md) — **WE**.
+- TNA Lockdown, 23/8/2026, post-match (02:37:27) — [Post-match: Leon Slater activa la Opción C y reta a Nic Nemeth para Bound for Glory](../segments/2026-08-23-leon-slater-opcion-c-reta-nic-nemeth-bound-for-glory-tna-lockdown.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).

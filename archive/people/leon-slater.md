@@ -331,6 +331,15 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-10-31 s02 — TNA Lockdown 2026 (cierre)
+
+- TNA Lockdown, 23/8/2026, 01:47:35 — [Promo video: Leon Slater vs Cedric Alexander (Lockdown)](../segments/2026-08-23-promo-video-leon-slater-vs-cedric-alexander-tna-lockdown.md) — **WE+**.
+- TNA Lockdown, 23/8/2026, 01:50:49 — [Leon Slater vs Cedric Alexander (c) — TNA X Division Championship (Last Man Standing en jaula)](../matches/2026-08-23-leon-slater-vs-cedric-alexander-last-man-standing-cage-x-division-tna-lockdown.md) — **ICC+**.
+- TNA Lockdown, 23/8/2026, post-match (02:37:27) — [Post-match: Leon Slater activa la Opción C y reta a Nic Nemeth para Bound for Glory](../segments/2026-08-23-leon-slater-opcion-c-reta-nic-nemeth-bound-for-glory-tna-lockdown.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.
