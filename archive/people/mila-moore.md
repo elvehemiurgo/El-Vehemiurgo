@@ -87,6 +87,13 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-10-31 s03 — TNA iMPACT!, 27/8/2026
+
+- TNA iMPACT!, 27/8/2026, 00:11:42 — [John Skyler, tentado a traicionar a Hotch](../segments/2026-08-27-john-skyler-tentado-traicionar-hotch-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
+
 ## Pendientes / huecos
 
 - [ ] **Identidad y datos básicos** — prioridad.

@@ -208,6 +208,14 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
 
+
+### Sesión 2026-10-31 s03 — TNA iMPACT!, 27/8/2026
+
+- TNA iMPACT!, 27/8/2026, 00:13:36 — [Brian Myers, promo](../segments/2026-08-27-brian-myers-promo-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 27/8/2026, 00:15:16 — [Elijah vs Bear Bronson](../matches/2026-08-27-elijah-vs-bear-bronson-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de nacimiento + confirmación Long Island.

@@ -38,6 +38,13 @@ Styles, y Kazarian se usa para construirlo. En Slammiversary (28/6) el
 Vehemiurgo ya había leído el Styles Clash de AJ Francis como setup para
 Avery, aunque ninguna fuente lo conecta.
 
+
+### Sesión 2026-10-31 s03 — TNA iMPACT!, 27/8/2026
+
+- TNA iMPACT!, 27/8/2026, 00:43:12 — [Avery Styles, primer backstage: Kazarian y Moose](../segments/2026-08-27-avery-styles-backstage-kazarian-moose-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria indie.

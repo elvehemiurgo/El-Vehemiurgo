@@ -227,6 +227,13 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-10-31 s03 — TNA iMPACT!, 27/8/2026
+
+- TNA iMPACT!, 27/8/2026, 00:43:12 — [Avery Styles, primer backstage: Kazarian y Moose](../segments/2026-08-27-avery-styles-backstage-kazarian-moose-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).

@@ -190,6 +190,13 @@ Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](..
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-10-31 s03 — TNA iMPACT!, 27/8/2026
+
+- TNA iMPACT!, 27/8/2026, 00:15:16 — [Elijah vs Bear Bronson](../matches/2026-08-27-elijah-vs-bear-bronson-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado.

@@ -1,6 +1,6 @@
 ---
 fecha: 2026-10-31
-sesion: s01
+sesion: s02
 show_dictado: "TNA Lockdown 23/8/2026 (cierre)"
 tipo: volcado
 tags: [tna-lockdown-2026, avery-styles, leon-slater, cedric-alexander, lethal-lockdown, the-system, nemeths, hardys, option-c]

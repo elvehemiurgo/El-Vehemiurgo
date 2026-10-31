@@ -121,6 +121,14 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-10-31 s03 — TNA iMPACT!, 27/8/2026
+
+- TNA iMPACT!, 27/8/2026, 00:11:42 — [John Skyler, tentado a traicionar a Hotch](../segments/2026-08-27-john-skyler-tentado-traicionar-hotch-tna-impact.md) — **WE**.
+- TNA iMPACT!, 27/8/2026, 00:26:19 — [Trey Miguel & Jason Hotch vs Order 4 (John Skyler & Agent Zero)](../matches/2026-08-27-trey-miguel-jason-hotch-vs-order-4-skyler-agent-zero-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.

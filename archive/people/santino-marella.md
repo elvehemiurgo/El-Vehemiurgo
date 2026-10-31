@@ -127,6 +127,13 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
 
+
+### Sesión 2026-10-31 s03 — TNA iMPACT!, 27/8/2026
+
+- TNA iMPACT!, 27/8/2026, 00:03:36 — [Nic Nemeth, segmento in-ring: Leon Slater y Ricky Sosa](../segments/2026-08-27-nic-nemeth-segmento-in-ring-leon-slater-sosa-santino-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
+
 ## Pendientes / huecos
 
 - [ ] Confirmar título exacto en TNA (Director of Authority).

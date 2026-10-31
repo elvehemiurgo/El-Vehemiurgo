@@ -228,6 +228,14 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
 
+
+### Sesión 2026-10-31 s03 — TNA iMPACT!, 27/8/2026
+
+- TNA iMPACT!, 27/8/2026, 00:03:36 — [Nic Nemeth, segmento in-ring: Leon Slater y Ricky Sosa](../segments/2026-08-27-nic-nemeth-segmento-in-ring-leon-slater-sosa-santino-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 27/8/2026, 01:14:39 — [The Nemeths (c) vs Ricky Sosa & Leon Slater — TNA World Tag Team Championship](../matches/2026-08-27-nemeths-vs-ricky-sosa-leon-slater-tag-titles-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).
