@@ -85,6 +85,13 @@ Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](..
 
 Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
 
+
+### Sesión 2026-10-31 s01 — TNA iMPACT! 20/8 y Lockdown 2026
+
+- TNA iMPACT!, 20/8/2026, 00:34:24 — [Brian Myers vs Fabian Aichner](../matches/2026-08-20-brian-myers-vs-fabian-aichner-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria WWE con fechas; fecha exacta del debut en TNA.

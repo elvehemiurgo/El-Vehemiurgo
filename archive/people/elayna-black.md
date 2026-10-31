@@ -94,6 +94,13 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
 
+
+### Sesión 2026-10-31 s01 — TNA iMPACT! 20/8 y Lockdown 2026
+
+- TNA Lockdown, 23/8/2026, 01:03:24 — [Xia Brookside (c) vs Elayna Black — Knockouts World Championship (steel cage)](../matches/2026-08-23-xia-brookside-vs-elayna-black-cage-knockouts-world-title-tna-lockdown.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, background pre-TNA.

@@ -213,6 +213,13 @@ Volcado: [`../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.m
 
 Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
 
+
+### Sesión 2026-10-31 s01 — TNA iMPACT! 20/8 y Lockdown 2026
+
+- TNA iMPACT!, 20/8/2026, 01:14:29 — [The Hardys, Moose & Elijah vs Nic & Ryan Nemeth, Frankie Kazarian & AJ Francis](../matches/2026-08-20-hardys-moose-elijah-vs-nemeths-kazarian-aj-francis-tna-impact.md) — **FC**.
+
+Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).

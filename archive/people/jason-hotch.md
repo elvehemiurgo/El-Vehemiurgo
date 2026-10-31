@@ -112,6 +112,15 @@ Volcado: [`../../notebook/2026-10-28-s01-tna-impact-230726-correccion-y-cierre.m
 
 Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
 
+
+### Sesión 2026-10-31 s01 — TNA iMPACT! 20/8 y Lockdown 2026
+
+- TNA iMPACT!, 20/8/2026, 00:51:18 — [Jason Hotch vs John Skyler](../matches/2026-08-20-jason-hotch-vs-john-skyler-tna-impact.md) — **ICC**.
+- TNA Lockdown, 23/8/2026, 01:21:17 — [Promo video: Mustafa Ali vs Jason Hotch](../segments/2026-08-23-promo-video-mustafa-ali-vs-jason-hotch-tna-lockdown.md) — **WE+**.
+- TNA Lockdown, 23/8/2026, 01:23:34 — [Mustafa Ali vs Jason Hotch (c) — TNA International Championship (steel cage)](../matches/2026-08-23-mustafa-ali-vs-jason-hotch-steel-cage-international-title-tna-lockdown.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.

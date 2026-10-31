@@ -231,6 +231,13 @@ Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](..
 
 Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
 
+
+### Sesión 2026-10-31 s01 — TNA iMPACT! 20/8 y Lockdown 2026
+
+- TNA iMPACT!, 20/8/2026, 01:09:52 — [Promo video: Leon Slater vs Cedric Alexander](../segments/2026-08-20-promo-video-leon-slater-vs-cedric-alexander-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento exacta.

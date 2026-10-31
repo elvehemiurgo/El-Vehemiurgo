@@ -219,6 +219,14 @@ Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](..
 
 Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
 
+
+### Sesión 2026-10-31 s01 — TNA iMPACT! 20/8 y Lockdown 2026
+
+- TNA iMPACT!, 20/8/2026, 01:14:29 — [The Hardys, Moose & Elijah vs Nic & Ryan Nemeth, Frankie Kazarian & AJ Francis](../matches/2026-08-20-hardys-moose-elijah-vs-nemeths-kazarian-aj-francis-tna-impact.md) — **FC**.
+- TNA Lockdown, 23/8/2026, 00:40:27 — [Frankie Kazarian vs Moose](../matches/2026-08-23-frankie-kazarian-vs-moose-tna-lockdown.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).

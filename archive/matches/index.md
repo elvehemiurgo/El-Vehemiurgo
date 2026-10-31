@@ -178,6 +178,11 @@ con cada cambio de estado.
 | 2026-08-24 | LA Knight & Solo Sikoa vs The Usos (Jey Uso & Jimmy Uso) | WWE / Raw | FS·WE | FC | en-investigacion | 1 | [→](2026-08-24-la-knight-solo-sikoa-vs-los-usos-wwe-raw.md) |
 | 2026-08-24 | Penta vs La Parka — semifinal, World Heavyweight Championship No. 1 Contender's Tournament | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-24-penta-vs-la-parka-wwe-raw.md) |
 | 2026-08-24 | Roxanne Perez vs Stephanie Vaquer | WWE / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-24-roxanne-perez-vs-stephanie-vaquer-wwe-raw.md) |
+| 2026-08-23 | AJ Francis vs Elijah (steel cage) | TNA Wrestling / Lockdown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-23-aj-francis-vs-elijah-steel-cage-tna-lockdown.md) |
+| 2026-08-23 | Allie & Kiera Hogan vs The Elegance Brand (M & Heather) — Knockouts World Tag Team Championship (steel cage) | TNA Wrestling / Lockdown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-23-allie-kiera-hogan-vs-elegance-brand-cage-ko-tag-titles-tna-lockdown.md) |
+| 2026-08-23 | Frankie Kazarian vs Moose | TNA Wrestling / Lockdown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-23-frankie-kazarian-vs-moose-tna-lockdown.md) |
+| 2026-08-23 | Mustafa Ali vs Jason Hotch (c) — TNA International Championship (steel cage) | TNA Wrestling / Lockdown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-08-23-mustafa-ali-vs-jason-hotch-steel-cage-international-title-tna-lockdown.md) |
+| 2026-08-23 | Xia Brookside (c) vs Elayna Black — Knockouts World Championship (steel cage) | TNA Wrestling / Lockdown | FS·WE | FC | en-investigacion | 1 | [→](2026-08-23-xia-brookside-vs-elayna-black-cage-knockouts-world-title-tna-lockdown.md) |
 | 2026-08-22 | Los Americanos vs LWO vs Los Psycho Circus vs Money Machine — contendientes Nº1 al AAA World Tag Team Championship | AAA / AAA Worldwide | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-22-4-way-parejas-contendientes-aaa-worldwide.md) |
 | 2026-08-22 | Bang Bang Gang vs Shane Taylor Promotions — open challenge | AEW / Collision | WE | — | en-investigacion | 1 | [→](2026-08-22-bang-bang-gang-vs-shane-taylor-promotions-aew-collision.md) |
 | 2026-08-22 | Willow Nightingale (c) vs Maya World — AEW Women's World Championship | AEW / Collision | WE | — | en-investigacion | 1 | [→](2026-08-22-maya-world-vs-willow-nightingale-aew-collision.md) |
@@ -186,7 +191,11 @@ con cada cambio de estado.
 | 2026-08-21 | CM Punk (c) vs Kevin Owens — Undisputed WWE Championship | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-21-cm-punk-vs-kevin-owens-wwe-smackdown.md) |
 | 2026-08-21 | Giulia vs Blake Monroe | WWE / SmackDown | WE | — | en-investigacion | 1 | [→](2026-08-21-giulia-vs-blake-monroe-wwe-smackdown.md) |
 | 2026-08-21 | Lash Legend vs Tiffany Stratton | WWE / SmackDown | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-21-lash-legend-vs-tiffany-stratton-wwe-smackdown.md) |
+| 2026-08-20 | Brian Myers vs Fabian Aichner | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-08-20-brian-myers-vs-fabian-aichner-tna-impact.md) |
+| 2026-08-20 | The Hardys, Moose & Elijah vs Nic & Ryan Nemeth, Frankie Kazarian & AJ Francis | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-08-20-hardys-moose-elijah-vs-nemeths-kazarian-aj-francis-tna-impact.md) |
+| 2026-08-20 | Harley Hudson vs Alisha Edwards (el empleo de Hudson en juego) | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-08-20-harley-hudson-vs-alisha-edwards-empleo-en-juego-tna-impact.md) |
 | 2026-08-20 | Jada Stone vs Heather by Elegance — torneo KO TV Championship (semifinal) | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-08-20-jada-stone-vs-heather-by-elegance-ko-tv-semifinal-tna-impact.md) |
+| 2026-08-20 | Jason Hotch vs John Skyler | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-08-20-jason-hotch-vs-john-skyler-tna-impact.md) |
 | 2026-08-20 | Rich Swann vs Mr. Elegance | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-08-20-rich-swann-vs-mr-elegance-tna-impact.md) |
 | 2026-08-19 | Jay White vs Jon Moxley — Continental Challenge Cup, cuartos de final | AEW / Dynamite | — | — | en-investigacion | 1 | [→](2026-08-19-jay-white-vs-jon-moxley-aew-dynamite.md) |
 | 2026-08-19 | Maya World (c) vs Kris Statlander vs Hikaru Shida vs Persephone — AEW TBS Championship | AEW / Dynamite | WE | — | en-investigacion | 1 | [→](2026-08-19-tbs-title-4-way-maya-world-vs-statlander-shida-persephone-aew-dynamite.md) |

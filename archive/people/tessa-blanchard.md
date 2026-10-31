@@ -154,6 +154,13 @@ archivo tiene sobre ella**:
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-10-31 s01 — TNA iMPACT! 20/8 y Lockdown 2026
+
+- TNA Lockdown, 23/8/2026, 00:26:52 — [Allie & Kiera Hogan vs The Elegance Brand (M & Heather) — Knockouts World Tag Team Championship (steel cage)](../matches/2026-08-23-allie-kiera-hogan-vs-elegance-brand-cage-ko-tag-titles-tna-lockdown.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar exacto de nacimiento.

@@ -182,6 +182,14 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-10-31 s01 — TNA iMPACT! 20/8 y Lockdown 2026
+
+- TNA iMPACT!, 20/8/2026, 01:14:29 — [The Hardys, Moose & Elijah vs Nic & Ryan Nemeth, Frankie Kazarian & AJ Francis](../matches/2026-08-20-hardys-moose-elijah-vs-nemeths-kazarian-aj-francis-tna-impact.md) — **FC**.
+- TNA Lockdown, 23/8/2026, 00:03:06 — [AJ Francis vs Elijah (steel cage)](../matches/2026-08-23-aj-francis-vs-elijah-steel-cage-tna-lockdown.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado.
