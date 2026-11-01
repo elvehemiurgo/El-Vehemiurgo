@@ -22,7 +22,7 @@ veces_visto_vehemiurgo: 2
 calificacion_vehemiurgo: "No decepciono, desde la preparacion backstage, toda la agresividad del inicio, es un booking genial y con mucha nostalgia; claramente no es main event, pero incluso con ese techo se puede hacer magia; me encanto el desenlace, el spot fue accidentado pero lo mantuvieron real; pero lo de las gradas y el ultimo spot si se vio mal, muy lento; se merece una FS class y una WE class"
 clases_vehemiurgo: ["fighting-spirit", "wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-16
+ultima_actualizacion: 2026-11-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-10-16 s01 (relectura — visión 2)"
   - "Volcado Vehemiurgo 2026-08-01 s44 (visión directa — TNA iMPACT!, 16/4/2026)"
@@ -32,7 +32,7 @@ tags: [tna-2026, impact, ec3, eric-young, no-contest, doctrina-gimmick-en-su-con
 
 # EC3 vs Eric Young — TNA iMPACT! (16/4/2026)
 
-> **Relectura 2026-10-16 s01: el Vehemiurgo dice "no le pondré una clase". Se conserva la FC de la primera visión hasta que ratifique.**
+> **Relectura 2026-10-16 s01: *"no le pondré una clase"*. El 2026-11-01 el Vehemiurgo ratifica la FC: *"a EC3 vs EY del 16/4 déjale el FC"*.**
 
 > Fighting Spirit + Wrestling Entertainment, declaradas explícitas.
 > **Discrepancia de research sin resolver**: el no contest a los 2:05
@@ -102,7 +102,7 @@ explícitas.**
 >
 > — El Vehemiurgo, 2026-10-16 s01 (relectura, verbatim, typos preservados)
 
-**Pregunta abierta**: en la relectura el Vehemiurgo dice *"no le pondré una clase"* (*"es más una lucha de storyline, como un setup"*). **Se conserva la Feeling Crown de la primera visión** hasta que ratifique si la retira.
+**Pregunta abierta**: en la relectura el Vehemiurgo dice *"no le pondré una clase"* (*"es más una lucha de storyline, como un setup"*). **Se conserva la Feeling Crown de la primera visión.** **Ratificada el 2026-11-01**: *"a EC3 vs EY del 16/4 dejale el FC"* (verbatim).
 
 Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 

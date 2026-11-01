@@ -344,6 +344,6 @@ Piezas nuevas: **2 ICC+** · **5 ICC** · **1 FC** · **2 WE+** · **3 WE** · *
 
 ## Próximos pasos
 
-- [ ] EC3 vs Eric Young: ¿se retira la FC (*"no le pondré una clase"*)?
+- [x] EC3 vs Eric Young: ¿se retira la FC (*"no le pondré una clase"*)? → **ratificada FC** el 2026-11-01 (*"a EC3 vs EY del 16/4 dejale el FC"*).
 - [ ] Finish de Los Americanos vs Tokyo Bad Boys; duraciones y referees.
 

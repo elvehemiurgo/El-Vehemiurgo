@@ -12,16 +12,16 @@ ubicacion_en_show: "timestamp 00:11:42"
 duracion: "[verif]"
 linea_textual: ""
 gimmick_momento: ""
-storyline: "Order 4 intenta tentar a Skyler contra Hotch. \"Mina\" en el dictado = probablemente Mila Moore (Order 4) [verif]. PWTorch registra \"Mustafa Ali–Skyler tension\" esa noche."
+storyline: "Order 4 intenta tentar a Skyler contra Hotch. \"Mina\" en el dictado = Mila Moore (Order 4), ratificado por el Vehemiurgo el 2026-11-01. PWTorch registra \"Mustafa Ali–Skyler tension\" esa noche."
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
 rating_tv: ""
 veces_visto_vehemiurgo: 1
-calificacion_vehemiurgo: "siguen el ángulo para John Skyler con Mina, tentándolo a traicionar a Hotch; buenos stakes para un veterano; buen papel como amigo de Hotch; booking interesante"
+calificacion_vehemiurgo: "siguen el ángulo para John Skyler con Mila Moore, tentándolo a traicionar a Hotch; buenos stakes para un veterano; buen papel como amigo de Hotch; booking interesante"
 clases_vehemiurgo: ["wrestling-entertainment"]
 estado: en-investigacion
-ultima_actualizacion: 2026-10-31
+ultima_actualizacion: 2026-11-01
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-10-31 s03 (visión directa — TNA iMPACT!, 27/8/2026, timestamp 00:11:42)"
   - "WebSearch 2026-10-31 (Fightful, TNAwrestling.com, Wrestling Inc, PWMania, WrestleZone, Yardbarker, PWTorch) — resultados; en vivo"
@@ -56,7 +56,6 @@ Timestamp **00:11:42**. Order 4 tienta a John Skyler para que traicione a Jason 
 ## Pendientes
 
 - [ ] Duración, líneas textuales contra video.
-- [ ] Cerrar los `[verif]` de esta ficha.
 
 ## Cross-links
 
