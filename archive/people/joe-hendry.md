@@ -229,6 +229,13 @@ Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA Bound for Glory, 11/10/2026, 03:04:03 — [Leon Slater vs Nic Nemeth (c) — TNA World Championship](../matches/2026-10-11-leon-slater-vs-nic-nemeth-tna-world-title-tna-bound-for-glory.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas TNA World Title run.

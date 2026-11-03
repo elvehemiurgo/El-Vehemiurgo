@@ -234,6 +234,17 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 10/9/2026, 00:14:40 — ["The King's Speech": la coronación de Kazarian con Avery; Moose apuesta su carrera](../segments/2026-09-10-kazarian-kings-speech-coronacion-avery-moose-carrera-tna-impact.md) — **WE**.
+- TNA iMPACT!, 17/9/2026, 00:26:45 — [Kazarian, promo sobre Moose](../segments/2026-09-17-kazarian-promo-moose-carrera-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 17/9/2026, 01:12:01 — [Moose vs Frankie Kazarian (con Avery Styles) — carrera de Moose en juego](../matches/2026-09-17-moose-vs-frankie-kazarian-carrera-de-moose-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 24/9/2026, 01:03:07 — [Moose y AJ Francis, promo](../segments/2026-09-24-moose-aj-francis-promo-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 1/10/2026, 00:39:11 — [Moose vs AJ Francis](../matches/2026-10-01-moose-vs-aj-francis-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] NFL detalle exacto (equipos + años + posición confirmada).

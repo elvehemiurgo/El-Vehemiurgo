@@ -88,6 +88,16 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 17/9/2026, 00:02:42 — [M by Elegance (c) vs Kiera Hogan — Knockouts TV Championship](../matches/2026-09-17-m-by-elegance-vs-kiera-hogan-knockouts-tv-title-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 8/10/2026, 00:11:30 — [Run-in backstage: Allie vs Zoey Serrano](../segments/2026-10-08-allie-zoey-serrano-brawl-backstage-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 8/10/2026, 00:17:51 — [Allie & Kiera Hogan, segmento post-match: el reto a Zoey](../segments/2026-10-08-allie-kiera-hogan-post-match-reto-zoey-tna-impact.md) — **sin clase**.
+- TNA Bound for Glory, 11/10/2026, 00:45:50 — [Zoey Serrano & Shayna Baszler vs Allie & Kiera Hogan (c) — Knockouts World Tag Team Championship](../matches/2026-10-11-zoey-serrano-shayna-baszler-vs-allie-kiera-hogan-ko-tag-titles-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

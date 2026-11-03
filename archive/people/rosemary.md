@@ -105,6 +105,13 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 1/10/2026, 00:49:29 — [Viñeta: "Courtney Rush" en lugar de Rosemary](../segments/2026-10-01-rosemary-courtney-rush-vineta-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria completa (Decay, reinados, fechas).

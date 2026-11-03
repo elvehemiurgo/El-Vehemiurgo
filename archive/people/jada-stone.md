@@ -127,6 +127,14 @@ Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../not
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 24/9/2026, 01:05:08 — [Elayna Black vs Gabby Forza vs Jada Stone vs Harley Hudson (retadora #1 al KO TV)](../matches/2026-09-24-elayna-black-gana-4-way-retadora-ko-tv-tna-impact.md) — **ICC**.
+- TNA Bound for Glory, 11/10/2026, 01:01:33 — [Call Your Shot Gauntlet](../matches/2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, edad, debut, trayectoria pre-TNA.

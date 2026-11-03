@@ -251,6 +251,17 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 10/9/2026, 01:09:48 — [Willow le habla a Matt Hardy](../segments/2026-09-10-willow-matt-hardy-vestuario-tna-impact.md) — **WE**.
+- TNA iMPACT!, 24/9/2026, 00:11:38 — [Promo de los Hardys; revelación de Syx](../segments/2026-09-24-hardys-promo-revelacion-syx-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 8/10/2026, apertura (tras el video) — [Hardys y Nemeths: quién es el mejor tag team; sale Leon Slater](../segments/2026-10-08-hardys-nemeths-leon-slater-segmento-apertura-tna-impact.md) — **WE**.
+- TNA iMPACT!, 8/10/2026, 01:11:50 — [The Nemeths (c) vs The Hardys — TNA World Tag Team Championship (revancha)](../matches/2026-10-08-nemeths-vs-hardys-revancha-tag-titles-tna-impact.md) — **ICC**.
+- TNA Bound for Glory, 11/10/2026, 02:52:29 — [Syx vs The Hardys (Falls Count Anywhere)](../matches/2026-10-11-syx-vs-hardys-falls-count-anywhere-tna-bound-for-glory.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia

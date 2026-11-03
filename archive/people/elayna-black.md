@@ -101,6 +101,18 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:11:01 — [M by Elegance, campeona heel; Heather y Elayna Black](../segments/2026-09-03-m-by-elegance-heather-elayna-black-segmento-tna-impact.md) — **WE**.
+- TNA iMPACT!, 10/9/2026, 00:04:24 — [Elayna Black vs Heather by Elegance](../matches/2026-09-10-elayna-black-vs-heather-by-elegance-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 24/9/2026, 01:05:08 — [Elayna Black vs Gabby Forza vs Jada Stone vs Harley Hudson (retadora #1 al KO TV)](../matches/2026-09-24-elayna-black-gana-4-way-retadora-ko-tv-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 1/10/2026, 01:00:10 — [Elegance Brand backstage; Elayna Black los molesta como retadora](../segments/2026-10-01-elegance-brand-backstage-elayna-black-retadora-tna-impact.md) — **WE**.
+- TNA iMPACT!, 8/10/2026, 00:38:34 — [M by Elegance (c) vs Elayna Black — Knockouts TV Championship](../matches/2026-10-08-m-by-elegance-vs-elayna-black-knockouts-tv-title-empate-tna-impact.md) — **ICC**.
+- TNA Bound for Glory, 11/10/2026, 01:01:33 — [Call Your Shot Gauntlet](../matches/2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, background pre-TNA.

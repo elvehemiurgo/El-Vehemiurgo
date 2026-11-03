@@ -94,6 +94,16 @@ Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](..
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 10/9/2026, 00:40:26 — [Jason Hotch vs Special Agent Zero](../matches/2026-09-10-jason-hotch-vs-agent-zero-tna-impact.md) — **FC**.
+- TNA iMPACT!, 24/9/2026, 00:26:15 — [Mustafa Ali regresa: problemas en Order 4](../segments/2026-09-24-mustafa-ali-regreso-order-4-agent-zero-tna-impact.md) — **WE**.
+- TNA iMPACT!, 1/10/2026, 00:21:45 — [Order 4 (Mustafa Ali & Agent Zero) vs The Great Hands (Jason Hotch & John Skyler)](../matches/2026-10-01-order-4-ali-agent-zero-vs-great-hands-hotch-skyler-tna-impact.md) — **ICC+**.
+- TNA Bound for Glory, 11/10/2026, 01:43:46 — [The Order 4-Way: Jason Hotch vs Mustafa Ali (c) vs John Skyler vs Agent Zero — International Championship](../matches/2026-10-11-jason-hotch-gana-order-4-way-international-title-tna-bound-for-glory.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] **Identidad y datos básicos** — prioridad.

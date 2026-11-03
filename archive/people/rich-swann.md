@@ -134,6 +134,17 @@ Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](..
 
 Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:57:42 — [Dutch vs BDE](../matches/2026-09-03-dutch-vs-bde-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 10/9/2026, 01:11:38 — [Rich Swann vs Vincent](../matches/2026-09-10-rich-swann-vs-vincent-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 17/9/2026, 00:14:37 — [Rich Swann vs LJ Cleary — qualifier X Division](../matches/2026-09-17-rich-swann-vs-lj-cleary-x-division-qualifier-tna-impact.md) — **FC**.
+- TNA iMPACT!, 24/9/2026, 00:28:23 — [The Righteous (Vincent & Dutch) vs Rich Swann & BDE ("Dot Combat")](../matches/2026-09-24-the-righteous-vs-rich-swann-bde-dot-combat-tna-impact.md) — **ICC**.
+- TNA Bound for Glory, 11/10/2026, 00:26:12 — [Scramble por el X Division Championship vacante](../matches/2026-10-11-amazing-red-gana-x-division-scramble-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad.

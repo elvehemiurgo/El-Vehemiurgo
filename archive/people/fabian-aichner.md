@@ -99,6 +99,15 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 10/9/2026, 00:29:09 — [Fabian Aichner vs Rohit Raju — qualifier X Division](../matches/2026-09-10-fabian-aichner-vs-rohit-raju-x-division-qualifier-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 8/10/2026, 00:55:24 — [Fabian Aichner vs KC Navarro](../matches/2026-10-08-fabian-aichner-vs-kc-navarro-tna-impact.md) — **FC**.
+- TNA Bound for Glory, 11/10/2026, 00:26:12 — [Scramble por el X Division Championship vacante](../matches/2026-10-11-amazing-red-gana-x-division-scramble-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria WWE con fechas; fecha exacta del debut en TNA.

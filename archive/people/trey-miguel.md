@@ -157,6 +157,16 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 01:07:12 — [Jason Hotch vs Trey Miguel (#1 contendiente al International)](../matches/2026-09-03-jason-hotch-vs-trey-miguel-no-contest-tna-impact.md) — **WE**.
+- TNA iMPACT!, 24/9/2026, 01:14:27 — [Mustafa Ali (c) vs Trey Miguel vs Jason Hotch — International Championship](../matches/2026-09-24-mustafa-ali-vs-trey-miguel-vs-jason-hotch-international-title-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 8/10/2026, 00:21:35 — [AJ Francis, Brian Myers, Home Town Man & Joe Alonzo vs Frankie Kazarian, Bear Bronson, Trey Miguel & Elijah](../matches/2026-10-08-aj-francis-myers-home-town-man-alonzo-vs-kazarian-bronson-miguel-elijah-tna-impact.md) — **ICC+**.
+- TNA Bound for Glory, 11/10/2026, 01:01:33 — [Call Your Shot Gauntlet](../matches/2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad de origen.

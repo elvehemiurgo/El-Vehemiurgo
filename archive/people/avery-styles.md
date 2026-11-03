@@ -45,6 +45,20 @@ Avery, aunque ninguna fuente lo conecta.
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:17:46 — [AJ Francis quiere ser el primer rival de Avery Styles; Kazarian interviene](../segments/2026-09-03-aj-francis-avery-styles-kazarian-segmento-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 10/9/2026, 00:14:40 — ["The King's Speech": la coronación de Kazarian con Avery; Moose apuesta su carrera](../segments/2026-09-10-kazarian-kings-speech-coronacion-avery-moose-carrera-tna-impact.md) — **WE**.
+- TNA iMPACT!, 17/9/2026, 01:12:01 — [Moose vs Frankie Kazarian (con Avery Styles) — carrera de Moose en juego](../matches/2026-09-17-moose-vs-frankie-kazarian-carrera-de-moose-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 24/9/2026, 00:42:55 — [Backstage: Kazarian y Avery Styles](../segments/2026-09-24-kazarian-avery-styles-backstage-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 1/10/2026, 00:58:37 — [Promo video: Kazarian entrena a Avery Styles](../segments/2026-10-01-promo-video-kazarian-entrena-avery-styles-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 8/10/2026, 00:21:35 — [AJ Francis, Brian Myers, Home Town Man & Joe Alonzo vs Frankie Kazarian, Bear Bronson, Trey Miguel & Elijah](../matches/2026-10-08-aj-francis-myers-home-town-man-alonzo-vs-kazarian-bronson-miguel-elijah-tna-impact.md) — **ICC+**.
+- TNA Bound for Glory, 11/10/2026, 01:01:33 — [Call Your Shot Gauntlet](../matches/2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) — **ICC**.
+- TNA Bound for Glory, 11/10/2026, 02:39:39 — [Kazarian, "el rey": Avery Styles y los títulos de parejas](../segments/2026-10-11-kazarian-promo-avery-styles-tag-titles-tna-bound-for-glory.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria indie.

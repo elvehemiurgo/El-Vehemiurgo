@@ -266,6 +266,14 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 24/9/2026, 00:52:40 — [Elijah vs Eddie Edwards](../matches/2026-09-24-elijah-vs-eddie-edwards-tna-impact.md) — **ICC**.
+- TNA Bound for Glory, 11/10/2026, 00:05:23 — [Ricky Sosa vs Eddie Edwards](../matches/2026-10-11-ricky-sosa-vs-eddie-edwards-tna-bound-for-glory.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).

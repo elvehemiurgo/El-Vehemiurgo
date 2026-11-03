@@ -134,6 +134,16 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:01:18 — [Matt Hardy acusa a los Nemeth del ataque a Jeff; emboscada](../segments/2026-09-03-matt-hardy-acusa-nemeths-ataque-jeff-emboscada-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 24/9/2026, 00:02:55 — [Leon Slater, segmento in-ring rumbo a Bound for Glory](../segments/2026-09-24-leon-slater-segmento-in-ring-nemeth-previa-bfg-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 24/9/2026, 00:45:30 — [Santino con Indi Hartwell y Harley Hudson; Xia Brookside](../segments/2026-09-24-santino-indi-hartwell-harley-hudson-xia-brookside-tna-impact.md) — **WE**.
+- TNA iMPACT!, 1/10/2026, 00:35:43 — [Order 4 backstage: se pacta el 4-way de Bound for Glory](../segments/2026-10-01-order-4-backstage-se-pacta-4-way-bfg-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Confirmar título exacto en TNA (Director of Authority).

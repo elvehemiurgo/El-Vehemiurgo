@@ -85,6 +85,16 @@ Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../not
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 24/9/2026, 00:52:40 — [Elijah vs Eddie Edwards](../matches/2026-09-24-elijah-vs-eddie-edwards-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 1/10/2026, 01:02:50 — [Cedric Alexander vs Ricky Sosa](../matches/2026-10-01-cedric-alexander-vs-ricky-sosa-tna-impact.md) — **FC**.
+- TNA iMPACT!, 8/10/2026, 00:52:05 — [Ricky Sosa, promo previa a Bound for Glory](../segments/2026-10-08-ricky-sosa-promo-previa-bfg-tna-impact.md) — **WE**.
+- TNA Bound for Glory, 11/10/2026, 00:05:23 — [Ricky Sosa vs Eddie Edwards](../matches/2026-10-11-ricky-sosa-vs-eddie-edwards-tna-bound-for-glory.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y trayectoria previa a TNA.

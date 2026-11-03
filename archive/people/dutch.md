@@ -214,6 +214,17 @@ Volcado: [`../../notebook/2026-10-26-s01-tna-impact-julio-2026-post-slammiversar
 
 Volcado: [`../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md`](../../notebook/2026-10-26-s02-tna-impact-160726-cierre-230726.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:57:42 — [Dutch vs BDE](../matches/2026-09-03-dutch-vs-bde-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 10/9/2026, 01:11:38 — [Rich Swann vs Vincent](../matches/2026-09-10-rich-swann-vs-vincent-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 24/9/2026, 00:28:23 — [The Righteous (Vincent & Dutch) vs Rich Swann & BDE ("Dot Combat")](../matches/2026-09-24-the-righteous-vs-rich-swann-bde-dot-combat-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 8/10/2026, 00:30:49 — [Promo video: The Righteous intentan reclutar a Harley Hudson](../segments/2026-10-08-promo-video-the-righteous-reclutan-harley-hudson-tna-impact.md) — **WE**.
+- TNA Bound for Glory, 11/10/2026, 01:01:33 — [Call Your Shot Gauntlet](../matches/2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [x] Carrera completa mapeada por sub-agente 2026-06-17.

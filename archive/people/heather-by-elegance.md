@@ -138,6 +138,16 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:11:01 — [M by Elegance, campeona heel; Heather y Elayna Black](../segments/2026-09-03-m-by-elegance-heather-elayna-black-segmento-tna-impact.md) — **WE**.
+- TNA iMPACT!, 10/9/2026, 00:04:24 — [Elayna Black vs Heather by Elegance](../matches/2026-09-10-elayna-black-vs-heather-by-elegance-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 1/10/2026, 01:00:10 — [Elegance Brand backstage; Elayna Black los molesta como retadora](../segments/2026-10-01-elegance-brand-backstage-elayna-black-retadora-tna-impact.md) — **WE**.
+- TNA Bound for Glory, 11/10/2026, 01:01:33 — [Call Your Shot Gauntlet](../matches/2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha y lugar de nacimiento.

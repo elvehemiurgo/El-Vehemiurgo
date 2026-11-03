@@ -544,6 +544,14 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`](../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA Bound for Glory, 11/10/2026, 00:24:27 — [Leon Slater, promo backstage en Bound for Glory](../segments/2026-10-11-leon-slater-promo-backstage-bfg-tna-bound-for-glory.md) — **WE**.
+- TNA Bound for Glory, 11/10/2026, 03:04:03 — [Leon Slater vs Nic Nemeth (c) — TNA World Championship](../matches/2026-10-11-leon-slater-vs-nic-nemeth-tna-world-title-tna-bound-for-glory.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + ciudad (Bronx, NY [verif]).

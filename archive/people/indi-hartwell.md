@@ -91,6 +91,17 @@ Volcado: [`../../notebook/2026-10-22-s01-tna-impact-junio-slammiversary-2026.md`
 
 Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:19:50 — [Harley Hudson & Indi Hartwell vs Zoey Serrano & Xia Brookside](../matches/2026-09-03-harley-hudson-indi-hartwell-vs-zoey-serrano-xia-brookside-tna-impact.md) — **WE**.
+- TNA iMPACT!, 10/9/2026, 00:52:55 — [Xia Brookside (c) vs Gabby Forza — Knockouts World Championship](../matches/2026-09-10-xia-brookside-vs-gabby-forza-knockouts-world-title-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 17/9/2026, 01:02:20 — [Zoey Serrano vs Harley Hudson](../matches/2026-09-17-zoey-serrano-vs-harley-hudson-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 24/9/2026, 00:45:30 — [Santino con Indi Hartwell y Harley Hudson; Xia Brookside](../segments/2026-09-24-santino-indi-hartwell-harley-hudson-xia-brookside-tna-impact.md) — **WE**.
+- TNA Bound for Glory, 11/10/2026, 02:07:56 — [Indi Hartwell vs Xia Brookside (c) — Knockouts World Championship (Mickie James árbitra especial)](../matches/2026-10-11-indi-hartwell-vs-xia-brookside-knockouts-world-title-mickie-james-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento.

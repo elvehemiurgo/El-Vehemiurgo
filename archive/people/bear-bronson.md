@@ -227,6 +227,14 @@ Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../not
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 8/10/2026, 00:21:35 — [AJ Francis, Brian Myers, Home Town Man & Joe Alonzo vs Frankie Kazarian, Bear Bronson, Trey Miguel & Elijah](../matches/2026-10-08-aj-francis-myers-home-town-man-alonzo-vs-kazarian-bronson-miguel-elijah-tna-impact.md) — **ICC+**.
+- TNA Bound for Glory, 11/10/2026, 01:01:33 — [Call Your Shot Gauntlet](../matches/2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + fecha de nacimiento + origen.

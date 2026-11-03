@@ -99,6 +99,18 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md`](../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:19:50 — [Harley Hudson & Indi Hartwell vs Zoey Serrano & Xia Brookside](../matches/2026-09-03-harley-hudson-indi-hartwell-vs-zoey-serrano-xia-brookside-tna-impact.md) — **WE**.
+- TNA iMPACT!, 17/9/2026, 01:02:20 — [Zoey Serrano vs Harley Hudson](../matches/2026-09-17-zoey-serrano-vs-harley-hudson-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 24/9/2026, 00:45:30 — [Santino con Indi Hartwell y Harley Hudson; Xia Brookside](../segments/2026-09-24-santino-indi-hartwell-harley-hudson-xia-brookside-tna-impact.md) — **WE**.
+- TNA iMPACT!, 24/9/2026, 01:05:08 — [Elayna Black vs Gabby Forza vs Jada Stone vs Harley Hudson (retadora #1 al KO TV)](../matches/2026-09-24-elayna-black-gana-4-way-retadora-ko-tv-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 8/10/2026, 00:30:49 — [Promo video: The Righteous intentan reclutar a Harley Hudson](../segments/2026-10-08-promo-video-the-righteous-reclutan-harley-hudson-tna-impact.md) — **WE**.
+- TNA Bound for Glory, 11/10/2026, 01:01:33 — [Call Your Shot Gauntlet](../matches/2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + origen + background.

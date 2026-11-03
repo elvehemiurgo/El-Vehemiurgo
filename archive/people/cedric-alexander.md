@@ -246,6 +246,14 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 1/10/2026, 01:02:50 — [Cedric Alexander vs Ricky Sosa](../matches/2026-10-01-cedric-alexander-vs-ricky-sosa-tna-impact.md) — **FC**.
+- TNA Bound for Glory, 11/10/2026, 00:26:12 — [Scramble por el X Division Championship vacante](../matches/2026-10-11-amazing-red-gana-x-division-scramble-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha de nacimiento exacta.

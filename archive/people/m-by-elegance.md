@@ -230,6 +230,17 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:11:01 — [M by Elegance, campeona heel; Heather y Elayna Black](../segments/2026-09-03-m-by-elegance-heather-elayna-black-segmento-tna-impact.md) — **WE**.
+- TNA iMPACT!, 17/9/2026, 00:02:42 — [M by Elegance (c) vs Kiera Hogan — Knockouts TV Championship](../matches/2026-09-17-m-by-elegance-vs-kiera-hogan-knockouts-tv-title-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 1/10/2026, 01:00:10 — [Elegance Brand backstage; Elayna Black los molesta como retadora](../segments/2026-10-01-elegance-brand-backstage-elayna-black-retadora-tna-impact.md) — **WE**.
+- TNA iMPACT!, 8/10/2026, 00:38:34 — [M by Elegance (c) vs Elayna Black — Knockouts TV Championship](../matches/2026-10-08-m-by-elegance-vs-elayna-black-knockouts-tv-title-empate-tna-impact.md) — **ICC**.
+- TNA Bound for Glory, 11/10/2026, 01:01:33 — [Call Your Shot Gauntlet](../matches/2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [x] Background indie pre-Elegance (Black and Brave + ex-volleyball NCAA).

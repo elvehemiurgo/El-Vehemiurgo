@@ -236,6 +236,22 @@ Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../not
 
 Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2026-10-31-s03-tna-impact-270826.md)
 
+
+### Sesión 2026-11-03 s01 — TNA iMPACT! sep–oct y Bound for Glory 2026
+
+- TNA iMPACT!, 3/9/2026, 00:01:18 — [Matt Hardy acusa a los Nemeth del ataque a Jeff; emboscada](../segments/2026-09-03-matt-hardy-acusa-nemeths-ataque-jeff-emboscada-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 10/9/2026, 01:20:47 — [Nic Nemeth (c) vs Matt Hardy — TNA World Championship (No DQ)](../matches/2026-09-10-nic-nemeth-vs-matt-hardy-no-dq-tna-world-title-tna-impact.md) — **FC**.
+- TNA iMPACT!, 17/9/2026, 00:50:01 — [Leon Slater vs Ryan Nemeth](../matches/2026-09-17-leon-slater-vs-ryan-nemeth-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 24/9/2026, 00:02:55 — [Leon Slater, segmento in-ring rumbo a Bound for Glory](../segments/2026-09-24-leon-slater-segmento-in-ring-nemeth-previa-bfg-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 1/10/2026, 00:57:20 — [Post-match: Leon Slater y Nic Nemeth](../segments/2026-10-01-leon-slater-nic-nemeth-post-match-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 8/10/2026, apertura (tras el video) — [Hardys y Nemeths: quién es el mejor tag team; sale Leon Slater](../segments/2026-10-08-hardys-nemeths-leon-slater-segmento-apertura-tna-impact.md) — **WE**.
+- TNA iMPACT!, 8/10/2026, 01:11:50 — [The Nemeths (c) vs The Hardys — TNA World Tag Team Championship (revancha)](../matches/2026-10-08-nemeths-vs-hardys-revancha-tag-titles-tna-impact.md) — **ICC**.
+- TNA Bound for Glory, 11/10/2026, 00:43:59 — [Nic Nemeth responde: Leon al final de la fila si pierde](../segments/2026-10-11-nic-nemeth-promo-responde-leon-slater-tna-bound-for-glory.md) — **WE**.
+- TNA Bound for Glory, 11/10/2026, 03:01:49 — [Promo video del main event: Leon Slater vs Nic Nemeth](../segments/2026-10-11-promo-video-main-event-leon-slater-vs-nic-nemeth-tna-bound-for-glory.md) — **WE**.
+- TNA Bound for Glory, 11/10/2026, 03:04:03 — [Leon Slater vs Nic Nemeth (c) — TNA World Championship](../matches/2026-10-11-leon-slater-vs-nic-nemeth-tna-world-title-tna-bound-for-glory.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).
