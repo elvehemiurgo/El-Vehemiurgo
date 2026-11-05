@@ -111,6 +111,16 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 00:29:20 — [Harley Hudson con The Righteous](../segments/2026-10-15-harley-hudson-the-righteous-segmento-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 15/10/2026, 00:51:04 — [Xia Brookside & APEX (Zoey Serrano & Shayna Baszler) vs Indi Hartwell, Gabby Forza & Harley Hudson](../matches/2026-10-15-xia-brookside-apex-vs-indi-hartwell-gabby-forza-harley-hudson-tna-impact.md) — **WE**.
+- TNA iMPACT!, 22/10/2026, 00:59:29 — [The Righteous en dosis pequeña; Hudson se acerca](../segments/2026-10-22-the-righteous-harley-hudson-dosis-pequena-tna-impact.md) — **WE**.
+- TNA iMPACT!, 29/10/2026, 00:47:17 — [Video de The Righteous con Harley Hudson](../segments/2026-10-29-video-the-righteous-harley-hudson-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + origen + background.

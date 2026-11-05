@@ -54,6 +54,13 @@ repertorio old-school. El espacio que dejó Dani Luna.
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 00:51:04 — [Xia Brookside & APEX (Zoey Serrano & Shayna Baszler) vs Indi Hartwell, Gabby Forza & Harley Hudson](../matches/2026-10-15-xia-brookside-apex-vs-indi-hartwell-gabby-forza-harley-hudson-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y trayectoria previa.

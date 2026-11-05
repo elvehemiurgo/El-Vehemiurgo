@@ -135,6 +135,14 @@ Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 22/10/2026, 00:47:01 — [M by Elegance se declara líder de la Elegance Brand](../segments/2026-10-22-m-by-elegance-lider-elegance-brand-elayna-jada-tna-impact.md) — **WE**.
+- TNA iMPACT!, 29/10/2026, 00:02:36 — [M by Elegance (c) vs Jada Stone — Knockouts TV Championship](../matches/2026-10-29-m-by-elegance-vs-jada-stone-knockouts-tv-title-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, edad, debut, trayectoria pre-TNA.

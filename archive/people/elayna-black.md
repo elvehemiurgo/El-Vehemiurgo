@@ -113,6 +113,14 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 22/10/2026, 00:47:01 — [M by Elegance se declara líder de la Elegance Brand](../segments/2026-10-22-m-by-elegance-lider-elegance-brand-elayna-jada-tna-impact.md) — **WE**.
+- TNA iMPACT!, 29/10/2026, 00:40:58 — [Elayna Black y Heather: "¿hasta cuándo te vas a dejar mandar?"](../segments/2026-10-29-elayna-black-heather-by-elegance-segmento-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, background pre-TNA.

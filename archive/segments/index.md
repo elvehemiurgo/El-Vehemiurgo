@@ -12,6 +12,34 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-10-29 | APEX embosca en ringside; Shayna Baszler toma el headset | TNA Wrestling / iMPACT! | segmento | — | — | en-investigacion | 1 | [→](2026-10-29-apex-emboscada-shayna-baszler-headset-tna-impact.md) |
+| 2026-10-29 | Bear Bronson reta a Eddie Edwards por el liderazgo de The System | TNA Wrestling / iMPACT! | segmento | WE+ | — | en-investigacion | 1 | [→](2026-10-29-bear-bronson-reta-eddie-edwards-liderazgo-tna-impact.md) |
+| 2026-10-29 | Elayna Black y Heather: "¿hasta cuándo te vas a dejar mandar?" | TNA Wrestling / iMPACT! | segmento backstage | — | — | en-investigacion | 1 | [→](2026-10-29-elayna-black-heather-by-elegance-segmento-tna-impact.md) |
+| 2026-10-29 | Fire 'N Flava, promo backstage | TNA Wrestling / iMPACT! | promo backstage | WE+ | — | en-investigacion | 1 | [→](2026-10-29-fire-n-flava-promo-backstage-tna-impact.md) |
+| 2026-10-29 | Leon Slater en el ring vendiendo Destination X; Trey Miguel | TNA Wrestling / iMPACT! | promo in-ring | — | — | en-investigacion | 1 | [→](2026-10-29-leon-slater-in-ring-trey-miguel-destination-x-tna-impact.md) |
+| 2026-10-29 | Mustafa Ali interrumpe a Kazarian en backstage | TNA Wrestling / iMPACT! | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-10-29-mustafa-ali-interrumpe-kazarian-backstage-tna-impact.md) |
+| 2026-10-29 | Video de apertura: el recap de Ali vs Hotch | TNA Wrestling / iMPACT! | video | WE | — | en-investigacion | 1 | [→](2026-10-29-opener-video-ali-vs-hotch-tna-impact.md) |
+| 2026-10-29 | Ricky Sosa y Fabian Aichner se anotan en la World X-Cup | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-10-29-ricky-sosa-fabian-aichner-world-x-cup-tna-impact.md) |
+| 2026-10-29 | The System backstage: la promo de Cedric y el problema Bear–Eddie | TNA Wrestling / iMPACT! | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-10-29-the-system-backstage-cedric-bear-eddie-tna-impact.md) |
+| 2026-10-29 | Video de The Righteous con Harley Hudson | TNA Wrestling / iMPACT! | promo video | WE | — | en-investigacion | 1 | [→](2026-10-29-video-the-righteous-harley-hudson-tna-impact.md) |
+| 2026-10-22 | AJ Francis frente a John Skyler y Mila Moore | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-10-22-aj-francis-john-skyler-mila-moore-promo-tna-impact.md) |
+| 2026-10-22 | Avery y Kazarian backstage; los felicitan los Hardys y Moose | TNA Wrestling / iMPACT! | segmento backstage | — | — | en-investigacion | 1 | [→](2026-10-22-avery-kazarian-backstage-hardys-moose-tna-impact.md) |
+| 2026-10-22 | Cedric motivado; Bear Bronson sigue molesto con Eddie | TNA Wrestling / iMPACT! | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-10-22-cedric-motivado-bear-bronson-eddie-edwards-tension-tna-impact.md) |
+| 2026-10-22 | Elijah y Nic Nemeth, brawl | TNA Wrestling / iMPACT! | brawl | WE | — | en-investigacion | 1 | [→](2026-10-22-elijah-nic-nemeth-brawl-tna-impact.md) |
+| 2026-10-22 | Elijah, promo personal contra Nic Nemeth | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-10-22-elijah-promo-nic-nemeth-tna-impact.md) |
+| 2026-10-22 | Joe Alonzo, promo: "Average Styles" | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-10-22-joe-alonzo-promo-average-styles-tna-impact.md) |
+| 2026-10-22 | Kiera Hogan rompe con Allie; vuelve Fire 'N Flava; aparece Shotzi | TNA Wrestling / iMPACT! | segmento de cierre | WE | — | en-investigacion | 1 | [→](2026-10-22-kiera-hogan-rompe-con-allie-fire-n-flava-shotzi-tna-impact.md) |
+| 2026-10-22 | Leon Slater y Trey Miguel, promo backstage | TNA Wrestling / iMPACT! | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-10-22-leon-slater-trey-miguel-promo-backstage-tna-impact.md) |
+| 2026-10-22 | M by Elegance se declara líder de la Elegance Brand | TNA Wrestling / iMPACT! | segmento | WE | — | en-investigacion | 1 | [→](2026-10-22-m-by-elegance-lider-elegance-brand-elayna-jada-tna-impact.md) |
+| 2026-10-22 | Tasha Steelz libera a Agent Zero | TNA Wrestling / iMPACT! | segmento | WE | — | en-investigacion | 1 | [→](2026-10-22-tasha-steelz-libera-agent-zero-tna-impact.md) |
+| 2026-10-22 | The Righteous en dosis pequeña; Hudson se acerca | TNA Wrestling / iMPACT! | segmento | WE | — | en-investigacion | 1 | [→](2026-10-22-the-righteous-harley-hudson-dosis-pequena-tna-impact.md) |
+| 2026-10-22 | Xia Brookside toca fondo; foreshadowing de The Righteous | TNA Wrestling / iMPACT! | segmento backstage | — | — | en-investigacion | 1 | [→](2026-10-22-xia-brookside-llora-foreshadowing-the-righteous-tna-impact.md) |
+| 2026-10-15 | Los Hardys celebran 35 años y "bookean" el show; rub a Amazing Red | TNA Wrestling / iMPACT! | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-10-15-hardys-35-anos-promo-amazing-red-tna-impact.md) |
+| 2026-10-15 | Harley Hudson con The Righteous | TNA Wrestling / iMPACT! | segmento backstage | — | — | en-investigacion | 1 | [→](2026-10-15-harley-hudson-the-righteous-segmento-tna-impact.md) |
+| 2026-10-15 | Kazarian y Avery Styles anuncian que van por los títulos de parejas | TNA Wrestling / iMPACT! | segmento | WE | — | en-investigacion | 1 | [→](2026-10-15-kazarian-avery-styles-anuncian-van-por-tag-titles-tna-impact.md) |
+| 2026-10-15 | Leon Slater se adueña de la Impact Zone; Jeff Hardy quiere una lucha | TNA Wrestling / iMPACT! | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-10-15-leon-slater-microfono-jeff-hardy-reto-tna-impact.md) |
+| 2026-10-15 | Nic y Ryan Nemeth: sin revancha inmediata | TNA Wrestling / iMPACT! | segmento | WE | — | en-investigacion | 1 | [→](2026-10-15-nic-ryan-nemeth-segmento-sin-revancha-tna-impact.md) |
+| 2026-10-15 | The System con Santino; Eddie pone over a Sosa y Bear se molesta | TNA Wrestling / iMPACT! | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-10-15-the-system-santino-eddie-sosa-bear-bronson-tna-impact.md) |
 | 2026-10-11 | Kazarian, "el rey": Avery Styles y los títulos de parejas | TNA Wrestling / Bound for Glory | promo | WE+ | — | en-investigacion | 1 | [→](2026-10-11-kazarian-promo-avery-styles-tag-titles-tna-bound-for-glory.md) |
 | 2026-10-11 | Leon Slater, promo backstage en Bound for Glory | TNA Wrestling / Bound for Glory | promo backstage | WE | — | en-investigacion | 1 | [→](2026-10-11-leon-slater-promo-backstage-bfg-tna-bound-for-glory.md) |
 | 2026-10-11 | Nic Nemeth responde: Leon al final de la fila si pierde | TNA Wrestling / Bound for Glory | promo | WE | — | en-investigacion | 1 | [→](2026-10-11-nic-nemeth-promo-responde-leon-slater-tna-bound-for-glory.md) |

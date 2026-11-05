@@ -45,6 +45,14 @@ tags: [joe-alonzo, tna-2026, x-division, heel, avery-styles, leon-slater, primer
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 22/10/2026, 00:37:05 — [Joe Alonzo, promo: "Average Styles"](../segments/2026-10-22-joe-alonzo-promo-average-styles-tna-impact.md) — **WE**.
+- TNA iMPACT!, 22/10/2026, 00:38:37 — [Avery Styles vs Joe Alonzo](../matches/2026-10-22-avery-styles-vs-joe-alonzo-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y trayectoria previa.

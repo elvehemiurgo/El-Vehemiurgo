@@ -229,6 +229,13 @@ lectura en clave de Cuatro Pilares del Puroresu.
 
 Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 22/10/2026, 00:38:37 — [Avery Styles vs Joe Alonzo](../matches/2026-10-22-avery-styles-vs-joe-alonzo-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] **AJ vs Kurt Angle TNA matches** (4 entradas en lista

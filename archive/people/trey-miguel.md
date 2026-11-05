@@ -167,6 +167,15 @@ Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 01:04:00 — [Ladder match por el retador #1 al TNA World Championship: Trey Miguel vs Moose vs Elijah vs Jason Hotch vs Ricky Sosa](../matches/2026-10-15-trey-miguel-gana-ladder-retador-1-tna-world-title-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 22/10/2026, 00:15:22 — [Leon Slater y Trey Miguel, promo backstage](../segments/2026-10-22-leon-slater-trey-miguel-promo-backstage-tna-impact.md) — **WE**.
+- TNA iMPACT!, 29/10/2026, 01:02:07 — [Leon Slater en el ring vendiendo Destination X; Trey Miguel](../segments/2026-10-29-leon-slater-in-ring-trey-miguel-destination-x-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad + ciudad de origen.

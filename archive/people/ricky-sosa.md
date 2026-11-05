@@ -95,6 +95,15 @@ Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 00:16:49 — [The System con Santino; Eddie pone over a Sosa y Bear se molesta](../segments/2026-10-15-the-system-santino-eddie-sosa-bear-bronson-tna-impact.md) — **WE**.
+- TNA iMPACT!, 15/10/2026, 01:04:00 — [Ladder match por el retador #1 al TNA World Championship: Trey Miguel vs Moose vs Elijah vs Jason Hotch vs Ricky Sosa](../matches/2026-10-15-trey-miguel-gana-ladder-retador-1-tna-world-title-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 29/10/2026, 00:22:34 — [Ricky Sosa y Fabian Aichner se anotan en la World X-Cup](../segments/2026-10-29-ricky-sosa-fabian-aichner-world-x-cup-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y trayectoria previa a TNA.

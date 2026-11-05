@@ -182,6 +182,13 @@ Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../not
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 22/10/2026, 00:19:56 — [Cedric Alexander vs Fabian Aichner vs KC Navarro vs Rich Swann (retador #1 al X Division)](../matches/2026-10-22-cedric-alexander-gana-4-way-x-division-retador-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Naturaleza de la lesión que lo sacó hasta Rebellion 2026.

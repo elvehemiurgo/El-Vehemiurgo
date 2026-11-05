@@ -143,6 +143,15 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 00:51:04 — [Xia Brookside & APEX (Zoey Serrano & Shayna Baszler) vs Indi Hartwell, Gabby Forza & Harley Hudson](../matches/2026-10-15-xia-brookside-apex-vs-indi-hartwell-gabby-forza-harley-hudson-tna-impact.md) — **WE**.
+- TNA iMPACT!, 22/10/2026, 00:05:28 — [Indi Hartwell (c) vs Xia Brookside — revancha sorpresa por el Knockouts World Championship](../matches/2026-10-22-indi-hartwell-vs-xia-brookside-revancha-sorpresa-knockouts-title-tna-impact.md) — **FC**.
+- TNA iMPACT!, 22/10/2026, 00:18:59 — [Xia Brookside toca fondo; foreshadowing de The Righteous](../segments/2026-10-22-xia-brookside-llora-foreshadowing-the-righteous-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-TNA (UK indies / NXT UK

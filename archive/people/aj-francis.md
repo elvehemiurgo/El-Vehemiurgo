@@ -169,6 +169,15 @@ Volcado: [`../../notebook/2026-10-31-s01-tna-impact-200826-cierre-lockdown-2026.
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 00:41:09 — [The Hardys vs AJ Francis & Expressions](../matches/2026-10-15-hardys-vs-aj-francis-expressions-tna-impact.md) — **WE**.
+- TNA iMPACT!, 22/10/2026, 00:33:20 — [AJ Francis frente a John Skyler y Mila Moore](../segments/2026-10-22-aj-francis-john-skyler-mila-moore-promo-tna-impact.md) — **WE**.
+- TNA iMPACT!, 29/10/2026, 00:51:06 — [AJ Francis vs John Skyler (con Mila Moore)](../matches/2026-10-29-aj-francis-vs-john-skyler-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado + fecha exacta de nacimiento.

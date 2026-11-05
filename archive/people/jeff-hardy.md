@@ -262,6 +262,17 @@ Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../not
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 00:00:37 — [Los Hardys celebran 35 años y "bookean" el show; rub a Amazing Red](../segments/2026-10-15-hardys-35-anos-promo-amazing-red-tna-impact.md) — **WE**.
+- TNA iMPACT!, 15/10/2026, 00:10:16 — [Leon Slater se adueña de la Impact Zone; Jeff Hardy quiere una lucha](../segments/2026-10-15-leon-slater-microfono-jeff-hardy-reto-tna-impact.md) — **WE**.
+- TNA iMPACT!, 15/10/2026, 00:18:05 — [Nic Nemeth vs Ryan Nemeth](../matches/2026-10-15-nic-nemeth-vs-ryan-nemeth-tna-impact.md) — **WE**.
+- TNA iMPACT!, 15/10/2026, 00:40:16 — [Kazarian y Avery Styles anuncian que van por los títulos de parejas](../segments/2026-10-15-kazarian-avery-styles-anuncian-van-por-tag-titles-tna-impact.md) — **WE**.
+- TNA iMPACT!, 15/10/2026, 00:41:09 — [The Hardys vs AJ Francis & Expressions](../matches/2026-10-15-hardys-vs-aj-francis-expressions-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia

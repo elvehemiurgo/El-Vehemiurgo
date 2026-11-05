@@ -114,6 +114,15 @@ Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 00:15:11 — [Nic y Ryan Nemeth: sin revancha inmediata](../segments/2026-10-15-nic-ryan-nemeth-segmento-sin-revancha-tna-impact.md) — **WE**.
+- TNA iMPACT!, 15/10/2026, 00:18:05 — [Nic Nemeth vs Ryan Nemeth](../matches/2026-10-15-nic-nemeth-vs-ryan-nemeth-tna-impact.md) — **WE**.
+- TNA iMPACT!, 29/10/2026, 01:12:11 — [Elijah vs Ryan Nemeth](../matches/2026-10-29-elijah-vs-ryan-nemeth-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Confirmar identidad **Briley Pierce** (WWE) → Ryan Nemeth.

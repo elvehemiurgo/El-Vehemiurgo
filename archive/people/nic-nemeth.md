@@ -252,6 +252,18 @@ Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 00:15:11 — [Nic y Ryan Nemeth: sin revancha inmediata](../segments/2026-10-15-nic-ryan-nemeth-segmento-sin-revancha-tna-impact.md) — **WE**.
+- TNA iMPACT!, 15/10/2026, 00:18:05 — [Nic Nemeth vs Ryan Nemeth](../matches/2026-10-15-nic-nemeth-vs-ryan-nemeth-tna-impact.md) — **WE**.
+- TNA iMPACT!, 15/10/2026, 01:04:00 — [Ladder match por el retador #1 al TNA World Championship: Trey Miguel vs Moose vs Elijah vs Jason Hotch vs Ricky Sosa](../matches/2026-10-15-trey-miguel-gana-ladder-retador-1-tna-world-title-tna-impact.md) — **ICC**.
+- TNA iMPACT!, 22/10/2026, 01:01:43 — [Elijah y Nic Nemeth, brawl](../segments/2026-10-22-elijah-nic-nemeth-brawl-tna-impact.md) — **WE**.
+- TNA iMPACT!, 22/10/2026, 01:02:34 — [Elijah, promo personal contra Nic Nemeth](../segments/2026-10-22-elijah-promo-nic-nemeth-tna-impact.md) — **WE**.
+- TNA iMPACT!, 29/10/2026, 01:12:11 — [Elijah vs Ryan Nemeth](../matches/2026-10-29-elijah-vs-ryan-nemeth-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Reign TNA World Champion (fechas exactas).

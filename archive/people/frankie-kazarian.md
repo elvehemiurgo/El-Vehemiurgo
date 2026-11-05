@@ -375,6 +375,16 @@ Volcado: [`../../notebook/2026-10-31-s03-tna-impact-270826.md`](../../notebook/2
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 15/10/2026, 00:40:16 — [Kazarian y Avery Styles anuncian que van por los títulos de parejas](../segments/2026-10-15-kazarian-avery-styles-anuncian-van-por-tag-titles-tna-impact.md) — **WE**.
+- TNA iMPACT!, 22/10/2026, 00:34:39 — [Avery y Kazarian backstage; los felicitan los Hardys y Moose](../segments/2026-10-22-avery-kazarian-backstage-hardys-moose-tna-impact.md) — **sin clase**.
+- TNA iMPACT!, 22/10/2026, 00:38:37 — [Avery Styles vs Joe Alonzo](../matches/2026-10-22-avery-styles-vs-joe-alonzo-tna-impact.md) — **ICC+**.
+- TNA iMPACT!, 29/10/2026, 01:23:42 — [Mustafa Ali interrumpe a Kazarian en backstage](../segments/2026-10-29-mustafa-ali-interrumpe-kazarian-backstage-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] **Christopher Daniels + Kaz Bad Influence run TNA** —

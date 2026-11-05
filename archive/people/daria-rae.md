@@ -86,6 +86,14 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md`](../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for-glory-2026.md)
 
+
+### Sesión 2026-11-05 s01 — TNA iMPACT!, octubre 2026
+
+- TNA iMPACT!, 22/10/2026, 00:05:28 — [Indi Hartwell (c) vs Xia Brookside — revancha sorpresa por el Knockouts World Championship](../matches/2026-10-22-indi-hartwell-vs-xia-brookside-revancha-sorpresa-knockouts-title-tna-impact.md) — **FC**.
+- TNA iMPACT!, 29/10/2026, 00:45:53 — [APEX embosca en ringside; Shayna Baszler toma el headset](../segments/2026-10-29-apex-emboscada-shayna-baszler-headset-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de debut como Daria Rae en TNA.

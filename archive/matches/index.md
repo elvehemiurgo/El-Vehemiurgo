@@ -13,6 +13,19 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-10-29 | Special Agent Zero vs BDE | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-10-29-agent-zero-vs-bde-tna-impact.md) |
+| 2026-10-29 | AJ Francis vs John Skyler (con Mila Moore) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-29-aj-francis-vs-john-skyler-tna-impact.md) |
+| 2026-10-29 | Amazing Red (c) vs Cedric Alexander — X Division Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-29-amazing-red-vs-cedric-alexander-x-division-title-tna-impact.md) |
+| 2026-10-29 | Elijah vs Ryan Nemeth | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-10-29-elijah-vs-ryan-nemeth-tna-impact.md) |
+| 2026-10-29 | M by Elegance (c) vs Jada Stone — Knockouts TV Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-29-m-by-elegance-vs-jada-stone-knockouts-tv-title-tna-impact.md) |
+| 2026-10-22 | Avery Styles vs Joe Alonzo | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-22-avery-styles-vs-joe-alonzo-tna-impact.md) |
+| 2026-10-22 | Cedric Alexander vs Fabian Aichner vs KC Navarro vs Rich Swann (retador #1 al X Division) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-22-cedric-alexander-gana-4-way-x-division-retador-tna-impact.md) |
+| 2026-10-22 | Indi Hartwell (c) vs Xia Brookside — revancha sorpresa por el Knockouts World Championship | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-10-22-indi-hartwell-vs-xia-brookside-revancha-sorpresa-knockouts-title-tna-impact.md) |
+| 2026-10-22 | Jason Hotch (c) vs Mustafa Ali — International Championship, 2 de 3 caídas | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-22-jason-hotch-vs-mustafa-ali-2-de-3-caidas-international-title-tna-impact.md) |
+| 2026-10-15 | The Hardys vs AJ Francis & Expressions | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-10-15-hardys-vs-aj-francis-expressions-tna-impact.md) |
+| 2026-10-15 | Nic Nemeth vs Ryan Nemeth | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-10-15-nic-nemeth-vs-ryan-nemeth-tna-impact.md) |
+| 2026-10-15 | Ladder match por el retador #1 al TNA World Championship: Trey Miguel vs Moose vs Elijah vs Jason Hotch vs Ricky Sosa | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-15-trey-miguel-gana-ladder-retador-1-tna-world-title-tna-impact.md) |
+| 2026-10-15 | Xia Brookside & APEX (Zoey Serrano & Shayna Baszler) vs Indi Hartwell, Gabby Forza & Harley Hudson | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-10-15-xia-brookside-apex-vs-indi-hartwell-gabby-forza-harley-hudson-tna-impact.md) |
 | 2026-10-11 | Scramble por el X Division Championship vacante | TNA Wrestling / Bound for Glory | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-11-amazing-red-gana-x-division-scramble-tna-bound-for-glory.md) |
 | 2026-10-11 | Call Your Shot Gauntlet | TNA Wrestling / Bound for Glory | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-11-call-your-shot-gauntlet-kazarian-tna-bound-for-glory.md) |
 | 2026-10-11 | Indi Hartwell vs Xia Brookside (c) — Knockouts World Championship (Mickie James árbitra especial) | TNA Wrestling / Bound for Glory | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-11-indi-hartwell-vs-xia-brookside-knockouts-world-title-mickie-james-tna-bound-for-glory.md) |
