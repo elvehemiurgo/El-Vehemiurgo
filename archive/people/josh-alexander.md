@@ -54,6 +54,13 @@ vs Mark Davis, dentro del arco de Steven Borden. Secuencia exacta
 respecto al ataque de Beretta/Romero sin cerrar por research. Pieza:
 [post-match](../segments/2026-09-02-post-match-steven-borden-josh-alexander-aew-dynamite.md) (WE).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 00:24:16 — [Adam Copeland vs Josh Alexander (clasificatoria Clockwork Carnage)](../matches/2026-10-14-adam-copeland-vs-josh-alexander-clockwork-qualifier-aew-dynamite-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Día de nacimiento.

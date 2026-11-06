@@ -60,6 +60,13 @@ real leída como el activo principal.
 - `2026 09 19 AEW Collision`, **ICC+**: pierde por Brutalizer en 4:17.
   Sube de registro respecto de Collision 12/9. [Ficha](../matches/2026-09-19-pac-vs-adam-priest-aew-collision.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 01:19:58 — [Mark Davis vs Adam Priest](../matches/2026-10-03-mark-davis-vs-adam-priest-aew-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] [verif] confirmar identidad exacta ("Priest" del dictado =

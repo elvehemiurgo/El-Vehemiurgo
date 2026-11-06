@@ -216,6 +216,15 @@ quedan explícitamente fuera de la clase. Pieza:
 ### Sesión 2026-10-03 s01 — Pierde los títulos en el ladder match de All Out (WE)
 - `2026 09 26 AEW All Out`, three-way ladder match por los títulos de parejas, **WE**: *"la lucha de escaleras estuvo cool"*. Ganan los Young Bucks (23:25, BTE Trigger a Christian desde la escalera). [Ficha](../matches/2026-09-26-young-bucks-vs-cope-cage-vs-ftr-ladder-tag-titles-aew-all-out.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision: Grand Slam France, 10/10/2026, 01:30:41 — [The Young Bucks (c) vs The Dogs (David Finlay & Clark Connors) — AEW World Tag Team Championship](../matches/2026-10-10-young-bucks-vs-the-dogs-tag-titles-aew-collision-grand-slam-france.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 00:24:16 — [Adam Copeland vs Josh Alexander (clasificatoria Clockwork Carnage)](../matches/2026-10-14-adam-copeland-vs-josh-alexander-clockwork-qualifier-aew-dynamite-collision.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 03:07:40 — [Post-match: run-ins de Okada, Archer y Romero; Rainmaker a Copeland](../segments/2026-10-14-post-match-run-ins-okada-darby-copeland-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes
 
 - [ ] Edge MITB cash-in New Year's Revolution 2006 — pieza

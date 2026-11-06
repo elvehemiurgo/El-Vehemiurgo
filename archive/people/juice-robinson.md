@@ -114,6 +114,13 @@ rivalidad. Ver
 ### Sesión 2026-10-02 s01 — El Tailgate Brawl sube a ICC+
 - La lucha de su alta al panteón se ratifica como **ICC+** el 2026-10-02. [Ficha](../matches/2026-09-26-bang-bang-gang-vs-dogs-death-riders-tornado-tailgate-brawl-aew-all-out.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 00:34:25 — [Death Riders (Claudio Castagnoli, Wheeler Yuta & Daniel Garcia) vs Bang Bang Gang (Ace Austin, Austin & Colten Gunn)](../matches/2026-10-03-death-riders-vs-bang-bang-gang-aew-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NJPW/Bullet Club/AEW.

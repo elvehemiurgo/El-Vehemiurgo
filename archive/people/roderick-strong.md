@@ -177,6 +177,13 @@ moderna-con-sustancia.
 
 Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md)
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 00:29:18 — [The Conglomeration (Orange Cassidy, Kyle O'Reilly & Roderick Strong) vs Aaron Solo, Nick Comoroto & Griff Garrison](../matches/2026-10-03-the-conglomeration-vs-solo-comoroto-garrison-aew-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + fecha/lugar de nacimiento exactos** —

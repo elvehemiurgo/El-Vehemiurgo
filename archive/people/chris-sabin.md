@@ -46,6 +46,13 @@ Nombrado en la lista masiva de s26 (bloque TNA). El Vehemiurgo lo lee con matiz:
   un adolescente occidental con internet. [Doctrina](../topics/doctrina-y2k-highspeed.md),
   [panteón](../topics/panteon-y2k-highspeed.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 01:00:27 — [FTR y MCMG: el reto a una serie al mejor de 5](../segments/2026-10-14-ftr-mcmg-best-of-5-series-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer X Division (2003); TNA Tag 2010; ROH tag titles.

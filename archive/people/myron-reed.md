@@ -179,6 +179,14 @@ Austin** en esta lectura de 2019).
   guardián de la escuela de Ohio
   ([panteón](../topics/panteon-y2k-highspeed.md)).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 00:49:32 — [Myron Reed vs Dante Martin](../matches/2026-10-03-myron-reed-vs-dante-martin-aew-collision.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 01:06:49 — [Kazuchika Okada (c) vs Myron Reed — AEW International Championship (revancha)](../matches/2026-10-14-okada-vs-myron-reed-international-title-aew-dynamite-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, edad.

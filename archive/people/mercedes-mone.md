@@ -96,6 +96,13 @@ entertainer dentro de un registro previo que la había criticado como
 "mid, super mid" (s19/s23). Pieza:
 [interrupción de Thekla](../segments/2026-09-02-thekla-interrumpe-celebracion-mercedes-mone-aew-dynamite.md) (WE).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 01:01:12 — [Thekla y Mercedes Moné](../segments/2026-10-03-thekla-mercedes-mone-segmento-aew-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa (WWE Sasha Banks →

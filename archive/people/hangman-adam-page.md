@@ -68,6 +68,13 @@ tags: [hangman-adam-page, the-elite, aew-founding, aew-world-champion-2021, cowb
 ### Sesión 2026-10-02 s01 — Trios en All Out: "no me interesó nunca esa historia" (sin clase)
 - `2026 09 26 AEW All Out`, con Brodido vs Swerve & New Level, sin clase: *"no me interesó nunca esa historia de Hangman vs Swerve, pero estuvo cool la lucha"*. [Ficha](../matches/2026-09-26-swerve-new-level-vs-hangman-brodido-trios-aew-all-out.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:01:55 — [Bandido (c) vs Kofi — ROH World Championship](../matches/2026-10-06-bandido-vs-kofi-roh-world-title-aew-dynamite-grand-slam-france.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes
 
 - [ ] AEW World Champion vs Kenny Omega Full Gear 2021 —

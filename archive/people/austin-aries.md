@@ -160,6 +160,13 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md`](../../notebook/2026-10-31-s02-tna-lockdown-2026-cierre.md)
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:23:25 — [Samoa Joe vs Jack Perry (clasificatoria Clockwork Carnage)](../matches/2026-10-06-samoa-joe-vs-jack-perry-clockwork-qualifier-aew-dynamite-grand-slam-france.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Número total de reinados como X Division Champion.

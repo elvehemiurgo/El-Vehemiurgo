@@ -80,6 +80,13 @@ Collision.
 [trios de Arena México](../matches/2026-08-05-mistico-darby-jericho-vs-knight-okada-hechicero-aew-gsm.md) (WE) ·
 [vs Brian Cage, C3](../matches/2026-08-15-brian-cage-vs-hechicero-aew-collision.md) (WE)
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 02:50:07 — [Darby Allin (c) vs Hechicero — TNT Championship (clasificatoria Clockwork Carnage)](../matches/2026-10-14-darby-allin-vs-hechicero-tnt-title-clockwork-qualifier-aew-dynamite-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria CMLL completa.

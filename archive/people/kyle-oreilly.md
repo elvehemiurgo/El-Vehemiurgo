@@ -38,6 +38,13 @@ tags: [kyle-oreilly, redragon, bobby-fish, roh, njpw, nxt, undisputed-era, aew, 
 
 Uno de los pocos del panteón con **dos piezas ICC en un mes** (agosto 2026) antes de tener ficha. El Vehemiurgo lo ascendió del Tier 2 (#12) al Tier 0 en s26 y lo mantiene también como mitad de reDRagon — el patrón *"doble presencia"* que el panteón reserva a quien vale solo y en dupla (como Dynamite Kid / Bulldogs). Rama *"worker de oficio, strong style"*: striking y submissions con causa, el contramodelo del acto friki.
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 00:29:18 — [The Conglomeration (Orange Cassidy, Kyle O'Reilly & Roderick Strong) vs Aaron Solo, Nick Comoroto & Griff Garrison](../matches/2026-10-03-the-conglomeration-vs-solo-comoroto-garrison-aew-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de los reinados NXT Tag 2 y 3, y del debut en AEW.

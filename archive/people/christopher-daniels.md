@@ -142,6 +142,13 @@ horario estelar.
   *"coacheada por Chris Daniels"*. El Vehemiurgo lee el coaching como
   parte del paquete. [Ficha](../matches/2026-09-19-thekla-vs-zayda-steel-aew-collision.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 00:49:32 — [Myron Reed vs Dante Martin](../matches/2026-10-03-myron-reed-vs-dante-martin-aew-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y lugar de nacimiento — contradicciones sin cerrar.

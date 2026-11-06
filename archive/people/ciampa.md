@@ -226,6 +226,14 @@ con su reputación — violencia real, siempre con propósito
 narrativo, nunca solo espectáculo. **Pendiente de confirmación
 antes de tratar esto como dato firme.**
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision: Grand Slam France, 10/10/2026, 01:02:30 — [Andrade (c) vs Michael Oku — AEW National Championship](../matches/2026-10-10-andrade-vs-michael-oku-national-title-aew-collision-grand-slam-france.md) — **ICC**.
+- AEW Dynamite & Collision, 14/10/2026, 01:46:16 — [Samoa Joe & Tommaso Ciampa vs Will Ospreay & Andrade](../matches/2026-10-14-samoa-joe-ciampa-vs-will-ospreay-andrade-aew-dynamite-collision.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, trayectoria NXT/WWE detallada.

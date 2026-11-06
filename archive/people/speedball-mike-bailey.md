@@ -191,6 +191,15 @@ lo que su gimmick sugeriría a primera vista.
 ### Sesión 2026-10-01 s01 — Rub como babyface: "tiene que meterle al micrófono"
 - `2026 09 23 AEW Dynamite`, con Ospreay vs Claudio y Kidd, **ICC+**: *"buen rub para Bayley como babyface en el midcard, tiene que meterle al micrófono para destacar más, el potencial está ahí, en México se vio increíble"*. Esa noche entra a United Empire. [Ficha](../matches/2026-09-23-ospreay-bailey-vs-claudio-gabe-kidd-aew-dynamite.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:21:40 — [Will Ospreay, promo face: la Clockwork Carnage; con Mike Bailey](../segments/2026-10-06-will-ospreay-promo-clockwork-carnage-mike-bailey-aew-dynamite-grand-slam-france.md) — **WE**.
+- AEW Collision: Grand Slam France, 10/10/2026, 00:37:01 — [Mike Bailey vs Lee Moriarty (clasificatoria Clockwork Carnage)](../matches/2026-10-10-mike-bailey-vs-lee-moriarty-clockwork-qualifier-aew-collision-grand-slam-france.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 00:58:26 — [United Empire, promo](../segments/2026-10-14-united-empire-promo-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, origen, debut, trayectoria pre-AEW.

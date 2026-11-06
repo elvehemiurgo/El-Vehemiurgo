@@ -178,6 +178,15 @@ y
   entretenido"*. Es comparación de fórmula, no take nuevo sobre
   Takeshita. [Ficha](../segments/2026-09-19-don-callis-family-culpa-a-stokely-okada-ciampa-aew-collision.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 00:24:16 — [Adam Copeland vs Josh Alexander (clasificatoria Clockwork Carnage)](../matches/2026-10-14-adam-copeland-vs-josh-alexander-clockwork-qualifier-aew-dynamite-collision.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 00:45:48 — [Konosuke Takeshita vs Brian Cage (clasificatoria Clockwork Carnage)](../matches/2026-10-14-konosuke-takeshita-vs-brian-cage-clockwork-qualifier-aew-dynamite-collision.md) — **WE**.
+- AEW Dynamite & Collision, 14/10/2026, 03:07:40 — [Post-match: run-ins de Okada, Archer y Romero; Rainmaker a Copeland](../segments/2026-10-14-post-match-run-ins-okada-darby-copeland-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (DDT Japón → AEW).

@@ -129,6 +129,14 @@ Vehemiurgo lo sigue leyendo como el hallazgo del mes. Piezas:
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 00:34:25 — [Death Riders (Claudio Castagnoli, Wheeler Yuta & Daniel Garcia) vs Bang Bang Gang (Ace Austin, Austin & Colten Gunn)](../matches/2026-10-03-death-riders-vs-bang-bang-gang-aew-collision.md) — **ICC+**.
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:40:19 — [Mark Davis & Jake Doyle vs Jon Moxley & Gabe Kidd](../matches/2026-10-06-mark-davis-jake-doyle-vs-jon-moxley-gabe-kidd-aew-dynamite-grand-slam-france.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa en NJPW.

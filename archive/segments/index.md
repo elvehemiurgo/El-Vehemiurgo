@@ -40,6 +40,12 @@ cada alta y con cada cambio de estado.
 | 2026-10-15 | Leon Slater se adueña de la Impact Zone; Jeff Hardy quiere una lucha | TNA Wrestling / iMPACT! | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-10-15-leon-slater-microfono-jeff-hardy-reto-tna-impact.md) |
 | 2026-10-15 | Nic y Ryan Nemeth: sin revancha inmediata | TNA Wrestling / iMPACT! | segmento | WE | — | en-investigacion | 1 | [→](2026-10-15-nic-ryan-nemeth-segmento-sin-revancha-tna-impact.md) |
 | 2026-10-15 | The System con Santino; Eddie pone over a Sosa y Bear se molesta | TNA Wrestling / iMPACT! | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-10-15-the-system-santino-eddie-sosa-bear-bronson-tna-impact.md) |
+| 2026-10-14 | Entrevista de la Don Callis Family | AEW / Dynamite & Collision | entrevista | WE+ | — | en-investigacion | 1 | [→](2026-10-14-don-callis-family-entrevista-aew-dynamite-collision.md) |
+| 2026-10-14 | FTR y MCMG: el reto a una serie al mejor de 5 | AEW / Dynamite & Collision | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-10-14-ftr-mcmg-best-of-5-series-aew-dynamite-collision.md) |
+| 2026-10-14 | Post-match: run-ins de Okada, Archer y Romero; Rainmaker a Copeland | AEW / Dynamite & Collision | brawl post-match | WE | — | en-investigacion | 1 | [→](2026-10-14-post-match-run-ins-okada-darby-copeland-aew-dynamite-collision.md) |
+| 2026-10-14 | Promo video de MJF | AEW / Dynamite & Collision | promo video | WE+ | — | en-investigacion | 1 | [→](2026-10-14-promo-video-mjf-aew-dynamite-collision.md) |
+| 2026-10-14 | Samoa Joe, promo | AEW / Dynamite & Collision | promo | WE | — | en-investigacion | 1 | [→](2026-10-14-samoa-joe-promo-aew-dynamite-collision.md) |
+| 2026-10-14 | United Empire, promo | AEW / Dynamite & Collision | promo | WE | — | en-investigacion | 1 | [→](2026-10-14-united-empire-promo-aew-dynamite-collision.md) |
 | 2026-10-11 | Kazarian, "el rey": Avery Styles y los títulos de parejas | TNA Wrestling / Bound for Glory | promo | WE+ | — | en-investigacion | 1 | [→](2026-10-11-kazarian-promo-avery-styles-tag-titles-tna-bound-for-glory.md) |
 | 2026-10-11 | Leon Slater, promo backstage en Bound for Glory | TNA Wrestling / Bound for Glory | promo backstage | WE | — | en-investigacion | 1 | [→](2026-10-11-leon-slater-promo-backstage-bfg-tna-bound-for-glory.md) |
 | 2026-10-11 | Nic Nemeth responde: Leon al final de la fila si pierde | TNA Wrestling / Bound for Glory | promo | WE | — | en-investigacion | 1 | [→](2026-10-11-nic-nemeth-promo-responde-leon-slater-tna-bound-for-glory.md) |
@@ -60,12 +66,15 @@ cada alta y con cada cambio de estado.
 | 2026-10-08 | Ricky Sosa, promo previa a Bound for Glory | TNA Wrestling / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2026-10-08-ricky-sosa-promo-previa-bfg-tna-impact.md) |
 | 2026-10-06 | Grayson Waller, Myles Borne y Tony D'Angelo | WWE / NXT | segmento in-ring | WE+ | — | en-investigacion | 1 | [→](2026-10-06-grayson-waller-myles-borne-tony-dangelo-segmento-wwe-nxt.md) |
 | 2026-10-06 | Kelani Jordan, promo de top heel | WWE / NXT | promo | WE | — | en-investigacion | 1 | [→](2026-10-06-kelani-jordan-promo-top-heel-wwe-nxt.md) |
+| 2026-10-06 | Will Ospreay, promo face: la Clockwork Carnage; con Mike Bailey | AEW / Dynamite: Grand Slam France | promo | WE | — | en-investigacion | 1 | [→](2026-10-06-will-ospreay-promo-clockwork-carnage-mike-bailey-aew-dynamite-grand-slam-france.md) |
 | 2026-10-05 | Bronson Reed ataca tras la lucha; Oba Femi hace el save | WWE / Raw | ataque post-match / brawl | WE | — | en-investigacion | 1 | [→](2026-10-05-bronson-reed-ataque-post-match-oba-femi-save-wwe-raw.md) |
 | 2026-10-05 | Dragon Lee al micrófono: propone el tag contra Judgment Day | WWE / Raw | segmento / entrevista | WE | — | en-investigacion | 1 | [→](2026-10-05-dragon-lee-microfono-rey-mysterio-judgment-day-wwe-raw.md) |
 | 2026-10-05 | Ethan Page, promo in-ring contra los cruiserweights | WWE / Raw | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-10-05-ethan-page-promo-in-ring-cruiserweights-rey-fenix-wwe-raw.md) |
 | 2026-10-05 | LA Knight, promo in-ring y careo con Roman Reigns antes de Money in the Bank | WWE / Raw | promo in-ring + careo | WE+ | — | en-investigacion | 1 | [→](2026-10-05-la-knight-promo-careo-roman-reigns-previa-mitb-wwe-raw.md) |
 | 2026-10-05 | Paul Heyman y Bronson Reed: "Oba Femi has humbled me" | WWE / Raw | segmento backstage | — | — | en-investigacion | 1 | [→](2026-10-05-paul-heyman-bronson-reed-backstage-oba-femi-wwe-raw.md) |
 | 2026-10-05 | Roman Reigns encara a los Usos por The 946; regreso de Solo Sikoa | WWE / Raw | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-10-05-roman-reigns-encara-usos-946-regreso-solo-sikoa-wwe-raw.md) |
+| 2026-10-03 | Promo video: Okada vs Ospreay (Grand Slam France) | AEW / Collision | promo video | WE | — | en-investigacion | 1 | [→](2026-10-03-promo-video-okada-vs-ospreay-grand-slam-france-aew-collision.md) |
+| 2026-10-03 | Thekla y Mercedes Moné | AEW / Collision | segmento backstage | WE | — | en-investigacion | 1 | [→](2026-10-03-thekla-mercedes-mone-segmento-aew-collision.md) |
 | 2026-10-02 | Cody Rhodes rumbo a su clasificatoria y Trick Williams lo encara | WWE / SmackDown | promo + careo | WE | — | en-investigacion | 1 | [→](2026-10-02-cody-rhodes-promo-trick-williams-wwe-smackdown.md) |
 | 2026-10-02 | Promo video de introducción | WWE / SmackDown | promo video | WE | — | en-investigacion | 1 | [→](2026-10-02-promo-video-introduccion-wwe-smackdown.md) |
 | 2026-10-02 | Sami Zayn manipula a Johnny Gargano en backstage | WWE / SmackDown | segmento backstage | — | — | en-investigacion | 1 | [→](2026-10-02-sami-zayn-manipula-johnny-gargano-backstage-wwe-smackdown.md) |

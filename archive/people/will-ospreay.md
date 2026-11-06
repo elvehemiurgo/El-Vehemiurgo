@@ -424,6 +424,18 @@ baja la clase, es objeción de programación. Pieza:
 - `2026 09 23 AEW Dynamite`, con Mike Bailey vs Claudio y Kidd, **ICC+**: *"Ospreay super op con los hot tag se vio muy cool [...] solo le falta deshacerse definitivamente de Mox"*. [Ficha](../matches/2026-09-23-ospreay-bailey-vs-claudio-gabe-kidd-aew-dynamite.md).
 - Promo post match, **WE al cierre**: *"promo de face campeón mundial correcta"*; agradecer a Moxley *"según el delirio de kayfabe que tiene AEW con Moxley, es súper ridículo"*. [Ficha](../segments/2026-09-23-ospreay-promo-moxley-kidd-feel-like-the-champion-aew-dynamite.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 00:23:32 — [Promo video: Okada vs Ospreay (Grand Slam France)](../segments/2026-10-03-promo-video-okada-vs-ospreay-grand-slam-france-aew-collision.md) — **WE**.
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:21:40 — [Will Ospreay, promo face: la Clockwork Carnage; con Mike Bailey](../segments/2026-10-06-will-ospreay-promo-clockwork-carnage-mike-bailey-aew-dynamite-grand-slam-france.md) — **WE**.
+- AEW Dynamite: Grand Slam France, 6/10/2026, 01:31:35 — [Will Ospreay (c) vs Kazuchika Okada — AEW World Championship](../matches/2026-10-06-will-ospreay-vs-okada-aew-world-title-aew-dynamite-grand-slam-france.md) — **ICC**.
+- AEW Collision: Grand Slam France, 10/10/2026, 00:37:01 — [Mike Bailey vs Lee Moriarty (clasificatoria Clockwork Carnage)](../matches/2026-10-10-mike-bailey-vs-lee-moriarty-clockwork-qualifier-aew-collision-grand-slam-france.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 00:58:26 — [United Empire, promo](../segments/2026-10-14-united-empire-promo-aew-dynamite-collision.md) — **WE**.
+- AEW Dynamite & Collision, 14/10/2026, 01:46:16 — [Samoa Joe & Tommaso Ciampa vs Will Ospreay & Andrade](../matches/2026-10-14-samoa-joe-ciampa-vs-will-ospreay-andrade-aew-dynamite-collision.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.

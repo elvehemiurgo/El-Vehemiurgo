@@ -114,6 +114,13 @@ guion. Pieza:
 
   — El Vehemiurgo, 2026-10-06 s01 (verbatim, typos preservados)
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 02:07:20 — [Ricochet vs Ace Austin (clasificatoria Clockwork Carnage)](../matches/2026-10-14-ricochet-vs-ace-austin-clockwork-qualifier-aew-dynamite-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa (NJPW/PWG/WWE/AEW) con

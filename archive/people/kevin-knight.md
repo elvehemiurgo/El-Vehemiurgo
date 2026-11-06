@@ -436,6 +436,14 @@ queda **descartada**.
 **Recomendación**: fusionar esta ficha en `kevin-knight.md` (no se
 renombra ni borra en esta pasada; queda para decisión editorial).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision: Grand Slam France, 10/10/2026, 01:30:41 — [The Young Bucks (c) vs The Dogs (David Finlay & Clark Connors) — AEW World Tag Team Championship](../matches/2026-10-10-young-bucks-vs-the-dogs-tag-titles-aew-collision-grand-slam-france.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 02:20:46 — [Entrevista de la Don Callis Family](../segments/2026-10-14-don-callis-family-entrevista-aew-dynamite-collision.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

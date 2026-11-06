@@ -353,6 +353,15 @@ Borden). Piezas:
 ### Sesión 2026-10-02 s01 — "La definición de wrestling en TV" (All Out, ICC)
 - `2026 09 26 AEW All Out`, con Borden vs Fletcher & Knight, **ICC**: *"el estilo de Fletcher y el de Darby es la definición de wrestling en TV actualmente"*. El Vehemiurgo ve en la lesión del rookie el límite del estilo suicida que Darby le pasa. [Ficha](../matches/2026-09-26-fletcher-knight-vs-darby-borden-contender-aew-all-out.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:54:20 — [Darby Allin (c) vs Kyle Fletcher — TNT Championship](../matches/2026-10-06-darby-allin-vs-kyle-fletcher-tnt-title-aew-dynamite-grand-slam-france.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 02:50:07 — [Darby Allin (c) vs Hechicero — TNT Championship (clasificatoria Clockwork Carnage)](../matches/2026-10-14-darby-allin-vs-hechicero-tnt-title-clockwork-qualifier-aew-dynamite-collision.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 03:07:40 — [Post-match: run-ins de Okada, Archer y Romero; Rainmaker a Copeland](../segments/2026-10-14-post-match-run-ins-okada-darby-copeland-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.

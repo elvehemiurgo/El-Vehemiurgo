@@ -84,6 +84,13 @@ segmento post-match de Fletcher (Wrestling Entertainment). Ver
 ### Sesión 2026-10-01 s01 — Entrevista al Bang Bang Gang (WE+)
 - `2026 09 26 AEW All Out` pre-show, **WE+**: *"top tier wrestling, muy oldschool, full gimmick"*. Primer take sobre Foley en rol de entrevistador. [Ficha](../segments/2026-09-26-mick-foley-entrevista-bang-bang-gang-aew-all-out-tailgate.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 00:24:16 — [Adam Copeland vs Josh Alexander (clasificatoria Clockwork Carnage)](../matches/2026-10-14-adam-copeland-vs-josh-alexander-clockwork-qualifier-aew-dynamite-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria histórica completa (WWF/WCW/ECW hardcore era) —

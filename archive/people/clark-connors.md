@@ -91,6 +91,13 @@ Finlay y Connors son los **War Dogs** del Bullet Club, contra el
 timing de estipulación recayendo sobre el booking general, no
 sobre la ejecución de Connors específicamente.
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision: Grand Slam France, 10/10/2026, 01:30:41 — [The Young Bucks (c) vs The Dogs (David Finlay & Clark Connors) — AEW World Tag Team Championship](../matches/2026-10-10-young-bucks-vs-the-dogs-tag-titles-aew-collision-grand-slam-france.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NJPW/AEW.

@@ -284,6 +284,13 @@ titular contra Mercedes Moné. Pieza:
 - Contexto posterior (research): ganó el #1 contender ante Willow en
   All Out (13:19).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 01:01:12 — [Thekla y Mercedes Moné](../segments/2026-10-03-thekla-mercedes-mone-segmento-aew-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + nacimiento + origen austríaco exactos.

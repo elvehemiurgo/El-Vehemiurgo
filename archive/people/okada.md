@@ -190,6 +190,16 @@ y
 - Contexto posterior (research): retuvo el International ante Ciampa
   en All Out (21:05, Rainmaker).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 00:23:32 — [Promo video: Okada vs Ospreay (Grand Slam France)](../segments/2026-10-03-promo-video-okada-vs-ospreay-grand-slam-france-aew-collision.md) — **WE**.
+- AEW Dynamite: Grand Slam France, 6/10/2026, 01:31:35 — [Will Ospreay (c) vs Kazuchika Okada — AEW World Championship](../matches/2026-10-06-will-ospreay-vs-okada-aew-world-title-aew-dynamite-grand-slam-france.md) — **ICC**.
+- AEW Dynamite & Collision, 14/10/2026, 01:06:49 — [Kazuchika Okada (c) vs Myron Reed — AEW International Championship (revancha)](../matches/2026-10-14-okada-vs-myron-reed-international-title-aew-dynamite-collision.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 03:07:40 — [Post-match: run-ins de Okada, Archer y Romero; Rainmaker a Copeland](../segments/2026-10-14-post-match-run-ins-okada-darby-copeland-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, debut, cronología NJPW con títulos.

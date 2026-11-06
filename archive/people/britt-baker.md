@@ -43,6 +43,13 @@ tags: [britt-baker, persephone, tbs-championship, regreso, stub]
 ### Sesión 2026-10-02 s01 — "Brillante como siempre" (WE, ICC+)
 - `2026 09 26 AEW All Out`: promo con Persephone (**WE**) y en su esquina ante Dani Luna (**ICC+**). [Promo](../segments/2026-09-26-persephone-britt-baker-promo-aew-all-out.md) · [lucha](../matches/2026-09-26-persephone-vs-dani-luna-tbs-aew-all-out.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 02:34:50 — [Dani Luna & Hyan vs Dr. Britt Baker DMD & Persephone](../matches/2026-10-14-dani-luna-hyan-vs-britt-baker-persephone-aew-dynamite-collision.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa.

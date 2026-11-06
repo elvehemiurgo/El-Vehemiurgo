@@ -352,6 +352,13 @@ y [`./nicho-el-millonario.md`](./nicho-el-millonario.md).
 - `2026 09 23 AEW Dynamite`, promo de Ospreay: *"agradecer a Mox y nombrar todo lo que supuestamente aporta según el delirio de kayfabe que tiene AEW con Moxley, es súper ridículo [...] pero Mox resta mucho"*. [Ficha](../segments/2026-09-23-ospreay-promo-moxley-kidd-feel-like-the-champion-aew-dynamite.md).
 - `2026 09 26 AEW All Out`, entradas: *"si se van por ese gimmick sería una variante de los Death Riders más disfrutable"*. [Ficha](../segments/2026-09-26-entradas-tailgate-brawl-dogs-death-riders-bang-bang-gang-aew-all-out.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:40:19 — [Mark Davis & Jake Doyle vs Jon Moxley & Gabe Kidd](../matches/2026-10-06-mark-davis-jake-doyle-vs-jon-moxley-gabe-kidd-aew-dynamite-grand-slam-france.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: The Shield + Dean Ambrose run WWE

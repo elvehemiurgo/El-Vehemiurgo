@@ -57,6 +57,14 @@ concentra en Fletcher, Doyle y Bailey.
 [vs Hechicero, C3](../matches/2026-08-15-brian-cage-vs-hechicero-aew-collision.md) (WE) ·
 [el segmento previo de Callis](../segments/2026-08-15-don-callis-family-antes-de-cage-vs-hechicero-aew-collision.md) (WE)
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 00:24:16 — [Adam Copeland vs Josh Alexander (clasificatoria Clockwork Carnage)](../matches/2026-10-14-adam-copeland-vs-josh-alexander-clockwork-qualifier-aew-dynamite-collision.md) — **ICC+**.
+- AEW Dynamite & Collision, 14/10/2026, 00:45:48 — [Konosuke Takeshita vs Brian Cage (clasificatoria Clockwork Carnage)](../matches/2026-10-14-konosuke-takeshita-vs-brian-cage-clockwork-qualifier-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos.

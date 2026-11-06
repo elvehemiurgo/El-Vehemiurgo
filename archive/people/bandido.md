@@ -54,6 +54,13 @@ declarada sobre el repertorio de Bandido — Fletcher es quien
 eleva el match. Ver
 [`../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md`](../matches/2026-07-26-bandido-vs-kyle-fletcher-aew-redemption.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:01:55 — [Bandido (c) vs Kofi — ROH World Championship](../matches/2026-10-06-bandido-vs-kofi-roh-world-title-aew-dynamite-grand-slam-france.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria, fechas.

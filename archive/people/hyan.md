@@ -62,6 +62,13 @@ final.
 ### Sesión 2026-10-01 s01 — Nueva pareja: Thunder Rosa (sin clase)
 - `2026 09 23 AEW Dynamite`, backstage post match: *"una face con personalidad, buenos rubs para ella ahora con Thunder Rosa [...] segmento sólido"*. [Ficha](../segments/2026-09-23-hyan-thunder-rosa-nueva-pareja-backstage-aew-dynamite.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 02:34:50 — [Dani Luna & Hyan vs Dr. Britt Baker DMD & Persephone](../matches/2026-10-14-dani-luna-hyan-vs-britt-baker-persephone-aew-dynamite-collision.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa.

@@ -95,6 +95,13 @@ sí lleva la irrupción posterior de Christian Cage y Cope. Pieza:
 ### Sesión 2026-10-03 s01 — Ladder match de All Out (WE)
 - `2026 09 26 AEW All Out`, three-way ladder match por los títulos de parejas, **WE**: *"la lucha de escaleras estuvo cool"*. Ganan los Young Bucks (23:25, BTE Trigger a Christian desde la escalera). [Ficha](../matches/2026-09-26-young-bucks-vs-cope-cage-vs-ftr-ladder-tag-titles-aew-all-out.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 01:00:27 — [FTR y MCMG: el reto a una serie al mejor de 5](../segments/2026-10-14-ftr-mcmg-best-of-5-series-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombres reales, debut, trayectoria (ROH/WWE/AEW) con fechas.

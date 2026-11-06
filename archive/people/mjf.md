@@ -829,6 +829,13 @@ dato no comentado por el Vehemiurgo). Continuidad del expediente "el
 main event robado" (s57-s58). Pieza:
 [promo post-match](../segments/2026-09-02-mjf-promo-post-match-aew-dynamite.md) (WE).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite & Collision, 14/10/2026, 01:21:02 — [Promo video de MJF](../segments/2026-10-14-promo-video-mjf-aew-dynamite-collision.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual

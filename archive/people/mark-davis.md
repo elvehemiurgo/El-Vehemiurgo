@@ -306,6 +306,14 @@ la misma línea que su historia previa contra Andrade (Redemption,
 s46). Pieza:
 [vs Darby Allin](../matches/2026-09-02-darby-allin-vs-mark-davis-tnt-aew-dynamite.md) (**ICC+**).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Collision, 3/10/2026, 01:19:58 — [Mark Davis vs Adam Priest](../matches/2026-10-03-mark-davis-vs-adam-priest-aew-collision.md) — **ICC+**.
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:40:19 — [Mark Davis & Jake Doyle vs Jon Moxley & Gabe Kidd](../matches/2026-10-06-mark-davis-jake-doyle-vs-jon-moxley-gabe-kidd-aew-dynamite-grand-slam-france.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes / huecos
 
 - [ ] Origen exacto del grudge con Andrade — [verif].

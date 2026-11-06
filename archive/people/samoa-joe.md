@@ -132,6 +132,15 @@ y [`./abismo-negro.md`](./abismo-negro.md).
   empapado de este estilo"*. Es el caso multi-estilo: Y2K HS + King's
   Road + MMA. [Panteón](../topics/panteon-y2k-highspeed.md), [doctrina](../topics/doctrina-y2k-highspeed.md).
 
+
+### Sesión 2026-11-06 s01 — AEW, octubre 2026 (Collision, Grand Slam France, Dynamite & Collision)
+
+- AEW Dynamite: Grand Slam France, 6/10/2026, 00:23:25 — [Samoa Joe vs Jack Perry (clasificatoria Clockwork Carnage)](../matches/2026-10-06-samoa-joe-vs-jack-perry-clockwork-qualifier-aew-dynamite-grand-slam-france.md) — **ICC**.
+- AEW Dynamite & Collision, 14/10/2026, 01:46:16 — [Samoa Joe & Tommaso Ciampa vs Will Ospreay & Andrade](../matches/2026-10-14-samoa-joe-ciampa-vs-will-ospreay-andrade-aew-dynamite-collision.md) — **ICC**.
+- AEW Dynamite & Collision, 14/10/2026, 02:33:57 — [Samoa Joe, promo](../segments/2026-10-14-samoa-joe-promo-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
+
 ## Pendientes
 
 - [ ] **Hard Justice 2007 vs Kurt Angle** — pieza editorial
