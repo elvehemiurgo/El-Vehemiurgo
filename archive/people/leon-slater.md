@@ -377,6 +377,15 @@ Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for
 
 Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
 
+
+### Sesión 2026-11-06 s03 — TNA iMPACT!, 5/11/2026
+
+- TNA iMPACT!, 5/11/2026, 00:09:08 — [Promo de faces: Leon Slater con Amazing Red; Trey Miguel interrumpe](../segments/2026-11-05-leon-slater-amazing-red-trey-miguel-promo-faces-tna-impact.md) — **WE**.
+- TNA iMPACT!, 5/11/2026, 00:11:05 — [Promo video: Leon Slater vs Trey Miguel (Destination X)](../segments/2026-11-05-promo-video-leon-slater-vs-trey-miguel-destination-x-tna-impact.md) — **WE+**.
+- TNA iMPACT!, 5/11/2026, 01:03:42 — [The Nemeths (c) vs Leon Slater & Amazing Red — TNA World Tag Team Championship](../matches/2026-11-05-nemeths-vs-leon-slater-amazing-red-tag-titles-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s03-tna-impact-051126.md`](../../notebook/2026-11-06-s03-tna-impact-051126.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real + edad exacta + ciudad de origen británico.

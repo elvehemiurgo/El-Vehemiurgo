@@ -105,6 +105,13 @@ Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for
 
 Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
 
+
+### Sesión 2026-11-06 s03 — TNA iMPACT!, 5/11/2026
+
+- TNA iMPACT!, 5/11/2026, 00:38:34 — [Allie & Shotzi Blackheart vs Fire 'N Flava (Kiera Hogan & Tasha Steelz)](../matches/2026-11-05-allie-shotzi-blackheart-vs-fire-n-flava-tna-impact.md) — **FC**.
+
+Volcado: [`../../notebook/2026-11-06-s03-tna-impact-051126.md`](../../notebook/2026-11-06-s03-tna-impact-051126.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa.

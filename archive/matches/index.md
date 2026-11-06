@@ -13,6 +13,10 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-11-05 | Allie & Shotzi Blackheart vs Fire 'N Flava (Kiera Hogan & Tasha Steelz) | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-11-05-allie-shotzi-blackheart-vs-fire-n-flava-tna-impact.md) |
+| 2026-11-05 | Eddie Edwards vs Bear Bronson — el liderazgo de The System | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-11-05-eddie-edwards-vs-bear-bronson-liderazgo-the-system-tna-impact.md) |
+| 2026-11-05 | Frankie Kazarian & Avery Styles vs Hunter James & Alexander Lev | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-11-05-kazarian-avery-styles-vs-hunter-james-alexander-lev-tna-impact.md) |
+| 2026-11-05 | The Nemeths (c) vs Leon Slater & Amazing Red — TNA World Tag Team Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-11-05-nemeths-vs-leon-slater-amazing-red-tag-titles-tna-impact.md) |
 | 2026-10-29 | Special Agent Zero vs BDE | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-10-29-agent-zero-vs-bde-tna-impact.md) |
 | 2026-10-29 | AJ Francis vs John Skyler (con Mila Moore) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-29-aj-francis-vs-john-skyler-tna-impact.md) |
 | 2026-10-29 | Amazing Red (c) vs Cedric Alexander — X Division Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-29-amazing-red-vs-cedric-alexander-x-division-title-tna-impact.md) |

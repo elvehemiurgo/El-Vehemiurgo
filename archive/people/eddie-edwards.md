@@ -284,6 +284,13 @@ Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for
 
 Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
 
+
+### Sesión 2026-11-06 s03 — TNA iMPACT!, 5/11/2026
+
+- TNA iMPACT!, 5/11/2026, 00:22:12 — [Eddie Edwards vs Bear Bronson — el liderazgo de The System](../matches/2026-11-05-eddie-edwards-vs-bear-bronson-liderazgo-the-system-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-06-s03-tna-impact-051126.md`](../../notebook/2026-11-06-s03-tna-impact-051126.md)
+
 ## Pendientes / huecos
 
 - [ ] Reinados y títulos con fechas (ROH, TNA).

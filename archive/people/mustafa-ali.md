@@ -350,6 +350,13 @@ Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for
 
 Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
 
+
+### Sesión 2026-11-06 s03 — TNA iMPACT!, 5/11/2026
+
+- TNA iMPACT!, 5/11/2026, 00:13:17 — [Frankie Kazarian & Avery Styles vs Hunter James & Alexander Lev](../matches/2026-11-05-kazarian-avery-styles-vs-hunter-james-alexander-lev-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s03-tna-impact-051126.md`](../../notebook/2026-11-06-s03-tna-impact-051126.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo + nacimiento.

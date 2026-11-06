@@ -12,6 +12,10 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-05 | Segmento final: Harley Hudson, más secretos; sorpresa de Taryn Terrell | TNA Wrestling / iMPACT! | segmento de cierre | — | — | en-investigacion | 1 | [→](2026-11-05-harley-hudson-secretos-taryn-terrell-tna-impact.md) |
+| 2026-11-05 | Promo de faces: Leon Slater con Amazing Red; Trey Miguel interrumpe | TNA Wrestling / iMPACT! | promo in-ring | WE | — | en-investigacion | 1 | [→](2026-11-05-leon-slater-amazing-red-trey-miguel-promo-faces-tna-impact.md) |
+| 2026-11-05 | Promo video: Leon Slater vs Trey Miguel (Destination X) | TNA Wrestling / iMPACT! | promo video | WE+ | — | en-investigacion | 1 | [→](2026-11-05-promo-video-leon-slater-vs-trey-miguel-destination-x-tna-impact.md) |
+| 2026-11-05 | The Righteous bautizan a Harley Hudson; el swerve con Xia Brookside | TNA Wrestling / iMPACT! | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-11-05-the-righteous-bautizan-harley-hudson-swerve-xia-tna-impact.md) |
 | 2026-10-29 | APEX embosca en ringside; Shayna Baszler toma el headset | TNA Wrestling / iMPACT! | segmento | — | — | en-investigacion | 1 | [→](2026-10-29-apex-emboscada-shayna-baszler-headset-tna-impact.md) |
 | 2026-10-29 | Bear Bronson reta a Eddie Edwards por el liderazgo de The System | TNA Wrestling / iMPACT! | segmento | WE+ | — | en-investigacion | 1 | [→](2026-10-29-bear-bronson-reta-eddie-edwards-liderazgo-tna-impact.md) |
 | 2026-10-29 | Elayna Black y Heather: "¿hasta cuándo te vas a dejar mandar?" | TNA Wrestling / iMPACT! | segmento backstage | — | — | en-investigacion | 1 | [→](2026-10-29-elayna-black-heather-by-elegance-segmento-tna-impact.md) |

@@ -186,6 +186,13 @@ Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for
 
 Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
 
+
+### Sesión 2026-11-06 s03 — TNA iMPACT!, 5/11/2026
+
+- TNA iMPACT!, 5/11/2026, 00:55:06 — [The Righteous bautizan a Harley Hudson; el swerve con Xia Brookside](../segments/2026-11-05-the-righteous-bautizan-harley-hudson-swerve-xia-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s03-tna-impact-051126.md`](../../notebook/2026-11-06-s03-tna-impact-051126.md)
+
 ## Pendientes / huecos
 
 - [x] Identidad confirmada (Vinny Marseglia, Rhode Island).

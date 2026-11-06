@@ -382,6 +382,13 @@ Volcado: [`../../notebook/2026-10-08-s01-smackdown-250926-aaa-260926-raw-280926.
 
 Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md`](../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-septiembre-octubre.md)
 
+
+### Sesión 2026-11-06 s03 — TNA iMPACT!, 5/11/2026
+
+- TNA iMPACT!, 5/11/2026, 00:13:17 — [Frankie Kazarian & Avery Styles vs Hunter James & Alexander Lev](../matches/2026-11-05-kazarian-avery-styles-vs-hunter-james-alexander-lev-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s03-tna-impact-051126.md`](../../notebook/2026-11-06-s03-tna-impact-051126.md)
+
 ## Pendientes / huecos
 
 - [ ] Title runs documentados con fechas.
