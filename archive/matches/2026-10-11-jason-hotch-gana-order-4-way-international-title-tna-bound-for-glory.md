@@ -16,10 +16,11 @@ referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "Agent Zero con Tasha como manager, un acierto, funcional; Tasha perfeccionándose para estar TV ready; Skyler con Mila, como faces, \"now I'm happy\", la pareja que Maria y Michael Bennett nunca fueron en TNA; Hotch genial como face y rival principal de Ali; Ali, su propia facción se convirtió en su más grande obstáculo; una lucha tipo WrestleMania, todo conectadísimo con el ángulo de TV; legítimamente top tier wrestling; lo malo, el doble Canadian Destroyer, fake; luego es una lucha perfecta"
-clases_vehemiurgo: []
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-11-03
+ultima_actualizacion: 2026-11-06
 fuentes_principales:
+  - "Ratificación del Vehemiurgo 2026-11-06 (clase ICC+)"
   - "Volcado Vehemiurgo 2026-11-03 s01 (visión directa — TNA Bound for Glory, 11/10/2026, timestamp 01:43:46)"
   - "WebSearch 2026-11-03 vía sub-agente (Wrestling Inc, Fightful, ChaseYourSport, Bleacher Report, Wikipedia vía snippet) — resultados"
 tags: [tna-bound-for-glory-2026, order-4, jason-hotch, mustafa-ali, john-skyler, agent-zero, international-title, cambio-de-titulo]
@@ -27,7 +28,7 @@ tags: [tna-bound-for-glory-2026, order-4, jason-hotch, mustafa-ali, john-skyler,
 
 # The Order 4-Way: Jason Hotch vs Mustafa Ali (c) vs John Skyler vs Agent Zero — International Championship (TNA Bound for Glory, 11/10/2026)
 
-> **Sin clase**: lectura registrada tal cual.
+> **Instant Classic Crown+** (PW·FS·WE+), ratificada 2026-11-06.
 
 ## Resumen
 
@@ -35,7 +36,7 @@ Timestamp **01:43:46**. **Jason Hotch gana el International Championship** (segu
 
 ## Lectura del Vehemiurgo
 
-- **Clase**: **Sin clase.** No hubo *"se merece"*; la lectura se registra tal cual.
+- **Clase**: **Perfect Wrestling + Fighting Spirit + WE+ → Instant Classic Crown+**, ratificada el 2026-11-06: *"las 3 clases con corona +"*.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -61,7 +62,7 @@ Timestamp **01:43:46**. **Jason Hotch gana el International Championship** (segu
 
 **Lectura sintética**:
 
-1. **Clase no declarada**: *"legítimamente top tier wrestling [...] luego es una lucha perfecta"*, sin *"se merece"*. Pendiente de que el Vehemiurgo la declare.
+1. **Clase no declarada**: *"legítimamente top tier wrestling [...] luego es una lucha perfecta"*, sin *"se merece"*. **Declarada el 2026-11-06: ICC+.**
 2. **Tipo WrestleMania**: todo conectado con el ángulo de TV.
 3. **Skyler y Mila**: *"la pareja que Maria y Michael Bennett nunca fueron en TNA"*.
 4. **Reserva técnica puntual**: el doble Canadian Destroyer, *"eso sí que fake"*.

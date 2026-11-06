@@ -16,10 +16,11 @@ referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "muy buena lucha, muy stiff; inicio apretado con el amateur de Nemeth, mucha presión para Leon; Nemeth no dejaba ningún momentum, no estaba confiado, su estrategia era poner la lucha perfecta; final cardíaco; normalmente no me gusta el no-selling, pero esta historia ameritaba una lucha profunda y el recurso es válido; el primer 450 llega accidentado pero llega; Leon se guarda el Swanton para el final; esos minutos de performance son top tier wrestling; gran historia, satisfactorio main event; no creo que Leon se vaya rápido a NXT como Hendry o Santana, lo acerca más a Josh Alexander como campeón homegrown"
-clases_vehemiurgo: []
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-11-03
+ultima_actualizacion: 2026-11-06
 fuentes_principales:
+  - "Ratificación del Vehemiurgo 2026-11-06 (clase ICC+)"
   - "Volcado Vehemiurgo 2026-11-03 s01 (visión directa — TNA Bound for Glory, 11/10/2026, timestamp 03:04:03)"
   - "WebSearch 2026-11-03 vía sub-agente (Wrestling Inc, Fightful, ChaseYourSport, Bleacher Report, Wikipedia vía snippet) — resultados"
 tags: [tna-bound-for-glory-2026, leon-slater, nic-nemeth, tna-world-title, cambio-de-titulo, campeon-mas-joven, homegrown, bound-for-glory-2026]
@@ -27,7 +28,7 @@ tags: [tna-bound-for-glory-2026, leon-slater, nic-nemeth, tna-world-title, cambi
 
 # Leon Slater vs Nic Nemeth (c) — TNA World Championship (TNA Bound for Glory, 11/10/2026)
 
-> **Sin clase**: lectura registrada tal cual.
+> **Instant Classic Crown+** (PW·FS·WE+), ratificada 2026-11-06.
 
 ## Resumen
 
@@ -35,7 +36,7 @@ Timestamp **03:04:03**. Main event. **Leon Slater gana el TNA World Championship
 
 ## Lectura del Vehemiurgo
 
-- **Clase**: **Sin clase.** No hubo *"se merece"*; la lectura se registra tal cual.
+- **Clase**: **Perfect Wrestling + Fighting Spirit + WE+ → Instant Classic Crown+**, ratificada el 2026-11-06: *"las 3 clases con corona +"*.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -59,7 +60,7 @@ Timestamp **03:04:03**. Main event. **Leon Slater gana el TNA World Championship
 
 **Lectura sintética**:
 
-1. **Clase no declarada**: *"top tier wrestling [...] satisfactorio main event"*, sin *"se merece"*. Pendiente de que el Vehemiurgo la declare.
+1. **Clase no declarada**: *"top tier wrestling [...] satisfactorio main event"*, sin *"se merece"*. **Declarada el 2026-11-06: ICC+.**
 2. **El no-selling justificado** por la profundidad de la historia.
 3. **Pronóstico falsable**: *"no creo que Leon se vaya rápido a NXT como Hendry o Santana"*. Lo ve más como un campeón homegrown tipo Josh Alexander.
 4. **Reserva técnica puntual**: el primer 450, *"llega accidentado pero llega"*.

@@ -16,10 +16,11 @@ referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "buenos stakes, buen mix; el booking muy caliente para el International y la rivalidad Ali vs Hotch más viva que nunca; Ali aterriza muy bien los estilos de sus rivales, lo que la X Division necesita, ponerse old-school, lo que traía Leon; buenos spots y muy buen selling; psicología súper presente; todos salieron over; booking inteligente para cuidar a los faces"
-clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment"]
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
-ultima_actualizacion: 2026-11-03
+ultima_actualizacion: 2026-11-06
 fuentes_principales:
+  - "Ratificación del Vehemiurgo 2026-11-06 (clase ICC+)"
   - "Volcado Vehemiurgo 2026-11-03 s01 (visión directa — TNA iMPACT!, 24/9/2026, timestamp 01:14:27)"
   - "WebSearch 2026-11-03 vía sub-agentes (PWTorch, Wrestling Inc, Fightful, 411mania, PWMania, eWrestling, prowrestling.net) — resultados; San Antonio, 24-25/9/2026; en vivo"
 tags: [tna-impact-2026, mustafa-ali, trey-miguel, jason-hotch, international-title, instant-classic-crown]
@@ -27,7 +28,7 @@ tags: [tna-impact-2026, mustafa-ali, trey-miguel, jason-hotch, international-tit
 
 # Mustafa Ali (c) vs Trey Miguel vs Jason Hotch — International Championship (TNA iMPACT!, 24/9/2026)
 
-> **Instant Classic Crown** (PW·FS·WE).
+> **Instant Classic Crown+** (PW·FS·WE+), ratificada 2026-11-06.
 
 ## Resumen
 
@@ -35,7 +36,7 @@ Timestamp **01:14:27**. Main event. **Ali retiene**: golpea a Miguel con el cint
 
 ## Lectura del Vehemiurgo
 
-- **Clase**: **Perfect Wrestling + Fighting Spirit + Wrestling Entertainment → Instant Classic Crown** (*"las 3 clases"*, sin +).
+- **Clase**: **Perfect Wrestling + Fighting Spirit + WE+ → Instant Classic Crown+**, ratificada el 2026-11-06: *"¿El corona 9 era un +?"* → *"Si +"*.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -54,7 +55,7 @@ Timestamp **01:14:27**. Main event. **Ali retiene**: golpea a Miguel con el cint
 **Lectura sintética**:
 
 1. **Ali aterriza a sus rivales**: *"es lo que la X Division necesita, ponerse old-school"*.
-2. **Clase**: el dictado dice *"las 3 clases con la corona 9"*. Se registra ICC sin + hasta que el Vehemiurgo aclare si el 9 es un +.
+2. **Clase**: el dictado dice *"las 3 clases con la corona 9"*. **Ratificado el 2026-11-06: el 9 era un + → ICC+.**
 
 ## Pendientes
 

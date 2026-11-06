@@ -770,5 +770,5 @@ Conteo: **7 ICC+** · **18 ICC** · **5 FC** · **10 WE+** · **17 WE** · **10 
 
 ## Próximos pasos
 
-- [ ] Responder las 3 preguntas abiertas de clase.
+- [x] Responder las 3 preguntas abiertas de clase → **ratificadas el 2026-11-06**: Ali vs Miguel vs Hotch ICC+ (*"Si +"*), Order 4-Way ICC+, Leon vs Nic ICC+.
 - [ ] Finishes `[verif]` pendientes (Dutch vs BDE, Swann vs Vincent, pin del 8-man del 8/10, pin de Syx vs Hardys).
