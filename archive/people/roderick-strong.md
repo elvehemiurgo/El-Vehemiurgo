@@ -184,6 +184,13 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-06 s02 — AEW WrestleDream 2026
+
+- AEW WrestleDream Buy In, 17/10/2026, 00:20:01 — [Death Riders & The Dogs vs Bang Bang Gang & The Conglomeration (multi-man, buy in)](../matches/2026-10-17-death-riders-the-dogs-vs-bang-bang-gang-conglomeration-12-man-aew-wrestledream.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + fecha/lugar de nacimiento exactos** —

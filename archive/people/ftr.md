@@ -102,6 +102,13 @@ sí lleva la irrupción posterior de Christian Cage y Cope. Pieza:
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-06 s02 — AEW WrestleDream 2026
+
+- AEW WrestleDream, 17/10/2026, 00:37:22 — [Motor City Machine Guns vs FTR — serie al mejor de 5, lucha 1](../matches/2026-10-17-mcmg-vs-ftr-best-of-5-lucha-1-aew-wrestledream.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombres reales, debut, trayectoria (ROH/WWE/AEW) con fechas.

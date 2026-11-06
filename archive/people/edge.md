@@ -225,6 +225,13 @@ quedan explícitamente fuera de la clase. Pieza:
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-06 s02 — AEW WrestleDream 2026
+
+- AEW WrestleDream, 17/10/2026, 03:35:56 — [Clockwork Carnage — AEW World Championship](../matches/2026-10-17-clockwork-carnage-aew-world-title-ospreay-retiene-aew-wrestledream.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
+
 ## Pendientes
 
 - [ ] Edge MITB cash-in New Year's Revolution 2006 — pieza
