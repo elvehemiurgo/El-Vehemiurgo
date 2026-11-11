@@ -187,6 +187,13 @@ Austin** en esta lectura de 2019).
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Collision, 24/10/2026, 01:01:52 — [Swerve Strickland vs Myron Reed](../matches/2026-10-24-swerve-strickland-vs-myron-reed-aew-collision.md) — **FC**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, edad.

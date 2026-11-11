@@ -88,6 +88,13 @@ WRESTLING en la misma declaración.**
 **Piezas de la sesión**:
 [The Lethal Twist vs los campeones de tríos](../matches/2026-08-15-lethal-twist-vs-page-bandido-brody-king-trios-aew-collision.md) (PW·FS·WE — **ICC**)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Collision, 7/11/2026, 00:02:44 — [Chris Jericho vs Blake Christian](../matches/2026-11-07-chris-jericho-vs-blake-christian-aew-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos y trayectoria condensada.

@@ -486,6 +486,13 @@ satisfecho con hacer trampa sin querer hacerla él mismo. Pieza:
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, apertura — [Mark Davis & Jake Doyle vs The Young Bucks (eliminator por los títulos de parejas)](../matches/2026-10-21-mark-davis-jake-doyle-vs-young-bucks-eliminator-aew-dynamite.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

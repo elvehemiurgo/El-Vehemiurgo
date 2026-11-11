@@ -52,6 +52,14 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Collision, 24/10/2026, 01:38:10 — [Jay White vs Kyle O'Reilly](../matches/2026-10-24-jay-white-vs-kyle-oreilly-aew-collision.md) — **ICC+**.
+- AEW Fright Night Collision, 31/10/2026, 01:32:27 — [The Cut (Austin & Colten Gunn y Juice Robinson) vs The Conglomeration (Kyle O'Reilly, Roderick Strong & Orange Cassidy)](../matches/2026-10-31-the-cut-gunns-juice-vs-the-conglomeration-aew-fright-night-collision.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas exactas de los reinados NXT Tag 2 y 3, y del debut en AEW.

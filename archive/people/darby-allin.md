@@ -369,6 +369,16 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Collision, 24/10/2026, 00:52:51 — [Josh Alexander: squash y reto a Darby Allin; ataque a Copeland](../segments/2026-10-24-josh-alexander-squash-reta-darby-allin-copeland-aew-collision.md) — **WE**.
+- AEW Fright Night Dynamite, 28/10/2026, 01:46:49 — [Darby Allin (c) vs Josh Alexander — TNT Championship](../matches/2026-10-28-darby-allin-vs-josh-alexander-tnt-title-aew-fright-night-dynamite.md) — **ICC+**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, 00:03:12 — [Will Ospreay lidera las promos de los faces](../segments/2026-11-04-will-ospreay-promo-faces-blood-and-guts-aew-blood-and-guts.md) — **WE**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, 01:23:16 — [Blood & Guts: Don Callis Family vs Team Ospreay](../matches/2026-11-04-blood-and-guts-don-callis-family-vs-team-ospreay-aew-blood-and-guts.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria previa a AEW.

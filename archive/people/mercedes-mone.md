@@ -103,6 +103,14 @@ entertainer dentro de un registro previo que la había criticado como
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Fright Night Dynamite, 28/10/2026, 01:37:16 — [The Cut entre Moxley, Cassidy, Marina Shafir y Mercedes Moné](../segments/2026-10-28-the-cut-moxley-cassidy-shafir-mercedes-mone-aew-fright-night-dynamite.md) — **WE**.
+- AEW Collision, 7/11/2026, 01:16:48 — [The Cut, Jay White y Mercedes Moné emboscan a Moxley](../segments/2026-11-07-the-cut-jay-white-mercedes-mone-emboscada-moxley-aew-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa (WWE Sasha Banks →

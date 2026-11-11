@@ -105,6 +105,15 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, 01:12:25 — [The Dogs atacan a Roderick y a Moxley, traicionan a Gabe Kidd; heel turn de Jay White y el Bang Bang Gang](../segments/2026-10-21-the-dogs-traicionan-gabe-kidd-heel-turn-bang-bang-gang-jay-white-aew-dynamite.md) — **WE+**.
+- AEW Fright Night Dynamite, 28/10/2026, 00:04:29 — [The Cut (Jay White & David Finlay) vs Jon Moxley & Daniel Garcia](../matches/2026-10-28-the-cut-jay-white-david-finlay-vs-moxley-garcia-aew-fright-night-dynamite.md) — **FC**.
+- AEW Fright Night Dynamite, 28/10/2026, 01:37:16 — [The Cut entre Moxley, Cassidy, Marina Shafir y Mercedes Moné](../segments/2026-10-28-the-cut-moxley-cassidy-shafir-mercedes-mone-aew-fright-night-dynamite.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria NJPW/AEW.

@@ -278,6 +278,19 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, 00:12:15 — [Kyle Fletcher & Kevin Knight vs Will Ospreay & Adam Copeland](../matches/2026-10-21-kyle-fletcher-kevin-knight-vs-will-ospreay-adam-copeland-aew-dynamite.md) — **ICC+**.
+- AEW Dynamite, 21/10/2026, 01:50:23 — [Celebración de la Don Callis Family; Blood & Guts](../segments/2026-10-21-don-callis-family-celebracion-blood-and-guts-aew-dynamite.md) — **sin clase**.
+- AEW Fright Night Dynamite, 28/10/2026, 00:28:16 — [Kyle Fletcher vs Jack Perry](../matches/2026-10-28-kyle-fletcher-vs-jack-perry-aew-fright-night-dynamite.md) — **sin clase**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, 00:01:30 — [Promo de los heels: la Don Callis Family antes de Blood & Guts](../segments/2026-11-04-don-callis-family-promo-heels-blood-and-guts-aew-blood-and-guts.md) — **WE**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, 01:23:16 — [Blood & Guts: Don Callis Family vs Team Ospreay](../matches/2026-11-04-blood-and-guts-don-callis-family-vs-team-ospreay-aew-blood-and-guts.md) — **ICC**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, post-match — [Post-match: Kyle Fletcher, súper villano](../segments/2026-11-04-kyle-fletcher-post-match-super-villano-aew-blood-and-guts.md) — **WE+**.
+- AEW Collision, 7/11/2026, 00:44:55 — [Promo video: Will Ospreay vs Kyle Fletcher (Full Gear)](../segments/2026-11-07-promo-video-will-ospreay-vs-kyle-fletcher-full-gear-aew-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] [verif] "el turn de Fletcher" mencionado en s20 — ¿evento

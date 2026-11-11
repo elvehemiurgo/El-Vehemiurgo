@@ -68,6 +68,14 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, apertura — [Mark Davis & Jake Doyle vs The Young Bucks (eliminator por los títulos de parejas)](../matches/2026-10-21-mark-davis-jake-doyle-vs-young-bucks-eliminator-aew-dynamite.md) — **ICC+**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, 01:23:16 — [Blood & Guts: Don Callis Family vs Team Ospreay](../matches/2026-11-04-blood-and-guts-don-callis-family-vs-team-ospreay-aew-blood-and-guts.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Debut, trayectoria completa (indies, PWG, ROH, NJPW,

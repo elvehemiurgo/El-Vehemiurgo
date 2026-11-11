@@ -191,6 +191,14 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, 01:12:25 — [The Dogs atacan a Roderick y a Moxley, traicionan a Gabe Kidd; heel turn de Jay White y el Bang Bang Gang](../segments/2026-10-21-the-dogs-traicionan-gabe-kidd-heel-turn-bang-bang-gang-jay-white-aew-dynamite.md) — **WE+**.
+- AEW Fright Night Collision, 31/10/2026, 01:32:27 — [The Cut (Austin & Colten Gunn y Juice Robinson) vs The Conglomeration (Kyle O'Reilly, Roderick Strong & Orange Cassidy)](../matches/2026-10-31-the-cut-gunns-juice-vs-the-conglomeration-aew-fright-night-collision.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + fecha/lugar de nacimiento exactos** —

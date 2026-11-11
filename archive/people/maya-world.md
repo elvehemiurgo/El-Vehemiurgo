@@ -126,6 +126,14 @@ gauntlet donde también rindió con Mercedes Moné. Ver
 [vs Willow Nightingale, Women's World Title](../matches/2026-08-22-maya-world-vs-willow-nightingale-aew-collision.md) (WE) ·
 [vs Persephone, TBS Title](../matches/2026-08-30-maya-world-vs-persephone-tbs-aew-all-in.md) (**ICC**)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, 01:36:56 — [Queen Aminata vs Maya World](../matches/2026-10-21-queen-aminata-vs-maya-world-aew-dynamite.md) — **WE**.
+- AEW Fright Night Collision, 31/10/2026, 00:28:11 — [Persephone tras perder el TBS: locura backstage](../segments/2026-10-31-persephone-pierde-tbs-locura-backstage-britt-aew-fright-night-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, trayectoria pre-AEW.

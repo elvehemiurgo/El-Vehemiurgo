@@ -13,19 +13,37 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-11-07 | Chris Jericho vs Blake Christian | AEW / Collision (Rock 'N' Wrestling Rager) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-11-07-chris-jericho-vs-blake-christian-aew-collision.md) |
+| 2026-11-07 | FTR vs Motor City Machine Guns — serie al mejor de 5, lucha 4 | AEW / Collision (Rock 'N' Wrestling Rager) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-11-07-ftr-vs-mcmg-best-of-5-lucha-4-aew-collision.md) |
+| 2026-11-07 | Persephone vs Mina Shirakawa | AEW / Collision (Rock 'N' Wrestling Rager) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-11-07-persephone-vs-mina-shirakawa-aew-collision.md) |
 | 2026-11-05 | Allie & Shotzi Blackheart vs Fire 'N Flava (Kiera Hogan & Tasha Steelz) | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-11-05-allie-shotzi-blackheart-vs-fire-n-flava-tna-impact.md) |
 | 2026-11-05 | Eddie Edwards vs Bear Bronson — el liderazgo de The System | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-11-05-eddie-edwards-vs-bear-bronson-liderazgo-the-system-tna-impact.md) |
 | 2026-11-05 | Frankie Kazarian & Avery Styles vs Hunter James & Alexander Lev | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-11-05-kazarian-avery-styles-vs-hunter-james-alexander-lev-tna-impact.md) |
 | 2026-11-05 | The Nemeths (c) vs Leon Slater & Amazing Red — TNA World Tag Team Championship | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-11-05-nemeths-vs-leon-slater-amazing-red-tag-titles-tna-impact.md) |
+| 2026-11-04 | Blood & Guts: Don Callis Family vs Team Ospreay | AEW / Dynamite: Blood & Guts | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-11-04-blood-and-guts-don-callis-family-vs-team-ospreay-aew-blood-and-guts.md) |
+| 2026-10-31 | The Cut (Austin & Colten Gunn y Juice Robinson) vs The Conglomeration (Kyle O'Reilly, Roderick Strong & Orange Cassidy) | AEW / Fright Night Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-31-the-cut-gunns-juice-vs-the-conglomeration-aew-fright-night-collision.md) |
 | 2026-10-29 | Special Agent Zero vs BDE | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-10-29-agent-zero-vs-bde-tna-impact.md) |
 | 2026-10-29 | AJ Francis vs John Skyler (con Mila Moore) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-29-aj-francis-vs-john-skyler-tna-impact.md) |
 | 2026-10-29 | Amazing Red (c) vs Cedric Alexander — X Division Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-29-amazing-red-vs-cedric-alexander-x-division-title-tna-impact.md) |
 | 2026-10-29 | Elijah vs Ryan Nemeth | TNA Wrestling / iMPACT! | WE | — | en-investigacion | 1 | [→](2026-10-29-elijah-vs-ryan-nemeth-tna-impact.md) |
 | 2026-10-29 | M by Elegance (c) vs Jada Stone — Knockouts TV Championship | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-29-m-by-elegance-vs-jada-stone-knockouts-tv-title-tna-impact.md) |
+| 2026-10-28 | Darby Allin (c) vs Josh Alexander — TNT Championship | AEW / Fright Night Dynamite | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-28-darby-allin-vs-josh-alexander-tnt-title-aew-fright-night-dynamite.md) |
+| 2026-10-28 | Kyle Fletcher vs Jack Perry | AEW / Fright Night Dynamite | — | — | en-investigacion | 1 | [→](2026-10-28-kyle-fletcher-vs-jack-perry-aew-fright-night-dynamite.md) |
+| 2026-10-28 | Motor City Machine Guns vs FTR — serie al mejor de 5, lucha 3 | AEW / Fright Night Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-28-mcmg-vs-ftr-best-of-5-lucha-3-aew-fright-night-dynamite.md) |
+| 2026-10-28 | Queen Aminata vs Persephone (c) — TBS Championship | AEW / Fright Night Dynamite | WE | — | en-investigacion | 1 | [→](2026-10-28-queen-aminata-vs-persephone-tbs-title-aew-fright-night-dynamite.md) |
+| 2026-10-28 | The Cut (Jay White & David Finlay) vs Jon Moxley & Daniel Garcia | AEW / Fright Night Dynamite | FS·WE | FC | en-investigacion | 1 | [→](2026-10-28-the-cut-jay-white-david-finlay-vs-moxley-garcia-aew-fright-night-dynamite.md) |
+| 2026-10-24 | FTR vs Motor City Machine Guns — serie al mejor de 5, lucha 2 | AEW / Collision | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-24-ftr-vs-mcmg-best-of-5-lucha-2-aew-collision.md) |
+| 2026-10-24 | Jay White vs Kyle O'Reilly | AEW / Collision | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-24-jay-white-vs-kyle-oreilly-aew-collision.md) |
+| 2026-10-24 | Swerve Strickland vs Myron Reed | AEW / Collision | FS·WE | FC | en-investigacion | 1 | [→](2026-10-24-swerve-strickland-vs-myron-reed-aew-collision.md) |
 | 2026-10-22 | Avery Styles vs Joe Alonzo | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-22-avery-styles-vs-joe-alonzo-tna-impact.md) |
 | 2026-10-22 | Cedric Alexander vs Fabian Aichner vs KC Navarro vs Rich Swann (retador #1 al X Division) | TNA Wrestling / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-22-cedric-alexander-gana-4-way-x-division-retador-tna-impact.md) |
 | 2026-10-22 | Indi Hartwell (c) vs Xia Brookside — revancha sorpresa por el Knockouts World Championship | TNA Wrestling / iMPACT! | FS·WE | FC | en-investigacion | 1 | [→](2026-10-22-indi-hartwell-vs-xia-brookside-revancha-sorpresa-knockouts-title-tna-impact.md) |
 | 2026-10-22 | Jason Hotch (c) vs Mustafa Ali — International Championship, 2 de 3 caídas | TNA Wrestling / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-22-jason-hotch-vs-mustafa-ali-2-de-3-caidas-international-title-tna-impact.md) |
+| 2026-10-21 | Ilja Dragunov vs Mike Bailey | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-21-ilja-dragunov-vs-mike-bailey-aew-dynamite.md) |
+| 2026-10-21 | Jay White & Orange Cassidy vs Wheeler Yuta & Daniel Garcia (Death Riders) | AEW / Dynamite | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-10-21-jay-white-orange-cassidy-vs-wheeler-yuta-daniel-garcia-aew-dynamite.md) |
+| 2026-10-21 | Kyle Fletcher & Kevin Knight vs Will Ospreay & Adam Copeland | AEW / Dynamite | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-21-kyle-fletcher-kevin-knight-vs-will-ospreay-adam-copeland-aew-dynamite.md) |
+| 2026-10-21 | Mark Davis & Jake Doyle vs The Young Bucks (eliminator por los títulos de parejas) | AEW / Dynamite | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-21-mark-davis-jake-doyle-vs-young-bucks-eliminator-aew-dynamite.md) |
+| 2026-10-21 | Queen Aminata vs Maya World | AEW / Dynamite | WE | — | en-investigacion | 1 | [→](2026-10-21-queen-aminata-vs-maya-world-aew-dynamite.md) |
 | 2026-10-17 | Clockwork Carnage — AEW World Championship | AEW / WrestleDream | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-17-clockwork-carnage-aew-world-title-ospreay-retiene-aew-wrestledream.md) |
 | 2026-10-17 | Death Riders & The Dogs vs Bang Bang Gang & The Conglomeration (multi-man, buy in) | AEW / WrestleDream (Buy In) | WE | — | en-investigacion | 1 | [→](2026-10-17-death-riders-the-dogs-vs-bang-bang-gang-conglomeration-12-man-aew-wrestledream.md) |
 | 2026-10-17 | Motor City Machine Guns vs FTR — serie al mejor de 5, lucha 1 | AEW / WrestleDream | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-10-17-mcmg-vs-ftr-best-of-5-lucha-1-aew-wrestledream.md) |

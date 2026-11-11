@@ -47,6 +47,13 @@ Persephone — todavía no hay un match o segmento propio de Willow
 en el archivo; se registra el nombre y la lectura de su
 posicionamiento de protección para no perder el dato.
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Collision, 24/10/2026, 00:33:04 — [Promo de las faces: el reto al Women's Blood & Guts](../segments/2026-10-24-promo-de-los-faces-blood-and-guts-femenino-aew-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria, debut.

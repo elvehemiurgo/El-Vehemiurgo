@@ -451,6 +451,15 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, 00:12:15 — [Kyle Fletcher & Kevin Knight vs Will Ospreay & Adam Copeland](../matches/2026-10-21-kyle-fletcher-kevin-knight-vs-will-ospreay-adam-copeland-aew-dynamite.md) — **ICC+**.
+- AEW Dynamite, 21/10/2026, 01:50:23 — [Celebración de la Don Callis Family; Blood & Guts](../segments/2026-10-21-don-callis-family-celebracion-blood-and-guts-aew-dynamite.md) — **sin clase**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, 01:23:16 — [Blood & Guts: Don Callis Family vs Team Ospreay](../matches/2026-11-04-blood-and-guts-don-callis-family-vs-team-ospreay-aew-blood-and-guts.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria pre-AEW.

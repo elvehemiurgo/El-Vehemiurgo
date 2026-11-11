@@ -41,6 +41,16 @@ comentarios.
 
 - [`../matches/2026-09-12-queen-aminata-vs-mina-shirakawa-aew-collision.md`](../matches/2026-09-12-queen-aminata-vs-mina-shirakawa-aew-collision.md) (FC)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, 01:36:56 — [Queen Aminata vs Maya World](../matches/2026-10-21-queen-aminata-vs-maya-world-aew-dynamite.md) — **WE**.
+- AEW Fright Night Dynamite, 28/10/2026, 02:11:20 — [Queen Aminata vs Persephone (c) — TBS Championship](../matches/2026-10-28-queen-aminata-vs-persephone-tbs-title-aew-fright-night-dynamite.md) — **WE**.
+- AEW Fright Night Collision, 31/10/2026, 00:28:11 — [Persephone tras perder el TBS: locura backstage](../segments/2026-10-31-persephone-pierde-tbs-locura-backstage-britt-aew-fright-night-collision.md) — **WE**.
+- AEW Collision, 7/11/2026, 01:22:05 — [Persephone vs Mina Shirakawa](../matches/2026-11-07-persephone-vs-mina-shirakawa-aew-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, trayectoria completa.

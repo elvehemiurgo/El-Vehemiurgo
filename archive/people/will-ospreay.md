@@ -443,6 +443,17 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, 00:12:15 — [Kyle Fletcher & Kevin Knight vs Will Ospreay & Adam Copeland](../matches/2026-10-21-kyle-fletcher-kevin-knight-vs-will-ospreay-adam-copeland-aew-dynamite.md) — **ICC+**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, 00:03:12 — [Will Ospreay lidera las promos de los faces](../segments/2026-11-04-will-ospreay-promo-faces-blood-and-guts-aew-blood-and-guts.md) — **WE**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, 01:23:16 — [Blood & Guts: Don Callis Family vs Team Ospreay](../matches/2026-11-04-blood-and-guts-don-callis-family-vs-team-ospreay-aew-blood-and-guts.md) — **ICC**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, post-match — [Post-match: Kyle Fletcher, súper villano](../segments/2026-11-04-kyle-fletcher-post-match-super-villano-aew-blood-and-guts.md) — **WE+**.
+- AEW Collision, 7/11/2026, 00:44:55 — [Promo video: Will Ospreay vs Kyle Fletcher (Full Gear)](../segments/2026-11-07-promo-video-will-ospreay-vs-kyle-fletcher-full-gear-aew-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.

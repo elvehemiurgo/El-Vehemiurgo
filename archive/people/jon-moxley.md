@@ -359,6 +359,19 @@ y [`./nicho-el-millonario.md`](./nicho-el-millonario.md).
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, 01:12:25 — [The Dogs atacan a Roderick y a Moxley, traicionan a Gabe Kidd; heel turn de Jay White y el Bang Bang Gang](../segments/2026-10-21-the-dogs-traicionan-gabe-kidd-heel-turn-bang-bang-gang-jay-white-aew-dynamite.md) — **WE+**.
+- AEW Collision, 24/10/2026, 01:55:58 — [Post-match: The Last Outfit, Death Riders y Conglomeration](../segments/2026-10-24-post-match-jay-white-death-riders-conglomeration-shafir-aew-collision.md) — **WE**.
+- AEW Fright Night Dynamite, 28/10/2026, 00:04:29 — [The Cut (Jay White & David Finlay) vs Jon Moxley & Daniel Garcia](../matches/2026-10-28-the-cut-jay-white-david-finlay-vs-moxley-garcia-aew-fright-night-dynamite.md) — **FC**.
+- AEW Fright Night Dynamite, 28/10/2026, 01:37:16 — [The Cut entre Moxley, Cassidy, Marina Shafir y Mercedes Moné](../segments/2026-10-28-the-cut-moxley-cassidy-shafir-mercedes-mone-aew-fright-night-dynamite.md) — **WE**.
+- AEW Fright Night Collision, 31/10/2026, 00:24:41 — [Gabe Kidd, promo: "snakes"](../segments/2026-10-31-gabe-kidd-promo-snakes-the-dogs-aew-fright-night-collision.md) — **WE+**.
+- AEW Collision, 7/11/2026, 01:16:48 — [The Cut, Jay White y Mercedes Moné emboscan a Moxley](../segments/2026-11-07-the-cut-jay-white-mercedes-mone-emboscada-moxley-aew-collision.md) — **WE**.
+- AEW Collision, 7/11/2026, 01:37:48 — [El ataque a Juice Robinson](../segments/2026-11-07-death-riders-ataque-juice-robinson-aew-collision.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: The Shield + Dean Ambrose run WWE

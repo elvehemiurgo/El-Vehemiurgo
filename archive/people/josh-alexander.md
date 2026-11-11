@@ -61,6 +61,15 @@ respecto al ataque de Beretta/Romero sin cerrar por research. Pieza:
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Collision, 24/10/2026, 00:52:51 — [Josh Alexander: squash y reto a Darby Allin; ataque a Copeland](../segments/2026-10-24-josh-alexander-squash-reta-darby-allin-copeland-aew-collision.md) — **WE**.
+- AEW Fright Night Dynamite, 28/10/2026, 01:01:47 — [Promo de la Don Callis Family: Josh Alexander al frente](../segments/2026-10-28-don-callis-family-promo-josh-alexander-okada-aew-fright-night-dynamite.md) — **WE**.
+- AEW Fright Night Dynamite, 28/10/2026, 01:46:49 — [Darby Allin (c) vs Josh Alexander — TNT Championship](../matches/2026-10-28-darby-allin-vs-josh-alexander-tnt-title-aew-fright-night-dynamite.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Día de nacimiento.

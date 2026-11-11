@@ -238,6 +238,16 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Dynamite, 21/10/2026, apertura — [Mark Davis & Jake Doyle vs The Young Bucks (eliminator por los títulos de parejas)](../matches/2026-10-21-mark-davis-jake-doyle-vs-young-bucks-eliminator-aew-dynamite.md) — **ICC+**.
+- AEW Dynamite, 21/10/2026, 01:50:23 — [Celebración de la Don Callis Family; Blood & Guts](../segments/2026-10-21-don-callis-family-celebracion-blood-and-guts-aew-dynamite.md) — **sin clase**.
+- AEW Fright Night Dynamite, 28/10/2026, 01:01:47 — [Promo de la Don Callis Family: Josh Alexander al frente](../segments/2026-10-28-don-callis-family-promo-josh-alexander-okada-aew-fright-night-dynamite.md) — **WE**.
+- AEW Dynamite: Blood & Guts, 4/11/2026, 00:01:30 — [Promo de los heels: la Don Callis Family antes de Blood & Guts](../segments/2026-11-04-don-callis-family-promo-heels-blood-and-guts-aew-blood-and-guts.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (comentarista/manager/

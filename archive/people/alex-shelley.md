@@ -59,6 +59,16 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Collision, 24/10/2026, 00:11:56 — [Promo video: la serie MCMG vs FTR](../segments/2026-10-24-promo-video-serie-mcmg-vs-ftr-aew-collision.md) — **WE**.
+- AEW Collision, 24/10/2026, 00:12:52 — [FTR vs Motor City Machine Guns — serie al mejor de 5, lucha 2](../matches/2026-10-24-ftr-vs-mcmg-best-of-5-lucha-2-aew-collision.md) — **ICC+**.
+- AEW Fright Night Dynamite, 28/10/2026, 01:04:54 — [Motor City Machine Guns vs FTR — serie al mejor de 5, lucha 3](../matches/2026-10-28-mcmg-vs-ftr-best-of-5-lucha-3-aew-fright-night-dynamite.md) — **ICC**.
+- AEW Collision, 7/11/2026, 00:25:12 — [FTR vs Motor City Machine Guns — serie al mejor de 5, lucha 4](../matches/2026-11-07-ftr-vs-mcmg-best-of-5-lucha-4-aew-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes / huecos
 
 - [ ] Paparazzi Productions (2006); TNA Tag 2010; conteo exacto con KUSHIDA; DPT o licenciatura.

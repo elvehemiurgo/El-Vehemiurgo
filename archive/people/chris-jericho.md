@@ -247,6 +247,13 @@ Sin clase declarada sobre el segmento. Pieza:
 ### Sesión 2026-10-01 s01 — "Cada vez se parece más a Greg Valentine" — la lección de Bockwinkel (sin clase)
 - `2026 09 23 AEW Dynamite`, in-ring con Wayne, sin clase: *"me gusta que Jericho se puso a dibujar paralelismos, es buena idea para un talento nuevo, el booking tiene sentido, es buen rub"*. Cuenta lo que Bockwinkel le dijo (*"you go too fast and you do too many moves"*). Reto para Grand Slam: France (6/10). [Ficha](../segments/2026-09-23-jericho-nick-wayne-in-ring-bockwinkel-paris-aew-dynamite.md).
 
+
+### Sesión 2026-11-11 s01 — AEW, 21/10 a 7/11/2026
+
+- AEW Collision, 7/11/2026, 00:02:44 — [Chris Jericho vs Blake Christian](../matches/2026-11-07-chris-jericho-vs-blake-christian-aew-collision.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
+
 ## Pendientes
 
 - [ ] Y2J countdown debut WWF 9 ago 1999 — segment editorial
