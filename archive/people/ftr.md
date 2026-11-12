@@ -119,6 +119,14 @@ Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
 
+
+### Sesión 2026-11-12 s01 — AEW Dynamite & Collision, 11/11/2026
+
+- AEW Dynamite & Collision, 11/11/2026, 01:01:22 — [Stokely Hathaway, promo antes de la lucha 5](../segments/2026-11-11-stokely-hathaway-promo-lucha-5-aew-dynamite-collision.md) — **WE**.
+- AEW Dynamite & Collision, 11/11/2026, 01:09:49 — [Motor City Machine Guns vs FTR — serie al mejor de 5, lucha 5 (decisiva)](../matches/2026-11-11-mcmg-vs-ftr-best-of-5-lucha-5-decisiva-aew-dynamite-collision.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombres reales, debut, trayectoria (ROH/WWE/AEW) con fechas.

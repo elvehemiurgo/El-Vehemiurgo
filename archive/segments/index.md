@@ -12,6 +12,10 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-11 | Adam Copeland, promo personal rumbo a Full Gear | AEW / Dynamite & Collision | promo | WE | — | en-investigacion | 1 | [→](2026-11-11-adam-copeland-promo-personal-aew-dynamite-collision.md) |
+| 2026-11-11 | Kyle Fletcher cara a cara con Will Ospreay antes de Full Gear | AEW / Dynamite & Collision | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-11-11-kyle-fletcher-cara-a-cara-will-ospreay-full-gear-aew-dynamite-collision.md) |
+| 2026-11-11 | Maya World y Hyan, promo backstage | AEW / Dynamite & Collision | promo backstage | WE | — | en-investigacion | 1 | [→](2026-11-11-maya-world-hyan-promo-backstage-aew-dynamite-collision.md) |
+| 2026-11-11 | Stokely Hathaway, promo antes de la lucha 5 | AEW / Dynamite & Collision | promo | WE | — | en-investigacion | 1 | [→](2026-11-11-stokely-hathaway-promo-lucha-5-aew-dynamite-collision.md) |
 | 2026-11-07 | El ataque a Juice Robinson | AEW / Collision (Rock 'N' Wrestling Rager) | segmento backstage | — | — | en-investigacion | 1 | [→](2026-11-07-death-riders-ataque-juice-robinson-aew-collision.md) |
 | 2026-11-07 | Mark Davis & Jake Doyle, promo | AEW / Collision (Rock 'N' Wrestling Rager) | promo backstage | WE+ | — | en-investigacion | 1 | [→](2026-11-07-mark-davis-jake-doyle-promo-aew-collision.md) |
 | 2026-11-07 | Promo video: Will Ospreay vs Kyle Fletcher (Full Gear) | AEW / Collision (Rock 'N' Wrestling Rager) | promo video | WE | — | en-investigacion | 1 | [→](2026-11-07-promo-video-will-ospreay-vs-kyle-fletcher-full-gear-aew-collision.md) |

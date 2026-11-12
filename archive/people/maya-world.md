@@ -134,6 +134,13 @@ gauntlet donde también rindió con Mercedes Moné. Ver
 
 Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
 
+
+### Sesión 2026-11-12 s01 — AEW Dynamite & Collision, 11/11/2026
+
+- AEW Dynamite & Collision, 11/11/2026, 02:49:01 — [Maya World y Hyan, promo backstage](../segments/2026-11-11-maya-world-hyan-promo-backstage-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut, trayectoria pre-AEW.

@@ -242,6 +242,13 @@ Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
 
+
+### Sesión 2026-11-12 s01 — AEW Dynamite & Collision, 11/11/2026
+
+- AEW Dynamite & Collision, 11/11/2026, 00:05:26 — [Adam Copeland, promo personal rumbo a Full Gear](../segments/2026-11-11-adam-copeland-promo-personal-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md)
+
 ## Pendientes
 
 - [ ] Edge MITB cash-in New Year's Revolution 2006 — pieza

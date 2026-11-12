@@ -836,6 +836,13 @@ main event robado" (s57-s58). Pieza:
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-12 s01 — AEW Dynamite & Collision, 11/11/2026
+
+- AEW Dynamite & Collision, 11/11/2026, 00:06:45 — [Kyle Fletcher cara a cara con Will Ospreay antes de Full Gear](../segments/2026-11-11-kyle-fletcher-cara-a-cara-will-ospreay-full-gear-aew-dynamite-collision.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md)
+
 ## Pendientes
 
 - [ ] MJF vs Hangman Revolution 2026 match — pieza individual
