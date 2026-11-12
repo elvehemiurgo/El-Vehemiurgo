@@ -16,18 +16,19 @@ referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "lucha definitiva; todas las trampas de FTR; muy buenos callbacks a las luchas anteriores; Sabin resistiendo la cuenta tras el campanazo; recién aquí las lesiones anteriores de Dax y Alex tuvieron más protagonismo, sobre todo la de Shelley; cada near-fall muy bueno, impredecible, bien seteadas las secuencias; Stokely tuvo protagonismo, no me disgustó, protege a los Guns en cierta forma; los kick-outs exagerados, pero como fin de una dream series debían vivir su momento fighting spirit; el final de mártir para Shelley cool; muy buen cambio para la división, espero que ya no ladder matches, puro tag team highspeed"
-clases_vehemiurgo: []
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
 ultima_actualizacion: 2026-11-12
 fuentes_principales:
+  - "Ratificación del Vehemiurgo 2026-11-12: \"se merece las 3 clases con la corona +\""
   - "Volcado Vehemiurgo 2026-11-12 s01 (visión directa — AEW Dynamite & Collision, 11/11/2026, timestamp 01:09:49)"
   - "WebSearch 2026-11-12 (AllEliteWrestling.com, Slam Wrestling, Wrestling Inc, PWMania, PWTorch, eWrestlingNews, Ringside News) — resultados; especial de 3 horas previo a Full Gear"
-tags: [aew-2026, mcmg, ftr, best-of-5, stokely-hathaway, y2k-highspeed, dream-series]
+tags: [aew-2026, instant-classic-crown-plus, mcmg, ftr, best-of-5, stokely-hathaway, y2k-highspeed, dream-series]
 ---
 
 # Motor City Machine Guns vs FTR — serie al mejor de 5, lucha 5 (decisiva) (AEW Dynamite & Collision, 11/11/2026)
 
-> **Sin clase**: lectura registrada tal cual.
+> **Instant Classic Crown+** (PW·FS·WE+), declarada 2026-11-12.
 
 ## Resumen
 
@@ -35,7 +36,7 @@ Timestamp **01:09:49**. **MCMG gana la serie 3-2** y queda como retador #1 a los
 
 ## Lectura del Vehemiurgo
 
-- **Clase**: **Sin clase.** No hubo *"se merece"*; la lectura se registra tal cual.
+- **Clase**: **Perfect Wrestling + Fighting Spirit + WE+ → Instant Classic Crown+**, declarada el 2026-11-12: *"la lucha 5 de MCMG vs FTR se merece las 3 clases con la corona +"*.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -56,7 +57,7 @@ Timestamp **01:09:49**. **MCMG gana la serie 3-2** y queda como retador #1 a los
 
 **Lectura sintética**:
 
-1. **Clase no declarada**: el dictado elogia todo pero no dice *"se merece"*. Pendiente de que el Vehemiurgo la declare.
+1. **ICC+ declarada** el 2026-11-12, en una declaración posterior al dictado.
 2. **Memoria de la serie**: callbacks y lesiones de luchas anteriores, por fin en primer plano.
 3. **Fighting spirit justificado**: *"como fin de una dream series sí debían vivir su momento"*, aunque los kick-outs sean exagerados.
 4. **Y2K HIGHSPEED en la división**: *"espero que ya no ladder matches, puro tag team highspeed"*.

@@ -15,7 +15,7 @@ con cada cambio de estado.
 |---|---|---|---|---|---|---|---|
 | 2026-11-11 | David Finlay vs Orange Cassidy | AEW / Dynamite & Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-11-11-david-finlay-vs-orange-cassidy-aew-dynamite-collision.md) |
 | 2026-11-11 | Jon Moxley & Marina Shafir vs Jay White & Mercedes Moné | AEW / Dynamite & Collision | — | — | en-investigacion | 1 | [→](2026-11-11-jon-moxley-marina-shafir-vs-jay-white-mercedes-mone-aew-dynamite-collision.md) |
-| 2026-11-11 | Motor City Machine Guns vs FTR — serie al mejor de 5, lucha 5 (decisiva) | AEW / Dynamite & Collision | — | — | en-investigacion | 1 | [→](2026-11-11-mcmg-vs-ftr-best-of-5-lucha-5-decisiva-aew-dynamite-collision.md) |
+| 2026-11-11 | Motor City Machine Guns vs FTR — serie al mejor de 5, lucha 5 (decisiva) | AEW / Dynamite & Collision | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-11-11-mcmg-vs-ftr-best-of-5-lucha-5-decisiva-aew-dynamite-collision.md) |
 | 2026-11-11 | The Swirl (Blake Christian & Lee Johnson) vs El Sky Team (Místico & Máscara Dorada) | AEW / Dynamite & Collision | FS·WE | FC | en-investigacion | 1 | [→](2026-11-11-the-swirl-vs-el-sky-team-mistico-mascara-dorada-aew-dynamite-collision.md) |
 | 2026-11-07 | Chris Jericho vs Blake Christian | AEW / Collision (Rock 'N' Wrestling Rager) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-11-07-chris-jericho-vs-blake-christian-aew-collision.md) |
 | 2026-11-07 | FTR vs Motor City Machine Guns — serie al mejor de 5, lucha 4 | AEW / Collision (Rock 'N' Wrestling Rager) | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-11-07-ftr-vs-mcmg-best-of-5-lucha-4-aew-collision.md) |

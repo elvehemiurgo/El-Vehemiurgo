@@ -96,7 +96,7 @@ Conteo: **1 ICC** · **1 FC** · **4 WE** · **2 sin clase**.
 
 ## Pregunta abierta
 
-- **MCMG vs FTR, lucha 5**: elogio completo sin *"se merece"*. Queda sin clase hasta que el Vehemiurgo la declare.
+- **MCMG vs FTR, lucha 5**: elogio completo sin *"se merece"*. **Declarada después (2026-11-12)**: *"la lucha 5 de MCMG vs FTR se merce las 3 clases con la corona +"* → **ICC+**.
 
 ## Research (WebSearch, 2026-11-12)
 
