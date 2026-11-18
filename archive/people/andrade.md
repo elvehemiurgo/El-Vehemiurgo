@@ -220,6 +220,13 @@ acto"*. Piezas:
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-18 s02 — AEW Full Gear 2026 (regreso de MJF)
+
+- AEW Full Gear, 14/11/2026, 05:02:38 — [El regreso de MJF: ataca a Will Ospreay tras el main event](../segments/2026-11-14-regreso-mjf-ataca-will-ospreay-post-main-event-aew-full-gear.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s02-aew-full-gear-2026-regreso-mjf.md`](../../notebook/2026-11-18-s02-aew-full-gear-2026-regreso-mjf.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria (Lucha Underground/NXT/AEW)

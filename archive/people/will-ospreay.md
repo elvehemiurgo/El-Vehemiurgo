@@ -468,6 +468,13 @@ Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../.
 
 Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
 
+
+### Sesión 2026-11-18 s02 — AEW Full Gear 2026 (regreso de MJF)
+
+- AEW Full Gear, 14/11/2026, 05:02:38 — [El regreso de MJF: ataca a Will Ospreay tras el main event](../segments/2026-11-14-regreso-mjf-ataca-will-ospreay-post-main-event-aew-full-gear.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s02-aew-full-gear-2026-regreso-mjf.md`](../../notebook/2026-11-18-s02-aew-full-gear-2026-regreso-mjf.md)
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.
