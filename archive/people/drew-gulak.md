@@ -93,6 +93,14 @@ Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../noteboo
 
 Volcado: [`../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md`](../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md)
 
+
+### Sesión 2026-11-18 s06 — CZW Tournament of Death XIII (2014)
+
+- CZW Tournament of Death XIII, 14/6/2014, 01:55:59 — [The Juicy Product interrumpe a Drew Gulak; DJ Hyde los mete en una death match](../segments/2014-06-14-juicy-product-interrumpe-gulak-team-dj-hyde-czw-tod13.md) — **WE**.
+- CZW Tournament of Death XIII, 14/6/2014, 02:07:49 — [The Juicy Product (David Starr & JT Dunn) (c) vs Drew Gulak & Sozio — CZW Tag Team Championship](../matches/2014-06-14-juicy-product-vs-drew-gulak-sozio-tag-titles-czw-tod13.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-18-s06-czw-tournament-of-death-xiii-2014.md`](../../notebook/2026-11-18-s06-czw-tournament-of-death-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real; fecha en que ganó el título a Masada.
