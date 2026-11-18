@@ -98,6 +98,13 @@ Silver es el spot: la crossbody que Konley recibe *"perfectamente"*.
 **Pieza de la sesión**:
 [Hollister & Konley vs The Beaver Boys](../matches/2013-09-14-hollister-konley-vs-beaver-boys-czw-dwts.md) (WE, a Hollister & Konley)
 
+
+### Sesión 2026-11-18 s04 — CZW To Infinity (2014)
+
+- CZW To Infinity, 27/4/2014, 01:32:02 — [The Juicy Product (David Starr & JT Dunn) vs The Beaver Boys (Alex Reynolds & John Silver) (c) — CZW Tag Team Championship](../matches/2014-04-27-juicy-product-vs-beaver-boys-czw-tag-titles-czw-to-infinity.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../notebook/2026-11-18-s04-czw-to-infinity-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Confirmar el finish exacto de la final ante Starr.

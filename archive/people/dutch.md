@@ -241,6 +241,13 @@ Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../
 
 Volcado: [`../../notebook/2026-11-06-s03-tna-impact-051126.md`](../../notebook/2026-11-06-s03-tna-impact-051126.md)
 
+
+### Sesión 2026-11-18 s04 — CZW To Infinity (2014)
+
+- CZW To Infinity, 27/4/2014, 00:20:25 — [Team Tremendous (Bill Carr & Dan Barry) vs The Front (Sozio & Stockade)](../matches/2014-04-27-team-tremendous-vs-the-front-czw-to-infinity.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../notebook/2026-11-18-s04-czw-to-infinity-2014.md)
+
 ## Pendientes / huecos
 
 - [x] Carrera completa mapeada por sub-agente 2026-06-17.

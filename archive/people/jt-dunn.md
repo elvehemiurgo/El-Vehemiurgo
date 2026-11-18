@@ -136,6 +136,14 @@ su ficha (*"el último roaring elbow efectivo"*).
 
 Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
 
+
+### Sesión 2026-11-18 s04 — CZW To Infinity (2014)
+
+- CZW To Infinity, 27/4/2014, 01:32:02 — [The Juicy Product (David Starr & JT Dunn) vs The Beaver Boys (Alex Reynolds & John Silver) (c) — CZW Tag Team Championship](../matches/2014-04-27-juicy-product-vs-beaver-boys-czw-tag-titles-czw-to-infinity.md) — **ICC**.
+- CZW To Infinity, 27/4/2014, 01:51:08 — [The Juicy Product, post-match: "believe the hype and look at it"](../segments/2014-04-27-juicy-product-post-match-believe-the-hype-czw-to-infinity.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../notebook/2026-11-18-s04-czw-to-infinity-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de carrera (Beyond Wrestling, Death Before

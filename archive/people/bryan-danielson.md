@@ -60,6 +60,13 @@ Volcado: [`../../notebook/2026-10-20-s01-tna-impact-mayo-junio-2026.md`](../../n
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-18 s04 — CZW To Infinity (2014)
+
+- CZW To Infinity, 27/4/2014, 01:51:52 — [Drew Gulak (c) vs Biff Busick — CZW World Heavyweight Championship](../matches/2014-04-27-drew-gulak-vs-biff-busick-czw-world-title-czw-to-infinity.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../notebook/2026-11-18-s04-czw-to-infinity-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas WWE de memoria (2010, 2011, 2018, 2021) `[verif]`.

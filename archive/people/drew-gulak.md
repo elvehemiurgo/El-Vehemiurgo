@@ -79,6 +79,13 @@ Everett sobre Colon, y a Bad Influence sobre Magnus en TNA 2013).
 **Pieza de la sesión**:
 [vs AR Fox (título mundial, main event)](../matches/2014-03-08-ar-fox-vs-gulak-world-title-czw-highstakes5.md) (FC)
 
+
+### Sesión 2026-11-18 s04 — CZW To Infinity (2014)
+
+- CZW To Infinity, 27/4/2014, 01:51:52 — [Drew Gulak (c) vs Biff Busick — CZW World Heavyweight Championship](../matches/2014-04-27-drew-gulak-vs-biff-busick-czw-world-title-czw-to-infinity.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../notebook/2026-11-18-s04-czw-to-infinity-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real; fecha en que ganó el título a Masada.

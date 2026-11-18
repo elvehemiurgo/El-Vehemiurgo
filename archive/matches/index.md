@@ -775,6 +775,10 @@ con cada cambio de estado.
 | 2017-01-14 | Dave Crist vs Sami Callihan | CZW / Awakening | PW·FS·WE | ICC | en-investigacion | 1 | [→](2017-01-14-dave-crist-vs-sami-callihan-czw-awakening.md) |
 | 2017-01-14 | Scarlet & Graves (c) vs The Dub Boys | CZW / Awakening | FS·WE | FC | en-investigacion | 1 | [→](2017-01-14-scarlet-and-graves-vs-dub-boys-czw-awakening.md) |
 | 2016-02-05 | AJ Styles vs Corey Hollis | GPW (Georgia Pro Wrestling / All-American Wrestling — verificar) / GPW indie show 2016 | — | — | en-investigacion | 1 | [→](2016-02-05-aj-styles-vs-corey-hollis-gpw.md) |
+| 2014-04-27 | Drew Gulak (c) vs Biff Busick — CZW World Heavyweight Championship | CZW / To Infinity | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2014-04-27-drew-gulak-vs-biff-busick-czw-world-title-czw-to-infinity.md) |
+| 2014-04-27 | The Juicy Product (David Starr & JT Dunn) vs The Beaver Boys (Alex Reynolds & John Silver) (c) — CZW Tag Team Championship | CZW / To Infinity | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-04-27-juicy-product-vs-beaver-boys-czw-tag-titles-czw-to-infinity.md) |
+| 2014-04-27 | Kevin Steen vs DJ Hyde | CZW / To Infinity | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-04-27-kevin-steen-vs-dj-hyde-czw-to-infinity.md) |
+| 2014-04-27 | Team Tremendous (Bill Carr & Dan Barry) vs The Front (Sozio & Stockade) | CZW / To Infinity | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-04-27-team-tremendous-vs-the-front-czw-to-infinity.md) |
 | 2014-04-12 | AR Fox vs Mike Bailey vs Andrew Everett (BOTB XIII, primera ronda) | CZW / Best of the Best XIII | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-04-12-ar-fox-vs-mike-bailey-vs-andrew-everett-botb13-r1-czw-botb13.md) |
 | 2014-04-12 | Biff Busick vs Azrieal vs Caleb Konley (BOTB XIII, primera ronda) | CZW / Best of the Best XIII | FS·WE | FC | en-investigacion | 1 | [→](2014-04-12-biff-busick-vs-azrieal-vs-caleb-konley-botb13-r1-czw-botb13.md) |
 | 2014-04-12 | Drake Younger vs AR Fox (BOTB XIII, semifinal) | CZW / Best of the Best XIII | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-04-12-drake-younger-vs-ar-fox-botb13-semifinal-czw-botb13.md) |

@@ -298,6 +298,14 @@ Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-ab
 
 Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
 
+
+### Sesión 2026-11-18 s04 — CZW To Infinity (2014)
+
+- CZW To Infinity, 27/4/2014, 01:16:30 — [Kevin Steen vs DJ Hyde](../matches/2014-04-27-kevin-steen-vs-dj-hyde-czw-to-infinity.md) — **ICC**.
+- CZW To Infinity, 27/4/2014, 01:31:07 — [Kevin Steen con los fans tras la lucha](../segments/2014-04-27-kevin-steen-momento-fans-post-match-czw-to-infinity.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../notebook/2026-11-18-s04-czw-to-infinity-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).
