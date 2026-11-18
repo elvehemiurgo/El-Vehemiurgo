@@ -94,4 +94,4 @@ Conteo: **1 ICC+** · **2 ICC** · **1 FC** · **1 WE+** · **1 WE** · **1 sin 
 - **Kevin Steen** aplica dos Package Piledrivers a DJ Hyde.
 - No dictados: Chuck Taylor en el torneo; Shane Strickland retiene el Wired TV en ladder.
 
-**Pregunta abierta**: Juicy Product vs OI4K quedó sin clase (*"estuvo increíble"*, sin *"se merece"*).
+**Pregunta abierta**: Juicy Product vs OI4K quedó sin clase (*"estuvo increíble"*, sin *"se merece"*). **Declarada el 2026-11-18**: *"Juicy Product vs OI4K se merece las 3 clases con la corona +"* → **ICC+**.

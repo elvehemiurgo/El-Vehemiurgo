@@ -16,18 +16,19 @@ referee: "[verif]"
 encuentros_previos: 0
 veces_visto_vehemiurgo: 1
 calificacion_vehemiurgo: "inicio explosivo accidentado, todos contra el concreto; el primer dive de Starr suicida, igual que los de OI4K; increíble, toda la lucha explosiva; Dave se come la barricada, spot genial; Starr con el no-selling no me gustó, es su gimmick un poco; los stakes eran lo más grande para ellos en ese momento, pero no lo justifica, no se siente tan genial como Fletcher no vendiendo el Hidden Blade en Full Gear; fuera de eso todo excelente; veteranos contra rising stars, le subieron los stakes y atención a la división de parejas; el upset con el heel turn poniendo over el KO elbow de JT, genial"
-clases_vehemiurgo: []
+clases_vehemiurgo: ["perfect-wrestling", "fighting-spirit", "wrestling-entertainment-plus"]
 estado: en-investigacion
 ultima_actualizacion: 2026-11-18
 fuentes_principales:
+  - "Declaración del Vehemiurgo 2026-11-18: \"se merece las 3 clases con la corona +\""
   - "Volcado Vehemiurgo 2026-11-18 s03 (visión directa — CZW Best of the Best XIII, 12/4/2014, timestamp 01:59:29)"
   - "WebSearch 2026-11-18 (prowrestling.fandom vía snippet, PWMania, PWPonderings, Wrestleview) — resultados"
-tags: [czw-2014, juicy-product, oi4k, david-starr, jt-dunn, dave-crist, jake-crist, y2k-highspeed, czw-tag-titles]
+tags: [czw-2014, instant-classic-crown-plus, juicy-product, oi4k, david-starr, jt-dunn, dave-crist, jake-crist, y2k-highspeed, czw-tag-titles]
 ---
 
 # The Juicy Product (David Starr & JT Dunn) vs OI4K (Dave & Jake Crist) — retadores #1 al CZW Tag Team Championship (CZW Best of the Best XIII, 12/4/2014)
 
-> **Sin clase**: lectura registrada tal cual.
+> **Instant Classic Crown+** (PW·FS·WE+), declarada 2026-11-18.
 
 ## Resumen
 
@@ -35,7 +36,7 @@ Timestamp **01:59:29**. **Ganan The Juicy Product** (8:25) y quedan como retador
 
 ## Lectura del Vehemiurgo
 
-- **Clase**: **Sin clase.** No hubo *"se merece"*; la lectura se registra tal cual.
+- **Clase**: **Perfect Wrestling + Fighting Spirit + WE+ → Instant Classic Crown+**, declarada el 2026-11-18: *"Juicy Product vs OI4K se merece las 3 clases con la corona +"*.
 
 ## Cita verbatim del Vehemiurgo
 
@@ -62,7 +63,7 @@ Timestamp **01:59:29**. **Ganan The Juicy Product** (8:25) y quedan como retador
 
 **Lectura sintética**:
 
-1. **Clase no declarada**: *"estuvo increíble [...] todo fue excelente"*, sin *"se merece"*. Pendiente de que el Vehemiurgo la declare.
+1. **ICC+ declarada** el 2026-11-18, en una declaración posterior al dictado.
 2. **OI4K** (exponentes del Y2K HIGHSPEED) frente a los rising stars: la división de parejas sube de interés.
 3. **El no-selling comparado**: el de Starr no se justifica como sí se justificó el de Fletcher en Full Gear. Cruce con el volcado del 18/11.
 4. Timestamps: 01:59:29, 02:05:26, 02:07:33, 02:09:05.
