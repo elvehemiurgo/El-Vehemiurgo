@@ -72,6 +72,15 @@ Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 00:31:31 — [Promo video: Mark Davis & Jake Doyle vs The Young Bucks](../segments/2026-11-14-promo-video-davis-doyle-vs-young-bucks-aew-full-gear.md) — **WE**.
+- AEW Full Gear, 14/11/2026, 00:33:03 — [The Young Bucks (c) vs Mark Davis & Jake Doyle — AEW World Tag Team Championship](../matches/2026-11-14-young-bucks-vs-mark-davis-jake-doyle-tag-titles-aew-full-gear.md) — **FC**.
+- AEW Full Gear, 14/11/2026, 00:57:18 — [Reencuentro MCMG–Young Bucks; debutan los Kasper Brothers; FTR](../segments/2026-11-14-mcmg-young-bucks-reencuentro-debut-kasper-brothers-ftr-aew-full-gear.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Debut, trayectoria completa (indies, PWG, ROH, NJPW,

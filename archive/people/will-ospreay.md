@@ -461,6 +461,13 @@ Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blo
 
 Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md)
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 04:09:06 — [Will Ospreay (c) vs Kyle Fletcher — AEW World Championship](../matches/2026-11-14-will-ospreay-vs-kyle-fletcher-aew-world-title-aew-full-gear.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes
 
 - [ ] Best of Super Juniors 2016 winner — pieza editorial.

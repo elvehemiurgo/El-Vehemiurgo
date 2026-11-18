@@ -13,6 +13,11 @@ con cada cambio de estado.
 
 | Fecha | Match | Empresa / Programa | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|
+| 2026-11-14 | Kazuchika Okada (c) vs Adam Copeland — AEW International Championship | AEW / Full Gear | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-11-14-okada-vs-adam-copeland-international-title-aew-full-gear.md) |
+| 2026-11-14 | Anarchy in the Arena: The Cut vs Death Riders | AEW / Full Gear | WE | — | en-investigacion | 1 | [→](2026-11-14-the-cut-vs-death-riders-anarchy-in-the-arena-aew-full-gear.md) |
+| 2026-11-14 | Will Ospreay (c) vs Kyle Fletcher — AEW World Championship | AEW / Full Gear | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-11-14-will-ospreay-vs-kyle-fletcher-aew-world-title-aew-full-gear.md) |
+| 2026-11-14 | Wrathlander (Kris Statlander & Harley Cameron) vs Brawling Birds (Jamie Hayter & Alex Windsor) — AEW Women's World Tag Team Championship | AEW / Full Gear | WE | — | en-investigacion | 1 | [→](2026-11-14-wrathlander-vs-brawling-birds-womens-tag-titles-aew-full-gear.md) |
+| 2026-11-14 | The Young Bucks (c) vs Mark Davis & Jake Doyle — AEW World Tag Team Championship | AEW / Full Gear | FS·WE | FC | en-investigacion | 1 | [→](2026-11-14-young-bucks-vs-mark-davis-jake-doyle-tag-titles-aew-full-gear.md) |
 | 2026-11-11 | David Finlay vs Orange Cassidy | AEW / Dynamite & Collision | PW·FS·WE | ICC | en-investigacion | 1 | [→](2026-11-11-david-finlay-vs-orange-cassidy-aew-dynamite-collision.md) |
 | 2026-11-11 | Jon Moxley & Marina Shafir vs Jay White & Mercedes Moné | AEW / Dynamite & Collision | — | — | en-investigacion | 1 | [→](2026-11-11-jon-moxley-marina-shafir-vs-jay-white-mercedes-mone-aew-dynamite-collision.md) |
 | 2026-11-11 | Motor City Machine Guns vs FTR — serie al mejor de 5, lucha 5 (decisiva) | AEW / Dynamite & Collision | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2026-11-11-mcmg-vs-ftr-best-of-5-lucha-5-decisiva-aew-dynamite-collision.md) |

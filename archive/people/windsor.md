@@ -75,6 +75,13 @@ título. Pieza:
 ### Sesión 2026-10-02 s01 — Chicago Street Fight (ICC): "la recomendaría a alguien que nunca vio wrestling"
 - `2026 09 26 AEW All Out`, Birds vs Divine Dominion, **ICC** (corregida en el mismo dictado desde FC). Retienen. [Ficha](../matches/2026-09-26-brawling-birds-vs-divine-dominion-chicago-street-fight-aew-all-out.md).
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 02:02:34 — [Wrathlander (Kris Statlander & Harley Cameron) vs Brawling Birds (Jamie Hayter & Alex Windsor) — AEW Women's World Tag Team Championship](../matches/2026-11-14-wrathlander-vs-brawling-birds-womens-tag-titles-aew-full-gear.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, origen, debut.

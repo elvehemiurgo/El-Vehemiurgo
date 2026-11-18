@@ -493,6 +493,13 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 00:03:46 — [Promo video: Adam Copeland vs Kazuchika Okada](../segments/2026-11-14-promo-video-adam-copeland-vs-okada-aew-full-gear.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

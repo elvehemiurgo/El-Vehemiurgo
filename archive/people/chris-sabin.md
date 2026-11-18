@@ -77,6 +77,13 @@ Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blo
 
 Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md)
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 00:57:18 — [Reencuentro MCMG–Young Bucks; debutan los Kasper Brothers; FTR](../segments/2026-11-14-mcmg-young-bucks-reencuentro-debut-kasper-brothers-ftr-aew-full-gear.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer X Division (2003); TNA Tag 2010; ROH tag titles.

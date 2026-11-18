@@ -217,6 +217,14 @@ Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 00:03:46 — [Promo video: Adam Copeland vs Kazuchika Okada](../segments/2026-11-14-promo-video-adam-copeland-vs-okada-aew-full-gear.md) — **WE**.
+- AEW Full Gear, 14/11/2026, 00:05:23 — [Kazuchika Okada (c) vs Adam Copeland — AEW International Championship](../matches/2026-11-14-okada-vs-adam-copeland-international-title-aew-full-gear.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, debut, cronología NJPW con títulos.

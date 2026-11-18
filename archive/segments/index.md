@@ -12,6 +12,11 @@ cada alta y con cada cambio de estado.
 
 | Fecha | Segmento | Empresa / Programa | Tipo | Clase | Corona | Estado | Veces | Archivo |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-14 | Reencuentro MCMG–Young Bucks; debutan los Kasper Brothers; FTR | AEW / Full Gear | segmento | WE | — | en-investigacion | 1 | [→](2026-11-14-mcmg-young-bucks-reencuentro-debut-kasper-brothers-ftr-aew-full-gear.md) |
+| 2026-11-14 | Promo video: Adam Copeland vs Kazuchika Okada | AEW / Full Gear | promo video | WE | — | en-investigacion | 1 | [→](2026-11-14-promo-video-adam-copeland-vs-okada-aew-full-gear.md) |
+| 2026-11-14 | Promo video: Mark Davis & Jake Doyle vs The Young Bucks | AEW / Full Gear | promo video | WE | — | en-investigacion | 1 | [→](2026-11-14-promo-video-davis-doyle-vs-young-bucks-aew-full-gear.md) |
+| 2026-11-14 | Video package: Death Riders vs The Cut | AEW / Full Gear | video package | WE | — | en-investigacion | 1 | [→](2026-11-14-video-package-death-riders-vs-the-cut-aew-full-gear.md) |
+| 2026-11-14 | Video package de entrada: Wrathlander | AEW / Full Gear | video package | WE | — | en-investigacion | 1 | [→](2026-11-14-video-package-entrada-wrathlander-aew-full-gear.md) |
 | 2026-11-11 | Adam Copeland, promo personal rumbo a Full Gear | AEW / Dynamite & Collision | promo | WE | — | en-investigacion | 1 | [→](2026-11-11-adam-copeland-promo-personal-aew-dynamite-collision.md) |
 | 2026-11-11 | Kyle Fletcher cara a cara con Will Ospreay antes de Full Gear | AEW / Dynamite & Collision | segmento in-ring | WE | — | en-investigacion | 1 | [→](2026-11-11-kyle-fletcher-cara-a-cara-will-ospreay-full-gear-aew-dynamite-collision.md) |
 | 2026-11-11 | Maya World y Hyan, promo backstage | AEW / Dynamite & Collision | promo backstage | WE | — | en-investigacion | 1 | [→](2026-11-11-maya-world-hyan-promo-backstage-aew-dynamite-collision.md) |

@@ -235,6 +235,14 @@ Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blo
 
 Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md)
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 03:19:01 — [Video package: Death Riders vs The Cut](../segments/2026-11-14-video-package-death-riders-vs-the-cut-aew-full-gear.md) — **WE**.
+- AEW Full Gear, 14/11/2026, 03:20:48 — [Anarchy in the Arena: The Cut vs Death Riders](../matches/2026-11-14-the-cut-vs-death-riders-anarchy-in-the-arena-aew-full-gear.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real, debut, trayectoria completa NJPW (Bullet Club,

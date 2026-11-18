@@ -249,6 +249,14 @@ Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blo
 
 Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md)
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 00:03:46 — [Promo video: Adam Copeland vs Kazuchika Okada](../segments/2026-11-14-promo-video-adam-copeland-vs-okada-aew-full-gear.md) — **WE**.
+- AEW Full Gear, 14/11/2026, 00:05:23 — [Kazuchika Okada (c) vs Adam Copeland — AEW International Championship](../matches/2026-11-14-okada-vs-adam-copeland-international-title-aew-full-gear.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes
 
 - [ ] Edge MITB cash-in New Year's Revolution 2006 — pieza

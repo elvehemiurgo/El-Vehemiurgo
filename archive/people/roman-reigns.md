@@ -327,6 +327,13 @@ Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-se
 
 Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 02:02:34 — [Wrathlander (Kris Statlander & Harley Cameron) vs Brawling Birds (Jamie Hayter & Alex Windsor) — AEW Women's World Tag Team Championship](../matches/2026-11-14-wrathlander-vs-brawling-birds-womens-tag-titles-aew-full-gear.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes
 
 - [ ] WrestleMania XL Day 2 vs Cody (loss del 1316 días reign)

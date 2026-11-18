@@ -71,6 +71,14 @@ agentes de las luchas". Ver
 **Piezas de la sesión**:
 [vs Persephone](../matches/2026-08-05-persephone-vs-statlander-aew-gsm.md) (FS·WE — **Feeling Crown**)
 
+
+### Sesión 2026-11-18 s01 — AEW Full Gear 2026
+
+- AEW Full Gear, 14/11/2026, 01:58:23 — [Video package de entrada: Wrathlander](../segments/2026-11-14-video-package-entrada-wrathlander-aew-full-gear.md) — **WE**.
+- AEW Full Gear, 14/11/2026, 02:02:34 — [Wrathlander (Kris Statlander & Harley Cameron) vs Brawling Birds (Jamie Hayter & Alex Windsor) — AEW Women's World Tag Team Championship](../matches/2026-11-14-wrathlander-vs-brawling-birds-womens-tag-titles-aew-full-gear.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
+
 ## Pendientes / huecos
 
 - [ ] Todo — nombre real, trayectoria, empresa.
