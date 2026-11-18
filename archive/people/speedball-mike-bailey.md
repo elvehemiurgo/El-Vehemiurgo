@@ -214,6 +214,13 @@ Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 00:54:34 — [AR Fox vs Mike Bailey vs Andrew Everett (BOTB XIII, primera ronda)](../matches/2014-04-12-ar-fox-vs-mike-bailey-vs-andrew-everett-botb13-r1-czw-botb13.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, origen, debut, trayectoria pre-AEW.

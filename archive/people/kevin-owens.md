@@ -291,6 +291,13 @@ Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-se
 
 Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 00:09:16 — [Kevin Steen, en su gira de despedida, ataca a DJ Hyde](../segments/2014-04-12-kevin-steen-ataca-dj-hyde-package-piledriver-czw-botb13.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos duros de la lesión de cuello y cirugía (fecha exacta).

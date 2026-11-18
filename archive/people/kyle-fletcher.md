@@ -305,6 +305,13 @@ Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../.
 
 Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 01:59:29 — [The Juicy Product (David Starr & JT Dunn) vs OI4K (Dave & Jake Crist) — retadores #1 al CZW Tag Team Championship](../matches/2014-04-12-juicy-product-vs-oi4k-retadores-tag-titles-czw-botb13.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] [verif] "el turn de Fletcher" mencionado en s20 — ¿evento

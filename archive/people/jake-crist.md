@@ -117,6 +117,13 @@ sugiriera — memoria histórica en acción.
   estilo con trabajo duro, adicciones y todos los problemas posibles
   encima"*. [Doctrina](../topics/doctrina-y2k-highspeed.md), [panteón](../topics/panteon-y2k-highspeed.md).
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 01:59:29 — [The Juicy Product (David Starr & JT Dunn) vs OI4K (Dave & Jake Crist) — retadores #1 al CZW Tag Team Championship](../matches/2014-04-12-juicy-product-vs-oi4k-retadores-tag-titles-czw-botb13.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] **Revisar las luchas de la versión actual (madura/heavyweight)

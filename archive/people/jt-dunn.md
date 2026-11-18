@@ -129,6 +129,13 @@ su ficha (*"el último roaring elbow efectivo"*).
 [vs Konley & Hollister](../matches/2013-10-12-juicy-product-vs-konley-hollister-czw-cerebral.md) (FC) ·
 [vs BLK OUT](../matches/2013-12-14-juicy-product-vs-blk-out-tag-titles-czw-cod15.md) (FC)
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 01:59:29 — [The Juicy Product (David Starr & JT Dunn) vs OI4K (Dave & Jake Crist) — retadores #1 al CZW Tag Team Championship](../matches/2014-04-12-juicy-product-vs-oi4k-retadores-tag-titles-czw-botb13.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de carrera (Beyond Wrestling, Death Before

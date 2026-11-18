@@ -95,6 +95,13 @@ The Cult of Lee (TNA 2018).
 [con Hollister vs Juicy Product](../matches/2013-10-12-juicy-product-vs-konley-hollister-czw-cerebral.md) (FC) ·
 [vs Alexander James](../matches/2014-03-08-alexander-james-vs-konley-czw-highstakes5.md) (FC — gana Konley)
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 00:25:18 — [Biff Busick vs Azrieal vs Caleb Konley (BOTB XIII, primera ronda)](../matches/2014-04-12-biff-busick-vs-azrieal-vs-caleb-konley-botb13-r1-czw-botb13.md) — **FC**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del reinado JCW; el rumor de coach en NXT.

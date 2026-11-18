@@ -57,6 +57,14 @@ incoherente**. Es la reserva más explícita del corpus CZW 2013-2014.
 [vs Dickinson](../matches/2013-10-12-dickinson-vs-ar-fox-czw-cerebral.md) (FC) ·
 [vs Drew Gulak (título mundial)](../matches/2014-03-08-ar-fox-vs-gulak-world-title-czw-highstakes5.md) (FC — *"Gulak hizo lucir más real a AR"*)
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 00:54:34 — [AR Fox vs Mike Bailey vs Andrew Everett (BOTB XIII, primera ronda)](../matches/2014-04-12-ar-fox-vs-mike-bailey-vs-andrew-everett-botb13-r1-czw-botb13.md) — **ICC**.
+- CZW Best of the Best XIII, 12/4/2014, 01:48:46 — [Drake Younger vs AR Fox (BOTB XIII, semifinal)](../matches/2014-04-12-drake-younger-vs-ar-fox-botb13-semifinal-czw-botb13.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real; trayectoria completa 2014-2026.

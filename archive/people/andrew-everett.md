@@ -83,6 +83,13 @@ tags: [andrew-everett, chiva-kid, czw-2013, impact-wrestling, djz, death-gods-of
 carácter del talento, no del match — queda abierta para verificar
 contra su carrera real en Impact/AEW/MLW.
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 00:54:34 — [AR Fox vs Mike Bailey vs Andrew Everett (BOTB XIII, primera ronda)](../matches/2014-04-12-ar-fox-vs-mike-bailey-vs-andrew-everett-botb13-r1-czw-botb13.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Confirmar si Everett terminó abrazando el babyface en su

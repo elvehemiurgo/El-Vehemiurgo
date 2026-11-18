@@ -425,6 +425,13 @@ itinerante documentado en el corpus CZW 2017-2018.
 [vs BLK OUT](../matches/2013-12-14-juicy-product-vs-blk-out-tag-titles-czw-cod15.md) (FC) ·
 [8-man en High Stakes 5](../matches/2014-03-08-juicy-product-colon-busick-vs-oi4k-dickinson-azrieal-czw-highstakes5.md) (ICC+)
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 01:59:29 — [The Juicy Product (David Starr & JT Dunn) vs OI4K (Dave & Jake Crist) — retadores #1 al CZW Tag Team Championship](../matches/2014-04-12-juicy-product-vs-oi4k-retadores-tag-titles-czw-botb13.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Su rol en el grupo con Strickland en CZW — **"JML" identificado

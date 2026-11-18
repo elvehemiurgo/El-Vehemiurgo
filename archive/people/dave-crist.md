@@ -108,6 +108,13 @@ Vehemiurgo leería las mismas *"heridas de guerra"* en High Stakes 5.
   under, más maleada, más adicta"*, portadora del estilo Ohio que tuvo
   su peak en 2017-19. [Doctrina](../topics/doctrina-y2k-highspeed.md), [panteón](../topics/panteon-y2k-highspeed.md).
 
+
+### Sesión 2026-11-18 s03 — CZW Best of the Best XIII (2014)
+
+- CZW Best of the Best XIII, 12/4/2014, 01:59:29 — [The Juicy Product (David Starr & JT Dunn) vs OI4K (Dave & Jake Crist) — retadores #1 al CZW Tag Team Championship](../matches/2014-04-12-juicy-product-vs-oi4k-retadores-tag-titles-czw-botb13.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Cronología de carrera completa (OI4K, títulos, post-2020).
