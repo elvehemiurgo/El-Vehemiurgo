@@ -144,6 +144,13 @@ Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../
 
 Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../notebook/2026-11-18-s04-czw-to-infinity-2014.md)
 
+
+### Sesión 2026-11-18 s05 — CZW Proving Grounds (2014)
+
+- CZW Proving Grounds, 10/5/2014 (iPPV), 01:56:43 — [The Juicy Product (David Starr & JT Dunn) (c) vs The Beaver Boys (Alex Reynolds & John Silver) — CZW Tag Team Championship](../matches/2014-05-10-juicy-product-vs-beaver-boys-defensa-tag-titles-czw-proving-grounds.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md`](../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de carrera (Beyond Wrestling, Death Before

@@ -86,6 +86,13 @@ Everett sobre Colon, y a Bad Influence sobre Magnus en TNA 2013).
 
 Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../notebook/2026-11-18-s04-czw-to-infinity-2014.md)
 
+
+### Sesión 2026-11-18 s05 — CZW Proving Grounds (2014)
+
+- CZW Proving Grounds, 10/5/2014 (iPPV), 02:15:55 — [Drew Gulak (c) vs Biff Busick — CZW World Heavyweight Championship (pactada triple amenaza con Chris Dickinson)](../matches/2014-05-10-drew-gulak-vs-biff-busick-czw-world-title-busick-campeon-czw-proving-grounds.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md`](../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real; fecha en que ganó el título a Masada.

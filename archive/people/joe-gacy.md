@@ -57,6 +57,13 @@ lectura del visionado directo del Vehemiurgo.
 **Pieza de la sesión**:
 [Six-Way Scramble](../matches/2013-12-14-six-way-azrieal-everett-gacy-nese-taylor-fox-czw-cod15.md) (WE — gana Gacy con splash, 10:53)
 
+
+### Sesión 2026-11-18 s05 — CZW Proving Grounds (2014)
+
+- CZW Proving Grounds, 10/5/2014 (iPPV), 01:46:04 — [BLK Jeez & Joker vs Sozio & Joe Gacy](../matches/2014-05-10-blk-jeez-joker-vs-sozio-joe-gacy-handicap-czw-proving-grounds.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md`](../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Cronología completa de sus 3 reinados mundiales y 3 reinados
