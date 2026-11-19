@@ -168,6 +168,14 @@ campeón vigente del corpus CZW.
 
 Volcado: [`../../notebook/2026-11-19-s03-beyond-americanrana-2014.md`](../../notebook/2026-11-19-s03-beyond-americanrana-2014.md)
 
+
+### Sesión 2026-11-19 s04 — EVOLVE 31 (2014)
+
+- EVOLVE 31: Hero vs. Galloway, 8/8/2014 (iPPV), 01:47:10 — [Chris Hero (c) vs Drew Galloway — EVOLVE Championship](../matches/2014-08-08-drew-galloway-vs-chris-hero-evolve-title-evolve-31.md) — **ICC**.
+- EVOLVE 31: Hero vs. Galloway, 8/8/2014 (iPPV), 02:11:18 — [Chris Hero, post-match: la frustración y el heel turn](../segments/2014-08-08-chris-hero-frustracion-post-match-heel-turn-evolve-31.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md`](../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta del regreso vs. Timothy Thatcher (probablemente

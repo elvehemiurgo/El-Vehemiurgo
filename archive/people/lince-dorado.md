@@ -76,6 +76,13 @@ Parka pero no cierra el match.
 
 **Lectura sintética**: **PW·FS·WE** para el match completo.
 
+
+### Sesión 2026-11-19 s04 — EVOLVE 31 (2014)
+
+- EVOLVE 31: Hero vs. Galloway, 8/8/2014 (iPPV), 00:33:16 — [Lince Dorado & Dos Ben Dejos (Eddie Rios & Jay Cruz) vs Jesus De Leon & The Juicy Product (David Starr & JT Dunn)](../matches/2014-08-08-lince-dorado-dos-ben-dejos-vs-jesus-de-leon-juicy-product-evolve-31.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md`](../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md)
+
 ## Pendientes / huecos
 
 - [x] ~~Confirmar identidad~~ → **RESUELTO (s44)**: **Lince

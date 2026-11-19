@@ -123,6 +123,14 @@ Best Work Of His Career, But WWE Seemingly Has Nothing For Him"*.
 > construida con el cuerpo de Drew McIntyre.** Ver
 > [`../topics/stakes-irreversibles-vs-reversibles.md`](../topics/stakes-irreversibles-vs-reversibles.md).
 
+
+### Sesión 2026-11-19 s04 — EVOLVE 31 (2014)
+
+- EVOLVE 31: Hero vs. Galloway, 8/8/2014 (iPPV), 01:47:10 — [Chris Hero (c) vs Drew Galloway — EVOLVE Championship](../matches/2014-08-08-drew-galloway-vs-chris-hero-evolve-title-evolve-31.md) — **ICC**.
+- EVOLVE 31: Hero vs. Galloway, 8/8/2014 (iPPV), 02:14:26 — [Drew Galloway, promo de campeón: la campaña contra la maquinaria de WWE](../segments/2014-08-08-drew-galloway-promo-campana-contra-wwe-evolve-31.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md`](../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] **Duración exacta del match de WrestleMania 42** — `[no

@@ -123,6 +123,13 @@ Volcado: [`../../notebook/2026-10-12-s01-nxt-worlds-collide-smackdown-aaa-raw-se
 
 Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
+
+### Sesión 2026-11-19 s04 — EVOLVE 31 (2014)
+
+- EVOLVE 31: Hero vs. Galloway, 8/8/2014 (iPPV), 00:51:01 — [Matt Sydal vs Johnny Gargano](../matches/2014-08-08-matt-sydal-vs-johnny-gargano-evolve-31.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md`](../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Contexto completo del ángulo catatónico (origen, duración exacta).

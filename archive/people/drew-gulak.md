@@ -108,6 +108,13 @@ Volcado: [`../../notebook/2026-11-18-s06-czw-tournament-of-death-xiii-2014.md`](
 
 Volcado: [`../../notebook/2026-11-19-s01-czw-new-heights-2014.md`](../../notebook/2026-11-19-s01-czw-new-heights-2014.md)
 
+
+### Sesión 2026-11-19 s04 — EVOLVE 31 (2014)
+
+- EVOLVE 31: Hero vs. Galloway, 8/8/2014 (iPPV), 00:03:48 — [Drew Gulak vs Timothy Thatcher — Style Battle](../matches/2014-08-08-drew-gulak-vs-timothy-thatcher-evolve-31.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md`](../../notebook/2026-11-19-s04-evolve-31-hero-vs-galloway-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real; fecha en que ganó el título a Masada.
