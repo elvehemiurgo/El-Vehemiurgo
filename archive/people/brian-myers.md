@@ -232,6 +232,13 @@ Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for
 
 Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
 
+
+### Sesión 2026-11-19 s03 — Beyond Americanrana '14
+
+- Beyond Wrestling Americanrana '14, 27/7/2014, 00:56:34 — [Brian Myers vs Ryan Rush](../matches/2014-07-27-brian-myers-vs-ryan-rush-beyond-americanrana-14.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-19-s03-beyond-americanrana-2014.md`](../../notebook/2026-11-19-s03-beyond-americanrana-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha exacta de nacimiento + confirmación Long Island.

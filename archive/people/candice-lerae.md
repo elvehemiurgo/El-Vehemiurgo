@@ -92,6 +92,13 @@ el título. Ver
 
 Volcado: [`../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md`](../../notebook/2026-10-16-s01-smackdown-091026-mitb-aaa-101026-tna-abril-relectura.md)
 
+
+### Sesión 2026-11-19 s03 — Beyond Americanrana '14
+
+- Beyond Wrestling Americanrana '14, 27/7/2014, 02:15:13 — [The Young Bucks (Matt & Nick Jackson) vs The Juicy Product (David Starr & JT Dunn)](../matches/2014-07-27-young-bucks-vs-juicy-product-beyond-americanrana-14.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-19-s03-beyond-americanrana-2014.md`](../../notebook/2026-11-19-s03-beyond-americanrana-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real; fecha exacta de la unificación del Speed title.

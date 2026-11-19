@@ -469,6 +469,13 @@ Volcado: [`../../notebook/2026-11-19-s01-czw-new-heights-2014.md`](../../noteboo
 
 Volcado: [`../../notebook/2026-11-19-s02-wsu-united-2014.md`](../../notebook/2026-11-19-s02-wsu-united-2014.md)
 
+
+### Sesión 2026-11-19 s03 — Beyond Americanrana '14
+
+- Beyond Wrestling Americanrana '14, 27/7/2014, 02:15:13 — [The Young Bucks (Matt & Nick Jackson) vs The Juicy Product (David Starr & JT Dunn)](../matches/2014-07-27-young-bucks-vs-juicy-product-beyond-americanrana-14.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-19-s03-beyond-americanrana-2014.md`](../../notebook/2026-11-19-s03-beyond-americanrana-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Su rol en el grupo con Strickland en CZW — **"JML" identificado

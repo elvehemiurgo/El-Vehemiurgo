@@ -775,6 +775,9 @@ con cada cambio de estado.
 | 2017-01-14 | Dave Crist vs Sami Callihan | CZW / Awakening | PW·FS·WE | ICC | en-investigacion | 1 | [→](2017-01-14-dave-crist-vs-sami-callihan-czw-awakening.md) |
 | 2017-01-14 | Scarlet & Graves (c) vs The Dub Boys | CZW / Awakening | FS·WE | FC | en-investigacion | 1 | [→](2017-01-14-scarlet-and-graves-vs-dub-boys-czw-awakening.md) |
 | 2016-02-05 | AJ Styles vs Corey Hollis | GPW (Georgia Pro Wrestling / All-American Wrestling — verificar) / GPW indie show 2016 | — | — | en-investigacion | 1 | [→](2016-02-05-aj-styles-vs-corey-hollis-gpw.md) |
+| 2014-07-27 | Brian Myers vs Ryan Rush | Beyond Wrestling / Americanrana '14 | WE | — | en-investigacion | 1 | [→](2014-07-27-brian-myers-vs-ryan-rush-beyond-americanrana-14.md) |
+| 2014-07-27 | Team Tremendous (Bill Carr & Dan Barry) vs The Best Friends (Chuck Taylor & Trent Barreta) | Beyond Wrestling / Americanrana '14 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-07-27-team-tremendous-vs-best-friends-beyond-americanrana-14.md) |
+| 2014-07-27 | The Young Bucks (Matt & Nick Jackson) vs The Juicy Product (David Starr & JT Dunn) | Beyond Wrestling / Americanrana '14 | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2014-07-27-young-bucks-vs-juicy-product-beyond-americanrana-14.md) |
 | 2014-07-12 | Biff Busick (c) vs Speedball Mike Bailey — CZW World Heavyweight Championship | CZW / New Heights | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-07-12-biff-busick-vs-mike-bailey-czw-world-title-czw-new-heights.md) |
 | 2014-07-12 | BLK Jeez vs Jonathan Gresham | CZW / New Heights | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2014-07-12-blk-jeez-vs-jonathan-gresham-czw-new-heights.md) |
 | 2014-07-12 | Drew Gulak vs Sozio | CZW / New Heights | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-07-12-drew-gulak-vs-sozio-czw-new-heights.md) |

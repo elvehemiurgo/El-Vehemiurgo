@@ -215,6 +215,13 @@ la irrupción de Christian Cage y Cope en el mismo segmento — ver
 ### Sesión 2026-10-03 s01 — Campeones en el ladder match de All Out (WE)
 - `2026 09 26 AEW All Out`, three-way ladder match por los títulos de parejas, **WE**: *"la lucha de escaleras estuvo cool"*. Ganan los Young Bucks (23:25, BTE Trigger a Christian desde la escalera). [Ficha](../matches/2026-09-26-young-bucks-vs-cope-cage-vs-ftr-ladder-tag-titles-aew-all-out.md).
 
+
+### Sesión 2026-11-19 s03 — Beyond Americanrana '14
+
+- Beyond Wrestling Americanrana '14, 27/7/2014, 02:15:13 — [The Young Bucks (Matt & Nick Jackson) vs The Juicy Product (David Starr & JT Dunn)](../matches/2014-07-27-young-bucks-vs-juicy-product-beyond-americanrana-14.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-19-s03-beyond-americanrana-2014.md`](../../notebook/2026-11-19-s03-beyond-americanrana-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada: PWG/ROH/NJPW reinos + AEW Tag

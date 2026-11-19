@@ -255,6 +255,13 @@ Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../noteboo
 
 Volcado: [`../../notebook/2026-11-19-s01-czw-new-heights-2014.md`](../../notebook/2026-11-19-s01-czw-new-heights-2014.md)
 
+
+### Sesión 2026-11-19 s03 — Beyond Americanrana '14
+
+- Beyond Wrestling Americanrana '14, 27/7/2014, 01:06:46 — [Team Tremendous (Bill Carr & Dan Barry) vs The Best Friends (Chuck Taylor & Trent Barreta)](../matches/2014-07-27-team-tremendous-vs-best-friends-beyond-americanrana-14.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-19-s03-beyond-americanrana-2014.md`](../../notebook/2026-11-19-s03-beyond-americanrana-2014.md)
+
 ## Pendientes / huecos
 
 - [x] Carrera completa mapeada por sub-agente 2026-06-17.
