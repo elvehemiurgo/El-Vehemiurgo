@@ -775,6 +775,11 @@ con cada cambio de estado.
 | 2017-01-14 | Dave Crist vs Sami Callihan | CZW / Awakening | PW·FS·WE | ICC | en-investigacion | 1 | [→](2017-01-14-dave-crist-vs-sami-callihan-czw-awakening.md) |
 | 2017-01-14 | Scarlet & Graves (c) vs The Dub Boys | CZW / Awakening | FS·WE | FC | en-investigacion | 1 | [→](2017-01-14-scarlet-and-graves-vs-dub-boys-czw-awakening.md) |
 | 2016-02-05 | AJ Styles vs Corey Hollis | GPW (Georgia Pro Wrestling / All-American Wrestling — verificar) / GPW indie show 2016 | — | — | en-investigacion | 1 | [→](2016-02-05-aj-styles-vs-corey-hollis-gpw.md) |
+| 2014-07-12 | Biff Busick (c) vs Speedball Mike Bailey — CZW World Heavyweight Championship | CZW / New Heights | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-07-12-biff-busick-vs-mike-bailey-czw-world-title-czw-new-heights.md) |
+| 2014-07-12 | BLK Jeez vs Jonathan Gresham | CZW / New Heights | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2014-07-12-blk-jeez-vs-jonathan-gresham-czw-new-heights.md) |
+| 2014-07-12 | Drew Gulak vs Sozio | CZW / New Heights | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-07-12-drew-gulak-vs-sozio-czw-new-heights.md) |
+| 2014-07-12 | The Juicy Product (c) vs The Beaver Boys vs OI4K vs Team Tremendous — CZW Tag Team Championship (4-way) | CZW / New Heights | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2014-07-12-juicy-product-vs-beaver-boys-vs-oi4k-vs-team-tremendous-tag-titles-czw-new-heights.md) |
+| 2014-07-12 | Shanna vs Hania | WSU / United | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-07-12-shanna-vs-hania-wsu-united.md) |
 | 2014-06-14 | The Juicy Product (David Starr & JT Dunn) (c) vs Drew Gulak & Sozio — CZW Tag Team Championship | CZW / Tournament of Death XIII | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-06-14-juicy-product-vs-drew-gulak-sozio-tag-titles-czw-tod13.md) |
 | 2014-05-10 | BLK Jeez & Joker vs Sozio & Joe Gacy | CZW / Proving Grounds | PW·FS·WE | ICC | en-investigacion | 1 | [→](2014-05-10-blk-jeez-joker-vs-sozio-joe-gacy-handicap-czw-proving-grounds.md) |
 | 2014-05-10 | Drew Gulak (c) vs Biff Busick — CZW World Heavyweight Championship (pactada triple amenaza con Chris Dickinson) | CZW / Proving Grounds | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2014-05-10-drew-gulak-vs-biff-busick-czw-world-title-busick-campeon-czw-proving-grounds.md) |

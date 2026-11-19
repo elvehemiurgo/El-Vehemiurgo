@@ -112,6 +112,13 @@ Volcado: [`../../notebook/2026-11-18-s04-czw-to-infinity-2014.md`](../../noteboo
 
 Volcado: [`../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md`](../../notebook/2026-11-18-s05-czw-proving-grounds-2014.md)
 
+
+### Sesión 2026-11-19 s01 — CZW New Heights (2014)
+
+- CZW New Heights, 12/7/2014 (iPPV), 01:12:03 — [The Juicy Product (c) vs The Beaver Boys vs OI4K vs Team Tremendous — CZW Tag Team Championship (4-way)](../matches/2014-07-12-juicy-product-vs-beaver-boys-vs-oi4k-vs-team-tremendous-tag-titles-czw-new-heights.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-19-s01-czw-new-heights-2014.md`](../../notebook/2026-11-19-s01-czw-new-heights-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Confirmar el finish exacto de la final ante Starr.

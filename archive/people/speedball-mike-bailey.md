@@ -221,6 +221,14 @@ Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blo
 
 Volcado: [`../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md`](../../notebook/2026-11-18-s03-czw-best-of-the-best-xiii-2014.md)
 
+
+### Sesión 2026-11-19 s01 — CZW New Heights (2014)
+
+- CZW New Heights, 12/7/2014 (iPPV), 02:14:12 — [Biff Busick se dirige al locker room: "el campeón más violento del mundo"](../segments/2014-07-12-biff-busick-promo-campeon-mas-violento-czw-new-heights.md) — **sin clase**.
+- CZW New Heights, 12/7/2014 (iPPV), 02:15:52 — [Biff Busick (c) vs Speedball Mike Bailey — CZW World Heavyweight Championship](../matches/2014-07-12-biff-busick-vs-mike-bailey-czw-world-title-czw-new-heights.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-19-s01-czw-new-heights-2014.md`](../../notebook/2026-11-19-s01-czw-new-heights-2014.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real completo, origen, debut, trayectoria pre-AEW.
