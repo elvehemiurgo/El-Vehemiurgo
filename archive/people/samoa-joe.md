@@ -148,6 +148,13 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebook/2026-11-06-s02-aew-wrestledream-2026.md)
 
+
+### Sesión 2026-11-20 s01 — TNA iMPACT! 19/11/2005
+
+- TNA iMPACT! (Spike TV), 19/11/2005, 00:06:45 — [AJ Styles, promo contra Samoa Joe](../segments/2005-11-19-aj-styles-promo-contra-samoa-joe-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
+
 ## Pendientes
 
 - [ ] **Hard Justice 2007 vs Kurt Angle** — pieza editorial

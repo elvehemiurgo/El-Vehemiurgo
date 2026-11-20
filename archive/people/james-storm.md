@@ -38,6 +38,14 @@ tags: [james-storm, the-cowboy, tna, beer-money, bobby-roode, americas-most-want
 
 Ascendido del Tier 0 al **Tier 1, puesto #6**, el 2026-08-26 (s55): *"es un dios del wrestling"* — por encima de Dynamite Kid y Roderick Strong, debajo de Jeff Hardy. El corpus TNA 2013 lo tiene en ocho piezas propias, seis de ellas con las tres clases (incluido el 8-man ICC+ del 21/2) y dos segmentos WE+: *"wrestlers oldschool de los buenos"*, *"legítimamente cool aunque tengan el booking en contra"* (s55). Y en s63, ganando a RVD con Last Call: *"es genial ver a RVD ponerlo over antes de irse"*. Rama *"carny sureño"* — el cowboy que sostiene el oficio con una botella de cerveza y un superkick.
 
+
+### Sesión 2026-11-20 s01 — TNA iMPACT! 19/11/2005
+
+- TNA iMPACT! (Spike TV), 19/11/2005, 00:10:01 — [America's Most Wanted (Chris Harris & James Storm) vs Sonny Siaki & Apolo](../matches/2005-11-19-america-most-wanted-vs-sonny-siaki-apolo-tna-impact.md) — **ICC**.
+- TNA iMPACT! (Spike TV), 19/11/2005, 00:15:56 — [Team 3D ataca a AMW tras la lucha: la tabla pintada con "3D"](../segments/2005-11-19-team-3d-ataque-post-match-amw-tables-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer show TNA (19/6/2002); The Revolution; NWA 2022; promotora 2026.

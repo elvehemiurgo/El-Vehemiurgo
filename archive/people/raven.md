@@ -37,6 +37,13 @@ tags: [raven, scott-levy, ecw, ravens-nest, tommy-dreamer, sandman, wcw, the-flo
 
 Nombrado en la lista masiva de s26 (*"Hulk Hogan, HHH, Raven, LA Knight..."*), rama *"ECW / mente del oficio"*. En los volcados es **unidad de medida de promo y de hardcore con psicología**: *"la promo de Jeff backstage, icónica, nivel Raven"* (s55); *"creatividad nivel Raven con un hardcore psicológico denso"* (Saquon Shugars vs Dion Lennox, s52). El archivo lo premia por el gimmick como extensión del artista y por la escritura de sus propios ángulos — el luchador-booker, la mente detrás del acto.
 
+
+### Sesión 2026-11-20 s01 — TNA iMPACT! 19/11/2005
+
+- TNA iMPACT! (Spike TV), 19/11/2005, 00:22:38 — [Abyss (w/ James Mitchell) vs Rhino](../matches/2005-11-19-abyss-vs-rhino-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas de los reinados ECW y del US Title; el diagnóstico de 2025 contra fuente primaria.

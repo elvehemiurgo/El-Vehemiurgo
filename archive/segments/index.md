@@ -810,6 +810,11 @@ cada alta y con cada cambio de estado.
 | 2008-12-06 | Promo video: Nicho el Millonario, Joe Líder vs. Teddy Hart, Jack Evans | AAA / Guerra de Titanes 2008 | promo video (hype package) | WE | — | stub | 1 | [→](2008-12-06-nicho-joe-lider-vs-teddy-hart-jack-evans-promo-video-aaa.md) |
 | 2007-06-21 | Beer Money Formation — post tag team match | TNA / Impact | post-match alliance / faction formation moment | — | — | en-investigacion | 1 | [→](2007-06-21-beer-money-formation-tna-impact.md) |
 | 2007-05-13 | Christian Coalition backstage segment con AJ Styles & Tomko & Scott Steiner | TNA / Sacrifice 2007 | backstage segment (faction cohesion + gimmick definition) | — | — | en-investigacion | 1 | [→](2007-05-13-christian-coalition-backstage-aj-tomko-steiner-tna-sacrifice.md) |
+| 2005-11-19 | AJ Styles, promo contra Samoa Joe | TNA / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2005-11-19-aj-styles-promo-contra-samoa-joe-tna-impact.md) |
+| 2005-11-19 | Christian Cage debuta en iMPACT! (Spike): el cruce con Monty Brown | TNA / iMPACT! | promo / debut | WE+ | — | en-investigacion | 1 | [→](2005-11-19-christian-cage-debuta-en-impact-monty-brown-tna-impact.md) |
+| 2005-11-19 | Jeff Jarrett, promo como top heel | TNA / iMPACT! | promo | — | — | en-investigacion | 1 | [→](2005-11-19-jeff-jarrett-promo-top-heel-tna-impact.md) |
+| 2005-11-19 | Team 3D ataca a AMW tras la lucha: la tabla pintada con "3D" | TNA / iMPACT! | post-match / ataque | WE+ | — | en-investigacion | 1 | [→](2005-11-19-team-3d-ataque-post-match-amw-tables-tna-impact.md) |
+| 2005-11-19 | Video package sobre el debut de Christian Cage en Genesis | TNA / iMPACT! | video package | WE+ | — | en-investigacion | 1 | [→](2005-11-19-video-package-debut-christian-cage-genesis-tna-impact.md) |
 
 ---
 

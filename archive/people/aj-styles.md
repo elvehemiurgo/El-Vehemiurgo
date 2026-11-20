@@ -243,6 +243,13 @@ Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-20 s01 — TNA iMPACT! 19/11/2005
+
+- TNA iMPACT! (Spike TV), 19/11/2005, 00:06:45 — [AJ Styles, promo contra Samoa Joe](../segments/2005-11-19-aj-styles-promo-contra-samoa-joe-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
+
 ## Pendientes / huecos
 
 - [ ] **AJ vs Kurt Angle TNA matches** (4 entradas en lista

@@ -500,6 +500,14 @@ Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blo
 
 Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
 
+
+### Sesión 2026-11-20 s01 — TNA iMPACT! 19/11/2005
+
+- TNA iMPACT! (Spike TV), 19/11/2005, 00:00:24 — [Video package sobre el debut de Christian Cage en Genesis](../segments/2005-11-19-video-package-debut-christian-cage-genesis-tna-impact.md) — **WE+**.
+- TNA iMPACT! (Spike TV), 19/11/2005, 00:33:53 — [Christian Cage debuta en iMPACT! (Spike): el cruce con Monty Brown](../segments/2005-11-19-christian-cage-debuta-en-impact-monty-brown-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces
