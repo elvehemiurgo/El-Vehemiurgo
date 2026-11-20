@@ -155,6 +155,13 @@ Volcado: [`../../notebook/2026-11-06-s02-aew-wrestledream-2026.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
 
+
+### Sesión 2026-11-20 s02 — TNA iMPACT! 26/11/2005
+
+- TNA iMPACT! (Spike TV), 26/11/2005, 00:10:00 — [Chris Sabin vs AJ Styles](../matches/2005-11-26-chris-sabin-vs-aj-styles-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md)
+
 ## Pendientes
 
 - [ ] **Hard Justice 2007 vs Kurt Angle** — pieza editorial

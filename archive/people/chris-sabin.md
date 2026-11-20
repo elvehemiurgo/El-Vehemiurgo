@@ -84,6 +84,13 @@ Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../.
 
 Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
 
+
+### Sesión 2026-11-20 s02 — TNA iMPACT! 26/11/2005
+
+- TNA iMPACT! (Spike TV), 26/11/2005, 00:10:00 — [Chris Sabin vs AJ Styles](../matches/2005-11-26-chris-sabin-vs-aj-styles-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer X Division (2003); TNA Tag 2010; ROH tag titles.

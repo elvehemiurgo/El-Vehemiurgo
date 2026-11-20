@@ -508,6 +508,13 @@ Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/
 
 Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
 
+
+### Sesión 2026-11-20 s02 — TNA iMPACT! 26/11/2005
+
+- TNA iMPACT! (Spike TV), 26/11/2005, 00:21:33 — [Christian Cage, primera entrevista backstage (Monty Brown y AMW)](../segments/2005-11-26-christian-cage-primera-entrevista-backstage-amw-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

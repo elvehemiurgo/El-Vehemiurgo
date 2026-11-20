@@ -273,6 +273,13 @@ Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for
 
 Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md)
 
+
+### Sesión 2026-11-20 s02 — TNA iMPACT! 26/11/2005
+
+- TNA iMPACT! (Spike TV), 26/11/2005, 00:24:08 — [Abyss vs Jeff Hardy](../matches/2005-11-26-abyss-vs-jeff-hardy-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia
