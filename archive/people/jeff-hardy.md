@@ -280,6 +280,14 @@ Volcado: [`../../notebook/2026-11-05-s01-tna-impact-octubre-2026-dothan.md`](../
 
 Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md)
 
+
+### Sesión 2026-11-23 s01 — TNA iMPACT! 8/12/2005
+
+- TNA iMPACT! #75 (Spike TV), 8/12/2005, 00:01:10 — [America's Most Wanted (Chris Harris & James Storm) & Jeff Jarrett vs The Naturals (Chase Stevens & Andy Douglas) & Jeff Hardy](../matches/2005-12-08-amw-y-jeff-jarrett-vs-the-naturals-y-jeff-hardy-tna-impact.md) — **ICC+**.
+- TNA iMPACT! #75 (Spike TV), 8/12/2005, 00:07:49 — [Post-match: la emboscada de los heels, el 3D robado y Jeff Hardy encadenado](../segments/2005-12-08-emboscada-heels-post-match-roban-el-3d-hardy-encadenado-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
+
 ## Pendientes / huecos
 
 - [ ] Trayectoria detallada (TLC era + reigns WWE + TNA controversia

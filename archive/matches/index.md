@@ -872,6 +872,10 @@ con cada cambio de estado.
 | 2007-05-13 | Samoa Joe vs AJ Styles | TNA / Sacrifice 2007 | — | — | en-investigacion | 1 | [→](2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md) |
 | 2006-09-17 | AJ Styles y Team TNA vs. Los Vipers | AAA / Verano de Escándalo 2006 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md) |
 | 2006-08-25 | Ikuto Hidaka & Minoru Fujita (c) vs MCMG (Alex Shelley & Chris Sabin) | ZERO1-MAX / Tenka-Ichi Junior 2006 Tag 2 | — | — | en-investigacion | 1 | [→](2006-08-25-mcmg-vs-hidaka-fujita-zero1-max.md) |
+| 2005-12-08 | 4Live Kru (4LK) vs The Beasts of Vermin | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-12-08-4live-kru-vs-beasts-of-vermin-tna-impact.md) |
+| 2005-12-08 | America's Most Wanted (Chris Harris & James Storm) & Jeff Jarrett vs The Naturals (Chase Stevens & Andy Douglas) & Jeff Hardy | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-12-08-amw-y-jeff-jarrett-vs-the-naturals-y-jeff-hardy-tna-impact.md) |
+| 2005-12-08 | Bobby Roode vs Christian Cage | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-12-08-bobby-roode-vs-christian-cage-tna-impact.md) |
+| 2005-12-08 | Samoa Joe vs Amazing Red (con Alex Shelley) | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-12-08-samoa-joe-vs-amazing-red-tna-impact.md) |
 | 2005-11-26 | Abyss vs Jeff Hardy | TNA / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2005-11-26-abyss-vs-jeff-hardy-tna-impact.md) |
 | 2005-11-26 | Chris Sabin vs AJ Styles | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-11-26-chris-sabin-vs-aj-styles-tna-impact.md) |
 | 2005-11-26 | Jeff Jarrett vs Kip James | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-11-26-jeff-jarrett-vs-kip-james-tna-impact.md) |

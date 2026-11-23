@@ -141,6 +141,14 @@ no por su repertorio de movimientos. Es el heel de oficio en su forma
 más pura — la escuela Cornette (booking-first, draw-first) aplicada a
 una carrera entera.
 
+
+### Sesión 2026-11-23 s01 — TNA iMPACT! 8/12/2005
+
+- TNA iMPACT! #75 (Spike TV), 8/12/2005, 00:25:51 — [Bobby Roode, heel promo con Scott D'Amore](../segments/2005-12-08-bobby-roode-promo-con-scott-damore-tna-impact.md) — **WE+**.
+- TNA iMPACT! #75 (Spike TV), 8/12/2005, 00:28:41 — [Bobby Roode vs Christian Cage](../matches/2005-12-08-bobby-roode-vs-christian-cage-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
+
 ## Pendientes / huecos
 
 - [ ] Desglose fecha por fecha de los cinco reinados de Beer Money.

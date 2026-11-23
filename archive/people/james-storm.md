@@ -46,6 +46,13 @@ Ascendido del Tier 0 al **Tier 1, puesto #6**, el 2026-08-26 (s55): *"es un dios
 
 Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
 
+
+### Sesión 2026-11-23 s01 — TNA iMPACT! 8/12/2005
+
+- TNA iMPACT! #75 (Spike TV), 8/12/2005, 00:01:10 — [America's Most Wanted (Chris Harris & James Storm) & Jeff Jarrett vs The Naturals (Chase Stevens & Andy Douglas) & Jeff Hardy](../matches/2005-12-08-amw-y-jeff-jarrett-vs-the-naturals-y-jeff-hardy-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer show TNA (19/6/2002); The Revolution; NWA 2022; promotora 2026.

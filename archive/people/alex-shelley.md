@@ -83,6 +83,13 @@ Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../.
 
 Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
 
+
+### Sesión 2026-11-23 s01 — TNA iMPACT! 8/12/2005
+
+- TNA iMPACT! #75 (Spike TV), 8/12/2005, 00:10:59 — [Samoa Joe vs Amazing Red (con Alex Shelley)](../matches/2005-12-08-samoa-joe-vs-amazing-red-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
+
 ## Pendientes / huecos
 
 - [ ] Paparazzi Productions (2006); TNA Tag 2010; conteo exacto con KUSHIDA; DPT o licenciatura.

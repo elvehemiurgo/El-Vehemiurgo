@@ -515,6 +515,13 @@ Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md)
 
+
+### Sesión 2026-11-23 s01 — TNA iMPACT! 8/12/2005
+
+- TNA iMPACT! #75 (Spike TV), 8/12/2005, 00:28:41 — [Bobby Roode vs Christian Cage](../matches/2005-12-08-bobby-roode-vs-christian-cage-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

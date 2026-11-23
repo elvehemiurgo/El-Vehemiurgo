@@ -91,6 +91,13 @@ Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/
 
 Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md)
 
+
+### Sesión 2026-11-23 s01 — TNA iMPACT! 8/12/2005
+
+- TNA iMPACT! #75 (Spike TV), 8/12/2005, 00:15:50 — [Segmento de Mike Tenay con AJ Styles, Chris Sabin y Sonjay Dutt; luego Simon Diamond](../segments/2005-12-08-mike-tenay-aj-styles-sabin-sonjay-dutt-simon-diamond-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer X Division (2003); TNA Tag 2010; ROH tag titles.
