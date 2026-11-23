@@ -272,6 +272,13 @@ Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
 
+
+### Sesión 2026-11-23 s04 — TNA iMPACT! 31/12/2005
+
+- TNA iMPACT! #78 (Spike TV), 31/12/2005 (especial de Año Nuevo), 00:23:43 — [James Storm vs AJ Styles](../matches/2005-12-31-james-storm-vs-aj-styles-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md)
+
 ## Pendientes / huecos
 
 - [ ] **AJ vs Kurt Angle TNA matches** (4 entradas en lista

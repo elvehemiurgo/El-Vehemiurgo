@@ -185,6 +185,13 @@ Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../noteb
 
 Volcado: [`../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md`](../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md)
 
+
+### Sesión 2026-11-23 s04 — TNA iMPACT! 31/12/2005
+
+- TNA iMPACT! #78 (Spike TV), 31/12/2005 (especial de Año Nuevo), 00:17:11 — [Roderick Strong vs Samoa Joe](../matches/2005-12-31-roderick-strong-vs-samoa-joe-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md)
+
 ## Pendientes
 
 - [ ] **Hard Justice 2007 vs Kurt Angle** — pieza editorial

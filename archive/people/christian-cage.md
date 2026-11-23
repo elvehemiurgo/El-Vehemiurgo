@@ -531,6 +531,13 @@ Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
 
+
+### Sesión 2026-11-23 s04 — TNA iMPACT! 31/12/2005
+
+- TNA iMPACT! #78 (Spike TV), 31/12/2005 (especial de Año Nuevo), 00:35:34 — [Christian anuncia la primera lucha de 2006: AMW vs Daniels & Styles](../segments/2005-12-31-christian-anuncia-la-lucha-de-medianoche-amw-vs-daniels-y-styles-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

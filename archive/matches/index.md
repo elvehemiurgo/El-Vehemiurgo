@@ -872,6 +872,8 @@ con cada cambio de estado.
 | 2007-05-13 | Samoa Joe vs AJ Styles | TNA / Sacrifice 2007 | — | — | en-investigacion | 1 | [→](2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md) |
 | 2006-09-17 | AJ Styles y Team TNA vs. Los Vipers | AAA / Verano de Escándalo 2006 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md) |
 | 2006-08-25 | Ikuto Hidaka & Minoru Fujita (c) vs MCMG (Alex Shelley & Chris Sabin) | ZERO1-MAX / Tenka-Ichi Junior 2006 Tag 2 | — | — | en-investigacion | 1 | [→](2006-08-25-mcmg-vs-hidaka-fujita-zero1-max.md) |
+| 2005-12-31 | James Storm vs AJ Styles | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-12-31-james-storm-vs-aj-styles-tna-impact.md) |
+| 2005-12-31 | Roderick Strong vs Samoa Joe | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-12-31-roderick-strong-vs-samoa-joe-tna-impact.md) |
 | 2005-12-17 | Alex Shelley vs Matt Bentley | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-12-17-alex-shelley-vs-matt-bentley-tna-impact.md) |
 | 2005-12-17 | Jay Lethal vs Samoa Joe | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2005-12-17-jay-lethal-vs-samoa-joe-tna-impact.md) |
 | 2005-12-17 | Joe Doering vs Rhino | TNA / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2005-12-17-joe-doering-vs-rhino-tna-impact.md) |
