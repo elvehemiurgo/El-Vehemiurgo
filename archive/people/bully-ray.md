@@ -53,6 +53,14 @@ oficio.
 [& Sting vs Aces & Eights](../matches/2013-02-21-bully-sting-hogan-vs-aces-eights-main-event-tna-impact.md) (WE) ·
 [la promo del "dad"](../segments/2013-02-21-promo-bully-ray-dad-hogan-tna-impact.md) (WE)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 01:41:15 — [Promo backstage de Team 3D antes de la tables match](../segments/2005-12-11-team-3d-promo-backstage-tables-match-tna-turning-point-2005.md) — **WE+**.
+- TNA Turning Point 2005, 11/12/2005 (PPV), 01:44:03 — [Team 3D (Brother Ray & Brother Devon) vs America's Most Wanted (Chris Harris & James Storm) — Tables match](../matches/2005-12-11-team-3d-vs-america-most-wanted-tables-tna-turning-point-2005.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes / huecos
 
 - [ ] Ficha completa de trayectoria (ECW/WWE como Dudley Boy, TNA, ROH, regreso a WWE).

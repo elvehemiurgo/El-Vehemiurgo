@@ -90,6 +90,13 @@ Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/
 
 Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 00:25:37 — [Alex Shelley & Roderick Strong vs Austin Aries & Matt Bentley (Michael Shane)](../matches/2005-12-11-alex-shelley-y-roderick-strong-vs-austin-aries-y-matt-bentley-tna-turning-point-2005.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes / huecos
 
 - [ ] Paparazzi Productions (2006); TNA Tag 2010; conteo exacto con KUSHIDA; DPT o licenciatura.

@@ -98,6 +98,13 @@ Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 01:09:07 — [Chris Sabin, Sonjay Dutt & Dale Torborg (The Demon) (con AJ Pierzynski) vs Diamonds in the Rough (David Young, Elix Skipper & Simon Diamond) — Basebrawl](../matches/2005-12-11-sabin-torborg-dutt-vs-diamonds-in-the-rough-basebrawl-tna-turning-point-2005.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer X Division (2003); TNA Tag 2010; ROH tag titles.

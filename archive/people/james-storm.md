@@ -53,6 +53,13 @@ Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 01:44:03 — [Team 3D (Brother Ray & Brother Devon) vs America's Most Wanted (Chris Harris & James Storm) — Tables match](../matches/2005-12-11-team-3d-vs-america-most-wanted-tables-tna-turning-point-2005.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer show TNA (19/6/2002); The Revolution; NWA 2022; promotora 2026.

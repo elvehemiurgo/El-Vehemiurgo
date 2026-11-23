@@ -169,6 +169,14 @@ Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 01:57:12 — [Video package de Samoa Joe vs AJ Styles](../segments/2005-12-11-video-package-samoa-joe-vs-aj-styles-tna-turning-point-2005.md) — **WE+**.
+- TNA Turning Point 2005, 11/12/2005 (PPV), 02:02:00 — [AJ Styles (c) vs Samoa Joe — X Division Championship](../matches/2005-12-11-samoa-joe-vs-aj-styles-x-division-title-tna-turning-point-2005.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes
 
 - [ ] **Hard Justice 2007 vs Kurt Angle** — pieza editorial

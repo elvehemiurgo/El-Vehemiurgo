@@ -48,6 +48,13 @@ resultado, es la credibilidad prestada.
 **Piezas de la sesión**:
 [& Bully Ray vs Aces & Eights](../matches/2013-02-21-bully-sting-hogan-vs-aces-eights-main-event-tna-impact.md) (WE)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 02:54:18 — [El debut de Sting (teaser del cierre del PPV)](../segments/2005-12-11-teaser-debut-de-sting-turning-point-tna-turning-point-2005.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes / huecos
 
 - [ ] Ficha completa de trayectoria (NWA/WCW, TNA 2003-2014, WWE 2014-2015, AEW 2020-2024) — esta ficha nace del corpus TNA 2013.

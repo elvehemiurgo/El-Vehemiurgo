@@ -149,6 +149,14 @@ una carrera entera.
 
 Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 00:49:16 — [Promo backstage de Team Canada](../segments/2005-12-11-team-canada-promo-backstage-tna-turning-point-2005.md) — **WE**.
+- TNA Turning Point 2005, 11/12/2005 (PPV), 00:51:46 — [Team Canada (A1, Bobby Roode, Eric Young & Petey Williams, con Scott D'Amore) vs 4Live Kru (Konnan, Ron Killings, Kip James y compañía)](../matches/2005-12-11-team-canada-vs-4live-kru-tna-turning-point-2005.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes / huecos
 
 - [ ] Desglose fecha por fecha de los cinco reinados de Beer Money.

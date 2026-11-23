@@ -522,6 +522,15 @@ Volcado: [`../../notebook/2026-11-20-s02-tna-impact-2005-11-26.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 01:21:58 — [Christian Cage, segmento backstage: los chants como referencia a su salida de WWE](../segments/2005-12-11-christian-cage-backstage-chant-referencia-wwe-tna-turning-point-2005.md) — **WE+**.
+- TNA Turning Point 2005, 11/12/2005 (PPV), 01:23:51 — [Promo video del debut de Christian Cage](../segments/2005-12-11-promo-video-debut-de-christian-cage-tna-turning-point-2005.md) — **WE+**.
+- TNA Turning Point 2005, 11/12/2005 (PPV), 01:25:39 — [Monty Brown vs Christian Cage — #1 contender al NWA World Heavyweight Championship](../matches/2005-12-11-monty-brown-vs-christian-cage-tna-turning-point-2005.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

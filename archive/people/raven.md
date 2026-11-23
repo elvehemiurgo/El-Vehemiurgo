@@ -44,6 +44,13 @@ Nombrado en la lista masiva de s26 (*"Hulk Hogan, HHH, Raven, LA Knight..."*), r
 
 Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 00:42:06 — [Raven vs Chris K (Chris Kanyon)](../matches/2005-12-11-raven-vs-chris-k-kanyon-tna-turning-point-2005.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas de los reinados ECW y del US Title; el diagnóstico de 2025 contra fuente primaria.

@@ -156,6 +156,13 @@ Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamit
 
 Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md)
 
+
+### Sesión 2026-11-23 s02 — TNA Turning Point 2005
+
+- TNA Turning Point 2005, 11/12/2005 (PPV), 02:24:50 — [El regreso de Christopher Daniels](../segments/2005-12-11-regreso-de-christopher-daniels-tna-turning-point-2005.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y lugar de nacimiento — contradicciones sin cerrar.
