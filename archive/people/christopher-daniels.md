@@ -170,6 +170,13 @@ Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../noteb
 
 Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md)
 
+
+### Sesión 2026-11-23 s05 — TNA iMPACT! 1/1/2006
+
+- TNA iMPACT! #79 (Spike TV), 1/1/2006 (especial de Año Nuevo), 00:05:52 — [Christopher Daniels & AJ Styles vs America's Most Wanted (Chris Harris & James Storm) (c) — NWA World Tag Team Championship](../matches/2006-01-01-christopher-daniels-y-aj-styles-vs-america-most-wanted-nwa-tag-titles-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md`](../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y lugar de nacimiento — contradicciones sin cerrar.

@@ -538,6 +538,13 @@ Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../noteb
 
 Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md)
 
+
+### Sesión 2026-11-23 s05 — TNA iMPACT! 1/1/2006
+
+- TNA iMPACT! #79 (Spike TV), 1/1/2006 (especial de Año Nuevo), 00:00:18 — [Christian Cage recibe el año: el intercambio con Jarrett, la emboscada y los run-ins](../segments/2006-01-01-christian-recibe-el-ano-intercambio-con-jarrett-emboscada-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md`](../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces
