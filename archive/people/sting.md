@@ -63,6 +63,13 @@ Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../noteb
 
 Volcado: [`../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md`](../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md)
 
+
+### Sesión 2026-11-23 s07 — TNA iMPACT! 14/1/2006
+
+- TNA iMPACT! (Spike TV), 14/1/2006, 00:39:10 — [Sting habla otra vez en un show de wrestling](../segments/2006-01-14-sting-habla-otra-vez-show-time-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
+
 ## Pendientes / huecos
 
 - [ ] Ficha completa de trayectoria (NWA/WCW, TNA 2003-2014, WWE 2014-2015, AEW 2020-2024) — esta ficha nace del corpus TNA 2013.

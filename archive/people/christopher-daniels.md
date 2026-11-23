@@ -184,6 +184,14 @@ Volcado: [`../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
 
+
+### Sesión 2026-11-23 s07 — TNA iMPACT! 14/1/2006
+
+- TNA iMPACT! (Spike TV), 14/1/2006, 00:03:37 — [2005 Year End Awards](../segments/2006-01-14-2005-year-end-awards-tna-impact.md) — **WE+**.
+- TNA iMPACT! (Spike TV), 14/1/2006, 00:15:00 — [Daniels interrumpe a Samoa Joe en su emboscada](../segments/2006-01-14-daniels-interrumpe-a-joe-en-su-emboscada-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y lugar de nacimiento — contradicciones sin cerrar.

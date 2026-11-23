@@ -199,6 +199,13 @@ Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
 
+
+### Sesión 2026-11-23 s07 — TNA iMPACT! 14/1/2006
+
+- TNA iMPACT! (Spike TV), 14/1/2006, 00:15:00 — [Daniels interrumpe a Samoa Joe en su emboscada](../segments/2006-01-14-daniels-interrumpe-a-joe-en-su-emboscada-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
+
 ## Pendientes
 
 - [ ] **Hard Justice 2007 vs Kurt Angle** — pieza editorial

@@ -180,6 +180,13 @@ Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../noteb
 
 Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
 
+
+### Sesión 2026-11-23 s07 — TNA iMPACT! 14/1/2006
+
+- TNA iMPACT! (Spike TV), 14/1/2006, 00:17:56 — [Team Canada (Eric Young, Petey Williams & A1) vs Chris Sabin, Sonjay Dutt & Matt Bentley (con Traci)](../matches/2006-01-14-team-canada-vs-sabin-dutt-bentley-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).

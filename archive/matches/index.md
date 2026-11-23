@@ -872,6 +872,9 @@ con cada cambio de estado.
 | 2007-05-13 | Samoa Joe vs AJ Styles | TNA / Sacrifice 2007 | — | — | en-investigacion | 1 | [→](2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md) |
 | 2006-09-17 | AJ Styles y Team TNA vs. Los Vipers | AAA / Verano de Escándalo 2006 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md) |
 | 2006-08-25 | Ikuto Hidaka & Minoru Fujita (c) vs MCMG (Alex Shelley & Chris Sabin) | ZERO1-MAX / Tenka-Ichi Junior 2006 Tag 2 | — | — | en-investigacion | 1 | [→](2006-08-25-mcmg-vs-hidaka-fujita-zero1-max.md) |
+| 2006-01-14 | Abyss (con James Mitchell) vs Jay Lethal — squash | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2006-01-14-abyss-vs-jay-lethal-squash-tna-impact.md) |
+| 2006-01-14 | America's Most Wanted (Chris Harris & James Storm, con Gail Kim) vs Christian Cage & Rhino | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2006-01-14-america-most-wanted-vs-christian-cage-y-rhino-tna-impact.md) |
+| 2006-01-14 | Team Canada (Eric Young, Petey Williams & A1) vs Chris Sabin, Sonjay Dutt & Matt Bentley (con Traci) | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2006-01-14-team-canada-vs-sabin-dutt-bentley-tna-impact.md) |
 | 2006-01-07 | Apolo & Homicide (con Konnan) vs The Naturals (Chase Stevens & Andy Douglas) | TNA / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2006-01-07-apolo-y-homicide-vs-the-naturals-debut-de-lax-tna-impact.md) |
 | 2006-01-07 | Austin Aries, Roderick Strong & Alex Shelley vs Christopher Daniels, Chris Sabin & AJ Styles | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2006-01-07-aries-strong-shelley-vs-daniels-sabin-styles-tna-impact.md) |
 | 2006-01-07 | Bobby Roode (con Scott D'Amore) vs Ron "The Truth" Killings | TNA / iMPACT! | WE+ | — | en-investigacion | 1 | [→](2006-01-07-bobby-roode-vs-ron-killings-tna-impact.md) |

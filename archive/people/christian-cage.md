@@ -552,6 +552,13 @@ Volcado: [`../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
 
+
+### Sesión 2026-11-23 s07 — TNA iMPACT! 14/1/2006
+
+- TNA iMPACT! (Spike TV), 14/1/2006, 00:26:31 — [America's Most Wanted (Chris Harris & James Storm, con Gail Kim) vs Christian Cage & Rhino](../matches/2006-01-14-america-most-wanted-vs-christian-cage-y-rhino-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

@@ -102,6 +102,13 @@ Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blo
 
 Volcado: [`../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md`](../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md)
 
+
+### Sesión 2026-11-23 s07 — TNA iMPACT! 14/1/2006
+
+- TNA iMPACT! (Spike TV), 14/1/2006, 00:01:20 — [Abyss (con James Mitchell) vs Jay Lethal — squash](../matches/2006-01-14-abyss-vs-jay-lethal-squash-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos y trayectoria condensada.
