@@ -95,6 +95,13 @@ WRESTLING en la misma declaración.**
 
 Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
 
+
+### Sesión 2026-11-23 s03 — TNA iMPACT! 17/12/2005
+
+- TNA iMPACT! #76 (Spike TV), 17/12/2005, 00:04:09 — [Jay Lethal vs Samoa Joe](../matches/2005-12-17-jay-lethal-vs-samoa-joe-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md`](../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos y trayectoria condensada.

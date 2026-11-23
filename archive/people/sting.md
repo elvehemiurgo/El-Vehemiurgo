@@ -55,6 +55,14 @@ resultado, es la credibilidad prestada.
 
 Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
 
+
+### Sesión 2026-11-23 s03 — TNA iMPACT! 17/12/2005
+
+- TNA iMPACT! #76 (Spike TV), 17/12/2005, 00:03:24 — [Apertura: Jarrett se queja por Sting y el careo con Samoa Joe](../segments/2005-12-17-jarrett-se-queja-por-sting-careo-con-joe-tna-impact.md) — **WE+**.
+- TNA iMPACT! #76 (Spike TV), 17/12/2005, 00:37:34 — [Segmento de los heels: Jarrett preocupadísimo por Sting](../segments/2005-12-17-segmento-de-los-heels-jarrett-preocupado-por-sting-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md`](../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md)
+
 ## Pendientes / huecos
 
 - [ ] Ficha completa de trayectoria (NWA/WCW, TNA 2003-2014, WWE 2014-2015, AEW 2020-2024) — esta ficha nace del corpus TNA 2013.
