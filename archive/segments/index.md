@@ -816,7 +816,7 @@ cada alta y con cada cambio de estado.
 | 2005-12-08 | Promo video final del show | TNA / iMPACT! | video package | WE+ | — | en-investigacion | 1 | [→](2005-12-08-promo-video-final-del-show-tna-impact.md) |
 | 2005-12-08 | Video package de Rhino | TNA / iMPACT! | video package | WE+ | — | en-investigacion | 1 | [→](2005-12-08-video-package-rhino-tna-impact.md) |
 | 2005-11-26 | Christian Cage, primera entrevista backstage (Monty Brown y AMW) | TNA / iMPACT! | entrevista backstage | WE+ | — | en-investigacion | 1 | [→](2005-11-26-christian-cage-primera-entrevista-backstage-amw-tna-impact.md) |
-| 2005-11-26 | Segmento de la kliq con Konnan | TNA / iMPACT! | segmento | WE+ | — | en-investigacion | 1 | [→](2005-11-26-segmento-kliq-vkm-konnan-tna-impact.md) |
+| 2005-11-26 | Segmento de la kliq con Konnan | TNA / iMPACT! | segmento | WE+ | — | en-investigacion | 1 | [→](2005-11-26-segmento-kliq-4lk-konnan-tna-impact.md) |
 | 2005-11-19 | AJ Styles, promo contra Samoa Joe | TNA / iMPACT! | promo | WE | — | en-investigacion | 1 | [→](2005-11-19-aj-styles-promo-contra-samoa-joe-tna-impact.md) |
 | 2005-11-19 | Christian Cage debuta en iMPACT! (Spike): el cruce con Monty Brown | TNA / iMPACT! | promo / debut | WE+ | — | en-investigacion | 1 | [→](2005-11-19-christian-cage-debuta-en-impact-monty-brown-tna-impact.md) |
 | 2005-11-19 | Jeff Jarrett, promo como top heel | TNA / iMPACT! | promo | — | — | en-investigacion | 1 | [→](2005-11-19-jeff-jarrett-promo-top-heel-tna-impact.md) |

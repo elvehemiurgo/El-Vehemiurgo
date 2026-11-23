@@ -1,6 +1,6 @@
 ---
 segmento: "Segmento de la kliq con Konnan"
-slug: "2005-11-26-segmento-kliq-vkm-konnan-tna-impact"
+slug: "2005-11-26-segmento-kliq-4lk-konnan-tna-impact"
 tipo_segmento: "segmento"
 protagonistas: ["Konnan"]
 empresa: "TNA"
@@ -25,7 +25,7 @@ ultima_actualizacion: 2026-11-20
 fuentes_principales:
   - "Volcado Vehemiurgo 2026-11-20 s02 (visión directa — TNA iMPACT! (Spike TV), 26/11/2005, timestamp 00:05:42)"
   - "WebSearch 2026-11-20 (Online World of Wrestling, Wrestlepedia, The History of WWE, Wrestlingrecaps vía snippet) — resultados"
-tags: [tna-2005, konnan, tna, segmento, wrestling-entertainment-plus]
+tags: [tna-2005, konnan, 4live-kru, 4lk, tna, segmento, wrestling-entertainment-plus]
 ---
 
 # Segmento de la kliq con Konnan (TNA iMPACT! (Spike TV), 26/11/2005)
@@ -34,7 +34,7 @@ tags: [tna-2005, konnan, tna, segmento, wrestling-entertainment-plus]
 
 ## Resumen
 
-Timestamp **00:05:42**. Segmento coral con Konnan y su kliq [verif — "vkm" del dictado no quedó identificado; participantes exactos pendientes].
+Timestamp **00:05:42**. Segmento coral con Konnan y su kliq (el Vehemiurgo aclaró el 2026-11-23: "vkm" era **4LK**, es decir 4Live Kru; integrantes exactos del segmento [verif]).
 
 ## Lectura del Vehemiurgo
 

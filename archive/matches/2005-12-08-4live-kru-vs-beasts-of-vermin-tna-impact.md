@@ -52,7 +52,7 @@ Timestamp **00:23:08**. **Gana 4Live Kru** sobre The Beasts of Vermin [integrant
 1. **Un stable de greatest hits**: *"perfecto para los house shows"*; personajes recurrentes.
 2. **Mashup de la guerra de los lunes**.
 3. **Old school y stiff**.
-4. El "vkm" del dictado del 26/11 podría ser una errata de 4LK [verif].
+4. El "vkm" del dictado del 26/11 era 4LK (aclarado por el Vehemiurgo el 2026-11-23).
 5. Timestamp: 00:23:08.
 
 ## Pendientes
@@ -62,5 +62,5 @@ Timestamp **00:23:08**. **Gana 4Live Kru** sobre The Beasts of Vermin [integrant
 
 ## Cross-links
 
-- [`../segments/2005-11-26-segmento-kliq-vkm-konnan-tna-impact.md`](../segments/2005-11-26-segmento-kliq-vkm-konnan-tna-impact.md)
+- [`../segments/2005-11-26-segmento-kliq-4lk-konnan-tna-impact.md`](../segments/2005-11-26-segmento-kliq-4lk-konnan-tna-impact.md)
 - Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md)
