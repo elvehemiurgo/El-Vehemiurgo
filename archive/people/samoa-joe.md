@@ -192,6 +192,13 @@ Volcado: [`../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md)
 
+
+### Sesión 2026-11-23 s06 — TNA iMPACT! 7/1/2006
+
+- TNA iMPACT! #80 (Spike TV), 7/1/2006, 00:22:42 — [Promo backstage de Samoa Joe: "the disrespect"](../segments/2006-01-07-promo-backstage-de-samoa-joe-the-disrespect-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
+
 ## Pendientes
 
 - [ ] **Hard Justice 2007 vs Kurt Angle** — pieza editorial

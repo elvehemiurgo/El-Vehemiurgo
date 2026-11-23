@@ -545,6 +545,13 @@ Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md`](../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md)
 
+
+### Sesión 2026-11-23 s06 — TNA iMPACT! 7/1/2006
+
+- TNA iMPACT! #80 (Spike TV), 7/1/2006, 00:35:27 — [Jarrett full heel: promo contra Sting vendiendo Final Resolution; Christian interrumpe](../segments/2006-01-07-jarrett-full-heel-promo-contra-sting-final-resolution-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

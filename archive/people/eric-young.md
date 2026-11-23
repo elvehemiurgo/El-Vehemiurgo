@@ -173,6 +173,13 @@ Volcado: [`../../notebook/2026-11-03-s01-tna-impact-septiembre-octubre-bound-for
 
 Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
 
+
+### Sesión 2026-11-23 s06 — TNA iMPACT! 7/1/2006
+
+- TNA iMPACT! #80 (Spike TV), 7/1/2006, 00:08:04 — [Segmento de los heels: Eric Young y Jarrett](../segments/2006-01-07-segmento-heels-eric-young-y-jarrett-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).

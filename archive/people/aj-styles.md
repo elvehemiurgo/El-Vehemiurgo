@@ -286,6 +286,13 @@ Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md`](../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md)
 
+
+### Sesión 2026-11-23 s06 — TNA iMPACT! 7/1/2006
+
+- TNA iMPACT! #80 (Spike TV), 7/1/2006, 00:24:12 — [Austin Aries, Roderick Strong & Alex Shelley vs Christopher Daniels, Chris Sabin & AJ Styles](../matches/2006-01-07-aries-strong-shelley-vs-daniels-sabin-styles-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
+
 ## Pendientes / huecos
 
 - [ ] **AJ vs Kurt Angle TNA matches** (4 entradas en lista

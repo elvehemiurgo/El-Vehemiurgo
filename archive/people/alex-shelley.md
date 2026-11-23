@@ -104,6 +104,13 @@ Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../noteb
 
 Volcado: [`../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md`](../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md)
 
+
+### Sesión 2026-11-23 s06 — TNA iMPACT! 7/1/2006
+
+- TNA iMPACT! #80 (Spike TV), 7/1/2006, 00:24:12 — [Austin Aries, Roderick Strong & Alex Shelley vs Christopher Daniels, Chris Sabin & AJ Styles](../matches/2006-01-07-aries-strong-shelley-vs-daniels-sabin-styles-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
+
 ## Pendientes / huecos
 
 - [ ] Paparazzi Productions (2006); TNA Tag 2010; conteo exacto con KUSHIDA; DPT o licenciatura.

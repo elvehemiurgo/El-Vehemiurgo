@@ -157,6 +157,13 @@ Volcado: [`../../notebook/2026-11-23-s01-tna-impact-2005-12-08.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
 
+
+### Sesión 2026-11-23 s06 — TNA iMPACT! 7/1/2006
+
+- TNA iMPACT! #80 (Spike TV), 7/1/2006, 00:16:08 — [Bobby Roode (con Scott D'Amore) vs Ron "The Truth" Killings](../matches/2006-01-07-bobby-roode-vs-ron-killings-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
+
 ## Pendientes / huecos
 
 - [ ] Desglose fecha por fecha de los cinco reinados de Beer Money.
