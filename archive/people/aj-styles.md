@@ -300,6 +300,21 @@ Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
 
+
+### Sesión 2026-11-24 s01 — TNA Final Resolution 2006
+
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 00:33:36 — [Hiroshi Tanahashi vs AJ Styles](../matches/2006-01-15-hiroshi-tanahashi-vs-aj-styles-tna-final-resolution-2006.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
+
+
+### Sesión 2026-11-24 s02 — TNA iMPACT! 21/1/2006
+
+- TNA iMPACT! (Spike TV), 21/1/2006, 00:06:40 — [Promo de AJ Styles: Samoa Joe, Daniels y "tirar la toalla"](../segments/2006-01-21-promo-de-aj-styles-daniels-tirar-la-toalla-shannon-moore-tna-impact.md) — **WE**.
+- TNA iMPACT! (Spike TV), 21/1/2006, 00:27:27 — [AJ Styles vs Shannon Moore — street fight](../matches/2006-01-21-aj-styles-vs-shannon-moore-street-fight-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md`](../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md)
+
 ## Pendientes / huecos
 
 - [ ] **AJ vs Kurt Angle TNA matches** (4 entradas en lista

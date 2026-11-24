@@ -206,6 +206,14 @@ Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
 
+
+### Sesión 2026-11-24 s01 — TNA Final Resolution 2006
+
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 02:01:25 — [Video package de Daniels vs Joe](../segments/2006-01-15-video-package-daniels-vs-joe-tna-final-resolution-2006.md) — **WE+**.
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 02:04:42 — [Samoa Joe (c) vs Christopher Daniels — X Division Championship](../matches/2006-01-15-christopher-daniels-vs-samoa-joe-x-division-title-tna-final-resolution-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
+
 ## Pendientes
 
 - [ ] **Hard Justice 2007 vs Kurt Angle** — pieza editorial

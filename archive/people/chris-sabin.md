@@ -119,6 +119,20 @@ Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
 
+
+### Sesión 2026-11-24 s01 — TNA Final Resolution 2006
+
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 00:03:20 — [Chris Sabin, Sonjay Dutt & Matt Bentley (con Traci) vs Generation Next (Austin Aries, Roderick Strong & Alex Shelley)](../matches/2006-01-15-sabin-dutt-bentley-vs-generation-next-aries-strong-shelley-tna-final-resolution-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
+
+
+### Sesión 2026-11-24 s02 — TNA iMPACT! 21/1/2006
+
+- TNA iMPACT! (Spike TV), 21/1/2006, 00:02:45 — [Chris Sabin & Sonjay Dutt vs Diamonds in the Rough (David Young & Elix Skipper, con Simon Diamond)](../matches/2006-01-21-sabin-y-dutt-vs-david-young-y-elix-skipper-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md`](../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer X Division (2003); TNA Tag 2010; ROH tag titles.

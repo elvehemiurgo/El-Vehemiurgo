@@ -81,6 +81,14 @@ Volcado: [`../../notebook/2026-11-23-s05-tna-impact-2006-01-01.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
 
+
+### Sesión 2026-11-24 s01 — TNA Final Resolution 2006
+
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 01:38:38 — [Video package de Team 3D vs AMW](../segments/2006-01-15-video-package-team-3d-vs-amw-tna-final-resolution-2006.md) — **WE+**.
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 01:40:52 — [Team 3D (Brother Ray & Brother Devon) vs America's Most Wanted (Chris Harris & James Storm, con Gail Kim) (c) — NWA World Tag Team Championship](../matches/2006-01-15-team-3d-vs-america-most-wanted-nwa-tag-titles-tna-final-resolution-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer show TNA (19/6/2002); The Revolution; NWA 2022; promotora 2026.

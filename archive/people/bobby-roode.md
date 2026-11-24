@@ -164,6 +164,13 @@ Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../noteb
 
 Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
 
+
+### Sesión 2026-11-24 s01 — TNA Final Resolution 2006
+
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 01:10:21 — [Bobby Roode (con Scott D'Amore) vs Ron "The Truth" Killings](../matches/2006-01-15-bobby-roode-vs-ron-killings-tna-final-resolution-2006.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Desglose fecha por fecha de los cinco reinados de Beer Money.

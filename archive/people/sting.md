@@ -70,6 +70,13 @@ Volcado: [`../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
 
+
+### Sesión 2026-11-24 s01 — TNA Final Resolution 2006
+
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 02:29:52 — [Jeff Jarrett & Monty Brown vs Christian Cage & Sting](../matches/2006-01-15-jarrett-y-brown-vs-christian-y-sting-tna-final-resolution-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Ficha completa de trayectoria (NWA/WCW, TNA 2003-2014, WWE 2014-2015, AEW 2020-2024) — esta ficha nace del corpus TNA 2013.

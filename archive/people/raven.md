@@ -51,6 +51,13 @@ Volcado: [`../../notebook/2026-11-20-s01-tna-impact-2005-11-19.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../notebook/2026-11-23-s02-tna-turning-point-2005.md)
 
+
+### Sesión 2026-11-24 s01 — TNA Final Resolution 2006
+
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 00:51:43 — [Sean Waltman vs Raven — street fight (con Raven despedido si pierde)](../matches/2006-01-15-sean-waltman-vs-raven-street-fight-tna-final-resolution-2006.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Fechas de los reinados ECW y del US Title; el diagnóstico de 2025 contra fuente primaria.

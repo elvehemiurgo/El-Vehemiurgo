@@ -220,6 +220,13 @@ Volcado: [`../../notebook/2026-11-23-s04-tna-impact-2005-12-31.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md)
 
+
+### Sesión 2026-11-24 s01 — TNA Final Resolution 2006
+
+- TNA Final Resolution 2006, 15/1/2006 (PPV), 00:03:20 — [Chris Sabin, Sonjay Dutt & Matt Bentley (con Traci) vs Generation Next (Austin Aries, Roderick Strong & Alex Shelley)](../matches/2006-01-15-sabin-dutt-bentley-vs-generation-next-aries-strong-shelley-tna-final-resolution-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + fecha/lugar de nacimiento exactos** —
