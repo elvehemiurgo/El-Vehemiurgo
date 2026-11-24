@@ -872,6 +872,7 @@ con cada cambio de estado.
 | 2007-05-13 | Samoa Joe vs AJ Styles | TNA / Sacrifice 2007 | — | — | en-investigacion | 1 | [→](2007-05-13-samoa-joe-vs-aj-styles-tna-sacrifice.md) |
 | 2006-09-17 | AJ Styles y Team TNA vs. Los Vipers | AAA / Verano de Escándalo 2006 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2006-aj-styles-team-tna-vs-los-vipers-aaa-verano-de-escandalo.md) |
 | 2006-08-25 | Ikuto Hidaka & Minoru Fujita (c) vs MCMG (Alex Shelley & Chris Sabin) | ZERO1-MAX / Tenka-Ichi Junior 2006 Tag 2 | — | — | en-investigacion | 1 | [→](2006-08-25-mcmg-vs-hidaka-fujita-zero1-max.md) |
+| 2006-01-28 | Rhino vs Abyss | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2006-01-28-rhino-vs-abyss-tna-impact.md) |
 | 2006-01-21 | AJ Styles vs Shannon Moore — street fight | TNA / iMPACT! | PW·FS·WE | ICC | en-investigacion | 1 | [→](2006-01-21-aj-styles-vs-shannon-moore-street-fight-tna-impact.md) |
 | 2006-01-21 | Chris Sabin & Sonjay Dutt vs Diamonds in the Rough (David Young & Elix Skipper, con Simon Diamond) | TNA / iMPACT! | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2006-01-21-sabin-y-dutt-vs-david-young-y-elix-skipper-tna-impact.md) |
 | 2006-01-15 | Abyss (con James Mitchell) vs Rhino | TNA / Final Resolution 2006 | PW·FS·WE | ICC | en-investigacion | 1 | [→](2006-01-15-abyss-vs-rhino-tna-final-resolution-2006.md) |

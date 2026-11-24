@@ -189,6 +189,13 @@ Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
 
+
+### Sesión 2026-11-24 s03 — TNA iMPACT! 28/1/2006
+
+- TNA iMPACT! #83 (Spike TV), 28/1/2006, 00:13:12 — [Aries, Strong y Shelley celebrando y quejándose con Jerry Lynn](../segments/2006-01-28-aries-strong-shelley-celebrando-y-quejandose-con-jerry-lynn-tna-impact.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md)
+
 ## Pendientes / huecos
 
 - [ ] Número total de reinados como X Division Champion.

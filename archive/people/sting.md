@@ -77,6 +77,13 @@ Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
 
+
+### Sesión 2026-11-24 s03 — TNA iMPACT! 28/1/2006
+
+- TNA iMPACT! #83 (Spike TV), 28/1/2006, 00:31:50 — [Sting debuta en la Impact Zone: nuevo face como retador](../segments/2006-01-28-sting-debuta-en-la-impact-zone-nuevo-face-retador-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md)
+
 ## Pendientes / huecos
 
 - [ ] Ficha completa de trayectoria (NWA/WCW, TNA 2003-2014, WWE 2014-2015, AEW 2020-2024) — esta ficha nace del corpus TNA 2013.

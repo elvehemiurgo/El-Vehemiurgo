@@ -574,6 +574,14 @@ Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../no
 
 Volcado: [`../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md`](../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md)
 
+
+### Sesión 2026-11-24 s03 — TNA iMPACT! 28/1/2006
+
+- TNA iMPACT! #83 (Spike TV), 28/1/2006, 00:05:39 — [Christian interrumpe la celebración de Jarrett: retador número 1](../segments/2006-01-28-christian-interrumpe-la-celebracion-de-jarrett-tna-impact.md) — **WE**.
+- TNA iMPACT! #83 (Spike TV), 28/1/2006, 00:31:50 — [Sting debuta en la Impact Zone: nuevo face como retador](../segments/2006-01-28-sting-debuta-en-la-impact-zone-nuevo-face-retador-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces
