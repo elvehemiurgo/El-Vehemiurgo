@@ -69,6 +69,14 @@ Volcado: [`../../notebook/2026-11-23-s02-tna-turning-point-2005.md`](../../noteb
 
 Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
 
+
+### Sesión 2026-11-25 s01 — TNA Against All Odds 2006
+
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 01:59:22 — [Promo de Team 3D: poniendo over a Team Canada](../segments/2006-02-12-team-3d-promo-poniendo-over-a-team-canada-tna-against-all-odds-2006.md) — **WE**.
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 02:01:22 — [Team Canada (Bobby Roode & Eric Young, con Scott D'Amore) vs Team 3D (Brother Ray & Brother Devon)](../matches/2006-02-12-team-canada-roode-y-young-vs-team-3d-tna-against-all-odds-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Ficha completa de trayectoria (ECW/WWE como Dudley Boy, TNA, ROH, regreso a WWE).

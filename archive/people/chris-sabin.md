@@ -133,6 +133,14 @@ Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../no
 
 Volcado: [`../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md`](../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md)
 
+
+### Sesión 2026-11-25 s01 — TNA Against All Odds 2006
+
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 00:54:37 — [America's Most Wanted (Chris Harris & James Storm, con Gail Kim) (c) vs Chris Sabin & Sonjay Dutt — NWA World Tag Team Championship](../matches/2006-02-12-america-most-wanted-vs-sabin-y-dutt-nwa-tag-titles-tna-against-all-odds-2006.md) — **ICC+**.
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 01:09:02 — [Post-match y la salvada de Sabin](../segments/2006-02-12-post-match-y-salvada-de-sabin-tna-against-all-odds-2006.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer X Division (2003); TNA Tag 2010; ROH tag titles.

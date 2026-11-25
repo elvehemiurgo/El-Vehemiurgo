@@ -109,6 +109,13 @@ Volcado: [`../../notebook/2026-11-23-s03-tna-impact-2005-12-17.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
 
+
+### Sesión 2026-11-25 s01 — TNA Against All Odds 2006
+
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 00:23:08 — [Petey Williams vs Alex Shelley vs Matt Bentley (con Traci) vs Jay Lethal — X Division](../matches/2006-02-12-petey-williams-vs-alex-shelley-vs-matt-bentley-vs-jay-lethal-tna-against-all-odds-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos y trayectoria condensada.

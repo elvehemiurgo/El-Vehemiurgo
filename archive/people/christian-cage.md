@@ -582,6 +582,15 @@ Volcado: [`../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md)
 
+
+### Sesión 2026-11-25 s01 — TNA Against All Odds 2006
+
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 02:19:28 — [Promo de Christian antes del main event: "was it a good idea?"](../segments/2006-02-12-promo-de-christian-antes-del-main-event-was-it-a-good-idea-tna-against-all-odds-2006.md) — **WE+**.
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 02:22:40 — [Video package del main event: Christian vs Jarrett](../segments/2006-02-12-video-package-del-main-event-christian-vs-jarrett-tna-against-all-odds-2006.md) — **WE+**.
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 02:27:23 — [Jeff Jarrett (c, con Gail Kim) vs Christian Cage — NWA World Heavyweight Championship](../matches/2006-02-12-christian-cage-vs-jeff-jarrett-nwa-world-title-tna-against-all-odds-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

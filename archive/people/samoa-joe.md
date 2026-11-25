@@ -214,6 +214,15 @@ Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
 
+
+### Sesión 2026-11-25 s01 — TNA Against All Odds 2006
+
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 01:32:49 — [Promo de Samoa Joe: amenaza a AJ y a Daniels](../segments/2006-02-12-promo-de-samoa-joe-amenaza-a-aj-y-daniels-tna-against-all-odds-2006.md) — **WE**.
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 01:36:20 — [Video package de Styles vs Daniels vs Joe](../segments/2006-02-12-video-package-styles-vs-daniels-vs-joe-tna-against-all-odds-2006.md) — **WE**.
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 01:37:43 — [Samoa Joe (c) vs AJ Styles vs Christopher Daniels — X Division Championship (three way)](../matches/2006-02-12-aj-styles-vs-christopher-daniels-vs-samoa-joe-x-division-title-tna-against-all-odds-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
+
 ## Pendientes
 
 - [ ] **Hard Justice 2007 vs Kurt Angle** — pieza editorial

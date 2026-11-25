@@ -196,6 +196,13 @@ Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../no
 
 Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md)
 
+
+### Sesión 2026-11-25 s01 — TNA Against All Odds 2006
+
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 00:06:33 — [Roderick Strong & Austin Aries vs The Naturals (Andy Douglas & Chase Stevens)](../matches/2006-02-12-roderick-strong-y-austin-aries-vs-the-naturals-tna-against-all-odds-2006.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Número total de reinados como X Division Champion.

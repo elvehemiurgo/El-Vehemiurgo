@@ -89,6 +89,14 @@ Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../notebook/2026-11-24-s01-tna-final-resolution-2006.md)
 
+
+### Sesión 2026-11-25 s01 — TNA Against All Odds 2006
+
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 00:19:58 — [Promo de los heels: AMW como top heels](../segments/2006-02-12-promo-de-los-heels-amw-top-heels-tna-against-all-odds-2006.md) — **WE+**.
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 00:54:37 — [America's Most Wanted (Chris Harris & James Storm, con Gail Kim) (c) vs Chris Sabin & Sonjay Dutt — NWA World Tag Team Championship](../matches/2006-02-12-america-most-wanted-vs-sabin-y-dutt-nwa-tag-titles-tna-against-all-odds-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer show TNA (19/6/2002); The Revolution; NWA 2022; promotora 2026.

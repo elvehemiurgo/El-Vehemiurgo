@@ -187,6 +187,13 @@ Volcado: [`../../notebook/2026-11-23-s06-tna-impact-2006-01-07.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md)
 
+
+### Sesión 2026-11-25 s01 — TNA Against All Odds 2006
+
+- TNA Against All Odds 2006, 12/2/2006 (PPV), 02:01:22 — [Team Canada (Bobby Roode & Eric Young, con Scott D'Amore) vs Team 3D (Brother Ray & Brother Devon)](../matches/2006-02-12-team-canada-roode-y-young-vs-team-3d-tna-against-all-odds-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).
