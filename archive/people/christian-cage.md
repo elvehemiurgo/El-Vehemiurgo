@@ -591,6 +591,44 @@ Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s01 — TNA iMPACT! 18/2/2006
+
+- TNA iMPACT! (Spike TV), 18/2/2006, 00:02:08 — [Christian Cage entra como campeón mundial de la NWA](../segments/2006-02-18-christian-entra-como-campeon-mundial-nwa-tna-impact.md) — **WE+**.
+- TNA iMPACT! (Spike TV), 18/2/2006, 00:02:57 — [Segmento in ring de Christian como campeón mundial](../segments/2006-02-18-segmento-in-ring-de-christian-como-campeon-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md`](../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md)
+
+
+### Sesión 2026-11-26 s02 — TNA iMPACT! 25/2/2006
+
+- TNA iMPACT! (Spike TV), 25/2/2006, 00:05:19 — [Christian aparece: el icónico segmento del Bangkok](../segments/2006-02-25-christian-aparece-segmento-del-bangkok-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md`](../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md)
+
+
+### Sesión 2026-11-26 s03 — TNA iMPACT! 4/3/2006
+
+- TNA iMPACT! #88 (Spike TV), 4/3/2006, 00:24:42 — [Promo backstage de Christian: lo interrumpe Abyss y Monty lo ataca](../segments/2006-03-04-christian-promo-backstage-interrumpido-por-abyss-ataque-de-monty-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md`](../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md)
+
+
+### Sesión 2026-11-26 s04 — TNA iMPACT! 11/3/2006
+
+- TNA iMPACT! #89 (Spike TV), 11/3/2006, 00:29:14 — [Christian y el Alpha Male en una entrevista](../segments/2006-03-11-christian-y-el-alpha-male-entrevista-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md`](../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md)
+
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 02:11:22 — [Promo de Christian antes de su lucha, lastimado por el ataque backstage](../segments/2006-03-12-promo-de-christian-antes-de-su-lucha-lastimado-tna-destination-x-2006.md) — **WE+**.
+- TNA Destination X 2006, 12/3/2006 (PPV), 02:17:53 — [Christian Cage (c) vs Monty Brown — NWA World Heavyweight Championship](../matches/2006-03-12-christian-cage-vs-monty-brown-nwa-world-title-tna-destination-x-2006.md) — **ICC**.
+- TNA Destination X 2006, 12/3/2006 (PPV), 02:41:49 — [Segmento final: Jarrett reta a Christian, regresa Sting y debuta Scott Steiner](../segments/2006-03-12-segmento-final-jarrett-reta-a-christian-sting-y-steiner-tna-destination-x-2006.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

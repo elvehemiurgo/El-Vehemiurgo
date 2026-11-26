@@ -116,6 +116,27 @@ Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s01 — TNA iMPACT! 18/2/2006
+
+- TNA iMPACT! (Spike TV), 18/2/2006, 00:09:04 — [Roderick Strong vs Shannon Moore vs Jay Lethal — clasificatoria al Team USA (World X Cup)](../matches/2006-02-18-roderick-strong-vs-shannon-moore-vs-jay-lethal-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md`](../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md)
+
+
+### Sesión 2026-11-26 s03 — TNA iMPACT! 4/3/2006
+
+- TNA iMPACT! #88 (Spike TV), 4/3/2006, 00:16:16 — [Team Canada (Bobby Roode, Eric Young & Petey Williams, con Scott D'Amore) vs Chris Sabin, Sonjay Dutt & Jay Lethal](../matches/2006-03-04-team-canada-vs-sabin-dutt-y-lethal-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md`](../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md)
+
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 00:03:24 — [Alex Shelley vs Jay Lethal](../matches/2006-03-12-alex-shelley-vs-jay-lethal-tna-destination-x-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Datos de identificación completos y trayectoria condensada.

@@ -77,6 +77,22 @@ Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../no
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s01 — TNA iMPACT! 18/2/2006
+
+- TNA iMPACT! (Spike TV), 18/2/2006, 00:28:44 — [Segmento backstage con Ron Killings (Truth) y Team 3D](../segments/2006-02-18-segmento-backstage-con-truth-y-team-3d-tna-impact.md) — **WE**.
+- TNA iMPACT! (Spike TV), 18/2/2006, 00:32:13 — [Team Canada (Bobby Roode, Petey Williams & A1) vs Team 3D (Brother Ray & Brother Devon) & Ron Killings](../matches/2006-02-18-team-canada-vs-team-3d-y-ron-killings-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md`](../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md)
+
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 00:29:16 — [Promo de los faces: Team 3D, Rhino y R-Truth](../segments/2006-03-12-promo-de-los-faces-team-3d-rhino-y-r-truth-tna-destination-x-2006.md) — **WE**.
+- TNA Destination X 2006, 12/3/2006 (PPV), 01:22:53 — [America's Most Wanted (Chris Harris & James Storm), Jeff Jarrett & Abyss (con Gail Kim, James Mitchell y Jackie Gayda) vs Ron Killings (Truth), Rhino & Team 3D (Brother Ray & Brother Devon) — 8-Man War](../matches/2006-03-12-amw-jarrett-y-abyss-vs-truth-rhino-y-team-3d-8-man-war-tna-destination-x-2006.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Ficha completa de trayectoria (ECW/WWE como Dudley Boy, TNA, ROH, regreso a WWE).

@@ -194,6 +194,28 @@ Volcado: [`../../notebook/2026-11-23-s07-tna-impact-2006-01-14.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s02 — TNA iMPACT! 25/2/2006
+
+- TNA iMPACT! (Spike TV), 25/2/2006, 00:39:22 — [Los tapes de paparazzi: Shelley y el ángulo de Sting](../segments/2006-02-25-tapes-de-paparazzi-shelley-y-el-angulo-de-sting-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md`](../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md)
+
+
+### Sesión 2026-11-26 s03 — TNA iMPACT! 4/3/2006
+
+- TNA iMPACT! #88 (Spike TV), 4/3/2006, 00:16:16 — [Team Canada (Bobby Roode, Eric Young & Petey Williams, con Scott D'Amore) vs Chris Sabin, Sonjay Dutt & Jay Lethal](../matches/2006-03-04-team-canada-vs-sabin-dutt-y-lethal-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md`](../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md)
+
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 00:31:23 — [Team Canada (Bobby Roode & Eric Young, con Scott D'Amore y A1) vs The Naturals (Chase Stevens & Andy Douglas)](../matches/2006-03-12-team-canada-roode-y-young-vs-the-naturals-tna-destination-x-2006.md) — **ICC**.
+- TNA Destination X 2006, 12/3/2006 (PPV), 00:59:22 — [Eric Young y Shelley buscan a Sting por el edificio y molestan a AJ en el baño](../segments/2006-03-12-ey-y-shelley-buscan-a-sting-molestan-a-aj-en-el-bano-tna-destination-x-2006.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real confirmado (Jeremy Fritz).

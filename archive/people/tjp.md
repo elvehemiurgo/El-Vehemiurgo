@@ -38,6 +38,13 @@ tags: [tjp, tj-perkins, manik, suicide, puma, x-division, cruiserweight-classic,
 
 Nombrado en la lista masiva de s26, rama *"junior heavyweight / técnico"*. Un cruiserweight que ganó el torneo fundacional de la división moderna de WWE, sostuvo la X Division encapuchado sin nombre propio, y a los 40 sigue ganando títulos en Japón: fidelidad al oficio junior a través de cuatro empresas. Sin pieza propia con clase todavía; su match vs Laredo Kid (21/2/2026) está en la lista personal sin marca.
 
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 01:00:42 — [Petey Williams (con A1) vs Puma (TJP) vs Sonjay Dutt vs Chris Sabin — International X](../matches/2006-03-12-petey-williams-vs-puma-tjp-vs-sonjay-dutt-vs-chris-sabin-international-x-tna-destination-x-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del segundo reinado Catch 2/2 (2023).

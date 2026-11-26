@@ -141,6 +141,27 @@ Volcado: [`../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s03 — TNA iMPACT! 4/3/2006
+
+- TNA iMPACT! #88 (Spike TV), 4/3/2006, 00:16:16 — [Team Canada (Bobby Roode, Eric Young & Petey Williams, con Scott D'Amore) vs Chris Sabin, Sonjay Dutt & Jay Lethal](../matches/2006-03-04-team-canada-vs-sabin-dutt-y-lethal-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md`](../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md)
+
+
+### Sesión 2026-11-26 s04 — TNA iMPACT! 11/3/2006
+
+- TNA iMPACT! #89 (Spike TV), 11/3/2006, 00:13:17 — [Alex Shelley vs Chris Sabin vs Sonjay Dutt — clasificatoria a la International X](../matches/2006-03-11-alex-shelley-vs-chris-sabin-vs-sonjay-dutt-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md`](../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md)
+
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 01:00:42 — [Petey Williams (con A1) vs Puma (TJP) vs Sonjay Dutt vs Chris Sabin — International X](../matches/2006-03-12-petey-williams-vs-puma-tjp-vs-sonjay-dutt-vs-chris-sabin-international-x-tna-destination-x-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer X Division (2003); TNA Tag 2010; ROH tag titles.

@@ -132,6 +132,35 @@ Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s02 — TNA iMPACT! 25/2/2006
+
+- TNA iMPACT! (Spike TV), 25/2/2006, 00:39:22 — [Los tapes de paparazzi: Shelley y el ángulo de Sting](../segments/2006-02-25-tapes-de-paparazzi-shelley-y-el-angulo-de-sting-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md`](../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md)
+
+
+### Sesión 2026-11-26 s03 — TNA iMPACT! 4/3/2006
+
+- TNA iMPACT! #88 (Spike TV), 4/3/2006, 00:30:42 — [Sting descubre a Shelley y amenaza a Jarrett: Steven Borden irá al PPV](../segments/2006-03-04-sting-descubre-a-shelley-y-amenaza-a-jarrett-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md`](../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md)
+
+
+### Sesión 2026-11-26 s04 — TNA iMPACT! 11/3/2006
+
+- TNA iMPACT! #89 (Spike TV), 11/3/2006, 00:13:17 — [Alex Shelley vs Chris Sabin vs Sonjay Dutt — clasificatoria a la International X](../matches/2006-03-11-alex-shelley-vs-chris-sabin-vs-sonjay-dutt-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md`](../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md)
+
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 00:03:24 — [Alex Shelley vs Jay Lethal](../matches/2006-03-12-alex-shelley-vs-jay-lethal-tna-destination-x-2006.md) — **ICC+**.
+- TNA Destination X 2006, 12/3/2006 (PPV), 00:59:22 — [Eric Young y Shelley buscan a Sting por el edificio y molestan a AJ en el baño](../segments/2006-03-12-ey-y-shelley-buscan-a-sting-molestan-a-aj-en-el-bano-tna-destination-x-2006.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Paparazzi Productions (2006); TNA Tag 2010; conteo exacto con KUSHIDA; DPT o licenciatura.

@@ -203,6 +203,13 @@ Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s01 — TNA iMPACT! 18/2/2006
+
+- TNA iMPACT! (Spike TV), 18/2/2006, 00:23:04 — [Austin Aries vs Christopher Daniels](../matches/2006-02-18-austin-aries-vs-christopher-daniels-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md`](../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md)
+
 ## Pendientes / huecos
 
 - [ ] Número total de reinados como X Division Champion.

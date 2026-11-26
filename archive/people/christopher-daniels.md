@@ -216,6 +216,34 @@ Volcado: [`../../notebook/2026-11-24-s02-tna-impact-2006-01-21.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s01 — TNA iMPACT! 18/2/2006
+
+- TNA iMPACT! (Spike TV), 18/2/2006, 00:23:04 — [Austin Aries vs Christopher Daniels](../matches/2006-02-18-austin-aries-vs-christopher-daniels-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md`](../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md)
+
+
+### Sesión 2026-11-26 s03 — TNA iMPACT! 4/3/2006
+
+- TNA iMPACT! #88 (Spike TV), 4/3/2006, 00:31:46 — [Shannon Moore & Samoa Joe vs Christopher Daniels & AJ Styles](../matches/2006-03-04-shannon-moore-y-samoa-joe-vs-daniels-y-styles-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md`](../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md)
+
+
+### Sesión 2026-11-26 s04 — TNA iMPACT! 11/3/2006
+
+- TNA iMPACT! #89 (Spike TV), 11/3/2006, 00:09:42 — [Promo video del Ultimate X con Daniels, Styles y Joe en la estructura](../segments/2006-03-11-promo-video-ultimate-x-daniels-styles-joe-tna-impact.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md`](../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md)
+
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 01:53:42 — [Samoa Joe (c) vs Christopher Daniels vs AJ Styles — Ultimate X por el X Division Championship](../matches/2006-03-12-samoa-joe-vs-christopher-daniels-vs-aj-styles-ultimate-x-tna-destination-x-2006.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Nombre real y lugar de nacimiento — contradicciones sin cerrar.

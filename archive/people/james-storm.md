@@ -97,6 +97,36 @@ Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../no
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s02 — TNA iMPACT! 25/2/2006
+
+- TNA iMPACT! (Spike TV), 25/2/2006, 00:07:24 — [Promo de AMW antes de su lucha: escapando de Team 3D](../segments/2006-02-25-promo-de-amw-escapando-de-team-3d-tna-impact.md) — **WE**.
+- TNA iMPACT! (Spike TV), 25/2/2006, 00:30:30 — [America's Most Wanted (Chris Harris & James Storm) (c) vs Ron Killings (Truth) & Rhino — NWA World Tag Team Championship](../matches/2006-02-25-america-most-wanted-vs-ron-killings-y-rhino-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md`](../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md)
+
+
+### Sesión 2026-11-26 s03 — TNA iMPACT! 4/3/2006
+
+- TNA iMPACT! #88 (Spike TV), 4/3/2006, 00:02:18 — [Abyss, America's Most Wanted (Chris Harris & James Storm) y Jeff Jarrett vs Shark Boy, Norman Smiley, Cassidy Riley y Buck Quartermain](../matches/2006-03-04-abyss-amw-y-jarrett-squash-entrenan-para-destination-x-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md`](../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md)
+
+
+### Sesión 2026-11-26 s04 — TNA iMPACT! 11/3/2006
+
+- TNA iMPACT! #89 (Spike TV), 11/3/2006, 00:02:08 — [America's Most Wanted (Chris Harris & James Storm) (c) vs The Naturals (Chase Stevens & Andy Douglas) — NWA World Tag Team Championship](../matches/2006-03-11-america-most-wanted-vs-the-naturals-nwa-tag-titles-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md`](../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md)
+
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 01:19:17 — [Promo de los heels: full gimmicks](../segments/2006-03-12-promo-de-los-heels-full-gimmicks-tna-destination-x-2006.md) — **WE**.
+- TNA Destination X 2006, 12/3/2006 (PPV), 01:22:53 — [America's Most Wanted (Chris Harris & James Storm), Jeff Jarrett & Abyss (con Gail Kim, James Mitchell y Jackie Gayda) vs Ron Killings (Truth), Rhino & Team 3D (Brother Ray & Brother Devon) — 8-Man War](../matches/2006-03-12-amw-jarrett-y-abyss-vs-truth-rhino-y-team-3d-8-man-war-tna-destination-x-2006.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Fecha del primer show TNA (19/6/2002); The Revolution; NWA 2022; promotora 2026.

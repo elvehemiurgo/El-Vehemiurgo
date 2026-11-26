@@ -84,6 +84,35 @@ Volcado: [`../../notebook/2026-11-24-s01-tna-final-resolution-2006.md`](../../no
 
 Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md)
 
+
+### Sesión 2026-11-26 s01 — TNA iMPACT! 18/2/2006
+
+- TNA iMPACT! (Spike TV), 18/2/2006, 00:06:50 — [Jarrett como retador: main heel, delirante, atribuyéndose la salida de Sting](../segments/2006-02-18-jarrett-retador-main-heel-delutional-salida-de-sting-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md`](../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md)
+
+
+### Sesión 2026-11-26 s02 — TNA iMPACT! 25/2/2006
+
+- TNA iMPACT! (Spike TV), 25/2/2006, 00:39:22 — [Los tapes de paparazzi: Shelley y el ángulo de Sting](../segments/2006-02-25-tapes-de-paparazzi-shelley-y-el-angulo-de-sting-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md`](../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md)
+
+
+### Sesión 2026-11-26 s03 — TNA iMPACT! 4/3/2006
+
+- TNA iMPACT! #88 (Spike TV), 4/3/2006, 00:30:42 — [Sting descubre a Shelley y amenaza a Jarrett: Steven Borden irá al PPV](../segments/2006-03-04-sting-descubre-a-shelley-y-amenaza-a-jarrett-tna-impact.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md`](../../notebook/2026-11-26-s03-tna-impact-2006-03-04.md)
+
+
+### Sesión 2026-11-26 s05 — TNA Destination X 2006
+
+- TNA Destination X 2006, 12/3/2006 (PPV), 01:49:54 — [Jarrett reta a Sting insultando a su familia](../segments/2006-03-12-jarrett-reta-a-sting-insultando-a-su-familia-tna-destination-x-2006.md) — **WE**.
+- TNA Destination X 2006, 12/3/2006 (PPV), 02:41:49 — [Segmento final: Jarrett reta a Christian, regresa Sting y debuta Scott Steiner](../segments/2006-03-12-segmento-final-jarrett-reta-a-christian-sting-y-steiner-tna-destination-x-2006.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
+
 ## Pendientes / huecos
 
 - [ ] Ficha completa de trayectoria (NWA/WCW, TNA 2003-2014, WWE 2014-2015, AEW 2020-2024) — esta ficha nace del corpus TNA 2013.

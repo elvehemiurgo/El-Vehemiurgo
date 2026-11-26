@@ -241,6 +241,20 @@ Volcado: [`../../notebook/2026-11-24-s03-tna-impact-2006-01-28.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md`](../../notebook/2026-11-25-s01-tna-against-all-odds-2006.md)
 
+
+### Sesión 2026-11-26 s01 — TNA iMPACT! 18/2/2006
+
+- TNA iMPACT! (Spike TV), 18/2/2006, 00:09:04 — [Roderick Strong vs Shannon Moore vs Jay Lethal — clasificatoria al Team USA (World X Cup)](../matches/2006-02-18-roderick-strong-vs-shannon-moore-vs-jay-lethal-tna-impact.md) — **ICC**.
+
+Volcado: [`../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md`](../../notebook/2026-11-26-s01-tna-impact-2006-02-18.md)
+
+
+### Sesión 2026-11-26 s02 — TNA iMPACT! 25/2/2006
+
+- TNA iMPACT! (Spike TV), 25/2/2006, 00:10:13 — [AJ Styles vs Roderick Strong](../matches/2006-02-25-aj-styles-vs-roderick-strong-tna-impact.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md`](../../notebook/2026-11-26-s02-tna-impact-2006-02-25.md)
+
 ## Pendientes / huecos
 
 - [ ] **Nombre real + fecha/lugar de nacimiento exactos** —
