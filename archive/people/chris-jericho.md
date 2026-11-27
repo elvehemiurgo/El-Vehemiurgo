@@ -254,6 +254,34 @@ Sin clase declarada sobre el segmento. Pieza:
 
 Volcado: [`../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md`](../../notebook/2026-11-11-s01-aew-dynamite-collision-fright-night-blood-and-guts.md)
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 00:32:50 — [Chris Jericho, campeón indiscutido: full heel, "The Living Legend"](../segments/2002-01-07-y2j-doble-campeon-full-heel-the-living-legend-wwf-raw.md) — **WE+**.
+- WWF Raw, 7/1/2002, 00:59:05 — [Y2J backstage: "que estúpido"](../segments/2002-01-07-y2j-backstage-que-estupido-wwf-raw.md) — **WE**.
+- WWF Raw, 7/1/2002, 00:59:17 — [Video package de Jericho](../segments/2002-01-07-video-package-de-jericho-wwf-raw.md) — **WE+**.
+- WWF Raw, 7/1/2002, 01:00:01 — [Rikishi vs Chris Jericho](../matches/2002-01-07-rikishi-vs-chris-jericho-wwf-raw.md) — **ICC**.
+- WWF Raw, 7/1/2002, 01:26:35 — [Regreso de HHH como face](../segments/2002-01-07-regreso-de-hhh-como-face-wwf-raw.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 00:29:42 — [Chris Jericho & Test vs The Rock & Rob Van Dam](../matches/2002-01-10-y2j-y-test-vs-the-rock-y-rvd-wwf-smackdown.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 00:11:18 — [Chris Jericho interrumpe a Flair; Vince McMahon embosca a Flair](../segments/2002-01-14-jericho-interrumpe-a-flair-wwf-raw.md) — **WE+**.
+- WWF Raw, 14/1/2002, 00:28:36 — [Video package de Y2J vs The Rock](../segments/2002-01-14-video-package-de-y2j-vs-the-rock-wwf-raw.md) — **WE**.
+- WWF Raw, 14/1/2002, 01:07:31 — [Segmento con los hombres C y Lance: Rikishi vuelve a atormentar a Jericho](../segments/2002-01-14-segmento-con-los-hombres-c-y-lance-rikishi-atormenta-a-jericho-wwf-raw.md) — **WE**.
+- WWF Raw, 14/1/2002, 01:22:02 — [Chris Jericho, Christian & Lance Storm vs Rikishi & The APA (Farooq & Bradshaw)](../matches/2002-01-14-y2j-christian-y-lance-vs-rikishi-y-apa-wwf-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes
 
 - [ ] Y2J countdown debut WWF 9 ago 1999 — segment editorial

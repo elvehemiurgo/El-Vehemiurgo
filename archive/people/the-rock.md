@@ -93,6 +93,29 @@ tags: [the-rock, dwayne-johnson, peoples-champion, attitude-era-pillar, anoaʻi-
   family.
 - [`./jacob-fatu.md`](./jacob-fatu.md) + Bloodline cross-link.
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 00:32:50 — [Chris Jericho, campeón indiscutido: full heel, "The Living Legend"](../segments/2002-01-07-y2j-doble-campeon-full-heel-the-living-legend-wwf-raw.md) — **WE+**.
+- WWF Raw, 7/1/2002, 00:45:27 — [Booker T & Big Boss Man vs Steve Austin & The Rock](../matches/2002-01-07-booker-t-y-big-boss-man-vs-austin-y-the-rock-wwf-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 00:29:42 — [Chris Jericho & Test vs The Rock & Rob Van Dam](../matches/2002-01-10-y2j-y-test-vs-the-rock-y-rvd-wwf-smackdown.md) — **ICC+**.
+- WWF SmackDown, 10/1/2002, 01:03:35 — [Promo de The Rock, muy local y tópica](../segments/2002-01-10-promo-de-the-rock-muy-local-wwf-smackdown.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 00:28:36 — [Video package de Y2J vs The Rock](../segments/2002-01-14-video-package-de-y2j-vs-the-rock-wwf-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes
 
 - [ ] **WrestleMania XV vs Austin (1999)** — primer Rock-Austin

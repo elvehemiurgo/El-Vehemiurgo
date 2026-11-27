@@ -72,6 +72,27 @@ reinado de RVD, **137 días**.
 **Pieza de la sesión**:
 [vs Kenny King, X Division Championship](../matches/2013-02-21-kenny-king-vs-rvd-x-division-tna-impact.md) (FS·WE → FC)
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 00:17:23 — [Test vs Rob Van Dam](../matches/2002-01-07-test-vs-rob-van-dam-wwf-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 00:29:42 — [Chris Jericho & Test vs The Rock & Rob Van Dam](../matches/2002-01-10-y2j-y-test-vs-the-rock-y-rvd-wwf-smackdown.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 01:00:04 — [Edge & Rob Van Dam vs William Regal & Test](../matches/2002-01-14-edge-y-rvd-vs-regal-y-test-wwf-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes / huecos
 
 - [ ] Rival final del reinado X Division (Kenny King `[no confirmado]`); si luchó en 2026.

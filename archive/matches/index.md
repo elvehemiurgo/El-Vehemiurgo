@@ -958,6 +958,23 @@ con cada cambio de estado.
 | 2002-08-25 | Rey Mysterio vs Kurt Angle | WWE / SummerSlam 2002 | — | — | en-investigacion | 1 | [→](2002-08-25-rey-mysterio-vs-kurt-angle-wwe-summerslam.md) |
 | 2002-07-25 | Christian & Lance Storm vs The Rock & Hulk Hogan | WWE / SmackDown | — | — | en-investigacion | 1 | [→](2002-07-25-christian-lance-storm-vs-rock-hogan-wwe-smackdown.md) |
 | 2002-03-02 | Eddie Guerrero vs CM Punk | IWA Mid-South / Morris Mayhem | — | — | en-investigacion | 1 | [→](2002-03-02-eddie-guerrero-vs-cm-punk-iwa-mid-south.md) |
+| 2002-01-14 | Billy & Chuck vs The Hurricane & Tajiri | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-14-billy-y-chuck-vs-the-hurricane-y-tajiri-wwf-raw.md) |
+| 2002-01-14 | Booker T vs Big Show | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-14-booker-t-vs-big-show-wwf-raw.md) |
+| 2002-01-14 | Bubba Ray Dudley (con D-Von y Stacy Keibler) vs Spike Dudley (con Tazz) | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-14-bubba-ray-dudley-vs-spike-dudley-wwf-raw.md) |
+| 2002-01-14 | Edge & Rob Van Dam vs William Regal & Test | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-14-edge-y-rvd-vs-regal-y-test-wwf-raw.md) |
+| 2002-01-14 | Kurt Angle vs Kane | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-14-kurt-angle-vs-kane-wwf-raw.md) |
+| 2002-01-14 | Chris Jericho, Christian & Lance Storm vs Rikishi & The APA (Farooq & Bradshaw) | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-14-y2j-christian-y-lance-vs-rikishi-y-apa-wwf-raw.md) |
+| 2002-01-10 | Booker T vs Rikishi | WWF / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-10-booker-t-vs-rikishi-wwf-smackdown.md) |
+| 2002-01-10 | Edge (c) vs Big Boss Man — WWF Intercontinental Championship | WWF / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-10-edge-vs-big-boss-man-intercontinental-wwf-smackdown.md) |
+| 2002-01-10 | Kurt Angle vs Stone Cold Steve Austin | WWF / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-10-kurt-angle-vs-stone-cold-wwf-smackdown.md) |
+| 2002-01-10 | Tazz & Spike Dudley (c) vs Christian & Lance Storm — WWF World Tag Team Championship | WWF / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-10-taz-y-spike-vs-christian-y-lance-storm-tag-titles-wwf-smackdown.md) |
+| 2002-01-10 | Chris Jericho & Test vs The Rock & Rob Van Dam | WWF / SmackDown | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-10-y2j-y-test-vs-the-rock-y-rvd-wwf-smackdown.md) |
+| 2002-01-07 | Billy & Chuck vs Albert (A-Train) & Scotty 2 Hotty | WWF / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2002-01-07-billy-y-chuck-vs-albert-y-scotty-2-hotty-wwf-raw.md) |
+| 2002-01-07 | Booker T & Big Boss Man vs Steve Austin & The Rock | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-07-booker-t-y-big-boss-man-vs-austin-y-the-rock-wwf-raw.md) |
+| 2002-01-07 | Edge (c) vs Lance Storm — WWF Intercontinental Championship | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-07-edge-vs-lance-storm-intercontinental-wwf-raw.md) |
+| 2002-01-07 | Rikishi vs Chris Jericho | WWF / Raw | PW·FS·WE | ICC | en-investigacion | 1 | [→](2002-01-07-rikishi-vs-chris-jericho-wwf-raw.md) |
+| 2002-01-07 | Tazz & Spike Dudley vs The Dudley Boyz (Bubba Ray & D-Von, con Stacy Keibler) (c) — WWF World Tag Team Championship (hardcore) | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-07-tazz-y-spike-dudley-vs-dudley-boyz-tag-titles-wwf-raw.md) |
+| 2002-01-07 | Test vs Rob Van Dam | WWF / Raw | PW·FS·WE+ | ICC+ | en-investigacion | 1 | [→](2002-01-07-test-vs-rob-van-dam-wwf-raw.md) |
 | 2001-07-09 | AJ Styles vs Rick Michaels | WWF (developmental indie cross / NCW) / [verif] — likely WWF developmental territorial 2001 | — | — | en-investigacion | 1 | [→](2001-07-09-aj-styles-vs-rick-michaels-wwf.md) |
 | 1998-09-21 | Volk Han vs Kiyoshi Tamura — Fighting Integration VI | Fighting Network RINGS / RINGS Fighting Integration VI | PW·FS·WE | ICC | stub | 1 | [→](1998-09-21-volk-han-vs-kiyoshi-tamura-rings-fighting-integration-vi.md) |
 | 1998-01-18 | Shawn Michaels vs Undertaker — Casket Match | WWF / Royal Rumble 1998 | — | — | en-investigacion | 1 | [→](1998-01-18-shawn-michaels-vs-undertaker-wwf-royal-rumble.md) |

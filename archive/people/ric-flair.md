@@ -38,6 +38,31 @@ tags: [ric-flair, nature-boy, nwa, jim-crockett-promotions, starrcade, four-hors
 
 Dios del Wrestling Tier 2 (#13), rama *"carny / draw histórico"*. En los volcados es la vara del heel-estrella (*"un super heel como Ric Flair o Hollywood Hulk Hogan"*, s53). El archivo lo tiene en siete piezas por mención — Christian vs Flair (Raw 2005), la era Evolution — sin pieza propia con clase todavía. Lo que el panteón premia es el draw documentado (Starrcade '83, GAB '86) y la disputa de conteos como ejemplo de cómo el kayfabe territorial sobrevive en la estadística.
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 00:03:37 — [Vince McMahon en el ring: intenta opacar el regreso de HHH y pone over su rivalidad con Ric Flair](../segments/2002-01-07-vince-en-el-ring-opaca-el-regreso-de-hhh-y-pone-over-su-rivalidad-con-flair-wwf-raw.md) — **WE**.
+- WWF Raw, 7/1/2002, 00:05:10 — [Video package para poner over a Ric Flair](../segments/2002-01-07-video-package-para-poner-over-a-ric-flair-wwf-raw.md) — **WE+**.
+- WWF Raw, 7/1/2002, 00:32:50 — [Chris Jericho, campeón indiscutido: full heel, "The Living Legend"](../segments/2002-01-07-y2j-doble-campeon-full-heel-the-living-legend-wwf-raw.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 00:44:50 — [Entrevista con Vince sobre HHH y Flair](../segments/2002-01-10-entrevista-con-vince-sobre-hhh-y-flair-wwf-smackdown.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 00:04:47 — [Ric Flair abre el show: tremendo babyface; la street fight](../segments/2002-01-14-ric-flair-abre-el-show-tremendo-babyface-wwf-raw.md) — **WE+**.
+- WWF Raw, 14/1/2002, 00:11:18 — [Chris Jericho interrumpe a Flair; Vince McMahon embosca a Flair](../segments/2002-01-14-jericho-interrumpe-a-flair-wwf-raw.md) — **WE+**.
+- WWF Raw, 14/1/2002, 00:23:40 — [Vince huyendo de Flair](../segments/2002-01-14-vince-huyendo-de-flair-wwf-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes / huecos
 
 - [ ] Gates JCP de Hornbaker; salario WCW ($500K es estimación).

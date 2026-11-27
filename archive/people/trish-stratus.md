@@ -74,6 +74,20 @@ tags: [trish-stratus, womens-champion-7x, attitude-era-women, christian-jericho-
 ### Dossier
 - [`../../dossiers/draft-wwe-raw-2004-2005-christian-jericho-era.md`](../../dossiers/draft-wwe-raw-2004-2005-christian-jericho-era.md).
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 01:23:31 — [Segmento de Lawler y las wet t-shirts: setup para Jackie](../segments/2002-01-07-segmento-de-lawler-y-las-wet-t-shirts-trish-vs-terri-wwf-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 00:41:31 — [Trish en comentarios para Jacqueline vs Jazz](../segments/2002-01-14-trish-en-comentarios-jacqueline-vs-jazz-wwf-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes
 
 - [ ] Unforgiven 2006 retiro vs Lita Toronto — pieza editorial

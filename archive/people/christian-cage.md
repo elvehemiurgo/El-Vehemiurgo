@@ -629,6 +629,31 @@ Volcado: [`../../notebook/2026-11-26-s04-tna-impact-2006-03-11.md`](../../notebo
 
 Volcado: [`../../notebook/2026-11-26-s05-tna-destination-x-2006.md`](../../notebook/2026-11-26-s05-tna-destination-x-2006.md)
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 00:43:49 — [Christian, campeón europeo, con Angle rajando del Undertaker](../segments/2002-01-07-christian-campeon-europeo-con-angle-rajando-del-undertaker-wwf-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 00:06:52 — [Christian con Lance backstage: menosprecian a Tazz y Spike como campeones](../segments/2002-01-10-christian-con-lance-backstage-menosprecian-a-taz-y-spike-wwf-smackdown.md) — **WE**.
+- WWF SmackDown, 10/1/2002, 00:07:42 — [Tazz & Spike Dudley (c) vs Christian & Lance Storm — WWF World Tag Team Championship](../matches/2002-01-10-taz-y-spike-vs-christian-y-lance-storm-tag-titles-wwf-smackdown.md) — **ICC+**.
+- WWF SmackDown, 10/1/2002, 00:13:00 — [Christian pierde tras su promo; los Dudleyz, malos perdedores en el post-match](../segments/2002-01-10-christian-pierde-despues-de-su-promo-y-los-dudleyz-malos-perdedores-wwf-smackdown.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 00:22:17 — [Christian con más tiempo en el micrófono, cargando con Lance](../segments/2002-01-14-christian-con-mas-tiempo-en-el-microfono-cargando-con-lance-wwf-raw.md) — **WE+**.
+- WWF Raw, 14/1/2002, 01:07:31 — [Segmento con los hombres C y Lance: Rikishi vuelve a atormentar a Jericho](../segments/2002-01-14-segmento-con-los-hombres-c-y-lance-rikishi-atormenta-a-jericho-wwf-raw.md) — **WE**.
+- WWF Raw, 14/1/2002, 01:22:02 — [Chris Jericho, Christian & Lance Storm vs Rikishi & The APA (Farooq & Bradshaw)](../matches/2002-01-14-y2j-christian-y-lance-vs-rikishi-y-apa-wwf-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes / huecos
 
 - [ ] **Detallar TLC matches Hardyz + Dudleyz** como pieces

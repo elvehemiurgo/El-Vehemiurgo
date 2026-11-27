@@ -257,6 +257,28 @@ Volcado: [`../../notebook/2026-11-12-s01-aew-dynamite-collision-111126.md`](../.
 
 Volcado: [`../../notebook/2026-11-18-s01-aew-full-gear-2026.md`](../../notebook/2026-11-18-s01-aew-full-gear-2026.md)
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 00:39:28 — [Edge (c) vs Lance Storm — WWF Intercontinental Championship](../matches/2002-01-07-edge-vs-lance-storm-intercontinental-wwf-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 00:06:52 — [Christian con Lance backstage: menosprecian a Tazz y Spike como campeones](../segments/2002-01-10-christian-con-lance-backstage-menosprecian-a-taz-y-spike-wwf-smackdown.md) — **WE**.
+- WWF SmackDown, 10/1/2002, 00:15:02 — [Edge (c) vs Big Boss Man — WWF Intercontinental Championship](../matches/2002-01-10-edge-vs-big-boss-man-intercontinental-wwf-smackdown.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 01:00:04 — [Edge & Rob Van Dam vs William Regal & Test](../matches/2002-01-14-edge-y-rvd-vs-regal-y-test-wwf-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes
 
 - [ ] Edge MITB cash-in New Year's Revolution 2006 — pieza

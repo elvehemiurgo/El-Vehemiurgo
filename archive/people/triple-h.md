@@ -40,6 +40,31 @@ tags: [triple-h, hhh, paul-levesque, the-game, dx, evolution, wwe, chief-content
 
 Ascendido del Tier 2 (#22) al Tier 0 en s26, rama *"carny / booker-talent"* — el único del panteón que hoy **es el booker jefe** de la empresa más grande. Eso lo convierte en el nombre más citado del archivo sin ser protagonista: catorce piezas lo mencionan, y en los volcados es adjetivo (*"muy heavyweight, muy HHH, muy oldschool"*, s52; *"el darling de HHH"* sobre Ciampa, s21; el reparo a la burbuja NXT, s24). Una pieza propia: el pesaje Oba Femi / Brock Lesnar (Raw 27/7/2026, WE). El archivo lo juzga por su booking, con la cláusula de doctrina en contra: cuando dice *"MCU"*, se registra, no se adopta.
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 00:03:37 — [Vince McMahon en el ring: intenta opacar el regreso de HHH y pone over su rivalidad con Ric Flair](../segments/2002-01-07-vince-en-el-ring-opaca-el-regreso-de-hhh-y-pone-over-su-rivalidad-con-flair-wwf-raw.md) — **WE**.
+- WWF Raw, 7/1/2002, 01:08:10 — [Kurt Angle backstage: su comparación con HHH](../segments/2002-01-07-kurt-angle-backstage-comparacion-con-hhh-wwf-raw.md) — **WE**.
+- WWF Raw, 7/1/2002, 01:26:35 — [Regreso de HHH como face](../segments/2002-01-07-regreso-de-hhh-como-face-wwf-raw.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 00:01:36 — [Segmenteo de Stephanie McMahon post-invasión](../segments/2002-01-10-segmenteo-de-stephanie-post-invasion-wwf-smackdown.md) — **sin clase**.
+- WWF SmackDown, 10/1/2002, 00:44:50 — [Entrevista con Vince sobre HHH y Flair](../segments/2002-01-10-entrevista-con-vince-sobre-hhh-y-flair-wwf-smackdown.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 01:14:30 — [Promo de Steve Austin en TX](../segments/2002-01-14-promo-de-austin-en-tx-wwf-raw.md) — **WE+**.
+- WWF Raw, 14/1/2002, 01:28:37 — [Segmento de HHH: promo como face, y el face vs face con Austin](../segments/2002-01-14-segmento-de-hhh-buena-promo-como-face-contra-austin-wwf-raw.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes / huecos
 
 - [ ] Nacimiento y etapa WCW (Terra Ryzing) — sin snippet.

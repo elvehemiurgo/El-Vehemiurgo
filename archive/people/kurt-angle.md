@@ -102,6 +102,33 @@ Volcado: [`../../notebook/2026-10-29-s01-tna-impact-300726-a-200826.md`](../../n
 
 Volcado: [`../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md`](../../notebook/2026-11-06-s01-aew-collision-grand-slam-france-dynamite-collision-octubre.md)
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 00:22:39 — [Kurt Angle, full heel: quiere opacar el regreso de HHH](../segments/2002-01-07-kurt-angle-full-heel-wwf-raw.md) — **WE**.
+- WWF Raw, 7/1/2002, 00:43:49 — [Christian, campeón europeo, con Angle rajando del Undertaker](../segments/2002-01-07-christian-campeon-europeo-con-angle-rajando-del-undertaker-wwf-raw.md) — **WE**.
+- WWF Raw, 7/1/2002, 01:08:10 — [Kurt Angle backstage: su comparación con HHH](../segments/2002-01-07-kurt-angle-backstage-comparacion-con-hhh-wwf-raw.md) — **WE**.
+- WWF Raw, 7/1/2002, 01:26:35 — [Regreso de HHH como face](../segments/2002-01-07-regreso-de-hhh-como-face-wwf-raw.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 00:23:38 — [Kurt Angle backstage, quejándose](../segments/2002-01-10-kurt-angle-backstage-quejandose-wwf-smackdown.md) — **WE+**.
+- WWF SmackDown, 10/1/2002, 01:05:37 — [Kurt Angle vs Stone Cold Steve Austin](../matches/2002-01-10-kurt-angle-vs-stone-cold-wwf-smackdown.md) — **ICC+**.
+- WWF SmackDown, 10/1/2002, 01:22:55 — [Post-match de Kurt Angle vs Austin: los careos](../segments/2002-01-10-post-match-kurt-angle-vs-austin-wwf-smackdown.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 00:35:45 — [Promo de Kurt Angle: el ángulo con Kane](../segments/2002-01-14-promo-de-angle-angulo-con-kane-wwf-raw.md) — **WE+**.
+- WWF Raw, 14/1/2002, 00:44:41 — [Kurt Angle vs Kane](../matches/2002-01-14-kurt-angle-vs-kane-wwf-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes
 
 - [ ] **WrestleMania 2000 4-corner WWE Title** — pieza editorial.

@@ -81,6 +81,20 @@ McMahon* + cluster WM42)
 - [`../../dossiers/draft-wrestlemania-42-cluster.md`](../../dossiers/draft-wrestlemania-42-cluster.md)
 - [`./cody-rhodes.md`](./cody-rhodes.md) + [`./pat-mcafee.md`](./pat-mcafee.md)
 
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 00:01:36 — [Segmenteo de Stephanie McMahon post-invasión](../segments/2002-01-10-segmenteo-de-stephanie-post-invasion-wwf-smackdown.md) — **sin clase**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 00:39:02 — [Stephanie McMahon y Sable: peleándose por cuál esposo es mejor](../segments/2002-01-14-stephanie-y-sable-peleandose-por-cual-esposo-es-mejor-wwf-raw.md) — **WE**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes
 
 - [ ] WWE Womens Evolution arquitectura 2015+ — pieza editorial

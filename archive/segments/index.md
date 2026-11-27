@@ -886,6 +886,40 @@ cada alta y con cada cambio de estado.
 | 2005-11-19 | Jeff Jarrett, promo como top heel | TNA / iMPACT! | promo | — | — | en-investigacion | 1 | [→](2005-11-19-jeff-jarrett-promo-top-heel-tna-impact.md) |
 | 2005-11-19 | Team 3D ataca a AMW tras la lucha: la tabla pintada con "3D" | TNA / iMPACT! | post-match / ataque | WE+ | — | en-investigacion | 1 | [→](2005-11-19-team-3d-ataque-post-match-amw-tables-tna-impact.md) |
 | 2005-11-19 | Video package sobre el debut de Christian Cage en Genesis | TNA / iMPACT! | video package | WE+ | — | en-investigacion | 1 | [→](2005-11-19-video-package-debut-christian-cage-genesis-tna-impact.md) |
+| 2002-01-14 | Booker T con tiempo en TV, ahora con APA y Big Show | WWF / Raw | segmento | — | — | en-investigacion | 1 | [→](2002-01-14-booker-t-con-tiempo-en-tv-ahora-con-apa-wwf-raw.md) |
+| 2002-01-14 | Christian con más tiempo en el micrófono, cargando con Lance | WWF / Raw | promo | WE+ | — | en-investigacion | 1 | [→](2002-01-14-christian-con-mas-tiempo-en-el-microfono-cargando-con-lance-wwf-raw.md) |
+| 2002-01-14 | Chris Jericho interrumpe a Flair; Vince McMahon embosca a Flair | WWF / Raw | segmento | WE+ | — | en-investigacion | 1 | [→](2002-01-14-jericho-interrumpe-a-flair-wwf-raw.md) |
+| 2002-01-14 | Promo de Kurt Angle: el ángulo con Kane | WWF / Raw | promo | WE+ | — | en-investigacion | 1 | [→](2002-01-14-promo-de-angle-angulo-con-kane-wwf-raw.md) |
+| 2002-01-14 | Promo de Steve Austin en TX | WWF / Raw | promo | WE+ | — | en-investigacion | 1 | [→](2002-01-14-promo-de-austin-en-tx-wwf-raw.md) |
+| 2002-01-14 | Ric Flair abre el show: tremendo babyface; la street fight | WWF / Raw | promo / apertura | WE+ | — | en-investigacion | 1 | [→](2002-01-14-ric-flair-abre-el-show-tremendo-babyface-wwf-raw.md) |
+| 2002-01-14 | Segmento con los hombres C y Lance: Rikishi vuelve a atormentar a Jericho | WWF / Raw | segmento | WE | — | en-investigacion | 1 | [→](2002-01-14-segmento-con-los-hombres-c-y-lance-rikishi-atormenta-a-jericho-wwf-raw.md) |
+| 2002-01-14 | Segmento de HHH: promo como face, y el face vs face con Austin | WWF / Raw | segmento / promo | WE+ | — | en-investigacion | 1 | [→](2002-01-14-segmento-de-hhh-buena-promo-como-face-contra-austin-wwf-raw.md) |
+| 2002-01-14 | Stephanie McMahon y Sable: peleándose por cuál esposo es mejor | WWF / Raw | segmento | WE | — | en-investigacion | 1 | [→](2002-01-14-stephanie-y-sable-peleandose-por-cual-esposo-es-mejor-wwf-raw.md) |
+| 2002-01-14 | Trish en comentarios para Jacqueline vs Jazz | WWF / Raw | lucha de divas con comentarista | WE | — | en-investigacion | 1 | [→](2002-01-14-trish-en-comentarios-jacqueline-vs-jazz-wwf-raw.md) |
+| 2002-01-14 | Video package de Y2J vs The Rock | WWF / Raw | video package | WE | — | en-investigacion | 1 | [→](2002-01-14-video-package-de-y2j-vs-the-rock-wwf-raw.md) |
+| 2002-01-14 | Vince huyendo de Flair | WWF / Raw | segmento | WE | — | en-investigacion | 1 | [→](2002-01-14-vince-huyendo-de-flair-wwf-raw.md) |
+| 2002-01-10 | Christian con Lance backstage: menosprecian a Tazz y Spike como campeones | WWF / SmackDown | segmento backstage | WE | — | en-investigacion | 1 | [→](2002-01-10-christian-con-lance-backstage-menosprecian-a-taz-y-spike-wwf-smackdown.md) |
+| 2002-01-10 | Christian pierde tras su promo; los Dudleyz, malos perdedores en el post-match | WWF / SmackDown | post-match | WE | — | en-investigacion | 1 | [→](2002-01-10-christian-pierde-despues-de-su-promo-y-los-dudleyz-malos-perdedores-wwf-smackdown.md) |
+| 2002-01-10 | Entrevista con Vince sobre HHH y Flair | WWF / SmackDown | entrevista | WE | — | en-investigacion | 1 | [→](2002-01-10-entrevista-con-vince-sobre-hhh-y-flair-wwf-smackdown.md) |
+| 2002-01-10 | Kurt Angle backstage, quejándose | WWF / SmackDown | segmento backstage | WE+ | — | en-investigacion | 1 | [→](2002-01-10-kurt-angle-backstage-quejandose-wwf-smackdown.md) |
+| 2002-01-10 | Post-match de Kurt Angle vs Austin: los careos | WWF / SmackDown | post-match | WE+ | — | en-investigacion | 1 | [→](2002-01-10-post-match-kurt-angle-vs-austin-wwf-smackdown.md) |
+| 2002-01-10 | Promo de William Regal, heel extranjero | WWF / SmackDown | promo | WE | — | en-investigacion | 1 | [→](2002-01-10-promo-de-regal-heel-extranjero-wwf-smackdown.md) |
+| 2002-01-10 | Promo de The Rock, muy local y tópica | WWF / SmackDown | promo | WE | — | en-investigacion | 1 | [→](2002-01-10-promo-de-the-rock-muy-local-wwf-smackdown.md) |
+| 2002-01-10 | Segmenteo de Stephanie McMahon post-invasión | WWF / SmackDown | segmento | — | — | en-investigacion | 1 | [→](2002-01-10-segmenteo-de-stephanie-post-invasion-wwf-smackdown.md) |
+| 2002-01-07 | Christian, campeón europeo, con Angle rajando del Undertaker | WWF / Raw | segmento | WE | — | en-investigacion | 1 | [→](2002-01-07-christian-campeon-europeo-con-angle-rajando-del-undertaker-wwf-raw.md) |
+| 2002-01-07 | Undertaker heel: promo contra los fans | WWF / Raw | promo | WE | — | en-investigacion | 1 | [→](2002-01-07-heel-taker-promo-contra-los-fans-wwf-raw.md) |
+| 2002-01-07 | Kurt Angle backstage: su comparación con HHH | WWF / Raw | segmento backstage | WE | — | en-investigacion | 1 | [→](2002-01-07-kurt-angle-backstage-comparacion-con-hhh-wwf-raw.md) |
+| 2002-01-07 | Kurt Angle, full heel: quiere opacar el regreso de HHH | WWF / Raw | promo | WE | — | en-investigacion | 1 | [→](2002-01-07-kurt-angle-full-heel-wwf-raw.md) |
+| 2002-01-07 | Regreso de HHH como face | WWF / Raw | regreso | WE+ | — | en-investigacion | 1 | [→](2002-01-07-regreso-de-hhh-como-face-wwf-raw.md) |
+| 2002-01-07 | Segmento de Lawler y las wet t-shirts: setup para Jackie | WWF / Raw | segmento | WE | — | en-investigacion | 1 | [→](2002-01-07-segmento-de-lawler-y-las-wet-t-shirts-trish-vs-terri-wwf-raw.md) |
+| 2002-01-07 | Segmento de Stone Cold, heel | WWF / Raw | segmento | WE | — | en-investigacion | 1 | [→](2002-01-07-segmento-de-stone-cold-heel-wwf-raw.md) |
+| 2002-01-07 | The Dudley Boyz como bullies: reviven ECW con Tazz y Spike | WWF / Raw | segmento | WE+ | — | en-investigacion | 1 | [→](2002-01-07-the-dudleyz-como-bullies-reviven-ecw-con-taz-y-spike-wwf-raw.md) |
+| 2002-01-07 | Video package de Jericho | WWF / Raw | video package | WE+ | — | en-investigacion | 1 | [→](2002-01-07-video-package-de-jericho-wwf-raw.md) |
+| 2002-01-07 | Video package "no lo hagas en casa" | WWF / Raw | video package | WE+ | — | en-investigacion | 1 | [→](2002-01-07-video-package-no-lo-hagas-en-casa-wwf-raw.md) |
+| 2002-01-07 | Video package para poner over a Ric Flair | WWF / Raw | video package | WE+ | — | en-investigacion | 1 | [→](2002-01-07-video-package-para-poner-over-a-ric-flair-wwf-raw.md) |
+| 2002-01-07 | Vince McMahon en el ring: intenta opacar el regreso de HHH y pone over su rivalidad con Ric Flair | WWF / Raw | segmento / promo | WE | — | en-investigacion | 1 | [→](2002-01-07-vince-en-el-ring-opaca-el-regreso-de-hhh-y-pone-over-su-rivalidad-con-flair-wwf-raw.md) |
+| 2002-01-07 | Y2J backstage: "que estúpido" | WWF / Raw | segmento backstage | WE | — | en-investigacion | 1 | [→](2002-01-07-y2j-backstage-que-estupido-wwf-raw.md) |
+| 2002-01-07 | Chris Jericho, campeón indiscutido: full heel, "The Living Legend" | WWF / Raw | segmento / promo | WE+ | — | en-investigacion | 1 | [→](2002-01-07-y2j-doble-campeon-full-heel-the-living-legend-wwf-raw.md) |
 
 ---
 

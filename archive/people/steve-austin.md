@@ -95,6 +95,30 @@ tags: [steve-austin, stone-cold, the-texas-rattlesnake, attitude-era-pillar, aus
 - [`./bret-hart.md`](./bret-hart.md) + [`./the-rock.md`](./the-rock.md)
   — anchor counterparts.
 
+
+### Sesión 2026-11-27 s01 — WWF Raw 7/1/2002
+
+- WWF Raw, 7/1/2002, 00:34:30 — [Segmento de Stone Cold, heel](../segments/2002-01-07-segmento-de-stone-cold-heel-wwf-raw.md) — **WE**.
+- WWF Raw, 7/1/2002, 00:45:27 — [Booker T & Big Boss Man vs Steve Austin & The Rock](../matches/2002-01-07-booker-t-y-big-boss-man-vs-austin-y-the-rock-wwf-raw.md) — **ICC+**.
+
+Volcado: [`../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md`](../../notebook/2026-11-27-s01-wwf-raw-2002-01-07.md)
+
+
+### Sesión 2026-11-27 s02 — WWF SmackDown 10/1/2002
+
+- WWF SmackDown, 10/1/2002, 01:05:37 — [Kurt Angle vs Stone Cold Steve Austin](../matches/2002-01-10-kurt-angle-vs-stone-cold-wwf-smackdown.md) — **ICC+**.
+- WWF SmackDown, 10/1/2002, 01:22:55 — [Post-match de Kurt Angle vs Austin: los careos](../segments/2002-01-10-post-match-kurt-angle-vs-austin-wwf-smackdown.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md`](../../notebook/2026-11-27-s02-wwf-smackdown-2002-01-10.md)
+
+
+### Sesión 2026-11-27 s03 — WWF Raw 14/1/2002
+
+- WWF Raw, 14/1/2002, 01:14:30 — [Promo de Steve Austin en TX](../segments/2002-01-14-promo-de-austin-en-tx-wwf-raw.md) — **WE+**.
+- WWF Raw, 14/1/2002, 01:28:37 — [Segmento de HHH: promo como face, y el face vs face con Austin](../segments/2002-01-14-segmento-de-hhh-buena-promo-como-face-contra-austin-wwf-raw.md) — **WE+**.
+
+Volcado: [`../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md`](../../notebook/2026-11-27-s03-wwf-raw-2002-01-14.md)
+
 ## Pendientes
 
 - [ ] **WrestleMania XIII Submission Match 1997 vs Bret** —
