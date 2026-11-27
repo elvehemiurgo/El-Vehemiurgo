@@ -12,7 +12,7 @@ ubicacion_en_show: "timestamp 00:04:47"
 duracion: "[verif]"
 linea_textual: "ric flair abre el show, tremendo babyface [dictado]"
 gimmick_momento: ""
-storyline: "Flair abre Raw y convierte la lucha en street fight [verif — no confirmado en las fuentes]."
+storyline: "Flair abre Raw y anuncia que su lucha contra Vince en el Royal Rumble (20/1/2002) será street fight (aclarado por el Vehemiurgo el 2026-11-27). Wikipedia sitúa el origen de la estipulación en noviembre de 2001; la fecha del primer anuncio queda [verif]."
 attendance_anunciada: ""
 attendance_pagada: ""
 gate: ""
@@ -54,6 +54,7 @@ Timestamp **00:04:47**. Flair abre el show como babyface.
 
 1. **Lectura**: *"tremendo babyface, buenas historias, a mí me encanta"*; WE+ declarada.
 2. **Sub-bullet [00:09:01]**: *"flair hace la lucha una street fight, loquísimo, otra promo top, tiene que haber un ganador"*.
+   - **Aclaración 2026-11-27**: Flair anuncia que su lucha en el Royal Rumble será street fight (vs Vince McMahon, ganó Flair con la figure four, 14:55). Un recap de este Raw lo reporta; Wikipedia dice que la estipulación se acordó antes, así que el 14/1 puede ser un refuerzo y no el primer anuncio [verif].
 
 ## Pendientes
 
